@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>ChatGPT API Cost Calculator</h1>
+        <h1>ChatGPT Plus vs OpenAI API Cost Comparison</h1>
     </header>
     <main>
         <section>
@@ -22,6 +22,7 @@
                 <label for="file-input" class="dropzone">Drag and drop your file here or click to upload</label>
                 <input type="file" id="file-input" accept=".zip" style="display: none;" />
             </form>
+            <p id="file-name"></p>
         </section>
         <section>
             <h2>Step 3: Calculate</h2>
@@ -30,7 +31,8 @@
             <button id="calculate-btn">Calculate</button>
         </section>
         <section id="results" style="display: none;">
-            <h2>Your API Cost:</h2>
+            <h2>Your Cost Comparison:</h2>
+            <p id="calculating"></p>
             <p id="cost"></p>
         </section>
         <canvas id="chart"></canvas>
