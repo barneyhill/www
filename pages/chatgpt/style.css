@@ -29,6 +29,10 @@ header h1 {
 }
 
 section {
+    display: flex;
+    flex-direction: column; /* stack child elements vertically */
+    justify-content: center; /* center vertically */
+    align-items: center; /* center vertically */
     margin-bottom: 40px;
 }
 

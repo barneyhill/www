@@ -103,14 +103,14 @@ window.onload = () => {
                     // Create a datasets for the chart
                     const datasets = [
                         {
-                            label: 'Total Cost',
+                            label: 'Usage cost given current OpenAI API costs',
                             data: data,
                             fill: false,
                             borderColor: 'rgb(75, 192, 192)',
                             tension: 0.1
                         },
                         {
-                            label: 'Flat Fee',
+                            label: 'ChatGPT Plus Subscription',
                             data: new Array(dates.length).fill(20),
                             fill: false,
                             borderColor: 'rgb(255, 99, 132)',
