@@ -33,7 +33,7 @@ function processConversation(conversations){
                 let content = message.content.parts.join('')
 
                 let date = new Date(message.create_time * 1000);
-                let monthyear = `${date.getFullYear()}${('0' + (date.getMonth() + 1)).slice(-2)}`;
+                let monthyear = `${date.getFullYear()}-${('0' + (date.getMonth() + 1)).slice(-2)}`;
 
                 let role = message.author.role;
 
@@ -82,7 +82,6 @@ window.onload = () => {
                             "gpt-4": { "user": 0.03 / 1000, "assistant": 0.06 / 1000 }
                         }
 
-                        const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
                         // Create a combined object that includes all conversations
                         let combined = {};
                         for (let type in token_counts) {
@@ -131,7 +130,15 @@ window.onload = () => {
                                 datasets: datasets
                             },
                             options: {
-                                scales: {
+                                responsive: true,
+                                scales: {            
+                                    x: {
+                                        type: 'category', // this line is added
+                                        title: {
+                                            display: true,
+                                            text: 'Date'
+                                        }
+                                    },                                            
                                     y: {
                                         title: {
                                             display: true,
