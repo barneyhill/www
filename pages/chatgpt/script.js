@@ -35,8 +35,6 @@ function processConversation(conversations){
                 let date = new Date(message.create_time * 1000);
                 let monthyear = `${date.getFullYear()}${('0' + (date.getMonth() + 1)).slice(-2)}`;
 
-                console.log(monthyear)
-
                 let role = message.author.role;
 
                 if (role != "user" && role != "assistant") { return; }
@@ -54,95 +52,108 @@ function processConversation(conversations){
 }
 
 window.onload = () => {
+    const fileInput = document.getElementById('file-input');
+    const dropzoneLabel = document.querySelector('.dropzone');
+
+    fileInput.addEventListener('change', function () {
+        const fileName = fileInput.files[0].name;
+        dropzoneLabel.innerText = fileName;
+    });
+
     document.getElementById('calculate-btn').addEventListener('click', function(e) {
         e.preventDefault();
 
         const fileInput = document.getElementById('file-input');
         const file = fileInput.files[0];
         
-        JSZip.loadAsync(file).then(function(zip) {
-            let file = zip.file("conversations.json");
-            if (file) {
-                file.async('string').then(function(content) {
-                    let conversations = JSON.parse(content);
-                    let token_counts = processConversation(conversations)
+        if (file) {            
+            document.getElementById('calculating').innerText = 'Calculating...';
 
-                    console.log(token_counts)
+            JSZip.loadAsync(file).then(function(zip) {
+                let file = zip.file("conversations.json");
+                if (file) {
+                    file.async('string').then(function(content) {
+                        let conversations = JSON.parse(content);
+                        let token_counts = processConversation(conversations)
 
-                            // Define the cost per token for each type
-                    const costPerToken = {
-                        "gpt-3": { "user": 0.003 / 1000, "assistant": 0.004 / 1000 },
-                        "gpt-4": { "user": 0.03 / 1000, "assistant": 0.06 / 1000 }
-                    }
+                        // Define the cost per token for each type
+                        const costPerToken = {
+                            "gpt-3": { "user": 0.003 / 1000, "assistant": 0.004 / 1000 },
+                            "gpt-4": { "user": 0.03 / 1000, "assistant": 0.06 / 1000 }
+                        }
 
-                    const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-                    // Create a combined object that includes all conversations
-                    let combined = {};
-                    for (let type in token_counts) {
-                        for (let role in token_counts[type]) {
-                            for (let date in token_counts[type][role]) {
-                                if (!combined[date]) {
-                                    combined[date] = 0;
+                        const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+                        // Create a combined object that includes all conversations
+                        let combined = {};
+                        for (let type in token_counts) {
+                            for (let role in token_counts[type]) {
+                                for (let date in token_counts[type][role]) {
+                                    if (!combined[date]) {
+                                        combined[date] = 0;
+                                    }
+                                    combined[date] += token_counts[type][role][date] * costPerToken[type][role];
                                 }
-                                combined[date] += token_counts[type][role][date] * costPerToken[type][role];
                             }
                         }
-                    }
 
-                    // Sort the keys of the combined object
-                    let dates = Object.keys(combined);
-                    dates.sort();
-                    
-                    // Generate data from the sorted keys
-                    let data = dates.map(date => combined[date]);
+                        // Sort the keys of the combined object
+                        let dates = Object.keys(combined);
+                        dates.sort();
+                        
+                        // Generate data from the sorted keys
+                        let data = dates.map(date => combined[date]);
 
-                    console.log(data)
+                        // Create a datasets for the chart
+                        const datasets = [
+                            {
+                                label: 'Usage cost given current OpenAI API costs',
+                                data: data,
+                                fill: false,
+                                borderColor: 'rgb(75, 192, 192)',
+                                tension: 0.1
+                            },
+                            {
+                                label: 'ChatGPT Plus Subscription',
+                                data: new Array(dates.length).fill(20),
+                                fill: false,
+                                borderColor: 'rgb(255, 99, 132)',
+                                borderDash: [5, 5], // Makes the line dotted
+                                tension: 0
+                            }
+                        ];
 
-                    console.log(dates)
-                    
-                    // Create a datasets for the chart
-                    const datasets = [
-                        {
-                            label: 'Usage cost given current OpenAI API costs',
-                            data: data,
-                            fill: false,
-                            borderColor: 'rgb(75, 192, 192)',
-                            tension: 0.1
-                        },
-                        {
-                            label: 'ChatGPT Plus Subscription',
-                            data: new Array(dates.length).fill(20),
-                            fill: false,
-                            borderColor: 'rgb(255, 99, 132)',
-                            borderDash: [5, 5], // Makes the line dotted
-                            tension: 0
-                        }
-                    ];
-
-                    // Create chart
-                    const ctx = document.getElementById('chart');
-                    new Chart(ctx, {
-                        type: 'line',
-                        data: {
-                            labels: dates,
-                            datasets: datasets
-                        },
-                        options: {
-                            scales: {
-                                y: {
-                                    title: {
-                                        display: true,
-                                        text: 'Total Price ($)'
+                        // Create chart
+                        const ctx = document.getElementById('chart');
+                        new Chart(ctx, {
+                            type: 'line',
+                            data: {
+                                labels: dates,
+                                datasets: datasets
+                            },
+                            options: {
+                                scales: {
+                                    y: {
+                                        title: {
+                                            display: true,
+                                            text: 'Total Price ($)'
+                                        }
                                     }
                                 }
                             }
-                        }
+                        });
+
+                        // Show the results section
+                        document.getElementById('results').style.display = 'block';
+                        // Hide the calculating message
+                        document.getElementById('calculating').innerText = '';
                     });
-                });
-            } else {
-                // Handle situation where the "conversations.json" is not found in the zip
-                alert("Could not find 'conversations.json' in the uploaded zip file.");
-            }
-        });
+                } else {
+                    // Handle situation where the "conversations.json" is not found in the zip
+                    alert("Could not find 'conversations.json' in the uploaded zip file.");
+                }
+            });
+        } else {
+            alert("Please upload a file.");
+        }
     });
 }
