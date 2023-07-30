@@ -61,6 +61,8 @@ function renderGraph(tracklist_data, centerTrackUID) {
     let width = graphContainer.node().getBoundingClientRect().width;
     let height = graphContainer.node().getBoundingClientRect().height;
 
+    console.log(height)
+
     let n_sets = tracklists.length;
 
     let centralNodeX = width / 2;
@@ -113,7 +115,7 @@ function renderGraph(tracklist_data, centerTrackUID) {
     let svg = d3.select('#graph')
         .append('svg')
         .style('width', '100%')
-        .style('height', '100%')
+        .style('height', '80%')
         .attr('viewBox', [0, 0, width, height]);
 
     let g = svg.append('g');
