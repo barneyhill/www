@@ -319,10 +319,45 @@ function renderGraph(tracklist_data, centerTrackUID) {
 }
 
 document.addEventListener('DOMContentLoaded', (event) => {
-    // Load JSON data and render graph
-    fetch('../../assets/nts_29_7_23_w_discogs_tracklists.js')
-        .then(response => response.json())
-        .then(data => {
+    const req = new Request('../../assets/nts_29_7_23_w_discogs_tracklists.js');
+
+    // Start fetch
+    fetch(req)
+    .then(response => {
+        const contentLength = response.headers.get('content-length');
+        if (!contentLength) {
+            throw new Error("Content Length not available!");
+        }
+
+        const total = parseInt(contentLength, 10);
+        let loaded = 0;
+
+        return new Response(
+            new ReadableStream({
+                start(controller) {
+                    const reader = response.body.getReader();
+
+                    read();
+
+                    function read() {
+                        reader.read().then(({done, value}) => {
+                            if (done) {
+                                controller.close();
+                                return;
+                            }
+                            loaded += value.byteLength;
+                            updateProgressBar(loaded / total * 100, loaded);
+                            controller.enqueue(value);
+                            read();
+                        });
+                    }
+                }
+            }), {
+            headers: response.headers
+        });
+    })
+    .then(response => response.json())
+    .then(data => {
             
             let centerTrackUID = "cf88f74cb2d853cb810449d92fa6980a"; // Default center track
             renderGraph(data, centerTrackUID);
@@ -335,10 +370,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
             const searchInput = document.getElementById('search-input');
             document.getElementById('search-results').style.display = 'none';
-
-            console.log(tracks_flattened);
-            console.log(tracks_keys);
-            console.log(tracks_values);
 
             if (searchInput) {
                 searchInput.addEventListener('input', function() {
@@ -354,8 +385,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
             
                             document.getElementById('search-results').style.display = 'block';
             
-                            track_value = tracks_values[idxs[i]];
-                            track_uid   = tracks_keys[idxs[i]];
+                            let track_value = tracks_values[idxs[i]];
+                            let track_uid   = tracks_keys[idxs[i]];
             
                             resultItem.innerHTML = track_value;
                             resultItem.addEventListener('click', function() {
@@ -377,4 +408,23 @@ document.addEventListener('DOMContentLoaded', (event) => {
             }
         })
         .catch(error => console.error('Error:', error)); // Moved the catch to the end of the promise chain
-});
+
+        function updateProgressBar(percent, loaded) {
+            const progressBarContainer = document.getElementById('progress-bar-container');
+            const progressBar = document.getElementById('progress-bar');
+            const progressText = document.getElementById('progress-text');
+            progressBar.style.width = `${percent}%`;
+    
+            const loadedMB = (loaded / (1024 * 1024)).toFixed(2); // Convert bytes to MB and round to two decimal places
+            progressText.innerText = `${loadedMB} MB downloaded`;
+    
+            if (percent >= 100) {
+                progressText.innerText = "Complete!";
+                // Hide the progress bar after 1 second
+                setTimeout(() => {
+                    progressBarContainer.style.display = "none";
+                }, 1000);
+            }
+        }
+    });
+    
