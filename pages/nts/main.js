@@ -111,7 +111,7 @@ function renderGraph(tracklist_data, centerTrackUID) {
     let svg = d3.select('#graph')
         .append('svg')
         .style('width', '100%')
-        .style('height', '80%')
+        .style('height', '100%')
         .attr('viewBox', [0, 0, width, height]);
 
     let g = svg.append('g');
@@ -123,6 +123,11 @@ function renderGraph(tracklist_data, centerTrackUID) {
         });
 
     svg.call(zoom);
+
+    let initialScale = 1.5;
+    let dx = width/2 * (1-initialScale); 
+    let dy = height/2 * (1-initialScale) - 250; 
+    svg.call(zoom.transform, d3.zoomIdentity.translate(dx, dy).scale(initialScale));
 
     // Create a map of node ids to nodes
     let nodeMap = new Map(nodes.map(node => [node.id, node]));
