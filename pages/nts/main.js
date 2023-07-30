@@ -267,7 +267,8 @@ function renderGraph(tracklist_data, centerTrackUID) {
         .attr('stroke', 'black')
         .attr('stroke-width', 5)
         .on('mouseenter', function(event, d) {
-            if (d.discogs_id & d.id == centralTrackNode) {
+            if (d.discogs_id != undefined & d.id == centralTrackNode) {
+                console.log('yeah')
                 d3.select(this).attr('stroke-width', 0)
                                .attr('fill', 'url(#discogsPattern)')
                                .attr('r', 18); // increased size of node
@@ -356,7 +357,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     .then(response => response.json())
     .then(data => {
             
-            let centerTrackUID = "cf88f74cb2d853cb810449d92fa6980a"; // Default center track
+            let centerTrackUID = "d3048c7d07f6b93a29564a54bd5d4d38"; // Default center track
             renderGraph(data, centerTrackUID);
             
             let uf = new uFuzzy({});
