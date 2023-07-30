@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>NTS Tracklist Graph</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+        <script src="main.js"></script>
+        <script src="../../assets/uFuzzy.iife.min.js"></script>
+    </head>
+    <body>
+        <header>
+            <div id="header-container">
+                <a href="http://www.barneyhill.com/" id="website-url">barneyhill.com/</a><span class="tracklist">nts-tracklists</span>
+            </div>
+            <div id="description-container">
+                <p id="description">
+                    browse <a href="https://www.nts.live/">nts.live</a> tracklists linked by common tracks.<br>
+                    click the main track for <a href="https://www.discogs.com/">discogs.com</a> info.                
+                </p>
+            </div>
+        </header>
+        <main>
+            <div id="search-container" class="center-container">
+                <div class="search-wrapper">
+                    <input type="text" id="search-input" placeholder="search for tracks...">
+                </div>
+                <div id="search-results"></div>
+            </div>            
+            <div id="graph"></div>
+        </main>
+    </body>
+</html>
