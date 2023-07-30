@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(233, 233, 233);
+    height: 100vh;
+    font-family: 'Arimo', sans-serif;
+}
+
+#header-container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 2;
+}
+
+#website-url, .tracklist {
+    font-size: 30px;
+    display: inline;
+    font-style: italic;
+}
+
+#website-url {
+    color: blue;
+    text-decoration: none;
+}
+
+#description {
+    font-size: 20px;
+    color: gray;
+}
+
+#graph {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.node-text, #graph .node-text {
+    text-anchor: middle;
+}
+
+#graph .node-text {
+    font-size: 12px;
+}
+
+.node-text-artist {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+path.highlighted {
+    stroke: red !important;
+}
+
+.marquee {
+    animation: marquee 5s linear infinite;
+}
+
+@keyframes marquee {
+    0%   { text-anchor: start; startOffset: 100%; }
+    100% { text-anchor: start; startOffset: 0%; }
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#description-container {
+    margin-top: 60px;
+    padding-left: 20px;
+}
+
+/* The main search container */
+#search-container {
+    position: absolute; /* Change from absolute to relative */
+    top: 20px; /* Adjust as necessary */
+    right: 20px; /* Adjust as necessary */
+    z-index: 2;
+}
+
+/* The search results container */
+#search-results {
+    z-index: 1000;
+    width: 100%; /* Change from 70% to 100% */
+    max-width: 300px;
+    margin-top: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: none;
+    display: none;
+    overflow-y: auto; /* Enable vertical scrolling for overflow */
+    max-height: 250px; /* Adjust this value based on your single result's height to fit 5 results */
+}
+
+/* Wrapper for the search input */
+.search-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    overflow: hidden;
+    box-sizing: border-box; /* add this line */
+}
+
+/* The search input field */
+#search-input {
+    width: 100%;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #333;
+    outline: none;
+    background-color: #f8f8f8;
+    z-index: 1000;
+    box-sizing: border-box; /* add this line */
+}
+
+#search {
+    position: absolute;
+    top: 10px;
+    right: 10px;  /* Move search to the top-right */
+    z-index: 2;
+}
+
+/* The style for each search result */
+#search-results div {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* The last search result should not have a bottom border */
+#search-results div:last-child {
+    border-bottom: none;
+}
+
+.result-item {
+    cursor: pointer;
+}
