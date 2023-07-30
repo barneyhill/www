@@ -147,3 +147,34 @@ path.highlighted {
 .result-item {
     cursor: pointer;
 }
+
+#progress-bar-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 60%; /* Adjust as needed */
+    background-color: #f3f3f3;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#progress-bar {
+    background-color: #4CAF50;
+    height: 30px;
+    border-radius: 20px;
+    width: 0%; /* Initialize width as 0% */
+    color: white;
+    font-weight: bold;
+    display: flex; /* Add this line */
+    align-items: center; /* Add this line */
+    justify-content: center; /* Add this line */
+}
+}
+
+
+#progress-text {
+    padding: 5px;
+}
