@@ -320,7 +320,7 @@ function renderGraph(tracklist_data, centerTrackUID) {
 
 document.addEventListener('DOMContentLoaded', (event) => {
     // Load JSON data and render graph
-    fetch('../../assets/nts_29_7_23_w_discogs_tracklists.json.gz')
+    fetch('../../assets/nts_29_7_23_w_discogs_tracklists.js')
         .then(response => response.json())
         .then(data => {
             
