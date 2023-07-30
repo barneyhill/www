@@ -50,8 +50,6 @@ function searchTracks(miniSearch, query) {
 
 function renderGraph(tracklist_data, centerTrackUID) {
 
-    console.log(centerTrackUID)
-
     let tracklists = getTracklists(tracklist_data, centerTrackUID);
 
     let nodes = [];
@@ -60,8 +58,6 @@ function renderGraph(tracklist_data, centerTrackUID) {
     let graphContainer = d3.select('#graph');
     let width = graphContainer.node().getBoundingClientRect().width;
     let height = graphContainer.node().getBoundingClientRect().height;
-
-    console.log(height)
 
     let n_sets = tracklists.length;
 
@@ -290,7 +286,6 @@ function renderGraph(tracklist_data, centerTrackUID) {
             }
         })
         .on('click', function(event, d) {
-            console.log(d);
             if (d.id == centralTrackNode && d.discogs_id !== undefined){
                 discogs_url = `https://www.discogs.com/release/${d.discogs_id}`
                 window.open(discogs_url, '_blank');
