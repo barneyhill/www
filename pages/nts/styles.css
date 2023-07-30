@@ -79,16 +79,16 @@ path.highlighted {
 
 /* The main search container */
 #search-container {
-    position: absolute; /* Change from absolute to relative */
-    top: 20px; /* Adjust as necessary */
-    right: 20px; /* Adjust as necessary */
+    position: absolute;
+    top: 20px; 
+    right: 20px; 
     z-index: 2;
 }
 
 /* The search results container */
 #search-results {
     z-index: 1000;
-    width: 100%; /* Change from 70% to 100% */
+    width: 100%; 
     max-width: 300px;
     margin-top: 20px;
     background-color: #f8f8f8;
@@ -97,10 +97,9 @@ path.highlighted {
     box-shadow: none;
     display: none;
     overflow-y: auto; /* Enable vertical scrolling for overflow */
-    max-height: 250px; /* Adjust this value based on your single result's height to fit 5 results */
+    max-height: 250px;
 }
 
-/* Wrapper for the search input */
 .search-wrapper {
     position: relative;
     display: flex;
@@ -108,12 +107,11 @@ path.highlighted {
     width: 100%;
     max-width: 300px;
     border: 1px solid #ddd;
-    border-radius: 25px;
+    border-radius: 0px; /* Set border-radius to 0 */
     overflow: hidden;
-    box-sizing: border-box; /* add this line */
+    box-sizing: border-box; 
 }
 
-/* The search input field */
 #search-input {
     width: 100%;
     border: none;
@@ -123,13 +121,14 @@ path.highlighted {
     outline: none;
     background-color: #f8f8f8;
     z-index: 1000;
-    box-sizing: border-box; /* add this line */
+    box-sizing: border-box; 
+    border-radius: 0px; /* Set border-radius to 0 */
 }
 
 #search {
     position: absolute;
     top: 10px;
-    right: 10px;  /* Move search to the top-right */
+    right: 10px;
     z-index: 2;
 }
 
@@ -165,15 +164,13 @@ path.highlighted {
     background-color: #4CAF50;
     height: 30px;
     border-radius: 20px;
-    width: 0%; /* Initialize width as 0% */
+    width: 0%; 
     color: white;
     font-weight: bold;
-    display: flex; /* Add this line */
-    align-items: center; /* Add this line */
-    justify-content: center; /* Add this line */
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
 }
-}
-
 
 #progress-text {
     padding: 5px;
