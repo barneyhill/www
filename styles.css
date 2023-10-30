@@ -164,4 +164,38 @@
     video {
       pointer-events: none;
     }
+
+    /* projects */
+
+    section.projects {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    section.projects h2 {
+      font-weight: 500;
+      font-size: 2rem;
+    }
+
+    section.projects .project-list {
+      list-style: none;
+
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    section.projects .project-title {
+      font-weight: 500;
+      font-size: 1.5rem;
+      color: rgba(234, 236, 255, 1);
+    }
+
+    section.projects .project-description {
+      font-weight: 300;
+      font-size: 1.1rem;
+      color: rgba(190, 196, 250, 1);
+    }
+
 }
