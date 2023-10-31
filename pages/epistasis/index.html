@@ -124,7 +124,7 @@
             <li>By testing at the protein-isoform level, we might uncover signals that were previously masked when considering all of a gene’s protein isoforms simultaneously.</li>
         </ul>
 
-        <p>To formalize this, consider an individual \(i\) and a specific protein isoform \(j\). We have the isoform sequence \(x_{ij}\) and a continuous phenotype value \(y_i\). Taking the previous equation for a variant effect as \(\sigma_v = \log\left(\frac{p(x_v)}{p(x)}\right)\), we have \(\sigma_{ij} = \log \left( \frac{p(x_{ij})}{\log (p(x_j))}\right)\) where \(x_j\) is a protein isoform’s reference sequence. Using linear regression, we model the continuous phenotype value \(y_i\) as a function of the predicted protein-isoform effect \(\sigma_{ij}\) generated from a model such as ESM1b or Transception:</p>
+        <p>To formalize this, consider an individual \(i\) and a specific protein isoform \(j\). We have the isoform sequence \(x_{ij}\) and a continuous phenotype value \(y_i\). Taking the previous equation for a variant effect as \(\sigma_v = \log\left(\frac{p(x_v)}{p(x)}\right)\), we have \(\sigma_{ij} = \log \left( \frac{p(x_{ij})}{ p(x_j) }\right)\) where \(x_j\) is a protein isoform’s reference sequence. Using linear regression, we model the continuous phenotype value \(y_i\) as a function of the predicted protein-isoform effect \(\sigma_{ij}\) generated from a model such as ESM1b or Transception:</p>
 
         <p>\[
         \begin{align*}
