@@ -25,6 +25,7 @@
             margin-left: auto;
             margin-right: auto;
             max-width: 40%; /* Adjust this value as needed */
+            margin-bottom: 300px; /* Adjust this value to increase or decrease space */
         }
 
         .top-link {
@@ -75,12 +76,12 @@
         Y= \text{age} + \text{sex} + \sum_i \beta_i X_i + \epsilon 
         \]</p>
 
-        <p>Another issue we will encounter is population stratification, manifesting as allele frequency disparities between cases and controls due to ancestry variations, can lead to false associations. In 2006, the usage of genetic principal components were introduced in GWAS to mitigate such inaccuracies, enhancing the power to discern authentic associations. Utilizing these components adjusts for the confounding effects of population stratification, bolstering the validity of observed associations.</p>
+        <p>Another issue we will encounter is population stratification, manifesting as allele frequency disparities between cases and controls due to ancestry variations, can lead to false associations. <a href="https://www.nature.com/articles/ng1847">In 2006, the usage of genetic principal components were introduced in GWAS</a> to mitigate such inaccuracies, enhancing the power to discern authentic associations. Utilizing these components adjusts for the confounding effects of population stratification, bolstering the validity of observed associations.</p>
         <p>\[
         Y=\text{age} + \text{sex} + \sum_j \text{PC}_j + \sum_i \beta_i X_i + \epsilon 
         \]</p>
 
-        <p>Over the last 20 years the GWAS model in the above form has been successfully used to explore phenotype-genome associations across thousands of traits <a href="https://www.ebi.ac.uk/gwas/home">https://www.ebi.ac.uk/gwas/home</a>. Despite this much of the genetic contribution to complex diseases remains unexplained. One common explanation for this phenomenon is that the standard GWAS only has sufficient power to detect the most common variants. As potentially damaging variants are rare in populations due to natural selection, the identification of rare variation becomes particularly important.</p>
+        <p>Over the last 20 years the GWAS model in the above form has been <a href="https://www.ebi.ac.uk/gwas/home">successfully used to explore phenotype-genome associations across thousands of traits</a>. Despite this much of the genetic contribution to complex diseases remains unexplained. One common explanation for this phenomenon is that the standard GWAS only has sufficient power to detect the most common variants. As potentially damaging variants are rare in populations due to natural selection, the identification of rare variation becomes particularly important.</p>
 
         <h3>Gene-burden association testing</h3>
         <p>A simple method to integrate rare variant information into association testing is the gene burden test. Instead of associating at the variant-level, the gene burden test seeks to accumulate all variants \(v_j\) within a gene for which we have some prior of pathogenicity \(w_j\). The motivation for testing at the gene-level is that exome-sequencing data captures protein-coding regions where damaging variation often has the same effect of disrupting the protein corresponds to the gene’s function.</p>
@@ -98,7 +99,7 @@
 
         <h3>Unsupervised protein sequence likelihood modeling</h3>
 
-        <p>Within the last few years, methods such as EVE, Transception, and ESM1b have been released leveraging evolutionary information from multiple sequence alignments leading to significant advances in predicting the fitness impact of protein variants. These models rely on the insight that patterns of variation conserved across diverse species provide the information required for expressive models of the probability distribution \(p(x)\) of a given protein sequence \(x\). Given the ability to model \(p(x)\), we can then estimate the effect \(\sigma_v\) of a variant sequence \(x_v\) where \(\sigma_v = \log\left(\frac{p(x_v)}{p(x)}\right)\). A less probable variant sequence corresponds to a less fit and likely more pathogenic sequence.</p>
+        <p>Within the last few years, methods such as <a href="https://www.nature.com/articles/s41586-021-04043-8">EVE</a>, <a href="https://proceedings.mlr.press/v162/notin22a/notin22a.pdf">Transception</a>, and <a href="https://www.nature.com/articles/s41588-023-01465-0">ESM1b</a> have been released leveraging evolutionary information from multiple sequence alignments leading to significant advances in predicting the fitness impact of protein variants. These models rely on the insight that patterns of variation conserved across diverse species provide the information required for expressive models of the probability distribution \(p(x)\) of a given protein sequence \(x\). Given the ability to model \(p(x)\), we can then estimate the effect \(\sigma_v\) of a variant sequence \(x_v\) where \(\sigma_v = \log\left(\frac{p(x_v)}{p(x)}\right)\). A less probable variant sequence corresponds to a less fit and likely more pathogenic sequence.</p>
 
         <p>These methods have been used to estimate all ~450 million possible missense variant effects within the human genome. For example, in a recent paper, ESM1b was shown to outperform existing pathogenicity prediction methods and then showed that ~2 million variants are classified as damaging only in specific protein isoforms. Current convention within variant annotation for association testing is to ignore any specific protein isoforms and only consider the ‘canonical’ sequence.</p>
 
