@@ -120,8 +120,8 @@
         <p>Building upon the foundations discussed, I believe there is potential in associating an individual’s specific protein-isoform fitness with disease. This approach has the potential advantages:</p>
 
         <ul>
-            <li>Protein sequence likelihood models account for epistatic interactions between variants on a individual's protein sequence providing portability across diverse ancestries.</li>
-            <li>By testing at the protein-isoform level, we can detect pathogenic variation that would be benign on the canonical protein. Additionally we can detect the presense of opposite-direction effects within a protein's isoforms which would've previously masked signal in gene association testing.</li>
+            <li>Protein sequence likelihood models account for epistatic interactions between variants on a individual's protein sequence providing portability across diverse ancestries by not relying on a reference sequence.</li>
+            <li>By testing at the protein-isoform level, we can detect pathogenic variation that would be benign on the canonical protein. Additionally we can detect the presense of opposite-direction effects within a protein's isoforms which would've previously masked signal in a single gene association test.</li>
         </ul>
 
         <p>To formalize this, consider an individual \(i\) and a specific protein isoform \(j\). We have the isoform sequence \(x_{ij}\) and a continuous phenotype value \(y_i\). Taking the previous equation for a variant effect as \(\sigma_v = \log\left(\frac{p(x_v)}{p(x)}\right)\), we have \(\sigma_{ij} = \log \left( \frac{p(x_{ij})}{ p(x_j) }\right)\) where \(x_j\) is a protein isoform’s reference sequence. Using linear regression, we model the continuous phenotype value \(y_i\) as a function of the predicted protein-isoform effect \(\sigma_{ij}\) generated from a model such as ESM1b or Transception:</p>
