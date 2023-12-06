@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         const embedding_a = getEmojiEmbedding(emoji_a);
         const embedding_b = getEmojiEmbedding(emoji_b);
 
-        combined_embedding = embedding_a.map((num, idx) => num + embedding_b[idx] / 2);
+        combined_embedding = embedding_a.map((num, idx) => (num + embedding_b[idx]) / 2);
 
         return getClosestEmoji(combined_embedding, emoji_a, emoji_b);
     }
@@ -147,18 +147,17 @@ document.addEventListener('DOMContentLoaded', async function() {
         );
     }
 
-    function combine_emojis(emoji1, emoji2) {
-        const combinedEmojiText = addEmojis(emoji1.innerText, emoji2.innerText);
+    function combine_emojis(emoji_a, emoji_b) {
         const combinedEmoji = document.createElement('div');
-        combinedEmoji.innerText = combinedEmojiText;
+        combinedEmoji.innerText = addEmojis(emoji_a.innerText, emoji_b.innerText);
         combinedEmoji.className = 'emoji';
-        combinedEmoji.style.top = emoji1.style.top;
-        combinedEmoji.style.left = emoji1.style.left;
+        combinedEmoji.style.top = emoji_a.style.top;
+        combinedEmoji.style.left = emoji_a.style.left;
         combinedEmoji.addEventListener('mousedown', startDrag); // Make the new emoji draggable
         emojiContainer.appendChild(combinedEmoji);
     
-        emoji1.remove();
-        emoji2.remove();
+        emoji_a.remove();
+        emoji_b.remove();
     }
 });
 
