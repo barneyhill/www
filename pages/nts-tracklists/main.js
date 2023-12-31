@@ -322,6 +322,9 @@ function renderGraph(tracklist_data, centerTrackUID) {
 }
 
 document.addEventListener('DOMContentLoaded', async (event) => {
+
+    document.getElementById('loading-spinner').style.display = 'flex';
+
     let allData = '';  // Variable to store concatenated data
     const parts = 3;   // Number of parts you split the file into
 
@@ -337,6 +340,8 @@ document.addEventListener('DOMContentLoaded', async (event) => {
             return;
         }
     }
+
+    document.getElementById('loading-spinner').style.display = 'none';
 
     // Process the concatenated data
     processAllData(allData); // Replace with your processing function
