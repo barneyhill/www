@@ -150,34 +150,3 @@ path.highlighted {
 .result-item {
     cursor: pointer;
 }
-
-#progress-bar-container {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 60%; /* Adjust as needed */
-    background-color: #f3f3f3;
-    color: black;
-    padding: 10px;
-    border-radius: 20px;
-    text-align: center;
-    overflow: hidden;
-}
-
-#progress-bar {
-    background-color: #4CAF50;
-    height: 30px;
-    border-radius: 20px;
-    width: 0%; 
-    color: white;
-    font-weight: bold;
-    display: flex; 
-    align-items: center; 
-    justify-content: center; 
-    box-sizing: border-box;
-}
-
-#progress-text {
-    padding: 5px;
-}

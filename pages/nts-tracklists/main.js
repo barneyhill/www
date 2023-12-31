@@ -76,14 +76,14 @@ function renderGraph(tracklist_data, centerTrackUID) {
         set.tracks.forEach((track, track_i) => {
             let relativePosition = track_i - centralTrackIndex;
             let x = centralNodeX + relativePosition * distanceX;
-            let y = height / 2 + set_i * distanceY;
+            let y = height / 1.7 + set_i * distanceY;
     
             let sourceId = `${set_i}_${track_i}`;
             let node = {id: sourceId, artist:track.artist, title:track.title, uid:track.uid, linked:track.linked, discogs_id:track.discogs_id, x, y, set_i}
     
             if (track_i === centralTrackIndex){
                 if (!hasAddedCentralNode) {
-                    node.y = height / 2 + (n_sets - 1) * distanceY / 2;
+                    node.y = height / 1.7 + (n_sets - 1) * distanceY / 2;
                     centralTrackNode = node.id;
                     nodes.push(node);
                     hasAddedCentralNode = true;
@@ -321,113 +321,76 @@ function renderGraph(tracklist_data, centerTrackUID) {
         .text(d => truncateText(d.title, 30));
 }
 
-document.addEventListener('DOMContentLoaded', (event) => {
-    const req = new Request('../../assets/nts_29_7_23_w_discogs_tracklists.js');
+document.addEventListener('DOMContentLoaded', async (event) => {
+    let allData = '';  // Variable to store concatenated data
+    const parts = 3;   // Number of parts you split the file into
 
-    // Start fetch
-    fetch(req)
-    .then(response => {
-        const contentLength = response.headers.get('content-length');
-        if (!contentLength) {
-            throw new Error("Content Length not available!");
+    for (let i = 1; i <= parts; i++) {
+        const req = new Request(`../../assets/nts_29_7_23_w_discogs_tracklists_0${i}.js`);
+        
+        try {
+            const response = await fetch(req);
+            const data = await response.text(); // Assuming the file is text
+            allData += data;  // Concatenate the data
+        } catch (error) {
+            console.error("Error fetching part " + i + ": ", error);
+            return;
         }
+    }
 
-        const total = parseInt(contentLength, 10);
-        let loaded = 0;
+    // Process the concatenated data
+    processAllData(allData); // Replace with your processing function
+});
 
-        return new Response(
-            new ReadableStream({
-                start(controller) {
-                    const reader = response.body.getReader();
+function processAllData(data) {
 
-                    read();
+    data = JSON.parse(data);
+        
+    let centerTrackUID = "d3048c7d07f6b93a29564a54bd5d4d38"; // Default center track
+    renderGraph(data, centerTrackUID);
+    
+    let uf = new uFuzzy({});
 
-                    function read() {
-                        reader.read().then(({done, value}) => {
-                            if (done) {
-                                controller.close();
-                                return;
-                            }
-                            loaded += value.byteLength;
-                            updateProgressBar(loaded / total * 100, loaded);
-                            controller.enqueue(value);
-                            read();
-                        });
-                    }
-                }
-            }), {
-            headers: response.headers
-        });
-    })
-    .then(response => response.json())
-    .then(data => {
+    let tracks_flattened = flattenTracks(data);
+    let tracks_keys   = Object.keys(tracks_flattened);
+    let tracks_values = Object.values(tracks_flattened);          
+
+    const searchInput = document.getElementById('search-input');
+    document.getElementById('search-results').style.display = 'none';
+
+    if (searchInput) {
+        searchInput.addEventListener('input', function() {
+            // Clear out any old search results
+            document.getElementById('search-results').innerHTML = '';
+            let [idxs, info, order] = uf.search(tracks_values, searchInput.value, outOfOrder = false, infoThresh = 1e3);
             
-            let centerTrackUID = "d3048c7d07f6b93a29564a54bd5d4d38"; // Default center track
-            renderGraph(data, centerTrackUID);
-            
-            let uf = new uFuzzy({});
-
-            let tracks_flattened = flattenTracks(data);
-            let tracks_keys   = Object.keys(tracks_flattened);
-            let tracks_values = Object.values(tracks_flattened);          
-
-            const searchInput = document.getElementById('search-input');
-            document.getElementById('search-results').style.display = 'none';
-
-            if (searchInput) {
-                searchInput.addEventListener('input', function() {
-                    // Clear out any old search results
-                    document.getElementById('search-results').innerHTML = '';
-                    let [idxs, info, order] = uf.search(tracks_values, searchInput.value, outOfOrder = false, infoThresh = 1e3);
-                    
-                    if (idxs && idxs.length > 0) { // check if idxs is not null and has any search results
-                        for (let i = 0; i < Math.min(idxs.length, 20); i++) {
-                            // Create a new dropdown item for each result
-                            let resultItem = document.createElement('div');
-                            resultItem.classList.add('result-item');
-            
-                            document.getElementById('search-results').style.display = 'block';
-            
-                            let track_value = tracks_values[idxs[i]];
-                            let track_uid   = tracks_keys[idxs[i]];
-            
-                            resultItem.innerHTML = track_value;
-                            resultItem.addEventListener('click', function() {
-                                // When this result item is clicked, clear the input field, hide the results dropdown,
-                                // and generate a new graph centered on the selected track
-                                searchInput.value = '';
-                                document.getElementById('search-results').innerHTML = '';
-                                document.getElementById('search-results').style.display = 'none';
-                                d3.select('#graph').select('svg').remove();
-                                renderGraph(data, track_uid);
-                            });
-                            document.getElementById('search-results').appendChild(resultItem);
-                        }
-                    } else {
-                        // Hide the results box if no results or input is cleared
+            if (idxs && idxs.length > 0) { // check if idxs is not null and has any search results
+                for (let i = 0; i < Math.min(idxs.length, 20); i++) {
+                    // Create a new dropdown item for each result
+                    let resultItem = document.createElement('div');
+                    resultItem.classList.add('result-item');
+    
+                    document.getElementById('search-results').style.display = 'block';
+    
+                    let track_value = tracks_values[idxs[i]];
+                    let track_uid   = tracks_keys[idxs[i]];
+    
+                    resultItem.innerHTML = track_value;
+                    resultItem.addEventListener('click', function() {
+                        // When this result item is clicked, clear the input field, hide the results dropdown,
+                        // and generate a new graph centered on the selected track
+                        searchInput.value = '';
+                        document.getElementById('search-results').innerHTML = '';
                         document.getElementById('search-results').style.display = 'none';
-                    }
-                });
+                        d3.select('#graph').select('svg').remove();
+                        renderGraph(data, track_uid);
+                    });
+                    document.getElementById('search-results').appendChild(resultItem);
+                }
+            } else {
+                // Hide the results box if no results or input is cleared
+                document.getElementById('search-results').style.display = 'none';
             }
-        })
-        .catch(error => console.error('Error:', error)); // Moved the catch to the end of the promise chain
-
-        function updateProgressBar(percent, loaded) {
-            const progressBarContainer = document.getElementById('progress-bar-container');
-            const progressBar = document.getElementById('progress-bar');
-            const progressText = document.getElementById('progress-text');
-            progressBar.style.width = `${percent}%`;
-    
-            const loadedMB = (loaded / (1024 * 1024)).toFixed(2); // Convert bytes to MB and round to two decimal places
-            progressText.innerText = `${loadedMB} MB downloaded`;
-    
-            if (percent >= 100) {
-                progressText.innerText = "Complete!";
-                // Hide the progress bar after 1 second
-                setTimeout(() => {
-                    progressBarContainer.style.display = "none";
-                }, 1000);
-            }
-        }
-    });
-    
+        });
+    }
+}
