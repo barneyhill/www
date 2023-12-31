@@ -9,7 +9,7 @@ html, body {
 }
 
 #header-container {
-    position: absolute;
+    position: fixed;
     top: 20px;
     left: 20px;
     z-index: 2;
@@ -75,6 +75,9 @@ path.highlighted {
 #description-container {
     margin-top: 60px;
     padding-left: 20px;
+    pointer-events: auto;
+    position: relative;
+    z-index: 1;
 }
 
 /* The main search container */
