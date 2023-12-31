@@ -6,6 +6,7 @@ html, body {
     background-color: rgb(233, 233, 233);
     height: 100vh;
     font-family: 'Arimo', sans-serif;
+    overflow: hidden; /* This disables scrolling */
 }
 
 #header-container {
