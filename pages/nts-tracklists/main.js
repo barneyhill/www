@@ -255,7 +255,7 @@ function renderGraph(tracklist_data, centerTrackUID) {
         .attr('fill', 'white');
     
     discogsPattern.append('image')
-        .attr('xlink:href', '../assets/discogs.svg')
+        .attr('xlink:href', '../../assets/discogs.svg')
         .attr('preserveAspectRatio', 'xMidYMid meet')
         .attr('width', 1)
         .attr('height', 1);
@@ -322,7 +322,7 @@ function renderGraph(tracklist_data, centerTrackUID) {
 }
 
 document.addEventListener('DOMContentLoaded', (event) => {
-    const req = new Request('../assets/nts_29_7_23_w_discogs_tracklists.js');
+    const req = new Request('../../assets/nts_29_7_23_w_discogs_tracklists.js');
 
     // Start fetch
     fetch(req)
