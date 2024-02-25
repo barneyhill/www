@@ -346,6 +346,8 @@ document.addEventListener('DOMContentLoaded', async (event) => {
 
     processAllData(allData);
 
+});
+
 function processAllData(data) {
 
     data = JSON.parse(data);
