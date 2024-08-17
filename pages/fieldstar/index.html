@@ -346,8 +346,10 @@
                 const arrayBuffer = await response.arrayBuffer();
                 const decompressedData = await new Response(
                     new Blob([arrayBuffer]).stream().pipeThrough(new DecompressionStream('gzip'))
-                ).arrayBuffer();
-                const data = JSON.parse(new TextDecoder().decode(decompressedData));
+                ).text();
+                
+                // Parse NDJSON: split by newlines and parse each line
+                const data = decompressedData.trim().split('\n').map(line => JSON.parse(line));
                 allData = allData.concat(data);
 
                 updateLoadingProgress(parts.indexOf(part) + 1, parts.length);
@@ -355,6 +357,8 @@
 
             return allData;
         }
+
+
 
         function updateLoadingProgress(loadedParts, totalParts) {
             const progressElement = document.getElementById('loading-progress');
