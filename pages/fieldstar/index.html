@@ -343,24 +343,16 @@
             let totalSize = 0;
             let loadedSize = 0;
 
-            // First, get the total size
-            const sizePromises = parts.map(part => 
-                fetch(`https://www.barneyhill.com/assets/cosine_embeddings.all.0.25.5.part${part}.umap.ndjson.gz`, {
-                    method: 'HEAD'
-                }).then(response => parseInt(response.headers.get('content-length') || '0'))
-            );
-
-            const sizes = await Promise.all(sizePromises);
-            totalSize = sizes.reduce((a, b) => a + b, 0);
-
-            console.log(`Total size: ${totalSize} bytes`); // Debugging line
+            // Get the size of the first file and multiply by 4
+            const response = await fetch(`https://www.barneyhill.com/assets/cosine_embeddings.all.0.25.5.part1.umap.ndjson.gz`, {
+                method: 'HEAD'
+            });
+            const singleFileSize = parseInt(response.headers.get('content-length') || '0');
+            totalSize = singleFileSize * 4;
 
             for (const part of parts) {
                 const response = await fetch(`https://www.barneyhill.com/assets/cosine_embeddings.all.0.25.5.part${part}.umap.ndjson.gz`);
                 const reader = response.body.getReader();
-                const contentLength = +response.headers.get('Content-Length');
-
-                console.log(`Part ${part} size: ${contentLength} bytes`); // Debugging line
 
                 let receivedLength = 0;
                 let chunks = [];
@@ -387,13 +379,10 @@
                 // Parse NDJSON: split by newlines and parse each line
                 const data = decompressedData.trim().split('\n').map(line => JSON.parse(line));
                 allData = allData.concat(data);
-
-                console.log(`Finished loading part ${part}`); // Debugging line
             }
 
             return allData;
         }
-
 
         function updateLoadingProgress(loadedSize, totalSize) {
             const progressElement = document.getElementById('loading-progress');
