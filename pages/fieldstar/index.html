@@ -340,31 +340,60 @@
         async function loadData() {
             const parts = ['1', '2', '3', '4'];
             let allData = [];
+            let totalSize = 0;
+            let loadedSize = 0;
+
+            // First, get the total size
+            for (const part of parts) {
+                const response = await fetch(`https://www.barneyhill.com/assets/cosine_embeddings.all.0.25.5.part${part}.umap.ndjson.gz`, {
+                    method: 'HEAD'
+                });
+                totalSize += parseInt(response.headers.get('content-length') || '0');
+            }
 
             for (const part of parts) {
                 const response = await fetch(`https://www.barneyhill.com/assets/cosine_embeddings.all.0.25.5.part${part}.umap.ndjson.gz`);
-                const arrayBuffer = await response.arrayBuffer();
+                const reader = response.body.getReader();
+                const contentLength = +response.headers.get('Content-Length');
+
+                let receivedLength = 0;
+                let chunks = [];
+                while(true) {
+                    const {done, value} = await reader.read();
+                    if (done) break;
+                    chunks.push(value);
+                    receivedLength += value.length;
+                    loadedSize += value.length;
+                    updateLoadingProgress(loadedSize, totalSize);
+                }
+
+                let chunksAll = new Uint8Array(receivedLength);
+                let position = 0;
+                for(let chunk of chunks) {
+                    chunksAll.set(chunk, position);
+                    position += chunk.length;
+                }
+
                 const decompressedData = await new Response(
-                    new Blob([arrayBuffer]).stream().pipeThrough(new DecompressionStream('gzip'))
+                    new Blob([chunksAll]).stream().pipeThrough(new DecompressionStream('gzip'))
                 ).text();
                 
                 // Parse NDJSON: split by newlines and parse each line
                 const data = decompressedData.trim().split('\n').map(line => JSON.parse(line));
                 allData = allData.concat(data);
-
-                updateLoadingProgress(parts.indexOf(part) + 1, parts.length);
             }
 
             return allData;
         }
 
-
-
-        function updateLoadingProgress(loadedParts, totalParts) {
+        function updateLoadingProgress(loadedSize, totalSize) {
             const progressElement = document.getElementById('loading-progress');
-            const percentage = ((loadedParts / totalParts) * 100).toFixed(2);
-            progressElement.textContent = `${percentage}% loaded (${loadedParts}/${totalParts} parts)`;
+            const loadedMB = (loadedSize / (1024 * 1024)).toFixed(2);
+            const totalMB = (totalSize / (1024 * 1024)).toFixed(2);
+            const percentage = ((loadedSize / totalSize) * 100).toFixed(2);
+            progressElement.textContent = `${loadedMB} MB / ${totalMB} MB loaded (${percentage}%)`;
         }
+
 
 
         function createPoints(data) {
