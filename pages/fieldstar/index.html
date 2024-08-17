@@ -5,109 +5,377 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Field*</title>
     <style>
-        body { margin: 0; overflow: hidden; }
-        #field-label {
-            position: absolute;
-            top: 10px;
-            left: 20px;
-            font-family: Helvetica, Arial, sans-serif;
-            font-weight: bold;
-            font-size: 50px;
-            color: black;
-            z-index: 1000;
+        body { margin: 0; overflow: hidden; font-family: Arial, sans-serif; background-color: #f0f0f0; }
+        #field-label { position: absolute; top: 10px; left: 20px; font-weight: bold; font-size: 50px; }
+        #youtube-embed { position: absolute; bottom: 20px; right: 20px; width: 320px; height: 180px; display: none; }
+        #legend { 
+            position: absolute; 
+            bottom: 20px; 
+            left: 20px; 
+            padding: 10px; 
+            border-radius: 0px; 
+            font-size: 12px; 
         }
-        #youtube-embed {
+        .legend-item { display: flex; align-items: center; margin-bottom: 5px; }
+        .legend-color { 
+            width: 16px; 
+            height: 16px; 
+            margin-right: 5px; 
+            border-radius: 50%; 
+        }
+        .mode-buttons { position: absolute; top: 20px; right: 20px; }
+        .mode-button { 
+            padding: 5px 10px; 
+            margin-left: 10px; 
+            cursor: pointer; 
+            background: none;
+            border: none;
+            font-size: 16px;
+            color: #333;
+            transition: color 0.3s;
+        }
+        .mode-button:hover { color: #007bff; }
+        .mode-button.selected { color: #999; }
+        #about-text {
             position: absolute;
-            bottom: 20px;
+            top: 60px;
             right: 20px;
-            width: 320px;
-            height: 180px;
+            width: 300px;
+            padding: 10px;
+            font-size: 14px;
             display: none;
         }
-        #legend {
+        #loading {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        #loading-content {
+            position: relative;
+            font-size: 200px;
+            font-weight: bold;
+            color: rgb(0, 0, 0);
+        }
+        #loading-star {
+            position: absolute;
+            top: -0.2em;
+            right: -0.4em;
+            display: inline-block;
+            animation: spin 2s linear infinite;
+            transform-origin: 50% 30%;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        #search-container {
             position: absolute;
             top: 20px;
-            right: 20px;
-            background-color: rgba(255, 255, 255, 0.8);
-            padding: 10px;
-            border-radius: 5px;
-            font-family: Arial, sans-serif;
-            font-size: 12px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 1000;
+            width: 300px;
+            display: none;
         }
-        .legend-item {
-            display: flex;
-            align-items: center;
-            margin-bottom: 5px;
+
+        #search-input {
+            width: 100%;
+            padding: 10px 15px;
+            font-size: 16px;
+            border: 2px solid #333;
+            border-radius: 4px;
+            background-color: #f0f0f0; 
+            color: #333; /* Changed to dark color for contrast */
+            transition: all 0.3s ease;
+            box-sizing: border-box;
         }
-        .legend-color {
-            width: 20px;
-            height: 20px;
-            margin-right: 5px;
-            border-radius: 50%;
+
+        #search-input:focus {
+            outline: none;
+            border-color: #333;
+            box-shadow: none;
         }
+        
+        #search-results {
+            position: absolute;
+            top: calc(100% - 2px); /* Move up by 2px to overlap with input border */
+            left: 0;
+            width: 100%;
+            max-height: 200px;
+            overflow-y: auto;
+            border-radius: 0 0 4px 4px;
+            background: transparent;
+            backdrop-filter: blur(5px);
+            box-sizing: border-box;
+            display: none; /* Hide by default */
+            background-color: #f0f0f0; /* Changed to white to match input */
+            border: 2px solid #333;
+            border-top: none;
+        }
+
+        .search-result {
+            padding: 10px 15px;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+            color: #333; /* Added for consistency */
+        }
+
+        .search-result:hover {
+            background-color: #f0f0f0; /* Changed for better contrast with white background */
+        }
+
+        .search-result mark {
+            background-color: #4CAF50; /* Keeping the green highlight from previous change */
+            color: white;
+        }
+
+        #loading-progress {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+        }
+
     </style>
 </head>
 <body>
+    <div id="loading">
+        <div id="loading-content">
+            Field<span id="loading-star">*</span>
+        </div>
+        <div id="loading-progress"></div>
+    </div>
     <div id="field-label">Field*</div>
     <div id="youtube-embed"></div>
     <div id="legend"></div>
+    <div class="mode-buttons">
+        <button class="mode-button" id="styles-button">Styles</button>
+        <button class="mode-button selected" id="decades-button">Decades</button>
+        <button class="mode-button" id="about-button">About</button>
+    </div>
+    <div id="about-text">
+        ★ A map of music where similar sounding tracks are closer together. Click to listen.<br>
+        ★ With <i>Styles</i> you can select a track and see it's styles highlighted - here we can see how the map structure recapitulates style categories.<br>
+        ★ With <i>Decades</i> you can see tracks labelled by their release year - what do you notice?<br>
+        ★ You can search for tracks but note titles may be missing artist names.<br>
+        ★ Track audio embeddings created with <a href="https://repositori.upf.edu/bitstream/handle/10230/54158/Alonso_ismir_musi.pdf">Discogs-EffNet</a> and mapped using <a href="https://arxiv.org/pdf/1802.03426">UMAP</a>.<br>
+        ★ Website made by <a href="https://x.com/_barneyhill">Barney Hill</a>. Data generously provided by <a href="https://x.com/hurfyd">hurfyd</a> - check out <a href="https://cosine.club/">cosine.club</a> to more explore this dataset further.
+    </div>
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="Search for a track...">
+        <div id="search-results"></div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/@leeoniya/ufuzzy/dist/uFuzzy.iife.min.js"></script>
     <script type="module">
         import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.js';
 
         let scene, camera, renderer, points;
-        const raycaster = new THREE.Raycaster();
         const mouse = new THREE.Vector2();
         let isDragging = false;
         let previousMousePosition = { x: 0, y: 0 };
-        let clickStartTime = 0;
-        let clickStartPosition = { x: 0, y: 0 };
-        
-        const MIN_ZOOM = .5;
-        const MAX_ZOOM = 1000;
-        const MIN_POINT_SIZE = 0.000001;
-        const MAX_POINT_SIZE = 0.01;
-        const INTERSECT_THRESHOLD = 0.01;
-        const ZOOM_SPEED = 0.01;
-        const DRAG_SPEED_MULTIPLIER = 1;
+        let mouseDownPosition = { x: 0, y: 0 };
+        let mouseDownTime = 0;
+        const MIN_ZOOM = 0.1, MAX_ZOOM = 1000, ZOOM_SPEED = 0.015;
+        let currentMode = 'decades';
 
         const styleColors = {};
+        const decadeColors = {
+            '1950s': 0xFF0000, '1960s': 0xFF7F00, '1970s': 0xE1E11A, '1980s': 0x00FF00,
+            '1990s': 0x0000FF, '2000s': 0x4B0082, '2010s': 0x9400D3, '2020s': 0xFF1493
+        };
+
+        let horizontalLine, verticalLine;
+        let searchInput, searchResults;
+
+        let uf; // uFuzzy instance
 
         init();
+
+        function createOrUpdateLines(position) {
+            const lineMaterial = new THREE.LineBasicMaterial({ 
+                color: 0x000000, 
+                depthTest: false,
+                transparent: true,
+                opacity: 0.5
+            });
+
+            if (!horizontalLine) {
+                const geometry = new THREE.BufferGeometry().setFromPoints([
+                    new THREE.Vector3(-1000, 0, 0),
+                    new THREE.Vector3(1000, 0, 0)
+                ]);
+                horizontalLine = new THREE.Line(geometry, lineMaterial);
+                horizontalLine.renderOrder = 2;
+                scene.add(horizontalLine);
+            }
+            if (!verticalLine) {
+                const geometry = new THREE.BufferGeometry().setFromPoints([
+                    new THREE.Vector3(0, -1000, 0),
+                    new THREE.Vector3(0, 1000, 0)
+                ]);
+                verticalLine = new THREE.Line(geometry, lineMaterial);
+                verticalLine.renderOrder = 2;
+                scene.add(verticalLine);
+            }
+
+            horizontalLine.position.y = position.y;
+            verticalLine.position.x = position.x;
+
+            searchInput = document.getElementById('search-input');
+            searchResults = document.getElementById('search-results');
+            addSearchEventListeners();
+        }
 
         async function init() {
             [scene, camera, renderer] = createScene();
             document.body.appendChild(renderer.domElement);
-
-            const data = await loadAndProcessData();
-            points = createPoints(data);
+            points = createPoints(await loadData());
             scene.add(points);
-
             addEventListeners();
+            colorPointsByDecade();
+            
+            // Initialize search elements
+            searchInput = document.getElementById('search-input');
+            searchResults = document.getElementById('search-results');
+            addSearchEventListeners();
+
+            uf = new uFuzzy();
+            
+            // Show UI elements after loading
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('search-container').style.display = 'block';
+            
             animate();
+        }
+
+        function addSearchEventListeners() {
+            searchInput.addEventListener('input', handleSearch);
+            searchResults.addEventListener('click', handleSearchResultClick);
+            document.addEventListener('click', (event) => {
+                if (!searchInput.contains(event.target) && !searchResults.contains(event.target)) {
+                    searchResults.style.display = 'none';
+                }
+            });
+        }
+
+        function handleSearch() {
+            const searchTerm = searchInput.value.toLowerCase();
+            if (searchTerm.length == 0) {
+                searchResults.style.display = 'none';
+                return;
+            }
+
+            const haystack = points.userData.data.map(point => point.title);
+            const [idxs, info, order] = uf.search(haystack, searchTerm);
+
+            if (order === null || order.length === 0) {
+                // No matches found
+                displaySearchResults([]);
+                return;
+            }
+
+            const matchingPoints = order.map(i => points.userData.data[info.idx[i]]).slice(0, 10);  // Limit to 10 results
+
+            displaySearchResults(matchingPoints, info, order);
+        }
+
+        function displaySearchResults(results, info, order) {
+            searchResults.innerHTML = '';
+            results.forEach((point, i) => {
+                const resultElement = document.createElement('div');
+                resultElement.className = 'search-result';
+                resultElement.innerHTML = uFuzzy.highlight(
+                    point.title,
+                    info.ranges[order[i]],
+                    (part, matched) => matched ? `<mark>${part}</mark>` : part
+                );
+                resultElement.addEventListener('click', () => selectPoint(point));
+                searchResults.appendChild(resultElement);
+            });
+            searchResults.style.display = results.length > 0 ? 'block' : 'none';
+        }
+
+        function handleSearchResultClick(event) {
+            if (event.target.classList.contains('search-result')) {
+                searchInput.value = event.target.textContent;
+                searchResults.style.display = 'none';
+            }
+        }
+
+        function selectPoint(point) {
+            const vector = new THREE.Vector3(point.umap_x, point.umap_y, 0);
+            createOrUpdateLines(vector);
+            
+            points.userData.selectedPoint = point;  // Add this line
+            
+            if (currentMode === 'styles') highlightStyles(point);
+            if (point.youtube_uri) embedYouTube(point.youtube_uri);
         }
 
         function createScene() {
             const scene = new THREE.Scene();
-            scene.background = new THREE.Color(0xf0f0f0); // Light gray background
+            scene.background = new THREE.Color(0xf0f0f0);
             const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-            camera.position.z = 5;
+
+            camera.position.z = 20;
+            camera.position.x = 8;
+            camera.position.y = 4;
+
             const renderer = new THREE.WebGLRenderer({ antialias: true });
             renderer.setSize(window.innerWidth, window.innerHeight);
+            renderer.sortObjects = true; // Add this line
             return [scene, camera, renderer];
         }
 
-        async function loadAndProcessData() {
-            try {
-                const response = await fetch('music_embeddings_with_umap.json.gz');
-                const arrayBuffer = await response.arrayBuffer();
-                const decompressedData = await new Response(
-                    new Blob([arrayBuffer]).stream().pipeThrough(new DecompressionStream('gzip'))
-                ).arrayBuffer();
-                return JSON.parse(new TextDecoder().decode(decompressedData));
-            } catch (error) {
-                console.error('Error loading or processing data:', error);
-                return [];
+        async function loadData() {
+            const response = await fetch('data/cosine_embeddings.all.0.25.5.umap.json.gz');
+            const reader = response.body.getReader();
+            const contentLength = +response.headers.get('Content-Length');
+            let receivedLength = 0;
+            let chunks = [];
+
+            while(true) {
+                const {done, value} = await reader.read();
+
+                if (done) {
+                    break;
+                }
+
+                chunks.push(value);
+                receivedLength += value.length;
+
+                updateLoadingProgress(receivedLength, contentLength);
             }
+
+            const arrayBuffer = new Uint8Array(receivedLength);
+            let position = 0;
+            for(let chunk of chunks) {
+                arrayBuffer.set(chunk, position);
+                position += chunk.length;
+            }
+
+            const decompressedData = await new Response(
+                new Blob([arrayBuffer]).stream().pipeThrough(new DecompressionStream('gzip'))
+            ).arrayBuffer();
+
+            return JSON.parse(new TextDecoder().decode(decompressedData));
+        }
+
+        function updateLoadingProgress(received, total) {
+            const progressElement = document.getElementById('loading-progress');
+            const receivedMB = (received / (1024 * 1024)).toFixed(2);
+            const totalMB = (total / (1024 * 1024)).toFixed(2);
+            progressElement.textContent = `${receivedMB} MB / ${totalMB} MB`;
         }
 
         function createPoints(data) {
@@ -118,44 +386,39 @@
             data.forEach((point, i) => {
                 const i3 = i * 3;
                 positions.set([point.umap_x, point.umap_y, 0], i3);
-                
-                // Set all points to gray
                 colors.set([0.5, 0.5, 0.5], i3);
             });
 
             geometry.setAttribute('position', new THREE.BufferAttribute(positions, 3));
             geometry.setAttribute('color', new THREE.BufferAttribute(colors, 3));
 
-            const texture = createCircleTexture();
             const material = new THREE.PointsMaterial({
-                size: MAX_POINT_SIZE,
-                vertexColors: true,
-                map: texture,
-                transparent: true,
-                opacity: 1,
+                size: 0.01, 
+                vertexColors: true, 
+                map: createCircleTexture(),
+                transparent: true, 
+                opacity: 1, 
                 alphaTest: 0.5
             });
 
             const points = new THREE.Points(geometry, material);
             points.userData.data = data;
             points.userData.originalColors = colors.slice();
+            points.renderOrder = 1; // Add this line
             return points;
         }
 
+
+
         function createCircleTexture() {
             const canvas = document.createElement('canvas');
-            canvas.width = 128;
-            canvas.height = 128;
+            canvas.width = canvas.height = 128;
             const context = canvas.getContext('2d');
-            
             context.beginPath();
             context.arc(64, 64, 64, 0, 2 * Math.PI);
             context.fillStyle = 'white';
             context.fill();
-
-            const texture = new THREE.CanvasTexture(canvas);
-            texture.needsUpdate = true;
-            return texture;
+            return new THREE.CanvasTexture(canvas);
         }
 
         function addEventListeners() {
@@ -164,6 +427,9 @@
             renderer.domElement.addEventListener('mousedown', onMouseDown);
             renderer.domElement.addEventListener('mouseup', onMouseUp);
             renderer.domElement.addEventListener('wheel', onMouseWheel);
+            document.getElementById('styles-button').addEventListener('click', () => setMode('styles'));
+            document.getElementById('decades-button').addEventListener('click', () => setMode('decades'));
+            document.getElementById('about-button').addEventListener('click', toggleAbout);
         }
 
         function onWindowResize() {
@@ -182,11 +448,8 @@
                     y: event.clientY - previousMousePosition.y
                 };
 
-                const zoomFactor = camera.position.z / MAX_ZOOM;
-                const dragSpeed = DRAG_SPEED_MULTIPLIER * zoomFactor;
-
-                camera.position.x -= deltaMove.x * dragSpeed;
-                camera.position.y += deltaMove.y * dragSpeed;
+                camera.position.x -= deltaMove.x * 0.001 * camera.position.z;
+                camera.position.y += deltaMove.y * 0.001 * camera.position.z;
 
                 previousMousePosition = { x: event.clientX, y: event.clientY };
             }
@@ -194,52 +457,68 @@
 
         function onMouseDown(event) {
             isDragging = true;
+            mouseDownPosition = { x: event.clientX, y: event.clientY };
             previousMousePosition = { x: event.clientX, y: event.clientY };
-            clickStartTime = Date.now();
-            clickStartPosition = { x: event.clientX, y: event.clientY };
+            mouseDownTime = Date.now();
         }
 
         function onMouseUp(event) {
             isDragging = false;
-            const clickEndTime = Date.now();
-            const clickDuration = clickEndTime - clickStartTime;
-            const clickEndPosition = { x: event.clientX, y: event.clientY };
-            const clickDistance = Math.sqrt(
-                Math.pow(clickEndPosition.x - clickStartPosition.x, 2) +
-                Math.pow(clickEndPosition.y - clickStartPosition.y, 2)
+            const mouseUpTime = Date.now();
+            const dragDistance = Math.sqrt(
+                Math.pow(event.clientX - mouseDownPosition.x, 2) +
+                Math.pow(event.clientY - mouseDownPosition.y, 2)
             );
+            const dragDuration = mouseUpTime - mouseDownTime;
 
-            if (clickDuration < 200 && clickDistance < 5) {
-                const intersects = getIntersects();
-                if (intersects.length > 0) {
-                    const clickedPoint = points.userData.data[intersects[0].index];
-                    if (clickedPoint) {
-                        highlightStyles(clickedPoint);
-                        if (clickedPoint.youtube_uri) {
-                            embedYouTube(clickedPoint.youtube_uri);
-                        }
-                    }
+            if (dragDistance < 5 && dragDuration < 200) {
+                const nearestPoint = findNearestPoint(mouse);
+                if (nearestPoint) {
+                    points.userData.selectedPoint = nearestPoint;  // Add this line
+                    if (currentMode === 'styles') highlightStyles(nearestPoint);
+                    if (nearestPoint.youtube_uri) embedYouTube(nearestPoint.youtube_uri);
+                    
+                    createOrUpdateLines(new THREE.Vector3(nearestPoint.umap_x, nearestPoint.umap_y, 0));
                 }
             }
         }
 
+
         function onMouseWheel(event) {
             event.preventDefault();
-            const newZoom = camera.position.z + event.deltaY * ZOOM_SPEED;
-            camera.position.z = THREE.MathUtils.clamp(newZoom, MIN_ZOOM, MAX_ZOOM);
-            updatePointSize();
+            camera.position.z = THREE.MathUtils.clamp(
+                camera.position.z + event.deltaY * ZOOM_SPEED,
+                MIN_ZOOM,
+                MAX_ZOOM
+            );
+            points.material.size = THREE.MathUtils.lerp(0.01, 0.000001, (camera.position.z - MIN_ZOOM) / (MAX_ZOOM - MIN_ZOOM));
         }
 
-        function updatePointSize() {
-            const zoomFactor = (camera.position.z - MIN_ZOOM) / (MAX_ZOOM - MIN_ZOOM);
-            const newSize = THREE.MathUtils.lerp(MAX_POINT_SIZE, MIN_POINT_SIZE, zoomFactor);
-            points.material.size = newSize;
-        }
+        function findNearestPoint(mousePosition) {
+            const vector = new THREE.Vector3(mousePosition.x, mousePosition.y, 0.5).unproject(camera);
+            const raycaster = new THREE.Raycaster(camera.position, vector.sub(camera.position).normalize());
+            const intersects = raycaster.intersectObject(points);
 
-        function getIntersects() {
-            raycaster.setFromCamera(mouse, camera);
-            raycaster.params.Points.threshold = INTERSECT_THRESHOLD;
-            return raycaster.intersectObject(points);
+            if (intersects.length > 0) {
+                let minDistance = Infinity;
+                let nearestIndex = -1;
+
+                for (let i = 0; i < points.geometry.attributes.position.count; i++) {
+                    const pointVector = new THREE.Vector3().fromBufferAttribute(points.geometry.attributes.position, i);
+                    const distance = raycaster.ray.distanceToPoint(pointVector);
+
+                    if (distance < minDistance) {
+                        minDistance = distance;
+                        nearestIndex = i;
+                    }
+                }
+
+                if (nearestIndex !== -1) {
+                    return points.userData.data[nearestIndex];
+                }
+            }
+
+            return null;
         }
 
         function animate() {
@@ -248,61 +527,52 @@
         }
 
         function highlightStyles(selectedPoint) {
+            points.userData.selectedPoint = selectedPoint;
             const colors = points.geometry.attributes.color;
-            const originalColors = points.userData.originalColors;
+            colors.array.set(points.userData.originalColors);
 
-            // Reset all colors to original (gray)
-            colors.array.set(originalColors);
-
-            // Assign colors to the styles of the selected track
             selectedPoint.styles.forEach((style) => {
                 if (!styleColors[style]) {
-                    styleColors[style] = generateDeterministicColor(style);
+                    styleColors[style] = new THREE.Color().setHSL(Math.random(), 0.7, 0.5);
                 }
                 const color = styleColors[style];
                 
                 points.userData.data.forEach((point, i) => {
                     if (point.styles.includes(style)) {
                         const i3 = i * 3;
-                        colors.array[i3] = color.r;
-                        colors.array[i3 + 1] = color.g;
-                        colors.array[i3 + 2] = color.b;
+                        colors.array.set([color.r, color.g, color.b], i3);
                     }
                 });
             });
 
             colors.needsUpdate = true;
-
-            // Update the legend
-            updateLegend(selectedPoint.styles);
+            updateLegend(selectedPoint.styles.map(style => ({ label: style, color: styleColors[style] })));
         }
 
-        function generateDeterministicColor(style) {
-            let hash = 0;
-            for (let i = 0; i < style.length; i++) {
-                hash = style.charCodeAt(i) + ((hash << 5) - hash);
-            }
+        function colorPointsByDecade() {
+            const colors = points.geometry.attributes.color;
             
-            const hue = (hash % 360 + 360) % 360; // Ensure positive hue value
-            const saturation = 70 + (hash % 30); // 70-100%
-            const lightness = 40 + (hash % 20); // 40-60%
+            points.userData.data.forEach((point, i) => {
+                const decade = Math.floor(point.released / 10) * 10;
+                const color = new THREE.Color(decadeColors[`${decade}s`] || 0x808080);
+                const i3 = i * 3;
+                colors.array.set([color.r, color.g, color.b], i3);
+            });
 
-            return new THREE.Color(`hsl(${hue}, ${saturation}%, ${lightness}%)`);
+            colors.needsUpdate = true;
+            updateLegend(Object.entries(decadeColors).map(([decade, color]) => ({ label: decade, color: new THREE.Color(color) })));
         }
 
-        function updateLegend(styles) {
+        function updateLegend(items) {
             const legend = document.getElementById('legend');
-            legend.innerHTML = '<h3>Selected Track Styles</h3>';
-            styles.forEach(style => {
+            legend.innerHTML = `<h3>${currentMode === 'styles' ? 'Selected Track Styles' : 'Decades'}</h3>`;
+            items.forEach(({ label, color }) => {
                 const item = document.createElement('div');
                 item.className = 'legend-item';
-                const colorBox = document.createElement('div');
-                colorBox.className = 'legend-color';
-                colorBox.style.backgroundColor = `#${styleColors[style].getHexString()}`;
-                const label = document.createElement('span');
-                label.textContent = style;
-                item.appendChild(colorBox);
-                item.appendChild(label);
+                item.innerHTML = `
+                    <div class="legend-color" style="background-color: ${color.getStyle()};"></div>
+                    <span>${label}</span>
+                `;
                 legend.appendChild(item);
             });
         }
@@ -315,6 +585,43 @@
                 embedContainer.style.display = 'block';
             }
         }
+
+        function setMode(mode) {
+            currentMode = mode;
+            const colors = points.geometry.attributes.color;
+            
+            document.getElementById('styles-button').classList.toggle('selected', mode === 'styles');
+            document.getElementById('decades-button').classList.toggle('selected', mode === 'decades');
+            document.getElementById('about-button').classList.remove('selected');
+            document.getElementById('about-text').style.display = 'none';
+
+            if (mode === 'decades') {
+                colorPointsByDecade();
+            } else if (mode === 'styles') {
+                const selectedPoint = points.userData.selectedPoint;
+                if (selectedPoint) {
+                    highlightStyles(selectedPoint);
+                } else {
+                    colors.array.set(points.userData.originalColors);
+                    colors.needsUpdate = true;
+                    document.getElementById('legend').innerHTML = '';
+                }
+            }
+        }
+
+        function toggleAbout() {
+            const aboutText = document.getElementById('about-text');
+            const aboutButton = document.getElementById('about-button');
+            if (aboutText.style.display === 'block') {
+                aboutText.style.display = 'none';
+                aboutButton.classList.remove('selected');
+            } else {
+                aboutText.style.display = 'block';
+                aboutButton.classList.add('selected');
+                document.getElementById('styles-button').classList.remove('selected');
+                document.getElementById('decades-button').classList.remove('selected');
+            }
+        }    
     </script>
 </body>
 </html>
