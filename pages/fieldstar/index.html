@@ -340,15 +340,9 @@
         async function loadData() {
             const parts = ['1', '2', '3', '4'];
             let allData = [];
-            let totalSize = 0;
+            const assumedFileSize = 94 * 1024 * 1024; // 94MB in bytes
+            const totalSize = assumedFileSize * parts.length;
             let loadedSize = 0;
-
-            // Get the size of the first file and multiply by 4
-            const response = await fetch(`https://www.barneyhill.com/assets/cosine_embeddings.all.0.25.5.part1.umap.ndjson.gz`, {
-                method: 'HEAD'
-            });
-            const singleFileSize = parseInt(response.headers.get('content-length') || '0');
-            totalSize = singleFileSize * 4;
 
             for (const part of parts) {
                 const response = await fetch(`https://www.barneyhill.com/assets/cosine_embeddings.all.0.25.5.part${part}.umap.ndjson.gz`);
@@ -379,6 +373,10 @@
                 // Parse NDJSON: split by newlines and parse each line
                 const data = decompressedData.trim().split('\n').map(line => JSON.parse(line));
                 allData = allData.concat(data);
+
+                // Update progress as if we've loaded the full assumed file size
+                loadedSize = assumedFileSize * (parseInt(part));
+                updateLoadingProgress(loadedSize, totalSize);
             }
 
             return allData;
@@ -391,7 +389,6 @@
             const percentage = ((loadedSize / totalSize) * 100).toFixed(2);
             progressElement.textContent = `${loadedMB} MB / ${totalMB} MB loaded (${percentage}%)`;
         }
-
 
 
         function createPoints(data) {
