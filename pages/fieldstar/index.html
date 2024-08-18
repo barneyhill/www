@@ -15,6 +15,9 @@
             padding: 10px; 
             border-radius: 0px; 
             font-size: 12px; 
+            max-height: 30vh;
+            overflow-y: auto;
+            background-color: rgba(240, 240, 240, 0.8);
         }
         .legend-item { display: flex; align-items: center; margin-bottom: 5px; }
         .legend-color { 
@@ -44,6 +47,7 @@
             padding: 10px;
             font-size: 14px;
             display: none;
+            background-color: rgba(240, 240, 240, 0.8);
         }
         #loading {
             position: fixed;
@@ -74,7 +78,7 @@
             border: 2px solid #333;
             border-radius: 4px;
             background-color: #f0f0f0; 
-            color: #333; /* Changed to dark color for contrast */
+            color: #333;
             transition: all 0.3s ease;
             box-sizing: border-box;
         }
@@ -87,7 +91,7 @@
         
         #search-results {
             position: absolute;
-            top: calc(100% - 2px); /* Move up by 2px to overlap with input border */
+            top: calc(100% - 2px);
             left: 0;
             width: 100%;
             max-height: 200px;
@@ -96,8 +100,8 @@
             background: transparent;
             backdrop-filter: blur(5px);
             box-sizing: border-box;
-            display: none; /* Hide by default */
-            background-color: #f0f0f0; /* Changed to white to match input */
+            display: none;
+            background-color: #f0f0f0;
             border: 2px solid #333;
             border-top: none;
         }
@@ -106,15 +110,15 @@
             padding: 10px 15px;
             cursor: pointer;
             transition: background-color 0.2s ease;
-            color: #333; /* Added for consistency */
+            color: #333;
         }
 
         .search-result:hover {
-            background-color: #f0f0f0; /* Changed for better contrast with white background */
+            background-color: #f0f0f0;
         }
 
         .search-result mark {
-            background-color: #4CAF50; /* Keeping the green highlight from previous change */
+            background-color: #4CAF50;
             color: white;
         }
 
@@ -130,7 +134,7 @@
 
         #version-selector {
             position: absolute;
-            bottom: 20px;
+            bottom: 15%;
             left: 0;
             right: 0;
             text-align: center;
@@ -139,7 +143,7 @@
 
         .version-button {
             padding: 10px 20px;
-            margin: 0 10px;
+            margin: 0 8px;
             cursor: pointer;
             background: none;
             border: 2px solid #333;
@@ -147,11 +151,6 @@
             color: #333;
             transition: all 0.3s;
             border-radius: 4px;
-        }
-
-        .version-button:hover {
-            background-color: #333;
-            color: #f0f0f0;
         }
 
         #loading-content {
@@ -170,6 +169,7 @@
             margin-bottom: 20px;
         }
 
+
         #loading-star {
             position: absolute;
             top: -0.2em;
@@ -184,6 +184,53 @@
             100% { transform: rotate(360deg); }
         }
 
+        /* Mobile-specific styles */
+        @media (max-width: 768px) {
+
+            #loading-title {
+                font-size: 100px;
+            }
+
+            #loading-star {
+                top: -0.3em;
+                right: -0.4em;
+            }
+
+            #search-container { 
+                width: calc(100% - 40px); 
+                margin-top: 60px; 
+                left: 20px;
+                transform: none;
+            }
+            .mode-buttons { 
+                display: flex; 
+                justify-content: flex-end; 
+                top: 10px;
+            }
+            .mode-button { 
+                margin-left: 0; 
+                padding: 5px 5px; 
+            }
+            #about-text {
+                top: auto;
+                bottom: 70px;
+                left: 20px;
+                right: 20px;
+                width: calc(100% - 40px);
+            }
+            #youtube-embed {
+                width: 90px;
+                height: 67.5px;
+                right: 210px;
+                bottom: 110px;
+            }
+
+            #legend {
+                bottom: 10px;
+                left: 10px;
+                z-index: 2001;
+            }
+        }
     </style>
 </head>
 <body>
@@ -231,6 +278,8 @@
         let previousPointerPosition = { x: 0, y: 0 };
         let pointerDownPosition = { x: 0, y: 0 };
         let pointerDownTime = 0;
+        let touchStartDistance = 0;
+        let initialCameraZ = 0;
         let currentTouches = [];
         const MIN_ZOOM = 0.1, MAX_ZOOM = 1000, ZOOM_SPEED = 0.01;
         let currentMode = 'decades';
@@ -508,6 +557,7 @@
         }
 
         function onPointerDown(event) {
+            event.preventDefault(); // Prevent default for both mouse and touch
             isPointerDown = true;
             pointerDownPosition = { x: event.clientX, y: event.clientY };
             previousPointerPosition = { x: event.clientX, y: event.clientY };
@@ -531,6 +581,7 @@
             }
         }
 
+
         function onPointerUp(event) {
             isPointerDown = false;
             const pointerUpTime = Date.now();
@@ -541,7 +592,10 @@
             const dragDuration = pointerUpTime - pointerDownTime;
 
             if (dragDistance < 5 && dragDuration < 200) {
-                const nearestPoint = findNearestPoint(mouse);
+                const nearestPoint = findNearestPoint({
+                    x: (event.clientX / window.innerWidth) * 2 - 1,
+                    y: -(event.clientY / window.innerHeight) * 2 + 1
+                });
                 if (nearestPoint) {
                     points.userData.selectedPoint = nearestPoint;
                     if (currentMode === 'styles') highlightStyles(nearestPoint);
@@ -550,7 +604,7 @@
                     createOrUpdateLines(new THREE.Vector3(nearestPoint.umap_x, nearestPoint.umap_y, 0));
                 }
             }
-        }
+        }        
 
         function onWheel(event) {
             event.preventDefault();
@@ -561,6 +615,15 @@
         function onTouchStart(event) {
             event.preventDefault();
             currentTouches = Array.from(event.touches);
+            if (currentTouches.length === 2) {
+                const touch1 = currentTouches[0];
+                const touch2 = currentTouches[1];
+                touchStartDistance = Math.hypot(
+                    touch1.clientX - touch2.clientX,
+                    touch1.clientY - touch2.clientY
+                );
+                initialCameraZ = camera.position.z;
+            }
         }
 
         function onTouchMove(event) {
@@ -576,11 +639,11 @@
                 );
                 
                 if (touchStartDistance > 0) {
-                    const zoomDelta = (touchStartDistance - currentDistance) * 0.01;
-                    zoomCamera(zoomDelta);
+                    const scale = currentDistance / touchStartDistance;
+                    const newZ = initialCameraZ / scale;
+                    camera.position.z = THREE.MathUtils.clamp(newZ, MIN_ZOOM, MAX_ZOOM);
+                    updatePointSize();
                 }
-                
-                touchStartDistance = currentDistance;
             }
         }
 
@@ -589,8 +652,14 @@
             currentTouches = Array.from(event.touches);
             if (currentTouches.length < 2) {
                 touchStartDistance = 0;
+                initialCameraZ = 0;
             }
         }
+
+        function updatePointSize() {
+            points.material.size = THREE.MathUtils.lerp(0.01, 0.000001, (camera.position.z - MIN_ZOOM) / (MAX_ZOOM - MIN_ZOOM));
+        }
+
 
         function zoomCamera(delta) {
             camera.position.z = THREE.MathUtils.clamp(
@@ -598,8 +667,9 @@
                 MIN_ZOOM,
                 MAX_ZOOM
             );
-            points.material.size = THREE.MathUtils.lerp(0.01, 0.000001, (camera.position.z - MIN_ZOOM) / (MAX_ZOOM - MIN_ZOOM));
+            updatePointSize();
         }
+        
         function findNearestPoint(mousePosition) {
             const vector = new THREE.Vector3(mousePosition.x, mousePosition.y, 0.5).unproject(camera);
             const raycaster = new THREE.Raycaster(camera.position, vector.sub(camera.position).normalize());
