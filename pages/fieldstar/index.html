@@ -194,8 +194,8 @@
             </div>
             <div id="loading-progress"></div>
             <div id="version-selector">
-                <button class="version-button" id="full-version">Full (desktop)</button>
-                <button class="version-button" id="lite-version">Lite (mobile)</button>
+                <button class="version-button" id="full-version">Full dataset (desktop)</button>
+                <button class="version-button" id="lite-version">Small dataset (mobile)</button>
             </div>
         </div>
     </div>
@@ -227,10 +227,12 @@
         let isFullVersion = true;
         const mouse = new THREE.Vector2();
         let isDragging = false;
-        let previousMousePosition = { x: 0, y: 0 };
-        let mouseDownPosition = { x: 0, y: 0 };
-        let mouseDownTime = 0;
-        const MIN_ZOOM = 0.1, MAX_ZOOM = 1000, ZOOM_SPEED = 0.015;
+        let isPointerDown = false;
+        let previousPointerPosition = { x: 0, y: 0 };
+        let pointerDownPosition = { x: 0, y: 0 };
+        let pointerDownTime = 0;
+        let currentTouches = [];
+        const MIN_ZOOM = 0.1, MAX_ZOOM = 1000, ZOOM_SPEED = 0.01;
         let currentMode = 'decades';
 
         const styleColors = {};
@@ -484,14 +486,20 @@
 
         function addEventListeners() {
             window.addEventListener('resize', onWindowResize);
-            renderer.domElement.addEventListener('mousemove', onMouseMove);
-            renderer.domElement.addEventListener('mousedown', onMouseDown);
-            renderer.domElement.addEventListener('mouseup', onMouseUp);
-            renderer.domElement.addEventListener('wheel', onMouseWheel);
+            renderer.domElement.addEventListener('pointerdown', onPointerDown);
+            renderer.domElement.addEventListener('pointermove', onPointerMove);
+            renderer.domElement.addEventListener('pointerup', onPointerUp);
+            renderer.domElement.addEventListener('pointercancel', onPointerUp);
+            renderer.domElement.addEventListener('wheel', onWheel);
+            renderer.domElement.addEventListener('touchstart', onTouchStart, { passive: false });
+            renderer.domElement.addEventListener('touchmove', onTouchMove, { passive: false });
+            renderer.domElement.addEventListener('touchend', onTouchEnd, { passive: false });
+            
             document.getElementById('styles-button').addEventListener('click', () => setMode('styles'));
             document.getElementById('decades-button').addEventListener('click', () => setMode('decades'));
             document.getElementById('about-button').addEventListener('click', toggleAbout);
         }
+
 
         function onWindowResize() {
             camera.aspect = window.innerWidth / window.innerHeight;
@@ -499,43 +507,43 @@
             renderer.setSize(window.innerWidth, window.innerHeight);
         }
 
-        function onMouseMove(event) {
+        function onPointerDown(event) {
+            isPointerDown = true;
+            pointerDownPosition = { x: event.clientX, y: event.clientY };
+            previousPointerPosition = { x: event.clientX, y: event.clientY };
+            pointerDownTime = Date.now();
+        }
+
+        function onPointerMove(event) {
             mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
             mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
 
-            if (isDragging) {
+            if (isPointerDown && currentTouches.length < 2) {
                 const deltaMove = {
-                    x: event.clientX - previousMousePosition.x,
-                    y: event.clientY - previousMousePosition.y
+                    x: event.clientX - previousPointerPosition.x,
+                    y: event.clientY - previousPointerPosition.y
                 };
 
                 camera.position.x -= deltaMove.x * 0.001 * camera.position.z;
                 camera.position.y += deltaMove.y * 0.001 * camera.position.z;
 
-                previousMousePosition = { x: event.clientX, y: event.clientY };
+                previousPointerPosition = { x: event.clientX, y: event.clientY };
             }
         }
 
-        function onMouseDown(event) {
-            isDragging = true;
-            mouseDownPosition = { x: event.clientX, y: event.clientY };
-            previousMousePosition = { x: event.clientX, y: event.clientY };
-            mouseDownTime = Date.now();
-        }
-
-        function onMouseUp(event) {
-            isDragging = false;
-            const mouseUpTime = Date.now();
+        function onPointerUp(event) {
+            isPointerDown = false;
+            const pointerUpTime = Date.now();
             const dragDistance = Math.sqrt(
-                Math.pow(event.clientX - mouseDownPosition.x, 2) +
-                Math.pow(event.clientY - mouseDownPosition.y, 2)
+                Math.pow(event.clientX - pointerDownPosition.x, 2) +
+                Math.pow(event.clientY - pointerDownPosition.y, 2)
             );
-            const dragDuration = mouseUpTime - mouseDownTime;
+            const dragDuration = pointerUpTime - pointerDownTime;
 
             if (dragDistance < 5 && dragDuration < 200) {
                 const nearestPoint = findNearestPoint(mouse);
                 if (nearestPoint) {
-                    points.userData.selectedPoint = nearestPoint;  // Add this line
+                    points.userData.selectedPoint = nearestPoint;
                     if (currentMode === 'styles') highlightStyles(nearestPoint);
                     if (nearestPoint.youtube_uri) embedYouTube(nearestPoint.youtube_uri);
                     
@@ -544,17 +552,54 @@
             }
         }
 
-
-        function onMouseWheel(event) {
+        function onWheel(event) {
             event.preventDefault();
+            const zoomDelta = event.deltaY * ZOOM_SPEED;
+            zoomCamera(zoomDelta);
+        }
+
+        function onTouchStart(event) {
+            event.preventDefault();
+            currentTouches = Array.from(event.touches);
+        }
+
+        function onTouchMove(event) {
+            event.preventDefault();
+            currentTouches = Array.from(event.touches);
+            
+            if (currentTouches.length === 2) {
+                const touch1 = currentTouches[0];
+                const touch2 = currentTouches[1];
+                const currentDistance = Math.hypot(
+                    touch1.clientX - touch2.clientX,
+                    touch1.clientY - touch2.clientY
+                );
+                
+                if (touchStartDistance > 0) {
+                    const zoomDelta = (touchStartDistance - currentDistance) * 0.01;
+                    zoomCamera(zoomDelta);
+                }
+                
+                touchStartDistance = currentDistance;
+            }
+        }
+
+        function onTouchEnd(event) {
+            event.preventDefault();
+            currentTouches = Array.from(event.touches);
+            if (currentTouches.length < 2) {
+                touchStartDistance = 0;
+            }
+        }
+
+        function zoomCamera(delta) {
             camera.position.z = THREE.MathUtils.clamp(
-                camera.position.z + event.deltaY * ZOOM_SPEED,
+                camera.position.z + delta,
                 MIN_ZOOM,
                 MAX_ZOOM
             );
             points.material.size = THREE.MathUtils.lerp(0.01, 0.000001, (camera.position.z - MIN_ZOOM) / (MAX_ZOOM - MIN_ZOOM));
         }
-
         function findNearestPoint(mousePosition) {
             const vector = new THREE.Vector3(mousePosition.x, mousePosition.y, 0.5).unproject(camera);
             const raycaster = new THREE.Raycaster(camera.position, vector.sub(camera.position).normalize());
