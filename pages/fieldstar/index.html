@@ -334,7 +334,7 @@
             let loadedSize = 0;
 
             for (const part of parts) {
-                const response = await fetch(`https://www.barneyhill.com/assets/cosine_embeddings.all.0.25.5.part${part}.umap.ndjson.gz`);
+                const response = await fetch(`https://pub-d1dbfcd7c0514609a04cee056d2ddece.r2.dev/cosine_embeddings.all.0.25.5.part${part}.umap.ndjson.gz`);
                 const reader = response.body.getReader();
 
                 let receivedLength = 0;
