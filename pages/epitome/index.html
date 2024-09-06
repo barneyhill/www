@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>epitomē</title>
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="getty_satyr_512.png">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -199,6 +200,7 @@
     <script>
         let inscriptions = [];
         let embeddings = [];
+        let dataLoaded = false;
 
         const cosineSimilarity = (a, b) => {
             const dotProduct = a.reduce((sum, _, i) => sum + a[i] * b[i], 0);
@@ -212,6 +214,7 @@
             inscriptionList.innerHTML = '';
 
             inscriptions.forEach((inscription, index) => {
+                console.log('Inscription object:', inscription);
                 const li = document.createElement('li');
                 li.className = 'inscription-box';
                 
@@ -271,9 +274,39 @@
             });
         };
 
+        const fetchAndProcessInscriptions = async () => {
+            try {
+                const response = await fetch('./semantic_with_embeddings.jsonl.gz');
+                const decompressedStream = response.body.pipeThrough(new DecompressionStream('gzip'));
+                const decompressedResponse = new Response(decompressedStream);
+                const decompressedText = await decompressedResponse.text();
+                inscriptions = decompressedText.trim().split('\n').map(JSON.parse);
+                embeddings = inscriptions.map(inscription => inscription.embedding);
+                dataLoaded = true;
+                console.log('Data loaded successfully');
+            } catch (error) {
+                console.error('Error fetching or processing inscriptions:', error);
+            }
+        };
+
         const searchInscriptions = async (query) => {
             document.getElementById('loading-container').style.display = 'block';
             document.getElementById('inscription-list').style.display = 'none';
+            
+            if (!dataLoaded) {
+                console.log('Waiting for data to load...');
+                await new Promise(resolve => {
+                    const checkDataLoaded = () => {
+                        if (dataLoaded) {
+                            resolve();
+                        } else {
+                            setTimeout(checkDataLoaded, 100);
+                        }
+                    };
+                    checkDataLoaded();
+                });
+            }
+            
             try {
                 const response = await fetch('https://sicily-cf.barneyhill1.workers.dev', {
                     method: 'POST',
@@ -293,6 +326,7 @@
                 const similarities = embeddings.map((embedding, index) => {
                     if (!embedding || !Array.isArray(embedding)) {
                         console.error('Invalid embedding for inscription:', inscriptions[index]);
+                        console.error('embedding:', embedding);
                         return { index, similarity: 0 };
                     }
                     return {
@@ -310,19 +344,6 @@
             } finally {
                 document.getElementById('loading-container').style.display = 'none';
                 document.getElementById('inscription-list').style.display = 'block';
-            }
-        };
-
-        const fetchAndProcessInscriptions = async () => {
-            try {
-                const response = await fetch('./semantic_with_embeddings.jsonl.gz');
-                const decompressedStream = response.body.pipeThrough(new DecompressionStream('gzip'));
-                const decompressedResponse = new Response(decompressedStream);
-                const decompressedText = await decompressedResponse.text();
-                inscriptions = decompressedText.trim().split('\n').map(JSON.parse);
-                embeddings = inscriptions.map(inscription => inscription.embedding);
-            } catch (error) {
-                console.error('Error fetching or processing inscriptions:', error);
             }
         };
 
