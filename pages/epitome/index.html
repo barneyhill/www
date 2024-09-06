@@ -275,7 +275,7 @@
             document.getElementById('loading-container').style.display = 'block';
             document.getElementById('inscription-list').style.display = 'none';
             try {
-                const response = await fetch('http://localhost:8787', {
+                const response = await fetch('https://sicily-cf.barneyhill1.workers.dev', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ text: query })
@@ -315,7 +315,7 @@
 
         const fetchAndProcessInscriptions = async () => {
             try {
-                const response = await fetch('http://localhost:8000/semantic_with_embeddings.jsonl.gz');
+                const response = await fetch('./semantic_with_embeddings.jsonl.gz');
                 const decompressedStream = response.body.pipeThrough(new DecompressionStream('gzip'));
                 const decompressedResponse = new Response(decompressedStream);
                 const decompressedText = await decompressedResponse.text();
