@@ -192,10 +192,10 @@
         }
         #loading-container {
             display: none;
-            position: absolute;
+            position: fixed;
             left: 50%;
             transform: translateX(-50%);
-            top: calc(100% + 20px);
+            top: 50vh;
             z-index: 10;
         }
         .spinning-satyr {
@@ -207,20 +207,26 @@
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
+        #content-wrapper {
+            min-height: 100vh;
+        }
     </style>
 </head>
 <body>
-    <h1>epitomē</h1>
-    <p class="description"><i>A semantic search engine for ancient text.</i></p>
-    <p class="announcement">🎉 Added <a href="https://isicily.org/">4,000 ancient Sicilian epitaphs</a> (7th c. BCE - 7th c. CE) 🎉</p>
-    <div id="search-container">
-        <span id="search-icon">🔍</span>
-        <input type="text" id="search-input" placeholder='Search for terms like "food", "festival", "magic"...'>
-        <div id="loading-container">
-            <img src="getty_satyr_512.png" alt="Loading" class="spinning-satyr">
+    <div id="content-wrapper">
+        <h1>epitomē</h1>
+        <p class="description"><i>A semantic search engine for ancient text.</i></p>
+        <p class="announcement">🎉 Added <a href="https://isicily.org/">4,000 ancient Sicilian epitaphs</a> (7th c. BCE - 7th c. CE) 🎉</p>
+        <div id="search-container">
+            <span id="search-icon">🔍</span>
+            <input type="text" id="search-input" placeholder='Search for terms like "food", "festival", "magic"...'>
         </div>
+        <ul id="inscription-list"></ul>
     </div>
-    <ul id="inscription-list"></ul>
+
+    <div id="loading-container">
+        <img src="getty_satyr_512.png" alt="Loading" class="spinning-satyr">
+    </div>
 
     <script>
         const epigraphyToEmoji = {
@@ -420,8 +426,12 @@
         };
 
         const searchInscriptions = async (query) => {
-            document.getElementById('loading-container').style.display = 'block';
-            document.getElementById('inscription-list').style.display = 'none';
+            const loadingContainer = document.getElementById('loading-container');
+            const inscriptionList = document.getElementById('inscription-list');
+            
+            loadingContainer.style.display = 'block';
+            inscriptionList.style.visibility = 'hidden';
+            inscriptionList.style.minHeight = inscriptionList.offsetHeight + 'px';
             
             if (!dataLoaded) {
                 console.log('Waiting for data to load...');
@@ -472,8 +482,9 @@
             } catch (error) {
                 console.error('Error searching inscriptions:', error);
             } finally {
-                document.getElementById('loading-container').style.display = 'none';
-                document.getElementById('inscription-list').style.display = 'block';
+                loadingContainer.style.display = 'none';
+                inscriptionList.style.visibility = 'visible';
+                inscriptionList.style.minHeight = '';
             }
         };
 
