@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>epitomē</title>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        #search-container {
+            max-width: 90%; /* Changed from 800px to 90% */
+            width: 800px; /* Added width */
+            margin: 0 auto;
+            position: relative;
+            top: 12vh; /* Add this line */
+            transform: translateY(-50%); /* Add this line */
+        }
+        #search-input {
+            width: 100%;
+            padding: 15px 15px 15px 50px; /* Increased padding */
+            font-size: 18px; /* Increased font size */
+            border-radius: 25px; /* Increased border radius */
+            border: 1px solid #ccc; /* Add a subtle border */
+            outline: none; /* Remove the default focus outline */
+            box-sizing: border-box; /* Added this line */
+        }
+        #search-icon {
+            position: absolute;
+            left: 18px; /* Adjusted left position */
+            top: 50%;
+            transform: translateY(-50%);
+            color: #888;
+            pointer-events: none; /* Makes the icon non-interactive */
+            font-size: 20px; /* Increased icon size */
+        }
+        #search-input:focus {
+            box-shadow: 0 0 5px rgba(0,0,0,0.1); /* Add a subtle shadow on focus */
+        }
+        #inscription-list {
+            list-style-type: none;
+            padding: 0;
+            max-width: 800px;
+            margin: 12vh auto 0; /* Increased top margin */
+        }
+        .inscription-box {
+            background-color: #fff1e5; /* FT background color */
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            padding: 20px;
+            position: relative;
+            margin-top: 40px; /* Add space for tabs */
+            border: 1px solid #ccc1b3; /* FT border color */
+        }
+        .inscription-title {
+            color: #33302e; /* FT dark text color */
+            cursor: pointer;
+            text-align: center;
+        }
+        .inscription-title:hover {
+            text-decoration: underline;
+        }
+        .inscription-text {
+            font-style: italic;
+            background-color: #fff1e5; /* FT background color */
+            padding: 10px;
+            border-radius: 0 0 4px 4px; /* Rounded corners only at bottom */
+            margin: 0; /* Remove margin */
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            text-align: center;
+            border: 1px solid #ccc1b3; /* FT border color */
+            position: relative;
+            z-index: 1;
+            color: #33302e; /* FT dark text color */
+        }
+        .tab-container {
+            display: flex;
+            margin-bottom: -1px; /* Remove gap between tabs and text box */
+            position: relative;
+            z-index: 2;
+            justify-content: flex-end; /* Add this line to move tabs to the right */
+        }
+        .tab {
+            padding: 8px 15px;
+            cursor: pointer;
+            background-color: #f2dfce; /* Lighter FT color */
+            border: 1px solid #ccc1b3; /* FT border color */
+            border-bottom: none;
+            border-radius: 8px 8px 0 0;
+            margin-left: -1px; /* Change from margin-right to margin-left */
+            font-size: 14px;
+            transition: background-color 0.3s;
+            color: #33302e; /* FT dark text color */
+        }
+        .tab.active {
+            background-color: #fff1e5; /* FT background color */
+            border-bottom: 1px solid #fff1e5;
+            position: relative;
+            z-index: 3;
+        }
+        .tab:hover {
+            background-color: #fff1e5; /* FT background color */
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            font-size: 7rem; /* Increased further */
+            margin-bottom: 0; /* Add this line to remove bottom margin */
+            font-family: 'Libre Baskerville', serif;
+            font-weight: 700;
+        }
+        .description {
+            text-align: center;
+            color: #666;
+            margin-top: 10px; /* Changed from 0 to 5px to move it down slightly */
+            margin-bottom: 20px;
+            font-size: 1.5rem; /* Increased further */
+        }
+        .similarity-indicator {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background-color: rgba(0, 0, 0, 0.1);
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-size: 12px;
+        }
+        .announcement {
+            text-align: center;
+            color: #990f3d;
+            margin-bottom: 20px;
+            font-size: 1rem;
+        }
+        .announcement a {
+            color: inherit;
+            text-decoration: underline;
+        }
+        .satyr-image {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+            width: 10%; /* Added width to make it smaller */
+        }
+        #loading-container {
+            display: none;
+            max-width: 800px;
+            margin: 12vh auto 0;
+        }
+        .spinning-satyr {
+            width: 100px;
+            height: 100px;
+            animation: spin 1s linear infinite;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        @keyframes spin {
+            0% { transform: translate(-50%, -50%) rotate(0deg); }
+            100% { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+        .loading-text {
+            margin-top: 10px;
+            font-size: 18px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>epitomē</h1>
+    <p class="description"><i>A semantic search engine for ancient text.</i></p>
+    <!-- <img src="getty_satyr_512.png" alt="Getty Satyr" class="satyr-image"> -->
+    <p class="announcement">🎉 Added <a href="https://isicily.org/">4,000 ancient Sicilian epitaphs</a> (7th c. BCE - 7th c. CE) 🎉</p>
+    <div id="search-container">
+        <span id="search-icon">🔍</span>
+        <input type="text" id="search-input" placeholder='Search for terms like "food", "festival", "magic"...'>
+    </div>
+    <div id="loading-container">
+        <div class="inscription-box" style="height: 300px; position: relative;">
+            <img src="getty_satyr_512.png" alt="Loading" class="spinning-satyr">
+        </div>
+    </div>
+    <ul id="inscription-list"></ul>
+
+    <script src="icons.js"></script>
+    <script>
+        let inscriptions = [];
+        let embeddings = [];
+
+        const cosineSimilarity = (a, b) => {
+            const dotProduct = a.reduce((sum, _, i) => sum + a[i] * b[i], 0);
+            const magnitudeA = Math.sqrt(a.reduce((sum, val) => sum + val * val, 0));
+            const magnitudeB = Math.sqrt(b.reduce((sum, val) => sum + val * val, 0));
+            return dotProduct / (magnitudeA * magnitudeB);
+        };
+
+        const createInscriptionList = (inscriptions, similarities) => {
+            const inscriptionList = document.getElementById('inscription-list');
+            inscriptionList.innerHTML = '';
+
+            inscriptions.forEach((inscription, index) => {
+                const li = document.createElement('li');
+                li.className = 'inscription-box';
+                
+                const translatedText = inscription.translation || inscription.ai_translation;
+                const isAITranslated = !inscription.translation && inscription.ai_translation;
+                const functionIcon = epigraphyToEmoji[inscription.function] || '❓';
+                
+                const commentaryText = inscription.commentary || inscription.ai_explanation || 'No commentary available';
+                const isAICommentary = !inscription.commentary && inscription.ai_explanation;
+                
+                // Add distance indicator
+                const similarity = similarities[index].similarity.toFixed(2);
+                
+                li.innerHTML = `
+                    <div class="similarity-indicator">similarity: ${similarity}</div>
+                    <h3 class="inscription-title" data-uri="${inscription.uri}">${inscription.title}</h3>
+                    <div class="tab-container">
+                        <span class="tab active" data-tab="original">Original</span>
+                        ${translatedText ? `<span class="tab" data-tab="translated">${isAITranslated ? 'AI Translation' : 'Translation'}</span>` : ''}
+                    </div>
+                    <div class="tab-content active" data-tab="original">
+                        <div class="inscription-text">${(inscription.inscription || '\nNo original text available') + '\n\n'}</div>
+                    </div>
+                    ${translatedText ? `
+                    <div class="tab-content" data-tab="translated">
+                        <div class="inscription-text">\n${translatedText}\n\n</div>
+                    </div>
+                    ` : ''}
+                    <p><strong>Material:</strong> ${inscription.material}</p>
+                    <p><strong>Date:</strong> ${inscription.date || 'Unknown'}</p>
+                    <p><strong>Language(s):</strong> ${inscription.langs.join(', ')}</p>
+                    <p><strong>Provenance:</strong> ${inscription.provenance}</p>
+                    <p><strong>Location:</strong> ${inscription.ancient_place || inscription.modern_place || 'Unknown'}</p>
+                    <p><strong>Function:</strong> ${functionIcon} ${inscription.function}</p>
+                    <p><strong>${isAICommentary ? 'Commentary (AI)' : 'Commentary'}:</strong> ${commentaryText}</p>
+                `;
+                inscriptionList.appendChild(li);
+
+                const titleElement = li.querySelector('.inscription-title');
+                titleElement.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    const uri = e.target.getAttribute('data-uri');
+                    if (uri) {
+                        window.open(uri, '_blank');
+                    }
+                });
+
+                const tabs = li.querySelectorAll('.tab');
+                tabs.forEach(tab => {
+                    tab.addEventListener('click', () => {
+                        const tabName = tab.getAttribute('data-tab');
+                        li.querySelectorAll('.tab, .tab-content').forEach(el => el.classList.remove('active'));
+                        tab.classList.add('active');
+                        li.querySelector(`.tab-content[data-tab="${tabName}"]`).classList.add('active');
+                    });
+                });
+            });
+        };
+
+        const searchInscriptions = async (query) => {
+            document.getElementById('loading-container').style.display = 'block';
+            document.getElementById('inscription-list').style.display = 'none';
+            try {
+                const response = await fetch('http://localhost:8787', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ text: query })
+                });
+                const data = await response.json();
+                console.log('Embedding server response:', data);
+
+                if (!data.embedding || !Array.isArray(data.embedding)) {
+                    console.error('Invalid embedding received from server');
+                    return;
+                }
+
+                const queryEmbedding = data.embedding;
+
+                const similarities = embeddings.map((embedding, index) => {
+                    if (!embedding || !Array.isArray(embedding)) {
+                        console.error('Invalid embedding for inscription:', inscriptions[index]);
+                        return { index, similarity: 0 };
+                    }
+                    return {
+                        index,
+                        similarity: cosineSimilarity(queryEmbedding, embedding)
+                    };
+                });
+
+                similarities.sort((a, b) => b.similarity - a.similarity);
+                const topResults = similarities.slice(0, 10);
+                const topInscriptions = topResults.map(result => inscriptions[result.index]);
+                createInscriptionList(topInscriptions, topResults);
+            } catch (error) {
+                console.error('Error searching inscriptions:', error);
+            } finally {
+                document.getElementById('loading-container').style.display = 'none';
+                document.getElementById('inscription-list').style.display = 'block';
+            }
+        };
+
+        const fetchAndProcessInscriptions = async () => {
+            try {
+                const response = await fetch('http://localhost:8000/semantic_with_embeddings.jsonl.gz');
+                const decompressedStream = response.body.pipeThrough(new DecompressionStream('gzip'));
+                const decompressedResponse = new Response(decompressedStream);
+                const decompressedText = await decompressedResponse.text();
+                inscriptions = decompressedText.trim().split('\n').map(JSON.parse);
+                embeddings = inscriptions.map(inscription => inscription.embedding);
+            } catch (error) {
+                console.error('Error fetching or processing inscriptions:', error);
+            }
+        };
+
+        document.getElementById('search-input').addEventListener('keyup', (event) => {
+            if (event.key === 'Enter') {
+                const query = event.target.value.trim();
+                if (query) {
+                    searchInscriptions(query);
+                }
+            }
+        });
+
+        fetchAndProcessInscriptions();
+    </script>
+</body>
+</html>
