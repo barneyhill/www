@@ -7,59 +7,93 @@
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/png" href="getty_satyr_512.png">
     <style>
+        :root {
+            --font-size-base: 16px;
+            --font-size-h1: 4rem;
+            --font-size-description: 1.2rem;
+            --search-container-width: 90%;
+            --search-container-top: 8vh;
+            --search-input-padding: 12px 12px 12px 40px;
+            --search-icon-left: 14px;
+            --search-icon-size: 18px;
+            --inscription-box-padding: 15px;
+            --tab-padding: 6px 10px;
+            --tab-font-size: 12px;
+            --inscription-text-font-size: 14px;
+            --announcement-font-size: 0.9rem;
+        }
+
+        @media (min-width: 768px) {
+            :root {
+                --font-size-h1: 7rem;
+                --font-size-description: 1.5rem;
+                --search-container-width: 800px;
+                --search-container-top: 12vh;
+                --search-input-padding: 15px 15px 15px 50px;
+                --search-icon-left: 18px;
+                --search-icon-size: 20px;
+                --inscription-box-padding: 20px;
+                --tab-padding: 8px 15px;
+                --tab-font-size: 14px;
+                --inscription-text-font-size: 16px;
+                --announcement-font-size: 1rem;
+            }
+        }
+
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
             background-color: #f0f0f0;
+            font-size: var(--font-size-base);
         }
         #search-container {
-            max-width: 90%; /* Changed from 800px to 90% */
-            width: 800px; /* Added width */
+            max-width: var(--search-container-width);
+            width: 100%;
             margin: 0 auto;
             position: relative;
-            top: 12vh; /* Add this line */
-            transform: translateY(-50%); /* Add this line */
+            top: var(--search-container-top);
+            transform: translateY(-50%);
         }
         #search-input {
             width: 100%;
-            padding: 15px 15px 15px 50px; /* Increased padding */
-            font-size: 18px; /* Increased font size */
-            border-radius: 25px; /* Increased border radius */
-            border: 1px solid #ccc; /* Add a subtle border */
-            outline: none; /* Remove the default focus outline */
-            box-sizing: border-box; /* Added this line */
+            padding: var(--search-input-padding);
+            font-size: var(--search-icon-size);
+            border-radius: 25px;
+            border: 1px solid #ccc;
+            outline: none;
+            box-sizing: border-box;
         }
         #search-icon {
             position: absolute;
-            left: 18px; /* Adjusted left position */
+            left: var(--search-icon-left);
             top: 50%;
             transform: translateY(-50%);
             color: #888;
-            pointer-events: none; /* Makes the icon non-interactive */
-            font-size: 20px; /* Increased icon size */
+            pointer-events: none;
+            font-size: var(--search-icon-size);
         }
         #search-input:focus {
-            box-shadow: 0 0 5px rgba(0,0,0,0.1); /* Add a subtle shadow on focus */
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
         }
         #inscription-list {
             list-style-type: none;
             padding: 0;
             max-width: 800px;
-            margin: 12vh auto 0; /* Increased top margin */
+            margin: 12vh auto 0;
         }
         .inscription-box {
-            background-color: #fff1e5; /* FT background color */
+            background-color: #fff1e5;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             margin-bottom: 20px;
-            padding: 20px;
+            padding: var(--inscription-box-padding);
             position: relative;
-            margin-top: 40px; /* Add space for tabs */
-            border: 1px solid #ccc1b3; /* FT border color */
+            margin-top: 40px;
+            border: 1px solid #ccc1b3;
         }
         .inscription-title {
-            color: #33302e; /* FT dark text color */
+            color: #33302e;
             cursor: pointer;
             text-align: center;
         }
@@ -68,45 +102,46 @@
         }
         .inscription-text {
             font-style: italic;
-            background-color: #fff1e5; /* FT background color */
+            background-color: #fff1e5;
             padding: 10px;
-            border-radius: 0 0 4px 4px; /* Rounded corners only at bottom */
-            margin: 0; /* Remove margin */
+            border-radius: 0 0 4px 4px;
+            margin: 0;
             white-space: pre-wrap;
             word-wrap: break-word;
             text-align: center;
-            border: 1px solid #ccc1b3; /* FT border color */
+            border: 1px solid #ccc1b3;
             position: relative;
             z-index: 1;
-            color: #33302e; /* FT dark text color */
+            color: #33302e;
+            font-size: var(--inscription-text-font-size);
         }
         .tab-container {
             display: flex;
-            margin-bottom: -1px; /* Remove gap between tabs and text box */
+            margin-bottom: -1px;
             position: relative;
             z-index: 2;
-            justify-content: flex-end; /* Add this line to move tabs to the right */
+            justify-content: flex-end;
         }
         .tab {
-            padding: 8px 15px;
+            padding: var(--tab-padding);
             cursor: pointer;
-            background-color: #f2dfce; /* Lighter FT color */
-            border: 1px solid #ccc1b3; /* FT border color */
+            background-color: #f2dfce;
+            border: 1px solid #ccc1b3;
             border-bottom: none;
             border-radius: 8px 8px 0 0;
-            margin-left: -1px; /* Change from margin-right to margin-left */
-            font-size: 14px;
+            margin-left: -1px;
+            font-size: var(--tab-font-size);
             transition: background-color 0.3s;
-            color: #33302e; /* FT dark text color */
+            color: #33302e;
         }
         .tab.active {
-            background-color: #fff1e5; /* FT background color */
+            background-color: #fff1e5;
             border-bottom: 1px solid #fff1e5;
             position: relative;
             z-index: 3;
         }
         .tab:hover {
-            background-color: #fff1e5; /* FT background color */
+            background-color: #fff1e5;
         }
         .tab-content {
             display: none;
@@ -117,17 +152,17 @@
         h1 {
             text-align: center;
             color: #333;
-            font-size: 7rem; /* Increased further */
-            margin-bottom: 0; /* Add this line to remove bottom margin */
+            font-size: var(--font-size-h1);
+            margin-bottom: 0;
             font-family: 'Libre Baskerville', serif;
             font-weight: 700;
         }
         .description {
             text-align: center;
             color: #666;
-            margin-top: 10px; /* Changed from 0 to 5px to move it down slightly */
+            margin-top: 10px;
             margin-bottom: 20px;
-            font-size: 1.5rem; /* Increased further */
+            font-size: var(--font-size-description);
         }
         .similarity-indicator {
             position: absolute;
@@ -142,7 +177,7 @@
             text-align: center;
             color: #990f3d;
             margin-bottom: 20px;
-            font-size: 1rem;
+            font-size: var(--announcement-font-size);
         }
         .announcement a {
             color: inherit;
@@ -153,7 +188,7 @@
             margin: 0 auto;
             max-width: 100%;
             height: auto;
-            width: 10%; /* Added width to make it smaller */
+            width: 10%;
         }
         #loading-container {
             display: none;
@@ -183,7 +218,6 @@
 <body>
     <h1>epitomē</h1>
     <p class="description"><i>A semantic search engine for ancient text.</i></p>
-    <!-- <img src="getty_satyr_512.png" alt="Getty Satyr" class="satyr-image"> -->
     <p class="announcement">🎉 Added <a href="https://isicily.org/">4,000 ancient Sicilian epitaphs</a> (7th c. BCE - 7th c. CE) 🎉</p>
     <div id="search-container">
         <span id="search-icon">🔍</span>
@@ -225,7 +259,6 @@
                 const commentaryText = inscription.commentary || inscription.ai_explanation || 'No commentary available';
                 const isAICommentary = !inscription.commentary && inscription.ai_explanation;
                 
-                // Add distance indicator
                 const similarity = similarities[index].similarity.toFixed(2);
                 
                 li.innerHTML = `
