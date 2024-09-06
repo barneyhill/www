@@ -192,26 +192,20 @@
         }
         #loading-container {
             display: none;
-            max-width: 800px;
-            margin: 12vh auto 0;
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            top: calc(100% + 20px);
+            z-index: 10;
         }
         .spinning-satyr {
             width: 100px;
             height: 100px;
             animation: spin 1s linear infinite;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
         }
         @keyframes spin {
-            0% { transform: translate(-50%, -50%) rotate(0deg); }
-            100% { transform: translate(-50%, -50%) rotate(360deg); }
-        }
-        .loading-text {
-            margin-top: 10px;
-            font-size: 18px;
-            color: #666;
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
         }
     </style>
 </head>
@@ -222,9 +216,7 @@
     <div id="search-container">
         <span id="search-icon">🔍</span>
         <input type="text" id="search-input" placeholder='Search for terms like "food", "festival", "magic"...'>
-    </div>
-    <div id="loading-container">
-        <div class="inscription-box" style="height: 300px; position: relative;">
+        <div id="loading-container">
             <img src="getty_satyr_512.png" alt="Loading" class="spinning-satyr">
         </div>
     </div>
