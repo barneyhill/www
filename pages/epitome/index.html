@@ -54,6 +54,8 @@
             position: relative;
             top: var(--search-container-top);
             transform: translateY(-50%);
+            display: flex; /* Add this line */
+            align-items: center; /* Add this line */
         }
         #search-input {
             width: 100%;
@@ -63,16 +65,21 @@
             border: 1px solid #ccc;
             outline: none;
             box-sizing: border-box;
-            padding-left: 50px; /* Increased left padding to move text away from icon */
+            padding-left: 25px; /* Increased left padding to move text away from icon */
+            flex-grow: 1; /* Add this line */
+            padding-right: 50px; /* Add right padding for the button */
         }
         #search-icon {
             position: absolute;
-            left: var(--search-icon-left);
+            right: var(--search-icon-left);
             top: 50%;
             transform: translateY(-50%);
             color: #888;
-            pointer-events: none;
             font-size: var(--search-icon-size);
+            cursor: pointer;
+        }
+        #search-button {
+            display: none; /* Hide the original search button */
         }
         #search-input:focus {
             box-shadow: 0 0 5px rgba(0,0,0,0.1);
@@ -258,8 +265,9 @@
         <p class="description"><i>A semantic search engine for ancient text.</i></p>
         <p class="announcement">🎉 Added <a href="https://isicily.org/">4,000 Sicilian epitaphs</a> (7th c. BCE - 7th c. CE) 🎉</p>
         <div id="search-container">
-            <span id="search-icon">🔍</span>
             <input type="text" id="search-input" placeholder='"food", "love", "magic"...'>
+            <span id="search-icon" onclick="performSearch()">🔍</span>
+            <button id="search-button">Search</button>
             <div id="loading-container">
                 <img src="getty_satyr_512.png" alt="Loading" class="spinning-satyr">
             </div>
@@ -544,12 +552,18 @@
 
         document.getElementById('search-input').addEventListener('keyup', (event) => {
             if (event.key === 'Enter') {
-                const query = event.target.value.trim();
-                if (query) {
-                    searchInscriptions(query);
-                }
+                performSearch();
             }
         });
+
+        document.getElementById('search-icon').addEventListener('click', performSearch);
+
+        function performSearch() {
+            const query = document.getElementById('search-input').value.trim();
+            if (query) {
+                searchInscriptions(query);
+            }
+        }
 
         function toggleAbout() {
             const overlay = document.getElementById('about-overlay');
