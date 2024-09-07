@@ -63,6 +63,7 @@
             border: 1px solid #ccc;
             outline: none;
             box-sizing: border-box;
+            padding-left: 50px; /* Increased left padding to move text away from icon */
         }
         #search-icon {
             position: absolute;
@@ -192,11 +193,12 @@
         }
         #loading-container {
             display: none;
-            position: fixed;
+            position: absolute;
             left: 50%;
             transform: translateX(-50%);
-            top: 50vh;
             z-index: 10;
+            top: 100%; /* Position it right below the search container */
+            margin-top: 20px; /* Add some space between the search box and the loading icon */
         }
         .spinning-satyr {
             width: 100px;
@@ -210,22 +212,73 @@
         #content-wrapper {
             min-height: 100vh;
         }
+        .about-link {
+            position: absolute;
+            top: 20px;
+            right: 30px;
+            text-decoration: none;
+            color: #333;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+
+        .about-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(255, 255, 255, 0.95);
+            z-index: 1000;
+            overflow-y: auto;
+        }
+
+        .about-content {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            position: relative;
+        }
+
+        .close-button {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            font-size: 24px;
+            cursor: pointer;
+            color: #333;
+        }
     </style>
 </head>
 <body>
     <div id="content-wrapper">
+        <a class="about-link" onclick="toggleAbout()">About</a>
         <h1>epitomē</h1>
         <p class="description"><i>A semantic search engine for ancient text.</i></p>
         <p class="announcement">🎉 Added <a href="https://isicily.org/">4,000 Sicilian epitaphs</a> (7th c. BCE - 7th c. CE) 🎉</p>
         <div id="search-container">
             <span id="search-icon">🔍</span>
             <input type="text" id="search-input" placeholder='"food", "love", "magic"...'>
+            <div id="loading-container">
+                <img src="getty_satyr_512.png" alt="Loading" class="spinning-satyr">
+            </div>
         </div>
         <ul id="inscription-list"></ul>
     </div>
 
-    <div id="loading-container">
-        <img src="getty_satyr_512.png" alt="Loading" class="spinning-satyr">
+    <div id="about-overlay" class="about-overlay">
+        <div class="about-content">
+            <span class="close-button" onclick="toggleAbout()">&times;</span>
+            <h2>About epitomē</h2>
+            <p>epitomē is a semantic search engine for ancient text. This means you can search for themes and concepts across multiple languages.</p>
+            <p>If a text is missing a translation we use the Claude 3.5 Sonnet model to translate - note this should not be relied upon in anyway and serves only as a starting point for further research! For text embedding we use OpenAI's text-embedding-3-large model.</p>
+            <p>We're looking to add more ancient text corpora. If you have any suggestions or find any bugs, please contact me at <a href="mailto:barneyhill1@gmail.com">barneyhill1@gmail.com</a>.</p>
+            <p>Data sources:</p>
+            <ul>
+                <li><a href="https://isicily.org/">ISICILY</a>: 4,000 Sicilian epitaphs (7th c. BCE - 7th c. CE)</li>
+            </ul>
+        </div>
     </div>
 
     <script>
@@ -369,7 +422,7 @@
                     <h3 class="inscription-title" data-uri="${inscription.uri}">${inscription.title}</h3>
                     <div class="tab-container">
                         <span class="tab active" data-tab="original">Original</span>
-                        ${translatedText ? `<span class="tab" data-tab="translated">${isAITranslated ? 'AI Translation' : 'Translation'}</span>` : ''}
+                        ${translatedText ? `<span class="tab" data-tab="translated">${isAITranslated ? 'Translation (AI)' : 'Translation'}</span>` : ''}
                     </div>
                     <div class="tab-content active" data-tab="original">
                         <div class="inscription-text">${(inscription.inscription || '\nNo original text available') + '\n\n'}</div>
@@ -427,6 +480,7 @@
 
         const searchInscriptions = async (query) => {
             const loadingContainer = document.getElementById('loading-container');
+            const searchContainer = document.getElementById('search-container');
             const inscriptionList = document.getElementById('inscription-list');
             
             loadingContainer.style.display = 'block';
@@ -496,6 +550,11 @@
                 }
             }
         });
+
+        function toggleAbout() {
+            const overlay = document.getElementById('about-overlay');
+            overlay.style.display = overlay.style.display === 'block' ? 'none' : 'block';
+        }
 
         fetchAndProcessInscriptions();
     </script>
