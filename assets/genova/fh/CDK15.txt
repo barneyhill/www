@@ -1,0 +1,24 @@
+# CDK15
+
+## Overview
+Cyclin-dependent kinase 15 (CDK15) is a gene that encodes the protein cyclin-dependent kinase 15, a member of the cyclin-dependent kinase family, which is involved in regulating various cellular processes, including cell cycle progression and signal transduction. As a kinase, CDK15 plays a critical role in phosphorylating target proteins, thereby modulating their activity and function. The protein encoded by CDK15 has been implicated in the progression of several cancers, including colorectal and breast cancer, where it exhibits distinct roles. In colorectal cancer, CDK15 acts as an oncogene, promoting tumor growth and progression through its interaction with PAK4 and subsequent activation of the MEK/ERK and β-catenin signaling pathways (Huang2021CDK15). Conversely, in breast cancer, CDK15 functions as a tumor suppressor, where its expression is associated with reduced cell invasion and metastasis (Li2019PA28αβ). These dual roles underscore the complexity of CDK15's function in cancer biology and highlight its potential as a target for therapeutic interventions.
+
+## Clinical Significance
+CDK15 has been implicated in the progression of colorectal cancer (CRC) and breast cancer through alterations in its expression and interactions. In colorectal cancer, CDK15 is overexpressed in cancerous tissues compared to normal tissues, and its high expression is associated with poor prognosis and lower survival rates in patients. CDK15 promotes CRC progression by phosphorylating PAK4, which activates the β-catenin/MEK-ERK signaling pathways, leading to increased cell proliferation and tumor growth. Knockdown of CDK15 in CRC models results in reduced tumor growth and improved survival, suggesting its role as an oncogene in CRC (Huang2021CDK15).
+
+In contrast, CDK15 acts as a suppressor in breast cancer. Its expression is frequently decreased in breast cancer tissues, and its overexpression reduces the invasive and migratory abilities of breast cancer cells. CDK15 negatively modulates breast cancer cell invasion and metastasis, and its knockdown enhances these processes. This suggests that CDK15 may play a protective role against breast cancer progression (Li2019PA28αβ).
+
+These findings highlight the dual role of CDK15 in different cancer types, acting as an oncogene in colorectal cancer and a tumor suppressor in breast cancer, making it a potential target for therapeutic interventions.
+
+## Interactions
+CDK15 interacts with the protein PAK4, playing a significant role in colorectal cancer progression. CDK15 phosphorylates PAK4 at the S291 residue, a critical interaction that enhances the MEK/ERK and β-catenin signaling pathways, which are often dysregulated in colorectal cancer. This phosphorylation event is essential for PAK4's oncogenic function in colorectal cancer cells (Huang2021CDK15). The interaction between CDK15 and PAK4 was confirmed through coimmunoprecipitation assays in HEK293T cells and validated in colon cancer cell lines HCT116 and SW480. In vitro kinase assays demonstrated that CDK15 can phosphorylate PAK4, confirming a direct physical interaction (Huang2021CDK15).
+
+In breast cancer, CDK15 is involved in modulating cell invasion and metastasis. It is suggested that CDK15 interacts with the immunoproteasome, specifically PA28α/β, although a direct interaction with β5i or the 11S regulator was not identified. The study indicates that CDK15 might be a downstream target of PA28α/β, which are involved in breast cancer progression (Li2019PA28αβ).
+
+
+## References
+
+
+[1. (Huang2021CDK15) Chuntian Huang, Ruijuan Du, Xuechao Jia, Kangdong Liu, Yan Qiao, Qiong Wu, Ning Yao, Lu Yang, Liting Zhou, Xuejiao Liu, Pu Xiang, Mingxia Xin, Yan Wang, Xiaojie Chen, Dong Joon Kim, Zigang Dong, and Xiang Li. Cdk15 promotes colorectal cancer progression via phosphorylating pak4 and regulating β-catenin/ mek-erk signaling pathway. Cell Death &amp; Differentiation, 29(1):14–27, July 2021. URL: http://dx.doi.org/10.1038/s41418-021-00828-6, doi:10.1038/s41418-021-00828-6. This article has 30 citations.](https://doi.org/10.1038/s41418-021-00828-6)
+
+[2. (Li2019PA28αβ) Shengnan Li, Xiaoqin Dai, Kunxiang Gong, Kai Song, Fang Tai, and Jian Shi. Pa28α/β promote breast cancer cell invasion and metastasis via down-regulation of cdk15. Frontiers in Oncology, November 2019. URL: http://dx.doi.org/10.3389/fonc.2019.01283, doi:10.3389/fonc.2019.01283. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2019.01283)

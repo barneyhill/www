@@ -1,0 +1,58 @@
+# SETD3
+
+## Overview
+SETD3 is a gene that encodes the protein SET domain containing 3, actin N3(tau)-histidine methyltransferase, which is a member of the methyltransferase enzyme family. This protein is primarily recognized for its role in the post-translational modification of actin, specifically methylating the histidine 73 residue on β-actin, a modification crucial for the stability and integrity of actin filaments (Kwiatkowski2018SETD3). The SETD3 protein is characterized by its unique structural domains, including a SET domain responsible for its methyltransferase activity, and a Rubisco LSMT substrate-binding domain (Zheng2020Molecular). Beyond its structural role in the cytoskeleton, SETD3 is involved in various cellular processes such as muscle contraction, transcription regulation, and DNA repair (Shu2021The; Chia2024Functional). Additionally, SETD3 has been implicated in the replication of enteroviruses and in the progression of several cancers, where its expression levels can influence tumor growth and patient prognosis (Hassan2020SETD3; Peters2022Structurefunction).
+
+## Structure
+SETD3 is a protein characterized by its unique structure, which includes a SET domain at the N-terminal lobe and a Rubisco LSMT substrate-binding domain at the C-terminal lobe. The SET domain is responsible for the protein's methyltransferase activity and consists of three discrete β-sheets and a bundle of α helices (Zheng2020Molecular). The Rubisco LSMT domain contains seven α helices and a pair of β-strands (Zheng2020Molecular). 
+
+The SETD3 protein adopts a V-shaped architecture, comprising N-SET, SET, iSET, and C-SET domains. The SET domain has a canonical fold with twelve β strands arranged into four anti-parallel β sheets and one parallel β sheet (Guo2018Structural). The AdoHcy binding pocket is located between the SET and C-SET domains, with specific interactions involving Glu104 and Phe327 (Guo2018Structural). 
+
+SETD3 specifically methylates histidine residues, such as His73 of actin, rather than lysine, due to its shallower substrate recognition groove (Shu2021The). Key residues like Asn256, Asp274, and Tyr313 form hydrogen bonds with the His73 imidazole ring, contributing to its specificity for histidine (Shu2021The). The protein's structure and specific interactions facilitate its role as an actin-specific histidine methyltransferase.
+
+## Function
+The SETD3 gene encodes a protein that functions as an actin-specific histidine N-methyltransferase, primarily active in the cytoplasm of healthy human cells. This enzyme is responsible for the methylation of the histidine 73 (H73) residue on β-actin, a post-translational modification crucial for the stability of actin filaments. The methylation of H73 by SETD3 stabilizes actin filaments, preventing their depolymerization, which is essential for maintaining the structural integrity of the cytoskeleton (Kwiatkowski2018SETD3).
+
+SETD3's activity is vital for various cellular processes, including cell growth, division, and motility. The absence of SETD3 leads to increased depolymerization of actin filaments, resulting in a loss of cytoskeletal integrity and a shift towards a glycolytic phenotype, as indicated by increased lactate production (Kwiatkowski2018SETD3). This enzyme also plays a role in muscle contraction and cellular responses to mechanical stress, highlighting its importance in muscle differentiation and function (Shu2021The).
+
+SETD3 is also involved in transcription regulation and DNA replication or repair, interacting with proteins such as proliferating cell nuclear antigen (PCNA) and the transcription factor FoxM1 (Chia2024Functional).
+
+## Clinical Significance
+SETD3 is implicated in various cancers, with its expression levels influencing prognosis and tumor progression. In colon cancer, SETD3 positively regulates DNA-damage-induced apoptosis through a p53-dependent pathway, and its low expression is associated with poor survival outcomes (AbaevSchneiderman2019SETD3). In breast cancer, high SETD3 expression is linked to better relapse-free survival in ER-positive and Luminal A-type tumors, but correlates with poor outcomes in triple-negative and p53-mutated tumors (Hassan2020SETD3). SETD3 also affects the viability and invasiveness of aggressive breast cancer cells by influencing cytoskeletal function (Hassan2020SETD3).
+
+In hepatocellular carcinoma (HCC), SETD3 promotes tumor growth by enhancing PLK1 expression, and its stability is regulated by the deubiquitinase USP27, which protects it from degradation (Cheng2022SETD3; Zou2022Stabilization). Knockdown of SETD3 or USP27 reduces cell proliferation and tumor growth, highlighting the importance of the USP27-SETD3 axis in liver cancer progression (Zou2022Stabilization).
+
+SETD3's role in cancer is complex, as it can act as both a tumor suppressor and promoter depending on the cancer type and genetic context (Shu2021The).
+
+## Interactions
+SETD3 interacts with several proteins and plays a crucial role in various cellular processes. It is an essential host factor for the replication of enteroviruses, interacting specifically with the viral protease 2A. This interaction is critical for enterovirus replication, as SETD3 stabilizes the 2A protease, potentially enhancing its function in viral RNA replication (Peters2022Structurefunction). The 2A protease binds to SETD3 at two distinct interfaces, one in the SET domain and another in the RSB domain, with a strong binding affinity (Peters2022Structurefunction). This interaction disrupts the SETD3-actin complex, as 2A competes with actin for binding to SETD3, inhibiting its methyltransferase activity (Gao2024The).
+
+SETD3 also interacts with the transcription factor FoxM1, binding and methylating it at the chromatin level. This interaction negatively regulates VEGF expression under hypoxic conditions, as SETD3 and FoxM1 dissociate from the VEGF promoter, leading to increased VEGF transcription (Cohn2016Chromatin). These interactions highlight SETD3's role in both viral replication and gene expression regulation.
+
+
+## References
+
+
+1. (Chia2024Functional) Functional characterization and physiological significance of SETD3. This article has 0 citations.
+
+[2. (AbaevSchneiderman2019SETD3) Elina Abaev-Schneiderman, Lee Admoni-Elisha, and Dan Levy. Setd3 is a positive regulator of dna-damage-induced apoptosis. Cell Death &amp; Disease, January 2019. URL: http://dx.doi.org/10.1038/s41419-019-1328-4, doi:10.1038/s41419-019-1328-4. This article has 32 citations.](https://doi.org/10.1038/s41419-019-1328-4)
+
+[3. (Zou2022Stabilization) Tingting Zou, Yang Wang, Ling Dong, Tiantian Che, Huakan Zhao, Xiaohua Yan, and Zhenghong Lin. Stabilization of setd3 by deubiquitinase usp27 enhances cell proliferation and hepatocellular carcinoma progression. Cellular and Molecular Life Sciences, January 2022. URL: http://dx.doi.org/10.1007/s00018-021-04118-9, doi:10.1007/s00018-021-04118-9. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-021-04118-9)
+
+4. (Kwiatkowski2018SETD3) SETD3 protein is the actin-specific histidineN-methyltransferase. This article has 0 citations.
+
+5. (Peters2022Structurefunction) Structure-function analysis of enterovirus protease 2A in complex with its essential host factor SETD3. This article has 0 citations.
+
+[6. (Cohn2016Chromatin) Ofir Cohn, Michal Feldman, Lital Weil, Margarita Kublanovsky, and Dan Levy. Chromatin associated setd3 negatively regulates vegf expression. Scientific Reports, November 2016. URL: http://dx.doi.org/10.1038/srep37115, doi:10.1038/srep37115. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep37115)
+
+[7. (Zheng2020Molecular) Yihui Zheng, Xingrun Zhang, and Haitao Li. Molecular basis for histidine n3-specific methylation of actin h73 by setd3. Cell Discovery, January 2020. URL: http://dx.doi.org/10.1038/s41421-019-0135-5, doi:10.1038/s41421-019-0135-5. This article has 18 citations.](https://doi.org/10.1038/s41421-019-0135-5)
+
+[8. (Gao2024The) Xiaopan Gao, Bei Wang, Kaixiang Zhu, Linyue Wang, Bo Qin, Kun Shang, Wei Ding, Jianwei Wang, and Sheng Cui. The ev71 2a protease occupies the central cleft of setd3 and disrupts setd3-actin interaction. Nature Communications, May 2024. URL: http://dx.doi.org/10.1038/s41467-024-48504-w, doi:10.1038/s41467-024-48504-w. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-48504-w)
+
+9. (Guo2018Structural) Structural insights into SETD3-mediated histidine methylation on β-actin. This article has 0 citations.
+
+[10. (Hassan2020SETD3) Nourhan Hassan, Niklas Rutsch, Balázs Győrffy, Nancy Adriana Espinoza-Sánchez, and Martin Götte. Setd3 acts as a prognostic marker in breast cancer patients and modulates the viability and invasion of breast cancer cells. Scientific Reports, February 2020. URL: http://dx.doi.org/10.1038/s41598-020-59057-5, doi:10.1038/s41598-020-59057-5. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-020-59057-5)
+
+[11. (Cheng2022SETD3) Meng Cheng, Qingmiao Yang, Yafei Liu, Meng-Jie Zhao, Xinyuan Du, Jiaqi Sun, Wen-Jie Shu, Zan Huang, Jianping Bi, Ximing Xu, and Hai-Ning Du. Setd3 methyltransferase regulates plk1 expression to promote in situ hepatic carcinogenesis. Frontiers in Oncology, July 2022. URL: http://dx.doi.org/10.3389/fonc.2022.882202, doi:10.3389/fonc.2022.882202. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.882202)
+
+[12. (Shu2021The) Wen-Jie Shu and Hai-Ning Du. The methyltransferase setd3-mediated histidine methylation: biological functions and potential implications in cancers. Biochimica et Biophysica Acta (BBA) - Reviews on Cancer, 1875(1):188465, January 2021. URL: http://dx.doi.org/10.1016/j.bbcan.2020.188465, doi:10.1016/j.bbcan.2020.188465. This article has 12 citations.](https://doi.org/10.1016/j.bbcan.2020.188465)

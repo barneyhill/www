@@ -1,0 +1,46 @@
+# STX12
+
+## Overview
+STX12 is a gene that encodes the protein syntaxin 12, a member of the SNARE (Soluble NSF Attachment Protein Receptor) family, which is integral to vesicular transport and membrane fusion processes within cells. Syntaxin 12 is classified as a Qa-SNARE protein, playing a pivotal role in the formation of SNARE complexes that facilitate the docking and fusion of vesicles, particularly in endosomal trafficking. The protein is primarily localized in early and recycling endosomes and the plasma membrane, where it interacts with other SNARE proteins such as Vti1a, Stx6, and VAMP4 to mediate the homotypic fusion of early endosomes. The function of syntaxin 12 is modulated by post-translational modifications, including phosphorylation by SGK3 kinase, which enhances its interaction with SNARE partners and influences its conformation and localization (Dingjan2018Endosomal; Malik2019Phosphoproteomics). The gene and its encoded protein are implicated in various cellular processes and have clinical significance in conditions such as pulmonary inflammation and cancer (Liu2024Pulmonary; Han2019Monitoring).
+
+## Structure
+Syntaxin 12 (STX12) is a member of the SNARE protein family, which plays a crucial role in vesicular transport and membrane fusion. The protein contains a conserved SNARE domain responsible for interactions with other SNARE proteins, facilitating vesicle docking and fusion (Malik2019Phosphoproteomics). STX12 is classified as a Qa-SNARE, indicating its role in forming SNARE complexes with other Q-SNAREs and R-SNAREs (Dingjan2018Endosomal).
+
+The primary structure of STX12 includes a sequence of amino acids that form specific domains, such as the Habc domain, which can auto-inhibit membrane fusion by folding back onto the SNARE motif (Dingjan2018Endosomal). This domain is also the site of phosphorylation by the SGK3 kinase at Ser139, which enhances STX12's interaction with its SNARE partners and affects its conformation (Malik2019Phosphoproteomics).
+
+STX12 is involved in forming complexes with other SNARE proteins, such as Vti1a, Stx6, and VAMP4, which are essential for the homotypic fusion of early endosomes (Dingjan2018Endosomal). The phosphorylation of STX12 is a common post-translational modification that influences its function and localization (Malik2019Phosphoproteomics). The specific molecular structure of STX12, including its tertiary and quaternary structures, is not detailed in the provided context.
+
+## Function
+STX12 (syntaxin 12) is a SNARE protein involved in endosomal trafficking and membrane fusion processes in healthy human cells. It is primarily localized in early and recycling endosomes, as well as the plasma membrane, where it plays a critical role in the homotypic fusion of early endosomes. STX12 interacts with other SNARE proteins, including syntaxin 6 (STX6), Vti1a, and VAMP4, forming a complex essential for membrane fusion and the recycling of plasma membrane proteins (Malik2019Phosphoproteomics).
+
+The phosphorylation of STX12 at Ser139 by the SGK3 kinase enhances its interaction with its SNARE partners, facilitating the formation of the SNARE complex. This phosphorylation event is suggested to induce a conformational change in STX12, promoting its interaction with STX6, Vti1a, and VAMP4, which is crucial for the SNARE complex formation and subsequent membrane fusion (Malik2019Phosphoproteomics).
+
+STX12's function in endosomal trafficking is further supported by its localization to punctate structures that co-localize with the Rab5 early endosomal marker, indicating its involvement in endosomal protein interactions and localization (Malik2019Phosphoproteomics).
+
+## Clinical Significance
+Mutations and alterations in the expression of the STX12 gene have been implicated in various diseases and conditions. In pulmonary cells, STX12 is crucial for maintaining mitochondrial function and mtDNA stability. Deficiency in STX12 leads to severe inflammation in lung tissues, as observed in Stx12 knockout mice, which exhibit perinatal lethality, iron deficiency anemia, and significant pulmonary inflammation due to mitochondrial dysfunction and activation of the cGAS-STING and Type I interferon pathways (Liu2024Pulmonary). 
+
+In the context of lung squamous cell cancer (LUSC), STX12 has been identified as a methylation-driven gene. Its expression is negatively correlated with methylation, and hypermethylation of STX12 is associated with favorable clinical outcomes, suggesting a protective role in LUSC (Han2019Monitoring). 
+
+In pancreatic fibrosis, STX12 is involved in the activation of pancreatic stellate cells (PSCs) through a competing endogenous RNA network. Alterations in STX12 expression affect the expression of miR-148a and SMAD5, influencing PSC activation and fibrosis, which are key features of chronic pancreatitis (Wang2017STX12). These findings highlight the potential clinical significance of STX12 in inflammatory and fibrotic diseases.
+
+## Interactions
+Syntaxin 12 (STX12) is involved in several protein interactions that are crucial for its function in vesicular transport processes. STX12 is phosphorylated by the serum- and glucocorticoid-regulated kinase 3 (SGK3) at the Ser139 site, which enhances its interaction with the SNARE complex components VAMP4, VTI1a, and STX6. This phosphorylation promotes the plasma membrane localization of STX12 and facilitates the homotypic fusion of early endosomes (Malik2019Phosphoproteomics). The phosphorylation of STX12 by SGK3 is specific, as it is poorly phosphorylated by Akt due to an unfavorable n+1 residue for Akt phosphorylation (Malik2019Phosphoproteomics).
+
+STX12 also interacts with the RNA-binding protein Splicing Factor 3a Subunit 1 (SF3A1), which stabilizes STX12 mRNA, thereby inhibiting programmed cell death in colorectal cancer cells. This interaction is significant for the anti-apoptotic function of STX12 in cancer progression (Konishi2024Splicing). These interactions highlight the role of STX12 in both vesicular transport and cellular survival pathways, particularly in the context of cancer.
+
+
+## References
+
+
+1. (Liu2024Pulmonary) Pulmonary Mitochondrial DNA Release and Activation of the cGAS-STING Pathway in LethalStx12Knockout Mice. This article has 0 citations.
+
+[2. (Dingjan2018Endosomal) Ilse Dingjan, Peter T. A. Linders, Danielle R. J. Verboogen, Natalia H. Revelo, Martin ter Beest, and Geert van den Bogaart. Endosomal and phagosomal snares. Physiological Reviews, 98(3):1465–1492, July 2018. URL: http://dx.doi.org/10.1152/physrev.00037.2017, doi:10.1152/physrev.00037.2017. This article has 86 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1152/physrev.00037.2017)
+
+[3. (Wang2017STX12) Hao Wang, Yanfeng Jiang, Ming Lu, Bei Sun, Xin Qiao, Dongbo Xue, and Weihui Zhang. Stx12 lncrna/mir-148a/smad5 participate in the regulation of pancreatic stellate cell activation through a mechanism involving competing endogenous rna. Pancreatology, 17(2):237–246, March 2017. URL: http://dx.doi.org/10.1016/j.pan.2017.01.010, doi:10.1016/j.pan.2017.01.010. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.pan.2017.01.010)
+
+4. (Konishi2024Splicing) Splicing Factor 3a Subunit 1 Promotes Colorectal Cancer Growth via Anti-programmed cell death of Syntaxin12. This article has 0 citations.
+
+[5. (Han2019Monitoring) Pengkai Han, Qiping Liu, and Jianhua Xiang. Monitoring methylation‑driven genes as prognostic biomarkers in patients with lung squamous cell cancer. Oncology Letters, November 2019. URL: http://dx.doi.org/10.3892/ol.2019.11163, doi:10.3892/ol.2019.11163. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2019.11163)
+
+6. (Malik2019Phosphoproteomics) Phosphoproteomics reveals that the hVPS34 regulated SGK3 kinase specifically phosphorylates endosomal proteins including Syntaxin-7, Syntaxin-12, RFIP4 and WDR44. This article has 1 citations.

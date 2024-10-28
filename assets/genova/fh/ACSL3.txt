@@ -1,0 +1,60 @@
+# ACSL3
+
+## Overview
+ACSL3, or acyl-CoA synthetase long chain family member 3, is a gene that encodes a crucial enzyme involved in lipid metabolism. The protein product of ACSL3 is a long-chain acyl-CoA synthetase, which plays a significant role in the conversion of free long-chain fatty acids into fatty acyl-CoA esters, a critical step in fatty acid activation and metabolism. This enzyme is categorized as a transmembrane protein, primarily localized in the endoplasmic reticulum and mitochondria, where it influences membrane synthesis and energy homeostasis (WeedonFekjaer2010Activation). ACSL3 is involved in various cellular processes, including lipid droplet formation and energy production, and interacts with several proteins that regulate lipid metabolism and cellular homeostasis (Deng2020Rab18; Eck2020ACSL3). Alterations in ACSL3 expression have been linked to several cancers, making it a potential target for therapeutic interventions (Klasson2022ACSL3; Padanad2016Fatty).
+
+## Structure
+ACSL3 is a long-chain acyl-CoA synthetase involved in lipid metabolism, with a complete isoform consisting of 720 amino acids. The primary structure includes a type III transmembrane domain signal anchor at the N-terminus, an AMP-binding domain spanning amino acids 113-587, and regions of disorder in the remaining sequence (Luo2023The). The N-terminal region is crucial for the protein's localization to lipid droplets and the endoplasmic reticulum, forming an integral transmembrane domain that likely adopts an α-helical structure (Poppelreuther2012The).
+
+ACSL3 undergoes alternative splicing, resulting in different isoforms that affect its subcellular localization and function. These isoforms differ in their fatty acid Gate domains, with ACSL3 lacking the F-exon and encoding only the Y-Gate-domain version (Soupene2008Mammalian). The splicing of ACSL3 is regulated by BRD4, which influences the splicing efficiency of SRSF2 on pre-mRNA, impacting its role in lipid metabolism and ferroptosis susceptibility (Luo2023The).
+
+The tertiary structure of ACSL3 is not fully resolved, but it is known to be an ER-localized transmembrane protein with its N-terminal transmembrane helix region inserted into the lipid bilayer (Eck2020ACSL3). The quaternary structure of ACSL3 has not been detailed in the available literature.
+
+## Function
+ACSL3 (acyl-CoA synthetase long chain family member 3) is an enzyme that plays a crucial role in lipid metabolism by catalyzing the conversion of free long-chain fatty acids into fatty acyl-CoA esters. This conversion is essential for the activation and subsequent metabolism of fatty acids, which are vital for various cellular processes, including energy production and lipid biosynthesis (WeedonFekjaer2010Activation).
+
+ACSL3 is primarily active in the endoplasmic reticulum and mitochondria, where it influences membrane synthesis and energy homeostasis. In human placental trophoblast cells, ACSL3 is directly regulated by liver X receptors (LXRs), which increase its expression and enhance acyl-CoA synthetase activity, thereby facilitating fatty acid uptake and metabolism (WeedonFekjaer2010Activation).
+
+In endothelial cells, ACSL3 is involved in the formation and maturation of lipid droplets, a process that is enhanced by TNF-α stimulation. This role is crucial for lipid storage and energy metabolism, as ACSL3 contributes to fatty acid oxidation by generating acyl-CoAs for beta-oxidation, thus providing cellular energy (Jung2020TNFα). ACSL3's activity in these processes underscores its importance in maintaining cellular lipid balance and energy production.
+
+## Clinical Significance
+Alterations in the expression of the ACSL3 gene have been implicated in several types of cancer. In non-small cell lung cancer (NSCLC), ACSL3 is highly expressed and plays a critical role in tumorigenesis, particularly in the context of mutant KRAS. Its knockdown impairs ATP production and cell viability, suggesting its importance in tumor growth and survival (Padanad2016Fatty). ACSL3 is also involved in prostaglandin synthesis, which is crucial for cancer cell proliferation and survival in NSCLC (Saliakoura2020The).
+
+In pancreatic ductal adenocarcinoma (PDAC), ACSL3 is up-regulated and associated with increased tumor progression and fibrosis. Its deletion in mouse models leads to reduced tumor growth and fibrosis, highlighting its role in tumor-stroma interactions and immunosuppression (Rossi2020ACSL3–PAI1).
+
+In clear cell renal cell carcinoma (ccRCC), ACSL3 is crucial for lipid droplet formation and cell viability. Its inhibition leads to reduced tumor growth and increased apoptosis, indicating its role in lipid metabolism and ferroptosis sensitivity (Klasson2022ACSL3). These findings suggest that ACSL3 is a potential therapeutic target in cancers that rely on lipid metabolic processes.
+
+## Interactions
+ACSL3 interacts with several proteins involved in lipid metabolism and cellular processes. It is a novel binding partner of GABARAPL2, a member of the human ATG8 family, which is involved in autophagy. This interaction stabilizes GABARAPL2 at the endoplasmic reticulum (ER) membrane, linking ACSL3 to the ufmylation pathway and lipid droplet biogenesis (Eck2020ACSL3). ACSL3 also anchors UBA5, the UFM1-activating enzyme, to the ER membrane, facilitating the recruitment of UBA5 to the membrane-bound UFM1 E3 enzyme complex (Eck2020ACSL3).
+
+ACSL3 interacts with Rab18, a protein that regulates lipid droplet dynamics. This interaction is crucial for the localization of ACSL3 to lipid droplets, influencing triacylglycerol accumulation and lipid homeostasis (Deng2020Rab18). ACSL3 also binds with Spartin/SPG20 and AUP1, which are scaffolding proteins that affect lipid droplet composition and size (Kassan2013AcylCoA).
+
+The N-terminal region of ACSL3 is essential for its localization to lipid droplets and the ER, indicating that this region contains the necessary targeting information for these interactions (Poppelreuther2012The).
+
+
+## References
+
+
+[1. (Poppelreuther2012The) Margarete Poppelreuther, Berenice Rudolph, Chen Du, Regina Großmann, Melanie Becker, Christoph Thiele, Robert Ehehalt, and Joachim Füllekrug. The n-terminal region of acyl-coa synthetase 3 is essential for both the localization on lipid droplets and the function in fatty acid uptake. Journal of Lipid Research, 53(5):888–900, May 2012. URL: http://dx.doi.org/10.1194/jlr.m024562, doi:10.1194/jlr.m024562. This article has 104 citations and is from a peer-reviewed journal.](https://doi.org/10.1194/jlr.m024562)
+
+[2. (Luo2023The) Shun-Hong Luo, Jia-Ming Tian, Yi Chu, Hong-Yi Zhu, Jiang-Dong Ni, and Jun Huang. The brd4-srpk2-srsf2 signal modulates the splicing efficiency of acsl3 pre-mrna and influences erastin-induced ferroptosis in osteosarcoma cells. Cell Death &amp; Disease, November 2023. URL: http://dx.doi.org/10.1038/s41419-023-06273-2, doi:10.1038/s41419-023-06273-2. This article has 3 citations.](https://doi.org/10.1038/s41419-023-06273-2)
+
+[3. (Padanad2016Fatty) Mahesh S. Padanad, Georgia Konstantinidou, Niranjan Venkateswaran, Margherita Melegari, Smita Rindhe, Matthew Mitsche, Chendong Yang, Kimberly Batten, Kenneth E. Huffman, Jingwen Liu, Ximing Tang, Jaime Rodriguez-Canales, Neda Kalhor, Jerry W. Shay, John D. Minna, Jeffrey McDonald, Ignacio I. Wistuba, Ralph J. DeBerardinis, and Pier Paolo Scaglioni. Fatty acid oxidation mediated by acyl-coa synthetase long chain 3 is required for mutant kras lung tumorigenesis. Cell Reports, 16(6):1614–1628, August 2016. URL: http://dx.doi.org/10.1016/j.celrep.2016.07.009, doi:10.1016/j.celrep.2016.07.009. This article has 219 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2016.07.009)
+
+4. (Deng2020Rab18) Rab18 Binds PLIN2 and ACSL3 to Mediate Lipid Droplet Dynamics. This article has 0 citations.
+
+[5. (Rossi2020ACSL3–PAI1) Matteo Rossi Sebastiano, Chiara Pozzato, Maria Saliakoura, Zhang Yang, Ren-Wang Peng, Mirco Galiè, Kevin Oberson, Hans-Uwe Simon, Evanthia Karamitopoulou, and Georgia Konstantinidou. Acsl3–pai-1 signaling axis mediates tumor-stroma cross-talk promoting pancreatic cancer progression. Science Advances, October 2020. URL: http://dx.doi.org/10.1126/sciadv.abb9200, doi:10.1126/sciadv.abb9200. This article has 35 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.abb9200)
+
+[6. (Soupene2008Mammalian) Eric Soupene and Frans A. Kuypers. Mammalian long-chain acyl-coa synthetases. Experimental Biology and Medicine, 233(5):507–521, May 2008. URL: http://dx.doi.org/10.3181/0710-MR-287, doi:10.3181/0710-mr-287. This article has 480 citations and is from a peer-reviewed journal.](https://doi.org/10.3181/0710-MR-287)
+
+7. (Eck2020ACSL3) ACSL3 is a novel GABARAPL2 interactor that links ufmylation and lipid droplet biogenesis. This article has 2 citations.
+
+[8. (Saliakoura2020The) Maria Saliakoura, Inés Reynoso-Moreno, Chiara Pozzato, Matteo Rossi Sebastiano, Mirco Galié, Jürg Gertsch, and Georgia Konstantinidou. The acsl3-lpiat1 signaling drives prostaglandin synthesis in non-small cell lung cancer. Oncogene, 39(14):2948–2960, February 2020. URL: http://dx.doi.org/10.1038/s41388-020-1196-5, doi:10.1038/s41388-020-1196-5. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-020-1196-5)
+
+[9. (Jung2020TNFα) Hye Seung Jung, Masami Shimizu-Albergine, Xia Shen, Farah Kramer, Dan Shao, Anuradha Vivekanandan-Giri, Subramaniam Pennathur, Rong Tian, Jenny E. Kanter, and Karin E. Bornfeldt. Tnf-α induces acyl-coa synthetase 3 to promote lipid droplet formation in human endothelial cells. Journal of Lipid Research, 61(1):33–44, January 2020. URL: http://dx.doi.org/10.1194/jlr.ra119000256, doi:10.1194/jlr.ra119000256. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.1194/jlr.ra119000256)
+
+[10. (Kassan2013AcylCoA) Adam Kassan, Albert Herms, Andrea Fernández-Vidal, Marta Bosch, Nicole L. Schieber, Babu J.N. Reddy, Alba Fajardo, Mariona Gelabert-Baldrich, Francesc Tebar, Carlos Enrich, Steven P. Gross, Robert G. Parton, and Albert Pol. Acyl-coa synthetase 3 promotes lipid droplet biogenesis in er microdomains. Journal of Cell Biology, 203(6):985–1001, December 2013. URL: http://dx.doi.org/10.1083/jcb.201305142, doi:10.1083/jcb.201305142. This article has 260 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201305142)
+
+[11. (WeedonFekjaer2010Activation) M. Susanne Weedon-Fekjaer, Knut Tomas Dalen, Karianne Solaas, Anne Cathrine Staff, Asim K. Duttaroy, and Hilde Irene Nebb. Activation of lxr increases acyl-coa synthetase activity through direct regulation of acsl3 in human placental trophoblast cells. Journal of Lipid Research, 51(7):1886–1896, July 2010. URL: http://dx.doi.org/10.1194/jlr.m004978, doi:10.1194/jlr.m004978. This article has 42 citations and is from a peer-reviewed journal.](https://doi.org/10.1194/jlr.m004978)
+
+[12. (Klasson2022ACSL3) Timothy D. Klasson, Edward L. LaGory, Hongjuan Zhao, Star K. Huynh, Ioanna Papandreou, Eui Jung Moon, and Amato J. Giaccia. Acsl3 regulates lipid droplet biogenesis and ferroptosis sensitivity in clear cell renal cell carcinoma. Cancer &amp; Metabolism, October 2022. URL: http://dx.doi.org/10.1186/s40170-022-00290-z, doi:10.1186/s40170-022-00290-z. This article has 46 citations.](https://doi.org/10.1186/s40170-022-00290-z)

@@ -1,0 +1,58 @@
+# TRPM4
+
+## Overview
+TRPM4 is a gene that encodes the transient receptor potential cation channel subfamily M member 4, a calcium-activated non-selective cation channel. This protein is part of the transient receptor potential melastatin (TRPM) subfamily and is characterized by its ability to conduct monovalent cations, such as sodium and potassium, while being impermeable to calcium ions. The TRPM4 channel plays a pivotal role in various physiological processes, including the regulation of membrane potential and calcium homeostasis across different cell types. It is involved in critical functions within the cardiovascular, nervous, and immune systems, influencing cardiac rhythm, neuronal excitability, and T cell activation, respectively (Launay2004TRPM4; Dienes2021Pharmacological). The channel's widespread expression and functional diversity underscore its importance in maintaining cellular and systemic homeostasis, while its dysregulation is implicated in several pathophysiological conditions, including cardiac arrhythmias, neurological disorders, and certain cancers (Syam2016Variants; Dienes2021Pharmacological).
+
+## Structure
+The TRPM4 protein is a member of the transient receptor potential melastatin (TRPM) subfamily and is characterized by a complex molecular structure. It consists of six transmembrane domains (TM1-6) with a pore region between TM5 and TM6, and it lacks the classic voltage sensor found in other voltage-gated ion channels (Huang2020A; Nilius2006From). The protein's N terminus contains the TRPM homology domain, while the C terminus includes a coiled-coil domain, which is crucial for forming a homotetramer via parallel coiled-coils (Chen2019Emerging; Nilius2006From).
+
+TRPM4 features several functional domains, including calmodulin binding sites, phosphorylation sites for PKA and PKC, and a pleckstrin homology domain (Nilius2006From). The protein also contains Walker B ATP binding motifs and a selectivity filter formed by the FGQ motif, which is important for its ion selectivity, particularly for monovalent ions like Na+ and K+ (Chen2019Emerging).
+
+The quaternary structure of TRPM4 involves the assembly of multiple subunits, with the C-terminal domain forming an umbrellalike structure where the four C termini create a homotetramer (Chen2019Emerging). The protein's structure is stabilized by a conserved disulfide bond in the pore region, which is crucial for ion permeability and gating mechanisms (Chen2019Emerging).
+
+## Function
+TRPM4 is a calcium-activated non-selective cation channel that plays a crucial role in regulating membrane potential and calcium homeostasis in various cell types. It primarily conducts sodium ions, which leads to membrane depolarization, influencing calcium signaling pathways without directly conducting calcium ions (Launay2004TRPM4; Dienes2021Pharmacological). In T cells, TRPM4 modulates calcium oscillations following activation, which is essential for interleukin-2 production and T cell activation (Launay2004TRPM4). 
+
+In the cardiovascular system, TRPM4 is involved in cardiac conduction and rhythm regulation. It affects the action potential duration in atrial cells and is implicated in cardiac arrhythmias when mutated (Dienes2021Pharmacological). TRPM4 is also expressed in the pancreas, where it regulates insulin secretion, and in vascular smooth muscle, influencing vascular tone (Dienes2021Pharmacological).
+
+In the nervous system, TRPM4 contributes to neuronal excitability and signaling. It is involved in NMDA receptor-dependent long-term potentiation in hippocampal neurons and affects the firing patterns of various neuron types (Dienes2021Pharmacological). TRPM4's widespread expression and regulatory functions highlight its importance in maintaining physiological processes across different organ systems.
+
+## Clinical Significance
+Mutations and altered expression of the TRPM4 gene are linked to various diseases, particularly affecting cardiac and central nervous systems, as well as certain cancers. In the heart, TRPM4 mutations are associated with cardiac conduction disorders such as atrioventricular block, Brugada syndrome, and progressive familial heart block type I. These mutations can lead to either gain-of-function or loss-of-function effects, impacting cardiac electrical activity and potentially causing life-threatening arrhythmias (Hu2023The; Syam2016Variants; Kruse2009Impaired). 
+
+In the central nervous system, the TRPM4 channel, particularly in complex with SUR1, is implicated in edema formation following injury or stroke, contributing to cytotoxic and vasogenic edema (Dienes2021Pharmacological). 
+
+TRPM4 is also overexpressed in several cancers, including prostate, breast, cervical, and endometrial cancers, as well as diffuse large B-cell lymphoma and acute myeloid leukemia. Its expression correlates with poor prognosis and survival in some cancers, making it a potential prognostic marker and therapeutic target (Dienes2021Pharmacological). 
+
+Overall, TRPM4's role in these conditions highlights its clinical significance as a potential diagnostic and therapeutic target.
+
+## Interactions
+TRPM4 interacts with various proteins that influence its function and localization. It forms multimeric complexes necessary for its channel activity, with the C-terminal region being crucial for this multimerization (Launay2004TRPM4). TRPM4 also interacts with TRPV4 in human trabecular meshwork cells, where it is involved in calcium oscillations. This interaction is essential for TRPV4-dependent calcium signaling, as TRPM4 knockdown significantly reduces these oscillations (Yarishkin2022Emergent).
+
+In vascular smooth muscle cells, TRPM4 is activated by noradrenalin and is involved in myogenic vasoconstriction. It cooperates with TRPC6, where TRPC6 activation leads to calcium influx and further activation of the IP3 receptor, which co-localizes with TRPM4, resulting in depolarization and smooth muscle contraction (Dienes2021Pharmacological).
+
+Despite hypotheses suggesting a potential interaction between TRPM4 and the sulfonylurea receptor SUR1, studies have shown no functional or structural association between them. Electrophysiological and FRET analyses indicate that SUR1 does not modify TRPM4 channel properties, suggesting that these proteins do not form a complex (SalaRabanal2012On).
+
+
+## References
+
+
+[1. (Yarishkin2022Emergent) Oleg Yarishkin, Tam T. T. Phuong, Felix Vazquez-Chona, Jacques Bertrand, Joseph van Battenburg-Sherwood, Sarah N. Redmon, Christopher N. Rudzitis, Monika Lakk, Jackson M. Baumann, Marc Freichel, Eun-Mi Hwang, Darryl Overby, and David Križaj. Emergent temporal signaling in human trabecular meshwork cells: role of trpv4-trpm4 interactions. Frontiers in Immunology, March 2022. URL: http://dx.doi.org/10.3389/fimmu.2022.805076, doi:10.3389/fimmu.2022.805076. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2022.805076)
+
+[2. (Syam2016Variants) Ninda Syam, Stéphanie Chatel, Lijo Cherian Ozhathil, Valentin Sottas, Jean‐Sébastien Rougier, Alban Baruteau, Estelle Baron, Mohamed‐Yassine Amarouch, Xavier Daumy, Vincent Probst, Jean‐Jacques Schott, and Hugues Abriel. Variants of transient receptor potential melastatin member 4 in childhood atrioventricular block. Journal of the American Heart Association, May 2016. URL: http://dx.doi.org/10.1161/jaha.114.001625, doi:10.1161/jaha.114.001625. This article has 37 citations.](https://doi.org/10.1161/jaha.114.001625)
+
+[3. (Dienes2021Pharmacological) Csaba Dienes, Zsigmond Máté Kovács, Tamás Hézső, János Almássy, János Magyar, Tamás Bányász, Péter P. Nánási, Balázs Horváth, and Norbert Szentandrássy. Pharmacological modulation and (patho)physiological roles of trpm4 channel—part 2: trpm4 in health and disease. Pharmaceuticals, 15(1):40, December 2021. URL: http://dx.doi.org/10.3390/ph15010040, doi:10.3390/ph15010040. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ph15010040)
+
+[4. (Nilius2006From) Bernd Nilius and Rudi Vennekens. From cardiac cation channels to the molecular dissection of the transient receptor potential channel trpm4. Pflügers Archiv - European Journal of Physiology, 453(3):313–321, May 2006. URL: http://dx.doi.org/10.1007/s00424-006-0088-z, doi:10.1007/s00424-006-0088-z. This article has 42 citations.](https://doi.org/10.1007/s00424-006-0088-z)
+
+[5. (Chen2019Emerging) Yixiang Chen, Xu Zhang, Tingting Yang, Ruixue Bi, Zhanmei Huang, Hao Ding, Jian Li, and Jin Zhang. Emerging structural biology of trpm subfamily channels. Cell Calcium, 79:75–79, May 2019. URL: http://dx.doi.org/10.1016/j.ceca.2019.02.011, doi:10.1016/j.ceca.2019.02.011. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ceca.2019.02.011)
+
+[6. (Huang2020A) Yihe Huang, Ralf Fliegert, Andreas H. Guse, Wei Lü, and Juan Du. A structural overview of the ion channels of the trpm family. Cell Calcium, 85:102111, January 2020. URL: http://dx.doi.org/10.1016/j.ceca.2019.102111, doi:10.1016/j.ceca.2019.102111. This article has 143 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ceca.2019.102111)
+
+[7. (SalaRabanal2012On) Monica Sala-Rabanal, Shizhen Wang, and Colin G. Nichols. On potential interactions between non-selective cation channel trpm4 and sulfonylurea receptor sur1. Journal of Biological Chemistry, 287(12):8746–8756, March 2012. URL: http://dx.doi.org/10.1074/jbc.m111.336131, doi:10.1074/jbc.m111.336131. This article has 27 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m111.336131)
+
+[8. (Launay2004TRPM4) Pierre Launay, Henrique Cheng, Subhashini Srivatsan, Reinhold Penner, Andrea Fleig, and Jean-Pierre Kinet. Trpm4 regulates calcium oscillations after t cell activation. Science, 306(5700):1374–1377, November 2004. URL: http://dx.doi.org/10.1126/science.1098845, doi:10.1126/science.1098845. This article has 273 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1098845)
+
+[9. (Hu2023The) Yaopeng Hu, Jiehui Cang, Keizo Hiraishi, Takayuki Fujita, and Ryuji Inoue. The role of trpm4 in cardiac electrophysiology and arrhythmogenesis. International Journal of Molecular Sciences, 24(14):11798, July 2023. URL: http://dx.doi.org/10.3390/ijms241411798, doi:10.3390/ijms241411798. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms241411798)
+
+[10. (Kruse2009Impaired) Martin Kruse, Eric Schulze-Bahr, Valerie Corfield, Alf Beckmann, Birgit Stallmeyer, Güven Kurtbay, Iris Ohmert, Ellen Schulze-Bahr, Paul Brink, and Olaf Pongs. Impaired endocytosis of the ion channel trpm4 is associated with human progressive familial heart block type i. Journal of Clinical Investigation, 119(9):2737–2744, September 2009. URL: http://dx.doi.org/10.1172/jci38292, doi:10.1172/jci38292. This article has 266 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci38292)

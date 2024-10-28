@@ -1,0 +1,50 @@
+# RADX
+
+## Overview
+RADX is a gene that encodes a single-stranded DNA-binding protein, known as RPA1 related single-stranded DNA binding protein, X-linked. This protein is integral to maintaining genome stability by regulating DNA replication and repair processes. It is characterized by its oligonucleotide/oligosaccharide-binding (OB) folds, which enable it to bind single-stranded DNA (ssDNA) with high affinity. RADX plays a crucial role in stabilizing replication forks and modulating the activity of replication protein A (RPA) and RAD51, thereby preventing replication fork collapse and ensuring proper telomere maintenance. Its interactions with these proteins are vital for maintaining genomic integrity, particularly under conditions of replication stress (Schubert2017RADX; Dungrawala2017RADX). The protein's function is significant in both normal cellular processes and in the context of diseases such as cancer and neurodevelopmental disorders, where mutations in the RADX gene can lead to genome instability and altered cellular responses to DNA damage (Adolph2023CRISPRdependent; Azzarà2023RADX).
+
+## Structure
+The RADX protein is characterized by its ability to bind single-stranded DNA (ssDNA) through its oligonucleotide/oligosaccharide-binding (OB) folds, which are crucial for its function in maintaining genome stability. The primary structure of RADX includes three OB fold domains, which are similar to those found in the large subunit of Replication Protein A (RPA), specifically RPA70. These domains are essential for its high affinity for ssDNA, with the OB-2 domain being particularly important due to its similarity to the RPA70A high-affinity ssDNA binding domain (Schubert2017RADX; Dungrawala2017RADX).
+
+The secondary and tertiary structures of RADX have been modeled using in silico techniques, such as RaptorX and Phyre2, which predict structural homology to ssDNA-binding proteins like RPA1 and POT1. These models focus on the OB-2 and OB-3 domains, suggesting a high-confidence structural similarity to known ssDNA-binding domains (Schubert2017RADX; Dungrawala2017RADX).
+
+RADX's interaction with ssDNA is mediated by its OB fold region, and mutations in these domains can significantly reduce its DNA-binding ability, highlighting their importance in RADX's function (Schubert2017RADX). The protein's structure and function are integral to its role in protecting replication forks from collapse and maintaining genome stability.
+
+## Function
+The RADX gene encodes a single-stranded DNA binding protein that plays a crucial role in maintaining genome stability in healthy human cells. RADX is primarily involved in regulating DNA replication and ensuring the integrity of replication forks. It binds to single-stranded DNA (ssDNA) through an oligonucleotide/oligosaccharide-binding (OB) fold cluster, which is essential for its recruitment to sites of replication stress (Schubert2017RADX; Zhang2020RADX).
+
+RADX functions by modulating the activity of replication protein A (RPA) and RAD51 at replication forks. It enhances the mobility of RPA, increasing the pool available to bind and protect extended ssDNA regions during replication stress, thereby preventing fork breakage and degradation (Schubert2017RADX). RADX also acts as an antagonist to RAD51, preventing excessive RAD51 activity that can lead to fork instability and genome instability (Bhat2018RADX; Dungrawala2017RADX).
+
+In addition to its role in replication fork stability, RADX is involved in telomere maintenance. It works alongside the POT1 protein to suppress the accumulation of fragile telomeres, thereby preventing telomere fragility and ensuring proper telomere replication and maintenance (Briod2020RADX). Overall, RADX is essential for maintaining DNA replication integrity and genomic stability by regulating ssDNA interactions and ensuring balanced replication fork dynamics (Schubert2017RADX).
+
+## Clinical Significance
+Mutations and alterations in the RADX gene have significant clinical implications, particularly in the context of cancer and neurodevelopmental disorders. In cancer, RADX mutations can lead to genome instability by affecting its regulatory role on RAD51, a protein crucial for DNA repair. These mutations can result in increased sensitivity to DNA-damaging agents, making tumors more susceptible to certain chemotherapies. Notably, some RADX mutations are found in human tumors, such as Uterine Corpus Endometrial Carcinoma and Cervical Squamous Cell Carcinoma, potentially driving genome instability and influencing tumor responses to treatment (Adolph2023CRISPRdependent).
+
+In neurodevelopmental disorders, a variant in the RADX gene, p.(Cys834Ser), has been associated with Asperger syndrome and autism spectrum disorder (ASD) in a familial study. This variant was found to segregate among affected family members, suggesting a potential genetic predisposition to these conditions. The study proposes that RADX mutations could contribute to the etiology of AS-ASD by affecting genome maintenance during replication stress, which is observed in neural progenitor cells from ASD patients (Azzarà2023RADX).
+
+Alterations in RADX expression or function can also impact DNA replication and repair processes, potentially affecting chemosensitivity and cancer progression (Dungrawala2017RADX).
+
+## Interactions
+RADX is a single-stranded DNA-binding protein that plays a crucial role in maintaining DNA replication fork stability by interacting with various proteins and nucleic acids. It binds to single-stranded DNA (ssDNA) via an N-terminal oligonucleotide/oligosaccharide-binding (OB) fold cluster, which is essential for its recruitment to sites of replication stress (Schubert2017RADX; Zhang2020RADX). RADX interacts with replication protein A (RPA), a major ssDNA-binding protein, and can condense RPA-coated ssDNA filaments. This interaction is significant as RADX competes with RPA for ssDNA binding, although it does not completely displace RPA (Zhang2020RADX; Zhang2020RADXa).
+
+RADX also acts as a negative regulator of RAD51, a protein involved in homologous recombination. It inhibits RAD51 filament formation on ssDNA by blocking the displacement of RPA by RAD51, thereby preventing RAD51 from loading onto ssDNA (Zhang2020RADX; Bhat2018RADX). This regulatory role is crucial for maintaining genome stability, as excessive RAD51 activity can lead to illegitimate recombination and replication fork collapse (Zhang2020RADXa; Dungrawala2017RADX). RADX's interactions with these proteins highlight its importance in modulating DNA replication and repair processes.
+
+
+## References
+
+
+[1. (Schubert2017RADX) Lisa Schubert, Teresa Ho, Saskia Hoffmann, Peter Haahr, Claire Guérillon, and Niels Mailand. <scp>radx</scp> interacts with single‐stranded <scp>dna</scp> to promote replication fork stability. EMBO reports, 18(11):1991–2003, October 2017. URL: http://dx.doi.org/10.15252/embr.201744877, doi:10.15252/embr.201744877. This article has 32 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.15252/embr.201744877)
+
+[2. (Azzarà2023RADX) Alessia Azzarà, Roberto Rumore, Fulvia Brugnoletti, Elisabetta Tabolacci, Irene Bottillo, Eugenio Sangiorgi, and Fiorella Gurrieri. Radx gene variant may predispose to familial asperger syndrome. Genes, 14(2):301, January 2023. URL: http://dx.doi.org/10.3390/genes14020301, doi:10.3390/genes14020301. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes14020301)
+
+3. (Adolph2023CRISPRdependent) CRISPR-dependent base editing screens identify separation of function mutants of RADX with altered RAD51 regulatory activity. This article has 0 citations.
+
+4. (Briod2020RADX) RADX Sustains POT1 Function at Telomeres to Counteract RAD51 Binding, which Triggers Telomere Fragility. This article has 4 citations.
+
+[5. (Zhang2020RADXa) Hongshan Zhang, Jeffrey M Schaub, and Ilya J Finkelstein. Radx condenses single-stranded dna to antagonize rad51 loading. Nucleic Acids Research, 48(14):7834–7843, July 2020. URL: http://dx.doi.org/10.1093/nar/gkaa559, doi:10.1093/nar/gkaa559. This article has 21 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkaa559)
+
+6. (Zhang2020RADX) RADX condenses single-stranded DNA to antagonize RAD51 loading. This article has 0 citations.
+
+[7. (Bhat2018RADX) Kamakoti P. Bhat, Archana Krishnamoorthy, Huzefa Dungrawala, Edwige B. Garcin, Mauro Modesti, and David Cortez. Radx modulates rad51 activity to control replication fork protection. Cell Reports, 24(3):538–545, July 2018. URL: http://dx.doi.org/10.1016/j.celrep.2018.06.061, doi:10.1016/j.celrep.2018.06.061. This article has 93 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2018.06.061)
+
+[8. (Dungrawala2017RADX) Huzefa Dungrawala, Kamakoti P. Bhat, Rémy Le Meur, Walter J. Chazin, Xia Ding, Shyam K. Sharan, Sarah R. Wessel, Aditya A. Sathe, Runxiang Zhao, and David Cortez. Radx promotes genome stability and modulates chemosensitivity by regulating rad51 at replication forks. Molecular Cell, 67(3):374-386.e5, August 2017. URL: http://dx.doi.org/10.1016/j.molcel.2017.06.023, doi:10.1016/j.molcel.2017.06.023. This article has 160 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2017.06.023)

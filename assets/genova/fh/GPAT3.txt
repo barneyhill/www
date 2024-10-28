@@ -1,0 +1,35 @@
+# GPAT3
+
+## Overview
+GPAT3, or glycerol-3-phosphate acyltransferase 3, is a gene that encodes an enzyme integral to lipid metabolism, specifically categorized as an acyltransferase. The GPAT3 enzyme catalyzes the initial step in the biosynthesis of glycerolipids by acylating glycerol-3-phosphate to form lysophosphatidic acid, a precursor for both phospholipids and triacylglycerol (TAG) (Cao2006Molecular). This enzyme is predominantly localized in the endoplasmic reticulum and is highly expressed in tissues with active lipid metabolism, such as the kidney, heart, and adipose tissue (Cao2006Molecular). GPAT3 plays a crucial role in adipocyte differentiation and energy storage, with its expression being regulated by metabolic changes and PPARγ agonists (Cao2006Molecular). The enzyme's interaction with proteins such as seipin underscores its importance in lipid biosynthesis and adipogenesis (Sim2020Oligomers). Additionally, GPAT3 has been implicated in metabolic disorders and cancer, highlighting its clinical significance in conditions like obesity and cancer cell survival (Korbecki2024Phospholipid; Karasawa2019Transcriptional).
+
+## Function
+GPAT3, also known as AGPAT10, is a crucial enzyme in lipid metabolism, primarily involved in the biosynthesis of triacylglycerol (TAG) in healthy human cells. It catalyzes the initial step of glycerolipid synthesis by acylating glycerol-3-phosphate (G3P) to form lysophosphatidic acid (LPA), a precursor for both phospholipids and TAG. This activity is specific to G3P, as no significant increase in product formation is observed with other substrates (Cao2006Molecular). GPAT3 is localized to the endoplasmic reticulum (ER), where it plays a significant role in TAG synthesis, particularly in tissues with active lipid metabolism such as the kidney, heart, skeletal muscle, and thyroid gland (Cao2006Molecular).
+
+The enzyme's activity is sensitive to N-ethylmaleimide (NEM), distinguishing it from mitochondrial GPAT1 (Cao2006Molecular). GPAT3 is upregulated during adipocyte differentiation and is regulated by metabolic changes, including treatment with PPARγ agonists, which enhance its expression and activity (Cao2006Molecular). This regulation suggests that GPAT3 is integral to lipogenesis and energy storage, contributing to lipid homeostasis in healthy human cells (Cao2006Molecular).
+
+## Clinical Significance
+GPAT3, also known as AGPAT10, is implicated in several metabolic and cancer-related conditions. Its expression is notably abundant in adipose tissue, where it plays a significant role in triacylglycerol (TAG) synthesis. Alterations in GPAT3 expression are linked to obesity, as knockout studies in mice have shown that GPAT3 deficiency leads to reduced body weight and adiposity, particularly in females, suggesting a potential interaction with sex hormones (Karasawa2019Transcriptional).
+
+In cancer, GPAT3 is involved in lipid droplet accumulation within colon cancer cells, which may prevent immune system activation following standard anticancer treatments (Korbecki2024Phospholipid). This suggests a role in cancer cell survival and immune evasion. However, specific diseases directly resulting from GPAT3 mutations or expression alterations are not detailed in the available literature.
+
+GPAT3 also interacts with the protein seipin, which is crucial for adipocyte differentiation. Mutations in seipin that affect its binding to GPAT3 can impair adipose development, although GPAT3 inhibition alone does not significantly impact adipogenesis, indicating a complex interaction network (Sim2020Oligomers).
+
+## Interactions
+GPAT3 interacts with the lipodystrophy protein seipin, which is encoded by the BSCL2 gene. This interaction is crucial for adipocyte differentiation, as seipin acts as a scaffold protein that coordinates the activities of GPAT3 and AGPAT2, another enzyme involved in lipid biosynthesis. Seipin oligomers can bind directly to GPAT3, forming complexes with a specific molecular architecture. This interaction is highly ordered, with GPAT3 molecules binding to seipin oligomers in a specific pattern (Sim2020Oligomers).
+
+The interaction between GPAT3 and seipin is specific and requires certain domains of seipin, such as the conserved transmembrane and ER luminal loop regions. Mutations in seipin can affect its ability to bind GPAT3, as seen with the L91P and A212P mutants, which show reduced binding capacity (Sim2020Oligomers).
+
+Seipin also facilitates the association of GPAT3 with AGPAT2, potentially forming a multi-protein complex that enhances the efficiency of the glycerolipid synthesis pathway. This coordination is essential for adipogenesis, as the loss of seipin, GPAT3, or AGPAT2 impairs this process (Sim2020Oligomers).
+
+
+## References
+
+
+[1. (Cao2006Molecular) Jingsong Cao, Jian-Liang Li, Dongmei Li, James F. Tobin, and Ruth E. Gimeno. Molecular identification of microsomal acyl-coa:glycerol-3-phosphate acyltransferase, a key enzyme in de novo triacylglycerol synthesis. Proceedings of the National Academy of Sciences, 103(52):19695–19700, December 2006. URL: http://dx.doi.org/10.1073/pnas.0609140103, doi:10.1073/pnas.0609140103. This article has 189 citations.](https://doi.org/10.1073/pnas.0609140103)
+
+[2. (Sim2020Oligomers) M. F. Michelle Sim, Elisa Persiani, Md. Mesbah Uddin Talukder, George D. Mcilroy, Ahlima Roumane, J. Michael Edwardson, and Justin J. Rochford. Oligomers of the lipodystrophy protein seipin may co-ordinate gpat3 and agpat2 enzymes to facilitate adipocyte differentiation. Scientific Reports, February 2020. URL: http://dx.doi.org/10.1038/s41598-020-59982-5, doi:10.1038/s41598-020-59982-5. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-020-59982-5)
+
+[3. (Karasawa2019Transcriptional) Ken Karasawa, Kazunari Tanigawa, Ayako Harada, and Atsushi Yamashita. Transcriptional regulation of acyl-coa:glycerol-sn-3-phosphate acyltransferases. International Journal of Molecular Sciences, 20(4):964, February 2019. URL: http://dx.doi.org/10.3390/ijms20040964, doi:10.3390/ijms20040964. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms20040964)
+
+[4. (Korbecki2024Phospholipid) Jan Korbecki, Mateusz Bosiacki, Maciej Pilarczyk, Magdalena Gąssowska-Dobrowolska, Paweł Jarmużek, Izabela Szućko-Kociuba, Justyna Kulik-Sajewicz, Dariusz Chlubek, and Irena Baranowska-Bosiacka. Phospholipid acyltransferases: characterization and involvement of the enzymes in metabolic and cancer diseases. Cancers, 16(11):2115, May 2024. URL: http://dx.doi.org/10.3390/cancers16112115, doi:10.3390/cancers16112115. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers16112115)

@@ -1,0 +1,17 @@
+# FAM240C
+
+## Overview
+FAM240C is a gene that encodes a protein belonging to the family with sequence similarity 240 member C. This protein is involved in various cellular processes, although its precise biological functions are still being elucidated. Initially classified as a noncoding gene, FAM240C was reclassified as a protein-coding gene following comprehensive genomic analyses, which revealed its potential coding capacity despite evolutionary losses in certain clades (Mudge2019Discovery). The protein encoded by FAM240C has been implicated in cancer biology, particularly in the context of papillary thyroid carcinoma, where it forms part of a gene signature associated with lymph node metastasis (Ling2021Development). Further research is required to fully understand the role of FAM240C in cellular mechanisms and its potential as a biomarker in clinical settings.
+
+## Clinical Significance
+The FAM240C gene has been identified as part of a 14-gene signature that predicts lymph node metastasis (LNM) in papillary thyroid carcinoma (PTC) patients. This gene signature, which includes FAM240C, was developed using LASSO regression analysis to manage multicollinearity among differentially expressed genes. The risk score derived from this signature correlates with the severity of LNM in PTC, suggesting that alterations in FAM240C expression may be linked to the progression of this cancer. The study indicates that the 14-gene signature, including FAM240C, could serve as a potential biomarker for assessing the risk of LNM in PTC patients (Ling2021Development).
+
+In another study, FAM240C was identified as a protein-coding gene despite initially being classified as noncoding in earlier versions of GENCODE and RefSeq. This reclassification was based on whole-genome PhyloCSF analysis, which highlighted its potential coding function despite a low PhyloCSF score due to evolutionary losses in certain clades. The study underscores the importance of experimental validation to confirm the functionality of newly annotated genes like FAM240C, although specific clinical implications remain under investigation (Mudge2019Discovery).
+
+
+## References
+
+
+[1. (Mudge2019Discovery) Jonathan M. Mudge, Irwin Jungreis, Toby Hunt, Jose Manuel Gonzalez, James C. Wright, Mike Kay, Claire Davidson, Stephen Fitzgerald, Ruth Seal, Susan Tweedie, Liang He, Robert M. Waterhouse, Yue Li, Elspeth Bruford, Jyoti S. Choudhary, Adam Frankish, and Manolis Kellis. Discovery of high-confidence human protein-coding genes and exons by whole-genome phylocsf helps elucidate 118 gwas loci. Genome Research, 29(12):2073–2087, September 2019. URL: http://dx.doi.org/10.1101/gr.246462.118, doi:10.1101/gr.246462.118. This article has 56 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1101/gr.246462.118)
+
+[2. (Ling2021Development) Yuwei Ling, Luyao Jia, Kaifu Li, Lina Zhang, Yajun Wang, and Hua Kang. Development and validation of a novel 14-gene signature for predicting lymph node metastasis in papillary thyroid carcinoma. Gland Surgery, 10(9):2644–2655, September 2021. URL: http://dx.doi.org/10.21037/gs-21-361, doi:10.21037/gs-21-361. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.21037/gs-21-361)

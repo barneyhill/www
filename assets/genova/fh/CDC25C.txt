@@ -1,0 +1,46 @@
+# CDC25C
+
+## Overview
+CDC25C is a gene that encodes the cell division cycle 25C protein, a member of the CDC25 phosphatase family, which plays a pivotal role in cell cycle regulation. The CDC25C protein functions as a phosphatase, specifically involved in the transition from the G2 phase to mitosis by activating the cyclin B1/CDK1 complex through dephosphorylation. This activation is crucial for the proper progression of the cell cycle and ensures accurate DNA transmission during cell division (Liu2020The). The protein's activity is tightly regulated by phosphorylation and interactions with other proteins, such as 14-3-3 proteins and Mdm2, which influence its localization and stability (Giono2017Mdm2; Liu2020The). CDC25C is implicated in various cancers, where its dysregulation can lead to unchecked cell proliferation and genomic instability, highlighting its significance in both normal cellular function and disease states (Ozen2005Increased; Yoshimi2014Recurrent).
+
+## Structure
+The CDC25C protein is a member of the CDC25 phosphatase family, which includes CDC25A and CDC25B. These proteins are characterized by a conserved catalytic domain and a regulatory domain, which can be divided into N-terminal and C-terminal regions. The N-terminal domain contains phosphorylation and ubiquitination sites that regulate phosphatase activity, with significant differences between isoforms in this region, showing less than 25% sequence similarity. This region also includes nuclear localization and export sequences, influencing subcellular localization (Liu2020The).
+
+The C-terminal domain of CDC25C has about 60% identity with other isoforms and contains the catalytic site essential for its phosphatase activity. The active site of CDC25C is flat, lacking distinct grooves for binding proteins or small molecule substrates, which suggests broad interaction capabilities. The core region of the CDC25 phosphatase family contains the motif HCX5R and a catalytic aspartate residue (Liu2020The).
+
+CDC25C is subject to post-translational modifications, such as phosphorylation at specific serine residues, which regulate its activity and localization. Phosphorylation at sites like Ser216 and Ser287 is crucial for its regulation, affecting its interaction with 14-3-3 proteins and its subcellular localization (Liu2020The). The protein's activity is also modulated by interactions with other proteins and kinases, such as Aurora A kinase and PLK1, which promote its nuclear localization and activation (Liu2020The).
+
+## Function
+The CDC25C gene encodes a phosphatase that plays a crucial role in cell cycle regulation, particularly in the transition from the G2 phase to mitosis. CDC25C is responsible for activating the cyclin B1/CDK1 complex by dephosphorylating cyclin-dependent kinase 1 (CDK1) at Thr14 and Tyr15, facilitating the cell's entry into mitosis (Liu2020The). This activation is essential for proper cell division and ensures accurate DNA transmission to daughter cells (Liu2020The).
+
+The activity of CDC25C is tightly regulated by phosphorylation events. During interphase, CDC25C is primarily located in the cytoplasm, but it translocates to the nucleus to activate the cyclin B1/CDK1 complex (Liu2020The). Phosphorylation by kinases such as CHK1 and CHK2 in response to DNA damage leads to its binding with 14-3-3 proteins and sequestration in the cytoplasm, preventing premature mitotic entry and allowing time for DNA repair (Boutros2007CDC25; Liu2020The).
+
+CDC25C is also involved in a positive feedback loop with the cyclin B1/CDK1 complex, which further ensures the proper timing of mitotic entry (Liu2020The). This regulation is crucial for maintaining genomic stability and preventing the transmission of damaged DNA to daughter cells (Liu2020The).
+
+## Clinical Significance
+CDC25C is implicated in various cancers due to its role in cell cycle regulation. Overexpression of CDC25C is observed in prostate cancer, where it is associated with increased proliferation and aggressive disease features, such as higher Gleason scores and extracapsular extension. This overexpression is linked to biochemical recurrence and decreased patient survival, indicating its potential as a marker for aggressive prostate cancer (Ozen2005Increased). In vulvar squamous cell carcinomas, high expression of CDC25C and its phosphorylated form is associated with malignant features and aggressive cancer phenotypes, although it is not independently prognostic (Wang2010Overexpression).
+
+Mutations in CDC25C are significant in familial platelet disorder with associated myeloid malignancies (FPD/AML). These mutations disrupt the G2/M checkpoint, promoting cell cycle progression despite DNA damage, and contribute to malignant transformation. They are often found alongside RUNX1 mutations, leading to increased genomic instability and a high risk of leukemic progression (Yoshimi2014Recurrent). CDC25C mutations are considered early genetic events in the clonal evolution of these hematological disorders (Yoshimi2014Recurrent).
+
+## Interactions
+CDC25C interacts with several proteins that regulate its activity and stability. Mdm2, a ubiquitin ligase, promotes the degradation of CDC25C through a ubiquitin-independent mechanism. This interaction is crucial for delaying cell cycle progression through the G2/M phase. Mdm2 specifically targets the non-phosphorylated form of CDC25C at serine 216, suggesting a nuclear interaction. The degradation process is impaired by mutations in the RING domain of Mdm2, which is essential for its ubiquitin ligase activity (Giono2017Mdm2).
+
+CDC25C also interacts with 14-3-3 proteins, which bind to its phosphorylated form at serine 216, sequestering it in the cytoplasm and preventing its activation of cyclin-dependent kinases (Giono2017Mdm2). This interaction is part of a regulatory mechanism that controls CDC25C's localization and activity during the cell cycle.
+
+The tumor suppressor p14ARF can inhibit Mdm2, leading to increased levels of CDC25C, indicating a regulatory pathway that modulates CDC25C stability and function in response to cellular stress (Giono2017Mdm2). These interactions highlight the complex regulatory network involving CDC25C in cell cycle control.
+
+
+## References
+
+
+[1. (Ozen2005Increased) Mustafa Ozen and Michael Ittmann. Increased expression and activity of cdc25c phosphatase and an alternatively spliced variant in prostate cancer. Clinical Cancer Research, 11(13):4701–4706, July 2005. URL: http://dx.doi.org/10.1158/1078-0432.ccr-04-2551, doi:10.1158/1078-0432.ccr-04-2551. This article has 58 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/1078-0432.ccr-04-2551)
+
+[2. (Yoshimi2014Recurrent) Akihide Yoshimi, Takashi Toya, Masahito Kawazu, Toshihide Ueno, Ayato Tsukamoto, Hiromitsu Iizuka, Masahiro Nakagawa, Yasuhito Nannya, Shunya Arai, Hironori Harada, Kensuke Usuki, Yasuhide Hayashi, Etsuro Ito, Keita Kirito, Hideaki Nakajima, Motoshi Ichikawa, Hiroyuki Mano, and Mineo Kurokawa. Recurrent cdc25c mutations drive malignant transformation in fpd/aml. Nature Communications, August 2014. URL: http://dx.doi.org/10.1038/ncomms5770, doi:10.1038/ncomms5770. This article has 72 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms5770)
+
+[3. (Boutros2007CDC25) Rose Boutros, Valérie Lobjois, and Bernard Ducommun. Cdc25 phosphatases in cancer cells: key players? good targets? Nature Reviews Cancer, 7(7):495–507, July 2007. URL: http://dx.doi.org/10.1038/nrc2169, doi:10.1038/nrc2169. This article has 546 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrc2169)
+
+[4. (Giono2017Mdm2) L E Giono, L Resnick-Silverman, L A Carvajal, S St Clair, and J J Manfredi. Mdm2 promotes cdc25c protein degradation and delays cell cycle progression through the g2/m phase. Oncogene, 36(49):6762–6773, August 2017. URL: http://dx.doi.org/10.1038/onc.2017.254, doi:10.1038/onc.2017.254. This article has 45 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2017.254)
+
+[5. (Wang2010Overexpression) Zhihui Wang, Claes G Trope, Vivi Ann Flørenes, Zhenhe Suo, Jahn M Nesland, and Ruth Holm. Overexpression of cdc25b, cdc25c and phospho-cdc25c (ser216) in vulvar squamous cell carcinomas are associated with malignant features and aggressive cancer phenotypes. BMC Cancer, May 2010. URL: http://dx.doi.org/10.1186/1471-2407-10-233, doi:10.1186/1471-2407-10-233. This article has 41 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2407-10-233)
+
+[6. (Liu2020The) Kai Liu, Minying Zheng, Rui Lu, Jiaxing Du, Qi Zhao, Zugui Li, Yuwei Li, and Shiwu Zhang. The role of cdc25c in cell cycle regulation and clinical cancer therapy: a systematic review. Cancer Cell International, June 2020. URL: http://dx.doi.org/10.1186/s12935-020-01304-w, doi:10.1186/s12935-020-01304-w. This article has 148 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-020-01304-w)

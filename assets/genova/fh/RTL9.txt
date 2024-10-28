@@ -1,0 +1,31 @@
+# RTL9
+
+## Overview
+RTL9, also known as SIRH10 or Retrotransposon GAG domain containing 1 (RGAG1), is a gene of retroviral origin that encodes the protein retrotransposon Gag like 9. This protein is characterized by its GAG-like domain, which is crucial for its function in the innate immune system, particularly in the degradation of fungal zymosan within microglial lysosomes in the eutherian brain (Ishino2023RetrovirusDerived). The RTL9 protein is highly conserved among eutherians and exhibits structural similarities to viral proteins, although it lacks their functional motifs (Ishino2023RetrovirusDerived). It plays a significant role in antifungal immunity, and its absence in knockout models results in impaired zymosan degradation, highlighting its importance in the immune response (KanekoIshino2023RetrovirusDerived). Additionally, RTL9 is implicated in certain pathological conditions, such as BCOR-rearranged sarcomas, where it forms fusion proteins that alter its typical interactions and functions (Madarász2024BCORRearranged).
+
+## Structure
+The RTL9 protein, also known as SIRH10 or RGAG1, is a large protein consisting of 1347 amino acids and is highly conserved in eutherians (Ishino2023RetrovirusDerived). It shows homology to the sushi-ichi retrotransposon GAG and includes two herpes virus-like sequences, although it lacks the functional motifs and domains present in these viral proteins (Ishino2023RetrovirusDerived). The protein contains a GAG-like domain, which is crucial for its role in the degradation of fungal zymosan in microglial lysosomes (Ishino2023RetrovirusDerived).
+
+The C-terminal region of RTL9, specifically the 1169-1316 amino acid segment, includes both the N-and C-terminal subdomains (NTD and CTD) of the capsid-like domain. This domain shares structural similarity with the capsid domain of the human immunodeficiency virus and other mammalian gag-like proteins (Madarász2024BCORRearranged). However, the full molecular structure, including the 3D structure of RTL9, is not yet determined, and there is no prediction available from Alphafold 2, except for the GAG-like region (Ishino2023RetrovirusDerived). The protein is highly expressed in microglial lysosomes in the neonatal brain, particularly in regions such as the superior colliculus and cerebral aqueduct (Ishino2023RetrovirusDerived).
+
+## Function
+The RTL9 gene, also known as SIRH10 or Retrotransposon GAG domain containing 1 (RGAG1), is a retrovirus-derived gene that plays a crucial role in the innate antifungal immunity of the eutherian brain. It is specifically involved in the degradation of zymosan, a fungal cell wall component, within microglial lysosomes (Ishino2023RetrovirusDerived). RTL9 is expressed in microglial lysosomes, where it facilitates the degradation of fungal zymosan, a process essential for the brain's immune response to fungal infections (Ishino2023RetrovirusDerived). The protein encoded by RTL9 contains a GAG-like domain, which is essential for the removal of zymosan (KanekoIshino2023RetrovirusDerived). 
+
+In RTL9 knockout mice, the ability to degrade zymosan is lost, indicating the importance of the C-terminal retroviral GAG-like region in RTL9's function (Ishino2023RetrovirusDerived). Despite its crucial role in zymosan degradation, RTL9 is not necessary for the fusion of zymosan-containing phagosomes with lysosomes, as zymosan is still incorporated into lysosomes in the absence of RTL9 (Ishino2023RetrovirusDerived). This suggests that RTL9's role is specific to the degradation process within microglial lysosomes.
+
+## Interactions
+RTL9, also known as SIRH10 or RGAG1, is a retrovirus-derived gene that plays a significant role in the innate immune system of eutherians, particularly in antifungal immunity. It is localized in the lysosomes of microglia, where it facilitates the degradation of zymosan, a component of fungal cell walls. This process is crucial for the innate immune response in the brain, as demonstrated by the impaired degradation of zymosan in RTL9 knockout mice (Ishino2023RetrovirusDerived).
+
+RTL9 is thought to interact with zymosan after the fusion of zymosan-containing phagosomes and lysosomes, potentially modulating its degradation through an oxidative mechanism. This interaction may involve the formation of a complex with zymosan, although further research is needed to determine whether RTL9 acts as an enzyme or a modulator in this process (Ishino2023RetrovirusDerived).
+
+In the context of BCOR-rearranged sarcomas, RTL9 is involved in fusion proteins such as RTL9::BCOR-2. These fusions exhibit altered binding interactions, particularly in the PUFD domain, which affects the binding dynamics with the RAWUL domain of PCGF1. The RTL9::BCOR-2 fusion lacks almost the entire capsid-like domain of RTL9, preventing it from facilitating oligomerization via its capsid-like domain (Madarász2024BCORRearranged).
+
+
+## References
+
+
+1. (Madarász2024BCORRearranged) BCOR-Rearranged Sarcomas:In SilicoInsights into Altered Domains and Reduced RAWUL-PUFD Binding. This article has 0 citations.
+
+[2. (Ishino2023RetrovirusDerived) Fumitoshi Ishino, Johbu Itoh, Masahito Irie, Ayumi Matsuzawa, Mie Naruse, Toru Suzuki, Yuichi Hiraoka, and Tomoko Kaneko-Ishino. Retrovirus-derived rtl9 plays an important role in innate antifungal immunity in the eutherian brain. International Journal of Molecular Sciences, 24(19):14884, October 2023. URL: http://dx.doi.org/10.3390/ijms241914884, doi:10.3390/ijms241914884. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms241914884)
+
+[3. (KanekoIshino2023RetrovirusDerived) Tomoko Kaneko-Ishino and Fumitoshi Ishino. Retrovirus-derived rtl/sirh: their diverse roles in the current eutherian developmental system and contribution to eutherian evolution. Biomolecules, 13(10):1436, September 2023. URL: http://dx.doi.org/10.3390/biom13101436, doi:10.3390/biom13101436. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom13101436)

@@ -1,0 +1,52 @@
+# BNIP1
+
+## Overview
+BNIP1, or BCL2 interacting protein 1, is a gene that encodes a pro-apoptotic protein belonging to the BH3-only subgroup of the BCL2 family. This protein is primarily localized to the endoplasmic reticulum (ER) and is involved in various cellular processes, including apoptosis and ER membrane dynamics. BNIP1 plays a critical role in the induction of apoptosis by interacting with other BCL2 family proteins through its BH3 domain, which is essential for its pro-apoptotic activity (Yasuda2000Functional; Nakajima2004Involvement). Additionally, BNIP1 is implicated in mitochondrial dynamics, influencing mitochondrial fragmentation and autophagy regulation (Ryu2012Endoplasmic; Tang2011RNF185). The protein's involvement in cellular homeostasis is further underscored by its participation in the syntaxin 18 complex, which is crucial for ER membrane fusion and retrograde vesicular transport (Nakajima2004Involvement). Mutations in the BNIP1 gene have been associated with skeletal disorders, highlighting its clinical significance (Holling2022A).
+
+## Structure
+BNIP1 is a pro-apoptotic protein that contains several structural domains crucial for its function. It is characterized by a BH3 domain, which is essential for its apoptotic activity and interaction with other BCL2 family proteins (Yasuda2000Functional; Nakajima2004Involvement). The BH3 domain is located between residues 114 and 119 and is necessary for binding to proteins such as a-SNAP, which plays a role in apoptosis and endoplasmic reticulum (ER) membrane fusion (Nakajima2004Involvement).
+
+BNIP1 also features a C-terminal transmembrane domain that targets it to the mitochondria and nuclear envelope/ER regions, facilitating its role in cellular membrane dynamics (Zhang2003BNips:agroupofproapoptoticproteinsintheBcl2family; Nakajima2004Involvement). The protein's structure includes an N-terminal coiled-coil region and a Sec20p homology region with a t-SNARE motif, suggesting its involvement in ER membrane fusion (Nakajima2004Involvement).
+
+BNIP1 exists in multiple splice variants, including BNIP1-a, BNIP1-b, and BNIP1-c, which differ in their BH3 domain presence and sequence insertions or deletions (Zhang1999Novel). These variants exhibit different interactions with BCL2 family proteins, indicating diverse functional roles (Zhang1999Novel).
+
+## Function
+BNIP1 (BCL2 interacting protein 1) is a proapoptotic BH3-only protein primarily localized to the endoplasmic reticulum (ER) and plays a significant role in various cellular processes. It is involved in the induction of apoptosis and the maintenance of the ER network structure through its participation in ER membrane fusion. BNIP1 is a component of the syntaxin 18 complex, which is crucial for ER membrane dynamics and retrograde vesicular transport from the Golgi to the ER (Nakajima2004Involvement).
+
+BNIP1 also influences mitochondrial dynamics by inducing mitochondrial fragmentation in a Bcl-2- and Drp1-dependent manner, highlighting its role in mitochondrial fission and apoptosis regulation (Ryu2012Endoplasmic). The protein interacts with the mitochondrial ubiquitin E3 ligase RNF185, suggesting a role in autophagy regulation and the formation of autophagolysosomes (Holling2022A; Tang2011RNF185).
+
+In healthy human cells, BNIP1 contributes to the structural integrity of the ER and potentially regulates apoptosis through interactions with other proteins, such as a-SNAP, which can suppress BNIP1-induced apoptosis (Nakajima2004Involvement). These functions underscore BNIP1's involvement in maintaining cellular homeostasis and facilitating membrane trafficking and fusion events.
+
+## Clinical Significance
+Mutations in the BNIP1 gene have been linked to spondylo-epiphyseal dysplasia, a skeletal disorder characterized by disproportionate short stature and skeletal abnormalities. A specific homozygous intronic variant, c.84+3A>T, has been identified in patients with this condition. This variant leads to aberrant splicing of BNIP1 mRNA, resulting in reduced mRNA and protein levels, which in turn causes an increase in autophagosomes and a reduction in autophagic flux. These cellular changes are thought to impair the fusion of autophagosomes and lysosomes, affecting autophagy and contributing to the skeletal phenotype observed in affected individuals (Holling2022A).
+
+In zebrafish, BNIP1 is involved in apoptosis regulation in photoreceptors. The lack of β-SNAP activity in certain mutants leads to the accumulation of syntaxin-18 cis-SNARE complexes, facilitating BNIP1-mediated apoptosis. This process is linked to the rapid growth of photoreceptor outer segments, where excessive vesicular transport may activate BNIP1's pro-apoptotic activity. Overexpression of β-SNAP1 or ER-targeted Bcl2 can prevent this apoptosis, highlighting BNIP1's role in cell death pathways (Nishiwaki2020βSNAP).
+
+## Interactions
+BNIP1 (BCL2 interacting protein 1) is involved in several protein interactions that are crucial for its role in cellular processes. BNIP1 physically interacts with the protein Rab5b, a relationship that is significant for the fusion of autophagosomes and lysosomes in hippocampal neurons. This interaction is modulated by the expression levels of BNIP1, with overexpression enhancing the binding to Rab5b and knockdown reducing it (Li2024BNIP1). BNIP1 also facilitates the recruitment of Rab7 by binding to Rab5b, which is essential for promoting autophagosome-lysosome fusion (Li2024BNIP1).
+
+In the context of apoptosis, BNIP1 interacts with the anti-apoptotic protein Bcl2 through its BH3 domain. This interaction is part of a mechanism that releases the pro-apoptotic protein Bax from Bcl2-mediated inhibition, thereby promoting apoptosis (Nishiwaki2020βSNAP). BNIP1 is a component of the syntaxin-18 complex, a t-SNARE complex involved in retrograde vesicular transport from the Golgi to the ER. This complex includes syntaxin-18, Use1, and Sec22b, and its proper disassembly is crucial for preventing BNIP1-dependent apoptosis (Nishiwaki2020βSNAP). BNIP1's interaction with adenoviral E1B 19K proteins has also been identified, highlighting its role in apoptosis regulation (Subramanian2024Interaction).
+
+
+## References
+
+
+[1. (Ryu2012Endoplasmic) Seung‐Wook Ryu, Kyungsun Choi, Jonghee Yoon, Sunchang Kim, and Chulhee Choi. Endoplasmic reticulum‐specific bh3‐only protein bnip1 induces mitochondrial fragmentation in a bcl‐2‐ and drp1‐dependent manner. Journal of Cellular Physiology, 227(8):3027–3035, April 2012. URL: http://dx.doi.org/10.1002/jcp.23044, doi:10.1002/jcp.23044. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcp.23044)
+
+[2. (Zhang1999Novel) Hong Zhang, Jutta Heim, and Bernd Meyhack. Novel bnip1 variants and their interaction with bcl2 family members. FEBS Letters, 448(1):23–27, April 1999. URL: http://dx.doi.org/10.1016/s0014-5793(99)00335-x, doi:10.1016/s0014-5793(99)00335-x. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0014-5793(99)00335-x)
+
+[3. (Holling2022A) Tess Holling, Gandham S. Bhavani, Leonie Elsner, Hitesh Shah, Neethukrishna Kausthubham, Shaila S. Bhattacharyya, Anju Shukla, Geert R. Mortier, Thorsten Schinke, Tatyana Danyukova, Sandra Pohl, Kerstin Kutsche, and Katta M. Girisha. A homozygous hypomorphicbnip1variant causes an increase in autophagosomes and reduced autophagic flux and results in a spondylo‐epiphyseal dysplasia. Human Mutation, 43(5):625–642, March 2022. URL: http://dx.doi.org/10.1002/humu.24368, doi:10.1002/humu.24368. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.24368)
+
+[4. (Zhang2003BNips:agroupofproapoptoticproteinsintheBcl2family) H. M. Zhang. Bnips: a group of pro-apoptotic proteins in the bcl-2 family. Apoptosis, 8(3):229–236, 2003. URL: http://dx.doi.org/10.1023/A:1023616620970, doi:10.1023/a:1023616620970. This article has 112 citations and is from a peer-reviewed journal.](https://doi.org/10.1023/A:1023616620970)
+
+5. (Subramanian2024Interaction) Interaction of Cellular Apoptosis Regulating Proteins with Adenovirus Anti-apoptosis Protein E1B-19K. This article has 1 citations.
+
+[6. (Tang2011RNF185) Fei Tang, Bin Wang, Na Li, Yanfang Wu, Junying Jia, Talin Suo, Quan Chen, Yong-Jun Liu, and Jie Tang. Rnf185, a novel mitochondrial ubiquitin e3 ligase, regulates autophagy through interaction with bnip1. PLoS ONE, 6(9):e24367, September 2011. URL: http://dx.doi.org/10.1371/journal.pone.0024367, doi:10.1371/journal.pone.0024367. This article has 85 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0024367)
+
+[7. (Nishiwaki2020βSNAP) Yuko Nishiwaki and Ichiro Masai. Β-snap activity in the outer segment growth period is critical for preventing bnip1-dependent apoptosis in zebrafish photoreceptors. Scientific Reports, October 2020. URL: http://dx.doi.org/10.1038/s41598-020-74360-x, doi:10.1038/s41598-020-74360-x. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-020-74360-x)
+
+[8. (Yasuda2000Functional) Motoaki Yasuda and G Chinnadurai. Functional identification of the apoptosis effector bh3 domain in cellular protein bnip1. Oncogene, 19(19):2363–2367, May 2000. URL: http://dx.doi.org/10.1038/sj.onc.1203565, doi:10.1038/sj.onc.1203565. This article has 22 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.onc.1203565)
+
+[9. (Nakajima2004Involvement) Ken-ichi Nakajima, Hidenori Hirose, Mei Taniguchi, Hirofumi Kurashina, Kohei Arasaki, Masami Nagahama, Katsuko Tani, Akitsugu Yamamoto, and Mitsuo Tagaya. Involvement of bnip1 in apoptosis and endoplasmic reticulum membrane fusion. The EMBO Journal, 23(16):3216–3226, July 2004. URL: http://dx.doi.org/10.1038/sj.emboj.7600333, doi:10.1038/sj.emboj.7600333. This article has 109 citations.](https://doi.org/10.1038/sj.emboj.7600333)
+
+10. (Li2024BNIP1) BNIP1 inhibits the fusion of autophagosome and lysosome in hippocampal neurons and promotes the development of Alzheimer’s disease. This article has 0 citations.

@@ -1,0 +1,46 @@
+# LSM5
+
+## Overview
+LSM5 is a gene that encodes the LSM5 protein, a crucial component of the LSm protein complexes involved in RNA processing and degradation. The LSM5 protein is part of the LSm1-7 and LSm2-8 complexes, which play significant roles in mRNA decay and U6 small nuclear RNA (snRNA) stabilization, respectively. As a member of these complexes, LSM5 contributes to the regulation of gene expression by facilitating mRNA turnover in the cytoplasm and participating in pre-mRNA splicing in the nucleus. The protein is characterized by its involvement in forming heptameric ring structures that are essential for its function in RNA binding and processing. Alterations in LSM5 expression have been linked to various cancers, highlighting its potential as a biomarker and therapeutic target (Montemayor2020Molecular; Liu2023Identification).
+
+## Structure
+The LSM5 protein is a component of the LSm657 complex, which forms a hexameric ring structure. This complex is an intermediate in the assembly of larger LSm rings, such as LSm1-7 and LSm2-8, involved in RNA processing and degradation (neu2016structure). The LSm657 complex is characterized by a canonical Sm fold, consisting of an N-terminal α-helix followed by five highly bent β-strands that form a continuous antiparallel β-sheet, a feature of the Sm2 motif. The Sm1 motif spans β-1, β-2, and β-3, contributing to the SH3-like barrel topology of the LSm domains (neu2016structure).
+
+The LSm5 protein, within this complex, engages in specific intermolecular interactions, particularly with LSm6, forming new interfaces. These interactions are stabilized by N-terminal α-helices and additional contacts, including hydrophobic interactions and salt bridges (neu2016structure). The LSm657 complex's pore is positively charged, suggesting a role in RNA binding (neu2016structure). The presence of zinc ions at specific interfaces, likely due to crystallization conditions, may also influence the structure (neu2016structure). The LSm5 protein contains a conserved asparagine in loop 5, which affects its RNA binding properties (Montemayor2020Molecular).
+
+## Function
+LSM5 is a component of the LSm1-7 and LSm2-8 protein complexes, which are involved in crucial RNA processing activities in human cells. The LSm1-7 complex is primarily cytoplasmic and plays a significant role in mRNA decay. It binds to the 3' untranslated region (3'UTR) of mRNAs destined for degradation, facilitating the recruitment of decapping enzymes necessary for mRNA turnover (Montemayor2020Molecular; Zaric2014Oligomerization). LSM5, as part of this complex, has a unique non-canonical nucleobase binding pocket that allows it to specifically recognize purine bases, contributing to the complex's RNA binding specificity (Montemayor2020Molecular).
+
+In the nucleus, the LSm2-8 complex, which includes LSM5, is involved in the stabilization and processing of U6 snRNA, a critical component of the spliceosome. This complex binds to the 3'-end of U6 snRNA, playing a role in its stabilization and the assembly of U6 snRNP, which is essential for pre-mRNA splicing (Wu2012Crystal; Zaric2014Oligomerization). Through these activities, LSM5 contributes to the regulation of gene expression and maintenance of RNA stability, impacting overall cellular function.
+
+## Clinical Significance
+Alterations in the expression of the LSM5 gene have been implicated in various cancers, particularly gastric cancer (GC) and breast cancer. In gastric cancer, LSM5 is highly expressed in tumor tissues compared to normal tissues, and its overexpression is associated with poor overall survival and chemoresistance to 5-fluorouracil (5-FU) treatment. This suggests that LSM5 may serve as a biomarker for predicting chemotherapy response in GC patients. The gene's expression is also linked to the tumor microenvironment, where it negatively correlates with the infiltration of immune cells such as B cells, CD8+ T cells, and macrophages, and is positively associated with tumor mutational burden and microsatellite instability (Liu2023Identification).
+
+In breast cancer, LSM5 is overexpressed in tumor tissues and is associated with advancing tumor stages. However, low expression levels of LSM5 are linked to longer recurrence metastasis-free survival, indicating a potential protective effect against poor outcomes (Ta2021Potential). These findings highlight the dual role of LSM5 in cancer progression and resistance, suggesting its potential as a therapeutic target and prognostic marker in these malignancies. The gene's involvement in RNA processing and stability may underlie its impact on cancer cell viability and drug resistance.
+
+## Interactions
+LSM5 is a component of the Lsm protein complexes, which are involved in various RNA metabolic processes, including RNA splicing and mRNA decay. LSM5 interacts with other Lsm proteins to form a heptameric ring structure, specifically as part of the Lsm1-7 and Lsm2-8 complexes. In the Lsm1-7 complex, LSM5 plays a crucial role in mRNA decay by binding to mRNA and recruiting decay factors such as Dcp1/Dcp2, Pat1, and Xrn1 in P-bodies (Montemayor2020Molecular; Wu2012Crystal). LSM5 is also involved in the Lsm2-8 complex, which is associated with U6 snRNA in the spliceosome, contributing to pre-mRNA splicing (FromontRacine2000GenomeWide).
+
+LSM5 interacts with other Lsm proteins, such as Lsm6 and Lsm7, forming a stable sub-complex. It acts as a bridge between Lsm6 and Lsm7, stabilizing the complex through hydrophobic clusters and salt bridges (Wu2012Crystal). Although LSM5 does not significantly interact with U6 snRNA directly, it is part of the network that includes interactions with splicing factors like Prp24, which is crucial for U4/U6 di-snRNP formation (RADER2002A; VIDAL1999Characterization).
+
+
+## References
+
+
+1. (Montemayor2020Molecular) Molecular basis for the distinct cellular functions of the Lsm1-7 and Lsm2-8 complexes. This article has 1 citations.
+
+[2. (RADER2002A) STEPHEN D. RADER and CHRISTINE GUTHRIE. A conserved lsm-interaction motif in prp24 required for efficient u4/u6 di-snrnp formation. RNA, 8(11):1378–1392, November 2002. URL: http://dx.doi.org/10.1017/s1355838202020010, doi:10.1017/s1355838202020010. This article has 67 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1017/s1355838202020010)
+
+3. (neu2016structure) Ancilla Neu. Structure, dynamics and function of proteins in the mRNA decay pathway. PhD thesis, Universität Tübingen, 2016. This article has 0 citations.
+
+[4. (VIDAL1999Characterization) VALERIE P.I. VIDAL, LOREDANA VERDONE, ANDREW E. MAYES, and JEAN D. BEGGS. Characterization of u6 snrna–protein interactions. RNA, 5(11):1470–1481, November 1999. URL: http://dx.doi.org/10.1017/s1355838299991355, doi:10.1017/s1355838299991355. This article has 80 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1017/s1355838299991355)
+
+[5. (Wu2012Crystal) Donghui Wu, Shimin Jiang, Matthew W. Bowler, and Haiwei Song. Crystal structures of lsm3, lsm4 and lsm5/6/7 from schizosaccharomyces pombe. PLoS ONE, 7(5):e36768, May 2012. URL: http://dx.doi.org/10.1371/journal.pone.0036768, doi:10.1371/journal.pone.0036768. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0036768)
+
+[6. (FromontRacine2000GenomeWide) Micheline Fromont-Racine, Andrew E. Mayes, Adeline Brunet-Simon, Jean-Christophe Rain, Alan Colley, Ian Dix, Laurence Decourty, Nicolas Joly, Florence Ricard, Jean D. Beggs, and Pierre Legrain. Genome-wide protein interaction screens reveal functional networks involving sm-like proteins. Yeast, 1(2):95–110, 2000. URL: http://dx.doi.org/10.1002/1097-0061(20000630)17:2<95::AID-YEA16>3.0.CO;2-H, doi:10.1002/1097-0061(20000630)17:2<95::aid-yea16>3.0.co;2-h. This article has 284 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/1097-0061(20000630)17:2)
+
+[7. (Ta2021Potential) Hoang Dang Khoa Ta, Wei-Jan Wang, Nam Nhut Phan, Nu Thuy An Ton, Gangga Anuraga, Su-Chi Ku, Yung-Fu Wu, Chih-Yang Wang, and Kuen-Haur Lee. Potential therapeutic and prognostic values of lsm family genes in breast cancer. Cancers, 13(19):4902, September 2021. URL: http://dx.doi.org/10.3390/cancers13194902, doi:10.3390/cancers13194902. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13194902)
+
+[8. (Liu2023Identification) Qianhui Liu, Qinghai Lian, Yingqiu Song, Shangbin Yang, Changchang Jia, and Jiafeng Fang. Identification of lsm family members as potential chemoresistance predictive and therapeutic biomarkers for gastric cancer. Frontiers in Oncology, March 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1119945, doi:10.3389/fonc.2023.1119945. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1119945)
+
+[9. (Zaric2014Oligomerization) Bozidarka L. Zaric. Oligomerization of Biomacromolecules – Example of RNA Binding Sm/LSm Proteins. InTech, June 2014. URL: http://dx.doi.org/10.5772/57592, doi:10.5772/57592. This article has 1 citations.](https://doi.org/10.5772/57592)

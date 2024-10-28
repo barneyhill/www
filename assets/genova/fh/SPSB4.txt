@@ -1,0 +1,35 @@
+# SPSB4
+
+## Overview
+SPSB4 is a gene that encodes the protein splA/ryanodine receptor domain and SOCS box containing 4, which is a member of the SPSB family of proteins. This protein is characterized by its role as an E3 ubiquitin ligase, a type of enzyme that facilitates the attachment of ubiquitin molecules to specific substrate proteins, marking them for degradation by the proteasome. The SPSB4 protein contains a central SPRY/B30.2 domain and a C-terminal SOCS box, which are critical for its function in protein-protein interactions and the formation of ubiquitin ligase complexes, respectively (D’Cruz2012Structure). SPSB4 is involved in the regulation of circadian rhythms by targeting the RevErbα protein for degradation, thereby influencing the transcription of circadian clock genes (Mekbib2019The). Additionally, SPSB4 interacts with inducible nitric oxide synthase (iNOS), playing a role in the regulation of nitric oxide production (Li2024Subtle). Through these interactions, SPSB4 contributes to both innate immunity and the maintenance of circadian rhythms.
+
+## Structure
+SPSB4 is a protein characterized by the presence of a central SPRY/B30.2 domain and a C-terminal SOCS box. The SPRY domain is involved in protein-protein interactions, specifically binding to a DINNN peptide motif in the N-terminus of inducible nitric oxide synthase (iNOS) (D’Cruz2012Structure). The SOCS box facilitates the recruitment of elongin B and elongin C, forming an E3 ubiquitin ligase complex with cullin 5 and Rbx2, which targets iNOS for polyubiquitination and degradation (D’Cruz2012Structure).
+
+The SPRY/B30.2 domain of SPSB4 is structurally similar to that of other proteins in the SPSB family, such as SPSB2, and is characterized by a bent β-sandwich fold composed of two β-sheets (D’Cruz2012Structure). The N-terminal region of SPSB4, like that of SPSB2, likely contains two alpha-helices and three beta-strands, forming a single modular entity with the SPRY region (D’Cruz2012Structure). This structural arrangement is crucial for its function as it forms a contiguous unit with the SPRY domain, which is necessary for binding interactions (D’Cruz2012Structure).
+
+SPSB4 also plays a role in the degradation of RevErbα, a protein involved in circadian rhythm regulation, by acting as an E3 ligase (Mekbib2019The). The protein's structure and function are integral to its role in innate immunity and circadian rhythm regulation.
+
+## Function
+SPSB4 is a gene that encodes a protein involved in the regulation of circadian rhythms through its role as an E3 ubiquitin ligase. This protein specifically targets the RevErbα protein for ubiquitination and subsequent degradation via the proteasome, a process crucial for maintaining the circadian period in mammalian cells (Mekbib2019The). The degradation of RevErbα by SPSB4 affects the transcription of Bmal1, a core component of the circadian clock, thereby influencing overall clock function and the expression of target genes such as Cry1 (Mekbib2019The).
+
+SPSB4 is active in various cellular compartments, including the cytoplasm, where it participates in maintaining cellular function and organismal health. Its activity is essential for the precise regulation of circadian rhythms, which are critical for physiological processes that respond to daily environmental changes (Mekbib2019The). The interaction between SPSB4 and RevErbα is specific, as SPSB4 does not target other core clock proteins like Bmal1, Per1, and Cry1, highlighting its selective regulatory role in circadian rhythm maintenance (Mekbib2019The).
+
+## Interactions
+SPSB4 is known to interact with the protein REV-ERBα, a crucial component in the regulation of circadian rhythms. This interaction occurs at the N-terminus of REV-ERBα, specifically within amino acids 4-9, which is essential for the binding of SPSB4. The binding of SPSB4 to REV-ERBα facilitates its ubiquitination and subsequent degradation via the proteasome, thereby influencing the stability and abundance of REV-ERBα and affecting circadian rhythm regulation (Mekbib2019The; Suen2023Lysineindependent).
+
+SPSB4 acts as a specific E3 ubiquitin ligase for REV-ERBα, selectively destabilizing it without affecting other core clock proteins such as Bmal1, Per1, and Cry1. This specificity highlights the role of SPSB4 in the targeted regulation of circadian clock proteins (Mekbib2019The). The interaction between SPSB4 and REV-ERBα is significant for maintaining the periodicity of the circadian clock, as knockdown of SPSB4 results in the stabilization of REV-ERBα and a lengthened circadian period (Mekbib2019The; Suen2023Lysineindependent).
+
+SPSB4 also interacts with inducible nitric oxide synthase (iNOS), where it recruits an E3 ubiquitin ligase complex to polyubiquitinate iNOS, leading to its degradation. This interaction is crucial for regulating cellular nitric oxide production (Li2024Subtle).
+
+
+## References
+
+
+[1. (D’Cruz2012Structure) Akshay A. D’Cruz, Jeffrey J. Babon, Raymond S. Norton, Nicos A. Nicola, and Sandra E. Nicholson. Structure and function of the spry/b30.2 domain proteins involved in innate immunity. Protein Science, 22(1):1–10, December 2012. URL: http://dx.doi.org/10.1002/pro.2185, doi:10.1002/pro.2185. This article has 105 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pro.2185)
+
+[2. (Mekbib2019The) Tsedey Mekbib, Ting-Chung Suen, Aisha Rollins-Hairston, and Jason P. DeBruyne. The e3 ligases spsb1 and spsb4 regulate reverbα degradation and circadian period. Journal of Biological Rhythms, 34(6):610–621, October 2019. URL: http://dx.doi.org/10.1177/0748730419878036, doi:10.1177/0748730419878036. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1177/0748730419878036)
+
+3. (Suen2023Lysineindependent) Lysine-independent ubiquitination and degradation of REV-ERBα involves a bi-functional degradation control sequence at its N-terminus. This article has 0 citations.
+
+[4. (Li2024Subtle) Kefa Li, Yanhong Luo, Weiwei Hu, Jinjin Yang, Danting Zhang, Huan Wei, Tingting You, Hai-Shu Lin, and Zhihe Kuang. Subtle structural differences affect the inhibitory potency of rgd-containing cyclic peptide inhibitors targeting spsb proteins. International Journal of Molecular Sciences, 25(12):6764, June 2024. URL: http://dx.doi.org/10.3390/ijms25126764, doi:10.3390/ijms25126764. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25126764)

@@ -1,0 +1,33 @@
+# TMEM68
+
+## Overview
+TMEM68 is a gene that encodes the transmembrane protein 68, which is an integral membrane protein involved in lipid metabolism. This protein is characterized by its two transmembrane domains and acyltransferase activity, classifying it as part of the glycerophospholipid acyltransferase family (Chang2017Molecular). TMEM68 is primarily localized to the endoplasmic reticulum in mammalian cells, where it functions as a triacylglycerol synthase, playing a crucial role in the biosynthesis and remodeling of glycerophospholipids and polyunsaturated fatty acids (Zeng2024Human; Wang2023Transmembrane). The protein's activity is significant in energy storage and lipid signaling, particularly in the brain, where it contributes to glycerolipid metabolism and polyunsaturated fatty acid homeostasis (Zeng2024Human; Chang2017Molecular).
+
+## Structure
+The TMEM68 protein is characterized by a polypeptide chain consisting of 329 amino acids, as determined from the predicted coding sequence amplified from murine brain cDNA (Chang2017Molecular). Sequence analysis using the TMHMM algorithm and the Pfam database has identified two transmembrane domains (TMDs) located at residues 51-73 and 123-145, which are integral to its function as a membrane protein (Chang2017Molecular). The protein also contains acyltransferase domains, specifically pfam01553 spanning residues 111-233 and pfam03982 covering residues 188-253, which are crucial for its enzymatic activity (Chang2017Molecular).
+
+TMEM68 is part of the glycerophospholipid acyltransferase family and features four conserved motifs typical of this family, with specific residues forming a catalytic dyad essential for its function (Chang2017Molecular). The protein's structure suggests it is an integral membrane protein with both N- and C-termini oriented towards the cytosol, indicating an even number of TMDs (Chang2017Molecular). The presence of these domains and motifs supports its role in lipid metabolism, particularly in the biosynthesis and remodeling of glycerophospholipids (Chang2017Molecular).
+
+## Function
+TMEM68 is a transmembrane protein primarily localized to the endoplasmic reticulum (ER) in mammalian cells, where it plays a significant role in lipid metabolism. It functions as a triacylglycerol (TAG) synthase, contributing to TAG biosynthesis and lipid droplet formation. TMEM68 exhibits monoacylglycerol acyltransferase (MGAT) and diacylglycerol acyltransferase (DGAT) activities, facilitating the conversion of diacylglycerol (DG) to TAG, which is crucial for energy storage and lipid signaling (Wang2023Transmembrane).
+
+The protein is involved in the remodeling of glycerophospholipids (GPLs) and polyunsaturated fatty acid (PUFA) metabolism, impacting cellular membrane lipid composition. Overexpression of TMEM68 increases cellular TAG levels while altering the levels of specific GPL classes, such as phosphatidylcholine (PC) and phosphatidylethanolamine (PE), suggesting its role in channeling fatty acids into glycerolipids (Zeng2024Human; Wang2023Transmembrane).
+
+TMEM68 is highly expressed in the brain, indicating a specific role in brain glycerolipid metabolism. Its activity is linked to the Land's cycle, where GPLs are esterified to monounsaturated and saturated fatty acids and enriched with PUFAs, contributing to PUFA homeostasis (Zeng2024Human; Chang2017Molecular).
+
+## Interactions
+TMEM68, also known as transmembrane protein 68, is involved in various interactions that influence lipid metabolism. It functions as an acyltransferase enzyme, participating in triacylglycerol (TAG) biosynthesis. TMEM68 is known to interact with TMX1, a transmembrane, ER-resident oxidoreductase. TMX1 binds to and regulates TMEM68 at the endoplasmic reticulum, controlling its activity in lipid droplet formation. The loss of TMX1 results in the unconstrained formation of DIESL-dependent lipid droplets, indicating a regulatory interaction between TMX1 and TMEM68 (McLelland2023Identification).
+
+TMEM68 also exhibits monoacylglycerol acyltransferase (MGAT) and diacylglycerol acyltransferase (DGAT) activities, which are crucial for TAG biosynthesis. Its overexpression affects the expression of genes involved in lipogenesis, such as DGAT1, DGAT2, fatty acid synthase (FASN), and acetyl-CoA carboxylase α (ACACA), and increases the expression of peroxisome proliferator-activated receptor γ (PPARγ) (Wang2023Transmembrane). These interactions suggest that TMEM68 plays a significant role in lipid metabolism by influencing the expression and activity of other proteins involved in lipid synthesis and storage. However, specific protein interactions beyond TMX1 are not detailed in the provided context.
+
+
+## References
+
+
+[1. (McLelland2023Identification) Gian-Luca McLelland, Marta Lopez-Osias, Cristy R. C. Verzijl, Brecht D. Ellenbroek, Rafaela A. Oliveira, Nicolaas J. Boon, Marleen Dekker, Lisa G. van den Hengel, Rahmen Ali, Hans Janssen, Ji-Ying Song, Paul Krimpenfort, Tim van Zutphen, Johan W. Jonker, and Thijn R. Brummelkamp. Identification of an alternative triglyceride biosynthesis pathway. Nature, 621(7977):171–178, August 2023. URL: http://dx.doi.org/10.1038/s41586-023-06497-4, doi:10.1038/s41586-023-06497-4. This article has 12 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-023-06497-4)
+
+2. (Zeng2024Human) Human transmembrane protein 68 links triacylglycerol synthesis to membrane lipid homeostasis. This article has 0 citations.
+
+[3. (Wang2023Transmembrane) Yu Wang, Fansi Zeng, Zheng Zhao, Lin He, Xiaohong He, Huimin Pang, Feifei Huang, and Pingan Chang. Transmembrane protein 68 functions as an mgat and dgat enzyme for triacylglycerol biosynthesis. International Journal of Molecular Sciences, 24(3):2012, January 2023. URL: http://dx.doi.org/10.3390/ijms24032012, doi:10.3390/ijms24032012. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms24032012)
+
+[4. (Chang2017Molecular) Ping’an Chang, Christoph Heier, Wenzhen Qin, Liping Han, Feifei Huang, and Quan Sun. Molecular identification of transmembrane protein 68 as an endoplasmic reticulum-anchored and brain-specific protein. PLOS ONE, 12(5):e0176980, May 2017. URL: http://dx.doi.org/10.1371/journal.pone.0176980, doi:10.1371/journal.pone.0176980. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0176980)

@@ -1,0 +1,37 @@
+# FBXO21
+
+## Overview
+FBXO21 is a gene that encodes the F-box protein 21, a member of the F-box protein family, which is integral to the SCF (SKP1-CUL1-F-box) ubiquitin ligase complex. This protein plays a pivotal role in the ubiquitin-proteasome system, facilitating the ubiquitination and subsequent proteasomal degradation of target proteins, thereby regulating protein turnover and influencing various cellular processes such as cell cycle progression, signal transduction, and transcriptional regulation (Zhang2020Identification; Dobish2023FBXO21). F-box protein 21 is expressed predominantly in stem and progenitor cell populations and is involved in maintaining cellular homeostasis and function, with activity in both the cytoplasm and nucleus (Zhang2020Identification). Its interactions with substrates like EID1 and ASK1 highlight its role in processes such as immune response regulation and stem cell maintenance (Dobish2023FBXO21). Alterations in FBXO21 expression have been linked to various diseases, including cancers and osteoarthritis, underscoring its clinical significance (Zheng2023Elucidating; Dobish2023FBXO21).
+
+## Function
+FBXO21 encodes an F-box protein that is a component of the SCF (SKP1-CUL1-F-box) ubiquitin ligase complex, which plays a critical role in targeting proteins for ubiquitination and subsequent proteasomal degradation. This process is essential for regulating protein turnover, influencing various cellular processes such as cell cycle progression, signal transduction, and transcriptional regulation (Zhang2020Identification; Dobish2023FBXO21). 
+
+In healthy human cells, FBXO21 is highly expressed in stem and progenitor cell populations, but its expression is low to absent in mature myeloid populations (Dobish2023FBXO21). It has known substrates, including EP300-inhibitor of differentiation 1 (EID1) and Apoptosis signal-regulating kinase 1 (ASK1). EID1 is involved in maintaining pluripotent stem cells and inhibiting differentiation, while ASK1 is involved in immune response regulation through proinflammatory cytokine pathways (Dobish2023FBXO21). 
+
+FBXO21 is active in both the cytoplasm and nucleus, contributing to maintaining cellular homeostasis and function (Zhang2020Identification). Its role in the ubiquitin-proteasome system suggests it may also be involved in processes like antigen processing and presentation, as well as the innate immune response (Zhang2020Identification).
+
+## Clinical Significance
+Alterations in the expression of the FBXO21 gene have been implicated in several diseases, particularly cancers. In acute myeloid leukemia (AML), FBXO21 is involved in the regulation of cell proliferation and survival. Its expression is typically low in AML, and higher levels of FBXO21 are associated with poorer patient outcomes. Silencing FBXO21 in AML cell lines and patient samples leads to differentiation, inhibition of tumor progression, and increased sensitivity to chemotherapy, suggesting its potential as a therapeutic target (Dobish2023FBXO21). FBXO21 targets the p85α subunit of the PI3K pathway for degradation, affecting PI3K signaling and ERK activation, which are crucial for AML cell survival (Dobish2023FBXO21).
+
+In gastric cancer, FBXO21 acts as a tumor suppressor by regulating the epithelial-to-mesenchymal transition (EMT) through the ubiquitination of Nr2f2. Reduced expression of FBXO21 correlates with poor prognosis, and its knockdown promotes cell proliferation, migration, and invasion (Jiang2021Fbxo21). 
+
+In osteoarthritis, increased expression of FBXO21 is associated with cartilage degeneration. Downregulation of FBXO21 alleviates cartilage degeneration by promoting autophagy and reducing apoptosis, suggesting a potential therapeutic approach for osteoarthritis (Zheng2023Elucidating).
+
+## Interactions
+FBXO21, a member of the F-box protein family, is involved in several protein interactions that play crucial roles in various biological processes. It is a component of the SCF (Skp1-Cullin 1-F-box) ubiquitin ligase complex, where it interacts with Skp1, Cul1, and Rbx1. This interaction is dependent on the presence of the F-box domain in FBXO21 (Yu2016Lys29linkage). FBXO21 also interacts with ASK1, a kinase involved in the antiviral response. This interaction is mediated by the C-terminal part of FBXO21 and the N-terminal part of ASK1, facilitating the Lys29-linked polyubiquitination of ASK1, which is necessary for its activation and the subsequent antiviral response (Yu2016Lys29linkage).
+
+In the context of acute myeloid leukemia (AML), FBXO21 interacts with p85α, a regulatory subunit of the PI3K pathway. FBXO21 targets p85α for ubiquitination and degradation, affecting PI3K signaling and ERK activation, which are crucial for AML cell proliferation and survival (Dobish2023FBXO21). In gastric cancer, FBXO21 interacts with Nr2f2, promoting its ubiquitination and proteasomal degradation. This interaction plays a significant role in regulating the epithelial-to-mesenchymal transition (EMT) process, impacting cancer cell motility and invasiveness (Jiang2021Fbxo21).
+
+
+## References
+
+
+[1. (Zheng2023Elucidating) Chenxiao Zheng, Jiayi Chen, Yurui Wu, Xiaochao Wang, Yongan Lin, Lilu Shu, Wenjun Liu, and Peter Wang. Elucidating the role of ubiquitination and deubiquitination in osteoarthritis progression. Frontiers in Immunology, June 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1217466, doi:10.3389/fimmu.2023.1217466. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1217466)
+
+[2. (Dobish2023FBXO21) Kasidy K. Dobish, Karli J. Wittorf, Samantha A. Swenson, Dalton C. Bean, Catherine M. Gavile, Nicholas T. Woods, Gargi Ghosal, R. Katherine Hyde, and Shannon M. Buckley. Fbxo21 mediated degradation of p85α regulates proliferation and survival of acute myeloid leukemia. Leukemia, 37(11):2197–2208, September 2023. URL: http://dx.doi.org/10.1038/s41375-023-02020-w, doi:10.1038/s41375-023-02020-w. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41375-023-02020-w)
+
+[3. (Yu2016Lys29linkage) Zhou Yu, Taoyong Chen, Xuelian Li, Mingjin Yang, Songqing Tang, Xuhui Zhu, Yan Gu, Xiaoping Su, Meng Xia, Weihua Li, Xuemin Zhang, Qingqing Wang, Xuetao Cao, and Jianli Wang. Lys29-linkage of ask1 by skp1−cullin 1−fbxo21 ubiquitin ligase complex is required for antiviral innate response. eLife, April 2016. URL: http://dx.doi.org/10.7554/elife.14087, doi:10.7554/elife.14087. This article has 47 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.14087)
+
+[4. (Zhang2020Identification) Yuan-Meng Zhang, Ling-Bing Meng, Si-Jun Yu, and Dong-Xing Ma. Identification of potential crucial genes in monocytes for atherosclerosis using bioinformatics analysis. Journal of International Medical Research, 48(4):030006052090927, April 2020. URL: http://dx.doi.org/10.1177/0300060520909277, doi:10.1177/0300060520909277. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1177/0300060520909277)
+
+[5. (Jiang2021Fbxo21) Yannan Jiang, Xinyu Liu, Renbin Shen, Xinhua Gu, and Weifeng Qian. Fbxo21 regulates the epithelial-to-mesenchymal transition through ubiquitination of nr2f2 in gastric cancer. Journal of Cancer, 12(5):1421–1430, 2021. URL: http://dx.doi.org/10.7150/jca.49674, doi:10.7150/jca.49674. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/jca.49674)

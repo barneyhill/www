@@ -1,0 +1,52 @@
+# UTP14A
+
+## Overview
+UTP14A is a gene that encodes the UTP14A small subunit processome component, a protein integral to ribosome biogenesis. This protein is a part of the small subunit processome, a ribonucleoprotein complex that plays a crucial role in the early stages of ribosome assembly, particularly in the maturation of the small ribosomal subunit. UTP14A interacts with the RNA helicase DHX37, enhancing its ATPase activity and RNA binding, which is essential for the processing and maturation of 18S rRNA in the nucleolus (Boneberg2019Molecular; Choudhury2018The). Beyond its fundamental role in ribosome assembly, UTP14A is involved in the regulation of the tumor suppressor protein TP53, influencing cell cycle progression and apoptosis (Rohozinski2012Does). Alterations in UTP14A expression have been linked to various cancers, where it contributes to tumor progression and poor prognosis, highlighting its potential as a therapeutic target (Zhang2019Human; Ren2019Human).
+
+## Structure
+The UTP14A protein is involved in ribosome biogenesis and interacts with the RNA helicase DHX37. It contains a central region with a conserved motif necessary for its interaction with DHX37, enhancing the helicase's ATPase activity and RNA binding (Boneberg2019Molecular). This central motif includes two conserved sequence motifs: an amino-terminal motif (Met558-Leu561) and a carboxy-terminal motif (Met594-Glu597), which are crucial for binding and activation of DHX37 (Boneberg2019Molecular).
+
+UTP14A is not a canonical G-patch protein, as its glycine-rich sequence is not required for interaction with DHX37 (Boneberg2019Molecular). The protein also contains a leucine-rich region (LRR) that functions as an E3 ligase domain, promoting the degradation of the retinoblastoma protein (RB) through polyubiquitination (Liu2018Human). The RB-interacting domain is located at residues 646-771, which includes a PENF motif (Liu2018Human).
+
+The structural arrangement of UTP14A, particularly its interaction with DHX37, is crucial for its role in ribosome biogenesis, although detailed atomic or 3D structural information is not provided in the context.
+
+## Function
+The UTP14A gene encodes a protein that plays a critical role in ribosome biogenesis, particularly in the maturation of the small ribosomal subunit. UTP14A is a component of the small subunit processome, a ribonucleoprotein complex involved in the early stages of ribosome assembly. It is active in the nucleolus, where it contributes to the processing and maturation of 18S rRNA, essential for the assembly of the 40S ribosomal subunit (Rohozinski2012Does).
+
+UTP14A interacts directly with the RNA helicase DHX37, enhancing its ATPase activity and RNA binding capability. This interaction is crucial for the dissociation of U3 snoRNP from the maturing 40S ribosomal subunit, a key step in ribosome assembly (Boneberg2019Molecular; Choudhury2018The). The protein acts as a cofactor for DHX37, stimulating its activity and facilitating the transition from the SSU processome to the pre-40S particle (Boneberg2019Molecular; Choudhury2018The).
+
+In addition to its role in ribosome biogenesis, UTP14A is involved in regulating the tumor suppressor protein TP53. It interacts with TP53, reducing its half-life and thereby modulating cell cycle progression and apoptosis (Rohozinski2012Does).
+
+## Clinical Significance
+Alterations in the expression of the UTP14A gene have been implicated in various cancers, including colorectal cancer (CRC), melanoma, and esophageal squamous cell carcinoma (ESCC). In CRC, UTP14A is upregulated and forms a positive feedback loop with the oncoprotein c-Myc, stabilizing it and promoting tumor progression. This interaction is associated with poor prognosis and suggests that targeting the UTP14A-c-Myc regulatory loop could be a therapeutic strategy (Zhang2019Human). UTP14A also promotes angiogenesis in CRC by upregulating PDGFA expression, further contributing to tumor growth and metastasis (Ren2019Human).
+
+In melanoma, UTP14A stabilizes HIF-1α, enhancing tumor proliferation, migration, and angiogenesis, indicating its role in melanoma progression and potential as a therapeutic target (Ying2023Deubiquitination). In ESCC, high UTP14A expression correlates with deeper tumor invasion and poor survival outcomes, making it a potential prognostic marker (Li2019Overexpression).
+
+UTP14A also plays an anti-apoptotic role in cancer cells by promoting p53 degradation, which may contribute to tumor resistance to chemotherapy and radiotherapy (Ma2017Human).
+
+## Interactions
+UTP14A is a component of the small subunit processome involved in ribosome biogenesis. It interacts with the RNA helicase DHX37, enhancing its RNA-dependent ATPase activity by approximately 15-fold at physiological ATP concentrations. This interaction is mediated by a conserved motif in the central region of UTP14A, which is crucial for the RNA-dependent ATPase activity of DHX37 (Boneberg2019Molecular). UTP14A acts as a processivity factor, improving the mechanochemical coupling between ATP binding/hydrolysis and RNA translocation, which is essential for the removal of U3 snoRNA from pre-ribosomal particles (Boneberg2019Molecular).
+
+The interaction between UTP14A and DHX37 is specific and RNA-independent, as demonstrated by immunoprecipitation assays that were unaffected by RNase treatment. UTP14A does not stimulate the ATPase activity of another DEAH-box RNA helicase, DHX15, indicating a specific cofactor role for DHX37 during SSU biogenesis (1 page 15 of 30; 1 page 17 of 30). The C-terminal domain of DHX37 is essential for its recruitment and activation by UTP14A, facilitating the release of U3 snoRNA, a necessary step for pre-18S rRNA folding and ITS1 cleavage (Boneberg2019Molecular).
+
+
+## References
+
+
+[1. (Ma2017Human) Teng Ma, Chenxi Lu, Yafei Guo, Chunfeng Zhang, and Xiaojuan Du. Human u3 protein 14a plays an anti-apoptotic role in cancer cells. Biological Chemistry, 398(11):1247–1257, October 2017. URL: http://dx.doi.org/10.1515/hsz-2017-0121, doi:10.1515/hsz-2017-0121. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/hsz-2017-0121)
+
+[2. (Rohozinski2012Does) Jan Rohozinski, Creighton L. Edwards, and Matthew L. Anderson. Does expression of the retrogene utp14c in the ovary pre-dispose women to ovarian cancer? Medical Hypotheses, 78(4):446–449, April 2012. URL: http://dx.doi.org/10.1016/j.mehy.2011.12.016, doi:10.1016/j.mehy.2011.12.016. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.mehy.2011.12.016)
+
+[3. (Boneberg2019Molecular) Franziska M. Boneberg, Tobias Brandmann, Lena Kobel, Jasmin van den Heuvel, Katja Bargsten, Lukas Bammert, Ulrike Kutay, and Martin Jinek. Molecular mechanism of the rna helicase dhx37 and its activation by utp14a in ribosome biogenesis. RNA, 25(6):685–701, March 2019. URL: http://dx.doi.org/10.1261/rna.069609.118, doi:10.1261/rna.069609.118. This article has 36 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.069609.118)
+
+[4. (Ren2019Human) Pengwei Ren, Xiaoyan Sun, Chunfeng Zhang, Lijun Wang, Baocai Xing, and Xiaojuan Du. Human utp14a promotes angiogenesis through upregulating pdgfa expression in colorectal cancer. Biochemical and Biophysical Research Communications, 512(4):871–876, May 2019. URL: http://dx.doi.org/10.1016/j.bbrc.2019.03.142, doi:10.1016/j.bbrc.2019.03.142. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2019.03.142)
+
+[5. (Zhang2019Human) Jingyi Zhang, Pengwei Ren, Da Xu, Xiaofeng Liu, Zhenzhen Liu, Chunfeng Zhang, Yuan Li, Lijun Wang, Xiaojuan Du, and Baocai Xing. Human utp14a promotes colorectal cancer progression by forming a positive regulation loop with c-myc. Cancer Letters, 440–441:106–115, January 2019. URL: http://dx.doi.org/10.1016/j.canlet.2018.10.010, doi:10.1016/j.canlet.2018.10.010. This article has 37 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2018.10.010)
+
+[6. (Choudhury2018The) Priyanka Choudhury, Philipp Hackert, Indira Memet, Katherine E. Sloan, and Markus T. Bohnsack. The human rna helicase dhx37 is required for release of the u3 snornp from pre-ribosomal particles. RNA Biology, 16(1):54–68, December 2018. URL: http://dx.doi.org/10.1080/15476286.2018.1556149, doi:10.1080/15476286.2018.1556149. This article has 50 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/15476286.2018.1556149)
+
+[7. (Li2019Overexpression) Kun‐Kun Li, Cheng‐Yi Mao, Jing‐Ge Zhang, Qiang Ma, Ying‐Jian Wang, Xue‐Hai Liu, Tao Bao, and Wei Guo. Overexpression of u three protein 14a (utp14a) is associated with poor prognosis of esophageal squamous cell carcinoma. Thoracic Cancer, 10(11):2071–2080, September 2019. URL: http://dx.doi.org/10.1111/1759-7714.13176, doi:10.1111/1759-7714.13176. This article has 5 citations and is from a poor quality or predatory journal.](https://doi.org/10.1111/1759-7714.13176)
+
+8. (Ying2023Deubiquitination) Deubiquitination of UTP14A stabilizes HIF-1α and promotes melanoma angiogenesis. This article has 0 citations.
+
+[9. (Liu2018Human) Huijiao Liu, Jiangnan Wang, Yun Liu, Lelin Hu, Chunfeng Zhang, Baocai Xing, and Xiaojuan Du. Human u3 protein14a is a novel type ubiquitin ligase that binds rb and promotes rb degradation depending on a leucine-rich region. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1865(11):1611–1620, November 2018. URL: http://dx.doi.org/10.1016/j.bbamcr.2018.08.016, doi:10.1016/j.bbamcr.2018.08.016. This article has 13 citations.](https://doi.org/10.1016/j.bbamcr.2018.08.016)

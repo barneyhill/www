@@ -1,0 +1,54 @@
+# EGLN3
+
+## Overview
+EGLN3, also known as prolyl hydroxylase domain-containing protein 3 (PHD3), is a gene that encodes a member of the prolyl hydroxylase family, which is part of the 2-oxoglutarate (2OG) dioxygenase superfamily. The protein product of EGLN3, PHD3, is a cytosolic enzyme characterized by its role in the cellular response to hypoxia and its involvement in the regulation of apoptosis, particularly in neuronal cells (Xie2009OxygenRegulated; Lee2005Neuronal). Unlike other members of its family, PHD3's function in apoptosis is independent of hypoxia-inducible factor (HIF) regulation, instead linking to metabolic pathways and reactive oxygen species (ROS) production (Lee2005Neuronal). PHD3 interacts with various proteins, influencing cellular processes such as NF-κB signaling and chaperone-mediated autophagy, and is implicated in several diseases, including cancer and neurotoxicity (Jin2022Inactivation; Fu2013EGLN3).
+
+## Structure
+EGLN3, also known as PHD3, is a member of the prolyl hydroxylase family and is involved in the cellular response to hypoxia. The protein is characterized by a conserved C-terminal double-stranded β-helix (DSBH) fold, which is a hallmark of the 2-oxoglutarate (2OG) dioxygenase superfamily (Xie2009OxygenRegulated). This fold is crucial for its enzymatic activity, allowing EGLN3 to function as a hydroxylase.
+
+EGLN3 lacks the mitochondrial targeting sequence found in its rat orthologue SM-20, indicating it does not localize to the mitochondria (Taylor2001Characterization). The translation initiation site for EGLN3 is predicted to start at the equivalent of SM-20 amino acid 117, missing the first 116 amino acids of SM-20, which contributes to its distinct molecular structure (Taylor2001Characterization).
+
+EGLN3 is a cytosolic protein that interacts with the β2-adrenergic receptor (β2AR), promoting its hydroxylation. This interaction is mediated by residues 88 to 104 of EGLN3, which are necessary for binding to β2AR (Xie2009OxygenRegulated). The protein can form homodimers, contributing to its quaternary structure, although specific details on its primary and secondary structures are not provided in the context.
+
+## Function
+EGLN3, also known as PHD3, is a prolyl hydroxylase that plays a significant role in the regulation of apoptosis, particularly in neuronal cells. It is part of the EGLN family of 2-oxoglutarate-dependent dioxygenases, which are involved in prolyl hydroxylation. EGLN3 is specifically induced in response to nerve growth factor (NGF) withdrawal, leading to apoptosis in PC12 cells, a model for neuronal differentiation. This apoptotic process is dependent on the hydroxylase activity of EGLN3, as variants lacking this activity do not induce apoptosis (Lee2005Neuronal).
+
+EGLN3's function in apoptosis is independent of hypoxia-inducible factor (HIF) regulation, as its activity does not affect HIF stabilization. Instead, EGLN3 is linked to increased reactive oxygen species (ROS) production and is sensitive to changes in succinate dehydrogenase (SDH) activity. Inhibitors of SDH can reduce EGLN3-induced apoptosis, suggesting a connection between metabolic pathways and EGLN3 function (Lee2005Neuronal).
+
+EGLN3 is active in the cytoplasm and nucleus, influencing processes like apoptosis and metabolism. Its role in apoptosis is crucial for developmental processes and may be relevant in disease states such as pheochromocytoma (Lee2005Neuronal).
+
+## Clinical Significance
+Mutations and alterations in the expression of the EGLN3 gene have been linked to several diseases, particularly in the context of cancer and neurotoxicity. In cancer, EGLN3 is implicated in chemotherapy resistance, especially in clear cell renal cell carcinoma (ccRCC) and glioblastoma (GBM). Loss of EGLN3 expression is associated with resistance to the chemotherapy drug cisplatin, while reintroducing EGLN3 can sensitize cancer cells to cisplatin-induced apoptosis, suggesting its potential as a therapeutic target (Li2019EglN3). 
+
+EGLN3 is also involved in the pathogenesis of pheochromocytoma (PCC) and paraganglioma (PGL), where it stabilizes the proapoptotic protein BIM-EL. Mutations in the von Hippel-Lindau (VHL) gene, particularly type 2C mutations, impair this stabilization, leading to resistance to apoptosis and contributing to tumor development (Li2019EglN3).
+
+In the context of neurotoxicity, EGLN3 has been identified as a key gene in ammonia-induced neuronal apoptosis, which is relevant to conditions like hepatic encephalopathy. Knockdown of EGLN3 reduces apoptosis, indicating its role in mediating ammonia neurotoxicity through mitochondrial pathways (Li2022GenomeWide).
+
+## Interactions
+EGLN3, also known as PHD3, is involved in various protein interactions that influence cellular processes. It interacts with IKKγ, a component of the NF-κB signaling pathway, by competing with cIAP1 for binding. This competition inhibits the ubiquitination of IKKγ, thereby reducing NF-κB signaling activity. This interaction is independent of EGLN3's prolyl hydroxylase activity (Fu2013EGLN3).
+
+EGLN3 also interacts with RIP1, where it suppresses cIAP1-mediated ubiquitination of RIP1, leading to decreased NF-κB activation. This interaction is crucial for regulating cell signaling pathways and occurs independently of EGLN3's catalytic activity (Fu2016Catalyticindependent).
+
+In the context of chaperone-mediated autophagy, EGLN3 interacts with Erk3, reducing its interaction with HSC70 and LAMP2A. This interference suggests a role for EGLN3 in regulating Erk3 degradation via the CMA-lysosome pathway (Jin2022Inactivation).
+
+EGLN3 also interacts with the β2-adrenergic receptor (β2AR), promoting its hydroxylation and influencing its abundance. This interaction is specific to EGLN3 and is not shared by other EGLN family members (Xie2009OxygenRegulated).
+
+
+## References
+
+
+[1. (Lee2005Neuronal) Sungwoo Lee, Eijiro Nakamura, Haifeng Yang, Wenyi Wei, Michelle S. Linggi, Mini P. Sajan, Robert V. Farese, Robert S. Freeman, Bruce D. Carter, William G. Kaelin, and Susanne Schlisio. Neuronal apoptosis linked to egln3 prolyl hydroxylase and familial pheochromocytoma genes: developmental culling and cancer. Cancer Cell, 8(2):155–167, August 2005. URL: http://dx.doi.org/10.1016/j.ccr.2005.06.015, doi:10.1016/j.ccr.2005.06.015. This article has 419 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.ccr.2005.06.015)
+
+[2. (Taylor2001Characterization) Martin S Taylor. Characterization and comparative analysis of the egln gene family. Gene, 275(1):125–132, September 2001. URL: http://dx.doi.org/10.1016/s0378-1119(01)00633-3, doi:10.1016/s0378-1119(01)00633-3. This article has 120 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0378-1119(01)00633-3)
+
+[3. (Fu2016Catalyticindependent) Jian Fu. Catalytic-independent inhibition of ciap1-mediated rip1 ubiquitination by egln3. Cellular Signalling, 28(2):72–80, February 2016. URL: http://dx.doi.org/10.1016/j.cellsig.2015.11.011, doi:10.1016/j.cellsig.2015.11.011. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2015.11.011)
+
+[4. (Li2022GenomeWide) Jiequn Li, Chunli Chen, Chenchen Li, Zhiping Hu, Jieqiong Tan, and Liuwang Zeng. Genome-wide knockout screen identifies egln3 involving in ammonia neurotoxicity. Frontiers in Cell and Developmental Biology, March 2022. URL: http://dx.doi.org/10.3389/fcell.2022.820692, doi:10.3389/fcell.2022.820692. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.820692)
+
+[5. (Xie2009OxygenRegulated) Liang Xie, Kunhong Xiao, Erin J. Whalen, Michael T. Forrester, Robert S. Freeman, Guohua Fong, Steven P. Gygi, Robert J. Lefkowitz, and Jonathan S. Stamler. Oxygen-regulated β 2 -adrenergic receptor hydroxylation by egln3 and ubiquitylation by pvhl. Science Signaling, July 2009. URL: http://dx.doi.org/10.1126/scisignal.2000444, doi:10.1126/scisignal.2000444. This article has 106 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1126/scisignal.2000444)
+
+[6. (Jin2022Inactivation) Ying Jin, Yamu Pan, Shuang Zheng, Yao Liu, Jie Xu, Yazhi Peng, Zemei Zhang, Yadong Wang, Yulian Xiong, Lei Xu, Kaiyu Mu, Suwen Chen, Fei Zheng, Ye Yuan, and Jian Fu. Inactivation of egln3 hydroxylase facilitates erk3 degradation via autophagy and impedes lung cancer growth. Oncogene, 41(12):1752–1766, February 2022. URL: http://dx.doi.org/10.1038/s41388-022-02203-2, doi:10.1038/s41388-022-02203-2. This article has 28 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-022-02203-2)
+
+[7. (Fu2013EGLN3) Jian Fu and Mark B. Taubman. Egln3 inhibition of nf-κb is mediated by prolyl hydroxylase-independent inhibition of iκb kinase γ ubiquitination. Molecular and Cellular Biology, 33(15):3050–3061, August 2013. URL: http://dx.doi.org/10.1128/MCB.00273-13, doi:10.1128/mcb.00273-13. This article has 46 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.00273-13)
+
+[8. (Li2019EglN3) Shuijie Li, Javier Rodriguez, Wenyu Li, Petra Bullova, Stuart M. Fell, Olga Surova, Isabelle Westerlund, Danijal Topcic, Maria Bergsland, Adam Stenman, Jonas Muhr, Monica Nistér, Johan Holmberg, C. Christofer Juhlin, Catharina Larsson, Alex von Kriegsheim, William G. Kaelin, and Susanne Schlisio. Egln3 hydroxylase stabilizes bim-el linking vhl type 2c mutations to pheochromocytoma pathogenesis and chemotherapy resistance. Proceedings of the National Academy of Sciences, 116(34):16997–17006, August 2019. URL: http://dx.doi.org/10.1073/pnas.1900748116, doi:10.1073/pnas.1900748116. This article has 15 citations.](https://doi.org/10.1073/pnas.1900748116)

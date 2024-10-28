@@ -1,0 +1,54 @@
+# HYAL2
+
+## Overview
+HYAL2 is a gene that encodes the protein hyaluronidase 2, a glycosylphosphatidylinositol (GPI)-anchored enzyme involved in the degradation of hyaluronic acid, a major component of the extracellular matrix. This protein is categorized as a hydrolase and plays a critical role in various physiological processes, including tissue remodeling, cell proliferation, and migration. Hyaluronidase 2 is active both on the cell surface and within lysosomes, where it cleaves high molecular weight hyaluronic acid into intermediate-sized fragments, which are further processed by other hyaluronidases. Beyond its enzymatic function, hyaluronidase 2 acts as a receptor for transforming growth factor beta (TGF-β) and the Jaagsiekte sheep retrovirus (JSRV), implicating it in non-canonical signaling pathways and viral interactions. Mutations in the HYAL2 gene are linked to developmental disorders and have been associated with cancer progression, highlighting its significance in both normal physiology and disease states (Muggenthaler2017Mutations; Hsu2016HYAL2–WWOX–SMAD4; Rai2001Candidate).
+
+## Structure
+HYAL2 is a human enzyme that plays a role in the degradation of hyaluronic acid. The protein structure of HYAL2 includes a major catalytic domain that resembles the (β/α)8 TIM barrel fold, which is crucial for substrate binding and catalysis. This domain features a large cleft responsible for binding the hyaluronic acid substrate, with Glu131 identified as the catalytic residue. Other residues such as Asp129, Tyr202, Tyr247, and Trp321 are involved in substrate positioning (Stern2006Hyaluronidases:; Jedrzejas2005Structures).
+
+The N-terminal segment of the catalytic domain in HYAL2 forms a single helix, while the C-terminal domain consists of a two-helix group, distinct from the catalytic domain and separated by a flexible linker peptide, allowing for independent motion (Stern2006Hyaluronidases:). The C-terminal domain's function remains unknown and is modeled using ab initio methods due to the lack of similarity to known structures (Jedrzejas2005Structures).
+
+HYAL2 is a glycosylphosphatidylinositol (GPI)-anchored protein, with the GPI-membrane attachment site located near the C-terminus (Stern2006Hyaluronidases:). The protein may undergo post-translational modifications such as glycosylation, although specific details are not provided in the context. There is no information on splice variant isoforms of HYAL2 in the provided context.
+
+## Function
+HYAL2 encodes a glycosylphosphatidylinositol (GPI)-anchored protein that plays a crucial role in the degradation of hyaluronic acid (HA), a key component of the extracellular matrix. This protein is active both on the cell surface and in the lysosome, where it cleaves high molecular weight HA into intermediate-sized fragments of approximately 20 kDa. These fragments are then further degraded by HYAL1, another hyaluronidase enzyme (Girish2007The; Hsu2016HYAL2–WWOX–SMAD4).
+
+HYAL2 is involved in several physiological processes, including tissue remodeling, cell proliferation, and migration. It also participates in a non-canonical signaling pathway by acting as a receptor for transforming growth factor beta (TGF-β), interacting with tumor suppressors WWOX and SMAD4 to regulate gene transcription. This pathway can lead to cell death if excessively activated (Hsu2016HYAL2–WWOX–SMAD4).
+
+In addition to its enzymatic role, HYAL2 serves as a receptor for the Jaagsiekte sheep retrovirus (JSRV), highlighting its involvement in viral interactions. The protein's GPI anchor is essential for its function as a receptor, facilitating its localization to the cell surface (Rai2001Candidate).
+
+## Clinical Significance
+Mutations in the HYAL2 gene are associated with a syndrome characterized by orofacial clefting and cor triatriatum sinister in both humans and mice. These mutations lead to significant developmental abnormalities, including craniofacial dysmorphism, cleft palate, and cardiac anomalies such as cor triatriatum sinister. In humans, affected individuals may also exhibit symptoms like myopia, pectus excavatum, and hearing loss (Muggenthaler2017Mutations). In Hyal2 knockout mice, similar craniofacial and cardiac defects are observed, contributing to pre-weaning lethality (Muggenthaler2017Mutations).
+
+HYAL2 deficiency results in elevated levels of high molecular mass hyaluronic acid (HA), which affects normal development by promoting epithelial to mesenchymal transition (EMT) (Muggenthaler2017Mutations). This accumulation of HA is linked to cardiopulmonary dysfunction, severe lung fibrosis, and heart failure due to endothelial-to-mesenchymal transition (Kaul2021Hyaluronidases).
+
+Alterations in HYAL2 expression are also implicated in cancer progression. HYAL2, along with HYAL1, inhibits tumor growth in vivo, suggesting a tumor suppressor role. However, its expression is significantly decreased in certain cancers, such as lung and kidney cancers, which may contribute to tumor progression (Wang2008HYAL1).
+
+## Interactions
+HYAL2 interacts with several proteins, playing a significant role in various cellular processes. It serves as a receptor for transforming growth factor beta (TGF-β) and facilitates the recruitment of tumor suppressors WWOX and SMAD4, aiding their nuclear translocation. The interaction between HYAL2 and WWOX has been confirmed through multiple experimental methods, including co-immunoprecipitation and yeast two-hybrid analysis. WWOX acts as a bridge, interacting with both HYAL2 and SMAD4, with competitive binding observed between SMAD4 and HYAL2 to the WW domain of WWOX (Hsu2016HYAL2–WWOX–SMAD4).
+
+HYAL2 also interacts with CD44, a cell surface glycoprotein, which is crucial for retaining HYAL2 on the cell surface. This interaction is sensitive to trypsin treatment and is necessary for HYAL2's hyaluronidase activity at a neutral pH when bound to CD44 (Hida2015CD44). The binding of HYAL2 to CD44 is essential for the initial degradation of hyaluronic acid (HA) into smaller fragments (Hsu2016HYAL2–WWOX–SMAD4).
+
+HYAL2 is also a glycosylphosphatidylinositol (GPI)-anchored cell-surface receptor for the Jaagsiekte sheep retrovirus (JSRV), indicating its role in viral entry and oncogenic transformation (Rai2001Candidate).
+
+
+## References
+
+
+[1. (Kaul2021Hyaluronidases) Aditya Kaul, Walker D. Short, Xinyi Wang, and Sundeep G. Keswani. Hyaluronidases in human diseases. International Journal of Molecular Sciences, 22(6):3204, March 2021. URL: http://dx.doi.org/10.3390/ijms22063204, doi:10.3390/ijms22063204. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms22063204)
+
+[2. (Hida2015CD44) Daisuke Hida, Ben T. Danielson, Cheryl B. Knudson, and Warren Knudson. Cd44 knock-down in bovine and human chondrocytes results in release of bound hyal2. Matrix Biology, 48:42–54, October 2015. URL: http://dx.doi.org/10.1016/j.matbio.2015.04.002, doi:10.1016/j.matbio.2015.04.002. This article has 16 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.matbio.2015.04.002)
+
+[3. (Muggenthaler2017Mutations) Martina M. A. Muggenthaler, Biswajit Chowdhury, S. Naimul Hasan, Harold E. Cross, Brian Mark, Gaurav V. Harlalka, Michael A. Patton, Miho Ishida, Elijah R. Behr, Sanjay Sharma, Kenneth Zahka, Eissa Faqeih, Brian Blakley, Mike Jackson, Melissa Lees, Vernon Dolinsky, Leroy Cross, Philip Stanier, Claire Salter, Emma L. Baple, Fowzan S. Alkuraya, Andrew H. Crosby, Barbara Triggs-Raine, and Barry A. Chioza. Mutations in hyal2, encoding hyaluronidase 2, cause a syndrome of orofacial clefting and cor triatriatum sinister in humans and mice. PLOS Genetics, 13(1):e1006470, January 2017. URL: http://dx.doi.org/10.1371/journal.pgen.1006470, doi:10.1371/journal.pgen.1006470. This article has 22 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1006470)
+
+[4. (Rai2001Candidate) Sharath K. Rai, Fuh-Mei Duh, Vladimir Vigdorovich, Alla Danilkovitch-Miagkova, Michael I. Lerman, and A. Dusty Miller. Candidate tumor suppressor hyal2 is a glycosylphosphatidylinositol (gpi)-anchored cell-surface receptor for jaagsiekte sheep retrovirus, the envelope protein of which mediates oncogenic transformation. Proceedings of the National Academy of Sciences, 98(8):4443–4448, April 2001. URL: http://dx.doi.org/10.1073/pnas.071572898, doi:10.1073/pnas.071572898. This article has 277 citations.](https://doi.org/10.1073/pnas.071572898)
+
+[5. (Hsu2016HYAL2–WWOX–SMAD4) Li-Jin Hsu, Ming-Fu Chiang, Chun-I Sze, Wan-Pei Su, Ye Vone Yap, I-Ting Lee, Hsiang-Ling Kuo, and Nan-Shan Chang. Hyal-2–wwox–smad4 signaling in cell death and anticancer response. Frontiers in Cell and Developmental Biology, December 2016. URL: http://dx.doi.org/10.3389/fcell.2016.00141, doi:10.3389/fcell.2016.00141. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2016.00141)
+
+[6. (Stern2006Hyaluronidases:) Robert Stern and Mark J. Jedrzejas. Hyaluronidases: their genomics, structures, and mechanisms of action. Chemical Reviews, 106(3):818–839, February 2006. URL: http://dx.doi.org/10.1021/cr050247k, doi:10.1021/cr050247k. This article has 635 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1021/cr050247k)
+
+[7. (Jedrzejas2005Structures) Mark J. Jedrzejas and Robert Stern. Structures of vertebrate hyaluronidases and their unique enzymatic mechanism of hydrolysis. Proteins: Structure, Function, and Bioinformatics, 61(2):227–238, August 2005. URL: http://dx.doi.org/10.1002/prot.20592, doi:10.1002/prot.20592. This article has 69 citations.](https://doi.org/10.1002/prot.20592)
+
+[8. (Girish2007The) K.S. Girish and K. Kemparaju. The magic glue hyaluronan and its eraser hyaluronidase: a biological overview. Life Sciences, 80(21):1921–1943, May 2007. URL: http://dx.doi.org/10.1016/j.lfs.2007.02.037, doi:10.1016/j.lfs.2007.02.037. This article has 492 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.lfs.2007.02.037)
+
+[9. (Wang2008HYAL1) Fuli Wang, Elvira V. Grigorieva, Jingfeng Li, Vera N. Senchenko, Tatiana V. Pavlova, Ekaterina A. Anedchenko, Anna V. Kudryavtseva, Alexander Tsimanis, Debora Angeloni, Michael I. Lerman, Vladimir I. Kashuba, George Klein, and Eugene R. Zabarovsky. Hyal1 and hyal2 inhibit tumour growth in vivo but not in vitro. PLoS ONE, 3(8):e3031, August 2008. URL: http://dx.doi.org/10.1371/journal.pone.0003031, doi:10.1371/journal.pone.0003031. This article has 30 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0003031)

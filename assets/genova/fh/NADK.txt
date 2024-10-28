@@ -1,0 +1,46 @@
+# NADK
+
+## Overview
+NADK is a gene that encodes the enzyme NAD kinase, a critical component in cellular metabolism. NAD kinase is a cytoplasmic enzyme that functions as a kinase, specifically catalyzing the phosphorylation of nicotinamide adenine dinucleotide (NAD+) to produce nicotinamide adenine dinucleotide phosphate (NADP+). This reaction is essential for maintaining the cellular pool of NADPH, a vital cofactor involved in biosynthetic processes and the cellular defense against oxidative stress (Lerner2001Structural; Pollak2007NAD). The enzyme operates as a homotetramer and exhibits high substrate specificity for NAD and ATP, requiring divalent cations such as zinc and manganese for its activity (Lerner2001Structural). Regulation of NAD kinase activity is influenced by the redox state of the cell, with NADPH acting as an inhibitor, and it is also modulated by signaling pathways such as the PI3K-Akt pathway (Hoxhaj2019Direct). The gene and its encoded enzyme play significant roles in cellular redox balance and have been implicated in various clinical contexts, including cancer, where alterations in NADK expression can affect tumor growth and survival (Ju2020NADPH).
+
+## Structure
+The human NAD kinase (NADK) is a protein with a molecular mass of approximately 49 kDa, consisting of 446 amino acids (Lerner2001Structural). The primary structure of NADK was identified through sequence homology with prokaryotic NAD kinases, revealing significant similarities with a hypothetical human protein, FLJ13052 (Lerner2001Structural). The enzyme forms a homotetramer, with a total molecular mass of about 200 kDa, as determined by gel filtration experiments (Lerner2001Structural). 
+
+The quaternary structure of NADK is a catalytically active homotetramer, which contrasts with the hexameric forms found in some prokaryotic organisms like E. coli (Lerner2001Structural). The enzyme's catalytic properties include high substrate specificity for NAD and ATP, and it does not phosphorylate NAD analogs under the assay conditions used (Lerner2001Structural). 
+
+NADK activity is regulated by the redox state of the cell, with NADPH acting as an inhibitor (Lerner2001Structural). The enzyme's activity may also be stimulated by calcium/calmodulin in certain cells, although this response is not universal across all species (Love2015NAD).
+
+## Function
+NAD kinase (NADK) is a crucial enzyme in human cells responsible for the phosphorylation of NAD+ to form NADP+, which is essential for maintaining the cellular NADPH pool. NADPH is a key cofactor in various biosynthetic reactions and plays a vital role in cellular defense against oxidative stress (Lerner2001Structural; Pollak2007NAD). NADK is primarily localized in the cytoplasm, where it preferentially phosphorylates NAD+ over NADH, although it can phosphorylate NADH under certain conditions (Pollak2007NAD).
+
+The enzyme functions as a homotetramer and is highly selective for its substrates, NAD and ATP, requiring divalent cations such as zinc and manganese for its activity (Lerner2001Structural). NADK activity is regulated by the redox state of the cell, with NADPH inhibiting its catalytic activity, thus playing a critical role in maintaining cellular redox balance (Lerner2001Structural).
+
+NADK's activity is also influenced by signaling pathways, such as the PI3K-Akt pathway, which can enhance its activity through phosphorylation, thereby increasing NADP+ and NADPH production in response to growth signals (Hoxhaj2019Direct). This regulation is crucial for supporting cellular metabolic functions and oxidative stress responses (Pollak2007NAD).
+
+## Clinical Significance
+Mutations and alterations in the expression of the NADK gene have significant clinical implications, particularly in the context of cancer. Overexpression of cytosolic NADK (cNADK) is observed in various tumor types, as indicated by data from The Cancer Genome Atlas (TCGA). This overexpression is associated with increased NADPH levels, which can reduce reactive oxygen species (ROS) and promote cancer cell survival. A specific cNADK mutant, NADK-I90F, found in pancreatic ductal adenocarcinoma (PDAC) patients, exhibits heightened enzyme activity, leading to elevated NADPH and decreased ROS levels, thereby supporting tumor growth (Ju2020NADPH).
+
+In diffuse large B-cell lymphoma (DLBCL) and colon cancer, silencing cNADK with shRNA impairs NADPH levels and suppresses cancer cell growth, highlighting its potential as a therapeutic target (Ju2020NADPH). Alterations in NADK expression also affect oxidative stress responses. Overexpression of NADK decreases ROS levels by 20%, while knockdown increases ROS by 25%, impacting cell survival under oxidative stress conditions (Pollak2007NAD). These findings suggest that NADK plays a crucial role in maintaining cellular redox balance, and its dysregulation may contribute to the pathogenesis of cancer and other oxidative stress-related conditions.
+
+## Interactions
+NAD kinase (NADK) in humans is involved in several interactions that influence its activity and function. One significant interaction is with protein kinase C (PKC), particularly the PKCδ isoform, which phosphorylates NADK. This phosphorylation does not directly alter NADK's enzymatic activity but may affect its interaction with other molecules, potentially increasing its activity indirectly by promoting the dissociation of an inhibitory molecule (Rabani2020Protein). 
+
+NADK is also regulated by calcium/calmodulin (CaM)-dependent mechanisms, although human NADK is generally insensitive to direct Ca2+/CaM activation. In other species, such as sea urchins, NADK activity is modulated by Ca2+/CaM, suggesting evolutionary divergence in regulatory mechanisms (Love2015NAD). 
+
+The enzyme forms a homotetramer, which is a common structural feature that may facilitate interactions with other proteins or complexes (Lerner2001Structural). These interactions are crucial for maintaining cellular redox balance and protecting against oxidative damage, as NADK levels influence the concentration of NADPH, a key molecule in oxidative stress response (Pollak2007NAD).
+
+
+## References
+
+
+[1. (Rabani2020Protein) Razieh Rabani, Chantal Cossette, François Graham, and William S. Powell. Protein kinase c activates nad kinase in human neutrophils. Free Radical Biology and Medicine, 161:50–59, December 2020. URL: http://dx.doi.org/10.1016/j.freeradbiomed.2020.09.022, doi:10.1016/j.freeradbiomed.2020.09.022. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.freeradbiomed.2020.09.022)
+
+[2. (Lerner2001Structural) Felicitas Lerner, Marc Niere, Antje Ludwig, and Mathias Ziegler. Structural and functional characterization of human nad kinase. Biochemical and Biophysical Research Communications, 288(1):69–74, October 2001. URL: http://dx.doi.org/10.1006/bbrc.2001.5735, doi:10.1006/bbrc.2001.5735. This article has 143 citations and is from a peer-reviewed journal.](https://doi.org/10.1006/bbrc.2001.5735)
+
+[3. (Love2015NAD) Nick R. Love, Nadine Pollak, Christian Dölle, Marc Niere, Yaoyao Chen, Paola Oliveri, Enrique Amaya, Sandip Patel, and Mathias Ziegler. Nad kinase controls animal nadp biosynthesis and is modulated via evolutionarily divergent calmodulin-dependent mechanisms. Proceedings of the National Academy of Sciences, 112(5):1386–1391, January 2015. URL: http://dx.doi.org/10.1073/pnas.1417290112, doi:10.1073/pnas.1417290112. This article has 46 citations.](https://doi.org/10.1073/pnas.1417290112)
+
+[4. (Ju2020NADPH) Huai-Qiang Ju, Jin-Fei Lin, Tian Tian, Dan Xie, and Rui-Hua Xu. Nadph homeostasis in cancer: functions, mechanisms and therapeutic implications. Signal Transduction and Targeted Therapy, October 2020. URL: http://dx.doi.org/10.1038/s41392-020-00326-0, doi:10.1038/s41392-020-00326-0. This article has 249 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41392-020-00326-0)
+
+[5. (Pollak2007NAD) Nadine Pollak, Marc Niere, and Mathias Ziegler. Nad kinase levels control the nadph concentration in human cells. Journal of Biological Chemistry, 282(46):33562–33571, November 2007. URL: http://dx.doi.org/10.1074/jbc.m704442200, doi:10.1074/jbc.m704442200. This article has 156 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m704442200)
+
+[6. (Hoxhaj2019Direct) Gerta Hoxhaj, Issam Ben-Sahra, Sophie E. Lockwood, Rebecca C. Timson, Vanessa Byles, Graham T. Henning, Peng Gao, Laura M. Selfors, John M. Asara, and Brendan D. Manning. Direct stimulation of nadp + synthesis through akt-mediated phosphorylation of nad kinase. Science, 363(6431):1088–1092, March 2019. URL: http://dx.doi.org/10.1126/science.aau3903, doi:10.1126/science.aau3903. This article has 96 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.aau3903)

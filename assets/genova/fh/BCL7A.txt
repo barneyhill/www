@@ -1,0 +1,50 @@
+# BCL7A
+
+## Overview
+BCL7A is a gene that encodes the BAF chromatin remodeling complex subunit BCL7A, a protein involved in the regulation of chromatin structure and gene expression. The BCL7A protein is a component of the SWI/SNF chromatin remodeling complex, specifically the BAF complex, which plays a pivotal role in modulating chromatin accessibility and facilitating transcriptional regulation. As an intrinsically disordered protein, BCL7A lacks a well-defined structure but contains a conserved N-terminal region essential for nucleosome binding. This protein is implicated in various cellular processes, including maintaining genomic stability and influencing cell differentiation and development. Clinically, BCL7A is recognized for its tumor suppressor functions, with its expression levels and mutations being significant in the context of several cancers, such as acute myeloid leukemia, gliomas, and lymphomas (PatiñoMercau2023BCL7A; Diaz2023BCL7; Liu2021BCL7A).
+
+## Structure
+The BCL7A protein is an intrinsically disordered protein with limited structural information available. It consists of 231 amino acids, with a conserved N-terminal region that is crucial for nucleosome binding. This N-terminal region, comprising the first 100 amino acids, is sufficient for binding to the nucleosome core particle, although with lower affinity compared to the full-length protein (Diaz2023BCL7). The first 51 amino acids are highly homologous across the BCL7 family, while homology decreases beyond this point (Diaz2023BCL7).
+
+The secondary structure prediction for the conserved region suggests an alpha-helix structure for the first 25 residues, followed by a 20-residue region rich in beta-strand structure (Jadayel1998The). BCL7A lacks any domain of known molecular function or shared with other proteins, and its structure is largely disordered (Diaz2023BCL7). The protein contains numerous potential phosphorylation sites, which are mostly absent in BCL7C (Jadayel1998The).
+
+BCL7A forms a well-defined 1:1 complex with the nucleosome, indicating specific binding despite its disordered nature (Diaz2023BCL7). The protein also has a potential nuclear localization signal at residues 61-65 (Jadayel1998The).
+
+## Function
+BCL7A is a subunit of the mammalian SWI/SNF chromatin remodeling complex, specifically part of the BAF complex, which plays a critical role in modulating chromatin structure and gene expression. In healthy human cells, BCL7A is involved in chromatin remodeling by binding to the nucleosome core particle (NCP) and free DNA with high affinity, forming stable complexes. This binding is crucial for altering the interaction between the histone octamer and DNA, impacting DNA accessibility and gene expression (Diaz2023BCL7).
+
+The N-terminal region of BCL7A is sufficient for nucleosome binding, although with slightly lower affinity compared to the full-length protein. This region interacts with the HSA domain of SMARCA4 and other subunits, suggesting a role as a 'bridge' or 'spacer' within the BAF complex (Mashtalir2020A). BCL7A's interaction with the HSA domain of BRG1 is essential for the proper function of the SWI/SNF complex, facilitating chromatin remodeling and gene expression regulation (Dietrich2023BRG1).
+
+BCL7A is also implicated in maintaining genomic stability and is active in the nucleus, influencing processes such as cell differentiation and development. Its role in chromatin interactions and remodeling contributes to the regulation of genome compaction and cellular processes (Diaz2023BCL7).
+
+## Clinical Significance
+The BCL7A gene is implicated in several cancers due to its role in the SWI/SNF chromatin-remodeling complex. In acute myeloid leukemia (AML), BCL7A acts as a tumor suppressor and is often silenced by promoter hypermethylation, which contributes to the disease's progression. Restoring BCL7A expression in AML cell models has been shown to reduce tumor growth and alter the expression of key genes associated with AML, such as HMGCS1, H1-0, and IRF7, indicating its potential as a therapeutic target (PatiñoMercau2023BCL7A).
+
+In gliomas, including glioblastoma multiforme (GBM), BCL7A is identified as a prognostic biomarker. Its expression is significantly lower in glioma tissues compared to non-tumor brain tissues, and it is negatively correlated with glioma grades. High BCL7A expression is associated with better overall survival in glioma patients, suggesting its role as a tumor suppressor in these brain tumors (Liu2021BCL7A).
+
+BCL7A is also linked to lymphomas, such as Burkitt lymphoma and non-Hodgkin's lymphoma, where it is recurrently mutated, particularly in Diffuse Large B cell lymphoma (DLBCL). These mutations lead to functional inactivation, further supporting its role as a tumor suppressor across various hematological malignancies (PatiñoMercau2023BCL7A).
+
+## Interactions
+BCL7A, a subunit of the BAF chromatin remodeling complex, engages in several interactions with proteins and nucleic acids. It is known to bind directly to the nucleosome core particle (NCP) and free DNA, forming stable complexes with both, as demonstrated by electrophoretic mobility shift assays (EMSA) and multiscale thermophoresis (MST) experiments. The binding affinity of BCL7A to nucleosomal DNA and naked DNA is approximately 220 nM, indicating a broad DNA-binding capability without sequence specificity (Diaz2023BCL7).
+
+BCL7A interacts with the HSA domain of SMARCA4, a core component of the BAF complex, near its contact with ARP-module subunits ACTL6A and ACTB. This interaction is crucial for the structural integrity and function of the BAF complex, suggesting that BCL7A may act as a 'bridge' or 'spacer' within the complex (Mashtalir2020A). Additionally, BCL7A interacts with the C-terminal domain of SMARCB1 and the nucleosome acidic patch (H2B), further supporting its role in chromatin remodeling (Mashtalir2020A).
+
+In plants, BCL7A interacts with BRM, a core component of the SWI/SNF complexes, and is involved in regulating chromatin accessibility and gene expression (Lei2024BCL7A).
+
+
+## References
+
+
+[1. (Dietrich2023BRG1) Nicholas Dietrich, Kevin Trotter, James M Ward, and Trevor K Archer. Brg1 hsa domain interactions with bcl7 proteins are critical for remodeling and gene expression. Life Science Alliance, 6(5):e202201770, February 2023. URL: http://dx.doi.org/10.26508/lsa.202201770, doi:10.26508/lsa.202201770. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202201770)
+
+[2. (Mashtalir2020A) Nazar Mashtalir, Hiroshi Suzuki, Daniel P. Farrell, Akshay Sankar, Jie Luo, Martin Filipovski, Andrew R. D’Avino, Roodolph St. Pierre, Alfredo M. Valencia, Takashi Onikubo, Robert G. Roeder, Yan Han, Yuan He, Jeffrey A. Ranish, Frank DiMaio, Thomas Walz, and Cigall Kadoch. A structural model of the endogenous human baf complex informs disease mechanisms. Cell, 183(3):802-817.e24, October 2020. URL: http://dx.doi.org/10.1016/j.cell.2020.09.051, doi:10.1016/j.cell.2020.09.051. This article has 111 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2020.09.051)
+
+[3. (PatiñoMercau2023BCL7A) Juan Rodrigo Patiño-Mercau, Carlos Baliñas-Gavira, Alvaro Andrades, Maria S. Benitez-Cantos, Ana Ercegovič Rot, Maria Isabel Rodriguez, Juan Carlos Álvarez-Pérez, Marta Cuadros, and Pedro P. Medina. Bcl7a is silenced by hypermethylation to promote acute myeloid leukemia. Biomarker Research, March 2023. URL: http://dx.doi.org/10.1186/s40364-023-00472-x, doi:10.1186/s40364-023-00472-x. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40364-023-00472-x)
+
+[4. (Jadayel1998The) Dalal M. Jadayel, Lucy R. Osborne, Lionel J.A. Coignet, Valter J. Zani, Lap-Chee Tsui, Stephen W. Scherer, and Martin J.S. Dyer. The bcl7 gene family: deletion of bcl7b in williams syndrome. Gene, 224(1–2):35–44, December 1998. URL: http://dx.doi.org/10.1016/s0378-1119(98)00514-9, doi:10.1016/s0378-1119(98)00514-9. This article has 33 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0378-1119(98)00514-9)
+
+5. (Diaz2023BCL7) BCL7 proteins, metazoan-specific subunits of the mammalian SWI/SNF complex, bind the nucleosome core particle. This article has 0 citations.
+
+[6. (Lei2024BCL7A) Yawen Lei, Yaoguang Yu, Wei Fu, Tao Zhu, Caihong Wu, Zhihao Zhang, Zewang Yu, Xin Song, Jianqu Xu, Zhenwei Liang, Peitao Lü, and Chenlong Li. Bcl7a and bcl7b potentiate swi/snf-complex-mediated chromatin accessibility to regulate gene expression and vegetative phase transition in plants. Nature Communications, January 2024. URL: http://dx.doi.org/10.1038/s41467-024-45250-x, doi:10.1038/s41467-024-45250-x. This article has 2 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-45250-x)
+
+[7. (Liu2021BCL7A) Junhui Liu, Lun Gao, Baowei Ji, Rongxin Geng, Jing Chen, Xiang Tao, Qiang Cai, and Zhibiao Chen. Bcl7a as a novel prognostic biomarker for glioma patients. Journal of Translational Medicine, August 2021. URL: http://dx.doi.org/10.1186/s12967-021-03003-0, doi:10.1186/s12967-021-03003-0. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-021-03003-0)

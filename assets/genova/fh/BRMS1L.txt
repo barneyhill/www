@@ -1,0 +1,35 @@
+# BRMS1L
+
+## Overview
+BRMS1L (Breast Cancer Metastasis-Suppressor 1 Like) is a gene that encodes a protein functioning as a transcriptional repressor, primarily involved in the regulation of gene expression through chromatin remodeling. The protein encoded by BRMS1L is a part of the Sin3/HDAC complex, which plays a critical role in histone deacetylation, thereby influencing transcriptional repression (Zimmermann2021Perturbation). This protein is categorized as a transcriptional repressor and is active in the nucleus, where it is implicated in essential cellular processes such as cell cycle regulation and apoptosis. BRMS1L has been identified as a metastasis suppressor gene, with significant roles in cancer biology, particularly in modulating the p53 pathway and inhibiting cancer cell migration and invasion (Koyama2017Identification; Zhou2020&lt). Its expression and function are notably altered in various cancers, making it a potential target for therapeutic interventions and a prognostic biomarker (Koyama2017Identification).
+
+## Function
+BRMS1L (BRMS1 like transcriptional repressor) is a gene that encodes a protein involved in transcriptional repression, playing a significant role in regulating gene expression by modulating chromatin structure. It interacts with the Sin3/HDAC complex, which is involved in histone deacetylation, a process crucial for transcriptional repression (Zimmermann2021Perturbation). BRMS1L is active in the nucleus, where it contributes to cellular processes such as cell cycle regulation and apoptosis, impacting organismal outcomes like development and homeostasis.
+
+In healthy human cells, BRMS1L interacts with several members of the Sin3/HDAC complex, which it does not in metastatic cancer cells, indicating a potential difference in function between healthy and cancerous states (Zimmermann2021Perturbation). This suggests that BRMS1L may have specific roles within the Sin3/HDAC complex that differ from its function in cancer cells, although the exact function in healthy human cells remains less clear.
+
+BRMS1L is also involved in enhancing p53 transcriptional activity, potentially through interactions with the mSin3/HDAC complex, and colocalizes with p53 in both the nucleus and cytoplasm (Koyama2017Identification). This interaction suggests a role in p53-mediated tumor suppression, although its specific function in non-cancerous cells is not fully detailed.
+
+## Clinical Significance
+BRMS1L has been identified as a metastasis-suppressing gene with significant clinical implications in various cancers. In esophageal squamous cell carcinoma (ESCC), alterations in BRMS1L expression are linked to changes in the metastatic potential of cancer cells. Knockdown of BRMS1L enhances cell migration and invasion, while its overexpression suppresses these processes. This is partly due to BRMS1L's role in regulating the epithelial-mesenchymal transition (EMT) and suppressing ITGA7 expression, a gene associated with tumorigenesis and cancer cell migration (Zhou2020&lt; Identification; p&gt).
+
+In breast and brain cancers, BRMS1L expression is often downregulated compared to normal tissues, and low levels of BRMS1L are associated with poor survival outcomes. This suggests that BRMS1L could serve as a prognostic biomarker in these cancers (Koyama2017Identification). The gene is regulated by the p53 family of transcription factors, and its expression is induced by p53, TAp63c, and TAp73b. This regulation is crucial for its role in inhibiting cancer cell invasion and migration (Koyama2017Identification).
+
+Overall, BRMS1L's interactions with the p53 pathway and its ability to suppress metastasis highlight its potential as a therapeutic target in cancer treatment (Koyama2017Identification).
+
+## Interactions
+BRMS1L, a metastasis suppressor gene, is known to interact with several proteins and complexes that influence its function in cancer cell behavior. It is a direct target of the p53 family, which includes p53, p63, and p73, and can enhance p53 transcriptional activity. This interaction is significant as BRMS1L can facilitate p53-mediated apoptosis and modulate survivin levels, a protein involved in inhibiting apoptosis (Koyama2017Identification).
+
+BRMS1L is also associated with the Sin3/HDAC complex, a multiprotein complex involved in transcriptional regulation. It binds more extensively to SIN3A than BRMS1, suggesting a distinct role in these complexes. This interaction is crucial for its function in suppressing metastasis, as it influences gene expression through chromatin remodeling (Zimmermann2021Perturbation; Zimmermann2021Perturbationa).
+
+In esophageal squamous cell carcinoma (ESCC), BRMS1L represses the expression of ITGA7, a gene associated with tumorigenesis and cancer cell migration. This repression is part of a regulatory axis involving CBP/p300, which modulates BRMS1L expression, highlighting its role in inhibiting migration and invasion in cancer cells (Zhou2020&lt; Identification; p&gt).
+
+
+## References
+
+
+[1. (Zimmermann2021Perturbation) Rosalyn C. Zimmermann, Mihaela E. Sardiu, Christa A. Manton, Md. Sayem Miah, Charles A. S. Banks, Mark K. Adams, Devin C. Koestler, Douglas R. Hurst, Mick D. Edmonds, Michael P. Washburn, and Danny R. Welch. Perturbation of brms1 interactome reveals pathways that impact metastasis. PLOS ONE, 16(11):e0259128, November 2021. URL: http://dx.doi.org/10.1371/journal.pone.0259128, doi:10.1371/journal.pone.0259128. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0259128)
+
+2. (Zimmermann2021Perturbationa) Perturbation of BRMS1 interactome reveals pathways that impact cell migration. This article has 0 citations.
+
+[3. (Koyama2017Identification) Ryota Koyama, Miyuki Tamura, Takafumi Nakagaki, Tomoko Ohashi, Masashi Idogawa, Hiromu Suzuki, Takashi Tokino, and Yasushi Sasaki. Identification and characterization of a metastatic suppressor <scp>brms</scp>1l as a target gene of p53. Cancer Science, 108(12):2413–2421, November 2017. URL: http://dx.doi.org/10.1111/cas.13420, doi:10.1111/cas.13420. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/cas.13420)

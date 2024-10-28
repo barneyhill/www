@@ -1,0 +1,31 @@
+# ZNF704
+
+## Overview
+ZNF704 is a gene that encodes the zinc finger protein 704, a transcription factor primarily involved in transcriptional repression. This protein is characterized by its zinc finger domains, which facilitate DNA binding, allowing it to regulate gene expression by interacting with the SIN3A corepressor complex. The zinc finger protein 704 is predominantly localized in the nucleus, where it plays a critical role in modulating circadian rhythms and cellular homeostasis by repressing specific target genes, such as PER2, through histone deacetylation mechanisms (Yang2020Circadian). Its involvement in various biological pathways, including those related to cell cycle regulation and differentiation, underscores its significance in maintaining cellular function and its potential implications in oncogenesis (Yang2020Circadian).
+
+## Function
+ZNF704 is a transcription factor that functions primarily as a transcriptional repressor in human cells. It is known to interact with the SIN3A corepressor complex, which includes components such as HDAC1, HDAC2, and SAP130, to exert its repressive effects on gene expression (Yang2020Circadian). The protein localizes mainly in the nucleus, where it binds to DNA and represses transcription in a dose-dependent manner. This repression is mediated through histone deacetylase (HDAC) activity, as evidenced by the alleviation of repression upon treatment with trichostatin A, an HDAC inhibitor (Yang2020Circadian).
+
+In terms of molecular processes, ZNF704 is involved in the regulation of circadian rhythms by repressing the expression of PER2, a core component of the circadian clock. This repression disrupts normal circadian function, which can have downstream effects on cellular proliferation and differentiation (Yang2020Circadian). ZNF704's role in transcriptional regulation is significant in maintaining cellular homeostasis and influencing various biological pathways, including those related to cell cycle regulation and differentiation. Its activity in the nucleus underscores its importance in gene expression regulation and its potential impact on organismal outcomes through these molecular processes (Yang2020Circadian).
+
+## Clinical Significance
+ZNF704 has been implicated in the progression of several cancers due to alterations in its expression levels and interactions. In breast cancer, ZNF704 is a downstream target of the circular RNA circHSDL2, which modulates its expression by sequestering microRNA miR-7978. This interaction leads to the upregulation of ZNF704, contributing to breast cancer progression through the Hippo signaling pathway. Overexpression of circHSDL2 enhances the proliferation and migratory capacity of breast cancer cells, and in vivo studies have shown that it promotes lung metastasis and tumor growth, with increased expressions of ZNF704 and TAZ, and decreased MST2 expression (Wang2024Circular).
+
+In uveal melanoma (UM), ZNF704 is associated with poor prognosis and promotes cancer cell growth and migration by regulating the AKT/mTOR signaling pathway. Elevated expression of ZNF704 correlates with shorter overall survival in UM patients. Knockdown of ZNF704 suppresses cell migration and epithelial-to-mesenchymal transition (EMT), while its overexpression enhances these processes. ZNF704 also down-regulates SORBS3, which is linked to UM cell growth and migration (Luo2023Elevated). These findings suggest that ZNF704 acts as an oncogene in both breast cancer and UM, making it a potential target for therapeutic intervention.
+
+## Interactions
+ZNF704 is known to interact with the SIN3A corepressor complex, a multiprotein assembly that includes components such as SIN3A, SAP130, HDAC1, HDAC2, and RBBP4. These interactions were confirmed through affinity purification, mass spectrometry, and co-immunoprecipitation experiments in breast cancer cell lines like MDA-MB-231 and MCF-7 (Yang2020Circadian). ZNF704 specifically interacts with SIN3A and SAP130, as demonstrated by GST pull-down assays (Yang2020Circadian). 
+
+The interaction with the SIN3A complex is crucial for ZNF704's role as a transcription repressor. This complex is involved in histone deacetylation, which is linked to the repression of gene expression. The repression activity of ZNF704 is alleviated by trichostatin A, an HDAC inhibitor, indicating that histone deacetylase activity is essential for its function (Yang2020Circadian).
+
+ZNF704 also binds to DNA, as shown by chromatin immunoprecipitation-based deep sequencing (ChIP-seq), which identified numerous ZNF704-specific binding peaks across the genome. This binding is associated with the repression of various genes, including those involved in circadian rhythm regulation and tumorigenesis (Yang2020Circadian).
+
+
+## References
+
+
+[1. (Wang2024Circular) Dandan Wang, Sujin Yang, Mengmeng Lyu, Liping Xu, Shanliang Zhong, and Dandan Yu. Circular rna hsdl2 promotes breast cancer progression via mir-7978 znf704 axis and regulating hippo signaling pathway. Breast Cancer Research, June 2024. URL: http://dx.doi.org/10.1186/s13058-024-01864-z, doi:10.1186/s13058-024-01864-z. This article has 0 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s13058-024-01864-z)
+
+[2. (Luo2023Elevated) Jingting Luo, Haowen Li, Jingying Xiu, Jingyao Zeng, Zhaoxun Feng, Hanqing Zhao, Yang Li, and Wenbin Wei. Elevated znf704 expression is associated with poor prognosis of uveal melanoma and promotes cancer cell growth by regulating akt/mtor signaling. Biomarker Research, April 2023. URL: http://dx.doi.org/10.1186/s40364-023-00471-y, doi:10.1186/s40364-023-00471-y. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40364-023-00471-y)
+
+[3. (Yang2020Circadian) Chao Yang, Jiajing Wu, Xinhua Liu, Yue Wang, Beibei Liu, Xing Chen, Xiaodi Wu, Dong Yan, Lulu Han, Shumeng Liu, Lin Shan, and Yongfeng Shang. Circadian rhythm is disrupted by znf704 in breast carcinogenesis. Cancer Research, 80(19):4114–4128, October 2020. URL: http://dx.doi.org/10.1158/0008-5472.can-20-0493, doi:10.1158/0008-5472.can-20-0493. This article has 19 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-20-0493)

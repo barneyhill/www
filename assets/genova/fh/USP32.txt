@@ -1,0 +1,48 @@
+# USP32
+
+## Overview
+USP32 is a gene that encodes the protein ubiquitin specific peptidase 32, a deubiquitinating enzyme involved in the regulation of protein turnover and cellular homeostasis. As a member of the ubiquitin-specific protease family, USP32 plays a critical role in the ubiquitin-proteasome system by cleaving ubiquitin from substrate proteins, thereby influencing their stability and function (Sapmaz2019USP32; Li2023USP32). The protein is characterized by a multi-domain structure, including a USP catalytic domain essential for its enzymatic activity, and is involved in key cellular processes such as endosomal transport and recycling (Li2023USP32). USP32's interactions with proteins like Rab7 and the retromer complex underscore its importance in maintaining endosomal dynamics and cellular trafficking (Sapmaz2019USP32). Clinically, USP32 has been implicated in various cancers, where its dysregulation contributes to tumor progression and resistance to therapy, making it a potential target for therapeutic intervention (Xiu2023High; Li2023USP32).
+
+## Structure
+USP32 is a multi-domain protein composed of 1604 amino acids with a molecular weight of 182 kDa. It features several distinct domains, including a calcium-binding EF-hand, a USP catalytic domain, two ubiquitin-like domains, and C-terminal prenylation sites. The USP catalytic domain is essential for its enzymatic function, containing key cysteine and histidine residues crucial for its deubiquitinating activity (Li2023USP32). 
+
+The protein is involved in the ubiquitin-proteasome system, where it cleaves mono- and di-ubiquitin substrates, although it does not typically cleave one of the eight ubiquitin connections (Sapmaz2019USP32; Li2023USP32). The catalytic activity of USP32, particularly the residue C743, is critical, as demonstrated by the inability of a catalytic mutant (C743A) to rescue endosomal phenotypes in cells (Sapmaz2019USP32).
+
+USP32 also contains a ubiquitin C-terminal hydrolase domain, which can undergo post-translational modifications (Li2023USP32). The structure of USP32, as predicted by AlphaFold, highlights its complex domain composition, although specific details on secondary, tertiary, and quaternary structures are not provided in the available context (Li2023USP32).
+
+## Function
+USP32, a deubiquitylating enzyme, plays a crucial role in the regulation of endosomal transport and recycling in human cells. It is involved in maintaining the architecture and function of the endosomal system, particularly in the late endosomal compartment. USP32's activity is associated with the perinuclear trans-Golgi network and peripheral vesicles, and its loss leads to mislocalization of the mannose-6-phosphate receptor and impaired endosomal trafficking (Sapmaz2019USP32).
+
+USP32 specifically deubiquitylates Rab7, a small GTPase involved in late endosomal transport, at lysine 191. This modification is critical for Rab7's function in late endosome transport. The ubiquitylation of Rab7, which accumulates when USP32 is depleted, inhibits late endosome motility and disrupts the organization of the late endosomal compartment (Sapmaz2019USP32). USP32 also interacts with the retromer complex, particularly VPS35, to regulate recycling from late compartments. Depletion of USP32 causes swelling of VPS35-positive vesicles, indicating that USP32 and the retromer complex function in the same pathway concerning membrane dynamics at the late endosome/multivesicular body (Sapmaz2019USP32).
+
+Overall, USP32's deubiquitylation activity is essential for the fission of recycling vesicles and maintaining the health of the endolysosomal system (Sapmaz2019USP32).
+
+## Clinical Significance
+USP32 is implicated in various cancers due to its role in protein regulation and cellular processes. In hepatocellular carcinoma (HCC), high USP32 expression is associated with cancer progression, immune cell infiltration, and poor clinical outcomes, including shorter progression-free survival and recurrence-free survival in Asian patients (Xiu2023High). In gastric cancer, USP32 acts as an oncogene, promoting cell proliferation, migration, and resistance to cisplatin by modulating SMAD2 expression (Dou2020USP32; Li2023USP32). 
+
+In breast cancer, USP32 is overexpressed in estrogen receptor-positive tumors and contributes to drug resistance, interacting with SLC35F2 to affect drug uptake (Li2023USP32). In small cell lung cancer (SCLC), USP32 overexpression correlates with advanced disease stages and increased invasiveness, while its downregulation reduces cell proliferation and induces apoptosis (Hu2017Downregulation). 
+
+USP32 is also linked to poor prognosis in epithelial ovarian cancer and glioblastoma, where its inhibition can prevent metastasis and halt tumor growth, respectively (Li2023USP32). These findings highlight USP32 as a potential therapeutic target across multiple cancer types due to its significant role in tumor progression and treatment resistance.
+
+## Interactions
+USP32, a deubiquitinating enzyme, interacts with several proteins, playing a crucial role in cellular processes. One of its primary interactions is with Rab7, a small GTPase involved in late endosomal transport. USP32 deubiquitylates Rab7, which is essential for maintaining proper endosomal dynamics and recycling processes. This interaction affects Rab7's function in late endosome transport, influencing its motility and perinuclear organization (Sapmaz2019USP32).
+
+USP32 also interacts with the retromer complex, particularly VPS35, a component involved in membrane recycling from Rab7-positive endosomes. The deubiquitylation of Rab7 by USP32 prevents the retention of the retromer on endosomes, facilitating the resolution of recycling tubules (Sapmaz2019USP32).
+
+In cancer contexts, USP32 interacts with proteins such as SMAD2 in gastric cancer, modulating its expression and contributing to carcinogenesis and drug resistance (Li2023USP32). In epithelial ovarian cancer, USP32 deubiquitylates farnesyl-diphosphate farnesyltransferase 1 (FDFT1), stabilizing it and promoting cancer cell proliferation and stemness (Nakae2021Ubiquitin). These interactions highlight USP32's role in both normal cellular functions and disease mechanisms.
+
+
+## References
+
+
+[1. (Hu2017Downregulation) Wenyu Hu, Haiyan Wei, Keming Li, Pei Li, Jiamao Lin, and Rui Feng. Downregulation of <scp>usp</scp>32 inhibits cell proliferation, migration and invasion in human small cell lung cancer. Cell Proliferation, June 2017. URL: http://dx.doi.org/10.1111/cpr.12343, doi:10.1111/cpr.12343. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/cpr.12343)
+
+[2. (Xiu2023High) Mengxi Xiu, Wenfang Bao, Jialin Wang, Jingde Chen, Yandong Li, and Yanan Hai. High usp32 expression contributes to cancer progression and is correlated with immune infiltrates in hepatocellular carcinoma. BMC Cancer, November 2023. URL: http://dx.doi.org/10.1186/s12885-023-11617-4, doi:10.1186/s12885-023-11617-4. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-023-11617-4)
+
+[3. (Sapmaz2019USP32) Aysegul Sapmaz, Ilana Berlin, Erik Bos, Ruud H. Wijdeven, Hans Janssen, Rebecca Konietzny, Jimmy J. Akkermans, Ayse E. Erson-Bensan, Roman I. Koning, Benedikt M. Kessler, Jacques Neefjes, and Huib Ovaa. Usp32 regulates late endosomal transport and recycling through deubiquitylation of rab7. Nature Communications, March 2019. URL: http://dx.doi.org/10.1038/s41467-019-09437-x, doi:10.1038/s41467-019-09437-x. This article has 64 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-09437-x)
+
+[4. (Dou2020USP32) Ning Dou, Qingqing Hu, Li Li, Qiong Wu, Yandong Li, and Yong Gao. Usp32 promotes tumorigenesis and chemoresistance in gastric carcinoma via upregulation of smad2. International Journal of Biological Sciences, 16(9):1648–1657, 2020. URL: http://dx.doi.org/10.7150/ijbs.43117, doi:10.7150/ijbs.43117. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/ijbs.43117)
+
+[5. (Nakae2021Ubiquitin) Aya Nakae, Michiko Kodama, Toru Okamoto, Makoto Tokunaga, Hiroko Shimura, Kae Hashimoto, Kenjiro Sawada, Takahiro Kodama, Neal G. Copeland, Nancy A. Jenkins, and Tadashi Kimura. Ubiquitin specific peptidase 32 acts as an oncogene in epithelial ovarian cancer by deubiquitylating farnesyl-diphosphate farnesyltransferase 1. Biochemical and Biophysical Research Communications, 552:120–127, May 2021. URL: http://dx.doi.org/10.1016/j.bbrc.2021.03.049, doi:10.1016/j.bbrc.2021.03.049. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2021.03.049)
+
+[6. (Li2023USP32) Shuang Li, Yang Song, Kexin Wang, Guoxiang Liu, Xiaolei Dong, Fanghao Yang, Guang Chen, Can Cao, Huhu Zhang, Mengjun Wang, Ya Li, Teng Zeng, Chunyan Liu, and Bing Li. Usp32 deubiquitinase: cellular functions, regulatory mechanisms, and potential as a cancer therapy target. Cell Death Discovery, September 2023. URL: http://dx.doi.org/10.1038/s41420-023-01629-1, doi:10.1038/s41420-023-01629-1. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-023-01629-1)

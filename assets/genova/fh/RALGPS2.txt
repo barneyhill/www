@@ -1,0 +1,42 @@
+# RALGPS2
+
+## Overview
+RALGPS2 is a gene that encodes the protein Ral GEF with PH domain and SH3 binding motif 2, which functions as a guanine nucleotide exchange factor (GEF). This protein is involved in the activation of the RalA GTPase, a process critical for various cellular activities, including cytoskeletal organization and membrane dynamics. RALGPS2 is characterized by a Cdc25-like GEF domain and a pleckstrin homology (PH) domain, which facilitate its role in cellular signaling by enabling membrane localization and interaction with other proteins. Unlike other members of the RalGDS family, RALGPS2 lacks a Ras-binding domain, making its activity Ras-independent (Cascone2008Distinct; Ceriani2007Functional). The protein is expressed in multiple tissues, including the brain and testis, and has been implicated in processes such as cytokinesis and transcriptional regulation. Additionally, RALGPS2 has clinical significance in cancer biology, particularly in lung adenocarcinoma, where its expression levels correlate with patient prognosis (Tan2020Integrative).
+
+## Structure
+The RALGPS2 protein is a guanine nucleotide exchange factor (GEF) characterized by several distinct domains. It contains a Cdc25-like GEF domain located in the N-terminal region, spanning residues 45-290, which is crucial for its function in activating the RalA GTPase (Ceriani2007Functional). The protein also features a pleckstrin homology (PH) domain in the C-terminal region, between residues 464-576, which is involved in membrane localization by binding phosphatidylinositol-4,5-biphosphate (Ceriani2007Functional). A proline-rich PxxP motif is present between residues 329 and 340, facilitating interactions with SH3 domains of proteins such as Grb2 and PLCγ (Ceriani2007Functional).
+
+Unlike other GEFs in the RalGDS family, RALGPS2 lacks a Ras-binding domain and the SCR0 domain, which are typically involved in maintaining the catalytic domain's conformation (Ceriani2007Functional). The protein is expressed in various tissues, including the brain and testis, and different splicing variants have been identified, potentially affecting its functional domains (Ceriani2007Functional). The PH domain contains a conserved sequence (ERKHFK) that may be critical for specific protein interactions (Ceriani2007Functional).
+
+## Function
+RALGPS2 is a guanine nucleotide exchange factor (GEF) that specifically activates the RalA GTPase, playing a crucial role in various cellular processes. It is characterized by a Cdc25-like GEF domain and a pleckstrin homology (PH) domain, which facilitates its localization to membranes by binding phosphatidylinositol-4,5-bisphosphate (Shirakawa2015Ral; Ceriani2007Functional). RALGPS2 is involved in cytoskeletal organization, as it can cause actin depolymerization and morphological changes in cells, particularly through its PH and PH-PxxP domains (Ceriani2007Functional). 
+
+In HEK 293 cells, RALGPS2 influences cellular morphology by causing membrane ruffling and vesicle formation, which are partially reversed by a dominant negative Ral, indicating its effect on the cytoskeleton (Ceriani2007Functional). RALGPS2 also plays a role in cytokinesis, where its depletion leads to an accumulation of binucleate cells, suggesting a failure in cell division. This indicates that RALGPS2 might activate RalA during cytokinesis, ensuring proper cell division (Cascone2008Distinct). 
+
+RALGPS2 is expressed in the testis and brain, and its activity is Ras-independent, distinguishing it from other GEFs that require Ras for activation (Cascone2008Distinct; Ceriani2007Functional).
+
+## Clinical Significance
+RALGPS2 has been implicated in the progression of lung adenocarcinoma (LUAD). High expression levels of RALGPS2, along with specific microRNAs such as hsa-miR-21-5p, are significantly associated with worse survival outcomes in LUAD patients. This suggests that RALGPS2 could serve as a prognostic biomarker in LUAD, highlighting its potential role in tumorigenesis and cancer progression through its involvement in competing endogenous RNA (ceRNA) networks (Tan2020Integrative).
+
+In addition to its role in cancer, RALGPS2 is involved in cytoskeletal organization and transcriptional activation, which are critical processes in cellular morphology and function. Alterations in these processes due to changes in RALGPS2 expression or function could potentially contribute to disease mechanisms, although specific diseases related to these alterations are not directly mentioned in the available studies (Ceriani2007Functional).
+
+While the context does not provide direct evidence of RALGPS2 mutations leading to specific diseases, its involvement in key cellular processes suggests that dysregulation could have significant clinical implications, particularly in cancer and possibly in other conditions related to cell migration and proliferation.
+
+## Interactions
+RALGPS2, a guanine nucleotide exchange factor, is known for its specific interactions with several proteins, primarily through its proline-rich PxxP motif and pleckstrin homology (PH) domain. The PxxP motif facilitates binding to SH3 domain-containing proteins such as Grb2 and PLCγ1. These interactions have been confirmed both in vitro and in vivo, using techniques like co-transfection, immunoprecipitation assays, and pull-down assays in HEK 293 cells (Ceriani2007Functional).
+
+The PH domain of RALGPS2 is crucial for its membrane localization, as it binds to phosphatidylinositol 4,5-bisphosphate (PIP2) and other phosphatidylinositols, suggesting a role in membrane-associated signaling pathways. This domain's interaction with phosphatidylinositols is thought to be regulated by PI3K, influencing RALGPS2's localization and activity (Shirakawa2015Ral; Ceriani2007Functional).
+
+RALGPS2 also plays a role in cytoskeletal organization and transcriptional activation. It is involved in the stimulation of c-fos promoter activity in a RalA-dependent and Ras-independent manner, indicating its participation in gene regulation processes (Ceriani2007Functional). Additionally, RALGPS2 may interact with SMAD1, a transcriptional mediator, suggesting a broader role in cellular signaling pathways (Ceriani2007Functional).
+
+
+## References
+
+
+[1. (Shirakawa2015Ral) R. Shirakawa and H. Horiuchi. Ral gtpases: crucial mediators of exocytosis and tumourigenesis. Journal of Biochemistry, 157(5):285–299, March 2015. URL: http://dx.doi.org/10.1093/jb/mvv029, doi:10.1093/jb/mvv029. This article has 83 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/jb/mvv029)
+
+[2. (Tan2020Integrative) Juan Tan, Weimin Wang, Bin Song, Yingjian Song, and Zili Meng. Integrative analysis of three novel competing endogenous rna biomarkers with a prognostic value in lung adenocarcinoma. BioMed Research International, 2020:1–12, August 2020. URL: http://dx.doi.org/10.1155/2020/2837906, doi:10.1155/2020/2837906. This article has 8 citations and is from a poor quality or predatory journal.](https://doi.org/10.1155/2020/2837906)
+
+[3. (Cascone2008Distinct) Ilaria Cascone, Rasim Selimoglu, Cafer Ozdemir, Elaine Del Nery, Charles Yeaman, Michael White, and Jacques Camonis. Distinct roles of rala and ralb in the progression of cytokinesis are supported by distinct ralgefs. The EMBO Journal, 27(18):2375–2387, August 2008. URL: http://dx.doi.org/10.1038/emboj.2008.166, doi:10.1038/emboj.2008.166. This article has 98 citations.](https://doi.org/10.1038/emboj.2008.166)
+
+[4. (Ceriani2007Functional) Michela Ceriani, Cristina Scandiuzzi, Loredana Amigoni, Renata Tisi, Giovanna Berruti, and Enzo Martegani. Functional analysis of ralgps2, a murine guanine nucleotide exchange factor for rala gtpase. Experimental Cell Research, 313(11):2293–2307, July 2007. URL: http://dx.doi.org/10.1016/j.yexcr.2007.03.016, doi:10.1016/j.yexcr.2007.03.016. This article has 30 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.yexcr.2007.03.016)

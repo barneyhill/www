@@ -1,0 +1,34 @@
+# ASDURF
+
+## Overview
+ASDURF is a gene that encodes a novel protein, the ASNSD1 upstream open reading frame (uORF), which functions as a prefoldin-like subunit within the PAQosome complex. This protein is characterized by its structural homology to β-prefoldins, which are involved in protein folding and stabilization processes. The ASDURF protein plays a critical role in the assembly and function of the PAQosome, a chaperone complex essential for the biogenesis of various human protein complexes, including snoRNPs and nuclear RNA polymerases. It is implicated in cellular responses to nutritional stress and the regulation of mTOR signaling pathways. Clinically, ASDURF has been associated with the pathogenesis of childhood medulloblastoma and liver fibrosis, highlighting its potential as a therapeutic target in these diseases (Hofman2023Translation; Shi2022WITHDRAWN:; Cloutier2019Upstream).
+
+## Structure
+The ASDURF protein is a novel prefoldin-like subunit associated with the PAQosome complex. Its molecular structure was predicted using Phyre 2 modeling software, which identified ASDURF as a β-prefoldin. The predicted tertiary structure consists of a short β-hairpin followed by a coiled coil, modeled using the β-prefoldin from Pyrococcus horikoshii as a template, with a confidence score of 89.9% (Cloutier2019Upstream). Typically, β-prefoldins have one β-hairpin, which contributes to forming dual eight-stranded β-barrels, while coiled coil domains provide interaction interfaces for client proteins (Cloutier2019Upstream).
+
+ASDURF is a relatively small protein, consisting of 96 residues with a theoretical molecular weight of 11.2 kDa (Cloutier2019Upstream). It integrates into the prefoldin-like module of the PAQosome, forming a heterohexameric complex with other subunits, including URI1, UXT, PDRG1, PFDN2, and PFDN6 (Cloutier2019Upstream). ASDURF's association with other prefoldins suggests its role in forming higher-order assemblies within the PAQosome complex (Cloutier2019Upstream). The protein's coding sequence is located in an integrated stress response (ISR)-responsive element, linking it to the PAQosome's role in stress response (Cloutier2019Upstream).
+
+## Function
+ASDURF, encoded by an upstream open reading frame (uORF) in the ASNSD1 gene, functions as a novel prefoldin-like subunit of the PAQosome, a chaperone complex involved in the biogenesis of various human protein complexes. ASDURF is identified as the 12th subunit of the PAQosome and shows significant structural homology to β-prefoldins. It assembles with the five known subunits of the prefoldin-like module of the PAQosome to form a heterohexameric prefoldin-like complex (Cloutier2019Upstream). The PAQosome is responsible for the assembly of snoRNPs, ribonucleoprotein complexes, and nuclear RNA polymerases, and it plays a role in the biogenesis of spliceosome components U4 and U5 snRNPs (Cloutier2019Upstream).
+
+ASDURF is implicated in cellular responses to nutritional stress and mTOR signaling regulation. The PAQosome acts as both a regulator and effector of mTOR signaling, interacting with the tuberous sclerosis complex and SEC13, which are involved in mTORC1 activity regulation (Cloutier2019Upstream). ASDURF's role in protein folding and stabilization processes is supported by its strong interaction with other PAQosome components, such as PIH1D1, UXT, RPAP3, and URI1 (Cloutier2019Upstream).
+
+## Clinical Significance
+The ASNSD1 upstream open reading frame (ASDURF) has been implicated in the pathogenesis of childhood medulloblastoma, a high-risk pediatric brain cancer. Research indicates that ASDURF is upregulated in MYC-driven medulloblastoma, where it plays a crucial role in cancer cell survival by interacting with the prefoldin-like chaperone complex, which is involved in post-translational control (Hofman2023Translation). Knockout experiments have shown that the absence of ASDURF significantly reduces cell viability in MYC-driven medulloblastoma cell lines, suggesting its potential as a therapeutic target (Hofman2023Translation).
+
+ASDURF is also associated with liver fibrosis through its regulation of NS3TP1, a protein involved in the activation of hepatic stellate cells. ASDURF promotes the expression of NS3TP1, contributing to the progression of liver fibrosis. This interaction suggests that ASDURF could be a potential target for therapeutic intervention in liver fibrosis, although the clinical significance of this relationship requires further investigation (Shi2022WITHDRAWN:). These findings highlight the importance of ASDURF in disease mechanisms, particularly in cancer and liver fibrosis, and underscore its potential as a target for future therapeutic strategies.
+
+## Interactions
+ASDURF, a protein encoded by an upstream open reading frame in the ASNSD1 mRNA, is a novel prefoldin-like subunit of the PAQosome, a chaperone complex involved in the biogenesis of various human protein complexes. ASDURF has been shown to directly bind to other prefoldin subunits within the prefoldin-like module (PFDL) of the PAQosome, specifically interacting with UXT and PFDN2. These interactions are consistent with the structural requirements of β-prefoldins, which typically bind to one α and another β-prefoldin through β-hairpin domains within the dual β-barrels that form the core of the hexameric complex (Cloutier2019Upstream).
+
+ASDURF is also associated with the canonical prefoldin complex, where it substitutes for PFDN1 and interacts with subunits such as VBP1/PFDN3, PFDN4, and PFDN5. This suggests that ASDURF participates in forming higher-order assemblies within these complexes (Cloutier2019Upstream). Additionally, ASDURF has been implicated in the regulation of NS3TP1, a protein involved in liver fibrosis, by binding to it and upregulating its promoter activity, indicating a regulatory interaction (Shi2022WITHDRAWN:). These interactions highlight ASDURF's role in complex assembly and cellular stress responses.
+
+
+## References
+
+
+1. (Hofman2023Translation) Translation of non-canonical open reading frames as a cancer cell survival mechanism in childhood medulloblastoma. This article has 0 citations.
+
+2. (Shi2022WITHDRAWN:) WITHDRAWN: NS3TP1 promotes liver fibrosis by activating HSCs through TGFβ1/Smad3 and NF-κB/NLRP3 inflammasome signaling pathways. This article has 0 citations.
+
+[3. (Cloutier2019Upstream) Philippe Cloutier, Christian Poitras, Denis Faubert, Annie Bouchard, Mathieu Blanchette, Marie-Soleil Gauthier, and Benoit Coulombe. Upstream orf-encoded asdurf is a novel prefoldin-like subunit of the paqosome. Journal of Proteome Research, 19(1):18–27, November 2019. URL: http://dx.doi.org/10.1021/acs.jproteome.9b00599, doi:10.1021/acs.jproteome.9b00599. This article has 43 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.jproteome.9b00599)

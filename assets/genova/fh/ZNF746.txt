@@ -1,0 +1,48 @@
+# ZNF746
+
+## Overview
+ZNF746, also known as PARIS, is a gene that encodes the zinc finger protein 746, a transcription factor involved in various cellular processes, including mitochondrial biogenesis and glucose metabolism. This protein is characterized by its KRAB domain and zinc finger motifs, which classify it as a KRAB zinc finger protein, a subgroup known for their role in transcriptional repression. ZNF746 is particularly significant in the context of neurodegenerative diseases, such as Parkinson's disease, where it regulates the expression of PGC-1α, a key player in mitochondrial function. The protein's activity is modulated by interactions with the parkin ubiquitin-proteasome system, which targets it for degradation, thereby influencing mitochondrial homeostasis and energy metabolism. Additionally, ZNF746 has been implicated in cancer progression, notably in colorectal and hepatocellular carcinomas, through its interactions with oncogenes like c-Myc. These diverse roles underscore the importance of ZNF746 in both normal cellular function and disease states (Jung2018Zinc; al2020transcription; Shin2011PARIS).
+
+## Structure
+ZNF746, also known as PARIS, is a KRAB zinc finger protein characterized by several distinct domains. It contains an N-terminal domain of unknown function 3669 (DUF3669), followed by a KRAB domain with KRAB-A and KRAB-B subdomains, and a C-terminal array of four zinc fingers (al2020transcription). The DUF3669 domain is evolutionarily conserved and acts as an oligomerization domain, facilitating both homo- and hetero-oligomerization, which is crucial for its transcriptional repression activity (Al2019DUF3669). The KRAB domain in ZNF746 is involved in transcriptional repression, although it is less potent compared to canonical KRAB domains due to the absence of a glutamic acid residue in the MLE motif (Al2019DUF3669).
+
+ZNF746 exists in two isoforms: ZNF746a, which has a truncated KRAB-A subdomain, and ZNF746b, which contains a full-length KRAB-A domain. These isoforms exhibit different repressive activities and interactions with TRIM28 and SETDB1, with ZNF746b showing higher repression activity (al2020transcription; Al2019DUF3669). Post-translational modifications, such as SUMOylation, particularly at lysine residues K189 and K286, play a significant role in regulating the repressive activity of ZNF746 (al2020transcription).
+
+## Function
+ZNF746, also known as PARIS, is a transcription factor that plays a crucial role in mitochondrial biogenesis and glucose metabolism in dopaminergic neurons. In healthy human cells, ZNF746 binds to the Insulin response sequence (IRS) region in the promoter of the PGC-1α gene, repressing its expression. This repression is significant for maintaining mitochondrial homeostasis by regulating both mitochondrial degradation and biogenesis (al2020transcription).
+
+The protein's activity is modulated by the parkin ubiquitin-proteasome system, where ZNF746 is ubiquitinated by the E3 ubiquitin ligase Parkin, leading to its proteasomal degradation. This regulation is essential for normal mitochondrial function and energy metabolism, preventing the deleterious effects associated with conditions like Parkinson's disease (al2020transcription).
+
+ZNF746 also targets Transketolase (TKT), a key enzyme in the pentose phosphate pathway, and its overexpression reduces TKT promoter activity, impacting glucose metabolism (al2020transcription). The protein's repressive activity is further regulated by SUMOylation, which is crucial for the repression of the PGC-1α promoter in a cell-dependent manner (al2020transcription). These functions highlight ZNF746's role in cellular energy regulation and its potential impact on neurodegenerative diseases.
+
+## Clinical Significance
+ZNF746, also known as PARIS, is implicated in several diseases due to its role in transcriptional regulation. In Parkinson's disease (PD), ZNF746 acts as a transcriptional repressor of PGC-1α, a coactivator involved in mitochondrial biogenesis and energy metabolism. The accumulation of ZNF746 in the absence of functional parkin, an E3 ubiquitin ligase, leads to the repression of PGC-1α, contributing to the neurodegeneration observed in PD. This repression results in the loss of dopaminergic neurons in the substantia nigra, a hallmark of PD (Shin2011PARIS).
+
+ZNF746 is also overexpressed in various cancers, including colorectal cancer (CRC) and hepatocellular carcinoma (HCC). In CRC, ZNF746 stabilizes the c-Myc protein, a known oncogene, promoting cancer progression and is associated with poor survival rates. Its depletion leads to reduced tumor growth, suggesting its potential as a therapeutic target (Jung2018Zinc). In HCC, ZNF746 accumulation downregulates PGC-1α and NRF1, promoting liver tumorigenesis (Kim2021ZNF746PARIS).
+
+In bladder cancer, ZNF746 is involved in tumorigenesis, and its silencing suppresses cancer cell growth and invasion. Melatonin treatment downregulates ZNF746, highlighting its potential as a therapeutic target (Chen2018Melatonin‐mediated).
+
+## Interactions
+ZNF746, also known as PARIS, is involved in several protein interactions that are significant for its function as a transcriptional repressor. It interacts with parkin, an E3 ubiquitin ligase, which regulates ZNF746 levels through ubiquitination and proteasomal degradation. This interaction is crucial in the context of Parkinson's disease, where parkin mutations lead to the accumulation of ZNF746, contributing to neurodegeneration (Shin2011PARIS).
+
+ZNF746 also interacts with components of the eukaryotic initiation factor 3 (eIF3) complex, suggesting a role in RNA-related functions and translation regulation (Helleboid2019The). The protein contains a DUF3669 domain, which facilitates oligomerization, allowing ZNF746 to form both homo- and hetero-oligomers with other DUF3669-containing proteins, such as ZNF777. This oligomerization is important for its transcriptional repression activity (Al2019DUF3669).
+
+In colorectal cancer, ZNF746 interacts with the oncogene c-Myc, enhancing its stability and promoting cancer progression. This interaction is mediated by nuclear colocalization and is crucial for maintaining c-Myc levels, which are regulated by the ubiquitin-proteasome system (Jung2018Zinc).
+
+
+## References
+
+
+[1. (Al2019DUF3669) Mohannad Al Chiblak, Felix Steinbeck, Hans-Jürgen Thiesen, and Peter Lorenz. Duf3669, a “domain of unknown function” within znf746 and znf777, oligomerizes and contributes to transcriptional repression. BMC Molecular and Cell Biology, December 2019. URL: http://dx.doi.org/10.1186/s12860-019-0243-y, doi:10.1186/s12860-019-0243-y. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12860-019-0243-y)
+
+[2. (Chen2018Melatonin‐mediated) Yen‐Ta Chen, Chih‐Chao Yang, Pei‐Lin Shao, Chi‐Ruei Huang, and Hon‐Kan Yip. Melatonin‐mediated downregulation of znf746 suppresses bladder tumorigenesis mainly through inhibiting the akt‐mmp‐9 signaling pathway. Journal of Pineal Research, November 2018. URL: http://dx.doi.org/10.1111/jpi.12536, doi:10.1111/jpi.12536. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/jpi.12536)
+
+3. (al2020transcription) Mohannad Al Chiblak. Transcription factor properties of ZNF746 and ZNF777 with focus on their domains of unknown function 3669 (DUF3669). PhD thesis, Dissertation, Rostock, Universität Rostock, 2020, 2020. This article has 0 citations.
+
+[4. (Kim2021ZNF746PARIS) Hanna Kim, Ji-Yeong Lee, Soo Jeong Park, Eunsang Kwag, Okjae Koo, and Joo-Ho Shin. Znf746/paris promotes the occurrence of hepatocellular carcinoma. Biochemical and Biophysical Research Communications, 563:98–104, July 2021. URL: http://dx.doi.org/10.1016/j.bbrc.2021.05.051, doi:10.1016/j.bbrc.2021.05.051. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2021.05.051)
+
+[5. (Jung2018Zinc) Ji Hoon Jung, Deok-Beom Jung, Hyunseok Kim, Hyemin Lee, Shi-Eun Kang, Sanjay K. Srivastava, Miyong Yun, and Sung-Hoon Kim. Zinc finger protein 746 promotes colorectal cancer progression via c-myc stability mediated by glycogen synthase kinase 3β and f-box and wd repeat domain-containing 7. Oncogene, 37(27):3715–3728, April 2018. URL: http://dx.doi.org/10.1038/s41388-018-0225-0, doi:10.1038/s41388-018-0225-0. This article has 33 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-018-0225-0)
+
+[6. (Shin2011PARIS) Joo-Ho Shin, Han Seok Ko, Hochul Kang, Yunjong Lee, Yun-Il Lee, Olga Pletinkova, Juan C. Troconso, Valina L. Dawson, and Ted M. Dawson. Paris (znf746) repression of pgc-1α contributes to neurodegeneration in parkinson’s disease. Cell, 144(5):689–702, March 2011. URL: http://dx.doi.org/10.1016/j.cell.2011.02.010, doi:10.1016/j.cell.2011.02.010. This article has 746 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2011.02.010)
+
+[7. (Helleboid2019The) Pierre‐Yves Helleboid, Moritz Heusel, Julien Duc, Cécile Piot, Christian W Thorball, Andrea Coluccio, Julien Pontis, Michaël Imbeault, Priscilla Turelli, Ruedi Aebersold, and Didier Trono. The interactome of <scp>krab</scp> zinc finger proteins reveals the evolutionary history of their functional diversification. The EMBO Journal, August 2019. URL: http://dx.doi.org/10.15252/embj.2018101220, doi:10.15252/embj.2018101220. This article has 66 citations.](https://doi.org/10.15252/embj.2018101220)

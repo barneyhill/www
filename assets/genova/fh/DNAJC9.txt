@@ -1,0 +1,35 @@
+# DNAJC9
+
+## Overview
+DNAJC9 is a gene that encodes the protein DnaJ heat shock protein family (Hsp40) member C9, which is a member of the class C HSP40/J-domain proteins (JDPs). This protein functions as a molecular chaperone, playing a critical role in protein folding and stabilization, particularly under stress conditions. It achieves this by activating the ATPase activity of HSP70 through its J domain, facilitating the proper folding of proteins. DNAJC9 is primarily localized in the nucleus of healthy human cells but can relocate to the cytoplasm and plasma membrane under heat shock stress. It is involved in chromatin assembly and genome stability by maintaining histone supply during active replication and transcription. DNAJC9 also interacts with various proteins, including the DNA replication licensing factor MCM2, to coordinate histone dynamics and repair processes. The gene is implicated in several diseases, including various cancers and familial recurrent corneal erosion dystrophy, highlighting its clinical significance (Plessier2024Proteomic; Jafari2023Five; Kaida2021Regulation).
+
+## Function
+DNAJC9 is a member of the class C HSP40/J-domain proteins (JDPs), which are characterized by their diversity in molecular sizes, structures, and functions. It plays a crucial role in activating the ATPase activity of HSP70 through its J domain, similar to other HSP40/JDPs. This interaction is essential for the proper folding and stabilization of proteins, particularly under stress conditions (Kaida2021Regulation).
+
+In healthy human cells, DNAJC9 is primarily localized in the nucleus but can relocate to the cytoplasm and plasma membrane under heat shock stress. It is involved in the maintenance of histone supply during active replication and transcription. DNAJC9 forms a complex with the DNA replication licensing factor MCM2 and a histone H3-H4 dimer, recruiting multiple HSP70 enzymes to fold histone H3-H4 dimers, which is critical for chromatin assembly and genome stability (Kaida2021Regulation).
+
+Although there is no direct evidence of DNAJC9 regulating p53 activity, it appears to be a downstream target of p53 in zebrafish, suggesting a potential role in cellular stress responses and signaling pathways (Kaida2021Regulation). DNAJC9 is also implicated in various diseases, including familial recurrent corneal erosion dystrophy and schizophrenia (Kaida2021Regulation).
+
+## Clinical Significance
+The DNAJC9 gene is implicated in various cancers, including adrenocortical carcinoma (ACC), urothelial carcinomas of the bladder, adenocarcinomas of the stomach, and squamous cell carcinomas of the lung. In ACC, DNAJC9 upregulation is associated with increased cell proliferation and decreased survival rates. Knockdown of DNAJC9 leads to decreased E-cadherin expression and an increased mesenchymal phenotype, which is linked to reduced cell proliferation (Jafari2023Five). DNAJC9 is also associated with decreased overall survival in kidney renal clear cell carcinoma and lung squamous cell carcinoma (Jafari2023Five).
+
+In breast cancer, DNAJC9 is upregulated in basal, HER2, and luminal B subtypes, as well as in node-positive cervical squamous cell carcinoma. Its mRNA levels are elevated in multiple cancer types, including acute myelocytic leukemia, prostate adenocarcinoma, and lung adenocarcinoma, indicating its prognostic value (Kaida2021Regulation).
+
+DNAJC9 is a direct target of p53, a tumor suppressor protein, as confirmed in zebrafish models. This suggests its involvement in p53-mediated processes, which are crucial in cancer pathogenesis (Mandriani2016Identification). The gene's role in cancer progression is linked to its function as a molecular chaperone, binding to misfolded proteins and preventing aggregation, which is vital in maintaining cellular homeostasis (Jafari2023Five).
+
+## Interactions
+DNAJC9 is involved in several interactions with other proteins, particularly in the context of chromatin repair and histone dynamics. It forms a complex with the DNA replication licensing factor MCM2 and a histone H3-H4 dimer, which recruits multiple HSP70 enzymes to fold histone H3-H4 dimers, ensuring a proper supply of histones during active replication and transcription (Kaida2021Regulation). DNAJC9 also cooperates with MCM2 to coordinate the dynamics of old and new histones at sites of UV damage repair. Both DNAJC9 and MCM2 are independently recruited to UV damage sites, and their depletion impairs the recovery of old H3.3 histones at these sites (Plessier2024Proteomic). 
+
+DNAJC9 is hypothesized to provide new H3-H4 histones to CAF-1 and HIRA chaperones for deposition into chromatin, although it is not systematically identified as an interactor with these chaperones under basal conditions (Plessier2024Proteomic). It is also enriched on nascent replicated chromatin and stimulates new H3.1 deposition at undamaged replication forks, potentially in coordination with MCM2 (Plessier2024Proteomic). DNAJC9 recruits HSP70 family proteins via its J domain to promote histone protein folding, and HSPA4/HSP74 is enriched at UV damage repair sites, possibly cooperating with DNAJC9 in controlling histone dynamics during repair (Plessier2024Proteomic).
+
+
+## References
+
+
+1. (Plessier2024Proteomic) Proteomic profiling of UV damage repair patches uncovers histone chaperones with central functions in chromatin repair. This article has 0 citations.
+
+[2. (Mandriani2016Identification) Barbara Mandriani, Stefano Castellana, Carmela Rinaldi, Marta Manzoni, Santina Venuto, Eva Rodriguez-Aznar, Juan Galceran, M. Angela Nieto, Giuseppe Borsani, Eugenio Monti, Tommaso Mazza, Giuseppe Merla, and Lucia Micale. Identification of p53-target genes in danio rerio. Scientific Reports, September 2016. URL: http://dx.doi.org/10.1038/srep32474, doi:10.1038/srep32474. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep32474)
+
+3. (Jafari2023Five) Five new hub genes that have an impact on the survival rate of adrenocortical carcinoma were discovered using a correlation network approach in a comprehensive meta-analysis. This article has 0 citations.
+
+[4. (Kaida2021Regulation) Atsushi Kaida and Tomoo Iwakuma. Regulation of p53 and cancer signaling by heat shock protein 40/j-domain protein family members. International Journal of Molecular Sciences, 22(24):13527, December 2021. URL: http://dx.doi.org/10.3390/ijms222413527, doi:10.3390/ijms222413527. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms222413527)

@@ -1,0 +1,46 @@
+# ZNF827
+
+## Overview
+ZNF827 is a gene that encodes the zinc finger protein 827, a single-stranded DNA binding protein characterized by its multiple C2H2 zinc finger motifs. These motifs are organized into two distinct clusters, which facilitate the protein's interaction with single-stranded DNA, playing a pivotal role in the ATR-CHK1 DNA damage response pathway. This protein is integral to maintaining genomic stability by promoting homologous recombination-mediated DNA repair and responding to replication stress. ZNF827 also interacts with various proteins and complexes, such as the nucleosome remodeling and deacetylase (NuRD) complex, to regulate DNA repair and telomere maintenance. Clinically, ZNF827 is associated with cardiovascular conditions and cancer, where it influences gene expression regulation and DNA repair mechanisms, respectively (Yang2024ZNF827; Liu2024ZNF827pleiotropic).
+
+## Structure
+ZNF827 is a single-stranded DNA binding protein characterized by the presence of nine C2H2 zinc finger (ZnF) motifs, which are organized into two clusters. The first cluster, consisting of ZnF1-3, is centrally located, while the second cluster, ZnF4-9, is situated in the C-terminal region of the protein (Yang2024ZNF827). These zinc finger motifs are crucial for the protein's ability to bind to single-stranded DNA (ssDNA), with the central cluster being primarily responsible for this function (Yang2024ZNF827).
+
+ZNF827 does not contain oligonucleotide/oligosaccharide-binding (OB)-folds, which are common in other ssDNA binding proteins (Yang2024ZNF827). The protein also features an N-terminal RRK domain that interacts with the nucleosome remodeling and deacetylase (NuRD) complex (Yang2024ZNF827).
+
+Post-translational modifications of ZNF827 include ubiquitination, as identified in studies examining its role in muscle protein turnover (Baehr2021Identification). The protein may have multiple isoforms due to alternative splicing, which can influence its structure and function. However, specific details about the tertiary and quaternary structures of ZNF827 are not provided in the available context.
+
+## Function
+ZNF827 is a single-stranded DNA binding protein that plays a crucial role in the ATR-CHK1 DNA damage response pathway, which is essential for maintaining genomic stability in healthy human cells. It binds to single-stranded DNA through clusters of C2H2 zinc finger domains, distinct from other ssDNA binding proteins like RPA, and interacts with ATR activators and ATR itself. This interaction facilitates the transition from ATR-mediated DNA damage sensing to homologous recombination (HR) pathway engagement, promoting HR-directed DNA repair (Yang2024ZNF827).
+
+ZNF827 is involved in the replication stress response, accumulating at stalled replication forks and DNA damage sites. It activates the ATR kinase pathway, promoting HR-mediated repair and ensuring proper replication fork progression. Depletion of ZNF827 leads to impaired HR activity, cell cycle arrest at the G1/S transition, and accumulation of the CDK inhibitor p21, indicating its role in regulating the cell cycle and DNA repair processes (Yang2024ZNF827).
+
+In addition to its role in DNA repair, ZNF827 is implicated in recruiting the NuRD complex to telomeres and genomic sites of replication stress, further highlighting its importance in maintaining genome stability and responding to replication stress (Yang2024ZNF827).
+
+## Clinical Significance
+ZNF827 has been implicated in several cardiovascular conditions due to its role in gene expression regulation. Variants at the ZNF827 locus, particularly rs13128814, are associated with spontaneous coronary artery dissection (SCAD) and coronary artery disease (CAD). Interestingly, the risk allele for SCAD at this locus is a protective allele for CAD, indicating an inverse genetic correlation between these conditions (Liu2024ZNF827pleiotropic). This variant also affects blood pressure and aorta size, suggesting a complex role in cardiovascular health (Liu2024ZNF827pleiotropic).
+
+In cancer, ZNF827 is involved in the ATR-CHK1 DNA damage response pathway. Its depletion leads to impaired DNA repair, cell cycle arrest, and increased sensitivity to chemotherapeutic agents like topotecan, highlighting its potential as a therapeutic target (Yang2024ZNF827). ZNF827 also plays a role in telomere maintenance through the Alternative Lengthening of Telomeres (ALT) pathway, which is crucial for genomic stability and may have implications in cancer, particularly hepatocellular carcinoma (Li2023The).
+
+ZNF827's involvement in these pathways underscores its clinical significance in both cardiovascular and cancer-related contexts.
+
+## Interactions
+ZNF827 is a single-stranded DNA (ssDNA) binding protein that plays a significant role in the ATR-CHK1 DNA damage response pathway. It interacts with ssDNA through its C2H2 zinc finger domains, forming complexes with replication protein A (RPA) at sites of replication stress. This interaction is mediated by ssDNA rather than direct protein-protein contact, as demonstrated by co-immunoprecipitation experiments showing associations with RPA32 and RPA70, which are disrupted by nuclease treatment (Yang2024ZNF827).
+
+ZNF827 also interacts with several key proteins involved in the ATR pathway, including ATR, TOPBP1, ETAA1, and ATRIP. The interaction with TOPBP1 is particularly notable, as it is enhanced in the absence of certain ZNF domains, suggesting allosteric competition between TOPBP1 and ssDNA for ZNF827 binding (Yang2024ZNF827). ZNF827's role in DNA repair is further supported by its involvement in recruiting the NuRD complex to telomeres and genomic sites of replication stress, facilitating homologous recombination-mediated DNA repair (Yang2024ZNF827).
+
+In addition to its interactions with proteins, ZNF827 is implicated in forming a transcription inhibitory complex with circZNF827, hnRNP K, and hnRNP L, which regulates the expression of the NGFR gene (Hollensen2019circZNF827).
+
+
+## References
+
+
+[1. (Li2023The) Qinguo Li, Guoqian Tan, and Fan Wu. The functions and roles of c2h2 zinc finger proteins in hepatocellular carcinoma. Frontiers in Physiology, June 2023. URL: http://dx.doi.org/10.3389/fphys.2023.1129889, doi:10.3389/fphys.2023.1129889. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphys.2023.1129889)
+
+[2. (Baehr2021Identification) Leslie M Baehr, David C Hughes, Sarah A Lynch, Delphi Van Haver, Teresa Mendes Maia, Andrea G Marshall, Lilliana Radoshevich, Francis Impens, David S Waddell, and Sue C Bodine. Identification of the murf1 skeletal muscle ubiquitylome through quantitative proteomics. Function, 2021. URL: http://dx.doi.org/10.1093/function/zqab029, doi:10.1093/function/zqab029. This article has 35 citations.](https://doi.org/10.1093/function/zqab029)
+
+[3. (Yang2024ZNF827) Sile F. Yang, Christopher B. Nelson, Jadon K. Wells, Madushan Fernando, Robert Lu, Joshua A. M. Allen, Lisa Malloy, Noa Lamm, Vincent J. Murphy, Joel P. Mackay, Andrew J. Deans, Anthony J. Cesare, Alexander P. Sobinoff, and Hilda A. Pickett. Znf827 is a single-stranded dna binding protein that regulates the atr-chk1 dna damage response pathway. Nature Communications, March 2024. URL: http://dx.doi.org/10.1038/s41467-024-46578-0, doi:10.1038/s41467-024-46578-0. This article has 3 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-46578-0)
+
+4. (Hollensen2019circZNF827) circZNF827 nucleates a transcription inhibitory complex to balance neuronal differentiation. This article has 0 citations.
+
+5. (Liu2024ZNF827pleiotropic) ZNF827pleiotropic cardiovascular risk locus involves regulation by Nuclear factor-1. This article has 0 citations.

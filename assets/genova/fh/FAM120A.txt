@@ -1,0 +1,39 @@
+# FAM120A
+
+## Overview
+FAM120A is a gene that encodes a member of the protein family with sequence similarity 120 member A, which is involved in various cellular processes, including RNA processing and gene expression regulation. The protein encoded by FAM120A functions as a scaffold protein, facilitating the activation of intracellular signaling pathways such as FAK and PI3K/AKT/mTOR, which are essential for cell migration, invasion, and survival (Bartolomé2015IL13). It is primarily located in the cytoplasm and interacts with several RNA-binding proteins, including Argonaute 2 (Ago2), suggesting a role in miRNA-mediated gene silencing (Kelly2019Sequestration). FAM120A is implicated in various physiological and pathological contexts, including cancer progression and cerebral ischemia, highlighting its significance in cellular stress responses and signal transduction pathways (Li2022Modular; Huo2021A).
+
+## Function
+FAM120A, also known as OSSA/C9ORF10, is a protein that plays a significant role in RNA processing and regulation of gene expression. It functions as a regulator of several intracellular kinases, including Src, FAK, and PI3K, particularly following oxidative stress and IL13 receptor α2 signaling (Kelly2019Sequestration; Bartolomé2015IL13). FAM120A is known to bind RNA, with a strong preference for poly(G) sequences, and is involved in modulating gene expression through its RNA-binding activity (Kelly2019Sequestration). It is primarily located in the cytoplasm and interacts with Argonaute 2 (Ago2), suggesting a role in RNA target co-occupancy and modulation of miRNA-mediated gene silencing (Kelly2019Sequestration).
+
+FAM120A acts as a scaffold protein necessary for the activation of signaling pathways such as FAK and PI3K/AKT/mTOR, which are crucial for cell migration, invasion, and survival (Bartolomé2015IL13). It is also involved in the regulation of translation and protein localization, as indicated by gene ontology analysis (Kelly2019Sequestration). The protein's activity in both the cytoplasm and nucleus suggests its involvement in cellular stress responses and signal transduction pathways.
+
+## Clinical Significance
+FAM120A has been implicated in several diseases and conditions due to its role in transcriptional regulation and cellular signaling. In the context of irritable bowel syndrome (IBS) and related mental conditions, FAM120A is involved in transcriptional regulation through mRNA transport or chromatin structure. This suggests a potential role in the polygenic architecture of IBS, highlighting its involvement in genetic sharing between IBS and mental conditions such as neuroticism, depression, and anxiety (Alemany2023Genomewide).
+
+In cerebral ischemia therapy, FAM120A has been identified as a driver gene within the Neurotrophin signaling pathway. Its expression levels were significantly altered in experimental models, indicating its crucial role in the additive effects of baicalin and jasminoidin on cerebral ischemia (Li2022Modular).
+
+FAM120A has also been associated with cancer. It shows a strong positive correlation with the expression of TWF1, a gene involved in cancer progression, across various tumor types. This correlation suggests that FAM120A may play a role in tumorigenesis, although specific clinical implications of its mutations or expression changes in cancer are not detailed (Huo2021A).
+
+## Interactions
+FAM120A is known to interact with Argonaute 2 (Ago2), a key component of the RNA-induced silencing complex (RISC), in a manner that is RNA-dependent. This interaction suggests that FAM120A and Ago2 co-occupy cellular RNA targets, particularly in the 3'-UTRs of mRNAs. FAM120A binds to G-rich motifs on mRNAs, which overlap with Ago2-bound mRNAs, although the binding sites do not directly overlap, indicating a downstream inhibition mechanism. This interaction appears to attenuate Ago2-mediated target repression, potentially by inhibiting the recruitment of other miRISC components like GW182 proteins (Kelly2019Sequestration).
+
+FAM120A also interacts with multiple RNA-binding proteins, including hnRNP A1, hnRNP A3, hnRNP AB, hnRNP D, IGF2BP1, IGF2BP3, PABPC1, ELAVL1, and YBX1. The interaction with IGF2BP1 is notable as both IGF2BP1 and Ago2 bind overlapping mRNA targets (Kelly2019Sequestration). FAM120A acts as a scaffold protein for intracellular kinases such as Src, FAK, and PI3K, which are involved in cancer progression (Kelly2019Sequestration).
+
+In the context of HIV-1, FAM120A has been observed to co-localize with HIV RNA at various cellular sites, suggesting a role in RNA processing or stability (Knoener2020Identifying).
+
+
+## References
+
+
+[1. (Kelly2019Sequestration) Timothy J. Kelly, Hiroshi I. Suzuki, Jesse R. Zamudio, Megumu Suzuki, and Phillip A. Sharp. Sequestration of microrna-mediated target repression by the ago2-associated rna-binding protein fam120a. RNA, 25(10):1291–1297, July 2019. URL: http://dx.doi.org/10.1261/rna.071621.119, doi:10.1261/rna.071621.119. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.071621.119)
+
+[2. (Alemany2023Genomewide) Silvia Alemany, María Soler-Artigas, Judit Cabana-Domínguez, Dana Fakhreddine, Natalia Llonga, Laura Vilar-Ribó, Amanda Rodríguez-Urrutia, Judit Palacio, Ana María González-Castro, Beatriz Lobo, Carmen Alonso-Cotoner, Magnus Simrén, Javier Santos, Josep Antoni Ramos-Quiroga, and Marta Ribasés. Genome-wide multi-trait analysis of irritable bowel syndrome and related mental conditions identifies 38 new independent variants. Journal of Translational Medicine, April 2023. URL: http://dx.doi.org/10.1186/s12967-023-04107-5, doi:10.1186/s12967-023-04107-5. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-023-04107-5)
+
+[3. (Bartolomé2015IL13) Rubén A. Bartolomé, Irene García-Palmero, Sofía Torres, María López-Lucendo, Irina V. Balyasnikova, and J. Ignacio Casal. Il13 receptor α2 signaling requires a scaffold protein, fam120a, to activate the fak and pi3k pathways in colon cancer metastasis. Cancer Research, 75(12):2434–2444, June 2015. URL: http://dx.doi.org/10.1158/0008-5472.CAN-14-3650, doi:10.1158/0008-5472.can-14-3650. This article has 99 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.CAN-14-3650)
+
+[4. (Li2022Modular) Bing Li, Ying Wang, Hao Gu, Yanan Yu, Pengqian Wang, Jun Liu, Yingying Zhang, Yinying Chen, Qikai Niu, Bo Wang, Qiong Liu, Shuang Guan, Yanda Li, Huamin Zhang, and Zhong Wang. Modular screening reveals driver induced additive mechanisms of baicalin and jasminoidin on cerebral ischemia therapy. Frontiers in Cardiovascular Medicine, February 2022. URL: http://dx.doi.org/10.3389/fcvm.2022.813983, doi:10.3389/fcvm.2022.813983. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcvm.2022.813983)
+
+5. (Knoener2020Identifying) Identifying HIV-1 RNA splice variant protein interactomes using HyPR-MSSV. This article has 0 citations.
+
+[6. (Huo2021A) Gengwei Huo, Yali Wang, Jinliang Chen, Ying Song, Cuicui Zhang, Hua Guo, Ran Zuo, Fuyi Zhu, Jinfang Cui, Weidong Chen, Wenming Chen, and Peng Chen. A pan-cancer analysis of the oncogenic role of twinfilin actin binding protein 1 in human tumors. Frontiers in Oncology, May 2021. URL: http://dx.doi.org/10.3389/fonc.2021.692136, doi:10.3389/fonc.2021.692136. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.692136)

@@ -1,0 +1,46 @@
+# SSH2
+
+## Overview
+SSH2 is a gene that encodes the slingshot protein phosphatase 2, a member of the slingshot family of phosphatases. This protein plays a pivotal role in the regulation of actin cytoskeleton dynamics by dephosphorylating cofilin, an actin-binding protein, thereby facilitating actin filament turnover. The SSH2 protein is characterized by its phosphatase activity, which is modulated through interactions with F-actin and regulated by phosphorylation events. These interactions and modifications are crucial for cellular processes such as migration, morphogenesis, and division. SSH2's activity is particularly significant in the context of cellular responses to external stimuli, such as chemotactic signals, and is implicated in various physiological and pathological processes, including cancer progression (Mizuno2013Signaling; Patterson2009Dualspecificity).
+
+## Structure
+The SSH2 protein, a member of the slingshot family of phosphatases, plays a crucial role in actin cytoskeleton regulation. Its primary structure consists of a sequence of amino acids that form distinct functional domains. The N-terminal domain (residues 1-232) acts as an auto-inhibitory element, reducing the phosphatase activity of SSH2. This domain interacts with the catalytic VYD loop, which is essential for substrate hydrolysis and is structurally similar to the WPD loop found in other tyrosine phosphatases (Yang2018Allosteric).
+
+The secondary structure of SSH2 includes alpha helices and beta sheets, contributing to its overall 3D folding. The tertiary structure involves the phosphatase domain, which is crucial for its enzymatic activity. The C-terminal region (residues 455-490) is essential for recognizing phospho-cofilin, a key substrate (Yang2018Allosteric).
+
+SSH2 undergoes post-translational modifications, such as phosphorylation, which can modulate its activity. The phosphorylation of specific serine residues in the N-terminal region by GSK3β attenuates SSH2's activity, highlighting the regulatory role of these modifications (Yang2018Allosteric). The protein may exist in multiple splice variant isoforms, potentially affecting its function and localization.
+
+## Function
+Slingshot protein phosphatase 2 (SSH2) is a member of the slingshot family of phosphatases, which play a critical role in the regulation of actin dynamics by dephosphorylating and activating cofilin, an actin-binding protein. In healthy human cells, SSH2 is involved in the dephosphorylation of phosphorylated cofilin (P-cofilin), thereby reactivating cofilin to disassemble actin filaments. This process is essential for actin filament dynamics, which are crucial for various cellular activities such as cell migration, morphogenesis, and division (Mizuno2013Signaling; Patterson2009Dualspecificity).
+
+SSH2 is active in the cytoplasm and is known to bind to F-actin, enhancing its cofilin-phosphatase activity. This binding is important for the regulation of actin cytoskeletal remodeling, which is vital for processes like polarized lamellipodium formation and chemotactic responses in cells such as neutrophils (Mizuno2013Signaling). The activity of SSH2 is regulated by phosphorylation, with GSK3-mediated phosphorylation inhibiting its function. This inhibition can be relieved by specific signaling pathways, leading to SSH2 activation and subsequent cofilin dephosphorylation (Mizuno2013Signaling). Through these mechanisms, SSH2 contributes to the dynamic regulation of the actin cytoskeleton, influencing cell shape, motility, and division.
+
+## Clinical Significance
+The SSH2 gene, encoding slingshot protein phosphatase 2, plays a significant role in cancer progression due to its involvement in actin cytoskeleton dynamics. Alterations in SSH2 expression have been linked to various cancers, including colorectal cancer (CRC) and lung adenocarcinoma. In CRC, SSH2 is upregulated in cancer stem cells, contributing to their proliferation and survival. The microRNA miR-194, which is downregulated in CRC stem cells, targets SSH2 to inhibit its expression. Overexpression of miR-194 leads to reduced SSH2 levels, blocking the G1/S cell cycle transition and promoting apoptosis, thereby suppressing the malignant behavior of CRC stem cells (Sun2019<p>miR194).
+
+In lung adenocarcinoma, SSH2 is involved in a novel ALK-SSH2 fusion variant. This fusion was identified in a patient with lung adenocarcinoma, who initially responded to the ALK inhibitor crizotinib. The presence of such fusion variants highlights the potential impact of SSH2 alterations on cancer treatment outcomes (Tao2022Concomitant). These findings suggest that SSH2 could be a promising therapeutic target, with its expression and interactions being crucial in the context of cancer progression and treatment.
+
+## Interactions
+SSH2, a member of the slingshot family of phosphatases, is involved in several protein interactions that regulate actin dynamics. It is known to dephosphorylate cofilin, a critical regulator of actin filament turnover, thereby influencing actin cytoskeleton reorganization. SSH2 interacts with F-actin, and this interaction is crucial for its function in dephosphorylating cofilin (Ohta2003Differential). The N-terminal region of SSH2 is essential for its cofilin-phosphatase activity, while the C-terminal region is significant for F-actin binding (Ohta2003Differential).
+
+SSH2 is also part of a complex involving Rac1 and TRPM7, which regulates F-actin dynamics in the neural system. This complex is crucial for controlling cofilin activity, with TRPM7 phosphorylating SSH2 and cofilin, thereby modulating their activities (Chang2023TRPM7; Chang2022TRPM7). The interaction between SSH2 and TRPM7 is significant for maintaining synaptic density and plasticity by protecting F-actin within neuronal spines (Chang2022TRPM7).
+
+In the context of cancer, SSH2 is targeted by miR-194, which downregulates SSH2 expression, leading to reduced proliferation of colon cancer stem cells (Sun2019&lt; p&gt; miR194). This interaction highlights SSH2's role in cell motility and morphology, as its regulation by miR-194 affects cancer cell behavior.
+
+
+## References
+
+
+[1. (Chang2023TRPM7) Junzhuang Chang, Cui Chen, Wei Li, and Nashat Abumaria. Trpm7 kinase domain is part of the rac1-ssh2-cofilin complex regulating f-actin in the mouse nervous system. Neuroscience Bulletin, 39(6):989–993, March 2023. URL: http://dx.doi.org/10.1007/s12264-023-01045-6, doi:10.1007/s12264-023-01045-6. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12264-023-01045-6)
+
+[2. (Patterson2009Dualspecificity) Kate I. Patterson, Tilman Brummer, Philippa M. O’brien, and Roger J. Daly. Dual-specificity phosphatases: critical regulators with diverse cellular targets. Biochemical Journal, 418(3):475–489, February 2009. URL: http://dx.doi.org/10.1042/bj20082234, doi:10.1042/bj20082234. This article has 576 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20082234)
+
+3. (Chang2022TRPM7) TRPM7 kinase domain is part of Rac1-SSH2-cofilin complex regulating F-actin in neural system. This article has 0 citations.
+
+[4. (Ohta2003Differential) Yusaku Ohta, Kazuyoshi Kousaka, Kyoko Nagata‐Ohashi, Kazumasa Ohashi, Aya Muramoto, Yasuyuki Shima, Ryusuke Niwa, Tadashi Uemura, and Kensaku Mizuno. Differential activities, subcellular distribution and tissue expression patterns of three members of slingshot family phosphatases that dephosphorylate cofilin. Genes to Cells, 8(10):811–824, October 2003. URL: http://dx.doi.org/10.1046/j.1365-2443.2003.00678.x, doi:10.1046/j.1365-2443.2003.00678.x. This article has 101 citations and is from a peer-reviewed journal.](https://doi.org/10.1046/j.1365-2443.2003.00678.x)
+
+[5. (Tao2022Concomitant) Hong Tao, Zhe Liu, Jing Mu, Fei Gai, Zhan Huang, and Liang Shi. Concomitant novel alk-ssh2, eml4-alk and arid2-alk, eml4-alk double-fusion variants and confer sensitivity to crizotinib in two lung adenocarcinoma patients, respectively. Diagnostic Pathology, February 2022. URL: http://dx.doi.org/10.1186/s13000-022-01212-9, doi:10.1186/s13000-022-01212-9. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13000-022-01212-9)
+
+[6. (Yang2018Allosteric) Duxiao Yang, Peng Xiao, Qing Li, Xiaolei Fu, Chang Pan, Di Lu, Shishuai Wen, Wanying Xia, Dongfang He, Hui Li, Hao Fang, Yuemao Shen, Zhigang Xu, Amy Lin, Chuan Wang, Xiao Yu, Jiawei Wu, and Jinpeng Sun. Allosteric modulation of the catalytic vyd loop in slingshot by its n-terminal domain underlies both slingshot auto-inhibition and activation. Journal of Biological Chemistry, 293(42):16226–16241, October 2018. URL: http://dx.doi.org/10.1074/jbc.ra118.004175, doi:10.1074/jbc.ra118.004175. This article has 3 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra118.004175)
+
+[7. (Mizuno2013Signaling) Kensaku Mizuno. Signaling mechanisms and functional roles of cofilin phosphorylation and dephosphorylation. Cellular Signalling, 25(2):457–469, February 2013. URL: http://dx.doi.org/10.1016/j.cellsig.2012.11.001, doi:10.1016/j.cellsig.2012.11.001. This article has 303 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2012.11.001)

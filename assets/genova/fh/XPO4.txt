@@ -1,0 +1,46 @@
+# XPO4
+
+## Overview
+Exportin 4 (XPO4) is a gene that encodes a protein belonging to the importin β superfamily, which is primarily involved in the nuclear-cytoplasmic transport of proteins and RNA. The protein, also known as exportin 4, functions as both a nuclear export and import receptor, facilitating the transport of various molecules across the nuclear envelope. It is characterized by its α-helical structure composed of HEAT repeats, which are crucial for its interaction with RanGTP and its cargo. Exportin 4 plays a significant role in cellular processes by regulating the localization and activity of thyroid hormone receptors, Sox family transcription factors, and components of the TGF-β signaling pathway. Alterations in the XPO4 gene have been implicated in liver-related diseases, including non-alcoholic fatty liver disease and hepatocellular carcinoma, highlighting its clinical significance (Subramanian2015Multiple; Zhang2013Exportin; Aksu2016Structure).
+
+## Structure
+Exportin 4 (XPO4) is a member of the importin β superfamily and is characterized by its α-helical structure composed of HEAT repeats. These repeats are approximately 40 amino acids long and consist of two α-helices packed in an antiparallel orientation, forming a superhelical structure with a toroid-like shape due to three anticlockwise kinks (Aksu2016Structure). XPO4 contains 19 canonical HEAT repeats and three additional α-helices at the C-terminus, which contribute to its elongated superhelical architecture (Aksu2016Structure).
+
+The protein interacts with RanGTP through four distinct sites involving HEAT repeats 1-3, 7-8, 9, and 16-17, primarily through hydrophobic interactions (Aksu2016Structure). XPO4's structure is similar to CRM1, another exportin, but it lacks the most C-terminal helix of CRM1 and contains several insertions between HEAT repeats (Aksu2016Structure). The interaction with its export cargo, eIF5A, occurs at a unique site provided by HEATs 8-16, rather than a hydrophobic cleft, and involves the docking of the hypusine residue into a deep, acidic pocket of XPO4 (Aksu2016Structure). This interaction is crucial for the export of eIF5A and highlights XPO4's role as a chaperone-like molecule preventing undesired interactions within the nucleus (Aksu2016Structure).
+
+## Function
+Exportin 4 (XPO4) is a member of the importin β family and plays a crucial role in the nuclear-cytoplasmic transport of proteins and RNA, maintaining cellular homeostasis and regulating gene expression. In healthy human cells, XPO4 is involved in the nuclear export of thyroid hormone receptors, such as TRα1, influencing their localization and shuttling dynamics. This process is essential for modulating T3-mediated gene expression, which impacts metabolism, growth, and development (Subramanian2015Multiple).
+
+XPO4 also functions as a nuclear import receptor for Sox family transcription factors, including Sox2 and SRY, in mouse embryonic stem cells and neural progenitors. It facilitates the nuclear import of these factors by recognizing specific nuclear localization signals, which is crucial for their role in transcriptional regulation and cellular processes (Gontan2009Exportin).
+
+Additionally, XPO4 is implicated in the exportation and degradation of phosphorylated Smad3 proteins, which are part of the TGF-β signaling pathway. This function is significant in maintaining the balance of signaling pathways that can have tumor-suppressive or oncogenic roles, depending on the context (Zhang2013Exportin).
+
+## Clinical Significance
+Alterations in the XPO4 gene have been associated with several liver-related diseases. Copy number variation (CNV) in XPO4 is linked to the histological severity of non-alcoholic fatty liver disease (NAFLD), particularly non-alcoholic steatohepatitis (NASH). CNV gains in XPO4 are associated with increased severity of NAFLD, especially in cases with significant fibrosis, and are correlated with higher serum levels of ALT and triglycerides (Zain2015Copy). 
+
+In the context of chronic hepatitis B virus (HBV) infection, XPO4 is identified as a potential tumor suppressor gene. Its expression is significantly lower in patients with hepatocellular carcinoma (HCC) compared to those with liver cirrhosis or chronic hepatitis B, and healthy controls. This decreased expression is linked to hypermethylation of the XPO4 promoter, suggesting that DNA methylation suppresses XPO4 transcription during HBV infection progression (Zhang2013Exportin).
+
+In metabolic-associated fatty liver disease (MAFLD)-related fibrosis, XPO4 is hypermethylated, correlating with decreased mRNA expression. This suggests that DNA methylation plays a role in regulating XPO4 transcription, contributing to liver fibrosis (Pan2024Exportin).
+
+## Interactions
+Exportin 4 (XPO4) is involved in several key interactions with other proteins, primarily in the context of nuclear transport. XPO4 forms a trimeric complex with RanGTP and eIF5A, a translation initiation factor, to mediate the nuclear export of eIF5A. This interaction is characterized by high affinity in the presence of RanGTP, which is typical for exportins and their substrates (Lipowsky2000Exportin; Aksu2016Structure). The binding of eIF5A to XPO4 involves specific contacts, including salt bridges and hydrogen bonds, with the hypusine-containing loop of eIF5A playing a crucial role in these interactions (Aksu2016Structure).
+
+XPO4 also acts as a nuclear import receptor for Sox2 and SRY, members of the Sox family of transcription factors. This interaction is specific and is disrupted by RanGTP, indicating an importin-like function of XPO4 (Gontan2009Exportin). The interaction with Sox2 involves conserved residues in the HMG box domain, which are essential for nuclear localization and DNA binding (Gontan2009Exportin). These interactions highlight XPO4's role in both nuclear import and export processes, facilitating the transport of diverse protein cargoes.
+
+
+## References
+
+
+[1. (Subramanian2015Multiple) Kelly S. Subramanian, Rose C. Dziedzic, Hallie N. Nelson, Mary E. Stern, Vincent R. Roggero, Cornelius Bondzi, and Lizabeth A. Allison. Multiple exportins influence thyroid hormone receptor localization. Molecular and Cellular Endocrinology, 411:86–96, August 2015. URL: http://dx.doi.org/10.1016/j.mce.2015.04.014, doi:10.1016/j.mce.2015.04.014. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.mce.2015.04.014)
+
+[2. (Lipowsky2000Exportin) G. Lipowsky. Exportin 4: a mediator of a novel nuclear export pathway in higher eukaryotes. The EMBO Journal, 19(16):4362–4371, August 2000. URL: http://dx.doi.org/10.1093/emboj/19.16.4362, doi:10.1093/emboj/19.16.4362. This article has 157 citations.](https://doi.org/10.1093/emboj/19.16.4362)
+
+[3. (Zhang2013Exportin) F. Zhang, Y.‐C. Fan, N.‐N Mu, J. Zhao, F.‐K. Sun, Z.‐H. Zhao, S. Gao, and K. Wang. Exportin 4 gene expression and <scp>dna</scp> promoter methylation status in chronic hepatitis <scp>b</scp> virus infection. Journal of Viral Hepatitis, 21(4):241–250, July 2013. URL: http://dx.doi.org/10.1111/jvh.12136, doi:10.1111/jvh.12136. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/jvh.12136)
+
+[4. (Gontan2009Exportin) Cristina Gontan, Thomas Güttler, Erik Engelen, Jeroen Demmers, Maarten Fornerod, Frank G. Grosveld, Dick Tibboel, Dirk Görlich, Raymond A. Poot, and Robbert J. Rottier. Exportin 4 mediates a novel nuclear import pathway for sox family transcription factors. Journal of Cell Biology, 185(1):27–34, April 2009. URL: http://dx.doi.org/10.1083/jcb.200810106, doi:10.1083/jcb.200810106. This article has 71 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.200810106)
+
+[5. (Aksu2016Structure) Metin Aksu, Sergei Trakhanov, and Dirk Görlich. Structure of the exportin xpo4 in complex with rangtp and the hypusine-containing translation factor eif5a. Nature Communications, June 2016. URL: http://dx.doi.org/10.1038/ncomms11952, doi:10.1038/ncomms11952. This article has 43 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms11952)
+
+[6. (Pan2024Exportin) Ziyan Pan, Ali Bayoumi, Mayada Metwally, Jacob George, and Mohammed Eslam. Exportin 4 dna promoter methylation in liver fibrosis. PLOS ONE, 19(5):e0302786, May 2024. URL: http://dx.doi.org/10.1371/journal.pone.0302786, doi:10.1371/journal.pone.0302786. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0302786)
+
+[7. (Zain2015Copy) Shamsul Mohd Zain, Zahurin Mohamed, Munir Pirmohamed, Hwa Li Tan, Mohammed Abdullah Alshawsh, Sanjiv Mahadeva, Wah-Kheong Chan, Nik Raihan Nik Mustapha, and Rosmawati Mohamed. Copy number variation in exportin-4 (xpo4) gene and its association with histological severity of non-alcoholic fatty liver disease. Scientific Reports, August 2015. URL: http://dx.doi.org/10.1038/srep13306, doi:10.1038/srep13306. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep13306)

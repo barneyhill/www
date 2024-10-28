@@ -1,0 +1,50 @@
+# OVOL1
+
+## Overview
+OVOL1 is a gene that encodes the ovo like transcriptional repressor 1, a zinc finger transcription factor involved in the regulation of epithelial cell differentiation and proliferation. The OVOL1 protein is characterized by its C2H2-type zinc finger motifs, which facilitate its role as a transcriptional repressor by binding to specific DNA sequences. This protein is crucial in maintaining epithelial integrity by inhibiting epithelial-mesenchymal transition (EMT) and promoting mesenchymal-epithelial transition (MET), thereby influencing processes such as skin barrier formation and cancer metastasis. OVOL1's interactions with other proteins, such as histone deacetylases and SMAD7, further underscore its regulatory functions in various signaling pathways. Clinically, alterations in OVOL1 expression have been linked to several cancers, including clear cell renal cell carcinoma and breast cancer, where it may serve as a prognostic marker and therapeutic target (Fan2022OVOL1; Saxena2020OVOL12:; Nair2006Ovol1).
+
+## Structure
+The OVOL1 protein is characterized by a highly conserved tetrad of C2H2-type zinc finger motifs located at the C-terminal region, which are crucial for its function and conserved across species, including Drosophila and mammals (Kumar2012Molecular). These zinc finger motifs follow a specific pattern, C-x(2)-C-x(3)-[FWsgat]-x(8)-H-x(3,4)-H, with some variations in motif IV, and are common in DNA-binding proteins, suggesting a role in transcriptional regulation (Kumar2012Molecular).
+
+OVOL1 also contains intrinsically disordered (ID) regions, which are fewer in number compared to its homologs OVOL2 and OVOL3. These disordered regions contribute to the protein's functional flexibility and ability to interact with various partners, which is important for protein-protein interaction networks and gene regulation (Kumar2012Molecular). The primary structure of OVOL1 includes these conserved zinc finger motifs and variable extensions, while the secondary structure likely involves the formation of these motifs into a stable configuration for DNA interaction (Kumar2012Molecular).
+
+The genomic organization of OVOL1 shows its localization on chromosome 11 in humans, with conserved flanking genes across several mammals (Kumar2012Molecular). The presence of splice variant isoforms and potential post-translational modifications like phosphorylation may further influence its function. However, specific details on the tertiary and quaternary structures are not provided in the available context.
+
+## Function
+OVOL1 is a zinc finger transcription factor that plays a crucial role in regulating epithelial cell differentiation and proliferation. In healthy human cells, OVOL1 functions as a transcriptional repressor, particularly by modulating the expression of the proto-oncogene c-myc. It binds to a specific DNA sequence, CCGTTA, in the c-myc promoter, which is essential for its high-affinity interaction and subsequent repression of c-myc transcription. This repression is dosage-dependent and requires the presence of OVOL1's DNA-binding zinc finger domain (Nair2006Ovol1).
+
+OVOL1 is involved in maintaining an epithelial state by inhibiting epithelial-mesenchymal transition (EMT) and promoting mesenchymal-epithelial transition (MET) through the induction of E-cadherin expression. It represses EMT-inducing transcription factors like ZEB1 and ZEB2, functioning downstream of the WNT/β-catenin/LEF1 and TGF-β/BMP-7/SMAD4 signaling pathways (Saxena2020OVOL12:).
+
+In the context of skin, OVOL1 is expressed in keratinocytes and is essential for their terminal differentiation. It regulates the expression of skin barrier proteins and is involved in the formation of skin barrier functions, contributing to the integrity and health of the skin (Tsuji2018The).
+
+## Clinical Significance
+Alterations in the expression of the OVOL1 gene have been implicated in various cancers, including clear cell renal cell carcinoma (ccRCC) and breast cancer. In ccRCC, OVOL1 mRNA levels are significantly lower in tumor tissues compared to non-tumor tissues. This downregulation is associated with poorer overall survival, indicating that OVOL1 could serve as an independent prognostic factor and potential biomarker for predicting clinical outcomes in ccRCC patients (Lin2023Comprehensive). 
+
+In breast cancer, OVOL1 plays a crucial role in inhibiting epithelial-mesenchymal transition (EMT), a process that contributes to cancer metastasis. OVOL1 suppresses EMT by enhancing the degradation of the TGF-β type I receptor, thereby inhibiting TGF-β signaling pathways that promote cancer cell invasion and migration. This suggests that OVOL1 could be a therapeutic target in breast cancer treatment (Fan2022OVOL1).
+
+OVOL1 is also involved in the regulation of embryonic epidermal progenitor cells, where it represses c-myc transcription, a key regulator of cell proliferation. The absence of OVOL1 leads to increased expression of c-myc and Id2, which are implicated in tumorigenesis, highlighting its potential role in preventing malignant growth (Nair2006Ovol1).
+
+## Interactions
+OVOL1, a zinc finger transcription factor, participates in several interactions with proteins and nucleic acids that influence its regulatory functions. OVOL1 represses its own transcription by competing with the transcription activator c-Myb for binding to the same DNA sequence, the CCGTTA motif. This competition is confirmed through electrophoretic mobility shift assays (EMSA) and chromatin immunoprecipitation (ChIP) assays, where OVOL1 displaces c-Myb from the Ovol1 promoter, effectively repressing transcription (Nair2007Ovol1).
+
+OVOL1 also interacts with histone deacetylases (HDACs), particularly HDAC1, through its N-terminal SNAG domain. This interaction is crucial for recruiting HDAC1 to the Ovol1 promoter, leading to histone deacetylation and transcriptional repression. Mutations in the SNAG domain result in a loss of this repressive function, highlighting its importance (Nair2007Ovol1).
+
+In the context of breast cancer, OVOL1 interacts with SMAD7, a protein involved in the TGF-β/SMAD signaling pathway. OVOL1 enhances SMAD7 expression and stability, promoting the degradation of the TGF-β type I receptor (TβRI) and inhibiting TGF-β-induced epithelial-mesenchymal transition (EMT). This interaction is significant for maintaining epithelial identity and suppressing cancer cell invasion (Fan2022OVOL1).
+
+
+## References
+
+
+[1. (Fan2022OVOL1) Chuannan Fan, Qian Wang, Gerard van der Zon, Jiang Ren, Cedrick Agaser, Roderick C. Slieker, Prasanna Vasudevan Iyengar, Hailiang Mei, and Peter ten Dijke. Ovol1 inhibits breast cancer cell invasion by enhancing the degradation of tgf-β type i receptor. Signal Transduction and Targeted Therapy, April 2022. URL: http://dx.doi.org/10.1038/s41392-022-00944-w, doi:10.1038/s41392-022-00944-w. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41392-022-00944-w)
+
+[2. (Lin2023Comprehensive) Jinfang Lin, Ming Jiang, Ru Chen, Ping Zheng, and Guoxian Chen. Comprehensive analysis of the expression, prognostic value and biological importance of ovo‑like proteins in clear cell renal cell carcinoma. Oncology Letters, March 2023. URL: http://dx.doi.org/10.3892/ol.2023.13765, doi:10.3892/ol.2023.13765. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2023.13765)
+
+[3. (Tsuji2018The) Gaku Tsuji, Takamichi Ito, Takahito Chiba, Chikage Mitoma, Takeshi Nakahara, Hiroshi Uchi, and Masutaka Furue. The role of the ovol1–ovol2 axis in normal and diseased human skin. Journal of Dermatological Science, 90(3):227–231, June 2018. URL: http://dx.doi.org/10.1016/j.jdermsci.2018.02.005, doi:10.1016/j.jdermsci.2018.02.005. This article has 48 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jdermsci.2018.02.005)
+
+[4. (Nair2006Ovol1) Mahalakshmi Nair, Andy Teng, Virginia Bilanchone, Anshu Agrawal, Baoan Li, and Xing Dai. Ovol1 regulates the growth arrest of embryonic epidermal progenitor cells and represses c-myc transcription. The Journal of Cell Biology, 173(2):253–264, April 2006. URL: http://dx.doi.org/10.1083/jcb.200508196, doi:10.1083/jcb.200508196. This article has 110 citations.](https://doi.org/10.1083/jcb.200508196)
+
+[5. (Nair2007Ovol1) M. Nair, V. Bilanchone, K. Ortt, S. Sinha, and X. Dai. Ovol1 represses its own transcription by competing with transcription activator c-myb and by recruiting histone deacetylase activity. Nucleic Acids Research, 35(5):1687–1697, January 2007. URL: http://dx.doi.org/10.1093/nar/gkl1141, doi:10.1093/nar/gkl1141. This article has 35 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkl1141)
+
+[6. (Kumar2012Molecular) Abhishek Kumar, Anita Bhandari, Rahul Sinha, Puspendu Sardar, Miss. Sushma, Pankaj Goyal, Chandan Goswami, and Alessandro Grapputo. Molecular phylogeny of ovol genes illustrates a conserved c2h2 zinc finger domain coupled by hypervariable unstructured regions. PLoS ONE, 7(6):e39399, June 2012. URL: http://dx.doi.org/10.1371/journal.pone.0039399, doi:10.1371/journal.pone.0039399. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0039399)
+
+[7. (Saxena2020OVOL12:) Kritika Saxena, Syamanthak Srikrishnan, Toni Celia-Terrassa, and Mohit Kumar Jolly. Ovol1/2: drivers of epithelial differentiation in development, disease, and reprogramming. Cells Tissues Organs, 211(2):183–192, September 2020. URL: http://dx.doi.org/10.1159/000511383, doi:10.1159/000511383. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1159/000511383)

@@ -1,0 +1,60 @@
+# USP36
+
+## Overview
+USP36 is a gene that encodes the protein ubiquitin specific peptidase 36, a deubiquitinating enzyme involved in various cellular processes. As a member of the ubiquitin-specific protease (USP) family, USP36 plays a critical role in the regulation of the ubiquitin-proteasomal pathway by removing ubiquitin moieties from specific substrates, thereby preventing their degradation. This enzymatic activity is essential for maintaining cellular homeostasis and regulating processes such as oxidative stress responses, cell proliferation, and ribosome biogenesis (Kim2011Protein; Kim2005Deubiquitinating). USP36 is predominantly localized in the nucleolus, where it stabilizes nucleolar proteins and influences nucleolar organization and ribosome biogenesis (Kim2011Protein). Additionally, USP36 interacts with various proteins, including mitochondrial superoxide dismutase SOD2 and estrogen receptor alpha (ERα), impacting cellular responses to oxidative stress and cancer progression, respectively (Liu2019USP36; Zhuang2024USP36). The gene's dysregulation has been implicated in several cancers, highlighting its potential as a therapeutic target (Zhang2022USP36).
+
+## Structure
+USP36 is a deubiquitinating enzyme characterized by a catalytic domain that adopts the canonical ubiquitin-specific protease (USP) fold. This fold includes thumb, palm, and finger subdomains, which are crucial for substrate recognition. The enzyme interacts with ubiquitin through hydrophobic patches around Ile 44, Ile 36, and Phe 4, and it features a narrow cleft between the palm and thumb that guides the C-terminal tail of substrates into the active site via hydrogen bonds (O’Dea2023Molecular).
+
+USP36 exhibits unique structural features compared to other USPs, such as the absence of secondary structure in blocking loop 1, which allows for specific coordination of Fubi's C-terminal tail. It also contains a second zinc ion in the thumb subdomain, contributing to its distinct substrate recognition capabilities (O’Dea2023Molecular). The enzyme's conformational plasticity, particularly in blocking loop 1, enables it to accommodate different patches in ubiquitin and Fubi, facilitating the guidance of the scissile bond to the active site (O’Dea2023Molecular).
+
+The USP domain of USP36, comprising residues 1-420, is essential for its interaction with other proteins, such as the estrogen receptor alpha (ERα) in breast cancer, where it stabilizes ERα by reducing its ubiquitination (Zhuang2024USP36).
+
+## Function
+USP36 is a deubiquitinating enzyme that plays a significant role in maintaining protein stability and function in human cells. It is involved in the regulation of the ubiquitin-proteasomal pathway, where it removes ubiquitin from specific protein substrates, thereby preventing their degradation. This activity is crucial for maintaining cellular homeostasis and regulating various cellular processes, including oxidative stress responses and cell proliferation (Kim2011Protein; Kim2005Deubiquitinating).
+
+USP36 is primarily localized in the nucleolus, where it influences ribosome biogenesis and nucleolar organization. It stabilizes nucleolar proteins by reducing their ubiquitination levels, thus preventing their degradation. This stabilization is essential for transcriptional regulation and ribosome biogenesis, which are critical for normal cellular proliferation and response to environmental changes (Kim2011Protein).
+
+In addition to its nucleolar functions, USP36 interacts with mitochondrial superoxide dismutase SOD2, reducing its polyubiquitination and stabilizing the protein. This interaction is vital for protecting cells against oxidative damage by maintaining SOD2 protein stability, which is crucial for normal cellular processes and oxidative stress responses (Liu2019USP36; Kim2011Protein).
+
+## Clinical Significance
+Alterations in the expression of the USP36 gene have been implicated in several types of cancer. In esophageal squamous cell carcinoma (ESCC), USP36 is overexpressed and correlates with poor cancer differentiation and increased activity of the Hippo/YAP signaling pathway. This overexpression stabilizes the YAP protein, promoting cancer progression by enhancing cell proliferation, migration, and invasion while inhibiting apoptosis (Zhang2022USP36).
+
+In colorectal cancer (CRC), USP36 is upregulated and associated with poor prognosis. It stabilizes the RNA-binding protein RBM28, which suppresses p53 transcriptional activity, thereby promoting tumor growth and metastasis. This suggests that the USP36/RBM28/p53 axis could be a target for therapeutic strategies in CRC (Xu2024USP36).
+
+USP36 also plays a role in glioblastoma by stabilizing ALKBH5, an m6A demethylase, which is crucial for maintaining glioma stem cell characteristics and promoting tumorigenesis. High USP36 expression is linked to poor survival in glioblastoma patients, indicating its potential as a therapeutic target (Chang2022USP36).
+
+In breast cancer, USP36 contributes to tumorigenesis and tamoxifen resistance by stabilizing estrogen receptor α (ERα), enhancing ER signaling and promoting cancer cell proliferation and invasion (Zhuang2024USP36).
+
+USP36 is also overexpressed in ovarian cancer, suggesting its potential as a biomarker for early detection and a therapeutic target (Li2008Differential).
+
+## Interactions
+USP36 (ubiquitin specific peptidase 36) is a deubiquitinating enzyme that engages in several significant protein interactions, influencing various cellular processes. In glioblastoma, USP36 interacts with the protein ALKBH5, a pivotal m6A demethylase. This interaction occurs primarily in the nuclei of glioblastoma stem cells (GSCs) and is facilitated by the C-terminal domain of USP36. USP36 deubiquitinates ALKBH5, stabilizing it and preventing its degradation, which is crucial for maintaining the stemness of GSCs and promoting glioma tumorigenicity (Chang2022USP36).
+
+In breast cancer, USP36 interacts with the estrogen receptor alpha (ERα), promoting tumorigenesis and tamoxifen resistance. USP36 deubiquitinates and stabilizes ERα, enhancing its signaling activity. This interaction involves the AF1 domain of ERα and the USP domain of USP36, and it is crucial for the proliferation and migration of ERα-positive breast cancer cells (Zhuang2024USP36).
+
+USP36 also interacts with PME-1, a protein involved in the ERK and Akt signaling pathways. By deubiquitinating PME-1, USP36 increases its stability, which in turn enhances oncogenic signaling pathways, promoting cell proliferation and malignant transformation (Kim2018PME‐1).
+
+
+## References
+
+
+[1. (Li2008Differential) Jianduan Li, Lisa M. Olson, Zhengyan Zhang, Lina Li, Miri Bidder, Loan Nguyen, John Pfeifer, and Janet S. Rader. Differential display identifies overexpression of the usp36 gene, encoding a deubiquitinating enzyme, in ovarian cancer. International Journal of Medical Sciences, pages 133–142, 2008. URL: http://dx.doi.org/10.7150/ijms.5.133, doi:10.7150/ijms.5.133. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/ijms.5.133)
+
+[2. (Kim2018PME‐1) Soo‐Yeon Kim, Jihye Choi, Da‐Hye Lee, Jun‐Hyeok Park, Young‐Jae Hwang, and Kwang‐Hyun Baek. <scp>pme</scp>‐1 is regulated by <scp>usp</scp>36 in <scp>erk</scp> and akt signaling pathways. FEBS Letters, 592(9):1575–1588, April 2018. URL: http://dx.doi.org/10.1002/1873-3468.13039, doi:10.1002/1873-3468.13039. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/1873-3468.13039)
+
+[3. (Kim2011Protein) Myung‐Sun Kim, Suresh Ramakrishna, Key‐Hwan Lim, Jun‐Hyun Kim, and Kwang‐Hyun Baek. Protein stability of mitochondrial superoxide dismutase sod2 is regulated by usp36. Journal of Cellular Biochemistry, 112(2):498–508, January 2011. URL: http://dx.doi.org/10.1002/jcb.22940, doi:10.1002/jcb.22940. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcb.22940)
+
+[4. (Kim2005Deubiquitinating) Myung-Sun Kim, Yu-Kyung Kim, Yong-Soo Kim, Minu Seong, Joong-Kook Choi, and Kwang-Hyun Baek. Deubiquitinating enzyme usp36 contains the pest motif and is polyubiquitinated. Biochemical and Biophysical Research Communications, 330(3):797–804, May 2005. URL: http://dx.doi.org/10.1016/j.bbrc.2005.03.051, doi:10.1016/j.bbrc.2005.03.051. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2005.03.051)
+
+[5. (Xu2024USP36) Hengjie Xu, Tuo Wang, Hongxu Nie, Qingyang Sun, Chi Jin, Sheng Yang, Zhihao Chen, Xiaowei Wang, Junwei Tang, Yifei Feng, and Yueming Sun. Usp36 promotes colorectal cancer progression through inhibition of p53 signaling pathway via stabilizing rbm28. Oncogene, September 2024. URL: http://dx.doi.org/10.1038/s41388-024-03178-y, doi:10.1038/s41388-024-03178-y. This article has 0 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-024-03178-y)
+
+[6. (Liu2019USP36) Qing Liu, Wei Sheng, Yuan Ma, Junhui Zhen, Satyajit Roy, Chowdhury Alvira Jafar, Wei Xin, and Qiang Wan. Usp36 protects proximal tubule cells from ischemic injury by stabilizing c-myc and sod2. Biochemical and Biophysical Research Communications, 513(2):502–508, May 2019. URL: http://dx.doi.org/10.1016/j.bbrc.2019.03.043, doi:10.1016/j.bbrc.2019.03.043. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2019.03.043)
+
+[7. (Zhuang2024USP36) Ting Zhuang, Shuqing Zhang, Dongyi Liu, Zhongbo Li, Xin Li, Jiaoyan Li, Penghe Yang, Chenmiao Zhang, Jiayao Cui, Mingxi Fu, Fangyu Shen, Lei Yuan, Zhao Zhang, Peng Su, Jian Zhu, and Huijie Yang. Usp36 promotes tumorigenesis and tamoxifen resistance in breast cancer by deubiquitinating and stabilizing erα. Journal of Experimental &amp; Clinical Cancer Research, August 2024. URL: http://dx.doi.org/10.1186/s13046-024-03160-2, doi:10.1186/s13046-024-03160-2. This article has 0 citations.](https://doi.org/10.1186/s13046-024-03160-2)
+
+[8. (O’Dea2023Molecular) Rachel O’Dea, Nafizul Kazi, Alicia Hoffmann-Benito, Zhou Zhao, Sarah Recknagel, Kim Wendrich, Petra Janning, and Malte Gersch. Molecular basis for ubiquitin/fubi cross-reactivity in usp16 and usp36. Nature Chemical Biology, 19(11):1394–1405, July 2023. URL: http://dx.doi.org/10.1038/s41589-023-01388-1, doi:10.1038/s41589-023-01388-1. This article has 8 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41589-023-01388-1)
+
+[9. (Chang2022USP36) Guoqiang Chang, Gloria S Xie, Li Ma, Linlin Li, and Hope T Richard. Usp36 promotes tumorigenesis and drug sensitivity of glioblastoma by deubiquitinating and stabilizing alkbh5. Neuro-Oncology, 25(5):841–853, October 2022. URL: http://dx.doi.org/10.1093/neuonc/noac238, doi:10.1093/neuonc/noac238. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/neuonc/noac238)
+
+[10. (Zhang2022USP36) Wenhao Zhang, Junwen Luo, Zhaohua Xiao, Yifeng Zang, Xin Li, Yougjia Zhou, Jie Zhou, Zhongxian Tian, Jian Zhu, and Xiaogang Zhao. Usp36 facilitates esophageal squamous carcinoma progression via stabilizing yap. Cell Death &amp; Disease, December 2022. URL: http://dx.doi.org/10.1038/s41419-022-05474-5, doi:10.1038/s41419-022-05474-5. This article has 14 citations.](https://doi.org/10.1038/s41419-022-05474-5)

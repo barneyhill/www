@@ -1,0 +1,54 @@
+# PSME1
+
+## Overview
+PSME1 is a gene that encodes the proteasome activator subunit 1, also known as PA28α, which is a crucial component of the 11S regulator complex involved in protein degradation. The protein encoded by PSME1 is categorized as a proteasome activator and plays a significant role in enhancing the peptidase activity of the 20S proteasome, thereby facilitating the generation of antigenic peptides for presentation by class I molecules of the major histocompatibility complex (MHC) (Knowlton1997Structure; McCusker1999Organization). This function is vital for immune surveillance and response. PA28α forms a heptameric structure that interacts with the proteasome, inducing conformational changes that enhance proteolytic activity (Knowlton1997Structure). The expression of PSME1 is regulated by interferon-gamma (IFN-γ), underscoring its role in immune function and antigen processing (McCusker1999Organization). Additionally, PSME1 has clinical significance in various cancers, where its expression levels can influence prognosis and treatment outcomes (Lou2016High; Tripathi2021The).
+
+## Structure
+The PSME1 gene encodes the proteasome activator subunit 1, also known as PA28α, which is part of the 11S regulator complex. The protein forms a heptameric barrel-shaped assembly with a central channel, facilitating substrate entry and product exit when bound to the proteasome (Knowlton1997Structure). The heptamer is stabilized by interactions between monomers, involving both polar and hydrophobic associations. The central pore is lined with polar residues, including charged side chains, which may play a role in substrate processing (Knowlton1997Structure).
+
+The primary structure of PA28α includes a 'KEKE' motif, which is thought to mediate protein-protein interactions, although its deletion does not impact peptidase activity (Knowlton1997Structure). This motif is encoded by exons 4 and 5 of the PSME1 gene (McCusker1999Organization). The secondary structure is predominantly helical, with four long α-helices forming the monomer (Knowlton1997Structure).
+
+PA28α can form multimeric complexes even in the absence of β subunits, although both subunits are necessary for maximal activation of the proteasome (Song1996A). The protein is regulated by γ-interferon, which increases its mRNA levels in cultured cells (Joon1995Primary).
+
+## Function
+PSME1 encodes the proteasome activator subunit 1, also known as REGα or PA28α, which is a component of the 11S regulator complex. This protein plays a crucial role in enhancing the peptidase activity of the 20S proteasome, a core component of the proteasome system responsible for protein degradation. PSME1 is involved in the generation of antigenic peptides for presentation by class I molecules of the major histocompatibility complex (MHC), which is essential for immune surveillance and response (Knowlton1997Structure; McCusker1999Organization).
+
+REGα forms a heptameric structure that binds to the proteasome, inducing conformational changes that facilitate substrate entry into the proteasome's active sites. This interaction can enhance proteasome activity up to 200-fold against certain peptides, suggesting a selective enhancement of proteolytic activity (Knowlton1997Structure). The protein is also involved in the degradation of oxidized proteins, which is crucial for maintaining protein homeostasis and preventing apoptosis during cellular differentiation processes, such as myogenic differentiation (Cui2014Identification).
+
+PSME1 is expressed in immune tissues and is upregulated in response to interferon-gamma (IFN-γ), highlighting its role in immune function and antigen processing (McCusker1999Organization).
+
+## Clinical Significance
+The PSME1 gene, encoding the PA28α subunit of the proteasome activator complex, plays a significant role in various cancers. In ovarian cancer, the presence of the C-terminal fragment of PA28 correlates with poorer overall survival, serving as a biomarker for tumor relapses and treatment monitoring (Tripathi2021The). In multiple myeloma, elevated plasma levels of PA28α are linked to a reduced response to the proteasome inhibitor bortezomib, indicating poor treatment outcomes (Tripathi2021The). High expression of PSME1 in oral squamous cell carcinoma and soft tissue leiomyosarcoma is associated with poor prognosis, while in melanoma, elevated levels are linked to better overall survival (Lou2016High; Tripathi2021The).
+
+In leiomyosarcomas, high nuclear expression of PSME1 is an independent prognostic factor for reduced overall survival and metastasis-free survival (Lou2016High). Mutations in PSME1, such as N146Y, can inhibit proteasome activation, affecting cancer progression and treatment outcomes (Li2021Integrated). PSME1 expression is also associated with drug sensitivity to chelerythrine and hydroxyurea, suggesting its potential as a therapeutic target (Li2021Integrated). These findings underscore the clinical significance of PSME1 in cancer prognosis and treatment.
+
+## Interactions
+PSME1, also known as proteasome activator subunit 1, is a component of the 11S regulator complex that interacts with the 20S proteasome core to form the immunoproteasome. This interaction enhances the hydrolysis of peptides, facilitating antigen processing for presentation by class I MHC molecules (McCusker1999Organization). PSME1 is involved in protein-protein interactions through its KEKE motif, although the exact function of this motif is not fully established (McCusker1999Organization). 
+
+In the context of cancer, PSME1 is frequently overexpressed and co-expressed with other proteasome genes, such as PSMB8-10 and PSME2, across various cancer types, indicating a coordinated expression pattern necessary for proteasome function (Larsson2022Pancancer). This suggests that PSME1 may participate in interactions that are crucial for maintaining proteostasis in cancer cells. 
+
+In the context of sickle cell disease, PSME1 is part of a cluster dominated by proteasome proteins, indicating its involvement in protein degradation pathways and potential interactions with other proteasome components (Ammann2009Cluster). However, specific details on transient or inhibitory interactions involving PSME1 are not provided in the available context.
+
+
+## References
+
+
+[1. (Tripathi2021The) Satyendra Chandra Tripathi, Disha Vedpathak, and Edwin Justin Ostrin. The functional and mechanistic roles of immunoproteasome subunits in cancer. Cells, 10(12):3587, December 2021. URL: http://dx.doi.org/10.3390/cells10123587, doi:10.3390/cells10123587. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells10123587)
+
+[2. (Knowlton1997Structure) J. Randolph Knowlton, Steven C. Johnston, Frank G. Whitby, Claudio Realini, Zhiguo Zhang, Martin Rechsteiner, and Christopher P. Hill. Structure of the proteasome activator regα (pa28α). Nature, 390(6660):639–643, December 1997. URL: http://dx.doi.org/10.1038/37670, doi:10.1038/37670. This article has 156 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/37670)
+
+[3. (Lou2016High) Sha Lou, Arjen H. G. Cleven, Benjamin Balluff, Marieke de Graaff, Marie Kostine, Inge Briaire-de Bruijn, Liam A. McDonnell, and Judith V. M. G. Bovée. High nuclear expression of proteasome activator complex subunit 1 predicts poor survival in soft tissue leiomyosarcomas. Clinical Sarcoma Research, October 2016. URL: http://dx.doi.org/10.1186/s13569-016-0057-z, doi:10.1186/s13569-016-0057-z. This article has 4 citations.](https://doi.org/10.1186/s13569-016-0057-z)
+
+[4. (McCusker1999Organization) Derek McCusker, Michael Wilson, and J. Trowsdale. Organization of the genes encoding the human proteasome activators pa28α and β. Immunogenetics, 49(5):438–445, April 1999. URL: http://dx.doi.org/10.1007/s002510050517, doi:10.1007/s002510050517. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s002510050517)
+
+[5. (Joon1995Primary) Joon Young Ahn, Nobuyuki Tanahashi, Kin-ya Akiyama, Hiroshi Hisamatsu, Chiseko Noda, Keiji Tanaka, Chin Ha Chung, Naoki Shibmara, Patricia J. Willy, Joni D. Mott, Clive A. Slaughter, and George N. DeMartino. Primary structures of two homologous subunits of pa28, a γ‐interferon‐inducible protein activator of the 20s proteasome. FEBS Letters, 366(1):37–42, June 1995. URL: http://dx.doi.org/10.1016/0014-5793(95)00492-r, doi:10.1016/0014-5793(95)00492-r. This article has 146 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/0014-5793(95)00492-r)
+
+[6. (Ammann2009Cluster) Larry P. Ammann and Steven R. Goodman. Cluster analysis for the impact of sickle cell disease on the human erythrocyte protein interactome. Experimental Biology and Medicine, 234(6):703–711, June 2009. URL: http://dx.doi.org/10.3181/0806-RM-211, doi:10.3181/0806-rm-211. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3181/0806-RM-211)
+
+[7. (Song1996A) Xiaoling Song, Joni D. Mott, Jan von Kampen, Bikash Pramanik, Keiji Tanaka, Clive A. Slaughter, and George N. DeMartino. A model for the quaternary structure of the proteasome activator pa28. Journal of Biological Chemistry, 271(42):26410–26417, October 1996. URL: http://dx.doi.org/10.1074/jbc.271.42.26410, doi:10.1074/jbc.271.42.26410. This article has 53 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.271.42.26410)
+
+[8. (Li2021Integrated) Na Li and Xianquan Zhan. Integrated genomic analysis of proteasome alterations across 11,057 patients with 33 cancer types: clinically relevant outcomes in framework of 3p medicine. EPMA Journal, 12(4):605–627, September 2021. URL: http://dx.doi.org/10.1007/s13167-021-00256-z, doi:10.1007/s13167-021-00256-z. This article has 7 citations.](https://doi.org/10.1007/s13167-021-00256-z)
+
+[9. (Cui2014Identification) Ziyou Cui, Soyun Michelle Hwang, and Aldrin V. Gomes. Identification of the immunoproteasome as a novel regulator of skeletal muscle differentiation. Molecular and Cellular Biology, 34(1):96–109, January 2014. URL: http://dx.doi.org/10.1128/MCB.00622-13, doi:10.1128/mcb.00622-13. This article has 77 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.00622-13)
+
+[10. (Larsson2022Pancancer) Peter Larsson, Daniella Pettersson, Hanna Engqvist, Elisabeth Werner Rönnerman, Eva Forssell-Aronsson, Anikó Kovács, Per Karlsson, Khalil Helou, and Toshima Z. Parris. Pan-cancer analysis of genomic and transcriptomic data reveals the prognostic relevance of human proteasome genes in different cancer types. BMC Cancer, September 2022. URL: http://dx.doi.org/10.1186/s12885-022-10079-4, doi:10.1186/s12885-022-10079-4. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-022-10079-4)

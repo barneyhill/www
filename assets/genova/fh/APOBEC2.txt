@@ -1,0 +1,46 @@
+# APOBEC2
+
+## Overview
+APOBEC2 is a gene that encodes the protein apolipoprotein B mRNA editing enzyme catalytic subunit 2, a member of the APOBEC family of proteins. Unlike other members of this family, APOBEC2 has not been shown to possess cytidine deaminase activity, which is typically associated with nucleotide editing functions (Chen2021Insights). The protein is predominantly expressed in cardiac and skeletal muscle tissues, suggesting a potential role in muscle development and differentiation, although its precise biological function remains unclear (Mikl2005Mice). Structurally, APOBEC2 is characterized by a zinc-dependent deaminase domain, yet it predominantly exists as a monomer in solution, with structural studies indicating a flexible oligomeric state (Krzysiak2012APOBEC2). Despite its lack of demonstrated catalytic activity, APOBEC2 is evolutionarily conserved across vertebrates, implying a significant, albeit not fully understood, role in muscle biology and possibly other cellular processes (Mikl2005Mice).
+
+## Structure
+APOBEC2 is a member of the APOBEC family of proteins, which are known for their cytidine deaminase activity. However, APOBEC2 itself has not demonstrated catalytic activity, possibly due to a lack of deaminase activity or missing cofactors (Chen2021Insights). The protein is highly conserved among vertebrates, with human and murine forms sharing 90% sequence identity (Krzysiak2012APOBEC2).
+
+Structurally, APOBEC2 is characterized by a zinc-dependent deaminase domain, which includes a conserved motif that coordinates a zinc atom. The protein's secondary structure comprises alpha-helices and beta-sheets, typical of the APOBEC family (Chen2021Insights). The N-terminal tail of APOBEC2 is highly flexible and negatively charged, which influences its oligomerization state by making dimerization unfavorable due to electrostatic repulsion (Krzysiak2012APOBEC2).
+
+In solution, APOBEC2 predominantly exists as a monomer, as confirmed by NMR and light scattering experiments (Krzysiak2012APOBEC2). The crystal structure, however, suggests a tetrameric form, with a V-shaped arrangement involving interactions between β2 strands (Krzysiak2012APOBEC2). The discrepancy between the solution and crystal structures highlights the protein's structural flexibility and the influence of experimental conditions on its oligomeric state.
+
+## Function
+APOBEC2 is a member of the APOBEC family of cytidine deaminases, which are enzymes known for their role in nucleotide editing. Despite its classification within this family, the specific function of APOBEC2 in healthy human cells remains largely undefined. It is primarily expressed in cardiac and skeletal muscle tissues, suggesting a role in muscle development and differentiation (Mikl2005Mice; Bransteitter2009The). However, unlike other APOBEC family members, APOBEC2 has not been shown to possess deaminase activity on DNA or RNA, and its exact molecular targets and mechanisms are not well understood (Mikl2005Mice).
+
+Studies in mice have indicated that APOBEC2 is not essential for development, survival, or fertility, as mice deficient in this gene do not exhibit major health issues or abnormalities in heart and skeletal muscle (Mikl2005Mice). This suggests that APOBEC2 may have a redundant or non-critical role in these tissues. Despite this, its evolutionary conservation across vertebrates implies some level of functional importance, potentially in maintaining normal muscle function and structure (Mikl2005Mice). Further research is needed to elucidate its precise role in muscle biology and its potential involvement in other cellular processes.
+
+## Clinical Significance
+APOBEC2 has been implicated in the development of liver cancer, particularly in the context of Hepatitis B virus (HBV) infection. HBV infection leads to the overexpression of APOBEC2 in liver cells, which is associated with mutations in tumor suppressor genes and the progression of liver cancer (Li2019HBV). The expression of APOBEC2 is inversely related to that of microRNA miR-122, a liver-specific miRNA. HBV suppresses miR-122, resulting in increased APOBEC2 expression, which promotes liver cancer cell proliferation and survival (Li2019HBV). 
+
+The study also highlights that overexpression of APOBEC2 in transgenic mice contributes to liver tumorigenesis, suggesting a role in HBV-induced liver cancer (Li2019HBV). Additionally, APOBEC2 expression is linked to chronic inflammation in the liver, as HBV infection increases the expression of inflammatory markers such as IL-6, IKKε, and TNF-α, which may further contribute to liver cancer development (Li2019HBV). These findings suggest that alterations in APOBEC2 expression, potentially influenced by HBV infection and its interaction with miR-122, are significant in liver cancer pathogenesis.
+
+## Interactions
+APOBEC2 interacts with various proteins and nucleic acids, playing a significant role in transcriptional repression during myoblast differentiation. It binds directly to both single-stranded and double-stranded DNA at promoter regions, specifically recognizing the SP/KLF motif, but not the A-tract motif (Lorenzo2020APOBEC2). Although APOBEC2 does not directly interact with the transcription factor SP1, it enhances SP1's binding to DNA, suggesting that it may alter DNA conformation to facilitate transcription factor binding (Lorenzo2020APOBEC2).
+
+APOBEC2 also interacts with corepressor complexes in vivo, as demonstrated by proximity-dependent protein biotinylation (BioID) and co-immunoprecipitation (co-IP) experiments. It associates with histone deacetylase 1 (HDAC1) and Chromodomain-helicase-DNA-binding protein 4 (CHD4), which are components of the nucleosome remodeling and histone deacetylation (NuRD) transcriptional corepressor complex. This interaction suggests a role for APOBEC2 in gene regulation through epigenetic nucleosome modification (Lorenzo2020APOBEC2).
+
+In zebrafish, related proteins Apo2a and Apo2b interact with the chaperone protein Unc45b, which is crucial for muscle integrity. These interactions are specific and do not involve other chaperones like Hsp90a (Etard2010Lack).
+
+
+## References
+
+
+[1. (Krzysiak2012APOBEC2) Troy C. Krzysiak, Jinwon Jung, James Thompson, David Baker, and Angela M. Gronenborn. Apobec2 is a monomer in solution: implications for apobec3g models. Biochemistry, 51(9):2008–2017, February 2012. URL: http://dx.doi.org/10.1021/bi300021s, doi:10.1021/bi300021s. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/bi300021s)
+
+[2. (Li2019HBV) Aimei Li, Jing Wu, Aixia Zhai, Jun Qian, Xinyang Wang, Majjid Qaria, Qingmeng Zhang, Yujun Li, Yong Fang, Wenping Kao, Wuqi Song, Zhiyi Zhang, and Fengmin Zhang. Hbv triggers apobec2 expression through mir‑122 regulation and affects the proliferation of liver cancer cells. International Journal of Oncology, September 2019. URL: http://dx.doi.org/10.3892/ijo.2019.4870, doi:10.3892/ijo.2019.4870. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2019.4870)
+
+[3. (Mikl2005Mice) Marie C. Mikl, Ian N. Watt, Mason Lu, Wolf Reik, Sarah L. Davies, Michael S. Neuberger, and Cristina Rada. Mice deficient in apobec2 and apobec3. Molecular and Cellular Biology, 25(16):7270–7277, August 2005. URL: http://dx.doi.org/10.1128/MCB.25.16.7270-7277.2005, doi:10.1128/mcb.25.16.7270-7277.2005. This article has 158 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.25.16.7270-7277.2005)
+
+[4. (Etard2010Lack) Christelle Etard, Urmas Roostalu, and Uwe Strähle. Lack of apobec2-related proteins causes a dystrophic muscle phenotype in zebrafish embryos. Journal of Cell Biology, 189(3):527–539, May 2010. URL: http://dx.doi.org/10.1083/jcb.200912125, doi:10.1083/jcb.200912125. This article has 50 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.200912125)
+
+5. (Lorenzo2020APOBEC2) APOBEC2 is a Transcriptional Repressor required for proper Myoblast Differentiation. This article has 3 citations.
+
+[6. (Chen2021Insights) Xiaojiang S. Chen. Insights into the structures and multimeric status of apobec proteins involved in viral restriction and other cellular functions. Viruses, 13(3):497, March 2021. URL: http://dx.doi.org/10.3390/v13030497, doi:10.3390/v13030497. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/v13030497)
+
+[7. (Bransteitter2009The) Ronda Bransteitter, Courtney Prochnow, and Xiaojiang S. Chen. The current structural and functional understanding of apobec deaminases. Cellular and Molecular Life Sciences, 66(19):3137–3147, June 2009. URL: http://dx.doi.org/10.1007/s00018-009-0070-y, doi:10.1007/s00018-009-0070-y. This article has 52 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-009-0070-y)

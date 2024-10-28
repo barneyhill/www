@@ -1,0 +1,43 @@
+# ETF1
+
+## Overview
+The ETF1 gene encodes the eukaryotic translation termination factor 1 (eRF1), a pivotal protein involved in the termination phase of protein synthesis in eukaryotic cells. As a translation termination factor, eRF1 is responsible for recognizing stop codons on mRNA and facilitating the release of the nascent polypeptide chain from the ribosome, thereby ensuring the fidelity of protein synthesis (Janzen2004The; BaradaranHeravi2021Effect). The protein is categorized as a translation factor and consists of three functional domains: the N-terminal domain for stop codon recognition, the middle domain for peptidyl-tRNA hydrolysis, and the C-terminal domain for interaction with eRF3, a GTPase that enhances eRF1's activity (Shuvalov2024Human). eRF1's interactions with other proteins, such as eRF3 and ABCE1, are crucial for its function in translation termination and nonsense-mediated mRNA decay, a process that prevents the synthesis of truncated proteins by degrading mRNAs with premature stop codons (Blanchet2015New; BaradaranHeravi2021Effect).
+
+## Structure
+The ETF1 gene encodes the eukaryotic translation termination factor 1, which plays a crucial role in recognizing stop codons during translation termination. The protein consists of three functional domains: the N-terminal domain (N), which is responsible for stop codon recognition; the middle domain (M), which facilitates the hydrolysis of peptidyl-tRNA; and the C-terminal domain (C), which binds to eRF3 (Shuvalov2024Human). 
+
+The N-terminal domain is particularly important for its role in stop codon recognition, involving specific motifs such as the YxCxxxF motif, which helps maintain the correct conformation necessary for this function (Blanchet2015New). Mutations in this domain, such as S33A and S70A, have been shown to affect stop codon recognition by altering local conformations and hydrogen bonding capabilities (Blanchet2015New). 
+
+The protein's structure is influenced by interactions with other factors like eRF3 and ABCE1, which are essential for its function in translation termination (Blanchet2015New). While specific details on the quaternary structure are not provided, these interactions suggest a complex interplay with other proteins to facilitate its role in translation.
+
+## Function
+ETF1, encoding eukaryotic translation termination factor 1 (eRF1), plays a critical role in the termination phase of protein synthesis in human cells. eRF1 is responsible for recognizing stop codons (UAA, UAG, UGA) on mRNA and facilitating the hydrolysis of peptidyl-tRNA, which releases the nascent polypeptide chain from the ribosome, ensuring accurate translation termination (Janzen2004The; BaradaranHeravi2021Effect). This process is crucial for maintaining the fidelity of protein synthesis and preventing readthrough, which can lead to the production of aberrant proteins (Janzen2004The).
+
+eRF1 consists of three functional domains: the N domain for stop codon recognition, the M domain for peptidyl-tRNA hydrolysis, and the C domain for interaction with eRF3, a GTPase that stimulates eRF1 activity (Shuvalov2024Human). The interaction between eRF1 and eRF3 is essential for efficient translation termination, although eRF3's role can vary between different cell types (Chauvin2005Involvement; Janzen2004The).
+
+eRF1 is also involved in nonsense-mediated mRNA decay (NMD), a mechanism that degrades mRNAs containing premature termination codons, thus preventing the synthesis of truncated proteins (BaradaranHeravi2021Effect). The regulation of eRF1 synthesis is influenced by its 5'-UTR, which affects translation efficiency and stop codon readthrough (Shuvalov2024Human).
+
+## Interactions
+The human gene ETF1 encodes the eukaryotic release factor 1 (eRF1), which plays a crucial role in the termination of translation by recognizing stop codons and facilitating the release of the nascent polypeptide chain. eRF1 interacts with eRF3, forming a complex essential for translation termination. The C-domain of eRF1 interacts with domain 3 of eRF3 through hydrophobic interactions involving specific residues such as Phe288, Ile291, Tyr298, Phe300, and Phe405 on eRF1, and Ile572 and Phe612 on eRF3 (Cheng2009Structural). This interaction is crucial for stimulating the GTPase activity of eRF3, which is necessary for the release of eRF3 and the accommodation of eRF1's GGQ loop in the peptidyl transfer center of the ribosome (des2013Structure).
+
+eRF1 also interacts with ribosomal RNA and proteins, such as the P-site loop of rpL11 on the 60S subunit and h30 and rpS18 of the 40S subunit, which are important for tRNA binding and stabilization (des2013Structure). The N domain of eRF1 mimics the anticodon arm of tRNA, with the KSR tripeptide playing a crucial role in recognizing the first position of stop codons (Chavatte2002The). These interactions highlight the multifaceted role of eRF1 in translation termination.
+
+
+## References
+
+
+[1. (des2013Structure) Amédée des Georges, Yaser Hashem, Anett Unbehaun, Robert A. Grassucci, Derek Taylor, Christopher U. T. Hellen, Tatyana V. Pestova, and Joachim Frank. Structure of the mammalian ribosomal pre-termination complex associated with erf1•erf3•gdpnp. Nucleic Acids Research, 42(5):3409–3418, December 2013. URL: http://dx.doi.org/10.1093/nar/gkt1279, doi:10.1093/nar/gkt1279. This article has 65 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkt1279)
+
+[2. (Cheng2009Structural) Zhihong Cheng, Kazuki Saito, Andrey V. Pisarev, Miki Wada, Vera P. Pisareva, Tatyana V. Pestova, Michal Gajda, Adam Round, Chunguang Kong, Mengkiat Lim, Yoshikazu Nakamura, Dmitri I. Svergun, Koichi Ito, and Haiwei Song. Structural insights into erf3 and stop codon recognition by erf1. Genes &amp; Development, 23(9):1106–1118, May 2009. URL: http://dx.doi.org/10.1101/gad.1770109, doi:10.1101/gad.1770109. This article has 128 citations.](https://doi.org/10.1101/gad.1770109)
+
+[3. (BaradaranHeravi2021Effect) Alireza Baradaran-Heravi, Aruna D Balgi, Sara Hosseini-Farahabadi, Kunho Choi, Cristina Has, and Michel Roberge. Effect of small molecule erf3 degraders on premature termination codon readthrough. Nucleic Acids Research, 49(7):3692–3708, March 2021. URL: http://dx.doi.org/10.1093/nar/gkab194, doi:10.1093/nar/gkab194. This article has 49 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkab194)
+
+[4. (Janzen2004The) D. M. Janzen. The effect of eukaryotic release factor depletion on translation termination in human cell lines. Nucleic Acids Research, 32(15):4491–4502, August 2004. URL: http://dx.doi.org/10.1093/nar/gkh791, doi:10.1093/nar/gkh791. This article has 45 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkh791)
+
+[5. (Blanchet2015New) Sandra Blanchet, Michelle Rowe, Tobias Von der Haar, Céline Fabret, Stéphane Demais, Mark J. Howard, and Olivier Namy. New insights into stop codon recognition by erf1. Nucleic Acids Research, 43(6):3298–3308, March 2015. URL: http://dx.doi.org/10.1093/nar/gkv154, doi:10.1093/nar/gkv154. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkv154)
+
+[6. (Chavatte2002The) Laurent Chavatte, Alim Seit-Nebi, Vera Dubovaya, and Alain Favre. The invariant uridine of stop codons contacts the conserved niksr loop of human erf1 in the ribosome. The EMBO Journal, 21(19):5302–5311, October 2002. URL: http://dx.doi.org/10.1093/emboj/cdf484, doi:10.1093/emboj/cdf484. This article has 89 citations.](https://doi.org/10.1093/emboj/cdf484)
+
+[7. (Chauvin2005Involvement) Céline Chauvin, Samia Salhi, Catherine Le Goff, Wildriss Viranaicken, Dialo Diop, and Olivier Jean-Jean. Involvement of human release factors erf3a and erf3b in translation termination and regulation of the termination complex formation. Molecular and Cellular Biology, 25(14):5801–5811, July 2005. URL: http://dx.doi.org/10.1128/MCB.25.14.5801-5811.2005, doi:10.1128/mcb.25.14.5801-5811.2005. This article has 109 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.25.14.5801-5811.2005)
+
+[8. (Shuvalov2024Human) A. V. Shuvalov, A. A. Klishin, N. S. Biziaev, E. Y. Shuvalova, and E. Z. Alkalaeva. Human erf1 translation regulation. Molecular Biology, 58(4):708–717, August 2024. URL: http://dx.doi.org/10.1134/S0026893324700298, doi:10.1134/s0026893324700298. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1134/S0026893324700298)

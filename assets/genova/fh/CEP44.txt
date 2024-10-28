@@ -1,0 +1,35 @@
+# CEP44
+
+## Overview
+CEP44 is a gene that encodes the centrosomal protein 44, a crucial component involved in the regulation of centriole and centrosome functions. The protein is characterized by a Calponin Homology (CH) domain, which is essential for its interaction with microtubules and centriole-associated proteins, such as POC1B. This interaction is vital for centriole stability and the conversion of centrioles to centrosomes, a process necessary for proper cell cycle progression (van2022Structural; Atorino2020CEP44). CEP44 plays a significant role in maintaining spindle integrity during mitosis through its phosphorylation by Aurora A kinase, which ensures accurate chromosome segregation (Zhang2023CEP44). The protein is also involved in centrosome cohesion by stabilizing rootletin, a component of the centrosome linker, highlighting its importance in cellular division and structural integrity (Hossain2020Cep44). The expression and function of CEP44 are modulated during the cell cycle, with implications in cancer biology due to its altered expression in certain cancer cells (Zhang2023CEP44).
+
+## Structure
+CEP44 is a centrosomal protein that plays a critical role in centriole and centrosome function. The full-length human CEP44 protein consists of 390 amino acids and includes a coiled-coil domain between amino acids 235-268 and a low complexity region between amino acids 335-345 (Hossain2020Cep44). The N-terminal region of CEP44 contains a Calponin Homology (CH) domain, which has been structurally characterized using X-ray crystallography. This domain exhibits a typical CH fold, consisting of a central four-helical bundle with three short helices (van2022Structural). The CH domain features a highly conserved basic patch crucial for microtubule and centriole association, and mutations in this patch disrupt these associations (van2022Structural).
+
+CEP44 binds to the A-microtubules of centrioles and interacts with the inner centriole protein POC1B, indicating its role in centriole stability and maturation (van2022Structural; Atorino2020CEP44). The protein localizes to the proximal end of centrioles and is involved in maintaining centrosome cohesion by stabilizing rootletin (Hossain2020Cep44). The interaction with POC1B is essential for centriole-to-centrosome conversion, requiring nearly the full-length CEP44 protein (Atorino2020CEP44).
+
+## Function
+CEP44 is a centrosomal protein that plays a critical role in maintaining centriole duplication and spindle integrity in healthy human cells. It ensures that centriole duplication occurs only once per cell cycle by maintaining centriole engagement during interphase, in conjunction with CEP57 and CEP57L1. This engagement is essential to prevent premature centriole disengagement, which can lead to centriole overduplication and multipolar spindle formation (Zhang2023CEP44).
+
+During mitosis, CEP44 is phosphorylated by Aurora A kinase, which facilitates its localization to the spindle and helps maintain spindle integrity. This phosphorylation is crucial for its proper localization between the spindle pole and spindle, ensuring normal spindle formation and chromosome segregation (Zhang2023CEP44). CEP44 is also involved in centrosome cohesion by stabilizing rootletin and may be part of the SML, although it does not interact with the SAS6-STIL complex or cohesin (Zhang2023CEP44).
+
+CEP44 is highly expressed in the G2/M phase of the cell cycle and is nearly absent in certain breast cancer cells, indicating its protein level is modulated during different cell cycle stages and in specific cell types (Zhang2023CEP44). Its proper function is critical for normal cell cycle progression and may have implications in cancer biology (Zhang2023CEP44).
+
+## Interactions
+CEP44 is involved in several protein interactions crucial for its role in centrosome and centriole function. It interacts with POC1B, a protein essential for centriole-to-centrosome conversion (CCC). This interaction is stronger than with POC1A and is necessary for the recruitment of pericentriolar material (PCM) proteins like γ-tubulin and CEP192 to centrioles (Atorino2020CEP44). CEP44's N-terminal half, which contains a Calponin Homology (CH) domain, is responsible for binding to microtubules and POC1B, highlighting its role in centriole structure and function (van2022Structural; Atorino2020CEP44).
+
+CEP44 also plays a role in centrosome cohesion by stabilizing rootletin, a component of the centrosome linker. It specifically associates with rootletin, regulating its stability and localization to the centrosome. This interaction is crucial for maintaining centrosome cohesion, as depletion of CEP44 leads to a significant loss of centrosomal rootletin (Hossain2020Cep44).
+
+CEP44 does not interact with other centrosome proteins like C-Nap1, LRRC45, or Cep215, indicating a specific role in stabilizing rootletin rather than affecting the stability of these proteins (Hossain2020Cep44).
+
+
+## References
+
+
+[1. (van2022Structural) Mark van Breugel, Ivan Rosa e Silva, and Antonina Andreeva. Structural validation and assessment of alphafold2 predictions for centrosomal and centriolar proteins and their complexes. Communications Biology, April 2022. URL: http://dx.doi.org/10.1038/s42003-022-03269-0, doi:10.1038/s42003-022-03269-0. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-022-03269-0)
+
+[2. (Hossain2020Cep44) Delowar Hossain, Sunny Y.-P. Shih, Xintong Xiao, Julia White, and William Y. Tsang. Cep44 functions in centrosome cohesion by stabilizing rootletin. Journal of Cell Science, February 2020. URL: http://dx.doi.org/10.1242/jcs.239616, doi:10.1242/jcs.239616. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.239616)
+
+3. (Zhang2023CEP44) CEP44 is required for maintaining centriole duplication and spindle integrity. This article has 0 citations.
+
+[4. (Atorino2020CEP44) Enrico S. Atorino, Shoji Hata, Charlotta Funaya, Annett Neuner, and Elmar Schiebel. Cep44 ensures the formation of bona fide centriole wall, a requirement for the centriole-to-centrosome conversion. Nature Communications, February 2020. URL: http://dx.doi.org/10.1038/s41467-020-14767-2, doi:10.1038/s41467-020-14767-2. This article has 33 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-020-14767-2)

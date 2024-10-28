@@ -1,0 +1,33 @@
+# ZNF417
+
+## Overview
+ZNF417 is a gene that encodes the zinc finger protein 417, a member of the KRAB (Kruppel-associated box) zinc finger protein family. This protein is primarily involved in transcriptional repression and plays a significant role in regulating transposable elements within the genome, particularly in human embryonic stem cells and neurons. As a transcriptional repressor, zinc finger protein 417 is crucial for maintaining genomic stability and proper gene expression by interacting with corepressors such as KAP1 and recruiting the methyltransferase SETDB1 to deposit repressive histone marks. This activity is essential for the formation of heterochromatin and the suppression of endogenous retroviral elements, which can otherwise lead to neurotoxic effects and inflammatory responses. ZNF417's function is particularly relevant in the context of cancer, where its expression is associated with immune evasion and poor prognosis in diffuse large B-cell lymphoma (DLBCL) (Turelli2020Primate-restricted; Martins2023KRAB).
+
+## Function
+ZNF417 is a primate-specific KRAB zinc finger protein that plays a crucial role in regulating transposable element-embedded regulatory sequences (TEeRS) in human embryonic stem cells (ESCs) and neurons. It functions primarily as a transcriptional repressor, controlling the expression of endogenous retroviral elements such as HERVK and SINE-VNTR-Alu (SVA) integrants. This repression is essential for maintaining proper gene expression and preventing the induction of neurotoxic retroviral proteins and an interferon-like response, which can influence neuronal differentiation and physiology (Turelli2020Primate-restricted).
+
+ZNF417, along with its paralog ZNF587, interacts with the transcription factor SOX2 to modulate gene expression, particularly in the brain. The depletion of ZNF417 in human embryonic stem cells leads to the upregulation of genes involved in neuroprotective functions and neurotransmission, such as AADAT and PRODH, indicating its role in maintaining normal gene expression patterns in neurons (Turelli2020Primate-restricted).
+
+In addition to its role in neurons, ZNF417 is involved in the regulation of heterochromatin formation through the recruitment of the methyltransferase SETDB1, which catalyzes the deposition of the repressive histone mark H3K9me3 at targeted loci. This activity is crucial for maintaining genomic stability by controlling the transcriptional impact of transposable elements (Martins2024A).
+
+## Clinical Significance
+ZNF417 has been implicated in the pathogenesis of diffuse large B-cell lymphoma (DLBCL) and is associated with poor prognosis in this cancer type. High expression levels of ZNF417, along with other KRAB zinc finger proteins (KZFPs), are linked to a proliferative and highly metabolic state in DLBCL, which correlates with shorter survival rates and a higher likelihood of relapse after initial remission (Martins2023KRAB). The gene is part of a coexpression module located on chromosome 19q, a region associated with poor prognosis in DLBCL (Martins2024A).
+
+Depletion of ZNF417 in cancer cells leads to increased replicative stress and an inflammatory response via the cGAS-STING pathway, which enhances the immunogenicity of cancer cells by upregulating HLA-I genes (Martins2024A). This suggests that ZNF417 plays a role in immune evasion and clonal expansion in cancer cells (Martins2024A). The gene's expression is also linked to maintaining heterochromatin, protecting cancer cells from excessive replicative stress and inflammatory responses, which are typically detrimental to cancer progression (Martins2024A). These findings indicate that ZNF417 may serve as a potential therapeutic target in cancer treatment.
+
+## Interactions
+ZNF417 is a KRAB zinc finger protein that interacts with other proteins and nucleic acids to regulate gene expression and maintain genomic stability. It is known to bind KAP1, a corepressor that recruits the methyltransferase SETDB1. This interaction facilitates the deposition of the repressive histone mark H3K9me3, promoting heterochromatin formation and transcriptional repression of specific genomic regions, including transposable elements (Martins2023KRAB; Martins2024A). 
+
+ZNF417, along with ZNF587, targets specific transposable elements such as ERVK and SVA integrants, which are primate-restricted. This targeting is crucial for maintaining chromatin structure and preventing the activation of inflammatory pathways in cancer cells (Turelli2020Primate-restricted; Martins2023KRAB). The depletion of ZNF417 leads to a redistribution of heterochromatin and changes in the chromatin landscape, which can trigger a DNA damage response and activate the cGAS-STING pathway, resulting in increased immunogenicity of cancer cells (Martins2024A). 
+
+These interactions highlight the role of ZNF417 in chromatin remodeling and its potential impact on cancer cell proliferation and immune evasion (Martins2024A).
+
+
+## References
+
+
+[1. (Turelli2020Primate-restricted) Priscilla Turelli, Christopher Playfoot, Dephine Grun, Charlène Raclot, Julien Pontis, Alexandre Coudray, Christian Thorball, Julien Duc, Eugenia V. Pankevich, Bart Deplancke, Volker Busskamp, and Didier Trono. Primate-restricted krab zinc finger proteins and target retrotransposons control gene expression in human neurons. Science Advances, August 2020. URL: http://dx.doi.org/10.1126/sciadv.aba3200, doi:10.1126/sciadv.aba3200. This article has 53 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.aba3200)
+
+2. (Martins2023KRAB) KRAB zinc finger proteins ZNF587/ZNF417 protect lymphoma cells from replicative stress-induced inflammation. This article has 0 citations.
+
+[3. (Martins2024A) Filipe Martins, Olga Rosspopoff, Joana Carlevaro-Fita, Romain Forey, Sandra Offner, Evarist Planet, Cyril Pulver, HuiSong Pak, Florian Huber, Justine Michaux, Michal Bassani-Sternberg, Priscilla Turelli, and Didier Trono. A cluster of evolutionarily recent krab zinc finger proteins protects cancer cells from replicative stress–induced inflammation. Cancer Research, 84(6):808–826, February 2024. URL: http://dx.doi.org/10.1158/0008-5472.can-23-1237, doi:10.1158/0008-5472.can-23-1237. This article has 1 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-23-1237)

@@ -1,0 +1,46 @@
+# HHAT
+
+## Overview
+The HHAT gene encodes the hedgehog acyltransferase, a multi-pass transmembrane enzyme that is part of the membrane-bound O-acyltransferase (MBOAT) superfamily. This enzyme is primarily located in the endoplasmic reticulum and plays a critical role in the post-translational modification of Hedgehog (Hh) proteins through palmitoylation. The hedgehog acyltransferase catalyzes the attachment of a palmitate group to the N-terminal cysteine residue of Sonic Hedgehog (Shh), a modification essential for enhancing the protein's signaling activity and hydrophobicity. This process is crucial for the proper distribution and function of Shh in cell signaling pathways, which are vital for various developmental processes, including craniofacial development and tissue patterning (Dennis2012Mutations; Coupland2021Structure). The enzyme's activity is a rate-limiting step in the production of Hedgehog ligands, underscoring its importance in establishing signaling gradients necessary for normal embryonic development and stem cell maintenance (Dennis2012Mutations; Coupland2021Structure).
+
+## Structure
+The Hedgehog acyltransferase (HHAT) protein is characterized by a complex molecular structure that includes 12 transmembrane alpha helices (TM1-TM12) and intervening helical and loop regions, spanning the endoplasmic reticulum (ER) membrane (Jiang2021Substrate). A notable feature is the 'MBOAT fold' within the TM4-TM11 region, which includes a critical histidine residue (His379) involved in catalysis (Jiang2021Substrate). The TM10 and TM11 helices form an archway that facilitates substrate access, while the TM1-TM3 region is unique to HHAT and is involved in Hedgehog substrate binding (Jiang2021Substrate).
+
+HHAT contains a heme B prosthetic group between TM1 and TM7, which is exposed to membrane lipids and may play a structural role (Jiang2021Substrate). The enzyme functions as a monomer, unlike other MBOAT enzymes that are active as dimers or tetramers (Jiang2021Substrate). The structure also includes a palmitoyl-CoA access archway, contributing to its substrate specificity (Jiang2021Substrate).
+
+The protein's tertiary structure is distinct, with a slender cavity for the palmitoyl moiety and a hydrophilic, membrane-embedded cavity for substrate access and product release (Jiang2021Substrate). These structural insights are crucial for understanding HHAT's function and for developing inhibitors (Jiang2021Substrate).
+
+## Function
+The HHAT gene encodes the hedgehog acyltransferase enzyme, which is crucial for the palmitoylation of Hedgehog (Hh) proteins, including Sonic Hedgehog (Shh). This post-translational modification involves the attachment of a palmitate group to the N-terminal cysteine residue of Shh, enhancing its signaling activity and hydrophobicity, which is essential for its proper distribution and function in cell signaling pathways (Dennis2012Mutations; Coupland2021Structure). 
+
+HHAT is a multi-pass transmembrane enzyme located in the endoplasmic reticulum (ER) and is part of the membrane-bound O-acyltransferase (MBOAT) superfamily (Coupland2021Structure). The palmitoylation process facilitated by HHAT is necessary for Shh to interact with its receptor, Patched1 (PTCH1), on the cell surface, thereby activating downstream Hedgehog signaling pathways (Coupland2021Structure). This signaling is critical for various developmental processes, including craniofacial development and tissue patterning (Dennis2012Mutations).
+
+The activity of HHAT is a rate-limiting step in the production of Hedgehog ligands, and its function is essential for establishing Hh signaling gradients, which are vital for normal embryonic development and stem cell maintenance (Dennis2012Mutations; Coupland2021Structure).
+
+## Clinical Significance
+Mutations in the HHAT gene have been associated with several developmental disorders. A novel homozygous missense variant, NM_018194.5: c.770T>C, p. (Leu257Pro), in the HHAT gene has been linked to syndromic microcephaly and cerebellar vermis hypoplasia. This variant was identified in two sisters and is predicted to be damaging, suggesting it may represent a milder form of Nivelon-Nivelon-Mabille syndrome, which is characterized by generalized chondrodysplasia, growth retardation, microcephaly, and cerebellar vermis hypoplasia (Abdel‐Salam2019Biallelic).
+
+In another study, a de novo pathogenic variant in the HHAT gene was found in a patient with 46,XY disorders of sex development (DSD). This variant is located in the Membrane Bound O-Acyltransferase domain 2 (MBOAT 2) and is crucial for the palmitoylation of Hedgehog proteins, including SHH and DHH. The mutation is predicted to introduce a more hydrophobic residue, potentially leading to loss of hydrogen bonds and disturbing correct protein folding, which is significant for early human testis development (Rjiba2023Additional).
+
+These findings highlight the role of HHAT gene variants in neurodevelopmental disorders and sex development conditions, emphasizing the gene's importance in developmental processes.
+
+## Interactions
+Hedgehog acyltransferase (HHAT) is involved in several key interactions essential for its function in the palmitoylation of Hedgehog proteins. HHAT interacts specifically with the Sonic Hedgehog (SHH) protein, where the N-terminus of SHH binds within the luminal cavity of HHAT. This interaction is competitive with certain nanobodies, indicating specific protein-protein interactions that are crucial for SHH palmitoylation (Coupland2021Structure). 
+
+The binding of SHH to HHAT is dependent on the presence of Palm-CoA, suggesting a sequential binding mode that involves both Palm-CoA and SHH. This interaction is facilitated by a palmitoylation site at Cys387 and a lipid binding pocket that may interact with the cholesteryl moiety of SHH (Jiang2021Substrate; Coupland2021Structure). 
+
+HHAT also binds a heme-B group, which is crucial for its enzymatic activity, and this binding involves a unique cysteine residue (Cys-324) that may play a regulatory role (Coupland2021Structure). The enzyme's interaction with Palm-CoA is essential for its function, as it stabilizes the catalytic site and facilitates the acylation process (Jiang2021Substrate).
+
+
+## References
+
+
+[1. (Abdel‐Salam2019Biallelic) Ghada M. H. Abdel‐Salam, Inas Mazen, Maha Eid, Nour Ewida, Ranad Shaheen, and Fowzan S. Alkuraya. Biallelic novel missense hhat variant causes syndromic microcephaly and cerebellar‐vermis hypoplasia. American Journal of Medical Genetics Part A, 179(6):1053–1057, March 2019. URL: http://dx.doi.org/10.1002/ajmg.a.61133, doi:10.1002/ajmg.a.61133. This article has 17 citations.](https://doi.org/10.1002/ajmg.a.61133)
+
+2. (Coupland2021Structure) Structure and Mechanism of Hedgehog Acyl Transferase. This article has 3 citations.
+
+[3. (Rjiba2023Additional) Khouloud Rjiba, Soumaya Mougou-Zerelli, Imen hadj Hamida, Ghada Saad, Bochra Khadija, Afef Jelloul, Wafa Slimani, Yosra Hasni, Sarra Dimassi, Hela Ben khelifa, Amira Sallem, Molka Kammoun, Hamza Hadj Abdallah, Moez Gribaa, Joelle Bignon-Topalovic, Sami Chelly, Hédi Khairi, Mohamed Bibi, Maha Kacem, Ali Saad, Anu Bashamboo, and Kenneth McElreavey. Additional evidence for the role of chromosomal imbalances and sox8, znrf3 and hhat gene variants in early human testis development. Reproductive Biology and Endocrinology, January 2023. URL: http://dx.doi.org/10.1186/s12958-022-01045-7, doi:10.1186/s12958-022-01045-7. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12958-022-01045-7)
+
+[4. (Jiang2021Substrate) Yiyang Jiang, Thomas L. Benz, and Stephen B. Long. Substrate and product complexes reveal mechanisms of hedgehog acylation by hhat. Science, 372(6547):1215–1219, June 2021. URL: http://dx.doi.org/10.1126/science.abg4998, doi:10.1126/science.abg4998. This article has 42 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.abg4998)
+
+[5. (Dennis2012Mutations) Jennifer F. Dennis, Hiroshi Kurosaka, Angelo Iulianella, Jennifer Pace, Nancy Thomas, Sharon Beckham, Trevor Williams, and Paul A. Trainor. Mutations in hedgehog acyltransferase (hhat) perturb hedgehog signaling, resulting in severe acrania-holoprosencephaly-agnathia craniofacial defects. PLoS Genetics, 8(10):e1002927, October 2012. URL: http://dx.doi.org/10.1371/journal.pgen.1002927, doi:10.1371/journal.pgen.1002927. This article has 54 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1002927)

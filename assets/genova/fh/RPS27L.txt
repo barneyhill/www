@@ -1,0 +1,41 @@
+# RPS27L
+
+## Overview
+RPS27L is a gene that encodes the ribosomal protein S27-like, which is a component of the ribosomal machinery involved in protein synthesis. This protein is categorized as a ribosomal protein and plays a crucial role in cellular processes beyond its traditional function in the ribosome. It is notably involved in the regulation of the p53-MDM2 axis, a critical pathway for maintaining genomic stability and preventing tumorigenesis. RPS27L stabilizes the tumor suppressor protein p53 by modulating its interaction with MDM2, thereby influencing cell cycle regulation and apoptosis. Additionally, RPS27L is implicated in DNA repair mechanisms, particularly in maintaining the stability of proteins essential for DNA interstrand cross-link repair. Its expression and function have significant implications in cancer biology, where alterations in RPS27L levels are associated with various cancer types, influencing tumor progression and patient prognosis (Xiong2010Ribosomal; Sun2020Inactivation; Xiong2014Ribosomal).
+
+## Function
+RPS27L encodes a ribosomal protein that plays a significant role in regulating the p53-MDM2 axis, crucial for maintaining genomic stability and preventing tumorigenesis. In healthy human cells, RPS27L stabilizes p53 by competing with it for binding to MDM2, thereby preventing p53's ubiquitination and degradation. This interaction helps maintain p53 levels under normal physiological conditions, contributing to cellular homeostasis (Xiong2010Ribosomal).
+
+RPS27L is primarily localized in the cytoplasm but can shuttle to the nucleus upon p53-activating signals, such as DNA damage or ribosomal stress. This shuttling is crucial for its role in regulating p53, as it co-localizes with MDM2 in the nucleus to modulate p53 activity (Xiong2010Ribosomal). RPS27L also plays a role in DNA repair by maintaining the stability of FANCD2 and FANCI proteins, which are essential for DNA interstrand cross-link repair (Sun2020Inactivation).
+
+In the context of ribosomal function, RPS27L is involved in ribosomal stress responses, which can influence the p53 pathway. Disruption of RPS27L can lead to ribosomal stress, affecting the MDM2-MDM4-p53 axis and potentially leading to genomic instability (Xiong2014Ribosomal).
+
+## Clinical Significance
+Alterations in the expression or function of the RPS27L gene have been implicated in various cancers. In breast cancer, reduced RPS27L levels are associated with increased autophagy, which may promote tumorigenesis by facilitating cancer cell survival. This suggests a potential tumor suppressor role for RPS27L in breast cancer, as its downregulation could enhance autophagy and contribute to cancer progression (Xiong2018Ribosomal).
+
+In colorectal cancer, higher RPS27L expression correlates with better survival rates, indicating its potential as a prognostic marker. RPS27L's interaction with the p53-MDM2 axis may influence cell cycle arrest and apoptosis, contributing to its prognostic significance (Huang2013Ribosomal).
+
+RPS27L also plays a role in genomic stability and tumorigenesis through its regulation of p53. Disruption of RPS27L can lead to increased genomic instability and a higher incidence of spontaneous lymphomas, particularly in the context of p53 heterozygosity. This highlights its tumor suppressive function and suggests that alterations in RPS27L expression could have clinical significance in cancer development (Xiong2014Ribosomal).
+
+Furthermore, RPS27L is involved in DNA repair processes. Its knockdown impairs DNA interstrand cross-link repair, leading to increased sensitivity to DNA-damaging agents, which could have implications for cancer treatment (Sun2020Inactivation).
+
+## Interactions
+RPS27L interacts with several proteins, playing a significant role in various cellular processes. It binds to FANCD2 and FANCI, forming a complex crucial for DNA interstrand cross-link (ICL) repair. This interaction stabilizes FANCD2 and FANCI, preventing their degradation via the p62-mediated autophagy-lysosome pathway, which is essential for effective ICL repair and cellular resistance to ICL-inducing agents like mitomycin C (Sun2020Inactivation).
+
+RPS27L also interacts with the MDM2 protein, a key regulator of the p53 tumor suppressor pathway. It binds to the N-terminal portion of MDM2, potentially competing with p53 for binding. This interaction can reduce MDM2-mediated degradation of p53, thereby stabilizing and activating p53 under stress conditions (Xiong2010Ribosomal). RPS27L is a physiological substrate of MDM2, and its overexpression can inhibit MDM2-induced p53 ubiquitination, enhancing p53 stability (Xiong2010Ribosomal).
+
+In the context of autophagy, RPS27L regulates the β-TrCP-DEPTOR-mTORC1 axis. Silencing RPS27L leads to the accumulation of DEPTOR, which inactivates mTORC1 and induces autophagy, suggesting a role for RPS27L in autophagy regulation and potential tumor suppression (Xiong2018Ribosomal).
+
+
+## References
+
+
+[1. (Xiong2010Ribosomal) X Xiong, Y Zhao, H He, and Y Sun. Ribosomal protein s27-like and s27 interplay with p53-mdm2 axis as a target, a substrate and a regulator. Oncogene, 30(15):1798–1811, December 2010. URL: http://dx.doi.org/10.1038/onc.2010.569, doi:10.1038/onc.2010.569. This article has 99 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2010.569)
+
+[2. (Sun2020Inactivation) Siyuan Sun, Hengqian He, Yuanyuan Ma, Jie Xu, Guoan Chen, Yi Sun, and Xiufang Xiong. Inactivation of ribosomal protein s27-like impairs dna interstrand cross-link repair by destabilization of fancd2 and fanci. Cell Death &amp; Disease, October 2020. URL: http://dx.doi.org/10.1038/s41419-020-03082-9, doi:10.1038/s41419-020-03082-9. This article has 12 citations.](https://doi.org/10.1038/s41419-020-03082-9)
+
+[3. (Xiong2018Ribosomal) Xiufang Xiong, Xia Liu, Haomin Li, Hengqian He, Yi Sun, and Yongchao Zhao. Ribosomal protein s27-like regulates autophagy via the β-trcp-deptor-mtorc1 axis. Cell Death &amp; Disease, November 2018. URL: http://dx.doi.org/10.1038/s41419-018-1168-7, doi:10.1038/s41419-018-1168-7. This article has 22 citations.](https://doi.org/10.1038/s41419-018-1168-7)
+
+[4. (Xiong2014Ribosomal) Xiufang Xiong, Yongchao Zhao, Fei Tang, Dongping Wei, Daffyd Thomas, Xiang Wang, Yang Liu, Pan Zheng, and Yi Sun. Ribosomal protein s27-like is a physiological regulator of p53 that suppresses genomic instability and tumorigenesis. eLife, August 2014. URL: http://dx.doi.org/10.7554/elife.02236, doi:10.7554/elife.02236. This article has 42 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.02236)
+
+[5. (Huang2013Ribosomal) Chi-Jung Huang, Shung-Haur Yang, Chia-Long Lee, Yu-Che Cheng, Szu-Yun Tai, and Chih-Cheng Chien. Ribosomal protein s27-like in colorectal cancer: a candidate for predicting prognoses. PLoS ONE, 8(6):e67043, June 2013. URL: http://dx.doi.org/10.1371/journal.pone.0067043, doi:10.1371/journal.pone.0067043. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0067043)

@@ -1,0 +1,42 @@
+# TM4SF20
+
+## Overview
+TM4SF20 is a gene that encodes the transmembrane 4 L six family member 20 protein, which is a member of the tetraspanin family characterized by four transmembrane domains. This protein plays a crucial role in cellular processes through its involvement in regulated alternative translocation (RAT), a mechanism that modulates the activity of the transcription factor CREB3L1. The protein's topology and function are influenced by ceramide, a lipid molecule that triggers a conformational change allowing CREB3L1 activation, which is essential for collagen matrix assembly and cell proliferation inhibition (Denard2017Ceramide; Wang2019Identification). TM4SF20 interacts with various proteins, including TRAM2, which facilitates its membrane insertion and topological inversion (Ye2020Regulated). Clinically, TM4SF20 has been implicated in several conditions, such as liver hepatocellular carcinoma and papillary thyroid carcinoma, and is associated with early childhood communication disorders due to its role in language development (Denard2017Ceramide; Tang2024Integrated).
+
+## Structure
+TM4SF20 is a transmembrane protein with four transmembrane domains, characteristic of the tetraspanin family. It has multiple isoforms produced through alternative translation initiation, including TM4SF20(A), TM4SF20(B), and TM4SF20(i) (Wang2019Identification). The protein contains three potential N-linked glycosylation sites between the third and fourth transmembrane helices. These sites are glycosylated in the TM4SF20(B) isoform, which is located in the ER lumen, but not in TM4SF20(A), which is located in the cytosol (Wang2019Identification). The glycosylation affects the molecular weight of the isoforms.
+
+The first transmembrane helix of TM4SF20 contains a GXXXN motif, crucial for its topological regulation. The Asn-26 residue within this motif is essential for regulated alternative translocation (RAT), a process influenced by ceramide (Ye2020Regulated; Wang2019Identification). Mutations in this motif can lock the protein into a specific topology, affecting its response to ceramide (Wang2019Identification). The protein's topology inversion is also influenced by interactions with the ER translocon component TRAM2 (Wang2019Identification). The TM4SF20(i) isoform is N-terminally truncated and initiated from internal methionines, and it is glycosylated but not regulated by ceramide (Wang2019Identification).
+
+## Function
+TM4SF20 is a transmembrane protein involved in the regulation of cellular processes through its interaction with the transcription factor CREB3L1. This protein undergoes a process called Regulated Alternative Translocation (RAT), which is crucial for its function. In the absence of ceramide, TM4SF20 adopts a topology (TM4SF20(A)) that inhibits the proteolytic activation of CREB3L1. When ceramide is present, the topology inverts (TM4SF20(B)), allowing CREB3L1 activation, which drives the expression of genes necessary for collagen matrix assembly and inhibition of cell proliferation (Denard2017Ceramide; Wang2019Identification).
+
+The first transmembrane helix of TM4SF20, particularly the GXXXN motif, is essential for RAT, with residues like Asn-26 being critical for this process (Wang2019Identification). The interaction of TM4SF20 with the ER translocon component TRAM2 is significant, as TRAM2 may facilitate the unusual translocation process of TM4SF20, influenced by ceramide (Wang2019Identification). This regulatory mechanism allows TM4SF20 to modulate the spatial separation of CREB3L1 from its activating proteases, similar to the regulation of other transcription factors like SREBPs (Denard2017Ceramide).
+
+## Clinical Significance
+Mutations and altered expression of the TM4SF20 gene have been implicated in various clinical conditions. In liver hepatocellular carcinoma (LIHC), higher expression levels of TM4SF20 are associated with poor overall survival, relapse-free survival, post-progression survival, and disease-specific survival. The gene frequently exhibits deep-loss mutations, and its hypomethylation correlates with increased expression and tumor progression, particularly in early-stage tumors (Tang2024Integrated). 
+
+In papillary thyroid carcinoma (PTC), TM4SF20 is identified as a differentially expressed gene, with its expression downregulated in tumor tissues compared to normal tissues. It is also upregulated in the N0 group compared to the N1 group, suggesting a role in lymph node metastasis (Wang2022Potential). 
+
+TM4SF20 also plays a role in the regulation of CREB3L1 through regulated intramembrane proteolysis (RIP). Alterations in TM4SF20 expression can impact the regulation of CREB3L1, potentially influencing conditions related to collagen synthesis and communication disorders. The deletion of exon 3 of TM4SF20 is associated with early childhood communication disorders, indicating its involvement in language development (Denard2017Ceramide).
+
+## Interactions
+TM4SF20 interacts with several proteins, particularly in the context of its regulated alternative translocation (RAT) process. The translocating chain-associated membrane protein 2 (TRAM2) is suggested to play a significant role in this process. TRAM2 potentially interacts with the GXXXN motif in the first transmembrane helix of TM4SF20, facilitating its Type III insertion into the membrane. This interaction is crucial for the topological inversion of TM4SF20, which is regulated by ceramide (Ye2020Regulated; Wang2019Identification).
+
+Ceramide influences the interaction between TM4SF20 and TRAM2 by dissociating TRAM2 from the ER translocon, leading to the production of TM4SF20(B) even in the absence of ceramide. This suggests that TRAM2 is necessary for the proper insertion of TM4SF20 under normal conditions (Denard2017Ceramide). The interaction between TM4SF20 and TRAM2 is further supported by RNA interference experiments, which show that knockdown of TRAM2 promotes the production of TM4SF20(B) (Ye2020Regulated).
+
+TM4SF20 also interacts with CREB3L1, a transcription factor involved in regulated intramembrane proteolysis (RIP). TM4SF20(B) stimulates the cleavage of CREB3L1, a process that is observed upon TRAM2 knockdown, indicating a functional interaction between TM4SF20 and CREB3L1 (Denard2017Ceramide).
+
+
+## References
+
+
+[1. (Wang2022Potential) Kun Wang, Haomin Li, Junyu Zhao, Jinming Yao, Yiran Lu, Jianjun Dong, Jie Bai, and Lin Liao. Potential diagnostic of lymph node metastasis and prognostic values of tm4sfs in papillary thyroid carcinoma patients. Frontiers in Cell and Developmental Biology, December 2022. URL: http://dx.doi.org/10.3389/fcell.2022.1001954, doi:10.3389/fcell.2022.1001954. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.1001954)
+
+[2. (Tang2024Integrated) Qiang Tang, Shurui Wang, Huimin Li, Junzhi Liu, Xin Hu, Dong Zhao, and Maojun Di. Integrated multi-omics analyses reveal the tm4sf family genes with prognostic and therapeutic relevance in hepatocellular carcinoma. Aging, January 2024. URL: http://dx.doi.org/10.18632/aging.205398, doi:10.18632/aging.205398. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.18632/aging.205398)
+
+[3. (Ye2020Regulated) Jin Ye. Regulated Alternative Translocation: A Mechanism Regulating Transmembrane Proteins Through Topological Inversion, pages 183–190. Springer International Publishing, 2020. URL: http://dx.doi.org/10.1007/5584_2020_585, doi:10.1007/5584_2020_585. This article has 1 citations.](https://doi.org/10.1007/5584_2020_585)
+
+[4. (Wang2019Identification) Jingcheng Wang, Lisa N. Kinch, Bray Denard, Ching-En Lee, Elina Esmaeilzadeh Gharehdaghi, Nick Grishin, and Jin Ye. Identification of residues critical for topology inversion of the transmembrane protein tm4sf20 through regulated alternative translocation. Journal of Biological Chemistry, 294(15):6054–6061, April 2019. URL: http://dx.doi.org/10.1074/jbc.ra119.007681, doi:10.1074/jbc.ra119.007681. This article has 5 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra119.007681)
+
+[5. (Denard2017Ceramide) Bray Denard, Qiuyue Chen, Ching‐En Lee, Sungwon Han, James Ye, and Jin Ye. Ceramide induced regulated alternative translocation of tm4sf20 and beyond. The FASEB Journal, April 2017. URL: http://dx.doi.org/10.1096/fasebj.31.1_supplement.630.2, doi:10.1096/fasebj.31.1_supplement.630.2. This article has 0 citations.](https://doi.org/10.1096/fasebj.31.1_supplement.630.2)

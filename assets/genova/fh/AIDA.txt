@@ -1,0 +1,50 @@
+# AIDA
+
+## Overview
+The AIDA gene encodes a protein known as axin interactor, dorsalization associated, which plays a multifaceted role in cellular signaling and metabolic processes. This protein is categorized as a scaffold protein due to its involvement in various protein-protein interactions, particularly in synaptic and nuclear functions. AIDA is crucial for adaptive thermogenesis, especially in brown adipose tissue, where it regulates body temperature during cold exposure by interacting with uncoupling protein 1 (UCP1) (Shi2021AIDA). The protein's structural diversity, resulting from alternative splicing, leads to the formation of several isoforms, each with distinct domain compositions that facilitate specific interactions, such as with the amyloid β protein precursor and Cajal body protein coilin (Xu2005A; Ghersi2004The). Clinically, AIDA has been implicated in coronary artery disease, with genetic studies suggesting its role in endothelial cell function and inflammatory responses (Lalonde2019Integrative). The gene's diverse functions and interactions underscore its significance in both physiological and pathological contexts.
+
+## Structure
+The AIDA gene encodes a protein involved in cellular signaling pathways, with several isoforms identified, including AIDA-1a, AIDA-1b, and AIDA-1c. These isoforms exhibit structural diversity due to alternative splicing, which affects their domain composition and potential interactions.
+
+AIDA-1a is a 459 amino acid protein featuring a C-terminal Phospho-Tyrosine Binding (PTB) domain and two Sterile Alpha Motif (SAM) domains, which are crucial for protein-protein interactions. The PTB domain of AIDA-1a binds to the YENPTY motif in the cytoplasmic tail of the amyloid β protein precursor (AβPP), independent of phosphorylation at Tyrosine 682 (Ghersi2004The).
+
+AIDA-1b includes a C-terminal PTB domain, two SAM domains, and six N-terminal Ankyrin repeats, suggesting a complex structure that facilitates protein interactions. A variant, AIDA-1b∆Ank, lacks the Ankyrin repeats (Ghersi2004The).
+
+AIDA-1c, a 426 amino acid protein, contains ankyrin repeats, Eph-related SAM domains, and a PTB domain. It interacts with the Cajal body protein coilin, indicating a role in nuclear processes. AIDA-1c is primarily expressed in neuronal tissue and some cancer cell lines (Xu2005A).
+
+The structural diversity of AIDA isoforms suggests varied roles in cellular processes, particularly in relation to AβPP and coilin interactions.
+
+## Function
+The AIDA gene encodes a protein that plays a significant role in adaptive thermogenesis, particularly in brown adipose tissue (BAT). AIDA is involved in the regulation of body temperature during cold exposure by interacting with uncoupling protein 1 (UCP1), a key protein in heat production. This interaction is enhanced by adrenergic stimulation, which occurs in response to cold exposure, leading to the phosphorylation of AIDA by protein kinase A (PKA) at serine 161. This phosphorylation is crucial for the oxidative modification and activation of UCP1, facilitating thermogenesis without affecting the lipolytic pathway or fatty acid mobilization (Shi2021AIDA).
+
+AIDA is localized to the mitochondria, where it enhances the production of reactive oxygen species (ROS) following cold stimulation, contributing to the activation of UCP1. The protein acts independently of upstream sympathetic innervation and adrenergic signaling, specifically promoting the uncoupling activity of UCP1 under acute cold conditions (Shi2021AIDA). AIDA's role is essential for maintaining body temperature in cold environments, as its knockout leads to impaired thermogenesis and hypothermia (Shi2021AIDA). This function highlights AIDA's critical involvement in energy metabolism and stress responses in organisms.
+
+## Clinical Significance
+The AIDA gene has been implicated in coronary artery disease (CAD) through integrative genomic analyses. Studies have identified AIDA as a candidate gene for CAD by examining its expression in vascular endothelial cells, particularly under conditions of dysfunction induced by TNFα treatment. This research suggests that genetic variants associated with CAD may influence AIDA expression, contributing to the disease's pathogenesis (Lalonde2019Integrative). 
+
+The regulation of AIDA by specific chromatin elements, which contain single nucleotide polymorphisms (SNPs) linked to CAD, highlights its role in endothelial cell function and inflammatory responses. The deletion of these regulatory elements using CRISPR/Cas9 has been shown to affect AIDA expression, suggesting that these genetic variants modulate CAD risk by altering gene expression in activated endothelial cells (Lalonde2019Integrative).
+
+These findings underscore the clinical significance of AIDA in CAD, indicating that alterations in its expression or interactions may contribute to the disease's development. The gene's involvement in endothelial cell dysfunction and its potential as a therapeutic target for CAD are areas of ongoing research (Lalonde2019Integrative).
+
+## Interactions
+The AIDA-1 protein, encoded by the ANKS1B gene, is involved in various protein interactions crucial for synaptic function and cellular processes. AIDA-1 preferentially associates with GluN2B-containing NMDA receptors (NMDARs) over GluN2A, playing a role in the trafficking and localization of these receptors at synapses. This interaction is facilitated by intermediary proteins such as CASK, SAP97, and the kinesin-2 molecular motor KIF17, but not KIF1b, indicating AIDA-1's involvement in the ER export and transport of GluN2B-containing NMDARs to synapses (Tindi2015ANKS1B).
+
+AIDA-1 also interacts with the SynGAP family of Ras-GTPase activating proteins (RasGAPs) through its PTB domain, which binds to the NPx[F/Y]-motif of SynGAP. This interaction is significant for synaptic functions and is characterized by high affinity and specificity (Wang2024AIDA1ANKS1B). Additionally, AIDA-1 binds to the amyloid β protein precursor (AβPP) via its PTB domain, which interacts with the YENPTY motif in the cytoplasmic tail of AβPP, a binding that is independent of tyrosine phosphorylation (Ghersi2004The).
+
+The AIDA-1c isoform specifically interacts with the Cajal body protein coilin, competing with Sm proteins for binding sites, which may influence coilin protein dynamics and nuclear organization (Xu2005A). These interactions highlight AIDA-1's role as a scaffold protein in synaptic and nuclear processes.
+
+
+## References
+
+
+[1. (Xu2005A) Hongzhi Xu and Michael D Hebert. A novel eb-1/aida-1 isoform, aida-1c, interacts with the cajal body protein coilin. BMC Cell Biology, April 2005. URL: http://dx.doi.org/10.1186/1471-2121-6-23, doi:10.1186/1471-2121-6-23. This article has 14 citations.](https://doi.org/10.1186/1471-2121-6-23)
+
+[2. (Lalonde2019Integrative) Simon Lalonde, Valérie-Anne Codina-Fauteux, Sébastian Méric de Bellefon, Francis Leblanc, Mélissa Beaudoin, Marie-Michelle Simon, Rola Dali, Tony Kwan, Ken Sin Lo, Tomi Pastinen, and Guillaume Lettre. Integrative analysis of vascular endothelial cell genomic features identifies aida as a coronary artery disease candidate gene. Genome Biology, July 2019. URL: http://dx.doi.org/10.1186/s13059-019-1749-5, doi:10.1186/s13059-019-1749-5. This article has 30 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13059-019-1749-5)
+
+[3. (Tindi2015ANKS1B) J. O. Tindi, A. E. Chavez, S. Cvejic, E. Calvo-Ochoa, P. E. Castillo, and B. A. Jordan. Anks1b gene product aida-1 controls hippocampal synaptic transmission by regulating glun2b subunit localization. Journal of Neuroscience, 35(24):8986–8996, June 2015. URL: http://dx.doi.org/10.1523/jneurosci.4029-14.2015, doi:10.1523/jneurosci.4029-14.2015. This article has 35 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1523/jneurosci.4029-14.2015)
+
+[4. (Wang2024AIDA1ANKS1B) Xueqian Wang, Yu Wang, Qixu Cai, and Mingjie Zhang. Aida-1/anks1b binds to the syngap family rasgaps with high affinity and specificity. Journal of Molecular Biology, 436(12):168608, June 2024. URL: http://dx.doi.org/10.1016/j.jmb.2024.168608, doi:10.1016/j.jmb.2024.168608. This article has 0 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2024.168608)
+
+[5. (Shi2021AIDA) Meng Shi, Xiao-Yu Huang, Xin-Yi Ren, Xiao-Yan Wei, Yue Ma, Zhi-Zhong Lin, Dong-Tai Liu, Lintao Song, Tong-Jin Zhao, Guang Li, Luming Yao, Mingxia Zhu, Cixiong Zhang, Changchuan Xie, Yaying Wu, Han-Ming Wu, Li-Ping Fan, Jingxing Ou, Yi-Hong Zhan, Shu-Yong Lin, and Sheng-Cai Lin. Aida directly connects sympathetic innervation to adaptive thermogenesis by ucp1. Nature Cell Biology, 23(3):268–277, March 2021. URL: http://dx.doi.org/10.1038/s41556-021-00642-9, doi:10.1038/s41556-021-00642-9. This article has 20 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41556-021-00642-9)
+
+[6. (Ghersi2004The) Enrico Ghersi, Pasquale Vito, Peter Lopez, Mona Abdallah, and Luciano D’Adamio. The intracellular localization of amyloid β protein precursor (aβpp) intracellular domain associated protein-1 (aida-1) is regulated by aβpp and alternative splicing. Journal of Alzheimer’s Disease, 6(1):67–78, February 2004. URL: http://dx.doi.org/10.3233/jad-2004-6108, doi:10.3233/jad-2004-6108. This article has 27 citations.](https://doi.org/10.3233/jad-2004-6108)

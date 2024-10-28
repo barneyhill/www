@@ -1,0 +1,54 @@
+# RNF4
+
+## Overview
+RNF4 is a gene that encodes the protein ring finger protein 4, which functions as a SUMO-targeted ubiquitin E3 ligase. This protein is characterized by its C-terminal RING domain, which is crucial for its enzymatic activity, facilitating the transfer of ubiquitin from E2 enzymes to substrate proteins. The N-terminal region of ring finger protein 4 contains multiple SUMO-interaction motifs (SIMs), enabling it to bind poly-SUMO chains and target SUMOylated proteins for ubiquitination and subsequent proteasomal degradation. This activity is vital for maintaining cellular homeostasis, particularly in processes such as DNA repair, transcription regulation, and stress responses. RNF4 is expressed in both the cytoplasm and nucleus, reflecting its diverse roles in cellular signaling and genomic integrity (Tatham2008RNF4; Galili2000Rnf4; Plechanovová2011Mechanism).
+
+## Structure
+RNF4 is a protein characterized by a C-terminal RING domain, which is essential for its E3 ubiquitin ligase activity. This domain contains a C3HC4-type zinc finger motif, coordinating zinc ions crucial for maintaining its structural integrity and function (Galili2000Rnf4; Plechanovová2011Mechanism). The RING domain forms a dimer in solution, a quaternary structure necessary for its ubiquitination activity, as it facilitates the interaction with ubiquitin-loaded E2 enzymes (Plechanovová2011Mechanism).
+
+The N-terminal region of RNF4 contains four tandem SUMO-interaction motifs (SIMs), which are critical for binding to poly-SUMO chains, providing substrate specificity (Plechanovová2011Mechanism; Xu2014Structural). These SIMs are disordered in solution but undergo structural changes upon binding to SUMO-2, indicating a dynamic interaction (Xu2014Structural).
+
+RNF4 is subject to post-translational modifications, including phosphorylation, which may influence its interaction with other proteins and its cellular localization (Galili2000Rnf4). The protein is expressed in both the cytoplasm and nucleus, suggesting roles in transcriptional modulation and signaling (Galili2000Rnf4). RNF4 also has splice variant isoforms, which may affect its function and interactions.
+
+## Function
+RNF4, a SUMO-targeted ubiquitin E3 ligase, plays a critical role in maintaining cellular homeostasis by regulating protein turnover through the ubiquitin-proteasome system. It is involved in the ubiquitination and subsequent proteasomal degradation of proteins modified by SUMO-2 chains, which is essential for controlling protein levels and function within the cell (Tatham2008RNF4). RNF4 is active in both the nucleus and cytoplasm, influencing processes such as DNA repair, transcription regulation, and stress responses.
+
+In DNA repair, RNF4 is recruited to DNA double-strand breaks (DSBs) through its SUMO-interacting motifs and interacts with various DNA damage response components. It facilitates the turnover of DNA damage response proteins like MDC1 and RPA1, promoting the exchange of RPA with RAD51 and BRCA2 on single-stranded DNA, which is crucial for homologous recombination (HR) (Galanty2012RNF4). RNF4 also regulates the Fanconi anemia pathway by mediating the polyubiquitination and degradation of SUMOylated FANCA, ensuring genomic integrity (Kumar2019RNF4—A).
+
+RNF4's activity is dependent on its ubiquitin E3 ligase function and its SUMO-interacting motifs, which are critical for binding to SUMO-2 chains and facilitating efficient ubiquitination (Kumar2019RNF4—A). This function is vital for the dynamic assembly and disassembly of DNA damage response protein complexes, facilitating effective DSB repair and potentially restoring normal chromatin structure (Galanty2012RNF4).
+
+## Clinical Significance
+Alterations in the RNF4 gene, including mutations and changes in expression levels, have been linked to various clinical conditions. RNF4 plays a critical role in maintaining genomic stability and facilitating DNA repair processes. Its deficiency can lead to genomic instability, increased apoptosis, and cell death, particularly in B cells, as observed in RNF4-deficient mice (Her2024RNF4). RNF4 is also essential for DNA double-strand break repair through homologous recombination and non-homologous end joining pathways. Deficiency in RNF4 impairs Rad51 recruitment, leading to inefficient DNA repair and reproductive issues such as impaired spermatogenesis and infertility in mice (Vyas2012RNF4).
+
+In the context of cancer, RNF4 has a dual role. It acts as a tumor suppressor by targeting oncoproteins for degradation, but it can also stabilize certain oncoproteins essential for cell survival, suggesting a context-dependent function (Kumar2019RNF4—A). High RNF4 expression is associated with poor survival outcomes in certain cancers, indicating its role in tumor progression (Her2024RNF4). RNF4's involvement in sustaining Myc-driven tumorigenesis highlights its potential as a target for anticancer therapy (Her2024RNF4).
+
+## Interactions
+RNF4, a SUMO-targeted ubiquitin E3 ligase, interacts with several proteins involved in the DNA damage response. It is recruited to sites of DNA damage through its RING and SUMO interaction motif (SIM) domains, where it interacts with DNA damage factors such as NBS1, MDC1, RNF8, 53BP1, and BRCA1 (Yin2012SUMOtargeted). RNF4 binds to SUMO-modified MDC1, which is crucial for the recruitment of repair proteins like RPA and Rad51 to DNA break sites (Yin2012SUMOtargeted). This interaction is SUMO-dependent, with MDC1 being more efficiently modified by SUMO-2 than SUMO-1 (Yin2012SUMOtargeted).
+
+RNF4 also synthesizes hybrid SUMO-ubiquitin chains, which are recognized by RAP80, facilitating the recruitment of BRCA1 to DNA double-strand breaks (Guzzo2012RNF4Dependent). The interaction between RNF4 and RAP80 is mediated through these hybrid chains, connecting ubiquitin-dependent and SUMO-dependent DSB recognition (Guzzo2012RNF4Dependent). RNF4's ligase activity is critical for generating signals required for RAP80 recruitment (Guzzo2012RNF4Dependent).
+
+RNF4 is involved in the turnover of DNA damage response proteins such as MDC1 and RPA1, targeting them for proteasome-mediated degradation, which is essential for the effective loading of RAD51 and BRCA2 on single-stranded DNA (Galanty2012RNF4).
+
+
+## References
+
+
+[1. (Yin2012SUMOtargeted) Yili Yin, Anne Seifert, Joy Shijia Chua, Jean-François Maure, Filip Golebiowski, and Ronald T. Hay. Sumo-targeted ubiquitin e3 ligase rnf4 is required for the response of human cells to dna damage. Genes &amp; Development, 26(11):1196–1208, June 2012. URL: http://dx.doi.org/10.1101/gad.189274.112, doi:10.1101/gad.189274.112. This article has 203 citations.](https://doi.org/10.1101/gad.189274.112)
+
+[2. (Tatham2008RNF4) Michael H. Tatham, Marie-Claude Geoffroy, Linnan Shen, Anna Plechanovova, Neil Hattersley, Ellis G. Jaffray, Jorma J. Palvimo, and Ronald T. Hay. Rnf4 is a poly-sumo-specific e3 ubiquitin ligase required for arsenic-induced pml degradation. Nature Cell Biology, 10(5):538–546, April 2008. URL: http://dx.doi.org/10.1038/ncb1716, doi:10.1038/ncb1716. This article has 693 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncb1716)
+
+[3. (Kumar2019RNF4—A) Ramesh Kumar and Kanaga Sabapathy. Rnf4—a paradigm for sumoylation‐mediated ubiquitination. PROTEOMICS, October 2019. URL: http://dx.doi.org/10.1002/pmic.201900185, doi:10.1002/pmic.201900185. This article has 30 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pmic.201900185)
+
+[4. (Plechanovová2011Mechanism) Anna Plechanovová, Ellis G Jaffray, Stephen A McMahon, Kenneth A Johnson, Iva Navrátilová, James H Naismith, and Ronald T Hay. Mechanism of ubiquitylation by dimeric ring ligase rnf4. Nature Structural &amp; Molecular Biology, 18(9):1052–1059, August 2011. URL: http://dx.doi.org/10.1038/nsmb.2108, doi:10.1038/nsmb.2108. This article has 156 citations.](https://doi.org/10.1038/nsmb.2108)
+
+[5. (Her2024RNF4) Joonyoung Her, Haiyan Zheng, and Samuel F. Bunting. Rnf4 sustains myc-driven tumorigenesis by facilitating dna replication. Journal of Clinical Investigation, March 2024. URL: http://dx.doi.org/10.1172/jci167419, doi:10.1172/jci167419. This article has 1 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci167419)
+
+[6. (Guzzo2012RNF4Dependent) Catherine M. Guzzo, Christopher E. Berndsen, Jianmei Zhu, Vibhor Gupta, Ajit Datta, Roger A. Greenberg, Cynthia Wolberger, and Michael J. Matunis. Rnf4-dependent hybrid sumo-ubiquitin chains are signals for rap80 and thereby mediate the recruitment of brca1 to sites of dna damage. Science Signaling, December 2012. URL: http://dx.doi.org/10.1126/scisignal.2003485, doi:10.1126/scisignal.2003485. This article has 151 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1126/scisignal.2003485)
+
+[7. (Galili2000Rnf4) Naomi Galili, Sudhir Nayak, Jonathan A. Epstein, and Clayton A. Buck. Rnf4, a ring protein expressed in the developing nervous and reproductive systems, interacts withgscl, a gene within the digeorge critical region. Developmental Dynamics, 218(1):102–111, May 2000. URL: http://dx.doi.org/10.1002/(SICI)1097-0177(200005)218:1<102::AID-DVDY9>3.0.CO;2-A, doi:10.1002/(sici)1097-0177(200005)218:1<102::aid-dvdy9>3.0.co;2-a. This article has 42 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/(SICI)1097-0177(200005)218:1)
+
+[8. (Xu2014Structural) Yingqi Xu, Anna Plechanovová, Peter Simpson, Jan Marchant, Orsolya Leidecker, Sebastian Kraatz, Ronald T. Hay, and Steve J. Matthews. Structural insight into sumo chain recognition and manipulation by the ubiquitin ligase rnf4. Nature Communications, June 2014. URL: http://dx.doi.org/10.1038/ncomms5217, doi:10.1038/ncomms5217. This article has 39 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms5217)
+
+[9. (Galanty2012RNF4) Yaron Galanty, Rimma Belotserkovskaya, Julia Coates, and Stephen P. Jackson. Rnf4, a sumo-targeted ubiquitin e3 ligase, promotes dna double-strand break repair. Genes &amp; Development, 26(11):1179–1195, June 2012. URL: http://dx.doi.org/10.1101/gad.188284.112, doi:10.1101/gad.188284.112. This article has 263 citations.](https://doi.org/10.1101/gad.188284.112)
+
+[10. (Vyas2012RNF4) R Vyas, R Kumar, F Clermont, A Helfricht, P Kalev, P Sotiropoulou, I A Hendriks, E Radaelli, T Hochepied, C Blanpain, A Sablina, H van Attikum, J V Olsen, A G Jochemsen, A C O Vertegaal, and J-C Marine. Rnf4 is required for dna double-strand break repair in vivo. Cell Death &amp; Differentiation, 20(3):490–502, November 2012. URL: http://dx.doi.org/10.1038/cdd.2012.145, doi:10.1038/cdd.2012.145. This article has 93 citations.](https://doi.org/10.1038/cdd.2012.145)

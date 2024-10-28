@@ -1,0 +1,62 @@
+# BCL6
+
+## Overview
+BCL6 is a gene that encodes the BCL6 transcription repressor, a zinc finger protein that plays a pivotal role in the regulation of gene expression, particularly within the immune system. The BCL6 protein is characterized by its BTB/POZ domain and C2H2 zinc finger motifs, which facilitate its function as a transcriptional repressor. It is predominantly active in germinal center B cells, where it regulates processes such as proliferation and survival during antibody affinity maturation by repressing genes involved in DNA damage response pathways. BCL6 also influences the differentiation of T-cell subsets, including follicular helper T cells and regulatory T cells, by modulating the expression of key transcription factors. Clinically, alterations in the BCL6 gene, such as mutations and translocations, are associated with various lymphomas, including diffuse large B-cell lymphoma, where they contribute to oncogenesis by disrupting normal B-cell maturation and differentiation (Pasqualucci2003Mutations; Ci2009The; Bereshchenko2002Acetylation).
+
+## Structure
+The BCL6 protein is a transcriptional repressor characterized by a BTB/POZ domain and six C-terminal C2H2 zinc finger motifs. The BTB/POZ domain, located at the N-terminus, is a 120-amino-acid motif that facilitates homomeric and heteromeric interactions, essential for transcriptional repression through recruitment of co-repressors like N-CoR, SMRT, and BCoR (Huynh1998The; Stead2008Structure). The POZ domain forms domain-swapped homodimers with a conserved BTB fold, featuring a core of alpha-helices flanked by beta-sheets (Stead2008Structure). 
+
+The zinc finger motifs are Kruppel-type, which recognize specific DNA sequences, contributing to the protein's role as a transcription factor (Chang1996BCL6). The BCL6 protein is a nuclear phosphoprotein, and its function is modulated by post-translational modifications such as acetylation. Acetylation by the coactivator p300 occurs at a lysine cluster in the N-terminal region, specifically at Lys379, which disrupts its ability to recruit histone deacetylases, thereby inhibiting its transcriptional repression activity (Bereshchenko2002Acetylation). 
+
+The protein's structure and interactions are crucial for its role in B-cell development and its involvement in certain lymphomas (Stead2014Structures).
+
+## Function
+BCL6 is a transcriptional repressor that plays a critical role in the regulation of gene expression in healthy human cells, particularly within the immune system. It is predominantly active in germinal center (GC) B cells, where it facilitates rapid proliferation and survival during the process of antibody affinity maturation. BCL6 achieves this by repressing genes involved in DNA damage sensing and checkpoint pathways, such as ATR, TP53, and CDKN1A, allowing B cells to tolerate DNA damage incurred during somatic hypermutation (Ci2009The).
+
+In addition to its role in B cells, BCL6 is also involved in the regulation of T-cell subsets within the GC, including CD4+ follicular helper T cells and regulatory T cells. It modulates the differentiation of these cells by repressing transcription factors like Tbx21, Gata3, and Rorγt, which are involved in the differentiation of Th1, Th2, and Th17 cell lineages (Bunting2013New).
+
+BCL6 exerts its repressive effects by recruiting transcriptional corepressors such as SMRT, NCOR, and BCOR through its N-terminal BTB domain. This interaction is crucial for maintaining the GC phenotype and preventing premature differentiation into plasma cells by repressing factors like PRDM1 (Bunting2013New; Ci2009The).
+
+## Clinical Significance
+Mutations and alterations in the BCL6 gene are significantly associated with various lymphomas, particularly diffuse large B-cell lymphoma (DLBCL). BCL6 is frequently involved in chromosomal translocations and somatic mutations, which can lead to its deregulated expression. These genetic changes are common in DLBCL and contribute to lymphomagenesis by disrupting normal B-cell maturation and differentiation processes (Pasqualucci2003Mutations; Dent2002Regulation). 
+
+In DLBCL, mutations in the BCL6 promoter region can disrupt its negative autoregulatory mechanism, leading to overexpression of the gene. This overexpression is linked to the pathogenesis of DLBCL, as it allows for the repression of genes involved in cell cycle arrest and apoptosis, promoting malignant transformation (Pasqualucci2003Mutations). 
+
+BCL6 translocations are also observed in other lymphomas, such as follicular lymphoma and mantle cell lymphoma, and are associated with the persistence of B-cells in a DNA-damage-tolerant state, which can lead to further oncogenic mutations (LeemanNeill2018BCL6). Despite its oncogenic role, high BCL6 expression has been associated with better prognosis in certain subtypes of gastric DLBCL (Chen2006High).
+
+## Interactions
+The BCL6 transcription repressor protein interacts with several proteins and nucleic acids, playing a crucial role in transcriptional repression. BCL6 forms complexes with corepressors such as SMRT, N-CoR, and BCOR through its BTB/POZ domain. These interactions are essential for its repressor activity, as they recruit histone deacetylases (HDACs) to modify chromatin structure and suppress gene expression (Huynh1998The; Parekh2008Therapeutic). The POZ domain of BCL6 is both necessary and sufficient for binding to these corepressors, and mutations in this domain can disrupt these interactions (Huynh1998The).
+
+BCL6 also interacts with the NFκB signaling pathway components, specifically binding to NFκB subunits such as RELA/p65 and RELB. This interaction occurs in the nucleus and is involved in repressing NFκB activity, which is significant in diffuse large B-cell lymphomas (Perez‐Rosado2008BCL6).
+
+Acetylation of BCL6 by the p300 protein inhibits its ability to repress transcription by disrupting its interaction with HDAC2, a critical component of its repressor function. This acetylation prevents BCL6 from recruiting HDAC-containing complexes, although it does not affect its DNA binding or nuclear localization (Bereshchenko2002Acetylation).
+
+
+## References
+
+
+[1. (Chang1996BCL6) C C Chang, B H Ye, R S Chaganti, and R Dalla-Favera. Bcl-6, a poz/zinc-finger protein, is a sequence-specific transcriptional repressor. Proceedings of the National Academy of Sciences, 93(14):6947–6952, July 1996. URL: http://dx.doi.org/10.1073/pnas.93.14.6947, doi:10.1073/pnas.93.14.6947. This article has 363 citations.](https://doi.org/10.1073/pnas.93.14.6947)
+
+[2. (Ci2009The) Weimin Ci, Jose M. Polo, Leandro Cerchietti, Rita Shaknovich, Ling Wang, Shao Ning Yang, Kenny Ye, Pedro Farinha, Douglas E. Horsman, Randy D. Gascoyne, Olivier Elemento, and Ari Melnick. The bcl6 transcriptional program features repression of multiple oncogenes in primary b cells and is deregulated in dlbcl. Blood, 113(22):5536–5548, May 2009. URL: http://dx.doi.org/10.1182/blood-2008-12-193037, doi:10.1182/blood-2008-12-193037. This article has 184 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1182/blood-2008-12-193037)
+
+[3. (Bunting2013New) Karen L Bunting and Ari M Melnick. New effector functions and regulatory mechanisms of bcl6 in normal and malignant lymphocytes. Current Opinion in Immunology, 25(3):339–346, June 2013. URL: http://dx.doi.org/10.1016/j.coi.2013.05.003, doi:10.1016/j.coi.2013.05.003. This article has 58 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.coi.2013.05.003)
+
+[4. (Chen2006High) Yun-Wen Chen, Xiao-Tong Hu, Anthony C. Liang, Wing-Yan Au, Chi-Chiu So, Michelle L. Wong, Lijun Shen, Qian Tao, Kent-Man Chu, Yok-Lam Kwong, Raymond H. Liang, and Gopesh Srivastava. High bcl6 expression predicts better prognosis, independent of bcl6 translocation status, translocation partner, or bcl6-deregulating mutations, in gastric lymphoma. Blood, 108(7):2373–2383, October 2006. URL: http://dx.doi.org/10.1182/blood-2006-05-022517, doi:10.1182/blood-2006-05-022517. This article has 49 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1182/blood-2006-05-022517)
+
+[5. (Pasqualucci2003Mutations) Laura Pasqualucci, Anna Migliazza, Katia Basso, Jane Houldsworth, R. S. K. Chaganti, and Riccardo Dalla-Favera. Mutations of the bcl6 proto-oncogene disrupt its negative autoregulation in diffuse large b-cell lymphoma. Blood, 101(8):2914–2923, April 2003. URL: http://dx.doi.org/10.1182/blood-2002-11-3387, doi:10.1182/blood-2002-11-3387. This article has 243 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1182/blood-2002-11-3387)
+
+[6. (Stead2014Structures) Mark Alexander Stead and Stephanie Claire Wright. Structures of heterodimeric poz domains of miz1/bcl6 and miz1/nac1. Acta Crystallographica Section F Structural Biology Communications, 70(12):1591–1596, November 2014. URL: http://dx.doi.org/10.1107/s2053230x14023449, doi:10.1107/s2053230x14023449. This article has 24 citations.](https://doi.org/10.1107/s2053230x14023449)
+
+[7. (Huynh1998The) Khanh D Huynh and Vivian J Bardwell. The bcl-6 poz domain and other poz domains interact with the co-repressors n-cor and smrt. Oncogene, 17(19):2473–2484, October 1998. URL: http://dx.doi.org/10.1038/sj.onc.1202197, doi:10.1038/sj.onc.1202197. This article has 263 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.onc.1202197)
+
+[8. (Dent2002Regulation) Alexander L. Dent, Farha H Vasanwala, and Lisa M Toney. Regulation of gene expression by the proto-oncogene bcl-6. Critical Reviews in Oncology/Hematology, 41(1):1–9, January 2002. URL: http://dx.doi.org/10.1016/s1040-8428(01)00164-0, doi:10.1016/s1040-8428(01)00164-0. This article has 68 citations.](https://doi.org/10.1016/s1040-8428(01)00164-0)
+
+[9. (Perez‐Rosado2008BCL6) A Perez‐Rosado, MJ Artiga, P Vargiu, A Sanchez‐Aguilera, A Alvarez‐Barrientos, and MA Piris. Bcl6 represses nfκb activity in diffuse large b‐cell lymphomas. The Journal of Pathology, 214(4):498–507, January 2008. URL: http://dx.doi.org/10.1002/path.2279, doi:10.1002/path.2279. This article has 36 citations.](https://doi.org/10.1002/path.2279)
+
+[10. (Bereshchenko2002Acetylation) Oksana R. Bereshchenko, Wei Gu, and Riccardo Dalla-Favera. Acetylation inactivates the transcriptional repressor bcl6. Nature Genetics, 32(4):606–613, October 2002. URL: http://dx.doi.org/10.1038/ng1018, doi:10.1038/ng1018. This article has 333 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ng1018)
+
+[11. (Parekh2008Therapeutic) Samir Parekh, Gilbert Privé, and Ari Melnick. Therapeutic targeting of the bcl6 oncogene for diffuse large b-cell lymphomas. Leukemia &amp; Lymphoma, 49(5):874–882, January 2008. URL: http://dx.doi.org/10.1080/10428190801895345, doi:10.1080/10428190801895345. This article has 35 citations.](https://doi.org/10.1080/10428190801895345)
+
+[12. (LeemanNeill2018BCL6) Rebecca J Leeman-Neill and Govind Bhagat. Bcl6 as a therapeutic target for lymphoma. Expert Opinion on Therapeutic Targets, 22(2):143–152, January 2018. URL: http://dx.doi.org/10.1080/14728222.2018.1420782, doi:10.1080/14728222.2018.1420782. This article has 54 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/14728222.2018.1420782)
+
+[13. (Stead2008Structure) Mark A. Stead, Gareth O. Rosbrook, Jonathan M. Hadden, Chi H. Trinh, Stephen B. Carr, and Stephanie C. Wright. Structure of the wild-type human bcl6 poz domain. Acta Crystallographica Section F Structural Biology and Crystallization Communications, 64(12):1101–1104, November 2008. URL: http://dx.doi.org/10.1107/S1744309108036063, doi:10.1107/s1744309108036063. This article has 11 citations.](https://doi.org/10.1107/S1744309108036063)

@@ -1,0 +1,41 @@
+# EZHIP
+
+## Overview
+EZHIP, or EZH inhibitory protein, is a gene that encodes a nuclear protein involved in the regulation of epigenetic modifications. The protein product of the EZHIP gene functions primarily as an inhibitor of the Polycomb Repressive Complex 2 (PRC2), a key player in chromatin remodeling and gene silencing through histone modification. By inhibiting PRC2, EZHIP modulates the trimethylation of histone H3 on lysine 27 (H3K27me3), thereby influencing gene expression and chromatin structure (Ragazzini2019EZHIP; Jain2019PFA). EZHIP is predominantly expressed in germ cells, where it plays a crucial role in maintaining epigenetic regulation during gametogenesis, impacting fertility and developmental processes (Ragazzini2019EZHIP). Additionally, aberrant expression of EZHIP is implicated in various cancers, including pediatric brain tumors, highlighting its clinical significance (Jain2019PFA; Castel2020Histone).
+
+## Function
+EZHIP (EZH inhibitory protein) functions as a critical regulator of the Polycomb Repressive Complex 2 (PRC2) in germ cells. It acts as an inhibitor of PRC2's enzymatic activity, which is responsible for the trimethylation of histone H3 on lysine 27 (H3K27me3), a key epigenetic mark associated with gene silencing (Ragazzini2019EZHIP; Jain2019PFA). By inhibiting PRC2, EZHIP reduces the deposition of H3K27me3, thereby influencing chromatin structure and gene expression profiles (Ragazzini2019EZHIP; Jain2019PFA).
+
+In healthy human cells, EZHIP is primarily expressed in germ cells, including primordial germ cells and adult gonads, with high expression levels in ovaries and testes (Ragazzini2019EZHIP). It plays a significant role during gametogenesis by maintaining proper epigenetic regulation, which is crucial for fertility. The absence of EZHIP in oocytes leads to altered epigenetic landscapes and reduced fertility, highlighting its importance in oogenesis (Ragazzini2019EZHIP).
+
+EZHIP is located in the nucleus, where it modulates epigenetic states and influences cellular identity and function. Its activity is particularly important in regulating the timing of PRC2 activity reduction during developmental DNA demethylation of the germline genome (Ragazzini2019EZHIP).
+
+## Clinical Significance
+Alterations in the expression of the EZHIP gene are implicated in several pediatric brain tumors, notably posterior fossa type A (PFA) ependymomas and diffuse midline gliomas (DMG), including diffuse intrinsic pontine gliomas (DIPG). EZHIP overexpression is associated with a global reduction in H3K27me3, a repressive histone mark, which is a hallmark of these tumors (Jain2019PFA; Castel2020Histone). This reduction in H3K27me3 leads to dysregulation of gene expression, contributing to tumorigenesis by upregulating genes that are typically silenced by PRC2-mediated gene silencing (Jain2019PFA).
+
+In PFA ependymomas, EZHIP expression is almost universal and mutually exclusive with H3K27M mutations, suggesting that these tumors achieve similar chromatin profiles through different molecular mechanisms (Jenseit2021EZHIP:). The aberrant silencing of the CDKN2A gene, crucial for cell cycle regulation, is noted in EZHIP-expressing cells, further contributing to tumorigenesis (Jain2019PFA).
+
+EZHIP's role extends beyond the central nervous system, with its expression also noted in endometrial stromal sarcoma and squamous non-small cell lung cancer, indicating its potential involvement in a broader range of cancers (Jenseit2021EZHIP:).
+
+## Interactions
+EZHIP (EZH inhibitory protein) interacts with the Polycomb Repressive Complex 2 (PRC2), a key regulator of gene expression through histone modification. EZHIP forms a stable complex with PRC2, associating with core subunits such as EZH2, SUZ12, EED, and RBBP4/6. It also interacts with accessory subunits like AEBP2, JARID2, PHF1, and MTF2, indicating its involvement with both PRC2.1 and PRC2.2 complexes (Ragazzini2019EZHIPa; Jain2019PFAa; Jenseit2021EZHIP:).
+
+The interaction between EZHIP and PRC2 is mediated by its C-terminal region, which is crucial for its inhibitory function. This region interacts directly with the EZH2 subunit, mimicking the H3 K27M mutation, and inhibits PRC2's histone methyltransferase activity, leading to reduced levels of H3K27me3 (Jain2019PFAa; Jenseit2021EZHIP:). The conserved sequence within EZHIP, known as the K27M-Like Peptide (KLP), is necessary and sufficient for this inhibition (Jain2019PFAa).
+
+EZHIP also interacts with components of the homologous recombination-mediated DNA repair pathway, particularly affecting the PALB2-BRCA2 axis. It competes with BRCA2 for binding to PALB2, thereby influencing DNA repair processes independently of PRC2 (Jenseit2021EZHIP:).
+
+
+## References
+
+
+[1. (Castel2020Histone) David Castel, Thomas Kergrohen, Arnault Tauziède-Espariat, Alan Mackay, Samia Ghermaoui, Emmanuèle Lechapt, Stefan M. Pfister, Christof M. Kramm, Nathalie Boddaert, Thomas Blauwblomme, Stéphanie Puget, Kévin Beccaria, Chris Jones, David T. W. Jones, Pascale Varlet, Jacques Grill, and Marie-Anne Debily. Histone h3 wild-type dipg/dmg overexpressing ezhip extend the spectrum diffuse midline gliomas with prc2 inhibition beyond h3-k27m mutation. Acta Neuropathologica, 139(6):1109–1113, March 2020. URL: http://dx.doi.org/10.1007/s00401-020-02142-w, doi:10.1007/s00401-020-02142-w. This article has 118 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1007/s00401-020-02142-w)
+
+2. (Ragazzini2019EZHIP) EZHIP constrains Polycomb Repressive Complex 2 activity in germ cells. This article has 0 citations.
+
+[3. (Ragazzini2019EZHIPa) Roberta Ragazzini, Raquel Pérez-Palacios, Irem H. Baymaz, Seynabou Diop, Katia Ancelin, Dina Zielinski, Audrey Michaud, Maëlle Givelet, Mate Borsos, Setareh Aflaki, Patricia Legoix, Pascal W. T. C. Jansen, Nicolas Servant, Maria-Elena Torres-Padilla, Deborah Bourc’his, Pierre Fouchet, Michiel Vermeulen, and Raphaël Margueron. Ezhip constrains polycomb repressive complex 2 activity in germ cells. Nature Communications, August 2019. URL: http://dx.doi.org/10.1038/s41467-019-11800-x, doi:10.1038/s41467-019-11800-x. This article has 76 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-11800-x)
+
+[4. (Jain2019PFAa) Siddhant U. Jain, Truman J. Do, Peder J. Lund, Andrew Q. Rashoff, Katharine L. Diehl, Marcin Cieslik, Andrea Bajic, Nikoleta Juretic, Shriya Deshmukh, Sriram Venneti, Tom W. Muir, Benjamin A. Garcia, Nada Jabado, and Peter W. Lewis. Pfa ependymoma-associated protein ezhip inhibits prc2 activity through a h3 k27m-like mechanism. Nature Communications, May 2019. URL: http://dx.doi.org/10.1038/s41467-019-09981-6, doi:10.1038/s41467-019-09981-6. This article has 147 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-09981-6)
+
+[5. (Jenseit2021EZHIP:) Anne Jenseit, Aylin Camgöz, Stefan M. Pfister, and Marcel Kool. Ezhip: a new piece of the puzzle towards understanding pediatric posterior fossa ependymoma. Acta Neuropathologica, 143(1):1–13, November 2021. URL: http://dx.doi.org/10.1007/s00401-021-02382-4, doi:10.1007/s00401-021-02382-4. This article has 21 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1007/s00401-021-02382-4)
+
+6. (Jain2019PFA) PFA ependymoma-associated protein EZHIP inhibits PRC2 activity through a H3 K27M-like mechanism. This article has 0 citations.

@@ -1,0 +1,62 @@
+# RELA
+
+## Overview
+The RELA gene encodes the RELA proto-oncogene, NF-κB subunit, commonly referred to as p65, which is a pivotal component of the NF-κB transcription factor complex. This protein plays a crucial role in regulating immune responses, inflammation, cell proliferation, and survival. As a transcription factor, RELA is involved in the classical NF-κB signaling pathway, where it forms heterodimers with other NF-κB subunits, such as p50, to modulate gene expression in response to various stimuli, including cytokines and stress signals (Taniguchi2018NF-κB; Hoesel2013The). The activity of RELA is intricately regulated by post-translational modifications and interactions with inhibitory proteins, ensuring precise control over NF-κB activity to maintain cellular homeostasis and prevent excessive inflammation (Beg1993The; Hoesel2013The). Dysregulation of RELA is implicated in several diseases, including cancer and autoimmune disorders, highlighting its significance in both health and disease (Bargou1997Constitutive; An2023Case).
+
+## Structure
+The RELA protein, also known as p65, is a subunit of the NF-κB transcription factor complex. Its primary structure consists of 551 amino acids, featuring several key domains that contribute to its function. The Rel homology domain (RHD), spanning amino acids 19 to 306, is characterized by a beta-barrel secondary structure typical of the Rel family. This domain includes subdomains such as the N-terminal domain (NTD), DNA binding domain (DBD), dimerization domain (DimD), an inhibitory molecule IκB binding site, and a nuclear localization sequence (NLS) subdomain, which is crucial for DNA binding, dimerization, and nuclear translocation (Sun2024Posttranslational).
+
+The C-terminal region of RELA contains the transactivation domain (TAD), which is divided into two subdomains, TA1 and TA2, located between amino acids 428 and 551. These domains are essential for transcriptional activation, with TA1 being particularly significant for its strong transactivation capability (Grimm1993The).
+
+Post-translational modifications, including phosphorylation and acetylation, play a critical role in regulating RELA's activity. Phosphorylation occurs at multiple sites, such as Ser-276, Ser-536, and Thr-254, affecting its transcriptional activity and interactions with other proteins (Perkins2006Posttranslational). Acetylation at lysine residues, such as Lys-218, Lys-221, and Lys-310, modulates DNA binding and transcriptional activity (Chen2002Acetylation).
+
+## Function
+The RELA proto-oncogene, also known as p65, is a critical subunit of the NF-κB transcription factor complex, which plays a significant role in regulating immune responses, inflammation, cell proliferation, and survival in healthy human cells. RELA is primarily involved in the classical NF-κB signaling pathway, where it forms heterodimers with other NF-κB subunits, such as p50, to translocate to the nucleus and activate gene transcription in response to various stimuli, including cytokines and stress signals (Taniguchi2018NF-κB; Hoesel2013The).
+
+In the nucleus, RELA binds to specific DNA sequences to regulate the expression of genes involved in immune and inflammatory responses, such as interleukin-8 (IL-8), a chemotactic cytokine crucial for the inflammatory response (Kunsch1993NFκB). The activity of RELA is modulated by post-translational modifications, such as phosphorylation, which are essential for its transcriptional activity and nuclear import (Hoesel2013The).
+
+RELA's function is tightly regulated by interactions with inhibitory proteins like IκBα, which sequester NF-κB in the cytoplasm under resting conditions. Upon activation, IκBα is degraded, allowing RELA to enter the nucleus and exert its effects on gene expression (Beg1993The). This regulation ensures that NF-κB activity is controlled, preventing excessive inflammation and maintaining cellular homeostasis (Hoesel2013The).
+
+## Clinical Significance
+Mutations and dysregulation of the RELA gene, which encodes a subunit of the NF-kB transcription factor, are implicated in various diseases. In cancer, RELA is often overexpressed or activated, contributing to tumorigenesis, neovascularization, and metastasis. This is observed in cancers such as prostate cancer, melanoma, and head and neck cancer, where NF-kB activity is crucial for processes like inflammation and apoptosis (Lu2015Negative). In Hodgkin's disease, constitutive activation of RelA is a marker for Reed-Sternberg cells, promoting cell proliferation and survival, and its inhibition can lead to increased apoptosis (Bargou1997Constitutive).
+
+RELA mutations are also associated with inflammatory and autoimmune conditions. Novel variants in RELA have been linked to familial Behcet’s-like disease, known as RELA-associated inflammatory disease (RAID). This condition is characterized by symptoms such as mucosal ulceration, fevers, arthritis, and gastrointestinal inflammation. RELA haploinsufficiency may contribute to the development of systemic lupus erythematosus and other autoimmune phenotypes (An2023Case). These mutations lead to decreased NF-kB signaling, promoting TNF-driven mucosal apoptosis and impaired epithelial recovery (An2023Case).
+
+## Interactions
+RELA, a subunit of the NF-κB transcription factor, engages in various interactions with proteins and nucleic acids that are crucial for its function in gene regulation. RELA forms a complex with p50 to regulate gene expression by binding to specific κB DNA sites. This binding is enhanced by protein cofactors such as RPS3 and p53, which increase the DNA binding affinity of RELA, although they do not form stable ternary complexes with it (Mulero2018Protein).
+
+RELA also interacts with the co-activator proteins CBP/p300, which are essential for NF-κB-driven transcription. The interaction occurs through the RelA-TA2 region binding to the TAZ1 domain of CBP/p300, mediated by hydrophobic and electrostatic interactions. This interaction is crucial for the transcriptional regulation of NF-κB-dependent genes (Mukherjee2013Analysis).
+
+Acetylation of RELA at specific lysine residues by p300 inhibits its binding to IκBα, affecting its subcellular localization and nuclear functions. Deacetylation by HDAC3 promotes the interaction with IκBα, leading to cytoplasmic retention of RELA (Chen2002Acetylation).
+
+These interactions highlight the dynamic and versatile nature of RELA in regulating gene expression through both DNA-dependent and DNA-independent mechanisms.
+
+
+## References
+
+
+[1. (Bargou1997Constitutive) R C Bargou, F Emmerich, D Krappmann, K Bommert, M Y Mapara, W Arnold, H D Royer, E Grinstein, A Greiner, C Scheidereit, and B Dörken. Constitutive nuclear factor-kappab-rela activation is required for proliferation and survival of hodgkin’s disease tumor cells. Journal of Clinical Investigation, 100(12):2961–2969, December 1997. URL: http://dx.doi.org/10.1172/jci119849, doi:10.1172/jci119849. This article has 616 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci119849)
+
+[2. (Lu2015Negative) Xinyuan Lu and Wendell G. Yarbrough. Negative regulation of rela phosphorylation: emerging players and their roles in cancer. Cytokine &amp; Growth Factor Reviews, 26(1):7–13, February 2015. URL: http://dx.doi.org/10.1016/j.cytogfr.2014.09.003, doi:10.1016/j.cytogfr.2014.09.003. This article has 36 citations.](https://doi.org/10.1016/j.cytogfr.2014.09.003)
+
+[3. (Kunsch1993NFκB) Charles Kunsch and Craig A. Rosen. Nf-κb subunit-specific regulation of the interleukin-8 promoter. Molecular and Cellular Biology, 13(10):6137–6146, October 1993. URL: http://dx.doi.org/10.1128/mcb.13.10.6137-6146.1993, doi:10.1128/mcb.13.10.6137-6146.1993. This article has 23 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.13.10.6137-6146.1993)
+
+[4. (Perkins2006Posttranslational) N D Perkins. Post-translational modifications regulating the activity and function of the nuclear factor kappa b pathway. Oncogene, 25(51):6717–6730, October 2006. URL: http://dx.doi.org/10.1038/sj.onc.1209937, doi:10.1038/sj.onc.1209937. This article has 535 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.onc.1209937)
+
+[5. (Mukherjee2013Analysis) Sulakshana P. Mukherjee, Marcelo Behar, Harry A. Birnbaum, Alexander Hoffmann, Peter E. Wright, and Gourisankar Ghosh. Analysis of the rela:cbp/p300 interaction reveals its involvement in nf-κb-driven transcription. PLoS Biology, 11(9):e1001647, September 2013. URL: http://dx.doi.org/10.1371/journal.pbio.1001647, doi:10.1371/journal.pbio.1001647. This article has 123 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.1001647)
+
+[6. (Sun2024Posttranslational) Xutao Sun, Shuo Cao, Caiyun Mao, Fengqi Sun, Xuanming Zhang, and Yunjia Song. Post-translational modifications of p65: state of the art. Frontiers in Cell and Developmental Biology, July 2024. URL: http://dx.doi.org/10.3389/fcell.2024.1417502, doi:10.3389/fcell.2024.1417502. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2024.1417502)
+
+[7. (Taniguchi2018NF-κB) Koji Taniguchi and Michael Karin. Nf-κb, inflammation, immunity and cancer: coming of age. Nature Reviews Immunology, 18(5):309–324, January 2018. URL: http://dx.doi.org/10.1038/nri.2017.142, doi:10.1038/nri.2017.142. This article has 1778 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nri.2017.142)
+
+[8. (Chen2002Acetylation) L.-f. Chen. Acetylation of rela at discrete sites regulates distinct nuclear functions of nf-kappab. The EMBO Journal, 21(23):6539–6548, December 2002. URL: http://dx.doi.org/10.1093/emboj/cdf660, doi:10.1093/emboj/cdf660. This article has 646 citations.](https://doi.org/10.1093/emboj/cdf660)
+
+[9. (Grimm1993The) S Grimm and P A Baeuerle. The inducible transcription factor nf-κb: structure-function relationship of its protein subunits. Biochemical Journal, 290(2):297–308, March 1993. URL: http://dx.doi.org/10.1042/bj2900297, doi:10.1042/bj2900297. This article has 320 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj2900297)
+
+[10. (Mulero2018Protein) Maria Carmen Mulero, Shandy Shahabi, Myung Soo Ko, Jamie M. Schiffer, De-Bin Huang, Vivien Ya-Fan Wang, Rommie E. Amaro, Tom Huxford, and Gourisankar Ghosh. Protein cofactors are essential for high-affinity dna binding by the nuclear factor κb rela subunit. Biochemistry, 57(20):2943–2957, April 2018. URL: http://dx.doi.org/10.1021/acs.biochem.8b00158, doi:10.1021/acs.biochem.8b00158. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.biochem.8b00158)
+
+[11. (An2023Case) Jason W. An, Pallavi Pimpale-Chavan, Deborah L. Stone, Marcia Bandeira, Fatma Dedeoglu, Jeffrey Lo, John Bohnsack, Sofia Rosenzweig, Oskar Schnappauf, Dilan Dissanayake, Linda T. Hiraki, Daniel L. Kastner, Christina Pelajo, Ronald M. Laxer, and Ivona Aksentijevich. Case report: novel variants in rela associated with familial behcet’s-like disease. Frontiers in Immunology, February 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1127085, doi:10.3389/fimmu.2023.1127085. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1127085)
+
+[12. (Beg1993The) A A Beg and A S Baldwin. The i kappa b proteins: multifunctional regulators of rel/nf-kappa b transcription factors. Genes &amp; Development, 7(11):2064–2070, November 1993. URL: http://dx.doi.org/10.1101/gad.7.11.2064, doi:10.1101/gad.7.11.2064. This article has 640 citations.](https://doi.org/10.1101/gad.7.11.2064)
+
+[13. (Hoesel2013The) Bastian Hoesel and Johannes A Schmid. The complexity of nf-κb signaling in inflammation and cancer. Molecular Cancer, 12(1):86, 2013. URL: http://dx.doi.org/10.1186/1476-4598-12-86, doi:10.1186/1476-4598-12-86. This article has 2415 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/1476-4598-12-86)

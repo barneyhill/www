@@ -1,0 +1,54 @@
+# ZNF146
+
+## Overview
+ZNF146, also known as OZF, is a gene that encodes the zinc finger protein 146, a nuclear protein characterized by its ten C2H2-type zinc finger motifs. These motifs are indicative of the protein's role in nucleic acid binding, suggesting its involvement in gene regulation (Pibouin2001Genomic; Ferbus1996Identification). The protein is implicated in various cellular processes, including telomere maintenance and replication fork progression, particularly under conditions of DNA replication stress (Feu2020OZF). ZNF146 is widely expressed across human tissues and has been associated with oncogenic processes in several cancers, such as lung adenocarcinoma and colorectal cancer, where it plays a role in tumor progression and metastasis (Zhu2021LncRNA; Jiang2023Long). Despite its broad expression, the precise functions of ZNF146 in normal cellular contexts remain to be fully elucidated, with current research suggesting potential roles in transcriptional regulation and epigenetic modifications (Creamer2022ZNF146OZF).
+
+## Structure
+ZNF146, also known as OZF, is a protein composed solely of ten C2H2-type zinc finger motifs, which are common nucleic acid binding motifs found in many eukaryotic proteins (Pibouin2001Genomic; Ferbus1996Identification). These zinc finger motifs facilitate DNA binding, suggesting a role in gene regulation (Pibouin2001Genomic). The protein is a 33 kDa nuclear protein, consistent with its predicted size (Ferbus1996Identification).
+
+The ZNF146 protein undergoes post-translational modification through sumoylation, specifically involving the SUMO-1 conjugating enzyme UBC9. This modification occurs primarily at the sixth zinc finger, with lysine residues 157 and 169 identified as major SUMO-1 modification sites (Antoine2005A). The presence of zinc finger 7 is necessary for effective SUMO-1 modification and interaction with UBC9, indicating a region downstream of the target lysines is required for this interaction (Antoine2005A).
+
+ZNF146 is also known to interact with other proteins, such as the telomeric protein hRAp1 and Claspin, which is crucial for maintaining replication fork progression under stress conditions (Feu2020OZF). The protein's structure lacks a transactivation domain, distinguishing it from other members of the Krüppel family (Feu2020OZF).
+
+## Function
+ZNF146, also known as OZF, is a zinc finger protein that plays a role in targeting LINE-1 (L1) sequences within the human genome. It binds to both old and young L1 elements, particularly near the 3' end of the ORF2-encoding region, suggesting a broad targeting capability (Creamer2022ZNF146OZF). ZNF146 is widely expressed in human tissues and is involved in various cellular processes, including telomere maintenance and replication fork progression under DNA replication stress (Creamer2022ZNF146OZF; Feu2020OZF). It interacts with the telomeric protein Rap1 and is associated with replisome subunits, potentially influencing replication fork progression during stress conditions (Creamer2022ZNF146OZF; Feu2020OZF).
+
+Despite its widespread expression, the specific functions of ZNF146 in healthy human cells remain largely unknown. It may regulate transcription or epigenetic modifications in heterochromatic regions enriched for L1 sequences, and it has been identified as a potential regulator of the naive primate pluripotency network, suggesting a role in early embryogenesis (Creamer2022ZNF146OZF). However, in HEK293 cells, the disruption of ZNF146 did not lead to significant changes in gene expression, indicating that its regulatory roles might be subtle or context-dependent (Creamer2022ZNF146OZF).
+
+## Clinical Significance
+ZNF146, also known as zinc finger protein 146, has been implicated in various cancers due to its altered expression levels and interactions. In lung adenocarcinoma (LUAD), ZNF146 is highly expressed and plays an oncogenic role by promoting tumor progression and metastasis through the ZNF146/ATR/CHK1 axis. Knockdown of ZNF146 in LUAD cells results in decreased proliferation, migration, and invasion, suggesting its potential as a therapeutic target (Jiang2023Long).
+
+In colorectal cancer (CRC), ZNF146 is upregulated and contributes to cancer progression. It is regulated by the long non-coding RNA KCNQ1OT1, which acts as a molecular sponge for miR-216b-5p, leading to increased ZNF146 expression. This upregulation is associated with enhanced cell proliferation, migration, and invasion, highlighting ZNF146 as a potential biomarker and therapeutic target in CRC (Zhu2021LncRNA).
+
+ZNF146 is also overexpressed in gastric cancer, where it is part of the circPIP5K1A/miR-376c-3p axis. This overexpression counteracts the repressive effects of miR-376c-3p, promoting tumor growth and invasion (Ma2020CircPIP5K1A). The gene's dysregulation is an early event in colorectal cancer, occurring in over 80% of cases, and is not associated with specific tumor subtypes (Ferbus2003The).
+
+## Interactions
+ZNF146, also known as OZF, is involved in several protein-protein and protein-nucleic acid interactions. It interacts with Claspin, a protein crucial for DNA replication and the DNA damage checkpoint, particularly under conditions of replication stress. This interaction is significant for maintaining replication fork progression, highlighting ZNF146's role in managing replication stress (Feu2020OZF).
+
+ZNF146 also targets LINE-1 (L1) sequences within the human genome, binding to both old and young L1 elements, particularly near the 3' end of the ORF2 region. This interaction suggests a role in regulating transcription or epigenetic modifications in heterochromatic regions enriched for L1 sequences (Creamer2022ZNF146OZF; Creamer2021ZNF146OZF).
+
+Additionally, ZNF146 has been associated with the telomeric protein Rap1, indicating a potential role in telomere maintenance (Creamer2022ZNF146OZF). In the context of cancer, ZNF146 is part of the ZNF146/ATR/CHK1 axis, which is activated by the long noncoding RNA ZBED5-AS1 in lung adenocarcinoma, promoting tumor progression and metastasis (Jiang2023Long). These interactions underscore ZNF146's involvement in both genomic stability and oncogenic processes.
+
+
+## References
+
+
+[1. (Pibouin2001Genomic) L. Pibouin, J. Villaudy, M.-T. Prospéri, and G. Goubin. Genomic organization and promoter identification of znf146, a gene encoding a protein consisting solely of zinc finger domains. Cytogenetic and Genome Research, 92(1–2):80–84, 2001. URL: http://dx.doi.org/10.1159/000056873, doi:10.1159/000056873. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1159/000056873)
+
+[2. (Zhu2021LncRNA) Shuang Zhu, Chih-Yen Chen, and Yangyang Hao. Lncrna kcnq1ot1 acts as mir-216b-5p sponge to promote colorectal cancer progression via up-regulating znf146. Journal of Molecular Histology, 52(3):479–490, January 2021. URL: http://dx.doi.org/10.1007/s10735-020-09942-0, doi:10.1007/s10735-020-09942-0. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10735-020-09942-0)
+
+[3. (Creamer2022ZNF146OZF) Kevin M Creamer, Eric C Larsen, and Jeanne B Lawrence. Znf146/ozf and znf507 target line-1 sequences. G3 Genes|Genomes|Genetics, January 2022. URL: http://dx.doi.org/10.1093/g3journal/jkac002, doi:10.1093/g3journal/jkac002. This article has 3 citations.](https://doi.org/10.1093/g3journal/jkac002)
+
+[4. (Ferbus1996Identification) Didier Ferbus, Catherine Le Chalony, Marie‐Thérèse Prospéri, Martine Muleris, Anne Vincent‐Salomon, and Gérard Goubin. Identification, nuclear localization, and binding activities of ozf, a human protein solely composed of zinc‐finger motifs. European Journal of Biochemistry, 236(3):991–995, March 1996. URL: http://dx.doi.org/10.1111/j.1432-1033.1996.00991.x, doi:10.1111/j.1432-1033.1996.00991.x. This article has 12 citations.](https://doi.org/10.1111/j.1432-1033.1996.00991.x)
+
+[5. (Antoine2005A) Kar�ne Antoine, Marie-Th�r�se Prosp�ri, Didier Ferbus, Catherine Boule, and G�rard Goubin. A kruppel zinc finger of znf 146 interacts with the sumo-1 conjugating enzyme ubc9 and is sumoylated in vivo. Molecular and Cellular Biochemistry, 271(1–2):215–223, March 2005. URL: http://dx.doi.org/10.1007/s11010-005-6417-2, doi:10.1007/s11010-005-6417-2. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11010-005-6417-2)
+
+6. (Creamer2021ZNF146OZF) ZNF146/OZF and ZNF507 target LINE-1 sequences. This article has 0 citations.
+
+[7. (Jiang2023Long) Feng Jiang, Xiaolu Huang, Liqun Ling, Shiyi Tang, Huixin Zhou, Xueding Cai, and Yumin Wang. Long noncoding rna zbed5-as1 facilitates tumor progression and metastasis in lung adenocarcinoma via znf146/atr/chk1 axis. International Journal of Molecular Sciences, 24(18):13925, September 2023. URL: http://dx.doi.org/10.3390/ijms241813925, doi:10.3390/ijms241813925. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms241813925)
+
+[8. (Ma2020CircPIP5K1A) Yan Ma, Xiliang Cong, Yiyun Zhang, Xin Yin, Ziyu Zhu, and Yingwei Xue. Circpip5k1a facilitates gastric cancer progression via mir-376c-3p/znf146 axis. Cancer Cell International, March 2020. URL: http://dx.doi.org/10.1186/s12935-020-1122-5, doi:10.1186/s12935-020-1122-5. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-020-1122-5)
+
+[9. (Ferbus2003The) Didier Ferbus, Christophe Bovin, Pierre Validire, and Gérard Goubin. The zinc finger protein ozf (znf146) is overexpressed in colorectal cancer. The Journal of Pathology, 200(2):177–182, March 2003. URL: http://dx.doi.org/10.1002/path.1337, doi:10.1002/path.1337. This article has 17 citations.](https://doi.org/10.1002/path.1337)
+
+[10. (Feu2020OZF) Sonia Feu, Fernando Unzueta, Alba Llopis, Jennifer I. Semple, Amaia Ercilla, Sandra Guaita‐Esteruelas, Montserrat Jaumot, Raimundo Freire, and Neus Agell. Ozf is a claspin‐interacting protein essential to maintain the replication fork progression rate under replication stress. The FASEB Journal, 34(5):6907–6919, April 2020. URL: http://dx.doi.org/10.1096/fj.201901926R, doi:10.1096/fj.201901926r. This article has 4 citations.](https://doi.org/10.1096/fj.201901926R)

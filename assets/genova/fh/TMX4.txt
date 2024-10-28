@@ -1,0 +1,36 @@
+# TMX4
+
+## Overview
+TMX4, or thioredoxin related transmembrane protein 4, is a gene that encodes a type I transmembrane protein belonging to the protein disulfide isomerase (PDI) family. This protein is primarily localized in the endoplasmic reticulum (ER) and is involved in redox reactions crucial for protein folding and cellular homeostasis. TMX4 is characterized by a thioredoxin-like domain, which is predominantly oxidized in living cells, and a unique cysteine-proline-serine-cysteine (CPSC) active site sequence. The protein plays a significant role in nuclear envelope dynamics, particularly during ER stress, by facilitating the disassembly of LINC complexes through the reduction of disulfide bonds between NESPRIN and SUN proteins. This activity is essential for processes such as ONM-phagy, which is important for maintaining nuclear envelope integrity. TMX4's involvement in cellular stress responses and its elevated expression in certain cancers, such as melanoma, highlight its potential clinical significance (Roth2009A; Kucińska2023TMX4driven).
+
+## Structure
+TMX4 is a type I transmembrane protein that is part of the protein disulfide isomerase (PDI) family. It is composed of 349 amino acids and has a molecular weight of approximately 39 kDa. The protein includes a signal sequence for entry into the secretory pathway, with a predicted cleavage site between residues 23 and 24 (Roth2009A). TMX4 contains a thioredoxin-like domain spanning residues 39 to 136, which is crucial for its redox activity. This domain is predicted to include an additional C-terminal α-helix and a short β-strand, deviating from the canonical thioredoxin fold (Roth2009A).
+
+The protein also features a transmembrane helix between residues 188 and 210, linking the thioredoxin-like domain to the C-terminal region, which is highly negatively charged and lacks a classical ER-localization motif (Roth2009A). TMX4 is N-glycosylated at Asn46, a modification confirmed by Endo H treatment (Roth2009A). The active site of TMX4 is characterized by a non-canonical cysteine-proline-serine-cysteine (CPSC) sequence, which is unusual among PDIs and contributes to its oxidized state in cells (Roth2009A; Kucińska2023TMX4driven). TMX4's structure and modifications suggest it has distinct functional properties compared to other PDI family members.
+
+## Function
+TMX4 (thioredoxin related transmembrane protein 4) is a member of the protein disulfide isomerase (PDI) family, primarily involved in redox reactions within the endoplasmic reticulum (ER). It plays a crucial role in maintaining the redox environment of the ER, which is essential for proper protein folding and cellular homeostasis (Roth2009A). TMX4 is an N-glycosylated type I membrane protein localized to the ER, characterized by a thioredoxin-like domain that is mainly oxidized in living cells (Roth2009A). This protein is involved in the formation and reduction of disulfide bonds, which are critical for the structural integrity and function of proteins within the ER (Roth2009A).
+
+TMX4 also plays a significant role in nuclear envelope (NE) dynamics, particularly during ER stress. It is involved in the disassembly of LINC complexes by reducing intermolecular disulfide bonds between NESPRIN and SUN proteins, which increases the distance between the outer nuclear membrane (ONM) and inner nuclear membrane (INM) (Kucińska2023TMX4driven). This activity is crucial for the lysosomal clearance of ONM subdomains, a process known as ONM-phagy, which is important for maintaining NE integrity and cellular responses to ER stress (Kucińska2023TMX4driven).
+
+## Clinical Significance
+TMX4 has been implicated in cancer, particularly melanoma, due to its significantly elevated expression levels in melanoma cells compared to normal melanocytes. This upregulation suggests a potential role in the transformation of melanocytes into melanoma cells, indicating that alterations in TMX4 expression may be associated with cancer progression (Roth2009A). The protein's involvement in cellular stress responses, particularly during endoplasmic reticulum (ER) stress, further underscores its clinical significance. TMX4 is involved in the disassembly of LINC complexes during ER stress, which is crucial for maintaining cellular homeostasis. This function may have broader implications for understanding diseases related to ER stress or viral infections, although specific diseases are not detailed (Kucińska2023TMX4driven).
+
+Alterations in TMX4 expression also impact autophagy processes related to the nuclear envelope, affecting stress recovery in cells. The reduction of TMX4 expression has been shown to decrease the presence of SEC62-positive endolysosomes, indicating its role in autophagy regulation. While specific diseases resulting from these alterations are not detailed, the findings suggest that TMX4's role in stress recovery and autophagy could have clinical implications (Kucińska2022SEC62).
+
+## Interactions
+TMX4, a member of the protein disulfide isomerase (PDI) superfamily, is involved in several protein interactions, particularly in the context of the nuclear envelope (NE) and endoplasmic reticulum (ER) stress. TMX4 interacts with NESPRIN proteins, specifically forming mixed disulfides with NESPRIN3α, NESPRIN2, and NESPRIN1. These interactions are crucial for the disassembly of LINC complexes, which are composed of NESPRIN proteins in the outer nuclear membrane (ONM) and SUN proteins in the inner nuclear membrane (INM) (Kucińska2023TMX4driven).
+
+TMX4's reductase activity facilitates the reduction of disulfide bonds between NESPRIN and SUN proteins, leading to the disassembly of these complexes during ER stress. This process is essential for the enlargement of the perinuclear space (PNS) and the dynamic remodeling of the NE (Kucińska2023TMX4driven). TMX4 does not form mixed disulfides with SUN proteins, indicating a specific interaction with NESPRIN proteins (Kucińska2023TMX4driven).
+
+The interaction of TMX4 with NESPRIN3 is also involved in the lysosomal delivery of NESPRIN3 during recovery from ER stress, highlighting TMX4's role in the regulation of autophagy and NE dynamics (Kucińska2022SEC62).
+
+
+## References
+
+
+1. (Kucińska2022SEC62) SEC62 and TMX4 control asymmetric autophagy of the nuclear envelope upon LINC complex disassembly. This article has 2 citations.
+
+[2. (Roth2009A) Doris Roth, Emily Lynes, Jan Riemer, Henning G. Hansen, Nils Althaus, Thomas Simmen, and Lars Ellgaard. A di-arginine motif contributes to the er localization of the type i transmembrane er oxidoreductase tmx4. Biochemical Journal, 425(1):195–208, December 2009. URL: http://dx.doi.org/10.1042/bj20091064, doi:10.1042/bj20091064. This article has 32 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20091064)
+
+[3. (Kucińska2023TMX4driven) Marika K. Kucińska, Juliette Fedry, Carmela Galli, Diego Morone, Andrea Raimondi, Tatiana Soldà, Friedrich Förster, and Maurizio Molinari. Tmx4-driven linc complex disassembly and asymmetric autophagy of the nuclear envelope upon acute er stress. Nature Communications, June 2023. URL: http://dx.doi.org/10.1038/s41467-023-39172-3, doi:10.1038/s41467-023-39172-3. This article has 20 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-39172-3)

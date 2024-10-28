@@ -1,0 +1,48 @@
+# CASTOR1
+
+## Overview
+CASTOR1 is a gene that encodes the cytosolic arginine sensor for mTORC1 subunit 1, a protein integral to the regulation of the mechanistic target of rapamycin complex 1 (mTORC1) signaling pathway. This protein functions as a cytosolic sensor for arginine, a key amino acid, and plays a crucial role in cellular growth and metabolism by modulating mTORC1 activity in response to nutrient availability. Structurally, the CASTOR1 protein is characterized by its four tandem ACT domains, which facilitate its function as an arginine sensor through specific binding interactions. The protein forms homodimers and interacts with the GATOR2 complex to regulate mTORC1 signaling, a process that is essential for maintaining cellular homeostasis and energy balance (Saxton2016Mechanism; Gai2016Structural). Alterations in CASTOR1 expression or function have been implicated in various cancers, highlighting its significance as a potential therapeutic target (Li2021RNF167; Zhou2018CASTOR1).
+
+## Structure
+The human CASTOR1 protein is composed of 329 amino acid residues and functions as a cytosolic arginine sensor in the mTORC1 signaling pathway. It forms a homodimer in solution, with each monomer containing four tandem ACT domains, which are small regulatory domains found in various enzymes (Xia2016Structural; Gai2016Structural). The ACT domains are organized into two main regions: the N-terminal domain (NTD) and the C-terminal domain (CTD), which together form a structure resembling two halves of a sphere (Gai2016Structural).
+
+The secondary structure of CASTOR1 includes typical βαββαβ topologies in ACT1 and ACT3, while ACT2 and ACT4 exhibit an unusual ββαββα topology with additional β-strands (Xia2016Structural). These domains contribute to the formation of a β-barrel-like core, with ACT1 and ACT3 forming an 8-stranded β-sheet and ACT2 and ACT4 forming a 10-stranded β-sheet (Xia2016Structural).
+
+The quaternary structure of CASTOR1 is characterized by its dimerization, which is facilitated by hydrophobic interactions and hydrogen bonds involving the α1 and α5 helices (Gai2016Structural). The arginine-binding pocket is located at the interface of ACT2 and ACT4, with specific residues forming hydrogen bonds and hydrophobic interactions with arginine (Xia2016Structural). This binding induces a conformational change that affects the interaction with the downstream effector GATOR2 (Gai2016Structural).
+
+## Function
+CASTOR1 is a cytosolic protein that functions as an arginine sensor in the mTORC1 signaling pathway, a crucial regulator of cell growth and metabolism in human cells. It plays a pivotal role in sensing arginine levels and modulating mTORC1 activity accordingly. In the absence of arginine, CASTOR1 binds to the GATOR2 complex, inhibiting mTORC1 signaling. When arginine is present, CASTOR1 binds to arginine, which induces a conformational change that prevents its association with GATOR2, thereby allowing mTORC1 signaling to proceed (Saxton2016Mechanism; Gai2016Structural).
+
+The arginine-binding pocket of CASTOR1 is located at the interface of its ACT2 and ACT4 domains, where specific residues coordinate the binding of arginine. This interaction is crucial for the protein's function as an arginine sensor (Saxton2016Mechanism). CASTOR1 forms homodimers or heterodimers with its homolog CASTOR2, although only CASTOR1 binds arginine due to specific structural features (Saxton2016Mechanism).
+
+CASTOR1's activity is primarily in the cytoplasm, where it influences nutrient sensing and cellular energy homeostasis. Its regulatory function is essential for maintaining cellular homeostasis and controlling cell proliferation, particularly in response to nutrient availability (Li2021RNF167).
+
+## Clinical Significance
+Alterations in the expression or function of the CASTOR1 gene have significant clinical implications, particularly in cancer. CASTOR1 acts as a tumor suppressor by inhibiting the mTORC1 pathway, which is crucial for cell growth and proliferation. In various cancers, including breast cancer and lung adenocarcinoma, low expression levels of CASTOR1 are associated with poor prognosis and increased tumorigenesis (Li2021RNF167; Zhou2018CASTOR1). In breast cancer, the degradation of CASTOR1 is facilitated by RNF167-mediated ubiquitination and AKT1-mediated phosphorylation, leading to enhanced mTORC1 activation and cancer progression (Li2021RNF167).
+
+In lung adenocarcinoma, reduced CASTOR1 expression correlates with advanced disease stages and poor survival rates. Overexpression of CASTOR1 in lung cancer cells has been shown to suppress cell proliferation, migration, and invasion, highlighting its potential as a therapeutic target (Zhou2018CASTOR1).
+
+In the context of Kaposi sarcoma-associated herpesvirus (KSHV), CASTOR1 is targeted by viral miRNAs, which suppress its expression and promote mTORC1 activation, contributing to tumorigenesis. This suggests that restoring CASTOR1 function could be a strategy to counteract KSHV-induced cancers (Li2019Kaposi).
+
+## Interactions
+CASTOR1 is a cytosolic protein that plays a critical role in the mTORC1 signaling pathway by sensing arginine levels. It interacts with the GATOR2 complex, specifically binding to the Mios subunit, to regulate mTORC1 activity. In the absence of arginine, CASTOR1 binds to GATOR2, inhibiting mTORC1 signaling. When arginine is present, CASTOR1 binds to arginine, which induces a conformational change that disrupts its association with GATOR2, thereby relieving the inhibition and activating mTORC1 signaling (Saxton2016Mechanism; Gai2016Structural).
+
+The interaction between CASTOR1 and GATOR2 is mediated by specific residues on CASTOR1, including Tyr118, Gln119, and Asp121, which are crucial for binding. Mutations in these residues can disrupt the interaction, leading to the activation of downstream signaling pathways even in the absence of arginine (Gai2016Structural). CASTOR1 functions as a homodimer, and its dimerization is essential for its interaction with GATOR2. Monomeric mutants of CASTOR1 show weaker interactions with GATOR2 and fail to inhibit mTORC1 signaling (Saxton2016Mechanism).
+
+CASTOR1 is also subject to regulation by ubiquitination and phosphorylation. The E3 ubiquitin ligase RNF167 targets CASTOR1 for degradation, which is enhanced by AKT-mediated phosphorylation. This process reduces CASTOR1's affinity for GATOR2, promoting mTORC1 activation and contributing to cancer progression (Li2021RNF167).
+
+
+## References
+
+
+[1. (Saxton2016Mechanism) Robert A. Saxton, Lynne Chantranupong, Kevin E. Knockenhauer, Thomas U. Schwartz, and David M. Sabatini. Mechanism of arginine sensing by castor1 upstream of mtorc1. Nature, 536(7615):229–233, August 2016. URL: http://dx.doi.org/10.1038/nature19079, doi:10.1038/nature19079. This article has 230 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature19079)
+
+[2. (Xia2016Structural) Jing Xia, Rong Wang, Tianlong Zhang, and Jianping Ding. Structural insight into the arginine-binding specificity of castor1 in amino acid-dependent mtorc1 signaling. Cell Discovery, September 2016. URL: http://dx.doi.org/10.1038/celldisc.2016.35, doi:10.1038/celldisc.2016.35. This article has 27 citations.](https://doi.org/10.1038/celldisc.2016.35)
+
+[3. (Gai2016Structural) Zhongchao Gai, Qian Wang, Can Yang, Lei Wang, Wei Deng, and Geng Wu. Structural mechanism for the arginine sensing and regulation of castor1 in the mtorc1 signaling pathway. Cell Discovery, December 2016. URL: http://dx.doi.org/10.1038/celldisc.2016.51, doi:10.1038/celldisc.2016.51. This article has 37 citations.](https://doi.org/10.1038/celldisc.2016.51)
+
+[4. (Li2021RNF167) Tingting Li, Xian Wang, Enguo Ju, Suzane Ramos da Silva, Luping Chen, Xinquan Zhang, Shan Wei, and Shou-Jiang Gao. Rnf167 activates mtorc1 and promotes tumorigenesis by targeting castor1 for ubiquitination and degradation. Nature Communications, February 2021. URL: http://dx.doi.org/10.1038/s41467-021-21206-3, doi:10.1038/s41467-021-21206-3. This article has 28 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-21206-3)
+
+[5. (Zhou2018CASTOR1) Xuefeng Zhou, Zhenshun Cheng, Hao Chen, Shenqi Shi, Xianguo Wang, Matthew Orang, and Jinping Zhao. Castor1 suppresses the progression of lung adenocarcinoma and predicts poor prognosis. Journal of Cellular Biochemistry, 119(12):10186–10194, August 2018. URL: http://dx.doi.org/10.1002/jcb.27360, doi:10.1002/jcb.27360. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcb.27360)
+
+[6. (Li2019Kaposi) Tingting Li, Enguo Ju, and Shou-Jiang Gao. Kaposi sarcoma–associated herpesvirus mirnas suppress castor1-mediated mtorc1 inhibition to promote tumorigenesis. Journal of Clinical Investigation, 129(8):3310–3323, July 2019. URL: http://dx.doi.org/10.1172/jci127166, doi:10.1172/jci127166. This article has 25 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci127166)

@@ -1,0 +1,50 @@
+# MOB2
+
+## Overview
+MOB2 is a gene that encodes the MOB kinase activator 2 protein, which is a critical component in various cellular processes, particularly in the regulation of kinase activity. The MOB2 protein functions primarily as a negative regulator of NDR kinases, which are part of the AGC family of serine/threonine kinases involved in cell cycle progression, apoptosis, and centrosome duplication. By competing with MOB1A/B for binding to NDR1/2 kinases, MOB2 forms inactive complexes, thereby inhibiting NDR kinase activation and influencing cellular processes such as apoptosis signaling and centrosome overduplication (Kohler2010Differential). Additionally, MOB2 is involved in the DNA damage response and interacts with various signaling pathways, including the cAMP/PKA and FAK/Akt pathways, which are crucial for cell migration and invasion (Jiang2020MOB2). The gene's role in these pathways underscores its importance in maintaining cellular homeostasis and its potential implications in diseases such as cancer and neurological disorders.
+
+## Structure
+The MOB2 protein is characterized by its interaction with Ndr/Lats kinases, facilitated through a conserved and modular interface. The primary structure of MOB2 includes a conserved MOB domain, which is crucial for its binding to kinases such as Cbk1 in Saccharomyces cerevisiae and NDR1/2 in humans (Parker2020NdrLats; Kohler2010Differential). The secondary structure of MOB2 involves a V-shaped helical hairpin in the N-terminal regulatory region, which is essential for the proper positioning of the hydrophobic motif of the kinase, a key factor in kinase activation (Parker2020NdrLats).
+
+The tertiary structure of MOB2, when bound to Cbk1, forms a bihelical conformation, incorporating the Mob protein's helix 2 into a cleft between the helices of the kinase, which is a common feature across eukaryotic Ndr/Lats-Mob complexes (Parker2020NdrLats). The quaternary structure involves the assembly of MOB2 with its kinase partners, forming a complex that is stabilized by salt bridges and hydrogen bonds (Parker2020NdrLats).
+
+Post-translational modifications, such as phosphorylation, play a significant role in MOB2's function, particularly in the regulation of kinase activity and cellular processes like hyphal development in Candida albicans (GutiérrezEscribano2011CDKdependent).
+
+## Function
+MOB2 (MOB kinase activator 2) is a protein that plays a significant role in regulating various cellular processes in human cells. It primarily functions as a negative regulator of NDR kinases, which are part of the AGC family of kinases involved in cell cycle progression, apoptosis, and centrosome duplication. MOB2 competes with MOB1A/B for binding to NDR1/2 kinases, forming inactive complexes and thereby inhibiting NDR kinase activation (Kohler2010Differential). This competitive binding results in decreased phosphorylation of NDR kinases, reducing their activity in processes such as apoptosis signaling and centrosome overduplication (Kohler2010Differential).
+
+MOB2 is also implicated in controlling cell morphology, particularly in neuroblastoma cells, where its manipulation affects neurite formation (Hergovich2011MOB). In the context of the DNA damage response, MOB2 interacts with the MRN complex, facilitating the recruitment of activated ATM to damaged chromatin, which is crucial for maintaining genomic stability (Gundogdu2019MOB). MOB2's involvement in these molecular processes highlights its importance in cellular homeostasis and development, acting primarily in the cytoplasm and nucleus to influence cell growth and division.
+
+## Clinical Significance
+Mutations and alterations in the expression of the MOB2 gene have been implicated in several diseases, particularly in cancer and neurological disorders. In the context of cancer, a single nucleotide polymorphism (SNP) in the hMOB2 gene has been identified as a susceptibility locus for prostate cancer (Gundogdu2019MOB). In glioblastoma multiforme (GBM), MOB2 acts as a tumor suppressor, and its downregulation is associated with enhanced malignant phenotypes and poor prognosis. MOB2 negatively regulates the FAK/Akt and cAMP/PKA signaling pathways, which are crucial for cell migration and invasion (Jiang2020MOB2).
+
+In neurological disorders, MOB2 loss-of-function mutations are linked to periventricular nodular heterotopia (PH), a condition characterized by improper neuronal positioning. These mutations disrupt neuronal migration and cilia dynamics, affecting cortical development (O’Neill2018Mob2).
+
+MOB2 also plays a role in the DNA damage response (DDR). Its deficiency impairs homologous recombination-mediated DNA repair, increasing sensitivity to PARP inhibitors and DNA-damaging agents, which has implications for cancer treatment, particularly in ovarian cancer (Gundogdu2021hMOB2).
+
+## Interactions
+MOB2 interacts specifically with NDR kinases, such as NDR1 and NDR2, but does not bind to LATS1 or LATS2. This interaction is crucial for its role as a negative regulator of NDR kinase activity. MOB2 binds to the N-terminal region of NDR1, competing with MOB1A for binding, which affects NDR activation (Kohler2010Differential). MOB2 is associated with unphosphorylated NDR complexes, suggesting it inhibits NDR activation (Kohler2010Differential).
+
+In glioblastoma cells, MOB2 interacts with the cAMP/PKA signaling pathway, enhancing PKA activity in a cAMP-dependent manner. This interaction is confirmed through co-immunoprecipitation assays, showing that MOB2 forms complexes with PKA (Jiang2020MOB2). MOB2 also regulates the FAK/Akt signaling pathway, which is involved in cell migration and invasion, by interacting with integrin (Jiang2020MOB2).
+
+MOB2 is involved in the DNA damage response, particularly in homologous recombination-mediated DNA repair. It affects the displacement of RPA by RAD51, which is crucial for DNA repair, and its deficiency increases sensitivity to PARP inhibitors (Gundogdu2021hMOB2).
+
+
+## References
+
+
+[1. (Parker2020NdrLats) Benjamin W. Parker, Gergo Gogl, Mónika Bálint, Csaba Hetényi, Attila Reményi, and Eric L. Weiss. Ndr/lats kinases bind specific mob-family coactivators through a conserved and modular interface. Biochemistry, 59(17):1688–1700, April 2020. URL: http://dx.doi.org/10.1021/acs.biochem.9b01096, doi:10.1021/acs.biochem.9b01096. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.biochem.9b01096)
+
+[2. (Hergovich2011MOB) Alexander Hergovich. Mob control: reviewing a conserved family of kinase regulators. Cellular Signalling, 23(9):1433–1440, September 2011. URL: http://dx.doi.org/10.1016/j.cellsig.2011.04.007, doi:10.1016/j.cellsig.2011.04.007. This article has 95 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2011.04.007)
+
+[3. (Gundogdu2021hMOB2) Ramazan Gundogdu, M. Kadir Erdogan, Angeliki Ditsiou, Victoria Spanswick, Juan Jose Garcia-Gomez, John A. Hartley, Fumiko Esashi, Alexander Hergovich, and Valenti Gomez. Hmob2 deficiency impairs homologous recombination-mediated dna repair and sensitises cancer cells to parp inhibitors. Cellular Signalling, 87:110106, November 2021. URL: http://dx.doi.org/10.1016/j.cellsig.2021.110106, doi:10.1016/j.cellsig.2021.110106. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2021.110106)
+
+[4. (O’Neill2018Mob2) Adam C. O’Neill, Christina Kyrousi, Melanie Einsiedler, Ingo Burtscher, Micha Drukker, David M. Markie, Edwin P. Kirk, Magdalena Götz, Stephen P. Robertson, and Silvia Cappello. Mob2 insufficiency disrupts neuronal migration in the developing cortex. Frontiers in Cellular Neuroscience, March 2018. URL: http://dx.doi.org/10.3389/fncel.2018.00057, doi:10.3389/fncel.2018.00057. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fncel.2018.00057)
+
+[5. (Jiang2020MOB2) Ke Jiang, Gang Yao, Lulu Hu, Yumei Yan, Jia Liu, Ji Shi, Youwei Chang, Ye Zhang, Dapeng Liang, Dachuan Shen, Guirong Zhang, Songshu Meng, and Haozhe Piao. Mob2 suppresses gbm cell migration and invasion via regulation of fak/akt and camp/pka signaling. Cell Death &amp; Disease, April 2020. URL: http://dx.doi.org/10.1038/s41419-020-2381-8, doi:10.1038/s41419-020-2381-8. This article has 54 citations.](https://doi.org/10.1038/s41419-020-2381-8)
+
+[6. (GutiérrezEscribano2011CDKdependent) Pilar Gutiérrez-Escribano, Alberto González-Novo, M. Belén Suárez, Chang-Run Li, Yue Wang, Carlos R. Vázquez de Aldana, and Jaime Correa-Bordes. Cdk-dependent phosphorylation of mob2 is essential for hyphal development incandida albicans. Molecular Biology of the Cell, 22(14):2458–2469, July 2011. URL: http://dx.doi.org/10.1091/mbc.e11-03-0205, doi:10.1091/mbc.e11-03-0205. This article has 42 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e11-03-0205)
+
+[7. (Gundogdu2019MOB) Ramazan Gundogdu and Alexander Hergovich. Mob (mps one binder) proteins in the hippo pathway and cancer. Cells, 8(6):569, June 2019. URL: http://dx.doi.org/10.3390/cells8060569, doi:10.3390/cells8060569. This article has 41 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells8060569)
+
+[8. (Kohler2010Differential) Reto S. Kohler, Debora Schmitz, Hauke Cornils, Brian A. Hemmings, and Alexander Hergovich. Differential ndr/lats interactions with the human mob family reveal a negative role for human mob2 in the regulation of human ndr kinases. Molecular and Cellular Biology, 30(18):4507–4520, September 2010. URL: http://dx.doi.org/10.1128/mcb.00150-10, doi:10.1128/mcb.00150-10. This article has 60 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.00150-10)

@@ -1,0 +1,50 @@
+# SACM1L
+
+## Overview
+SACM1L is a gene that encodes the SAC1-like phosphatidylinositide phosphatase, a critical enzyme involved in lipid metabolism and membrane trafficking within human cells. The SAC1 protein, categorized as a phosphatidylinositide phosphatase, is primarily localized in the endoplasmic reticulum and Golgi apparatus, where it plays a pivotal role in regulating phosphatidylinositol 4-phosphate (PtdIns4P) levels. This regulation is essential for maintaining lipid gradients and ensuring proper lipid transport and cellular signaling. The SACM1L gene is evolutionarily conserved across eukaryotic species, underscoring its fundamental role in cellular homeostasis. Alterations in SACM1L expression or function have been implicated in various diseases, including neurodegenerative disorders and infectious diseases, highlighting its clinical significance (Zewe2018SAC1).
+
+## Structure
+The SACM1L protein, a human ortholog of the yeast Sac1 protein, is a phosphatidylinositide phosphatase involved in lipid metabolism. It contains a SAC phosphatase catalytic domain at the N-terminus, which is crucial for its enzymatic activity, and two transmembrane (TM) domains at the C-terminus (Zhang2020PtdIns4P). This structural configuration is highly conserved across eukaryotic species, indicating its evolutionary importance (Zhang2020PtdIns4P).
+
+The primary structure of SACM1L consists of a sequence of amino acids that form the basis for its functional domains. The secondary structure likely includes alpha helices and beta sheets, which contribute to the protein's stability and function. The tertiary structure of SACM1L results in a specific three-dimensional shape necessary for its interaction with lipid substrates and other proteins. The quaternary structure may involve interactions with other proteins, although specific details are not provided in the context.
+
+SACM1L may undergo post-translational modifications such as phosphorylation, which can regulate its activity and interactions. Additionally, splice variants of SACM1L can lead to different isoforms, potentially with distinct functions, although specific isoforms are not detailed in the context provided.
+
+## Function
+The SACM1L gene encodes a phosphatidylinositide phosphatase known as SAC1, which plays a crucial role in lipid metabolism and membrane trafficking within human cells. SAC1 is primarily active in the endoplasmic reticulum (ER) and Golgi apparatus, where it degrades phosphatidylinositol 4-phosphate (PtdIns4P) to maintain a chemical gradient between the ER and donor membranes. This activity is essential for non-vesicular lipid transport and inositol lipid homeostasis, which are critical for cellular signaling and membrane dynamics (Zewe2018SAC1).
+
+SAC1 functions in a 'cis' configuration, acting within the same membrane to regulate PtdIns4P levels, which is necessary for maintaining lipid gradients and ensuring proper lipid traffic (Zewe2018SAC1). In the context of autophagy, SACM1L is involved in the fusion of autophagosomes with lysosomes, a key step in the autophagic process. It regulates PtdIns4P levels to prevent its accumulation, which is crucial for the recruitment of SNARE components necessary for autophagosome-lysosome fusion (Zhang2020PtdIns4P). The proper function of SACM1L is vital for maintaining cellular homeostasis and preventing disruptions in autophagic degradation, which can have implications for neurodegenerative diseases (Zhang2020PtdIns4P).
+
+## Clinical Significance
+Mutations and alterations in the SACM1L gene have been implicated in various diseases and conditions. In the context of neurodegenerative diseases, alterations in SACM1L expression are associated with Amyotrophic Lateral Sclerosis (ALS). Downregulation of SACM1L disrupts axonal transport, which is a critical factor in ALS pathogenesis (Fatemi2024Early). Additionally, SACM1L is involved in the autophagy pathway, and its deficiency can lead to the accumulation of autophagosomes, disrupting cellular homeostasis and potentially contributing to neurodegenerative conditions (Zhang2020PtdIns4P).
+
+SACM1L has also been linked to adverse drug reactions in patients with depression. Mutations in SACM1L, along with other genes, increase the risk of experiencing antidepressant-induced adverse effects, highlighting its role in pharmacogenomics (Zhou2015Clinical).
+
+In the context of infectious diseases, a variant in the SACM1L gene has been associated with COVID-19 severity. The variant rs73060324 in the 3′-UTR of SACM1L suggests a potential protective effect against severe COVID-19 pneumonia, although this association requires further validation (Zecevic2022GenomeWide).
+
+These findings underscore the clinical significance of SACM1L in various pathological conditions, emphasizing the need for further research to fully understand its role in disease mechanisms.
+
+## Interactions
+SACM1L, also known as SAC1, is involved in various protein interactions that are crucial for its function in lipid metabolism and membrane trafficking. SACM1L interacts with the ASFV protein E199L, which is significant for African swine fever virus (ASFV) infection. This interaction highlights the role of SACM1L in viral replication and suggests potential antiviral targets (GarcíaDorival2023Elucidation). SACM1L also interacts with proteins involved in cholesterol sensing and transport, such as TMEM33 and NPC1, emphasizing its importance in lipid metabolism during ASFV infection (GarcíaDorival2023Elucidation).
+
+SACM1L is involved in the hydrolysis of phosphatidylinositol 4-phosphate (PtdIns4P) and interacts with proteins like OSBP and VAP, which are crucial for lipid transfer and cellular homeostasis (Liu2023PtdIns4P). These interactions occur at endoplasmic reticulum (ER)-autolysosome contact sites, playing a role in autophagy and neuronal homeostasis (Liu2023PtdIns4P). SACM1L's interaction with COPI, a protein involved in retrograde transport from the Golgi to the ER, suggests its role in maintaining Golgi dispersion and proper cellular trafficking (Bura2022The). These interactions collectively underscore SACM1L's critical role in cellular lipid regulation and trafficking processes.
+
+
+## References
+
+
+[1. (Zhang2020PtdIns4P) Hongjun Zhang, Jiao Zhou, Peng Xiao, Yong Lin, Xin Gong, Shiyan Liu, Qingjia Xu, Minjin Wang, Haiyan Ren, Mengji Lu, Yuan Wang, Jing Zhu, Zhiping Xie, Huihui Li, and Kefeng Lu. Ptdins4p restriction by hydrolase sac1 decides specific fusion of autophagosomes with lysosomes. Autophagy, 17(8):1907–1917, July 2020. URL: http://dx.doi.org/10.1080/15548627.2020.1796321, doi:10.1080/15548627.2020.1796321. This article has 22 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2020.1796321)
+
+2. (Bura2022The) The intracellular and plasma membrane pools of PI4P control megakaryocyte maturation and proplatelet formation. This article has 0 citations.
+
+[3. (Zewe2018SAC1) James P Zewe, Rachel C Wills, Sahana Sangappa, Brady D Goulden, and Gerald RV Hammond. Sac1 degrades its lipid substrate ptdins4p in the endoplasmic reticulum to maintain a steep chemical gradient with donor membranes. eLife, February 2018. URL: http://dx.doi.org/10.7554/elife.35588, doi:10.7554/elife.35588. This article has 133 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.35588)
+
+[4. (Zecevic2022GenomeWide) Marko Zecevic, Nikola Kotur, Bojan Ristivojevic, Vladimir Gasic, Vesna Skodric-Trifunovic, Mihailo Stjepanovic, Goran Stevanovic, Lidija Lavadinovic, Branka Zukic, Sonja Pavlovic, and Biljana Stankovic. Genome-wide association study of covid-19 outcomes reveals novel host genetic risk loci in the serbian population. Frontiers in Genetics, July 2022. URL: http://dx.doi.org/10.3389/fgene.2022.911010, doi:10.3389/fgene.2022.911010. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.911010)
+
+[5. (GarcíaDorival2023Elucidation) Isabel García-Dorival, Miguel Ángel Cuesta-Geijo, Inmaculada Galindo, Ana del Puerto, Lucía Barrado-Gil, Jesús Urquiza, and Covadonga Alonso. Elucidation of the cellular interactome of african swine fever virus fusion proteins and identification of potential therapeutic targets. Viruses, 15(5):1098, April 2023. URL: http://dx.doi.org/10.3390/v15051098, doi:10.3390/v15051098. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/v15051098)
+
+[6. (Liu2023PtdIns4P) Hao Liu, Wenxia Shao, Wei Liu, Weina Shang, Jun-Ping Liu, Liquan Wang, and Chao Tong. Ptdins4p exchange at endoplasmic reticulum-autolysosome contacts is essential for autophagy and neuronal homeostasis. Autophagy, 19(10):2682–2701, June 2023. URL: http://dx.doi.org/10.1080/15548627.2023.2222556, doi:10.1080/15548627.2023.2222556. This article has 2 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2023.2222556)
+
+[7. (Zhou2015Clinical) Zhi-Wei Zhou, Xiao-Wu Chen, Kevin B. Sneed, Yin-Xue Yang, Xueji Zhang, Zhi-Xu He, Kevin Chow, Tianxin Yang, Wei Duan, and Shu-Feng Zhou. Clinical association between pharmacogenomics and adverse drug reactions. Drugs, 75(6):589–631, April 2015. URL: http://dx.doi.org/10.1007/s40265-015-0375-0, doi:10.1007/s40265-015-0375-0. This article has 52 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s40265-015-0375-0)
+
+[8. (Fatemi2024Early) S. Hossein Fatemi, Elysabeth D. Otte, Timothy D. Folsom, Arthur C. Eschenlauer, Randall J. Roper, Justin W. Aman, and Paul D. Thuras. Early chronic fluoxetine treatment of ts65dn mice rescues synaptic vesicular deficits and prevents aberrant proteomic alterations. Genes, 15(4):452, April 2024. URL: http://dx.doi.org/10.3390/genes15040452, doi:10.3390/genes15040452. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes15040452)

@@ -1,0 +1,35 @@
+# PPAN
+
+## Overview
+The PPAN gene encodes the peter pan homolog protein, a vital component in cellular processes such as ribosome biogenesis and mitochondrial homeostasis. As a member of the Brix domain protein family, the PPAN protein is primarily localized in the nucleolus, where it plays a significant role in the processing of pre-rRNA precursors, essential for ribosome assembly (Keil2019Loss). Additionally, PPAN is involved in maintaining mitochondrial integrity by interacting with cardiolipin, a mitochondrial membrane lipid, thereby contributing to mitochondrial homeostasis and autophagic flux (Dannheisig2019Loss). The protein's involvement in cell cycle regulation and its interactions with nucleolar factors such as Pescadillo and Nucleophosmin underscore its importance in cellular homeostasis and genomic stability (Keil2019Loss). Given its critical roles, alterations in PPAN expression or function have significant implications in cancer biology, making it a potential target for therapeutic interventions (Keil2019Loss).
+
+## Function
+The PPAN (peter pan homolog) gene encodes a protein that plays a crucial role in ribosome biogenesis, a fundamental process for protein synthesis in cells. PPAN is primarily localized in the nucleolus, where it is involved in the processing of pre-rRNA precursors, essential for the assembly of ribosomes (Keil2019Loss). This protein is a conserved member of the Brix domain protein family and contains a σ70-like motif that directly binds to rRNA, highlighting its importance in ribosomal RNA processing (Keil2019Loss).
+
+In addition to its nucleolar functions, PPAN is also found in mitochondria, where it contributes to mitochondrial homeostasis and autophagic flux. It interacts with cardiolipin, a lipid in the mitochondrial membrane, suggesting a role in maintaining mitochondrial integrity and function (Dannheisig2019Loss). PPAN knockdown leads to mitochondrial damage and enhances autophagic flux, indicating its involvement in cellular stress responses and mitochondrial maintenance (Dannheisig2019Loss).
+
+PPAN is also implicated in cell cycle regulation, as its depletion results in cell cycle arrest and defects in cytokinesis, which can lead to genomic instability (Keil2019Loss). These functions underscore PPAN's critical role in maintaining cellular homeostasis and integrity.
+
+## Clinical Significance
+Alterations in the expression or function of the PPAN gene have significant implications in cancer biology. PPAN is crucial for ribosome biogenesis and its depletion triggers nucleolar stress and apoptosis in a p53-independent manner, which is particularly relevant in cancer cells (Keil2019Loss). Knockdown of PPAN in cancer cell lines such as HeLa and HCT116 leads to cell cycle arrest and increased levels of γH2A.X, a marker of DNA damage, although this is not due to activation of DNA damage response kinases ATM/ATR but rather a consequence of apoptosis induction (Keil2019Loss). 
+
+In cancer cells, PPAN knockdown results in impaired cell proliferation and cell cycle defects, including arrest at the G0/G1 and G2/M phases, and is associated with genomic instability, a hallmark of cancer (Keil2019Loss). The depletion of PPAN also affects mitochondrial homeostasis, leading to mitochondrial damage and enhanced autophagic flux, which are significant in the context of cancer treatment (Dannheisig2019Loss). 
+
+In Drosophila, PPAN is a critical downstream mediator of Myc, a transcription factor often overexpressed in tumors. Deletion of Myc binding sites in the PPAN promoter reduces Myc-induced cell growth, suggesting that targeting PPAN could be a potential strategy for cancer treatment (Zielke2020Mycdependent).
+
+## Interactions
+The PPAN protein is involved in several interactions with other proteins, particularly within the nucleolus. It interacts with nucleolar factors such as Pescadillo (PES) and Nucleophosmin (NPM), both of which are associated with cancer-related processes (Keil2019Loss). The interaction between PPAN and PES is significant, as studies have shown that these proteins physically interact, as confirmed through in vitro pull-down assays and in vivo split YFP complementation assays (Tecza2011Pescadillo). This interaction is crucial during the development of the pronephros in Xenopus laevis, where PPAN and PES cooperate functionally, as evidenced by co-injection experiments that result in a more pronounced phenotype, indicating their cooperative role (Tecza2011Pescadillo).
+
+PPAN is also involved in the nucleolar stress response, which is linked to its interactions with other nucleolar proteins. These interactions are essential for maintaining genomic stability and regulating the cell cycle, particularly in cancer cells where PPAN knockdown leads to cell cycle defects and apoptosis (Keil2019Loss). The role of PPAN in these processes highlights its importance in cellular stress responses and its potential as a target for cancer therapy.
+
+
+## References
+
+
+[1. (Dannheisig2019Loss) David P. Dannheisig, Eileen Beck, Enrico Calzia, Paul Walther, Christian Behrends, and Astrid S. Pfister. Loss of peter pan (ppan) affects mitochondrial homeostasis and autophagic flux. Cells, 8(8):894, August 2019. URL: http://dx.doi.org/10.3390/cells8080894, doi:10.3390/cells8080894. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells8080894)
+
+[2. (Keil2019Loss) Marina Keil, Maria T. Meyer, David P. Dannheisig, Lars D. Maerz, Melanie Philipp, and Astrid S. Pfister. Loss of peter pan protein is associated with cell cycle defects and apoptotic events. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1866(5):882–895, May 2019. URL: http://dx.doi.org/10.1016/j.bbamcr.2019.01.010, doi:10.1016/j.bbamcr.2019.01.010. This article has 10 citations.](https://doi.org/10.1016/j.bbamcr.2019.01.010)
+
+[3. (Tecza2011Pescadillo) Aleksandra Tecza, Verena Bugner, Michael Kühl, and Susanne J. Kühl. Pescadillo homologue 1 and peter pan function during xenopus laevis pronephros development. Biology of the Cell, 103(10):483–498, October 2011. URL: http://dx.doi.org/10.1042/bc20110032, doi:10.1042/bc20110032. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1042/bc20110032)
+
+4. (Zielke2020Mycdependent) Myc-dependent cell competition and proliferative response requires induction of the ribosome biogenesis regulator Peter Pan. This article has 1 citations.

@@ -1,0 +1,42 @@
+# PHF7
+
+## Overview
+PHF7, or PHD finger protein 7, is a gene that encodes a RING-type E3 ubiquitin ligase protein involved in chromatin remodeling and transcriptional regulation. The protein, also named PHD finger protein 7, is characterized by its distinct domain architecture, including an extended PHD (ePHD) domain, a RING domain, and a C-terminal PHD domain. These domains facilitate its role in the ubiquitination of histones, particularly H2AK119 and H3K14, which is crucial for processes such as spermiogenesis in the male germline of mammals (Lee2023Molecular; Kim2020PHF7). The protein's function as a histone code reader and writer underscores its importance in the histone-to-protamine exchange, a vital step for proper chromatin packaging in sperm cells (Wang2019PHF7). Mutations or dysregulation of PHF7 have been associated with male infertility, highlighting its clinical significance (Wang2019PHF7; Yang2017Control).
+
+## Structure
+PHF7 (PHD finger protein 7) is characterized by its distinct domain architecture, which includes an extended PHD (ePHD) domain, a RING domain, and a C-terminal PHD domain. These domains are crucial for its function as a RING-type E3 ubiquitin ligase, particularly in the ubiquitination of histones H2AK119 and H3K14 (Lee2023Molecular; Kim2020PHF7).
+
+The primary structure of PHF7 consists of amino acid sequences that form these domains, with the RING domain playing a central role in ubiquitin ligase activity by coordinating two zinc ions through a cross-brace fold (Lee2023Molecular). The secondary structure likely includes alpha helices and beta sheets, typical of zinc finger domains, although specific details are not provided in the context.
+
+The tertiary structure involves the three-dimensional folding of these domains, facilitating interactions with other proteins. The RING domain interacts with the E2 ubiquitin-conjugating enzyme UBE2D2, while the ePHD domain is involved in nucleosome recognition via DNA binding (Lee2023Molecular). The quaternary structure of PHF7 includes its assembly into a complex with UBE2D2, forming a 1:1 complex that is essential for its ubiquitination activity (Lee2023Molecular).
+
+PHF7's PHD domain specifically recognizes methylated H3K4, acting as a histone code reader, which is crucial for its role in histone modification during spermiogenesis (Wang2019PHF7). The protein's structure and domain interactions are vital for its function in chromatin-mediated transcriptional regulation and histone modification.
+
+## Function
+PHF7 (PHD finger protein 7) is a RING-type E3 ubiquitin ligase that plays a crucial role in histone ubiquitination, specifically targeting histones H2AK119 and H3K14. This protein is primarily expressed in the male germline of mammals and is essential for the normal formation and maturation of male gametes (Lee2023Molecular). PHF7 facilitates the histone-to-protamine exchange in the chromatin of elongating spermatids, a critical process for proper chromatin packaging in sperm cells, which is necessary for genome protection and efficient transmission of paternal genetic information (Kim2020PHF7).
+
+PHF7 comprises three zinc finger domains: an N-terminal extended PHD (ePHD), a RING domain, and a C-terminal PHD. The RING domain is involved in ubiquitination, while the ePHD and PHD domains are responsible for substrate recognition. The ePHD domain binds to DNA and recognizes nucleosomes, whereas the C-terminal PHD domain recognizes histone H3 (Lee2023Molecular). PHF7's activity is crucial for maintaining the stability of BRDT, a testis-specific bromodomain protein, during histone removal in early condensing spermatids (Kim2020PHF7). The absence of PHF7 leads to defects in histone ubiquitination and histone-to-protamine exchange, resulting in abnormal sperm morphology and reduced motility, ultimately affecting male fertility (Kim2020PHF7).
+
+## Clinical Significance
+Mutations or alterations in the expression of the PHF7 gene have been linked to male infertility. In mice, the deletion of PHF7 results in male infertility due to impaired histone-to-protamine exchange, a critical process for chromatin compaction during spermiogenesis. This leads to aberrant histone retention and reduced protamine levels, causing defective sperm development and function (Wang2019PHF7). The RING domain of PHF7 is essential for its function as a histone H2A E3 ligase, and mutations in this domain result in similar infertility phenotypes as seen in PHF7-deficient mice (Wang2019PHF7).
+
+In Drosophila melanogaster, PHF7 is crucial for male germline identity and spermatogenesis. Mutations in PHF7 lead to decreased male fecundity and defects in spermatogonial development. The gene regulates the expression of other factors, such as REEPL1, which, when misexpressed, contribute to spermatogenesis defects (Yang2017Control). Although these studies are in model organisms, they suggest potential parallels in humans, indicating that PHF7 mutations or expression changes could be significant in understanding male infertility (Yang2017Control).
+
+## Interactions
+PHF7 (PHD finger protein 7) is involved in several key interactions with proteins and nucleic acids, playing a significant role in chromatin remodeling and spermiogenesis. PHF7 interacts with histones, specifically histone H2A and H3, through its PHD and RING domains. The PHD domain acts as an epigenetic reader, recognizing histone H3 N-terminal tails with a preference for trimethyl lysine 4 (H3K4me3/me2), while the RING domain functions as an epigenetic writer, mediating the ubiquitylation of histone H2A, which is crucial for chromatin remodeling during spermiogenesis (Wang2019PHF7).
+
+PHF7 also forms a complex with the E2 ubiquitin-conjugating enzyme UBE2D2. The RING domain of PHF7 interacts with UBE2D2, facilitating the recruitment of ubiquitin-charged E2 to the nucleosome. This interaction is stabilized by the PHD domain, which further contributes to UBE2D2 recruitment and the ubiquitination process (Lee2023Molecular).
+
+In addition, PHF7 modulates the stability of the Bromodomain, testis-specific (BRDT) protein, which is involved in chromatin reorganization. Although PHF7 does not directly bind to BRDT, it affects its stability through histone ubiquitination, which is essential for histone removal in early condensing spermatids (Kim2020PHF7).
+
+
+## References
+
+
+[1. (Lee2023Molecular) Hyun Sik Lee, Injin Bang, Junghyun You, Tae-Kyeong Jeong, Chang Rok Kim, Minsang Hwang, Jong-Seo Kim, Sung Hee Baek, Ji-Joon Song, and Hee-Jung Choi. Molecular basis for phf7-mediated ubiquitination of histone h3. Genes &amp; Development, 37(21–24):984–997, November 2023. URL: http://dx.doi.org/10.1101/gad.350989.123, doi:10.1101/gad.350989.123. This article has 2 citations.](https://doi.org/10.1101/gad.350989.123)
+
+[2. (Yang2017Control) Shu Yuan Yang, Yi-Chieh Chang, Yu Hsin Wan, Cale Whitworth, Ellen M Baxter, Shekerah Primus, Haiwei Pi, and Mark Van Doren. Control of a novel spermatocyte-promoting factor by the male germline sex determination factor phf7 of drosophila melanogaster. Genetics, 206(4):1939–1949, August 2017. URL: http://dx.doi.org/10.1534/genetics.117.199935, doi:10.1534/genetics.117.199935. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1534/genetics.117.199935)
+
+[3. (Wang2019PHF7) Xiukun Wang, Jun-Yan Kang, Leixin Wei, Xiaogan Yang, Hongduo Sun, Suming Yang, Lei Lu, Meng Yan, Meizhu Bai, Yanyan Chen, Juanjuan Long, Na Li, Dangsheng Li, Jing Huang, Ming Lei, Zhen Shao, Wen Yuan, Erwei Zuo, Kehuan Lu, Mo-Fang Liu, and Jinsong Li. Phf7 is a novel histone h2a e3 ligase prior to histone-to-protamine exchange during spermiogenesis. Development, January 2019. URL: http://dx.doi.org/10.1242/dev.175547, doi:10.1242/dev.175547. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1242/dev.175547)
+
+[4. (Kim2020PHF7) Chang Rok Kim, Taichi Noda, Hyunkyung Kim, Gibeom Kim, Seongwan Park, Yongwoo Na, Seiya Oura, Keisuke Shimada, Injin Bang, Jun-Yeong Ahn, Yong Ryoul Kim, Se Kyu Oh, Hee-Jung Choi, Jong-Seo Kim, Inkyung Jung, Ho Lee, Yuki Okada, Masahito Ikawa, and Sung Hee Baek. Phf7 modulates brdt stability and histone-to-protamine exchange during spermiogenesis. Cell Reports, 32(4):107950, July 2020. URL: http://dx.doi.org/10.1016/j.celrep.2020.107950, doi:10.1016/j.celrep.2020.107950. This article has 27 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2020.107950)

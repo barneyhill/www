@@ -1,0 +1,52 @@
+# SLC39A6
+
+## Overview
+SLC39A6 is a gene that encodes the protein solute carrier family 39 member 6, commonly referred to as ZIP6. ZIP6 is a transmembrane zinc transporter that plays a pivotal role in maintaining cellular zinc homeostasis by facilitating the influx of zinc ions into the cytosol. As a member of the ZIP family, ZIP6 is characterized by its multiple transmembrane domains, which are essential for its function in zinc transport across cell membranes (Smorodina2022Study; Smorodina2022Structural). The protein is involved in various cellular processes, including cell proliferation, differentiation, and immune function, and is particularly active in hormonally regulated tissues where it responds to estrogen (Althobiti2021Oestrogenregulated). ZIP6 also participates in critical signaling pathways, such as the Akt pathway, influencing processes like epithelial-mesenchymal transition (EMT) (Althobiti2021Oestrogenregulated). The gene's expression and function have significant implications in cancer biology, where it can act as a biomarker for prognosis and a potential therapeutic target (Cui2015SLC39A6:; Gao2019Involvement).
+
+## Structure
+The SLC39A6 protein, also known as ZIP6, is a member of the solute carrier family involved in zinc transport. It features transmembrane domains typical of the ZIP family, facilitating the movement of zinc ions across cell membranes. The protein is characterized by multiple transmembrane alpha-helices, which are crucial for its function as a transporter (Smorodina2022Study; Smorodina2022Structural). 
+
+The structural analysis of SLC39A6 has been enhanced by the use of AlphaFold2, which predicts the protein's three-dimensional conformation. The native structure and its QTY variant, which involves substituting hydrophobic amino acids with hydrophilic ones, show a high degree of structural similarity with a root mean square deviation (RMSD) of 0.931 Å, indicating that the overall 3D fold is maintained despite significant sequence substitutions (Smorodina2022Study; Smorodina2022Structural).
+
+The QTY variant of SLC39A6 transforms the hydrophobic transmembrane alpha-helices into hydrophilic ones without significantly altering the alpha-helical structures, maintaining the protein's structural integrity (Smorodina2022Study). This transformation is achieved by replacing hydrophobic residues with glutamine, threonine, and tyrosine, which reduces hydrophobicity while preserving similar isoelectric points and molecular weights (Smorodina2022Structural).
+
+## Function
+SLC39A6, also known as ZIP6, is a zinc transporter that plays a crucial role in maintaining cellular zinc homeostasis by facilitating the influx of zinc ions from extracellular or intracellular stores into the cytosol. This protein is part of the ZIP family of transporters and is active in the plasma membrane, where it regulates zinc levels essential for various cellular processes (Samuel2022The; Althobiti2021Oestrogenregulated).
+
+In healthy human cells, SLC39A6 is involved in several critical biological functions, including cell proliferation, differentiation, and immune function. Zinc, transported by SLC39A6, is required for numerous cellular activities such as protein synthesis, nucleic acid metabolism, and cell division. The protein's activity is particularly significant in hormonally controlled tissues, where it is upregulated in response to estrogen (Althobiti2021Oestrogenregulated).
+
+SLC39A6 also plays a role in signaling pathways, such as the activation of Akt, which inhibits glycogen synthase kinase 3 beta (GSK-3β). This pathway can influence processes like epithelial-mesenchymal transition (EMT) by affecting the expression of proteins such as Snail and E-cadherin (CDH1) (Althobiti2021Oestrogenregulated). The protein's function in zinc transport and its regulatory roles in cellular signaling underscore its importance in maintaining cellular and organismal health.
+
+## Clinical Significance
+The SLC39A6 gene, also known as ZIP6, has been implicated in various cancers due to its role in zinc homeostasis. In luminal estrogen receptor-positive (ER+) breast cancer, high expression of SLC39A6 is associated with favorable prognosis and less aggressive tumor features. It is positively correlated with other ER-related markers and is considered a potential biomarker for good prognosis in ER+ breast cancer (Althobiti2021Oestrogenregulated). 
+
+In contrast, SLC39A6 is overexpressed in gastric adenocarcinoma (GA) and is associated with poor prognosis. The polymorphism rs1050631 in SLC39A6 correlates with higher risk of recurrence and death post-resection in GA patients, suggesting its role as an oncogene in this context (Gao2019Involvement). 
+
+In esophageal squamous cell carcinoma (ESCC), SLC39A6 is significantly upregulated and linked to tumor progression. Its overexpression is associated with poor differentiation and advanced stages of the disease. Knockdown studies indicate that SLC39A6 promotes cell proliferation and invasiveness, making it a potential target for therapy (Cui2015SLC39A6:). 
+
+These findings highlight the dual role of SLC39A6 in cancer, acting as a marker of good prognosis in some contexts while promoting tumorigenesis in others.
+
+## Interactions
+SLC39A6, also known as ZIP6, is involved in several protein interactions that are crucial for its function in zinc transport and cellular processes. ZIP6 forms a heteromer with ZIP10, another member of the LIV-1 subfamily of zinc transporters. This heteromer is essential for zinc-mediated mitotic progression, as it facilitates zinc influx necessary for mitosis (Nimmanon2020The). The ZIP6/ZIP10 complex interacts with phosphorylated STAT3 (pS 727 STAT3) during mitosis, which is crucial for microtubule reorganization and chromosome condensation (Nimmanon2020The).
+
+ZIP6 also interacts with proteins such as calreticulin and NCAM1, which are involved in cell adhesion and migration. These interactions suggest a role for ZIP6 in focal adhesion complexes and cell migratory machinery (Kambe2021Zinc). Additionally, ZIP6 is associated with glycogen synthase kinase 3 alpha and beta (GSK3A/B), indicating its involvement in signaling pathways that regulate cellular processes (Kambe2021Zinc). These interactions highlight the multifaceted role of ZIP6 in cellular dynamics and its potential impact on cancer progression and metastasis.
+
+
+## References
+
+
+[1. (Althobiti2021Oestrogenregulated) Maryam Althobiti, Khloud A. El-sharawy, Chitra Joseph, Mohammed Aleskandarany, Michael S. Toss, Andrew R. Green, and Emad A. Rakha. Oestrogen-regulated protein slc39a6: a biomarker of good prognosis in luminal breast cancer. Breast Cancer Research and Treatment, 189(3):621–630, August 2021. URL: http://dx.doi.org/10.1007/s10549-021-06336-y, doi:10.1007/s10549-021-06336-y. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10549-021-06336-y)
+
+[2. (Gao2019Involvement) Jian Gao, Wenjun Ren, Chunhong Xiao, Lie Wang, Qiaojia Huang, Zaizhong Zhang, Yuan Dang, Pengcheng Weng, Hui Wang, Xuehong Fang, Minxian Zhuang, Liying Lin, and Shaoquan Chen. Involvement of slc39a6 in gastric adenocarcinoma and correlation of the slc39a6 polymorphism rs1050631 with clinical outcomes after resection. BMC Cancer, November 2019. URL: http://dx.doi.org/10.1186/s12885-019-6222-z, doi:10.1186/s12885-019-6222-z. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-019-6222-z)
+
+[3. (Smorodina2022Structural) Eva Smorodina, Igor Diankin, Fei Tao, Rui Qing, Steve Yang, and Shuguang Zhang. Structural informatic study of determined and alphafold2 predicted molecular structures of 13 human solute carrier transporters and their water-soluble qty variants. Scientific Reports, November 2022. URL: http://dx.doi.org/10.1038/s41598-022-23764-y, doi:10.1038/s41598-022-23764-y. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-022-23764-y)
+
+[4. (Samuel2022The) Jones Samuel, Farr Georgia, Nimmanon Thirayost, Ziliotto Silvia, Gee Julia M.W., and Taylor Kathryn M. The importance of targeting signalling mechanisms of the slc39a family of zinc transporters to inhibit endocrine resistant breast cancer. Exploration of Targeted Anti-tumor Therapy, pages 224–239, April 2022. URL: http://dx.doi.org/10.37349/etat.2022.00080, doi:10.37349/etat.2022.00080. This article has 2 citations.](https://doi.org/10.37349/etat.2022.00080)
+
+[5. (Nimmanon2020The) Thirayost Nimmanon, Silvia Ziliotto, Olivia Ogle, Anna Burt, Julia M. W. Gee, Glen K. Andrews, Pete Kille, Christer Hogstrand, Wolfgang Maret, and Kathryn M. Taylor. The zip6/zip10 heteromer is essential for the zinc-mediated trigger of mitosis. Cellular and Molecular Life Sciences, 78(4):1781–1798, August 2020. URL: http://dx.doi.org/10.1007/s00018-020-03616-6, doi:10.1007/s00018-020-03616-6. This article has 32 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-020-03616-6)
+
+[6. (Kambe2021Zinc) Taiho Kambe, Kathryn M. Taylor, and Dax Fu. Zinc transporters and their functional integration in mammalian cells. Journal of Biological Chemistry, 296:100320, January 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.100320, doi:10.1016/j.jbc.2021.100320. This article has 147 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.100320)
+
+[7. (Cui2015SLC39A6:) Xiao-Bin Cui, Yao-yuan Shen, Ting-ting Jin, Su Li, Ting-ting Li, Shu-mao Zhang, Hao Peng, Chun-xia Liu, Shu-gang Li, Lan Yang, Na Li, Jian-ming Hu, Jin-Fang Jiang, Man Li, Wei-hua Liang, Yong Li, Yu-tao Wei, Zhen-zhu Sun, Chuan-yue Wu, Yun-Zhao Chen, and Feng Li. Slc39a6: a potential target for diagnosis and therapy of esophageal carcinoma. Journal of Translational Medicine, October 2015. URL: http://dx.doi.org/10.1186/s12967-015-0681-z, doi:10.1186/s12967-015-0681-z. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-015-0681-z)
+
+8. (Smorodina2022Study) Study of determined and AlphaFold2 predicted molecular structures of 13 human solute carrier transporters and their water-soluble QTY variants. This article has 0 citations.

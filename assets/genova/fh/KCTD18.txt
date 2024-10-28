@@ -1,0 +1,34 @@
+# KCTD18
+
+## Overview
+KCTD18 is a gene that encodes the protein potassium channel tetramerization domain containing 18, which is a member of the KCTD family characterized by the presence of a BTB (Broad-Complex, Tramtrack, and Bric-à-brac) domain. This domain is crucial for protein-protein interactions, and KCTD18 is particularly noted for its interaction with Cullin 3 (Cul3), forming a stable complex that distinguishes it from other KCTD family members (Balasco2024A). Despite its classification within the KCTD family, KCTD18 exhibits unique structural features, as evidenced by its isolated position in phylogenetic analyses and challenges in predicting its quaternary structure (Esposito2021AlphaFoldPredicted; Esposito2022Alphafold). The protein's specific roles and interactions in cellular processes remain largely unexplored, highlighting the need for further research to elucidate its functional significance (Skoblov2013Protein).
+
+## Structure
+KCTD18 is a member of the potassium channel tetramerization domain-containing family, characterized by the presence of a BTB (Broad-Complex, Tramtrack, and Bric-à-brac) domain. This domain is involved in protein-protein interactions and is typically located in the N-terminal region of the protein (Liu2013The). The BTB domain in KCTD proteins generally consists of a single β-sheet surrounded by helices, which is a common structural motif within this family (Esposito2021AlphaFoldPredicted).
+
+Attempts to predict the quaternary structure of KCTD18, specifically its pentameric state, have resulted in unreliable models with significant errors between chains. This suggests that KCTD18 may not form stable pentameric assemblies, unlike other KCTD family members (Esposito2022Alphafold). The reliable portions of the predicted models include the individual chains of the BTB domain and partially the C-terminal domain (CTD) (Esposito2022Alphafold).
+
+KCTD18 is noted for its distinct structural characteristics, as it appears isolated in phylogenetic analyses, indicating unique structural features compared to other KCTD proteins (Esposito2021AlphaFoldPredicted). The specific details of its secondary and tertiary structures remain less defined due to the limitations in current predictive models.
+
+## Interactions
+KCTD18 is known to interact with Cullin 3 (Cul3) through its BTB domain, forming a stable 1:1 complex. This interaction is distinct within its cluster, as other related proteins like KCTD4 and KCTD19 do not form stable complexes with Cul3. The interaction between KCTD18 and Cul3 has been supported by experimental data and structural predictions using AlphaFold, highlighting KCTD18's unique interaction profile compared to its phylogenetic relatives (Balasco2024A).
+
+In contrast, KCTD18 shows a relatively weak interaction with KCTD5. While co-immunoprecipitation assays indicated a weak interaction, bioluminescence resonance energy transfer (BRET) assays showed a signal greater than the control, though not statistically significant. This suggests that KCTD18 may have a weak or transient interaction with KCTD5 (Liao2023KCTD5).
+
+Despite these findings, the broader functional roles and interactions of KCTD18 remain largely unexplored. Previous studies have not extracted specific protein-protein interaction data for KCTD18, leaving its interactions and functional roles in cellular processes not fully understood (Skoblov2013Protein).
+
+
+## References
+
+
+[1. (Liu2013The) Zhepeng Liu, Yaqian Xiang, and Guihong Sun. The kctd family of proteins: structure, function, disease relevance. Cell &amp; Bioscience, November 2013. URL: http://dx.doi.org/10.1186/2045-3701-3-45, doi:10.1186/2045-3701-3-45. This article has 96 citations.](https://doi.org/10.1186/2045-3701-3-45)
+
+[2. (Liao2023KCTD5) Yini Liao, Douglas C. Sloan, Josephine H. Widjaja, and Brian S. Muntean. Kctd5 forms hetero-oligomeric complexes with various members of the kctd protein family. International Journal of Molecular Sciences, 24(18):14317, September 2023. URL: http://dx.doi.org/10.3390/ijms241814317, doi:10.3390/ijms241814317. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms241814317)
+
+[3. (Skoblov2013Protein) Mikhail Skoblov, Andrey Marakhonov, Ekaterina Marakasova, Anna Guskova, Vikas Chandhoke, Aybike Birerdinc, and Ancha Baranova. Protein partners of <scp>kctd</scp> proteins provide insights about their functional roles in cell differentiation and vertebrate development. BioEssays, 35(7):586–596, April 2013. URL: http://dx.doi.org/10.1002/bies.201300002, doi:10.1002/bies.201300002. This article has 72 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/bies.201300002)
+
+[4. (Balasco2024A) Nicole Balasco, Luciana Esposito, Giovanni Smaldone, Marco Salvatore, and Luigi Vitagliano. A comprehensive analysis of the structural recognition between kctd proteins and cullin 3. International Journal of Molecular Sciences, 25(3):1881, February 2024. URL: http://dx.doi.org/10.3390/ijms25031881, doi:10.3390/ijms25031881. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25031881)
+
+[5. (Esposito2022Alphafold) Luciana Esposito, Nicole Balasco, and Luigi Vitagliano. Alphafold predictions provide insights into the structural features of the functional oligomers of all members of the kctd family. International Journal of Molecular Sciences, 23(21):13346, November 2022. URL: http://dx.doi.org/10.3390/ijms232113346, doi:10.3390/ijms232113346. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms232113346)
+
+[6. (Esposito2021AlphaFoldPredicted) Luciana Esposito, Nicole Balasco, Giovanni Smaldone, Rita Berisio, Alessia Ruggiero, and Luigi Vitagliano. Alphafold-predicted structures of kctd proteins unravel previously undetected relationships among the members of the family. Biomolecules, 11(12):1862, December 2021. URL: http://dx.doi.org/10.3390/biom11121862, doi:10.3390/biom11121862. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom11121862)

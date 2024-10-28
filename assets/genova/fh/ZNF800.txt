@@ -1,0 +1,35 @@
+# ZNF800
+
+## Overview
+ZNF800 is a gene that encodes the zinc finger protein 800, which is categorized as a transcriptional repressor. This protein plays a pivotal role in the regulation of gene expression, particularly in the differentiation of enteroendocrine cells (EECs) within the human small intestine epithelium. ZNF800 is ubiquitously expressed in the gut epithelium and is involved in maintaining the balance between different cell types, such as EECs, goblet cells, and Paneth cells, by repressing key transcription factors like INSM1, SOX4, and PAX4 (Lin2023Unbiased). The protein's interaction with chromatin remodeling proteins and its binding to promoter regions further underscore its role in transcriptional regulation (Khoroshkin2023Systematic). Additionally, ZNF800 has been implicated in various clinical contexts, including atherosclerosis and glioblastoma multiforme, highlighting its significance in both normal physiological processes and disease states (Zhang2024Exosomal; Lu2020Long).
+
+## Function
+ZNF800 functions as a transcriptional repressor in healthy human cells, particularly in the differentiation of enteroendocrine cells (EECs) in the human small intestine epithelium. It is ubiquitously expressed along the crypt-villus axis in the adult human gut epithelium, marked by an open chromatin state, indicating active expression (Lin2023Unbiased). ZNF800 represses a network of transcription factors crucial for EEC lineage commitment, including INSM1, SOX4, and PAX4, maintaining a balance in the differentiation of various EEC subtypes (Lin2023Unbiased). Knockout of ZNF800 in organoids leads to an increase in EECs and a decrease in goblet and Paneth cells, suggesting its role in maintaining the balance between different cell types in the intestinal epithelium (Lin2023Unbiased).
+
+ZNF800's binding loci often present a bivalent chromatin signature, associated with stem-cell differentiation, suggesting its role in maintaining a dynamic equilibrium between EECs and goblet cells (Lin2023Unbiased). The protein is involved in repressing the commitment to endocrine lineages, thereby influencing the balance of cell types derived from intestinal stem cells (Lin2023Unbiased). This regulatory function highlights ZNF800's critical role in cellular differentiation and tissue homeostasis.
+
+## Clinical Significance
+Alterations in the expression of the ZNF800 gene have been implicated in several diseases. In the context of atherosclerosis, the long noncoding RNA (lncRNA) ZNF800 is found to be significantly elevated in atherosclerotic plaques. It plays a role in suppressing the proliferation and migration of vascular smooth muscle cells (VSMCs) by upregulating PTEN and inhibiting the AKT/mTOR/HIF-1α signaling pathway. This suggests a potential protective role against atherosclerosis, making it a possible therapeutic target (Lu2020Long).
+
+In glioblastoma multiforme (GBM), circZNF800, a circular RNA derived from ZNF800, is highly expressed in glioma stem-like cell-derived exosomes. It promotes tumorigenicity by enhancing cell proliferation and migration while inhibiting apoptosis, primarily through the activation of the PIEZO1/AKT signaling pathway. This expression is associated with poor prognosis in GBM patients, indicating its role as an oncogene (Zhang2024Exosomal).
+
+ZNF800 is also identified as a master repressor of enteroendocrine cell differentiation. Its knockout leads to increased differentiation of these cells, suggesting its crucial role in maintaining cellular balance in the intestine (Lin2023Unbiased).
+
+## Interactions
+ZNF800, a zinc finger protein, is involved in various interactions with other proteins and nucleic acids, playing a significant role in transcriptional regulation. It has been identified as a master repressor of enteroendocrine cell differentiation, where it binds to loci of central transcription factors such as INSM1, NEUROG3, and PAX4, influencing the expression of these genes (Lin2023Unbiased). Chromatin immunoprecipitation sequencing (ChIP-seq) has shown that ZNF800 binds to 11,565 consensus peaks in wild-type organoids, with most binding sites located near transcription start sites, indicating its role in transcriptional control (Lin2023Unbiased).
+
+ZNF800 also interacts with chromatin remodeling proteins, as suggested by its proximity to UCHL5 and GRWD1 in the eCLIP dataset, indicating its involvement in chromatin remodeling and ribosome biogenesis (Khoroshkin2023Systematic). Additionally, ZNF800 has been shown to bind to promoter regions of specific genes, acting as a transcriptional repressor, as confirmed by ChIP-qPCR (Khoroshkin2023Systematic).
+
+In the context of vascular smooth muscle cells, the long noncoding RNA (lncRNA) ZNF800 interacts with PTEN, enhancing its stability and activity, which in turn suppresses cell proliferation and migration (Lu2020Long). This interaction highlights ZNF800's role in posttranslational regulation.
+
+
+## References
+
+
+[1. (Zhang2024Exosomal) Ning Zhang, Pengfei Wu, Maolin Mu, Chaoshi Niu, and Shanshan Hu. Exosomal circznf800 derived from glioma stem-like cells regulates glioblastoma tumorigenicity via the piezo1/akt axis. Molecular Neurobiology, 61(9):6556–6571, February 2024. URL: http://dx.doi.org/10.1007/s12035-024-04002-0, doi:10.1007/s12035-024-04002-0. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12035-024-04002-0)
+
+[2. (Lu2020Long) Yuan-Bin Lu, Chao Shi, Biao Yang, Zhi-Feng Lu, Yi-Lin Wu, Ru-Yi Zhang, Xin He, Li-Min Li, Bing Hu, Yan-Wei Hu, Lei Zheng, and Qian Wang. Long noncoding rna znf800 suppresses proliferation and migration of vascular smooth muscle cells by upregulating pten and inhibiting akt/mtor/hif-1α signaling. Atherosclerosis, 312:43–53, November 2020. URL: http://dx.doi.org/10.1016/j.atherosclerosis.2020.09.007, doi:10.1016/j.atherosclerosis.2020.09.007. This article has 19 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.atherosclerosis.2020.09.007)
+
+3. (Khoroshkin2023Systematic) Systematic Identification of Post-Transcriptional Regulatory Modules. This article has 0 citations.
+
+[4. (Lin2023Unbiased) Lin Lin, Jeff DeMartino, Daisong Wang, Gijs J. F. van Son, Reinier van der Linden, Harry Begthel, Jeroen Korving, Amanda Andersson-Rolf, Stieneke van den Brink, Carmen Lopez-Iglesias, Willine J. van de Wetering, Aleksandra Balwierz, Thanasis Margaritis, Marc van de Wetering, Peter J. Peters, Jarno Drost, Johan H. van Es, and Hans Clevers. Unbiased transcription factor crispr screen identifies znf800 as master repressor of enteroendocrine differentiation. Science, 382(6669):451–458, October 2023. URL: http://dx.doi.org/10.1126/science.adi2246, doi:10.1126/science.adi2246. This article has 9 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.adi2246)

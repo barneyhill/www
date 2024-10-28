@@ -1,0 +1,33 @@
+# EIF2A
+
+## Overview
+EIF2A, or eukaryotic translation initiation factor 2A, is a gene that encodes the eIF2A protein, which plays a pivotal role in the initiation of protein synthesis in eukaryotic cells. Unlike the canonical eIF2 complex, eIF2A is involved in alternative translation initiation pathways, particularly under stress conditions where the typical cap-dependent translation is inhibited. The eIF2A protein is categorized as a translation initiation factor and is crucial for facilitating the recruitment of initiator methionyl-tRNA (Met-tRNAi) to the 40S ribosomal subunit in a GTP-independent manner. This function is especially important during cellular stress, such as viral infections or hypoxia, where it aids in the translation of specific mRNAs that are resistant to stress-induced translational repression. eIF2A interacts with various proteins and nucleic acids, including eIF5B and specific mRNAs, to modulate translation initiation. Despite its non-essential role in key initiation pathways, as evidenced by the viability of EIF2A knockout mice, the gene is highly expressed in certain tissues, suggesting its involvement in specialized cellular processes (Komar2020A; Kim2018eIF2A).
+
+## Structure
+The human eIF2A protein is composed of 585 amino acids and is predicted to have at least two main domains: an N-terminal domain (NTD) and a C-terminal domain (CTD) (Komar2020A). The NTD, encompassing residues 1-415, is expected to form a nine-bladed WD-repeat β-propeller structure, which is common in proteins involved in protein-protein interactions (Komar2020A). This domain is suggested to be responsible for eIF2A's Met-tRNAi binding properties (Kim2018eIF2A). The CTD, spanning residues 416-585, is less structured and may consist of 2-3 smaller subdomains, with the very C-terminal fragment (residues 533-585) forming a helix-bundle (Komar2020A). The central part of the CTD (residues 462-501) is implicated in interactions with eIF5B (Kim2018eIF2A).
+
+eIF2A undergoes post-translational modifications, including N-terminal acetylation and phosphorylation at several serine and threonine residues, particularly near a PEST motif, which may regulate protein turnover (Komar2020A). The evolutionary origin of eIF2A is unclear, as no homologues have been found in prokaryotes and archaea (Komar2020A). The protein's structure and interactions suggest a role in stress response, particularly in cooperation with eIF5B during Met-tRNAi loading onto 40S ribosomal subunits (Komar2020A).
+
+## Function
+EIF2A (eukaryotic translation initiation factor 2A) plays a crucial role in the initiation of protein synthesis in eukaryotic cells, particularly under stress conditions. It is involved in alternative translation initiation pathways, such as internal ribosome entry site (IRES)-mediated translation, which do not require the canonical eIF4F complex. This function becomes significant during stress conditions like viral infections, ER stress, and hypoxia, where the canonical cap-dependent pathway is inhibited due to eIF2 phosphorylation (Komar2020A).
+
+EIF2A acts as an initiator tRNA carrier, facilitating the recruitment of Met-tRNAi to the 40S ribosomal subunit in a GTP-independent manner. It interacts with specific mRNAs, such as those of the Hepatitis C Virus (HCV), and plays a key role in selecting mRNAs that are resistant to stress-dependent translational repression (Komar2020A; Kim2018eIF2A). EIF2A also works synergistically with eIF5B, enhancing the loading of Met-tRNAi onto the ribosome, which is crucial for the initiation of protein synthesis under stress conditions (Kim2018eIF2A).
+
+In mammalian systems, EIF2A is not essential for key initiation pathways, as evidenced by the viability and fertility of EIF2A knockout mice. However, it is highly expressed in tissues like the pancreas and liver, indicating a role in specific cellular processes (Komar2020A).
+
+## Interactions
+EIF2A interacts with several proteins and nucleic acids, playing a significant role in translation initiation, particularly under stress conditions. It directly interacts with eIF5B, a protein with ribosome-binding and GTPase activities, to facilitate the loading of Met-tRNAiMet onto the 40S ribosomal subunit. This interaction is crucial for translation initiation, especially when eIF2 activity is compromised (Kim2018eIF2A). The middle domain of eIF2A, specifically residues 462-501, is necessary for binding to eIF5B, while domain IV of eIF5B is required for this interaction (Kim2018eIF2A).
+
+EIF2A also interacts with Met-tRNAiMet and specific mRNAs, such as the internal ribosome entry site (IRES) of hepatitis C virus (HCV) mRNA. The WD domain of eIF2A is responsible for binding to Met-tRNAiMet, and the C-terminal region is essential for interaction with the HCV IRES (Kim2018eIF2A). EIF2A's interaction with the c-Src IRES, particularly the stem-loop I region, is critical for stress-resistant translation of c-Src mRNA (Kwon2016An).
+
+Additionally, eIF2A interacts with eIF4E and eEF1A, with the C-terminal domain of eIF2A responsible for its interaction with eEF1A (Komar2020A). These interactions suggest that eIF2A participates in a network of protein interactions that influence translation initiation under various conditions.
+
+
+## References
+
+
+[1. (Komar2020A) Anton A. Komar and William C. Merrick. A retrospective on eif2a—and not the alpha subunit of eif2. International Journal of Molecular Sciences, 21(6):2054, March 2020. URL: http://dx.doi.org/10.3390/ijms21062054, doi:10.3390/ijms21062054. This article has 44 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21062054)
+
+[2. (Kim2018eIF2A) Eunah Kim, Joon Hyun Kim, Keunhee Seo, Ka Young Hong, Seon Woo A. An, Junyoung Kwon, Seung-Jae V. Lee, and Sung Key Jang. Eif2a, an initiator trna carrier refractory to eif2α kinases, functions synergistically with eif5b. Cellular and Molecular Life Sciences, 75(23):4287–4300, July 2018. URL: http://dx.doi.org/10.1007/s00018-018-2870-4, doi:10.1007/s00018-018-2870-4. This article has 32 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-018-2870-4)
+
+[3. (Kwon2016An) Oh Sung Kwon, Sihyeon An, Eunah Kim, Jinbae Yu, Ka Young Hong, Jae Seung Lee, and Sung Key Jang. An mrna-specific trnaicarrier eif2a plays a pivotal role in cell proliferation under stress conditions: stress-resistant translation of c-src mrna is mediated by eif2a. Nucleic Acids Research, 45(1):296–310, November 2016. URL: http://dx.doi.org/10.1093/nar/gkw1117, doi:10.1093/nar/gkw1117. This article has 32 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkw1117)

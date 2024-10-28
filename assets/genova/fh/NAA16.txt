@@ -1,0 +1,40 @@
+# NAA16
+
+## Overview
+The NAA16 gene encodes the N-alpha-acetyltransferase 16, NatA auxiliary subunit, a protein that is a crucial component of the N-terminal acetyltransferase A (NatA) complex. This protein is involved in the co-translational N-terminal acetylation of nascent proteins, a modification that can influence protein stability, localization, and function within the cell (Koufaris2024Bioinformatic; Arnesen2009A). The NAA16 protein, also known as hNaa16p, forms a complex with hNaa10p, distinct from the more abundant hNaa15p-hNaa10p complex, and is associated with ribosomes, indicating its role in protein acetylation (Arnesen2009A). The gene is expressed in various human tissues and cell lines, underscoring its essential role in cellular homeostasis and protein maturation (Koufaris2024Bioinformatic; Arnesen2009A). Additionally, alterations in NAA16 have been linked to oncogenic processes, particularly in prostate adenocarcinoma, highlighting its potential clinical significance (Koufaris2020NTerminal).
+
+## Structure
+The NAA16 protein, also known as hNaa16p, is a component of the human N-terminal acetyltransferase (NatA) complex. It shares a high degree of structural similarity with hNaa15p, exhibiting 70% identity and 85% similarity at the amino acid level. Both proteins contain Tetratricopeptide (TPR) domains, which are crucial for protein-protein interactions, and coiled-coil domains. hNaa16p is predicted to have five TPR domains, while hNaa15p is predicted to have four, with a possibility of a fifth (Arnesen2009A). The exon-intron organization of the genes encoding these proteins is also highly similar, suggesting a shared evolutionary origin (Arnesen2009A).
+
+The hNaa16p protein forms a complex with hNaa10p, similar to the yeast NatA complex, and is involved in co-translational N α-terminal acetylation. This complex is associated with ribosomes, indicating its role in protein acetylation (Arnesen2009A). The interaction between hNaa16p and hNaa10p is independent of the hNaa15p-hNaa10p complex, although the latter is more abundant in HEK293 cells (Arnesen2009A). Knockdown of hNAA16 leads to cell death, highlighting its essential role in human cells (Arnesen2009A).
+
+## Function
+The NAA16 gene encodes an auxiliary subunit of the N-terminal acetyltransferase A (NatA) complex, which plays a crucial role in the co-translational acetylation of nascent proteins. This process involves modifying the N-terminus of proteins, which can affect their stability, localization, and function within the cell (Koufaris2024Bioinformatic; Arnesen2009A). NAA16 forms a complex with hNaa10p, similar to the hNaa15p-hNaa10p complex, and is involved in the acetylation of NatA-type N-termini in vitro (Arnesen2009A). The hNaa16p protein is associated with ribosomes, suggesting its role in co-translational N α-terminal acetylation (Arnesen2009A).
+
+In human cells, the hNaa16p-hNaa10p complex is involved in maintaining cell viability, as knockdown of hNAA16 leads to cell death and apoptosis (Arnesen2009A). The presence of both hNaa15p-hNaa10p and hNaa16p-hNaa10p complexes suggests a complex and flexible system for N α-terminal acetylation, allowing for potential redundancy and compensation in the acetylation process (Doerfel2015The; Van2021Charting). NAA16 is expressed in various human cell lines and tissues, indicating its essential role in protein maturation and cellular homeostasis (Koufaris2024Bioinformatic; Arnesen2009A).
+
+## Clinical Significance
+The NAA16 gene, encoding a subunit of the NatA complex, has been implicated in various clinical contexts, particularly in cancer. In prostate adenocarcinoma, alterations in the NAA16 gene are associated with DNA copy number variants (CNVs) that lead to increased transcript levels, suggesting gene amplification as a mechanism for transcriptional deregulation (Koufaris2020NTerminal). This indicates that NAA16 may play a role in the oncogenic processes of certain tumors.
+
+Mutations in NAA16, along with other auxiliary subunits like NAA15, NAA25, and NAA35, are more frequent compared to other NAT genes, potentially due to their larger open reading frame (ORF) sizes. Truncating mutations are particularly common in these auxiliary subunits, with NAA16 being one of the most affected, suggesting a selective occurrence of these alterations in specific tumors (Koufaris2020NTerminal).
+
+Despite its involvement in cancer, NAA16 is not considered essential in CRISPR knockout screens, indicating that while it may contribute to cancer progression, it is not critical for cancer cell survival (Koufaris2020NTerminal). The gene's expression is consistent across various tissues, supporting its essential and non-redundant functions, although it shows tissue-specific enrichment in the pancreas (Koufaris2024Bioinformatic).
+
+## Interactions
+The NAA16 protein, also known as hNaa16p, is a component of the N-terminal acetyltransferase (NAT) complex, specifically forming a complex with hNaa10p in human cells. This interaction is distinct from the hNaa15p-hNaa10p complex, as hNaa16p-specific peptides are not found in anti-hNaa15p immunoprecipitates, indicating that hNaa16p forms a separate complex with hNaa10p (Arnesen2009A). The hNaa16p-hNaa10p complex is involved in the acetylation of NatA-type N-termini and is associated with ribosomes, suggesting a role in co-translational N-terminal acetylation (Arnesen2009A).
+
+hNaa16p also interacts with hNaa11p, another protein similar to hNaa10p, as confirmed by co-immunoprecipitation experiments (Arnesen2009A). The knockdown of hNAA16 results in reduced levels of hNaa10p, indicating a functional interaction that affects protein stability (Arnesen2009A). High-throughput screens have identified additional transient interaction partners for Naa16, including TCEA1, PLCB3, and Mina, although these interactions have not been shown to regulate or change NatA function (Doerfel2015The).
+
+
+## References
+
+
+[1. (Koufaris2024Bioinformatic) C. Koufaris, C. Demetriadou, V. Nicolaidou, and A. Kirmizis. Bioinformatic analysis reveals the association of human n-terminal acetyltransferase complexes with distinct transcriptional and post-transcriptional processes. Biochemical Genetics, June 2024. URL: http://dx.doi.org/10.1007/s10528-024-10860-z, doi:10.1007/s10528-024-10860-z. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10528-024-10860-z)
+
+[2. (Van2021Charting) Petra Van Damme. Charting the n-terminal acetylome: a comprehensive map of human nata substrates. International Journal of Molecular Sciences, 22(19):10692, October 2021. URL: http://dx.doi.org/10.3390/ijms221910692, doi:10.3390/ijms221910692. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms221910692)
+
+3. (Doerfel2015The) The biological functions of Naa10 – from amino-terminal acetylation to human disease. This article has 0 citations.
+
+[4. (Arnesen2009A) Thomas Arnesen, Darina Gromyko, Diane Kagabo, Matthew J Betts, Kristian K Starheim, Jan Varhaug, Dave Anderson, and Johan R Lillehaug. A novel human nata nα-terminal acetyltransferase complex: hnaa16p-hnaa10p (hnat2-hard1). BMC Biochemistry, 10(1):15, 2009. URL: http://dx.doi.org/10.1186/1471-2091-10-15, doi:10.1186/1471-2091-10-15. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2091-10-15)
+
+[5. (Koufaris2020NTerminal) Costas Koufaris and Antonis Kirmizis. N-terminal acetyltransferases are cancer-essential genes prevalently upregulated in tumours. Cancers, 12(9):2631, September 2020. URL: http://dx.doi.org/10.3390/cancers12092631, doi:10.3390/cancers12092631. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers12092631)

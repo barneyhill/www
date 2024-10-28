@@ -1,0 +1,35 @@
+# SSR1
+
+## Overview
+The SSR1 gene encodes the signal sequence receptor subunit 1, a type-I transmembrane protein that is integral to the function of the translocon complex within the endoplasmic reticulum (ER) membrane. This protein is pivotal in the translocation of nascent polypeptides into the ER lumen, thereby playing a crucial role in protein synthesis, folding, and post-translational modifications. These processes are essential for maintaining cellular protein homeostasis and secretion pathways (de2021Healthy). Beyond its role in protein translocation, SSR1 is involved in the presentation of TAP-independent peptides, contributing to immune surveillance and antigen presentation (de2021Healthy). The protein's interactions with other components of the ER stress response, such as BiP, underscore its involvement in cellular stress mechanisms (Phoomak2021The). Additionally, SSR1's expression and function are implicated in various pathological conditions, including neurodegenerative disorders and pulmonary hypertension, highlighting its clinical significance (Guan2024CircSSR1; Zhang2022Blood).
+
+## Function
+The SSR1 gene encodes a type-I transmembrane protein that is a component of the translocon complex in the endoplasmic reticulum (ER) membrane. This protein plays a crucial role in the translocation of nascent polypeptides into the ER lumen, facilitating protein synthesis, folding, and post-translational modifications, which are essential for maintaining cellular protein homeostasis and secretion pathways (de2021Healthy).
+
+SSR1 is involved in the presentation of TAP-independent peptides, which do not require the transporter associated with antigen processing (TAP) for HLA-I binding. This process is significant as it deviates from the typical antigen presentation pathway that involves TAP, suggesting a unique role for SSR1 in immune surveillance and antigen presentation in healthy human cells (de2021Healthy). The SSR1-derived peptides can be presented by a variety of HLA-I alleles on different cells, indicating its potential involvement in immune responses (de2021Healthy).
+
+In healthy cells, SSR1 is part of the TRAP complex, which translocates proteins cotranslationally in the ER lumen. The SSR1 peptide contains a polymorphic epitope recognized by SSR1-specific T cells, highlighting its role in antigen presentation and immune function (de2021Healthy).
+
+## Clinical Significance
+Alterations in the expression of the SSR1 gene have been implicated in several diseases, particularly neurodegenerative disorders and conditions involving cellular stress responses. In Parkinson's disease (PD), SSR1 is significantly upregulated in both brain tissue and peripheral blood of patients. This upregulation is associated with the loss of dopaminergic neurons, a hallmark of PD, and correlates with the severity of neuronal damage. SSR1's involvement in endoplasmic reticulum (ER) stress and the unfolded protein response (UPR) suggests its role in the pathological processes of PD, making it a potential biomarker for early detection and monitoring of the disease (Zhang2022Blood).
+
+In the context of pulmonary hypertension (PH), SSR1 is involved in regulating pyroptosis in pulmonary artery smooth muscle cells under hypoxic conditions. The expression of SSR1 is modulated by circSSR1, a circular RNA, which affects ER stress pathways. Overexpression of circSSR1 can inhibit pyroptosis by reducing SSR1 protein levels, highlighting its potential as a therapeutic target for PH. The regulation of SSR1 by circSSR1 and its role in ER stress and pyroptosis suggest that SSR1 may be involved in other diseases characterized by similar stress responses (Guan2024CircSSR1).
+
+## Interactions
+SSR1, a component of the translocon-associated protein (TRAP) complex, interacts with several proteins involved in endoplasmic reticulum (ER) stress and protein translocation. Under ER stress conditions, SSR1 associates with the protein BiP, which disrupts its function along with SSR2. This interaction is specific to ER stress, as it was not observed in wild-type cells treated with thapsigargin, a known ER stress inducer. The interactions between SSR1, SSR2, and BiP were confirmed through immunoprecipitation experiments (Phoomak2021The).
+
+SSR1 is also involved in the presentation of TAP-independent peptides. It encodes a peptide that can be presented by HLA-I molecules independently of the transporter associated with antigen processing (TAP). This interaction is significant for antigen presentation in TAP-deficient cells, such as those expressing the herpes simplex virus TAP inhibitor ICP47 (de2021Healthy).
+
+In the context of hypoxia, SSR1 interacts with circSSR1, a circular RNA that regulates pyroptosis in pulmonary artery smooth muscle cells. CircSSR1 influences the translation of SSR1 by interacting with YTHDF1, a protein that recognizes m6A modifications on SSR1 mRNA, promoting its translation and activating ER stress (Guan2024CircSSR1).
+
+
+## References
+
+
+[1. (Phoomak2021The) Chatchai Phoomak, Wei Cui, Thomas J. Hayman, Seok-Ho Yu, Peng Zhao, Lance Wells, Richard Steet, and Joseph N. Contessa. The translocon-associated protein (trap) complex regulates quality control of n-linked glycosylation during er stress. Science Advances, January 2021. URL: http://dx.doi.org/10.1126/sciadv.abc6364, doi:10.1126/sciadv.abc6364. This article has 22 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.abc6364)
+
+[2. (Guan2024CircSSR1) Xiaoyu Guan, Hongxia Du, Xiaoying Wang, Xiangrui Zhu, Cui Ma, Lixin Zhang, Siyu He, June Bai, Huiyu Liu, Hao Yuan, Shanshan Wang, Kuiyu Wan, Hang Yu, and Daling Zhu. Circssr1 regulates pyroptosis of pulmonary artery smooth muscle cells through parental protein ssr1 mediating endoplasmic reticulum stress. Respiratory Research, October 2024. URL: http://dx.doi.org/10.1186/s12931-024-02986-w, doi:10.1186/s12931-024-02986-w. This article has 0 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s12931-024-02986-w)
+
+[3. (de2021Healthy) Antonius A. de Waard, Tamara Verkerk, Kelly Hoefakker, Dirk M. van der Steen, Marlieke L.M. Jongsma, Dganit Melamed Kadosh, Sophie Bliss, Arnoud H. de Ru, Arie Admon, Peter A. van Veelen, Marieke Griffioen, Mirjam H.M. Heemskerk, and Robbert M. Spaapen. Healthy cells functionally present tap-independent ssr1 peptides: implications for selection of clinically relevant antigens. iScience, 24(2):102051, February 2021. URL: http://dx.doi.org/10.1016/j.isci.2021.102051, doi:10.1016/j.isci.2021.102051. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.isci.2021.102051)
+
+[4. (Zhang2022Blood) Wen Zhang, Jiabing Shen, Yuhui Wang, Kefu Cai, Qi Zhang, and Maohong Cao. Blood ssr1: a possible biomarker for early prediction of parkinson’s disease. Frontiers in Molecular Neuroscience, March 2022. URL: http://dx.doi.org/10.3389/fnmol.2022.762544, doi:10.3389/fnmol.2022.762544. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fnmol.2022.762544)

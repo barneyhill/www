@@ -1,0 +1,37 @@
+# ARHGAP11A
+
+## Overview
+ARHGAP11A is a gene that encodes the Rho GTPase-activating protein 11A, a member of the GTPase-activating protein (GAP) family. This protein plays a pivotal role in the regulation of Rho GTPases, particularly RhoA, which are integral to various cellular processes including cytoskeletal organization, cell motility, and cell cycle progression (Bagci2023The; Fan2021ARHGAP11A). As a GAP, Rho GTPase activating protein 11A facilitates the inactivation of RhoA by promoting the hydrolysis of GTP, thus maintaining cellular homeostasis. Beyond its canonical role in RhoA regulation, ARHGAP11A is involved in actin cytoskeleton dynamics and cell cycle regulation, and it interacts with key proteins such as p53, influencing cell-cycle arrest and apoptosis (Xu2013RhoGAPs). The protein's dysregulation has been implicated in various cancers, where it may act as an oncogene, highlighting its complex role in cellular physiology and pathology (Dai2018Blockade; Lawson2016Filling).
+
+## Function
+ARHGAP11A encodes a Rho GTPase-activating protein that plays a crucial role in regulating the activity of Rho GTPases, particularly RhoA, which are involved in various cellular processes such as cytoskeletal organization, cell motility, and cell cycle progression (Bagci2023The; Fan2021ARHGAP11A). In healthy human cells, ARHGAP11A functions as a GTPase-activating protein (GAP) that promotes the hydrolysis of GTP bound to RhoA, thereby inactivating it. This regulation is essential for maintaining the balance of active RhoA levels, which is critical for proper cell motility and migration (Bagci2023The).
+
+ARHGAP11A is involved in the organization of the actin cytoskeleton, as it accumulates at the cell periphery and colocalizes with F-actin protrusions, suggesting its role in actin dynamics (Bagci2023The). The protein is also implicated in cell cycle progression through a RhoA-independent mechanism, as its depletion leads to cell cycle defects characterized by high p27 levels (Bagci2023The). Additionally, ARHGAP11A is enriched in nucleoli, although the functional implications of this localization remain unclear (Bagci2023The). The regulation of ARHGAP11A by the hGID GID4 E3 ubiquitin ligase complex is necessary to prevent its excessive accumulation and maintain physiological levels of active RhoA during cell migration (Bagci2023The).
+
+## Clinical Significance
+Alterations in the expression of the ARHGAP11A gene have been implicated in the progression of several cancers. In hepatocellular carcinoma (HCC), ARHGAP11A is expressed at higher levels in cancerous tissues compared to normal tissues. This overexpression is associated with larger tumor size, poor differentiation, metastasis, and advanced TNM stage, correlating with shorter survival times for patients. These findings suggest that ARHGAP11A may function as an oncogene in HCC, promoting cell proliferation, invasion, and migration, contrary to the typical tumor-suppressive role of RhoGAP family members (Dai2018Blockade).
+
+In basal-like breast cancer (BLBC), ARHGAP11A is also highly expressed and acts as an oncogene. Knockdown of ARHGAP11A in BLBC cell lines results in inhibited cell proliferation and cell cycle arrest in the G1 phase, indicating its role in promoting cancer cell growth. This challenges the traditional view of RHOGAPs as tumor suppressors and highlights their complex role in cancer (Lawson2016Filling).
+
+Additionally, the hGID GID4 E3 ubiquitin ligase complex targets ARHGAP11A for degradation, regulating cell migration. Alterations in this interaction can lead to ARHGAP11A accumulation, affecting RhoA activity and potentially contributing to tumor progression (Bagci2023The).
+
+## Interactions
+ARHGAP11A interacts with several proteins, playing a significant role in cellular processes. It specifically binds to the tetramerization domain (TD) of the tumor suppressor protein p53, enhancing p53's transcriptional activity and stabilizing its tetrameric conformation. This interaction is crucial for p53's role in cell-cycle arrest and apoptosis, particularly under DNA damage conditions. The binding is specific to p53 and does not occur with other p53 family members like p63 or p73 (Xu2013RhoGAPs).
+
+In hepatocellular carcinoma (HCC), ARHGAP11A interacts with Rac1B, a small GTPase involved in cell motility and invasion. This interaction is independent of ARHGAP11A's Rho GTPase-activating activity and is crucial for the malignant phenotype of HCC cells. ARHGAP11A knockdown affects Rac1B protein levels, suggesting a posttranscriptional regulatory mechanism (Dai2018Blockade).
+
+ARHGAP11A is also a substrate of the hGID GID4 E3 ubiquitin ligase complex, which targets it for ubiquitination and degradation. This interaction affects cell migration by regulating cytoskeletal dynamics and cytokinesis (Bagci2023The).
+
+
+## References
+
+
+[1. (Fan2021ARHGAP11A) Biao Fan, Ke Ji, Zhaode Bu, Ji Zhang, Heli Yang, Jialin Li, and Xiaojiang Wu. Arhgap11a is a prognostic biomarker and correlated with immune infiltrates in gastric cancer. Frontiers in Molecular Biosciences, October 2021. URL: http://dx.doi.org/10.3389/fmolb.2021.720645, doi:10.3389/fmolb.2021.720645. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmolb.2021.720645)
+
+[2. (Lawson2016Filling) Campbell D. Lawson and Channing J. Der. Filling gaps in our knowledge: arhgap11a and racgap1 act as oncogenes in basal-like breast cancers. Small GTPases, 9(4):290–296, September 2016. URL: http://dx.doi.org/10.1080/21541248.2016.1220350, doi:10.1080/21541248.2016.1220350. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/21541248.2016.1220350)
+
+3. (Bagci2023The) The hGIDGID4E3 ubiquitin ligase complex targets ARHGAP11A to regulate cell migration. This article has 1 citations.
+
+[4. (Dai2018Blockade) Bin Dai, Xuan Zhang, Runze Shang, Jianlin Wang, Xisheng Yang, Hong Zhang, Qi Liu, Desheng Wang, Lin Wang, and Kefeng Dou. Blockade of arhgap11a reverses malignant progress via inactivating rac1b in hepatocellular carcinoma. Cell Communication and Signaling, December 2018. URL: http://dx.doi.org/10.1186/s12964-018-0312-4, doi:10.1186/s12964-018-0312-4. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12964-018-0312-4)
+
+[5. (Xu2013RhoGAPs) Jie Xu, Xiaolin Zhou, Jilin Wang, Zhaoli Li, Xuan Kong, Jin Qian, Ye Hu, and Jing-Yuan Fang. Rhogaps attenuate cell proliferation by direct interaction with p53 tetramerization domain. Cell Reports, 3(5):1526–1538, May 2013. URL: http://dx.doi.org/10.1016/j.celrep.2013.04.017, doi:10.1016/j.celrep.2013.04.017. This article has 54 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2013.04.017)

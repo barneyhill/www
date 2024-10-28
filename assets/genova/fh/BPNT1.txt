@@ -1,0 +1,43 @@
+# BPNT1
+
+## Overview
+BPNT1 is a gene that encodes the enzyme 3'(2'), 5'-bisphosphate nucleotidase 1, which plays a critical role in nucleotide metabolism and cellular homeostasis. This enzyme is categorized as a nucleotidase and is primarily active in the cytoplasm, where it hydrolyzes 3'-phosphoadenosine 5'-phosphate (PAP) to adenosine monophosphate (AMP) and inorganic phosphate. This enzymatic activity is essential for maintaining cellular nucleotide balance and regulating sulfate assimilation, thereby preventing the toxic accumulation of PAP, which can lead to physiological issues such as liver dysfunction and iron deficiency anemia (Hudson2018Modulation; Hudson2013Role). BPNT1 is also involved in the sulfur assimilation pathway and plays a role in regulating phosphoadenosine phosphate levels, which are crucial for iron homeostasis and the transcriptional response to iron deficiency (Hudson2018Modulation).
+
+## Function
+The BPNT1 gene encodes the enzyme 3'(2'), 5'-bisphosphate nucleotidase 1, which is crucial for nucleotide metabolism in human cells. This enzyme is primarily active in the cytoplasm, where it hydrolyzes 3'-phosphoadenosine 5'-phosphate (PAP) to adenosine monophosphate (AMP) and inorganic phosphate. This activity is essential for maintaining cellular nucleotide balance and regulating sulfate assimilation (Hudson2018Modulation; Hudson2013Role).
+
+BPNT1 plays a significant role in the sulfur assimilation pathway, which is vital for various cellular processes, including sulfation and amino acid biosynthesis. The enzyme's function in hydrolyzing PAP prevents its toxic accumulation, which can disrupt cellular metabolism and lead to physiological consequences such as liver dysfunction and iron deficiency anemia (Hudson2018Modulation; Hudson2013Role).
+
+In healthy cells, BPNT1 is involved in regulating phosphoadenosine phosphate levels, which are crucial for maintaining iron homeostasis. The enzyme's activity affects the transcriptional response to iron deficiency, likely through interactions with the hypoxia-inducible factor 2-α (HIF-2α) pathway, thereby influencing iron absorption and metabolism (Hudson2018Modulation).
+
+## Clinical Significance
+Mutations and alterations in the BPNT1 gene have been linked to several clinical conditions. BPNT1 deficiency in mice leads to iron deficiency anemia (IDA) due to the accumulation of phosphoadenosine phosphate (PAP), which disrupts iron homeostasis by impairing the physiological response to low iron levels (Hudson2018Modulation). This condition is characterized by lower hemoglobin levels and microcytic hypochromic anemia, which can be reversed by dietary methionine restriction or iron supplementation (Hale2020Modulation; Hudson2018Modulation).
+
+BPNT1 mutations may also predispose individuals to anemia, even with an iron-sufficient diet, due to impaired iron absorption and reduced expression of iron-regulatory genes (Hudson2018Modulation). In addition, BPNT1 has been implicated in Alzheimer's disease through mutation-associated exon skipping events, which may affect its normal function and contribute to disease pathology (Yang2021ExonSkipAD).
+
+BPNT1 is sensitive to lithium inhibition, and its disruption can lead to the accumulation of PAP, mediating lithium's toxic effects. This has implications for the treatment of bipolar disorder, as lithium is a common therapeutic agent (Spiegelberg2005Alteration).
+
+## Interactions
+BPNT1, or 3'(2'), 5'-bisphosphate nucleotidase 1, is involved in several interactions that influence cellular processes. One significant interaction is with the nucleic acid 3'-phosphoadenosine 5'-phosphate (PAP), which accumulates in the absence of BPNT1 activity. This accumulation inhibits the activity of Xrn2, a conserved 5'-3' exoribonuclease, thereby impairing the processing of the pre-5.8S ribosomal RNA subunit. This suggests a physical interaction between PAP and Xrn2, affecting ribosomal RNA processing (Hudson2013Role).
+
+In Caenorhabditis elegans, BPNT1 interacts with PAP, which inhibits XRN2 activity. The depletion of BPNT1 leads to increased levels of XRN2 mRNA and protein, indicating a regulatory mechanism that does not involve direct transcriptional activation. This suggests that BPNT1 may regulate XRN2 levels through mechanisms other than direct transcriptional activation, possibly involving pre-mRNA processing (Miki2016XRN2).
+
+Additionally, structure-based predictions have identified potential interactions of BPNT1 with PDZ domains, specifically SDCBP-1 and SDCBP2-1, which are part of a broader analysis of PDZ domain interactions in the xenobiotic metabolism pathway (Hui2013Predicting).
+
+
+## References
+
+
+[1. (Hale2020Modulation) Andrew T. Hale, Rachel E. Brown, Zigmund Luka, Benjamin H. Hudson, Pranathi Matta, Christopher S. Williams, and John D. York. Modulation of sulfur assimilation metabolic toxicity overcomes anemia and hemochromatosis in mice. Advances in Biological Regulation, 76:100694, May 2020. URL: http://dx.doi.org/10.1016/j.jbior.2020.100694, doi:10.1016/j.jbior.2020.100694. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jbior.2020.100694)
+
+[2. (Yang2021ExonSkipAD) Mengyuan Yang, Yiya Ke, Pora Kim, and Xiaobo Zhou. Exonskipad provides the functional genomic landscape of exon skipping events in alzheimer’s disease. Briefings in Bioinformatics, January 2021. URL: http://dx.doi.org/10.1093/bib/bbaa438, doi:10.1093/bib/bbaa438. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/bib/bbaa438)
+
+[3. (Spiegelberg2005Alteration) Bryan D. Spiegelberg, June dela Cruz, Tzuo-Hann Law, and John D. York. Alteration of lithium pharmacology through manipulation of phosphoadenosine phosphate metabolism. Journal of Biological Chemistry, 280(7):5400–5405, February 2005. URL: http://dx.doi.org/10.1074/jbc.m407890200, doi:10.1074/jbc.m407890200. This article has 29 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m407890200)
+
+[4. (Hudson2018Modulation) Benjamin H. Hudson, Andrew T. Hale, Ryan P. Irving, Shenglan Li, and John D. York. Modulation of intestinal sulfur assimilation metabolism regulates iron homeostasis. Proceedings of the National Academy of Sciences, 115(12):3000–3005, March 2018. URL: http://dx.doi.org/10.1073/pnas.1715302115, doi:10.1073/pnas.1715302115. This article has 13 citations.](https://doi.org/10.1073/pnas.1715302115)
+
+[5. (Hui2013Predicting) Shirley Hui, Xiang Xing, and Gary D Bader. Predicting pdz domain mediated protein interactions from structure. BMC Bioinformatics, January 2013. URL: http://dx.doi.org/10.1186/1471-2105-14-27, doi:10.1186/1471-2105-14-27. This article has 61 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2105-14-27)
+
+[6. (Miki2016XRN2) Takashi S. Miki, Sarah H. Carl, Michael B. Stadler, and Helge Großhans. Xrn2 autoregulation and control of polycistronic gene expresssion in caenorhabditis elegans. PLOS Genetics, 12(9):e1006313, September 2016. URL: http://dx.doi.org/10.1371/journal.pgen.1006313, doi:10.1371/journal.pgen.1006313. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1006313)
+
+[7. (Hudson2013Role) Benjamin H. Hudson, Joshua P. Frederick, Li Yin Drake, Louis C. Megosh, Ryan P. Irving, and John D. York. Role for cytoplasmic nucleotide hydrolysis in hepatic function and protein synthesis. Proceedings of the National Academy of Sciences, 110(13):5040–5045, March 2013. URL: http://dx.doi.org/10.1073/pnas.1205001110, doi:10.1073/pnas.1205001110. This article has 21 citations.](https://doi.org/10.1073/pnas.1205001110)

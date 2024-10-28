@@ -1,0 +1,41 @@
+# HES5
+
+## Overview
+HES5 is a gene that encodes the hes family bHLH transcription factor 5, a protein that plays a pivotal role in the Notch signaling pathway. This pathway is crucial for regulating cell differentiation and maintaining stem cell populations, particularly in neural development. The HES5 protein functions as a transcriptional repressor, utilizing its basic helix-loop-helix (bHLH) domain to bind DNA and inhibit the expression of genes that promote differentiation, such as neurogenic bHLH genes. Through its interactions with other transcription factors and its involvement in the repression of myelin gene expression, HES5 is integral to maintaining neural stem cells and regulating oligodendrocyte differentiation. Additionally, alterations in HES5 expression have been linked to various clinical conditions, including prostate cancer and neurodevelopmental disorders, underscoring its significance in both oncogenic processes and neural development (Kobayashi2014Expression; Liu2006A; Massie2015HES5).
+
+## Function
+HES5 is a transcriptional repressor that plays a critical role in the Notch signaling pathway, which is essential for regulating cell differentiation and maintaining stem cell populations. In healthy human cells, HES5 is primarily involved in neural development, where it helps maintain neural stem cells (NSCs) by inhibiting premature neuronal differentiation. This function is crucial for proper brain development and the maintenance of progenitor cell populations (Kobayashi2014Expression; Ohtsuka1999Hes1).
+
+HES5 exerts its effects by repressing the expression of target genes that promote cell differentiation, such as neurogenic bHLH genes like Neurog2. It achieves this through its basic helix-loop-helix (bHLH) domain, which allows it to bind DNA and form dimers with other transcription factors, thereby inhibiting transcriptional activators (Kobayashi2014Expression; Bansod2017Hes5).
+
+In the context of the Notch signaling pathway, HES5 is activated by the interaction of the Notch receptor with its ligands, leading to the translocation of the Notch intracellular domain into the nucleus. This domain forms a complex with the DNA-binding protein RBP-J, which is necessary for the upregulation of HES5, thereby inhibiting neuronal differentiation and maintaining NSCs (KAGEYAMA1999The; Ohtsuka1999Hes1).
+
+## Clinical Significance
+Alterations in the expression of the HES5 gene have been implicated in the development of prostate cancer. Epigenetic silencing of HES5 through promoter methylation is identified as an early and recurrent event in prostate tumorigenesis. This silencing is associated with increased expression of HES6, which enhances oncogenic signaling through the androgen receptor, contributing to tumor progression (Massie2015HES5). The hypermethylation of the HES5 promoter is observed consistently across multiple tumor samples, suggesting its potential as a specific marker for prostate cancer (Massie2015HES5).
+
+In the context of neural development, HES5 plays a role in maintaining neural stem cells in an undifferentiated state. Misexpression of HES5 can delay neuronal differentiation, which may have implications for neurodevelopmental disorders (Ohtsuka2001Roles). In oligodendrocyte lineage, HES5 acts as a transcriptional inhibitor of myelin gene expression. Its downregulation is associated with increased myelin gene expression and oligodendrocyte differentiation, suggesting a potential link to demyelinating conditions (Liu2006A). These findings highlight the significance of HES5 in both cancer and neural development contexts.
+
+## Interactions
+HES5 is a transcription factor that participates in various interactions with other proteins and nucleic acids, playing a significant role in the regulation of myelin gene expression. HES5 can bind to the transcriptional activators Sox10 and Mash1, sequestering them and inhibiting their activity, which disrupts the transcriptional code necessary for myelin gene expression (Liu2006A). This interaction is supported by chromatin immunoprecipitation (ChIP) and co-immunoprecipitation studies, which demonstrate that HES5 can form complexes with these proteins (Liu2006A).
+
+HES5 also interacts with the MBP promoter by binding to N-box and E-box sequences, recruiting repressive complexes that include histone deacetylases (HDACs) (Liu2006A). Despite the deletion of its DNA-binding domain, a truncated form of HES5 (tHes5) retains the ability to inhibit myelin gene promoters, indicating that its repressive function is not solely dependent on direct DNA binding (Liu2006A).
+
+HES5's interaction with Sox10 is particularly notable, as increased levels of Sox10 can counteract HES5's repressive effects by displacing it from the MBP promoter, suggesting a competitive interaction (Liu2006A). These interactions highlight HES5's role in modulating gene expression through both direct DNA binding and protein-protein interactions.
+
+
+## References
+
+
+[1. (Ohtsuka2001Roles) Toshiyuki Ohtsuka, Masami Sakamoto, François Guillemot, and Ryoichiro Kageyama. Roles of the basic helix-loop-helix genes hes1 and hes5 in expansion of neural stem cells of the developing brain. Journal of Biological Chemistry, 276(32):30467–30474, August 2001. URL: http://dx.doi.org/10.1074/jbc.m102420200, doi:10.1074/jbc.m102420200. This article has 336 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m102420200)
+
+[2. (Bansod2017Hes5) Shama Bansod, Ryoichiro Kageyama, and Toshiyuki Ohtsuka. Hes5 regulates the transition timing of neurogenesis and gliogenesis in mammalian neocortical development. Development, 144(17):3156–3167, September 2017. URL: http://dx.doi.org/10.1242/dev.147256, doi:10.1242/dev.147256. This article has 95 citations and is from a peer-reviewed journal.](https://doi.org/10.1242/dev.147256)
+
+[3. (Ohtsuka1999Hes1) T. Ohtsuka. Hes1 and hes5 as notch effectors in mammalian neuronal differentiation. The EMBO Journal, 18(8):2196–2207, April 1999. URL: http://dx.doi.org/10.1093/emboj/18.8.2196, doi:10.1093/emboj/18.8.2196. This article has 674 citations.](https://doi.org/10.1093/emboj/18.8.2196)
+
+[4. (Massie2015HES5) Charles E Massie, Inmaculada Spiteri, Helen Ross-Adams, Hayley Luxton, Jonathan Kay, Hayley C Whitaker, Mark J Dunning, Alastair D Lamb, Antonio Ramos-Montoya, Daniel S Brewer, Colin S Cooper, Rosalind Eeles, __, Anne Y Warren, Simon Tavaré, David E Neal, and Andy G Lynch. Hes5 silencing is an early and recurrent change in prostate tumourigenesis. Endocrine-Related Cancer, 22(2):131–144, January 2015. URL: http://dx.doi.org/10.1530/erc-14-0454, doi:10.1530/erc-14-0454. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1530/erc-14-0454)
+
+[5. (Kobayashi2014Expression) Taeko Kobayashi and Ryoichiro Kageyama. Expression Dynamics and Functions of Hes Factors in Development and Diseases, pages 263–283. Elsevier, 2014. URL: http://dx.doi.org/10.1016/b978-0-12-405943-6.00007-5, doi:10.1016/b978-0-12-405943-6.00007-5. This article has 78 citations.](https://doi.org/10.1016/b978-0-12-405943-6.00007-5)
+
+[6. (KAGEYAMA1999The) Ryoichiro KAGEYAMA and Toshiyuki OHTSUKA. The notch-hes pathway in mammalian neural development. Cell Research, 9(3):179–188, September 1999. URL: http://dx.doi.org/10.1038/sj.cr.7290016, doi:10.1038/sj.cr.7290016. This article has 286 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.cr.7290016)
+
+[7. (Liu2006A) Aixiao Liu, Jiadong Li, Mireya Marin-Husstege, Ryochiro Kageyama, Yongjun Fan, Celine Gelinas, and Patrizia Casaccia-Bonnefil. A molecular insight of hes5-dependent inhibition of myelin gene expression: old partners and new players. The EMBO Journal, 25(20):4833–4842, September 2006. URL: http://dx.doi.org/10.1038/sj.emboj.7601352, doi:10.1038/sj.emboj.7601352. This article has 132 citations.](https://doi.org/10.1038/sj.emboj.7601352)

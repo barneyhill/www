@@ -1,0 +1,62 @@
+# OGA
+
+## Overview
+The OGA gene encodes the enzyme O-GlcNAcase, a glycoside hydrolase that plays a critical role in the dynamic regulation of protein O-GlcNAcylation, a post-translational modification involving the addition and removal of O-linked N-acetylglucosamine (O-GlcNAc) on serine and threonine residues of nuclear and cytoplasmic proteins. O-GlcNAcase, functioning as a hydrolase, is essential for the removal of O-GlcNAc, thereby modulating various cellular processes such as signal transduction, transcription, and the cell cycle (Chatham2021Role; Yang2014OGlcNAcylation). The enzyme operates in concert with O-GlcNAc transferase (OGT) to maintain cellular homeostasis by adjusting O-GlcNAcylation levels in response to metabolic cues and stress (Lu2023CryoEM). Dysregulation of OGA activity has been implicated in several diseases, including cancer, diabetes, and neurodegenerative disorders, highlighting its significance in health and disease (Lu2023CryoEM; Yang2017Protein).
+
+## Structure
+The human O-GlcNAcase (OGA) protein is a multidomain enzyme involved in the removal of O-GlcNAc modifications from proteins. Its primary structure consists of a sequence of amino acids that form distinct domains, including a glycoside hydrolase domain and a pseudo histone acetyltransferase (HAT) domain. A less abundant splice variant of OGA lacks the HAT domain, indicating functional diversity among isoforms (Joiner2019Structural).
+
+The secondary structure of OGA includes an N-terminal domain similar to glycoside hydrolase family 84 (GH84) enzymes, characterized by a (β/α)8-barrel conformation typical of these hydrolases (Joiner2019Structural). The tertiary structure features a catalytic domain and a stalk domain, with the latter forming a helical bundle stabilized by hydrogen bonds, salt bridges, and hydrophobic interactions (Joiner2019Structural).
+
+In terms of quaternary structure, OGA typically exists as a stable dimer in solution, with a unique helix-exchanged dimer topology that is essential for its function (Roth2017Structural; Joiner2019Structural). The dimerization interface residues are evolutionarily conserved, highlighting the importance of this structural feature (Joiner2019Structural). OGA is also subject to post-translational modifications, such as phosphorylation, which may influence its activity and interactions (Lu2023CryoEM).
+
+## Function
+The OGA gene encodes the enzyme O-GlcNAcase, which is crucial for the removal of O-linked N-acetylglucosamine (O-GlcNAc) from proteins, a process known as O-GlcNAcylation. This modification is essential for regulating various cellular functions, including protein stability, activity, and interactions (Chatham2021Role; Yang2014OGlcNAcylation). O-GlcNAcase operates in conjunction with O-GlcNAc transferase (OGT) to maintain cellular homeostasis by dynamically regulating O-GlcNAcylation levels in response to nutrient availability and stress conditions (Lu2023CryoEM; Yang2017Protein).
+
+In healthy human cells, O-GlcNAcase is involved in critical processes such as the cell cycle, signal transduction, and gene transcription. It forms a functional homodimer, which is necessary for its enzymatic activity, and this dimerization creates a substrate-binding site (Lu2023CryoEM). The enzyme is subject to various post-translational modifications, including phosphorylation and O-GlcNAcylation, which may influence its activity and interactions with other proteins (Chatham2021Role).
+
+O-GlcNAcase activity is vital for preventing excessive O-GlcNAcylation, which can disrupt cellular functions and lead to apoptosis in skeletal muscle and altered heart metabolism (Chatham2021Role). The enzyme's role in maintaining O-GlcNAc homeostasis is crucial for normal cellular function and metabolic homeostasis, with its dysregulation linked to diseases such as cancer, diabetes, and neurodegeneration (Lu2023CryoEM; Yang2017Protein).
+
+## Clinical Significance
+Mutations and alterations in the expression of the OGA gene, which encodes the enzyme O-GlcNAcase, have been linked to several diseases and conditions. In humans, a single nucleotide polymorphism in the OGA gene is associated with the age of onset of type II diabetes, particularly in the Mexican-American population. This suggests a potential link between OGA and insulin resistance, a hallmark of type II diabetes (Forsythe2006Caenorhabditis; Nagel2014OGlcNAc).
+
+Altered OGA expression is also implicated in neurodegenerative diseases such as Alzheimer's disease. Pharmacological inhibition of OGA has been shown to prevent cognitive decline and reduce amyloid plaque formation in mouse models of Alzheimer's, indicating that OGA activity influences amyloid-related processes (Yuzwa2014Pharmacological).
+
+Increased OGA expression has been observed in prediabetic individuals, correlating with higher blood glucose levels. This suggests that OGA expression adjusts in response to metabolic changes, potentially contributing to the development of metabolic disorders (Zhang2014OGlcNAcase). Dysregulation of OGA and its interactions can disrupt protein homeostasis and signaling pathways, impacting cellular processes and contributing to disease pathogenesis (Roth2017Structural).
+
+## Interactions
+O-GlcNAcase (OGA) is involved in various protein interactions that influence its activity and function. OGA interacts with several proteins, including transcription factors and enzymes, which can modulate its activity. Notably, OGA forms complexes with O-GlcNAc transferase (OGT), and this interaction is mediated by the catalytic and stalk domains of OGA, while the HAT-like domain is dispensable for this interaction (Stephen2021Regulating).
+
+Under oxidative stress, OGA interacts with fatty acid synthase (FAS), filamin A (FLNA), heat shock cognate 70 (HSC70), and OGT. The interaction with FAS is particularly significant as it inhibits OGA's catalytic activity, leading to increased O-GlcNAcylation levels, which is thought to promote cell survival during stress (Groves2017Fatty). This interaction is observed in various cell types, including U2OS and HEPG2 cells, as well as in murine liver tissue (Groves2017Fatty).
+
+The stalk domain of OGA, which includes an intrinsically disordered region, is crucial for its interactions with other proteins, facilitating high specificity but low affinity interactions. The C-terminal pseudo histone acetyltransferase (pHAT) domain, although not binding acetyl-CoA, is hypothesized to enhance the specificity and flexibility of OGA-protein interactions (Hu2022The).
+
+
+## References
+
+
+[1. (Forsythe2006Caenorhabditis) Michele E. Forsythe, Dona C. Love, Brooke D. Lazarus, Eun Ju Kim, William A. Prinz, Gilbert Ashwell, Michael W. Krause, and John A. Hanover. Caenorhabditis elegans ortholog of a diabetes susceptibility locus: oga-1 ( o -glcnacase) knockout impacts o -glcnac cycling, metabolism, and dauer. Proceedings of the National Academy of Sciences, 103(32):11952–11957, August 2006. URL: http://dx.doi.org/10.1073/pnas.0601931103, doi:10.1073/pnas.0601931103. This article has 133 citations.](https://doi.org/10.1073/pnas.0601931103)
+
+[2. (Chatham2021Role) John C. Chatham, Jianhua Zhang, and Adam R. Wende. Role ofo-linkedn-acetylglucosamine protein modification in cellular (patho)physiology. Physiological Reviews, 101(2):427–493, April 2021. URL: http://dx.doi.org/10.1152/physrev.00043.2019, doi:10.1152/physrev.00043.2019. This article has 163 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1152/physrev.00043.2019)
+
+[3. (Nagel2014OGlcNAc) Alexis K. Nagel and Lauren E. Ball. O-glcnac transferase and o-glcnacase: achieving target substrate specificity. Amino Acids, 46(10):2305–2316, August 2014. URL: http://dx.doi.org/10.1007/s00726-014-1827-7, doi:10.1007/s00726-014-1827-7. This article has 64 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00726-014-1827-7)
+
+[4. (Lu2023CryoEM) Ping Lu, Yusong Liu, Maozhou He, Ting Cao, Mengquan Yang, Shutao Qi, Hongtao Yu, and Haishan Gao. Cryo-em structure of human o-glcnacylation enzyme pair ogt-oga complex. Nature Communications, October 2023. URL: http://dx.doi.org/10.1038/s41467-023-42427-8, doi:10.1038/s41467-023-42427-8. This article has 6 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-42427-8)
+
+[5. (Joiner2019Structural) Cassandra M Joiner, Hao Li, Jiaoyang Jiang, and Suzanne Walker. Structural characterization of the o-glcnac cycling enzymes: insights into substrate recognition and catalytic mechanisms. Current Opinion in Structural Biology, 56:97–106, June 2019. URL: http://dx.doi.org/10.1016/j.sbi.2018.12.003, doi:10.1016/j.sbi.2018.12.003. This article has 71 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.sbi.2018.12.003)
+
+[6. (Yuzwa2014Pharmacological) Scott A Yuzwa, Xiaoyang Shan, Bryan A Jones, Gang Zhao, Melissa L Woodward, Xiaojing Li, Yanping Zhu, Ernest J McEachern, Michael A Silverman, Neil V Watson, Cheng-Xin Gong, and David J Vocadlo. Pharmacological inhibition of o-glcnacase (oga) prevents cognitive decline and amyloid plaque formation in bigenic tau/app mutant mice. Molecular Neurodegeneration, October 2014. URL: http://dx.doi.org/10.1186/1750-1326-9-42, doi:10.1186/1750-1326-9-42. This article has 116 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/1750-1326-9-42)
+
+[7. (Zhang2014OGlcNAcase) Zhen Zhang, Ee Phie Tan, Nicole J. VandenHull, Kenneth R. Peterson, and Chad Slawson. O-glcnacase expression is sensitive to changes in o-glcnac homeostasis. Frontiers in Endocrinology, December 2014. URL: http://dx.doi.org/10.3389/fendo.2014.00206, doi:10.3389/fendo.2014.00206. This article has 87 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fendo.2014.00206)
+
+[8. (Stephen2021Regulating) Hannah M Stephen, Trevor M Adams, and Lance Wells. Regulating the regulators: mechanisms of substrate selection of the o-glcnac cycling enzymes ogt and oga. Glycobiology, 31(7):724–733, January 2021. URL: http://dx.doi.org/10.1093/glycob/cwab005, doi:10.1093/glycob/cwab005. This article has 45 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/glycob/cwab005)
+
+[9. (Hu2022The) Chia-Wei Hu, Jinshan Xie, and Jiaoyang Jiang. The emerging roles of protein interactions with o-glcnac cycling enzymes in cancer. Cancers, 14(20):5135, October 2022. URL: http://dx.doi.org/10.3390/cancers14205135, doi:10.3390/cancers14205135. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers14205135)
+
+[10. (Yang2014OGlcNAcylation) Yong Ryoul Yang and Pann-Ghill Suh. O-glcnacylation in cellular functions and human diseases. Advances in Biological Regulation, 54:68–73, January 2014. URL: http://dx.doi.org/10.1016/j.jbior.2013.09.007, doi:10.1016/j.jbior.2013.09.007. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jbior.2013.09.007)
+
+[11. (Roth2017Structural) Christian Roth, Sherry Chan, Wendy A Offen, Glyn R Hemsworth, Lianne I Willems, Dustin T King, Vimal Varghese, Robert Britton, David J Vocadlo, and Gideon J Davies. Structural and functional insight into human o-glcnacase. Nature Chemical Biology, 13(6):610–612, March 2017. URL: http://dx.doi.org/10.1038/nchembio.2358, doi:10.1038/nchembio.2358. This article has 86 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nchembio.2358)
+
+[12. (Groves2017Fatty) Jennifer A. Groves, Austin O. Maduka, Robert N. O’Meally, Robert N. Cole, and Natasha E. Zachara. Fatty acid synthase inhibits the o-glcnacase during oxidative stress. Journal of Biological Chemistry, 292(16):6493–6511, April 2017. URL: http://dx.doi.org/10.1074/jbc.m116.760785, doi:10.1074/jbc.m116.760785. This article has 54 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m116.760785)
+
+[13. (Yang2017Protein) Xiaoyong Yang and Kevin Qian. Protein o-glcnacylation: emerging mechanisms and functions. Nature Reviews Molecular Cell Biology, 18(7):452–465, May 2017. URL: http://dx.doi.org/10.1038/nrm.2017.22, doi:10.1038/nrm.2017.22. This article has 749 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrm.2017.22)

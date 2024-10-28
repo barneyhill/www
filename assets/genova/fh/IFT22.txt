@@ -1,0 +1,38 @@
+# IFT22
+
+## Overview
+IFT22 is a gene that encodes the intraflagellar transport 22 protein, a small GTPase that plays a critical role in the intraflagellar transport (IFT) system, particularly within the IFT-B1 subcomplex. This protein is essential for the proper functioning of cilia, which are hair-like structures on the surface of cells that play key roles in cellular signaling and sensory perception. IFT22 is involved in the recruitment of the BBSome complex to the basal body, a process crucial for the regulation of signaling proteins within cilia. The protein's unique nucleotide-binding characteristics and its interaction with other IFT components, such as the IFT74/81 complex, underscore its specialized function in ciliary dynamics. Mutations in the IFT22 gene have been associated with ciliopathies, including Bardet-Biedl syndrome and potentially short rib-polydactyly syndrome, highlighting its clinical significance in human health (Xue2020Intraflagellar; Wachter2019Binding).
+
+## Structure
+IFT22 is a protein that is part of the intraflagellar transport (IFT) complex, specifically the IFT-B1 subcomplex, which is crucial for flagellum assembly. The molecular structure of IFT22 includes unique nucleotide-binding characteristics, differing from classical small GTPases due to non-conserved G4/G5 motifs. Instead, IFT22 uses D175 in the G5 loop to bind the guanine base, forming a bifurcated hydrogen bond with the guanine moiety (Wachter2019Binding). The protein's structure is characterized by its interaction with the IFT74/81 complex, forming a trimeric complex that is essential for its function. This complex is elongated and coiled-coil in nature, with IFT22's GTPase domain positioned at one end (Wachter2019Binding).
+
+IFT22 binds GTP with low intrinsic hydrolysis rates, similar to IFT27, another small GTPase in the IFT complex. The switch regions of IFT22, which typically undergo conformational changes in small GTPases, remain unstructured in both GDP- and GTP-bound states, suggesting stabilization by the IFT74/81 complex (Wachter2019Binding). The interaction with IFT74/81 is primarily mediated through the switch regions I and II, contributing most of the residues to the interface (Wachter2019Binding).
+
+## Function
+IFT22 is a protein involved in the intraflagellar transport (IFT) system, which is crucial for the proper functioning of cilia. In healthy human cells, IFT22 plays a significant role in recruiting the BBSome complex to the basal body, a critical step for ciliary function. This recruitment is mediated through its interaction with the GTPase ARL6/BBS3, and the GTP-bound state of IFT22 is essential for maintaining normal levels of the BBSome in cilia (Xue2020Intraflagellar). IFT22 is part of the IFT-B1 subcomplex and is involved in the regulation of basal body targeting of the BBSome, facilitating its coupling with IFT trains for entry into cilia (Xue2020Intraflagellar).
+
+IFT22 stabilizes BBS3 and is necessary for its recruitment to the basal body, which is a prerequisite for efficient BBSome entry into cilia (Xue2020Intraflagellar). Although IFT22 is not required for ciliary assembly, its role in recruiting the BBSome is crucial for regulating the presence and amount of signaling proteins in cilia, impacting ciliary function and signaling (Xue2020Intraflagellar). This process is vital for the transport of signaling proteins within cilia, affecting cellular signaling and sensory perception.
+
+## Clinical Significance
+Mutations or alterations in the IFT22 gene have been implicated in certain ciliopathies, which are disorders arising from ciliary dysfunction. IFT22 is involved in the recruitment of the BBSome to the basal body, a process essential for the proper cycling of the BBSome through cilia. Disruptions in this process can contribute to the development of Bardet-Biedl syndrome (BBS), a ciliopathy characterized by symptoms such as obesity, polydactyly, retinal dystrophy, and renal failure (Xue2020Intraflagellar).
+
+Although IFT22 is not directly required for ciliary assembly, its role in BBSome recruitment is crucial. Knockdown studies in Chlamydomonas have shown that while cilia length remains normal, the absence of BBSomes indicates that IFT22's primary role may be in BBSome recruitment rather than ciliary assembly (Xue2020Intraflagellar).
+
+Additionally, IFT22 has been described as mutated in a patient with short rib-polydactyly syndrome (SRPS) type IV, a severe skeletal ciliopathy. This finding highlights the potential involvement of IFT22 in skeletal ciliopathies, although specific diseases directly linked to IFT22 mutations are not extensively documented (Getwan2020CRISPRCas9).
+
+## Interactions
+IFT22 is a component of the intraflagellar transport (IFT) complex, specifically part of the IFT-B1 subcomplex. It interacts with several proteins to facilitate its role in ciliary function. IFT22 binds and stabilizes the Arf-like 6 GTPase BBS3, also known as ARL6, in a nucleotide-dependent manner, specifically when both are in their GTP-bound states. This interaction is crucial for recruiting the BBSome to the basal body, allowing it to couple with the IFT-B1 subcomplex for entry into cilia (Xue2020Intraflagellar).
+
+IFT22 also colocalizes with the IFT-B1 subunit IFT46 at basal bodies and along cilia, and it immunoprecipitates with IFT25 and IFT46, indicating physical interactions with these proteins (Xue2020Intraflagellar). The interaction between IFT22 and BBS3 is independent of their nucleotide states in the cell body, as demonstrated by in vitro protein-protein interaction assays (Xue2020Intraflagellar).
+
+IFT22's role in recruiting the BBSome is distinct from its function in the IFT trains, as the BBSome can enter cilia independently of IFT22. This suggests that IFT22 primarily facilitates the recruitment of the BBSome to the basal body rather than its transport within cilia (Xue2020Intraflagellar).
+
+
+## References
+
+
+[1. (Xue2020Intraflagellar) Bin Xue, Yan-Xia Liu, Bin Dong, Jenna L. Wingfield, Mingfu Wu, Jun Sun, Karl F. Lechtreck, and Zhen-Chuan Fan. Intraflagellar transport protein rabl5/ift22 recruits the bbsome to the basal body through the gtpase arl6/bbs3. Proceedings of the National Academy of Sciences, 117(5):2496–2505, January 2020. URL: http://dx.doi.org/10.1073/pnas.1901665117, doi:10.1073/pnas.1901665117. This article has 40 citations.](https://doi.org/10.1073/pnas.1901665117)
+
+[2. (Wachter2019Binding) Stefanie Wachter, Jamin Jung, Shahaan Shafiq, Jerome Basquin, Cécile Fort, Philippe Bastin, and Esben Lorentzen. Binding of ift22 to the intraflagellar transport complex is essential for flagellum assembly. The EMBO Journal, April 2019. URL: http://dx.doi.org/10.15252/embj.2018101251, doi:10.15252/embj.2018101251. This article has 38 citations.](https://doi.org/10.15252/embj.2018101251)
+
+3. (Getwan2020CRISPRCas9) CRISPR/Cas9 targeting Ttc30a mimics ciliary chondrodysplasia with polycystic kidney disease. This article has 0 citations.

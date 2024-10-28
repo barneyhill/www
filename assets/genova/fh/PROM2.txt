@@ -1,0 +1,39 @@
+# PROM2
+
+## Overview
+Prominin 2 (PROM2) is a gene that encodes the prominin-2 protein, a pentaspan transmembrane protein involved in various cellular processes, including the organization of plasma membrane microdomains and the formation of cellular protrusions. The prominin-2 protein plays a significant role in maintaining cell polarity and is implicated in endocytosis and exocytosis, primarily through its influence on lipid raft dynamics and cell signaling (Singh2013Prominin2). It is known for its ability to bind cholesterol and localize to plasma membrane protrusions, contributing to the formation of distinct membrane domains (Singh2013Prominin2). Additionally, prominin-2 is involved in ferroptosis resistance by facilitating the formation of multivesicular bodies and exosomes, which are crucial for iron export and maintaining cellular iron homeostasis (Brown2019Prominin2). The gene's expression and regulation have been linked to various cancers, where it influences chemoresistance and tumor progression through interactions with signaling pathways such as Akt (Li2020PROM2; Luo2021LncRNA).
+
+## Function
+Prominin 2 (PROM2) is a pentaspan membrane protein involved in several cellular processes, particularly in the organization of plasma membrane microdomains and the formation of cellular protrusions. In healthy human cells, PROM2 plays a crucial role in maintaining cell polarity and is implicated in endocytosis and exocytosis. It is predominantly active in the plasma membrane, where it influences lipid raft dynamics, affecting cell signaling and communication (Singh2013Prominin2).
+
+PROM2 is known to bind cholesterol and is localized to plasma membrane protrusions, which are enriched in cholesterol and glycosphingolipids. This localization is associated with the formation of distinct membrane domains, such as filopodia-like protrusions, which are important for cellular morphology (Singh2013Prominin2). PROM2 expression leads to increased plasma membrane protrusions and affects the distribution of cholesterol, moving it away from caveolae and into these protrusions. This redistribution impacts caveolar endocytosis by reducing the availability of cholesterol for caveolae formation, thereby inhibiting clathrin-independent, Cdc42-dependent fluid phase endocytosis (Singh2013Prominin2).
+
+In addition to its role in membrane organization, PROM2 is involved in ferroptosis resistance by facilitating the formation of multivesicular bodies (MVBs) and exosomes, which are crucial for iron export and maintaining iron homeostasis in cells (Brown2019Prominin2). This function is essential for preventing oxidative damage and ensuring cell survival under stress conditions (Brown2019Prominin2).
+
+## Clinical Significance
+Alterations in the expression of the PROM2 gene have been implicated in various cancers, including ovarian, pancreatic, and bladder cancer. In ovarian cancer, PROM2 is involved in the regulation of ferroptosis, a form of programmed cell death. Artesunate (ART), a derivative of artemisinin, induces ferroptosis by downregulating the HOXC11/PROM2/PI3K/AKT pathway, suggesting that PROM2 plays a role in ART-induced ferroptosis and cancer progression (Li2024Inhibition). 
+
+In pancreatic cancer, PROM2 is associated with chemoresistance to gemcitabine, a common chemotherapeutic agent. PROM2 promotes this resistance by activating the Akt signaling pathway, which inhibits apoptosis. This interaction leads to increased phosphorylation of Akt and its downstream targets, contributing to tumor growth and reduced survival rates in patients (Li2020PROM2).
+
+In bladder cancer, PROM2 is upregulated and contributes to ferroptosis resistance by facilitating iron export. The lncRNA RP11-89 acts as a competing endogenous RNA, sponging miR-129-5p, which in turn upregulates PROM2 expression. This axis is crucial for tumorigenesis and resistance to ferroptosis, highlighting PROM2's role in cancer progression (Luo2021LncRNA).
+
+## Interactions
+Prominin-2 (PROM2) is involved in several protein interactions that influence cellular processes. PROM2 interacts with caveolin-1 (Cav1) and Cdc42, affecting endocytosis. Overexpression of PROM2 increases phosphorylation of Cav1 at tyrosine 14, enhancing its interaction with Cdc42 in its inactive GDP-bound state. This interaction reduces active Cdc42-GTP levels, inhibiting clathrin-independent, Cdc42-dependent fluid phase endocytosis by more than 60% (Singh2013Prominin2).
+
+PROM2 also interacts with the Akt signaling pathway, promoting chemoresistance in pancreatic cancer. It directly binds to Akt, leading to increased phosphorylation of Akt and its downstream targets, such as BAD and Caspase-9. This interaction is mediated by a specific region of PROM2 (amino acids 534-634) and contributes to gemcitabine resistance (Li2020PROM2).
+
+In bladder cancer, PROM2 is regulated by the lncRNA RP11-89 through a ceRNA network involving miR-129-5p. RP11-89 sponges miR-129-5p, which negatively regulates PROM2, thereby facilitating tumorigenesis and ferroptosis resistance. PROM2 is implicated in iron export and ferroptosis resistance by forming ferritin-containing multivesicular bodies and exosomes (Luo2021LncRNA).
+
+
+## References
+
+
+[1. (Brown2019Prominin2) Caitlin W. Brown, John J. Amante, Peter Chhoy, Ameer L. Elaimy, Haibo Liu, Lihua Julie Zhu, Christina E. Baer, Scott J. Dixon, and Arthur M. Mercurio. Prominin2 drives ferroptosis resistance by stimulating iron export. Developmental Cell, 51(5):575-586.e4, December 2019. URL: http://dx.doi.org/10.1016/j.devcel.2019.10.007, doi:10.1016/j.devcel.2019.10.007. This article has 361 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.devcel.2019.10.007)
+
+[2. (Luo2021LncRNA) Wenjie Luo, Jun Wang, Wenhao Xu, Chunguang Ma, Fangning Wan, Yongqiang Huang, Mengfei Yao, Hailiang Zhang, Yuanyuan Qu, Dingwei Ye, and Yiping Zhu. Lncrna rp11-89 facilitates tumorigenesis and ferroptosis resistance through prom2-activated iron export by sponging mir-129-5p in bladder cancer. Cell Death &amp; Disease, November 2021. URL: http://dx.doi.org/10.1038/s41419-021-04296-1, doi:10.1038/s41419-021-04296-1. This article has 105 citations.](https://doi.org/10.1038/s41419-021-04296-1)
+
+[3. (Li2024Inhibition) Jun Li, Lu Feng, Yijun Yuan, Tianwen He, Xinru Zou, Bin Su, Kang Liu, and Xiaojun Yang. Inhibition of hoxc11 by artesunate induces ferroptosis and suppresses ovarian cancer progression through transcriptional regulation of the prom2/pi3k/akt pathway. World Journal of Surgical Oncology, October 2024. URL: http://dx.doi.org/10.1186/s12957-024-03544-w, doi:10.1186/s12957-024-03544-w. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12957-024-03544-w)
+
+[4. (Li2020PROM2) Wenbin Li, Yue Zhu, Kelin Zhang, Xianhuan Yu, Haoming Lin, Wenrui Wu, Yaorong Peng, and Jian Sun. Prom2 promotes gemcitabine chemoresistance via activating the akt signaling pathway in pancreatic cancer. Experimental &amp; Molecular Medicine, 52(3):409–422, March 2020. URL: http://dx.doi.org/10.1038/s12276-020-0390-4, doi:10.1038/s12276-020-0390-4. This article has 23 citations.](https://doi.org/10.1038/s12276-020-0390-4)
+
+[5. (Singh2013Prominin2) Raman Deep Singh, Andreas S. Schroeder, Luana Scheffer, Eileen L. Holicky, Christine L. Wheatley, David L. Marks, and Richard E. Pagano. Prominin-2 expression increases protrusions, decreases caveolae and inhibits cdc42 dependent fluid phase endocytosis. Biochemical and Biophysical Research Communications, 434(3):466–472, May 2013. URL: http://dx.doi.org/10.1016/j.bbrc.2013.03.097, doi:10.1016/j.bbrc.2013.03.097. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2013.03.097)

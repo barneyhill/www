@@ -1,0 +1,44 @@
+# RNF152
+
+## Overview
+RNF152 is a gene that encodes the protein ring finger protein 152, which is categorized as a RING finger E3 ubiquitin ligase. This protein is characterized by its RING finger domain, essential for its enzymatic activity, and a transmembrane domain that facilitates its localization to lysosomes (Ueda2024MembraneAssociated; Zhang2010RNF152). RNF152 plays a significant role in the ubiquitin-proteasome system, where it tags proteins for degradation, thus regulating various cellular processes such as apoptosis, immune responses, and melanogenesis (Ueda2024MembraneAssociated; Xiong2020RNF). It is involved in the modulation of signaling pathways, including the mTOR pathway and TLR/IL-1R signaling, impacting cell proliferation and inflammatory responses (Kadoya2019RNF152; Xiong2020RNF). Alterations in RNF152 expression have been linked to diseases such as hepatocellular carcinoma and immune dysregulation, underscoring its clinical significance as a potential therapeutic target (Xiong2020RNF; Wan2021Ring).
+
+## Structure
+RNF152 is a RING finger protein characterized by a relatively simple structure, including a hydrophobic transmembrane domain at the C-terminal and a RING finger domain at the N-terminal (Zhang2010RNF152). The RING finger domain is essential for its E3 ligase activity, facilitating the binding to E2 enzymes and substrates, which is crucial for ubiquitination (Zhang2010RNF152). The RING finger motif of RNF152 follows the sequence CX2CX14CX1HX2CX2CX12CX2C, resembling a canonical RING motif (Zhang2010RNF152).
+
+The transmembrane domain is critical for RNF152's function, as it is necessary for membrane localization and interaction with substrates like tyrosinase (Ueda2024MembraneAssociated). Mutations in the RING domain, such as replacing cysteine residues with serine, reduce its ubiquitination activity, while deletion of the transmembrane domain abolishes its ability to interact with substrates (Ueda2024MembraneAssociated).
+
+RNF152 undergoes self-polyubiquitination, primarily through Lys-48 linkages, which signal for proteasomal degradation (Zhang2010RNF152). This post-translational modification is crucial for its regulation and function within the ubiquitin-proteasome pathway (Zhang2010RNF152). RNF152 is localized in lysosomes, which is unique for an E3 ligase with pro-apoptotic activities (Zhang2010RNF152).
+
+## Function
+RNF152 is a RING finger protein that functions as an E3 ubiquitin ligase, playing a crucial role in various cellular processes. It is involved in the ubiquitination process, tagging proteins for degradation via the ubiquitin-proteasome system. RNF152 is localized in lysosomes and is known for its pro-apoptotic activities, particularly when overexpressed in cells like HeLa cells (Zhang2010RNF152). It enhances the oligomerization of MyD88, a key adaptor protein in TLR/IL-1R signaling pathways, which is essential for immune responses. This oligomerization facilitates the recruitment of downstream signaling components, leading to the activation of NF-kB and the expression of pro-inflammatory cytokines (Xiong2020RNF).
+
+RNF152 also regulates melanogenesis by targeting tyrosinase, a key enzyme in melanin synthesis, for ubiquitination and subsequent lysosomal degradation. This regulation is crucial for controlling melanin content in melanocytes (Ueda2024MembraneAssociated). Additionally, RNF152 negatively regulates the mTOR signaling pathway by targeting the small GTPase RagA, thereby inhibiting cell proliferation in specific contexts, such as the neural tube's floor plate (Kadoya2019RNF152). These functions highlight RNF152's role in maintaining cellular homeostasis and regulating immune and apoptotic responses.
+
+## Clinical Significance
+Alterations in the expression of the RNF152 gene have been implicated in several diseases, particularly in cancer. In hepatocellular carcinoma (HCC), RNF152 is significantly down-regulated, which is associated with poor prognosis, including reduced overall survival, progression-free survival, and disease-specific survival. The down-regulation of RNF152 in HCC is linked to the decreased expression of the transcription factor FoxO1, which normally activates RNF152 transcription. This impaired expression contributes to increased tumor cell proliferation, clonogenic survival, and invasion, highlighting RNF152's role as a tumor suppressor in HCC (Wan2021Ring).
+
+In the context of immune signaling, RNF152 is involved in TLR/IL-1R-mediated pathways. It enhances MyD88 oligomerization, a critical step in these signaling pathways. Alterations in RNF152 expression can affect inflammatory responses, as evidenced by RNF152-deficient mice showing resistance to LPS-induced endotoxemia. This suggests that RNF152 plays a role in inflammatory diseases and conditions involving immune dysregulation (Xiong2020RNF).
+
+RNF152 also regulates melanogenesis by ubiquitinating tyrosinase, leading to its degradation. Changes in RNF152 activity can impact melanin production, potentially influencing pigmentation disorders or melanoma (Ueda2024MembraneAssociated).
+
+## Interactions
+RNF152, a RING finger protein, is involved in several protein interactions that influence various cellular processes. In hepatocellular carcinoma (HCC), RNF152 acts as a tumor suppressor by interacting with TSPAN12, a protein associated with oncogenic roles in some tumors. RNF152 targets TSPAN12 for ubiquitination and degradation, thereby inhibiting cell proliferation, clonogenic survival, and invasion in HCC cell lines (Wan2021Ring).
+
+In the context of TLR/IL-1R signaling, RNF152 interacts with MyD88, a key adaptor protein, enhancing its oligomerization and the formation of the Myddosome complex. This interaction is crucial for downstream signaling and NF-kB activation, particularly in lymphoma-associated mutants of MyD88 (Xiong2020RNF).
+
+RNF152 also plays a role in melanogenesis by interacting with tyrosinase, a key enzyme in melanin synthesis. It ubiquitinates tyrosinase, leading to its lysosomal degradation, which regulates melanin content in melanocytes. The transmembrane domain of RNF152 is essential for its interaction with tyrosinase, highlighting the importance of its structural domains in substrate recognition (Ueda2024MembraneAssociated).
+
+
+## References
+
+
+[1. (Zhang2010RNF152) Songling Zhang, Wei Wu, Yanfang Wu, Jiyan Zheng, Talin Suo, Hong Tang, and Jie Tang. Rnf152, a novel lysosome localized e3 ligase with pro-apoptotic activities. Protein &amp; Cell, 1(7):656–663, July 2010. URL: http://dx.doi.org/10.1007/s13238-010-0083-1, doi:10.1007/s13238-010-0083-1. This article has 32 citations.](https://doi.org/10.1007/s13238-010-0083-1)
+
+[2. (Xiong2020RNF) Mei‐Guang Xiong, Zhi‐Sheng Xu, Yu‐Hui Li, Su‐Yun Wang, Yan‐Yi Wang, and Yong Ran. <scp>rnf</scp> 152 positively regulates <scp>tlr</scp> / <scp>il</scp> ‐1r signaling by enhancing myd88 oligomerization. EMBO reports, January 2020. URL: http://dx.doi.org/10.15252/embr.201948860, doi:10.15252/embr.201948860. This article has 20 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.15252/embr.201948860)
+
+3. (Kadoya2019RNF152) RNF152 Negatively Regulates mTOR Signalling and Blocks Cell Proliferation in the Floor Plate. This article has 0 citations.
+
+[4. (Wan2021Ring) Jian Wan, Shunfang Liu, Wanju Sun, Haiyi Yu, Wenlian Tang, Wei Liu, Jing Ji, and Bin Liu. Ring finger protein 152-dependent degradation of tspan12 suppresses hepatocellular carcinoma progression. Cancer Cell International, February 2021. URL: http://dx.doi.org/10.1186/s12935-021-01806-1, doi:10.1186/s12935-021-01806-1. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-021-01806-1)
+
+[5. (Ueda2024MembraneAssociated) Ryota Ueda, Rina Hashimoto, Yuki Fujii, José C. J. M. D. S. Menezes, Hirotaka Takahashi, Hiroyuki Takeda, Tatsuya Sawasaki, Tomonori Motokawa, Kenzo Tokunaga, and Hideaki Fujita. Membrane-associated ubiquitin ligase ring finger protein 152 orchestrates melanogenesis via tyrosinase ubiquitination. Membranes, 14(2):43, February 2024. URL: http://dx.doi.org/10.3390/membranes14020043, doi:10.3390/membranes14020043. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/membranes14020043)

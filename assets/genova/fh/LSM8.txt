@@ -1,0 +1,45 @@
+# LSM8
+
+## Overview
+LSM8 is a gene that encodes the LSM8 homolog, a protein that is a critical component of the LSm2-8 complex, which is involved in RNA processing within the nucleus of eukaryotic cells. The LSM8 protein plays a pivotal role in the assembly and function of U6 small nuclear RNA (snRNA), contributing to the splicing of pre-mRNA by forming a heteroheptameric ring around the 3' end of U6 snRNA (Zaric2014Oligomerization). As a member of the LSm protein family, LSM8 is involved in recognizing and binding specific RNA structures, thereby protecting RNA from degradation and potentially acting as a nuclear localization signal (Montemayor2020Molecular; Zaric2014Oligomerization). The protein's interactions with other Lsm proteins and its involvement in RNA processing and decay pathways underscore its essential function in gene expression regulation and RNA stability (FromontRacine2000GenomeWide; Lehner2004A).
+
+## Function
+The LSM8 gene encodes a protein that is a component of the LSm2-8 complex, which plays a crucial role in RNA processing within the nucleus of eukaryotic cells. This complex is involved in the assembly and function of U6 small nuclear RNA (snRNA), forming a heteroheptameric ring around the 3' end of U6 snRNA, which is essential for the splicing of pre-mRNA (Zaric2014Oligomerization). The LSm2-8 complex, including LSM8, is responsible for recognizing and binding to specific RNA structures, such as the terminal 2′,3′ cyclic phosphate of U6 snRNA, which is a conserved feature in most eukaryotes (Montemayor2020Molecular).
+
+LSM8 is also involved in protecting RNA from degradation and may act as a nuclear localization signal, although the cytoplasmic localization of U6 snRNP is debated (Zaric2014Oligomerization). The protein's role in RNA binding is highlighted by its conserved residues, which are important for the specific recognition of RNA substrates, suggesting its essential function in RNA processing and regulation (Montemayor2020Molecular). Through these activities, LSM8 contributes to the regulation of gene expression and the stability of RNA molecules in human cells.
+
+## Clinical Significance
+LSM8 has been implicated in various diseases and conditions due to its altered expression levels and interactions. In gastric cancer (GC), LSM8 is significantly upregulated and associated with chemoresistance to 5-fluorouracil (5-FU) chemotherapy. High expression levels of LSM8 correlate with poor overall survival in GC patients undergoing this treatment, suggesting its role in promoting chemoresistance and influencing the immune landscape in GC (Liu2023Identification). LSM8 is also involved in the Wnt signaling pathway and stem cell differentiation, which are crucial for cell proliferation and cancer stem cell properties (Liu2023Identification).
+
+In the context of nephrotic syndrome, LSM8 has been identified as differentially expressed in Focal Segmental Glomerulosclerosis (FSGS) but not in Minimal Change Disease (MCD), indicating its potential role in distinguishing between these two conditions (Li2021Identification). Additionally, LSM8 has been linked to the development of Hashimoto's thyroiditis, although the specific mechanisms remain unclear (Ta2021Potential).
+
+In yeast, LSM8 is part of the Lsm2-8 ring, which is involved in RNA splicing. Mutations in LSM8 can lead to synthetic lethality when combined with specific mutations in other Lsm proteins, affecting RNA-binding site interactions (Roth2018Defining).
+
+## Interactions
+LSM8 is a component of the Lsm2-8 complex, which plays a crucial role in RNA processing by interacting with U6 snRNA. This complex binds specifically to the 3' ends of U6 and U6 atac snRNAs, with a preference for RNA terminating in a 2′,3′ cyclic phosphate group. The binding mechanism involves the Lsm8 protein's C-terminal histidine, which is conserved across eukaryotes and essential for recognizing post-transcriptionally modified U6 snRNA (Montemayor2020Molecular).
+
+LSM8 also interacts with various proteins, forming part of a complex network involved in RNA processing and decay. It interacts with other Lsm proteins such as Lsm2, Lsm3, Lsm4, Lsm6, and Lsm7, as well as with non-Lsm proteins like Pat1 and Psu1. These interactions suggest LSM8's involvement in mRNA degradation pathways and spliceosome formation (FromontRacine2000GenomeWide; Lehner2004A).
+
+In yeast, LSM8 interacts with splicing factors such as Prp4 and Prp24, indicating its role in spliceosomal U6 snRNA association and snRNP-snRNP interactions. These interactions are crucial for the assembly and function of the spliceosome (FromontRacine2000GenomeWide; VIDAL1999Characterization).
+
+
+## References
+
+
+1. (Montemayor2020Molecular) Molecular basis for the distinct cellular functions of the Lsm1-7 and Lsm2-8 complexes. This article has 1 citations.
+
+[2. (Roth2018Defining) Allen J. Roth, Stewart Shuman, and Beate Schwer. Defining essential elements and genetic interactions of the yeast lsm2–8 ring and demonstration that essentiality of lsm2–8 is bypassed via overexpression of u6 snrna or the u6 snrnp subunit prp24. RNA, 24(6):853–864, April 2018. URL: http://dx.doi.org/10.1261/rna.066175.118, doi:10.1261/rna.066175.118. This article has 9 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.066175.118)
+
+[3. (VIDAL1999Characterization) VALERIE P.I. VIDAL, LOREDANA VERDONE, ANDREW E. MAYES, and JEAN D. BEGGS. Characterization of u6 snrna–protein interactions. RNA, 5(11):1470–1481, November 1999. URL: http://dx.doi.org/10.1017/s1355838299991355, doi:10.1017/s1355838299991355. This article has 80 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1017/s1355838299991355)
+
+[4. (FromontRacine2000GenomeWide) Micheline Fromont-Racine, Andrew E. Mayes, Adeline Brunet-Simon, Jean-Christophe Rain, Alan Colley, Ian Dix, Laurence Decourty, Nicolas Joly, Florence Ricard, Jean D. Beggs, and Pierre Legrain. Genome-wide protein interaction screens reveal functional networks involving sm-like proteins. Yeast, 1(2):95–110, 2000. URL: http://dx.doi.org/10.1002/1097-0061(20000630)17:2<95::AID-YEA16>3.0.CO;2-H, doi:10.1002/1097-0061(20000630)17:2<95::aid-yea16>3.0.co;2-h. This article has 284 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/1097-0061(20000630)17:2)
+
+[5. (Lehner2004A) Ben Lehner and Christopher M. Sanderson. A protein interaction framework for human mrna degradation. Genome Research, 14(7):1315–1323, July 2004. URL: http://dx.doi.org/10.1101/GR.2122004, doi:10.1101/gr.2122004. This article has 181 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1101/GR.2122004)
+
+[6. (Liu2023Identification) Qianhui Liu, Qinghai Lian, Yingqiu Song, Shangbin Yang, Changchang Jia, and Jiafeng Fang. Identification of lsm family members as potential chemoresistance predictive and therapeutic biomarkers for gastric cancer. Frontiers in Oncology, March 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1119945, doi:10.3389/fonc.2023.1119945. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1119945)
+
+7. (Li2021Identification) Identification Candidate Diagnostic Biomarkers Between Minimal Change Disease and Focal Segmental Glomerulosclerosis by Bioinformatics Analysis. This article has 0 citations.
+
+[8. (Zaric2014Oligomerization) Bozidarka L. Zaric. Oligomerization of Biomacromolecules – Example of RNA Binding Sm/LSm Proteins. InTech, June 2014. URL: http://dx.doi.org/10.5772/57592, doi:10.5772/57592. This article has 1 citations.](https://doi.org/10.5772/57592)
+
+[9. (Ta2021Potential) Hoang Dang Khoa Ta, Wei-Jan Wang, Nam Nhut Phan, Nu Thuy An Ton, Gangga Anuraga, Su-Chi Ku, Yung-Fu Wu, Chih-Yang Wang, and Kuen-Haur Lee. Potential therapeutic and prognostic values of lsm family genes in breast cancer. Cancers, 13(19):4902, September 2021. URL: http://dx.doi.org/10.3390/cancers13194902, doi:10.3390/cancers13194902. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13194902)

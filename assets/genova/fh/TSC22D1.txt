@@ -1,0 +1,46 @@
+# TSC22D1
+
+## Overview
+TSC22D1 is a gene that encodes the TSC22 domain family member 1 protein, which is a transcriptional co-regulator involved in various cellular processes, including transcriptional regulation, cellular stress response, and cholesterol metabolism. The protein is characterized by a leucine zipper motif, allowing it to function as a transcriptional repressor and form dimers, which are crucial for its role in cellular differentiation, apoptosis, and development (HömigHölzel2011Antagonistic; Meijer2008TSC22D1). TSC22D1 is particularly significant in oncogene-induced senescence (OIS) and systemic cholesterol metabolism, influencing the expression of genes involved in cholesterol transport (HömigHölzel2011Antagonistic; jager2013role). Additionally, alterations in TSC22D1 expression have been linked to cancer progression and resistance to therapies, highlighting its potential as a therapeutic target and biomarker (Meijer2008TSC22D1; Zheng2022RNAbinding).
+
+## Structure
+The TSC22D1 protein is characterized by the presence of a leucine zipper motif, which facilitates dimerization, a key aspect of its quaternary structure (Meijer2008TSC22D1). This motif allows the protein to form homodimers or heterodimers with products of related genes, contributing to its function as a transcription factor (HömigHölzel2011Antagonistic). The protein is part of the early response gene family and was initially identified as a Transforming Growth Factor, beta-1 (TGFb) inducible gene (Meijer2008TSC22D1).
+
+TSC22D1 has several splice variant isoforms, which result in proteins of different lengths and functions. The TSC22D1.2 transcript, for example, can produce proteins of 144, 134, and 86 amino acids due to the use of alternative start codons (HömigHölzel2011Antagonistic). These variants have distinct roles in cellular processes, such as oncogene-induced senescence (OIS), where they exhibit antagonistic functions (HömigHölzel2011Antagonistic).
+
+The protein may undergo post-translational modifications, such as phosphorylation, which can influence its activity and interactions. However, specific details on the primary, secondary, and tertiary structures of TSC22D1 are not provided in the available context.
+
+## Function
+TSC22D1 is a transcriptional co-regulator involved in various cellular processes, including transcriptional regulation and cellular stress response. It is part of the leucine zipper family and functions primarily as a transcriptional repressor. TSC22D1 is active in the nucleus, where it plays a significant role in cell differentiation, apoptosis, and development (Meijer2008TSC22D1).
+
+In the context of oncogene-induced senescence (OIS), TSC22D1 is crucial for the induction of senescence, particularly in cells exposed to oncogenic BRAF E600. It acts downstream of the transcription factor C/EBPb, which is part of the BRAF E600-MEK signaling cascade, and is involved in regulating the senescence-associated secretome (HömigHölzel2011Antagonistic). TSC22D1's expression is significantly induced by oncogenic stress and is reduced when the OIS program is abrogated, indicating its role in maintaining cellular senescence (HömigHölzel2011Antagonistic).
+
+TSC22D1 also plays a role in systemic cholesterol metabolism, particularly in the liver. It influences the expression of genes involved in cholesterol transport, such as ApoA1 and ABCA1, which are crucial for HDL cholesterol formation. Knockdown of TSC22D1 results in reduced HDL cholesterol levels, suggesting its involvement in cholesterol efflux and HDL particle formation (jager2013role).
+
+## Clinical Significance
+Alterations in the expression of the TSC22D1 gene have been implicated in various diseases, particularly in the context of cancer and cholesterol metabolism. In breast cancer, TSC22D1 is associated with resistance to tamoxifen treatment, a common therapy for estrogen receptor-positive breast cancer. High expression levels of TSC22D1 have been observed in tumors resistant to tamoxifen, suggesting its potential role as a predictive marker for treatment outcomes (Meijer2008TSC22D1).
+
+In the realm of cholesterol metabolism, TSC22D1 plays a significant role in regulating HDL cholesterol levels. Its expression is impaired in aged mice, correlating with decreased cholesterol regulation, and knockdown of TSC22D1 results in reduced HDL cholesterol levels, indicating its protective role against atherosclerosis (jager2013role).
+
+TSC22D1 also acts as a tumor suppressor in various cancers. In cervical cancer, the RNA-binding protein MEX3D destabilizes TSC22D1 mRNA, promoting tumorigenesis. This interaction highlights TSC22D1's role as a critical inhibitory factor in cervical cancer, with its knockdown leading to increased cell proliferation and reduced apoptosis (Zheng2022RNAbinding).
+
+## Interactions
+TSC22D1, a member of the TSC22 domain family, is involved in various protein-protein interactions that influence cellular processes. It can form homodimers and heterodimers with other TSC22 domain family proteins, such as THG1, which plays a role in oncogene-induced senescence (OIS). TSC22D1.2, a variant of TSC22D1, is essential for executing the senescence program by interacting with THG1, while TSC22D1.1 can interact with THG1 to allow for OIS bypass and cell proliferation (HömigHölzel2011Antagonistic).
+
+TSC22D1 also interacts with histone H1, a chromatin protein involved in gene expression regulation. This interaction may promote histone H1 degradation, affecting gene expression related to cell proliferation, differentiation, apoptosis, and senescence (Kamimura2021Identification). Additionally, TSC22D1 binds to guanine nucleotide-binding protein-like 3 (GNL3), also known as nucleostemin, which influences cell cycle progression and differentiation (Kamimura2021Identification).
+
+In the context of cervical cancer, TSC22D1 mRNA is a direct target of the RNA-binding protein MEX3D, which destabilizes TSC22D1 mRNA, promoting tumorigenesis. This interaction highlights the role of MEX3D in cervical cancer progression and its potential as a therapeutic target (Zheng2022RNAbinding).
+
+
+## References
+
+
+[1. (HömigHölzel2011Antagonistic) Cornelia Hömig-Hölzel, Remco van Doorn, Celia Vogel, Markus Germann, Marco G Cecchini, Els Verdegaal, and Daniel S Peeper. Antagonistic tsc22d1 variants control brafe600-induced senescence: tsc22 in ois. The EMBO Journal, 30(9):1753–1765, March 2011. URL: http://dx.doi.org/10.1038/emboj.2011.95, doi:10.1038/emboj.2011.95. This article has 22 citations.](https://doi.org/10.1038/emboj.2011.95)
+
+[2. (Kamimura2021Identification) Ryouta Kamimura, Daisuke Uchida, Shin-ichiro Kanno, Ryo Shiraishi, Toshiki Hyodo, Yuta Sawatani, Michiko Shimura, Tomonori Hasegawa, Maki Tsubura-Okubo, Erika Yaguchi, Yuske Komiyama, Chonji Fukumoto, Sayaka Izumi, Atsushi Fujita, Takahiro Wakui, and Hitoshi Kawamata. Identification of binding proteins for tsc22d1 family proteins using mass spectrometry. International Journal of Molecular Sciences, 22(20):10913, October 2021. URL: http://dx.doi.org/10.3390/ijms222010913, doi:10.3390/ijms222010913. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms222010913)
+
+[3. (Meijer2008TSC22D1) Danielle Meijer, Maurice P. H. M. Jansen, Maxime P. Look, Kirsten Ruigrok-Ritstier, Iris L. van Staveren, Anieta M. Sieuwerts, Ton van Agthoven, John A. Foekens, Lambert C. J. Dorssers, and Els M. J. J. Berns. Tsc22d1 and psap predict clinical outcome of tamoxifen treatment in patients with recurrent breast cancer. Breast Cancer Research and Treatment, 113(2):253–260, February 2008. URL: http://dx.doi.org/10.1007/s10549-008-9934-3, doi:10.1007/s10549-008-9934-3. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10549-008-9934-3)
+
+[4. (Zheng2022RNAbinding) Zhi Zheng, Xiaojing Chen, Xiaoyun Cai, Hui Lin, Junfen Xu, and Xiaodong Cheng. Rna-binding protein mex3d promotes cervical carcinoma tumorigenesis by destabilizing tsc22d1 mrna. Cell Death Discovery, May 2022. URL: http://dx.doi.org/10.1038/s41420-022-01049-7, doi:10.1038/s41420-022-01049-7. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-022-01049-7)
+
+5. (jager2013role) The role of hepatic transforming growth factor beta1-stimulated clone 22 D1 (TSC22D1 in the regulation of systemic cholesterol metabolis. This article has 0 citations.

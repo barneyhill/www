@@ -1,0 +1,62 @@
+# GLI1
+
+## Overview
+GLI1 is a gene that encodes the GLI family zinc finger 1 protein, a transcription factor that plays a pivotal role in the Hedgehog (Hh) signaling pathway. This pathway is crucial for regulating embryonic development and maintaining adult tissue homeostasis. The GLI1 protein is characterized by its zinc finger domains, which enable it to bind DNA and regulate the expression of genes involved in cell proliferation, differentiation, and survival. As a transcriptional activator, GLI1 is primarily expressed in proliferating cells and is a direct target of Sonic Hedgehog (Shh) signaling. Its activity is modulated by various post-translational modifications and interactions with other proteins, such as SUFU and PCAF, which influence its stability and function. Aberrations in GLI1 expression and function are implicated in the pathogenesis of several cancers, making it a potential target for therapeutic intervention (Palle2015Aberrant; Matise1999Gli; Doheny2020Hedgehog).
+
+## Structure
+The GLI1 protein is a member of the GLI-Kruppel family of zinc-finger transcription factors and is characterized by a conserved five tandem C2-H2 zinc-finger binding domain, spanning amino acids 234-388. This domain allows GLI1 to bind DNA as a monomer, recognizing the consensus sequence 5'-GACCACCCA-3' (Doheny2020Hedgehog). The zinc-finger domains interact with the DNA's major groove through the phosphate backbone (Infante2014Gli1). 
+
+GLI1 contains a nuclear export sequence and a nuclear localization signal, which are essential for its nuclear translocation (Doheny2020Hedgehog). The C-terminal domain of GLI1 is involved in transactivating gene promoters through chromatin remodeling and interaction with histone acetyltransferases and deacetylases (Doheny2020Hedgehog).
+
+Post-translational modifications of GLI1 include phosphorylation, ubiquitination, sumoylation, acetylation, and O-GlcNAcylation. Phosphorylation by protein kinase A (PKA) serves as an inhibitory signal, while other kinases like DYRK1 enhance transcriptional activity. Ubiquitination regulates GLI1 degradation, and acetylation reduces its transcriptional activity. O-GlcNAcylation increases nuclear accumulation and transcriptional activity (Niewiadomski2019Gli; Doheny2020Hedgehog).
+
+GLI1 mRNA undergoes alternative splicing, resulting in variants such as GLI1∆N and tGLI1, which have distinct functional properties and are implicated in cancer (Doheny2020Hedgehog).
+
+## Function
+GLI1 (GLI family zinc finger 1) is a transcription factor that plays a crucial role in the Hedgehog (Hh) signaling pathway, which is essential for various developmental processes and cellular functions. In healthy human cells, GLI1 functions primarily as a transcriptional activator, influencing the expression of target genes involved in cell proliferation, differentiation, and survival (Yoon2002Gene; Matise1999Gli). 
+
+GLI1 is expressed in proliferating cells adjacent to Sonic Hedgehog (Shh)-expressing tissues and is a direct transcriptional target of Shh signaling (Matise1999Gli). It regulates the expression of genes such as Cyclin D1 and Cyclin D2, which are critical for cell cycle progression, particularly at the G1/S transition, thereby promoting cellular proliferation (Yoon2002Gene; Merchant2010Gli1). 
+
+In the context of hematopoiesis, GLI1 is involved in the proliferation and differentiation of hematopoietic stem cells (HSCs) and myeloid progenitors, although it is not essential for steady-state hematopoiesis. It plays a significant role during stress conditions, facilitating the rapid proliferation of progenitors (Merchant2010Gli1). GLI1's activity is primarily localized in the nucleus, where it binds to specific DNA motifs to regulate gene expression (Yoon2002Gene).
+
+## Clinical Significance
+Mutations and alterations in the expression of the GLI1 gene are implicated in various cancers. Overexpression of GLI1 is associated with tumor initiation and progression in cancers such as breast, colon, lung, ovarian, pancreas, prostate, glioblastoma, and melanoma (Pietrobono2019Noncanonical). In breast cancer, increased GLI1 expression correlates with higher invasiveness and resistance to treatment, while its downregulation reduces proliferation and migration (Palle2015Aberrant). In pancreatic ductal adenocarcinoma, GLI1 is activated by KRAS mutations and regulates proteins involved in carcinogenesis (Palle2015Aberrant).
+
+GLI1 also plays a role in chemoresistance, as its downregulation in ovarian cancer cells sensitizes them to cisplatin by affecting DNA repair pathways (Palle2015Aberrant). In hepatocellular carcinoma, GLI1 overexpression correlates with poor prognosis and tumor recurrence (Palle2015Aberrant). Non-canonical activation of GLI1, independent of the Hedgehog signaling pathway, is noted in several cancers, contributing to elevated GLI activity (Pietrobono2019Noncanonical).
+
+Mutations in GLI1 have been identified in various cancers, including pancreatic cancer and melanoma, and are associated with genomic instability and cancer progression (Palle2015Aberrant). These findings highlight the potential of GLI1 as a therapeutic target in cancer treatment.
+
+## Interactions
+GLI1, a transcription factor in the Hedgehog signaling pathway, interacts with various proteins and nucleic acids to regulate gene expression. It binds to DNA through its zinc finger domains, particularly ZF4 and ZF5, which are crucial for its transcriptional activity. Key residues such as K340 and K350 are essential for this interaction, with K350 forming hydrogen bonds with guanine bases in the DNA (Infante2014Gli1).
+
+GLI1 also interacts with SUFU (Suppressor of Fused), a negative regulator of Hedgehog signaling. The interaction occurs through the N-terminal region of GLI1, specifically amino acids 116-125, which includes the conserved SYGH motif. This interaction is critical for SUFU's ability to suppress GLI1 activity by sequestering it in the cytoplasm (Dunaeva2003Characterization).
+
+In esophageal squamous cell carcinoma, GLI1 forms a complex with YAP1, contributing to tumor progression. This interaction involves a regulatory feedback loop where GLI1 influences YAP1 protein levels and vice versa, implicating the Hippo signaling pathway (Wang2020Gli1).
+
+GLI1's activity is modulated by PCAF, an E3-ubiquitin ligase that ubiquitinates and degrades GLI1, inhibiting its function. This interaction does not require PCAF's acetyltransferase activity but relies on its ubiquitin ligase activity (Mazzà2013PCAF).
+
+
+## References
+
+
+[1. (Doheny2020Hedgehog) Daniel Doheny, Sara G. Manore, Grace L. Wong, and Hui-Wen Lo. Hedgehog signaling and truncated gli1 in cancer. Cells, 9(9):2114, September 2020. URL: http://dx.doi.org/10.3390/cells9092114, doi:10.3390/cells9092114. This article has 113 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells9092114)
+
+[2. (Merchant2010Gli1) Akil Merchant, Giselle Joseph, Qiuju Wang, Sarah Brennan, and William Matsui. Gli1 regulates the proliferation and differentiation of hscs and myeloid progenitors. Blood, 115(12):2391–2396, March 2010. URL: http://dx.doi.org/10.1182/blood-2009-09-241703, doi:10.1182/blood-2009-09-241703. This article has 93 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1182/blood-2009-09-241703)
+
+[3. (Mazzà2013PCAF) D Mazzà, P Infante, V Colicchia, A Greco, R Alfonsi, M Siler, L Antonucci, A Po, E De Smaele, E Ferretti, C Capalbo, D Bellavia, G Canettieri, G Giannini, I Screpanti, A Gulino, and L Di Marcotullio. Pcaf ubiquitin ligase activity inhibits hedgehog/gli1 signaling in p53-dependent response to genotoxic stress. Cell Death &amp; Differentiation, 20(12):1688–1697, September 2013. URL: http://dx.doi.org/10.1038/cdd.2013.120, doi:10.1038/cdd.2013.120. This article has 76 citations.](https://doi.org/10.1038/cdd.2013.120)
+
+[4. (Pietrobono2019Noncanonical) Silvia Pietrobono, Sinforosa Gagliardi, and Barbara Stecca. Non-canonical hedgehog signaling pathway in cancer: activation of gli transcription factors beyond smoothened. Frontiers in Genetics, June 2019. URL: http://dx.doi.org/10.3389/fgene.2019.00556, doi:10.3389/fgene.2019.00556. This article has 210 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2019.00556)
+
+[5. (Palle2015Aberrant) Komaraiah Palle, Chinnadurai Mani, Kaushlendra Tripathi, and Mohammad Athar. Aberrant gli1 activation in dna damage response, carcinogenesis and chemoresistance. Cancers, 7(4):2330–2351, November 2015. URL: http://dx.doi.org/10.3390/cancers7040894, doi:10.3390/cancers7040894. This article has 60 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers7040894)
+
+[6. (Yoon2002Gene) Joon Won Yoon, Yasuhiro Kita, Daniel J. Frank, Rebecca R. Majewski, Beth A. Konicek, Marcelo A. Nobrega, Howard Jacob, David Walterhouse, and Philip Iannaccone. Gene expression profiling leads to identification of gli1-binding elements in target genes and a role for multiple downstream pathways in gli1-induced cell transformation. Journal of Biological Chemistry, 277(7):5548–5555, February 2002. URL: http://dx.doi.org/10.1074/jbc.M105708200, doi:10.1074/jbc.m105708200. This article has 386 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M105708200)
+
+[7. (Matise1999Gli) Michael P Matise and Alexandra L Joyner. Gli genes in development and cancer. Oncogene, 18(55):7852–7859, December 1999. URL: http://dx.doi.org/10.1038/sj.onc.1203243, doi:10.1038/sj.onc.1203243. This article has 145 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.onc.1203243)
+
+[8. (Wang2020Gli1) Chongchong Wang, Li Cheng, Shasha Song, Shan Wu, and Guoping Sun. Gli1 interacts with yap1 to promote tumorigenesis in esophageal squamous cell carcinoma. Journal of Cellular Physiology, 235(11):8224–8235, January 2020. URL: http://dx.doi.org/10.1002/jcp.29477, doi:10.1002/jcp.29477. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcp.29477)
+
+[9. (Infante2014Gli1) Paola Infante, Mattia Mori, Romina Alfonsi, Francesca Ghirga, Federica Aiello, Sara Toscano, Cinzia Ingallina, Mariangela Siler, Danilo Cucchi, Agnese Po, Evelina Miele, Davide D’Amico, Gianluca Canettieri, Enrico De Smaele, Elisabetta Ferretti, Isabella Screpanti, Gloria Uccello Barretta, Maurizio Botta, Bruno Botta, Alberto Gulino, and Lucia Di Marcotullio. Gli1/ <scp>dna</scp> interaction is a druggable target for hedgehog‐dependent tumors. The EMBO Journal, 34(2):200–217, December 2014. URL: http://dx.doi.org/10.15252/embj.201489213, doi:10.15252/embj.201489213. This article has 146 citations.](https://doi.org/10.15252/embj.201489213)
+
+[10. (Niewiadomski2019Gli) Paweł Niewiadomski, Sylwia M. Niedziółka, Łukasz Markiewicz, Tomasz Uśpieński, Brygida Baran, and Katarzyna Chojnowska. Gli proteins: regulation in development and cancer. Cells, 8(2):147, February 2019. URL: http://dx.doi.org/10.3390/cells8020147, doi:10.3390/cells8020147. This article has 125 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells8020147)
+
+[11. (Dunaeva2003Characterization) Marina Dunaeva, Piret Michelson, Priit Kogerman, and Rune Toftgard. Characterization of the physical interaction of gli proteins with sufu proteins. Journal of Biological Chemistry, 278(7):5116–5122, February 2003. URL: http://dx.doi.org/10.1074/jbc.m209492200, doi:10.1074/jbc.m209492200. This article has 150 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m209492200)

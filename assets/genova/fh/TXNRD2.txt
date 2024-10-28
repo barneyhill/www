@@ -1,0 +1,58 @@
+# TXNRD2
+
+## Overview
+Thioredoxin reductase 2 (TXNRD2) is a gene that encodes a mitochondrial enzyme belonging to the pyridine nucleotide-disulfide oxidoreductase family. This enzyme, thioredoxin reductase 2, plays a pivotal role in maintaining cellular redox homeostasis by catalyzing the NADPH-dependent reduction of thioredoxin 2 (TXN2) and other substrates, thereby regulating oxidative stress within cells (Scalcon2018Significance; Prasad2014Thioredoxin). The enzyme is characterized by a conserved C-terminal redox-active site containing a selenocysteine residue, which is essential for its catalytic activity (Scalcon2018Significance). TXNRD2 is crucial for various physiological processes, including DNA synthesis, repair, and apoptosis, and is particularly important in tissues with high oxidative stress, such as the heart and adrenal cortex (Prasad2014Thioredoxin; Conrad2004Essential). Mutations in the TXNRD2 gene have been associated with several diseases, including familial glucocorticoid deficiency and cardiovascular conditions, highlighting its clinical significance (Kariž2015Association; Prasad2014Thioredoxin).
+
+## Structure
+Thioredoxin reductase 2 (TXNRD2) is a mitochondrial enzyme that plays a crucial role in maintaining redox homeostasis. The primary structure of TXNRD2 includes 524 amino acids, featuring a conserved C-terminal redox-active site with a selenocysteine residue essential for its catalytic activity (Scalcon2018Significance; Prasad2014Thioredoxin). The enzyme also contains an N-terminal mitochondrial targeting sequence of 36 amino acids (Scalcon2018Significance).
+
+The secondary structure of TXNRD2 is characterized by alpha helices and beta sheets, typical of the pyridine nucleotide-disulfide oxidoreductase family (Scalcon2018Significance). The tertiary structure includes a flavin adenine dinucleotide (FAD) binding domain, which is crucial for its function in electron transfer (Scalcon2018Significance).
+
+In terms of quaternary structure, TXNRD2 forms homodimers, with each dimer consisting of two identical subunits arranged in a head-to-tail manner. This arrangement facilitates the formation of two active sites, each comprising a selenothiol from one monomer and a dithiol from the other (Ingold2018Oxidative).
+
+TXNRD2 undergoes post-translational modifications, such as CoAlation, which enhances its enzymatic activity and protects cells against ferroptosis (Lin2024Protein). The enzyme also exhibits alternative splicing at the 5' end, resulting in protein variants with different N-terminal domains (Arnér2020Effects).
+
+## Function
+Thioredoxin reductase 2 (TXNRD2) is a mitochondrial enzyme that plays a critical role in maintaining cellular redox homeostasis. It is part of the thioredoxin system, which is essential for reducing thioredoxin 2 (TXN2) and other substrates, thereby regulating oxidative stress within cells (Scalcon2018Significance; Prasad2014Thioredoxin). TXNRD2 catalyzes the NADPH-dependent reduction of thioredoxin, which in turn reduces peroxiredoxin 3 (PRDX3), facilitating the detoxification of hydrogen peroxide (H2O2) and protecting cells from oxidative damage (Prasad2014Thioredoxin; Holzerova2015Human).
+
+TXNRD2 is crucial for various physiological processes, including DNA synthesis, repair, and apoptosis. It is involved in the regulation of mitochondrial integrity and function, impacting overall cellular health and organismal homeostasis (Conrad2004Essential). The enzyme's activity is particularly important in tissues with high oxidative stress, such as the heart and adrenal cortex, where it helps maintain redox balance and prevent cellular damage (Prasad2014Thioredoxin).
+
+In healthy human cells, TXNRD2's role in the thioredoxin system is vital for modulating the levels of reactive oxygen species (ROS) and maintaining the thiol redox state, which is crucial for normal cellular function and protection against oxidative stress (Scalcon2018Significance).
+
+## Clinical Significance
+Mutations in the TXNRD2 gene have been linked to several diseases and conditions. A notable mutation, p.Y447X, is associated with familial glucocorticoid deficiency (FGD), a condition characterized by ACTH resistance and isolated glucocorticoid deficiency. This mutation results in a stop gain, leading to the absence of the TXNRD2 protein, which impairs redox homeostasis in human adrenocortical cells (Prasad2014Thioredoxin). 
+
+In addition to FGD, TXNRD2 mutations have been implicated in cardiovascular conditions. For instance, polymorphisms in TXNRD2, such as rs1548357, have been associated with myocardial infarction in patients with type 2 diabetes mellitus, suggesting a protective role against macrovascular complications (Kariž2015Association). Furthermore, mutations in TXNRD2 have been linked to dilated cardiomyopathy, with specific missense mutations like p.Ala59Thr and p.Gly375Arg causing the condition through a dominant-negative mechanism (Rojnueangnit2019Identification).
+
+Alterations in TXNRD2 expression levels have also been observed in cancer. In hepatocellular carcinoma, decreased expression of TXNRD2 is associated with a better prognosis in disease-free survival, indicating its potential role in cancer progression (Cho2018Clinical).
+
+## Interactions
+Thioredoxin reductase 2 (TXNRD2) is a key component of the mitochondrial thioredoxin system, interacting primarily with thioredoxin 2 (TXN2). This interaction is crucial for maintaining mitochondrial redox homeostasis and protecting against oxidative stress. The interaction between TXNRD2 and TXN2 is disrupted by erastin, a ferroptosis inducer, but can be restored by CoA supplementation, highlighting the importance of this interaction in ferroptosis inhibition (Lin2024Protein).
+
+TXNRD2 also interacts with peroxiredoxin 3 (PRDX3), a protein involved in the thioredoxin system. The redox status of PRDX3 is affected by TXNRD2 activity, with CoA supplementation reversing the erastin-induced decrease in the reduced form of PRDX3 (Lin2024Protein). This suggests that TXNRD2 plays a role in regulating the redox state of PRDX3, which is essential for cellular protection against oxidative damage.
+
+CoAlation, a post-translational modification involving the covalent attachment of CoA to cysteine residues, specifically targets TXNRD2 at Cys-483. This modification enhances TXNRD2's enzymatic activity, which is crucial for its protective role against ferroptosis. The modification is inhibited by auranofin, indicating a regulatory interaction that affects TXNRD2's function (Lin2024Protein).
+
+
+## References
+
+
+[1. (Conrad2004Essential) Marcus Conrad, Cemile Jakupoglu, Stéphanie G. Moreno, Stefanie Lippl, Ana Banjac, Manuela Schneider, Heike Beck, Antonis K. Hatzopoulos, Ursula Just, Fred Sinowatz, Wolfgang Schmahl, Kenneth R. Chien, Wolfgang Wurst, Georg W. Bornkamm, and Markus Brielmeier. Essential role for mitochondrial thioredoxin reductase in hematopoiesis, heart development, and heart function. Molecular and Cellular Biology, 24(21):9414–9423, November 2004. URL: http://dx.doi.org/10.1128/mcb.24.21.9414-9423.2004, doi:10.1128/mcb.24.21.9414-9423.2004. This article has 403 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.24.21.9414-9423.2004)
+
+[2. (Kariž2015Association) Stojan Kariž, Sara Mankoč, and Daniel Petrovič. Association of thioredoxin reductase 2 (txnrd2) gene polymorphisms with myocardial infarction in slovene patients with type 2 diabetes mellitus. Diabetes Research and Clinical Practice, 108(2):323–328, May 2015. URL: http://dx.doi.org/10.1016/j.diabres.2015.01.038, doi:10.1016/j.diabres.2015.01.038. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.diabres.2015.01.038)
+
+[3. (Holzerova2015Human) Eliska Holzerova, Katharina Danhauser, Tobias B. Haack, Laura S. Kremer, Marlen Melcher, Irina Ingold, Sho Kobayashi, Caterina Terrile, Petra Wolf, Jörg Schaper, Ertan Mayatepek, Fabian Baertling, José Pedro Friedmann Angeli, Marcus Conrad, Tim M. Strom, Thomas Meitinger, Holger Prokisch, and Felix Distelmaier. Human thioredoxin 2 deficiency impairs mitochondrial redox homeostasis and causes early-onset neurodegeneration. Brain, 139(2):346–354, December 2015. URL: http://dx.doi.org/10.1093/brain/awv350, doi:10.1093/brain/awv350. This article has 78 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/brain/awv350)
+
+[4. (Scalcon2018Significance) Valeria Scalcon, Alberto Bindoli, and Maria Pia Rigobello. Significance of the mitochondrial thioredoxin reductase in cancer cells: an update on role, targets and inhibitors. Free Radical Biology and Medicine, 127:62–79, November 2018. URL: http://dx.doi.org/10.1016/j.freeradbiomed.2018.03.043, doi:10.1016/j.freeradbiomed.2018.03.043. This article has 98 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.freeradbiomed.2018.03.043)
+
+5. (Lin2024Protein) Protein CoAlation on TXNRD2 regulates mitochondrial thioredoxin system to protect against ferroptosis. This article has 0 citations.
+
+[6. (Rojnueangnit2019Identification) Kitiwan Rojnueangnit, Boonchu Sirichongkolthong, Ratthapon Wongwandee, Thanitchet Khetkham, Saisuda Noojarern, Arthaporn Khongkraparn, and Duangrurdee Wattanasirichaigoon. Identification of gene mutations in primary pediatric cardiomyopathy by whole exome sequencing. Pediatric Cardiology, 41(1):165–174, November 2019. URL: http://dx.doi.org/10.1007/s00246-019-02240-x, doi:10.1007/s00246-019-02240-x. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00246-019-02240-x)
+
+[7. (Prasad2014Thioredoxin) Rathi Prasad, Li F. Chan, Claire R. Hughes, Juan P. Kaski, Julia C. Kowalczyk, Martin O. Savage, Catherine J. Peters, Nisha Nathwani, Adrian J. L. Clark, Helen L. Storr, and Louise A. Metherell. Thioredoxin reductase 2 (txnrd2) mutation associated with familial glucocorticoid deficiency (fgd). The Journal of Clinical Endocrinology &amp; Metabolism, 99(8):E1556–E1563, August 2014. URL: http://dx.doi.org/10.1210/jc.2013-3844, doi:10.1210/jc.2013-3844. This article has 99 citations.](https://doi.org/10.1210/jc.2013-3844)
+
+[8. (Ingold2018Oxidative) Irina Ingold and Marcus Conrad. Oxidative Stress, Selenium Redox Systems Including GPX/TXNRD Families, pages 111–135. Springer International Publishing, 2018. URL: http://dx.doi.org/10.1007/978-3-319-95390-8_6, doi:10.1007/978-3-319-95390-8_6. This article has 6 citations.](https://doi.org/10.1007/978-3-319-95390-8_6)
+
+[9. (Arnér2020Effects) Elias S. J. Arnér. Effects of Mammalian Thioredoxin Reductase Inhibitors, pages 289–309. Springer International Publishing, 2020. URL: http://dx.doi.org/10.1007/164_2020_393, doi:10.1007/164_2020_393. This article has 14 citations.](https://doi.org/10.1007/164_2020_393)
+
+[10. (Cho2018Clinical) Sang Yeon Cho, Sungha Kim, Mi-Ju Son, Woo Sun Rou, Seok Hyun Kim, Hyuk Soo Eun, and Byung Seok Lee. Clinical significance of the thioredoxin system and thioredoxin-domain-containing protein family in hepatocellular carcinoma. Digestive Diseases and Sciences, 64(1):123–136, October 2018. URL: http://dx.doi.org/10.1007/s10620-018-5307-x, doi:10.1007/s10620-018-5307-x. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10620-018-5307-x)

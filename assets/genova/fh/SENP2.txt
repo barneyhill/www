@@ -1,0 +1,54 @@
+# SENP2
+
+## Overview
+SENP2, or SUMO specific peptidase 2, is a gene that encodes a cysteine protease enzyme involved in the post-translational modification process known as deSUMOylation. The protein product of SENP2, categorized as a protease, plays a critical role in regulating various cellular processes by removing SUMO (Small Ubiquitin-like Modifier) proteins from target substrates. This activity is essential for modulating gene expression, DNA repair, and cell cycle progression. SENP2 is predominantly localized in the nucleus, where it influences transcriptional activity by interacting with transcription factors and chromatin modifiers. It also participates in DNA damage response pathways, ensuring genome integrity. Clinically, alterations in SENP2 expression or function are associated with developmental abnormalities and cancer, highlighting its significance in cellular homeostasis and potential as a therapeutic target (Claessens2024SUMO; Nayak2014SUMOspecific; Chen2018SENP2).
+
+## Structure
+SENP2 (SUMO specific peptidase 2) is a protease characterized by a catalytic domain typical of cysteine proteases, which is crucial for its enzymatic activity. The catalytic domain of SENP2 spans amino acid residues 364 to 589 and includes a catalytic triad composed of His478, Asp495, and Cys548, which are essential for its function (Drag2008DeSUMOylating; Reverter2006Structural). SENP2 shares structural similarities with deubiquitinating enzymes, featuring a restricted tunnel that accommodates two glycine residues at the C-terminus of SUMO (Drag2008DeSUMOylating).
+
+The protein's structure includes specific domains such as the catalytic domain and nuclear localization signals, which contribute to its subcellular localization at the nuclear pore (Drag2008DeSUMOylating; Reverter2006Structural). SENP2 does not undergo significant conformational changes upon substrate binding, maintaining the same active site geometry in the presence and absence of substrate (Drag2008DeSUMOylating).
+
+SENP2 has several isoforms due to alternative splicing, which may affect its function and localization. Post-translational modifications, such as phosphorylation, can regulate its activity and localization, although specific details on these modifications are not provided in the context.
+
+## Function
+SENP2 (SUMO specific peptidase 2) is a crucial enzyme involved in the deSUMOylation process, which regulates various cellular functions by removing SUMO (Small Ubiquitin-like Modifier) proteins from target proteins. In healthy human cells, SENP2 is primarily active in the nucleus, where it plays a significant role in maintaining cellular homeostasis and normal development (Nayak2014SUMOspecific).
+
+SENP2 is involved in the regulation of gene expression by deSUMOylating transcription factors and chromatin modifiers, thereby influencing transcriptional activity. It counteracts SUMO-mediated transcriptional repression, particularly by the polycomb repressive complex 1 (PRC1), which is known to repress the transcription of developmental regulator genes such as Gata4 and Gata6 (Claessens2024SUMO; Nayak2014SUMOspecific).
+
+In addition to its role in gene expression, SENP2 is involved in DNA repair processes. It plays a dual role in the repair of double-strand DNA breaks through both homologous recombination (HR) and nonhomologous end-joining (NHEJ) pathways. SENP2's activity ensures the efficient repair of DNA and maintains genome integrity by modulating the SUMOylation status of DNA repair proteins (Claessens2024SUMO; Tokarz2021SENP).
+
+SENP2 also contributes to cell cycle progression by localizing to the kinetochore during mitosis, ensuring proper kinetochore function and preventing prometaphase arrest (Claessens2024SUMO).
+
+## Clinical Significance
+Mutations or alterations in the expression of the SENP2 gene have significant clinical implications, particularly in the context of developmental abnormalities and cancer. SENP2 is crucial for modulating the p53-Mdm2 pathway, which is essential for trophoblast development. Disruption of SENP2 leads to defects in all major trophoblast layers, impairing processes like endoreduplication, which is vital for trophoblast proliferation and differentiation. This disruption can result in embryonic lethality due to placental deficiencies, as seen in SENP2-null mice, which exhibit smaller and underdeveloped embryos with significant reductions in trophoblast layers (Chiu2008SUMOSpecific).
+
+In cancer, SENP2 has been implicated in chronic lymphocytic leukemia (CLL). SENP2 is downregulated in CLL patients, and its overexpression in CLL cells increases sensitivity to chemotherapy drugs and promotes apoptosis. SENP2 also suppresses the Notch and NF-κB signaling pathways, which are often aberrantly activated in CLL, suggesting its role as a tumor suppressor. Conversely, silencing SENP2 leads to increased drug resistance and upregulation of these pathways, highlighting its potential as a therapeutic target in CLL treatment strategies (Chen2018SENP2). These findings underscore the importance of SENP2 in maintaining cellular homeostasis and its potential impact on disease progression when dysregulated.
+
+## Interactions
+SENP2 interacts with several proteins, playing a crucial role in DNA damage response and repair mechanisms. It is involved in the deSUMOylation of MDC1, a mediator of DNA damage checkpoint 1, which is essential for the proper clearance of MDC1 from damage sites and the formation of downstream 53BP1 foci necessary for DNA repair (Garvin2019The). SENP2 also interacts with RNF4 and VCP, which are key players in the rapid clearance of MDC1 foci in the absence of SENP2, indicating a compensatory mechanism in DNA damage response signaling (Garvin2019The).
+
+SENP2's interaction with the nucleoporin Nup153 is significant for its localization at the nuclear pore complex. Nup153 interacts with SENP2 through its N-terminal domain and a specific region within its C-terminal FG-rich region. This interaction is crucial for the desumoylation of Nup153, as its sumoylation levels increase when SENP2 is depleted (Chow2012Two).
+
+Structurally, SENP2 interacts with SUMO precursors and conjugated substrates, such as RanGAP1 modified with SUMO-1 or SUMO-2. These interactions are mediated by specific surfaces on SENP2 that are crucial for its catalytic function, with a preference for SUMO-2/3 conjugates over SUMO-1 (Reverter2006Structural).
+
+
+## References
+
+
+[1. (Drag2008DeSUMOylating) Marcin Drag and Guy S. Salvesen. Desumoylating enzymes—senps. IUBMB Life, 60(11):734–742, July 2008. URL: http://dx.doi.org/10.1002/iub.113, doi:10.1002/iub.113. This article has 86 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/iub.113)
+
+[2. (Chow2012Two) Kin-Hoe Chow, Suzanne Elgort, Mary Dasso, and Katharine S. Ullman. Two distinct sites in nup153 mediate interaction with the sumo proteases senp1 and senp2. Nucleus, 3(4):349–358, July 2012. URL: http://dx.doi.org/10.4161/nucl.20822, doi:10.4161/nucl.20822. This article has 38 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/nucl.20822)
+
+[3. (Reverter2006Structural) David Reverter and Christopher D Lima. Structural basis for senp2 protease interactions with sumo precursors and conjugated substrates. Nature Structural &amp; Molecular Biology, 13(12):1060–1068, November 2006. URL: http://dx.doi.org/10.1038/nsmb1168, doi:10.1038/nsmb1168. This article has 118 citations.](https://doi.org/10.1038/nsmb1168)
+
+[4. (Chen2018SENP2) Xiu‑Li Chen, Shi‑Fen Wang, Xue‑Ting Liang, Hui‑Xin Liang, Ting‑Ting Wang, Shun‑Quan Wu, Zong‑Jian Qiu, Rong Zhan, and Zhen‑Shu Xu. Senp2 exerts an anti‑tumor effect on chronic lymphocytic leukemia cells through the inhibition of the notch and nf‑κb signaling pathways. International Journal of Oncology, November 2018. URL: http://dx.doi.org/10.3892/ijo.2018.4635, doi:10.3892/ijo.2018.4635. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2018.4635)
+
+[5. (Tokarz2021SENP) Paulina Tokarz and Katarzyna Woźniak. Senp proteases as potential targets for cancer therapy. Cancers, 13(9):2059, April 2021. URL: http://dx.doi.org/10.3390/cancers13092059, doi:10.3390/cancers13092059. This article has 48 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13092059)
+
+[6. (Chiu2008SUMOSpecific) Shang-Yi Chiu, Naoya Asai, Frank Costantini, and Wei Hsu. Sumo-specific protease 2 is essential for modulating p53-mdm2 in development of trophoblast stem cell niches and lineages. PLoS Biology, 6(12):e310, December 2008. URL: http://dx.doi.org/10.1371/journal.pbio.0060310, doi:10.1371/journal.pbio.0060310. This article has 94 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.0060310)
+
+[7. (Nayak2014SUMOspecific) Arnab Nayak and Stefan Müller. Sumo-specific proteases/isopeptidases: senps and beyond. Genome Biology, July 2014. URL: http://dx.doi.org/10.1186/s13059-014-0422-2, doi:10.1186/s13059-014-0422-2. This article has 176 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13059-014-0422-2)
+
+[8. (Garvin2019The) Alexander J. Garvin, Alexandra K. Walker, Ruth M. Densham, Anoop Singh Chauhan, Helen R. Stone, Hannah L. Mackay, Mohammed Jamshad, Katarzyna Starowicz, Manuel Daza-Martin, George E. Ronson, Alexander J. Lanz, James F. Beesley, and Joanna R. Morris. The desumoylase senp2 coordinates homologous recombination and nonhomologous end joining by independent mechanisms. Genes &amp; Development, 33(5–6):333–347, February 2019. URL: http://dx.doi.org/10.1101/gad.321125.118, doi:10.1101/gad.321125.118. This article has 36 citations.](https://doi.org/10.1101/gad.321125.118)
+
+[9. (Claessens2024SUMO) Laura A. Claessens and Alfred C.O. Vertegaal. Sumo proteases: from cellular functions to disease. Trends in Cell Biology, February 2024. URL: http://dx.doi.org/10.1016/j.tcb.2024.01.002, doi:10.1016/j.tcb.2024.01.002. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tcb.2024.01.002)

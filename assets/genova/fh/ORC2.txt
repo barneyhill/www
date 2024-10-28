@@ -1,0 +1,50 @@
+# ORC2
+
+## Overview
+The ORC2 gene encodes the origin recognition complex subunit 2, a pivotal component of the origin recognition complex (ORC) in eukaryotic cells. This protein plays a crucial role in the initiation of DNA replication by facilitating the assembly and localization of the ORC to replication origins. ORC2 is characterized by its structural domains, including a winged-helix domain and an AAA+ ATPase domain, which are essential for its function in DNA binding and ATPase activity (Cheng2020Structural). As part of the ORC2-5 core complex, ORC2 interacts with other ORC subunits to maintain the stability and function of the complex throughout the cell cycle (Radichev2006Genetic). Additionally, ORC2 is involved in chromosome segregation and centromeric histone modification, contributing to genomic stability and proper cell cycle progression (Prasanth2004Human; Huang2016SUMOylated). Mutations in ORC2 have been linked to various clinical implications, including cancer and developmental disorders, underscoring its significance in cellular proliferation and genomic integrity (Shibata2020A).
+
+## Structure
+The ORC2 protein is a component of the human origin recognition complex (ORC), which is essential for DNA replication initiation. Structurally, ORC2 contains several functional domains, including a winged-helix domain (WHD) and an AAA+ ATPase domain. The WHD of ORC2 plays a crucial role in the conformational activation of the ORC, transitioning between different states to facilitate DNA binding (Cheng2020Structural). The AAA+ domain is involved in forming an active ATPase center, which is essential for ORC activation (Cheng2020Structural).
+
+ORC2 also contains specific nuclear localization signals (NLSs), such as NLS-A (amino acids 227-233) and NLS-B (amino acids 319-336), which are critical for its nuclear localization (Radichev2006Genetic). The protein's structure includes a domain spanning amino acids 289-451, necessary for ORC assembly and interaction with other subunits (Radichev2006Genetic).
+
+In terms of quaternary structure, ORC2 is part of the ORC2-5 core complex, which forms a stable assembly throughout the cell cycle. This complex can adopt an autoinhibited conformation, with ORC2-WHD blocking the central DNA-binding channel, a state that is relieved upon interaction with ORC1 (Cheng2020Structural). ORC2's interactions with other subunits, particularly Orc3 and Orc5, are crucial for the stability and function of the ORC complex (Radichev2006Genetic).
+
+## Function
+The ORC2 gene encodes a protein that is a critical component of the origin recognition complex (ORC), which is essential for initiating DNA replication in eukaryotic cells. ORC2 is involved in the assembly and nuclear localization of the ORC, facilitating the recruitment of other proteins necessary for the formation of the pre-replication complex (Radichev2006Genetic). It contains specific domains, including nuclear localization signals, that are crucial for its function in assembling the ORC and localizing it to the nucleus (Radichev2006Genetic).
+
+ORC2 also plays a significant role in chromosome duplication and segregation. It associates with centromeric heterochromatin and interacts with heterochromatin protein 1 (HP1) during the cell cycle, which is vital for maintaining heterochromatin structure and proper chromosome segregation (Prasanth2004Human). Depletion of ORC2 leads to defects in chromosome segregation, condensation, and spindle formation, indicating its essential role in mitotic progression (Prasanth2004Human).
+
+Additionally, ORC2 is involved in regulating centromeric histone modification and genomic stability during the G2/M phase of the cell cycle. Its SUMOylation is crucial for recruiting the histone demethylase KDM5A to the centromere, preventing DNA re-replication and ensuring normal cell cycle transition (Huang2016SUMOylated).
+
+## Clinical Significance
+Mutations and alterations in the ORC2 gene have significant clinical implications, particularly in the context of cancer and developmental disorders. In human cancer cell lines, such as HCT116 colon cancer cells, mutations that render ORC2 undetectable do not prevent DNA replication, suggesting that these cells can bypass the need for a complete ORC complex. This adaptability may contribute to the resilience and proliferation of cancer cells, presenting challenges for therapeutic strategies targeting DNA replication processes (Shibata2020A).
+
+In mice, ORC2 is essential for embryonic development, as its deletion leads to early embryonic lethality. In mouse embryo fibroblasts, ORC2 deletion impairs cell proliferation, highlighting its critical role in cell division. Liver-specific deletion of ORC2 in mice results in smaller liver sizes and impaired liver function, with increased polyploidy and endoreduplication observed in hepatocytes. These findings suggest that ORC2 is crucial for maintaining normal cell proliferation and liver function, and its absence can lead to significant physiological changes (Przanowska2024Endo-reduplication).
+
+Overall, the clinical significance of ORC2 mutations lies in their potential to disrupt normal DNA replication and cell cycle progression, contributing to genomic instability and disease.
+
+## Interactions
+ORC2, a subunit of the origin recognition complex (ORC), plays a crucial role in DNA replication by interacting with various proteins and nucleic acids. ORC2 is part of the ORC-(2-5) complex, which remains in the nucleus, but only the ORC-(1-5) complex binds to chromatin, indicating that ORC1 is essential for chromatin binding (Radichev2006Genetic). ORC2 interacts specifically with Orc3, forming a core complex with Orc4 and Orc5, but not Orc6, in the B100 fraction (Radichev2006Genetic). This interaction is crucial for ORC assembly, as a specific domain within ORC2 (amino acids 289 to 451) is necessary for binding to Orc3 (Radichev2006Genetic).
+
+ORC2 also interacts with ORCA, a WD repeat-containing protein, protecting it from ubiquitin-mediated degradation. This interaction prevents the ubiquitination of ORCA, ensuring its stability and function in DNA replication (Shen2012Orc2). Additionally, ORC2 is involved in the regulation of centromeric histone modification through its SUMOylation, which recruits the H3K4me3 demethylase KDM5A to the centromere, maintaining genomic stability (Huang2016SUMOylated). ORC2's phosphorylation at specific sites by CDK during the S phase leads to the dissociation of the ORC from chromatin, regulating its interaction with replication origins (Lee2012Phosphorylation).
+
+
+## References
+
+
+[1. (Shen2012Orc2) Zhen Shen and Supriya G. Prasanth. Orc2 protects orca from ubiquitin-mediated degradation. Cell Cycle, 11(19):3578–3589, August 2012. URL: http://dx.doi.org/10.4161/cc.21870, doi:10.4161/cc.21870. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/cc.21870)
+
+[2. (Cheng2020Structural) Jiaxuan Cheng, Ningning Li, Xiaohan Wang, Jiazhi Hu, Yuanliang Zhai, and Ning Gao. Structural insight into the assembly and conformational activation of human origin recognition complex. Cell Discovery, November 2020. URL: http://dx.doi.org/10.1038/s41421-020-00232-3, doi:10.1038/s41421-020-00232-3. This article has 8 citations.](https://doi.org/10.1038/s41421-020-00232-3)
+
+3. (Shibata2020A) A human cancer cell line initiates DNA replication normally in the absence of ORC5 and ORC2 proteins. This article has 1 citations.
+
+[4. (Lee2012Phosphorylation) Kyung Yong Lee, Sung Woong Bang, Sang Wook Yoon, Seung-Hoon Lee, Jong-Bok Yoon, and Deog Su Hwang. Phosphorylation of orc2 protein dissociates origin recognition complex from chromatin and replication origins. Journal of Biological Chemistry, 287(15):11891–11898, April 2012. URL: http://dx.doi.org/10.1074/jbc.m111.338467, doi:10.1074/jbc.m111.338467. This article has 60 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m111.338467)
+
+[5. (Prasanth2004Human) Supriya G Prasanth, Kannanganattu V Prasanth, Khalid Siddiqui, David L Spector, and Bruce Stillman. Human orc2 localizes to centrosomes, centromeres and heterochromatin during chromosome inheritance. The EMBO Journal, 23(13):2651–2663, June 2004. URL: http://dx.doi.org/10.1038/sj.emboj.7600255, doi:10.1038/sj.emboj.7600255. This article has 209 citations.](https://doi.org/10.1038/sj.emboj.7600255)
+
+[6. (Huang2016SUMOylated) Chao Huang, Jinke Cheng, Tasneem Bawa-Khalfe, Xuebiao Yao, Y. Eugene Chin, and Edward T.H. Yeh. Sumoylated orc2 recruits a histone demethylase to regulate centromeric histone modification and genomic stability. Cell Reports, 15(1):147–157, April 2016. URL: http://dx.doi.org/10.1016/j.celrep.2016.02.091, doi:10.1016/j.celrep.2016.02.091. This article has 34 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2016.02.091)
+
+[7. (Radichev2006Genetic) Ilian Radichev, Sung Won Kwon, Yingming Zhao, Melvin L. DePamphilis, and Alex Vassilev. Genetic analysis of human orc2 reveals specific domains that are required in vivo for assembly and nuclear localization of the origin recognition complex. Journal of Biological Chemistry, 281(32):23264–23273, August 2006. URL: http://dx.doi.org/10.1074/jbc.m603873200, doi:10.1074/jbc.m603873200. This article has 19 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m603873200)
+
+8. (Przanowska2024Endo-reduplication) Endo-reduplication in mouse liver after conditional mutation ofORC2and combined mutation ofORC1andORC2. This article has 0 citations.

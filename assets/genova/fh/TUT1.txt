@@ -1,0 +1,37 @@
+# TUT1
+
+## Overview
+TUT1 is a gene that encodes the enzyme terminal uridylyl transferase 1, U6 snRNA-specific, which plays a pivotal role in RNA processing. This enzyme is categorized as a multi-domain RNA-modifying enzyme, primarily involved in the oligouridylation of U6 small nuclear RNA (snRNA), a critical component of the spliceosome machinery in eukaryotic cells. The TUT1 protein facilitates the addition of uridine residues to the 3' end of U6 snRNA, a modification essential for spliceosome assembly and function. Structurally, TUT1 comprises several domains, including a zinc finger, RNA recognition motif, catalytic core, and kinase-associated-1 domain, which collectively contribute to its RNA-binding and catalytic activities. The enzyme's function is crucial for the maturation and recycling of U6 snRNA, thereby ensuring efficient pre-mRNA splicing and regulation of gene expression (Yamashita2023Mechanism; Yashiro2018Function).
+
+## Structure
+The human TUT1 protein, also known as terminal uridylyltransferase 1, is a multi-domain enzyme involved in RNA processing, specifically the oligouridylation of U6 snRNA. TUT1 is composed of several distinct domains: an N-terminal zinc finger (ZF), an RNA recognition motif (RRM), a central catalytic core with palm and fingers domains, and a C-terminal kinase-associated-1 (KA-1) domain (Yamashita2023Mechanism; Yashiro2018Function). The catalytic core is homologous to the DNA polymerase β family and includes a catalytic triad of carboxylates (Asp216, Asp218, and Asp381) (Yashiro2018Function; Yamashita2017Crystal).
+
+The palm domain consists of five-stranded β-sheets and two α-helices, while the fingers domain features a helical structure with ten α-helices and three β-sheets (Yashiro2018Function). The KA-1 domain, which enhances RNA-binding affinity, consists of four anti-parallel β-sheets and five α-helices and can rotate relative to the catalytic core (Yashiro2018Function; Yamashita2017Crystal).
+
+TUT1 undergoes post-translational modifications, such as phosphorylation by casein kinase I isoforms, which modulate its activity (Warkocki2018Terminal). The protein can exist in different isoforms due to alternative splicing, which may affect its functional properties (Warkocki2018Terminal). The structural organization of TUT1 is crucial for its role in RNA processing, particularly in the specific recognition and modification of U6 snRNA.
+
+## Function
+The TUT1 gene encodes terminal uridylyltransferase 1, a crucial enzyme in the maturation of U6 small nuclear RNA (snRNA), a component of the spliceosome involved in pre-mRNA splicing in eukaryotic cells. TUT1 catalyzes the addition of uridine residues to the 3' end of U6 snRNA, a process known as oligouridylation, which is essential for the formation of the U4/U6 di-snRNP complex. This modification provides a binding site for the Lsm2-8 protein complex, facilitating the annealing of U6 and U4 snRNAs, necessary for spliceosome assembly and function (Yamashita2023Mechanism; Yashiro2018Function).
+
+TUT1 is a multi-domain enzyme that includes a zinc finger, RNA recognition motif, catalytic core domain, and a kinase associated-1 domain. These domains are involved in RNA binding and catalysis, ensuring the specific oligouridylation of U6 snRNA (Yamashita2023Mechanism). The enzyme's activity is crucial for the recycling of U6 snRNA after splicing, contributing to efficient pre-mRNA splicing and overall gene expression regulation (Yashiro2018Function; Warkocki2018Terminal). TUT1 is active in the nucleus, where it plays a significant role in RNA processing and cellular homeostasis (Kim2020USP15).
+
+## Interactions
+TUT1, a terminal uridylyl transferase, interacts with U6 snRNA, playing a crucial role in its oligouridylation. This interaction is facilitated by multiple domains of TUT1, including the N-terminal zinc finger (ZF) and RNA recognition motif (RRM), which specifically recognize the AUA motif in U6 snRNA. The catalytic palm and fingers domains of TUT1 further assist in positioning the U6 snRNA for efficient uridylylation (Yamashita2023Mechanism).
+
+TUT1 also interacts with other proteins, such as USP15, which deubiquitinates TUT1, influencing its stability and function. This interaction is enhanced by SART3, which acts as a scaffold protein, facilitating the formation of a ternary complex with USP15 and TUT1. The deubiquitination by USP15 primarily targets K63-linked ubiquitin chains on TUT1, which is crucial for its role in RNA splicing (Kim2020USP15).
+
+Additionally, TUT1 is involved in the polyadenylation of specific mRNAs under oxidative stress conditions, interacting with phosphatidylinositol 4-phosphate 5-kinase Ia and being activated by phosphatidylinositol 4,5-bisphosphate. This interaction recruits TUT1 into the cleavage and polyadenylation specificity factor (CPSF) complex, highlighting its multifaceted role in RNA processing (Yamashita2017Crystal).
+
+
+## References
+
+
+[1. (Yamashita2017Crystal) Seisuke Yamashita, Yuko Takagi, Takashi Nagaike, and Kozo Tomita. Crystal structures of u6 snrna-specific terminal uridylyltransferase. Nature Communications, June 2017. URL: http://dx.doi.org/10.1038/ncomms15788, doi:10.1038/ncomms15788. This article has 32 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms15788)
+
+[2. (Yamashita2023Mechanism) Seisuke Yamashita and Kozo Tomita. Mechanism of u6 snrna oligouridylation by human tut1. Nature Communications, August 2023. URL: http://dx.doi.org/10.1038/s41467-023-40420-9, doi:10.1038/s41467-023-40420-9. This article has 5 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-40420-9)
+
+[3. (Kim2020USP15) Jaehyun Kim, Junnosuke Nakamura, Chiharu Hamada, Takumi Taketomi, Sarasa Yano, Tomomi Okajima, Shin-ichi Kashiwabara, Tadashi Baba, Ban Sato, Tomoki Chiba, and Fuminori Tsuruta. Usp15 deubiquitinates tut1 associated with rna metabolism and maintains cerebellar homeostasis. Molecular and Cellular Biology, October 2020. URL: http://dx.doi.org/10.1128/mcb.00098-20, doi:10.1128/mcb.00098-20. This article has 9 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.00098-20)
+
+[4. (Warkocki2018Terminal) Zbigniew Warkocki, Vladyslava Liudkovska, Olga Gewartowska, Seweryn Mroczek, and Andrzej Dziembowski. Terminal nucleotidyl transferases (tents) in mammalian rna metabolism. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1762):20180162, November 2018. URL: http://dx.doi.org/10.1098/rstb.2018.0162, doi:10.1098/rstb.2018.0162. This article has 51 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1098/rstb.2018.0162)
+
+[5. (Yashiro2018Function) Yuka Yashiro and Kozo Tomita. Function and regulation of human terminal uridylyltransferases. Frontiers in Genetics, November 2018. URL: http://dx.doi.org/10.3389/fgene.2018.00538, doi:10.3389/fgene.2018.00538. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2018.00538)

@@ -1,0 +1,48 @@
+# TAF1B
+
+## Overview
+TAF1B is a gene that encodes the TATA-box binding protein associated factor, RNA polymerase I subunit B, a critical component of the selectivity factor 1 (SL1) complex involved in ribosomal RNA (rRNA) synthesis. This protein is categorized as a transcription factor and plays a pivotal role in the transcription initiation process by RNA polymerase I, which is essential for ribosome biogenesis and cellular proliferation. TAF1B is characterized by its structural domains, including an N-terminal Zn-ribbon and TFIIB homology domains, which are crucial for its function in stabilizing the pre-initiation complex and facilitating the recruitment of RNA polymerase I to the rDNA promoter (Knutson2011Yeast; Naidu2011TAF1B). The gene's expression and mutations have been implicated in various cancers, highlighting its significance in cell growth and as a potential therapeutic target (Chen2023TAF1B; chen2023Depletion).
+
+## Structure
+TAF1B is a subunit of the RNA polymerase I complex and is structurally related to TFIIB-like proteins. It contains an N-terminal Zn-ribbon domain and a core domain with two potential cyclin-like folds, which are signature features of TFIIB (Naidu2011TAF1B). The Zn-ribbon domain is essential for RNA polymerase I transcription, playing a critical role in transcription at a step preceding the synthesis of the first 40 nucleotides, although it is not necessary for the recruitment of initiation-competent Pol I (Naidu2011TAF1B). 
+
+TAF1B also contains TFIIB homology domains (BHDs) with four subdomains: zinc ribbon, B-reader, B-linker, and cyclin folds. These domains are crucial for its function, as demonstrated by the lethal effects of disruptions in these subdomains in its yeast ortholog, Rrn7 (Knutson2011Yeast). TAF1B has a large C-terminal domain (CTD) that is conserved among metazoans, distinguishing it from its yeast counterpart (Knutson2011Yeast). 
+
+The protein interacts with RRN3, which is implicated in the recruitment of Pol I, but the Zn-ribbon is not essential for this recruitment, suggesting functional redundancy in Pol I recruitment through other domains or SL1 TAFs (Naidu2011TAF1B).
+
+## Function
+TAF1B is a component of the selectivity factor 1 (SL1) complex, which is essential for the formation of the pre-initiation complex (PIC) of RNA polymerase I (Pol I) in mammalian cells. This complex is crucial for the transcription of ribosomal DNA (rDNA) into precursor ribosomal RNA (pre-rRNA), marking the first key step in ribosome biosynthesis (chen2023Depletion). TAF1B interacts with RRN3 to connect SL1 to Pol I and can contact the rDNA promoter to recruit SL1, thereby stabilizing the PIC structure (chen2023Depletion). It plays a role in stabilizing the open complex during transcription initiation, potentially through its zinc ribbon and linker regions, which may be involved in DNA opening or stabilization of the open state (Knutson2013TFIIBrelated).
+
+In healthy human cells, TAF1B is active in the nucleolus, where it contributes to ribosome biogenesis, a critical process for cell growth and proliferation (Chen2023TAF1B). It facilitates the recruitment of RNA polymerase I to the rDNA promoter, ensuring proper transcription initiation and maintaining normal ribosome biosynthesis and nucleolar integrity (Chen2023TAF1B; chen2023Depletion). This function is essential for protein synthesis and cell growth, highlighting TAF1B's significant role in cell biology.
+
+## Clinical Significance
+TAF1B has been implicated in several cancers due to its role in ribosomal RNA synthesis and cell proliferation. In hepatocellular carcinoma (HCC), TAF1B is overexpressed, correlating with poor clinical outcomes such as shorter overall survival and reduced disease-free survival. Its overexpression is linked to nucleolar stress and activation of the p53-mir-101 circuit, leading to apoptotic cell death. This suggests that TAF1B plays a critical role in HCC progression and could be a potential therapeutic target (Chen2023TAF1B).
+
+In gastric cancer, TAF1B is also overexpressed, and its depletion inhibits tumor cell proliferation by enhancing c-MYC mRNA degradation. This process involves nucleolar stress and affects ribosome biosynthesis, indicating that TAF1B is crucial for gastric tumor growth and could serve as a therapeutic target (chen2023Depletion).
+
+TAF1B mutations have been identified in colorectal carcinomas with high microsatellite instability (MSI-H). These mutations, often frameshift, lead to truncated and likely inactive proteins, suggesting a role in tumorigenesis. The high mutation frequency in MSI-H tumors highlights TAF1B as a potential target for further research in colorectal cancer (Kim2002Identification).
+
+In lung adenocarcinoma, truncating mutations in TAF1B have been found in patients, suggesting a potential role in cancer susceptibility, particularly in non-smokers (Renieri2014Oligogenic).
+
+## Interactions
+TAF1B is a component of the selectivity factor 1 (SL1) complex, which is essential for the transcription initiation by RNA polymerase I (Pol I). It interacts with other subunits of the SL1 complex, including TAF1A, TAF1C, and TAF1D, as well as the TATA-binding protein (TBP) (Chen2023TAF1B). TAF1B also interacts with RRN3, a factor that is crucial for the recruitment of initiation-competent Pol I to the ribosomal DNA (rDNA) promoter (Chen2023TAF1B; Naidu2011TAF1B). 
+
+The zinc ribbon domain of TAF1B is important for its function, as mutations in this domain can abolish Pol I transcription without affecting SL1 assembly or its ability to bind the rDNA promoter (Naidu2011TAF1B). TAF1B's interactions within the pre-initiation complex (PIC) are crucial for maintaining the transcriptional function of Pol I, and its depletion can lead to nucleolar stress and impaired rDNA transcription (Chen2023TAF1B). In gastric cancer cells, TAF1B knockdown affects the interaction within the PIC, particularly altering the interaction in SL1 and weakening the binding between the α and β subunits of Pol I, which decreases their binding to rDNA (chen2023Depletion).
+
+
+## References
+
+
+[1. (Knutson2011Yeast) Bruce A. Knutson and Steven Hahn. Yeast rrn7 and human taf1b are tfiib-related rna polymerase i general transcription factors. Science, 333(6049):1637–1640, September 2011. URL: http://dx.doi.org/10.1126/science.1207699, doi:10.1126/science.1207699. This article has 67 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1207699)
+
+[2. (Knutson2013TFIIBrelated) Bruce A. Knutson and Steven Hahn. Tfiib-related factors in rna polymerase i transcription. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1829(3–4):265–273, March 2013. URL: http://dx.doi.org/10.1016/j.bbagrm.2012.08.003, doi:10.1016/j.bbagrm.2012.08.003. This article has 27 citations.](https://doi.org/10.1016/j.bbagrm.2012.08.003)
+
+3. (chen2023Depletion) Depletion of TAFIB Gene Inhibits Ribosome Biosynthesis and Proliferation of Gastric Tumor through Enhancing c-MYC mRNA Degradation. This article has 0 citations.
+
+[4. (Renieri2014Oligogenic) Alessandra Renieri, Maria Antonietta Mencarelli, Francesco Cetta, Margherita Baldassarri, Francesca Mari, Simone Furini, Pietro Piu, Francesca Ariani, Tommaso A. Dragani, and Elisa Frullanti. Oligogenic germline mutations identified in early non-smokers lung adenocarcinoma patients. Lung Cancer, 85(2):168–174, August 2014. URL: http://dx.doi.org/10.1016/j.lungcan.2014.05.020, doi:10.1016/j.lungcan.2014.05.020. This article has 33 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.lungcan.2014.05.020)
+
+[5. (Naidu2011TAF1B) Srivatsava Naidu, J. Karsten Friedrich, Jackie Russell, and Joost C. B. M. Zomerdijk. Taf1b is a tfiib-like component of the basal transcription machinery for rna polymerase i. Science, 333(6049):1640–1642, September 2011. URL: http://dx.doi.org/10.1126/science.1207656, doi:10.1126/science.1207656. This article has 61 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1207656)
+
+[6. (Chen2023TAF1B) Hang-fei Chen, Dan-dan Gao, Xin-qing Jiang, Hao Sheng, Qi Wu, Quan Zheng, Qiao-cheng Zhai, Lei Yuan, Ming Liu, Li-feng Xu, Mao-xiang Qian, Heng Xu, Jian Fang, and Feng Zhang. Taf1b depletion leads to apoptotic cell death by inducing nucleolar stress and activating p53-mir-101 circuit in hepatocellular carcinoma. Frontiers in Oncology, August 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1203775, doi:10.3389/fonc.2023.1203775. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1203775)
+
+[7. (Kim2002Identification) Nam-Gyun Kim, Hwanseok Rhee, Long Shan Li, Hyunki Kim, Jin-Sung Lee, Joo-Hang Kim, Nam Kyu Kim, and Hoguen Kim. Identification of marcks, flj11383 and taf1b as putative novel target genes in colorectal carcinomas with microsatellite instability. Oncogene, 21(33):5081–5087, July 2002. URL: http://dx.doi.org/10.1038/sj.onc.1205703, doi:10.1038/sj.onc.1205703. This article has 42 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.onc.1205703)

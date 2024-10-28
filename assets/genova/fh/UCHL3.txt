@@ -1,0 +1,54 @@
+# UCHL3
+
+## Overview
+UCHL3 (ubiquitin C-terminal hydrolase L3) is a gene that encodes a deubiquitinating enzyme, which is part of the ubiquitin-proteasome system, a critical pathway for protein degradation and regulation within cells. The protein ubiquitin C-terminal hydrolase L3, categorized as a cysteine protease, plays a pivotal role in maintaining protein homeostasis by cleaving ubiquitin from ubiquitinated proteins. This enzymatic activity is essential for various cellular processes, including DNA repair, cell cycle regulation, and neuronal function. UCHL3 is characterized by a catalytic domain typical of ubiquitin hydrolases and features a catalytic triad similar to that found in papain-like cysteine proteases, which suggests a conserved mechanism of action (Johnston1997Crystal). The enzyme's ability to interact with multiple proteins and its involvement in significant cellular pathways underscore its importance in both normal physiology and disease states, such as neurodegenerative disorders and cancer (Liao2018UCHL3; Setsuie2009Ubiquitin).
+
+## Structure
+UCHL3 (ubiquitin C-terminal hydrolase L3) is a deubiquitinating enzyme characterized by a catalytic domain typical of ubiquitin hydrolases. The primary structure of UCHL3 consists of a sequence of amino acids forming a polypeptide chain. Its secondary structure includes a central six-stranded antiparallel β-sheet flanked by α-helices, forming a bilobal structure (Johnston1997Crystal). The active site of UCHL3 contains a catalytic triad composed of Cys95, His169, and Asp184, similar to that found in papain-like cysteine proteases, suggesting a similar catalytic mechanism (Johnston1997Crystal).
+
+The tertiary structure of UCHL3 is organized around this central β-sheet, with α-helices packing on either side. A notable feature is a disordered 20-residue loop (residues 147-166) over the active site, which may influence substrate specificity by adopting different conformations (Johnston1997Crystal). UCHL3 does not typically form quaternary structures as it functions as a monomer.
+
+Post-translational modifications, such as phosphorylation, may affect the activity and stability of UCHL3, although specific modifications are not detailed in the provided context. The enzyme's structure allows it to process a variety of ubiquitin extensions, indicating flexibility in substrate accommodation (Misaghi2005Structure).
+
+## Function
+UCHL3 (ubiquitin C-terminal hydrolase L3) is a deubiquitylating enzyme that plays a crucial role in the ubiquitin-proteasome system, which is essential for protein degradation and regulation in cells. It functions by cleaving ubiquitin from ubiquitinated proteins, thereby maintaining protein homeostasis. UCHL3 is active in both the cytoplasm and nucleus, where it is involved in several key cellular processes, including DNA repair, cell cycle regulation, and neuronal function (Johnston1997Crystal).
+
+In the context of DNA repair, UCHL3 regulates the proteostasis of TDP1, a protein involved in repairing topoisomerase-induced chromosomal breaks. By influencing the ubiquitylation of TDP1, UCHL3 affects the protein's stability and function, which is crucial for preventing the accumulation of protein-linked DNA breaks that can lead to neurological diseases (Liao2018UCHL3). UCHL3 also plays a role in the non-homologous end joining (NHEJ) pathway by interacting with Ku80, promoting its retention at DNA damage sites, and enhancing cellular survival after double-strand break induction (Nishi2018The).
+
+In mitosis, UCHL3 is involved in chromosome bi-orientation and segregation. It interacts with and deubiquitylates Aurora B kinase, facilitating its proper localization to kinetochores, which is necessary for correcting misaligned chromosomes during the transition from prometaphase to metaphase (Jerabkova2020Deubiquitylase).
+
+## Clinical Significance
+UCHL3 has significant clinical implications due to its role in various diseases. Alterations in UCHL3 expression or function are linked to neurodegenerative disorders and cancer. In neurological diseases, reduced UCHL3 levels are associated with increased ubiquitylation and degradation of TDP1, leading to the accumulation of protein-DNA breaks (PDBs) and contributing to conditions like ataxia telangiectasia and amyotrophic lateral sclerosis (Liao2018UCHL3). UCHL3 downregulation in the hippocampus is also linked to cognitive decline and neurodegeneration in aging models (Liao2018UCHL3).
+
+In cancer, UCHL3 plays a dual role. It is overexpressed in certain cancers, such as rhabdomyosarcoma and breast cancer, where it contributes to resistance against chemotherapy and correlates with poor survival rates (Liao2018UCHL3). In bladder cancer, UCHL3 stabilizes CTNNB1, promoting tumorigenesis through the Wnt signaling pathway, and its high expression is associated with advanced tumor stages and poor prognosis (Liu2023Activation). Conversely, UCHL3 reduction in metastatic prostate cancer promotes epithelial-to-mesenchymal transition, aiding cancer cell invasion and metastasis (Rong2021Ubiquitin). These findings suggest that UCHL3 could be a potential target for therapeutic intervention in various diseases.
+
+## Interactions
+UCHL3 interacts with various proteins, playing significant roles in cellular processes. It has a strong affinity for di-ubiquitin (di-Ub) over mono-ubiquitin (mono-Ub), with specific amino acids, D33 and C95, being crucial for this interaction. These residues are part of the catalytic pocket of UCHL3, where D33 forms a salt bridge with R72 of ubiquitin. Although UCHL3 does not hydrolyze di-Ub, K48-linked di-Ub acts as a potent inhibitor of its enzymatic activity (Setsuie2009Ubiquitin).
+
+UCHL3 also interacts with Nedd8, a ubiquitin-like protein, though with weaker affinity compared to ubiquitin. It may interact with di-Nedd8, suggesting a regulatory role in its enzymatic activities (Setsuie2009Ubiquitin).
+
+In DNA repair, UCHL3 interacts with Ku80, a protein involved in non-homologous end joining (NHEJ), and is recruited to DNA damage sites in a manner dependent on its catalytic activity. This interaction is crucial for enhancing Ku80 chromatin binding and regulating its ubiquitylation (Nishi2018The).
+
+UCHL3 also stabilizes EEF1A1 in hepatocellular carcinoma by deubiquitinating it, preventing its degradation (Zhao2024UCHL3). Additionally, it interacts with TDP1, reducing its ubiquitylation and stabilizing its protein levels, which is important for repairing topoisomerase I-mediated DNA breaks (Liao2018UCHL3).
+
+
+## References
+
+
+[1. (Johnston1997Crystal) Steven C. Johnston, Christopher N. Larsen, William J. Cook, Keith D. Wilkinson, and Christopher P. Hill. Crystal structure of a deubiquitinating enzyme (human uch-l3) at 1.8 å resolution. The EMBO Journal, 16(13):3787–3796, July 1997. URL: http://dx.doi.org/10.1093/emboj/16.13.3787, doi:10.1093/emboj/16.13.3787. This article has 203 citations.](https://doi.org/10.1093/emboj/16.13.3787)
+
+[2. (Liu2023Activation) Tao Liu, Meng-Qi Fan, Xiao-Xiao Xie, Qi-Peng Shu, Xue-Hua Du, Lin-Zhi Qi, Xiao-Dong Zhang, Ming-Hui Zhang, Guang Shan, Run-Lei Du, and Shang-Ze Li. Activation of ctnnb1 by deubiquitinase uchl3-mediated stabilization facilitates bladder cancer progression. Journal of Translational Medicine, September 2023. URL: http://dx.doi.org/10.1186/s12967-023-04311-3, doi:10.1186/s12967-023-04311-3. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-023-04311-3)
+
+[3. (Nishi2018The) Ryotaro Nishi, Paul W. G. Wijnhoven, Yusuke Kimura, Misaki Matsui, Rebecca Konietzny, Qian Wu, Keisuke Nakamura, Tom L. Blundell, and Benedikt M. Kessler. The deubiquitylating enzyme uchl3 regulates ku80 retention at sites of dna damage. Scientific Reports, December 2018. URL: http://dx.doi.org/10.1038/s41598-018-36235-0, doi:10.1038/s41598-018-36235-0. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-018-36235-0)
+
+[4. (Liao2018UCHL3) Chunyan Liao, Ryan Beveridge, Jessica J.R. Hudson, Jacob D. Parker, Shih-Chieh Chiang, Swagat Ray, Mohamed E. Ashour, Ian Sudbery, Mark J. Dickman, and Sherif F. El-Khamisy. Uchl3 regulates topoisomerase-induced chromosomal break repair by controlling tdp1 proteostasis. Cell Reports, 23(11):3352–3365, June 2018. URL: http://dx.doi.org/10.1016/j.celrep.2018.05.033, doi:10.1016/j.celrep.2018.05.033. This article has 43 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2018.05.033)
+
+[5. (Setsuie2009Ubiquitin) Rieko Setsuie, Mikako Sakurai, Yuriko Sakaguchi, and Keiji Wada. Ubiquitin dimers control the hydrolase activity of uch-l3. Neurochemistry International, 54(5–6):314–321, May 2009. URL: http://dx.doi.org/10.1016/j.neuint.2008.12.013, doi:10.1016/j.neuint.2008.12.013. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.neuint.2008.12.013)
+
+[6. (Rong2021Ubiquitin) Chao Rong, Ran Zhou, Shan Wan, Dan Su, Shou-Li Wang, and Jochen Hess. Ubiquitin carboxyl-terminal hydrolases and human malignancies: the novel prognostic and therapeutic implications for head and neck cancer. Frontiers in Oncology, January 2021. URL: http://dx.doi.org/10.3389/fonc.2020.592501, doi:10.3389/fonc.2020.592501. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2020.592501)
+
+[7. (Misaghi2005Structure) Shahram Misaghi, Paul J. Galardy, Wim J.N. Meester, Huib Ovaa, Hidde L. Ploegh, and Rachelle Gaudet. Structure of the ubiquitin hydrolase uch-l3 complexed with a suicide substrate. Journal of Biological Chemistry, 280(2):1512–1520, January 2005. URL: http://dx.doi.org/10.1074/jbc.M410770200, doi:10.1074/jbc.m410770200. This article has 227 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M410770200)
+
+[8. (Jerabkova2020Deubiquitylase) Katerina Jerabkova, Yongrong Liao, Charlotte Kleiss, Sadek Fournane, Matej Durik, Arantxa Agote‐Arán, Laurent Brino, Radislav Sedlacek, and Izabela Sumara. Deubiquitylase uchl3 regulates bi‐orientation and segregation of chromosomes during mitosis. The FASEB Journal, 34(9):12751–12767, August 2020. URL: http://dx.doi.org/10.1096/fj.202000769R, doi:10.1096/fj.202000769r. This article has 6 citations.](https://doi.org/10.1096/fj.202000769R)
+
+[9. (Zhao2024UCHL3) Jie Zhao, Qiang Huo, Ji Zhang, Kexiang Sun, Jinhui Guo, Feng Cheng, Xiaoge Hu, and Qiuran Xu. Uchl3 promotes hepatocellular carcinoma progression by stabilizing eef1a1 through deubiquitination. Biology Direct, July 2024. URL: http://dx.doi.org/10.1186/s13062-024-00495-w, doi:10.1186/s13062-024-00495-w. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13062-024-00495-w)

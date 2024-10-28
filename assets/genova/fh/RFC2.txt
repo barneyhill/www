@@ -1,0 +1,54 @@
+# RFC2
+
+## Overview
+Replication factor C subunit 2 (RFC2) is a gene that encodes a protein component of the replication factor C (RFC) complex, which is integral to DNA replication and repair mechanisms. The RFC2 protein is categorized as a subunit of the clamp loader complex, which is responsible for loading the proliferating cell nuclear antigen (PCNA) onto DNA, a critical step for DNA polymerase processivity during replication (Fan2021MicroRNA‑744‑5p). Structurally, RFC2 is homologous to AAA+ ATPases, featuring domains that facilitate ATP binding and hydrolysis, essential for its function within the RFC complex (Yao2012The). The protein's role extends to participating in DNA damage response pathways, including telomere maintenance and nucleotide-excision repair, underscoring its importance in maintaining genomic stability (Deng2021Exploration). Clinically, RFC2 has been implicated in various cancers, where its altered expression is associated with tumor progression and poor prognosis, highlighting its potential as a biomarker and therapeutic target (Ji2021Upregulated; Lou2023RFC2).
+
+## Structure
+The RFC2 protein is a subunit of the replication factor C (RFC) complex, which plays a crucial role in DNA replication and repair. The primary structure of RFC2 consists of 353 amino acids, with a calculated molecular mass of 39.7 kDa and an isoelectric point (pI) of 8.6 (Cullmann1995Characterization). The secondary structure includes α-helices, which are part of the C-terminal domain that mediates strong intersubunit interactions within the RFC complex (Yao2012The). 
+
+RFC2 is homologous to AAA+ proteins, which are ATPases associated with various cellular functions. It contains domains that bind ATP, with motifs such as the P-loop and DEAD box ATP site located on the larger, N-terminal domain (Yao2012The). The quaternary structure of RFC2 involves its integration into the RFC complex, where it interacts with other subunits to form a circular structure essential for loading the sliding clamp onto DNA (Yao2012The).
+
+RFC2 is also part of the Rad24 protein complex, which functions in the DNA damage checkpoint pathway, indicating its involvement in DNA repair processes (Green2000A). Specific post-translational modifications or splice variant isoforms of RFC2 are not detailed in the provided context.
+
+## Function
+RFC2 (replication factor C subunit 2) is a crucial component of the replication factor C (RFC) complex, which plays a significant role in DNA replication and repair processes in healthy human cells. As part of the RFC complex, RFC2 functions as a clamp loader, facilitating the loading of the proliferating cell nuclear antigen (PCNA) onto DNA. This action is essential for the activity of DNA polymerases δ and ε, which are responsible for the elongation of primed DNA templates during DNA synthesis, ensuring genomic stability and proper cell division (Fan2021MicroRNA‑744‑5p).
+
+RFC2 is active in the nucleus, where it contributes to maintaining DNA integrity by participating in DNA replication and repair pathways. It is involved in processes such as telomere maintenance, mitotic recombination, nucleotide-excision repair, and DNA gap filling (Deng2021Exploration). The RFC complex, including RFC2, also interacts with cell cycle checkpoint proteins to initiate signal transduction downstream of DNA damage checkpoints, playing a role in mismatch repair and excision repair of damaged DNA (Deng2021Exploration).
+
+The C-terminal regions of RFC subunits, including RFC2, are crucial for the formation of the RFC complex, highlighting the importance of RFC2 in the structural integrity and function of this essential protein complex (Chen2018Subunit).
+
+## Clinical Significance
+RFC2 is implicated in several cancers due to its altered expression levels. In hepatocellular carcinoma (HCC), RFC2 is overexpressed at both mRNA and protein levels, correlating with advanced clinical stages and higher tumor grades. This overexpression is associated with shorter overall survival (OS) and disease-free survival (DFS), suggesting RFC2 as a potential prognostic biomarker for HCC (Ji2021Upregulated). In colorectal cancer (CRC), RFC2 is upregulated, promoting cell proliferation, migration, and invasion. Its high expression is linked to poor prognosis and overall survival, and it is involved in activating the MET/PI3K/AKT/mTOR signaling pathway, which is crucial for cancer cell survival (Lou2023RFC2).
+
+In sarcoma, RFC2 is upregulated in metastatic samples, with high expression levels associated with reduced overall survival rates. It may serve as a prognostic biomarker due to its role in DNA replication and repair (Wu2022Integrative). RFC2's expression is also linked to poor survival in glioblastoma and nasopharyngeal carcinoma, indicating its broader role in cancer progression (Misbah2024Identification). These findings highlight RFC2's potential as a target for therapeutic intervention in various cancers.
+
+## Interactions
+RFC2, a subunit of the replication factor C (RFC) complex, plays a crucial role in DNA replication and repair by interacting with other proteins and nucleic acids. In Arabidopsis, RFC2 interacts with PCNA1 and PCNA2, along with other RFC subunits such as RFC3, RFC4, and RFC5, but not RFC1 (Qian2019Interactional). This interaction is essential for the loading of PCNA onto DNA, a process critical for DNA polymerase processivity during replication. In rice, RFC2 interacts with all RFC subunits, including RFC1, indicating a species-specific variation in interaction patterns (Qian2019Interactional).
+
+In yeast, RFC2 is part of a complex with Rad24, which is involved in the DNA damage checkpoint pathway. This complex includes other RFC subunits like Rfc3, Rfc4, and Rfc5, but not Rfc1, suggesting a role in sensing DNA damage (Green2000A). The interaction between RFC2 and PCNA is mediated by specific regions within the RFC2 protein, with the region between amino acids 294 to 313 being crucial for interaction in Arabidopsis (Qian2019Interactional). These interactions highlight the importance of RFC2 in maintaining genomic stability through its role in DNA replication and repair processes.
+
+
+## References
+
+
+[1. (Yao2012The) Nina Y. Yao and Mike O’Donnell. The RFC Clamp Loader: Structure and Function, pages 259–279. Springer Netherlands, 2012. URL: http://dx.doi.org/10.1007/978-94-007-4572-8_14, doi:10.1007/978-94-007-4572-8_14. This article has 76 citations.](https://doi.org/10.1007/978-94-007-4572-8_14)
+
+[2. (Chen2018Subunit) Yueyue Chen, Jie Qian, Li You, Xiufeng Zhang, Jinxia Jiao, Yang Liu, and Jie Zhao. Subunit interaction differences between the replication factor c complexes in arabidopsis and rice. Frontiers in Plant Science, June 2018. URL: http://dx.doi.org/10.3389/fpls.2018.00779, doi:10.3389/fpls.2018.00779. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fpls.2018.00779)
+
+[3. (Deng2021Exploration) Jianxiong Deng, Fangyan Zhong, Weiguo Gu, and Feng Qiu. Exploration of prognostic biomarkers among replication factor c family in the hepatocellular carcinoma. Evolutionary Bioinformatics, January 2021. URL: http://dx.doi.org/10.1177/1176934321994109, doi:10.1177/1176934321994109. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1177/1176934321994109)
+
+[4. (Misbah2024Identification) Md Misbah, Manoj Kumar, Abul Kalam Najmi, and Mymoona Akhtar. Identification of expression profiles and prognostic value of rfcs in colorectal cancer. Scientific Reports, March 2024. URL: http://dx.doi.org/10.1038/s41598-024-56361-2, doi:10.1038/s41598-024-56361-2. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-56361-2)
+
+[5. (Ji2021Upregulated) Zaixiong Ji, Jiaqi Li, and Jianbo Wang. Up-regulated rfc2 predicts unfavorable progression in hepatocellular carcinoma. Hereditas, May 2021. URL: http://dx.doi.org/10.1186/s41065-021-00179-9, doi:10.1186/s41065-021-00179-9. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s41065-021-00179-9)
+
+[6. (Qian2019Interactional) Jie Qian, Yueyue Chen, Yaxing Xu, Xiufeng Zhang, Zhuang Kang, Jinxia Jiao, and Jie Zhao. Interactional similarities and differences in the protein complex of pcna and dna replication factor c between rice and arabidopsis. BMC Plant Biology, June 2019. URL: http://dx.doi.org/10.1186/s12870-019-1874-z, doi:10.1186/s12870-019-1874-z. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12870-019-1874-z)
+
+[7. (Wu2022Integrative) Gen Wu, Jian Zhou, Xi Zhu, Xianzhe Tang, Jie Liu, Qiong Zhou, Ziyuan Chen, Tang Liu, Wanchun Wang, Xungang Xiao, and Tong Wu. Integrative analysis of expression, prognostic significance and immune infiltration of rfc family genes in human sarcoma. Aging, 14(8):3705–3719, April 2022. URL: http://dx.doi.org/10.18632/aging.204039, doi:10.18632/aging.204039. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.18632/aging.204039)
+
+[8. (Fan2021MicroRNA‑744‑5p) Fei Fan, Dongxiao Yao, Pengfei Yan, Xiaobing Jiang, and Jie Hu. Microrna‑744‑5p inhibits glioblastoma malignancy by suppressing replication factor c subunit 2. Oncology Letters, June 2021. URL: http://dx.doi.org/10.3892/ol.2021.12869, doi:10.3892/ol.2021.12869. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2021.12869)
+
+[9. (Lou2023RFC2) Fuchen Lou and Mingbao Zhang. Rfc2 promotes aerobic glycolysis and progression of colorectal cancer. BMC Gastroenterology, October 2023. URL: http://dx.doi.org/10.1186/s12876-023-02984-0, doi:10.1186/s12876-023-02984-0. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12876-023-02984-0)
+
+[10. (Green2000A) Catherine M. Green, Hediye Erdjument-Bromage, Paul Tempst, and Noel F. Lowndes. A novel rad24 checkpoint protein complex closely related to replication factor c. Current Biology, 10(1):39–42, January 2000. URL: http://dx.doi.org/10.1016/s0960-9822(99)00263-8, doi:10.1016/s0960-9822(99)00263-8. This article has 163 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0960-9822(99)00263-8)
+
+[11. (Cullmann1995Characterization) Gerhard Cullmann, Karen Fien, Ryuji Kobayashi, and Bruce Stillman. Characterization of the five replication factor c genes of saccharomyces cerevisiae. Molecular and Cellular Biology, 15(9):4661–4671, September 1995. URL: http://dx.doi.org/10.1128/mcb.15.9.4661, doi:10.1128/mcb.15.9.4661. This article has 191 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.15.9.4661)

@@ -1,0 +1,50 @@
+# XPOT
+
+## Overview
+Exportin-t (XPOT) is a gene that encodes a nuclear transport receptor protein, which is a member of the karyopherin family. The protein, also known as exportin for tRNA, is primarily involved in the nuclear export of tRNA molecules, a critical step in the protein synthesis pathway. XPOT functions by forming a complex with RanGTP and tRNA, facilitating the transport of tRNA from the nucleus to the cytoplasm, where it participates in translation. The protein is characterized by its structure of 19 HEAT repeats, which provide a flexible scaffold for binding and transporting tRNA. XPOT's activity is essential for maintaining cellular homeostasis and is implicated in various physiological processes, including apoptosis resistance and autophagosome formation. Alterations in XPOT expression have been associated with several cancers, highlighting its potential as a prognostic biomarker and therapeutic target (Chen2019Prognostic; Lin2018Exportin‐T; Gupta2016Insights).
+
+## Structure
+Exportin-t (XPOT) is a member of the karyopherin family, responsible for the nuclear export of tRNA. The protein is composed of 19 HEAT repeats, which form a flexible superhelical scaffold. These HEAT repeats are organized into two arches: the N-terminal arch (HEAT 1 to HEAT 9) and the C-terminal arch (HEAT 10 to HEAT 19) (Hu2010Flexibility). Each HEAT repeat consists of two α-helices connected by a short loop, with the A-helix interacting with nucleoporins and the B-helices providing binding sites for RanGTP and cargoes (Leisegang2012Exportin).
+
+The tertiary structure of XPOT is characterized by its ability to transition between closed and open conformations, a process facilitated by structural hinges located at specific HEAT repeats. These hinges allow for significant movement and flexibility, particularly between HEAT repeats H9, H10, and H11, which act as a major hinge point (Gupta2016Insights). The binding of RanGTP stabilizes interactions between XPOT and tRNA, with HEAT repeats H17 and H9 playing crucial roles in the binding and release of tRNA (Gupta2016Insights).
+
+XPOT's structural dynamics are essential for its function in tRNA transport, with the protein undergoing significant conformational changes during the transition from nuclear to cytosolic states (Gupta2016Insights).
+
+## Function
+XPOT, or exportin for tRNA, is a nuclear transport receptor that plays a crucial role in the nucleocytoplasmic transport of tRNA molecules in human cells. It is a member of the importin-β family and functions by forming a ternary complex with Ran-GTP and newly synthesized tRNAs to facilitate their export from the nucleus to the cytoplasm (Lin2018Exportin‐T). This process is essential for protein synthesis, as tRNAs must be available in the cytoplasm to deliver amino acids to ribosomes during translation (Dai2023Inhibiting).
+
+XPOT is involved in coordinating protein translation with nuclear tRNA processing and transport machineries, ensuring the proper localization and availability of tRNA for efficient cellular function (Lin2018Exportin‐T). In healthy cells, XPOT's function is vital for maintaining physiological processes, such as apoptosis resistance in macrophages and autophagosome formation under stress in fibroblasts (Dai2023Inhibiting). XPOT operates within the nuclear pore complex, and its activity is dependent on the small GTPase Ran, which is crucial for the proper export of tRNA and subsequent protein synthesis (Lin2018Exportin‐T).
+
+## Clinical Significance
+Alterations in the expression of the XPOT gene have been implicated in several types of cancer, including hepatocellular carcinoma (HCC), breast cancer, and colon adenocarcinoma. In HCC, high expression levels of XPOT are associated with poor prognosis and are linked to increased tumor proliferation and invasion. Knockdown of XPOT in HCC cell lines results in cell cycle arrest in the G0/G1 phase, suggesting its role in promoting cell cycle progression through the regulation of cyclin-dependent kinases and cyclins (Chen2019Prognostic; Lin2018Exportin‐T). 
+
+In breast cancer, elevated XPOT expression is similarly associated with worse overall survival, indicating its potential as a prognostic biomarker (Chen2019Prognostic). In colon adenocarcinoma, XPOT is overexpressed, particularly in advanced tumor stages, and its high expression correlates with poorer overall survival, suggesting a role in cancer progression (Kalia2024Comprehensive).
+
+XPOT's involvement in cancer is thought to be linked to its role in cell cycle regulation and ubiquitin-mediated proteolysis, processes crucial for tumor growth and metastasis (Lin2018Exportin‐T). These findings highlight XPOT as a potential therapeutic target in these malignancies.
+
+## Interactions
+Exportin-t (XPOT) is a key player in the nuclear export of tRNA, interacting primarily with mature tRNA and the GTPase Ran. XPOT forms a complex with RanGTP and tRNA, facilitating the transport of tRNA from the nucleus to the cytoplasm. This interaction is highly specific, as XPOT binds directly to tRNA in the presence of RanGTP without requiring an adaptor protein. The binding involves extensive interactions with the upper half of the tRNA, particularly the acceptor and TΨC arms, which are crucial for the export process (Arts1998The).
+
+XPOT's interaction with tRNA is mediated by electrostatic interactions, and the presence of RanGTP is necessary for substantial tRNA binding, forming a quaternary complex with exportin-t (Li2006Interaction). The binding of RanGTP induces conformational changes in XPOT, which are essential for the release of tRNA in the cytoplasm (Gupta2016Insights). XPOT's structure, composed of 19 HEAT repeats, provides a flexible scaffold for binding cargo, with specific interactions mediated by the B-helices of HEAT repeats 5-18 (Gupta2016Insights). These interactions ensure that only mature, end-processed tRNAs are exported, highlighting XPOT's role in the quality control of tRNA transport (Gupta2016Insights).
+
+
+## References
+
+
+[1. (Hu2010Flexibility) Mingwen Hu and Byung Kim. Flexibility of the exportins cse1p and xpot depicted by elastic network model. Journal of Molecular Modeling, 17(7):1735–1741, November 2010. URL: http://dx.doi.org/10.1007/s00894-010-0875-5, doi:10.1007/s00894-010-0875-5. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00894-010-0875-5)
+
+2. (Dai2023Inhibiting) Inhibiting XPOT suppresses TNBC growth via downregulating specific tRNA- TTC19 pathway mediating cytokinesis failure. This article has 0 citations.
+
+[3. (Gupta2016Insights) Asmita Gupta, Senthilkumar Kailasam, and Manju Bansal. Insights into the structural dynamics of nucleocytoplasmic transport of trna by exportin-t. Biophysical Journal, 110(6):1264–1279, March 2016. URL: http://dx.doi.org/10.1016/j.bpj.2016.02.015, doi:10.1016/j.bpj.2016.02.015. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.bpj.2016.02.015)
+
+[4. (Arts1998The) G.-J. Arts. The role of exportin-t in selective nuclear export of mature trnas. The EMBO Journal, 17(24):7430–7441, December 1998. URL: http://dx.doi.org/10.1093/emboj/17.24.7430, doi:10.1093/emboj/17.24.7430. This article has 173 citations.](https://doi.org/10.1093/emboj/17.24.7430)
+
+5. (Kalia2024Comprehensive) Comprehensive Analysis of Exportins Expression and its Prognostic Significance in Colon Adenocarcinoma: Insights from Public Databases. This article has 0 citations.
+
+[6. (Chen2019Prognostic) Lubiao Chen, Yanlin Huang, Liang Zhou, Yifan Lian, Jialiang Wang, Dongmei Chen, Huan Wei, Mingsheng Huang, and Yuehua Huang. Prognostic roles of the transcriptional expression of exportins in hepatocellular carcinoma. Bioscience Reports, August 2019. URL: http://dx.doi.org/10.1042/bsr20190827, doi:10.1042/bsr20190827. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1042/bsr20190827)
+
+[7. (Li2006Interaction) Sheng Li and Mathias Sprinzl. Interaction of immobilized human exportin-t with calf liver trna. RNA Biology, 3(4):145–149, October 2006. URL: http://dx.doi.org/10.4161/rna.3.4.3679, doi:10.4161/rna.3.4.3679. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/rna.3.4.3679)
+
+[8. (Leisegang2012Exportin) Matthias S. Leisegang, Roman Martin, Ana S. Ramírez, and Markus T. Bohnsack. Exportin t and exportin 5: trna and mirna biogenesis – and beyond. bchm, 393(7):599–604, July 2012. URL: http://dx.doi.org/10.1515/hsz-2012-0146, doi:10.1515/hsz-2012-0146. This article has 29 citations.](https://doi.org/10.1515/hsz-2012-0146)
+
+[9. (Lin2018Exportin‐T) Jianwei Lin, Yuchen Hou, Shanzhou Huang, Ziming Wang, Chengjun Sun, Zekang Wang, Xiaoshun He, Nga Lei Tam, Chenglin Wu, and Linwei Wu. Exportin‐t promotes tumor proliferation and invasion in hepatocellular carcinoma. Molecular Carcinogenesis, 58(2):293–304, November 2018. URL: http://dx.doi.org/10.1002/mc.22928, doi:10.1002/mc.22928. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/mc.22928)

@@ -1,0 +1,29 @@
+# ZBTB5
+
+## Overview
+ZBTB5 is a gene that encodes the zinc finger and BTB domain-containing protein 5, a transcription factor involved in the regulation of cell proliferation and apoptosis. This protein is characterized by its zinc finger motifs, which facilitate DNA binding, and a BTB domain, which is involved in protein-protein interactions. ZBTB5 functions primarily within the nucleus, where it plays a critical role in gene expression and chromatin remodeling. It is known to interact with key regulatory proteins such as c-Myc and p53, influencing cell fate decisions by modulating pathways related to cell cycle regulation and differentiation. The dual role of ZBTB5, acting as a proto-oncogene, is context-dependent, promoting either apoptosis or cell proliferation based on the cellular environment and the presence of p53 (Choi2020Cell).
+
+## Function
+ZBTB5 is a transcription factor involved in regulating cell proliferation and apoptosis. It functions by interacting with key proteins such as c-Myc and p53, influencing cell fate decisions. ZBTB5 is activated by c-Myc, which binds to its promoter, leading to increased transcription and protein expression. This activation occurs independently of p53 status, indicating that ZBTB5 can be regulated without p53's influence (Choi2020Cell).
+
+In healthy human cells, ZBTB5 plays a dual role depending on the presence of p53. In the absence of p53, ZBTB5 is acetylated at K597 by p300, activating the pro-apoptotic gene NOXA and promoting apoptosis. Conversely, in the presence of p53, ZBTB5 interacts with p53, blocking its acetylation and allowing it to repress p21/CDKN1A transcription, thereby promoting cell proliferation (Choi2020Cell). This dual functionality highlights ZBTB5's role as a proto-oncogene, capable of either promoting apoptosis or cell proliferation based on cellular context (Choi2020Cell).
+
+ZBTB5 is primarily active in the nucleus, where it influences gene expression and chromatin remodeling, contributing to its role in cell cycle regulation and differentiation (Choi2020Cell).
+
+## Clinical Significance
+Alterations in the expression of the ZBTB5 gene have been implicated in various diseases, particularly cancer. ZBTB5 is identified as a proto-oncogene that can promote cell proliferation by repressing p21/CDKN1A, a cyclin-dependent kinase inhibitor, through competition with p53 and recruitment of histone deacetylase complexes (Choi2020Cell). In the context of cancer, ZBTB5 expression is regulated by c-Myc, which can activate the ZBTB5 promoter independently of p53 status, suggesting that ZBTB5 can drive apoptosis in a p53-independent manner (Choi2020Cell). This is particularly significant in tumors with altered p53 status, where ZBTB5 can influence cell fate decisions, potentially impacting cancer development and progression (Choi2020Cell).
+
+In non-small-cell lung cancer (NSCLC), ZBTB5 has been associated with cisplatin resistance. Knockdown of ZBTB5 in NSCLC cell lines resulted in reduced cell proliferation and decreased colony formation upon cisplatin treatment, indicating its role in drug resistance (Tang2019Linc00221). The interaction between Linc00221, a long non-coding RNA, and ZBTB5 suggests that Linc00221 modulates cisplatin sensitivity through the miR-519a/ZBTB5 pathway, highlighting the potential of targeting ZBTB5 in therapeutic strategies for NSCLC (Tang2019Linc00221).
+
+## Interactions
+ZBTB5 is known to interact with several proteins, particularly in the context of transcriptional regulation and apoptosis. It interacts with coactivators such as the lysine acetyltransferases p300 (EP300) and PCAF (KAT2B), but not with TIP60 (KAT5). The interaction with p300 is significant, as p300 can acetylate ZBTB5 at the K597 residue, which is crucial for the activation of the NOXA gene, especially in p53-null cells. The presence of p53 inhibits this acetylation, suggesting that p53 modulates the interaction between ZBTB5 and p300. In the absence of p53, ZBTB5 can activate the transcription of NOXA and p21/CDKN1A by facilitating histone acetylation at their promoters. In contrast, in the presence of p53, ZBTB5 interacts with the corepressor complex mSin3A-HDAC1, reducing its interaction with p300 and affecting its transcriptional activity (Choi2020Cell).
+
+ZBTB5 also plays a role in the ARF-HDM2-p53-p21 signaling pathway, where it competes with p53 at the p21/CDKN1A promoter. This interaction is crucial for determining cell fate, influencing whether cells undergo proliferation or apoptosis (Choi2020Cell).
+
+
+## References
+
+
+[1. (Choi2020Cell) Seo-Hyun Choi, Dong-In Koh, Haemin Ahn, Jin Young Kim, Youngsoo Kim, and Man-Wook Hur. Cell fate decisions by c-myc depend on zbtb5 and p53. Biochemical and Biophysical Research Communications, 533(4):1247–1254, December 2020. URL: http://dx.doi.org/10.1016/j.bbrc.2020.09.137, doi:10.1016/j.bbrc.2020.09.137. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2020.09.137)
+
+[2. (Tang2019Linc00221) Huaping Tang, Xianzhang Han, Meng Li, Tingtian Li, and Yueqin Hao. Linc00221 modulates cisplatin resistance in non-small-cell lung cancer via sponging mir-519a. Biochimie, 162:134–143, July 2019. URL: http://dx.doi.org/10.1016/j.biochi.2019.04.019, doi:10.1016/j.biochi.2019.04.019. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.biochi.2019.04.019)

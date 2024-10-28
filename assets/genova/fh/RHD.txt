@@ -1,0 +1,56 @@
+# RHD
+
+## Overview
+The RHD gene encodes the RhD protein, a transmembrane protein that is a key component of the Rh blood group system, which is one of the most clinically significant blood group systems in humans. The RhD protein is a member of the Amt/Mep/Rh superfamily and is primarily located in the erythrocyte membrane, where it plays a crucial role in maintaining red blood cell structure and function. It is involved in the formation of a larger Rh complex, which is essential for the mechanical stability and proper shape of erythrocytes. The presence or absence of the RhD antigen on red blood cells determines an individual's Rh positive or negative blood type, which is critical for blood transfusion compatibility and managing Rh incompatibility during pregnancy (Van2006Rh; Westhoff2007The). The RhD protein is also implicated in ion transport processes, particularly in the transport of ammonium and possibly gases like CO2, contributing to systemic pH balance (Callebaut2006Hydrophobic; Westhoff2007The).
+
+## Structure
+The RhD protein, encoded by the RHD gene, is a palmitoylated membrane protein consisting of 417 amino acids. It is organized into 12 transmembrane alpha-helix domains, with both termini located in the cytoplasm (Van2006Rh; Conroy2005Modelling). The protein is not phosphorylated or glycosylated, but it contains five cysteine residues, three of which are palmitoylated at the boundary of the cytosol and lipid bilayer (Van2006Rh). The RhD protein is part of the Amt/Mep/Rh superfamily, which includes ammonium/methylammonium permeases, and is suggested to function as a CO2 gas channel (Callebaut2006Hydrophobic).
+
+The RhD protein is involved in forming a larger Rh complex, which is thought to be a tetramer composed of two Rh and two RhAG subunits, although some studies propose a trimeric organization (Van2006Rh; Conroy2005Modelling). The protein's structure is integral to the assembly and transport of the Rh complex to the cell surface, playing a crucial role in maintaining cell membrane stability and red cell shape regulation (Van2006Rh). The RhD protein's quaternary structure and dynamics have been explored through molecular dynamics simulations, revealing stability across different trimer compositions (Floch2024Molecular).
+
+## Function
+The RHD gene encodes the RhD protein, a critical component of the Rh blood group system, which is integral to the erythrocyte membrane structure. The RhD protein is involved in maintaining the structural integrity of red blood cells by interacting with the cytoskeleton through proteins such as ankyrin and protein 4.2. This interaction is essential for the mechanical stability and proper shape of erythrocytes, preventing conditions like hemolytic anemia that can occur in the absence of Rh proteins (Rhnull phenotype) (Van2006Rh; Westhoff2007The).
+
+The RhD protein is also implicated in ion transport processes, particularly in the transport of ammonium, which is a conserved function across various tissues and organisms. Although the specific role of RhD in ammonia transport in erythrocytes is not fully determined, it is suggested that the Rh complex, including RhD, may facilitate the movement of gases like CO2, contributing to systemic pH balance (Westhoff2007The; Huang2009The).
+
+The presence or absence of the RhD antigen on red blood cells determines an individual's Rh positive or negative blood type, which is crucial for blood transfusion compatibility and managing Rh incompatibility during pregnancy (Westhoff2007The).
+
+## Clinical Significance
+Mutations and alterations in the RHD gene can lead to various clinical conditions, primarily affecting the expression of the RhD antigen on red blood cells. These variations can result in different phenotypes, such as weak D, partial D, and DEL, which have significant implications in transfusion medicine and pregnancy.
+
+The weak D phenotype is characterized by a reduced expression of the D antigen, often due to missense mutations or splicing alterations in the RHD gene. These mutations can lead to quantitative defects, where the D antigen is expressed at a lower density, or qualitative defects, where the antigen has missing epitopes (Raud2021Missense; Fichou2015Extensive). Partial D variants result from amino acid substitutions affecting the extracellular loops of the RhD protein, potentially leading to the production of anti-D antibodies upon exposure to the normal D antigen (Flegel2011Molecular).
+
+The DEL phenotype, particularly prevalent in Asian populations, is associated with very weak expression of the D antigen and can lead to alloimmunization if DEL-positive blood is mislabeled as D-negative (Daniels2013Variants; Flegel2011Molecular). These genetic variations are crucial in clinical settings, as they can lead to hemolytic disease of the newborn and complications in blood transfusions (flegel2007genetics).
+
+## Interactions
+The RHD gene encodes the RhD protein, which is a critical component of the Rh complex in red blood cells. This protein interacts with several other proteins to maintain the structural and functional integrity of the erythrocyte membrane. RhD is part of a multiprotein complex that includes RhAG, RhCE, CD47, LW, and GPB proteins. These interactions are essential for the proper assembly and transport of the Rh complex to the cell surface, which is crucial for the stability and function of the red cell membrane (Van2006Rh).
+
+RhD and RhAG proteins are known to form trimeric structures, with human Rh trimers likely consisting of two RhAG monomers and one RhD or RhCE monomer. There is no evidence of RhD or RhCE homotrimers (Floch2024Molecular). The Rh complex is also associated with the spectrin-based skeleton of the red blood cell, interacting directly with ankyrin and protein 4.2. These interactions are vital for the mechanical properties of RBCs and are resistant to solubilization by non-ionic detergents, indicating a strong association with the cytoskeleton (Van2006Rh; Nicolas2003RhRhAGAnkyrinR).
+
+
+## References
+
+
+[1. (Flegel2011Molecular) Willy A. Flegel. Molecular genetics and clinical applications for rh. Transfusion and Apheresis Science, 44(1):81–91, February 2011. URL: http://dx.doi.org/10.1016/j.transci.2010.12.013, doi:10.1016/j.transci.2010.12.013. This article has 127 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.transci.2010.12.013)
+
+[2. (Nicolas2003RhRhAGAnkyrinR) Virginie Nicolas, Caroline Le Van Kim, Pierre Gane, Connie Birkenmeier, Jean-Pierre Cartron, Yves Colin, and Isabelle Mouro-Chanteloup. Rh-rhag/ankyrin-r, a new interaction site between the membrane bilayer and the red cell skeleton, is impaired by rhnull-associated mutation. Journal of Biological Chemistry, 278(28):25526–25533, July 2003. URL: http://dx.doi.org/10.1074/jbc.m302816200, doi:10.1074/jbc.m302816200. This article has 108 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m302816200)
+
+[3. (Daniels2013Variants) Geoff Daniels. Variants of rhd – current testing and clinical consequences. British Journal of Haematology, 161(4):461–470, February 2013. URL: http://dx.doi.org/10.1111/bjh.12275, doi:10.1111/bjh.12275. This article has 132 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/bjh.12275)
+
+[4. (Westhoff2007The) Connie M. Westhoff. The structure and function of the rh antigen complex. Seminars in Hematology, 44(1):42–50, January 2007. URL: http://dx.doi.org/10.1053/j.seminhematol.2006.09.010, doi:10.1053/j.seminhematol.2006.09.010. This article has 112 citations and is from a peer-reviewed journal.](https://doi.org/10.1053/j.seminhematol.2006.09.010)
+
+[5. (Raud2021Missense) Loann Raud, Marlène Le Tertre, Léonie Vigneron, Chandran Ka, Gaëlle Richard, Isabelle Callebaut, Jian‐Min Chen, Claude Férec, Gérald Le Gac, and Yann Fichou. Missense rhd single nucleotide variants induce weakened d antigen expression by altering splicing and/or protein expression. Transfusion, 61(8):2468–2476, June 2021. URL: http://dx.doi.org/10.1111/trf.16538, doi:10.1111/trf.16538. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/trf.16538)
+
+[6. (Huang2009The) Cheng-Han Huang and Mao Ye. The rh protein family: gene evolution, membrane biology, and disease association. Cellular and Molecular Life Sciences, 67(8):1203–1218, December 2009. URL: http://dx.doi.org/10.1007/s00018-009-0217-x, doi:10.1007/s00018-009-0217-x. This article has 36 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-009-0217-x)
+
+7. (flegel2007genetics) Willy A Flegel. The genetics of the rhesus blood group system. Blood transfusion, 5(2):50, 2007. This article has 168 citations and is from a peer-reviewed journal.
+
+[8. (Callebaut2006Hydrophobic) I. Callebaut, F. Dulin, O. Bertrand, P. Ripoche, I. Mouro, Y. Colin, J.-P. Mornon, and J.-P. Cartron. Hydrophobic cluster analysis and modeling of the human rh protein three-dimensional structures. Transfusion Clinique et Biologique, 13(1–2):70–84, March 2006. URL: http://dx.doi.org/10.1016/j.tracli.2006.02.001, doi:10.1016/j.tracli.2006.02.001. This article has 61 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.tracli.2006.02.001)
+
+[9. (Van2006Rh) Caroline Le Van Kim, Yves Colin, and Jean-Pierre Cartron. Rh proteins: key structural and functional components of the red cell membrane. Blood Reviews, 20(2):93–110, March 2006. URL: http://dx.doi.org/10.1016/j.blre.2005.04.002, doi:10.1016/j.blre.2005.04.002. This article has 94 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.blre.2005.04.002)
+
+[10. (Floch2024Molecular) Aline Floch, Tatiana Galochkina, France Pirenne, Christophe Tournamille, and Alexandre G. de Brevern. Molecular dynamics of the human rhd and rhag blood group proteins. Frontiers in Chemistry, March 2024. URL: http://dx.doi.org/10.3389/fchem.2024.1360392, doi:10.3389/fchem.2024.1360392. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fchem.2024.1360392)
+
+[11. (Conroy2005Modelling) Matthew J. Conroy, Per A. Bullough, Mike Merrick, and Neil D. Avent. Modelling the human rhesus proteins: implications for structure and function. British Journal of Haematology, 131(4):543–551, October 2005. URL: http://dx.doi.org/10.1111/j.1365-2141.2005.05786.x, doi:10.1111/j.1365-2141.2005.05786.x. This article has 87 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/j.1365-2141.2005.05786.x)
+
+[12. (Fichou2015Extensive) Yann Fichou, Pierre Gehannin, Manon Corre, Alice Le Guern, Cédric Le Maréchal, Gérald Le Gac, and Claude Férec. Extensive functional analyses of rhd splice site variants: insights into the potential role of splicing in the physiology of rh. Transfusion, 55(6pt2):1432–1443, March 2015. URL: http://dx.doi.org/10.1111/trf.13083, doi:10.1111/trf.13083. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/trf.13083)

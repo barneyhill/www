@@ -1,0 +1,35 @@
+# DCAF4
+
+## Overview
+DCAF4, or DDB1 and CUL4 associated factor 4, is a gene that encodes a protein involved in the formation of E3 ubiquitin ligase complexes, specifically the CRL4 (CUL4-DDB1) complex. This protein functions as a substrate receptor, playing a pivotal role in targeting proteins for ubiquitination and subsequent proteasomal degradation. The DCAF4 protein is primarily active in the nucleus, where it contributes to essential cellular processes such as nucleotide excision repair (NER), telomere length regulation, and the maintenance of genomic stability. Through its interactions with other proteins, DCAF4 is crucial for modulating protein stability and activity, thereby ensuring cellular homeostasis and preventing disease (Liu2017Functional; Liu2019Inflammation‐dependent).
+
+## Function
+DCAF4 (DDB1 and CUL4 associated factor 4) is a protein that functions as part of the CUL4-DDB1 E3 ubiquitin ligase complex, which is involved in targeting specific proteins for ubiquitination and subsequent proteasomal degradation. This complex plays a crucial role in maintaining cellular homeostasis and genomic stability by regulating various molecular processes, including cell cycle progression, DNA repair, and transcriptional regulation (Liu2017Functional; Liu2019Inflammation‐dependent).
+
+In healthy human cells, DCAF4 acts as a substrate receptor within the CRL4 complex, facilitating the ubiquitination of proteins involved in nucleotide excision repair (NER), such as DDB2 and XPC, which are essential for repairing damaged DNA (Liu2017Functional). DCAF4 is also implicated in the regulation of telomere length, potentially influencing telomerase activity through its interaction with DDB1, which is known to regulate telomerase expression (Liu2017Functional).
+
+The protein is primarily active in the nucleus, where it interacts with other proteins to modulate their stability and activity, contributing to the regulation of cellular processes and ensuring genomic integrity (Liu2017Functional). DCAF4's involvement in these critical pathways underscores its importance in maintaining normal cellular function and preventing disease.
+
+## Clinical Significance
+Alterations in the DCAF4 gene have been implicated in various diseases, particularly cancer. In lung cancer, specific single nucleotide polymorphisms (SNPs) in DCAF4, such as rs12587742, are associated with increased mRNA expression and decreased methylation, suggesting an oncogenic effect. This variant is linked to higher DCAF4 expression in lung squamous cell carcinoma and adenocarcinoma tissues compared to normal tissues, indicating a potential role in lung cancer development (Liu2017Functional). Another SNP, rs2535913, is associated with shorter telomere length, which correlates with an increased risk of lung squamous carcinoma and a decreased risk of lung adenocarcinoma (Liu2017Functional).
+
+In colitis-associated cancer (CAC), DCAF4 is part of the CRL4 E3 ligase complex, which targets the tumor suppressor ST7 for degradation. This process is enhanced by inflammation and overexpression of c-Myc, contributing to tumorigenesis in colorectal cells (Liu2019Inflammation‐dependent).
+
+DCAF4 also plays a role in the regulation of SOD1 proteostasis, which is relevant to amyotrophic lateral sclerosis (ALS). It mediates the ubiquitination of OPTN, facilitating the autophagic degradation of SOD1, particularly in its mutant forms associated with ALS (Homma2020Genomewide).
+
+## Interactions
+DCAF4, also known as DDB1 and CUL4 associated factor 4, is involved in forming E3 ubiquitin ligase complexes with CUL4A and CUL4B, known as CRL4A/B DCAF4. These complexes also include DDB1 and RBX1, and are active in HCEC-1CT cells (Liu2019Inflammation‐dependent). DCAF4 directly interacts with DDB1, as demonstrated by its ability to be pulled down by Myc DDB1, but not by Myc CUL4A or Myc CUL4B, indicating a specific interaction with DDB1 (Liu2019Inflammation‐dependent). 
+
+DCAF4 also interacts with the tumor suppressor ST7, which is a substrate for the CRL4A/B DCAF4 E3 ligases. This interaction was confirmed through immunoprecipitation experiments, showing that Myc ST7 can directly interact with Flag DCAF4 (Liu2019Inflammation‐dependent). The ubiquitination assays confirmed that CRL4 DCAF4 E3 ligases can ubiquitinate ST7, both in vitro and in vivo, suggesting that ST7 is a substrate of these ligases (Liu2019Inflammation‐dependent). 
+
+DCAF4 is also implicated in nucleotide excision repair (NER) through its interaction with DDB1, which is a key component of the NER pathway. The CUL4A-DDB1-DCAF complex may regulate NER activity by ubiquitinating several NER components, such as DDB2, XPC, and histone H2A at damaged DNA sites (Liu2017Functional).
+
+
+## References
+
+
+[1. (Homma2020Genomewide) Kengo Homma, Hiromitsu Takahashi, Naomi Tsuburaya, Isao Naguro, Takao Fujisawa, and Hidenori Ichijo. Genome-wide sirna screening reveals that dcaf4-mediated ubiquitination of optineurin stimulates autophagic degradation of cu,zn-superoxide dismutase. Journal of Biological Chemistry, 295(10):3148–3158, March 2020. URL: http://dx.doi.org/10.1074/jbc.ra119.010239, doi:10.1074/jbc.ra119.010239. This article has 3 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra119.010239)
+
+[2. (Liu2017Functional) Hongliang Liu, Zhensheng Liu, Yanru Wang, Thomas E. Stinchcombe, Kouros Owzar, Younghun Han, Rayjean J. Hung, Yonathan Brhane, John McLaughlin, Paul Brennan, Heike Bickeböller, Albert Rosenberger, Richard S. Houlston, Neil Caporaso, Maria T. Landi, Irene Brüske, Angela Risch, Xifeng Wu, Yuanqing Ye, David C. Christiani, Christopher I. Amos, and Qingyi Wei. Functional variants in dcaf4 associated with lung cancer risk in european populations. Carcinogenesis, 38(5):541–551, April 2017. URL: http://dx.doi.org/10.1093/carcin/bgx033, doi:10.1093/carcin/bgx033. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/carcin/bgx033)
+
+[3. (Liu2019Inflammation‐dependent) Hong Liu, Wenzhu Lu, Hongbo He, Jin Wu, Caiguo Zhang, Hanlin Gong, and Chunmei Yang. Inflammation‐dependent overexpression of c‐myc enhances crl4dcaf4 e3 ligase activity and promotes ubiquitination of st7 in colitis‐associated cancer. The Journal of Pathology, 248(4):464–475, April 2019. URL: http://dx.doi.org/10.1002/path.5273, doi:10.1002/path.5273. This article has 29 citations.](https://doi.org/10.1002/path.5273)

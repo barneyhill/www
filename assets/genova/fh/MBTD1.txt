@@ -1,0 +1,46 @@
+# MBTD1
+
+## Overview
+MBTD1 is a gene that encodes the mbt domain containing 1 protein, which is involved in chromatin remodeling and transcriptional regulation. The protein is characterized by its structural complexity, including a zinc finger and four MBT (Malignant Brain Tumor) domains, which are crucial for binding methylated lysine residues on histones (Eryilmaz2009Structural). MBTD1 functions primarily within the NuA4/TIP60 acetyltransferase complex, where it plays a significant role in DNA repair and gene expression regulation by interacting with other proteins such as EPC1 and the transcription factor YY1 (Zhang2019Structural). The gene has clinical significance due to its involvement in various cancers, including prostate cancer and osteosarcoma, where it is often overexpressed and associated with poor prognosis (Fu2019LncRNA; Wu2019Overexpression). Additionally, chromosomal translocations involving MBTD1, such as the ZMYND11-MBTD1 fusion, have been implicated in leukemogenesis, particularly in acute myeloid leukemia (Li2021ZMYND11MBTD1).
+
+## Structure
+The MBTD1 protein is characterized by its structural complexity, featuring a combination of domains and motifs that contribute to its function in chromatin organization and gene regulation. It consists of 628 amino acids and includes a FCS-type zinc finger at the N-terminus and four MBT (Malignant Brain Tumor) repeats at the C-terminus (Eryilmaz2009Structural). The MBT repeats are crucial for binding methylated lysine residues on histones, with the fourth MBT domain (MBT4) specifically recognizing mono- and di-methylated histone H4 lysine-20 (H4K20me1/2) (Li2021ZMYND11MBTD1).
+
+The crystal structure of MBTD1, determined at 2.5 Å resolution, reveals an asymmetric rhomboid architecture with a three-blade propeller configuration for the MBT repeats (Eryilmaz2009Structural). The MBT4 domain forms a semi-aromatic cage that accommodates methyllysine, involving aromatic residues such as Phe526, Trp529, and Tyr533, along with Asp502 (Eryilmaz2009Structural). This structural arrangement is similar to other MBT repeat proteins like L3MBTL2.
+
+MBTD1 is also a component of the NuA4/TIP60 acetyltransferase complex, interacting with the EPC1 subunit through a hydrophobic groove formed by the MBT1 and MBT2 repeats (Zhang2019Structural). This interaction is essential for its role in DNA repair and transcription regulation (Zhang2019Structural).
+
+## Function
+MBTD1 is a protein involved in chromatin remodeling and transcriptional regulation, primarily functioning within the NuA4/TIP60 acetyltransferase complex. It plays a crucial role in regulating gene expression and DNA repair by interacting with EPC1, a non-catalytic subunit of the complex. This interaction is essential for the recruitment of MBTD1 into the NuA4/TIP60 complex, influencing transcription and DNA repair pathway choice (Zhang2019Structural). MBTD1 reads the H4K20me histone mark and, through its interaction with EPC1, inhibits the binding of 53BP1 to chromatin, promoting the error-free homologous recombination (HR) pathway over the error-prone non-homologous end joining (NHEJ) pathway (Zhang2019Structural).
+
+MBTD1 contains a zinc finger and four MBT domains, with the fourth domain responsible for histone mark readout. It is active in the nucleus, where it modulates chromatin dynamics and transcriptional outcomes (Zhang2019Structural). The protein's interaction with EPC1 is mediated by a hydrophobic groove, which allows MBTD1 to bind both EPC1 and the transcription factor YY1, although with different binding mechanisms (Zhang2019Structural). This interaction is crucial for the protein's role in transcription regulation and DNA damage response (Zhang2019Structural).
+
+## Clinical Significance
+Alterations in the expression of the MBTD1 gene have been implicated in several cancers. In prostate cancer, MBTD1 is overexpressed in cancerous tissues compared to normal tissues, and this overexpression is associated with poor prognosis. High levels of MBTD1 correlate with aggressive clinical stages, tumor invasion, lymph node metastasis, and advanced distant metastasis. It is also linked to higher prostate-specific antigen levels and Gleason scores, making MBTD1 an independent prognostic factor for prostate cancer survival (Wu2019Overexpression).
+
+In osteosarcoma, MBTD1 is similarly overexpressed and associated with poor prognosis. It promotes cell viability and inhibits apoptosis, contributing to tumor growth. The regulation of MBTD1 in osteosarcoma is influenced by miR-134-5p and lncRNA TTN-AS1, which modulate its expression levels (Fu2019LncRNA).
+
+The MBTD1 gene is also involved in chromosomal translocations, such as the ZMYND11-MBTD1 fusion, which plays a role in leukemogenesis, particularly in acute myeloid leukemia (AML). This fusion hijacks the NuA4/TIP60 acetyltransferase complex, leading to the activation of pro-leukemic genes and contributing to the development of AML (Li2021ZMYND11MBTD1).
+
+## Interactions
+MBTD1 is involved in several protein interactions, particularly within the NuA4/TIP60 acetyltransferase complex. It interacts with EPC1, a non-catalytic subunit of the complex, through a hydrophobic fragment at the C-terminus of EPC1. This interaction is crucial for the recruitment of MBTD1 into the NuA4/TIP60 complex, which influences transcription and DNA repair pathways (Zhang2019Structural). The MBTD1-EPC1 interaction is characterized by a helical structure of EPC1 fitting into a hydrophobic groove formed by the MBT1 and MBT2 repeats of MBTD1 (Zhang2019Structural).
+
+MBTD1 also interacts with the transcription factor YY1, although this interaction is weaker compared to EPC1 due to the absence of certain hydrophobic interactions (Zhang2019Structural). The interaction with YY1 involves a two-stranded β-sheet formation, differing from the helical interaction with EPC1 (Zhang2019Structural).
+
+In the context of oncogenesis, MBTD1 forms a fusion protein with ZMYND11 due to chromosomal translocation in acute myeloid leukemia. This fusion protein mislocalizes the NuA4/TIP60 complex to active gene regions, altering chromatin dynamics and transcription processes, which promotes oncogenic transformation (Devoucoux2021Oncogenic).
+
+
+## References
+
+
+1. (Devoucoux2021Oncogenic) Oncogenic ZMYND11-MBTD1 fusion protein anchors the NuA4/TIP60 histone acetyltransferase complex to the coding region of active gene. This article has 0 citations.
+
+[2. (Eryilmaz2009Structural) Jitka Eryilmaz, Patricia Pan, Maria F. Amaya, Abdellah Allali-Hassani, Aiping Dong, Melanie A. Adams-Cioaba, Farrell MacKenzie, Masoud Vedadi, and Jinrong Min. Structural studies of a four-mbt repeat protein mbtd1. PLoS ONE, 4(10):e7274, October 2009. URL: http://dx.doi.org/10.1371/journal.pone.0007274, doi:10.1371/journal.pone.0007274. This article has 50 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0007274)
+
+[3. (Li2021ZMYND11MBTD1) Jie Li, Phillip M. Galbo, Weida Gong, Aaron J. Storey, Yi-Hsuan Tsai, Xufen Yu, Jeong Hyun Ahn, Yiran Guo, Samuel G. Mackintosh, Ricky D. Edmondson, Stephanie D. Byrum, Jason E. Farrar, Shenghui He, Ling Cai, Jian Jin, Alan J. Tackett, Deyou Zheng, and Gang Greg Wang. Zmynd11-mbtd1 induces leukemogenesis through hijacking nua4/tip60 acetyltransferase complex and a pwwp-mediated chromatin association mechanism. Nature Communications, February 2021. URL: http://dx.doi.org/10.1038/s41467-021-21357-3, doi:10.1038/s41467-021-21357-3. This article has 29 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-21357-3)
+
+4. (Zhang2019Structural) Structural basis for EPC1-mediated recruitment of MBTD1 into the NuA4/TIP60 acetyltransferase complex. This article has 0 citations.
+
+[5. (Fu2019LncRNA) Dong Fu, Chunwen Lu, Xingzhou Qu, Peng Li, Kai Chen, Liancheng Shan, and Xiaodong Zhu. Lncrna ttn-as1 regulates osteosarcoma cell apoptosis and drug resistance via the mir-134-5p/mbtd1 axis. Aging, 11(19):8374–8385, October 2019. URL: http://dx.doi.org/10.18632/aging.102325, doi:10.18632/aging.102325. This article has 121 citations and is from a peer-reviewed journal.](https://doi.org/10.18632/aging.102325)
+
+[6. (Wu2019Overexpression) Wanhua Wu, Shoumin Bai, Dingjun Zhu, Kaiwen Li, Wen Dong, Wang He, Shengmeng Peng, Yiming Lai, Qiong Wang, Zhenghui Guo, Leyuan Liu, and Hai Huang. Overexpression of malignant brain tumor domain containing protein 1 predicts a poor prognosis of prostate cancer. Oncology Letters, March 2019. URL: http://dx.doi.org/10.3892/ol.2019.10109, doi:10.3892/ol.2019.10109. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2019.10109)

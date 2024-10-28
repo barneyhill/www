@@ -1,0 +1,39 @@
+# SPOUT1
+
+## Overview
+SPOUT1 is a gene that encodes the SPOUT domain-containing methyltransferase 1, a protein involved in RNA modification processes. This protein is characterized by its SPOUT methyltransferase domain, which facilitates the methylation of RNA molecules, a critical function for RNA stability and cellular protein synthesis. The methyltransferase activity of the protein is essential for ribosome biogenesis and mitotic spindle organization, playing a significant role in cell division and neurodevelopment (Dharmadhikari2024RNA; Tanaka2022RNA). The protein's structure includes a unique trefoil knot fold and an oligonucleotide binding fold, distinguishing it from other members of the SPOUT superfamily (Dharmadhikari2024RNA). Mutations in the SPOUT1 gene have been associated with various diseases, including ribosomopathies and potentially malakoplakia, highlighting its importance in maintaining cellular homeostasis and its potential clinical significance (Zhang2023Malakoplakia; Witte2021A).
+
+## Structure
+The SPOUT1/CENP-32 protein is characterized by a SPOUT methyltransferase domain, which includes a unique structural configuration. This domain features a trefoil knot fold composed of parallel six-stranded β-sheets sandwiched between two layers of α-helices, facilitating dimerization (Dharmadhikari2024RNA). The protein also contains an oligonucleotide binding (OB) fold inserted into the catalytic domain, which is involved in nucleic acid recognition and binding, a feature that distinguishes it from other members of the SPOUT superfamily (Dharmadhikari2024RNA). The N-terminal region of the protein is highly basic and is predicted to form an α-helix (Dharmadhikari2024RNA).
+
+The SPOUT1/CENP-32 protein functions as a SAM-dependent methyltransferase, with S-adenosyl-L-methionine (SAM) serving as the methyl group donor and S-adenosyl-homocysteine (SAH) as a by-product. The enzyme's activity is crucial for its role in mitotic spindle organization and neurodevelopment (Dharmadhikari2024RNA). The protein dimerizes through a helical segment in the catalytic domain, which is essential for its enzymatic activity and stabilizes the substrate binding pocket (Dharmadhikari2024RNA). The structural coordinates and structure factors of the SPOUT1/CENP-32 protein have been deposited in the Protein Data Bank, providing detailed insights into its molecular structure (Dharmadhikari2024RNA).
+
+## Function
+SPOUT1, also known as SPOUT domain-containing methyltransferase 1, is involved in RNA modification processes crucial for cellular function. The protein encoded by SPOUT1 contains a SPOUT domain, which is responsible for catalyzing the methylation of RNA molecules. This methylation activity is essential for RNA stability and function, primarily occurring in the nucleolus, where it impacts ribosome biogenesis and overall protein synthesis in cells (Tanaka2022RNA).
+
+In human cells, SPOUT1 has been implicated in ribosome biogenesis, a critical process for protein synthesis. Perturbation studies using CRISPR interference in K562 cells have shown that knockdown of SPOUT1 leads to defects in ribosome biogenesis, suggesting its significant role in this process (Replogle2021Mapping). Additionally, SPOUT1 is essential during the mitotic spindle of the metaphase, indicating its involvement in cell division and cell cycle regulation (Zhang2023Malakoplakia; Xu2021System).
+
+The gene's function in healthy human cells is further supported by its predicted role in ribosomal RNA modification, as suggested by studies on its homologues in other organisms (Tanaka2022RNA). These activities underscore the importance of SPOUT1 in maintaining cellular homeostasis and proper cell cycle progression.
+
+## Clinical Significance
+Mutations and alterations in the expression of the SPOUT1 gene have been implicated in various diseases and conditions. In the context of ribosomopathies, SPOUT1 is involved in pre-rRNA processing, and mutations in this gene can lead to shifts in translational efficiency, affecting mRNA translation in a protein length-dependent manner. This suggests that SPOUT1 mutations may contribute to the development of ribosomopathies by disrupting normal ribosome biogenesis and function (Witte2021A).
+
+In a study using Perturb-seq, SPOUT1 was identified as a gene with transcriptional phenotypes that correlate with known ribosome biogenesis factors. CRISPRi targeting of SPOUT1 in K562 cells demonstrated defects in ribosome biogenesis, indicating its potential role in cellular processes related to ribosome function (Replogle2021Mapping).
+
+Additionally, a case report of malakoplakia, a rare inflammatory disease, identified a somatic mutation in SPOUT1 through next-generation sequencing. However, the clinical significance of this mutation in relation to malakoplakia remains unclear, and its role in the disease's pathogenesis has not been established (Zhang2023Malakoplakia). These findings highlight the potential involvement of SPOUT1 in various pathological conditions, although further research is needed to fully understand its clinical implications.
+
+
+## References
+
+
+1. (Tanaka2022RNA) RNA processing/modifying enzymes play key roles in the response to thermospermine in Arabidopsis thaliana. This article has 2 citations.
+
+[2. (Witte2021A) Franziska Witte, Jorge Ruiz-Orera, Camilla Ciolli Mattioli, Susanne Blachut, Eleonora Adami, Jana Felicitas Schulz, Valentin Schneider-Lunitz, Oliver Hummel, Giannino Patone, Michael Benedikt Mücke, Jan Šilhavý, Matthias Heinig, Leonardo Bottolo, Daniel Sanchis, Martin Vingron, Marina Chekulaeva, Michal Pravenec, Norbert Hubner, and Sebastiaan van Heesch. A trans locus causes a ribosomopathy in hypertrophic hearts that affects mrna translation in a protein length-dependent fashion. Genome Biology, June 2021. URL: http://dx.doi.org/10.1186/s13059-021-02397-w, doi:10.1186/s13059-021-02397-w. This article has 6 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13059-021-02397-w)
+
+[3. (Xu2021System) Tengfei Xu, Liyan Chen, Yan Ting Lim, Haoduo Zhao, Hongjin Chen, Ming Wei Chen, Tao Huan, Yichao Huang, Radoslaw Mikolaj Sobota, and Mingliang Fang. System biology-guided chemical proteomics to discover protein targets of monoethylhexyl phthalate in regulating cell cycle. Environmental Science &amp; Technology, 55(3):1842–1851, January 2021. URL: http://dx.doi.org/10.1021/acs.est.0c05832, doi:10.1021/acs.est.0c05832. This article has 18 citations.](https://doi.org/10.1021/acs.est.0c05832)
+
+4. (Replogle2021Mapping) Mapping information-rich genotype-phenotype landscapes with genome-scale Perturb-seq. This article has 17 citations.
+
+5. (Dharmadhikari2024RNA) RNA methyltransferase SPOUT1/CENP-32 links mitotic spindle organization with the neurodevelopmental disorder SpADMiSS. This article has 0 citations.
+
+[6. (Zhang2023Malakoplakia) Xiao-Ying Zhang, Jun Li, Shui-lian Chen, Ying Li, Hao Wang, and Jin-hua He. Malakoplakia with aberrant alk expression by immunohistochemistry: a case report. Diagnostic Pathology, August 2023. URL: http://dx.doi.org/10.1186/s13000-023-01383-z, doi:10.1186/s13000-023-01383-z. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13000-023-01383-z)

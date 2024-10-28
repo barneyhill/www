@@ -1,0 +1,37 @@
+# PGAP6
+
+## Overview
+PGAP6 is a gene that encodes the protein post-GPI attachment to proteins 6, also known as TMEM8A, which functions as a glycosylphosphatidylinositol-specific phospholipase A2 (GPI-PLA2). This enzyme is integral to the post-translational modification of glycosylphosphatidylinositol-anchored proteins (GPI-APs) at the cell surface, playing a pivotal role in embryonic development by modulating Nodal signaling pathways through the shedding of Cripto, a GPI-anchored protein that acts as a Nodal coreceptor (Lee2016A). The protein's activity is crucial for the proper release and function of GPI-APs, influencing cellular signaling and developmental processes. Mutations affecting PGAP6 can lead to dysregulation of GPI-AP expression, with potential implications for various physiological and pathological conditions (Liu2021A; Lee2016A).
+
+## Function
+PGAP6, also known as TMEM8A, encodes a GPI-specific phospholipase A2 enzyme that plays a critical role in the processing of glycosylphosphatidylinositol-anchored proteins (GPI-APs) at the cell surface. This enzyme is primarily involved in modulating Nodal signaling during embryonic development by shedding Cripto, a GPI-AP that acts as a Nodal coreceptor. Cripto is essential for various developmental processes, including anterior-posterior axis patterning and mesoderm induction (Lee2016A).
+
+PGAP6 is localized at the cell surface, where it processes Cripto into a lysophosphatidylinositol-bearing form, which is further cleaved by phospholipase D. This activity results in the release of a biologically active, soluble form of Cripto necessary for non-cell autonomous Cripto-Nodal signaling, crucial for axial mesendoderm formation (Lee2016A). The enzyme's GPI-PLA2 activity is essential for its function, as mutations in conserved amino acids lead to a loss of function (Lee2016A).
+
+In PGAP6 knockout models, increased surface expression of GPI-APs like CD59 is observed, indicating PGAP6's role in regulating the release of these proteins from the cell surface (Liu2021A). This regulation is vital for cellular signaling processes and proper embryonic development (Lee2016A).
+
+## Clinical Significance
+The clinical significance of PGAP6, a gene involved in the post-translational modification of glycosylphosphatidylinositol (GPI) anchors, is not fully understood due to the rarity of reported pathogenic mutations. PGAP6 encodes phospholipase A2, which plays a role in releasing specific GPI-anchored proteins (GPI-APs) during embryogenesis, particularly in neuronal tissues. This suggests a potential link to neurological disorders, although no pathogenic mutations in PGAP6 have been documented, possibly due to the lethality of such mutations or their rarity (knaus2019phenotypic).
+
+Research has identified the PGAP6 rs375498857 variant as being associated with various cardiometabolic traits, including lipid profiles and diabetes mellitus. This variant is linked to erythrocyte traits such as mean corpuscular volume and mean corpuscular hemoglobin, which may mediate its effects on cardiometabolic health. Individuals with α-thalassemia, who often carry this variant, have an increased risk of developing gestational diabetes and impaired glucose tolerance (Hsu2023Causal).
+
+PGAP6 deficiency has also been linked to increased sensitivity to toxins like aerolysin, due to elevated surface expression of GPI-APs, indicating its role in regulating GPI-AP expression and modification (Liu2021A).
+
+## Interactions
+PGAP6 is involved in the processing of glycosylphosphatidylinositol-anchored proteins (GPI-APs) and plays a crucial role in modulating Nodal signaling by shedding Cripto, a GPI-anchored protein. PGAP6 exhibits high selectivity for Cripto, while other GPI-APs such as CRYPTIC, CD59, DAF, and uPAR show varying levels of resistance to PGAP6-mediated processing (Lee2016A). The enzyme's activity involves the cleavage of an acyl-chain at the sn-2 position of GPI, generating a lyso-form of Cripto, which is then released into the medium (Lee2016A).
+
+PGAP6's function is influenced by its interaction with GPI biosynthetic genes such as Pign and Pgap1. Mutations in these genes impair PGAP6-dependent Cripto secretion, indicating that PGAP6 interacts with specific structural components of GPI-APs to facilitate their cleavage and release (Lee2016A). The presence of an ethanolamine phosphate side chain is critical for PGAP6's cleavage activity, as demonstrated by the resistance of Cripto on PIGN-KO cells to PGAP6 (Lee2016A).
+
+PGAP6 is also suggested to have GPI-PLA2 activity, similar to PGAP3, based on its ability to partition with Triton X-114, indicating potential interactions with other proteins involved in GPI-anchor biosynthesis and remodeling (Lee2016A).
+
+
+## References
+
+
+[1. (Hsu2023Causal) Lung-An Hsu, Semon Wu, Ming-Sheng Teng, and Yu-Lin Ko. Causal links of α-thalassemia indices and cardiometabolic traits and diabetes: mr study. Life Science Alliance, 6(12):e202302204, October 2023. URL: http://dx.doi.org/10.26508/lsa.202302204, doi:10.26508/lsa.202302204. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202302204)
+
+[2. (Liu2021A) Si-Si Liu, Yi-Shi Liu, Xin-Yu Guo, Yoshiko Murakami, Ganglong Yang, Xiao-Dong Gao, Taroh Kinoshita, and Morihisa Fujita. A knockout cell library of gpi biosynthetic genes for functional studies of gpi-anchored proteins. Communications Biology, June 2021. URL: http://dx.doi.org/10.1038/s42003-021-02337-1, doi:10.1038/s42003-021-02337-1. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-021-02337-1)
+
+[3. (Lee2016A) Gun-Hee Lee, Morihisa Fujita, Katsuyoshi Takaoka, Yoshiko Murakami, Yoshitaka Fujihara, Noriyuki Kanzawa, Kei-ichi Murakami, Eriko Kajikawa, Yoko Takada, Kazunobu Saito, Masahito Ikawa, Hiroshi Hamada, Yusuke Maeda, and Taroh Kinoshita. A gpi processing phospholipase a2, pgap6, modulates nodal signaling in embryos by shedding cripto. Journal of Cell Biology, 215(5):705–718, November 2016. URL: http://dx.doi.org/10.1083/jcb.201605121, doi:10.1083/jcb.201605121. This article has 37 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201605121)
+
+4. (knaus2019phenotypic) Alexej Knaus. Phenotypic characterization of pathogenic mutations in GPIBDs. Freie Universitaet Berlin (Germany), 2019. This article has 0 citations.

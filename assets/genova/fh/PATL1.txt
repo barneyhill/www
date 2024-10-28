@@ -1,0 +1,41 @@
+# PATL1
+
+## Overview
+PATL1 is a gene that encodes the protein PAT1 homolog 1, a processing body mRNA decay factor, which plays a crucial role in the regulation of mRNA turnover and processing body (P-body) formation in human cells. The PAT1 homolog 1 protein is involved in the 5'-3' mRNA decay pathway, acting as a scaffold that facilitates interactions with various components of the mRNA decay machinery, including decapping enzymes and enhancers. This protein is characterized by several structural domains, such as a conserved N-terminal sequence, a proline-rich region, and a C-terminal Pat-C domain, which are essential for its interactions with other proteins involved in mRNA decapping and degradation (Braun2010The). PAT1 homolog 1 is a nucleocytoplasmic protein that shuttles between the nucleus and the cytoplasm, localizing to P-bodies in the cytoplasm and splicing speckles in the nucleus, indicating its involvement in both cytoplasmic mRNA decay and nuclear RNA-related processes (Marnef2012RNArelated; Standart2012Pat1). The protein's interactions and functions are conserved across species, underscoring its essential role in mRNA metabolism (Braun2010The).
+
+## Structure
+The PATL1 protein is characterized by several distinct structural domains that contribute to its function in mRNA decay and processing body formation. It contains a conserved N-terminal sequence, a proline-rich region (PRR), a Mid domain, and a C-terminal domain known as Pat-C. The Pat-C domain is particularly significant, adopting an α-α superhelical fold similar to armadillo and HEAT-repeat proteins, which is essential for its interaction with mRNA decapping factors such as DCP2, EDC4, and the LSm1-7 ring (Braun2010The). The Pat-C domain's structure includes 13 alpha-helices forming a right-handed superhelix, with a flexible helical protrusion that may be functionally important (Braun2010The).
+
+The N-terminal sequence of PATL1 is crucial for binding to DDX6/RCK, while the Pat-C domain is necessary for interactions with other decapping factors (Braun2010The). The protein also contains a glutamine-rich region with motifs that may play a role in RNA binding (Scheller2007Identification). PATL1 can exist in multiple isoforms due to alternative splicing, which may affect its function and interactions (Osugi2012Identification). The protein's structure and interactions are conserved across species, highlighting its essential role in mRNA decapping (Braun2010The).
+
+## Function
+The PATL1 gene encodes the Pat1b protein, which plays a significant role in mRNA decay and processing body (P-body) formation in human cells. Pat1b is involved in the 5'-3' mRNA decay pathway, where it connects deadenylation with decapping, facilitating mRNA degradation. It interacts with various components of the mRNA decay machinery, including the decapping enzyme complex Dcp2-Dcp1a and several decapping enhancers such as Rck, Hedls, Edc3, and Lsm1 (Ozgur2010Human).
+
+Pat1b is a nucleocytoplasmic protein that shuttles between the nucleus and the cytoplasm, with its nuclear export mediated by a nuclear export sequence (NES) and Crm1. In the cytoplasm, Pat1b localizes to P-bodies, which are involved in mRNA metabolism, including translation repression and mRNA degradation (Marnef2012RNArelated; Standart2012Pat1). Pat1b is essential for P-body formation, acting as a scaffold that facilitates interactions with other P-body components (Ozgur2010Human).
+
+In the nucleus, Pat1b localizes to splicing speckles and PML-associated nuclear foci, suggesting its involvement in RNA-related nuclear processes such as transcription and splicing (Marnef2012RNArelated; Standart2012Pat1). This dual localization indicates that Pat1b may play a role in linking transcription and mRNA decay, controlling mRNA levels from synthesis to degradation (Standart2012Pat1).
+
+## Interactions
+PATL1, a human protein involved in mRNA decay, interacts with several proteins and plays a significant role in mRNA processing bodies (P-bodies). It has been identified as a novel interacting partner of ALG-2, a Ca2+-binding protein. This interaction was confirmed through various experimental techniques, including far-western blot analyses, GST pull-down assays, and co-immunoprecipitation assays. The interaction is thought to occur through PATL1's proline-rich region, which contains ALG-2-binding motifs (Osugi2012Identification).
+
+PATL1 is also known to interact with components of the mRNA decapping and degradation machinery, such as DCP1A, LSM1, and DDX6 (also known as Rck/p54), which are essential for P-body formation and function. These interactions facilitate the linking of deadenylation and decapping processes, crucial for mRNA turnover (Scheller2007Identification).
+
+In Arabidopsis, PATL1 interacts with AtCaM4, a calmodulin protein, to regulate freezing tolerance in a CBF-independent manner. This interaction was identified using immunoprecipitation and mass spectrometry, and confirmed through co-immunoprecipitation assays. The interaction suggests a role for PATL1 in stress response pathways (Chu2018AtCaM4).
+
+
+## References
+
+
+[1. (Standart2012Pat1) Nancy Standart and Aline Marnef. Pat1 proteins: regulating mrnas from birth to death? BioMolecular Concepts, 3(4):295–306, August 2012. URL: http://dx.doi.org/10.1515/bmc-2012-0005, doi:10.1515/bmc-2012-0005. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/bmc-2012-0005)
+
+[2. (Osugi2012Identification) Kanae Osugi, Hironori Suzuki, Tomomi Nomura, Yasuo Ariumi, Hideki Shibata, and Masatoshi Maki. Identification of the p-body component patl1 as a novel alg-2-interacting protein by in silico and far-western screening of proline-rich proteins. The Journal of Biochemistry, 151(6):657–666, March 2012. URL: http://dx.doi.org/10.1093/jb/mvs029, doi:10.1093/jb/mvs029. This article has 18 citations.](https://doi.org/10.1093/jb/mvs029)
+
+[3. (Marnef2012RNArelated) Aline Marnef, Dominique Weil, and Nancy Standart. Rna-related nuclear functions of human pat1b, the p-body mrna decay factor. Molecular Biology of the Cell, 23(1):213–224, January 2012. URL: http://dx.doi.org/10.1091/mbc.E11-05-0415, doi:10.1091/mbc.e11-05-0415. This article has 46 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.E11-05-0415)
+
+[4. (Ozgur2010Human) Sevim Ozgur, Marina Chekulaeva, and Georg Stoecklin. Human pat1b connects deadenylation with mrna decapping and controls the assembly of processing bodies. Molecular and Cellular Biology, 30(17):4308–4323, September 2010. URL: http://dx.doi.org/10.1128/mcb.00429-10, doi:10.1128/mcb.00429-10. This article has 121 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.00429-10)
+
+[5. (Braun2010The) Joerg E Braun, Felix Tritschler, Gabrielle Haas, Cátia Igreja, Vincent Truffault, Oliver Weichenrieder, and Elisa Izaurralde. The c-terminal α–α superhelix of pat is required for mrna decapping in metazoa. The EMBO Journal, 29(14):2368–2380, June 2010. URL: http://dx.doi.org/10.1038/emboj.2010.124, doi:10.1038/emboj.2010.124. This article has 48 citations.](https://doi.org/10.1038/emboj.2010.124)
+
+[6. (Scheller2007Identification) Nicoletta Scheller, Patricia Resa-Infante, Susana de la Luna, Rui Pedro Galao, Mario Albrecht, Lars Kaestner, Peter Lipp, Thomas Lengauer, Andreas Meyerhans, and Juana Díez. Identification of patl1, a human homolog to yeast p body component pat1. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1773(12):1786–1792, December 2007. URL: http://dx.doi.org/10.1016/j.bbamcr.2007.08.009, doi:10.1016/j.bbamcr.2007.08.009. This article has 49 citations.](https://doi.org/10.1016/j.bbamcr.2007.08.009)
+
+[7. (Chu2018AtCaM4) Mingxue Chu, Jiaojiao Li, Jingyu Zhang, Sufen Shen, Cuina Li, Yingjie Gao, and Suqiao Zhang. Atcam4 interacts with a sec14-like protein, patl1, to regulate freezing tolerance in arabidopsis in a cbf-independent manner. Journal of Experimental Botany, 69(21):5241–5253, August 2018. URL: http://dx.doi.org/10.1093/jxb/ery278, doi:10.1093/jxb/ery278. This article has 38 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/jxb/ery278)

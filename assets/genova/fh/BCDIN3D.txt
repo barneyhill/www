@@ -1,0 +1,33 @@
+# BCDIN3D
+
+## Overview
+BCDIN3D is a gene that encodes the BCDIN3 domain-containing RNA methyltransferase, an enzyme involved in the post-transcriptional modification of RNA molecules. This protein is categorized as an RNA methyltransferase and is primarily active in the cytoplasm, where it plays a critical role in the monomethylation of the 5'-monophosphate of cytoplasmic histidine transfer RNA (tRNA His) (Martinez2017Human; Tomita2018Human). This modification is essential for protecting tRNA His from degradation, thereby influencing protein synthesis and cellular processes (Martinez2017Human; Tomita2018Human). BCDIN3D's activity extends to interactions with other RNA molecules, such as miR-4454, and it is implicated in various cellular pathways, including those related to cancer and metabolic disorders (Reinsborough2019BCDIN3D; Reinsborough2021BCDIN3D). The gene's overexpression has been linked to poor prognosis in breast cancer, highlighting its clinical significance (Reinsborough2021BCDIN3D).
+
+## Function
+BCDIN3D is an RNA methyltransferase that plays a crucial role in the post-transcriptional modification of RNA molecules in healthy human cells. It specifically monomethylates the 5'-monophosphate of cytoplasmic histidine transfer RNA (tRNA His), a modification that is unique to this tRNA species due to its structural features, such as the G-1-A73 mis-pair (Martinez2017Human; Tomita2018Human). This methylation process is essential for protecting tRNA His from degradation by exonucleases, although it does not significantly affect its aminoacylation efficiency or stability in vivo (Martinez2017Human; Tomita2018Human).
+
+BCDIN3D is active in the cytoplasm, where it interacts with mature tRNA His, recognizing its unique structural features and distinguishing it from other tRNA species (Reinsborough2019BCDIN3D; Tomita2018Human). The enzyme's activity may contribute to the stability of tRNA His under specific conditions, potentially impacting protein synthesis and cellular processes (Tomita2018Human). BCDIN3D also plays a role in regulating the processing of tRNA His 3' fragments, which may have implications for genomic stability and the regulation of transposable elements (Reinsborough2019BCDIN3D).
+
+## Clinical Significance
+The BCDIN3D gene is implicated in several diseases, primarily due to its role in RNA methylation and its impact on cellular processes. In breast cancer, BCDIN3D is overexpressed, particularly in tumorigenic breast cancer stem cells, and is associated with poor prognosis. Its expression correlates with decreased disease-free survival in patients with invasive ductal breast carcinoma, especially those with triple-negative breast cancer (Reinsborough2021BCDIN3D). BCDIN3D influences breast cancer progression by regulating the expression of Aldolase C (ALDOC) through a non-canonical mechanism involving the let-7 microRNA family, affecting glycolysis and mTOR signaling pathways (Reinsborough2021BCDIN3D).
+
+BCDIN3D also plays a role in metabolic disorders. The gene locus contains SNPs associated with obesity and type II diabetes (T2D), suggesting a link between BCDIN3D and these metabolic conditions (Reinsborough2021BCDIN3D). In vivo studies demonstrate that BCDIN3D knockdown reduces tumor formation and metastasis in breast cancer models, indicating its importance in tumor growth and progression (Reinsborough2021BCDIN3D). The gene's involvement in the methylation of specific precursor microRNAs and tRNA His further underscores its potential impact on cancer and metabolic diseases (Martinez2017Human).
+
+## Interactions
+BCDIN3D is an RNA methyltransferase that interacts with specific RNAs, including mature tRNA His and miR-4454. It forms a stable interaction with mature tRNA His in HeLa-S3-FlpIn cells, as demonstrated by the presence of a prominent band of 70 to 90 nucleotides identified as mature tRNA His through TGIRT-seq analysis (Reinsborough2019BCDIN3D). BCDIN3D interacts with the 3' fragment of tRNA His, with TGIRT-seq revealing a significant number of reads less than 50 nucleotides in length, indicating a reverse transcription roadblock at modified bases of tRNA His (Reinsborough2019BCDIN3D). 
+
+BCDIN3D also interacts with TRMT5, the enzyme responsible for m1G methylation at the G37 position of tRNA His, suggesting a role in the modification of tRNA His (Reinsborough2019BCDIN3D). The protein is involved in the monomethylation of the 5'-monophosphate of cytoplasmic tRNA His, recognizing unique structural features such as the G-1:A73 mis-pairing and the extended acceptor helix (Tomita2018Human). 
+
+BCDIN3D's interaction with miR-4454, which may be a tRNA His 3' fragment, is supported by the observation that hsa-miR-4454 reads from BCDIN3Df FLAG eluates match the sequence of tRNA His rather than the annotated MIR4454 genomic locus (Reinsborough2019BCDIN3D).
+
+
+## References
+
+
+[1. (Martinez2017Human) Anna Martinez, Seisuke Yamashita, Takashi Nagaike, Yuriko Sakaguchi, Tsutomu Suzuki, and Kozo Tomita. Human bcdin3d monomethylates cytoplasmic histidine transfer rna. Nucleic Acids Research, pages gkx051, January 2017. URL: http://dx.doi.org/10.1093/nar/gkx051, doi:10.1093/nar/gkx051. This article has 6 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkx051)
+
+[2. (Reinsborough2019BCDIN3D) Calder W. Reinsborough, Hélène Ipas, Nathan S. Abell, Ryan M. Nottingham, Jun Yao, Sravan K. Devanathan, Samantha B. Shelton, Alan M. Lambowitz, and Blerta Xhemalçe. Bcdin3d regulates trnahis 3’ fragment processing. PLOS Genetics, 15(7):e1008273, July 2019. URL: http://dx.doi.org/10.1371/journal.pgen.1008273, doi:10.1371/journal.pgen.1008273. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1008273)
+
+[3. (Reinsborough2021BCDIN3D) Calder W. Reinsborough, Hélène Ipas, Nathan S. Abell, Ellen B. Gouws, J. Paige Williams, Marvin Mercado, Carla Van Den Berg, and Blerta Xhemalçe. Bcdin3d rna methyltransferase stimulates aldolase c expression and glycolysis through let-7 microrna in breast cancer cells. Oncogene, 40(13):2395–2406, March 2021. URL: http://dx.doi.org/10.1038/s41388-021-01702-y, doi:10.1038/s41388-021-01702-y. This article has 13 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-021-01702-y)
+
+[4. (Tomita2018Human) Kozo Tomita and Yining Liu. Human bcdin3d is a cytoplasmic trnahis-specific 5′-monophosphate methyltransferase. Frontiers in Genetics, August 2018. URL: http://dx.doi.org/10.3389/fgene.2018.00305, doi:10.3389/fgene.2018.00305. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2018.00305)

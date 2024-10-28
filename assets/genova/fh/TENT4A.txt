@@ -1,0 +1,35 @@
+# TENT4A
+
+## Overview
+TENT4A is a gene that encodes the protein terminal nucleotidyltransferase 4A, a non-canonical poly(A) polymerase involved in the regulation of mRNA stability and DNA damage tolerance. The protein plays a pivotal role in mixed tailing, a process that involves the addition of non-adenosine residues to mRNA poly(A) tails, thereby enhancing mRNA stability by protecting it from rapid deadenylation (Lim2018Mixed). TENT4A is predominantly localized in the nucleus and is crucial for pre-mRNA maturation and the stabilization of mRNA during key developmental transitions (Warkocki2018Terminal; Liu2021Dynamics). The gene's involvement in DNA repair processes, particularly through interactions with mRNAs and proteins such as RAD18 and CYLD, underscores its significance in maintaining genomic stability (Swain2021TENT4A). Mutations in TENT4A have been linked to endometrial cancer, highlighting its clinical relevance in cancer biology (Swain2021TENT4A; Swain2020TENT4A).
+
+## Function
+TENT4A, also known as terminal nucleotidyltransferase 4A, plays a crucial role in mRNA stability through a process known as mixed tailing. This involves the addition of non-adenosine residues, such as guanosine, to the poly(A) tail of mRNA, which protects the mRNA from rapid deadenylation by the CCR4-NOT complex, thereby enhancing its stability and half-life (Lim2018Mixed). TENT4A, along with its paralog TENT4B, acts redundantly to target a significant portion of mRNA species, with a preference for incorporating guanosine over other nucleotides (Lim2018Mixed).
+
+In cellular biology, TENT4A is predominantly localized in the nucleus, where it is involved in pre-mRNA maturation and potentially in miRNP-mediated translational activation of non-adenylated mRNAs (Warkocki2018Terminal). The enzyme's activity is crucial for maintaining mRNA stability during critical developmental transitions, such as the human oocyte-to-embryo transition, where it stabilizes re-polyadenylated transcripts (Liu2021Dynamics). The depletion of TENT4A leads to decreased mRNA levels and growth defects in cells, highlighting its physiological importance (Lim2018Mixed).
+
+## Clinical Significance
+Mutations and dysregulation of the TENT4A gene, also known as PAPD7, have been implicated in the development of endometrial cancer, particularly Uterine Corpus Endometrial Carcinoma (UCEC). TENT4A is involved in the translesion synthesis (TLS) pathway, a DNA damage tolerance mechanism. Alterations in TENT4A can lead to dysregulated TLS, resulting in increased chromosomal aberrations and point mutations, which are frequently observed in endometrial cancer genomes (Swain2021TENT4A; Swain2020TENT4A). 
+
+The gene regulates the stability and translation of mRNA for key TLS components, such as DNA polymerase η and RAD18 E3 ligase, which are crucial for DNA repair processes. Dysregulation of these pathways due to TENT4A mutations can contribute to genomic instability, a hallmark of cancer progression (Swain2021TENT4A; Swain2020TENT4A). 
+
+Research has shown that TENT4A mutations are prevalent in endometrial cancer compared to other cancer types, suggesting a specific role in endometrial carcinogenesis. The loss of TLS function in these cancers might also sensitize cells to DNA-damaging chemotherapy, indicating potential therapeutic implications (Swain2021TENT4A; Swain2020TENT4A).
+
+## Interactions
+TENT4A, also known as terminal nucleotidyltransferase 4A, is a non-canonical poly(A) polymerase involved in regulating DNA-damage tolerance through interactions with various mRNAs and proteins. It directly binds to the mRNAs of RAD18 and CYLD, influencing their poly(A) tail length and stability, which are crucial for translesion synthesis (TLS) pathways (Swain2021TENT4A). RAD18 is an E3 ligase that plays a key role in the monoubiquitination of PCNA, facilitating the recruitment of DNA polymerases to damaged DNA sites (Swain2021TENT4A). TENT4A also indirectly affects the stability of POLH mRNA, likely through interactions with the PAXIP1 protein (Swain2021TENT4A).
+
+TENT4A's role extends to influencing the translation of key proteins involved in DNA repair processes. Its knockdown results in decreased levels of RAD18, CYLD, and POLH proteins, affecting both mRNA stability and translation efficiency (Swain2021TENT4A). TENT4A is also involved in mixed tailing, where it adds non-adenosine residues to mRNA poly(A) tails, protecting them from rapid deadenylation and stabilizing the mRNA (Lim2018Mixed). These interactions highlight TENT4A's significant role in modulating mRNA stability and translation, impacting DNA repair and damage tolerance pathways.
+
+
+## References
+
+
+1. (Swain2020TENT4A) TENT4A non-canonical poly(A) polymerase regulates DNA-damage tolerance via multiple pathways which are mutated in endometrial cancer. This article has 0 citations.
+
+2. (Liu2021Dynamics) Dynamics of poly(A) tail length and non-A residues during the human oocyte-to-embryo transition. This article has 10 citations.
+
+[3. (Lim2018Mixed) Jaechul Lim, Dongwan Kim, Young-suk Lee, Minju Ha, Mihye Lee, Jinah Yeo, Hyeshik Chang, Jaewon Song, Kwangseog Ahn, and V. Narry Kim. Mixed tailing by tent4a and tent4b shields mrna from rapid deadenylation. Science, 361(6403):701–704, August 2018. URL: http://dx.doi.org/10.1126/science.aam5794, doi:10.1126/science.aam5794. This article has 125 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.aam5794)
+
+[4. (Warkocki2018Terminal) Zbigniew Warkocki, Vladyslava Liudkovska, Olga Gewartowska, Seweryn Mroczek, and Andrzej Dziembowski. Terminal nucleotidyl transferases (tents) in mammalian rna metabolism. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1762):20180162, November 2018. URL: http://dx.doi.org/10.1098/rstb.2018.0162, doi:10.1098/rstb.2018.0162. This article has 51 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1098/rstb.2018.0162)
+
+[5. (Swain2021TENT4A) Umakanta Swain, Gilgi Friedlander, Urmila Sehrawat, Avital Sarusi-Portuguez, Ron Rotkopf, Charlotte Ebert, Tamar Paz-Elizur, Rivka Dikstein, Thomas Carell, Nicholas E. Geacintov, and Zvi Livneh. Tent4a non-canonical poly(a) polymerase regulates dna-damage tolerance via multiple pathways that are mutated in endometrial cancer. International Journal of Molecular Sciences, 22(13):6957, June 2021. URL: http://dx.doi.org/10.3390/ijms22136957, doi:10.3390/ijms22136957. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms22136957)

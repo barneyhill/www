@@ -1,0 +1,50 @@
+# ZDHHC7
+
+## Overview
+ZDHHC7 is a gene that encodes the zinc finger DHHC-type palmitoyltransferase 7, a member of the zDHHC family of palmitoyltransferases. This enzyme is characterized by the presence of a DHHC (Asp-His-His-Cys) domain, which is crucial for its enzymatic activity in catalyzing the post-translational modification of proteins through S-palmitoylation. ZDHHC7 is primarily localized in the Golgi apparatus, where it plays a significant role in the palmitoylation of various proteins, influencing their localization, stability, and function. The protein is involved in critical cellular processes, including immune response modulation and neuronal signaling, by facilitating the palmitoylation of proteins such as NLRP3 and JAK1 (Yu2023NLRP3; Korycka2012Human). Its activity is implicated in several pathological conditions, including neurodegenerative diseases and cancer, highlighting its potential as a therapeutic target (Liao2024The; Wild2023CellPalmSeq:).
+
+## Structure
+The ZDHHC7 protein is characterized by the presence of a DHHC (Asp-His-His-Cys) domain, which is crucial for its enzymatic activity as a palmitoyltransferase. This domain is part of a zinc finger motif that is essential for the structural integrity of the protein, although zinc itself is not directly involved in the catalytic process (Liao2024The). The protein is a Golgi-localized enzyme, indicating its role in the palmitoylation of proteins within the Golgi apparatus (Korycka2012Human).
+
+ZDHHC7 shares a high degree of similarity with DHHC3, particularly within the DHHC domain, with 90% identity, suggesting a conserved structure and function between these homologs (Korycka2012Human). The protein also contains transmembrane domains, which are typical of zDHHC family proteins, facilitating its integration into cellular membranes (Zmuda2020Regulatory).
+
+Post-translational modifications, such as S-palmitoylation, play a significant role in the function and regulation of ZDHHC7, affecting its activity and interactions with substrate proteins (Yu2023NLRP3). The protein's structure and function are further influenced by its interaction with other proteins and its involvement in various cellular processes, including neuronal signaling and synaptic plasticity (Liao2024The).
+
+## Function
+ZDHHC7 is a palmitoyltransferase enzyme that plays a crucial role in the post-translational modification of proteins through palmitoylation, which involves the addition of palmitate to cysteine residues. This modification affects protein localization, stability, and function. ZDHHC7 is primarily active in the Golgi apparatus and other cellular membranes, where it facilitates the palmitoylation of various proteins, influencing their membrane association and signaling pathways (Korycka2012Human; Hong2021HighThroughput).
+
+In healthy human cells, ZDHHC7 is involved in the palmitoylation of the NLRP3 protein at the Cys126 site, which is essential for the activation of the NLRP3 inflammasome. This process is critical for the immune response, as it promotes the localization of NLRP3 to the trans-Golgi network and facilitates the recruitment of the adaptor protein ASC, leading to inflammasome assembly and activation (Yu2023NLRP3). ZDHHC7 also plays a role in neuronal signaling and behavior by palmitoylating proteins such as JAK1, which is important for neuronal cell signaling and survival (Liao2024The). The enzyme's activity is crucial for maintaining proper inflammatory responses and neuronal function in healthy human cells.
+
+## Clinical Significance
+ZDHHC7 is implicated in several neurological and neurodegenerative disorders due to its role in protein palmitoylation. In Alzheimer's disease (AD), ZDHHC7 is involved in the palmitoylation of amyloid precursor protein (APP), which enhances its localization to lipid rafts and increases its susceptibility to cleavage by BACE1. This process leads to the production of amyloid-beta (Aβ) and the formation of amyloid plaques, a hallmark of AD pathology (Liao2024The). Inhibiting the activity of ZDHHC7 has been suggested as a potential therapeutic strategy to prevent Aβ accumulation in AD (poblete2020role).
+
+ZDHHC7 also plays a role in the palmitoylation of the depalmitoylase gene PPT1, which is linked to infantile neuronal ceroid lipofuscinosis (NCL), a neurodegenerative disease. The palmitoylation of PPT1 by ZDHHC7 decreases its activity, potentially exacerbating disease progression (Liao2024The).
+
+Altered expression of ZDHHC7 has been observed in cancer, particularly in kidney cancer cell lines, suggesting a potential role in cancer progression (Wild2023CellPalmSeq:). However, the clinical significance of ZDHHC7 gene mutations or their direct association with specific diseases remains to be fully elucidated (Lemonidis2015The).
+
+## Interactions
+ZDHHC7 is a palmitoyltransferase enzyme that participates in various protein interactions through its role in S-palmitoylation. It interacts with the NLRP3 protein in macrophages, where it catalyzes the palmitoylation of NLRP3 at the Cys126 residue. This modification is crucial for the activation of the NLRP3 inflammasome, promoting its localization at the trans-Golgi network and facilitating the recruitment of the adaptor protein ASC, which is necessary for inflammasome assembly (Yu2023NLRP3).
+
+ZDHHC7 also interacts with the Gα protein in the Golgi compartment, a process necessary for the shuttling of Gαq between the Golgi apparatus and the plasma membrane (Korycka2012Human). It is involved in the palmitoylation of the neural cell adhesion molecule (NCAM), with its activity enhanced by fibroblast growth factor 2 (FGF2) (Korycka2012Human).
+
+In addition, ZDHHC7 is implicated in the palmitoylation-depalmitoylation cycle of STAT3, which plays a role in Th17 differentiation and inflammatory bowel disease (Hong2021HighThroughput). The enzyme's interactions and modifications are significant for various cellular processes, including immune responses and synaptic signaling.
+
+
+## References
+
+
+[1. (Hong2021HighThroughput) Jun Young Hong, Martin Ian P. Malgapo, Yinong Liu, Min Yang, Chengliang Zhu, Xiaoyu Zhang, Patricia Tolbert, Maurine E. Linder, and Hening Lin. High-throughput enzyme assay for screening inhibitors of the zdhhc3/7/20 acyltransferases. ACS Chemical Biology, 16(8):1318–1324, August 2021. URL: http://dx.doi.org/10.1021/acschembio.1c00258, doi:10.1021/acschembio.1c00258. This article has 13 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1021/acschembio.1c00258)
+
+[2. (Zmuda2020Regulatory) Filip Zmuda and Luke H. Chamberlain. Regulatory effects of post-translational modifications on zdhhc s-acyltransferases. Journal of Biological Chemistry, 295(43):14640–14652, October 2020. URL: http://dx.doi.org/10.1074/jbc.rev120.014717, doi:10.1074/jbc.rev120.014717. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.rev120.014717)
+
+[3. (Wild2023CellPalmSeq:) Angela R. Wild, Peter W. Hogg, Stephane Flibotte, Shruti Kochhar, Rocio B. Hollman, Kurt Haas, and Shernaz X. Bamji. Cellpalmseq: a curated rnaseq database of palmitoylating and de-palmitoylating enzyme expression in human cell types and laboratory cell lines. Frontiers in Physiology, January 2023. URL: http://dx.doi.org/10.3389/fphys.2023.1110550, doi:10.3389/fphys.2023.1110550. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphys.2023.1110550)
+
+4. (Yu2023NLRP3) NLRP3 Cys126 palmitoylation by ZDHHC7 Promotes Inflammasome Activation. This article has 1 citations.
+
+5. (poblete2020role) Tashana O Poblete. The role of X-linked intellectual disability-related gene, Zdhhc9, in white matter development. PhD thesis, University of British Columbia, 2020. This article has 0 citations.
+
+[6. (Korycka2012Human) Justyna Korycka, Agnieszka Łach, Elżbieta Heger, Dżamila M. Bogusławska, Marcin Wolny, Monika Toporkiewicz, Katarzyna Augoff, Jan Korzeniewski, and Aleksander F. Sikorski. Human dhhc proteins: a spotlight on the hidden player of palmitoylation. European Journal of Cell Biology, 91(2):107–117, February 2012. URL: http://dx.doi.org/10.1016/j.ejcb.2011.09.013, doi:10.1016/j.ejcb.2011.09.013. This article has 118 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ejcb.2011.09.013)
+
+[7. (Liao2024The) Dan Liao, Yutao Huang, Dan Liu, Haofuzi Zhang, Xinyu Shi, Xin Li, and Peng Luo. The role of s-palmitoylation in neurological diseases: implication for zdhhc family. Frontiers in Pharmacology, January 2024. URL: http://dx.doi.org/10.3389/fphar.2023.1342830, doi:10.3389/fphar.2023.1342830. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2023.1342830)
+
+[8. (Lemonidis2015The) Kimon Lemonidis, Martin W. Werno, Jennifer Greaves, Cinta Diez-Ardanuy, Maria C. Sanchez-Perez, Christine Salaun, David M. Thomson, and Luke H. Chamberlain. The zdhhc family of s-acyltransferases. Biochemical Society Transactions, 43(2):217–221, April 2015. URL: http://dx.doi.org/10.1042/bst20140270, doi:10.1042/bst20140270. This article has 58 citations and is from a peer-reviewed journal.](https://doi.org/10.1042/bst20140270)

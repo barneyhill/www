@@ -1,0 +1,58 @@
+# P2RY11
+
+## Overview
+The P2RY11 gene encodes the purinergic receptor P2Y11, a member of the G protein-coupled receptor (GPCR) family, which plays a pivotal role in purinergic signaling. This receptor is unique within the P2Y family due to its ability to couple with both Gq and Gs proteins, enabling it to participate in diverse signaling pathways that influence various physiological processes, including immune response, inflammation, and cell migration (Communi1997Cloning; Kennedy2017P2Y11). The P2Y11 receptor is characterized by its seven transmembrane alpha helices, typical of GPCRs, and its ability to form hetero-oligomers with other P2Y receptors, which modulates its ligand selectivity and internalization behavior (Ecke2007Heterooligomerization). The gene's expression and function have been implicated in several clinical conditions, such as cardiovascular diseases and narcolepsy, highlighting its significance in both health and disease (Degn2017Rare; Dănilă2020Modulation).
+
+## Structure
+The P2RY11 receptor is a G protein-coupled receptor (GPCR) characterized by a primary structure consisting of 374 amino acids, as initially identified from a 1125-base pair transcript (Dreisig2016A). The receptor's secondary structure includes the typical seven transmembrane alpha helices found in GPCRs, which are crucial for its function in signal transduction (Kennedy2017P2Y11). The tertiary structure involves the arrangement of these helices within the cell membrane, allowing the receptor to interact with ligands and G proteins.
+
+The P2RY11 receptor is unique among P2Y receptors due to its ability to couple with both phosphoinositide and adenylyl cyclase pathways, a feature that distinguishes it from other family members (Communi1997Cloning). It contains one potential site for N-linked glycosylation and two potential sites for phosphorylation by protein kinase C or calmodulin-dependent protein kinases, which may influence its activity and stability (Communi1997Cloning).
+
+The receptor can form hetero-oligomers with other P2Y receptors, such as P2Y1, affecting its ligand selectivity and internalization behavior (Ecke2007Heterooligomerization). This quaternary structure interaction highlights the receptor's complex regulatory mechanisms in purinergic signaling. The P2RY11 gene is also known to form a fusion transcript with the PPAN gene, resulting in a chimeric protein that includes most of the P2Y11 receptor (Dreisig2016A).
+
+## Function
+The P2RY11 gene encodes the P2Y11 receptor, a G protein-coupled receptor involved in purinergic signaling. This receptor is unique among the P2Y family because it can couple with both Gq and Gs proteins, allowing it to participate in diverse signaling pathways. In human granulocytes, P2Y11 activation by extracellular NAD+ or ATP leads to increased intracellular cAMP levels, activation of protein kinase A (PKA), and stimulation of ADP-ribosyl cyclase activity, resulting in calcium influx and enhanced chemotaxis, which are critical for immune responses (Moreschi2006Extracellular).
+
+In T lymphocytes, P2Y11 receptors play a crucial role in cell polarization and migration. They redistribute from the front to the back of polarized T cells, where they modulate mitochondrial metabolism and ATP production, essential for pseudopod formation and cell movement. This process is mediated by cAMP/PKA signaling, which helps coordinate the retraction of the uropod and the protrusion of pseudopods, facilitating efficient cell migration (Ledderose2020The).
+
+In macrophages, P2Y11 signaling is involved in regulating inflammation and cell migration. It can inhibit TNF-α secretion and promote the release of soluble TNF receptor 2, contributing to the resolution of inflammation (Klaver2021Control).
+
+## Clinical Significance
+Mutations and alterations in the P2RY11 gene have been implicated in several diseases, particularly affecting cardiovascular and immune system functions. The Ala-87-Thr polymorphism in P2RY11 is associated with an increased risk of myocardial infarction. This mutation is linked to elevated C-reactive protein (CRP) levels, indicating a pro-inflammatory effect that may contribute to cardiovascular disease risk. It also affects the receptor's response to agonists like ATP, impacting intracellular calcium and cAMP levels, which are crucial for cardiovascular health (Dănilă2020Modulation).
+
+In the context of narcolepsy with cataplexy, rare missense mutations in P2RY11 have been identified. These mutations can significantly alter intracellular cAMP and Ca2+ signaling, potentially affecting the stability and function of the P2Y11 protein in cytotoxic immune cells. This dysregulation may contribute to the development of narcolepsy by affecting CD8+ T-cell function and their interaction with hypocretin neurons (Degn2017Rare).
+
+P2RY11 deficiency in zebrafish models has been shown to result in narcolepsy-like symptoms and impaired immune responses, suggesting that similar mechanisms may be at play in humans. The deficiency leads to increased pro-inflammatory cytokines and decreased anti-inflammatory cytokines, which may exacerbate inflammatory responses and contribute to disease pathology (Zhao2024Deficiency).
+
+## Interactions
+The P2RY11 receptor, a G protein-coupled receptor, engages in various interactions with other proteins that influence its signaling pathways. It forms complexes with other P2Y receptors, such as P2Y1, which alters its pharmacological and signaling properties. This interaction affects the receptor's sensitivity to antagonists and its endocytosis behavior, as P2Y11 does not undergo agonist-induced endocytosis on its own but does so when coexpressed with P2Y1 (Kennedy2017P2Y11).
+
+P2RY11 also interacts with chemokine receptors CXCR4 and CXCR7 in human macrophages. The crosstalk between P2RY11 and CXCR7 is regulated by CXCR4, which acts as a checkpoint by controlling intracellular cyclic AMP levels crucial for CXCR7 expression and CCL20 production (Klaver2024Crosstalk). CXCR7 can act as a negative regulator of CXCR4, affecting its signaling pathways (Klaver2024Crosstalk).
+
+In T cells, P2RY11 supports the interaction of P2X4 receptors with mitochondria, which is essential for mitochondrial ATP production and pseudopod formation. This interaction is crucial for T cell activation and migration, as it regulates mitochondrial metabolism and cell polarization (Ledderose2020The).
+
+
+## References
+
+
+[1. (Communi1997Cloning) Didier Communi, Cédric Govaerts, Marc Parmentier, and Jean-Marie Boeynaems. Cloning of a human purinergic p2y receptor coupled to phospholipase c and adenylyl cyclase. Journal of Biological Chemistry, 272(51):31969–31973, December 1997. URL: http://dx.doi.org/10.1074/jbc.272.51.31969, doi:10.1074/jbc.272.51.31969. This article has 282 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.272.51.31969)
+
+[2. (Dănilă2020Modulation) Maria-Daniela Dănilă, Marie Piollet, Oana-Maria Aburel, Denis Angoulvant, Claudie Lefort, Stéphanie Chadet, Sebastien Roger, Mirela-Danina Muntean, and Fabrice Ivanes. Modulation of p2y11-related purinergic signaling in inflammation and cardio-metabolic diseases. European Journal of Pharmacology, 876:173060, June 2020. URL: http://dx.doi.org/10.1016/j.ejphar.2020.173060, doi:10.1016/j.ejphar.2020.173060. This article has 10 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.ejphar.2020.173060)
+
+[3. (Klaver2024Crosstalk) Dominik Klaver, Hubert Gander, Beatrice Frena, Marco Amato, and Martin Thurnher. Crosstalk between purinergic receptor p2y11 and chemokine receptor cxcr7 is regulated by cxcr4 in human macrophages. Cellular and Molecular Life Sciences, March 2024. URL: http://dx.doi.org/10.1007/s00018-024-05158-7, doi:10.1007/s00018-024-05158-7. This article has 1 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-024-05158-7)
+
+[4. (Ecke2007Heterooligomerization) Denise Ecke, Theodor Hanck, Mohan E. Tulapurkar, Rainer Schäfer, Matthias Kassack, Rolf Stricker, and Georg Reiser. Hetero-oligomerization of the p2y11 receptor with the p2y1 receptor controls the internalization and ligand selectivity of the p2y11 receptor. Biochemical Journal, 409(1):107–116, December 2007. URL: http://dx.doi.org/10.1042/bj20070671, doi:10.1042/bj20070671. This article has 81 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20070671)
+
+[5. (Kennedy2017P2Y11) Charles Kennedy. P2Y11 Receptors: Properties, Distribution and Functions, pages 107–122. Springer Singapore, 2017. URL: http://dx.doi.org/10.1007/5584_2017_89, doi:10.1007/5584_2017_89. This article has 32 citations.](https://doi.org/10.1007/5584_2017_89)
+
+[6. (Dreisig2016A) Karin Dreisig and Birgitte Rahbek Kornum. A critical look at the function of the p2y11 receptor. Purinergic Signalling, 12(3):427–437, May 2016. URL: http://dx.doi.org/10.1007/s11302-016-9514-7, doi:10.1007/s11302-016-9514-7. This article has 58 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11302-016-9514-7)
+
+[7. (Moreschi2006Extracellular) Iliana Moreschi, Santina Bruzzone, Robert A. Nicholas, Floriana Fruscione, Laura Sturla, Federica Benvenuto, Cesare Usai, Sabine Meis, Matthias U. Kassack, Elena Zocchi, and Antonio De Flora. Extracellular nad+is an agonist of the human p2y11purinergic receptor in human granulocytes. Journal of Biological Chemistry, 281(42):31419–31429, August 2006. URL: http://dx.doi.org/10.1074/jbc.M606625200, doi:10.1074/jbc.m606625200. This article has 172 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M606625200)
+
+[8. (Ledderose2020The) Carola Ledderose, Sophie Bromberger, Christian J. Slubowski, Koichiro Sueyoshi, Dilan Aytan, Yong Shen, and Wolfgang G. Junger. The purinergic receptor p2y11 choreographs the polarization, mitochondrial metabolism, and migration of t lymphocytes. Science Signaling, September 2020. URL: http://dx.doi.org/10.1126/scisignal.aba3300, doi:10.1126/scisignal.aba3300. This article has 36 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1126/scisignal.aba3300)
+
+[9. (Klaver2021Control) Dominik Klaver and Martin Thurnher. Control of macrophage inflammation by p2y purinergic receptors. Cells, 10(5):1098, May 2021. URL: http://dx.doi.org/10.3390/cells10051098, doi:10.3390/cells10051098. This article has 36 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells10051098)
+
+[10. (Degn2017Rare) Matilda Degn, Yves Dauvilliers, Karin Dreisig, Régis Lopez, Corinne Pfister, Sylvain Pradervand, Birgitte Rahbek Kornum, and Mehdi Tafti. Rare missense mutations in p2ry11 in narcolepsy with cataplexy. Brain, 140(6):1657–1668, April 2017. URL: http://dx.doi.org/10.1093/brain/awx093, doi:10.1093/brain/awx093. This article has 25 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/brain/awx093)
+
+[11. (Zhao2024Deficiency) Lin Zhao, Li-feng Wang, Yi-chen Wang, Ao Liu, Qian-wen Xiao, Ming-Chuan Hu, Ming-zhu Sun, Hui-yu Hao, Qian Gao, Xin Zhao, and Dong-yan Chen. Deficiency of p2ry11 causes narcolepsy and attenuates the recruitment of neutrophils and macrophages in the inflammatory response in zebrafish. Cell Biology and Toxicology, May 2024. URL: http://dx.doi.org/10.1007/s10565-024-09882-5, doi:10.1007/s10565-024-09882-5. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10565-024-09882-5)

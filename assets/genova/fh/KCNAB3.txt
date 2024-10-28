@@ -1,0 +1,42 @@
+# KCNAB3
+
+## Overview
+KCNAB3 is a gene that encodes the potassium voltage-gated channel subfamily A regulatory beta subunit 3, also known as Kvβ3. This protein is a regulatory component of voltage-gated potassium (Kv) channels, which are crucial for modulating electrical signaling in various physiological systems, including the cardiovascular and nervous systems. Kvβ3 belongs to the oxidoreductase superfamily and exhibits structural homology with aldo-keto reductases, featuring a conserved C-terminal β-barrel fold and a tightly bound nicotinamide cofactor (Raph2019Biochemical). The protein plays a significant role in influencing the gating properties of Kv channels, particularly by conferring rapid inactivation to channels that otherwise do not inactivate (Pongs2010Ancillary). This modulation is essential for maintaining proper cardiac rhythm and neuronal excitability, with mutations in KCNAB3 being linked to cardiac and neurological disorders (Ding2022Functional; Ji2023Haploinsufficiency).
+
+## Structure
+The KCNAB3 gene encodes the Kvβ3 protein, a regulatory subunit of voltage-gated potassium (Kv) channels. The primary structure of Kvβ3 consists of approximately 330 amino acids, with a conserved core sequence that shares over 80% sequence identity with other family members (Pongs2010Ancillary). The protein is part of the oxidoreductase superfamily and exhibits structural homology with aldo-keto reductases (AKR), possessing a conserved C-terminal β-barrel fold and a tightly bound nicotinamide cofactor (Raph2019Biochemical).
+
+The tertiary structure of Kvβ3 has been elucidated using X-ray crystallography, revealing a TIM barrel fold that includes a substrate binding site and a NADP+ cofactor binding pocket, characteristic of oxidoreductase enzymes (Pongs2010Ancillary). The quaternary structure involves the formation of a tetrameric assembly, similar to the tetrameric structure of Kv channel α-subunits, with a specific interaction between the Kvβ3 subunit and the tetramerization domain T1 of the Kvα-subunit (Pongs2010Ancillary).
+
+Kvβ3 can influence the gating properties of Kv channels, particularly by conferring rapid inactivation to channels that otherwise do not inactivate, through its variable NH2-terminal region (Pongs2010Ancillary). The protein's interaction with Kvα subunits can modulate the conformation of the voltage-sensing apparatus, impacting channel gating properties (Raph2019Biochemical).
+
+## Function
+The KCNAB3 gene encodes a regulatory beta subunit of the voltage-gated potassium channel, which plays a crucial role in modulating the activity of the Kv1.5 channel. This protein forms a heterodimer with the KCNA5 protein, influencing the gating properties of the channel and contributing to the proper inactivation of Kv1.5-mediated currents. This regulation is essential for maintaining the balance between depolarization and repolarization during cardiac action potentials, which is vital for normal heart rhythm and function (Ji2023Haploinsufficiency).
+
+KCNAB3 is expressed in cardiomyocytes, where it interacts with KCNA5, a protein associated with atrial fibrillation. The proper function of KCNAB3 is important for preventing disturbances in potassium channels that can lead to primary electrical diseases, a significant cause of sudden cardiac death (Ji2023Haploinsufficiency). In addition to its role in the heart, KCNAB3, like other Kvβ proteins, is involved in modulating the gating properties of Kv channels, which are crucial for regulating membrane excitability in various physiological systems, including the cardiovascular and nervous systems (Raph2019Biochemical). The protein is typically active in the cell membrane, where it influences processes such as neurotransmitter release, muscle contraction, and heart rhythm.
+
+## Clinical Significance
+Mutations in the KCNAB3 gene have been implicated in several clinical conditions, primarily affecting cardiac and neurological functions. In the context of cardiac health, a de novo mutation (c.697dupG: p.A233GfsX22) in KCNAB3 has been associated with sudden cardiac death (SCD). This mutation results in a loss-of-function effect that disrupts the regulation of the Kv1.5 channel, leading to delayed inactivation of Kv1.5-mediated currents. Such disruptions are linked to primary electrical diseases of the heart, which can precipitate SCD (Ji2023Haploinsufficiency).
+
+In the realm of neurological disorders, KCNAB3 mutations have been connected to genetic epilepsy with febrile seizures plus (GEFS+). A specific heterozygous missense mutation, H258R, was identified in a family with GEFS+. This mutation is associated with reduced potassium currents in the hippocampal CA1 region, contributing to increased neuronal excitability and convulsions. The mutation's impact on potassium channel inactivation is considered a contributing factor to the pathogenesis of GEFS+ (Ding2022Functional).
+
+These findings underscore the critical role of KCNAB3 in maintaining normal cardiac and neuronal function, with mutations leading to significant clinical consequences.
+
+## Interactions
+The KCNAB3 gene encodes a regulatory beta subunit that interacts with the alpha subunit KCNA5 to form a heterodimer, which is crucial for the regulation of the Kv1.5 channel. This interaction is essential for the rapid inactivation of Kv1.5-mediated currents. Mutations in KCNAB3, such as the de novo mutation (c.697dupG: p.A233GfsX22), result in a loss of function, leading to ineffective regulation of these currents, similar to the effect observed when KCNA5 is expressed alone. This indicates that the interaction between KCNAB3 and KCNA5 is vital for its regulatory function (Ji2023Haploinsufficiency).
+
+The KCNAB3 protein, also known as Kvβ3.1, is involved in forming a novel A-type potassium channel when coexpressed with Kv1.5. This interaction results in a channel that inactivates more rapidly than previously known A-type Kv channels. The Kvβ3.1 subunit contains an N-terminal inactivating domain, which functions as an inactivating 'ball' domain, occluding the channel pore upon depolarization and contributing to the rapid inactivation of the channel (Leicher1998Coexpression).
+
+
+## References
+
+
+[1. (Ding2022Functional) Jian Ding, Chun Wang, Guo-Qiang Huang, Jing-Wen Zhang, Qiong-Xiang Zhai, Zhi-Hong Chen, Yu-Xin Zhang, and Yu-Xiong Guo. Functional characterization of a kcnab3 genetic epilepsy with febrile seizures plus adult mouse model. Translational Pediatrics, 11(10):1615–1623, October 2022. URL: http://dx.doi.org/10.21037/tp-22-436, doi:10.21037/tp-22-436. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.21037/tp-22-436)
+
+[2. (Pongs2010Ancillary) Olaf Pongs and Jürgen R. Schwarz. Ancillary subunits associated with voltage-dependent k+channels. Physiological Reviews, 90(2):755–796, April 2010. URL: http://dx.doi.org/10.1152/physrev.00020.2009, doi:10.1152/physrev.00020.2009. This article has 312 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1152/physrev.00020.2009)
+
+[3. (Raph2019Biochemical) Sean M. Raph, Aruni Bhatnagar, and Matthew A. Nystoriak. Biochemical and physiological properties of k+ channel-associated akr6a (kvβ) proteins. Chemico-Biological Interactions, 305:21–27, May 2019. URL: http://dx.doi.org/10.1016/j.cbi.2019.03.023, doi:10.1016/j.cbi.2019.03.023. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cbi.2019.03.023)
+
+[4. (Leicher1998Coexpression) Thorsten Leicher, Robert Bähring, Dirk Isbrandt, and Olaf Pongs. Coexpression of the kcna3bgene product with kv1.5 leads to a novel a-type potassium channel. Journal of Biological Chemistry, 273(52):35095–35101, December 1998. URL: http://dx.doi.org/10.1074/jbc.273.52.35095, doi:10.1074/jbc.273.52.35095. This article has 107 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.273.52.35095)
+
+[5. (Ji2023Haploinsufficiency) He-Yu Ji, Zhao-Jing Lin, Chan Chen, Jun-Mei Xu, Rong Yu, and Lv Liu. Haploinsufficiency of kcnab3 causes sudden cardiac death through delayed inactivation of kv1.5 channel upon depolarization and induced myocardial apoptosis. Genes &amp; Diseases, 10(3):671–674, May 2023. URL: http://dx.doi.org/10.1016/j.gendis.2022.05.023, doi:10.1016/j.gendis.2022.05.023. This article has 0 citations.](https://doi.org/10.1016/j.gendis.2022.05.023)

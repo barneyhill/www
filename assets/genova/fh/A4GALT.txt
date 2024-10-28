@@ -1,0 +1,39 @@
+# A4GALT
+
+## Overview
+The A4GALT gene encodes the enzyme alpha 1,4-galactosyltransferase, a glycosyltransferase that plays a pivotal role in the biosynthesis of glycosphingolipids, particularly globosides. These glycosphingolipids are integral to cell-cell adhesion and the maintenance of epithelial cell characteristics, which are crucial for preventing the epithelial-mesenchymal transition associated with cancer progression (Jacob2018Transition). The enzyme is active in the Golgi apparatus, where it facilitates the transfer of galactose to glycolipids, influencing immune recognition and the expression of blood group antigens (Shin2023CRISPRCas9mediated). A4GALT's function is significant in the context of Fabry disease and other clinical conditions, such as the NOR polyagglutination syndrome and the p phenotype, which are linked to mutations in the gene (Suchanowska2012A; Hellberg2007Expression). The enzyme's interactions, including dimerization with other glycosyltransferases, further underscore its role in glycosylation processes and potential involvement in disease mechanisms (Mikołajczyk2024Delving).
+
+## Function
+The A4GALT gene encodes the enzyme alpha 1,4-galactosyltransferase, which is crucial for the synthesis of glycosphingolipids (GSLs), particularly globosides. These GSLs play a significant role in cell-cell adhesion, primarily mediated by E-cadherin, and are essential for maintaining epithelial characteristics in cells. In healthy human cells, A4GALT-mediated GSLs are necessary for preserving epithelial integrity and preventing the transition to a mesenchymal state, which is associated with increased cell motility and cancer progression (Jacob2018Transition).
+
+A4GALT is active in the Golgi apparatus, where it catalyzes the transfer of galactose to glycolipids, influencing cell-cell interactions and immune recognition. This activity is crucial for the expression of blood group antigens and potentially affects susceptibility to certain infections. The enzyme's role in synthesizing globotriaosylceramide (Gb-3) is also significant in the context of Fabry disease, where its suppression can mitigate endothelial dysfunction by reducing Gb-3 accumulation (Shin2023CRISPRCas9mediated).
+
+In epithelial cells, A4GALT expression is associated with contact inhibition of cell growth, a process that prevents uncontrolled cell proliferation and is often lost in cancerous cells. This suggests that A4GALT and its products are involved in maintaining normal cell growth and preventing tumorigenesis (Huang2017Functional).
+
+## Clinical Significance
+Mutations in the A4GALT gene are associated with several clinical conditions. One notable condition is the NOR polyagglutination syndrome, a rare inherited disorder caused by a single point mutation, C631G, in the A4GALT gene. This mutation results in a Q211E substitution in the enzyme Gb3/CD77 synthase, altering its specificity and leading to the synthesis of unique glycolipids that cause erythrocytes to agglutinate with most human sera, posing risks during blood transfusions (Suchanowska2012A).
+
+The A4GALT gene is also implicated in the p phenotype, characterized by a deficiency in the Pk antigen. This phenotype is associated with naturally occurring antibodies against P1, P, and Pk antigens, which can cause transfusion reactions. In Amish individuals, a novel missense mutation (299C>T) in the A4GALT gene is linked to this phenotype (Hellberg2007Expression).
+
+In cancer, alterations in A4GALT expression affect glycosphingolipids and are linked to epithelial-mesenchymal transition (EMT), impacting cell adhesion and motility. This can contribute to cancer progression and metastasis, as seen in ovarian cancer cells where A4GALT deletion leads to increased cell motility and chemoresistance (Jacob2018Transition).
+
+## Interactions
+The human α1,4-galactosyltransferase (A4GALT) enzyme is known to participate in various protein-protein interactions, particularly through dimerization. A4GALT can form both homodimers and heterodimers with other glycosyltransferases, such as β1,4-galactosyltransferase 1 (B4galt1) and B4galt5. These interactions have been studied using NanoBiT technology and structural prediction tools like AlphaFold-Multimer, which confirmed the formation of these dimers in cell lines such as CHO-Lec2 and HEK293T (Mikołajczyk2024Delving).
+
+The A4galt-B4galt5 heterodimer, in particular, was predicted with high confidence, suggesting a significant role in determining enzyme specificity. This interaction is thought to influence the substrate specificity of A4GALT, which has dual specificity towards glycosphingolipid (GSL) and glycoprotein (GP) acceptors (Mikołajczyk2024Delving). The proximity of catalytic centers in the A4galt-B4galt1 heterodimer suggests potential for substrate transfer, highlighting the functional implications of these interactions (Mikołajczyk2024Delving). These findings contribute to understanding the role of A4GALT in glycosylation processes and its potential involvement in Shiga toxin-related diseases (Mikołajczyk2024Delving).
+
+
+## References
+
+
+1. (Mikołajczyk2024Delving) Delving into human α1,4-galactosyltransferase acceptor specificity: the role of enzyme dimerization. This article has 0 citations.
+
+[2. (Jacob2018Transition) Francis Jacob, Shahidul Alam, Martina Konantz, Ching-Yeu Liang, Reto S. Kohler, Arun V. Everest-Dass, Yen-Lin Huang, Natalie Rimmer, Andre Fedier, Andreas Schötzau, Monica Nunez Lopez, Nicolle H. Packer, Claudia Lengerke, and Viola Heinzelmann-Schwarz. Transition of mesenchymal and epithelial cancer cells depends on α1-4 galactosyltransferase-mediated glycosphingolipids. Cancer Research, 78(11):2952–2965, May 2018. URL: http://dx.doi.org/10.1158/0008-5472.CAN-17-2223, doi:10.1158/0008-5472.can-17-2223. This article has 51 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.CAN-17-2223)
+
+[3. (Suchanowska2012A) Anna Suchanowska, Radoslaw Kaczmarek, Maria Duk, Jolanta Lukasiewicz, Dorota Smolarek, Edyta Majorczyk, Ewa Jaskiewicz, Anna Laskowska, Kazimiera Wasniowska, Magdalena Grodecka, Elwira Lisowska, and Marcin Czerwinski. A single point mutation in the gene encoding gb3/cd77 synthase causes a rare inherited polyagglutination syndrome. Journal of Biological Chemistry, 287(45):38220–38230, November 2012. URL: http://dx.doi.org/10.1074/jbc.m112.408286, doi:10.1074/jbc.m112.408286. This article has 41 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m112.408286)
+
+[4. (Huang2017Functional) Xiaohua Huang, Nathan Schurman, Kazuko Handa, and Senitiroh Hakomori. Functional role of glycosphingolipids in contact inhibition of growth in a human mammary epithelial cell line. FEBS Letters, 591(13):1918–1928, June 2017. URL: http://dx.doi.org/10.1002/1873-3468.12709, doi:10.1002/1873-3468.12709. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/1873-3468.12709)
+
+5. (Shin2023CRISPRCas9mediated) CRISPR/Cas9-mediated suppression of A4GALT rescues endothelial cell dysfunction in a Fabry disease vasculopathy model derived from human induced pluripotent stem cells. This article has 0 citations.
+
+[6. (Hellberg2007Expression) Åsa Hellberg, Anne‐Christine Schmidt‐Melbye, Marion E. Reid, and Martin L. Olsson. Expression of a novel missense mutation found in the a4galt gene of amish individuals with the p phenotype. Transfusion, 48(3):479–487, December 2007. URL: http://dx.doi.org/10.1111/j.1537-2995.2007.01552.x, doi:10.1111/j.1537-2995.2007.01552.x. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/j.1537-2995.2007.01552.x)

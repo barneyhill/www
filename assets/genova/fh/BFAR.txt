@@ -1,0 +1,39 @@
+# BFAR
+
+## Overview
+BFAR (Bifunctional Apoptosis Regulator) is a gene that encodes a protein involved in the regulation of apoptosis, a vital process for maintaining cellular homeostasis and organismal development. The BFAR protein is categorized as a regulatory protein with bifunctional roles in both intrinsic and extrinsic apoptotic pathways. It contains a SAM domain and a DED-like domain, which enable it to interact with key apoptotic regulators such as Bcl-2, Bcl-X(L), and DED-containing procaspases, thereby inhibiting apoptotic signaling (Qu2018Proteomics). These interactions allow BFAR to modulate the activity of caspases and other apoptotic factors, contributing to cell survival by preventing unnecessary or premature cell death. Additionally, BFAR's interaction with the p75 neurotrophin receptor (p75NTR) suggests its involvement in signal transduction pathways that influence apoptosis regulation (Li2012p75NTR). The gene's expression and regulation have significant implications in various diseases, including cancer, where its dysregulation is associated with tumor progression and metastasis (Chen2023A).
+
+## Function
+The BFAR (bifunctional apoptosis regulator) protein plays a significant role in regulating apoptosis, a critical process for maintaining cellular homeostasis and organismal development. BFAR is involved in both intrinsic and extrinsic apoptotic pathways, where it functions to inhibit apoptotic signaling. It contains a SAM domain that interacts with Bcl-2 and Bcl-X(L), suppressing Bax-induced cell death, and a DED-like domain that interacts with DED-containing procaspases, suppressing Fas-induced apoptosis (Qu2018Proteomics).
+
+In healthy human cells, BFAR is active in the cytoplasm and mitochondria, where it modulates the activity of caspases and other apoptotic factors. This modulation is crucial for cell survival, as it helps prevent unnecessary or premature cell death. BFAR's interaction with the p75 neurotrophin receptor (p75NTR) suggests a role in signal transduction pathways that influence apoptosis regulation (Li2012p75NTR). The protein's ability to suppress transcriptional activity of NFκB, AP1, SRE, and CRE reporter genes further indicates its involvement in inhibiting key signaling pathways related to cell survival and apoptosis (Li2012p75NTR).
+
+Overall, BFAR's regulatory functions in apoptosis contribute to the maintenance of cellular integrity and the prevention of diseases associated with dysregulated cell death.
+
+## Clinical Significance
+Alterations in the expression of the BFAR gene have been implicated in various cancers. In pancreatic cancer, BFAR is highly expressed, and its increased expression is associated with worse patient outcomes, suggesting it may function as an oncogene in this context (Chen2023A). Similarly, in gastric cancer, BFAR is linked to tumor metastasis through the PI3K/AKT/mTOR signaling axis (Chen2023A). In glioma, BFAR is upregulated, and lower expression levels correlate with poorer long-term survival, indicating its potential role in tumor progression (Chen2023A).
+
+In pancreatic ductal adenocarcinoma (PDAC), a circular RNA derived from the BFAR gene, known as circBFAR, is overexpressed and promotes cancer progression by acting as a molecular sponge for miR-34b-5p. This interaction prevents miR-34b-5p from downregulating MET, a tyrosine kinase involved in cancer progression, thereby enhancing PDAC cell proliferation, invasion, and migration (Guo2020Circular).
+
+In systemic mastocytosis, BFAR is upregulated in aggressive forms of the disease, contributing to impaired apoptosis and cell-cycle deregulation, which are key features of the disease's pathogenesis (Teodosio2013Gene).
+
+## Interactions
+BFAR (bifunctional apoptosis regulator) is known to interact with several proteins, playing a significant role in modulating apoptotic pathways. It directly binds with the p75 neurotrophin receptor (p75NTR), as confirmed by GST pulldown assays and co-immunoprecipitation in PC-12 cells, indicating a direct interaction in both in vitro and cellular contexts (Li2012p75NTR). This interaction is further supported by immunofluorescence co-localization studies in HeLa cells, which show that p75NTR and BFAR colocalize in the cytoplasm when co-expressed (Li2012p75NTR).
+
+BFAR also interacts with Bcl-2 and Bcl-X(L) through its SAM domain, which is essential for suppressing Bax-induced cell death in mammalian cells and yeast (Qu2018Proteomics). Additionally, BFAR contains a DED-like domain that interacts with DED-containing procaspases, thereby inhibiting Fas-induced apoptosis (Qu2018Proteomics).
+
+These interactions highlight BFAR's role in regulating apoptotic signaling pathways, positioning it at the intersection of intrinsic and extrinsic apoptosis pathways. Through these interactions, BFAR influences cell survival and death signals, underscoring its importance in apoptosis regulation.
+
+
+## References
+
+
+[1. (Chen2023A) Haofei Chen, Ning Xu, Jia Xu, Cheng Zhang, Xin Li, Hao Xu, Weixiong Zhu, Jinze Li, Daoming Liang, and Wence Zhou. A risk signature based on endoplasmic reticulum stress-associated genes predicts prognosis and immunity in pancreatic cancer. Frontiers in Molecular Biosciences, November 2023. URL: http://dx.doi.org/10.3389/fmolb.2023.1298077, doi:10.3389/fmolb.2023.1298077. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmolb.2023.1298077)
+
+[2. (Li2012p75NTR) HongMei Li, HuiLi Shi, and KeKe Huo. P75ntr signal transduction suppressed by bfar and p75ntr interactions. Science China Life Sciences, 55(4):367–374, April 2012. URL: http://dx.doi.org/10.1007/s11427-012-4306-y, doi:10.1007/s11427-012-4306-y. This article has 6 citations.](https://doi.org/10.1007/s11427-012-4306-y)
+
+[3. (Guo2020Circular) Xiaofeng Guo, Quanbo Zhou, Dan Su, Yuming Luo, Zhiqiang Fu, Leyi Huang, Zhiguo Li, Decan Jiang, Yao Kong, Zhihua Li, Rufu Chen, and Changhao Chen. Circular rna circbfar promotes the progression of pancreatic ductal adenocarcinoma via the mir-34b-5p/met/akt axis. Molecular Cancer, May 2020. URL: http://dx.doi.org/10.1186/s12943-020-01196-4, doi:10.1186/s12943-020-01196-4. This article has 89 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s12943-020-01196-4)
+
+[4. (Qu2018Proteomics) Hengxian Qu, Hongbo Yu, Ruixia Gu, Dawei Chen, Xia Chen, Yingping Huang, Wenbo Xi, and Yujun Huang. Proteomics for studying the effects ofl. rhamnosuslv108 against non-alcoholic fatty liver disease in rats. RSC Advances, 8(67):38517–38528, 2018. URL: http://dx.doi.org/10.1039/c8ra06771f, doi:10.1039/c8ra06771f. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1039/c8ra06771f)
+
+[5. (Teodosio2013Gene) Cristina Teodosio, Andrés C. García-Montero, María Jara-Acevedo, Laura Sánchez-Muñoz, Carlos E. Pedreira, Ivan Álvarez-Twose, Sergio Matarraz, José M. Morgado, Paloma Bárcena, Almudena Matito, Andrea Mayado, Maria Luz Sanchez, María Diez-Campelo, Luis Escribano, and Alberto Orfao. Gene expression profile of highly purified bone marrow mast cells in systemic mastocytosis. Journal of Allergy and Clinical Immunology, 131(4):1213-1224.e4, April 2013. URL: http://dx.doi.org/10.1016/j.jaci.2012.12.674, doi:10.1016/j.jaci.2012.12.674. This article has 28 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.jaci.2012.12.674)

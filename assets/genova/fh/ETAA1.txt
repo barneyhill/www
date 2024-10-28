@@ -1,0 +1,44 @@
+# ETAA1
+
+## Overview
+ETAA1, or Ewing's tumor-associated antigen 1, is a gene that encodes the ETAA1 activator of ATR kinase, a protein integral to the DNA damage response and genomic stability. The ETAA1 protein is characterized by its role as an activator of the ATR kinase, a critical component in the cellular response to replication stress and DNA damage. It contains ATR-activating domains (AADs) and RPA-binding domains (RBDs), which facilitate its recruitment to sites of DNA damage and its interaction with replication protein A (RPA)-coated single-stranded DNA (ssDNA). This interaction is essential for ATR activation, which in turn phosphorylates checkpoint kinase 1 (CHK1), a key player in the DNA damage checkpoint pathway. Beyond its role in DNA repair, ETAA1 is also involved in mitotic processes, regulating Aurora B kinase activity to ensure proper chromosome alignment and spindle assembly checkpoint function. The gene's involvement in maintaining genomic stability underscores its clinical significance, particularly in cancer development, where alterations in ETAA1 expression or function can lead to increased genomic instability and cancer susceptibility (Lee2016RPABinding; Lyu2019RPAcoated; Bass2019Quantitative).
+
+## Structure
+ETAA1 is a protein involved in the DNA damage response, particularly in activating ATR kinase. The protein contains several important domains, including ATR-activating domains (AADs) and RPA-binding domains (RBDs). The AADs are crucial for ATR activation and are located in the N-terminal region of ETAA1, specifically between residues 77-238. A conserved tryptophan residue within this domain, W107, is essential for ATR activation (Lee2016RPABinding). The RPA-binding domains, RBD1 and RBD2, are located in the C-terminal half of the protein and are responsible for binding to RPA1 and RPA2, respectively. These domains are critical for ETAA1's recruitment to sites of DNA damage and its function in response to replication stress (Lee2016RPABinding).
+
+ETAA1 is predicted to be intrinsically disordered, lacking significant folded domains, which may contribute to its ability to form oligomeric complexes necessary for ATR activation (Thada2021ATR). The protein undergoes post-translational modifications, such as phosphorylation at conserved sites S95 and S111, which enhance its ATR-activating potential (Achuthankutty2019Regulation). Splice variant isoforms of ETAA1 can result from changes in splicing, such as those influenced by the RBMX gene, leading to shorter protein forms lacking functional domains (Luzzi2020RBMX).
+
+## Function
+ETAA1 (ETAA1 activator of ATR kinase) is a crucial protein involved in the DNA damage response, particularly in activating the ATR kinase, which is essential for maintaining genomic stability. ETAA1 functions by binding to RPA-coated single-stranded DNA (ssDNA) at sites of DNA damage, facilitating ATR activation. This interaction is critical for the DNA replication stress response, as it helps stabilize replication forks and promote DNA repair (Lee2016RPABinding; Lyu2019RPAcoated).
+
+ETAA1 contains a conserved ATR-activating domain (AAD) and RPA-binding domains, which are essential for its recruitment to stalled replication forks and subsequent ATR activation. This activation is vital for the phosphorylation of checkpoint kinase 1 (CHK1), a key player in the DNA damage checkpoint pathway, ensuring proper cell cycle progression and preventing genomic instability (Lee2016RPABinding; Lyu2019RPAcoated).
+
+In addition to its role in replication stress, ETAA1 is also involved in mitotic processes. It regulates the activity of Aurora B kinase, ensuring proper chromosome alignment and spindle assembly checkpoint function during mitosis. This regulation is crucial for maintaining genome stability during cell division (Bass2019Quantitative).
+
+## Clinical Significance
+ETAA1 has been implicated in cancer development due to its role in maintaining genomic stability. Alterations in ETAA1 expression or mutations can disrupt its function in the DNA damage response, potentially leading to increased genomic instability and cancer susceptibility. Genome-wide association studies have linked the ETAA1 locus to pancreatic cancer susceptibility, suggesting that deregulation of ETAA1 may contribute to the development of this cancer type (Lee2016RPABinding). ETAA1 was also initially identified in Ewing's family of tumors, where it may act as a tumor-specific antigen, indicating its potential involvement in tumorigenesis (Lee2016RPABinding).
+
+Disruptions in ETAA1 function, such as mutations affecting its ability to activate ATR, can lead to increased sensitivity to DNA replication stress and DNA-damaging agents. This sensitivity is due to ETAA1's crucial role in ATR signaling, which is necessary for stabilizing stalled replication forks and ensuring proper cell cycle progression (Lee2016RPABinding; Thada2021ATR). The loss of ETAA1 function can result in increased genome instability, as evidenced by the formation of micronuclei in ETAA1-deficient cells (Thada2021ATR). These findings suggest that ETAA1 mutations or expression alterations may contribute to cancer pathogenesis by compromising the DNA damage response.
+
+## Interactions
+ETAA1 interacts with several proteins and nucleic acids, playing a crucial role in the DNA damage response and mitotic regulation. It is recruited to sites of DNA damage through its interaction with Replication Protein A (RPA), which binds to single-stranded DNA (ssDNA) at stalled replication forks. ETAA1 contains two RPA-binding domains that are essential for its localization and function in response to replication stress (Lee2016RPABinding; Lyu2019RPAcoated). 
+
+ETAA1 also interacts with the ATR-ATRIP complex, promoting ATR activation. This interaction is facilitated by ETAA1's ATR-activating domain (AAD), which is crucial for ATR signaling and is regulated by phosphorylation (Achuthankutty2019Regulation; Lyu2019RPAcoated). 
+
+In mitosis, ETAA1 interacts with several mitotic proteins, including those localized to the kinetochore and spindle, such as BUB1, SGO2, KNL1, and NDC80. These interactions are important for regulating Aurora B kinase activity and ensuring proper chromosome alignment and separation (Bass2019Quantitative). ETAA1's role in mitotic ATR signaling is distinct from that of TOPBP1, another ATR activator, highlighting its specific function during cell division (Bass2019Quantitative).
+
+
+## References
+
+
+[1. (Lyu2019RPAcoated) Ke Lyu, Akiko Kumagai, and William G. Dunphy. Rpa-coated single-stranded dna promotes the etaa1-dependent activation of atr. Cell Cycle, 18(8):898–913, April 2019. URL: http://dx.doi.org/10.1080/15384101.2019.1598728, doi:10.1080/15384101.2019.1598728. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/15384101.2019.1598728)
+
+[2. (Achuthankutty2019Regulation) Divya Achuthankutty, Roshan Singh Thakur, Peter Haahr, Saskia Hoffmann, Alexandros P. Drainas, Anna H. Bizard, Joachim Weischenfeldt, Ian D. Hickson, and Niels Mailand. Regulation of etaa1-mediated atr activation couples dna replication fidelity and genome stability. Journal of Cell Biology, 218(12):3943–3953, October 2019. URL: http://dx.doi.org/10.1083/jcb.201905064, doi:10.1083/jcb.201905064. This article has 13 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201905064)
+
+[3. (Bass2019Quantitative) Thomas E. Bass and David Cortez. Quantitative phosphoproteomics reveals mitotic function of the atr activator etaa1. Journal of Cell Biology, 218(4):1235–1249, February 2019. URL: http://dx.doi.org/10.1083/jcb.201810058, doi:10.1083/jcb.201810058. This article has 51 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201810058)
+
+[4. (Lee2016RPABinding) Yuan-Cho Lee, Qing Zhou, Junjie Chen, and Jingsong Yuan. Rpa-binding protein etaa1 is an atr activator involved in dna replication stress response. Current Biology, 26(24):3257–3268, December 2016. URL: http://dx.doi.org/10.1016/j.cub.2016.10.030, doi:10.1016/j.cub.2016.10.030. This article has 112 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cub.2016.10.030)
+
+[5. (Thada2021ATR) Vaughn Thada and David Cortez. Atr activation is regulated by dimerization of atr activating proteins. Journal of Biological Chemistry, 296:100455, January 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.100455, doi:10.1016/j.jbc.2021.100455. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.100455)
+
+6. (Luzzi2020RBMX) RBMX enables productive RNA processing of ultra-long exons important for genome stability. This article has 1 citations.

@@ -1,0 +1,29 @@
+# SPRYD3
+
+## Overview
+SPRYD3 is a gene that encodes the protein SPRY domain containing 3, which is characterized by the presence of a SPRY domain known for facilitating protein-protein interactions. This protein is implicated in various cellular processes, including the regulation of ubiquitination and potential roles in cancer-related pathways. The SPRY domain containing 3 protein interacts with the deubiquitinating enzyme USP11, suggesting a regulatory mechanism that may influence its function in cellular contexts (Stockum2018USP11). Additionally, SPRYD3 is a target of microRNA interactions, which may further modulate its role in cellular signaling and cancer progression (Guo2022MicroRNA). The gene's expression is notably altered in certain cancers, such as head and neck squamous cell carcinoma and ovarian granulosa cell tumors, where it may serve as a prognostic marker (He2022Application; Caburet2015Combined). Despite its recognized interactions and clinical implications, the precise biological functions of SPRYD3 remain to be fully elucidated, warranting further research into its role in health and disease.
+
+## Function
+
+
+## Clinical Significance
+SPRYD3 has been implicated in various cancers due to alterations in its expression levels. In head and neck squamous cell carcinoma (HNSCC), SPRYD3 is significantly overexpressed in oral squamous cell carcinoma (OSCC) tissues compared to adjacent non-cancerous tissues. This overexpression is associated with a poor prognosis, suggesting that SPRYD3 could serve as a potential marker for adverse outcomes in these patients (He2022Application). The gene was identified as a key component in a tumor-specific module through weighted gene co-expression network analysis, and its high expression correlates with shorter overall survival in HNSCC patients (He2022Application).
+
+In ovarian granulosa cell tumors (OGCTs), SPRYD3 is part of a dense sub-network of amplified genes, indicating its potential role in the functional interplay between genomic alterations in these tumors (Caburet2015Combined). Although its specific function in cancer progression is not well understood, the presence of the SPRY domain in SPRYD3 suggests involvement in pathways such as cytokine signaling suppression and cell growth (He2022Application). Further research is needed to fully elucidate the clinical significance of SPRYD3 in cancer and other diseases.
+
+## Interactions
+SPRYD3 is known to interact with several proteins, primarily through its SPRY domain, which is crucial for mediating protein-protein interactions. One significant interaction is with USP11, a deubiquitinating enzyme. USP11 can bind to SPRYD3 either directly or indirectly, and it has been shown to deubiquitinate SPRYD3, suggesting a regulatory role in modulating SPRYD3's ubiquitination status and potentially its function in cellular processes (Stockum2018USP11). Despite these interactions, no changes in endogenous SPRYD3 protein levels were observed upon USP11 overexpression or knock-down, indicating that the interaction may not affect SPRYD3 stability under these conditions (Stockum2018USP11).
+
+SPRYD3 is also identified as a target of the edited microRNA hsa-mir-10b_26c, with significant PAR-CLIP reads indicating interaction at complementary sites. This suggests a potential role in cancer-related functions, as the gene ontology analysis for these targets highlighted significant terms such as 'protein binding' and 'regulation of dendritic spine development' (Guo2022MicroRNA). These interactions underscore SPRYD3's involvement in complex regulatory networks, although the specific biological outcomes of these interactions require further investigation.
+
+
+## References
+
+
+[1. (Stockum2018USP11) Anna Stockum, Ambrosius P. Snijders, and Goedele N. Maertens. Usp11 deubiquitinates rae1 and plays a key role in bipolar spindle formation. PLOS ONE, 13(1):e0190513, January 2018. URL: http://dx.doi.org/10.1371/journal.pone.0190513, doi:10.1371/journal.pone.0190513. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0190513)
+
+2. (He2022Application) Application of weighted gene co-expression network analysis to explore potential prognostic markers of head and neck squamous cell carcinoma. This article has 0 citations.
+
+[3. (Caburet2015Combined) Sandrine Caburet, Mikko Anttonen, Anne-Laure Todeschini, Leila Unkila-Kallio, Denis Mestivier, Ralf Butzow, and Reiner A Veitia. Combined comparative genomic hybridization and transcriptomic analyses of ovarian granulosa cell tumors point to novel candidate driver genes. BMC Cancer, April 2015. URL: http://dx.doi.org/10.1186/s12885-015-1283-0, doi:10.1186/s12885-015-1283-0. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-015-1283-0)
+
+[4. (Guo2022MicroRNA) Shiyong Guo, Jun Yang, Bingbing Jiang, Nan Zhou, Hao Ding, Guangchen Zhou, Shuai Wu, Angbaji Suo, Xingwang Wu, Wenping Xie, Wanran Li, Yulong Liu, Wei Deng, and Yun Zheng. Microrna editing patterns in huntington’s disease. Scientific Reports, February 2022. URL: http://dx.doi.org/10.1038/s41598-022-06970-6, doi:10.1038/s41598-022-06970-6. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-022-06970-6)

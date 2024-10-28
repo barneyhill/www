@@ -1,0 +1,58 @@
+# LANCL2
+
+## Overview
+LANCL2 is a gene that encodes the LanC-like protein 2, a peripheral membrane protein involved in various cellular processes, including immune response modulation, glucose homeostasis, and energy metabolism. The protein is characterized by its association with the plasma membrane, facilitated by N-terminal myristoylation, and its role as a receptor for abscisic acid (ABA) in mammals. Unlike typical transmembrane receptors, LANCL2 interacts with G proteins, specifically the Gi protein, to activate signaling pathways such as adenylate cyclase and Akt phosphorylation, which are crucial for cell survival and stress response (Fresia2016Gprotein; Sturla2009LANCL2; Zeng2014Lanthionine). The protein's ability to translocate to the nucleus upon ABA binding suggests a role in transcriptional regulation, highlighting its multifunctionality in cellular signaling (Fresia2016Gprotein). LANCL2's clinical significance is underscored by its involvement in diseases such as lung adenocarcinoma, glioblastoma, and inflammatory bowel disease, making it a potential therapeutic target (Lou2021Akt; Zhao2021Identification; Leber2018Activation).
+
+## Structure
+The LANCL2 protein, encoded by the LANCL2 gene, consists of 450 amino acids, forming its primary structure (Mayer2001Molecular). The secondary structure of LANCL2 includes two layers of α-helical barrels, each formed by seven parallel helices, which is a characteristic feature of the LANCL protein family (Lu2010Molecular). The tertiary structure of LANCL2 has been modeled using the crystal structure of its homolog LANCL1, revealing a high sequence identity and similarity, which supports the structural modeling (Lu2010Molecular). 
+
+LANCL2 is primarily associated with the plasma membrane, facilitated by an N-terminal myristoylation site and a polybasic stretch, which are crucial for its membrane interaction (Landlinger2006Myristoylation; Lu2010Molecular). This myristoylation is essential for its role in increasing cellular sensitivity to certain drugs (Landlinger2006Myristoylation). The protein also contains a phosphatidylinositol phosphate-binding site, contributing to its membrane association (Landlinger2006Myristoylation).
+
+LANCL2 has been shown to have multiple binding sites for ligands such as abscisic acid (ABA), with specific residues involved in these interactions, indicating potential allosteric sites and signaling networks (Lu2010Molecular; Cichero2018Identification). The presence of conserved motifs and specific domains suggests a complex structure-function relationship within the protein (Cichero2018Identification).
+
+## Function
+LANCL2 is a peripheral membrane protein involved in several cellular processes, including immune response modulation, glucose homeostasis, and energy metabolism. It plays a crucial role in abscisic acid (ABA) signaling, necessary for the ABA-induced increase in intracellular calcium ([Ca2+]i) and cyclic AMP ([cAMP]i) levels in human granulocytes and rat insulinoma cells. This signaling is essential for cell migration, reactive oxygen species production, and phagocytosis in granulocytes, as well as insulin release in insulinoma cells (Sturla2009LANCL2).
+
+LANCL2 is associated with the plasma membrane through N-terminal myristoylation, which is crucial for its interaction with G proteins. It couples with the Gi protein, activating adenylate cyclase and increasing cAMP production, which is a typical feature of G protein-coupled receptors (Fresia2016Gprotein; Sturla2009LANCL2). LANCL2 also interacts directly with Akt, enhancing its phosphorylation by mTORC2, which is vital for cell survival and stress response (Zeng2014Lanthionine).
+
+The protein's ability to translocate to the nucleus upon ABA binding suggests a role in transcriptional regulation, highlighting its multifunctionality in cellular signaling and stress responses (Fresia2016Gprotein).
+
+## Clinical Significance
+LANCL2 has been implicated in several diseases due to alterations in its expression or function. In lung adenocarcinoma (LUAD), particularly in cases with EGFR mutations, LANCL2 is associated with tumorigenesis and resistance to EGFR tyrosine kinase inhibitors (TKIs). High LANCL2 expression correlates with poor survival outcomes, and its knockdown reduces cell proliferation and increases apoptosis, suggesting its role in promoting tumor growth and drug resistance (Lou2021Akt).
+
+In glioblastoma (GBM), LANCL2 amplification is linked to poor overall survival, especially in younger patients. Although mRNA overexpression of LANCL2 is common, it is the amplification that significantly impacts prognosis. This suggests that LANCL2 could serve as a prognostic biomarker in GBM (Zhao2021Identification).
+
+LANCL2 also plays a role in inflammatory bowel disease (IBD). Activation of LANCL2 by the compound BT-11 supports regulatory T cell stability, which is crucial for reducing gut inflammation. This highlights LANCL2's potential as a therapeutic target in IBD treatment (Leber2018Activation).
+
+Overall, LANCL2's involvement in these conditions underscores its clinical significance and potential as a therapeutic target.
+
+## Interactions
+LANCL2 interacts with several proteins and plays a significant role in various cellular signaling pathways. It directly interacts with Akt, a key protein in cell survival signaling, enhancing Akt phosphorylation by mTORC2, particularly at the Ser-473 site. This interaction is crucial for promoting cell survival and is not mediated by other proteins, indicating a direct binding preference for inactive Akt (Zeng2014Lanthionine).
+
+LANCL2 also functions as a receptor for abscisic acid (ABA) in mammals, interacting with the α subunit of a G_i protein. This interaction leads to the activation of adenylate cyclase and subsequent signaling events, such as increased intracellular calcium levels. The interaction with G_i proteins is unique as LANCL2 is not a transmembrane protein, yet it can be removed from the plasma membrane without detergents and undergoes nuclear translocation upon demyristoylation (Fresia2016Gprotein; Sturla2009LANCL2).
+
+Additionally, LANCL2's interaction with mTORC2 facilitates the phosphorylation of other proteins like SGK1, although the interaction with SGK1 could not be reliably assessed due to detection difficulties (Zeng2014Lanthionine). These interactions highlight LANCL2's role in both metabolic and stress response pathways.
+
+
+## References
+
+
+[1. (Sturla2009LANCL2) Laura Sturla, Chiara Fresia, Lucrezia Guida, Santina Bruzzone, Sonia Scarfì, Cesare Usai, Floriana Fruscione, Mirko Magnone, Enrico Millo, Giovanna Basile, Alessia Grozio, Emanuela Jacchetti, Marcello Allegretti, Antonio De Flora, and Elena Zocchi. Lancl2 is necessary for abscisic acid binding and signaling in human granulocytes and in rat insulinoma cells. Journal of Biological Chemistry, 284(41):28045–28057, October 2009. URL: http://dx.doi.org/10.1074/jbc.m109.035329, doi:10.1074/jbc.m109.035329. This article has 107 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m109.035329)
+
+[2. (Zeng2014Lanthionine) Min Zeng, Wilfred A. van der Donk, and Jie Chen. Lanthionine synthetase c–like protein 2 (lancl2) is a novel regulator of akt. Molecular Biology of the Cell, 25(24):3954–3961, December 2014. URL: http://dx.doi.org/10.1091/mbc.e14-01-0004, doi:10.1091/mbc.e14-01-0004. This article has 45 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e14-01-0004)
+
+[3. (Lu2010Molecular) Pinyi Lu, David R. Bevan, Stephanie N. Lewis, Raquel Hontecillas, and Josep Bassaganya-Riera. Molecular modeling of lanthionine synthetase component c-like protein 2: a potential target for the discovery of novel type 2 diabetes prophylactics and therapeutics. Journal of Molecular Modeling, 17(3):543–553, May 2010. URL: http://dx.doi.org/10.1007/s00894-010-0748-y, doi:10.1007/s00894-010-0748-y. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00894-010-0748-y)
+
+[4. (Cichero2018Identification) Elena Cichero, Chiara Fresia, Lucrezia Guida, Valeria Booz, Enrico Millo, Claudia Scotti, Luisa Iamele, Hugo de Jonge, Denise Galante, Antonio De Flora, Laura Sturla, Tiziana Vigliarolo, Elena Zocchi, and Paola Fossa. Identification of a high affinity binding site for abscisic acid on human lanthionine synthetase component c-like protein 2. The International Journal of Biochemistry &amp; Cell Biology, 97:52–61, April 2018. URL: http://dx.doi.org/10.1016/j.biocel.2018.02.003, doi:10.1016/j.biocel.2018.02.003. This article has 15 citations.](https://doi.org/10.1016/j.biocel.2018.02.003)
+
+[5. (Leber2018Activation) Andrew Leber, Raquel Hontecillas, Victoria Zoccoli-Rodriguez, and Josep Bassaganya-Riera. Activation of lancl2 by bt-11 ameliorates ibd by supporting regulatory t cell stability through immunometabolic mechanisms. Inflammatory Bowel Diseases, 24(9):1978–1991, April 2018. URL: http://dx.doi.org/10.1093/ibd/izy167, doi:10.1093/ibd/izy167. This article has 17 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/ibd/izy167)
+
+[6. (Fresia2016Gprotein) Chiara Fresia, Tiziana Vigliarolo, Lucrezia Guida, Valeria Booz, Santina Bruzzone, Laura Sturla, Melody Di Bona, Mattia Pesce, Cesare Usai, Antonio De Flora, and Elena Zocchi. G-protein coupling and nuclear translocation of the human abscisic acid receptor lancl2. Scientific Reports, May 2016. URL: http://dx.doi.org/10.1038/srep26658, doi:10.1038/srep26658. This article has 39 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep26658)
+
+[7. (Mayer2001Molecular) Herbert Mayer, Martina Pongratz, and Rainer Prohaska. Molecular cloning, characterization, and tissue-specific expression of human lancl2, a novel member of the lanc-like protein family. DNA Sequence, 12(3):161–166, January 2001. URL: http://dx.doi.org/10.3109/10425170109080770, doi:10.3109/10425170109080770. This article has 18 citations.](https://doi.org/10.3109/10425170109080770)
+
+[8. (Zhao2021Identification) Hua-fu Zhao, Xiu-ming Zhou, Jing Wang, Fan-fan Chen, Chang-peng Wu, Peng-yu Diao, Lin-rong Cai, Lei Chen, Yan-wen Xu, Jing Liu, Zong-yang Li, Wen-lan Liu, Zhong-ping Chen, Guo-dong Huang, and Wei-ping Li. Identification of prognostic values defined by copy number variation, mrna and protein expression of lancl2 and egfr in glioblastoma patients. Journal of Translational Medicine, August 2021. URL: http://dx.doi.org/10.1186/s12967-021-02979-z, doi:10.1186/s12967-021-02979-z. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-021-02979-z)
+
+[9. (Landlinger2006Myristoylation) Christine Landlinger, Ulrich Salzer, and Rainer Prohaska. Myristoylation of human lanc-like protein 2 (lancl2) is essential for the interaction with the plasma membrane and the increase in cellular sensitivity to adriamycin. Biochimica et Biophysica Acta (BBA) - Biomembranes, 1758(11):1759–1767, November 2006. URL: http://dx.doi.org/10.1016/j.bbamem.2006.07.018, doi:10.1016/j.bbamem.2006.07.018. This article has 39 citations.](https://doi.org/10.1016/j.bbamem.2006.07.018)
+
+[10. (Lou2021Akt) Yuqing Lou, Jianlin Xu, Yanwei Zhang, Wei Zhang, Xueyan Zhang, Ping Gu, Hua Zhong, Huimin Wang, Jun Lu, and Baohui Han. Akt kinase lancl2 functions as a key driver in egfr-mutant lung adenocarcinoma tumorigenesis. Cell Death &amp; Disease, February 2021. URL: http://dx.doi.org/10.1038/s41419-021-03439-8, doi:10.1038/s41419-021-03439-8. This article has 12 citations.](https://doi.org/10.1038/s41419-021-03439-8)

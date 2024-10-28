@@ -1,0 +1,35 @@
+# PAN2
+
+## Overview
+The PAN2 gene encodes the poly(A) specific ribonuclease subunit PAN2, a critical component of the PAN2-PAN3 deadenylase complex involved in mRNA decay. This protein functions as a 3'-to-5' exonuclease, playing a pivotal role in the initial stages of mRNA deadenylation by shortening the poly(A) tail, which is essential for regulating mRNA stability and gene expression (Wahle2013RNA; Schäfer2019Molecular). Structurally, PAN2 is characterized by several domains, including a WD40 repeat domain, an inactive ubiquitin C-terminal hydrolase domain, and a DEDD/RNase D family exonuclease domain, which collectively facilitate its interaction with PAN3 and its function in mRNA metabolism (Wolf2014Structural; Wolf2014mRNA). The PAN2-PAN3 complex operates primarily in the cytoplasm, where it collaborates with poly(A)-binding proteins to regulate mRNA turnover, thereby maintaining cellular homeostasis and influencing physiological processes (Wahle2013RNA; Schäfer2019Molecular).
+
+## Structure
+The PAN2 protein is a component of the PAN2-PAN3 deadenylase complex, which plays a crucial role in mRNA decay by shortening poly(A) tails. Structurally, PAN2 contains several distinct domains, including a WD40 repeat domain at its N-terminus, an inactive ubiquitin C-terminal hydrolase (UCH) domain, and a DEDD/RNase D family exonuclease domain at its C-terminus (Wolf2014mRNA). The WD40 domain is involved in protein-protein interactions and is essential for recognizing long poly(A) RNPs, distinguishing between long and short poly(A) tails (Schäfer2019Molecular). The UCH domain, although predicted to be inactive due to the absence of active-site residues, is part of the structural framework of PAN2 (Wolf2014mRNA).
+
+PAN2 interacts with Pan3 through a specific linker region known as the Pan3 interacting domain (PID), which is crucial for the formation of the Pan2-Pan3 complex (Wolf2014Structural). This interaction is essential for the complex's function in mRNA deadenylation, as Pan3 facilitates RNA binding, which PAN2 alone cannot achieve efficiently (Wolf2014Structural). The complex forms a heterotrimer with a stoichiometry of one PAN2 and two PAN3 molecules (Wolf2014Structural).
+
+## Function
+The PAN2 gene encodes a subunit of the PAN2-PAN3 deadenylase complex, which is crucial for mRNA turnover in human cells. This complex is involved in the deadenylation process, where the poly(A) tail of mRNA molecules is shortened, a key step in mRNA decay and regulation of gene expression (Wahle2013RNA; Schäfer2019Molecular). PAN2 provides the catalytic activity necessary for this process, functioning as a 3'-to-5' exonuclease that trims the poly(A) tail, thereby influencing mRNA stability and translational efficiency (Wolf2014Structural; Schäfer2019Molecular).
+
+The PAN2-PAN3 complex operates primarily in the cytoplasm, where it initiates the deadenylation of mRNA, often acting as the first step in mRNA degradation before further shortening by the Ccr4-Not complex (Wahle2013RNA; Schäfer2019Molecular). This activity is essential for maintaining cellular homeostasis and regulating physiological processes by controlling mRNA abundance and turnover (Wahle2013RNA). The complex's function is enhanced by interactions with poly(A)-binding proteins, which help recruit the complex to its mRNA substrates (Wolf2014Structural). Through these mechanisms, PAN2 plays a vital role in gene expression regulation and mRNA metabolism.
+
+## Interactions
+The PAN2 protein is a component of the PAN2-PAN3 deadenylase complex, which plays a crucial role in mRNA deadenylation. PAN2 interacts with PAN3, forming a heterotrimeric complex consisting of one PAN2 and two PAN3 molecules. This interaction is mediated by a specific linker region in PAN2, known as the 'Pan3 interaction domain' (PID), which binds to a homodimer of PAN3, forming an extensive interface that includes intermolecular beta-sheets and aromatic residue insertions (Wolf2014Structural).
+
+PAN2 does not bind RNA directly and relies on PAN3 for efficient deadenylation. PAN3 binds RNA through its zinc finger and pseudokinase/C-terminal domains, which are crucial for recruiting PAN2 to the poly(A) tail (Wolf2014Structural). The PAN2-PAN3 complex interacts with poly(A) RNA and poly(A) binding proteins (Pab1), with the WD40 domain of PAN2 playing a key role in recognizing the length of the poly(A) tail by interacting with Pab1 oligomerization interfaces (Schäfer2019Molecular).
+
+The interaction between PAN2 and PAN3 is essential for the stimulation of the deadenylating activity of the PAN nuclease by the poly(A)-binding protein (PABP), which connects PAN2 to PABP through PAN3 (Uchida2004Identification).
+
+
+## References
+
+
+[1. (Wolf2014mRNA) Jana Wolf and Lori A. Passmore. Mrna deadenylation by pan2–pan3. Biochemical Society Transactions, 42(1):184–187, January 2014. URL: http://dx.doi.org/10.1042/bst20130211, doi:10.1042/bst20130211. This article has 57 citations and is from a peer-reviewed journal.](https://doi.org/10.1042/bst20130211)
+
+[2. (Wolf2014Structural) Jana Wolf, Eugene Valkov, Mark D Allen, Birthe Meineke, Yuliya Gordiyenko, Stephen H McLaughlin, Tayla M Olsen, Carol V Robinson, Mark Bycroft, Murray Stewart, and Lori A Passmore. Structural basis for <scp>p</scp>an3 binding to <scp>p</scp>an2 and its function in <scp>mrna</scp> recruitment and deadenylation. The EMBO Journal, 33(14):1514–1526, May 2014. URL: http://dx.doi.org/10.15252/embj.201488373, doi:10.15252/embj.201488373. This article has 51 citations.](https://doi.org/10.15252/embj.201488373)
+
+[3. (Wahle2013RNA) Elmar Wahle and G. Sebastiaan Winkler. Rna decay machines: deadenylation by the ccr4–not and pan2–pan3 complexes. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1829(6–7):561–570, June 2013. URL: http://dx.doi.org/10.1016/j.bbagrm.2013.01.003, doi:10.1016/j.bbagrm.2013.01.003. This article has 197 citations.](https://doi.org/10.1016/j.bbagrm.2013.01.003)
+
+[4. (Uchida2004Identification) Naoyuki Uchida, Shin-ichi Hoshino, and Toshiaki Katada. Identification of a human cytoplasmic poly(a) nuclease complex stimulated by poly(a)-binding protein. Journal of Biological Chemistry, 279(2):1383–1391, January 2004. URL: http://dx.doi.org/10.1074/jbc.m309125200, doi:10.1074/jbc.m309125200. This article has 104 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m309125200)
+
+[5. (Schäfer2019Molecular) Ingmar B. Schäfer, Masami Yamashita, Jan Michael Schuller, Steffen Schüssler, Peter Reichelt, Mike Strauss, and Elena Conti. Molecular basis for poly(a) rnp architecture and recognition by the pan2-pan3 deadenylase. Cell, 177(6):1619-1631.e21, May 2019. URL: http://dx.doi.org/10.1016/j.cell.2019.04.013, doi:10.1016/j.cell.2019.04.013. This article has 79 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2019.04.013)

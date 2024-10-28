@@ -1,0 +1,48 @@
+# HROB
+
+## Overview
+The HROB gene encodes the protein homologous recombination factor with OB-fold, also known as MCM8IP or C17orf53, which plays a pivotal role in DNA repair mechanisms, particularly in homologous recombination and inter-strand crosslink repair. This protein is characterized by its largely unstructured composition, with a significant oligonucleotide-oligosaccharide-binding (OB-fold) domain that is essential for its function. The OB-fold domain facilitates the activation of the MCM8-9 helicase complex, although it does not directly bind DNA. HROB is involved in the late stages of homologous recombination repair, working downstream of RAD51, and is crucial for maintaining genomic stability by ensuring accurate DNA repair and replication. The protein's interactions with the MCM8-9 complex enhance its helicase activity, promoting DNA unwinding and replication fork progression, especially in response to DNA damage. HROB's function is vital for cell cycle regulation and preventing genomic instability, with its depletion leading to reduced homologous recombination repair efficiency (Acharya2023Mechanism; Weng2022Structural).
+
+## Structure
+The HROB protein, also known as MCM8IP or C17orf53, is characterized by a largely unstructured composition, with 79% of its regions being disordered, except for the oligonucleotide-oligosaccharide-binding (OB-fold) domain, which is crucial for its function (Acharya2023Mechanism). The OB-fold domain is a nucleic acid-binding motif that assists in the activation of the MCM8-9 helicase complex, although it does not directly bind DNA (Acharya2023Mechanism; Weng2022Structural). This domain interacts specifically with the hinge between the N-and C-terminal domains of MCM9, while an unstructured region upstream of the OB-fold binds MCM8 (Acharya2023Mechanism).
+
+HROB contains a flexible N-terminal domain, a central proline-rich region, and the OB-fold domain at the C-terminus (Weng2022Structural). The proline-rich region includes the MCM8/9 binding motif, which interacts with the N-terminal domains of MCM8/9 (Weng2022Structural). HROB is expressed in multiple isoforms, with isoform 4 being the closest to the sequence used in studies, lacking Q-484 but including a common polymorphism, T-126 → P-126 (Acharya2023Mechanism). The protein may undergo post-translational modifications, such as phosphorylation, which can influence its function (Acharya2023Mechanism).
+
+## Function
+HROB, also known as C17orf53 or MCM8IP, is a protein involved in DNA repair processes, particularly in homologous recombination (HR) and inter-strand crosslink (ICL) repair. It plays a crucial role in maintaining genomic stability by facilitating accurate DNA repair and replication. HROB interacts with the MCM8-9 helicase complex, enhancing its DNA-dependent ATPase and helicase activities, which are essential for DNA synthesis and repair (Acharya2023Mechanism). 
+
+HROB binds to single-stranded DNA (ssDNA) and stimulates the helicase activity of the MCM8-9 complex, promoting DNA unwinding and replication fork progression, especially in response to DNA damage (Acharya2023Mechanism; Huang2020MCM8IP). It is involved in the late stages of HR repair, working downstream of RAD51, and is crucial for the postsynaptic stage of HR (Acharya2023Mechanism). 
+
+In healthy human cells, HROB is active in the nucleus, where it coordinates with other proteins to ensure proper DNA repair and replication, contributing to cell cycle regulation and preventing genomic instability (Liu2022PanCancer). Its function is vital for optimal DNA replication and cell proliferation, and its depletion leads to reduced HR repair efficiency (Wang2020C17orf53).
+
+## Clinical Significance
+Mutations and altered expression of the HROB gene have been implicated in several clinical conditions. In the context of premature ovarian insufficiency (POI), a homozygous loss-of-function variant in the HROB gene has been identified in a patient, suggesting its role in the condition. This variant is associated with delayed puberty and primary amenorrhea, and it is believed to lead to nonsense-mediated decay, contributing to the pathogenesis of POI (Tucker2021Meiotic).
+
+In cancer, HROB is overexpressed in various tumor types, and this overexpression is linked to poor prognosis and advanced pathological stages. High levels of HROB expression correlate with cancer stemness and immune cell infiltration, particularly involving cancer-associated fibroblasts and CD8+ T cells. These findings suggest that HROB may influence tumorigenesis and disease progression by affecting the tumor microenvironment (Liu2022PanCancer).
+
+HROB's role in DNA repair processes, particularly in homologous recombination and replication fork stability, is crucial for maintaining genomic stability. Disruptions in these processes can lead to increased sensitivity to DNA-damaging agents like cisplatin, highlighting HROB's potential impact on cancer treatment responses (Huang2021A).
+
+## Interactions
+HROB interacts with the MCM8-9 complex, a helicase involved in DNA unwinding, playing a crucial role in homologous recombination. HROB binds to both MCM8 and MCM9 subunits of the MCM8-9 heterodimer. The OB-fold domain of HROB is essential for its interaction with MCM9, specifically involving residues such as HROB-F553 and MCM9-M45, which are critical for their physical interaction and DNA unwinding activity. Mutations in these residues significantly reduce their interaction (Acharya2023Mechanism; Acharya2023Mechanisma). HROB also interacts with MCM8 through a conserved region, with residues like HROB-L405 and MCM8-L387 forming apolar contacts, although mutations in these residues affect the interaction to a lesser extent (Acharya2023Mechanisma).
+
+HROB enhances the helicase activity of MCM8-9 downstream of its assembly on DNA, stimulating the ATPase activity necessary for DNA unwinding. It does not affect the oligomerization, loading, or closing of the MCM8-9 ring on single-stranded DNA but promotes MCM8-9 activity after its assembly on DNA (Acharya2023Mechanism). HROB's interaction with MCM8-9 is crucial for its role in homologous recombination, particularly at the postsynaptic HR stage downstream from RAD51 (Acharya2023Mechanisma).
+
+
+## References
+
+
+[1. (Tucker2021Meiotic) Elena J. Tucker, Katrina M. Bell, Gorjana Robevska, Jocelyn van den Bergen, Katie L. Ayers, Nurin Listyasari, Sultana MH Faradz, Jérôme Dulon, Shabnam Bakhshalizadeh, Rajini Sreenivasan, Benedicte Nouyou, Wilfrid Carre, Linda Akloul, Solène Duros, Mathilde Domin-Bernhard, Marc-Antoine Belaud-Rotureau, Philippe Touraine, Sylvie Jaillard, and Andrew H. Sinclair. Meiotic genes in premature ovarian insufficiency: variants in hrob and rec8 as likely genetic causes. European Journal of Human Genetics, 30(2):219–228, October 2021. URL: http://dx.doi.org/10.1038/s41431-021-00977-9, doi:10.1038/s41431-021-00977-9. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41431-021-00977-9)
+
+[2. (Wang2020C17orf53) Chao Wang, Zhen Chen, Dan Su, Mengfan Tang, Litong Nie, Huimin Zhang, Xu Feng, Rui Wang, Xi Shen, Mrinal Srivastava, Megan E. McLaughlin, Traver Hart, Lei Li, and Junjie Chen. C17orf53 is identified as a novel gene involved in inter-strand crosslink repair. DNA Repair, 95:102946, November 2020. URL: http://dx.doi.org/10.1016/j.dnarep.2020.102946, doi:10.1016/j.dnarep.2020.102946. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.dnarep.2020.102946)
+
+[3. (Huang2021A) Dongqing Huang, Sara R. Savage, Anna P. Calinawan, Chenwei Lin, Bing Zhang, Pei Wang, Timothy K. Starr, Michael J. Birrer, and Amanda G. Paulovich. A highly annotated database of genes associated with platinum resistance in cancer. Oncogene, 40(46):6395–6405, October 2021. URL: http://dx.doi.org/10.1038/s41388-021-02055-2, doi:10.1038/s41388-021-02055-2. This article has 60 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-021-02055-2)
+
+[4. (Huang2020MCM8IP) Jen-Wei Huang, Ananya Acharya, Angelo Taglialatela, Tarun S. Nambiar, Raquel Cuella-Martin, Giuseppe Leuzzi, Samuel B. Hayward, Sarah A. Joseph, Gregory J. Brunette, Roopesh Anand, Rajesh K. Soni, Nathan L. Clark, Kara A. Bernstein, Petr Cejka, and Alberto Ciccia. Mcm8ip activates the mcm8-9 helicase to promote dna synthesis and homologous recombination upon dna damage. Nature Communications, June 2020. URL: http://dx.doi.org/10.1038/s41467-020-16718-3, doi:10.1038/s41467-020-16718-3. This article has 37 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-020-16718-3)
+
+5. (Acharya2023Mechanisma) Mechanism of DNA unwinding by hexameric MCM8-9 in complex with HROB. This article has 1 citations.
+
+6. (Weng2022Structural) Structural and mechanistic insights into the MCM8/9 helicase complex. This article has 0 citations.
+
+[7. (Liu2022PanCancer) Xianming Liu and Cunchuan Wang. Pan-cancer analysis identified homologous recombination factor with ob-fold (hrob) as a potential biomarker for various tumor types. Frontiers in Genetics, July 2022. URL: http://dx.doi.org/10.3389/fgene.2022.904060, doi:10.3389/fgene.2022.904060. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.904060)
+
+8. (Acharya2023Mechanism) Mechanism of DNA unwinding by hexameric MCM8-9 in complex with HROB. This article has 0 citations.

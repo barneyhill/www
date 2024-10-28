@@ -1,0 +1,40 @@
+# RPA4
+
+## Overview
+RPA4 (Replication Protein A4) is a gene that encodes a protein subunit of the alternative replication protein A complex (aRPA), which is involved in DNA maintenance and repair. The RPA4 protein is a homolog of the RPA2 subunit found in the canonical RPA complex, sharing structural similarities but differing in function. Unlike the canonical RPA complex, which is essential for DNA replication and cell cycle progression, the aRPA complex, including RPA4, plays a crucial role in maintaining genomic stability in non-proliferating cells by inhibiting DNA replication and promoting DNA repair processes (Byrne2019Replication; Mason2024Functional). RPA4 is predominantly expressed in tissues exposed to environmental stress, such as the bladder and colon, and is associated with cellular quiescence. Its expression is notably reduced in tumors, suggesting a role in preventing cell proliferation (Byrne2019Replication; Mason2024Functional). Additionally, RPA4 has been implicated in diseases characterized by tandem CAG repeat expansions, such as Huntington's Disease, and is associated with better prognosis in certain cancers (Gall-Duncan2022Antagonistic).
+
+## Structure
+The RPA4 protein is a homolog of the 34-kilodalton subunit of the replication protein A (RPA) complex, sharing significant sequence similarity with human RPA2. It consists of 261 amino acids and has a predicted molecular mass of approximately 28,880 Da (Keshav1995Rpa4). RPA4 shares 63% sequence similarity with RPA2 and has a similar domain organization, including a core DNA binding domain, a phosphorylation domain, and a winged-helix domain (Mason2024Functional). The DNA binding domains of RPA4 are structurally similar to those of RPA2, although they differ in electrostatic surface potentials, with the winged-helix domain of RPA4 being more acidic (Mason2024Functional).
+
+RPA4 retains five of the nine phosphorylation sites found in RPA2, including a Cdk2 site, and has four additional serines in its phosphorylation domain (Mason2024Functional). It can form a trimeric complex with RPA1 and RPA3, known as alternative RPA (aRPA), which binds to single-stranded DNA (Keshav1995Rpa4; Mason2024Functional). RPA4's expression is tissue-specific, notably in the placenta and colon, and it is associated with nonproliferating cells (Keshav1995Rpa4).
+
+## Function
+RPA4 (Replication Protein A4) is a component of an alternative Replication Protein A complex (aRPA) that plays a significant role in DNA maintenance, particularly in non-proliferating cells. Unlike the canonical RPA complex, aRPA, which includes RPA4, does not support DNA replication or cell cycle progression. Instead, it inhibits these processes, thereby promoting cellular quiescence and maintaining genomic stability in non-dividing cells (Byrne2019Replication; Mason2024Functional).
+
+RPA4 is expressed in various normal human tissues, with higher levels in tissues exposed to harsh environments, such as the bladder, colon, and lung, which are prone to DNA damage (Mason2024Functional). It is involved in DNA repair processes, such as nucleotide excision repair and homologous recombination, by interacting with proteins like Rad51 and Rad52, although it shows lower efficiency compared to canonical RPA in some assays (Mason2024Functional).
+
+RPA4's expression is reduced in tumors and proliferating cells, suggesting its role in preventing cell proliferation and promoting quiescence (Byrne2019Replication). The presence of RPA4 in aRPA is crucial for maintaining cell viability and genomic integrity in quiescent cells by inhibiting replication while supporting DNA repair processes (Byrne2019Replication).
+
+## Clinical Significance
+RPA4 is implicated in several diseases characterized by tandem CAG repeat expansions, such as Huntington's Disease (HD) and Spinocerebellar Ataxia Type 1 (SCA1). In these conditions, RPA4 is significantly upregulated in degenerated brain regions, suggesting a role in disease pathology. The upregulation of RPA4, along with other RPA subunits, may be linked to somatic CAG repeat expansions and neurodegeneration observed in these diseases (Gall-Duncan2022Antagonistic). RPA4 preferentially associates with MSH3, potentially mediating CAG repeat expansions, and its overexpression in cells leads to DNA damage and cell death, similar to effects observed in HD and SCA patient cells (Gall-Duncan2022Antagonistic).
+
+RPA4's role in cancer is also notable. Increased RPA4 levels are associated with better prognosis in gastric cancers, indicating its potential importance in disease states (Gall-Duncan2022Antagonistic). In contrast, RPA4 expression is lower in cancerous tissues compared to normal tissues, suggesting a potential downregulation in transformed cells (Mason2024Functional). This downregulation may contribute to the unchecked proliferation characteristic of cancer, as RPA4 is thought to inhibit DNA replication in proliferative cells (Mason2024Functional).
+
+## Interactions
+RPA4, a subunit of the replication protein A complex, participates in several interactions with other proteins and nucleic acids. It forms a trimeric complex with RPA1 and RPA3, which is capable of binding to single-stranded DNA (ssDNA) (Keshav1995Rpa4). This complex, known as aRPA, has similar DNA-binding properties to the canonical RPA complex, with high affinity for ssDNA and low cooperativity (Mason2024Functional).
+
+RPA4 interacts specifically with RPA1 and RPA3, but not significantly with RPA2, suggesting a unique role in the RPA complex (Keshav1995Rpa4). The interaction between RPA4 and RPA1 is strong and selective, as demonstrated by increased β-galactosidase activity in yeast two-hybrid assays (Keshav1995Rpa4).
+
+In terms of functional interactions, aRPA can stimulate DNA synthesis by DNA polymerase δ, although it inhibits DNA synthesis by DNA polymerase α due to reduced interactions (Mason2024Functional). The presence of RPA4 in the complex alters interactions with DNA polymerase α, potentially preventing efficient loading onto DNA (Mason2024Functional). Additionally, aRPA interacts with the SV40 T antigen but is unable to support SV40 DNA replication, indicating a possible inhibitory role in replication initiation (Mason2024Functional).
+
+
+## References
+
+
+1. (Gall-Duncan2022Antagonistic) Antagonistic roles of canonical and alternative RPA in tandem CAG repeat diseases. This article has 1 citations.
+
+[2. (Byrne2019Replication) Brendan M. Byrne and Gregory G. Oakley. Replication protein a, the laxative that keeps dna regular: the importance of rpa phosphorylation in maintaining genome stability. Seminars in Cell &amp; Developmental Biology, 86:112–120, February 2019. URL: http://dx.doi.org/10.1016/j.semcdb.2018.04.005, doi:10.1016/j.semcdb.2018.04.005. This article has 64 citations.](https://doi.org/10.1016/j.semcdb.2018.04.005)
+
+[3. (Keshav1995Rpa4) Kylie F. Keshav, Clark Chen, and Anindya Dutta. Rpa4, a homolog of the 34-kilodalton subunit of the replication protein a complex. Molecular and Cellular Biology, 15(6):3119–3128, June 1995. URL: http://dx.doi.org/10.1128/MCB.15.6.3119, doi:10.1128/mcb.15.6.3119. This article has 72 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.15.6.3119)
+
+4. (Mason2024Functional) Functional analysis of an alternative Replication Protein A complex containing RPA4. This article has 0 citations.

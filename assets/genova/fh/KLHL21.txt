@@ -1,0 +1,37 @@
+# KLHL21
+
+## Overview
+KLHL21 is a gene that encodes the protein kelch-like family member 21, which is a crucial component of the CRL3 (Cullin-RING Ligase 3) E3 ubiquitin ligase complex. This protein is involved in the regulation of cell motility and division, playing a significant role in microtubule dynamics and focal adhesion turnover. It achieves this by ubiquitylating specific proteins such as EB1 and Aurora B, thereby influencing processes like microtubule disassembly and cytokinesis (Courtheoux2016Cortical; Maerki2009The). KLHL21's activity is essential for proper cell cycle progression and has been implicated in the pathogenesis of various cancers, including hepatocellular carcinoma and cholangiocarcinoma, where its expression levels correlate with disease progression and patient prognosis (Chen2018Inhibition; Shi2016KLHL21). As such, KLHL21 is considered a potential target for therapeutic intervention in cancer treatment.
+
+## Function
+KLHL21 is a protein that plays a significant role in regulating cell motility and division in healthy human cells. It functions as part of the CRL3 KLHL21 E3 ubiquitin ligase complex, which is crucial for the regulation of microtubule (Mt) and focal adhesion (FA) dynamics. KLHL21 localizes to FA structures and microtubule tips, where it ubiquitylates the protein EB1 at lysine 100. This ubiquitylation inhibits EB1-Mt interactions, promoting microtubule disassembly at actin structures and FAs, which is essential for cell migration (Courtheoux2016Cortical).
+
+In the context of cell division, KLHL21 is involved in the regulation of the Chromosomal Passenger Complex (CPC) during mitosis. It interacts with Aurora B, a key protein in cell division, and mediates its ubiquitination, which is crucial for the recruitment of the CPC to the spindle midzone. This process ensures proper cytokinesis, the final step of cell division (Maerki2009The). KLHL21's activity is also linked to the neddylation of the Cul3 protein, which is necessary for the proper localization and function of the Cul3-KLHL21 complex during cytokinesis (Huang2017Squamous).
+
+## Clinical Significance
+KLHL21 has been implicated in the progression of several cancers due to alterations in its expression levels. In hepatocellular carcinoma (HCC), KLHL21 is significantly upregulated in cancerous tissues compared to non-tumor tissues. This upregulation is associated with poor overall survival in HCC patients, suggesting that KLHL21 could serve as a potential therapeutic target. Knockdown of KLHL21 in HCC cell lines has been shown to reduce cell proliferation, migration, and invasion, indicating its critical role in HCC progression (Shi2016KLHL21).
+
+In cholangiocarcinoma (CCA), KLHL21 is also overexpressed in tumor tissues, correlating with poorer survival outcomes. High KLHL21 expression is linked to lower histological grades and poor prognosis. Inhibition of KLHL21 in CCA cells results in reduced proliferation, migration, and invasion, as well as cell cycle arrest at the G0/G1 phase. This is accompanied by changes in cell-cycle regulators and reduced activation of the Erk signaling pathway, highlighting KLHL21's role in CCA progression (Chen2018Inhibition).
+
+KLHL21's involvement in these cancers underscores its potential as a prognostic marker and therapeutic target, given its role in cell cycle regulation and cancer progression.
+
+## Interactions
+KLHL21 is involved in several protein interactions, primarily through its role as part of the CRL3 (Cullin-RING Ligase 3) E3 ubiquitin ligase complex. It interacts directly with the protein Aurora B, a component of the chromosomal passenger complex (CPC), and mediates its ubiquitination. This interaction is crucial for the localization of Aurora B to midzone microtubules during anaphase, facilitating cytokinesis (Maerki2009The). KLHL21 also interacts with the Cul3 protein, forming a complex that is essential for the ubiquitination of Aurora B, which is necessary for its relocalization rather than degradation (Maerki2009The).
+
+KLHL21 interacts with the microtubule-associated protein EB1, ubiquitylating it at lysine 100. This interaction affects microtubule dynamics and focal adhesion turnover, which are critical for cell motility (Courtheoux2016Cortical). KLHL21's interaction with EB1 is specific, as it binds to the KELCH domains of KLHL21 but not KLHL22 (Courtheoux2016Cortical).
+
+KLHL21 also forms complexes with other proteins such as KLHL9 and KLHL13, but not with BTBD1, BTBD2, or KLHL22, suggesting a selective interaction profile (Maerki2009The). These interactions are confirmed through immunoprecipitation and mass spectrometry analyses (Maerki2009The).
+
+
+## References
+
+
+[1. (Huang2017Squamous) Guochang Huang, Andrew J. Kaufman, Ke Xu, Katia Manova, and Bhuvanesh Singh. Squamous cell carcinoma–related oncogene (sccro) neddylates cul3 protein to selectively promote midbody localization and activity of cul3klhl21 protein complex during abscission. Journal of Biological Chemistry, 292(37):15254–15265, September 2017. URL: http://dx.doi.org/10.1074/jbc.m117.778530, doi:10.1074/jbc.m117.778530. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m117.778530)
+
+[2. (Maerki2009The) Sarah Maerki, Michael H. Olma, Titu Staubli, Patrick Steigemann, Daniel W. Gerlich, Manfredo Quadroni, Izabela Sumara, and Matthias Peter. The cul3–klhl21 e3 ubiquitin ligase targets aurora b to midzone microtubules in anaphase and is required for cytokinesis. Journal of Cell Biology, 187(6):791–800, December 2009. URL: http://dx.doi.org/10.1083/jcb.200906117, doi:10.1083/jcb.200906117. This article has 103 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.200906117)
+
+[3. (Shi2016KLHL21) Lei Shi, Wenfa Zhang, Fagui Zou, Lihua Mei, Gang Wu, and Yong Teng. Klhl21, a novel gene that contributes to the progression of hepatocellular carcinoma. BMC Cancer, October 2016. URL: http://dx.doi.org/10.1186/s12885-016-2851-7, doi:10.1186/s12885-016-2851-7. This article has 33 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-016-2851-7)
+
+[4. (Courtheoux2016Cortical) Thibault Courtheoux, Radoslav I. Enchev, Fabienne Lampert, Juan Gerez, Jochen Beck, Paola Picotti, Izabela Sumara, and Matthias Peter. Cortical dynamics during cell motility are regulated by crl3klhl21 e3 ubiquitin ligase. Nature Communications, September 2016. URL: http://dx.doi.org/10.1038/ncomms12810, doi:10.1038/ncomms12810. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms12810)
+
+[5. (Chen2018Inhibition) Jian Chen, Wenfeng Song, Yehui Du, Zequn Li, Zefeng Xuan, Long Zhao, Jun Chen, Yongchao Zhao, Biguang Tuo, Shusen Zheng, and Penghong Song. Inhibition of klhl21 prevents cholangiocarcinoma progression through regulating cell proliferation and motility, arresting cell cycle and reducing erk activation. Biochemical and Biophysical Research Communications, 499(3):433–440, May 2018. URL: http://dx.doi.org/10.1016/j.bbrc.2018.03.152, doi:10.1016/j.bbrc.2018.03.152. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2018.03.152)

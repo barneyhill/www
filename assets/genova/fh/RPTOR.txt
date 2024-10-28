@@ -1,0 +1,52 @@
+# RPTOR
+
+## Overview
+RPTOR is a gene that encodes the regulatory associated protein of mTOR complex 1 (mTORC1), a critical component in cellular signaling pathways that regulate cell growth, proliferation, and metabolism. The protein encoded by RPTOR acts as a scaffold within the mTORC1 complex, facilitating the recruitment of downstream substrates necessary for protein synthesis and cell growth. It is characterized by its structural features, including HEAT repeats and a WD40 domain, which enable its interactions with other proteins in the mTORC1 complex (Tafur2020Structural). RPTOR's function is modulated by nutrient availability and energy status, with its activity being regulated through phosphorylation by AMP-activated protein kinase (AMPK) under low energy conditions, thereby serving as a metabolic checkpoint (Gwinn2008AMPK). Dysregulation of RPTOR has been implicated in various diseases, including cancer and kidney disorders, highlighting its clinical significance in maintaining cellular homeostasis (Han2022N7methylguanosine; Fantus2016Roles).
+
+## Structure
+RPTOR, a key component of the mTORC1 complex, exhibits a complex molecular structure that facilitates its role in cellular signaling. The primary structure of RPTOR is encoded by the RPTOR gene, which translates into a sequence of amino acids forming the protein. The secondary structure of RPTOR includes several HEAT repeats, which are alpha-helical motifs that contribute to its overall architecture (Tafur2020Structural).
+
+The tertiary structure of RPTOR involves the folding of these motifs into a three-dimensional shape, allowing it to interact with other proteins within the mTORC1 complex. RPTOR contains a CASPase-like domain at the N-terminal, which interacts with the N-HEAT and M-HEAT domains of mTOR, contributing to the rhomboid shape of the mTORC1 complex. The α-solenoid domain of RPTOR interacts with RagA/RagC, and the C-terminal half, which includes a WD40 domain, protrudes from the complex, enabling additional protein-protein interactions (Tafur2020Structural).
+
+In terms of quaternary structure, RPTOR is integral to the mTORC1 complex, interacting with mTOR, MLST8, and other regulatory proteins. Post-translational modifications, such as phosphorylation, can modulate RPTOR's activity and interactions, influencing mTORC1 signaling pathways (Tafur2020Structural).
+
+## Function
+The RPTOR gene encodes the regulatory associated protein of mTOR complex 1 (mTORC1), which plays a crucial role in regulating cell growth, proliferation, and metabolism in response to nutrient availability and energy status. In healthy human cells, RPTOR is a key component of the mTORC1 complex, acting as a scaffold that recruits downstream substrates such as S6 kinase 1 (S6K1) and 4E-binding protein 1 (4EBP1), which are involved in protein synthesis and cell growth (Kim2002mTOR; Hara2002Raptor).
+
+RPTOR's interaction with mTOR is sensitive to nutrient levels, particularly amino acids like leucine. Under nutrient-rich conditions, the mTOR-raptor complex is less stable, leading to increased mTOR activity and promoting cell growth and protein synthesis. Conversely, nutrient deprivation stabilizes the complex, reducing mTOR activity (Kim2002mTOR).
+
+RPTOR is also involved in energy stress responses. It is phosphorylated by AMP-activated protein kinase (AMPK) at specific serine residues, which inhibits mTORC1 activity, preventing inappropriate cell proliferation and apoptosis during low energy conditions (Gwinn2008AMPK). This phosphorylation serves as a metabolic checkpoint, ensuring that cell growth is coordinated with energy availability (Gwinn2008AMPK).
+
+## Clinical Significance
+Alterations in the expression or function of the RPTOR gene, which encodes a key component of the mTORC1 complex, have been implicated in various diseases, particularly cancer. In esophageal squamous cell carcinoma (ESCC), RPTOR is a critical downstream target of the METTL1 gene. Overexpression of RPTOR can rescue mRNA translation activity and proliferation in METTL1-depleted ESCC cells, highlighting its role in tumor progression. The RPTOR/ULK1/autophagy axis is identified as a significant pathway through which METTL1 promotes ESCC progression, suggesting that changes in RPTOR expression influenced by METTL1 activity are clinically significant in ESCC (Han2022N7methylguanosine).
+
+In the context of kidney disease, RPTOR, as part of mTORC1, plays a role in podocyte function. Genetic deletion of RPTOR in podocytes leads to early albuminuria and glomerulosclerosis, indicating its importance in maintaining kidney health. Conversely, excessive mTORC1 activity, potentially involving RPTOR, is associated with pathologies such as diabetic nephropathy (Fantus2016Roles).
+
+RPTOR's involvement in the mTOR signaling pathway, which regulates cell growth and metabolism, underscores its potential impact on tumorigenesis and metabolic disorders when dysregulated (Zou2020mTOR).
+
+## Interactions
+RPTOR, a key component of the mTORC1 complex, interacts with several proteins to regulate cellular processes. It forms a stoichiometric complex with mTOR, which is sensitive to nutrient conditions. This interaction is crucial for mTORC1's role in signaling to the cell growth machinery and is modulated by nutrient availability, with nutrient deprivation stabilizing the mTOR-RPTOR association and inhibiting mTOR kinase activity (Kim2002mTOR).
+
+RPTOR also interacts with proteins involved in mRNA processing and translation, such as Edc4, hnRNP A2/B1, and SRSF7. Edc4, a phospho-protein involved in mRNA decapping, specifically associates with mTORC1 and not mTORC2. This interaction is modulated by rapamycin, which decreases the interaction between Edc4 and RPTOR, suggesting a regulatory role of mTORC1 in mRNA decapping (Rahman2024Identification).
+
+RPTOR binds to the TOR signaling (TOS) motif of S6K1, facilitating mTORC1-mediated phosphorylation of S6K1, which is essential for translation regulation under nutrient-rich conditions (Rahman2024Identification). It also interacts with PRAS40, which is implicated in the regulation of mTOR activity (Rahman2024Identification).
+
+
+## References
+
+
+[1. (Zou2020mTOR) Zhilin Zou, Tao Tao, Hongmei Li, and Xiao Zhu. Mtor signaling pathway and mtor inhibitors in cancer: progress and challenges. Cell &amp; Bioscience, March 2020. URL: http://dx.doi.org/10.1186/s13578-020-00396-1, doi:10.1186/s13578-020-00396-1. This article has 547 citations.](https://doi.org/10.1186/s13578-020-00396-1)
+
+[2. (Han2022N7methylguanosine) Hui Han, Chunlong Yang, Jieyi Ma, Shuishen Zhang, Siyi Zheng, Rongsong Ling, Kaiyu Sun, Siyao Guo, Boxuan Huang, Yu Liang, Lu Wang, Shuang Chen, Zhaoyu Wang, Wei Wei, Ying Huang, Hao Peng, Yi-Zhou Jiang, Junho Choe, and Shuibin Lin. N7-methylguanosine trna modification promotes esophageal squamous cell carcinoma tumorigenesis via the rptor/ulk1/autophagy axis. Nature Communications, March 2022. URL: http://dx.doi.org/10.1038/s41467-022-29125-7, doi:10.1038/s41467-022-29125-7. This article has 79 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-29125-7)
+
+[3. (Fantus2016Roles) Daniel Fantus, Natasha M. Rogers, Florian Grahammer, Tobias B. Huber, and Angus W. Thomson. Roles of mtor complexes in the kidney: implications for renal disease and transplantation. Nature Reviews Nephrology, 12(10):587–609, August 2016. URL: http://dx.doi.org/10.1038/nrneph.2016.108, doi:10.1038/nrneph.2016.108. This article has 153 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrneph.2016.108)
+
+[4. (Gwinn2008AMPK) Dana M. Gwinn, David B. Shackelford, Daniel F. Egan, Maria M. Mihaylova, Annabelle Mery, Debbie S. Vasquez, Benjamin E. Turk, and Reuben J. Shaw. Ampk phosphorylation of raptor mediates a metabolic checkpoint. Molecular Cell, 30(2):214–226, April 2008. URL: http://dx.doi.org/10.1016/j.molcel.2008.03.003, doi:10.1016/j.molcel.2008.03.003. This article has 2949 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2008.03.003)
+
+5. (Rahman2024Identification) Identification of interacting partners of mammalian target of rapamycin complex 1 (mTORC1) assembly in human lymphocytes. This article has 0 citations.
+
+[6. (Tafur2020Structural) Lucas Tafur, Jennifer Kefauver, and Robbie Loewith. Structural insights into tor signaling. Genes, 11(8):885, August 2020. URL: http://dx.doi.org/10.3390/genes11080885, doi:10.3390/genes11080885. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes11080885)
+
+[7. (Kim2002mTOR) Do-Hyung Kim, Dos D. Sarbassov, Siraj M. Ali, Jessie E. King, Robert R. Latek, Hediye Erdjument-Bromage, Paul Tempst, and David M. Sabatini. Mtor interacts with raptor to form a nutrient-sensitive complex that signals to the cell growth machinery. Cell, 110(2):163–175, July 2002. URL: http://dx.doi.org/10.1016/s0092-8674(02)00808-5, doi:10.1016/s0092-8674(02)00808-5. This article has 2412 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0092-8674(02)00808-5)
+
+[8. (Hara2002Raptor) Kenta Hara, Yoshiko Maruki, Xiaomeng Long, Ken-ichi Yoshino, Noriko Oshiro, Sujuti Hidayat, Chiharu Tokunaga, Joseph Avruch, and Kazuyoshi Yonezawa. Raptor, a binding partner of target of rapamycin (tor), mediates tor action. Cell, 110(2):177–189, July 2002. URL: http://dx.doi.org/10.1016/s0092-8674(02)00833-4, doi:10.1016/s0092-8674(02)00833-4. This article has 1435 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0092-8674(02)00833-4)

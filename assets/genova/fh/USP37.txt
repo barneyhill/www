@@ -1,0 +1,64 @@
+# USP37
+
+## Overview
+USP37 is a gene that encodes the protein ubiquitin specific peptidase 37, a deubiquitinating enzyme involved in various cellular processes, including cell cycle regulation, DNA replication, and DNA damage repair. As a member of the ubiquitin-specific protease (USP) family, USP37 plays a critical role in maintaining genomic stability by modulating the ubiquitination status of key proteins involved in these processes. The protein is characterized by its structural domains, including a pleckstrin homology (PH) domain, a central USP domain, and a catalytic domain, which facilitate its interactions with other proteins and its enzymatic activity (Chauhan2021Ubiquitinspecific; Chauhan2023Ubiquitin). USP37's function is crucial for proper cell cycle progression and DNA repair, and its dysregulation has been implicated in various cancers, making it a potential target for therapeutic interventions (Hong2020USP37; Bolhuis2024USP37).
+
+## Structure
+USP37 is a deubiquitinating enzyme composed of 979 amino acids, featuring several distinct structural domains. The protein includes an N-terminal pleckstrin homology (PH) domain, a central ubiquitin-specific protease (USP) domain, and a C-terminal catalytic domain (Chauhan2021Ubiquitinspecific; Chauhan2023Ubiquitin). The catalytic core of USP37 is characterized by a cleft between the palm and thumb subdomains, containing critical residues such as cysteine 350, which acts as a nucleophile, and histidine 906, which serves as a proton acceptor (Chauhan2021Ubiquitinspecific).
+
+USP37 also contains three ubiquitin-interacting motifs (UIMs) that are crucial for its enzymatic activity. These motifs are single alpha-helical elements that bind ubiquitin and enhance the protein's catalytic efficiency, although they do not confer specificity towards particular ubiquitin chain types (Chauhan2021Ubiquitinspecific). The UIMs are particularly important for modulating the cleavage of various ubiquitin chain types, such as K11, K48, and K63-linked chains (Chauhan2021Ubiquitinspecific).
+
+Molecular docking studies have shown that the PH domain of USP37 interacts stably with the PCNA-DNA complex, involving specific residues like Lys23, Tyr42, Thr44, Gly46, and Arg49 (Chauhan2023Ubiquitin). This interaction is significant for USP37's role in DNA replication and repair processes.
+
+## Function
+USP37 is a deubiquitinating enzyme that plays a crucial role in maintaining genomic stability and proper cell cycle progression in healthy human cells. It is involved in the regulation of DNA replication by preventing unscheduled replisome unloading during the S-phase. USP37 achieves this by deubiquitinating components of the MCM complex, particularly MCM7, which is part of the CMG helicase complex essential for DNA unwinding. This activity ensures that the replisome remains intact until DNA replication is complete, thereby maintaining genome stability (Bolhuis2024USP37).
+
+USP37 also plays a significant role in mitotic progression and chromosome cohesion. It regulates the stability of WAPL, a protein necessary for cohesin release during prophase, by deubiquitylating it. This regulation is crucial for proper sister chromatid resolution and chromosome alignment during mitosis (Yeh2015The).
+
+Additionally, USP37 is involved in the repair of DNA double-strand breaks through homologous recombination and non-homologous end joining. It counteracts the effects of RAP80, facilitating the BRCA1-dependent loading of PALB2 and RAD51, which are essential for homologous recombination (Typas2015The).
+
+## Clinical Significance
+USP37 is implicated in various cancers due to its role in stabilizing oncoproteins and influencing cell proliferation. In clear cell renal cell carcinoma (ccRCC), USP37 stabilizes hypoxia-inducible factor 2α (HIF2α), promoting tumor growth and proliferation. Its depletion leads to reduced cell proliferation and tumorigenesis, suggesting USP37 as a potential therapeutic target in ccRCC, especially in cases with VHL mutations (Hong2020USP37).
+
+In breast cancer, USP37 is overexpressed and correlates with poor patient survival. It stabilizes BLM, a DNA helicase involved in the DNA damage response, contributing to chemotherapy and radiotherapy resistance. This makes USP37 a potential target for overcoming drug resistance in breast cancer treatment (Wu2021USP37; Qin2018Abnormally).
+
+USP37 also plays a role in acute promyelocytic leukemia (APL) by stabilizing the PLZF/RARA fusion protein, which is resistant to standard treatments. Targeting USP37 could reduce the oncogenic potential of PLZF/RARA, offering a new therapeutic strategy for APL (Yang2012The).
+
+In lung cancer, USP37 stabilizes the c-MYC oncogene, promoting proliferation and the Warburg effect. Its upregulation is associated with hypomethylation of its promoter, contributing to cancer progression (Chauhan2021Ubiquitinspecific).
+
+## Interactions
+USP37, a deubiquitinating enzyme, engages in several critical protein interactions that influence its function in cell cycle regulation and DNA damage response. It interacts with the SCF βTrCP ubiquitin ligase complex, where it is targeted for degradation during the G2 phase of the cell cycle. This interaction involves components such as Skp1, Cul1, and βTrCP, and is mediated by specific degron sequences within USP37 (Burrows2012Skp1Cul1Fbox).
+
+USP37 also interacts with the CMG helicase complex during DNA replication stress, specifically binding to the CDC45 subunit through its Pleckstrin-Homology (PH) domain. This interaction is crucial for USP37's recruitment to DNA replication forks, where it counteracts ubiquitin ligases like CUL2 LRR1 and TRAIP, thereby maintaining genome integrity (Villa2024USP37; Kochenova2024USP37).
+
+In the context of mitotic progression, USP37 associates with cohesin subunits and regulators of chromosome cohesion, such as WAPL. This interaction is essential for proper chromosome segregation and sister chromatid resolution (Yeh2015The).
+
+USP37 also stabilizes the BLM protein, a key player in the DNA damage response, by deubiquitinating it, particularly following DNA damage events (Wu2021USP37).
+
+
+## References
+
+
+1. (Kochenova2024USP37) USP37 prevents premature disassembly of stressed replisomes by TRAIP. This article has 0 citations.
+
+[2. (Hong2020USP37) Kai Hong, Lianxin Hu, Xijuan Liu, Jeremy M. Simon, Travis S. Ptacek, Xingnan Zheng, Chengheng Liao, Albert S. Baldwin, and Qing Zhang. Usp37 promotes deubiquitination of hif2α in kidney cancer. Proceedings of the National Academy of Sciences, 117(23):13023–13032, May 2020. URL: http://dx.doi.org/10.1073/pnas.2002567117, doi:10.1073/pnas.2002567117. This article has 27 citations.](https://doi.org/10.1073/pnas.2002567117)
+
+3. (Bolhuis2024USP37) USP37 prevents unscheduled replisome unloading through MCM complex deubiquitination. This article has 0 citations.
+
+[4. (Burrows2012Skp1Cul1Fbox) Amy C. Burrows, John Prokop, and Matthew K. Summers. Skp1-cul1-f-box ubiquitin ligase (scfβtrcp)-mediated destruction of the ubiquitin-specific protease usp37 during g2-phase promotes mitotic entry. Journal of Biological Chemistry, 287(46):39021–39029, November 2012. URL: http://dx.doi.org/10.1074/jbc.m112.390328, doi:10.1074/jbc.m112.390328. This article has 37 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m112.390328)
+
+[5. (Typas2015The) Dimitris Typas, Martijn S. Luijsterburg, Wouter W. Wiegant, Michaela Diakatou, Angela Helfricht, Peter E. Thijssen, Bram van de Broek, Leon H. Mullenders, and Haico van Attikum. The de-ubiquitylating enzymes usp26 and usp37 regulate homologous recombination by counteracting rap80. Nucleic Acids Research, 43(14):6919–6933, June 2015. URL: http://dx.doi.org/10.1093/nar/gkv613, doi:10.1093/nar/gkv613. This article has 61 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkv613)
+
+[6. (Chauhan2023Ubiquitin) Ravi Chauhan, Ashna Gupta, Lakshay Malhotra, Ajaz A. Bhat, Raj K. Pandita, Tariq Masoodi, Gunjan Dagar, Hana Q. Sadida, Sara K. Al-Marzooqi, Atul Batra, Sameer Bakhshi, Mehar Chand Sharma, Pranay Tanwar, Shah Alam Khan, Ethayathulla Abdul Samath, Shahab Uddin, Ammira S. Al-Shabeeb Akil, Mohammad Haris, Muzafar A. Macha, Tej K. Pandita, and Mayank Singh. Ubiquitin specific peptidase 37 and pcna interaction promotes osteosarcoma pathogenesis by modulating replication fork progression. Journal of Translational Medicine, April 2023. URL: http://dx.doi.org/10.1186/s12967-023-04126-2, doi:10.1186/s12967-023-04126-2. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-023-04126-2)
+
+7. (Villa2024USP37) USP37 protects mammalian cells during DNA replication stress by counteracting CUL2LRR1and TRAIP. This article has 0 citations.
+
+[8. (Wu2021USP37) Chenming Wu, Yiming Chang, Junliang Chen, Yang Su, Lei Li, Yuping Chen, Yunhui Li, Jinhuan Wu, Jinzhou Huang, Fei Zhao, Wenrui Wang, Hui Yin, Shunli Wang, Mingpeng Jin, Zhenkun Lou, Wei-Guo Zhu, Kuntian Luo, Jie Zhang, and Jian Yuan. Usp37 regulates dna damage response through stabilizing and deubiquitinating blm. Nucleic Acids Research, 49(19):11224–11240, October 2021. URL: http://dx.doi.org/10.1093/nar/gkab842, doi:10.1093/nar/gkab842. This article has 14 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkab842)
+
+[9. (Chauhan2021Ubiquitinspecific) Ravi Chauhan, Ajaz A. Bhat, Tariq Masoodi, Puneet Bagga, Ravinder Reddy, Ashna Gupta, Zahoor Ahmad Sheikh, Muzafar A. Macha, Mohammad Haris, and Mayank Singh. Ubiquitin-specific peptidase 37: an important cog in the oncogenic machinery of cancerous cells. Journal of Experimental &amp; Clinical Cancer Research, November 2021. URL: http://dx.doi.org/10.1186/s13046-021-02163-7, doi:10.1186/s13046-021-02163-7. This article has 12 citations.](https://doi.org/10.1186/s13046-021-02163-7)
+
+[10. (Yang2012The) W-C Yang and H-M Shih. The deubiquitinating enzyme usp37 regulates the oncogenic fusion protein plzf/rara stability. Oncogene, 32(43):5167–5175, December 2012. URL: http://dx.doi.org/10.1038/onc.2012.537, doi:10.1038/onc.2012.537. This article has 28 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2012.537)
+
+[11. (Yeh2015The) Christina Yeh, Étienne Coyaud, Mikhail Bashkurov, Petra van der Lelij, Sally W.T. Cheung, Jan Michael Peters, Brian Raught, and Laurence Pelletier. The deubiquitinase usp37 regulates chromosome cohesion and mitotic progression. Current Biology, 25(17):2290–2299, August 2015. URL: http://dx.doi.org/10.1016/j.cub.2015.07.025, doi:10.1016/j.cub.2015.07.025. This article has 36 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cub.2015.07.025)
+
+[12. (Qin2018Abnormally) Tao Qin, Bai Li, Xiaoyue Feng, Shujun Fan, Lei Liu, Dandan Liu, Jun Mao, Ying Lu, Jinfeng Yang, Xiaotang Yu, Qingqing Zhang, Jun Zhang, Bo Song, Man Li, and Lianhong Li. Abnormally elevated usp37 expression in breast cancer stem cells regulates stemness, epithelial-mesenchymal transition and cisplatin sensitivity. Journal of Experimental &amp; Clinical Cancer Research, November 2018. URL: http://dx.doi.org/10.1186/s13046-018-0934-9, doi:10.1186/s13046-018-0934-9. This article has 58 citations.](https://doi.org/10.1186/s13046-018-0934-9)

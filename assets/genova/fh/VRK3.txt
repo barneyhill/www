@@ -1,0 +1,48 @@
+# VRK3
+
+## Overview
+VRK3 (vaccinia-related kinase 3) is a gene that encodes the VRK serine/threonine kinase 3 protein, which is classified as a pseudokinase due to its lack of catalytic activity. Despite its inability to phosphorylate substrates, VRK3 plays a crucial regulatory role in various cellular processes. The protein is characterized by a conserved kinase fold, which facilitates its function as a scaffold or regulatory binding partner rather than an active enzyme. VRK3 is involved in the regulation of ERK signaling pathways, particularly through its interaction with the phosphatase VHR, and plays a protective role against oxidative stress-induced apoptosis. Additionally, VRK3 is implicated in nuclear envelope dynamics and chromatin interactions, influencing cell cycle progression and genomic stability. Its involvement in neurodegenerative diseases and cancer underscores its potential as a therapeutic target (Han2020RNF144a; Scheeff2009Structure; Menez2023VRK3).
+
+## Structure
+VRK3 (VRK serine/threonine kinase 3) is a pseudokinase characterized by a conserved kinase fold despite its lack of catalytic activity. The protein maintains a typical protein kinase fold, which is a common structural feature among kinases, and is locked in a pseudoactive conformation (Scheeff2009Structure). VRK3's structure includes a rigid G-loop, a unique β-hairpin linking the αG and αH helices, and an additional helix (αC4) that anchors the αC to the C-terminal lobe, forming a hydrophobic core with αE (Scheeff2009Structure). 
+
+The ATP binding site of VRK3 is highly degraded, with key residues replaced, preventing ATP binding and catalytic activity. The G-loop, typically responsible for positioning ATP, is altered with larger residues that cause steric clashes with ATP (Scheeff2009Structure). Despite these changes, VRK3 retains structural residues that stabilize the kinase conformation, such as the K203-E214 ion pair (Scheeff2009Structure). 
+
+VRK3 is known to bind and activate the phosphatase VHR, and it forms a ternary complex with Erk and VHR, suggesting a role as a scaffold or regulatory binding partner (Scheeff2009Structure).
+
+## Function
+VRK3, a member of the vaccinia-related kinase family, functions primarily as a pseudokinase in healthy human cells. Despite lacking catalytic activity due to mutations in its ATP-binding site, VRK3 plays a significant regulatory role in cellular processes. It is involved in the regulation of ERK signaling by binding and activating the ERK phosphatase VHR, which helps modulate ERK activity and protect against oxidative stress-induced apoptosis (Han2020RNF144a; Scheeff2009Structure). VRK3 also interacts with the nuclear envelope protein BAF, phosphorylating it on Ser4, which is crucial for nuclear envelope dynamics and cell cycle progression (Park2015Presumed).
+
+VRK3 is active in the nucleus, where it influences nucleocytoplasmic transport and the localization of proteins such as HSP70. This interaction is important for preventing glutamate excitotoxicity-induced apoptosis, highlighting VRK3's protective role in neuronal cells (Song2016VRK3mediated). The protein's structure, although similar to active kinases, is adapted to facilitate protein-protein interactions rather than catalytic functions, suggesting its evolutionary retention for regulatory purposes (Scheeff2009Structure). Overall, VRK3 contributes to maintaining cellular homeostasis and genomic stability through its non-catalytic interactions and regulatory functions.
+
+## Clinical Significance
+Alterations in VRK3 expression or mutations can have significant clinical implications, particularly in neurodegenerative diseases and cancer. In neurodegenerative diseases such as Alzheimer's and Parkinson's, VRK3 plays a protective role by modulating ERK activation and preventing oxidative stress-induced neuronal death. Phosphorylation of VRK3 at Ser 108 by CDK5 is crucial for this protective function, as it enhances VHR phosphatase activity, reducing prolonged ERK activation associated with neuronal death. Increased levels of phosphorylated VRK3 have been observed in the brains of patients with these diseases, suggesting its potential as a therapeutic target (Song2016Stressinduced).
+
+In cancer, VRK3 has been identified as a specific vulnerability in diffuse midline glioma (DMG) with H3K27M mutation. Depletion of VRK3 in these cells leads to cell cycle arrest and metabolic reprogramming, indicating its role in tumor growth and survival. High VRK3 expression is associated with poor prognosis in adult glioma, highlighting its potential as a therapeutic target (Menez2023VRK3). VRK3's interaction with RNF144a under oxidative stress conditions also suggests a mechanism that could contribute to various diseases, including cancer, by increasing apoptosis through VRK3 degradation (Han2020RNF144a).
+
+## Interactions
+VRK3 interacts with several proteins, playing a significant role in cellular processes. It is known to interact with the nuclear envelope protein BAF (Barrier-to-Autointegration Factor), where VRK3 phosphorylates BAF at the Ser4 residue. This interaction is crucial for cell cycle regulation, particularly during interphase, and affects the subcellular localization of BAF, causing it to move from the nucleus to the cytosol (Park2015Presumed).
+
+VRK3 also forms a complex with VHR phosphatase and ERK, where it acts as a direct activator of VHR, leading to the inactivation of ERK signaling. This interaction is important for regulating ERK activity in neuronal cells and other tissues (Kang2008VRK3mediated).
+
+Under oxidative stress, VRK3 interacts with the E3 ligase RNF144a, which promotes VRK3's poly-ubiquitination and subsequent degradation. This interaction is enhanced under oxidative stress conditions, suggesting a regulatory mechanism for VRK3 stability (Han2020RNF144a).
+
+VRK3 also interacts with various chromatin components, including histones H1, H2A, H2B, H3.3, and H4, as well as epigenetic regulators like JARID2, indicating its involvement in chromatin dynamics and cell cycle progression (Menez2023VRK3).
+
+
+## References
+
+
+[1. (Scheeff2009Structure) Eric D. Scheeff, Jeyanthy Eswaran, Gabor Bunkoczi, Stefan Knapp, and Gerard Manning. Structure of the pseudokinase vrk3 reveals a degraded catalytic site, a highly conserved kinase fold, and a putative regulatory binding site. Structure, 17(1):128–138, January 2009. URL: http://dx.doi.org/10.1016/j.str.2008.10.018, doi:10.1016/j.str.2008.10.018. This article has 171 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.str.2008.10.018)
+
+[2. (Song2016VRK3mediated) Haengjin Song, Wanil Kim, Sung-Hoon Kim, and Kyong-Tai Kim. Vrk3-mediated nuclear localization of hsp70 prevents glutamate excitotoxicity-induced apoptosis and aβ accumulation via enhancement of erk phosphatase vhr activity. Scientific Reports, December 2016. URL: http://dx.doi.org/10.1038/srep38452, doi:10.1038/srep38452. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep38452)
+
+[3. (Han2020RNF144a) Seung Hyun Han and Kyong-Tai Kim. Rnf144a induces erk-dependent cell death under oxidative stress via downregulation of vaccinia-related kinase 3. Journal of Cell Science, November 2020. URL: http://dx.doi.org/10.1242/jcs.247304, doi:10.1242/jcs.247304. This article has 6 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.247304)
+
+[4. (Menez2023VRK3) Virginie Menez, Thomas Kergrohen, Tal Shasha, Claudia Silva-Evangelista, Ludivine Le Dret, Lucie Auffret, Chloé Subecz, Manon Lancien, Yassine Ajlil, Irma Segoviano Vilchis, Kévin Beccaria, Thomas Blauwblomme, Estelle Oberlin, Jacques Grill, David Castel, and Marie-Anne Debily. Vrk3 depletion induces cell cycle arrest and metabolic reprogramming of pontine diffuse midline glioma - h3k27 altered cells. Frontiers in Oncology, October 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1229312, doi:10.3389/fonc.2023.1229312. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1229312)
+
+[5. (Park2015Presumed) Choon-Ho Park, Hye Guk Ryu, Seong-Hoon Kim, Dohyun Lee, Haengjin Song, and Kyong-Tai Kim. Presumed pseudokinase vrk3 functions as a baf kinase. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1853(7):1738–1748, July 2015. URL: http://dx.doi.org/10.1016/j.bbamcr.2015.04.007, doi:10.1016/j.bbamcr.2015.04.007. This article has 27 citations.](https://doi.org/10.1016/j.bbamcr.2015.04.007)
+
+[6. (Song2016Stressinduced) Haengjin Song, Wanil Kim, Jung-Hyun Choi, Sung-Hoon Kim, Dohyun Lee, Choon-Ho Park, Sangjune Kim, Do-Yeon Kim, and Kyong-Tai Kim. Stress-induced nuclear translocation of cdk5 suppresses neuronal death by downregulating erk activation via vrk3 phosphorylation. Scientific Reports, June 2016. URL: http://dx.doi.org/10.1038/srep28634, doi:10.1038/srep28634. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep28634)
+
+[7. (Kang2008VRK3mediated) Tae-Hong Kang and Kyong-Tai Kim. Vrk3-mediated inactivation of erk signaling in adult and embryonic rodent tissues. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1783(1):49–58, January 2008. URL: http://dx.doi.org/10.1016/j.bbamcr.2007.10.011, doi:10.1016/j.bbamcr.2007.10.011. This article has 24 citations.](https://doi.org/10.1016/j.bbamcr.2007.10.011)

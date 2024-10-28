@@ -1,0 +1,40 @@
+# SAMD1
+
+## Overview
+Sterile alpha motif domain containing 1 (SAMD1) is a gene that encodes a protein involved in chromatin regulation, primarily functioning as a repressive chromatin regulator at unmethylated CpG islands (CGIs) in the genome. The SAMD1 protein is characterized by the presence of a winged-helix (WH) domain, which facilitates DNA binding, and a sterile alpha motif (SAM) domain, which enables protein-protein interactions and the formation of a pentameric structure. This protein is predominantly localized in the nucleus, where it plays a crucial role in maintaining chromatin organization and regulating gene expression, impacting processes such as cellular differentiation and development (Stielow2021The). SAMD1 interacts with other chromatin regulators, including KDM1A and L3MBTL3, and is implicated in various diseases, such as cancer and atherosclerosis, highlighting its significance in both normal cellular functions and pathological conditions (Stielow2021The; Campbell2022Ablation).
+
+## Structure
+The SAMD1 protein is characterized by the presence of a winged-helix (WH) domain and a sterile alpha motif (SAM) domain. The WH domain is responsible for binding to unmethylated CpG-rich sequences, interacting with both the major and minor grooves of DNA. This domain includes two β strands, a W1 loop, and three conserved α helices, with specific residues such as Arg45 and Lys46 playing key roles in CpG recognition through hydrogen bonding (Stielow2021The).
+
+The SAM domain of SAMD1 can self-associate into a pentameric ring, forming a unique donut-shaped closed ring structure. This pentamer is stabilized through interactions between the mid-loop (ML) and end-helix (EH) surfaces, involving both polar and nonpolar interactions. The ML surface has a negative electrostatic potential, while the EH surface is positively charged, facilitating their interaction (Stielow2021The).
+
+SAMD1 is involved in chromatin regulation and interacts with other proteins such as L3MBTL3 and KDM1A, linking them to CpG islands. The protein's structure and interactions are crucial for its function as a repressive chromatin regulator (Stielow2021The).
+
+## Function
+The SAMD1 gene encodes a protein that functions as a repressive chromatin regulator, primarily at unmethylated CpG islands (CGIs) in the genome. SAMD1 is predominantly localized in the nucleus, where it binds to CGIs, influencing chromatin structure and gene expression. The protein contains a WH domain that interacts with DNA, recognizing specific motifs, and a SAM domain that facilitates protein-protein interactions, potentially forming a pentameric structure for multivalent binding to chromatin (Stielow2021The).
+
+SAMD1 plays a crucial role in maintaining chromatin organization and regulating gene expression, impacting cellular differentiation and development. It interacts with other chromatin regulators, such as KDM1A and L3MBTL3, linking them to CGIs and modulating histone modifications like H3K4me3, which are associated with active chromatin states (Stielow2021The). In embryonic stem cells, SAMD1 is essential for proper differentiation, as its absence leads to the upregulation of genes involved in neuronal pathways and downregulation of those related to metabolism and angiogenesis (Campbell2023Investigation; Stielow2021The). These functions highlight SAMD1's role in chromatin regulation and its broader impact on cellular and organismal processes.
+
+## Clinical Significance
+Mutations or alterations in the expression of the SAMD1 gene have been implicated in several diseases and conditions. SAMD1 is upregulated in various cancers, including liver cancer and acute myeloid leukemia, where its high expression is associated with poorer prognosis. This suggests a potential protumorigenic role, as SAMD1 is essential for the growth of certain cancer cells, such as K562 erythroleukemic cells (Stielow2021The). 
+
+In the context of atherosclerosis, SAMD1's interaction with low-density lipoprotein (LDL) and its role in foam cell development are significant. SAMD1 is involved in LDL retention and uptake, which affects vascular smooth muscle cell differentiation and contributes to lesion development in atherosclerosis (Campbell2023Investigation; Campbell2022Ablation).
+
+SAMD1 also plays a role in embryonic development, particularly in angiogenesis and blood vessel maturation. Its deletion in mice leads to embryonic lethality due to failed blood vessel maturation, highlighting its critical role in vascular development (Campbell2022Ablationa; Campbell2023Investigation). These findings underscore the importance of SAMD1 in both developmental processes and disease pathogenesis.
+
+## Interactions
+SAMD1 (sterile alpha motif domain containing 1) is a protein that participates in various interactions with other proteins and nucleic acids, playing a significant role in chromatin regulation. SAMD1 interacts with the KDM1A histone demethylase complex and the chromatin binding protein L3MBTL3, which are crucial for its function as a repressive chromatin regulator at unmethylated CpG islands (CGIs) (Stielow2021The). The SAM domain of SAMD1 is essential for its interaction with L3MBTL3, forming a pentameric ring that enhances its chromatin-binding affinity (Stielow2021The). This interaction is crucial for tethering L3MBTL3 to chromatin, while SAMD1's association with KDM1A does not depend on its interaction with L3MBTL3 (Stielow2021The).
+
+SAMD1 also directly binds to unmethylated CpG motifs through its winged-helix (WH) domain, which is necessary for its DNA-binding capability (Stielow2021The). This binding is disrupted by methylation of the CpG sites, indicating a preference for unmethylated CGIs (Stielow2021The). The protein's interactions with DNA and other proteins are critical for its role in modulating the chromatin landscape and repressing target genes (Stielow2021The).
+
+
+## References
+
+
+[1. (Campbell2023Investigation) Bruce Campbell, Lisa M. Weber, Sandra J. Engle, Terence R. S. Ozolinš, Patricia Bourassa, Robert Aiello, and Robert Liefke. Investigation of samd1 ablation in mice. Scientific Reports, February 2023. URL: http://dx.doi.org/10.1038/s41598-023-29779-3, doi:10.1038/s41598-023-29779-3. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-023-29779-3)
+
+2. (Campbell2022Ablationa) Ablation of SAMD1 in Mice Causes Failure of Embryonic Blood Vessel Maturation and Embryonic Lethality. This article has 0 citations.
+
+[3. (Stielow2021The) Bastian Stielow, Yuqiao Zhou, Yinghua Cao, Clara Simon, Hans-Martin Pogoda, Junyi Jiang, Yanpeng Ren, Sabrina Keita Phanor, Iris Rohner, Andrea Nist, Thorsten Stiewe, Matthias Hammerschmidt, Yang Shi, Martha L. Bulyk, Zhanxin Wang, and Robert Liefke. The sam domain-containing protein 1 (samd1) acts as a repressive chromatin regulator at unmethylated cpg islands. Science Advances, May 2021. URL: http://dx.doi.org/10.1126/sciadv.abf2229, doi:10.1126/sciadv.abf2229. This article has 26 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.abf2229)
+
+4. (Campbell2022Ablation) Ablation of SAMD1 in Mice Causes Failure of Angiogenesis, Embryonic Lethality. This article has 1 citations.

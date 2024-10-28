@@ -1,0 +1,52 @@
+# AGMO
+
+## Overview
+The AGMO gene encodes the enzyme alkylglycerol monooxygenase, a critical component in lipid metabolism. This enzyme is a tetrahydrobiopterin-dependent monooxygenase that primarily functions in the endoplasmic reticulum, where it catalyzes the cleavage of the O-alkyl bond in ether lipids. These lipids are vital for various cellular processes, including membrane structure and signaling. Alkylglycerol monooxygenase is categorized as an integral membrane protein, characterized by its nine transmembrane domains and a Rieske-type iron-sulfur cluster essential for its catalytic activity (Mayer2013Expression; Watschinger2010Identification). The enzyme is predominantly expressed in the liver and white adipose tissue, playing a significant role in maintaining ether lipid homeostasis and influencing processes such as synaptic maintenance and myelination (Fischer2021AGMO). Mutations in the AGMO gene have been associated with various clinical conditions, including neurodevelopmental disorders and metabolic diseases, highlighting its importance in human health (Fischer2021AGMO; Okur2019Biallelic).
+
+## Structure
+AGMO (alkylglycerol monooxygenase) is an integral membrane protein with nine predicted transmembrane domains, which are crucial for its function in cleaving the O-alkyl ether bond of alkylglycerols in humans (Mayer2013Expression). The primary structure of AGMO consists of a sequence of amino acids that form these transmembrane domains, contributing to its localization in the endoplasmic reticulum. The secondary structure likely includes alpha helices, typical of transmembrane proteins, although specific details are not provided in the context.
+
+The tertiary structure of AGMO is stabilized by a Rieske-type iron-sulfur cluster, essential for its catalytic activity. This cluster is a common feature in enzymes that participate in electron transfer processes. The protein's quaternary structure may involve homodimer formation, which is suggested by its tendency to aggregate and the challenges faced in expressing soluble forms of the protein (Mayer2013Expression).
+
+Post-translational modifications and splice variants can influence AGMO's function and localization, although specific modifications or variants are not detailed in the provided context. The structural data provided by AlphaFold has significantly enhanced the understanding of AGMO, offering insights where no previous experimental models existed (PortaPardo2021The).
+
+## Function
+Alkylglycerol monooxygenase (AGMO) is a tetrahydrobiopterin-dependent enzyme that plays a crucial role in lipid metabolism by cleaving the O-alkyl bond of ether lipids, which are essential components of cell membranes and involved in various physiological processes (Watschinger2010Identification; Fischer2021AGMO). AGMO is primarily expressed in the liver and white adipose tissue, where it contributes to maintaining ether lipid homeostasis, impacting cellular and organismal health (Fischer2021AGMO). The enzyme's activity results in the production of glycerol and a toxic aldehyde derivative, which is rapidly converted to a fatty acid by fatty aldehyde dehydrogenase (FALDH) (Fischer2021AGMO).
+
+AGMO is localized to the endoplasmic reticulum, a key site for lipid production, and its activity is essential for processes such as synaptic structure maintenance, myelination, and blood-brain barrier regulation in the brain (Watschinger2010Identification; Fischer2021AGMO). The enzyme's function is also significant in adipocyte differentiation and macrophage polarization, influencing metabolic processes and inflammation (Fischer2021AGMO). AGMO's role in lipid metabolism is further highlighted by its involvement in the regulation of ether lipid concentrations, which are important for signal transduction and immune responses (Watschinger2010Identification; Dorninger2020Plasmalogens).
+
+## Clinical Significance
+Mutations in the AGMO gene have been linked to several diseases and conditions. In visceral leishmaniasis, two specific variants, c.701A > G and c.1213C > T, are associated with relapses in children in Sudan. These mutations are considered loss-of-function and are linked to an autosomal dominant transmission pattern, affecting macrophage-mediated immunity during the disease (Marquet2017Exome).
+
+AGMO mutations have also been implicated in a novel syndromic form of primary microcephaly. A single base deletion variant, c.967delA, was identified in a consanguineous Saudi family, leading to a frameshift and premature termination codon, which likely disrupts protein function (Alrayes2016The).
+
+In neurodevelopmental disorders, biallelic variants in AGMO result in significantly reduced enzyme activity. These variants include frameshift and stop-gain mutations, which are associated with developmental delays and neurological symptoms (Okur2019Biallelic).
+
+AGMO is also involved in metabolic diseases. Alterations in its expression can influence lipid metabolism, potentially contributing to conditions like diabetes and obesity. Inhibition of AGMO has been shown to reduce adipogenesis and affect macrophage polarization, suggesting its role in metabolic and inflammatory diseases (Fischer2021AGMO).
+
+## Interactions
+Alkylglycerol monooxygenase (AGMO) is known to interact with several proteins and cofactors that influence its enzymatic activity. One significant interaction is with the protein encoded by the TMEM195 gene, which is crucial for AGMO's function. TMEM195, identified as a transmembrane protein, is associated with AGMO activity and is localized in the endoplasmic reticulum. This interaction is essential for the hydroxylation of alkylglycerols, a process dependent on the cofactor tetrahydrobiopterin (BH4) (Watschinger2010Identification).
+
+AGMO also interacts functionally with fatty aldehyde dehydrogenase (ALDH3A2). Co-transfection of TMEM195 with ALDH3A2 in CHO cells significantly enhances AGMO activity, suggesting a synergistic relationship between these proteins in lipid metabolism (Watschinger2010Identification).
+
+The enzyme's activity is influenced by its requirement for BH4, which is also a cofactor for other enzymes like nitric oxide synthases. This dependency suggests potential competitive interactions for BH4, particularly under conditions where BH4 demand is increased (Fischer2021AGMO). AGMO's interactions with these proteins and cofactors highlight its role in lipid metabolism and its potential involvement in various cellular processes.
+
+
+## References
+
+
+[1. (Watschinger2010Identification) Katrin Watschinger, Markus A. Keller, Georg Golderer, Martin Hermann, Manuel Maglione, Bettina Sarg, Herbert H. Lindner, Albin Hermetter, Gabriele Werner-Felmayer, Robert Konrat, Nicolas Hulo, and Ernst R. Werner. Identification of the gene encoding alkylglycerol monooxygenase defines a third class of tetrahydrobiopterin-dependent enzymes. Proceedings of the National Academy of Sciences, 107(31):13672–13677, July 2010. URL: http://dx.doi.org/10.1073/pnas.1002404107, doi:10.1073/pnas.1002404107. This article has 64 citations.](https://doi.org/10.1073/pnas.1002404107)
+
+[2. (Okur2019Biallelic) Volkan Okur, Katrin Watschinger, Dmitriy Niyazov, Julie McCarrier, Donald Basel, Martin Hermann, Ernst R. Werner, and Wendy K. Chung. Biallelic variants in agmo with diminished enzyme activity are associated with a neurodevelopmental disorder. Human Genetics, 138(11–12):1259–1266, September 2019. URL: http://dx.doi.org/10.1007/s00439-019-02065-x, doi:10.1007/s00439-019-02065-x. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00439-019-02065-x)
+
+[3. (Marquet2017Exome) Sandrine Marquet, Bruno Bucheton, Camille Reymond, Laurent Argiro, Sayda Hassan EL-Safi, Musa Mohamed Kheir, Jean-Pierre Desvignes, Christophe Béroud, Adil Mergani, Awad Hammad, and Alain J. Dessein. Exome sequencing identifies two variants of the alkylglycerol monooxygenase gene as a cause of relapses in visceral leishmaniasis in children, in sudan. The Journal of Infectious Diseases, 216(1):22–28, June 2017. URL: http://dx.doi.org/10.1093/infdis/jix277, doi:10.1093/infdis/jix277. This article has 10 citations.](https://doi.org/10.1093/infdis/jix277)
+
+[4. (Mayer2013Expression) Matthias Mayer, Markus A. Keller, Katrin Watschinger, Gabriele Werner-Felmayer, Ernst R. Werner, and Georg Golderer. Expression of full-length human alkylglycerol monooxygenase and fragments in escherichia coli. Pteridines, 24(1):111–115, May 2013. URL: http://dx.doi.org/10.1515/pterid-2013-0014, doi:10.1515/pterid-2013-0014. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/pterid-2013-0014)
+
+[5. (Fischer2021AGMO) Caroline Fischer, Annett Wilken-Schmitz, Victor Hernandez-Olmos, Ewgenij Proschak, Holger Stark, Ingrid Fleming, Andreas Weigert, Manuela Thurn, Martine Hofmann, Ernst R. Werner, Gerd Geisslinger, Ellen Niederberger, Katrin Watschinger, and Irmgard Tegeder. Agmo inhibitor reduces 3t3-l1 adipogenesis. Cells, 10(5):1081, May 2021. URL: http://dx.doi.org/10.3390/cells10051081, doi:10.3390/cells10051081. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells10051081)
+
+[6. (Dorninger2020Plasmalogens) Fabian Dorninger, Sonja Forss-Petter, Isabella Wimmer, and Johannes Berger. Plasmalogens, platelet-activating factor and beyond – ether lipids in signaling and neurodegeneration. Neurobiology of Disease, 145:105061, November 2020. URL: http://dx.doi.org/10.1016/j.nbd.2020.105061, doi:10.1016/j.nbd.2020.105061. This article has 82 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.nbd.2020.105061)
+
+[7. (Alrayes2016The) Nuha Alrayes, Hussein Sheikh Ali Mohamoud, Saleem Ahmed, Mona Mohammad Almramhi, Taghreed Mohammad Shuaib, Jun Wang, Jumana Yousuf Al-Aama, Kate Everett, Jamal Nasir, and Musharraf Jelani. The alkylglycerol monooxygenase (agmo) gene previously involved in autism also causes a novel syndromic form of primary microcephaly in a consanguineous saudi family. Journal of the Neurological Sciences, 363:240–244, April 2016. URL: http://dx.doi.org/10.1016/j.jns.2016.02.063, doi:10.1016/j.jns.2016.02.063. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jns.2016.02.063)
+
+8. (PortaPardo2021The) The structural coverage of the human proteome before and after AlphaFold. This article has 5 citations.

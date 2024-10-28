@@ -1,0 +1,56 @@
+# CREBZF
+
+## Overview
+CREBZF is a gene that encodes the CREB/ATF bZIP transcription factor, also known as Zhangfei, which is a member of the basic leucine zipper (bZIP) family of transcription factors. This protein plays a crucial role in regulating various cellular processes, including the unfolded protein response (UPR), cell growth, and apoptosis. It functions primarily as a transcriptional coregulator, interacting with other proteins to modulate their activity rather than binding DNA directly as a homodimer. CREBZF is involved in significant cellular pathways, such as the stabilization of the tumor suppressor protein p53 and the modulation of bone morphogenetic protein (BMP) signaling. Its interactions with proteins like STAT3, Smad8, and ATF4 highlight its diverse regulatory roles. Clinically, alterations in CREBZF expression have been linked to various cancers, where it often acts as a tumor suppressor, making it a potential biomarker and therapeutic target (Zhang2013Effects; Zhou2023CREBZF; Lee2012CREBZF).
+
+## Structure
+The CREBZF protein, also known as Zhangfei, is a basic leucine zipper (bZIP) transcription factor. Its primary structure includes a polypeptide of 354 amino acids, with the potential for alternative splicing and differential translational initiation, resulting in multiple isoforms (Li2022A). The protein contains a leucine zipper and a basic region, which lacks an asparagine residue typically conserved in most bLZip proteins (Zhang2013Effects). This structure facilitates its interaction with other proteins rather than binding DNA as a homodimer (Zhang2010Amino).
+
+CREBZF can produce several isoforms, including a long isoform (lZF), a short isoform (sZF), and a short-tailed isoform (stZF), which is induced by prolonged ER stress and includes a pentapeptide tail, IFFFR, at the C-terminus (Li2022A). The stZF isoform is particularly significant for activating the pro-apoptotic protein CHOP during cellular stress (Li2022A). The long isoforms have a molecular mass of approximately 52 kDa, which is greater than the calculated mass due to post-translational modifications on the extra 82 amino acids at the N-terminus (Li2022A). These modifications likely contribute to the protein's functional diversity.
+
+## Function
+CREBZF, also known as Zhangfei, is a transcriptional coregulator involved in various cellular processes, including the unfolded protein response (UPR) and cell growth regulation. In healthy human cells, CREBZF plays a significant role in modulating the UPR, a cellular stress response related to the endoplasmic reticulum. It achieves this by interacting with and suppressing the activity of transcription factors such as Xbp1s, leading to the degradation of Xbp1s and reducing the expression of UPR-related genes and proteins (Zhang2013ZhangfeiCREBZF).
+
+CREBZF also interacts with the tumor suppressor protein p53, stabilizing it by displacing Mdm2, a protein that facilitates p53 degradation. This interaction enhances p53's tumor suppressor functions, such as cell growth arrest and apoptosis, particularly in cells with functional p53 (Zhang2013Effects). CREBZF's influence on p53 is mediated through its basic-region leucine zipper domain, which is crucial for its regulatory functions (Zhang2013Effects).
+
+In addition to its role in stress responses, CREBZF is involved in chromatin modification processes, interacting with proteins like HCF-1 to influence histone methylation and gene expression (Jueraitetibaike2023MiR4255p). These activities highlight CREBZF's importance in maintaining cellular homeostasis and regulating stress responses.
+
+## Clinical Significance
+Alterations in the expression of the CREBZF gene have been implicated in various cancers, including gastric cancer (GC) and breast cancer (BC). In gastric cancer, CREBZF acts as a tumor suppressor by enhancing p53 activity, a key tumor suppressor protein. The downregulation of CREBZF, often mediated by upregulated miRNAs such as hsa-miR-421 and hsa-miR-29b-1-5p, is associated with increased cell migration and progression from gastric adenoma/dysplasia to gastric adenocarcinoma (Kim2020miRNAs). In breast cancer, CREBZF inhibits the transcription of ADAR1 by suppressing STAT3 dimerization, which is crucial for cell cycle progression. Overexpression of CREBZF in BC cells suppresses proliferation and promotes apoptosis, suggesting its potential as a therapeutic target (Zhou2023CREBZF).
+
+CREBZF is also involved in the unfolded protein response (UPR) and cellular stress responses. It can induce apoptosis by promoting p53 stabilization and nuclear retention, which may be leveraged for cancer treatment (Zhang2013Effects). In canine osteosarcoma, CREBZF suppresses cell growth and metastasis by stabilizing p53, although its effectiveness may depend on the presence of functional p53 (Zhang2015The). These findings highlight the clinical significance of CREBZF in cancer progression and its potential as a biomarker and therapeutic target.
+
+## Interactions
+CREBZF, also known as Zhangfei, is a basic leucine zipper (bZIP) transcription factor that interacts with various proteins, influencing multiple cellular pathways. It interacts with the STAT3 protein, affecting its dimerization and transcriptional activity. Overexpression of CREBZF in breast cancer cells hinders STAT3 dimerization, leading to decreased ADAR1 expression and increased circPAPD4 levels (Zhou2023CREBZF).
+
+CREBZF also binds to Smad8, as well as Smads 1 and 5, which are involved in the bone morphogenetic protein (BMP) signaling pathways. This interaction inhibits the promoter activity of the BMP response element, suggesting a role in modulating BMP signaling (Lee2012CREBZF).
+
+In the context of cellular stress responses, CREBZF interacts with ATF4, enhancing its binding to the cyclic AMP response element (CRE) and augmenting its transactivation potential. This interaction is facilitated through their bZIP regions, forming heterodimeric complexes (Hogan2005Cooperative).
+
+CREBZF also interacts with the host cell factor (HCF), inhibiting the transcription factor Luman, which requires HCF for its activity. This interaction is crucial for CREBZF's ability to suppress Luman's transcriptional activation (Misra2005Zhangfei).
+
+
+## References
+
+
+[1. (Hogan2005Cooperative) Melissa R. Hogan, Gregory P. Cockram, and Rui Lu. Cooperative interaction of zhangfei and atf4 in transactivation of the cyclic amp response element. FEBS Letters, 580(1):58–62, December 2005. URL: http://dx.doi.org/10.1016/j.febslet.2005.11.046, doi:10.1016/j.febslet.2005.11.046. This article has 44 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.febslet.2005.11.046)
+
+[2. (Misra2005Zhangfei) Vikram Misra, Noreen Rapin, Oksana Akhova, Matthew Bainbridge, and Paul Korchinski. Zhangfei is a potent and specific inhibitor of the host cell factor-binding transcription factor luman. Journal of Biological Chemistry, 280(15):15257–15266, April 2005. URL: http://dx.doi.org/10.1074/jbc.m500728200, doi:10.1074/jbc.m500728200. This article has 36 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m500728200)
+
+[3. (Lee2012CREBZF) Jae-Ho Lee, Geun Taek Lee, Seok Joo Kwon, Jeongyun Jeong, Yun-Sok Ha, Wun-Jae Kim, and Isaac Yi Kim. Crebzf, a novel smad8-binding protein. Molecular and Cellular Biochemistry, 368(1–2):147–153, June 2012. URL: http://dx.doi.org/10.1007/s11010-012-1353-4, doi:10.1007/s11010-012-1353-4. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11010-012-1353-4)
+
+[4. (Zhou2023CREBZF) Boxuan Zhou, Jinhua Xue, Runxin Wu, Hongyu Meng, Ruixi Li, Zhaohong Mo, Hang Zhai, Xianyu Chen, Rongqiang Liu, Guie Lai, Xiaohong Chen, Taiyuan Li, and Shiyang Zheng. Crebzf mrna nanoparticles suppress breast cancer progression through a positive feedback loop boosted by circpapd4. Journal of Experimental &amp; Clinical Cancer Research, June 2023. URL: http://dx.doi.org/10.1186/s13046-023-02701-5, doi:10.1186/s13046-023-02701-5. This article has 9 citations.](https://doi.org/10.1186/s13046-023-02701-5)
+
+[5. (Zhang2010Amino) Yani Zhang, Yaping Jin, Tegan A. Williams, Sally M. Burtenshaw, Amanda C. Martyn, and Rui Lu. Amino acid deprivation induces crebzf/zhangfei expression via an aare-like element in the promoter. Biochemical and Biophysical Research Communications, 391(3):1352–1357, January 2010. URL: http://dx.doi.org/10.1016/j.bbrc.2009.12.059, doi:10.1016/j.bbrc.2009.12.059. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2009.12.059)
+
+6. (Li2022A) A CREBZF/Zhangfei isoform activates CHOP during prolonged cellular stress. This article has 2 citations.
+
+[7. (Zhang2013Effects) Rui Zhang and Vikram Misra. Effects of cyclic amp response element binding protein–zhangfei (crebzf) on the unfolded protein response and cell growth are exerted through the tumor suppressor p53. Cell Cycle, 13(2):279–292, November 2013. URL: http://dx.doi.org/10.4161/cc.27053, doi:10.4161/cc.27053. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/cc.27053)
+
+[8. (Zhang2013ZhangfeiCREBZF) Rui Zhang, Noreen Rapin, Zhengxin Ying, Erika Shklanka, Timothy W. Bodnarchuk, Valerie M. K. Verge, and Vikram Misra. Zhangfei/creb-zf – a potential regulator of the unfolded protein response. PLoS ONE, 8(10):e77256, October 2013. URL: http://dx.doi.org/10.1371/journal.pone.0077256, doi:10.1371/journal.pone.0077256. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0077256)
+
+[9. (Zhang2015The) Rui Zhang, Douglas H Thamm, and Vikram Misra. The effect of zhangfei/crebzf on cell growth, differentiation, apoptosis, migration, and the unfolded protein response in several canine osteosarcoma cell lines. BMC Veterinary Research, February 2015. URL: http://dx.doi.org/10.1186/s12917-015-0331-y, doi:10.1186/s12917-015-0331-y. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12917-015-0331-y)
+
+[10. (Kim2020miRNAs) Yu Jin Kim, Seongtae Jeong, Woon Yong Jung, Jung-Won Choi, Ki-Chul Hwang, Sang Woo Kim, and Yong Chan Lee. Mirnas as potential biomarkers for the progression of gastric cancer inhibit crebzf and regulate migration of gastric adenocarcinoma cells. International Journal of Medical Sciences, 17(6):693–701, 2020. URL: http://dx.doi.org/10.7150/ijms.42654, doi:10.7150/ijms.42654. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/ijms.42654)
+
+[11. (Jueraitetibaike2023MiR4255p) Kadiliya Jueraitetibaike, Ting Tang, Rujun Ma, Shanmeizi Zhao, Ronghua Wu, Yang Yang, Xuan Huang, Xi Cheng, Cheng Zhou, Hong Zhang, Lu Zheng, Xie Ge, Li Chen, and Bing Yao. Mir-425-5p suppression of crebzf regulates oocyte aging via chromatin modification. GeroScience, 46(4):3723–3742, August 2023. URL: http://dx.doi.org/10.1007/s11357-023-00875-6, doi:10.1007/s11357-023-00875-6. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11357-023-00875-6)

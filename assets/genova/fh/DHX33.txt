@@ -1,0 +1,50 @@
+# DHX33
+
+## Overview
+DHX33 is a gene that encodes the DEAH-box helicase 33, a member of the DEAH-box family of RNA helicases. This protein is characterized by its role in RNA metabolism, particularly in ribosomal RNA synthesis and mRNA translation, which are critical for cell growth and proliferation (Zhang2021DEAD-Box). As an RNA helicase, DEAH-box helicase 33 is involved in unwinding RNA structures, a function essential for various cellular processes, including the regulation of the cell cycle and programmed cell death (Samir2022DEAD/H-Box). The protein is primarily localized in the nucleus but also has significant cytoplasmic functions, indicating its involvement in translation regulation (Shen2020General). Clinically, DHX33 has been implicated in cancer and immune responses, where its expression levels and functional alterations can influence tumorigenesis and inflammasome activation, respectively (Samir2022DEAD/H-Box; Shen2020General).
+
+## Structure
+The DHX33 protein is a member of the DEAH-box family of RNA helicases, characterized by a conserved helicase core composed of two RecA-like domains, RecA1 and RecA2, which form a nucleotide triphosphate (NTP) binding cleft and a single-stranded nucleic acid binding surface (Chen2017Structural; Enders2024Functional). These domains are crucial for ATP binding and hydrolysis, as well as RNA binding and unwinding activities (Shih2014Human). The DEAH/RHA helicases, including DHX33, lack a Q-motif, allowing them to bind and hydrolyze various nucleotide triphosphates (Chen2017Structural).
+
+The C-terminal region of DHX33 includes several sub-domains, such as a winged-helix (WH), ratchet-like (RL), and oligonucleotide-binding (OB) fold, which contribute to its functional specificity and stability (Chen2017Structural; Enders2024Functional). These domains are involved in RNA substrate interaction and are essential for the helicase's physiological roles (Enders2024Functional).
+
+Post-translational modifications, such as phosphorylation, play a role in regulating DHX33's activity, particularly in its interaction with transcription factors like UBF, which is crucial for rRNA synthesis (Zhang2011Identification). However, specific details on the primary, secondary, tertiary, or quaternary structures of DHX33 are not provided in the available context.
+
+## Function
+DHX33 (DEAH-box helicase 33) is an RNA helicase involved in several critical cellular processes, primarily related to RNA metabolism and cell cycle regulation. In healthy human cells, DHX33 plays a significant role in ribosomal RNA synthesis and mRNA translation, which are essential for cell growth and proliferation (Zhang2021DEAD-Box). It is particularly crucial for the G1-to-S phase transition in the cell cycle, where it recruits active RNA polymerase II to the promoters of cell-cycle-related genes, such as cyclin E2, cyclin D1, and E2F1, initiating their transcription (Zhang2021DEAD-Box).
+
+DHX33 is also involved in programmed cell death and immune responses. It acts as an RNA sensor that triggers the activation of the NLRP3 inflammasome, promoting caspase-1 cleavage and cytokine processing, which are vital for inflammasome-dependent immune responses (Samir2022DEAD/H-Box). This function is mediated by interactions between the DEAD domain of DHX33 and the NACHT domain of NLRP3 (Samir2022DEAD/H-Box).
+
+In terms of cellular localization, DHX33 is primarily nuclear but also has a significant cytoplasmic presence, where it associates with monosomes and certain ribosomal proteins, indicating a role in translation regulation (Shen2020General).
+
+## Clinical Significance
+DHX33 has been implicated in various diseases, particularly cancer. It is highly expressed in several cancer types, including glioblastoma, where its knockdown in the U118-MG glioblastoma cell line results in reduced cell proliferation, migration, and anchorage-independent growth, indicating its role in tumorigenesis (Shen2020General). Overexpression of DHX33 has been associated with resistance to mTOR inhibitors like rapamycin and Torin1, suggesting its involvement in cancer cell survival and resistance to therapy (Shen2020General).
+
+In the context of immune responses, DHX33 is involved in innate immune activation through pathways such as IRF3, MAPK, and NF-κB, and it activates the NLRP3 inflammasome. Depletion of DHX33 leads to reduced secretion of cytokines IL-18 and IL1-β upon stimulation, indicating its role in immune regulation (Bonaventure2022DExH/D-box). It acts as a sensor of virus-derived double-stranded RNA, promoting inflammasome activation and cytokine processing, which are crucial for immune responses to viral and bacterial infections (Samir2022DEAD/H-Box).
+
+These findings suggest that alterations in DHX33 expression or function could impact cancer progression and immune responses, potentially linking it to diseases involving dysregulated inflammasome activity (Samir2022DEAD/H-Box).
+
+## Interactions
+DHX33 is a nucleolar RNA helicase that plays a significant role in ribosomal RNA (rRNA) synthesis and cell growth. It interacts with ribosomal DNA (rDNA) and the upstream binding factor (UBF), a transcription factor associated with RNA polymerase I (Pol I) transcription. Chromatin immunoprecipitation (ChIP) analysis has shown that DHX33 associates with both the promoter and transcribed regions of rDNA, indicating its involvement beyond transcriptional initiation (Zhang2011Identification). The interaction between DHX33 and rDNA is facilitated by a critical 15-amino-acid motif, and deletion of this motif impairs its DNA binding activity (Zhang2011Identification).
+
+DHX33 is crucial for the phosphorylation of UBF on Ser484, which is necessary for recruiting RNA polymerase I components to the rDNA locus. Knockdown of DHX33 results in reduced UBF phosphorylation and a failure to recruit RPA194, a core component of RNA polymerase I, to rDNA loci (Zhang2011Identification). DHX33's NTPase activity is essential for its function in rRNA transcription, as mutations in the NTPase domain significantly affect pre-rRNA synthesis (Zhang2011Identification). The protein also interacts with UBF, as demonstrated by coimmunoprecipitation experiments, highlighting its role in nucleolar organization and rRNA transcription (Zhang2011Identification).
+
+
+## References
+
+
+[1. (Zhang2021DEAD-Box) Lu Zhang and Xiaogang Li. Dead-box rna helicases in cell cycle control and clinical therapy. Cells, 10(6):1540, June 2021. URL: http://dx.doi.org/10.3390/cells10061540, doi:10.3390/cells10061540. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells10061540)
+
+[2. (Shih2014Human) Jing-Wen Shih and Yan-Hwa Wu Lee. Human dexd/h rna helicases: emerging roles in stress survival regulation. Clinica Chimica Acta, 436:45–58, September 2014. URL: http://dx.doi.org/10.1016/j.cca.2014.05.003, doi:10.1016/j.cca.2014.05.003. This article has 42 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cca.2014.05.003)
+
+[3. (Bonaventure2022DExH/D-box) Boris Bonaventure and Caroline Goujon. Dexh/d-box helicases at the frontline of intrinsic and innate immunity against viral infections. Journal of General Virology, August 2022. URL: http://dx.doi.org/10.1099/jgv.0.001766, doi:10.1099/jgv.0.001766. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1099/jgv.0.001766)
+
+[4. (Chen2017Structural) Michael C. Chen and Adrian R. Ferré-D’Amaré. Structural basis of deah/rha helicase activity. Crystals, 7(8):253, August 2017. URL: http://dx.doi.org/10.3390/CRYST7080253, doi:10.3390/cryst7080253. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/CRYST7080253)
+
+5. (Enders2024Functional) Functional and Structural Characterization of the DEAH-box Helicase Prp43. This article has 0 citations.
+
+[6. (Samir2022DEAD/H-Box) Parimal Samir and Thirumala-Devi Kanneganti. Dead/h-box helicases in immunity, inflammation, cell differentiation, and cell death and disease. Cells, 11(10):1608, May 2022. URL: http://dx.doi.org/10.3390/cells11101608, doi:10.3390/cells11101608. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells11101608)
+
+[7. (Zhang2011Identification) Yandong Zhang, Jason T. Forys, Alexander P. Miceli, Abigail S. Gwinn, and Jason D. Weber. Identification of dhx33 as a mediator of rrna synthesis and cell growth. Molecular and Cellular Biology, 31(23):4676–4691, December 2011. URL: http://dx.doi.org/10.1128/mcb.05832-11, doi:10.1128/mcb.05832-11. This article has 71 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.05832-11)
+
+[8. (Shen2020General) Leo Shen and Jerry Pelletier. General and target-specific dexd/h rna helicases in eukaryotic translation initiation. International Journal of Molecular Sciences, 21(12):4402, June 2020. URL: http://dx.doi.org/10.3390/ijms21124402, doi:10.3390/ijms21124402. This article has 47 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21124402)

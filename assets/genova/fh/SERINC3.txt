@@ -1,0 +1,54 @@
+# SERINC3
+
+## Overview
+SERINC3 is a gene that encodes the protein serine incorporator 3, which is a transmembrane protein involved in the incorporation of serine into membrane lipids. This protein plays a critical role in lipid biosynthesis and maintaining membrane integrity. Structurally, serine incorporator 3 is characterized by multiple transmembrane domains and a unique α-helical configuration, which facilitates its function as a lipid transporter (Leonhardt2022CryoEM; Leonhardt2023Antiviral). Functionally, it is implicated in various cellular processes, including membrane trafficking and signal transduction, and has a significant role in modulating immune responses and viral infectivity (de2019The; Xu2022The). SERINC3 interacts with clathrin adaptor protein complexes and the HIV-1 Nef protein, highlighting its involvement in viral-host interactions (Singh2018Phosphoserine; Fackler2015Spotlight). Clinically, alterations in SERINC3 expression are associated with disease progression in conditions such as prostate cancer and viral infections, including HIV-1 and potentially SARS-CoV-2 (Cotroneo2021Lung; Samaržija2023Prognostic).
+
+## Structure
+The SERINC3 protein is characterized by a complex molecular structure that includes multiple transmembrane domains. It is composed of two α-helical bundles connected by a highly tilted 'crossmember' α-helix, resembling the structure of non-ATP-dependent lipid transporters (Leonhardt2022CryoEM; Leonhardt2023Antiviral). The proximal bundle includes helices H5, H6, H7, and H10, while the distal bundle contains helices H1, H2, H3, and H9 (Leonhardt2022CryoEM). 
+
+The protein's tertiary structure is conserved across the SERINC family, with sequence identities of 39.1% and 51.9% with hSERINC5 and hSERINC2, respectively (Leonhardt2022CryoEM). SERINC3 has ten predicted transmembrane domains and a single N-glycosylation site, which may play a role in its function as a lipid transporter (Leonhardt2023Antiviral). 
+
+The protein's structure facilitates its function as a lipid transporter, with the cleft between the helical bundles potentially serving as an entry portal for lipids (Leonhardt2022CryoEM). The protein's ability to flip lipids is supported by its structural resemblance to other lipid transporters and its activity in proteoliposomes (Leonhardt2022CryoEM).
+
+## Function
+SERINC3 is a protein involved in the incorporation of serine into membrane lipids, which is crucial for lipid biosynthesis and maintaining membrane structure. It is primarily active in the cell membrane, where it plays a role in cellular processes such as membrane trafficking and signal transduction (Xu2022The). SERINC3 is also implicated in modulating the infectivity of certain viruses by altering the lipid composition of viral envelopes, thereby affecting viral entry into host cells (de2019The).
+
+In the context of immune response, SERINC3, along with SERINC5, enhances the expression of genes encoding type I interferons (IFNs) and nuclear factor κB (NF-κB) signaling, which are crucial for antiviral responses (Zeng2021SERINC). Knockdown of SERINC3 in human monocyte-derived macrophages results in reduced mRNA levels of IFN-α, IFN-β, IL-6, and TNF-α, indicating its role in positively regulating these cytokines (Zeng2021SERINC). SERINC3 is also involved in the inhibition of HIV-1 release, where it potentiates the inhibitory effect of TIM-1 on HIV-1 production, particularly in the absence of the Nef protein (Li2019TIMmediated). These functions suggest that SERINC3 plays a significant role in modulating immune responses and viral infectivity.
+
+## Clinical Significance
+SERINC3 has been implicated in various diseases and conditions due to alterations in its expression levels and interactions. In prostate cancer, higher expression of SERINC3 is associated with an increased risk of disease progression, particularly in patients with a high Gleason score. This suggests that SERINC3 may enhance the biosynthesis of phosphatidylserine and sphingolipids, which are involved in prostate tumorigenesis (Samaržija2023Prognostic).
+
+SERINC3 also plays a role in viral infections. It acts as a restriction factor against HIV-1, inhibiting viral infectivity. The HIV-1 Nef protein counteracts this restriction by preventing the incorporation of SERINC3 into virions, thereby enhancing viral replication. Variations in the Nef protein's ability to antagonize SERINC3 have been observed across different HIV subtypes, potentially influencing disease progression (Fackler2015Spotlight).
+
+In the context of SARS-CoV-2, SERINC3 is among the genes whose expression is modulated by genetic variants, potentially affecting individual susceptibility to infection. However, specific diseases or conditions directly linked to SERINC3 mutations or expression changes in this context are not detailed (Cotroneo2021Lung).
+
+## Interactions
+SERINC3 interacts with the μ subunits of clathrin adaptor protein complexes, specifically AP-1 and AP-2, through its phosphoserine acidic cluster (PSAC) motif located in its cytoplasmic domain. This interaction is phosphorylation-dependent, with casein kinase II phosphorylating serines within the PSAC, particularly serines 380 and 383, which are crucial for binding. Phosphoserine 383 is especially important due to its negative charge, facilitating the interaction with the μ subunits (Singh2018Phosphoserine).
+
+The PSAC motif in SERINC3 binds to a basic region on the μ2 subunit associated with the binding of the acidic phospholipid PIP2, suggesting a role in membrane trafficking (Singh2018Phosphoserine). This interaction is part of a broader mechanism by which SERINC3 may influence viral-host interactions, particularly in the context of retroviruses like HIV-1 (Singh2018Phosphoserine).
+
+SERINC3 is also known to interact with the HIV-1 Nef protein, which counteracts its antiviral activity. Nef reduces the incorporation of SERINC3 into virions by redistributing it from the plasma membrane to an intracellular compartment, thus preventing its antiviral function (Fackler2015Spotlight). This interaction highlights a mechanism by which HIV-1 evades host cell restriction factors to enhance its infectivity (Fackler2015Spotlight).
+
+
+## References
+
+
+[1. (Zeng2021SERINC) Cong Zeng, Abdul A. Waheed, Tianliang Li, Jingyou Yu, Yi-Min Zheng, Jacob S. Yount, Haitao Wen, Eric O. Freed, and Shan-Lu Liu. Serinc proteins potentiate antiviral type i ifn production and proinflammatory signaling pathways. Science Signaling, September 2021. URL: http://dx.doi.org/10.1126/scisignal.abc7611, doi:10.1126/scisignal.abc7611. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1126/scisignal.abc7611)
+
+2. (Leonhardt2022CryoEM) CryoEM Structures of the Human HIV-1 Restriction Factor SERINC3 and Function as a Lipid Transporter. This article has 5 citations.
+
+[3. (Cotroneo2021Lung) Chiara E. Cotroneo, Nunzia Mangano, Tommaso A. Dragani, and Francesca Colombo. Lung expression of genes putatively involved in sars-cov-2 infection is modulated in cis by germline variants. European Journal of Human Genetics, 29(6):1019–1026, March 2021. URL: http://dx.doi.org/10.1038/s41431-021-00831-y, doi:10.1038/s41431-021-00831-y. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41431-021-00831-y)
+
+[4. (de2019The) Patrícia de Sousa-Pereira, Joana Abrantes, Stefan Bauernfried, Virginia Pierini, Pedro José Esteves, Oliver T. Keppler, Massimo Pizzato, Veit Hornung, Oliver T. Fackler, and Hanna-Mari Baldauf. The antiviral activity of rodent and lagomorph serinc3 and serinc5 is counteracted by known viral antagonists. Journal of General Virology, 100(2):278–288, February 2019. URL: http://dx.doi.org/10.1099/jgv.0.001201, doi:10.1099/jgv.0.001201. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1099/jgv.0.001201)
+
+[5. (Xu2022The) Shaofen Xu, Zhichao Zheng, Janak L. Pathak, Haoyu Cheng, Ziliang Zhou, Yanping Chen, Qiuyu Wu, Lijing Wang, Mingtao Zeng, and Lihong Wu. The emerging role of the serine incorporator protein family in regulating viral infection. Frontiers in Cell and Developmental Biology, April 2022. URL: http://dx.doi.org/10.3389/fcell.2022.856468, doi:10.3389/fcell.2022.856468. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.856468)
+
+[6. (Li2019TIMmediated) Minghua Li, Abdul A. Waheed, Jingyou Yu, Cong Zeng, Hui-Yu Chen, Yi-Min Zheng, Amin Feizpour, Björn M. Reinhard, Suryaram Gummuluru, Steven Lin, Eric O. Freed, and Shan-Lu Liu. Tim-mediated inhibition of hiv-1 release is antagonized by nef but potentiated by serinc proteins. Proceedings of the National Academy of Sciences, 116(12):5705–5714, March 2019. URL: http://dx.doi.org/10.1073/pnas.1819475116, doi:10.1073/pnas.1819475116. This article has 28 citations.](https://doi.org/10.1073/pnas.1819475116)
+
+[7. (Leonhardt2023Antiviral) Susan A. Leonhardt, Michael D. Purdy, Jonathan R. Grover, Ziwei Yang, Sandra Poulos, William E. McIntire, Elizabeth A. Tatham, Satchal K. Erramilli, Kamil Nosol, Kin Kui Lai, Shilei Ding, Maolin Lu, Pradeep D. Uchil, Andrés Finzi, Alan Rein, Anthony A. Kossiakoff, Walther Mothes, and Mark Yeager. Antiviral hiv-1 serinc restriction factors disrupt virus membrane asymmetry. Nature Communications, July 2023. URL: http://dx.doi.org/10.1038/s41467-023-39262-2, doi:10.1038/s41467-023-39262-2. This article has 10 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-39262-2)
+
+[8. (Samaržija2023Prognostic) Ivana Samaržija, Koraljka Gall Trošelj, and Paško Konjevoda. Prognostic significance of amino acid metabolism-related genes in prostate cancer retrieved by machine learning. Cancers, 15(4):1309, February 2023. URL: http://dx.doi.org/10.3390/cancers15041309, doi:10.3390/cancers15041309. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers15041309)
+
+9. (Singh2018Phosphoserine) Phosphoserine acidic cluster motifs in the cytoplasmic domains of transmembrane proteins bind distinct basic regions on the μ subunits of clathrin adaptor protein complexes. This article has 0 citations.
+
+[10. (Fackler2015Spotlight) Oliver Fackler. Spotlight on hiv-1 nef: serinc3 and serinc5 identified as restriction factors antagonized by the pathogenesis factor. Viruses, 7(12):6730–6738, December 2015. URL: http://dx.doi.org/10.3390/v7122970, doi:10.3390/v7122970. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/v7122970)

@@ -1,0 +1,44 @@
+# AREL1
+
+## Overview
+AREL1, or apoptosis resistant E3 ubiquitin protein ligase 1, is a gene that encodes a HECT-type E3 ubiquitin ligase protein involved in the ubiquitination process, a critical cellular mechanism for protein degradation and regulation. The AREL1 protein plays a pivotal role in maintaining cellular homeostasis by modulating apoptosis and necroptosis pathways, as well as regulating inflammatory responses. It achieves this by targeting specific proteins, such as inhibitors of apoptosis proteins (IAP) antagonists and Metaxin 2, for ubiquitination and subsequent degradation. This activity is crucial for inhibiting apoptosis and controlling inflammation through the regulation of cytokines like interleukin-1β (IL-1β) (Jo2021AREL1; Mishra2023IL1β). The gene's expression and function have been linked to various diseases, including neurodegenerative disorders and conditions involving immune dysregulation, highlighting its clinical significance (Rydbirk2020Epigenetic).
+
+## Structure
+AREL1 is a HECT-type E3 ubiquitin ligase with a distinct molecular structure that includes an extended HECT domain. This domain spans amino acids 436-823 and adopts an inverted T-shaped, bilobed conformation, consisting of an N-lobe and a C-lobe. The N-lobe is divided into a large subdomain (amino acids 483-589 and 669-705) and a small subdomain (amino acids 595-668), connected by a short linker (amino acids 590-594). The large subdomain contains 11 alpha-helices and four beta-strands, while the small subdomain includes three alpha-helices and two beta-strands, which are involved in E2 enzyme interaction (Singh2019Structural).
+
+The C-lobe (amino acids 712-823) houses the catalytic cysteine residue (Cys 790) and comprises five alpha-helices and four beta-strands. A unique feature of AREL1 is an additional loop (amino acids 567-573) in the N-lobe large subdomain, which is absent in other HECT family members (Singh2019Structural). The N-terminal extended region (amino acids 436-482) is crucial for the stability and activity of the HECT domain, as it shields the hydrophobic surface on the N-lobe large subdomain (Singh2019Structural).
+
+AREL1 can assemble Lys 33, Lys 48, and Lys 63-linked polyubiquitin chains, indicating its specificity in polyubiquitin chain linkage formation (Singh2019Structural). The protein's activity is modulated by specific mutations, such as the E701A substitution, which increases ubiquitination activity (Singh2019Structural).
+
+## Function
+AREL1 (apoptosis resistant E3 ubiquitin protein ligase 1) is a HECT-type E3 ubiquitin ligase involved in the ubiquitination process, which tags proteins for degradation by the proteasome. This regulation is crucial for maintaining protein homeostasis, controlling cell cycle progression, and modulating apoptosis. AREL1 is active in both the cytoplasm and nucleus, influencing cellular stress responses and survival pathways (Singh2019Structural).
+
+In healthy human cells, AREL1 plays a significant role in inhibiting apoptosis by ubiquitinating inhibitors of apoptosis proteins (IAP) antagonists such as SMAC, HtrA2, and ARTS. This ubiquitination prevents the activation of caspase-3, a crucial enzyme in the execution phase of apoptosis, thereby inhibiting cell death (Jo2021AREL1). AREL1 also targets Metaxin 2 (MTX2) for degradation, inhibiting TNF-induced necroptosis, another form of programmed cell death (Jo2021AREL1).
+
+AREL1 is involved in the regulation of cytokine interleukin-1β (IL-1β) by promoting its ubiquitylation and proteasomal degradation, thus controlling its abundance and preventing excessive inflammation. This process is essential for maintaining IL-1β homeostasis and limiting inflammation (Mishra2023IL1β). These activities highlight AREL1's role in regulating cell death pathways and maintaining cellular homeostasis.
+
+## Clinical Significance
+Alterations in the expression and function of the AREL1 gene have been implicated in several diseases, particularly those involving immune dysregulation and neurodegeneration. In Multiple System Atrophy (MSA), a neurodegenerative disorder, increased expression of AREL1 is observed in the brains of patients. This upregulation is associated with a shift from cytosine methylation to hydroxymethylation at the AREL1 gene, which correlates with increased expression of MHC Class I HLA genes, suggesting an active neuroimmune response in MSA (Rydbirk2020Epigenetic). The study also notes a decrease in non-classical monocytes in the blood of MSA patients, indicating systemic immune dysregulation (Rydbirk2020Epigenetic).
+
+AREL1 is also involved in the regulation of inflammation through its role in the turnover of pro-IL-1β, a precursor to the inflammatory cytokine IL-1β. AREL1, along with TRIP12, promotes the degradation of pro-IL-1β, thereby limiting inflammation. Silencing AREL1 leads to increased stability and abundance of pro-IL-1β, resulting in higher IL-1β release upon inflammasome activation, which suggests its potential involvement in inflammatory conditions (Mishra2022IL1β). These findings highlight the clinical significance of AREL1 in both neurodegenerative and inflammatory diseases.
+
+## Interactions
+AREL1, an E3 ubiquitin ligase, participates in several interactions with other proteins, influencing various cellular processes. It specifically interacts with the protein SMAC, targeting it for ubiquitination at lysine residues Lys 62 and Lys 191. This interaction is crucial for AREL1's role in regulating apoptosis by promoting the degradation of proapoptotic proteins (Singh2019Structural).
+
+AREL1 also interacts with Metaxin 2 (MTX2), a protein involved in cell death pathways. This interaction leads to the ubiquitination and proteasome-dependent degradation of MTX2, thereby inhibiting TNF-induced necroptosis. The interaction is specific to MTX2, as AREL1 does not bind to Metaxin 1 (MTX1) (Jo2021AREL1).
+
+AREL1's interaction with ubiquitin variants, such as KL.3, modulates its ubiquitination activity. KL.3 binds to the extended HECT domain of AREL1, reducing its ability to ubiquitinate SMAC, which suggests a regulatory mechanism for AREL1's activity (Singh2019Structural). These interactions highlight AREL1's role in protein degradation and its potential impact on apoptosis and necroptosis pathways.
+
+
+## References
+
+
+[1. (Rydbirk2020Epigenetic) Rasmus Rydbirk, Jonas Folke, Florence Busato, Elodie Roché, Alisha Shahzad Chauhan, Annemette Løkkegaard, Anne-Mette Hejl, Matthias Bode, Morten Blaabjerg, Mette Møller, Erik Hvid Danielsen, Tomasz Brudek, Bente Pakkenberg, Jorg Tost, and Susana Aznar. Epigenetic modulation of arel1 and increased hla expression in brains of multiple system atrophy patients. Acta Neuropathologica Communications, March 2020. URL: http://dx.doi.org/10.1186/s40478-020-00908-7, doi:10.1186/s40478-020-00908-7. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40478-020-00908-7)
+
+2. (Mishra2022IL1β) IL-1β turnover by TRIP12 and AREL1 ubiquitin ligases and UBE2L3 limits inflammation. This article has 0 citations.
+
+[3. (Jo2021AREL1) Yongsam Jo, Byeongmo Kim, and Deug Shin. Arel1 e3 ubiquitin ligase inhibits tnf‑induced necroptosis via the ubiquitination of mtx2. Experimental and Therapeutic Medicine, August 2021. URL: http://dx.doi.org/10.3892/etm.2021.10629, doi:10.3892/etm.2021.10629. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/etm.2021.10629)
+
+[4. (Singh2019Structural) Sunil Singh, Joel Ng, Digant Nayak, and J. Sivaraman. Structural insights into a hect-type e3 ligase arel1 and its ubiquitination activities in vitro. Journal of Biological Chemistry, 294(52):19934–19949, December 2019. URL: http://dx.doi.org/10.1074/jbc.ra119.010327, doi:10.1074/jbc.ra119.010327. This article has 16 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra119.010327)
+
+[5. (Mishra2023IL1β) Vishwas Mishra, Anna Crespo-Puig, Callum McCarthy, Tereza Masonou, Izabela Glegola-Madejska, Alice Dejoux, Gabriella Dow, Matthew J. G. Eldridge, Luciano H. Marinelli, Meihan Meng, Shijie Wang, Daniel J. Bennison, Rebecca Morrison, and Avinash R. Shenoy. Il-1β turnover by the ube2l3 ubiquitin conjugating enzyme and hect e3 ligases limits inflammation. Nature Communications, July 2023. URL: http://dx.doi.org/10.1038/s41467-023-40054-x, doi:10.1038/s41467-023-40054-x. This article has 2 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-40054-x)

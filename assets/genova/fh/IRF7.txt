@@ -1,0 +1,66 @@
+# IRF7
+
+## Overview
+IRF7, or interferon regulatory factor 7, is a gene that encodes a transcription factor critical for the regulation of type I interferon (IFN) production, particularly in response to viral infections. The protein product, interferon regulatory factor 7, is categorized as a transcription factor and is often referred to as the "master regulator" of type I IFN production due to its pivotal role in the induction of IFN-α and IFN-β genes, which are essential components of the antiviral innate immune response (Génin2009Differential; Prakash2006Regulation). IRF7 is constitutively expressed at low levels in most cells but is highly expressed in plasmacytoid dendritic cells, where it is upregulated by viral infections and other stimuli (Dai2004Regulation). The protein's activity is modulated by post-translational modifications, such as phosphorylation, which are crucial for its activation and function in immune signaling pathways (Lin2000Multiple). IRF7's interactions with other proteins and nucleic acids underscore its role in the complex regulation of immune responses, making it a significant focus of research in both infectious and autoimmune diseases.
+
+## Structure
+IRF7 is a transcription factor with a complex molecular structure that includes several distinct domains. The primary structure of human IRF7A consists of 503 amino acids, while the mouse version has 457 amino acids (Ning2011IRF7:). The secondary structure features a DNA-binding domain (DBD) characterized by a helix-turn-helix motif, which is crucial for its interaction with DNA (De2011Structures). This DBD includes three alpha helices and a four-stranded antiparallel beta-sheet, with three large loops connecting these elements (De2011Structures).
+
+The tertiary structure of IRF7 involves a unique combination of hydrophobic residues that stabilize loop L1, which is important for DNA binding (De2011Structures). The quaternary structure is characterized by dimerization, facilitated by the IRF association domain (IAD) located in the C-terminal region, which is essential for its function (Servant2002Review:).
+
+Post-translational modifications, particularly phosphorylation, play a critical role in IRF7 activation. Phosphorylation occurs at specific serine residues in the C-terminal region, modulating its transactivation function (Lin2000Multiple). IRF7 exists in multiple isoforms due to alternative splicing, which may affect its regulatory functions (Servant2002Review:).
+
+## Function
+IRF7 (interferon regulatory factor 7) is a transcription factor that plays a pivotal role in the regulation of type I interferon (IFN) production, particularly in response to viral infections. It is often referred to as the "master regulator" of type I IFN production due to its critical involvement in the induction of IFN-α and IFN-β genes, which are essential components of the antiviral innate immune response (Génin2009Differential; Prakash2006Regulation).
+
+In healthy human cells, IRF7 is activated through virus-induced serine phosphorylation, which promotes its dimerization, nuclear retention, and interaction with transcriptional coactivators. This activation is crucial for the transcriptional response to viral infection (Prakash2006Regulation). IRF7 is constitutively expressed at low levels in most cells but is highly expressed in plasmacytoid dendritic cells (pDCs), which are major producers of IFN-α. In these cells, IRF7 is upregulated by viral infections and other stimuli such as lipopolysaccharide (LPS) (Dai2004Regulation).
+
+IRF7's activity is regulated by post-translational mechanisms, including protein stability and turnover. Viral infections can lead to increased IRF7 stability in pDCs, allowing prolonged IFN-α production, which is crucial for an effective antiviral response (Prakash2006Regulation).
+
+## Clinical Significance
+Mutations and alterations in the IRF7 gene are associated with several diseases and conditions, particularly those involving immune system dysregulation. In systemic lupus erythematosus (SLE), a single nucleotide polymorphism (SNP) in IRF7, rs1131665 (Q412R), has been identified as a susceptibility factor. This polymorphism affects IRF7 activation, with the 412Q variant showing higher transcriptional activity, potentially influencing the interferon (IFN) pathway and contributing to SLE pathogenesis (Fu2011Association; Jefferies2019Regulating).
+
+IRF7 is also implicated in viral infections. A rare variant, E331V, was identified in a patient with severe influenza, leading to impaired IFN responses and increased viral replication (Thomsen2019Defective). Similarly, IRF7 variants have been linked to severe COVID-19, where deficiencies in IRF7 result in reduced type I IFN production, increasing susceptibility to SARS-CoV-2 infection (van2022Clinical).
+
+In autoimmune thyroid diseases, such as Graves' disease and Hashimoto's thyroiditis, IRF7 polymorphisms, including rs1131665, have been associated with increased disease susceptibility, highlighting its role in immune response modulation (Yao2019IRF7). These findings underscore the clinical significance of IRF7 in both infectious and autoimmune diseases.
+
+## Interactions
+IRF7 interacts with several proteins and nucleic acids, playing a crucial role in the regulation of interferon genes. It forms heterodimers with IRF3, which are essential for the transcriptional activation of IFNA genes in response to viral infection (Au2001Analysis). The interaction between IRF7 and IRF3 is facilitated by their C-terminal regions, with specific amino acids in IRF3 (306-427) and IRF7 (418-473) being critical for this association (Lin2000Multiple; Au2001Analysis).
+
+IRF7 also interacts with MyD88, a key adaptor protein in the Toll-like receptor signaling pathway. This interaction is specific to the C-terminal portion of IRF7 and is crucial for the MyD88-dependent induction of IFN-α (Kawai2004Interferonα). TRAF6, another protein involved in immune signaling, associates with IRF7, leading to its ubiquitination and activation. This interaction is necessary for the activation of IFN-α promoters (Kawai2004Interferonα).
+
+IRF7's DNA binding activity is enhanced by viral infection, allowing it to bind strongly to specific regions in the promoters of IFN genes, such as the PRDI region of the IFNB promoter (Lin2000Selective). These interactions highlight IRF7's role in immune response regulation through complex protein-protein and protein-DNA interactions.
+
+
+## References
+
+
+[1. (Yao2019IRF7) Qiuming Yao, Xiaofei An, Jing Zhang, Kaida Mu, Ling Li, Ronghua Song, Peilong Sun, and Jin-an Zhang. Irf7 gene variations confer susceptibility to autoimmune thyroid diseases and graves’ ophthalmopathy. International Journal of Endocrinology, 2019:1–7, January 2019. URL: http://dx.doi.org/10.1155/2019/7429187, doi:10.1155/2019/7429187. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1155/2019/7429187)
+
+[2. (Génin2009Differential) Pierre Génin, Rongtuan Lin, John Hiscott, and Ahmet Civas. Differential regulation of human interferon a gene expression by interferon regulatory factors 3 and 7. Molecular and Cellular Biology, 29(12):3435–3450, June 2009. URL: http://dx.doi.org/10.1128/mcb.01805-08, doi:10.1128/mcb.01805-08. This article has 68 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.01805-08)
+
+[3. (Prakash2006Regulation) Arun Prakash and David E. Levy. Regulation of irf7 through cell type-specific protein stability. Biochemical and Biophysical Research Communications, 342(1):50–56, March 2006. URL: http://dx.doi.org/10.1016/j.bbrc.2006.01.122, doi:10.1016/j.bbrc.2006.01.122. This article has 54 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2006.01.122)
+
+[4. (De2011Structures) P. De Ioannes, C. R. Escalante, and A. K. Aggarwal. Structures of apo irf-3 and irf-7 dna binding domains: effect of loop l1 on dna binding. Nucleic Acids Research, 39(16):7300–7307, May 2011. URL: http://dx.doi.org/10.1093/nar/gkr325, doi:10.1093/nar/gkr325. This article has 17 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkr325)
+
+[5. (Fu2011Association) Qiong Fu, Jian Zhao, XiaoXia Qian, Jonathan L. H. Wong, Kenneth M. Kaufman, C. Yung Yu, Mo Yin Mok, John B. Harley, Joel M. Guthridge, Yeong Wook Song, Soo-Kyung Cho, Sang-Cheol Bae, Jennifer M. Grossman, Bevra H. Hahn, Frank C. Arnett, Nan Shen, and Betty P. Tsao. Association of a functional irf7 variant with systemic lupus erythematosus. Arthritis &amp; Rheumatism, 63(3):749–754, February 2011. URL: http://dx.doi.org/10.1002/art.30193, doi:10.1002/art.30193. This article has 109 citations.](https://doi.org/10.1002/art.30193)
+
+[6. (van2022Clinical) Caspar I. van der Made, Mihai G. Netea, Frank L. van der Veerdonk, and Alexander Hoischen. Clinical implications of host genetic variation and susceptibility to severe or critical covid-19. Genome Medicine, August 2022. URL: http://dx.doi.org/10.1186/s13073-022-01100-3, doi:10.1186/s13073-022-01100-3. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13073-022-01100-3)
+
+[7. (Kawai2004Interferonα) Taro Kawai, Shintaro Sato, Ken J Ishii, Cevayir Coban, Hiroaki Hemmi, Masahiro Yamamoto, Kenta Terai, Michiyuki Matsuda, Jun-ichiro Inoue, Satoshi Uematsu, Osamu Takeuchi, and Shizuo Akira. Interferon-α induction through toll-like receptors involves a direct interaction of irf7 with myd88 and traf6. Nature Immunology, 5(10):1061–1068, September 2004. URL: http://dx.doi.org/10.1038/ni1118, doi:10.1038/ni1118. This article has 806 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ni1118)
+
+[8. (Au2001Analysis) W.-C. Au, W.-S. Yeow, and P.M. Pitha. Analysis of functional domains of interferon regulatory factor 7 and its association with irf-3. Virology, 280(2):273–282, February 2001. URL: http://dx.doi.org/10.1006/VIRO.2000.0782, doi:10.1006/viro.2000.0782. This article has 134 citations and is from a peer-reviewed journal.](https://doi.org/10.1006/VIRO.2000.0782)
+
+[9. (Lin2000Selective) Rongtuan Lin, Pierre Génin, Yaël Mamane, and John Hiscott. Selective dna binding and association with the creb binding protein coactivator contribute to differential activation of alpha/beta interferon genes by interferon regulatory factors 3 and 7. Molecular and Cellular Biology, 20(17):6342–6353, September 2000. URL: http://dx.doi.org/10.1128/mcb.20.17.6342-6353.2000, doi:10.1128/mcb.20.17.6342-6353.2000. This article has 235 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.20.17.6342-6353.2000)
+
+[10. (Thomsen2019Defective) Michelle M. Thomsen, Sofie E. Jørgensen, Hans Henrik Gad, Merete Storgaard, Jakob Gjedsted, Mette Christiansen, Rune Hartmann, and Trine H. Mogensen. Defective interferon priming and impaired antiviral responses in a patient with an irf7 variant and severe influenza. Medical Microbiology and Immunology, 208(6):869–876, June 2019. URL: http://dx.doi.org/10.1007/s00430-019-00623-8, doi:10.1007/s00430-019-00623-8. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00430-019-00623-8)
+
+[11. (Ning2011IRF7:) S Ning, J S Pagano, and G N Barber. Irf7: activation, regulation, modification and function. Genes &amp; Immunity, 12(6):399–414, April 2011. URL: http://dx.doi.org/10.1038/gene.2011.21, doi:10.1038/gene.2011.21. This article has 425 citations.](https://doi.org/10.1038/gene.2011.21)
+
+[12. (Dai2004Regulation) Jihong Dai, Nicholas J. Megjugorac, Sheela B. Amrute, and Patricia Fitzgerald-Bocarsly. Regulation of ifn regulatory factor-7 and ifn-α production by enveloped virus and lipopolysaccharide in human plasmacytoid dendritic cells. The Journal of Immunology, 173(3):1535–1548, August 2004. URL: http://dx.doi.org/10.4049/jimmunol.173.3.1535, doi:10.4049/jimmunol.173.3.1535. This article has 119 citations.](https://doi.org/10.4049/jimmunol.173.3.1535)
+
+[13. (Servant2002Review:) Marc J. Servant, Benjamin Tenoever, and Rongtuan Lin. Review: overlapping and distinct mechanisms regulating irf-3 and irf-7 function. Journal of Interferon &amp; Cytokine Research, 22(1):49–58, January 2002. URL: http://dx.doi.org/10.1089/107999002753452656, doi:10.1089/107999002753452656. This article has 72 citations.](https://doi.org/10.1089/107999002753452656)
+
+[14. (Lin2000Multiple) Rongtuan Lin, Yael Mamane, and John Hiscott. Multiple regulatory domains control irf-7 activity in response to virus infection. Journal of Biological Chemistry, 275(44):34320–34327, November 2000. URL: http://dx.doi.org/10.1074/jbc.M002814200, doi:10.1074/jbc.m002814200. This article has 305 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M002814200)
+
+[15. (Jefferies2019Regulating) Caroline A. Jefferies. Regulating irfs in ifn driven disease. Frontiers in Immunology, March 2019. URL: http://dx.doi.org/10.3389/fimmu.2019.00325, doi:10.3389/fimmu.2019.00325. This article has 257 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2019.00325)

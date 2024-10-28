@@ -1,0 +1,33 @@
+# GOLGA7
+
+## Overview
+GOLGA7 is a gene that encodes the protein golgin A7, which is primarily associated with the Golgi apparatus in human cells. Golgin A7 is involved in critical cellular processes, including the trafficking of proteins such as NRAS from the Golgi to the plasma membrane, a step essential for proper cell signaling. This protein is categorized as a Golgi-associated protein and plays a significant role in maintaining Golgi structure and function. It forms complexes with various protein acyltransferases, such as ZDHHC9 and ZDHHC5, influencing protein prenylation and stability. The interactions and functions of golgin A7 have implications in cellular signaling pathways and are particularly relevant in the context of NRAS-driven cancers, where its role in NRAS trafficking makes it a potential therapeutic target (Liu2024GOLGA7; Ko2019A).
+
+## Function
+The GOLGA7 gene encodes a protein that plays a crucial role in the trafficking of NRAS from the Golgi apparatus to the plasma membrane in human cells. This process is essential for the proper localization of NRAS, a protein involved in cell signaling pathways. In GOLGA7-knockout HeLa cells, NRAS is trapped at the cis-Golgi, indicating that GOLGA7 is vital for its movement from the cis-Golgi to the trans-Golgi and subsequently to the plasma membrane (Liu2024GOLGA7).
+
+GOLGA7 does not affect the palmitoylation of NRAS, a modification important for its membrane association, but it stabilizes the architecture of the palmitoyltransferase ZDHHC9, with which it forms a complex (Liu2024GOLGA7). This suggests that GOLGA7's role extends beyond being an accessory protein for palmitoyltransferase, specifically in the NRAS trafficking process.
+
+The protein is associated with the Golgi membrane and is involved in maintaining Golgi structure and function. It is also implicated in protein prenylation, a post-translational modification important for the membrane localization and function of certain proteins. GOLGA7's activity is primarily localized to the Golgi apparatus, where it influences the trafficking and stability of proteins critical for cellular signaling and function (Ko2019A).
+
+## Clinical Significance
+The GOLGA7 gene is clinically significant due to its role in NRAS-driven cancers. Alterations in GOLGA7 expression or function can impact the progression of cancers with NRAS mutations, such as melanoma and certain hematologic malignancies. GOLGA7 is crucial for the translocation of NRAS from the Golgi apparatus to the plasma membrane, a process essential for NRAS signaling and oncogenic activity. Depletion of GOLGA7 disrupts this translocation, leading to the accumulation of NRAS in the cis-Golgi and inhibiting cell proliferation in NRAS-mutant cancer cell lines (Liu2024GOLGA7).
+
+In vivo studies have shown that GOLGA7 knockout in NRAS-mutant cells reduces leukemia burden and prolongs survival, highlighting its potential as a therapeutic target (Liu2024GOLGA7). The specificity of GOLGA7's effect on NRAS, without affecting other RAS isoforms like HRAS or KRAS, suggests that targeting GOLGA7 might have a favorable safety profile, as cells without NRAS mutation remain unaffected (Liu2024GOLGA7). These findings propose GOLGA7 as a promising target for therapeutic intervention in NRAS-driven cancers, as interfering with its function could prevent NRAS from localizing to the plasma membrane, thereby nullifying its oncogenic potential (Liu2024GOLGA7).
+
+## Interactions
+GOLGA7 interacts with several proteins, playing a significant role in cellular processes. It forms a complex with ZDHHC5, a protein acyltransferase, which is crucial for promoting nonapoptotic cell death. This interaction is necessary for the execution of cell death in response to the small molecule CIL56, and it is independent of ZDHHC5's catalytic activity but depends on its C-terminal acylation. GOLGA7 colocalizes with ZDHHC5 at the plasma membrane, although this colocalization is weaker with a GOLGA7 mutant that cannot be acylated (Ko2019A).
+
+GOLGA7 also interacts with ZDHHC8, another plasma membrane-localized protein acyltransferase, which may help localize GOLGA7 to the cell periphery in the absence of ZDHHC5 (Ko2019A). In the context of SARS-CoV-2, GOLGA7 interacts with the spike (S) protein, affecting the virus's entry into cells. This interaction does not significantly alter the S protein's palmitoylation or subcellular localization but is important for the entry efficiency of the virus (Zeng2021The).
+
+Additionally, GOLGA7 is involved in the trafficking of NRAS from the Golgi to the plasma membrane. It forms a complex with ZDHHC9, stabilizing its architecture, although it does not directly participate in the catalytic process of palmitoylation (Liu2024GOLGA7).
+
+
+## References
+
+
+[1. (Liu2024GOLGA7) Chenxuan Liu, Bo Jiao, Peihong Wang, Baoyuan Zhang, Jiaming Gao, Donghe Li, Xi Xie, Yunying Yao, Lei Yan, Zhenghong Qin, Ping Liu, and Ruibao Ren. Golga7 is essential for nras trafficking from the golgi to the plasma membrane but not for its palmitoylation. Cell Communication and Signaling, February 2024. URL: http://dx.doi.org/10.1186/s12964-024-01498-w, doi:10.1186/s12964-024-01498-w. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12964-024-01498-w)
+
+[2. (Ko2019A) Pin-Joe Ko, Claire Woodrow, Michael M. Dubreuil, Brent R. Martin, Rachid Skouta, Michael C. Bassik, and Scott J. Dixon. A zdhhc5-golga7 protein acyltransferase complex promotes nonapoptotic cell death. Cell Chemical Biology, 26(12):1716-1724.e9, December 2019. URL: http://dx.doi.org/10.1016/j.chembiol.2019.09.014, doi:10.1016/j.chembiol.2019.09.014. This article has 45 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.chembiol.2019.09.014)
+
+[3. (Zeng2021The) Xiao-Tao Zeng, Xiao-Xi Yu, and Wei Cheng. The interactions of zdhhc5/golga7 with sars-cov-2 spike (s) protein and their effects on s protein’s subcellular localization, palmitoylation and pseudovirus entry. Virology Journal, December 2021. URL: http://dx.doi.org/10.1186/s12985-021-01722-w, doi:10.1186/s12985-021-01722-w. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12985-021-01722-w)

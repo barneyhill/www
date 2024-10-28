@@ -1,0 +1,37 @@
+# RNF26
+
+## Overview
+RNF26 is a gene that encodes the ring finger protein 26, an E3 ubiquitin ligase involved in various cellular processes, including protein ubiquitination and degradation. This protein is primarily localized in the endoplasmic reticulum (ER) and plays a critical role in the ER-associated degradation (ERAD) pathway, facilitating the removal of misfolded proteins. RNF26 is also involved in intracellular trafficking and organelle positioning, particularly influencing the spatial organization of lysosomes and endosomes. Additionally, it modulates immune signaling pathways by interacting with components of the STING pathway, thereby influencing innate immune responses. The protein's involvement in cellular homeostasis and immune regulation underscores its significance in both normal physiological processes and pathological conditions, such as cancer, where it has been implicated in tumor progression and immune evasion (Zhang2022RNF185; Cremer2020ERembedded; Liu2024CDK46).
+
+## Function
+RNF26 (ring finger protein 26) is an E3 ubiquitin ligase that plays a significant role in protein ubiquitination, a process crucial for regulating protein turnover and cellular homeostasis. It is primarily active in the endoplasmic reticulum (ER), where it mediates the ubiquitination of proteins such as SQSTM1/p62, which is essential for selective autophagy and the recruitment of polyubiquitylated cargoes (Zhang2022RNF185; Liu2024CDK46). RNF26 is involved in the ER-associated degradation (ERAD) pathway, interacting with the ubiquitin-conjugating enzyme UBE2J1 to facilitate the degradation of misfolded proteins (Zhang2022RNF185).
+
+In addition to its role in protein degradation, RNF26 is implicated in intracellular trafficking and organelle positioning, particularly in retaining lysosomes, endosomes, and vesicles in the perinuclear region of the cell (Zhang2022RNF185). It also modulates immune signaling by limiting the response to type I interferon through the autophagic degradation of IRF3 and stabilizing TMEM173/STING to prevent its degradation by RNF5 (Liu2024CDK46). These functions highlight RNF26's involvement in maintaining cellular homeostasis and regulating immune responses, although its specific roles in healthy human cells remain less clearly defined.
+
+## Clinical Significance
+RNF26 has been implicated in the progression of several cancers, including clear cell renal cell carcinoma (ccRCC) and bladder cancer, through alterations in its expression and interactions. In ccRCC, RNF26 is involved in the regulation of the mTOR signaling pathway by interacting with TSC1, a component of the TSC1-TSC2 complex. This interaction promotes the degradation of TSC1, thereby activating the mTOR pathway, which is crucial for tumor progression and angiogenesis (Liu2024CDK46). CDK4/6 inhibitors can stabilize TSC1 by dephosphorylating RNF26, reducing its interaction with TSC1, and potentially increasing the sensitivity of ccRCC to mTOR inhibitors (Liu2024CDK46).
+
+In bladder cancer, RNF26 acts as an oncogenic protein by promoting cell proliferation and invasion. It is upregulated in bladder cancer tissues and is associated with poor prognosis. RNF26 degrades the cyclin-dependent kinase inhibitor p57, facilitating cell cycle progression and tumor growth (Yi2021The). The FOXM1 transcription factor regulates RNF26 expression, forming a FOXM1/RNF26/p57 axis that contributes to the aggressiveness of bladder cancer (Yi2021The).
+
+## Interactions
+RNF26, a RING finger protein, is involved in various protein interactions that influence cellular processes. It forms a complex with TMEM43, TMEM33, ENDOD1, and TMED1, which modulates the STING pathway, a crucial component of innate immune signaling. TMEM43 and TMEM33 act as negative regulators of STING activation, while TMED1 and ENDOD1 enhance it, highlighting RNF26's role in immune regulation (Fenech2020Interaction).
+
+RNF26 also interacts with the E2 enzyme UBE2J1, forming a ubiquitylation complex that regulates the spatial organization of the endolysosomal system. This interaction is crucial for maintaining the perinuclear endosomal cloud, with RNF26's RING domain playing a key role in its localization (Cremer2020ERembedded).
+
+In cancer biology, RNF26 interacts with TRIM21, promoting its ubiquitination and degradation, which affects the stability of ZHX3 and contributes to bladder cancer progression (Yao2024RNF26mediated). It also interacts with TSC1, a component of the mTOR signaling pathway, influencing clear cell renal cell carcinoma progression (Liu2024CDK46). Additionally, RNF26 is involved in the degradation of p57, a CDK inhibitor, promoting cell cycle progression in bladder cancer (Yi2021The).
+
+
+## References
+
+
+1. (Cremer2020ERembedded) ER-embedded UBE2J1/RNF26 ubiquitylation complex in spatiotemporal control of the endolysosomal pathway. This article has 2 citations.
+
+[2. (Liu2024CDK46) Xinlin Liu, Wei Li, Lu Yi, Jianxi Wang, Wentao Liu, Hongtao Cheng, and Shangqing Ren. Cdk4/6 inhibitors dephosphorylate rnf26 to stabilize tsc1 and increase the sensitivity of ccrcc to mtor inhibitors. British Journal of Cancer, 131(3):444–456, June 2024. URL: http://dx.doi.org/10.1038/s41416-024-02750-3, doi:10.1038/s41416-024-02750-3. This article has 0 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41416-024-02750-3)
+
+[3. (Zhang2022RNF185) Jing Zhang, Bin Wang, Xiaoxiao Gao, Cheng Peng, Chao Shan, Silas F. Johnson, Richard C. Schwartz, and Yong-Hui Zheng. Rnf185 regulates proteostasis in ebolavirus infection by crosstalk between the calnexin cycle, erad, and reticulophagy. Nature Communications, October 2022. URL: http://dx.doi.org/10.1038/s41467-022-33805-9, doi:10.1038/s41467-022-33805-9. This article has 10 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-33805-9)
+
+[4. (Yao2024RNF26mediated) Dongwei Yao. Rnf26-mediated ubiquitination of trim21 promotes bladder cancer progression. American Journal of Cancer Research, 14(8):4082–4095, 2024. URL: http://dx.doi.org/10.62347/tecq5002, doi:10.62347/tecq5002. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.62347/tecq5002)
+
+[5. (Yi2021The) Lu Yi, Haohui Wang, Wei Li, Kun Ye, Wei Xiong, Haixin Yu, and Xin Jin. The foxm1/rnf26/p57 axis regulates the cell cycle to promote the aggressiveness of bladder cancer. Cell Death &amp; Disease, October 2021. URL: http://dx.doi.org/10.1038/s41419-021-04260-z, doi:10.1038/s41419-021-04260-z. This article has 23 citations.](https://doi.org/10.1038/s41419-021-04260-z)
+
+6. (Fenech2020Interaction) Interaction mapping of endoplasmic reticulum ubiquitin ligases identifies modulators of innate immune signalling. This article has 74 citations.

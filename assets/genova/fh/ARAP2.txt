@@ -1,0 +1,52 @@
+# ARAP2
+
+## Overview
+ARAP2 is a gene that encodes the protein ArfGAP with RhoGAP domain, ankyrin repeat, and PH domain 2, which is a multifunctional signaling protein involved in various cellular processes. This protein is characterized by its multiple domains, including ArfGAP, RhoGAP, and pleckstrin homology (PH) domains, which facilitate its role in regulating actin cytoskeleton dynamics, membrane trafficking, and focal adhesion morphology (Yoon2006ARAP2; Randazzo2004Arf). As an ArfGAP, ARAP2 is involved in sphingolipid metabolism and glucose uptake, influencing cellular energy balance and lipid micro-domains (Chaudhari2016ARAP2). Additionally, ARAP2 interacts with various proteins, such as APPL1, to modulate Akt signaling, and plays a role in pathogen-host interactions, notably in the entry of Listeria monocytogenes into host cells (Luo2018ARAP2; Gavicherla2010Critical). Alterations in ARAP2 expression have been linked to cancer progression, particularly in esophageal squamous cell carcinoma, highlighting its clinical significance (Xu2022The).
+
+## Structure
+ARAP2 is a multidomain protein characterized by the presence of several distinct structural domains. It includes an N-terminal sterile alpha motif (SAM) domain, an ArfGAP domain, a RhoGAP domain, ankyrin repeats, a Ras-association (RA) domain, and five pleckstrin homology (PH) domains (Yoon2006ARAP2; Randazzo2004Arf). The ArfGAP domain is lipid-dependent and shows specificity for Arf6, playing a crucial role in the regulation of actin cytoskeleton dynamics and membrane trafficking (Yoon2006ARAP2). 
+
+The RhoGAP domain of ARAP2 is unique as it contains a glutamine instead of the typical catalytic arginine, resulting in a lack of RhoGAP activity. This domain allows ARAP2 to bind RhoA-GTP, acting as a RhoA effector rather than a GAP (Yoon2006ARAP2; Myers2008Regulation). The PH domains, particularly those with a phosphatidylinositol 3,4,5-trisphosphate (PI3,4,5P3)-binding consensus motif, are involved in lipid interactions that regulate ARAP2's activity and localization (Randazzo2004Arf; Gavicherla2010Critical).
+
+The protein's structure facilitates its interactions with other cellular components, influencing focal adhesion dynamics and actin cytoskeleton organization (Yoon2006ARAP2). Specific post-translational modifications or splice variant isoforms are not detailed in the available context.
+
+## Function
+ARAP2 is a multifunctional protein involved in several cellular processes, primarily through its role as an ArfGAP. It regulates sphingolipid metabolism, which affects basal glucose uptake in cells by modulating GLUT1-mediated glucose uptake. ARAP2 influences the levels of sphingolipids such as glucosylceramide and lactosylceramide, impacting lipid micro-domains and GLUT1 levels in the plasma membrane, thereby playing a role in cellular glucose uptake and lipid metabolism (Chaudhari2016ARAP2).
+
+In addition to its metabolic functions, ARAP2 is crucial in regulating focal adhesion (FA) morphology. It acts through the Arf6 and Rac1 signaling pathways, where it functions as an Arf6 GTPase-activating protein. This activity is essential for controlling the size and number of FAs, which are critical for cell adhesion, migration, and signaling. ARAP2's regulation of Arf6 and Rac1 is necessary for its effects on FAs, influencing actin cytoskeleton dynamics and membrane trafficking (Chen2013ARAP2).
+
+ARAP2 also plays a role in stabilizing integrin adhesion complexes, which are vital for cell signaling and dynamics. Its interaction with RhoGTP, despite lacking catalytic activity, is necessary for stabilizing focal adhesions and actin stress fibers (Vitali2017Arf).
+
+## Clinical Significance
+Alterations in the expression of the ARAP2 gene have been implicated in the progression of esophageal squamous cell carcinoma (ESCC). The circular RNA derived from the ARAP2 gene, known as circ-ARAP2, is significantly up-regulated in ESCC tissues. This up-regulation promotes cancer progression by enhancing cell proliferation, tumor growth, and metastasis. The mechanism involves the regulation of the miR-761/FOXM1 axis, which affects cancer stem cell characteristics and the endothelial-mesenchymal transition (EMT) (Xu2022The).
+
+In the context of bacterial infections, ARAP2 plays a critical role in the entry of Listeria monocytogenes into host cells. ARAP2 facilitates this process by inactivating the GTPase Arf6, which is necessary for the cytoskeletal rearrangements required for bacterial engulfment. This function highlights ARAP2's involvement in pathogen-host interactions, although specific diseases directly resulting from ARAP2 mutations are not detailed (Gavicherla2010Critical).
+
+Altered ARAP2 expression also affects glucose uptake and lipid metabolism. Knockdown of ARAP2 leads to changes in sphingolipid metabolism and reduces glucose transporter GLUT1 levels, impacting lipid droplet formation and cellular energy balance (Chaudhari2016ARAP2).
+
+## Interactions
+ARAP2 is involved in various protein interactions that influence cellular signaling pathways. It binds to APPL1, a protein that plays a role in regulating Akt signaling. This interaction is significant as both ARAP2 and APPL1 coordinate to regulate phosphorylated Akt (pAkt) levels, although ARAP2's effect on Akt is independent of its impact on focal adhesions (Luo2018ARAP2). Co-immunoprecipitation experiments have shown that APPL1 can be recovered when precipitating ARAP2 from certain cell lysates, indicating a physical interaction between these proteins (Luo2018ARAP2).
+
+ARAP2 also interacts with components of the cytoskeleton, such as non-muscle myosin IIA, tubulin, moesin, and α-actinin, which may mediate its effects on Akt (Luo2018ARAP2). Additionally, ARAP2 is involved in the entry of Listeria monocytogenes into host cells, where it interacts with the GTPase Arf6 through its ArfGAP domain, promoting bacterial uptake by inactivating Arf6 (Gavicherla2010Critical). The RhoA binding domain of ARAP2 is also implicated in Listeria entry, although this process appears to be independent of Rho proteins, suggesting interactions with other host ligands (Gavicherla2010Critical).
+
+
+## References
+
+
+[1. (Chaudhari2016ARAP2) Aditi Chaudhari, Liliana Håversen, Reza Mobini, Linda Andersson, Marcus Ståhlman, Emma Lu, Mikael Rutberg, Per Fogelstrand, Kim Ekroos, Adil Mardinoglu, Malin Levin, Rosie Perkins, and Jan Borén. Arap2 promotes glut1-mediated basal glucose uptake through regulation of sphingolipid metabolism. Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids, 1861(11):1643–1651, November 2016. URL: http://dx.doi.org/10.1016/j.bbalip.2016.07.009, doi:10.1016/j.bbalip.2016.07.009. This article has 14 citations.](https://doi.org/10.1016/j.bbalip.2016.07.009)
+
+[2. (Xu2022The) Pei Xu, Lei Wang, Qingtao Liu, Pengkai Gao, Fengqing Hu, Xiao Xie, Lianyong Jiang, Rui Bi, Fangbao Ding, Qi Yang, and Haibo Xiao. The abnormal expression of circ-arap2 promotes escc progression through regulating mir-761/foxm1 axis-mediated stemness and the endothelial–mesenchymal transition. Journal of Translational Medicine, July 2022. URL: http://dx.doi.org/10.1186/s12967-022-03507-3, doi:10.1186/s12967-022-03507-3. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-022-03507-3)
+
+[3. (Randazzo2004Arf) Paul A Randazzo and Dianne S Hirsch. Arf gaps: multifunctional proteins that regulate membrane traffic and actin remodelling. Cellular Signalling, 16(4):401–413, April 2004. URL: http://dx.doi.org/10.1016/j.cellsig.2003.09.012, doi:10.1016/j.cellsig.2003.09.012. This article has 154 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2003.09.012)
+
+[4. (Luo2018ARAP2) Ruibai Luo, Pei‐Wen Chen, Jean‐Cheng Kuo, Lisa Jenkins, Xiaoying Jian, Clare M. Waterman, and Paul A. Randazzo. Arap2 inhibits akt independently of its effects on focal adhesions. Biology of the Cell, 110(12):257–270, September 2018. URL: http://dx.doi.org/10.1111/boc.201800044, doi:10.1111/boc.201800044. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/boc.201800044)
+
+[5. (Gavicherla2010Critical) Balramakrishna Gavicherla, Lisa Ritchey, Antonella Gianfelice, Andrey A. Kolokoltsov, Robert A. Davey, and Keith Ireton. Critical role for the host gtpase-activating protein arap2 in inlb-mediated entry of listeria monocytogenes. Infection and Immunity, 78(11):4532–4541, November 2010. URL: http://dx.doi.org/10.1128/iai.00802-10, doi:10.1128/iai.00802-10. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1128/iai.00802-10)
+
+[6. (Vitali2017Arf) Teresa Vitali, Sofia Girald-Berlingeri, Paul A. Randazzo, and Pei-Wen Chen. Arf gaps: a family of proteins with disparate functions that converge on a common structure, the integrin adhesion complex. Small GTPases, pages 1–9, March 2017. URL: http://dx.doi.org/10.1080/21541248.2017.1299271, doi:10.1080/21541248.2017.1299271. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/21541248.2017.1299271)
+
+[7. (Yoon2006ARAP2) Hye-Young Yoon, Koichi Miura, E. Jebb Cuthbert, Kathryn Kay Davis, Bijan Ahvazi, James E. Casanova, and Paul A. Randazzo. Arap2 effects on the actin cytoskeleton are dependent on arf6-specific gtpase-activating-protein activity and binding to rhoa-gtp. Journal of Cell Science, 119(22):4650–4666, November 2006. URL: http://dx.doi.org/10.1242/jcs.03237, doi:10.1242/jcs.03237. This article has 57 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.03237)
+
+[8. (Myers2008Regulation) Kenneth R. Myers and James E. Casanova. Regulation of actin cytoskeleton dynamics by arf-family gtpases. Trends in Cell Biology, 18(4):184–192, April 2008. URL: http://dx.doi.org/10.1016/j.tcb.2008.02.002, doi:10.1016/j.tcb.2008.02.002. This article has 155 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tcb.2008.02.002)
+
+[9. (Chen2013ARAP2) Pei-Wen Chen, Xiaoying Jian, Hye-Young Yoon, and Paul A. Randazzo. Arap2 signals through arf6 and rac1 to control focal adhesion morphology*. Journal of Biological Chemistry, 288(8):5849–5860, February 2013. URL: http://dx.doi.org/10.1074/jbc.m112.415778, doi:10.1074/jbc.m112.415778. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m112.415778)

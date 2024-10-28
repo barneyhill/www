@@ -1,0 +1,56 @@
+# CDK6
+
+## Overview
+Cyclin-dependent kinase 6 (CDK6) is a gene located on chromosome 7q21.2 that encodes the protein cyclin-dependent kinase 6, a serine/threonine kinase integral to cell cycle regulation. The CDK6 protein is primarily involved in the transition from the G1 to S phase of the cell cycle, a process crucial for cell proliferation and differentiation. It achieves this by forming complexes with D-type cyclins, which subsequently phosphorylate the retinoblastoma protein (Rb), facilitating cell cycle progression. Beyond its role in cell cycle regulation, CDK6 is implicated in various cellular processes, including thymocyte development and hematopoietic stem cell regulation. The protein's activity is modulated through interactions with cyclins and inhibitors such as p16INK4a, as well as through post-translational modifications like phosphorylation. CDK6's function and regulation are critical for maintaining cellular homeostasis, and dysregulation of CDK6 activity is associated with several pathological conditions, including cancer (Sherr2004Living; Malumbres2011Physiological; Laurenti2015CDK6).
+
+## Structure
+Cyclin-dependent kinase 6 (CDK6) is a serine/threonine protein kinase involved in cell cycle regulation. The CDK6 gene is located on human chromosome 7q21.2 and encodes a protein consisting of 326 amino acids with a molecular weight of approximately 37 kDa (Yousuf2022Effect). The primary structure of CDK6 includes a sequence of amino acids forming a single polypeptide chain. 
+
+The secondary structure of CDK6 features an N-terminal domain (amino acids 5-100) composed of five β strands and one PLSTIRE α-helix, and a C-terminal domain (amino acids 101-309) mainly consisting of α-helices with a small β sheet (Yousuf2022Effect). The tertiary structure involves a catalytic site located between these two domains, which is crucial for its kinase activity (Yousuf2022Effect).
+
+In terms of quaternary structure, CDK6 forms complexes with cyclins, such as cyclin D, which is necessary for its activation. The binding of cyclin D induces structural changes that activate CDK6, and further activation occurs through phosphorylation by cyclin-activating kinase (CAK) (Yousuf2022Effect). CDK6 is also known to interact with inhibitors like p16INK4a, which causes structural distortions that inhibit its activity (Russo1998Structural). 
+
+CDK6 is subject to post-translational modifications, including phosphorylation, which are essential for its regulation and function (Yousuf2022Effect).
+
+## Function
+Cyclin-dependent kinase 6 (CDK6) is a serine/threonine kinase that plays a pivotal role in regulating the cell cycle, particularly during the G1 phase. It forms complexes with D-type cyclins to phosphorylate the retinoblastoma protein (Rb), facilitating the transition from the G1 to S phase, which is crucial for cell proliferation (Sherr2004Living; Malumbres2011Physiological). CDK6 is active in the nucleus and is involved in various cellular processes, including cell proliferation, differentiation, and development (Hu2009A).
+
+In thymocyte development, CDK6 is essential for Notch-dependent proliferation, survival, and differentiation. It is particularly important for the transition of DN3 stage cells to DN4, acting as a downstream target of AKT signaling (Hu2009A). CDK6 also contributes to the stability of the cytoskeleton in erythroid cells by regulating the polymerization of filamentous-actin (F-actin), which is crucial for maintaining the biconcave shape and flexibility of erythrocytes (Uras2017Cdk6).
+
+In hematopoietic stem cells (HSCs), CDK6 regulates the exit from quiescence and the timing of cell division, particularly affecting long-term HSCs. It helps maintain the integrity of the HSC pool by controlling the duration of quiescence exit, which is essential for hematopoiesis (Laurenti2015CDK6).
+
+## Clinical Significance
+
+
+## Interactions
+CDK6 interacts with D-type cyclins (D1, D2, and D3) to form active kinase complexes that phosphorylate the retinoblastoma protein (pRB), facilitating cell cycle progression from the G1 to S phase. These interactions are cell-type specific, with CDK6 associating with cyclin D2 and D3 in primary human T lymphocytes and with cyclin D1 in WI-38 cells (Meyerson1994Identification). 
+
+CDK6 also interacts with the tumor suppressor protein p16INK4a, which inhibits its kinase activity. The p16INK4a binds to CDK6, forming a complex that impairs the translocation of the PSTAIRE helix into the catalytic cleft, thus distorting the ATP-binding site and inhibiting CDK6 activity (Russo1998Structural; Klein2020Cyclindependent). 
+
+In addition, CDK6 is a client protein of the HSP90/CDC37 chaperone complex, which affects its stability and conformation. This interaction is stronger in cells sensitive to CDK4/6 inhibitors, where CDK6 is less thermostable and more prone to degradation (Wu2021Distinct). CDK6 also interacts with novel INK4 proteins, p19 and p18, which act as specific inhibitors of cyclin D-dependent kinases (Hirai1995Novel).
+
+
+## References
+
+
+[1. (Laurenti2015CDK6) Elisa Laurenti, Catherine Frelin, Stephanie Xie, Robin Ferrari, Cyrille F. Dunant, Sasan Zandi, Andrea Neumann, Ian Plumb, Sergei Doulatov, Jing Chen, Craig April, Jian-Bing Fan, Norman Iscove, and John E. Dick. Cdk6 levels regulate quiescence exit in human hematopoietic stem cells. Cell Stem Cell, 16(3):302–313, March 2015. URL: http://dx.doi.org/10.1016/j.stem.2015.01.017, doi:10.1016/j.stem.2015.01.017. This article has 323 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.stem.2015.01.017)
+
+[2. (Klein2020Cyclindependent) Mark A. Klein. Cyclin-dependent kinase inhibition: an opportunity to target protein-protein interactions, pages 115–141. Elsevier, 2020. URL: http://dx.doi.org/10.1016/bs.apcsb.2019.11.009, doi:10.1016/bs.apcsb.2019.11.009. This article has 7 citations.](https://doi.org/10.1016/bs.apcsb.2019.11.009)
+
+[3. (Hu2009A) Miaofen G. Hu, Amit Deshpande, Miriam Enos, Daqin Mao, Elisabeth A. Hinds, Guo-fu Hu, Rui Chang, Zhuyan Guo, Marei Dose, Changchuin Mao, Philip N. Tsichlis, Fotini Gounari, and Philip W. Hinds. A requirement for cyclin-dependent kinase 6 in thymocyte development and tumorigenesis. Cancer Research, 69(3):810–818, January 2009. URL: http://dx.doi.org/10.1158/0008-5472.can-08-2473, doi:10.1158/0008-5472.can-08-2473. This article has 85 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-08-2473)
+
+[4. (Yousuf2022Effect) Mohd Yousuf, Anas Shamsi, Farah Anjum, Alaa Shafie, Asimul Islam, Qazi Mohd Rizwanul Haque, Abdelbaset Mohamed Elasbali, Dharmendra Kumar Yadav, and Md. Imtaiyaz Hassan. Effect of ph on the structure and function of cyclin-dependent kinase 6. PLOS ONE, 17(2):e0263693, February 2022. URL: http://dx.doi.org/10.1371/journal.pone.0263693, doi:10.1371/journal.pone.0263693. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0263693)
+
+[5. (Meyerson1994Identification) Matthew Meyerson and Ed Harlow. Identification of g1 kinase activity for cdk6, a novel cyclin d partner. Molecular and Cellular Biology, 14(3):2077–2086, March 1994. URL: http://dx.doi.org/10.1128/mcb.14.3.2077-2086.1994, doi:10.1128/mcb.14.3.2077-2086.1994. This article has 38 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.14.3.2077-2086.1994)
+
+[6. (Russo1998Structural) Alicia A. Russo, Lily Tong, Jie-Oh Lee, Philip D. Jeffrey, and Nikola P. Pavletich. Structural basis for inhibition of the cyclin-dependent kinase cdk6 by the tumour suppressor p16ink4a. Nature, 395(6699):237–243, September 1998. URL: http://dx.doi.org/10.1038/26155, doi:10.1038/26155. This article has 399 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/26155)
+
+[7. (Wu2021Distinct) Xuewei Wu, Xiaobao Yang, Yan Xiong, Ruitong Li, Takahiro Ito, Tamer A. Ahmed, Zoi Karoulia, Christos Adamopoulos, Hong Wang, Li Wang, Ling Xie, Jing Liu, Beatrix Ueberheide, Stuart A. Aaronson, Xian Chen, Sean G. Buchanan, William R. Sellers, Jian Jin, and Poulikos I. Poulikakos. Distinct cdk6 complexes determine tumor cell response to cdk4/6 inhibitors and degraders. Nature Cancer, 2(4):429–443, March 2021. URL: http://dx.doi.org/10.1038/s43018-021-00174-z, doi:10.1038/s43018-021-00174-z. This article has 33 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s43018-021-00174-z)
+
+[8. (Hirai1995Novel) Hiroshi Hirai, Martine F. Roussel, Jun-Ya Kato, Richard A. Ashmun, and Charles J. Sherr. Novel ink4 proteins, p19 and p18, are specific inhibitors of the cyclin d-dependent kinases cdk4 and cdk6. Molecular and Cellular Biology, 15(5):2672–2681, May 1995. URL: http://dx.doi.org/10.1128/mcb.15.5.2672, doi:10.1128/mcb.15.5.2672. This article has 461 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.15.5.2672)
+
+[9. (Uras2017Cdk6) Iris Z. Uras, Ruth M. Scheicher, Karoline Kollmann, Martin Glösmann, Michaela Prchal-Murphy, Anca S. Tigan, Daniela A. Fux, Sandro Altamura, Joana Neves, Martina U. Muckenthaler, Keiryn L. Bennett, Stefan Kubicek, Philip W. Hinds, Marieke von Lindern, and Veronika Sexl. Cdk6 contributes to cytoskeletal stability in erythroid cells. Haematologica, 102(6):995–1005, March 2017. URL: http://dx.doi.org/10.3324/haematol.2016.159947, doi:10.3324/haematol.2016.159947. This article has 22 citations.](https://doi.org/10.3324/haematol.2016.159947)
+
+[10. (Sherr2004Living) Charles J. Sherr and James M. Roberts. Living with or without cyclins and cyclin-dependent kinases. Genes &amp; Development, 18(22):2699–2711, November 2004. URL: http://dx.doi.org/10.1101/gad.1256504, doi:10.1101/gad.1256504. This article has 852 citations.](https://doi.org/10.1101/gad.1256504)
+
+[11. (Malumbres2011Physiological) Marcos Malumbres. Physiological relevance of cell cycle kinases. Physiological Reviews, 91(3):973–1007, July 2011. URL: http://dx.doi.org/10.1152/physrev.00025.2010, doi:10.1152/physrev.00025.2010. This article has 160 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1152/physrev.00025.2010)

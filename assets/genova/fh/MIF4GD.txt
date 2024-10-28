@@ -1,0 +1,33 @@
+# MIF4GD
+
+## Overview
+MIF4GD is a gene that encodes the MIF4G domain-containing protein, which plays a pivotal role in the translation of histone mRNAs. This protein is characterized by its involvement in the translation of mRNAs that lack a poly(A) tail, specifically those with a stem-loop structure, such as histone mRNAs. The MIF4G domain-containing protein functions as a scaffold, facilitating interactions between the stem-loop binding protein (SLBP) and eIF4G, which are crucial for the translation process during the S phase of the cell cycle (Neusiedler2012INT6). Additionally, MIF4GD is implicated in cellular processes through its interactions with various proteins, including the CDK inhibitor p27 kip1, which it stabilizes by antagonizing CDK2-mediated phosphorylation (Wan2013MIF4G). The gene's expression and the protein's function have significant clinical implications, particularly in hepatocellular carcinoma, where MIF4GD acts as a potential tumor suppressor by regulating cell cycle progression (Wan2013MIF4G).
+
+## Function
+MIF4GD, a protein containing the MIF4G domain, plays a crucial role in the translation of histone mRNAs, which are unique in lacking a poly(A) tail and instead have a stem-loop structure. This protein interacts with SLBP (stem-loop binding protein) and eIF4G, facilitating the translation of histone mRNAs during the S phase of the cell cycle. MIF4GD is essential for the efficient translation of these mRNAs, which is critical for proper cell cycle progression and chromatin assembly (Neusiedler2012INT6).
+
+MIF4GD is primarily localized in the cytoplasm, where it forms concentrated foci that partially colocalize with SLBP, indicating its involvement in histone mRNA translation. It interacts with INT6, a subunit of the eIF3 complex, which is necessary for histone mRNA translation but does not affect bulk translation (Neusiedler2012INT6).
+
+In addition to its role in histone mRNA translation, MIF4GD is suggested to participate in the translation of replication-dependent histone mRNAs by interacting with SLBP and EIF4G, similar to the mechanism of polyadenylated mRNA translation (OKADA2011Expression). This interaction is vital for the translation of specific mRNAs, impacting cellular processes and organismal outcomes.
+
+## Clinical Significance
+MIF4GD has significant clinical implications in hepatocellular carcinoma (HCC). Its expression is notably downregulated in HCC tissues compared to non-tumor tissues, correlating with decreased levels of the CDK inhibitor p27 and increased levels of the proliferation marker Ki-67. This suggests a role in cell cycle regulation, where low MIF4GD levels are associated with poor prognosis and reduced cancer-free survival time (Wan2013MIF4G). MIF4GD stabilizes p27 by modulating CDK2-mediated phosphorylation, specifically reducing T187 phosphorylation, which is crucial for p27 degradation. This stabilization suggests a protective role against hepatocarcinogenesis (Wan2013MIF4G).
+
+Overexpression of MIF4GD in HCC cells leads to increased p27 levels, decreased CDK2 activity, and reduced cell proliferation, indicating its potential as a tumor suppressor. Conversely, knockdown of MIF4GD promotes cell cycle progression and decreases p27 levels, further linking its expression to cancer progression (Wan2013MIF4G). These findings suggest that MIF4GD could be a potential therapeutic target for HCC treatment, as agents that upregulate MIF4GD expression might improve patient outcomes (Wan2013MIF4G).
+
+## Interactions
+MIF4GD, a protein containing the MIF4G domain, is involved in several protein-protein interactions that play crucial roles in cellular processes. It interacts with the CDK inhibitor p27 kip1, stabilizing it by antagonizing CDK2-mediated phosphorylation, which prevents p27's proteasomal degradation. This interaction is significant in hepatocellular carcinoma (HCC) cells, where MIF4GD helps maintain p27's ability to inhibit CDK2 activity, thereby regulating the cell cycle and potentially impacting cancer progression (Wan2013MIF4G).
+
+MIF4GD also interacts with the stem-loop binding protein (SLBP) and is involved in the translation of histone mRNAs. It acts as a scaffold protein, facilitating the translation process by bridging the 3'-end stem-loop structure to the cap complex. This interaction is crucial for the efficient translation of histone mRNAs, which lack a poly(A) tail and have a stem-loop motif at their 3' end (Neusiedler2012INT6).
+
+Additionally, MIF4GD interacts with INT6, a protein necessary for efficient histone mRNA translation. This interaction highlights MIF4GD's role in the translation initiation complex, particularly in association with eIF3 and eIF4G, which are essential for histone mRNA translation (Neusiedler2012INT6).
+
+
+## References
+
+
+[1. (Neusiedler2012INT6) Julia Neusiedler, Vincent Mocquet, Taran Limousin, Theophile Ohlmann, Christelle Morris, and Pierre Jalinot. Int6 interacts with mif4gd/slip1 and is necessary for efficient histone mrna translation. RNA, 18(6):1163–1177, April 2012. URL: http://dx.doi.org/10.1261/rna.032631.112, doi:10.1261/rna.032631.112. This article has 18 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.032631.112)
+
+[2. (OKADA2011Expression) Kenzo OKADA, Masanori KIMURA, Yusuke MORIYAMA, Michiko NAKAI, Kazuhiro KIKUCHI, Hiroyuki KANEKO, Tetsuo KUNIEDA, Tadashi BABA, and Junko NOGUCHI. Expression analysis of mif4gd in the rat testis. Journal of Reproduction and Development, 57(2):256–261, 2011. URL: http://dx.doi.org/10.1262/JRD.10-138H, doi:10.1262/jrd.10-138h. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1262/JRD.10-138H)
+
+[3. (Wan2013MIF4G) C Wan, S Hou, R Ni, L Lv, Z Ding, X Huang, Q Hang, S He, Y Wang, C Cheng, X X Gu, G Xu, and A Shen. Mif4g domain containing protein regulates cell cycle and hepatic carcinogenesis by antagonizing cdk2-dependent p27 stability. Oncogene, 34(2):237–245, December 2013. URL: http://dx.doi.org/10.1038/onc.2013.536, doi:10.1038/onc.2013.536. This article has 50 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2013.536)

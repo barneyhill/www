@@ -1,0 +1,41 @@
+# DDX49
+
+## Overview
+DDX49 is a gene that encodes the protein DEAD-box helicase 49, a member of the DEAD-box protein family known for its involvement in RNA metabolic processes. DEAD-box helicases are characterized by their conserved motif Asp-Glu-Ala-Asp (DEAD) and are primarily involved in altering RNA secondary structures, which is crucial for various aspects of RNA metabolism, including splicing, ribosome biogenesis, and RNA decay (Abdelhaleem2003The). The DDX49 protein plays a significant role in ribosome biogenesis by participating in the processing of precursor ribosomal RNA (pre-rRNA) within the nucleolus, a critical step for the formation of functional ribosomes (Tafforeau2013The). Its activity is essential for maintaining efficient ribosomal RNA processing, which is vital for protein synthesis and cellular growth. Additionally, DDX49 has been implicated in various diseases, including cancer and viral infections, due to its altered expression and interactions with other cellular components (Chen2022Clinical; Tao2023Overexpression).
+
+## Function
+DDX49, or DEAD-box helicase 49, is a member of the DEAD-box protein family, which is involved in various RNA metabolic processes. In healthy human cells, DDX49 plays a crucial role in ribosome biogenesis, particularly in the processing of precursor ribosomal RNA (pre-rRNA) within the nucleolus. It is part of a group of proteins that are essential for the maturation of pre-rRNA intermediates, such as 47S, 34S, and 30S, which are critical steps in the formation of functional ribosomes (Tafforeau2013The).
+
+The depletion of DDX49 leads to an accumulation of these pre-rRNA intermediates, indicating its involvement in their regulation and processing. This suggests that DDX49 is necessary for the proper assembly and function of ribosomes, which are essential for protein synthesis and cellular growth (Tafforeau2013The). As an RNA helicase, DDX49 likely facilitates the unwinding of RNA structures, a key activity in RNA processing and ribosome assembly (Abdelhaleem2003The).
+
+DDX49's activity in the nucleolus underscores its importance in maintaining efficient ribosomal RNA processing, which is vital for the overall protein synthesis machinery of the cell (Tafforeau2013The).
+
+## Clinical Significance
+DDX49 is implicated in several diseases due to its altered expression levels and interactions. In prostate cancer (PCa), DDX49 is overexpressed in tumor tissues compared to normal tissues, and this overexpression is associated with poor prognosis. High levels of DDX49 correlate with advanced clinicopathological stages, such as higher Gleason scores and T3/T4 stages. Knockdown of DDX49 in PCa cells results in suppressed cell proliferation, cell cycle arrest, and increased apoptosis, suggesting its role in cancer progression. DDX49 expression is also identified as an independent risk factor for PCa recurrence, indicating its potential as a prognostic marker and therapeutic target (Tao2023Overexpression).
+
+In hepatocellular carcinoma (HCC), DDX49 is significantly upregulated and associated with tumor growth and metastasis. Its expression is linked to poor survival outcomes, and it is involved in pathways that promote cell proliferation and invasion. DDX49 is part of the SNHG20/miR-342/DDX49 axis in lung adenocarcinoma, regulating cell proliferation and apoptosis, and it promotes growth and metastasis in non-small cell lung cancer via the Akt/β-catenin pathway (Chen2022Clinical).
+
+DDX49 also plays a role in HIV-1 replication, where it interacts with the HIV-1 Gag protein and is upregulated in individuals with viral progression, suggesting a potential role in disease progression (Rao2022DEADly).
+
+## Interactions
+DDX49, a member of the DEAD-box helicase family, is involved in various interactions with proteins and nucleic acids. It is localized to the nucleolus, where it regulates pre-ribosomal RNA levels and promotes the export of polyA+ RNA from the nucleus in a splicing-independent manner (Rao2022DEADly). DDX49 interacts with the HIV-1 Gag protein, as identified through affinity tagging and purification mass spectrometry, suggesting a role in HIV-1 replication (Rao2022DEADly).
+
+In prostate cancer, DDX49 is overexpressed and interacts with differentially expressed genes (DEGs) involved in ribosome biogenesis, rRNA processing, and ncRNA processing. These interactions were identified using the STRING database, which provides a network of functional associations rather than direct physical interactions (Tao2023Overexpression; Szklarczyk2018STRING). The DEGs associated with DDX49 are linked to cellular components such as the per-ribosome, small-subunit processome, nucleolar part, and 90S preribosome, and are involved in molecular functions like snoRNA and rRNA binding (Tao2023Overexpression).
+
+While the specific physical interactions of DDX49 with other proteins or nucleic acids are not fully detailed, its involvement in these processes suggests significant roles in RNA metabolism and cellular stress pathways.
+
+
+## References
+
+
+[1. (Chen2022Clinical) Liang Chen, Yun-hua Lin, Guo-qing Liu, Jing-en Huang, Wei Wei, Zhong-hua Yang, Yi-ming Hu, Jia-heng Xie, and Hong-zhu Yu. Clinical significance and potential role of lsm4 overexpression in hepatocellular carcinoma: an integrated analysis based on multiple databases. Frontiers in Genetics, January 2022. URL: http://dx.doi.org/10.3389/fgene.2021.804916, doi:10.3389/fgene.2021.804916. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2021.804916)
+
+[2. (Tafforeau2013The) Lionel Tafforeau, Christiane Zorbas, Jean-Louis Langhendries, Sahra-Taylor Mullineux, Vassiliki Stamatopoulou, Romain Mullier, Ludivine Wacheul, and Denis L.J. Lafontaine. The complexity of human ribosome biogenesis revealed by systematic nucleolar screening of pre-rrna processing factors. Molecular Cell, 51(4):539–551, August 2013. URL: http://dx.doi.org/10.1016/j.molcel.2013.08.011, doi:10.1016/j.molcel.2013.08.011. This article has 394 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2013.08.011)
+
+[3. (Tao2023Overexpression) Junyue Tao, Qintao Ge, Jialing Meng, Chaozhao Liang, Zongyao Hao, and Jun Zhou. Overexpression of ddx49 in prostate cancer is associated with poor prognosis. BMC Urology, April 2023. URL: http://dx.doi.org/10.1186/s12894-023-01251-4, doi:10.1186/s12894-023-01251-4. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12894-023-01251-4)
+
+[4. (Szklarczyk2018STRING) Damian Szklarczyk, Annika L Gable, David Lyon, Alexander Junge, Stefan Wyder, Jaime Huerta-Cepas, Milan Simonovic, Nadezhda T Doncheva, John H Morris, Peer Bork, Lars J Jensen, and Christian von Mering. String v11: protein–protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic Acids Research, 47(D1):D607–D613, November 2018. URL: http://dx.doi.org/10.1093/nar/gky1131, doi:10.1093/nar/gky1131. This article has 11615 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gky1131)
+
+[5. (Abdelhaleem2003The) Mohamed Abdelhaleem, Lois Maltais, and Hester Wain. The human ddx and dhx gene families of putative rna helicases. Genomics, 81(6):618–622, June 2003. URL: http://dx.doi.org/10.1016/s0888-7543(03)00049-1, doi:10.1016/s0888-7543(03)00049-1. This article has 130 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0888-7543(03)00049-1)
+
+[6. (Rao2022DEADly) Shringar Rao and Tokameh Mahmoudi. Dead-ly affairs: the roles of dead-box proteins on hiv-1 viral rna metabolism. Frontiers in Cell and Developmental Biology, June 2022. URL: http://dx.doi.org/10.3389/fcell.2022.917599, doi:10.3389/fcell.2022.917599. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.917599)

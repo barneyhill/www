@@ -1,0 +1,46 @@
+# HMGCS1
+
+## Overview
+HMGCS1, or 3-hydroxy-3-methylglutaryl-CoA synthase 1, is a gene that encodes a cytosolic enzyme pivotal in the mevalonate pathway, which is essential for cholesterol biosynthesis. The enzyme catalyzes the condensation of acetyl-CoA and acetoacetyl-CoA to form HMG-CoA, representing the first committed step in cholesterol synthesis (Vock2008Transcriptional). Structurally, the HMGCS1 protein is characterized by a thiolase fold and a unique dimeric assembly, which is consistent with HMGCS enzymes from other species (Shafqat2010Crystal). This enzyme is regulated by sterol regulatory binding elements and interacts with various proteins, influencing its function and regulation in cellular processes (Shafqat2010Crystal; Zhou2021HMGCS1). HMGCS1's role in lipid metabolism and cholesterol homeostasis is crucial for maintaining cell membrane integrity and hormone synthesis (Vock2008Transcriptional). Its expression and activity have significant implications in clinical contexts, particularly in cancer, where alterations in HMGCS1 expression are linked to drug resistance and tumor aggressiveness (Walsh2020The; Zhou2021HMGCS1).
+
+## Structure
+The HMGCS1 protein is a cytosolic enzyme involved in the mevalonate pathway, crucial for cholesterol biosynthesis. Its crystal structure reveals a complex architecture composed of distinct regions. The protein features an 'upper' region with a thiolase fold, a common structure among acyl-condensing enzymes, characterized by a compact five-layered αβαβα core with 2-fold internal symmetry. The 'lower' region is unique to HMGCS enzymes and consists of several α-helices and β-strands, forming a tunnel that defines the active site (Shafqat2010Crystal).
+
+HMGCS1 exists as a homodimer, with the active-site tunnels of the two monomers oriented away from each other, similar to bacterial and plant HMGCS structures. This dimeric arrangement buries approximately 15% of the total molecular surface, with conserved interactions at the dimer interface (Shafqat2010Crystal). The protein's stability and dimerization are maintained even with certain missense variants, as shown by size exclusion chromatography and circular dichroism analyses (Dofash2023Biallelic).
+
+The active site of HMGCS1 is a 15 Å-deep tunnel that accommodates substrates, with specific residues forming a hydrophobic pocket at the entrance, which could be targeted for inhibitor development (Shafqat2010Crystal). The protein also has a unique ~40-residue subdomain in the upper region, forming a peripheral 'arm' near the active-site tunnel entrance (Shafqat2010Crystal).
+
+## Function
+HMGCS1 (3-hydroxy-3-methylglutaryl-CoA synthase 1) is a cytosolic enzyme that plays a crucial role in the mevalonate pathway, which is essential for cholesterol biosynthesis. It catalyzes the condensation of acetyl-CoA and acetoacetyl-CoA to form HMG-CoA, marking the first committed step in the cholesterol synthesis pathway (Vock2008Transcriptional). This enzyme is regulated by sterol regulatory binding elements, which control its expression in response to cholesterol levels (Shafqat2010Crystal).
+
+HMGCS1 is involved in lipid metabolism, impacting cell membrane integrity and hormone synthesis. Its activity is crucial for maintaining cholesterol homeostasis, which is vital for various cellular functions, including the formation of cell membranes and the synthesis of steroid hormones (Vock2008Transcriptional). The enzyme's function is stable in healthy cells, as no mutations have been identified in the human cytosolic HMGCS1, suggesting its essential role in normal cellular processes (Shafqat2010Crystal).
+
+The enzyme's structure has been elucidated, revealing a common architecture and dimeric assembly, which is consistent with HMGCS enzymes from other species. This structural information provides insights into its catalytic mechanism and potential as a target for cholesterol-regulating drugs (Shafqat2010Crystal).
+
+## Clinical Significance
+Alterations in the expression of the HMGCS1 gene have been implicated in various cancers, including acute myeloid leukemia (AML) and breast cancer. In AML, HMGCS1 is overexpressed in relapsed or refractory cases compared to those in complete remission, contributing to drug resistance. This resistance is mediated through the endoplasmic reticulum (ER)-unfolded protein response (UPR)-mitochondria axis, where HMGCS1 protects mitochondria and the ER from stress-induced damage, enhancing cell survival and proliferation (Zhou2021HMGCS1). The transcription factor GATA1 regulates HMGCS1 expression, and its high levels are associated with shorter overall survival in AML patients (Zhou2021HMGCS1).
+
+In breast cancer, HMGCS1 is associated with cancer stem cell (CSC) enrichment, particularly in basal subtypes. Its overexpression correlates with aggressive tumor features, such as high tumor grade and p53 mutations. Silencing HMGCS1 reduces CSC properties, indicating its role in maintaining CSC activities and contributing to tumor aggressiveness and poor relapse-free survival (Walsh2020The). The gene's involvement in the mevalonate pathway, crucial for cholesterol synthesis, underscores its potential as a therapeutic target in these cancers (Walsh2020The; Zhou2021HMGCS1).
+
+## Interactions
+HMGCS1, a key enzyme in the mevalonate pathway, is involved in various protein interactions that influence its function and regulation. In acute myeloid leukemia (AML) cells, HMGCS1 interacts with components of the unfolded protein response (UPR) signaling pathways, such as ATF6, ATF4, and XBP1, in response to endoplasmic reticulum (ER) stress. This interaction is part of its role in protecting mitochondria and the ER under stress conditions, contributing to drug resistance in AML cells (Zhou2021HMGCS1).
+
+In endometrial cancer, HMGCS1 is regulated by Estrogen-related receptor alpha (ERRα), which influences its expression levels. This regulation affects cell membrane fluidity and the epithelial-mesenchymal transition (EMT) signaling pathway, impacting cancer cell invasion and metastasis. ERRα and HMGCS1 have been shown to interact physically, as confirmed by co-immunoprecipitation assays (Tang2023ERRα).
+
+HMGCS1 is also subject to transcriptional regulation by Acyl-CoA Binding Protein (ACBP), which represses the promoter activity of the HMGCS1 gene in the presence of HNF-4α, a transcription factor involved in cholesterol metabolism. This interaction highlights ACBP as a negative transcriptional regulator of HMGCS1 (Vock2008Transcriptional).
+
+
+## References
+
+
+[1. (Walsh2020The) Claire A. Walsh, Nina Akrap, Elena Garre, Ylva Magnusson, Hannah Harrison, Daniel Andersson, Emma Jonasson, Svanheidur Rafnsdottir, Hani Choudhry, Francesca Buffa, Jiannis Ragoussis, Anders Ståhlberg, Adrian Harris, and Göran Landberg. The mevalonate precursor enzyme hmgcs1 is a novel marker and key mediator of cancer stem cell enrichment in luminal and basal models of breast cancer. PLOS ONE, 15(7):e0236187, July 2020. URL: http://dx.doi.org/10.1371/journal.pone.0236187, doi:10.1371/journal.pone.0236187. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0236187)
+
+[2. (Tang2023ERRα) Shuting Tang, Jincheng Ma, Pingping Su, Huifang Lei, Yao Tong, Liangzhi Cai, Shuxia Xu, Xiaodan Mao, and Pengming Sun. Errα up-regulates invadopodia formation by targeting hmgcs1 to promote endometrial cancer invasion and metastasis. International Journal of Molecular Sciences, 24(4):4010, February 2023. URL: http://dx.doi.org/10.3390/ijms24044010, doi:10.3390/ijms24044010. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms24044010)
+
+[3. (Shafqat2010Crystal) Naeem Shafqat, Andrew Turnbull, Johannes Zschocke, Udo Oppermann, and Wyatt W. Yue. Crystal structures of human hmg-coa synthase isoforms provide insights into inherited ketogenesis disorders and inhibitor design. Journal of Molecular Biology, 398(4):497–506, May 2010. URL: http://dx.doi.org/10.1016/j.jmb.2010.03.034, doi:10.1016/j.jmb.2010.03.034. This article has 53 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2010.03.034)
+
+[4. (Zhou2021HMGCS1) Cheng Zhou, Jue Li, Juan Du, Xinya Jiang, Xuejun Xu, Yi Liu, Qun He, Hui Liang, Peng Fang, Huien Zhan, and Hui Zeng. Hmgcs1 drives drug-resistance in acute myeloid leukemia through endoplasmic reticulum-upr-mitochondria axis. Biomedicine &amp; Pharmacotherapy, 137:111378, May 2021. URL: http://dx.doi.org/10.1016/j.biopha.2021.111378, doi:10.1016/j.biopha.2021.111378. This article has 19 citations.](https://doi.org/10.1016/j.biopha.2021.111378)
+
+5. (Dofash2023Biallelic) Biallelic variants inHMGCS1are a novel cause of rare rigid spine syndrome. This article has 2 citations.
+
+[6. (Vock2008Transcriptional) Christina Vock, Frank Döring, and Inke Nitz. Transcriptional regulation of hmg-coa synthase and hmg-coa reductase genes by human acbp. Cellular Physiology and Biochemistry, 22(5–6):515–524, 2008. URL: http://dx.doi.org/10.1159/000185525, doi:10.1159/000185525. This article has 37 citations and is from a peer-reviewed journal.](https://doi.org/10.1159/000185525)

@@ -1,0 +1,35 @@
+# DTX3
+
+## Overview
+DTX3 is a gene that encodes the protein deltex E3 ubiquitin ligase 3, which is a member of the Deltex family of E3 ubiquitin ligases. This protein is primarily involved in the ubiquitination process, a critical cellular mechanism for protein degradation and regulation. Unlike other Deltex family members, DTX3 has a unique structure characterized by a truncated N-terminal domain and a RING-HC domain, which is essential for its E3 ligase activity (Wang2021Functions; Scalia2023The). DTX3 is expressed in multiple isoforms and is predominantly cytoplasmic, although it interacts with nuclear targets, suggesting a role in nuclear signaling pathways (Scalia2023The). Functionally, DTX3 is involved in regulating the Notch signaling pathway and cell cycle progression, acting as a tumor suppressor in certain contexts by modulating E2F transcription factors (Xu2022Deltex; Ding2020Ubiquitination). The gene's role in cancer is complex, with evidence of both oncogenic and tumor-suppressive functions depending on the cellular environment and cancer type (Wang2021Functions; Scalia2023The).
+
+## Structure
+DTX3 is a member of the Deltex family of ubiquitin E3 ligases, characterized by a unique molecular structure that distinguishes it from other family members. The protein has a truncated N-terminal domain, which prevents interaction with the ankyrin repeats of the Notch receptor, a feature present in other Deltex proteins like DTX1, DTX2, and DTX4 (Wang2021Functions). DTX3 contains a RING-HC domain, a variation of the RING domain, which is crucial for its E3 ligase activity involved in protein ubiquitination (Wang2021Functions; Scalia2023The).
+
+DTX3 is expressed in three N-terminal isoform variants: DTX3a, DTX3b, and DTX3c. DTX3a and DTX3b have similar N-terminal folding, while DTX3c results from an exon-retention event and includes a K->R substitution at position 16 (Scalia2023The). The protein also features a proline-rich region, similar to other DTX proteins, and an SH3 motif, which is absent in DTX2 (Scalia2023The).
+
+DTX3 is primarily cytoplasmic, lacking predicted nuclear localization signals, but it is associated with nuclear targets, suggesting potential nuclear translocation mechanisms (Scalia2023The). The protein's structure and isoform-specific roles may influence its function in cellular signaling pathways and cancer (Scalia2023The).
+
+## Function
+DTX3 (deltex E3 ubiquitin ligase 3) is a protein involved in the ubiquitination process, which is crucial for protein turnover and regulation within cells. It functions as an E3 ubiquitin ligase, tagging specific proteins for degradation by the proteasome, thereby influencing protein stability and function. DTX3 is primarily expressed in the nucleus and plays a significant role in regulating cell signaling pathways and transcriptional activities (Wang2021Functions).
+
+In healthy human cells, DTX3 is involved in the regulation of the Notch signaling pathway, particularly through its interaction with NOTCH2. This interaction leads to the ubiquitination and subsequent degradation of NOTCH2, which is essential for controlling cell proliferation and migration. This regulatory mechanism is crucial for maintaining normal cellular functions and preventing uncontrolled cell growth (Ding2020Ubiquitination).
+
+DTX3 also influences cell cycle progression by modulating the activity of E2F transcription factors, which are key regulators of cell cycle-related genes. This modulation helps maintain proper cell cycle control and prevents aberrant cell proliferation, highlighting DTX3's role as a tumor suppressor in certain contexts (Xu2022Deltex).
+
+## Clinical Significance
+DTX3 (deltex E3 ubiquitin ligase 3) plays a significant role in various cancers, acting as either an oncogene or a tumor suppressor depending on the context. In liver tumors, similar to human hepatocellular carcinoma, DTX3 overexpression is driven by E2F family transcription factors, contributing to tumor development (Wang2021Functions). In ductal breast cancer, DTX3 amplification is associated with high tumor cell proliferation and poor prognosis, indicating its oncogenic role (Wang2021Functions). Conversely, in esophageal cancer, DTX3 expression is downregulated, which inhibits cancer cell proliferation by promoting the ubiquitination and degradation of Notch2, suggesting a tumor-suppressive function (Ding2020Ubiquitination; Wang2021Functions).
+
+DTX3 also exhibits tumor-suppressing effects in colorectal cancer, where its expression is significantly downregulated. Overexpression of DTX3 in colorectal cancer cells inhibits proliferation by regulating E2F1 transcriptional activity, highlighting its potential as a therapeutic target (Xu2022Deltex). The gene's role in cancer is complex and context-dependent, influenced by factors such as TP53 mutational status, which can alter its function from tumor-suppressing to cancer-promoting in different cellular environments (Scalia2023The).
+
+
+## References
+
+
+[1. (Xu2022Deltex) Hongli Xu, Shengnan Liang, Junjie Hu, Wentong Liu, Zhiqiang Dong, and Shaozhong Wei. Deltex e3 ubiquitin ligase 3 inhibits colorectal cancer cell growth and regulates cell cycle progression via upregulating e2f transcription factor 1. Molecular Biology Reports, 49(3):1661–1668, January 2022. URL: http://dx.doi.org/10.1007/s11033-021-06916-7, doi:10.1007/s11033-021-06916-7. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11033-021-06916-7)
+
+[2. (Ding2020Ubiquitination) Xin‐Yu Ding, Hai‐Yang Hu, Ke‐Nan Huang, Rong‐Qiang Wei, Jie Min, Chen Qi, Hua Tang, and Xiong Qin. Ubiquitination of notch2 by dtx3 suppresses the proliferation and migration of human esophageal carcinoma. Cancer Science, 111(2):489–501, February 2020. URL: http://dx.doi.org/10.1111/cas.14288, doi:10.1111/cas.14288. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/cas.14288)
+
+[3. (Wang2021Functions) Lidong Wang, Xiaodan Sun, Jingni He, and Zhen Liu. Functions and molecular mechanisms of deltex family ubiquitin e3 ligases in development and disease. Frontiers in Cell and Developmental Biology, August 2021. URL: http://dx.doi.org/10.3389/fcell.2021.706997, doi:10.3389/fcell.2021.706997. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.706997)
+
+[4. (Scalia2023The) Pierluigi Scalia, Stephen J. Williams, Antonio Suma, and Vincenzo Carnevale. The dtx protein family: an emerging set of e3 ubiquitin ligases in cancer. Cells, 12(13):1680, June 2023. URL: http://dx.doi.org/10.3390/cells12131680, doi:10.3390/cells12131680. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells12131680)

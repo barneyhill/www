@@ -1,0 +1,33 @@
+# PHLDB3
+
+## Overview
+PHLDB3 is a gene that encodes the protein pleckstrin homology like domain family B member 3, which is characterized by the presence of a pleckstrin homology (PH) domain. This domain is involved in binding to phosphorylated lipids at cell membranes, playing a crucial role in cellular signaling pathways (Fuselier2020PHLD). The PHLDB3 protein also contains coiled-coil domains that facilitate interactions with other proteins, such as MDM2, influencing the ubiquitination and degradation of the tumor suppressor protein p53 (Chao2016Pleckstrin). As an oncoprotein, PHLDB3 is implicated in cancer biology, particularly through its modulation of the p53 network, which is critical for cell cycle regulation and apoptosis (Chao2016Pleckstrin). The gene's expression and interactions are significant in various cancers, including breast, gastric, and colorectal cancers, where it may serve as a potential biomarker for prognosis and therapeutic response (do2022An; Chao2016Pleckstrin).
+
+## Structure
+PHLDB3 is a protein encoded by the PHLDB3 gene, characterized by the presence of a pleckstrin homology (PH) domain, which is involved in binding to phosphorylated lipids at cell membranes (Fuselier2020PHLD). This domain contains a KXn(K/R)XR motif, which is less positively charged compared to similar motifs in the PHLDA family, potentially affecting its interactions with phosphatidylinositol lipids (Fuselier2020PHLD). The protein also includes two predicted coiled-coil domains, which are important for its interaction with other proteins, such as MDM2 (Chao2016Pleckstrin).
+
+PHLDB3 shares 30-48% similarity in its coiled-coil domains and 76-78% similarity in the PH domain with other members of the LL5 family, such as PHLDB1 and PHLDB2 (Chao2016Pleckstrin). The central coiled-coil domain of PHLDB3 is crucial for its binding to the C-terminal domain of MDM2, facilitating the ubiquitination and degradation of p53, a key tumor suppressor protein (Chao2016Pleckstrin). Despite these insights, detailed information on the complete molecular structure, including primary, secondary, tertiary, and quaternary structures, is not provided in the available literature. The need for crystal structures to model interactions is noted, indicating that structural studies are still required (Fuselier2020PHLD).
+
+## Clinical Significance
+PHLDB3 is implicated in various cancers, including breast, gastric, and colorectal cancers, where its expression levels and interactions play significant roles in disease progression. In breast cancer, PHLDB3 is expressed at higher levels in tumor tissues compared to healthy tissues. Its expression is associated with certain clinicopathological characteristics, such as lower lymph node involvement and hormone receptor positivity, which may help predict lymph node metastasis and clinical outcomes. However, in HER2+ breast cancer cases, increased PHLDB3 expression correlates with worse overall survival, and reduced expression is linked to poor response to anti-HER2 therapy (do2022An).
+
+PHLDB3 also interacts with the p53 tumor suppressor pathway, promoting cancer growth by enhancing MDM2-mediated ubiquitination and degradation of p53. This interaction suggests a negative feedback loop where PHLDB3 reduces p53 protein levels, contributing to tumor growth and resistance to chemotherapy in cancers with wild-type p53. High PHLDB3 expression is often mutually exclusive with TP53 mutations, indicating its role in compensating for p53 inactivation in certain cancers (Chao2016Pleckstrin).
+
+These findings suggest that PHLDB3 could serve as a potential biomarker for cancer prognosis and therapeutic response, particularly in breast cancer and other cancers with functional p53 (do2022An; Chao2016Pleckstrin).
+
+## Interactions
+PHLDB3 interacts with several proteins, playing a significant role in cancer biology through its involvement in the p53 network. It directly interacts with MDM2, a key regulator of the tumor suppressor protein p53. PHLDB3 enhances MDM2-mediated ubiquitination and degradation of p53, thereby reducing p53 protein levels and inhibiting its tumor-suppressing activity (Chao2016Pleckstrin). This interaction forms a negative feedback loop that promotes cancer cell growth and survival, particularly in cells with wild-type p53 (Chao2016Pleckstrin).
+
+PHLDB3 competes with MDMX for binding to MDM2, although they bind to different residues within the RING domain of MDM2 (Chao2016Pleckstrin). It also interacts with SIRT1, enhancing SIRT1's deacetylase activity, which further facilitates MDM2-mediated p53 degradation (Chao2016Pleckstrin). PHLDB3's interaction with MDM2 does not affect MDM2's auto-ubiquitination or stability but specifically enhances its ability to target p53 for degradation (Chao2016Pleckstrin).
+
+PHLDB3 is also identified as a transcriptional target of p53, with p53 binding to the PHLDB3 promoter, influencing its expression (Chao2016Pleckstrin). These interactions highlight PHLDB3's role as an oncoprotein, contributing to cancer progression and resistance to chemotherapy.
+
+
+## References
+
+
+[1. (do2022An) Renan Gomes do Nascimento, Jéssica de Moraes, Danilo de Oliveira Cerqueira, and Sandro Jorge Januário. An &lt;i&gt;in silico&lt;/i&gt; analysis identified members of the pleckstrin homology-like domain, family b (phldb family) as potential prognostic and predictive biomarkers of treatment response in breast cancer patients. European Journal of Breast Health, 18(3):235–247, July 2022. URL: http://dx.doi.org/10.4274/ejbh.galenos.2022.2022-3-5, doi:10.4274/ejbh.galenos.2022.2022-3-5. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.4274/ejbh.galenos.2022.2022-3-5)
+
+[2. (Chao2016Pleckstrin) Tengfei Chao, Xiang Zhou, Bo Cao, Peng Liao, Hongbing Liu, Yun Chen, Hee-Won Park, Shelya X. Zeng, and Hua Lu. Pleckstrin homology domain-containing protein phldb3 supports cancer growth via a negative feedback loop involving p53. Nature Communications, December 2016. URL: http://dx.doi.org/10.1038/ncomms13755, doi:10.1038/ncomms13755. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms13755)
+
+[3. (Fuselier2020PHLD) Taylor T. Fuselier and Hua Lu. Phld class proteins: a family of new players in the p53 network. International Journal of Molecular Sciences, 21(10):3543, May 2020. URL: http://dx.doi.org/10.3390/ijms21103543, doi:10.3390/ijms21103543. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21103543)

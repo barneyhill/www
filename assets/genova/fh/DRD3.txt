@@ -1,0 +1,48 @@
+# DRD3
+
+## Overview
+The DRD3 gene encodes the dopamine receptor D3, a member of the G protein-coupled receptor (GPCR) family, specifically within the D2-like dopamine receptor subfamily. This receptor is characterized by its seven-transmembrane α-helix structure, which is typical of GPCRs, and plays a significant role in the central nervous system by modulating neurotransmission, particularly in limbic areas associated with cognitive, emotional, and social behaviors (Kiss2021Neuronal; Chien2010Structure). The dopamine receptor D3 is involved in various intracellular signaling pathways, including the AKT-mTOR and AMPK pathways, influencing processes such as autophagy and synaptic transmission (Wang2018Dopamine). Alterations in the DRD3 gene have been linked to several neuropsychiatric disorders, including schizophrenia and Parkinson's disease, highlighting its clinical significance (Baritaki2004Association; Amigó2013SelfRegulation).
+
+## Structure
+The dopamine receptor D3 (DRD3) is a G protein-coupled receptor (GPCR) characterized by a canonical seven-transmembrane α-helix structure, typical of the GPCR superfamily (Chien2010Structure). The primary structure of the prevalent isoform of DRD3 consists of 400 amino acids, featuring a long intracellular loop 3 (ICL3) region (Kiss2021Neuronal). The secondary structure includes these transmembrane helices, which are connected by three extracellular and three intracellular loops, with a small eighth α-helix at the C-terminus (Kiss2021Neuronal).
+
+The tertiary structure of DRD3 involves the folding of these helices into a three-dimensional conformation, forming a highly conserved orthosteric binding site (OBS) crucial for receptor-ligand interactions (Kiss2021Neuronal). The receptor also contains allosteric or secondary binding pockets, which are less conserved than the OBS (Kiss2021Neuronal). The quaternary structure may involve dimerization with other receptors, such as D1R and nicotinic acetylcholine receptors, influencing signaling and trafficking (Kiss2021Neuronal).
+
+Post-translational modifications, such as phosphorylation and glycosylation, may affect the receptor's function and localization, although specific modifications are not detailed in the provided context. The UniProt database lists two described isoforms of the human D3R produced by alternative splicing (Kiss2021Neuronal).
+
+## Function
+The DRD3 gene encodes the dopamine receptor D3, a member of the D2-like family of dopamine receptors, which plays a crucial role in regulating autophagy, a cellular degradation process. DRD3 is involved in the modulation of the AKT-mTOR and AMPK signaling pathways, which are essential for cellular energy and nutrient sensing. Knockdown of DRD3 increases AKT phosphorylation and mTOR substrate phospho-p70-S6K levels, while decreasing AMPK activity, indicating its role in these pathways (Wang2018Dopamine). 
+
+DRD3 is also implicated in ligand-induced receptor degradation and autophagy regulation. Dopamine and monoamines, which are DRD3 ligands, can induce DRD3 internalization and degradation, leading to increased levels of LC3B, a marker of autophagy (Wang2018Dopamine). The receptor's interaction with mTOR is mediated by GIPC1, a scaffold protein, suggesting that DRD3 may rely on GIPC1 to regulate mTOR (Wang2018Dopamine).
+
+In the brain, DRD3 is primarily expressed in limbic areas and is involved in modulating cognitive, emotional, and social behaviors. It influences synaptic transmission and is implicated in various cognitive processes, including memory and attention (Kiss2021Neuronal).
+
+## Clinical Significance
+Alterations in the DRD3 gene, which encodes the dopamine receptor D3, have been implicated in several neuropsychiatric disorders. Reduced DRD3 mRNA expression in peripheral blood lymphocytes (PBL) is associated with Parkinson's and Alzheimer's diseases, correlating with the clinical severity of these conditions (Amigó2013SelfRegulation). Conversely, increased DRD3 mRNA expression has been observed in patients with migraine and schizophrenia, with the latter also showing sensitivity to antipsychotic treatment (Amigó2013SelfRegulation). 
+
+In schizophrenia, a marginally nonsignificant excess of homozygote genotypes in the DRD3 gene has been noted, with a statistically significant association for wild-type homozygotes, indicating a higher risk of developing the disorder (Baritaki2004Association). The DRD3 gene has also been linked to Tardive Dyskinesia in schizophrenic patients treated with antipsychotics (Baritaki2004Association).
+
+In the context of chronic anovulation, a condition affecting fertility, the DRD3 gene has been studied for its role in the regulation of gonadotropin-releasing hormone and prolactin secretion. However, no significant association was found between DRD3 polymorphisms and chronic anovulation or polycystic ovary syndrome in certain populations (Santos2008Structural).
+
+## Interactions
+The dopamine receptor D3 (DRD3) is a G protein-coupled receptor that primarily interacts with Gi proteins, facilitating inhibitory signal transduction. DRD3 forms complexes with various G-proteins, including Gi1, Gi2, Gi3, Go, Gq, Gslo, Gssh, and Gz, although it predominantly couples with Gi proteins (Preto2020Understanding). The receptor's interaction with G-proteins involves specific transmembrane regions and intracellular loops, such as TM2, TM3, TM5, TM6, TM7, ICL2, ICL3, and H8 (Preto2020Understanding). 
+
+DRD3 also interacts with arrestins, particularly Arr2 and Arr3, which are involved in receptor desensitization and internalization. The D3R-Arr2 complex involves interactions with intracellular loop 2 (ICL2) and transmembrane domain 5 (TM5), while the D3R-Arr3 complex does not interact with the finger loop of arrestins (Preto2020Understanding). These interactions are crucial for modulating the receptor's signaling pathways and its conformational flexibility, which is higher in D3R compared to other dopamine receptor subtypes (Preto2020Understanding). The structural motifs and domains involved in these interactions, such as the finger loop and C-loop domains, are essential for high-affinity binding at the TM7-H8 boundary (Preto2020Understanding).
+
+
+## References
+
+
+[1. (Preto2020Understanding) A. J. Preto, Carlos A. V. Barreto, Salete J. Baptista, José Guilherme de Almeida, Agostinho Lemos, André Melo, M. Nátalia D. S. Cordeiro, Zeynep Kurkcuoglu, Rita Melo, and Irina S. Moreira. Understanding the binding specificity of g-protein coupled receptors toward g-proteins and arrestins: application to the dopamine receptor family. Journal of Chemical Information and Modeling, 60(8):3969–3984, July 2020. URL: http://dx.doi.org/10.1021/acs.jcim.0c00371, doi:10.1021/acs.jcim.0c00371. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.jcim.0c00371)
+
+[2. (Kiss2021Neuronal) Béla Kiss, István Laszlovszky, Balázs Krámos, András Visegrády, Amrita Bobok, György Lévay, Balázs Lendvai, and Viktor Román. Neuronal dopamine d3 receptors: translational implications for preclinical research and cns disorders. Biomolecules, 11(1):104, January 2021. URL: http://dx.doi.org/10.3390/biom11010104, doi:10.3390/biom11010104. This article has 37 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom11010104)
+
+[3. (Wang2018Dopamine) Dongmei Wang, Xinmiao Ji, Juanjuan Liu, Zhiyuan Li, and Xin Zhang. Dopamine receptor subtypes differentially regulate autophagy. International Journal of Molecular Sciences, 19(5):1540, May 2018. URL: http://dx.doi.org/10.3390/ijms19051540, doi:10.3390/ijms19051540. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms19051540)
+
+[4. (Santos2008Structural) A.D.S. Santos, R.A.A. Prado, M.B. Melo, M.R. Melo, and C.A. Longui. Structural evaluation of type 3 dopaminergic receptor gene (drd3) in chronic anovulatory women. Genetics and Molecular Research, 7(1):140–151, 2008. URL: http://dx.doi.org/10.4238/vol7-1gmr397, doi:10.4238/vol7-1gmr397. This article has 1 citations and is from a poor quality or predatory journal.](https://doi.org/10.4238/vol7-1gmr397)
+
+[5. (Chien2010Structure) Ellen Y. T. Chien, Wei Liu, Qiang Zhao, Vsevolod Katritch, Gye Won Han, Michael A. Hanson, Lei Shi, Amy Hauck Newman, Jonathan A. Javitch, Vadim Cherezov, and Raymond C. Stevens. Structure of the human dopamine d3 receptor in complex with a d2/d3 selective antagonist. Science, 330(6007):1091–1095, November 2010. URL: http://dx.doi.org/10.1126/science.1197410, doi:10.1126/science.1197410. This article has 978 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1197410)
+
+[6. (Baritaki2004Association) S Baritaki, E Rizos, A Zafiropoulos, G Soufla, K Katsafouros, V Gourvas, and D A Spandidos. Association between schizophrenia and drd3 or htr2 receptor gene variants. European Journal of Human Genetics, 12(7):535–541, April 2004. URL: http://dx.doi.org/10.1038/sj.ejhg.5201180, doi:10.1038/sj.ejhg.5201180. This article has 18 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.ejhg.5201180)
+
+[7. (Amigó2013SelfRegulation) Salvador Amigó, Antonio Caselles, and Joan C. Micó. Self-regulation therapy to reproduce drug effects:a suggestion technique to change personality and thedrd3gene expression. International Journal of Clinical and Experimental Hypnosis, 61(3):282–304, July 2013. URL: http://dx.doi.org/10.1080/00207144.2013.784094, doi:10.1080/00207144.2013.784094. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/00207144.2013.784094)

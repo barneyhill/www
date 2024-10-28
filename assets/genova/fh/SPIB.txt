@@ -1,0 +1,44 @@
+# SPIB
+
+## Overview
+The SPIB gene encodes the Spi-B transcription factor, a member of the ETS family of transcription factors, which are critical regulators of gene expression in various immune cells. Spi-B is primarily involved in the development and function of B cells and plays a pivotal role in the differentiation of intestinal microfold (M) cells, which are essential for mucosal immunity. Despite its structural similarity to other ETS family members, such as PU.1, Spi-B has unique functions that cannot be compensated by these proteins. The transcription factor is involved in complex interactions with other proteins, including IRF4, influencing immune cell differentiation and function. Alterations in SPIB expression are associated with several diseases, including primary biliary cirrhosis, Waldenström macroglobulinemia, and diffuse large B-cell lymphoma, highlighting its clinical significance in immune-related pathologies (Kanaya2012The; DeKoter2010Regulation; Care2014SPIB; Hirschfield2012Association).
+
+## Structure
+
+
+## Function
+The SPIB gene encodes the Spi-B transcription factor, a member of the ETS family, which plays a significant role in the regulation of gene expression in immune cells. Spi-B is primarily involved in B cell development and function, where it coordinates the induction of genes involved in B cell receptor (BCR) signaling, such as Blnk, Syk, and Grap2. Despite its structural similarity to PU.1, another ETS family member, Spi-B cannot compensate for the absence of PU.1. Spi-B knockout mice can still generate mature B cells capable of normal antibody responses, although they exhibit proliferation defects in response to BCR stimulation (DeKoter2010Regulation).
+
+Spi-B is also essential for the differentiation of intestinal microfold (M) cells, which are specialized epithelial cells within the follicle-associated epithelium of gut-associated lymphoid tissue. These cells play a crucial role in mucosal immunity by transporting antigens to underlying lymphoid tissues. Spi-B is highly upregulated during the early stages of RANKL-induced M-cell differentiation and is specifically expressed by M cells in the FAE of Peyer's patches (Kanaya2012The). In Spi-B-deficient mice, there is a lack of functionally mature M cells, leading to impaired mucosal immune responses (Kanaya2012The).
+
+## Clinical Significance
+Alterations in the SPIB gene are implicated in several diseases, primarily due to its role in immune cell regulation. In primary biliary cirrhosis (PBC), genetic variants in SPIB, particularly the SNP rs34944112, are associated with an increased risk of developing the disease. This SNP functions independently to confer much of the effect on PBC risk (Hirschfield2012Association).
+
+In Waldenström macroglobulinaemia (WM), SPIB is aberrantly over-expressed, leading to the repression of plasma cell differentiation. This over-expression is linked to the suppression of key differentiation markers such as PRDM1, XBP1, and IRF4, contributing to the pathology of WM (Zhou2014Transcriptional). SPIB's role in WM is further highlighted by its interaction with POU2F2 and POU2AF1, which regulate its expression and contribute to disease progression (Zhou2014Transcriptional).
+
+In diffuse large B-cell lymphoma (DLBCL), particularly the activated B-cell-like (ABC) subtype, SPIB acts as a dominant co-factor for IRF4, influencing gene expression profiles and contributing to disease heterogeneity (Care2014SPIB). SPIB is also involved in B-cell acute lymphoblastic leukemia (B-ALL) when its expression is altered, leading to impaired B-cell development and leukemia onset (Batista2018Deletion).
+
+## Interactions
+SPIB, a member of the ETS family of transcription factors, engages in various interactions with other proteins and nucleic acids, playing a significant role in immune cell differentiation and function. In diffuse large B-cell lymphoma (DLBCL), SPIB acts as a predominant partner of IRF4 at Ets-IRF composite elements (EICEs), which are regulatory regions. This interaction is crucial for IRF4's DNA-binding activity, as SPIB knockdown leads to a loss of IRF4 binding at many sites, indicating a physical interaction between SPIB and IRF4 (Care2014SPIB).
+
+SPIB also interacts with PU.1, another ETS family member, although PU.1 does not compensate for the loss of SPIB in IRF4 binding, suggesting a specific interaction between SPIB and IRF4 (Care2014SPIB). In the context of lenalidomide treatment in ABC-DLBCL cells, SPIB's interaction with IRF4 is affected at the transcriptional level, as lenalidomide downregulates SPIB mRNA transcripts, leading to cell death (Solomon2017Lenalidomide).
+
+Additionally, SPIB is involved in a complex regulatory network with proteins such as POU2F2 and POU2AF1, which bind to the SPIB promoter and influence its expression, particularly in Waldenström macroglobulinemia (Zhou2014Transcriptional). These interactions highlight SPIB's role in transcriptional regulation and its potential impact on disease pathogenesis.
+
+
+## References
+
+
+[1. (Zhou2014Transcriptional) Yangsheng Zhou, Xia Liu, Lian Xu, Zachary R. Hunter, Yang Cao, Guang Yang, Ruben Carrasco, and Steven P. Treon. Transcriptional repression of plasma cell differentiation is orchestrated by aberrant over-expression of the ets factorspibin waldenström macroglobulinaemia. British Journal of Haematology, 166(5):677–689, May 2014. URL: http://dx.doi.org/10.1111/bjh.12936, doi:10.1111/bjh.12936. This article has 16 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/bjh.12936)
+
+[2. (Kanaya2012The) Takashi Kanaya, Koji Hase, Daisuke Takahashi, Shinji Fukuda, Katsuaki Hoshino, Izumi Sasaki, Hiroaki Hemmi, Kathryn A Knoop, Nachiket Kumar, Mayuko Sato, Tatsuro Katsuno, Osamu Yokosuka, Kiminori Toyooka, Kumiko Nakai, Ayako Sakamoto, Yuuki Kitahara, Toshi Jinnohara, Stephen J McSorley, Tsuneyasu Kaisho, Ifor R Williams, and Hiroshi Ohno. The ets transcription factor spi-b is essential for the differentiation of intestinal microfold cells. Nature Immunology, 13(8):729–736, June 2012. URL: http://dx.doi.org/10.1038/ni.2352, doi:10.1038/ni.2352. This article has 182 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ni.2352)
+
+[3. (Solomon2017Lenalidomide) Lauren A. Solomon, Carolina R. Batista, and Rodney P. DeKoter. Lenalidomide modulates gene expression in human abc-dlbcl cells by regulating ikaros interaction with an intronic control region of spib. Experimental Hematology, 56:46-57.e1, December 2017. URL: http://dx.doi.org/10.1016/j.exphem.2017.09.002, doi:10.1016/j.exphem.2017.09.002. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.exphem.2017.09.002)
+
+4. (Batista2018Deletion) Deletion of genes encoding PU.1 and Spi-B leads to B cell acute lymphoblastic leukemia associated with driver mutations in Janus Kinases. This article has 0 citations.
+
+[5. (Care2014SPIB) Matthew A. Care, Mario Cocco, Jon P. Laye, Nicholas Barnes, Yuanxue Huang, Ming Wang, Sharon Barrans, Ming Du, Andrew Jack, David R. Westhead, Gina M. Doody, and Reuben M. Tooze. Spib and batf provide alternate determinants of irf4 occupancy in diffuse large b-cell lymphoma linked to disease heterogeneity. Nucleic Acids Research, 42(12):7591–7610, May 2014. URL: http://dx.doi.org/10.1093/nar/gku451, doi:10.1093/nar/gku451. This article has 44 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gku451)
+
+[6. (DeKoter2010Regulation) Rodney P. DeKoter, Marc Geadah, Sonam Khoosal, Li S. Xu, Gobi Thillainadesan, Joseph Torchia, Shu Shien Chin, and Lee Ann Garrett-Sinha. Regulation of follicular b cell differentiation by the related e26 transformation-specific transcription factors pu.1, spi-b, and spi-c. The Journal of Immunology, 185(12):7374–7384, December 2010. URL: http://dx.doi.org/10.4049/jimmunol.1001413, doi:10.4049/jimmunol.1001413. This article has 0 citations.](https://doi.org/10.4049/jimmunol.1001413)
+
+[7. (Hirschfield2012Association) G M Hirschfield, G Xie, E Lu, Y Sun, B D Juran, V Chellappa, C Coltescu, A L Mason, P Milkiewicz, R P Myers, J A Odin, V A Luketic, B Bacon, H Bodenheimer, V Liakina, C Vincent, C Levy, S Pillai, K N Lazaridis, C I Amos, and K A Siminovitch. Association of primary biliary cirrhosis with variants in the clec16a, socs1, spib and siae immunomodulatory genes. Genes &amp; Immunity, 13(4):328–335, January 2012. URL: http://dx.doi.org/10.1038/gene.2011.89, doi:10.1038/gene.2011.89. This article has 71 citations.](https://doi.org/10.1038/gene.2011.89)

@@ -1,0 +1,56 @@
+# IDH1
+
+## Overview
+The IDH1 gene encodes the enzyme isocitrate dehydrogenase (NADP(+)) 1, a cytosolic enzyme that plays a pivotal role in cellular metabolism. As an oxidoreductase, IDH1 catalyzes the oxidative decarboxylation of isocitrate to alpha-ketoglutarate, a reaction that concurrently reduces NADP+ to NADPH. This process is crucial for maintaining the cellular redox balance and providing reducing power for biosynthetic reactions and antioxidant defenses (Horbinski2013What; Molenaar2018Wildtype). The IDH1 protein is a homodimeric enzyme, characterized by a Rossmann fold that facilitates NADP+ binding, essential for its catalytic activity (Pietrak2011A). Mutations in IDH1, particularly the R132H mutation, are significant in the context of cancer, as they lead to the production of the oncometabolite 2-hydroxyglutarate, which is implicated in tumorigenesis through epigenetic modifications (Yang2012IDH1andIDH2Mutations; Cohen2013IDH1). These mutations are prevalent in certain cancers, such as gliomas and acute myeloid leukemia, and are associated with distinct clinical outcomes and therapeutic implications (Nobusawa2009IDH1; Cohen2013IDH1).
+
+## Structure
+The IDH1 protein is a homodimeric enzyme, meaning it forms a quaternary structure composed of two identical subunits. Each subunit contributes to the active site, which is crucial for its enzymatic function (Pietrak2011A). The enzyme contains a Rossmann fold, a common motif for binding NADP+, which is essential for its catalytic activity (Pietrak2011A). 
+
+The R132H mutation in IDH1, frequently found in gliomas, affects the enzyme's ability to bind isocitrate and enhances the production of 2-hydroxyglutarate from alpha-ketoglutarate. This mutation increases the Km for isocitrate, reducing competition between isocitrate and alpha-ketoglutarate, allowing the latter to bind more effectively (Pietrak2011A). The mutation also results in a neomorphic reaction, converting alpha-ketoglutarate to R-hydroxyglutarate, which is associated with cancer pathogenesis (Pietrak2011A).
+
+The IDH1 protein is subject to post-translational modifications, such as phosphorylation, which can affect its activity and function (Pietrak2011A). The enzyme also has several known splice variant isoforms, which may have different functional roles in cellular metabolism (Pietrak2011A).
+
+## Function
+The IDH1 gene encodes the enzyme isocitrate dehydrogenase 1, which plays a crucial role in cellular metabolism by catalyzing the oxidative decarboxylation of isocitrate to alpha-ketoglutarate (α-KG) in the cytoplasm and peroxisomes. This reaction is coupled with the reduction of NADP+ to NADPH, a critical cofactor in maintaining cellular redox balance and providing reducing power for biosynthetic reactions and antioxidant defenses (Horbinski2013What; Molenaar2018Wildtype). 
+
+In healthy human cells, IDH1 is a significant contributor to NADPH production, which is essential for DNA damage repair, synthesis of deoxynucleotides, and the regeneration of reduced glutathione and thioredoxin, protecting against reactive oxygen species (ROS) (Molenaar2018Wildtype). IDH1's activity is particularly important in the human brain, where it is the largest producer of NADPH, supporting cellular defense against oxidative stress (Horbinski2013What). 
+
+IDH1 also plays a role in the citric acid cycle, contributing to energy production and metabolic homeostasis. It is involved in lipid synthesis and the maintenance of mitochondrial function, highlighting its importance in normal metabolic processes (Molenaar2018Wildtype).
+
+## Clinical Significance
+Mutations in the IDH1 gene are clinically significant in various cancers, particularly gliomas and acute myeloid leukemia (AML). In gliomas, IDH1 mutations are predominantly found in lower-grade gliomas and secondary glioblastomas, but are rare in primary glioblastomas (Horbinski2013What; Nobusawa2009IDH1). These mutations are associated with a more favorable prognosis, including longer survival rates, and are linked to specific genetic profiles, such as co-occurrence with TP53 mutations in astrocytic tumors and 1p/19q co-deletion in oligodendrogliomas (Cohen2013IDH1).
+
+IDH1 mutations result in the production of the oncometabolite 2-hydroxyglutarate (2-HG), which inhibits α-KG-dependent dioxygenases, leading to epigenetic changes such as increased histone and DNA methylation (Yang2012IDH1andIDH2Mutations; Cohen2013IDH1). This hypermethylation phenotype, known as the Glioma CpG Island Methylation Phenotype (G-CIMP), contributes to tumorigenesis and affects tumor behavior (Cohen2013IDH1).
+
+IDH1 mutations are also being explored as therapeutic targets, with IDH inhibitors and vaccines under development. These mutations are associated with increased sensitivity to radiotherapy and chemotherapy, making them significant in treatment planning (Picca2018The).
+
+## Interactions
+IDH1 interacts with calmodulin (CaM), with the wild-type IDH1 (IDH1 WT) binding more strongly than the R132H mutant. This interaction is confirmed through pull-down assays and surface plasmon resonance, indicating a higher affinity of IDH1 WT for CaM. The binding is direct and calcium-independent, involving a specific region between amino acids G339 and L346 on IDH1. This interaction plays a role in glioblastoma cell migration and proliferation, suggesting its potential as a therapeutic target (Kang2020Interaction).
+
+IDH1 also exhibits RNA-binding activity, interacting with single-stranded RNA, particularly GA- and AU-rich sequences. This binding is distinct from its catalytic activity and is reduced in the R132H mutant. The RNA-binding domain is located between amino acids 136-285, with specific positively charged residues contributing to this activity. IDH1's RNA-binding properties suggest a role in transcription, chromatin regulation, and RNA processing (Liu2019Insight).
+
+In IDH1-mutated cancers, the RNA-binding protein HuR stabilizes both wild-type and mutant IDH1 transcripts, which is crucial for cancer cell survival under stress conditions (Zarei2019RNABinding).
+
+
+## References
+
+
+[1. (Yang2012IDH1andIDH2Mutations) Hui Yang, Dan Ye, Kun-Liang Guan, and Yue Xiong. Idh1andidh2mutations in tumorigenesis: mechanistic insights and clinical perspectives. Clinical Cancer Research, 18(20):5562–5571, October 2012. URL: http://dx.doi.org/10.1158/1078-0432.ccr-12-1773, doi:10.1158/1078-0432.ccr-12-1773. This article has 340 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/1078-0432.ccr-12-1773)
+
+[2. (Molenaar2018Wildtype) Remco J. Molenaar, Jaroslaw P. Maciejewski, Johanna W. Wilmink, and Cornelis J. F. van Noorden. Wild-type and mutated idh1/2 enzymes and therapy responses. Oncogene, 37(15):1949–1960, January 2018. URL: http://dx.doi.org/10.1038/s41388-017-0077-z, doi:10.1038/s41388-017-0077-z. This article has 161 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-017-0077-z)
+
+[3. (Nobusawa2009IDH1) Sumihito Nobusawa, Takuya Watanabe, Paul Kleihues, and Hiroko Ohgaki. Idh1 mutations as molecular signature and predictive factor of secondary glioblastomas. Clinical Cancer Research, 15(19):6002–6007, September 2009. URL: http://dx.doi.org/10.1158/1078-0432.ccr-09-0715, doi:10.1158/1078-0432.ccr-09-0715. This article has 546 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/1078-0432.ccr-09-0715)
+
+[4. (Picca2018The) Alberto Picca, Giulia Berzero, Anna Luisa Di Stefano, and Marc Sanson. The clinical use of idh1 and idh2 mutations in gliomas. Expert Review of Molecular Diagnostics, 18(12):1041–1051, November 2018. URL: http://dx.doi.org/10.1080/14737159.2018.1548935, doi:10.1080/14737159.2018.1548935. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/14737159.2018.1548935)
+
+[5. (Kang2020Interaction) Sunmi Kang, Hyuk Nam Kwon, Soeun Kang, and Sunghyouk Park. Interaction between idh1 wt and calmodulin and its implications for glioblastoma cell growth and migration. Biochemical and Biophysical Research Communications, 524(1):224–230, March 2020. URL: http://dx.doi.org/10.1016/j.bbrc.2020.01.073, doi:10.1016/j.bbrc.2020.01.073. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2020.01.073)
+
+[6. (Pietrak2011A) Beth Pietrak, Huizhen Zhao, Hongwei Qi, Chad Quinn, Enoch Gao, Joseph G. Boyer, Nestor Concha, Kristin Brown, Chaya Duraiswami, Richard Wooster, Sharon Sweitzer, and Benjamin Schwartz. A tale of two subunits: how the neomorphic r132h idh1 mutation enhances production of αhg. Biochemistry, 50(21):4804–4812, May 2011. URL: http://dx.doi.org/10.1021/bi200499m, doi:10.1021/bi200499m. This article has 92 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/bi200499m)
+
+[7. (Zarei2019RNABinding) Mahsa Zarei, Shruti Lal, Ali Vaziri-Gohar, Kevin O’Hayer, Venugopal Gunda, Pankaj K. Singh, Jonathan R. Brody, and Jordan M. Winter. Rna-binding protein hur regulates both mutant and wild-type idh1 in idh1-mutated cancer. Molecular Cancer Research, 17(2):508–520, February 2019. URL: http://dx.doi.org/10.1158/1541-7786.MCR-18-0557, doi:10.1158/1541-7786.mcr-18-0557. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1158/1541-7786.MCR-18-0557)
+
+[8. (Cohen2013IDH1) Adam L. Cohen, Sheri L. Holmen, and Howard Colman. Idh1 and idh2 mutations in gliomas. Current Neurology and Neuroscience Reports, March 2013. URL: http://dx.doi.org/10.1007/s11910-013-0345-4, doi:10.1007/s11910-013-0345-4. This article has 454 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s11910-013-0345-4)
+
+[9. (Horbinski2013What) Craig Horbinski. What do we know about idh1/2 mutations so far, and how do we use it? Acta Neuropathologica, 125(5):621–636, March 2013. URL: http://dx.doi.org/10.1007/s00401-013-1106-9, doi:10.1007/s00401-013-1106-9. This article has 133 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1007/s00401-013-1106-9)
+
+[10. (Liu2019Insight) Lichao Liu, Tong Li, Guang Song, Qingxia He, Yafei Yin, J Yuyang Lu, Xianju Bi, Kaili Wang, Sai Luo, Yu-Sheng Chen, Ying Yang, Bao-Fa Sun, Yun-Gui Yang, Jiawei Wu, Heng Zhu, and Xiaohua Shen. Insight into novel rna-binding activities via large-scale analysis of lncrna-bound proteome and idh1-bound transcriptome. Nucleic Acids Research, 47(5):2244–2262, January 2019. URL: http://dx.doi.org/10.1093/nar/gkz032, doi:10.1093/nar/gkz032. This article has 29 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkz032)

@@ -1,0 +1,37 @@
+# SLF1
+
+## Overview
+SLF1, or SMC5-SMC6 complex localization factor 1, is a gene that encodes a protein integral to the maintenance of genome stability and DNA repair processes. The SLF1 protein is a component of the SMC5/6 complex, which is crucial for DNA repair and replication. It is characterized by the presence of tandem BRCT (tBRCT) domains, which facilitate its interaction with phosphorylated proteins, such as Rad18, thereby recruiting the SMC5/6 complex to sites of DNA damage. This recruitment is essential for promoting DNA repair and ensuring chromosomal stability. The SLF1 protein also interacts with SLF2, forming a complex that aids in localizing the SMC5/6 complex to DNA lesions and viral replication centers, highlighting its role in the cellular response to replication stress and homologous recombination (Oravcová2022The; Huang2023Structural; Etheridge2020Livecell).
+
+## Structure
+The SLF1 protein, associated with the SMC5-SMC6 complex, plays a crucial role in genome stability and DNA repair. Structurally, SLF1 contains tandem BRCT (tBRCT) domains, which are essential for its interaction with phosphorylated peptides, such as those found in the Rad18 protein. These tBRCT domains form a compact and elongated structure characterized by a central 4-strand parallel beta-sheet flanked by alpha-helices. A three-helix linker stabilizes the interaction between the two BRCT domains (Huang2023Structural).
+
+The interaction between SLF1 and Rad18 is highly specific and involves the binding of Rad18's phosphorylated serine residues at positions 442 and 444. This binding is characterized by a dissociation constant (KD) of 12 nM, indicating strong affinity. The interface between SLF1 tBRCT and the Rad18 peptide is predominantly positively charged and is the largest among known tBRCT-ligand peptide structures, burying 1600 Å² of surface area (Huang2023Structural).
+
+The SLF1 tBRCT domains share structural similarities with other tBRCT domains, such as those in BRCA1 and BARD1, suggesting common mechanisms for ligand recognition. The phosphorylation of Rad18 at Ser442 is particularly critical for the interaction, with Ser444 enhancing binding affinity (Huang2023Structural).
+
+## Function
+SLF1, also known as SMC5-SMC6 complex localization factor 1, plays a crucial role in maintaining genome stability by facilitating DNA repair processes. It is a component of the SMC5/6 complex, which is essential for DNA repair and replication. SLF1 is involved in recruiting the SMC5/6 complex to sites of DNA damage, particularly through its interaction with Rad18, a protein that is phosphorylated at specific serine residues (Ser442 and Ser444). This interaction is critical for the recruitment of the SMC5/6 complex to DNA damage sites, thereby promoting DNA repair and maintaining chromosomal stability (Huang2023Structural).
+
+SLF1 contains tandem BRCT domains that are important for its association with Rad18 and the subsequent recruitment of the SMC5/6 complex. These domains typically interact with phosphorylated proteins, which are common in DNA repair processes (Huang2023Structural). SLF1 also interacts with SLF2, forming a complex that resembles the yeast Nse5/6 structure, which helps localize the SMC5/6 complex to DNA lesions and viral replication centers (Oravcová2022The). This localization is crucial for the complex's role in DNA repair and chromatin association, particularly in response to replication stress and homologous recombination (Etheridge2020Livecell).
+
+## Interactions
+SLF1, also known as SMC5-SMC6 complex localization factor 1, is involved in several critical interactions within the SMC5/6 complex, a key player in DNA repair and chromosome maintenance. SLF1 interacts with SLF2 through its split Nse5-like domain, which is necessary and sufficient for this association. This interaction is crucial for the recruitment of the SMC5/6 complex to sites of DNA damage (Oravcová2022The; Oravcová2019Recruitment). SLF1 and SLF2 form a heterodimer that interacts with the ATPase heads and the head proximal arm domains of the SMC5/6 complex, coordinating ATPase activity with DNA association and loop extrusion activities (Lorite2024Crucial).
+
+SLF1 also plays a role in the DNA damage response by linking the RAD18 protein with the SMC5/6 complex, facilitating its recruitment to DNA damage sites marked by ubiquitinylations (Adamus2020Molecular). The SLF1 protein interacts with the hSMC5-hSMC6 dimer arms, potentially immobilizing the SMC5/6 complex at specific DNA damage sites (Adamus2020Molecular). These interactions underscore SLF1's importance in maintaining genome stability and regulating the SMC5/6 complex during DNA repair processes.
+
+
+## References
+
+
+[1. (Adamus2020Molecular) M. Adamus, E. Lelkes, D. Potesil, S.R. Ganji, P. Kolesar, K. Zabrady, Z. Zdrahal, and J.J. Palecek. Molecular insights into the architecture of the human smc5/6 complex. Journal of Molecular Biology, 432(13):3820–3837, June 2020. URL: http://dx.doi.org/10.1016/j.jmb.2020.04.024, doi:10.1016/j.jmb.2020.04.024. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2020.04.024)
+
+2. (Huang2023Structural) Structural insights into Rad18 targeting by the SLF1 BRCT domains. This article has 0 citations.
+
+[3. (Lorite2024Crucial) Neus P Lorite, Sonia Apostolova, Marta Guasch-Vallés, Aaron Pryer, Fernando Unzueta, Raimundo Freire, Roger Solé-Soler, Neus Pedraza, Xavier Dolcet, Eloi Garí, Neus Agell, Elaine M Taylor, Neus Colomina, and Jordi Torres-Rosell. Crucial role of the nse1 ring domain in smc5/6 stability and fancm-independent fork progression. Cellular and Molecular Life Sciences, June 2024. URL: http://dx.doi.org/10.1007/s00018-024-05275-3, doi:10.1007/s00018-024-05275-3. This article has 0 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-024-05275-3)
+
+4. (Etheridge2020Livecell) Live-cell single-molecule tracking highlights requirements for stable Smc5/6 chromatin associationin vivo. This article has 1 citations.
+
+[5. (Oravcová2022The) Martina Oravcová, Minghua Nie, Nicola Zilio, Shintaro Maeda, Yasaman Jami-Alahmadi, Eros Lazzerini-Denchi, James A Wohlschlegel, Helle D Ulrich, Takanori Otomo, and Michael N Boddy. The nse5/6-like simc1-slf2 complex localizes smc5/6 to viral replication centers. eLife, November 2022. URL: http://dx.doi.org/10.7554/eLife.79676, doi:10.7554/elife.79676. This article has 17 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/eLife.79676)
+
+[6. (Oravcová2019Recruitment) Martina Oravcová and Michael N. Boddy. Recruitment, loading, and activation of the smc5–smc6 sumo ligase. Current Genetics, 65(3):669–676, January 2019. URL: http://dx.doi.org/10.1007/s00294-018-0922-9, doi:10.1007/s00294-018-0922-9. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00294-018-0922-9)

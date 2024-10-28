@@ -1,0 +1,56 @@
+# CDK1
+
+## Overview
+Cyclin-dependent kinase 1 (CDK1) is a gene that encodes the protein cyclin-dependent kinase 1, a serine/threonine kinase integral to the regulation of the eukaryotic cell cycle. As a member of the cyclin-dependent kinase family, CDK1 is pivotal in controlling the transition from the G2 phase to mitosis, primarily through its interaction with cyclin B1 to form the mitosis-promoting factor (Castedo2002Cyclindependent). The CDK1 protein is characterized by a bilobar structure typical of kinases, with an active site that facilitates interactions with various inhibitors and regulatory proteins (Kalra2017Structural). Beyond its canonical role in cell cycle progression, CDK1 is involved in diverse cellular processes, including gene expression regulation, signal transduction, and apoptosis, underscoring its function as a hub kinase that integrates multiple signaling pathways (Massacci2023The). Given its critical role in cell division and its implication in various cancers, CDK1 is a significant focus of research for potential therapeutic interventions (Du2023Prognostic).
+
+## Structure
+Cyclin-dependent kinase 1 (CDK1) is a serine/threonine kinase with a bilobar structure typical of the kinase family. The N-terminal domain consists of beta sheets, while the C-terminal domain is primarily composed of alpha helices (Cavalli2001Three‐dimensional; Kalra2017Structural). The protein's active site includes key residues such as LEU83, GLU81, MET85, ILE10, and ASP146, which are involved in interactions with inhibitors through hydrogen bonds and hydrophobic interactions (Kalra2017Structural).
+
+CDK1 shares a high degree of sequence similarity with CDK2, with 89.19% similar residues and 74.32% identical residues, which has facilitated the use of CDK2 as a template for homology modeling of CDK1 (Cavalli2001Three‐dimensional; Kalra2017Structural). The T-loop, or activation loop, is a notable feature of CDK1, exhibiting significant conformational variability, which is crucial for its regulation and potential as a drug target (Cavalli2001Three‐dimensional).
+
+CDK1 forms a quaternary structure by associating with cyclins, which is essential for its activation. Phosphorylation is a common post-translational modification that modulates CDK1 activity, particularly at the T-loop, which is critical for its role in cell cycle regulation (Echalier2010Recent; Kalra2017Structural).
+
+## Function
+Cyclin-dependent kinase 1 (CDK1) is a serine/threonine protein kinase that plays a pivotal role in cell cycle regulation, particularly in the transition from the G2 phase to mitosis. CDK1 forms a complex with cyclin B1, known as the mitosis-promoting factor, which is essential for the progression of the cell cycle. This complex facilitates chromosomal condensation, nuclear envelope breakdown, and spindle formation, ensuring proper cell division and genomic stability (Massacci2023The; Castedo2002Cyclindependent).
+
+Beyond its canonical role in cell cycle regulation, CDK1 is involved in various cellular processes. It regulates gene expression during mitosis by controlling transcription factors and chromatin regulators, affecting the expression of approximately 8,000 mitosis-specific genes (Massacci2023The). CDK1 also plays a significant role in signal transduction by phosphorylating key signaling proteins involved in cell proliferation and survival pathways (Massacci2023The). Additionally, CDK1 is implicated in apoptosis regulation, where it can have both pro-apoptotic and anti-apoptotic effects depending on the cellular context (Massacci2023The).
+
+CDK1's activity is regulated through phosphorylation and dephosphorylation, with specific kinases and phosphatases modulating its activity by adding or removing phosphate groups at key residues (Massacci2023The). This regulation ensures that CDK1 functions properly within various subcellular compartments, including the nucleus, cytosol, mitochondria, ER, and Golgi, highlighting its role as a hub kinase that integrates multiple signaling pathways (Massacci2023The).
+
+## Clinical Significance
+CDK1 (cyclin-dependent kinase 1) plays a significant role in various cancers due to its involvement in cell cycle regulation. Alterations in CDK1 expression are linked to poor prognosis in multiple cancer types, including lung adenocarcinoma (LUAD), colorectal cancer (CRC), and others. In LUAD, high CDK1 expression is associated with advanced tumor stages, poor differentiation, and mutations in TP53, contributing to genomic instability and poor clinical outcomes (Du2023Prognostic). In CRC, CDK1 promotes tumor progression through the phosphorylation of JAK1, activating the JAK/STAT3 signaling pathway, and its inhibition can reduce cancer cell proliferation (Li2020CDK1).
+
+CDK1 is also implicated in immune regulation within the tumor microenvironment. Its expression correlates with immune cell infiltration and immune checkpoint markers, suggesting a potential role in immunotherapy resistance (Liu2022An; Du2023Prognostic). Additionally, CDK1's involvement in pathways like P53 and FoxO signaling, and its interaction with transcription factors such as E2F and MYC, highlight its role in tumorigenesis and cancer progression (Liu2022An). These findings underscore the potential of CDK1 as a target for cancer therapies, including combination treatments to enhance drug efficacy and overcome resistance (Zhang2018Targeting; Liu2022An).
+
+## Interactions
+CDK1 interacts with various proteins throughout the cell cycle, playing a crucial role in regulating cellular processes. It forms complexes with cyclins, such as Cln1, Cln2, Cln3, and Clb1-6, which are essential for its kinase activity and substrate selection (Enserink2010An). CDK1 is phosphorylated by cyclin-dependent kinase activating kinases (CAKs), such as Cak1, which enhances its affinity for cyclins (Enserink2010An).
+
+CDK1 is involved in DNA replication initiation by interacting with proteins like Cdc45, Sld2, and Sld3, facilitating the transition from pre-replication complexes to pre-initiation complexes (Enserink2010An). It also prevents DNA re-replication by targeting components of the pre-replicative complex, including the ORC complex, Cdc6, and the Mcm2-7 complex (Enserink2010An).
+
+In DNA repair, CDK1 influences the choice of repair pathways by phosphorylating proteins such as Sae2 and Srs2, which are involved in double-strand break resection and homologous recombination (Enserink2010An). It also interacts with the Mre11-Rad50-Xrs2 complex, Dna2, and Sgs1, which are crucial for DNA damage response (Enserink2010An).
+
+CDK1's interactions extend to cell cycle regulation, where it is phosphorylated by Swe1 on Y19, an inhibitory modification reversed by Mih1 to promote mitosis (Enserink2010An). It also phosphorylates septins like Cdc3 and Shs1, affecting septin ring dynamics and cell morphogenesis (Enserink2010An).
+
+
+## References
+
+
+[1. (Massacci2023The) Giorgia Massacci, Livia Perfetto, and Francesca Sacco. The cyclin-dependent kinase 1: more than a cell cycle regulator. British Journal of Cancer, 129(11):1707–1716, October 2023. URL: http://dx.doi.org/10.1038/s41416-023-02468-8, doi:10.1038/s41416-023-02468-8. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41416-023-02468-8)
+
+[2. (Li2020CDK1) Jianxin Li, Yinchun Wang, Xin Wang, and Qingqiang Yang. Cdk1 and cdc20 overexpression in patients with colorectal cancer are associated with poor prognosis: evidence from integrated bioinformatics analysis. World Journal of Surgical Oncology, March 2020. URL: http://dx.doi.org/10.1186/s12957-020-01817-8, doi:10.1186/s12957-020-01817-8. This article has 52 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12957-020-01817-8)
+
+[3. (Liu2022An) Xuanyou Liu, Hao Wu, and Zhenguo Liu. An integrative human pan-cancer analysis of cyclin-dependent kinase 1 (cdk1). Cancers, 14(11):2658, May 2022. URL: http://dx.doi.org/10.3390/cancers14112658, doi:10.3390/cancers14112658. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers14112658)
+
+[4. (Kalra2017Structural) Sourav Kalra, Gaurav Joshi, Anjana Munshi, and Raj Kumar. Structural insights of cyclin dependent kinases: implications in design of selective inhibitors. European Journal of Medicinal Chemistry, 142:424–458, December 2017. URL: http://dx.doi.org/10.1016/j.ejmech.2017.08.071, doi:10.1016/j.ejmech.2017.08.071. This article has 65 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.ejmech.2017.08.071)
+
+[5. (Du2023Prognostic) Qingwu Du, Wenting Liu, Ting Mei, Jingya Wang, Tingting Qin, and Dingzhi Huang. Prognostic and immunological characteristics of cdk1 in lung adenocarcinoma: a systematic analysis. Frontiers in Oncology, March 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1128443, doi:10.3389/fonc.2023.1128443. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1128443)
+
+[6. (Enserink2010An) Jorrit M Enserink and Richard D Kolodner. An overview of cdk1-controlled targets and processes. Cell Division, 5(1):11, 2010. URL: http://dx.doi.org/10.1186/1747-1028-5-11, doi:10.1186/1747-1028-5-11. This article has 307 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1747-1028-5-11)
+
+[7. (Castedo2002Cyclindependent) M Castedo, J-L Perfettini, T Roumier, and G Kroemer. Cyclin-dependent kinase-1: linking apoptosis to cell cycle and mitotic catastrophe. Cell Death &amp; Differentiation, 9(12):1287–1293, December 2002. URL: http://dx.doi.org/10.1038/sj.cdd.4401130, doi:10.1038/sj.cdd.4401130. This article has 276 citations.](https://doi.org/10.1038/sj.cdd.4401130)
+
+[8. (Echalier2010Recent) Aude Echalier, Jane A. Endicott, and Martin E.M. Noble. Recent developments in cyclin-dependent kinase biochemical and structural studies. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1804(3):511–519, March 2010. URL: http://dx.doi.org/10.1016/j.bbapap.2009.10.002, doi:10.1016/j.bbapap.2009.10.002. This article has 97 citations.](https://doi.org/10.1016/j.bbapap.2009.10.002)
+
+[9. (Zhang2018Targeting) Peng Zhang, Hisato Kawakami, Weizhen Liu, Xiangyu Zeng, Klaus Strebhardt, Kaixiong Tao, Shengbing Huang, and Frank A. Sinicrope. Targeting cdk1 and mek/erk overcomes apoptotic resistance in braf-mutant human colorectal cancer. Molecular Cancer Research, 16(3):378–389, March 2018. URL: http://dx.doi.org/10.1158/1541-7786.mcr-17-0404, doi:10.1158/1541-7786.mcr-17-0404. This article has 81 citations and is from a peer-reviewed journal.](https://doi.org/10.1158/1541-7786.mcr-17-0404)
+
+[10. (Cavalli2001Three‐dimensional) Andrea Cavalli, Cristina Dezi, Gerd Folkers, Leonardo Scapozza, and Maurizio Recanatini. Three‐dimensional model of the cyclin‐dependent kinase 1 (cdk1): ab initio active site parameters for molecular dynamics studies of cdks. Proteins: Structure, Function, and Bioinformatics, 45(4):478–485, October 2001. URL: http://dx.doi.org/10.1002/prot.10013, doi:10.1002/prot.10013. This article has 23 citations.](https://doi.org/10.1002/prot.10013)

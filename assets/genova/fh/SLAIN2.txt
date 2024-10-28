@@ -1,0 +1,39 @@
+# SLAIN2
+
+## Overview
+SLAIN2, or SLAIN motif family member 2, is a gene that encodes a protein involved in the regulation of microtubule dynamics. The protein, also referred to as SLAIN2, is categorized as an intrinsically disordered protein, which allows it to interact flexibly with other proteins involved in microtubule stabilization and growth. It plays a critical role in cellular processes such as mitotic spindle dynamics, chromosome separation, and cell polarization by associating with microtubule plus-end tracking proteins (+TIPs) like ch-TOG and CLIP-170 (Liu2017Facilitating; Akhmanova2015Control). SLAIN2's interactions are crucial for maintaining microtubule stability, particularly in the context of cell movement and invasion, making it significant in both normal cellular function and pathological conditions such as cancer (Liu2017Facilitating; Zhuang2019MALAT1).
+
+## Function
+SLAIN2 (SLAIN motif family member 2) is a protein that plays a significant role in microtubule dynamics, particularly at the plus ends of microtubules. It functions as an 'adhesive' +TIP factor, containing multiple SxIP motifs and +TIP-binding sites, which allow it to maintain continuous access to growing microtubule ends. This enables SLAIN2 to associate with various +TIPs, such as ch-TOG and CLIP-170, promoting their localization to microtubule tips and facilitating dynamic remodeling of +TIP networks essential for microtubule organization and dynamics (Akhmanova2015Control).
+
+SLAIN2 is involved in stabilizing microtubule plus ends near the cell cortex, which is crucial for spatial coordination of microtubule organization and secretory vesicle delivery. This coordination is significant for processes such as regulating the dynamics of focal adhesions at the leading cell edge (Liu2017Facilitating). The protein is intrinsically disordered, lacking a fixed three-dimensional structure, which allows it to interact with the C-terminal helical domains of CLASP2, similar to other CLASP binding partners, suggesting a role in stabilizing microtubules in various cellular contexts (Liu2017Facilitating).
+
+In healthy cells, SLAIN2 is crucial for mitotic spindle dynamics, ensuring proper chromosome separation and regulating cell polarization and movement (Wang2023Dynamic).
+
+## Clinical Significance
+Alterations in the expression of the SLAIN2 gene have been implicated in various cancers, particularly in the context of tumor invasion and metastasis. In colorectal cancer (CRC), SLAIN2 expression is regulated by the long non-coding RNA MALAT1, which sponges miR-106b-5p to enhance SLAIN2 levels. This regulatory axis promotes CRC progression by increasing microtubule mobility, which is crucial for cell invasion and metastasis (Zhuang2019MALAT1). The MALAT1/miR-106b-5p/SLAIN2 axis is considered a potential prognostic marker for CRC (Zhuang2019MALAT1).
+
+In glioma, SLAIN2 is part of a seven-gene signature associated with poor prognosis. Its elevated expression in glioma samples correlates with shorter survival times, making it a significant risk factor and a potential biomarker for predicting clinical outcomes in glioma patients (Wang2023Dynamic).
+
+SLAIN2 also plays a role in mesenchymal cell invasion, particularly in cancer metastasis. It regulates microtubule dynamics, which are essential for the elongation of pseudopods in mesenchymal cells, a process critical for cell migration in three-dimensional matrices (Bouchet2016Mesenchymal). Targeting SLAIN2 could be a strategy for inhibiting tumor invasion and metastasis (Bouchet2016Mesenchymal).
+
+## Interactions
+SLAIN2 is involved in several protein interactions that are crucial for microtubule dynamics. It forms a complex with CLASP2 and ch-TOG, which is essential for regulating microtubule stability and growth. SLAIN2 binds weakly to CLASP2 but interacts with ch-TOG with much higher affinity. Cross-linking mass spectrometry (XL-MS) experiments have shown that SLAIN2 interacts with the C-terminal part of ch-TOG, although some interactions occur outside the previously mapped binding domain, suggesting a more complex interaction pattern than previously understood (Liu2017Facilitating).
+
+SLAIN2 is also described as intrinsically disordered, which affects its interaction mapping. It binds to the C-terminal helical domains of CLASP2, similar to other CLASP binding partners, indicating that CLASP engages with its partners in independent protein complexes to stabilize microtubules (Liu2017Facilitating).
+
+In the context of colorectal cancer, SLAIN2 expression is regulated by the long non-coding RNA MALAT1, which sponges miR-106b-5p. This interaction enhances microtubule mobility, promoting cancer cell invasion and metastasis. The MALAT1/miR-106b-5p/SLAIN2 axis plays a significant role in colorectal cancer progression (Zhuang2019MALAT1).
+
+
+## References
+
+
+[1. (Zhuang2019MALAT1) Meng Zhuang, Senlin Zhao, Zheng Jiang, Song Wang, Peng Sun, Jichuan Quan, Dongwang Yan, and Xishan Wang. Malat1 sponges mir-106b-5p to promote the invasion and metastasis of colorectal cancer via slain2 enhanced microtubules mobility. EBioMedicine, 41:286–298, March 2019. URL: http://dx.doi.org/10.1016/j.ebiom.2018.12.049, doi:10.1016/j.ebiom.2018.12.049. This article has 85 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ebiom.2018.12.049)
+
+[2. (Akhmanova2015Control) Anna Akhmanova and Michel O. Steinmetz. Control of microtubule organization and dynamics: two ends in the limelight. Nature Reviews Molecular Cell Biology, 16(12):711–726, November 2015. URL: http://dx.doi.org/10.1038/nrm4084, doi:10.1038/nrm4084. This article has 729 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrm4084)
+
+[3. (Bouchet2016Mesenchymal) Benjamin P. Bouchet, Ivar Noordstra, Miranda van Amersfoort, Eugene A. Katrukha, York-Christoph Ammon, Natalie D. ter Hoeve, Louis Hodgson, Marileen Dogterom, Patrick W.B. Derksen, and Anna Akhmanova. Mesenchymal cell invasion requires cooperative regulation of persistent microtubule growth by slain2 and clasp1. Developmental Cell, 39(6):708–723, December 2016. URL: http://dx.doi.org/10.1016/j.devcel.2016.11.009, doi:10.1016/j.devcel.2016.11.009. This article has 70 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.devcel.2016.11.009)
+
+[4. (Liu2017Facilitating) Qingyang Liu, Sanne Remmelzwaal, Albert J. R. Heck, Anna Akhmanova, and Fan Liu. Facilitating identification of minimal protein binding domains by cross-linking mass spectrometry. Scientific Reports, October 2017. URL: http://dx.doi.org/10.1038/s41598-017-13663-y, doi:10.1038/s41598-017-13663-y. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-13663-y)
+
+[5. (Wang2023Dynamic) Wenwen Wang, Weilong Li, Lifang Pan, Lingjie Li, Yasi Xu, Yuqing Wang, Xiaochen Zhang, and Shirong Zhang. Dynamic regulation genes at microtubule plus ends: a novel class of glioma biomarkers. Biology, 12(3):488, March 2023. URL: http://dx.doi.org/10.3390/biology12030488, doi:10.3390/biology12030488. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biology12030488)

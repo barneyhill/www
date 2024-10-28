@@ -1,0 +1,56 @@
+# CHMP7
+
+## Overview
+CHMP7, or charged multivesicular body protein 7, is a gene that encodes a protein involved in the endosomal sorting complex required for transport (ESCRT) pathway, which is crucial for various cellular processes, including nuclear envelope reformation and repair. The CHMP7 protein is a member of the ESCRT-III-related protein family and is characterized by its unique structure, which includes an extended N-terminal region with tandem Winged Helix (WH) domains and a C-terminal SNF7 domain. These structural features enable CHMP7 to associate with the endoplasmic reticulum (ER) and interact with other ESCRT components, such as CHMP4b and LEM2, facilitating its role in cellular compartmentalization and organelle tethering (Olmos2016Membrane; Horii2006CHMP7). CHMP7 is also implicated in various pathological conditions, including cancer and neurodegenerative diseases, due to its involvement in maintaining genomic stability and cellular integrity (Baskerville2023SUN1; Guo2023Identification).
+
+## Structure
+CHMP7 is a protein associated with the ESCRT-III complex, characterized by its unique structure compared to other CHMP family members. It consists of 453 amino acids and features an extended N-terminal region, which includes tandem Winged Helix (WH) domains that function as a membrane-binding module, allowing CHMP7 to associate with the endoplasmic reticulum (ER) (Olmos2016Membrane; Chu2022Oligomeric). The N-terminal half of CHMP7 is predicted to have two putative calmodulin-binding IQ motifs, although no binding was detected in experimental assays (Horii2006CHMP7).
+
+The C-terminal half of CHMP7 contains an SNF7 domain, which is most similar to that of CHMP6, and is responsible for interactions with CHMP4b (Horii2006CHMP7). This region also includes six α helices that are part of the CHMP-like domain required for ESCRT-III interactions (Chu2022Oligomeric). The α1-2 helices of the C-terminal domain are crucial for oligomerization and self-interactions, which are essential for CHMP7's function in tethering organelles to the ER (Chu2022Oligomeric).
+
+CHMP7 undergoes phosphorylation at specific sites, such as Ser3 in the N-terminus and Ser441 in the C-terminus, by the mitotic kinase CDK1 during mitotic onset (Gatta2021CDK1). This phosphorylation is part of a mechanism that prepares CHMP7 for controlled polymerization during mitotic exit. The protein's interaction with other ESCRT components and its role in the endosomal sorting pathway are still under investigation (Horii2006CHMP7).
+
+## Function
+CHMP7 (charged multivesicular body protein 7) is a crucial component of the endosomal sorting complex required for transport (ESCRT) pathway, which is involved in various cellular processes, including nuclear envelope reformation and repair. During mitotic exit, CHMP7 plays a significant role in the reformation of the nuclear envelope by interacting with the inner nuclear membrane protein LEM2. This interaction is essential for recruiting downstream ESCRT-III proteins to the nuclear envelope, facilitating its proper closure and ensuring nucleocytoplasmic compartmentalization (Gu2017LEM2; Gatta2021CDK1).
+
+CHMP7 is localized to the endoplasmic reticulum (ER) and the nuclear envelope, where it coordinates the assembly of ESCRT-III components necessary for sealing the nuclear envelope during open mitosis. Its N-terminal region contains membrane-binding domains that are critical for its localization and function at the ER and nuclear envelope (Olmos2016Membranea; Gatta2021CDK1).
+
+Phosphorylation of CHMP7 by CDK1 regulates its assembly and interaction with LEM2, preventing premature clustering and ensuring proper nuclear envelope reformation. This regulation is vital for maintaining cellular integrity and preventing DNA damage during cell division (Gatta2021CDK1). CHMP7 also plays a role in ER-mitochondria interactions, influencing mitochondrial dynamics and respiratory function (Chu2022Oligomeric).
+
+## Clinical Significance
+The CHMP7 gene is implicated in various cancers and neurodegenerative diseases due to its role in genomic stability and cellular processes. In oncology, CHMP7 alterations, particularly deletions, are prevalent in several cancers, including prostate adenocarcinoma, ovarian cancer, liver hepatocellular carcinoma, bladder cancer, and colorectal adenocarcinoma. These mutations are associated with poorer disease-free survival in colorectal adenocarcinoma and lung squamous cell carcinoma patients (Guo2023Identification). CHMP7 is also linked to tumor mutational burden and microsatellite instability, which are critical biomarkers for cancer treatment (Guo2023Identification).
+
+In hepatocellular carcinoma, CHMP7 is frequently deleted, and its expression correlates with gene copy number variations, suggesting a role in tumor progression (Shahrisa2021The; Ansari2020The). The gene's involvement in the ESCRT-III complex is significant in the context of viral infections like hepatitis B and C, which are major causes of hepatocellular carcinoma (Shahrisa2021The).
+
+In neurodegenerative diseases, CHMP7 is linked to amyotrophic lateral sclerosis (ALS) and frontotemporal dementia. Aberrant nuclear accumulation of CHMP7 leads to nuclear pore complex injury, contributing to TDP-43 dysfunction, a hallmark of these conditions (Baskerville2023SUN1). The interaction between CHMP7 and the LINC complex protein SUN1 is a potential therapeutic target for ALS (Baskerville2023SUN1).
+
+## Interactions
+CHMP7, a member of the ESCRT-III-related protein family, is involved in various protein interactions crucial for its function in cellular processes. CHMP7 interacts with CHMP4b, a member of the CHMP4 subfamily, primarily through its C-terminal half. This interaction has been demonstrated using pull-down assays and yeast two-hybrid assays in HEK-293T cells, where co-expression with CHMP4b-GFP led to the accumulation of FLAG-CHMP7 in the perinuclear area, indicating a physical interaction (Horii2006CHMP7).
+
+CHMP7 does not interact with the ESCRT-II component EAP20 or calmodulin (CaM) under the tested conditions, despite the presence of predicted CaM-binding IQ motifs in its N-terminal half (Horii2006CHMP7). In the context of nuclear envelope reformation, CHMP7 interacts with LEM2, a protein located in the inner nuclear membrane. LEM2 recruits CHMP7 to the reforming nuclear envelope during anaphase, facilitating the recruitment of other ESCRT-III proteins such as IST1/CHMP8 and CHMP2A (Gu2017LEM2).
+
+CHMP7 also plays a role in ER-mitochondria interactions, where it localizes to membrane-associated domains and mediates the formation of three-way ER junctions, working in parallel with ATL proteins (Chu2022Oligomeric).
+
+
+## References
+
+
+[1. (Baskerville2023SUN1) Victoria Baskerville, Sampath Rapuri, Emma Mehlhop, and Alyssa N Coyne. Sun1 facilitates chmp7 nuclear influx and injury cascades in sporadic amyotrophic lateral sclerosis. Brain, 147(1):109–121, August 2023. URL: http://dx.doi.org/10.1093/brain/awad291, doi:10.1093/brain/awad291. This article has 8 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/brain/awad291)
+
+[2. (Gatta2021CDK1) Alberto T Gatta, Yolanda Olmos, Caroline L Stoten, Qu Chen, Peter B Rosenthal, and Jeremy G Carlton. Cdk1 controls chmp7-dependent nuclear envelope reformation. eLife, July 2021. URL: http://dx.doi.org/10.7554/elife.59999, doi:10.7554/elife.59999. This article has 23 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.59999)
+
+[3. (Guo2023Identification) Yu Guo, Shu Wang, Feng Liang, and Min Wang. Identification of chmp7 as a promising immunobiomarker for immunotherapy and chemotherapy and impact on prognosis of colorectal cancer patients. Frontiers in Cell and Developmental Biology, August 2023. URL: http://dx.doi.org/10.3389/fcell.2023.1211843, doi:10.3389/fcell.2023.1211843. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2023.1211843)
+
+[4. (Horii2006CHMP7) Mio Horii, Hideki Shibata, Ryota Kobayashi, Keiichi Katoh, Chiharu Yorikawa, Jiro Yasuda, and Masatoshi Maki. Chmp7, a novel escrt-iii-related protein, associates with chmp4b and functions in the endosomal sorting pathway. Biochemical Journal, 400(1):23–32, October 2006. URL: http://dx.doi.org/10.1042/bj20060897, doi:10.1042/bj20060897. This article has 60 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20060897)
+
+[5. (Shahrisa2021The) Arman Shahrisa, Maryam Tahmasebi-Birgani, Hossein Ansari, Zahra Mohammadi, Vinicio Carloni, and Javad Mohammadi Asl. The pattern of gene copy number alteration (cnas) in hepatocellular carcinoma: an in silico analysis. Molecular Cytogenetics, July 2021. URL: http://dx.doi.org/10.1186/s13039-021-00553-2, doi:10.1186/s13039-021-00553-2. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13039-021-00553-2)
+
+6. (Ansari2020The) The pattern of gene copy number variations (CNVs) in hepatocellular carcinoma; in silico analysis. This article has 1 citations.
+
+[7. (Gu2017LEM2) Mingyu Gu, Dollie LaJoie, Opal S. Chen, Alexander von Appen, Mark S. Ladinsky, Michael J. Redd, Linda Nikolova, Pamela J. Bjorkman, Wesley I. Sundquist, Katharine S. Ullman, and Adam Frost. Lem2 recruits chmp7 for escrt-mediated nuclear envelope closure in fission yeast and human cells. Proceedings of the National Academy of Sciences, February 2017. URL: http://dx.doi.org/10.1073/pnas.1613916114, doi:10.1073/pnas.1613916114. This article has 155 citations.](https://doi.org/10.1073/pnas.1613916114)
+
+[8. (Olmos2016Membranea) Yolanda Olmos, Anna Perdrix-Rosell, and Jeremy G. Carlton. Membrane binding by chmp7 coordinates escrt-iii-dependent nuclear envelope reformation. Current Biology, 26(19):2635–2641, October 2016. URL: http://dx.doi.org/10.1016/j.cub.2016.07.039, doi:10.1016/j.cub.2016.07.039. This article has 103 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cub.2016.07.039)
+
+9. (Olmos2016Membrane) Membrane binding by CHMP7 coordinates ESCRT-III dependent nuclear envelope reformation. This article has 1 citations.
+
+[10. (Chu2022Oligomeric) Qingzhu Chu, Jingru Wang, Yuanjiao Du, Tiantian Zhou, Anbing Shi, Juan Xiong, Wei-Ke Ji, and Lin Deng. Oligomeric chmp7 mediates three-way er junctions and er-mitochondria interactions. Cell Death &amp; Differentiation, 30(1):94–110, August 2022. URL: http://dx.doi.org/10.1038/s41418-022-01048-2, doi:10.1038/s41418-022-01048-2. This article has 5 citations.](https://doi.org/10.1038/s41418-022-01048-2)

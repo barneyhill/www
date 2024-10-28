@@ -1,0 +1,46 @@
+# PABPC4
+
+## Overview
+PABPC4, or poly(A) binding protein cytoplasmic 4, is a gene that encodes a cytoplasmic protein involved in the regulation of mRNA metabolism. The protein, categorized as a poly(A) binding protein, plays a crucial role in stabilizing and regulating the translation of mRNAs, particularly those containing AU-rich elements. PABPC4 is characterized by its modular structure, which includes multiple RNA recognition motifs and a C-terminal domain, facilitating its interaction with polyadenylated mRNA tails and other proteins. This protein is essential in various cellular processes, including erythroid differentiation and compensatory mechanisms in response to the disruption of other poly(A) binding proteins. Alterations in PABPC4 expression or function have been linked to clinical conditions such as hepatocellular carcinoma and disorders of erythropoiesis, highlighting its significance in both normal physiology and disease states (Jiang2021A; Kini2014Cytoplasmic).
+
+## Structure
+PABPC4, or poly(A) binding protein cytoplasmic 4, is characterized by its modular structure, which includes multiple RNA recognition motifs (RRMs) and a C-terminal domain. The protein contains four RRMs, which are highly conserved and facilitate binding to polyadenylated mRNA tails. These RRMs are globular domains composed of four antiparallel beta sheets and two alpha helices, enabling RNA binding through van der Waals contacts, hydrogen bonds, and stacking interactions (Goss2012Poly(A) page 1 of 5; Zhao2021Revisiting page 1 of 7). 
+
+The C-terminal region of PABPC4, known as the PABC domain, consists of five alpha-helices and serves as a binding surface for proteins, recognizing a 15-residue sequence known as the PABP interaction motif (PAM-2) (Goss2012Poly(A) page 1 of 5). This domain does not contact RNA directly but is crucial for protein-protein interactions. 
+
+PABPC4 exhibits a unique binding specificity due to structural divergence in its RRM3/4 domains, which have a higher affinity for AU tracts compared to PABPC1, supporting distinct biological functions (Kini2014Cytoplasmic). Post-translational modifications, such as phosphorylation, may influence the function of PABPC4, and splice variants could lead to isoforms with different functional properties (Goss2012Poly(A) page 0 of 5).
+
+## Function
+PABPC4 (poly(A) binding protein cytoplasmic 4) is a cytoplasmic protein involved in mRNA metabolism, particularly in the stabilization and translation regulation of mRNAs. It binds to the poly(A) tail of mRNA molecules, influencing their stability and translation efficiency. PABPC4 is known to enhance the translation and stability of AU-rich element (ARE)-containing mRNAs, although its specific functions in regulating deadenylation have not been extensively studied (Smith2014Poly(A)binding page 0 of 4).
+
+In the context of cellular processes, PABPC4 plays a compensatory role when PABPC1, the most abundant poly(A) binding protein, is disrupted. In HEK293 cells, the loss of PABPC1 leads to an increase in PABPC4 levels, suggesting a compensatory mechanism that maintains basic cellular functions without affecting cell proliferation or morphology (Xie2021Loss). This compensation is associated with changes in the transcriptome, including an increase in c-Myc levels, indicating that PABPC4 may influence gene expression through c-Myc regulation (Xie2021Loss).
+
+PABPC4 also plays a critical role in erythroid differentiation, where it stabilizes certain mRNAs and regulates their expression. It is involved in the stabilization of mRNAs with short poly(A) tails, protecting them from decay, which is crucial for processes like erythroid differentiation (Kini2014Cytoplasmic).
+
+## Clinical Significance
+Alterations in the expression or function of the PABPC4 gene have been implicated in various clinical conditions. In hepatocellular carcinoma (HCC), high expression levels of PABPC4 are associated with poor survival outcomes. The long non-coding RNA RP11-286H15.1 interacts with PABPC4, promoting its ubiquitination and proteasomal degradation, which suppresses tumor growth and metastasis. This interaction suggests that the RP11-286H15.1/PABPC4 axis could serve as a prognostic marker or therapeutic target in HCC (Jiang2021A).
+
+In the context of erythroid differentiation, PABPC4 plays a critical role in the maturation of erythroid cells. Depletion of PABPC4 in mouse erythroblast cell lines results in delayed hemoglobin accumulation and repression of genes essential for terminal differentiation, such as α- and β-globin. This indicates that PABPC4 is crucial for normal erythroid maturation, and its dysregulation could potentially lead to disorders related to red blood cell development (Kini2014Cytoplasmic).
+
+Overall, the dysregulation of PABPC4 expression or its interactions with other molecules can significantly impact cellular processes, contributing to the pathogenesis of diseases such as cancer and disorders of erythropoiesis.
+
+## Interactions
+PABPC4, or poly(A) binding protein cytoplasmic 4, is involved in various interactions with proteins and nucleic acids that influence mRNA stability and translation. In the context of hepatocellular carcinoma (HCC), PABPC4 interacts with the long non-coding RNA RP11-286H15.1. This interaction leads to the ubiquitination and proteasomal degradation of PABPC4, reducing its protein stability without affecting its mRNA levels. This process is significant as it affects the stability of TRIM37 and CDC27 mRNAs, which are associated with tumor progression (Jiang2021A).
+
+In erythroid differentiation, PABPC4 binds to mRNAs containing A/U-rich motifs in their 3' untranslated regions (3'UTRs). This binding is crucial for the regulation of mRNA stability and expression, particularly in the context of erythroid maturation. PABPC4's interaction with these motifs enhances its binding to mRNAs with shortened poly(A) tails, protecting them from decay (Kini2014Cytoplasmic).
+
+PABPC4 also shows a compensatory response in human cells when nuclear PABPN1 is depleted, with increased nuclear localization and association with nuclear pre-mRNA transcripts, such as b-actin, and CPSF1, indicating a role in polyadenylation (Bhattacharjee2012Depletion).
+
+
+## References
+
+
+[1. (Jiang2021A) Xiang Jiang, Ganggang Wang, Yingyi Liu, Chengjie Mei, Ye Yao, Xiaoling Wu, Xi Chen, Weijie Ma, Kun Li, Zhonglin Zhang, and Yufeng Yuan. A novel long non-coding rna rp11-286h15.1 represses hepatocellular carcinoma progression by promoting ubiquitination of pabpc4. Cancer Letters, 499:109–121, February 2021. URL: http://dx.doi.org/10.1016/j.canlet.2020.11.038, doi:10.1016/j.canlet.2020.11.038. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2020.11.038)
+
+[2. (Kini2014Cytoplasmic) Hemant K. Kini, Jian Kong, and Stephen A. Liebhaber. Cytoplasmic poly(a) binding protein c4 serves a critical role in erythroid differentiation. Molecular and Cellular Biology, 34(7):1300–1309, April 2014. URL: http://dx.doi.org/10.1128/mcb.01683-13, doi:10.1128/mcb.01683-13. This article has 40 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.01683-13)
+
+3. (Xie2021Loss) Loss of PABPC1 is compensated by elevated PABPC4 and correlates with transcriptome changes. This article has 5 citations.
+
+[4. (Goss2012Poly(A) page 3 of 5) Dixie J. Goss and Frida Esther Kleiman. Poly(a) binding proteins: are they all created equal? WIREs RNA, 4(2):167–179, December 2012. URL: http://dx.doi.org/10.1002/wrna.1151, doi:10.1002/wrna.1151. This article has 145 citations.](https://doi.org/10.1002/wrna.1151)
+
+[5. (Bhattacharjee2012Depletion) Rumpa Biswas Bhattacharjee and Jnanankur Bag. Depletion of nuclear poly(a) binding protein pabpn1 produces a compensatory response by cytoplasmic pabp4 and pabp5 in cultured human cells. PLoS ONE, 7(12):e53036, December 2012. URL: http://dx.doi.org/10.1371/journal.pone.0053036, doi:10.1371/journal.pone.0053036. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0053036)

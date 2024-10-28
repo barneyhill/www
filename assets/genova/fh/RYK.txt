@@ -1,0 +1,48 @@
+# RYK
+
+## Overview
+The RYK gene encodes the receptor-like tyrosine kinase (RYK) protein, which is a member of the receptor tyrosine kinase family. Unlike typical kinases, RYK is classified as a pseudokinase due to its atypical amino acid residues that render it catalytically inactive. Despite this, RYK plays a crucial role in cellular signaling, primarily acting as a co-receptor in WNT signaling pathways. It is involved in various biological processes, including neural development, axon guidance, and cellular differentiation. The RYK protein is characterized by its unique structure, which includes an extracellular Wnt inhibitory factor (WIF) domain, a transmembrane helix, and an intracellular pseudokinase domain. This structure facilitates its function as a scaffold for protein interactions, influencing pathways that are critical for both developmental and pathological processes (Halford2015The; Roy2018The).
+
+## Structure
+The RYK (receptor-like tyrosine kinase) protein is characterized by a unique structure that includes an extracellular amino-terminus, a single-pass hydrophobic transmembrane helix, and an intracellular carboxyl-terminus (Halford2015The). The extracellular region contains a Wnt inhibitory factor (WIF) domain, which is responsible for high-affinity binding of Wnt ligands (Halford2015The; Roy2018The). This domain is structurally related to the Wnt-inhibitory-factor 1 (Wif-1) and exhibits an immunoglobulin-like fold with nine β-strands (2015 page 53 of 111).
+
+The intracellular region of RYK includes a pseudokinase domain, which has atypical amino acid residues at critical sites for kinase activity, classifying it as a pseudokinase RTK (Roy2018The). Despite these atypical features, RYK functions as a scaffold for protein interactions, facilitating signaling pathways (Roy2018The). The carboxyl-terminus of RYK contains a PDZ-binding motif, which is crucial for interactions with signaling proteins such as the DVL family, involved in Wnt signaling pathways (Halford2015The; Roy2018The).
+
+RYK undergoes post-translational modifications, including proteolytic cleavage, which releases different fragments with distinct signaling roles (Roy2018The). The protein also has potential glycosylation sites in its extracellular region (Halford2015The).
+
+## Function
+The RYK receptor-like tyrosine kinase is an atypical member of the receptor tyrosine kinase family, characterized by its lack of intrinsic kinase activity. It functions primarily as a co-receptor in WNT signaling pathways, including both canonical and non-canonical pathways, influencing various cellular processes such as differentiation, proliferation, and migration (2015; Roy2018The). In canonical WNT signaling, RYK is necessary for the activation of β-catenin/TCF-responsive transcription, particularly in the presence of Wnt1 and Wnt3A (Roy2018The). RYK also plays a significant role in neural development, where it is involved in axon guidance and neuronal differentiation. It interacts with Wnt5a to regulate axon outgrowth and repulsion, and its intracellular domain can translocate to the nucleus to influence gene expression (Halford2015The; 2015).
+
+In the context of lung development, RYK is expressed in airway epithelial cells and regulates goblet cell differentiation by modulating WNT/β-catenin signaling. This function is crucial for maintaining lung homeostasis and preventing pathological changes such as goblet cell hyperplasia (Kim2019WNTRYK). RYK's role in these processes highlights its importance in both developmental and adult biology, where it can drive different cellular outcomes depending on the context (Roy2018The).
+
+## Clinical Significance
+The RYK gene is implicated in various diseases and conditions due to mutations, altered expression levels, or disrupted interactions. In glioma patients, RYK expression is associated with drug response variation to temozolomide (TMZ) and clinical outcomes. High RYK expression is linked to better survival in IDH mutant gliomas, while in IDH wildtype glioblastoma multiforme (GBM), MGMT methylation status is more significant for survival outcomes (Gonzalez2023RYK). RYK's role in resistance mechanisms is suggested by its involvement in Wnt signaling pathways related to DNA damage response (Gonzalez2023RYK).
+
+In gastric cancer, RYK expression is significantly higher in cases with poor differentiation and liver metastasis, correlating with epithelial-mesenchymal transition (EMT) processes. Knockdown of RYK reduces migration and invasion capabilities, indicating its role in promoting metastasis (Fu2020RYK).
+
+RYK is also involved in neurological disorders. It plays a role in axon regeneration and neuropathic pain, with anti-Ryk antibodies showing potential in promoting recovery from spinal cord injuries in animal models (Roy2018The). In cancer, RYK is implicated in melanoma resistance to BRAF inhibitors and is necessary for glioma cell migration and growth (Roy2018The).
+
+## Interactions
+The RYK receptor, a member of the receptor tyrosine kinase family, engages in various protein interactions crucial for its function in cellular signaling pathways. RYK interacts with protein tyrosine kinases from the Eph receptor and Src subfamilies, which are important for developmental processes such as cleft palate formation (Halford2015The). It also forms complexes with Fzd7, Dvl, and Rab5, recruiting βarr-2 and RhoA to the plasma membrane, which promotes hyperphosphorylation of Dvl and activation of RhoA and JNK in Wnt signaling pathways (Halford2015The).
+
+RYK's PDZ domain allows it to interact with proteins like AF-6 and Dishevelled, which are involved in cell signaling pathways (Halford2015The). It also coprecipitates with EphB2 and EphB3, indicating a specific interaction mediated through the PDZ domain of AF-6, which binds to the C-termini of RYK and Eph receptors (Halford2000Revelations). RYK can bind and activate c-Src, and its interaction with Drosophila orthologs DRL and SRC64B is induced by Wnt5, leading to non-canonical signaling (Roy2018The).
+
+RYK undergoes proteolytic cleavage, releasing fragments that regulate signaling. The intracellular fragment (RYK-ICF) can translocate to the nucleus, a process requiring Smek1 and Smek2, and is involved in regulating transcription of neuronal differentiation genes (Roy2018The).
+
+
+## References
+
+
+[1. (Gonzalez2023RYK) Ricardo D. Gonzalez, George W. Small, Adrian J. Green, Farida S. Akhtari, Tammy M. Havener, Julia C. F. Quintanilha, Amber B. Cipriani, David M. Reif, Howard L. McLeod, Alison A. Motsinger-Reif, and Tim Wiltshire. Ryk gene expression associated with drug response variation of temozolomide and clinical outcomes in glioma patients. Pharmaceuticals, 16(5):726, May 2023. URL: http://dx.doi.org/10.3390/ph16050726, doi:10.3390/ph16050726. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ph16050726)
+
+[2. (Kim2019WNTRYK) Hyun-Taek Kim, Wenguang Yin, Yuko Nakamichi, Paolo Panza, Beate Grohmann, Carmen Buettner, Stefan Guenther, Clemens Ruppert, Yasuhiro Kobayashi, Andreas Guenther, and Didier Y. R. Stainier. Wnt/ryk signaling restricts goblet cell differentiation during lung development and repair. Proceedings of the National Academy of Sciences, 116(51):25697–25706, November 2019. URL: http://dx.doi.org/10.1073/pnas.1911071116, doi:10.1073/pnas.1911071116. This article has 36 citations.](https://doi.org/10.1073/pnas.1911071116)
+
+[3. (Halford2000Revelations) Michael M. Halford and Steven A. Stacker. Revelations of the ryk receptor. BioEssays, 23(1):34–45, December 2000. URL: http://dx.doi.org/10.1002/1521-1878(200101)23:1<34::AID-BIES1005>3.0.CO;2-D, doi:10.1002/1521-1878(200101)23:1<34::aid-bies1005>3.0.co;2-d. This article has 76 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/1521-1878(200101)23:1)
+
+[4. (Halford2015The) Michael M. Halford, Maria L. Macheda, and Steven A. Stacker. The RYK Receptor Family, pages 685–741. Springer International Publishing, 2015. URL: http://dx.doi.org/10.1007/978-3-319-11888-8_15, doi:10.1007/978-3-319-11888-8_15. This article has 7 citations.](https://doi.org/10.1007/978-3-319-11888-8_15)
+
+5. (2015) Receptor Tyrosine Kinases: Structure, Functions and Role in Human Disease. This article has 40 citations.
+
+[6. (Roy2018The) James P. Roy, Michael M. Halford, and Steven A. Stacker. The biochemistry, signalling and disease relevance of ryk and other wnt-binding receptor tyrosine kinases. Growth Factors, 36(1–2):15–40, March 2018. URL: http://dx.doi.org/10.1080/08977194.2018.1472089, doi:10.1080/08977194.2018.1472089. This article has 42 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/08977194.2018.1472089)
+
+[7. (Fu2020RYK) Yongan Fu, Yilin Chen, Jinghua Huang, Zongda Cai, and Yangqiang Wang. Ryk, a receptor of noncanonical wnt ligand wnt5a, is positively correlated with gastric cancer tumorigenesis and potential of liver metastasis. American Journal of Physiology-Gastrointestinal and Liver Physiology, 318(2):G352–G360, February 2020. URL: http://dx.doi.org/10.1152/ajpgi.00228.2019, doi:10.1152/ajpgi.00228.2019. This article has 14 citations.](https://doi.org/10.1152/ajpgi.00228.2019)

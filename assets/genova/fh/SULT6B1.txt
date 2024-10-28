@@ -1,0 +1,24 @@
+# SULT6B1
+
+## Overview
+SULT6B1 is a gene that encodes the protein sulfotransferase family 6B member 1, which is part of the sulfotransferase enzyme family. This family is involved in the sulfate conjugation of various molecules, a critical process in phase II metabolism that enhances the solubility of compounds, facilitating their excretion from the body. The SULT6B1 protein is characterized by its monomeric structure, lacking the typical dimerization motif found in other sulfotransferases, and features a voluminous and open substrate pocket that allows for diverse substrate orientations. It is primarily expressed in the testes and kidneys, suggesting a specialized role in the metabolism and detoxification processes within these tissues. Despite its established enzymatic activity, the specific physiological substrates of SULT6B1 remain largely unidentified, highlighting the need for further research to elucidate its precise function in human metabolism (Coughtrie2016Function; Sun2020Functional).
+
+## Structure
+The SULT6B1 protein is a member of the sulfotransferase enzyme family, which is involved in the sulfate conjugation of various molecules. The primary structure of SULT6B1 is derived from its amino acid sequence, which was used to create a homology model due to the absence of an experimentally solved 3D structure (Sun2020Functional). The secondary structure of SULT6B1 likely includes common elements such as alpha helices and beta sheets, typical of sulfotransferases, although specific details are not provided in the available data.
+
+The tertiary structure of SULT6B1 was modeled using the I-TASSER server, resulting in a model with a C-score of 0.59, indicating moderate confidence in its quality (Sun2020Functional). This model was used to predict the binding of adenosine-3',5'-diphosphate (PAP), a depleted form of the cofactor PAPS, to the protein (Sun2020Functional). The catalytic pocket of SULT6B1 includes residues such as Met39, Ser68, Tyr89, and His118, which are crucial for its enzymatic activity (Sun2020Functional).
+
+SULT6B1 lacks the typical dimerization motif found in other sulfotransferases, suggesting it exists as a monomer (Sun2020Functional). The protein's structure is characterized by a voluminous and open substrate pocket, allowing for diverse substrate orientations and strong hydrogen bonding (Sun2020Functional).
+
+## Function
+SULT6B1 is a member of the sulfotransferase family, which plays a crucial role in the sulfation process, a phase II metabolic pathway. This enzyme catalyzes the transfer of a sulfonate group from the cofactor 3′-phosphoadenosine-5′-phosphosulfate (PAPS) to hydroxyl or amine groups of small molecules, enhancing their solubility and facilitating their excretion from the body (Sun2020Functional). SULT6B1 is primarily expressed in the testes and kidneys in humans, suggesting a role in the metabolism and detoxification processes specific to these tissues (Coughtrie2016Function).
+
+The enzyme is part of the SULT6 family, which is conserved across various species, and is characterized by the absence of a dimerization motif, indicating that SULT6B1 likely functions as a monomer (Sun2020Functional). Despite its presence in humans, the specific substrates and detailed enzymatic functions of SULT6B1 remain largely unexplored. Initial studies have demonstrated its enzymatic activity, but it did not convert any of the tested substrates in certain assays, indicating that its physiological substrates might differ from those commonly tested (Sun2020Functional). Understanding the precise role of SULT6B1 in human metabolism is ongoing, with implications for drug metabolism and detoxification processes.
+
+
+## References
+
+
+[1. (Coughtrie2016Function) Michael W.H. Coughtrie. Function and organization of the human cytosolic sulfotransferase (sult) family. Chemico-Biological Interactions, 259:2–7, November 2016. URL: http://dx.doi.org/10.1016/j.cbi.2016.05.005, doi:10.1016/j.cbi.2016.05.005. This article has 104 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cbi.2016.05.005)
+
+[2. (Sun2020Functional) Yanan Sun, David Machalz, Gerhard Wolber, Maria Kristina Parr, and Matthias Bureik. Functional expression of all human sulfotransferases in fission yeast, assay development, and structural models for isoforms sult4a1 and sult6b1. Biomolecules, 10(11):1517, November 2020. URL: http://dx.doi.org/10.3390/biom10111517, doi:10.3390/biom10111517. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom10111517)

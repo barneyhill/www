@@ -1,0 +1,29 @@
+# FMC1
+
+## Overview
+FMC1 is a gene that encodes the formation of mitochondrial complex V assembly factor 1 homolog, a protein that plays a critical role in the assembly and stability of mitochondrial ATP synthase, also known as complex V. This protein is a member of the LYRM family and is characterized by a three-helix bundle fold, which facilitates its interactions with other proteins involved in mitochondrial function (Pei2021Human). FMC1 is particularly important for the assembly of the ATP synthase F1 complex, interacting with ATPAF2 and Atp12p, which are essential for the proper functioning of ATP synthase, especially under conditions of heat stress (Angerer2015Eukaryotic; LefebvreLegendre2001Identification). The protein is typically found in the mitochondrial matrix or loosely associated with the inner mitochondrial membrane, highlighting its role in mitochondrial processes (LefebvreLegendre2001Identification).
+
+## Structure
+The FMC1 protein, also known as formation of mitochondrial complex V assembly factor 1 homolog, is a member of the LYRM family of proteins. It is predicted to adopt a three-helix bundle fold, which is characteristic of this protein family (Pei2021Human). The interaction site on FMC1 is specifically mapped to the third core α-helix of this fold, indicating its role in protein-protein interactions (Pei2021Human). 
+
+FMC1 is involved in the assembly of mitochondrial ATP synthase, also known as complex V, and interacts with ATPAF2, an assembly factor of the ATP synthase F1 complex (Angerer2015Eukaryotic; Pei2021Human). The protein is a soluble mitochondrial protein, possibly located in the mitochondrial matrix or loosely bound to the inner mitochondrial membrane (LefebvreLegendre2001Identification). 
+
+While specific details about post-translational modifications or splice variant isoforms of FMC1 are not provided, its role in the assembly of ATP synthase suggests it may undergo modifications that facilitate its function in mitochondrial processes. The protein's involvement in the assembly and stability of ATP synthase is crucial, particularly under heat stress conditions (LefebvreLegendre2001Identification).
+
+## Function
+
+
+## Interactions
+FMC1, a protein involved in the assembly of mitochondrial complex V, interacts with several other proteins to facilitate its function. Notably, FMC1 interacts with ATPAF2, an assembly factor for the ATP synthase F1 complex. This interaction was predicted computationally and validated experimentally, with high contact probabilities reported by both AlphaFold2 and RoseTTAFold (Pei2021Human). Structurally, FMC1 is predicted to have a three-helix bundle fold typical of LYRM family proteins, with the interaction site located on the third core α-helix. The interaction site on ATPAF2 is mapped to the last α-helix, which includes a residue with a likely pathogenic mutation (L262P) (Pei2021Human).
+
+In yeast, FMC1 interacts with Atp12p, another assembly factor for the F1 sector of ATP synthase. This interaction is crucial under heat stress conditions, where the absence of FMC1 leads to impaired assembly of the F1 oligomer. The Δfmc1 mutant can be rescued by increasing the copy number of ATP12, indicating a functional relationship between FMC1 and Atp12p (LefebvreLegendre2001Identification). This interaction suggests that FMC1 plays a role in the proper folding, stability, or functioning of Atp12p during heat stress (LefebvreLegendre2001Identification).
+
+
+## References
+
+
+[1. (Angerer2015Eukaryotic) Heike Angerer. Eukaryotic lyr proteins interact with mitochondrial protein complexes. Biology, 4(1):133–150, February 2015. URL: http://dx.doi.org/10.3390/biology4010133, doi:10.3390/biology4010133. This article has 48 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biology4010133)
+
+2. (Pei2021Human) Human mitochondrial protein complexes revealed by large-scale coevolution analysis and deep learning-based structure modeling. This article has 3 citations.
+
+[3. (LefebvreLegendre2001Identification) Linnka Lefebvre-Legendre, Jacques Vaillier, Houssain Benabdelhak, Jean Velours, Piotr P. Slonimski, and Jean-Paul di Rago. Identification of a nuclear gene (fmc1) required for the assembly/stability of yeast mitochondrial f1-atpase in heat stress conditions. Journal of Biological Chemistry, 276(9):6789–6796, March 2001. URL: http://dx.doi.org/10.1074/jbc.m009557200, doi:10.1074/jbc.m009557200. This article has 114 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m009557200)

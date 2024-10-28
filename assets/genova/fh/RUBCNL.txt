@@ -1,0 +1,37 @@
+# RUBCNL
+
+## Overview
+RUBCNL is a gene that encodes the protein known as Rubicon-like autophagy enhancer, which plays a pivotal role in the regulation of autophagy, a critical cellular process for the degradation and recycling of cellular components. The protein is categorized as an autophagy regulator and is involved in the maturation of autophagosomes, facilitating their fusion with lysosomes to form autolysosomes. This function is achieved through its interaction with proteins such as RAB2 and STX17, forming a complex that recruits the HOPS complex, essential for autophagosome maturation (Ding2019RAB2). RUBCNL also acts as a vertebrate-specific regulator that counteracts RUBCN to activate the class III phosphatidylinositol 3-kinase during the late stages of autophagy (Ding2019RAB2). The protein's activity is modulated by acetylation under nutrient deprivation, enhancing its role in autophagy (Huang2024Acetylation). RUBCNL's involvement in cellular homeostasis and stress response underscores its importance in both normal physiology and disease states, including cancer and neurological disorders.
+
+## Function
+RUBCNL, also known as Rubicon-like autophagy enhancer, is a protein that plays a significant role in the regulation of autophagy, a cellular process essential for degrading and recycling cellular components. In healthy human cells, RUBCNL is involved in the maturation of autophagosomes, which are vesicular structures that sequester cellular debris for degradation. It interacts with RAB2 and STX17, forming a trimeric complex crucial for recruiting the HOPS complex, which facilitates the fusion of autophagosomes with lysosomes, thereby promoting autolysosome formation (Ding2019RAB2).
+
+RUBCNL also acts as a vertebrate-specific autophagy regulator that antagonizes RUBCN (Rubicon) to activate the class III phosphatidylinositol 3-kinase (PtdIns3K) during the late steps of autophagy. This interaction is essential for the proper functioning of the autophagic machinery, ensuring efficient degradation and recycling of cellular components (Ding2019RAB2). Additionally, RUBCNL is acetylated under nutrient deprivation conditions, which enhances its ability to recruit the HOPS complex, further promoting autophagosome maturation (Huang2024Acetylation). Through these interactions and modifications, RUBCNL plays a critical role in maintaining cellular homeostasis and responding to cellular stress.
+
+## Clinical Significance
+Alterations in the expression of the RUBCNL gene have been implicated in several diseases. In epilepsy, a neurological disorder affecting about 1% of the population, the peripheral expression of RUBCNL is significantly lower in both refractory and non-refractory epileptic patients compared to controls. This suggests a potential role for RUBCNL as a biomarker for epilepsy diagnosis, although no significant difference in expression was observed between refractory and non-refractory patients (Mirzajani2019Peripheral).
+
+In colorectal cancer (CRC), RUBCNL expression is influenced by the MYC-activated CERS6-AS1, which acts as a competing endogenous RNA by sponging miR-6838-5p. This interaction modulates RUBCNL expression, contributing to CRC progression. The study suggests that targeting the MYC/CERS6-AS1/miR-6838-5p/RUBCNL axis could be significant for CRC diagnosis and treatment (Dong2022MYCactivated).
+
+Additionally, RUBCNL is associated with lactylation processes in CRC, which are linked to tumor progression and chemoresistance. Enhanced lactylation under hypoxic conditions increases RUBCNL expression, promoting autophagy and contributing to resistance against chemotherapy drugs like bevacizumab (Wang2024The). These findings highlight the clinical significance of RUBCNL in various pathological conditions.
+
+## Interactions
+RUBCNL, or rubicon like autophagy enhancer, is involved in several protein interactions that play a crucial role in autophagy regulation. It interacts with RAB2, a Golgi-resident small GTPase, and STX17, a Q a-SNARE protein, forming a trimeric complex that recruits the HOPS complex to facilitate autophagosome maturation. This interaction is particularly significant as it helps maintain RAB2 on autophagosomes by inhibiting GDI2-mediated membrane extraction (Ding2019RAB2).
+
+RUBCNL also interacts with miR-6838-5p in colorectal cancer (CRC) cells, where it is targeted by this microRNA. The interaction is part of a regulatory axis involving CERS6-AS1, a long non-coding RNA that sponges miR-6838-5p, thereby modulating RUBCNL expression. This axis influences CRC cell proliferation, migration, and apoptosis (Dong2022MYCactivated).
+
+In the context of autophagy, RUBCNL is noted to interact with the GDP-bound form of RAB2, potentially acting as a guanine nucleotide dissociation inhibitor (GDI) displacement factor, similar to CLEC16A, which activates RAB2 (Ding2019RAB2). These interactions highlight RUBCNL's role in both autophagy and cancer progression.
+
+
+## References
+
+
+[1. (Ding2019RAB2) Xianming Ding, Xiao Jiang, Rui Tian, Pengwei Zhao, Lin Li, Xinyi Wang, She Chen, Yushan Zhu, Mei Mei, Shilai Bao, Wei Liu, Zaiming Tang, and Qiming Sun. Rab2 regulates the formation of autophagosome and autolysosome in mammalian cells. Autophagy, 15(10):1774–1786, April 2019. URL: http://dx.doi.org/10.1080/15548627.2019.1596478, doi:10.1080/15548627.2019.1596478. This article has 80 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2019.1596478)
+
+[2. (Dong2022MYCactivated) Dong Chen, Huiming You, Xiaoping Xu, Daocheng Liu, Minmin Shen, Yuan Pan, Zhaohui Liu, Lei Zhang, and Huijuan Wang. Myc-activated cers6-as1 sponges mir-6838-5p and regulates the expression of rubcnl in colorectal cancer. Cellular and Molecular Biology, 68(12):42–48, December 2022. URL: http://dx.doi.org/10.14715/cmb/2022.68.12.9, doi:10.14715/cmb/2022.68.12.9. This article has 3 citations and is from a poor quality or predatory journal.](https://doi.org/10.14715/cmb/2022.68.12.9)
+
+[3. (Mirzajani2019Peripheral) Sara Mirzajani, Soudeh Ghafouri-Fard, Jafar Mehvari Habibabadi, Shahram Arsang-Jang, Mir Davood Omrani, Seyed Sohrab Hashemi Fesharaki, Arezou Sayad, and Mohammad Taheri. Peripheral expression of rubicon like autophagy enhancer is reduced in epileptic patients. Gene Reports, 17:100539, December 2019. URL: http://dx.doi.org/10.1016/j.genrep.2019.100539, doi:10.1016/j.genrep.2019.100539. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.genrep.2019.100539)
+
+[4. (Huang2024Acetylation) Li Huang and Hongwei Guo. Acetylation modification in the regulation of macroautophagy. Advanced Biotechnology, June 2024. URL: http://dx.doi.org/10.1007/s44307-024-00027-7, doi:10.1007/s44307-024-00027-7. This article has 0 citations.](https://doi.org/10.1007/s44307-024-00027-7)
+
+[5. (Wang2024The) Gang Wang, Xiaosu Zou, Qicong Chen, Wenqian Nong, Weiwei Miao, Honglin Luo, and Shenhong Qu. The relationship and clinical significance of lactylation modification in digestive system tumors. Cancer Cell International, July 2024. URL: http://dx.doi.org/10.1186/s12935-024-03429-8, doi:10.1186/s12935-024-03429-8. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-024-03429-8)

@@ -1,0 +1,62 @@
+# PRDM9
+
+## Overview
+PRDM9 is a gene that encodes the PR/SET domain 9 protein, a zinc finger protein with a pivotal role in meiotic recombination. The protein is characterized by its KRAB domain, a central PR-SET domain, and a C-terminal array of C2H2 zinc fingers, which contribute to its DNA-binding specificity and methyltransferase activity (Patel2017Structural). PRDM9 is primarily expressed in germ cells during meiotic prophase, where it determines the location of recombination hotspots by binding to specific DNA sequences and trimethylating histone H3 at lysines 4 and 36. This activity facilitates the formation of double-strand breaks, essential for genetic exchange and diversity (Paigen2018PRDM9; Eram2014Trimethylation). Beyond its role in meiosis, PRDM9 has been implicated in hybrid sterility and reproductive isolation, as well as in various clinical conditions, including infertility and cancer, due to its influence on genomic stability and recombination hotspot distribution (Wu2013Molecular; Ladias2023Cancer).
+
+## Structure
+The PRDM9 protein is characterized by its complex molecular structure, which includes several distinct domains. It contains an N-terminal KRAB domain, a central PR-SET domain responsible for histone H3 lysine 4 trimethylation, and a C-terminal array of C2H2 zinc fingers (ZnFs) (Patel2017Structural). The zinc finger array is highly polymorphic, contributing to variations in DNA-binding specificity. The most common human variant, PRDM9 allele A, has 13 ZnF fingers, while allele C has 14 fingers due to an additional ZnF (Patel2017Structural).
+
+The PRDM9 protein forms a trimer through interactions within its ZnF array, with at least 5 out of 11 ZnFs being sufficient for functional DNA binding (Schwarz2019PRDM9). This trimerization is consistent across different PRDM9 alleles and is mediated by the ZnF domain, as constructs containing only the ZnF domain also form trimers (Schwarz2019PRDM9).
+
+The PRDM9 protein also exhibits post-translational modifications, such as phosphorylation, which may regulate its activity. The PR-SET domain of PRDM9 is involved in its methyltransferase activity, specifically methylating lysine 4 on histone H3 (Wu2013Molecular). The structure of the PRDM9 PR/SET domain in complex with H3K4me2 and AdoHcy highlights its unique orientation and substrate specificity (Wu2013Molecular).
+
+## Function
+PRDM9 is a zinc finger protein that plays a crucial role in meiotic recombination by determining the locations of recombination hotspots in the genome. It functions by binding to specific DNA sequences and trimethylating histone H3 at lysines 4 (H3K4me3) and 36 (H3K36me3), which influences chromatin structure and creates a nucleosome-free center where DNA double-strand breaks (DSBs) occur. These DSBs are essential for genetic exchange between chromosomes during meiosis, ensuring proper chromosomal segregation and genetic diversity (Paigen2018PRDM9; Eram2014Trimethylation).
+
+PRDM9's activity is primarily restricted to germ cells entering meiotic prophase, where it is expressed in oocytes and spermatocytes. Its zinc finger domain is responsible for DNA binding, and its methyltransferase activity is crucial for the recruitment of proteins necessary for DSB formation (Wu2013Molecular; Grey2018PRDM9). The protein's role in specifying recombination sites has been observed in humans and other vertebrates, indicating its evolutionary conservation and importance in meiotic recombination (Grey2018PRDM9).
+
+In addition to its primary function in meiosis, PRDM9 has been implicated in hybrid sterility and may play a role in reproductive isolation due to its influence on recombination hotspot distribution (Wu2013Molecular).
+
+## Clinical Significance
+Mutations and altered expression of the PRDM9 gene have been implicated in various diseases and conditions. PRDM9 is crucial for meiotic recombination, and its absence or dysfunction can lead to reproductive issues such as male infertility and premature ovarian insufficiency (POI). Specific mutations in PRDM9, such as p.Arg77*, p.Lys226Met, and p.Ile213Ser, have been associated with impaired histone methyltransferase activity, affecting recombination hotspot determination and contributing to POI (Wang2021Pathogenic).
+
+PRDM9 is also linked to cancer, with studies indicating its role in genomic instability, a hallmark of cancer. Aberrant expression of PRDM9 has been observed in various cancers, including breast invasive carcinoma, lung adenocarcinoma, ovarian serous cystadenocarcinoma, and head and neck squamous cell carcinoma. A specific PRDM9 sequence motif, d(CCACCATCACCAC), has been identified near DNA double-strand break sites, suggesting its involvement in cancer development (Ladias2023Cancer). PRDM9 mutations are frequently found in solid tumors, such as head and neck squamous cell carcinoma and bladder cancer, and are associated with patient survival outcomes (Casamassimi2020Multifaceted).
+
+Additionally, PRDM9 has been implicated in genomic disorders such as microdeletion and microduplication syndromes, where its sequence motifs may contribute to structural genomic variations (Ladias2023Sequence).
+
+## Interactions
+PRDM9 is a zinc finger protein that plays a crucial role in meiotic recombination by determining the location of recombination hotspots. It interacts with several proteins to form multiprotein complexes essential for its function. The KRAB domain of PRDM9 interacts with proteins such as CXXC1, EWSR1, EHMT2, and CDYL, which are co-expressed in spermatocytes during early meiotic prophase I. These interactions are vital for linking hotspot DNA to the chromosomal axis, facilitating double-strand break (DSB) initiation and repair (Parvanov2017PRDM9; Parvanov2016PRDM9).
+
+PRDM9 also interacts with meiotic-specific cohesin REC8 and synaptonemal complex proteins SYCP1 and SYCP3. Although no direct binding between PRDM9 and REC8 was found in vitro, interactions were observed in spermatocytes, suggesting that phosphorylated REC8 interacts with PRDM9, potentially facilitated by EWSR1 and CXXC1 (Parvanov2017PRDM9; Parvanov2016PRDM9).
+
+The zinc finger domain of PRDM9 is responsible for its self-binding activity, allowing it to form multimers. This domain also mediates interactions with other proteins, similar to other zinc-finger proteins like ZNF133 (Altemose2017A). These interactions are crucial for the proper functioning of meiotic processes and the prevention of aneuploidy.
+
+
+## References
+
+
+[1. (Wang2021Pathogenic) Yiyang Wang, Ting Guo, Hanni Ke, Qian Zhang, Shan Li, Wei Luo, and Yingying Qin. Pathogenic variants of meiotic double strand break (dsb) formation genes prdm9 and ankrd31 in premature ovarian insufficiency. Genetics in Medicine, 23(12):2309–2315, December 2021. URL: http://dx.doi.org/10.1038/s41436-021-01266-y, doi:10.1038/s41436-021-01266-y. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41436-021-01266-y)
+
+[2. (Altemose2017A) Nicolas Altemose, Nudrat Noor, Emmanuelle Bitoun, Afidalina Tumian, Michael Imbeault, J Ross Chapman, A Radu Aricescu, and Simon R Myers. A map of human prdm9 binding provides evidence for novel behaviors of prdm9 and other zinc-finger proteins in meiosis. eLife, October 2017. URL: http://dx.doi.org/10.7554/elife.28383, doi:10.7554/elife.28383. This article has 83 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.28383)
+
+[3. (Schwarz2019PRDM9) Theresa Schwarz, Yasmin Striedner, Andreas Horner, Karin Haase, Jasmin Kemptner, Nicole Zeppezauer, Philipp Hermann, and Irene Tiemann-Boege. Prdm9 forms a trimer by interactions within the zinc finger array. Life Science Alliance, 2(4):e201800291, July 2019. URL: http://dx.doi.org/10.26508/lsa.201800291, doi:10.26508/lsa.201800291. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.201800291)
+
+[4. (Casamassimi2020Multifaceted) Amelia Casamassimi, Monica Rienzo, Erika Di Zazzo, Anna Sorrentino, Donatella Fiore, Maria Chiara Proto, Bruno Moncharmont, Patrizia Gazzerro, Maurizio Bifulco, and Ciro Abbondanza. Multifaceted role of prdm proteins in human cancer. International Journal of Molecular Sciences, 21(7):2648, April 2020. URL: http://dx.doi.org/10.3390/ijms21072648, doi:10.3390/ijms21072648. This article has 54 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21072648)
+
+[5. (Patel2017Structural) Anamika Patel, Xing Zhang, Robert M. Blumenthal, and Xiaodong Cheng. Structural basis of human pr/set domain 9 (prdm9) allele c–specific recognition of its cognate dna sequence. Journal of Biological Chemistry, 292(39):15994–16002, September 2017. URL: http://dx.doi.org/10.1074/jbc.m117.805754, doi:10.1074/jbc.m117.805754. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m117.805754)
+
+[6. (Eram2014Trimethylation) Mohammad S. Eram, Susan P. Bustos, Evelyne Lima-Fernandes, Alena Siarheyeva, Guillermo Senisterra, Taraneh Hajian, Irene Chau, Shili Duan, Hong Wu, Ludmila Dombrovski, Matthieu Schapira, Cheryl H. Arrowsmith, and Masoud Vedadi. Trimethylation of histone h3 lysine 36 by human methyltransferase prdm9 protein. Journal of Biological Chemistry, 289(17):12177–12188, April 2014. URL: http://dx.doi.org/10.1074/jbc.m113.523183, doi:10.1074/jbc.m113.523183. This article has 100 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m113.523183)
+
+[7. (Wu2013Molecular) Hong Wu, Nikolas Mathioudakis, Boubou Diagouraga, Aiping Dong, Ludmila Dombrovski, Frédéric Baudat, Stephen Cusack, Bernard de Massy, and Jan Kadlec. Molecular basis for the regulation of the h3k4 methyltransferase activity of prdm9. Cell Reports, 5(1):13–20, October 2013. URL: http://dx.doi.org/10.1016/j.celrep.2013.08.035, doi:10.1016/j.celrep.2013.08.035. This article has 105 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2013.08.035)
+
+[8. (Parvanov2017PRDM9) Emil D. Parvanov, Hui Tian, Timothy Billings, Ruth L. Saxl, Catrina Spruce, Rakesh Aithal, Lumir Krejci, Kenneth Paigen, and Petko M. Petkov. Prdm9 interactions with other proteins provide a link between recombination hotspots and the chromosomal axis in meiosis. Molecular Biology of the Cell, 28(3):488–499, February 2017. URL: http://dx.doi.org/10.1091/mbc.e16-09-0686, doi:10.1091/mbc.e16-09-0686. This article has 90 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e16-09-0686)
+
+[9. (Ladias2023Cancer) Paris Ladias, Georgios S. Markopoulos, Charilaos Kostoulas, Ioanna Bouba, Sofia Markoula, and Ioannis Georgiou. Cancer associated prdm9: implications for linking genomic instability and meiotic recombination. International Journal of Molecular Sciences, 24(22):16522, November 2023. URL: http://dx.doi.org/10.3390/ijms242216522, doi:10.3390/ijms242216522. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms242216522)
+
+10. (Parvanov2016PRDM9) PRDM9 forms a multiprotein complex tethering recombination hotspots to the chromosomal axis. This article has 1 citations.
+
+[11. (Paigen2018PRDM9) Kenneth Paigen and Petko M. Petkov. Prdm9 and its role in genetic recombination. Trends in Genetics, 34(4):291–300, April 2018. URL: http://dx.doi.org/10.1016/j.tig.2017.12.017, doi:10.1016/j.tig.2017.12.017. This article has 121 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tig.2017.12.017)
+
+[12. (Grey2018PRDM9) Corinne Grey, Frédéric Baudat, and Bernard de Massy. Prdm9, a driver of the genetic map. PLOS Genetics, 14(8):e1007479, August 2018. URL: http://dx.doi.org/10.1371/journal.pgen.1007479, doi:10.1371/journal.pgen.1007479. This article has 89 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1007479)
+
+[13. (Ladias2023Sequence) Paris Ladias, Georgios S. Markopoulos, Charilaos Kostoulas, Ioanna Bouba, Agis Georgiou, Sofia Markoula, and Ioannis Georgiou. Sequence motif analysis of prdm9 and short inverted repeats suggests their contribution to human microdeletion and microduplication syndromes. BioMedInformatics, 3(2):267–279, April 2023. URL: http://dx.doi.org/10.3390/biomedinformatics3020018, doi:10.3390/biomedinformatics3020018. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biomedinformatics3020018)

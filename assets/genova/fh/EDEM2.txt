@@ -1,0 +1,48 @@
+# EDEM2
+
+## Overview
+EDEM2 is a gene that encodes the protein known as endoplasmic reticulum degradation-enhancing alpha-mannosidase-like protein 2, which is a crucial component of the endoplasmic reticulum-associated degradation (ERAD) pathway. This protein is categorized as an alpha-mannosidase and is involved in the initial mannose trimming of misfolded glycoproteins, a key step in the ERAD process that facilitates the recognition and degradation of these proteins. EDEM2's enzymatic activity is dependent on its interaction with the thioredoxin domain-containing protein TXNDC11, which aids in the formation of essential disulfide bonds within EDEM2 (George2021Purified). The protein's function is vital for maintaining cellular homeostasis by preventing the accumulation of misfolded proteins in the endoplasmic reticulum, thus playing a significant role in cellular stress response mechanisms (Wu2023EDEM2).
+
+## Structure
+EDEM2 is a protein involved in the endoplasmic reticulum-associated degradation (ERAD) pathway, characterized by its role in mannose trimming. The primary structure of EDEM2 includes specific cysteine residues, such as Cys65 and Cys408, which are crucial for forming disulfide bonds necessary for its enzymatic activity (i&gt; glycan; George2021Purified; N&lt; Ninagawa2021&lt). These disulfide bonds are facilitated by the thioredoxin domain-containing protein TXNDC11, which is essential for EDEM2's α1,2-mannosidase activity (George2021Purified).
+
+EDEM2 contains a mannosidase homology domain (MHD), which is critical for its function in the ERAD pathway (George2021Purified). The formation of disulfide bonds within this domain is vital for its activity, as mutations in these cysteine residues can inactivate the protein (George2021Purified). The quaternary structure of EDEM2 involves its interaction with TXNDC11, forming a complex that is necessary for its enzymatic function (George2021Purified).
+
+While the context does not provide detailed information on the secondary or tertiary structures, it highlights the importance of disulfide bonds and the interaction with TXNDC11 in maintaining the functional conformation of EDEM2. The presence of these structural features underscores the protein's role in glycoprotein processing within the ERAD pathway.
+
+## Function
+EDEM2, or endoplasmic reticulum degradation-enhancing alpha-mannosidase-like protein 2, plays a critical role in the endoplasmic reticulum-associated degradation (ERAD) pathway, which is essential for maintaining protein homeostasis in human cells. EDEM2 is involved in the initial mannose trimming step of misfolded glycoproteins, converting M9 to M8B, a crucial step for the degradation signal in glycoprotein ERAD (George2021Purified). This mannose trimming is necessary for the recognition and sorting of substrates to the ERAD pathway, leading to the generation of Man7-5 GlcNAc2 glycan forms required for the disposal of misfolded glycoproteins (Sokołowska2015Hydrophobicity).
+
+EDEM2 functions in association with the thioredoxin domain-containing protein TXNDC11, which is necessary for its mannosidase activity. This interaction facilitates the formation of disulfide bonds in EDEM2, which are essential for its function (George2021Purified). EDEM2 is active in the endoplasmic reticulum, where it helps prevent the accumulation of unfolded or misfolded polypeptides, thus maintaining ER proteostasis (Wu2023EDEM2). By ensuring proper protein folding and degradation, EDEM2 plays a vital role in cellular homeostasis and stress response mechanisms.
+
+## Clinical Significance
+EDEM2 is implicated in various diseases and conditions due to its role in the endoplasmic reticulum-associated degradation (ERAD) pathway. Alterations in EDEM2 expression have been linked to glioma, a type of brain tumor. In glioma, EDEM2 is overexpressed, correlating with poor prognosis and unfavorable clinical characteristics such as high WHO grade and IDH mutation status. Its expression is also associated with immune cell infiltration, particularly macrophages, and can predict responses to immune checkpoint inhibitor therapy (Wu2023EDEM2).
+
+EDEM2 is also involved in the degradation of misfolded proteins, such as the alpha-1-antitrypsin Z variant, which is associated with alpha-1-antitrypsin deficiency. This condition results from mutations that lead to improper protein folding and accumulation in the endoplasmic reticulum. EDEM2, along with EDEM1, facilitates the degradation of these misfolded proteins, preventing cellular dysfunction (JANG2015Role).
+
+In C. elegans, EDEM2 plays a crucial role in managing ER stress and maintaining proteostasis. Loss of EDEM2 function leads to pleiotropic defects and increased sensitivity to ER stress, which can be relevant to understanding the pathogenesis of various human diseases related to protein misfolding and ER stress (Ghenea2022Targeting).
+
+## Interactions
+EDEM2 interacts with several proteins within the endoplasmic reticulum-associated degradation (ERAD) pathway. It forms a high molecular weight complex with TXNDC11 through disulfide bonds between cysteine residues C65 and C408, which is crucial for its α1,2-mannosidase activity (George2021Purified). This interaction enhances EDEM2's function in glycoprotein processing by stabilizing its structure (George2021Purified).
+
+EDEM2 also interacts with the lectin calnexin, showing stronger binding than EDEM1, which suggests a role in glycan-dependent interactions within the ERAD pathway (SłomińskaWojewódzka2015The). Additionally, EDEM2 associates with SEL1L, a component of the ER dislocation machinery, through glycan-mediated interactions (SłomińskaWojewódzka2015The).
+
+The protein's interaction with oxidoreductases like TXNDC11 and PDI enhances its mannosidase activity, particularly on denatured glycoprotein substrates (Shenkman2018Mannosidase). EDEM2's role in substrate recognition is influenced by hydrophobic interactions, allowing it to bind to hydrophobic regions of misfolded proteins, which is essential for its function in ERAD (Sokołowska2015Hydrophobicity). There is no evidence of EDEM2 interacting with nucleic acids.
+
+
+## References
+
+
+[1. (Sokołowska2015Hydrophobicity) Iwona Sokołowska, Ewa S Piłka, Kirsten Sandvig, Grzegorz Węgrzyn, and Monika Słomińska-Wojewódzka. Hydrophobicity of protein determinants influences the recognition of substrates by edem1 and edem2 in human cells. BMC Cell Biology, February 2015. URL: http://dx.doi.org/10.1186/s12860-015-0047-7, doi:10.1186/s12860-015-0047-7. This article has 18 citations.](https://doi.org/10.1186/s12860-015-0047-7)
+
+[2. (George2021Purified) Ginto George, Satoshi Ninagawa, Hirokazu Yagi, Jun-ichi Furukawa, Noritaka Hashii, Akiko Ishii-Watabe, Ying Deng, Kazutoshi Matsushita, Tokiro Ishikawa, Yugoviandi P Mamahit, Yuta Maki, Yasuhiro Kajihara, Koichi Kato, Tetsuya Okada, and Kazutoshi Mori. Purified edem3 or edem1 alone produces determinant oligosaccharide structures from m8b in mammalian glycoprotein erad. eLife, October 2021. URL: http://dx.doi.org/10.7554/elife.70357, doi:10.7554/elife.70357. This article has 13 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.70357)
+
+[3. (SłomińskaWojewódzka2015The) Monika Słomińska-Wojewódzka and Kirsten Sandvig. The role of lectin-carbohydrate interactions in the regulation of er-associated protein degradation. Molecules, 20(6):9816–9846, May 2015. URL: http://dx.doi.org/10.3390/molecules20069816, doi:10.3390/molecules20069816. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/molecules20069816)
+
+[4. (Ghenea2022Targeting) Simona Ghenea, Marioara Chiritoiu, Robi Tacutu, Antonio Miranda-Vizuete, and Stefana Maria Petrescu. Targeting edem protects against er stress and improves development and survival in c. elegans. PLOS Genetics, 18(2):e1010069, February 2022. URL: http://dx.doi.org/10.1371/journal.pgen.1010069, doi:10.1371/journal.pgen.1010069. This article has 7 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1010069)
+
+[5. (Wu2023EDEM2) Yuxi Wu, Haofei Wang, Wei Xiang, and Dongye Yi. Edem2 is a diagnostic and prognostic biomarker and associated with immune infiltration in glioma: a comprehensive analysis. Frontiers in Oncology, January 2023. URL: http://dx.doi.org/10.3389/fonc.2022.1054012, doi:10.3389/fonc.2022.1054012. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.1054012)
+
+[6. (JANG2015Role) BO-YUN JANG, HYUNG DON RYOO, JAEKYOUNG SON, KYUNG-CHUL CHOI, DONG-MYOUNG SHIN, SANG-WOOK KANG, and MIN-JI KANG. Role of drosophila edems in the degradation of the alpha-1-antitrypsin z variant. International Journal of Molecular Medicine, 35(4):870–876, February 2015. URL: http://dx.doi.org/10.3892/ijmm.2015.2109, doi:10.3892/ijmm.2015.2109. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijmm.2015.2109)
+
+[7. (Shenkman2018Mannosidase) Marina Shenkman, Efrat Ron, Rivka Yehuda, Ron Benyair, Isam Khalaila, and Gerardo Z. Lederkremer. Mannosidase activity of edem1 and edem2 depends on an unfolded state of their glycoprotein substrates. Communications Biology, October 2018. URL: http://dx.doi.org/10.1038/s42003-018-0174-8, doi:10.1038/s42003-018-0174-8. This article has 44 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-018-0174-8)

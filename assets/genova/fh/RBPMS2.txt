@@ -1,0 +1,38 @@
+# RBPMS2
+
+## Overview
+RBPMS2, or RNA binding protein with multiple splicing 2, is a gene that encodes a protein involved in RNA binding and mRNA processing. The protein, known as RNA binding protein, mRNA processing factor 2, is characterized by its RNA recognition motif (RRM) domain, which facilitates its role in RNA binding and protein interactions. This protein is crucial for regulating smooth muscle cell plasticity and cardiac function, playing a significant role in the transition between contractile and proliferative states in smooth muscle cells and in alternative splicing in cardiomyocytes. RBPMS2's interactions with other proteins and mRNA, such as eEF2 and NOGGIN mRNA, underscore its importance in cellular differentiation and function. Alterations in RBPMS2 expression or function have been linked to various diseases, including cardiomyopathies and gastrointestinal stromal tumors, highlighting its potential as a diagnostic marker and therapeutic target (Akerberg2021RBPMS2; Sagnol2014Homodimerization; Hapkova2013High).
+
+## Structure
+The RBPMS2 protein contains a single RNA recognition motif (RRM) domain, which is crucial for its function in RNA binding and protein interactions. The RRM domain spans residues 27-117 and is characterized by a flat anti-parallel four-stranded β-sheet and two α-helices (Sagnol2014Homodimerization). This domain is highly conserved among vertebrate orthologs and shares similarities with insect and C. elegans proteins, indicating a common evolutionary history (Sagnol2014Homodimerization).
+
+A specific sequence motif within the RRM domain, D-x-K-x-R-E-L-Y-L-L-F (residues 39-51), is essential for the homodimerization of RBPMS2. This motif is conserved across species and is necessary for the protein's role in smooth muscle cell plasticity (Sagnol2014Homodimerization). The dimerization is mediated by residues R45, E46, L49, and L50 on helix α1, along with additional residues from loops connecting the β-strands and α-helices, stabilized by hydrophobic and electrostatic interactions (Sagnol2014Homodimerization).
+
+Mutations in the conserved leucine residue, such as L49E, disrupt homodimerization without affecting the overall folding of the RRM domain, as confirmed by NMR analysis (Sagnol2014Homodimerization). This disruption affects the protein's ability to bind RNA and interact with other proteins like eEF2, impacting its biological functions (Sagnol2014Homodimerization).
+
+## Function
+RBPMS2 is a crucial RNA-binding protein involved in the regulation of smooth muscle cell (SMC) plasticity and cardiac function. In smooth muscle cells, RBPMS2 plays a significant role in the transition between contractile and proliferative states, which is essential for development and response to injury. This function is mediated through its interaction with NOGGIN mRNA, inhibiting the bone morphogenetic protein (BMP) pathway. The RNA recognition motif (RRM) domain of RBPMS2 is essential for its homodimerization, which is necessary for its interaction with the translational elongation factor eEF2 and regulation of NOGGIN mRNA expression (Sagnol2014Homodimerization).
+
+In cardiomyocytes, RBPMS2 is a conserved regulator of alternative splicing, crucial for myofibrillar organization and calcium handling. It ensures proper myofibril structure and regulates intracellular calcium dynamics, which are vital for myocardial contractility. The absence of RBPMS2 leads to myofibrillar disarray and impaired calcium handling, affecting cardiac function (Akerberg2021RBPMS2). RBPMS2's activity in these processes highlights its importance in maintaining cellular differentiation and function in both smooth muscle and cardiac tissues.
+
+## Clinical Significance
+Alterations in the expression or function of the RBPMS2 gene have been implicated in several diseases and conditions. In cardiomyocytes, RBPMS2 is crucial for maintaining myofibrillar organization and calcium handling. Mutations or changes in its expression can lead to myofibrillar disarray and impaired calcium dynamics, potentially resulting in cardiomyopathies or other heart-related conditions (Akerberg2021RBPMS2). In zebrafish, the absence of RBPMS2 leads to compromised ventricular function, which can mimic symptoms of heart failure, such as reduced cardiac output and pericardial edema (Akerberg2021RBPMS2).
+
+In gastrointestinal stromal tumors (GISTs), RBPMS2 is significantly overexpressed, particularly in high-risk tumors. This overexpression is independent of KIT and PDGFRA mutations, suggesting that RBPMS2 could serve as a diagnostic marker and potential therapeutic target in GISTs (Hapkova2013High). Additionally, RBPMS2's role in smooth muscle cell plasticity is linked to gastrointestinal development and conditions like chronic intestinal pseudo-obstruction syndrome. Mutations affecting its homodimerization can disrupt its function, impacting muscle plasticity and development (Sagnol2014Homodimerization).
+
+## Interactions
+RBPMS2 is involved in several critical interactions with both proteins and nucleic acids, which are essential for its function in regulating smooth muscle cell plasticity. A key interaction is with the eukaryotic elongation factor-2 (eEF2), which is crucial for translational elongation. This interaction is dependent on the homodimerization of RBPMS2, as demonstrated by the inability of a mutant form, RBPMS2-L49E, to interact effectively with eEF2 (Sagnol2014Homodimerization). 
+
+RBPMS2 also binds to NOGGIN mRNA, forming a ribonucleoprotein complex that inhibits the bone morphogenetic protein (BMP) pathway, which is necessary for smooth muscle cell dedifferentiation. This binding is facilitated by a specific region within the NOGGIN mRNA and is crucial for the upregulation of NOGGIN mRNA expression (Sagnol2014Homodimerization).
+
+The homodimerization of RBPMS2, mediated by its RNA recognition motif (RRM) domain, is essential for these interactions. This dimerization involves a conserved leucine residue and is independent of RNA, highlighting the importance of protein-protein interactions in RBPMS2's function (Sagnol2014Homodimerization).
+
+
+## References
+
+
+1. (Akerberg2021RBPMS2) RBPMS2 is a conserved regulator of alternative splicing that promotes myofibrillar organization and optimal calcium handling in cardiomyocytes. This article has 2 citations.
+
+[2. (Sagnol2014Homodimerization) Sébastien Sagnol, Yinshan Yang, Yannick Bessin, Fréderic Allemand, Ilona Hapkova, Cécile Notarnicola, Jean-François Guichou, Sandrine Faure, Gilles Labesse, and Pascal de Santa Barbara. Homodimerization of rbpms2 through a new rrm-interaction motif is necessary to control smooth muscle plasticity. Nucleic Acids Research, 42(15):10173–10184, July 2014. URL: http://dx.doi.org/10.1093/nar/gku692, doi:10.1093/nar/gku692. This article has 29 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gku692)
+
+[3. (Hapkova2013High) Ilona Hapkova, Josef Skarda, Caroline Rouleau, An Thys, Cécile Notarnicola, Maria Janikova, Florence Bernex, Miroslav Rypka, Jean-Marie Vanderwinden, Sandrine Faure, Jaroslav Vesely, and Pascal de Santa Barbara. High expression of the rna-binding protein rbpms2 in gastrointestinal stromal tumors. Experimental and Molecular Pathology, 94(2):314–321, April 2013. URL: http://dx.doi.org/10.1016/j.yexmp.2012.12.004, doi:10.1016/j.yexmp.2012.12.004. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.yexmp.2012.12.004)

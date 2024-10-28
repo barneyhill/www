@@ -1,0 +1,38 @@
+# VCPIP1
+
+## Overview
+VCPIP1, or valosin-containing protein interacting protein 1, is a gene that encodes a deubiquitinase protein involved in critical cellular processes such as protein homeostasis, degradation, and Golgi reassembly. The protein interacts with the valosin-containing protein (VCP), an essential unfoldase, through specific domains that facilitate its deubiquitinating activity. VCPIP1 is characterized by its ability to remove ubiquitin from substrates, particularly those with K48-linked polyubiquitin chains, thereby regulating their recycling or degradation. This function is vital for maintaining cellular proteostasis and is implicated in various biological processes, including cell signaling, division, and response to stress. The protein's role in Golgi reassembly involves forming a ternary complex with VCP and p47, which is crucial for post-mitotic Golgi membrane biogenesis. Dysregulation of VCPIP1 has been associated with several clinical conditions, including neurodegenerative diseases and cancer, highlighting its significance as a potential therapeutic target (Shah2024Ternary; Doherty2022Integrating; Vostal2024Distinct).
+
+## Structure
+VCPIP1 is a protein that interacts with valosin-containing protein (VCP) through specific domains, including the UBX domain and the VCPID domain. The UBX domain, located between amino acids 773-852, binds to the N-terminal domain of VCP, forming a hydrophobic interaction interface (Shah2024Ternary). The VCPID domain, spanning amino acids 589-666, interacts with the D2 domains of VCP, involving a β-hairpin loop and two alpha helices (Shah2024Ternary). These interactions are crucial for the protein's function in deubiquitylation and Golgi reassembly (Shah2024Ternary).
+
+The protein exhibits a bivalent binding mode, with the UBX domain anchoring VCPIP1 to VCP and the VCPID domain enhancing deubiquitinase activity (Shah2024Ternary). The stoichiometry of the VCP-VCPIP1 complex is 2:1, with each VCPIP1 molecule contacting two D2 domains of VCP (Shah2024Ternary). The flexible OTU domain, containing the catalytic cysteine, is responsible for the deubiquitylating activity, although its high flexibility has limited the resolution of its structure (Shah2024Ternary). The structural analysis of VCPIP1 has been conducted using cryo-electron microscopy, providing insights into its interaction dynamics with VCP (Shah2024Ternary).
+
+## Function
+VCPIP1 (valosin-containing protein interacting protein 1) is a deubiquitinase that plays a critical role in maintaining protein homeostasis in human cells. It is involved in the regulation of protein degradation pathways, particularly through its interaction with the valosin-containing protein (VCP), an essential unfoldase. VCPIP1 binds to VCP at both the entry and exit sites of VCP's central pore, positioning its deubiquitinase domain to cleave ubiquitin from unfolded substrates as they exit the pore. This interaction enhances VCPIP1's deubiquitinase activity, particularly against K48-linked ubiquitylated substrates, facilitating the recycling or degradation of polyubiquitylated proteins (Vostal2024Distinct).
+
+In the context of Golgi reassembly, VCPIP1 functions in a ternary complex with VCP and p47, where it deubiquitinates syntaxin-5 (Syn5), a t-SNARE protein essential for Golgi reassembly. This process is crucial for post-mitotic Golgi membrane biogenesis, allowing deubiquitinated Syn5 to bind to v-SNARE Bet1, resulting in membrane fusion and Golgi reassembly (Shah2024Ternary). VCPIP1's activity is vital for processes such as proteostasis, cell signaling, and cell division, with implications in aging, neurodegenerative diseases, and cancer (Vostal2024Distinct).
+
+## Clinical Significance
+VCPIP1, also known as VCIP135, plays a significant role in various cellular processes, and its dysregulation has been implicated in several clinical conditions. Alterations in VCPIP1 expression or function can impact the persistence of botulinum neurotoxin type A (BoNT/A) intoxication. VCPIP1 stabilizes the catalytic light chain of BoNT/A by preventing its ubiquitin-dependent degradation, thereby prolonging the toxin's effects, which can lead to extended paralysis (Tsai2017Deubiquitinating). Targeting VCPIP1 with specific inhibitors has been suggested as a potential therapeutic strategy to mitigate the morbidity associated with BoNT/A intoxication, which is relevant for both clinical management and biodefense (Tsai2017Deubiquitinating).
+
+In cancer biology, VCPIP1 is involved in the regulation of the TP53 signaling pathway. It is negatively correlated with TP53, suggesting that it may act in opposition to this tumor suppressor. VCPIP1 is co-dependent and co-expressed with the E3 ligase HUWE1, which targets TP53 for degradation, indicating that VCPIP1 might stabilize HUWE1 and negatively affect TP53 signaling (Doherty2022Integrating). This relationship highlights VCPIP1 as a potential negative regulator of TP53, making it a possible target for cancer therapeutics.
+
+## Interactions
+VCPIP1, or valosin-containing protein interacting protein 1, is known to interact with the valosin-containing protein (VCP), an essential unfoldase involved in protein degradation and recycling. VCPIP1 functions as a deubiquitinase (DUB) and interacts with VCP at both the entry and exit sites of its central pore. This interaction is crucial for the removal of ubiquitin from substrates after they have been unfolded by VCP, facilitating their recycling or degradation (Vostal2024Distinct).
+
+VCPIP1 forms a complex with VCP and p47, which is important for Golgi reassembly. In this ternary complex, VCPIP1 and p47 both bind to VCP, with p47 having a slightly higher affinity. The interactions involve the UBX domains of VCPIP1 and p47, which share structural homology but have distinct features (Shah2024Ternary).
+
+The structural analysis reveals that VCPIP1 binds to VCP through multivalent interactions, involving the UBX domain and a newly characterized VCPID domain. These interactions enhance VCPIP1's deubiquitinating activity, which is essential for processes like Golgi reassembly and the recycling of SNARE complexes (Shah2024Ternary). The presence of VCP enhances VCPIP1's activity, suggesting a coordinated mechanism for protein recycling (Vostal2024Distinct).
+
+
+## References
+
+
+1. (Shah2024Ternary) Ternary complex formation of VCP, VCPIP1 and p47 facilitates Golgi reassembly. This article has 0 citations.
+
+[2. (Tsai2017Deubiquitinating) Yien Che Tsai, Archana Kotiya, Erkan Kiris, Mei Yang, Sina Bavari, Lino Tessarollo, George A. Oyler, and Allan M. Weissman. Deubiquitinating enzyme vcip135 dictates the duration of botulinum neurotoxin type a intoxication. Proceedings of the National Academy of Sciences, June 2017. URL: http://dx.doi.org/10.1073/pnas.1621076114, doi:10.1073/pnas.1621076114. This article has 31 citations.](https://doi.org/10.1073/pnas.1621076114)
+
+[3. (Doherty2022Integrating) Laura M Doherty, Caitlin E Mills, Sarah A Boswell, Xiaoxi Liu, Charles Tapley Hoyt, Benjamin Gyori, Sara J Buhrlage, and Peter K Sorger. Integrating multi-omics data reveals function and therapeutic potential of deubiquitinating enzymes. eLife, June 2022. URL: http://dx.doi.org/10.7554/elife.72879, doi:10.7554/elife.72879. This article has 22 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.72879)
+
+4. (Vostal2024Distinct) Distinct modes of coupling between VCP, an essential unfoldase, and deubiquitinases. This article has 0 citations.

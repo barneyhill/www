@@ -1,0 +1,44 @@
+# DHX37
+
+## Overview
+The DHX37 gene encodes the DEAH-box helicase 37, a member of the DEAH-box family of RNA helicases, which are characterized by their role in unwinding RNA structures. This protein is integral to ribosome biogenesis, particularly in the maturation of the small ribosomal subunit (SSU) through its involvement in pre-rRNA processing. DHX37 facilitates the conversion of 21S pre-rRNA to 18SE pre-rRNA, a critical step in forming the mature 18S rRNA and assembling the 40S ribosomal subunit. The protein's helicase activity is modulated by interactions with UTP14A and U3 small nucleolar RNA (snoRNA), which are essential for its function in ribosome assembly. Mutations in the DHX37 gene have been linked to disorders of sex development and neurodevelopmental disorders, highlighting its significance in both cellular and developmental processes (Silva2018DEAHbox; de2023DHX37; Boneberg2019Molecular).
+
+## Structure
+The DHX37 protein is a multidomain RNA helicase with a molecular weight of approximately 130 kDa, consisting of 1157 amino acids (da2019Genetic; Boneberg2019Molecular). It features a canonical DEAH ATPase/helicase catalytic module, which includes two RecA-like domains (RecA1 and RecA2), a helicase-associated domain (HA2), and an oligonucleotide/oligosaccharide-binding fold (OB) domain (Wan2023A; Boneberg2019Molecular). The RecA-like domains are crucial for RNA substrate interaction, ATP binding, and hydrolysis, facilitating the unwinding activity (Wan2023A).
+
+The protein also contains a unique α-helical carboxy-terminal domain (CTD), which is essential for its interaction with UTP14A and ribosome biogenesis (Boneberg2019Molecular). This CTD is distinct to DHX37 orthologs and projects away from the helicase core, likely being conformationally dynamic in solution (Boneberg2019Molecular). The helicase core domains align with an RMSD of 1.03 Å over 659 Cα atoms, and the CTD domains align with an RMSD of 0.45 Å over 127 Cα atoms, indicating structural precision (Boneberg2019Molecular).
+
+The ATPase active site of DHX37 is in an open conformation, with conserved motifs involved in ATP and Mg2+ coordination, which are incompatible with high-affinity ATP binding (Boneberg2019Molecular). The protein's structure suggests a mechanism for ATP-dependent 3'-5' RNA translocation (Boneberg2019Molecular).
+
+## Function
+The DHX37 gene encodes a DEAH-box RNA helicase that plays a crucial role in ribosome biogenesis, particularly in the maturation of the small ribosomal subunit (SSU) in human cells. DHX37 is involved in the processing of pre-rRNA, specifically the conversion of 21S pre-rRNA to 18SE pre-rRNA, a critical step in the formation of the mature 18S rRNA and the assembly of the 40S ribosomal subunit (1 page 13 of 30; 1 page 16 of 30). 
+
+DHX37 functions by interacting with U3 small nucleolar RNA (snoRNA) and is essential for its release from pre-ribosomal particles. This release is necessary for the formation of the central pseudoknot structure of the 18S rRNA, a key feature of the SSU (1 page 26 of 30; 1 page 17 of 30). The helicase activity of DHX37 is activated by the ribosome biogenesis factor UTP14A, which enhances its ATPase activity and RNA binding, facilitating the processivity of the helicase (Boneberg2019Molecular).
+
+In the absence of DHX37, pre-ribosomal particles are targeted for degradation, indicating its role in a quality control mechanism during ribosome assembly (1 page 11 of 30). DHX37 is primarily active in the nucleolus, where it contributes to the assembly and maturation of ribosomal RNA, impacting protein synthesis and cellular growth (Silva2018DEAHbox).
+
+## Clinical Significance
+Mutations in the DHX37 gene are associated with disorders of sex development (DSD), particularly 46,XY gonadal dysgenesis (GD) and embryonic testicular regression syndrome (ETRS). These conditions are characterized by abnormal gonadal development and varying degrees of undervirilization of the external genitalia (da2019Genetic; Silva2018DEAHbox). Specific variants such as p.Arg308Gln, p.Arg674Trp, p.Ser595Phe, and p.Thr304Met have been identified in individuals with these conditions, and are often classified as pathogenic or likely pathogenic (Silva2018DEAHbox; da2019Genetic). The p.Arg308Gln variant is notably recurrent and has been found in multiple unrelated families, suggesting its significant role in the etiology of 46,XY GD (Silva2018DEAHbox).
+
+The DHX37 gene is also implicated in neurodevelopmental disorders, such as intellectual disability and craniofacial abnormalities, although the connection to gonadal function is less detailed (de2023DHX37). Variants in DHX37 may exhibit different inheritance patterns, including sex-limited autosomal dominant and de novo occurrences (Silva2018DEAHbox). The gene's expression in testicular cells, such as Sertoli and Leydig cells, supports its role in male gonadal development (de2023DHX37).
+
+## Interactions
+DHX37, a DEAH-box RNA helicase, is involved in ribosome biogenesis and interacts with several proteins and nucleic acids. It directly interacts with UTP14A, a protein that stimulates its ATPase activity, enhancing RNA binding and facilitating the removal of U3 snoRNA from pre-ribosomal particles. This interaction is crucial for the maturation of the 40S ribosomal subunit and is mediated by a conserved motif in UTP14A, which is distinct from the DEAH-interacting motif found in G-patch proteins (Boneberg2019Molecular).
+
+DHX37 also associates with U3 snoRNA, binding near the 3' hinge region, which is essential for the dissociation of U3 snoRNA from pre-ribosomes. This interaction is critical for the proper cleavage events within the 5' ETS and ITS1, leading to the formation of mature 18S rRNA (1 page 11 of 30; 1 page 26 of 30). The interaction with UTP14A is RNA-independent, as demonstrated by immunoprecipitation assays showing that UTP14A co-precipitates with DHX37 even after RNase treatment (1 page 15 of 30).
+
+DHX37's interaction with UTP14A is conserved from yeast to humans, although it does not co-precipitate with the Bud23 orthologue WBSCR22 in humans, likely due to structural differences (1 page 17 of 30).
+
+
+## References
+
+
+[1. (Wan2023A) Yun Wan, Richeng Yu, Jianhua Luo, Ping Huang, Xingju Zheng, Liqun Sun, and Kui Hu. A novel deah-box helicase 37 mutation associated with differences of sex development. Frontiers in Endocrinology, March 2023. URL: http://dx.doi.org/10.3389/fendo.2023.1059159, doi:10.3389/fendo.2023.1059159. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fendo.2023.1059159)
+
+[2. (de2023DHX37) Felipe Rodrigues de Oliveira, Taís Nitsch Mazzola, Maricilda Palandi de Mello, Ana Paula Francese-Santos, Sofia Helena V. de Lemos-Marini, Andrea Trevas Maciel-Guerra, Olaf Hiort, Ralf Werner, Gil Guerra-Junior, and Helena Fabbri-Scallet. Dhx37 and nr5a1 variants identified in patients with 46,xy partial gonadal dysgenesis. Life, 13(5):1093, April 2023. URL: http://dx.doi.org/10.3390/life13051093, doi:10.3390/life13051093. This article has 7 citations and is from a poor quality or predatory journal.](https://doi.org/10.3390/life13051093)
+
+[3. (da2019Genetic) Thatiana Evilen da Silva, Nathalia Lisboa Gomes, Antonio Marcondes Lerário, Catherine Elizabeth Keegan, Mirian Yumi Nishi, Filomena Marino Carvalho, Eric Vilain, Hayk Barseghyan, Alejandro Martinez-Aguayo, María Verónica Forclaz, Regina Papazian, Leila Cristina Pedroso de Paula, Eduardo Corrêa Costa, Luciani Renata Carvalho, Alexander Augusto Lima Jorge, Felipe Martins Elias, Rod Mitchell, Elaine Maria Frade Costa, Berenice Bilharinho Mendonca, and Sorahia Domenice. Genetic evidence of the association of deah-box helicase 37 defects with 46,xy gonadal dysgenesis spectrum. The Journal of Clinical Endocrinology &amp; Metabolism, 104(12):5923–5934, July 2019. URL: http://dx.doi.org/10.1210/jc.2019-00984, doi:10.1210/jc.2019-00984. This article has 42 citations.](https://doi.org/10.1210/jc.2019-00984)
+
+4. (Silva2018DEAHbox) DEAH-box helicase 37 (DHX37) defects are a novel molecular etiology of 46,XY gonadal dysgenesis spectrum. This article has 0 citations.
+
+[5. (Boneberg2019Molecular) Franziska M. Boneberg, Tobias Brandmann, Lena Kobel, Jasmin van den Heuvel, Katja Bargsten, Lukas Bammert, Ulrike Kutay, and Martin Jinek. Molecular mechanism of the rna helicase dhx37 and its activation by utp14a in ribosome biogenesis. RNA, 25(6):685–701, March 2019. URL: http://dx.doi.org/10.1261/rna.069609.118, doi:10.1261/rna.069609.118. This article has 36 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.069609.118)

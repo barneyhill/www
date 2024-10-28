@@ -1,0 +1,50 @@
+# SMG8
+
+## Overview
+SMG8 is a gene that encodes the SMG8 nonsense mediated mRNA decay factor, a protein integral to the nonsense-mediated mRNA decay (NMD) pathway. This pathway is essential for the degradation of mRNAs containing premature stop codons, thereby preventing the synthesis of potentially deleterious truncated proteins. The SMG8 protein is a regulatory component of the SMG1:SMG8:SMG9 complex, where it plays a critical role in modulating the kinase activity of SMG1, particularly in the phosphorylation of UPF1, a pivotal step in NMD. Structurally, SMG8 features an N-terminal G-like domain and a C-terminal kinase inhibitory domain (KID), which is crucial for inhibiting SMG1's kinase activity. The protein's interaction with SMG9 is vital for the structural integrity and function of the SMG1 complex. Mutations in the SMG8 gene have been linked to developmental disorders and cancer, highlighting its significance in maintaining cellular homeostasis and response to DNA damage (Yamashita2009SMG8; Zhu2019CryoEM; LlorcaCardenosa2022SMG8SMG9).
+
+## Structure
+The SMG8 protein is a component of the nonsense-mediated mRNA decay (NMD) pathway and forms a complex with SMG9 and SMG1. Structurally, SMG8 contains an N-terminal G-like domain followed by a helical stalk composed of a three-helix bundle (Zhu2019CryoEM; Langer2021CryoEM). The G-like domain of SMG8 does not directly contact SMG1, but it interacts with SMG9 through extensive hydrophobic contacts, forming a pseudo-symmetric dimer (Zhu2019CryoEM). 
+
+The SMG8 protein also features a C-terminal kinase inhibitory domain (KID), which plays a crucial role in inhibiting the kinase activity of SMG1 by covering its catalytic pocket (Zhu2019CryoEM). This inhibition is supported by the interaction between the SMG8 C-terminus and the SMG1 insertion domain, which stabilizes an autoinhibited state of SMG1 (Langer2021CryoEM). 
+
+In terms of quaternary structure, SMG8 forms a G-domain heterodimer with SMG9, which is essential for the assembly and regulation of the SMG1-SMG8-SMG9 complex (Li2017Structure; Zhu2019CryoEM). The interaction between SMG8 and SMG9 is crucial for the structural integrity and function of the SMG1C complex (AriasPalomo2011The).
+
+## Function
+The SMG8 gene encodes a protein that is a crucial component of the nonsense-mediated mRNA decay (NMD) pathway, which is responsible for degrading mRNAs containing premature stop codons. This process prevents the production of truncated and potentially harmful proteins, maintaining mRNA quality control and proper gene expression in healthy human cells (Yamashita2009SMG8; Kueckelmann2024SMG1:SMG8:SMG9complex).
+
+SMG8 functions as part of the SMG1:SMG8:SMG9 complex, where it plays a regulatory role in the phosphorylation of UPF1, a key step in the NMD pathway. SMG8, along with SMG9, regulates the kinase activity of SMG1, ensuring that UPF1 is phosphorylated only when necessary, thus maintaining the specificity and efficiency of NMD (Yamashita2009SMG8; Zhu2019CryoEM). SMG8's kinase inhibitory domain stabilizes SMG1 in an autoinhibited state, preventing its hyper-activation (Langer2021CryoEM).
+
+In the absence of SMG8, the robustness of the NMD process is compromised, leading to inefficient degradation of some NMD substrates and potential accumulation of NMD factors on mRNA (Kueckelmann2024SMG1:SMG8:SMG9complex). SMG8 is primarily active in the cytoplasm, where it participates in the surveillance of mRNA translation (Yamashita2009SMG8).
+
+## Clinical Significance
+Mutations in the SMG8 gene have been implicated in various clinical conditions. Recessive, deleterious variants in SMG8 are associated with developmental disorders in humans. These mutations can disrupt the nonsense-mediated mRNA decay (NMD) pathway, leading to the accumulation of mRNAs with premature stop codons, which may result in the production of truncated and potentially harmful proteins (Alzahrani2020Recessive).
+
+In the context of cancer, particularly gastric cancer, alterations in SMG8 expression or function have been linked to resistance against ATR inhibitors (ATRi), which are used in cancer therapy. Loss-of-function mutations in SMG8, often in conjunction with SMG9, lead to ATRi resistance by modulating the SMG1 kinase, a key player in the DNA damage response and NMD pathways. This resistance is characterized by altered cell-cycle dynamics and reduced DNA damage responses, which allow cancer cells to bypass the effects of ATR inhibitors (LlorcaCardenosa2022SMG8SMG9).
+
+The SMG8 gene's role in regulating the SMG1 kinase activity is crucial for maintaining proper cellular responses to DNA damage and replication stress, and its dysregulation can contribute to the development and progression of certain cancers (Yamashita2009SMG8; AriasPalomo2011The).
+
+## Interactions
+SMG8 is a component of the SMG1 complex (SMG1C), which also includes SMG1 and SMG9. SMG8 and SMG9 form a stable complex with SMG1, as demonstrated by coimmunoprecipitation experiments (Yamashita2009SMG8). SMG8 interacts physically with SMG9, forming a pseudo-symmetric dimer mediated by extensive hydrophobic contacts and hydrogen bonds (Zhu2019CryoEM). This interaction is crucial for the stable association of SMG8-SMG9 with SMG1, and SMG9 is central to the assembly of the SMG1-SMG8-SMG9 complex (Zhu2019CryoEM).
+
+SMG8 is involved in the regulation of SMG1 kinase activity. It has a C-terminal kinase inhibitory domain (KID) that covers the catalytic pocket of SMG1, inhibiting its kinase activity. This inhibition is relieved upon GTP hydrolysis by SMG9, which causes a conformational change in the complex (Zhu2019CryoEM). SMG8 also interacts with ribosomal proteins and the exon junction complex (EJC), playing a role in recruiting the SMG1C to ribosomes stalled at premature termination codons (PTCs) (Yamashita2009SMG8). The interaction between SMG8 and SMG9 is essential for the solubility and function of SMG8, as it is insoluble when expressed in isolation (Li2017Structure).
+
+
+## References
+
+
+[1. (Zhu2019CryoEM) Li Zhu, Liang Li, Yilun Qi, Zishuo Yu, and Yanhui Xu. Cryo-em structure of smg1–smg8–smg9 complex. Cell Research, 29(12):1027–1034, November 2019. URL: http://dx.doi.org/10.1038/s41422-019-0255-3, doi:10.1038/s41422-019-0255-3. This article has 31 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41422-019-0255-3)
+
+[2. (LlorcaCardenosa2022SMG8SMG9) Marta J. Llorca-Cardenosa, Lauren I. Aronson, Dragomir B. Krastev, Jadwiga Nieminuszczy, John Alexander, Feifei Song, Malgorzata Dylewska, Ronan Broderick, Rachel Brough, Astrid Zimmermann, Frank T. Zenke, Bora Gurel, Ruth Riisnaes, Ana Ferreira, Theodoros Roumeliotis, Jyoti Choudhary, Stephen J. Pettitt, Johann de Bono, Andres Cervantes, Syed Haider, Wojciech Niedzwiedz, Christopher J. Lord, and Irene Y. Chong. Smg8/smg9 heterodimer loss modulates smg1 kinase to drive atr inhibitor resistance. Cancer Research, 82(21):3962–3973, October 2022. URL: http://dx.doi.org/10.1158/0008-5472.can-21-4339, doi:10.1158/0008-5472.can-21-4339. This article has 6 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-21-4339)
+
+3. (Langer2021CryoEM) Cryo-EM reconstructions of inhibitor-bound SMG1 kinase reveal an autoinhibitory state dependent on SMG8. This article has 1 citations.
+
+4. (Kueckelmann2024SMG1:SMG8:SMG9complex) SMG1:SMG8:SMG9-complex integrity maintains robustness of nonsense-mediated mRNA decay. This article has 0 citations.
+
+[5. (Li2017Structure) Liang Li, Mahesh Lingaraju, Claire Basquin, Jérome Basquin, and Elena Conti. Structure of a smg8–smg9 complex identifies a g-domain heterodimer in the nmd effector proteins. RNA, 23(7):1028–1034, April 2017. URL: http://dx.doi.org/10.1261/rna.061200.117, doi:10.1261/rna.061200.117. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.061200.117)
+
+[6. (Yamashita2009SMG8) Akio Yamashita, Natsuko Izumi, Isao Kashima, Tetsuo Ohnishi, Bonnie Saari, Yukiko Katsuhata, Reiko Muramatsu, Tomoko Morita, Akihiro Iwamatsu, Takahisa Hachiya, Rie Kurata, Hisashi Hirano, Philip Anderson, and Shigeo Ohno. Smg-8 and smg-9, two novel subunits of the smg-1 complex, regulate remodeling of the mrna surveillance complex during nonsense-mediated mrna decay. Genes &amp; Development, 23(9):1091–1105, May 2009. URL: http://dx.doi.org/10.1101/gad.1767209, doi:10.1101/gad.1767209. This article has 208 citations.](https://doi.org/10.1101/gad.1767209)
+
+[7. (AriasPalomo2011The) Ernesto Arias-Palomo, Akio Yamashita, Israel S. Fernández, Rafael Núñez-Ramírez, Yumi Bamba, Natsuko Izumi, Shigeo Ohno, and Oscar Llorca. The nonsense-mediated mrna decay smg-1 kinase is regulated by large-scale conformational changes controlled by smg-8. Genes &amp; Development, 25(2):153–164, January 2011. URL: http://dx.doi.org/10.1101/gad.606911, doi:10.1101/gad.606911. This article has 74 citations.](https://doi.org/10.1101/gad.606911)
+
+[8. (Alzahrani2020Recessive) Fatema Alzahrani, Hiroyuki Kuwahara, Yongkang Long, Mohammed Al-Owain, Mohamed Tohary, Moeenaldeen AlSayed, Mohammed Mahnashi, Lana Fathi, Maha Alnemer, Mohamed H. Al-Hamed, Gabrielle Lemire, Kym M. Boycott, Mais Hashem, Wenkai Han, Almundher Al-Maawali, Feisal Al Mahrizi, Khalid Al-Thihli, Xin Gao, and Fowzan S. Alkuraya. Recessive, deleterious variants in smg8 expand the role of nonsense-mediated decay in developmental disorders in humans. The American Journal of Human Genetics, 107(6):1178–1185, December 2020. URL: http://dx.doi.org/10.1016/j.ajhg.2020.11.007, doi:10.1016/j.ajhg.2020.11.007. This article has 21 citations.](https://doi.org/10.1016/j.ajhg.2020.11.007)

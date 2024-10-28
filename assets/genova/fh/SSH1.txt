@@ -1,0 +1,54 @@
+# SSH1
+
+## Overview
+SSH1 (slingshot protein phosphatase 1) is a gene that encodes a protein phosphatase involved in the regulation of actin dynamics within cells. The protein product of SSH1, slingshot protein phosphatase 1, is a critical component in cellular processes such as motility, division, and morphology, primarily through its role in dephosphorylating and activating cofilin, an actin-binding protein. This dephosphorylation is essential for actin filament turnover and reorganization, which are vital for cell migration and chemotaxis (Mizuno2013Signaling; Huang2006Cofilin). SSH1 is categorized as a phosphatase and is known to interact with various proteins, including cofilin and Lim kinase-1, to modulate actin dynamics and cellular signaling pathways (RodaNavarro2024Tcell; Bielig2014The). The gene's expression and mutations have been linked to several clinical conditions, including disseminated superficial actinic porokeratosis, colorectal cancer, and neurodegenerative diseases, highlighting its significance in both normal cellular function and disease pathogenesis (Fang2020SSH1; Song2020Role; Zhang2004Fine).
+
+## Structure
+The SSH1 (slingshot protein phosphatase 1) gene encodes a protein that features several distinct regions contributing to its function. SSH1 contains an N-terminal phospho-cofilin (p-CFL) binding site, a catalytic domain (CAT), and a sizable C-terminal region of unknown function. The N-terminal region is crucial for binding to phosphorylated cofilin, while the catalytic domain is responsible for its phosphatase activity. The C-terminal region, although not fully characterized, is not necessary for the dephosphorylation of cofilin (Fang2020SSH1).
+
+SSH1 can exist in different splice variant forms, such as SSH1ΔC, which includes the N-terminal 461 residues but lacks the C-terminal residues 462-1049, and SSH1ΔN, which lacks the N-terminal 307 amino acids but retains the catalytic domain and C-terminal region. These variants demonstrate that the catalytic activity of SSH1 is modular, with SSH1ΔN being able to dephosphorylate p-Ser403-SQSTM1 but not p-Ser3-CFL, indicating that different domains are responsible for specific substrate interactions (Fang2020SSH1).
+
+Post-translational modifications, such as phosphorylation, play a role in SSH1's activity, particularly in its interaction with substrates like SQSTM1 and cofilin (Fang2020SSH1).
+
+## Function
+SSH1 (slingshot protein phosphatase 1) is a critical regulator of actin dynamics in healthy human cells. It functions primarily by dephosphorylating and activating cofilin, a key actin-binding protein, which is essential for actin filament turnover and reorganization. This activity is crucial for various cellular processes, including cell motility, division, and morphology (Mizuno2013Signaling; Huang2006Cofilin).
+
+SSH1 is involved in the spatial and temporal regulation of cofilin activity, particularly in the lamellipodium, the leading edge of migrating cells. This regulation is vital for directional cell migration and chemotaxis, as SSH1 dephosphorylates cofilin, promoting actin filament turnover and maintaining polarized cell morphology (Mizuno2013Signaling; Nishita2005Spatial).
+
+SSH1's activity is modulated by its interaction with 14-3-3 proteins, which sequester it in the cytoplasm when phosphorylated. Upon stimulation, SSH1 is released and translocates to F-actin-rich regions, where it becomes activated and enhances cofilin activity (Mizuno2013Signaling; Kim2009Reactive). This process is essential for the formation and maintenance of the lamellipodium, contributing to effective cell migration (Mizuno2013Signaling).
+
+## Clinical Significance
+Mutations and alterations in the SSH1 gene have been implicated in several diseases and conditions. In disseminated superficial actinic porokeratosis (DSAP), mutations in SSH1, such as the missense mutation p.Ser63Asn and frameshift mutations p.Ser19CysfsX24 and p.Pro27ProfsX54, have been identified. These mutations are associated with keratotic lesions on sun-exposed skin and may occasionally lead to squamous cell carcinoma (Zhang2004Fine).
+
+In colorectal cancer (CRC), higher expression levels of SSH1 correlate with poor prognosis and advanced tumor stages. SSH1 promotes tumor progression and metastasis by influencing epithelial-mesenchymal transition (EMT) markers, which are crucial for cancer cell migration and invasion (Song2020Role).
+
+SSH1 is also involved in neurodegenerative diseases, such as Alzheimer's disease and tauopathies. It impairs the autophagic clearance of misfolded proteins by dephosphorylating SQSTM1/p62, leading to the accumulation of toxic protein assemblies. This activity is linked to the pathogenesis of conditions characterized by defective autophagy and protein aggregation (Fang2020SSH1).
+
+## Interactions
+SSH1 (slingshot protein phosphatase 1) is involved in several critical protein interactions that regulate actin dynamics and cellular signaling pathways. SSH1 interacts with cofilin, a key actin depolymerization factor, by dephosphorylating and activating it, which is essential for actin filament turnover and cell motility (RodaNavarro2024Tcell; Bielig2014The). This interaction is crucial for the regulation of actin dynamics during T-cell activation and synaptic contact formation (RodaNavarro2024Tcell).
+
+SSH1 also interacts with Lim kinase-1 (Limk1), a kinase that phosphorylates and inactivates cofilin. SSH1 counteracts Limk1's activity by dephosphorylating cofilin, thus promoting actin filament depolymerization (RodaNavarro2024Tcell). This interaction is vital for T-cell receptor (TCR) signaling and the formation of synaptic contacts (RodaNavarro2024Tcell).
+
+In the context of NOD1-mediated signaling, SSH1 forms a complex with NOD1 at F-actin-rich sites, which is important for inflammatory responses. This interaction is independent of SSH1's phosphatase activity, suggesting a structural role in recruiting NOD1 to actin structures (Bielig2014The). SSH1's involvement in these interactions highlights its role in linking actin cytoskeleton dynamics to immune signaling pathways.
+
+
+## References
+
+
+[1. (Fang2020SSH1) Cenxiao Fang, Jung-A A. Woo, Tian Liu, Xingyu Zhao, Sara Cazzaro, Yan Yan, Jenet Matlack, Teresa Kee, Patrick LePochat, and David E. Kang. Ssh1 impedes sqstm1/p62 flux and mapt/tau clearance independent of cfl (cofilin) activation. Autophagy, 17(9):2144–2165, October 2020. URL: http://dx.doi.org/10.1080/15548627.2020.1816663, doi:10.1080/15548627.2020.1816663. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2020.1816663)
+
+[2. (Song2020Role) Xiangping Song, Di Xie, Xiao Xia, Fengbo Tan, Qian Pei, Yuqiang Li, Zhongyi Zhou, Yuan Zhou, Chenglong Li, Kangtao Wang, and Haiping Pei. Role of ssh1 in colorectal cancer prognosis and tumor progression. Journal of Gastroenterology and Hepatology, 35(7):1180–1188, February 2020. URL: http://dx.doi.org/10.1111/jgh.15001, doi:10.1111/jgh.15001. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/jgh.15001)
+
+[3. (Zhang2004Fine) Zhenghua Zhang, Zhenmin Niu, Wentao Yuan, Weida Liu, Leihong Xiang, Jing Zhang, Xun Chu, Jingjun Zhao, Faxing Jiang, Bao Chai, Fan Cui, Ying Wang, Kaiyue Zhang, Yi Wang, Shijie Xu, Longqing Xia, Jun Gu, Shoumin Zhang, Xuemei Meng, Shuxia Wang, Shunqiang Gao, Min Fan, Lei Nie, Zhizhong Zheng, and Wei Huang. Fine mapping and identification of a candidate genessh1 in disseminated superficial actinic porokeratosis. Human Mutation, 24(5):438–438, 2004. URL: http://dx.doi.org/10.1002/humu.9283, doi:10.1002/humu.9283. This article has 28 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.9283)
+
+[4. (Bielig2014The) Harald Bielig, Katja Lautz, Peter R. Braun, Maureen Menning, Nikolaus Machuy, Christine Brügmann, Sandra Barisic, Stephan A. Eisler, Maria Andree, Birte Zurek, Hamid Kashkar, Philippe J. Sansonetti, Angelika Hausser, Thomas F. Meyer, and Thomas A. Kufer. The cofilin phosphatase slingshot homolog 1 (ssh1) links nod1 signaling to actin remodeling. PLoS Pathogens, 10(9):e1004351, September 2014. URL: http://dx.doi.org/10.1371/journal.ppat.1004351, doi:10.1371/journal.ppat.1004351. This article has 46 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.ppat.1004351)
+
+[5. (Kim2009Reactive) Jun-Sub Kim, Timothy Y. Huang, and Gary M. Bokoch. Reactive oxygen species regulate a slingshot-cofilin activation pathway. Molecular Biology of the Cell, 20(11):2650–2660, June 2009. URL: http://dx.doi.org/10.1091/mbc.e09-02-0131, doi:10.1091/mbc.e09-02-0131. This article has 156 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e09-02-0131)
+
+6. (RodaNavarro2024Tcell) T-cell receptor triggering requires inactivation of Lim kinase-1 by Slingshot-1 phosphatase. This article has 0 citations.
+
+[7. (Nishita2005Spatial) Michiru Nishita, Chinatsu Tomizawa, Masahiro Yamamoto, Yuji Horita, Kazumasa Ohashi, and Kensaku Mizuno. Spatial and temporal regulation of cofilin activity by lim kinase and slingshot is critical for directional cell migration. The Journal of Cell Biology, 171(2):349–359, October 2005. URL: http://dx.doi.org/10.1083/jcb.200504029, doi:10.1083/jcb.200504029. This article has 179 citations.](https://doi.org/10.1083/jcb.200504029)
+
+[8. (Mizuno2013Signaling) Kensaku Mizuno. Signaling mechanisms and functional roles of cofilin phosphorylation and dephosphorylation. Cellular Signalling, 25(2):457–469, February 2013. URL: http://dx.doi.org/10.1016/j.cellsig.2012.11.001, doi:10.1016/j.cellsig.2012.11.001. This article has 303 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2012.11.001)
+
+[9. (Huang2006Cofilin) Timothy Y Huang, Céline DerMardirossian, and Gary M Bokoch. Cofilin phosphatases and regulation of actin dynamics. Current Opinion in Cell Biology, 18(1):26–31, February 2006. URL: http://dx.doi.org/10.1016/j.ceb.2005.11.005, doi:10.1016/j.ceb.2005.11.005. This article has 440 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ceb.2005.11.005)

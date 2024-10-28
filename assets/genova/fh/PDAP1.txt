@@ -1,0 +1,39 @@
+# PDAP1
+
+## Overview
+PDAP1, or PDGFA-associated protein 1, is a gene that encodes a noncanonical RNA-binding protein involved in various cellular processes, particularly in the immune system. The protein encoded by PDAP1 plays a critical role in regulating cellular homeostasis and immune responses, particularly in B and T lymphocytes. In B cells, PDAP1 is essential for the expression of Activation-Induced Cytidine Deaminase (AID), facilitating processes such as class switch recombination and somatic hypermutation, which are crucial for antibody diversification (DelgadoBenito2020PDGFAassociated). In T cells, PDAP1 influences proliferation and activation by interacting with miR-150 and various transcripts, despite lacking recognizable RNA-binding domains (Chirichella2022RFX). Additionally, PDAP1 is implicated in cancer biology, particularly in gliomas, where it interacts with PDGF-B to promote tumor cell survival and proliferation (Sharma2016Increased).
+
+## Function
+PDAP1 (PDGFA-associated protein 1) is a crucial regulator of cellular homeostasis in mature B lymphocytes. It plays a significant role in protecting these cells from stress-induced apoptosis and is essential for antibody gene diversification. PDAP1 supports the expression of Activation-Induced Cytidine Deaminase (AID), which is vital for class switch recombination (CSR) and somatic hypermutation (SHM), processes necessary for effective antibody diversification. PDAP1 deficiency leads to impaired AID expression, reduced CSR efficiency, and decreased germinal center B cell formation, ultimately compromising the immune response (DelgadoBenito2020PDGFAassociated).
+
+In T cells, PDAP1 is involved in regulating proliferation through its interaction with miR-150. It acts as an RNA-binding protein, influencing the stability and expression of various transcripts crucial for T-cell activation and metabolism. PDAP1's expression is modulated by miR-150, and its reduction leads to decreased T-cell proliferation, highlighting its role in cell growth and differentiation (Chirichella2022RFX).
+
+PDAP1 is primarily active in the cytoplasm and is associated with the plasma membrane. It lacks recognizable RNA-binding domains, which is common among noncanonical RNA-binding proteins, suggesting a complex regulatory role in cellular processes (Chirichella2022RFX).
+
+## Clinical Significance
+Alterations in the expression of PDAP1 (PDGFA associated protein 1) have been implicated in various diseases, particularly in cancer. In gliomas, increased expression of PDAP1 is associated with tumor progression. Studies have shown that PDAP1 is significantly upregulated in grade IV gliomas compared to grade III, suggesting its role in enhancing malignancy. PDAP1 interacts with PDGF-B, a key factor in glioma cell survival and proliferation, and its knockdown leads to reduced expression of PDGF-B and downstream signaling components, such as Akt1 and PDK1. This indicates that PDAP1 is crucial for PDGF-mediated signaling pathways in glioma progression (Sharma2016Increased).
+
+In the context of B cell function, PDAP1 is essential for efficient somatic hypermutation and class switch recombination, processes critical for antibody diversification. PDAP1 deficiency results in reduced activation-induced cytidine deaminase (AID) expression, leading to impaired antibody diversification and increased stress-induced apoptosis in B cells. This suggests that PDAP1 plays a protective role in B cell homeostasis and function, and its deficiency could impact immune responses (DelgadoBenito2020PDGFAassociated; DelgadoBenito2020Pdap1).
+
+In T cells, PDAP1 is involved in regulating proliferation and activation. Its expression is modulated by miR-150, and deletion of PDAP1 leads to reduced proliferation, highlighting its role in T-cell biology (Chirichella2022RFX).
+
+## Interactions
+PDAP1 (PDGFA associated protein 1) is involved in several interactions with proteins and nucleic acids that influence cellular processes. In T-cells, PDAP1 functions as an RNA-binding protein (RBP), interacting with various transcripts involved in T-cell activation and proliferation, such as CBL, NOTCH factors, and PRKCA. These interactions suggest a role in posttranscriptional regulation of mRNA stability and possibly translational control (Chirichella2022RFX).
+
+In glioma cells, PDAP1 physically interacts with PDGF-B (Platelet-Derived Growth Factor B), a key player in cell signaling. This interaction is confirmed through co-immunoprecipitation assays and surface plasmon resonance (SPR) analysis, indicating that PDAP1 is crucial for PDGF signaling, which promotes glioma cell survival and proliferation (Sharma2016Increased).
+
+In the context of acute lymphoblastic leukemia (ALL), PDAP1 is part of a network involving STAT6, ERK, and NFKB, which is associated with cell survival and apoptosis resistance. Knockdown studies suggest a co-dependent relationship between PDAP1 and STAT6, with PDAP1 knockdown enhancing sensitivity to certain chemotherapy agents (Weston2018Synergistic).
+
+
+## References
+
+
+[1. (Sharma2016Increased) Vinay Kumar Sharma, Anand Singh, Sandeep Kumar Srivastava, Vignesh Kumar, Nilesh Laxman Gardi, Aasma Nalwa, Amit Kumar Dinda, Parthaprasad Chattopadhyay, and Savita Yadav. Increased expression of platelet-derived growth factor associated protein-1 is associated with pdgf-b mediated glioma progression. The International Journal of Biochemistry &amp; Cell Biology, 78:194–205, September 2016. URL: http://dx.doi.org/10.1016/j.biocel.2016.07.016, doi:10.1016/j.biocel.2016.07.016. This article has 7 citations.](https://doi.org/10.1016/j.biocel.2016.07.016)
+
+[2. (DelgadoBenito2020PDGFAassociated) Verónica Delgado-Benito, Maria Berruezo-Llacuna, Robert Altwasser, Wiebke Winkler, Devakumar Sundaravinayagam, Sandhya Balasubramanian, Marieta Caganova, Robin Graf, Ali Rahjouei, Marie-Thérèse Henke, Madlen Driesner, Lisa Keller, Alessandro Prigione, Martin Janz, Altuna Akalin, and Michela Di Virgilio. Pdgfa-associated protein 1 protects mature b lymphocytes from stress-induced cell death and promotes antibody gene diversification. Journal of Experimental Medicine, July 2020. URL: http://dx.doi.org/10.1084/jem.20200137, doi:10.1084/jem.20200137. This article has 7 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1084/jem.20200137)
+
+3. (DelgadoBenito2020Pdap1) Pdap1 protects mature B lymphocytes from stress-induced cell death and promotes antibody gene diversification. This article has 0 citations.
+
+[4. (Weston2018Synergistic) Victoria J. Weston, Wenbin Wei, Tatjana Stankovic, and Pamela Kearns. Synergistic action of dual igf1/r and mek inhibition sensitizes childhood acute lymphoblastic leukemia (all) cells to cytotoxic agents and involves downregulation of stat6 and pdap1. Experimental Hematology, 63:52-63.e5, July 2018. URL: http://dx.doi.org/10.1016/j.exphem.2018.04.002, doi:10.1016/j.exphem.2018.04.002. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.exphem.2018.04.002)
+
+[5. (Chirichella2022RFX) Michele Chirichella, Niccolò Bianchi, Emina Džafo, Elena Foli, Francesco Gualdrini, Amy Kenyon, Gioacchino Natoli, and Silvia Monticelli. Rfx transcription factors control a mir-150/pdap1 axis that restrains the proliferation of human t cells. PLOS Biology, 20(2):e3001538, February 2022. URL: http://dx.doi.org/10.1371/journal.pbio.3001538, doi:10.1371/journal.pbio.3001538. This article has 5 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.3001538)

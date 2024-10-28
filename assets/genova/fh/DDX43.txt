@@ -1,0 +1,30 @@
+# DDX43
+
+## Overview
+DDX43 is a gene that encodes the protein DEAD-box helicase 43, a member of the DEAD-box family of RNA helicases. These proteins are characterized by the conserved motif Asp-Glu-Ala-Asp (DEAD) and are involved in various aspects of RNA metabolism, including RNA splicing, ribosome biogenesis, and RNA decay. DEAD-box helicase 43 is particularly noted for its role in chromatin remodeling and its interactions with RNA G-quadruplexes, which are structures that can form in nucleic acids. The gene is of significant interest in cancer research due to its overexpression in several types of cancer, such as chronic myeloid leukemia and breast cancer, where it influences tumor progression and cell survival. Additionally, DDX43 is essential in spermiogenesis, where it contributes to chromatin dynamics and male fertility (Amer2022DDX43; Tan2022SingleCell; Lin2018Arresting).
+
+## Clinical Significance
+DDX43 is implicated in various cancers due to its overexpression and interactions with other molecular pathways. In chronic myeloid leukemia (CML), DDX43 is overexpressed, enhancing cell survival and inhibiting apoptosis, which promotes tumorigenesis and disease progression. Silencing DDX43 in CML cell lines reduces these effects, indicating its potential as a therapeutic target. DDX43 also regulates the expression of the long non-coding RNA H19 through demethylation and is targeted by miR-186, a tumor suppressor. Overexpression of miR-186 increases apoptosis, suggesting a complex regulatory network involving DDX43 in CML (Lin2018Arresting).
+
+In breast cancer, DDX43 expression levels vary with tumor characteristics. Lower serum DDX43 protein levels are associated with more aggressive tumor features, such as invasive ductal carcinoma, while higher mRNA expression correlates with higher tumor grades and triple-negative breast cancer phenotypes. These findings suggest that DDX43 could serve as a biomarker for breast cancer prognosis and treatment (Amer2022DDX43).
+
+In spermiogenesis, DDX43 is crucial for chromatin remodeling. Mutations in DDX43 lead to defects in spermatid development and male infertility, highlighting its role in chromatin dynamics and male germline development (Tan2022SingleCell).
+
+## Interactions
+DDX43, a member of the DEAD-box helicase family, is involved in various cellular processes through its interactions with other proteins and nucleic acids. The protein is known to interact with Sarcoma antigen 1 (SAGE1), Melanoma-associated antigen 1 (MAGEA1), and DEAD-box helicase 53 (DDX53), as predicted by the STRING database with high confidence. These interactions are supported by evidence such as co-expression, co-mention in PubMed abstracts, and co-occurrence across genomes (Amer2022DDX43).
+
+DDX43 and DDX53, both RNA helicases, share a 62% sequence similarity, suggesting functional similarities and potential interactions. The study also notes that DDX43 interacts with DHX15, indicating that these interactions, along with the tumor environment, may influence the activity of cancer-related DEAD-box proteins (Amer2022DDX43).
+
+In addition to protein interactions, DDX43 is associated with RNA G-quadruplexes (rG4s) through the Novel Interesting Quadruplex Interaction (NIQI) motif, which is linked to RNA binding capabilities. This motif is found in many RNA helicases, including DDX43, suggesting a potential role in rG4-related functions (Dupas2021Predicting). However, specific details on the physical interactions of DDX43 with nucleic acids remain to be fully elucidated.
+
+
+## References
+
+
+1. (Amer2022DDX43) DDX43 mRNA expression and protein levels in relation to clinicopathological profile of breast cancer. This article has 0 citations.
+
+2. (Tan2022SingleCell) Single-Cell RNA-seq Uncovers Dynamic Processes Orchestrated by RNA-Binding Protein DDX43 in Chromatin Remodeling during Spermiogenesis. This article has 0 citations.
+
+[3. (Lin2018Arresting) J. Lin, J.-C. Ma, J. Yang, J.-Y. Yin, X.-X. Chen, H. Guo, X.-M. Wen, T.-J. Zhang, W. Qian, J. Qian, and Z.-Q. Deng. Arresting of mir-186 and releasing of h19 by ddx43 facilitate tumorigenesis and cml progression. Oncogene, 37(18):2432–2443, February 2018. URL: http://dx.doi.org/10.1038/s41388-018-0146-y, doi:10.1038/s41388-018-0146-y. This article has 27 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-018-0146-y)
+
+[4. (Dupas2021Predicting) Steven J. Dupas, Daniel Gussakovsky, Alvan Wai, Mira J.F. Brown, Georg Hausner, and Sean A. McKenna. Predicting human rna quadruplex helicases through comparative sequence approaches and helicase mrna interactome analyses. Biochemistry and Cell Biology, 99(5):536–553, October 2021. URL: http://dx.doi.org/10.1139/bcb-2020-0590, doi:10.1139/bcb-2020-0590. This article has 1 citations.](https://doi.org/10.1139/bcb-2020-0590)

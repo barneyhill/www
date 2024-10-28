@@ -1,0 +1,44 @@
+# MMADHC
+
+## Overview
+The MMADHC gene encodes a protein that plays a pivotal role in the intracellular metabolism of cobalamin (vitamin B12), a vital nutrient necessary for DNA synthesis and red blood cell formation. The MMADHC protein is integral to the conversion of cobalamin into its active coenzyme forms, methylcobalamin (MeCbl) and adenosylcobalamin (AdoCbl), which are essential for the enzymatic functions of methionine synthase and methylmalonyl-CoA mutase, respectively (Froese2015Structural; Stucki2011Molecular). Structurally, MMADHC is characterized by a modified nitroreductase fold and forms a heterodimeric complex with the MMACHC protein, facilitating the proper trafficking and processing of cobalamin within the cell (Froese2015Structural). Mutations in the MMADHC gene can lead to metabolic disorders such as methylmalonic aciduria and homocystinuria, underscoring its clinical significance in vitamin B12 metabolism (Jusufi2014Characterization; Stucki2011Molecular).
+
+## Structure
+The MMADHC protein is involved in the intracellular trafficking of cobalamin (vitamin B12) and is essential for its conversion into active coenzyme forms. The protein is functionally divided into regions, with the N-terminal 115 amino acids required for mitochondrial trafficking and the C-terminal 180 amino acids contributing to both mitochondrial and cytosolic routes (Froese2015Structural). The C-terminal region of MMADHC, specifically from amino acids 129 to 296, has been structurally characterized, revealing a modified nitroreductase fold with a mixed α/β domain. This domain includes a central four-stranded antiparallel β-sheet flanked by a 14-turn helix and a short β-turn (Froese2015Structural).
+
+The MMADHC protein forms a 1:1 heterodimer complex with the MMACHC protein, which is crucial for cobalamin trafficking. This interaction involves the C-terminal region of MMADHC, specifically amino acids 154-296, and is facilitated by the removal of the upper cobalamin ligand (Froese2015Structural). The protein does not bind FMN/FAD due to structural modifications, such as loop protrusions, which differentiate it from classical nitroreductases (Froese2015Structural). Mutations in the C-terminal region can disrupt the MMACHC-MMADHC interaction, affecting cobalamin metabolism and leading to metabolic disorders (Froese2015Structural).
+
+## Function
+The MMADHC gene encodes a protein that plays a crucial role in the intracellular metabolism of cobalamin (vitamin B12), which is essential for DNA synthesis and red blood cell formation. The MMADHC protein is involved in the synthesis of two active coenzyme forms of vitamin B12: methylcobalamin (MeCbl) and adenosylcobalamin (AdoCbl). These coenzymes are vital for the function of methionine synthase in the cytosol and methylmalonyl-CoA mutase in the mitochondria, respectively (Froese2015Structural; Stucki2011Molecular).
+
+MMADHC functions as a branch point in cobalamin trafficking, directing cobalamin to either the cytosolic or mitochondrial pathways. The protein has distinct functional domains, with the N-terminal region required for mitochondrial targeting and the C-terminal region involved in both mitochondrial and cytosolic pathways (Froese2015Structural; Stucki2011Molecular). The interaction between MMADHC and MMACHC is critical for the proper delivery of cobalamin to its target enzymes, ensuring efficient vitamin B12 metabolism (Froese2015Structural; Plesa2011Interaction).
+
+In healthy human cells, MMADHC facilitates the conversion of cobalamin into its active forms, supporting normal cellular metabolism and function (Stucki2011Molecular).
+
+## Clinical Significance
+Mutations in the MMADHC gene are associated with the cblD type of methylmalonic aciduria and homocystinuria, a rare metabolic disorder affecting vitamin B12 metabolism. This condition can manifest in three distinct phenotypes: isolated methylmalonic aciduria (cblD-MMA), isolated homocystinuria (cblD-HC), and combined methylmalonic aciduria and homocystinuria (cblD-MMA/HC) (Wang2018A; Stucki2011Molecular). 
+
+The specific phenotype depends on the type and location of the mutation within the MMADHC gene. Null mutations N-terminal to Met116 typically result in cblD-MMA due to adenosylcobalamin (AdoCbl) deficiency, while mutations across the C-terminus (p.Y140-R250) lead to cblD-MMA/HC due to deficiencies in both AdoCbl and methylcobalamin (MeCbl) (Jusufi2014Characterization). Missense mutations in a conserved C-terminal region (p.D246-L259) are linked to cblD-HC, characterized by MeCbl deficiency (Jusufi2014Characterization).
+
+Alterations in MMADHC expression or its interactions can disrupt the balance between AdoCbl and MeCbl synthesis, leading to metabolic disorders. The MMADHC protein interacts with MMACHC, and this interaction is crucial for the regulation of cobalamin coenzyme synthesis (Stucki2011Molecular). Understanding these mutations and interactions is essential for diagnosing and treating the associated metabolic disorders.
+
+## Interactions
+The MMADHC protein is involved in intracellular vitamin B12 metabolism and interacts with the MMACHC protein. This interaction is crucial for the trafficking and processing of cobalamin (vitamin B12) into its active forms, methylcobalamin (MeCbl) and adenosylcobalamin (AdoCbl). MMADHC and MMACHC form a 1:1 heterodimeric complex, as supported by small angle X-ray scattering (SAXS) and native mass spectrometry data, which suggest a consistent interface involving the Cbl binding region of MMACHC and specific regions of MMADHC (Froese2015Structural).
+
+The interaction between MMADHC and MMACHC is facilitated by specific amino acid regions on MMADHC, particularly those between amino acids 154-296, with Thr-182 being crucial for the interaction (Froese2015Structural). Mutations in these regions can disrupt the interaction, leading to various cellular defects associated with cobalamin metabolism (Froese2015Structural).
+
+Surface plasmon resonance (SPR) and phage display techniques have identified multiple interaction sites on MMADHC, confirming its binding to MMACHC with mid-nanomolar affinity (Plesa2011Interaction). These interactions are essential for the proper transfer of cobalamin to enzymes like methionine synthase in the cytosolic compartment (Plesa2011Interaction).
+
+
+## References
+
+
+[1. (Froese2015Structural) D. Sean Froese, Jolanta Kopec, Fiona Fitzpatrick, Marion Schuller, Thomas J. McCorvie, Rod Chalk, Tanja Plessl, Victoria Fettelschoss, Brian Fowler, Matthias R. Baumgartner, and Wyatt W. Yue. Structural insights into the mmachc-mmadhc protein complex involved in vitamin b12 trafficking. Journal of Biological Chemistry, 290(49):29167–29177, December 2015. URL: http://dx.doi.org/10.1074/jbc.m115.683268, doi:10.1074/jbc.m115.683268. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m115.683268)
+
+[2. (Wang2018A) Chao Wang, Yu-Qin Zhang, Shu-Hong Zhang, Ying-Tao Meng, Shu-Xiang Lin, Chun-Quan Cai, and Jian-Bo Shu. A novel two-nucleotide deletion of mmadhc gene causing cbld disease in a chinese family. Chinese Medical Journal, 131(20):2477–2479, October 2018. URL: http://dx.doi.org/10.4103/0366-6999.243561, doi:10.4103/0366-6999.243561. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.4103/0366-6999.243561)
+
+[3. (Jusufi2014Characterization) Jehona Jusufi, Terttu Suormala, Patricie Burda, Brian Fowler, D. Sean Froese, and Matthias R. Baumgartner. Characterization of functional domains of the cbld (mmadhc) gene product. Journal of Inherited Metabolic Disease, 37(5):841–849, April 2014. URL: http://dx.doi.org/10.1007/s10545-014-9709-4, doi:10.1007/s10545-014-9709-4. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10545-014-9709-4)
+
+[4. (Plesa2011Interaction) Maria Plesa, Jaeseung Kim, Stéphane G. Paquette, Hubert Gagnon, Christopher Ng-Thow-Hing, Bernard F. Gibbs, Mark A. Hancock, David S. Rosenblatt, and James W. Coulton. Interaction between mmachc and mmadhc, two human proteins participating in intracellular vitamin b12 metabolism. Molecular Genetics and Metabolism, 102(2):139–148, February 2011. URL: http://dx.doi.org/10.1016/j.ymgme.2010.10.011, doi:10.1016/j.ymgme.2010.10.011. This article has 36 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ymgme.2010.10.011)
+
+[5. (Stucki2011Molecular) Martin Stucki, David Coelho, Terttu Suormala, Patricie Burda, Brian Fowler, and Matthias R. Baumgartner. Molecular mechanisms leading to three different phenotypes in the cbld defect of intracellular cobalamin metabolism. Human Molecular Genetics, 21(6):1410–1418, December 2011. URL: http://dx.doi.org/10.1093/hmg/ddr579, doi:10.1093/hmg/ddr579. This article has 44 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddr579)

@@ -1,0 +1,32 @@
+# MAGEC2
+
+## Overview
+Melanoma-associated antigen C2 (MAGEC2) is a gene that encodes the MAGE family member C2 protein, which is part of the cancer/testis antigen family. This protein is predominantly expressed in various cancer types, including breast cancer, melanoma, and hepatocellular carcinoma, but is otherwise restricted to the testis in normal tissues. MAGEC2 is involved in critical cellular processes, such as the regulation of the tumor suppressor protein p53, through its interactions with E3 ubiquitin ligases like MDM2 and TRIM28. These interactions influence the stability and activity of p53, thereby impacting cell proliferation and tumorigenesis (Song2018Posttranscriptional; Liu2022The). Due to its restricted expression pattern and role in cancer progression, MAGEC2 is considered a potential target for cancer immunotherapy and a prognostic biomarker (Yang2014MAGEC2; Li2020A).
+
+## Clinical Significance
+MAGEC2 is a cancer/testis antigen that is overexpressed in various cancers, including breast cancer, melanoma, and hepatocellular carcinoma (HCC). In breast cancer, MAGEC2 is associated with metastasis and epithelial-mesenchymal transition (EMT), contributing to the cancer's progression and poor prognosis. Its expression is linked to negative estrogen receptor status, higher tumor grade and stage, and increased metastasis, making it a potential prognostic biomarker and therapeutic target (Yang2014MAGEC2).
+
+In melanoma, MAGEC2 mutations occur in a significant portion of cases, suggesting a role in tumorigenesis. These mutations may interfere with p53-mediated apoptosis and promote cell proliferation, although the exact function remains unclear (Caballero2010Frequent).
+
+In HCC, MAGEC2 expression correlates with clinical stage and tumor grade, with higher levels indicating a worse prognosis. The gene is part of a broader family of MAGE genes that are dysregulated in HCC, potentially serving as biomarkers for diagnosis and treatment (Li2020A).
+
+MAGEC2's expression is regulated post-transcriptionally by TRIM28, which stabilizes the protein by protecting it from proteasomal degradation. This interaction is crucial for maintaining MAGEC2 levels in tumor cells, highlighting its potential as a target for cancer immunotherapy (Song2018Posttranscriptional).
+
+## Interactions
+MAGEC2, also known as MAGE-C2, is involved in several protein interactions that influence its role in cellular processes. It interacts with the E3 ligase MDM2, inhibiting MDM2-mediated ubiquitination of the tumor suppressor protein p53. This interaction is mediated through the MHD domain of MAGEC2, which is crucial for binding to MDM2 and inhibiting its ligase activity. Mutations in the substrate binding cleft of the MHD domain significantly reduce MAGEC2's ability to bind MDM2 and inhibit p53 ubiquitination (Liu2022The).
+
+MAGEC2 also interacts with TRIM28, another E3 ubiquitin ligase, in melanoma cells. This interaction is confirmed through co-immunoprecipitation experiments, demonstrating that TRIM28 is essential for MAGEC2 protein stability. TRIM28 regulates MAGEC2 at the post-transcriptional level, protecting it from proteasomal degradation (Song2018Posttranscriptional). In the context of p53 regulation, TRIM28 competes with MAGEC2 for binding to MDM2, releasing MAGEC2's inhibitory effect on MDM2 and promoting p53 ubiquitination (Liu2022The). These interactions highlight the complex regulatory roles of MAGEC2 in tumorigenesis and cell proliferation.
+
+
+## References
+
+
+[1. (Song2018Posttranscriptional) Xiao Song, Chengli Guo, Yutian Zheng, Ying Wang, Zhongtian Jin, and Yanhui Yin. Post-transcriptional regulation of cancer/testis antigen magec2 expression by trim28 in tumor cells. BMC Cancer, October 2018. URL: http://dx.doi.org/10.1186/s12885-018-4844-1, doi:10.1186/s12885-018-4844-1. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-018-4844-1)
+
+[2. (Liu2022The) Yunshan Liu, Beibei Cao, Liqiao Hu, Jingjing Ye, Wei Tian, and Xiaojing He. The dual roles of mage-c2 in p53 ubiquitination and cell proliferation through e3 ligases mdm2 and trim28. Frontiers in Cell and Developmental Biology, July 2022. URL: http://dx.doi.org/10.3389/fcell.2022.922675, doi:10.3389/fcell.2022.922675. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.922675)
+
+[3. (Caballero2010Frequent) Otavia L. Caballero, Qi Zhao, Donata Rimoldi, Brian J. Stevenson, Suzanne Svobodová, Sylvie Devalle, Ute F. Röhrig, Anna Pagotto, Olivier Michielin, Daniel Speiser, Jedd D. Wolchok, Cailian Liu, Tanja Pejovic, Kunle Odunsi, Francis Brasseur, Benoit J. Van den Eynde, Lloyd J. Old, Xin Lu, Jonathan Cebon, Robert L. Strausberg, and Andrew J. Simpson. Frequent mage mutations in human melanoma. PLoS ONE, 5(9):e12773, September 2010. URL: http://dx.doi.org/10.1371/journal.pone.0012773, doi:10.1371/journal.pone.0012773. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0012773)
+
+[4. (Li2020A) Rong Li, Jiao Gong, Cuicui Xiao, Shuguang Zhu, Zhongying Hu, Jinliang Liang, Xuejiao Li, Xijing Yan, Xijian Zhang, Danyang Li, Wei Liu, Yutian Chong, and Yusheng Jie. A comprehensive analysis of the mage family as prognostic and diagnostic markers for hepatocellular carcinoma. Genomics, 112(6):5101–5114, November 2020. URL: http://dx.doi.org/10.1016/j.ygeno.2020.09.026, doi:10.1016/j.ygeno.2020.09.026. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ygeno.2020.09.026)
+
+[5. (Yang2014MAGEC2) Fan Yang, Xingchun Zhou, Xia Miao, Tao Zhang, Xiaojun Hang, Ru Tie, Nan Liu, Fei Tian, Fuli Wang, and Jianlin Yuan. Magec2, an epithelial-mesenchymal transition inducer, is associated with breast cancer metastasis. Breast Cancer Research and Treatment, 145(1):23–32, April 2014. URL: http://dx.doi.org/10.1007/s10549-014-2915-9, doi:10.1007/s10549-014-2915-9. This article has 42 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10549-014-2915-9)

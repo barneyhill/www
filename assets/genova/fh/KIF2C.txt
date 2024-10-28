@@ -1,0 +1,62 @@
+# KIF2C
+
+## Overview
+KIF2C is a gene that encodes the protein kinesin family member 2C, a motor protein belonging to the kinesin-13 family. This protein plays a pivotal role in microtubule dynamics, particularly in the depolymerization of microtubules, which is essential for proper mitotic spindle function during cell division. Kinesin family member 2C is involved in critical cellular processes such as chromosome alignment and segregation, ensuring genomic stability by preventing aneuploidy. Beyond its role in mitosis, the protein is also implicated in the DNA damage response, facilitating the repair of DNA double-strand breaks. Aberrant expression of KIF2C has been associated with various cancers, making it a potential target for therapeutic interventions (Zhu2020Kinesin; KlineSmith2004Depletion; Liu2023KIF2C).
+
+## Structure
+The KIF2C protein, also known as kinesin family member 2C, is a motor protein involved in microtubule depolymerization. It is a member of the kinesin-13 family and plays a crucial role in cellular processes such as mitosis. The primary structure of KIF2C includes specific motifs and domains essential for its function, such as the KVD motif and the L11 loop. The KVD motif is located at the tip of loop 2 and is critical for the conformational changes required for microtubule depolymerization and ATP hydrolysis (Wang2015New; Wang2017Insight).
+
+The secondary structure of KIF2C features alpha helices and beta sheets, with significant structural elements like the α4 helix and the neck helix. The α4 helix undergoes a rotation upon tubulin binding, which is vital for the protein's function (Wang2017Insight). The neck helix interacts with the motor domain and is crucial for microtubule disassembly, with mutations in this region affecting the protein's activity (Wang2017Insight).
+
+The tertiary structure of KIF2C involves the folding of these helices and motifs to form a functional motor domain that binds ATP and interacts with tubulin. The protein stabilizes a curved tubulin conformation, which is essential for its depolymerizing activity (Wang2017Insight). The quaternary structure may involve interactions with other proteins or forming complexes, as seen in studies using DARPin chimerical constructs to stabilize the KIF2C-tubulin complex (Wang2017Insight).
+
+Post-translational modifications, such as phosphorylation, may regulate KIF2C's activity, although specific modifications are not detailed in the provided context. The protein's ability to bind and hydrolyze ATP is crucial for its function in microtubule dynamics (Wang2012Kif2C; Wang2015New).
+
+## Function
+KIF2C, also known as kinesin family member 2C, is a motor protein that plays a critical role in microtubule depolymerization, which is essential for mitotic spindle dynamics during cell division. It is primarily active at the centromeres and spindle poles, where it ensures proper chromosome alignment and segregation, thereby preventing aneuploidy and maintaining genomic stability (KlineSmith2004Depletion; Manning2007The).
+
+During mitosis, KIF2C localizes to spindle poles, spindle midzone, and kinetochores, associating with the tips of growing microtubules. Its microtubule depolymerase activity is crucial for destabilizing inappropriate microtubule attachments at kinetochores, particularly merotelic attachments, which are controlled by Aurora B kinase (Manning2007The). This activity is vital for correcting errors in chromosome orientation on the mitotic spindle, ensuring accurate chromosome segregation (KlineSmith2004Depletion).
+
+In addition to its role in mitosis, KIF2C is involved in the DNA damage response. It is recruited to DNA damage sites, where it facilitates the transport of broken DNA ends to repair centers in the nucleus, a process crucial for efficient DNA double-strand break repair via non-homologous end joining and homologous recombination (Zhu2020Kinesin). This function highlights KIF2C's importance in maintaining genomic integrity beyond its role in cell division.
+
+## Clinical Significance
+KIF2C, a member of the kinesin-13 family, plays a significant role in cancer progression due to its involvement in cell cycle regulation and chromosome segregation. Aberrant expression of KIF2C is linked to various cancers, including breast, lung, and melanoma, often correlating with poor prognosis. In breast cancer, high KIF2C expression is associated with poor overall survival and increased immune cell infiltration, suggesting its potential as a prognostic biomarker and its impact on immunotherapy response (Liu2023KIF2C). In non-small cell lung cancer (NSCLC), elevated KIF2C levels are correlated with higher T stage, worse differentiation, and lymph node metastasis, indicating its role in tumor growth and metastasis (Gan2019KIF2C). In melanoma, KIF2C is overexpressed and linked to poor prognosis, with its down-regulation shown to inhibit cell proliferation and metastasis (Huang2022Identification).
+
+Mutations in KIF2C can lead to increased chromosome instability, promoting tumor karyotype evolution and potentially acting as cancer drivers (Wagenbach2020Functional). The gene's expression is also associated with immune regulation, affecting immune cell infiltration and response to immunotherapy in various cancers (Zhang2022KIF2C). These findings highlight KIF2C's clinical significance as a potential target for cancer therapy.
+
+## Interactions
+KIF2C, a member of the kinesin-13 family, is involved in several protein interactions that are crucial for its function in microtubule dynamics and mitosis. It interacts with tubulin, stabilizing a curved conformation of tubulin, which is essential for its role in microtubule depolymerization (Wang2017Insight). The interaction involves significant structural rearrangements in KIF2C, particularly in the α4-L12-α5 region and the KVD motif, which are critical for binding to the α-tubulin subunit (Wang2017Insight).
+
+KIF2C also interacts with Nek2A, a kinase involved in centrosome clustering. This interaction is suggested to be a kinase-substrate type, playing a role in preventing centrosome clustering and inducing cell death in cancer cells with supernumerary centrosomes (Kalkan2023Less; Kalkan2024Nek2A). The interaction between KIF2C and Nek2A is crucial for regulating the clustering of extra centrosomes during mitosis, and silencing KIF2C can reduce Nek2A's impact on centrosome clustering (Kalkan2023Less).
+
+In the context of DNA repair, KIF2C is involved in the dynamics of DNA double-strand breaks (DSBs). It promotes the mobility of DSBs and mediates the formation and fusion of DNA damage foci, which are essential for efficient DNA repair (Zhu2020Kinesin).
+
+
+## References
+
+
+[1. (KlineSmith2004Depletion) Susan L. Kline-Smith, Alexey Khodjakov, Polla Hergert, and Claire E. Walczak. Depletion of centromeric mcak leads to chromosome congression and segregation defects due to improper kinetochore attachments. Molecular Biology of the Cell, 15(3):1146–1159, March 2004. URL: http://dx.doi.org/10.1091/mbc.e03-08-0581, doi:10.1091/mbc.e03-08-0581. This article has 232 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e03-08-0581)
+
+[2. (Huang2022Identification) Chun-Hui Huang, Wei Han, Yi-Zhu Wu, and Guo-Liang Shen. Identification of aberrantly methylated differentially expressed genes and pro-tumorigenic role of kif2c in melanoma. Frontiers in Genetics, July 2022. URL: http://dx.doi.org/10.3389/fgene.2022.817656, doi:10.3389/fgene.2022.817656. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.817656)
+
+[3. (Gan2019KIF2C) Huizhu Gan, Lin Lin, Nanjun Hu, Yang Yang, Yu Gao, Yu Pei, Kang Chen, and Butong Sun. Kif2c exerts an oncogenic role in nonsmall cell lung cancer and is negatively regulated by mir‐325‐3p. Cell Biochemistry and Function, 37(6):424–431, July 2019. URL: http://dx.doi.org/10.1002/cbf.3420, doi:10.1002/cbf.3420. This article has 45 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/cbf.3420)
+
+[4. (Liu2023KIF2C) Shanshan Liu, Ziwei Ye, Vivian Weiwen Xue, Qi Sun, Huan Li, and Desheng Lu. Kif2c is a prognostic biomarker associated with immune cell infiltration in breast cancer. BMC Cancer, April 2023. URL: http://dx.doi.org/10.1186/s12885-023-10788-4, doi:10.1186/s12885-023-10788-4. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-023-10788-4)
+
+5. (Kalkan2023Less) Less is More: Nek2A Unclusters Extra Centrosomes and Induces Cell Death in Cancer Cells via KIF2C Interaction. This article has 0 citations.
+
+[6. (Kalkan2024Nek2A) Batuhan Mert Kalkan, Selahattin Can Ozcan, Enes Cicek, Mehmet Gonen, and Ceyda Acilan. Nek2a prevents centrosome clustering and induces cell death in cancer cells via kif2c interaction. Cell Death &amp; Disease, March 2024. URL: http://dx.doi.org/10.1038/s41419-024-06601-0, doi:10.1038/s41419-024-06601-0. This article has 1 citations.](https://doi.org/10.1038/s41419-024-06601-0)
+
+[7. (Manning2007The) Amity L. Manning, Neil J. Ganem, Samuel F. Bakhoum, Michael Wagenbach, Linda Wordeman, and Duane A. Compton. The kinesin-13 proteins kif2a, kif2b, and kif2c/mcak have distinct roles during mitosis in human cells. Molecular Biology of the Cell, 18(8):2970–2979, August 2007. URL: http://dx.doi.org/10.1091/mbc.e07-02-0110, doi:10.1091/mbc.e07-02-0110. This article has 189 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e07-02-0110)
+
+[8. (Zhu2020Kinesin) Songli Zhu, Mohammadjavad Paydar, Feifei Wang, Yanqiu Li, Ling Wang, Benoit Barrette, Tadayoshi Bessho, Benjamin H Kwok, and Aimin Peng. Kinesin kif2c in regulation of dna double strand break dynamics and repair. eLife, January 2020. URL: http://dx.doi.org/10.7554/elife.53402, doi:10.7554/elife.53402. This article has 39 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.53402)
+
+[9. (Wang2012Kif2C) Weiyi Wang, Qiyang Jiang, Manuela Argentini, David Cornu, Benoît Gigant, Marcel Knossow, and Chunguang Wang. Kif2c minimal functional domain has unusual nucleotide binding properties that are adapted to microtubule depolymerization. Journal of Biological Chemistry, 287(18):15143–15153, April 2012. URL: http://dx.doi.org/10.1074/jbc.m111.317859, doi:10.1074/jbc.m111.317859. This article has 31 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m111.317859)
+
+[10. (Wagenbach2020Functional) Mike Wagenbach, Juan Jesus Vicente, Yulia Ovechkina, Sarah Domnitz, and Linda Wordeman. Functional characterization of mcak/kif2c cancer mutations using high-throughput microscopic analysis. Molecular Biology of the Cell, 31(7):580–588, March 2020. URL: http://dx.doi.org/10.1091/mbc.E19-09-0503, doi:10.1091/mbc.e19-09-0503. This article has 13 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.E19-09-0503)
+
+[11. (Wang2015New) Weiyi Wang, Ting Shen, Raphael Guerois, Fuming Zhang, Hureshitanmu Kuerban, Yuncong Lv, Benoît Gigant, Marcel Knossow, and Chunguang Wang. New insights into the coupling between microtubule depolymerization and atp hydrolysis by kinesin-13 protein kif2c. Journal of Biological Chemistry, 290(30):18721–18731, July 2015. URL: http://dx.doi.org/10.1074/jbc.m115.646919, doi:10.1074/jbc.m115.646919. This article has 27 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m115.646919)
+
+[12. (Wang2017Insight) Weiyi Wang, Soraya Cantos-Fernandes, Yuncong Lv, Hureshitanmu Kuerban, Shoeb Ahmad, Chunguang Wang, and Benoît Gigant. Insight into microtubule disassembly by kinesin-13s from the structure of kif2c bound to tubulin. Nature Communications, July 2017. URL: http://dx.doi.org/10.1038/s41467-017-00091-9, doi:10.1038/s41467-017-00091-9. This article has 59 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-017-00091-9)
+
+[13. (Zhang2022KIF2C) Xiuyuan Zhang, Yiming Li, Pengbo Hu, Liang Xu, and Hong Qiu. Kif2c is a biomarker correlated with prognosis and immunosuppressive microenvironment in human tumors. Frontiers in Genetics, May 2022. URL: http://dx.doi.org/10.3389/fgene.2022.891408, doi:10.3389/fgene.2022.891408. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.891408)

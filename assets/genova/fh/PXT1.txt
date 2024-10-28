@@ -1,0 +1,38 @@
+# PXT1
+
+## Overview
+PXT1 is a gene that encodes the peroxisomal testis enriched protein 1, a noncanonical BH3-only protein primarily expressed in the testis. This protein plays a crucial role in the regulation of apoptosis, particularly within male germ cells, and is involved in the process of spermatogenesis. The PXT1 protein is characterized by the presence of a BH3-like domain, which is essential for its proapoptotic activity, and a Leu-Ala-Pro-Phe (LAPF) motif that facilitates interaction with the apoptosis regulator BAT3. PXT1 localizes to peroxisomes due to a peroxisomal targeting signal at its C terminus, and it interacts with Bak to induce mitochondrial outer membrane permeabilization, a key step in apoptosis. The gene's expression is restricted to the testis, beginning at the spermatocyte stage, and its dysregulation has been linked to male infertility due to increased germ cell apoptosis (Pawlicka2023Increased; Kaczmarek2011Overexpression; Lim2023Structural).
+
+## Structure
+The PXT1 protein contains a BH3-like domain at its N-terminus, which is crucial for its proapoptotic activity. This domain is highly conserved across species, including mouse, chimpanzee, and human, and follows a specific consensus motif. The core of this BH3 domain includes conserved leucine (L) and aspartate (D) residues, which are involved in interactions that trigger apoptosis (Kaczmarek2011Overexpression). The BH3 domain of PXT1 forms an amphipathic α-helix and binds in the BH3-binding groove of Bak, primarily through hydrophobic interactions involving key residues such as Leu82 and Leu86 (Lim2023Structural). 
+
+PXT1 also contains a Leu-Ala-Pro-Phe (LAPF) motif, which is essential for its interaction with the apoptosis regulator BAT3 (Kaczmarek2011Overexpression). The interaction between PXT1 and BAT3 does not rely on the BAG domain of BAT3 but involves a specific region between amino acids 359-761 (Kaczmarek2011Overexpression). 
+
+The protein is associated with peroxisomes, indicated by its colocalization with peroxisomal markers in germ cells (Kaczmarek2011Overexpression). The presence of a functional peroxisomal targeting signal type 1 (PTS1) at its C terminus allows PXT1 to localize to peroxisomes (Kaczmarek2011Overexpression).
+
+## Function
+PXT1 is a noncanonical BH3-only protein that plays a significant role in apoptosis, particularly in the context of male germ cells. It is specifically expressed in the testis and is involved in the regulation of spermatogenesis. PXT1 interacts with and activates Bak, a proapoptotic protein, through its BH3 domain, leading to mitochondrial outer membrane permeabilization (MOMP) and the release of cytochrome c, which are key steps in the apoptotic pathway (Lim2023Structural). This interaction is crucial for maintaining germline homeostasis by eliminating excessive or dysfunctional germ cells, thereby preserving sperm quality (Pawlicka2023Increased).
+
+In human cells, PXT1 functions as an apoptogenic factor, similar to other BH3-only proteins like Bim and Bid, by inducing apoptotic cell death (Lim2023Structural). The protein's activity is restricted to the testis, starting at the spermatocyte stage of spermatogenesis, and it is not expressed in the epididymis (Pawlicka2023Increased). The BH3 domain of PXT1 is essential for its proapoptotic activity, as its deletion significantly reduces apoptosis (Kaczmarek2011Overexpression).
+
+## Clinical Significance
+The PXT1 gene, encoding the peroxisomal testis-specific 1 protein, has been implicated in male infertility due to its role in inducing germ cell apoptosis when overexpressed. Studies have shown that overexpression of PXT1 in male mice leads to increased apoptosis in germ cells, particularly affecting primary spermatocytes, and results in infertility (Kaczmarek2011Overexpression). This proapoptotic activity is attributed to a BH3-like domain within the PXT1 protein, which is crucial for its function in promoting cell death (Kaczmarek2011Overexpression).
+
+The interaction between PXT1 and the apoptosis regulator BAT3 is also significant. BAT3 can inhibit the proapoptotic activity of PXT1 by relocating it from the cytoplasm to the nucleus, thus modulating its effects on germ cell survival (Kaczmarek2011Overexpression). Disruption of this interaction due to PXT1 overexpression may lead to abnormal spermatogenesis and infertility (Kaczmarek2011Overexpression).
+
+While the study primarily focuses on the effects of PXT1 overexpression in mice, it suggests potential implications for human male fertility. However, the clinical significance of PXT1 gene mutations or expression alterations in humans remains to be fully elucidated (Kaczmarek2011Overexpression).
+
+## Interactions
+PXT1, a peroxisomal testis-specific protein, is known to interact with several proteins, playing a significant role in apoptosis and spermatogenesis. One of the key interactions of PXT1 is with the apoptosis regulator BAT3. This interaction has been confirmed through yeast two-hybrid assays and coimmunoprecipitation experiments. The binding between PXT1 and BAT3 involves a specific motif in PXT1, known as the LAPF motif, which is crucial for their interaction. Although the interaction primarily occurs in the nucleus, it can also be observed in the cytoplasm. Despite mutations that reduce this interaction, BAT3 still inhibits the proapoptotic activity of PXT1, suggesting that the interaction is not essential for this inhibition (Kaczmarek2011Overexpression).
+
+PXT1 also interacts with Bak, a proapoptotic protein, through its BH3 domain. This interaction is critical for inducing mitochondrial outer membrane permeabilization and apoptosis. The BH3 domain of PXT1 binds to the BH3-binding groove of Bak, facilitating Bak activation. This interaction is characterized by hydrophobic interactions, electrostatic, and hydrogen bonds, which are essential for the proapoptotic function of PXT1 (Lim2023Structural). These interactions highlight PXT1's role in regulating apoptosis and its potential impact on male fertility.
+
+
+## References
+
+
+[1. (Pawlicka2023Increased) Bernadetta Pawlicka, Michał Duliban, Mateusz Zięba, Michał Bochenek, Kamila Zięba, Ibrahim Adham, Maja Studencka-Turski, Andreas Meinhardt, and Paweł Grzmil. Increased dna strand breaks in spermatozoa of pxt1 knockout mice. Reproduction, Fertility and Development, 35(11):589–600, July 2023. URL: http://dx.doi.org/10.1071/rd23061, doi:10.1071/rd23061. This article has 2 citations.](https://doi.org/10.1071/rd23061)
+
+[2. (Kaczmarek2011Overexpression) Karina Kaczmarek, Maja Studencka, Andreas Meinhardt, Krzysztof Wieczerzak, Sven Thoms, Wolfgang Engel, and Pawel Grzmil. Overexpression of peroxisomal testis-specific 1 protein induces germ cell apoptosis and leads to infertility in male mice. Molecular Biology of the Cell, 22(10):1766–1779, May 2011. URL: http://dx.doi.org/10.1091/mbc.e09-12-0993, doi:10.1091/mbc.e09-12-0993. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e09-12-0993)
+
+[3. (Lim2023Structural) Dahwan Lim, So-Hui Choe, Sein Jin, Seulgi Lee, Younjin Kim, Ho-Chul Shin, Joon Sig Choi, Doo-Byoung Oh, Seung Jun Kim, Jinho Seo, and Bonsu Ku. Structural basis for proapoptotic activation of bak by the noncanonical bh3-only protein pxt1. PLOS Biology, 21(6):e3002156, June 2023. URL: http://dx.doi.org/10.1371/journal.pbio.3002156, doi:10.1371/journal.pbio.3002156. This article has 1 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.3002156)

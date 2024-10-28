@@ -1,0 +1,64 @@
+# NLRP1
+
+## Overview
+NLRP1, or NLR family pyrin domain containing 1, is a gene that encodes a protein belonging to the NOD-like receptor (NLR) family, which plays a pivotal role in the innate immune system. The NLRP1 protein is a cytoplasmic sensor that detects pathogen-associated molecular patterns (PAMPs) and damage-associated molecular patterns (DAMPs), leading to the formation of inflammasomes. These multiprotein complexes are essential for the activation of caspase-1, which subsequently processes and secretes pro-inflammatory cytokines such as interleukin-1β (IL-1β) and interleukin-18 (IL-18), crucial for inflammatory responses (Taabazuing2020The; Yu2018Mechanisms). Structurally, NLRP1 comprises several domains, including a pyrin domain (PYD), a nucleotide-binding domain (NACHT), leucine-rich repeats (LRR), a function to find domain (FIIND), and a caspase recruitment domain (CARD), which are integral to its function and regulation (Fenini2020The). The protein's activity is vital for controlling infections and maintaining immune homeostasis, with implications in various diseases, including autoimmune disorders, cancer, and neurological conditions (Burian2023The; Tupik2020To).
+
+## Structure
+The NLRP1 protein is a member of the NOD-like receptor (NLR) family and is involved in the formation of inflammasomes, which are crucial for the immune response. It is composed of several domains, including an N-terminal pyrin domain (PYD), a central nucleotide-binding domain (NACHT), leucine-rich repeats (LRR), a function to find domain (FIIND), and a C-terminal caspase recruitment domain (CARD) (MacDonald2013Biochemical; Yu2018Mechanisms). The PYD is autoinhibitory, while the CARD is essential for forming an ASC-dependent inflammasome (Yu2018Mechanisms).
+
+The NLRP1 CARD adopts a six-helix bundle fold typical of the death domain superfamily, facilitating interactions with procaspase-1 through electrostatic attractions (Jin2013Structure). The LRR domain, spanning residues 791-990, forms a solenoid fold with a parallel beta-sheet and short alpha-helices (Reubold2014Crystal). The FIIND domain undergoes autoproteolytic cleavage, which is crucial for NLRP1 activation (Yu2018Mechanisms).
+
+NLRP1 is subject to post-translational modifications, including autolytic cleavage in the FIIND domain, which is essential for its function (Yu2018Mechanisms). The protein exists in multiple isoforms due to alternative splicing, with seven known variants (Yu2018Mechanisms).
+
+## Function
+The NLRP1 protein is a crucial component of the innate immune system, functioning as a sensor for pathogen-associated molecular patterns (PAMPs) and damage-associated molecular patterns (DAMPs). It forms an inflammasome complex, which is a multiprotein structure that activates caspase-1. This activation leads to the processing and secretion of pro-inflammatory cytokines such as interleukin-1β (IL-1β) and interleukin-18 (IL-18), which are essential for initiating inflammatory responses (Taabazuing2020The; Yu2018Mechanisms).
+
+NLRP1 is primarily active in the cytoplasm and is involved in the regulation of inflammation and apoptosis. It plays a significant role in maintaining immune homeostasis by detecting intracellular danger signals and orchestrating the activation of inflammatory caspases (Taabazuing2020The). The protein contains several domains, including a pyrin domain, a NACHT domain, leucine-rich repeats (LRRs), a function-to-find domain (FIIND), and a caspase activation and recruitment domain (CARD), which are essential for its function and regulation (Fenini2020The).
+
+In healthy human cells, NLRP1's activity is crucial for controlling infections and maintaining cutaneous homeostasis, particularly in keratinocytes, where it influences the pathogenesis of skin diseases (Burian2023The). Its role in inflammasome assembly and cytokine processing highlights its importance in immune regulation and potential predisposition to autoimmune or autoinflammatory diseases (Yu2018Mechanisms).
+
+## Clinical Significance
+Mutations and dysregulation of the NLRP1 gene are linked to a variety of diseases and conditions due to its role in inflammasome activation. In autoimmune diseases, specific NLRP1 mutations, such as rs12150220 and rs2670660, are associated with conditions like vitiligo, systemic lupus erythematosus, and Addison's disease. These mutations can lead to increased inflammasome activation and elevated expression of inflammatory cytokines like IL-18 and TNF, contributing to disease pathogenesis (Tupik2020To; Levandowski2013NLRP1).
+
+In cancer, NLRP1 hyperactivity is linked to the progression of several malignancies, including melanoma, cervical cancer, and prostate cancer. Mutations in NLRP1 can lead to increased inflammasome activation, resulting in decreased tumor cell death and promoting an inflammatory environment that supports cancer cell survival (Tupik2020To).
+
+NLRP1 is also implicated in neurological diseases such as Alzheimer's disease, where it may contribute to neuronal damage through inflammasome activation and pyroptosis. Specific SNPs in the NLRP1 gene have been associated with Alzheimer's, although their functional significance is not fully understood (Tupik2020To).
+
+In autoinflammatory conditions, gain-of-function mutations in NLRP1 can cause systemic inflammation, arthritis, and dyskeratosis, with some conditions responding to IL-1 blockade (Alehashemi2020Human).
+
+## Interactions
+NLRP1 interacts with several proteins to form and regulate the inflammasome complex. A key interaction is with the adaptor protein ASC, which is essential for NLRP1-mediated caspase-1 activation and IL-1β release. The C-terminal CARD domain of NLRP1 is crucial for recruiting ASC, as mutants lacking this domain fail to co-precipitate ASC, highlighting its importance in protein interactions (Finger2012Autolytic). 
+
+NLRP1 also interacts with CARD8, which acts as a negative regulator of the NLRP1 inflammasome. The CARD domains of NLRP1 and CARD8 share high similarity, and specific amino acids in these domains contribute to ASC preference. Mutations in NLRP1 can affect its interaction with CARD8, leading to increased oligomer formation and decreased binding, which disrupts the auto-inhibitory mechanism of NLRP1 (Xu2022CARD8).
+
+The interaction between NLRP1 and ASC involves homotypic CARD-CARD interactions, which are crucial for inflammasome activation. Specific residues in the NLRP1 CARD are involved in this interaction, and mutations in these residues can disrupt the formation of complexes with ASC CARD (Xu2021Homotypic).
+
+
+## References
+
+
+[1. (Burian2023The) Marc Burian, Morna F. Schmidt, and Amir S. Yazdi. The nlrp1 inflammasome in skin diseases. Frontiers in Immunology, February 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1111611, doi:10.3389/fimmu.2023.1111611. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1111611)
+
+[2. (Taabazuing2020The) Cornelius Y. Taabazuing, Andrew R. Griswold, and Daniel A. Bachovchin. The nlrp1 and card8 inflammasomes. Immunological Reviews, 297(1):13–25, June 2020. URL: http://dx.doi.org/10.1111/imr.12884, doi:10.1111/imr.12884. This article has 121 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/imr.12884)
+
+[3. (Alehashemi2020Human) Sara Alehashemi and Raphaela Goldbach-Mansky. Human autoinflammatory diseases mediated by nlrp3-, pyrin-, nlrp1-, and nlrc4-inflammasome dysregulation updates on diagnosis, treatment, and the respective roles of il-1 and il-18. Frontiers in Immunology, August 2020. URL: http://dx.doi.org/10.3389/fimmu.2020.01840, doi:10.3389/fimmu.2020.01840. This article has 72 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2020.01840)
+
+[4. (Xu2021Homotypic) Zhihao Xu, Ying Zhou, Muziying Liu, Huan Ma, Liangqi Sun, Ayesha Zahid, Yulei Chen, Rongbin Zhou, Minjie Cao, Dabao Wu, Weidong Zhao, Bofeng Li, and Tengchuan Jin. Homotypic card-card interaction is critical for the activation of nlrp1 inflammasome. Cell Death &amp; Disease, January 2021. URL: http://dx.doi.org/10.1038/s41419-020-03342-8, doi:10.1038/s41419-020-03342-8. This article has 12 citations.](https://doi.org/10.1038/s41419-020-03342-8)
+
+[5. (Yu2018Mechanisms) Chien-Hsiung Yu, Jonas Moecking, Matthias Geyer, and Seth L. Masters. Mechanisms of nlrp1-mediated autoinflammatory disease in humans and mice. Journal of Molecular Biology, 430(2):142–152, January 2018. URL: http://dx.doi.org/10.1016/j.jmb.2017.07.012, doi:10.1016/j.jmb.2017.07.012. This article has 64 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2017.07.012)
+
+[6. (Finger2012Autolytic) Joshua N. Finger, John D. Lich, Lauren C. Dare, Michael N. Cook, Kristin K. Brown, Chaya Duraiswami, John J. Bertin, and Peter J. Gough. Autolytic proteolysis within the function to find domain (fiind) is required for nlrp1 inflammasome activity. Journal of Biological Chemistry, 287(30):25030–25037, July 2012. URL: http://dx.doi.org/10.1074/jbc.m112.378323, doi:10.1074/jbc.m112.378323. This article has 284 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m112.378323)
+
+[7. (Tupik2020To) Juselyn D. Tupik, Margaret A. Nagai-Singer, and Irving C. Allen. To protect or adversely affect? the dichotomous role of the nlrp1 inflammasome in human disease. Molecular Aspects of Medicine, 76:100858, December 2020. URL: http://dx.doi.org/10.1016/j.mam.2020.100858, doi:10.1016/j.mam.2020.100858. This article has 28 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.mam.2020.100858)
+
+[8. (MacDonald2013Biochemical) Justin A. MacDonald, Champa P. Wijekoon, Kuo‐Chieh Liao, and Daniel A. Muruve. Biochemical and structural aspects of the atp‐binding domain in inflammasome‐forming human nlrp proteins. IUBMB Life, 65(10):851–862, September 2013. URL: http://dx.doi.org/10.1002/iub.1210, doi:10.1002/iub.1210. This article has 85 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/iub.1210)
+
+[9. (Fenini2020The) Gabriele Fenini, Tugay Karakaya, Paulina Hennig, Michela Di Filippo, and Hans-Dietmar Beer. The nlrp1 inflammasome in human skin and beyond. International Journal of Molecular Sciences, 21(13):4788, July 2020. URL: http://dx.doi.org/10.3390/ijms21134788, doi:10.3390/ijms21134788. This article has 69 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21134788)
+
+[10. (Reubold2014Crystal) Thomas F. Reubold, Gernot Hahne, Sabine Wohlgemuth, and Susanne Eschenburg. Crystal structure of the leucine‐rich repeat domain of the nod‐like receptor nlrp1: implications for binding of muramyl dipeptide. FEBS Letters, 588(18):3327–3332, July 2014. URL: http://dx.doi.org/10.1016/j.febslet.2014.07.017, doi:10.1016/j.febslet.2014.07.017. This article has 38 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.febslet.2014.07.017)
+
+[11. (Levandowski2013NLRP1) Cecilia B. Levandowski, Christina M. Mailloux, Tracey M. Ferrara, Katherine Gowan, Songtao Ben, Ying Jin, Kimberly K. McFann, Paulene J. Holland, Pamela R. Fain, Charles A. Dinarello, and Richard A. Spritz. Nlrp1 haplotypes associated with vitiligo and autoimmunity increase interleukin-1β processing via the nlrp1 inflammasome. Proceedings of the National Academy of Sciences, 110(8):2952–2956, February 2013. URL: http://dx.doi.org/10.1073/pnas.1222808110, doi:10.1073/pnas.1222808110. This article has 177 citations.](https://doi.org/10.1073/pnas.1222808110)
+
+[12. (Jin2013Structure) Tengchuan Jin, James Curry, Patrick Smith, Jiansheng Jiang, and T. Sam Xiao. Structure of the nlrp1 caspase recruitment domain suggests potential mechanisms for its association with procaspase‐1. Proteins: Structure, Function, and Bioinformatics, 81(7):1266–1270, April 2013. URL: http://dx.doi.org/10.1002/prot.24287, doi:10.1002/prot.24287. This article has 56 citations.](https://doi.org/10.1002/prot.24287)
+
+13. (Xu2022CARD8) CARD8 negatively regulates NLRP1 inflammasome activation level by interaction with NLRP1. This article has 0 citations.

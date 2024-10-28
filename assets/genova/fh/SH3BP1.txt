@@ -1,0 +1,35 @@
+# SH3BP1
+
+## Overview
+SH3BP1, or SH3 domain binding protein 1, is a gene that encodes a GTPase-activating protein (GAP) involved in the regulation of RhoGTPases, particularly Cdc42 and Rac1. These proteins are critical for actin cytoskeleton dynamics and the assembly of cell junctions. The SH3BP1 protein plays a significant role in epithelial cells by modulating Cdc42 activity, which is essential for membrane remodeling and junction formation. It interacts with various proteins, including JACOP/paracingulin and CD2AP, to facilitate actin remodeling and stabilize cell junctions (Elbediwy2012Epithelial). Additionally, SH3BP1 is implicated in cell migration and cancer progression, where it influences cell mobility and invasiveness through pathways such as Rac1-WAVE2 (Zhang2019Genomic; sitarska2022deciphering). Its involvement in these cellular processes underscores its importance in both normal physiological functions and pathological conditions.
+
+## Function
+SH3BP1 (SH3 domain binding protein 1) is a GTPase-activating protein (GAP) that plays a crucial role in regulating the activity of RhoGTPases, particularly Cdc42 and Rac1, which are essential for actin cytoskeleton dynamics and cell junction assembly. In epithelial cells, SH3BP1 is involved in the spatial and temporal regulation of Cdc42 activity, which is necessary for proper membrane remodeling and junction formation. It forms a complex with proteins such as JACOP/paracingulin and CD2AP, which are important for its localization and function in actin remodeling and junction stabilization (Elbediwy2012Epithelial).
+
+SH3BP1 is recruited early during epithelial junction formation, where it colocalizes with junctional proteins like β-catenin and occludin. Its activity is critical for the transition from early cell-cell contacts to mature junctions, as depletion of SH3BP1 leads to disrupted junctional actin belts and increased filopodia formation (Elbediwy2012Epithelial). SH3BP1 also interacts with the exocyst complex and is localized at the leading edge of migrating cells, where it inactivates Rac1 to facilitate the turnover of cell protrusions and adhesions, which is essential for directed cell migration (sadou2012cross; sitarska2022deciphering).
+
+## Clinical Significance
+SH3BP1 has been implicated in various diseases, particularly in cancer. Alterations in SH3BP1 expression or its interactions can contribute to cancer progression by affecting cell mobility, adhesion, and junction formation. In lung adenocarcinoma, SH3BP1 is involved in subclonal diversification and the acquisition of invasiveness, suggesting its role in cancer progression (Zhang2019Genomic). In prostate cancer, SH3BP1 is identified as a target gene of TAZ, a protein that enhances the invasive phenotype of cancer cells, indicating that SH3BP1 may contribute to increased cancer cell invasiveness (Koinis2022Emerging).
+
+SH3BP1 is also crucial for epithelial junction formation, and its depletion leads to disorganized cell junctions and actin cytoskeleton, affecting cell differentiation and morphogenesis (Elbediwy2012Epithelial). This disruption is linked to deregulation of Cdc42, a small GTPase involved in cell signaling, which can result in increased filopodia formation and impaired junction assembly (Elbediwy2012Epithelial). While the context does not directly associate SH3BP1 mutations with specific diseases, its role in cellular processes suggests that alterations in SH3BP1 could contribute to pathological conditions where cell signaling and cytoskeletal dynamics are disrupted.
+
+## Interactions
+SH3BP1, also known as ARHGAP43, is involved in various protein interactions that are crucial for its role in cellular processes. It forms a complex with JACOP/paracingulin and CD2AP, which is essential for regulating Cdc42 signaling and actin remodeling during epithelial junction formation (Elbediwy2012Epithelial). This complex also includes the F-actin-capping protein CapZ, which is necessary for controlling actin dynamics (Elbediwy2012Epithelial).
+
+SH3BP1 interacts with the exocyst complex, specifically with subunits Sec8 and Exo84, through its BAR domain. This interaction is crucial for its localization at the leading edge of migrating cells and affects Rac1 activity, which is important for cell migration (sadou2012cross). SH3BP1 also binds to the SH3 domain of the Abl non-receptor tyrosine kinase, indicating its involvement in signal transduction pathways (sadou2012cross).
+
+In addition to its role in epithelial cells, SH3BP1 is implicated in cancer cell invasion and metastasis, where it affects cell migration through the Rac1-WAVE2 pathway (sitarska2022deciphering). These interactions highlight SH3BP1's role in regulating actin dynamics and cellular signaling.
+
+
+## References
+
+
+1. (sadou2012cross) Cross-talk between ral and rac pathways in the control of cell migration. This article has 0 citations.
+
+2. (sitarska2022deciphering) Deciphering the role of curvature-sensitive BAR domain proteins for cell migration. This article has 1 citations.
+
+[3. (Elbediwy2012Epithelial) Ahmed Elbediwy, Ceniz Zihni, Stephen J. Terry, Peter Clark, Karl Matter, and Maria S. Balda. Epithelial junction formation requires confinement of cdc42 activity by a novel sh3bp1 complex. Journal of Cell Biology, 198(4):677–693, August 2012. URL: http://dx.doi.org/10.1083/jcb.201202094, doi:10.1083/jcb.201202094. This article has 60 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201202094)
+
+[4. (Koinis2022Emerging) Filippos Koinis, Evangelia Chantzara, Michael Samarinas, Anastasia Xagara, Zisis Kratiras, Vasiliki Leontopoulou, and Athanasios Kotsakis. Emerging role of yap and the hippo pathway in prostate cancer. Biomedicines, 10(11):2834, November 2022. URL: http://dx.doi.org/10.3390/biomedicines10112834, doi:10.3390/biomedicines10112834. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biomedicines10112834)
+
+[5. (Zhang2019Genomic) Chao Zhang, Jianjun Zhang, Fang-Ping Xu, Yin-Guang Wang, Zhi Xie, Jian Su, Song Dong, Qiang Nie, Yang Shao, Qing Zhou, Jin-Ji Yang, Xue-Ning Yang, Xu-Chao Zhang, Zhi Li, Yi-Long Wu, and Wen-Zhao Zhong. Genomic landscape and immune microenvironment features of preinvasive and early invasive lung adenocarcinoma. Journal of Thoracic Oncology, 14(11):1912–1923, November 2019. URL: http://dx.doi.org/10.1016/j.jtho.2019.07.031, doi:10.1016/j.jtho.2019.07.031. This article has 139 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jtho.2019.07.031)

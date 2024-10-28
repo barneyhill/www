@@ -1,0 +1,58 @@
+# RNASEH1
+
+## Overview
+RNASEH1 is a gene that encodes the ribonuclease H1 protein, a critical enzyme involved in the processing of RNA/DNA hybrids. This enzyme is categorized as a ribonuclease and plays a vital role in maintaining genomic stability by degrading the RNA component of these hybrids. Ribonuclease H1 is active in both the nucleus and mitochondria, where it is essential for mitochondrial DNA (mtDNA) replication and maintenance, as well as for resolving R-loops that can interfere with DNA replication and transcription (Reyes2020RNase; Reyes2015RNASEH1). The enzyme's structure includes a catalytic domain and a hybrid-binding domain, which are crucial for its function (González2020A; Hyjek2019RNases). Mutations in the RNASEH1 gene are linked to mitochondrial disorders, highlighting its importance in cellular health and function (Reyes2020RNase; Reyes2015RNASEH1).
+
+## Structure
+The human RNASEH1 gene encodes the ribonuclease H1 enzyme, which is involved in processing RNA/DNA hybrids. The enzyme's structure includes a C-terminal catalytic domain and an N-terminal hybrid-binding domain (HBD), connected by an extended linker. The catalytic domain contains a conserved DEDD motif essential for its enzymatic activity (González2020A; Hyjek2019RNases). The overall fold of the catalytic domain is similar to the canonical RNase H fold, characterized by three α-helices on one side of a central β-sheet (Hyjek2019RNases).
+
+The enzyme's tertiary structure forms a compact, globular shape, with the catalytic domain adopting a structure that facilitates interaction with RNA/DNA hybrids. The HBD is crucial for high-affinity binding to these hybrids, and its presence is necessary for the enzyme's function (González2020A). The RNase H1 protein also features a basic protrusion, which forms a DNA recognition surface, although this feature is absent in some RNase H1 proteins from other species (Hyjek2019RNases).
+
+The RNASEH1 enzyme may exist in different splice variant isoforms, which can influence its activity and localization, although specific details on these variants are not provided in the context. The enzyme's quaternary structure is less defined, but it is suggested to function as a monomer.
+
+## Function
+RNASEH1 encodes ribonuclease H1, an enzyme crucial for maintaining mitochondrial DNA (mtDNA) integrity and function in healthy human cells. It is active in both the nucleus and mitochondria, where it degrades the RNA component of RNA-DNA hybrids, a process essential for proper mtDNA replication and maintenance (Reyes2020RNase; Reyes2015RNASEH1). In mitochondria, RNase H1 is involved in the removal of RNA primers during mtDNA replication, preventing the accumulation of pathological R-loops that can block transcription and lead to genomic instability (Posse2019RNase; Reyes2020RNase).
+
+RNase H1 also plays a role in regulating mitochondrial transcription and translation by degrading 7S RNA, which is necessary for proper transcription initiation of mtDNA (Reyes2020RNase). The enzyme's activity ensures the stability and proper functioning of mitochondrial transcripts, including those for complexes I and IV, and maintains the balance of mitochondrial rRNAs, which are essential for mitochondrial ribosome function (Reyes2020RNase).
+
+In the nucleus, RNase H1 helps maintain genome integrity by resolving R-loops, which can interfere with DNA replication and transcription if not properly managed (Suzuki2010An). The regulation of RNase H1 levels is crucial, as excessive amounts in mitochondria can lead to growth defects, while high levels in the nucleus do not have deleterious effects (Suzuki2010An).
+
+## Clinical Significance
+Mutations in the RNASEH1 gene are associated with several mitochondrial disorders, primarily affecting mitochondrial DNA (mtDNA) replication and maintenance. These mutations can lead to conditions such as adult-onset mitochondrial encephalomyopathy and chronic progressive external ophthalmoplegia (CPEO). Specific mutations, including c.424G>A (p.Val142Ile), c.469C>T (p.Arg157*), and c.554C>T (p.Ala185Val), have been identified as impairing the RNase H1 catalytic domain, resulting in decreased enzyme activity and mitochondrial dysfunction (Reyes2020RNase; Reyes2015RNASEH1).
+
+Patients with RNASEH1 mutations often present with symptoms such as muscle weakness, ptosis, dysphagia, cerebellar ataxia, and respiratory impairment. These clinical manifestations are linked to mtDNA depletion and multiple mtDNA deletions, which disrupt mitochondrial transcription and translation (Manini2022Case; CarreñoGago2019Identification). The mutations can lead to decreased protein levels due to nonsense-mediated decay, affecting mitochondrial transcription and translation, particularly reducing transcripts for complexes I and IV (Reyes2020RNase).
+
+RNASEH1 mutations also result in increased levels of non-coding 7S RNA, which may interfere with mitochondrial transcription, and reduced mitochondrial rRNA levels, contributing to mitochondrial translation defects (Reyes2020RNase). These alterations in mitochondrial function are evidenced by changes in mitochondrial morphology, membrane potential, and slower cell growth in affected individuals (Reyes2015RNASEH1).
+
+## Interactions
+RNASEH1 interacts with various proteins and nucleic acids, playing a significant role in cellular processes. It binds to RNA/DNA hybrids, a function confirmed by its identification in studies using pull-down assays with human B-cell extracts, where it was shown to interact with over 800 proteins, including DDX5, NONO, and SUPT5H (Wang2018Human). RNASEH1's interaction with RNA/DNA hybrids is crucial for its role in degrading the RNA strand of these hybrids, a process essential for maintaining genomic stability.
+
+RNASEH1 also forms complexes with phosphorothioate antisense oligonucleotides (PS-ASOs) and proteins such as P54nrb and PSF. These interactions are particularly noted with toxic PS-ASOs, which lead to the mislocalization of P54nrb and PSF to nucleoli, causing nucleolar stress and cellular toxicity (Vickers2019Kinetic). The binding of PS-ASOs to RNASEH1 involves interactions with both the hybrid binding domain and the catalytic domain, with the hybrid binding domain contributing more to the overall affinity (Vickers2019Kinetic).
+
+Additionally, RNASEH1 interacts with Replication Protein A (RPA), which enhances its activity on R loops. This interaction is crucial for RNASEH1's ability to suppress R loops and prevent genomic instability (Nguyen2017Functions).
+
+
+## References
+
+
+[1. (Posse2019RNase) Viktor Posse, Ali Al-Behadili, Jay P. Uhler, Anders R. Clausen, Aurelio Reyes, Massimo Zeviani, Maria Falkenberg, and Claes M. Gustafsson. Rnase h1 directs origin-specific initiation of dna replication in human mitochondria. PLOS Genetics, 15(1):e1007781, January 2019. URL: http://dx.doi.org/10.1371/journal.pgen.1007781, doi:10.1371/journal.pgen.1007781. This article has 61 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1007781)
+
+[2. (Vickers2019Kinetic) Timothy A Vickers, Meghdad Rahdar, Thazha P Prakash, and Stanley T Crooke. Kinetic and subcellular analysis of ps-aso/protein interactions with p54nrb and rnase h1. Nucleic Acids Research, 47(20):10865–10880, September 2019. URL: http://dx.doi.org/10.1093/nar/gkz771, doi:10.1093/nar/gkz771. This article has 29 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkz771)
+
+[3. (Nguyen2017Functions) Hai Dang Nguyen, Tribhuwan Yadav, Sumanprava Giri, Borja Saez, Timothy A. Graubert, and Lee Zou. Functions of replication protein a as a sensor of r loops and a regulator of rnaseh1. Molecular Cell, 65(5):832-847.e4, March 2017. URL: http://dx.doi.org/10.1016/j.molcel.2017.01.029, doi:10.1016/j.molcel.2017.01.029. This article has 212 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2017.01.029)
+
+4. (González2020A) A second hybrid-binding domain modulates the activity of Drosophila ribonuclease H1. This article has 0 citations.
+
+[5. (Reyes2015RNASEH1) Aurelio Reyes, Laura Melchionda, Alessia Nasca, Franco Carrara, Eleonora Lamantea, Alice Zanolini, Costanza Lamperti, Mingyan Fang, Jianguo Zhang, Dario Ronchi, Sara Bonato, Gigliola Fagiolari, Maurizio Moggio, Daniele Ghezzi, and Massimo Zeviani. Rnaseh1 mutations impair mtdna replication and cause adult-onset mitochondrial encephalomyopathy. The American Journal of Human Genetics, 97(1):186–193, July 2015. URL: http://dx.doi.org/10.1016/j.ajhg.2015.05.013, doi:10.1016/j.ajhg.2015.05.013. This article has 89 citations.](https://doi.org/10.1016/j.ajhg.2015.05.013)
+
+[6. (Wang2018Human) Isabel X. Wang, Christopher Grunseich, Jennifer Fox, Joshua Burdick, Zhengwei Zhu, Niema Ravazian, Markus Hafner, and Vivian G. Cheung. Human proteins that interact with rna/dna hybrids. Genome Research, 28(9):1405–1414, August 2018. URL: http://dx.doi.org/10.1101/gr.237362.118, doi:10.1101/gr.237362.118. This article has 136 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1101/gr.237362.118)
+
+[7. (Suzuki2010An) Yutaka Suzuki, J. Bradley Holmes, Susana M. Cerritelli, Kiran Sakhuja, Michal Minczuk, Ian J. Holt, and Robert J. Crouch. An upstream open reading frame and the context of the two aug codons affect the abundance of mitochondrial and nuclear rnase h1. Molecular and Cellular Biology, 30(21):5123–5134, November 2010. URL: http://dx.doi.org/10.1128/MCB.00619-10, doi:10.1128/mcb.00619-10. This article has 98 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.00619-10)
+
+[8. (Hyjek2019RNases) Malwina Hyjek, Małgorzata Figiel, and Marcin Nowotny. Rnases h: structure and mechanism. DNA Repair, 84:102672, December 2019. URL: http://dx.doi.org/10.1016/j.dnarep.2019.102672, doi:10.1016/j.dnarep.2019.102672. This article has 104 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.dnarep.2019.102672)
+
+[9. (Reyes2020RNase) Aurelio Reyes, Joanna Rusecka, Katarzyna Tońska, and Massimo Zeviani. Rnase h1 regulates mitochondrial transcription and translation via the degradation of 7s rna. Frontiers in Genetics, January 2020. URL: http://dx.doi.org/10.3389/fgene.2019.01393, doi:10.3389/fgene.2019.01393. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2019.01393)
+
+[10. (Manini2022Case) Arianna Manini, Leonardo Caporali, Megi Meneri, Simona Zanotti, Daniela Piga, Ignazio Giuseppe Arena, Stefania Corti, Antonio Toscano, Giacomo Pietro Comi, Olimpia Musumeci, Valerio Carelli, and Dario Ronchi. Case report: rare homozygous rnaseh1 mutations associated with adult-onset mitochondrial encephalomyopathy and multiple mitochondrial dna deletions. Frontiers in Genetics, May 2022. URL: http://dx.doi.org/10.3389/fgene.2022.906667, doi:10.3389/fgene.2022.906667. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.906667)
+
+[11. (CarreñoGago2019Identification) Lidia Carreño-Gago, Cora Blázquez-Bermejo, Jordi Díaz-Manera, Yolanda Cámara, Eduard Gallardo, Ramon Martí, Javier Torres-Torronteras, and Elena García-Arumí. Identification and characterization of new rnaseh1 mutations associated with peo syndrome and multiple mitochondrial dna deletions. Frontiers in Genetics, June 2019. URL: http://dx.doi.org/10.3389/fgene.2019.00576, doi:10.3389/fgene.2019.00576. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2019.00576)

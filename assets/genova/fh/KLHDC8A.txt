@@ -1,0 +1,40 @@
+# KLHDC8A
+
+## Overview
+KLHDC8A is a gene that encodes the protein kelch domain containing 8A, which is part of the kelch protein family. This protein is characterized by the presence of kelch domains that form a β-propeller structure, facilitating protein-protein interactions crucial for various cellular processes (Lee2023Superenhancer). KLHDC8A plays a significant role in translation re-initiation, particularly in the context of ribosomal re-initiation on mRNA transcripts, and is involved in ciliogenesis by interacting with acetylated tubulin and the molecular chaperone CCT (Meurs2024Anin; Lee2023Superenhancer). The protein's function extends to the regulation of the hedgehog signaling pathway, which is vital for glioma stem cell maintenance and glioma progression, highlighting its potential as a therapeutic target in glioblastoma (Lee2023Superenhancer).
+
+## Structure
+The KLHDC8A protein is part of the kelch protein family, characterized by the presence of kelch domains, which typically contain 5-7 tandem repeats forming a β-propeller tertiary structure. This structure is known for mediating protein-protein interactions, which are crucial for its function in cellular processes (Lee2023Superenhancer). The β-propeller structure allows KLHDC8A to potentially function as an adaptor, facilitating interactions between the molecular chaperone CCT and α-tubulin, promoting tubulin folding and acetylation. This interaction is essential for tubulin biogenesis and primary cilia homeostasis (Lee2023Superenhancer).
+
+While specific details on the primary, secondary, and quaternary structures of KLHDC8A are not provided, the protein's involvement in protein-protein interactions suggests a complex tertiary structure typical of kelch domain-containing proteins. The kelch domain's repeated motifs contribute to the formation of the β-propeller, a common fold in proteins that mediate interactions with other cellular components (Lee2023Superenhancer).
+
+There is no specific information available on post-translational modifications or splice variant isoforms of KLHDC8A in the provided context.
+
+## Function
+KLHDC8A (kelch domain containing 8A) is a gene that encodes a protein involved in translation re-initiation, a critical process in protein synthesis. The protein plays a significant role in facilitating the re-initiation of ribosomes on the main coding sequence after translating upstream open reading frames (uORFs) in mRNA transcripts. This function is particularly dependent on the DENR protein, which aids in the translation of KLHDC8A by promoting ribosomal re-initiation (Meurs2024Anin).
+
+In healthy human cells, KLHDC8A is crucial for maintaining proper translation efficiency, as evidenced by its significant downregulation leading to reduced protein levels upon DENR knockout (Meurs2024Anin). The protein is also involved in cellular processes such as ciliogenesis, where it interacts with acetylated tubulin and the molecular chaperone CCT, suggesting a role in tubulin folding and acetylation (Lee2023Superenhancer). This interaction is important for the formation of primary cilia, which are essential for various signaling pathways, including hedgehog signaling (Lee2023Superenhancer). However, specific details about its function in non-cancerous human cells remain less explored in the available literature.
+
+## Clinical Significance
+KLHDC8A has been implicated in the progression of glioma, a type of brain cancer, through its up-regulation in glioma tissues compared to normal brain tissues. This up-regulation is associated with increased cell proliferation, migration, and invasion, particularly in high-grade gliomas. Knockdown of KLHDC8A in glioma cells results in decreased proliferation and increased apoptosis, suggesting its role in promoting tumorigenic processes (Zhu2020Lactate). 
+
+In glioblastoma, a highly aggressive form of brain cancer, KLHDC8A is activated by superenhancers and is crucial for the maintenance and proliferation of glioblastoma stem cells (GSCs). Its expression is linked to poor prognosis and is associated with the hedgehog signaling pathway, which is important for GSC maintenance. Knockdown of KLHDC8A leads to reduced expression of hedgehog pathway genes and decreased GSC proliferation (Lee2023Superenhancer). 
+
+KLHDC8A also plays a role in ciliation, interacting with the Chaperonin-Containing TCP1 complex to promote tubulin acetylation, which is crucial for cilia formation. This interaction supports hedgehog signaling, further contributing to glioma progression (Lee2023Superenhancer). These findings suggest that KLHDC8A could serve as a potential therapeutic target in glioma treatment.
+
+## Interactions
+KLHDC8A is involved in several protein interactions that are crucial for its function in glioma stem cells (GSCs). It interacts with the Chaperonin-Containing TCP1 (CCT) complex, which is essential for actin and tubulin biogenesis. This interaction was confirmed through coimmunoprecipitation experiments, where KLHDC8A was shown to coimmunoprecipitate with TCP1 and acetylated tubulin (Ac-tubulin). The knockdown of KLHDC8A results in decreased tubulin acetylation, while its overexpression promotes tubulin acetylation, indicating that KLHDC8A supports cilia formation by upregulating Ac-tubulin (Lee2023Superenhancer).
+
+KLHDC8A also plays a role in the regulation of the hedgehog signaling pathway, which is crucial for GSC maintenance. It promotes primary cilia formation, which is important for cellular signaling, and its knockdown leads to decreased expression of hedgehog pathway genes such as SHH and GLI1 (Lee2023Superenhancer). Additionally, KLHDC8A may act as an adaptor facilitating the interaction between CCT and α-tubulin, aiding in tubulin folding and acetylation (Lee2023Superenhancer).
+
+These interactions highlight the role of KLHDC8A in cellular processes related to glioma progression and its potential as a therapeutic target in glioblastoma.
+
+
+## References
+
+
+1. (Meurs2024Anin) Anin vitroassay of MCTS1-DENR-dependent re-initiation and ribosome profiling uncover the activity of MCTS2 and distinct function of eIF2D. This article has 0 citations.
+
+[2. (Zhu2020Lactate) Xiaolong Zhu, Tianbing Chen, Hui Yang, and Kun Lv. Lactate induced up‐regulation of klhdc8a (kelch domain‐containing 8a) contributes to the proliferation, migration and apoptosis of human glioma cells. Journal of Cellular and Molecular Medicine, 24(20):11691–11702, August 2020. URL: http://dx.doi.org/10.1111/jcmm.15780, doi:10.1111/jcmm.15780. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/jcmm.15780)
+
+[3. (Lee2023Superenhancer) Derrick Lee, Ryan C. Gimple, Xujia Wu, Briana C. Prager, Zhixin Qiu, Qiulian Wu, Vikas Daggubati, Aruljothi Mariappan, Jay Gopalakrishnan, Matthew R. Sarkisian, David R. Raleigh, and Jeremy N. Rich. Superenhancer activation of klhdc8a drives glioma ciliation and hedgehog signaling. Journal of Clinical Investigation, January 2023. URL: http://dx.doi.org/10.1172/jci163592, doi:10.1172/jci163592. This article has 9 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci163592)

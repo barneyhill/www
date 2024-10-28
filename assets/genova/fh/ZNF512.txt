@@ -1,0 +1,46 @@
+# ZNF512
+
+## Overview
+ZNF512 is a gene that encodes the zinc finger protein 512, which is a member of the zinc finger protein family known for their role in transcriptional regulation. The protein is characterized by its zinc finger motifs, which enable it to bind DNA and influence gene expression. ZNF512 is primarily localized in the nucleus and is involved in chromatin regulation, interacting with DNA at heterochromatic loci and major satellite repeats, suggesting a role in maintaining chromatin structure throughout the cell cycle (Schmidtmann2016Determination). The gene has been implicated in various diseases, including cancer and metabolic disorders, where alterations in its expression or genetic variants have been associated with disease progression and prognosis (Hebbar2020Genome-wide; Kotipalli2021Analysis). Despite its recognized involvement in these conditions, the precise molecular functions of ZNF512 in healthy human cells remain to be fully elucidated.
+
+## Structure
+
+
+## Function
+ZNF512, a zinc finger protein, is involved in transcriptional regulation, primarily functioning within the nucleus where it interacts with DNA to influence gene expression. The protein is implicated in chromatin regulation and structure, as evidenced by its localization at heterochromatic loci in C2C12 cells, suggesting a potential role throughout the cell cycle (Schmidtmann2016Determination). ZNF512 has been identified in association with major satellite repeats, indicating its involvement in the distinct protein landscapes of heterochromatic regions (Schmidtmann2016Determination).
+
+In the context of disease, ZNF512 has been associated with advanced liver fibrosis in biliary atresia, where it shows a positive correlation with cell infiltration, although its specific function in healthy human cells remains unclear (Sun2022A). In breast cancer, ZNF512 is targeted by multiple miRNAs, and its downregulation is linked to poor survival outcomes, highlighting its potential role in cancer progression (Kotipalli2021Analysis). Despite these associations, the precise molecular functions and organismal outcomes of ZNF512 in healthy human cells are not fully detailed in the available literature.
+
+## Clinical Significance
+ZNF512 has been implicated in several diseases due to alterations in its expression or genetic variants. In breast cancer, particularly the luminal-A subtype, ZNF512 is targeted by multiple miRNAs, including miR330 and miR3180-3, leading to its downregulation. This downregulation is associated with poor survival outcomes in breast cancer patients, highlighting its potential role in cancer prognosis (Kotipalli2021Analysis).
+
+In the context of metabolic traits, a variant of ZNF512, rs3749147, has been associated with triglyceride levels in the Arab population. This variant is located near the transcription start site and is significant for its potential impact on lipid metabolism (Hebbar2020Genome-wide).
+
+ZNF512 is also mentioned in studies related to oral cavity cancer (OCC), where it has been identified as a gene associated with OCC susceptibility. This suggests a broader role in cancer beyond breast cancer (Lv2021Integrated).
+
+In biliary atresia, ZNF512 is linked to immune and fibrotic processes, although specific clinical outcomes related to this condition are not detailed (Sun2022A). These findings collectively underscore the clinical significance of ZNF512 in various diseases, particularly in cancer and metabolic disorders.
+
+## Interactions
+ZNF512 is involved in various interactions that suggest its role in chromatin regulation and gene expression. The protein has been identified as a component of the chromatin environment at major satellite repeats, where it may play a structural or regulatory role throughout the cell cycle. This was demonstrated using the CasID method, which combines dCas9 with a biotin ligase to identify proteins at specific genomic loci, confirming ZNF512's presence at chromocenters (Schmidtmann2016Determination).
+
+In the context of gene expression regulation, ZNF512 is associated with wild-type TRIM28, a protein known for its role in transcriptional repression. This interaction suggests that ZNF512 may participate in TRIM28-mediated gene silencing mechanisms (Chang2023AcetylationMimic).
+
+Genome-wide binding analyses have shown that ZNF512 exhibits specific binding patterns around promoter transcription start sites, with a unique inverse pattern of depletion at the TSS and enrichment at flanking regions. This indicates a potential role in modulating transcriptional activity at these sites (Shehata2020Genomewide). Additionally, ZNF512 is enriched in LINE class repeats, suggesting a possible involvement in the regulation of these genomic elements (Shehata2020Genomewide).
+
+
+## References
+
+
+[1. (Sun2022A) Panpan Sun, Manhuan Xiao, Huadong Chen, Zhihai Zhong, Hong Jiang, Xuyang Feng, and Zhenhua Luo. A joint transcriptional regulatory network and protein activity inference analysis identifies clinically associated master regulators for biliary atresia. Frontiers in Pediatrics, November 2022. URL: http://dx.doi.org/10.3389/fped.2022.1050326, doi:10.3389/fped.2022.1050326. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fped.2022.1050326)
+
+2. (Lv2021Integrated) Integrated multi-omics data analysis identifies a novel genetics-risk gene ofIRF4associated with prognosis of oral cavity cancer. This article has 1 citations.
+
+[3. (Hebbar2020Genome-wide) Prashantha Hebbar, Jehad Ahmed Abubaker, Mohamed Abu-Farha, Osama Alsmadi, Naser Elkum, Fadi Alkayal, Sumi Elsa John, Arshad Channanath, Rasheeba Iqbal, Janne Pitkaniemi, Jaakko Tuomilehto, Robert Sladek, Fahd Al-Mulla, and Thangavel Alphonse Thanaraj. Genome-wide landscape establishes novel association signals for metabolic traits in the arab population. Human Genetics, 140(3):505–528, September 2020. URL: http://dx.doi.org/10.1007/s00439-020-02222-7, doi:10.1007/s00439-020-02222-7. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00439-020-02222-7)
+
+[4. (Chang2023AcetylationMimic) Yao-Jen Chang, Steven Lin, Zhi-Fu Kang, Bin-Jon Shen, Wen-Hai Tsai, Wen-Ching Chen, Hsin-Pin Lu, Yu-Lun Su, Shu-Jen Chou, Shu-Yu Lin, Sheng-Wei Lin, Yin-Jung Huang, Hsin-Hui Wang, and Ching-Jin Chang. Acetylation-mimic mutation of trim28-lys304 to gln attenuates the interaction with krab-zinc-finger proteins and affects gene expression in leukemic k562 cells. International Journal of Molecular Sciences, 24(12):9830, June 2023. URL: http://dx.doi.org/10.3390/ijms24129830, doi:10.3390/ijms24129830. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms24129830)
+
+5. (Shehata2020Genomewide) Genome-wide binding analysis of 195 DNA Binding Proteins reveals “reservoir” promoters and human specific SVA-repeat family regulation. This article has 1 citations.
+
+[6. (Schmidtmann2016Determination) Elisabeth Schmidtmann, Tobias Anton, Pascaline Rombaut, Franz Herzog, and Heinrich Leonhardt. Determination of local chromatin composition by casid. Nucleus, 7(5):476–484, September 2016. URL: http://dx.doi.org/10.1080/19491034.2016.1239000, doi:10.1080/19491034.2016.1239000. This article has 56 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/19491034.2016.1239000)
+
+[7. (Kotipalli2021Analysis) Aneesh Kotipalli, Ruma Banerjee, Sunitha Manjari Kasibhatla, and Rajendra Joshi. Analysis of h3k4me3-chip-seq and rna-seq data to understand the putative role of mirnas and their target genes in breast cancer cell lines. Genomics &amp; Informatics, 19(2):e17, June 2021. URL: http://dx.doi.org/10.5808/gi.21020, doi:10.5808/gi.21020. This article has 2 citations.](https://doi.org/10.5808/gi.21020)

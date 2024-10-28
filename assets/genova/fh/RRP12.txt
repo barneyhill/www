@@ -1,0 +1,46 @@
+# RRP12
+
+## Overview
+RRP12 is a gene that encodes the ribosomal RNA processing 12 homolog, a protein integral to the maturation and export of pre-40S ribosomal subunits in eukaryotic cells. This protein is categorized as a member of the HEAT-repeat protein family, characterized by its involvement in protein-protein interactions and its structural role in ribosome assembly. The RRP12 protein is essential for the quality control and transport of pre-40S ribosomal particles from the nucleoplasm to the cytoplasm, ensuring the proper maturation and stability of these particles. It interacts with various ribosome biogenesis factors and nucleoporins, playing a critical role in ribosomal RNA processing and ribosome biogenesis. Altered expression of RRP12 has been implicated in several cancers, making it a potential prognostic biomarker and therapeutic target (Nieto2020Identification; Wei2022Validating; Oeffinger2004A).
+
+## Structure
+RRP12 is a large protein involved in the maturation of pre-40S ribosomal particles. It is characterized by its ARM-repeat region, which forms an almost closed circle and provides an interface for binding CK1 (Cheng2022The). The protein consists of 44 helices in the center, with long N-terminal and C-terminal extensions (Cheng2022The). RRP12 is also a member of the HEAT-repeat protein family, which includes repeated motifs forming two antiparallel α-helices and two turns arranged around a common axis (Moriggi2024Role; Oeffinger2004A). These HEAT repeats are related to Armadillo-like repeats and are involved in protein-protein interactions (Moriggi2024Role).
+
+The tertiary structure of RRP12 includes regions of positive charge on its inner concave surface, which are proposed to interact with RNA (Moriggi2024Role). RRP12 binds to nucleoporin FG-repeats and the GTPase Gsp1p, indicating its role in nuclear export (Oeffinger2004A). The protein's structure is crucial for its function in ribosome assembly and export, acting as a scaffold for pre-ribosome assembly and participating in subunit export to the cytoplasm (Oeffinger2004A).
+
+## Function
+RRP12 is a crucial gene involved in the maturation of the 40S ribosomal subunit in human cells. The protein encoded by RRP12 plays a significant role in the quality control and transport of pre-40S ribosomal particles from the nucleoplasm to the cytoplasm. It ensures that only correctly formed pre-40S particles are exported, preventing the degradation of unstable particles within the nucleoplasm (Nieto2020Identification). RRP12 is associated with the head region of immature pre-40S particles, indicating its involvement in the proper maturation of this region (Nieto2020Identification).
+
+RRP12 interacts with several ribosome biogenesis factors, such as NOC4L and ENP1, and is essential for the stability of pre40S-Nuc particles, which are necessary for nuclear export (Nieto2020Identification). It is also involved in a regulatory step with PARN, a 3′-5′ exoribonuclease, which is crucial for the trimming of the 18S-E pre-rRNA and the release of RRP12 from pre-40S precursors (Nieto2020Identification). This interaction is specific to higher eukaryotes, as PARN homologs are absent in yeast and invertebrates (Nieto2020Identification). The proper function of RRP12 is essential for ribosome biogenesis, impacting protein synthesis and cellular function.
+
+## Clinical Significance
+RRP12 is implicated in several cancers due to its altered expression levels. In hepatocellular carcinoma (HCC), RRP12 is significantly upregulated and associated with poor prognosis, negatively impacting overall survival and disease-free survival. It is considered an independent prognostic factor for HCC, influencing cancer progression through immune-related mechanisms (Wei2022Validating). High RRP12 expression is also linked to lower survival rates in colon adenocarcinoma (COAD), where it promotes tumor growth and is considered a potential anticancer target (Hu2019Identification).
+
+In clear cell renal cell carcinoma (ccRCC), elevated RRP12 levels correlate with shorter overall survival, contributing to a prognostic risk model (Zhong2022Elevated). RRP12 is also associated with rubella susceptibility, as identified in a multi-tissue transcriptome-wide association study (Zhu2023Using).
+
+The gene's role extends beyond cancer, as it is involved in ribosomal RNA processing and ribosome biogenesis, processes that are often dysregulated in cancer. These findings highlight RRP12's potential as a prognostic biomarker and therapeutic target in various cancers.
+
+## Interactions
+RRP12 is a protein involved in the maturation of pre-40S ribosomal subunits and interacts with various proteins and RNA elements. It is recruited to the early 90S particle as part of the Noc4 module and associates with helices h34-40 of the 18S rRNA. RRP12 forms an almost closed circle with its ARM-repeat region, providing an interface to bind CK1, which phosphorylates BYSL and LTV1, triggering their release from the pre-40S particle (Cheng2022The). RRP12 interacts directly with Enp1, BYSL, SLX9, eS17, and the BUD23-TRMT112 complex, which are crucial for its stable association with the pre-40S and for preventing premature incorporation of other factors like NOB1 (Cheng2022The).
+
+RRP12 also binds strongly to Gsp1p (yeast Ran) in both its GTP and GDP-bound forms, as well as to the GLFG and FXFG-repeat regions of nucleoporins such as Nup100p, Nup116p, and Nsp1p. These interactions are significant for its function in ribosomal export (Oeffinger2004A). In human cells, RRP12 interacts with 21S and 18S-E pre-rRNA, NOC4L, and ENP1, but not with late-maturation RBFs TSR1, LTV1, and RIO2 (Nieto2020Identification).
+
+
+## References
+
+
+[1. (Wei2022Validating) Chao Wei, Ben Wang, Zhong-Huo Chen, Han Xiao, Lei Tang, Jia-Fu Guan, Rong-Fa Yuan, Xin Yu, Zhi-Gang Hu, Hua-Jun Wu, Zhi Dai, and Kai Wang. Validating rrp12 expression and its prognostic significance in hcc based on data mining and bioinformatics methods. Frontiers in Oncology, February 2022. URL: http://dx.doi.org/10.3389/fonc.2022.812009, doi:10.3389/fonc.2022.812009. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.812009)
+
+[2. (Oeffinger2004A) Marlene Oeffinger, Mensur Dlakić, and David Tollervey. A pre-ribosome-associated heat-repeat protein is required for export of both ribosomal subunits. Genes &amp; Development, 18(2):196–209, January 2004. URL: http://dx.doi.org/10.1101/gad.285604, doi:10.1101/gad.285604. This article has 97 citations.](https://doi.org/10.1101/gad.285604)
+
+[3. (Nieto2020Identification) Blanca Nieto, Sonia G. Gaspar, Giulia Moriggi, Dimitri G. Pestov, Xosé R. Bustelo, and Mercedes Dosil. Identification of distinct maturation steps involved in human 40s ribosomal subunit biosynthesis. Nature Communications, January 2020. URL: http://dx.doi.org/10.1038/s41467-019-13990-w, doi:10.1038/s41467-019-13990-w. This article has 22 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-13990-w)
+
+[4. (Hu2019Identification) Ming Hu, Xiandong Fu, Zhaoming Si, Chunming Li, Jihu Sun, Xinna Du, and Hu Zhang. Identification of differently expressed genes associated with prognosis and growth in colon adenocarcinoma based on integrated bioinformatics analysis. Frontiers in Genetics, December 2019. URL: http://dx.doi.org/10.3389/fgene.2019.01245, doi:10.3389/fgene.2019.01245. This article has 36 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2019.01245)
+
+[5. (Zhong2022Elevated) Wenting Zhong, Hongxia Liu, Feng Li, Youyu lin, Yan Ye, Luyun Xu, ShengZhao Li, Hui Chen, Chengcheng Li, Yuxuan Lin, Wei Zhuang, Yao Lin, and Qingshui Wang. Elevated expression of lif predicts a poor prognosis and promotes cell migration and invasion of clear cell renal cell carcinoma. Frontiers in Oncology, August 2022. URL: http://dx.doi.org/10.3389/fonc.2022.934128, doi:10.3389/fonc.2022.934128. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.934128)
+
+[6. (Cheng2022The) Jingdong Cheng, Benjamin Lau, Matthias Thoms, Michael Ameismeier, Otto Berninghausen, Ed Hurt, and Roland Beckmann. The nucleoplasmic phase of pre-40s formation prior to nuclear export. Nucleic Acids Research, 50(20):11924–11937, November 2022. URL: http://dx.doi.org/10.1093/nar/gkac961, doi:10.1093/nar/gkac961. This article has 12 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkac961)
+
+7. (Moriggi2024Role) Role of Rrp23 in the Formation of Ribosomal Subunits. This article has 0 citations.
+
+[8. (Zhu2023Using) Xiaobo Zhu, Yixin Zou, Linna Jia, Xiangyu Ye, Yanzheng Zou, Junlan Tu, Juntong Li, Rongbin Yu, Sheng Yang, and Peng Huang. Using multi-tissue transcriptome-wide association study to identify candidate susceptibility genes for respiratory infectious diseases. Frontiers in Genetics, March 2023. URL: http://dx.doi.org/10.3389/fgene.2023.1164274, doi:10.3389/fgene.2023.1164274. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2023.1164274)

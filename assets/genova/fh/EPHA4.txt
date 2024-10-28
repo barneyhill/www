@@ -1,0 +1,58 @@
+# EPHA4
+
+## Overview
+EPHA4 is a gene that encodes the EPH receptor A4, a member of the Eph receptor family, which is the largest group of receptor tyrosine kinases. The EPH receptor A4 is a transmembrane protein that plays a pivotal role in various biological processes, including axonal guidance, synaptic plasticity, and vascular development. The protein is characterized by its complex structure, comprising extracellular ligand-binding domains, a transmembrane segment, and intracellular domains that include a catalytic tyrosine kinase domain and a sterile alpha motif (SAM) domain. These structural features enable EPHA4 to engage in intricate signaling pathways, influencing cellular behaviors such as proliferation, differentiation, and apoptosis. The gene's expression and function are critical in both the nervous and vascular systems, with implications in disease states such as cancer, hypertension, and congenital anomalies (Light2021A; Qin2012Protein; Zhang2019EPHA4).
+
+## Structure
+The EPHA4 protein is a member of the Eph receptor family, characterized by its receptor tyrosine kinase activity. Its molecular structure includes several distinct domains. The extracellular region comprises a ligand-binding domain (LBD) with a jellyroll β-sandwich architecture, two fibronectin type III domains, and a Sushi domain (Qin2012Protein). The intracellular region contains a juxtamembrane segment, a catalytic tyrosine kinase domain, a sterile alpha motif (SAM) domain, and a PDZ domain binding motif (Light2021A).
+
+The SAM domain is crucial for oligomerization, with the L920F mutation enhancing oligomerization and promoting trimer formation (Light2021A). This mutation alters the conformation of the SAM domain, leading to increased autophosphorylation and receptor association (Light2021A). The SAM domain's structural changes due to the mutation result in higher-order oligomers, which are implicated in cancer (Light2021A).
+
+EPHA4 undergoes post-translational modifications, including phosphorylation at specific sites such as Y602 and Y779, which are important for its signaling functions (Light2021A). The protein also has several splice variant isoforms that can influence its function and localization.
+
+## Function
+EPHA4, a member of the ephrin receptor subfamily of protein-tyrosine kinases, plays a significant role in various physiological processes, particularly in the nervous and vascular systems. In the nervous system, EPHA4 is crucial for axonal guidance and synaptic plasticity. It interacts with ephrin ligands to mediate repulsive guidance cues, which are essential for the proper pathfinding of developing axons and the maintenance of neural circuitry (Goldshmit2004Axonal; Han2013Discovery). This receptor is also involved in the regulation of neural stem cell differentiation, proliferation, and apoptosis, with its activity modulating intracellular signaling pathways such as the MAPK pathway (Wang2021NogoAΔ20EphA4).
+
+In the vascular system, EPHA4 regulates vascular smooth muscle cell (VSMC) contractility, which is critical for blood pressure regulation. Its forward signaling decreases VSMC contractility, an effect that is enhanced by estrogen, suggesting a role in maintaining vascular tone and blood pressure homeostasis, particularly in females (Zhang2019EPHA4). EPHA4's interaction with ephrin ligands and its involvement in forward signaling pathways also suggest roles in other systems, such as the immune system and angiogenesis (Zhang2019EPHA4).
+
+## Clinical Significance
+Mutations and alterations in the EPHA4 gene have been linked to several diseases and conditions. In melanoma, the L920F gain-of-function mutation in the SAM domain of EphA4 affects receptor oligomerization and signaling, promoting malignancy. This mutation increases tyrosine phosphorylation and enhances interaction with adaptor proteins, contributing to melanoma progression (Light2021A).
+
+EPHA4 is also implicated in hypertension, particularly in individuals with type 2 diabetes. A single nucleotide variant in the 3rd intron of EPHA4 is associated with hypertension in females, suggesting a sex-specific risk factor. EPHA4 forward signaling reduces vascular smooth muscle cell contractility, an effect enhanced by estrogen, indicating its role in blood pressure regulation (Zhang2019EPHA4).
+
+In congenital hydronephrosis, impaired EphA4 signaling leads to renal injury and hypertension. Genetically modified mice with altered EphA4 signaling develop hydronephrosis, which correlates with increased blood pressure and renal damage, highlighting the gene's role in renal and cardiovascular health (Sällström2013Impaired).
+
+EPHA4 haploinsufficiency has been associated with short stature in a patient with a 2q35-q36.2 deletion, suggesting its involvement in growth-related conditions (Li2015EPHA4).
+
+## Interactions
+EPHA4 interacts with several proteins, playing a significant role in various cellular processes. It binds to JAK2 and STAT5B, with JAK2 associating with the kinase domain of EPHA4, particularly when the carboxy-terminal portion is deleted. This interaction is confirmed through co-expression experiments in HEK293T cells, where JAK2 binds to several EPHA4 mutants but not to those in an inactive conformation. Similarly, STAT5B binds to the amino-terminal region of the EPHA4 kinase domain (Sawada2017Molecular).
+
+EPHA4 also interacts with the growth hormone receptor (GHR), forming a complex that includes JAK2 and STAT5B, leading to the activation of STAT5B through both JAK2-dependent and independent pathways. This interaction involves both the extracellular and cytoplasmic domains of EPHA4 (Sawada2017Molecular).
+
+In neural stem cells, EPHA4 interacts with PDGFRβ, a receptor tyrosine kinase, in a protein dose-dependent manner. This interaction involves reciprocal activation through transphosphorylation, highlighting its role in cellular signaling pathways related to cell proliferation (Chen2017Direct).
+
+EPHA4 also binds to Nogo-A-Δ20, a domain of the Nogo-A protein, which is crucial for inhibiting apoptosis in neural stem cells by modulating the p38 and JNK MAPK signaling pathways (Wang2021NogoAΔ20EphA4).
+
+
+## References
+
+
+[1. (Light2021A) Taylor P. Light, Maricel Gomez-Soler, Zichen Wang, Kelly Karl, Elmer Zapata-Mercado, Marina P. Gehring, Bernhard C. Lechtenberg, Taras V. Pogorelov, Kalina Hristova, and Elena B. Pasquale. A cancer mutation promotes epha4 oligomerization and signaling by altering the conformation of the sam domain. Journal of Biological Chemistry, 297(1):100876, July 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.100876, doi:10.1016/j.jbc.2021.100876. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.100876)
+
+[2. (Zhang2019EPHA4) Zeqin Zhang, Johanne Tremblay, John Raelson, Tamar Sofer, Lizhong Du, Qiang Fang, Maria Argos, Francois-Christophe Marois-Blanchet, Yu Wang, Lingling Yan, John Chalmers, Mark Woodward, Stephen Harrap, Pavel Hamet, Hongyu Luo, and Jiangping Wu. Epha4 regulates vascular smooth muscle cell contractility and is a sex-specific hypertension risk gene in individuals with type 2 diabetes. Journal of Hypertension, 37(4):775–789, April 2019. URL: http://dx.doi.org/10.1097/hjh.0000000000001948, doi:10.1097/hjh.0000000000001948. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1097/hjh.0000000000001948)
+
+[3. (Goldshmit2004Axonal) Yona Goldshmit, Mary P. Galea, Graham Wise, Perry F. Bartlett, and Ann M. Turnley. Axonal regeneration and lack of astrocytic gliosis in epha4-deficient mice. The Journal of Neuroscience, 24(45):10064–10073, November 2004. URL: http://dx.doi.org/10.1523/jneurosci.2981-04.2004, doi:10.1523/jneurosci.2981-04.2004. This article has 257 citations.](https://doi.org/10.1523/jneurosci.2981-04.2004)
+
+[4. (Qin2012Protein) Haina Qin, Liangzhong Lim, and Jianxing Song. Protein dynamics at eph receptor-ligand interfaces as revealed by crystallography, nmr and md simulations. BMC Biophysics, January 2012. URL: http://dx.doi.org/10.1186/2046-1682-5-2, doi:10.1186/2046-1682-5-2. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/2046-1682-5-2)
+
+[5. (Li2015EPHA4) Chuan Li, Rongyu Chen, Xin Fan, Jingsi Luo, Jiale Qian, Jin Wang, Bobo Xie, Yiping Shen, and Shaoke Chen. Epha4 haploinsufficiency is responsible for the short stature of a patient with 2q35-q36.2 deletion and waardenburg syndrome. BMC Medical Genetics, April 2015. URL: http://dx.doi.org/10.1186/s12881-015-0165-2, doi:10.1186/s12881-015-0165-2. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12881-015-0165-2)
+
+[6. (Sällström2013Impaired) Johan Sällström, Christiane Peuckert, Xiang Gao, Erik Larsson, Anders Nilsson, Boye L. Jensen, Maristela L. Onozato, A. Erik G. Persson, Klas Kullander, and Mattias Carlström. Impaired epha4 signaling leads to congenital hydronephrosis, renal injury, and hypertension. American Journal of Physiology-Renal Physiology, 305(1):F71–F79, July 2013. URL: http://dx.doi.org/10.1152/ajprenal.00694.2012, doi:10.1152/ajprenal.00694.2012. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1152/ajprenal.00694.2012)
+
+[7. (Han2013Discovery) Xiaofeng Han, Yan Xu, Yilei Yang, Jingle Xi, Wang Tian, Srinivas Duggineni, Ziwei Huang, and Jing An. Discovery and characterization of a novel cyclic peptide that effectively inhibits ephrin binding to the epha4 receptor and displays anti-angiogenesis activity. PLoS ONE, 8(11):e80183, November 2013. URL: http://dx.doi.org/10.1371/journal.pone.0080183, doi:10.1371/journal.pone.0080183. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0080183)
+
+[8. (Wang2021NogoAΔ20EphA4) Jun-Ling Wang, Wei-Guang Chen, Jia-Jia Zhang, and Chao-Jin Xu. Nogo-a-δ20/epha4 interaction antagonizes apoptosis of neural stem cells by integrating p38 and jnk mapk signaling. Journal of Molecular Histology, 52(3):521–537, February 2021. URL: http://dx.doi.org/10.1007/s10735-021-09960-6, doi:10.1007/s10735-021-09960-6. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10735-021-09960-6)
+
+[9. (Chen2017Direct) Qingfa Chen, Takahiro Sawada, Kazushige Sakaguchi, and Fabin Han. Direct interaction of receptor tyrosine kinases, epha4 and pdgfr&amp;beta;, plays an important role in the proliferation of neural stem cells. Journal of Neurorestoratology, Volume 5:133–141, July 2017. URL: http://dx.doi.org/10.2147/jn.s139820, doi:10.2147/jn.s139820. This article has 4 citations.](https://doi.org/10.2147/jn.s139820)
+
+[10. (Sawada2017Molecular) Takahiro Sawada, Daiki Arai, Xuefeng Jing, Masayasu Miyajima, Stuart J. Frank, and Kazushige Sakaguchi. Molecular interactions of epha4, growth hormone receptor, janus kinase 2, and signal transducer and activator of transcription 5b. PLOS ONE, 12(7):e0180785, July 2017. URL: http://dx.doi.org/10.1371/journal.pone.0180785, doi:10.1371/journal.pone.0180785. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0180785)

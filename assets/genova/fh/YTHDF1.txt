@@ -1,0 +1,50 @@
+# YTHDF1
+
+## Overview
+YTHDF1 is a gene that encodes the YTH N6-methyladenosine RNA binding protein F1, a crucial player in the post-transcriptional regulation of gene expression. This protein is categorized as an m6A reader, recognizing and binding to N6-methyladenosine (m6A) modifications on mRNA, thereby influencing mRNA translation and stability. YTHDF1 is predominantly active in the cytoplasm, where it interacts with ribosomes and eukaryotic initiation factors to enhance translation efficiency. It plays significant roles in various physiological processes, including stem cell maintenance, embryonic development, and neural functions such as spatial learning and memory. Additionally, YTHDF1 is implicated in several cancers, where its overexpression is often associated with poor prognosis and aggressive tumor behavior, highlighting its potential as a therapeutic target and prognostic biomarker (Zou2023The; Chen2022N6Methyladenosine; Ren2023The).
+
+## Structure
+The YTHDF1 protein contains a highly conserved YTH domain, which is crucial for recognizing N6-methyladenosine (m6A) sites on RNA. This domain consists of 145 amino acids and is located between the unstructured N-terminal and C-terminal regions of the protein. The YTH domain of YTHDF1 specifically recognizes m6A sites using an m6A-binding pocket composed of three tryptophan residues: Trp411, Trp465, and Trp470. The secondary structure of the YTH domain includes four α helices and six β chains, which selectively bind to single-stranded, non-structured RNA. The aromatic cage formed by the tryptophan residues is essential for m6A recognition, and mutations in these residues significantly reduce binding affinity (Liao2022Insight).
+
+YTHDF1 is involved in promoting the translation of its RNA targets and interacts with eukaryotic initiation factors (eIFs), suggesting a role in translation initiation. The protein's structure and interactions are influenced by its low-complexity domains (LCDs), which affect its higher-order structures and protein interactions. These structural features contribute to its distinct molecular functions compared to other YTHDF proteins (Zou2023The). The YTHDF1 protein does not share highly similar protein partners with YTHDF2, indicating unique structural and functional roles (Zou2023The).
+
+## Function
+YTHDF1 is a protein that plays a crucial role in mRNA translation and stability in healthy human cells. It is a well-characterized m6A reader protein that recognizes N6-methyladenosine (m6A) modifications on mRNA, primarily enhancing the translation efficiency of these modified mRNAs (Zou2023The; Ren2023The). YTHDF1 is predominantly active in the cytoplasm, where it interacts with ribosomes and eukaryotic initiation factors, such as eIF3, to promote translation initiation and elongation (Zou2023The; Zhu2023The).
+
+In terms of cellular processes, YTHDF1 is involved in protein translation, stem cell self-renewal, and embryonic development. It enhances the translation of key mRNAs like JAK2 and TEAD1, which are important for stem cell maintenance and differentiation (Ren2023The). YTHDF1 also plays a significant role in the nervous system, where it is up-regulated in the hippocampus and is essential for spatial learning and memory by enhancing the translation efficiency of m6A-modified transcripts (Ren2023The).
+
+Overall, YTHDF1's function in healthy cells is to regulate gene expression through mRNA translation, impacting various physiological processes such as cell growth, differentiation, and development (Zou2023The; Ren2023The).
+
+## Clinical Significance
+YTHDF1 is implicated in various cancers due to its role in m6A RNA modification, affecting mRNA translation and stability. Overexpression of YTHDF1 is observed in several cancers, including non-small cell lung cancer (NSCLC), breast, cervical, gastric, and colorectal cancers, often linked to poor prognosis and aggressive tumor behavior (Chen2022N6Methyladenosine; Zhu2023The). In gastric cancer, YTHDF1 mutations occur in over 6% of patients and are associated with poor survival outcomes (Chen2022N6Methyladenosine). 
+
+In colorectal cancer, YTHDF1 promotes tumor growth and metastasis by enhancing the translation of m6A-modified mRNAs, such as ARHGEF2, and activating the WNT/β-catenin pathway (Chen2022N6Methyladenosine; Bai2019YTHDF1). In breast cancer, high YTHDF1 expression is linked to poor survival and is associated with immune microenvironment characteristics, potentially affecting immunotherapy outcomes (Hu2021m6A). 
+
+YTHDF1 also plays a role in lung adenocarcinoma with KRAS and TP53 co-mutations, where it enhances cyclin B1 translation, contributing to poor prognosis (Lou2021YTHDF1). These findings suggest YTHDF1 as a potential target for therapeutic interventions and a prognostic biomarker in various cancers.
+
+## Interactions
+YTHDF1 interacts with various proteins and nucleic acids, playing a significant role in mRNA translation and stability. It primarily binds to N6-methyladenosine (m6A)-modified RNA, enhancing translation by recruiting eukaryotic translation initiation factors such as eIF3, eIF4E, and potentially eIF4G (Chen2022N6Methyladenosine). YTHDF1 forms condensates with the small ribosomal subunit, promoting translation through liquid-liquid phase separation (Zou2022FMRP). This interaction is modulated by FMRP, a protein that binds YTHDF1. Unphosphorylated FMRP inhibits YTHDF1-mediated translation by preventing its interaction with ribosomal components, while phosphorylated FMRP releases YTHDF1 to form translationally active condensates with the ribosome (Zou2022FMRP).
+
+YTHDF1 also interacts with other m6A readers, such as YTHDF2 and YTHDF3, although these interactions are more related to their distinct roles in mRNA regulation rather than direct physical interactions (Zou2023The). In the context of fragile X syndrome, YTHDF1's interaction with FMRP is particularly relevant, as FMRP deficiency leads to hyperactive YTHDF1-mediated translation, suggesting a potential therapeutic target (Zou2022FMRP).
+
+
+## References
+
+
+[1. (Bai2019YTHDF1) Yang Bai, Chunxing Yang, Runliu Wu, Lihua Huang, Shenlei Song, Wanwan Li, Peichen Yan, Changwei Lin, Daojiang Li, and Yi Zhang. Ythdf1 regulates tumorigenicity and cancer stem cell-like activity in human colorectal carcinoma. Frontiers in Oncology, May 2019. URL: http://dx.doi.org/10.3389/fonc.2019.00332, doi:10.3389/fonc.2019.00332. This article has 186 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2019.00332)
+
+[2. (Liao2022Insight) Jingyu Liao, Yi Wei, Junnan Liang, Jingyuan Wen, Xiaoping Chen, Bixiang Zhang, and Liang Chu. Insight into the structure, physiological function, and role in cancer of m6a readers—yth domain-containing proteins. Cell Death Discovery, March 2022. URL: http://dx.doi.org/10.1038/s41420-022-00947-0, doi:10.1038/s41420-022-00947-0. This article has 39 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-022-00947-0)
+
+[3. (Ren2023The) Wenjun Ren, Yixiao Yuan, Yongwu Li, Luciano Mutti, Jun Peng, and Xiulin Jiang. The function and clinical implication of ythdf1 in the human system development and cancer. Biomarker Research, January 2023. URL: http://dx.doi.org/10.1186/s40364-023-00452-1, doi:10.1186/s40364-023-00452-1. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40364-023-00452-1)
+
+[4. (Chen2022N6Methyladenosine) Danyu Chen, Henley Cheung, Harry Cheuk-Hay Lau, Jun Yu, and Chi Chun Wong. N6-methyladenosine rna-binding protein ythdf1 in gastrointestinal cancers: function, molecular mechanism and clinical implication. Cancers, 14(14):3489, July 2022. URL: http://dx.doi.org/10.3390/cancers14143489, doi:10.3390/cancers14143489. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers14143489)
+
+[5. (Lou2021YTHDF1) Xiaoying Lou, Jinfeng Ning, Wei Liu, Kexin Li, Benheng Qian, Danfei Xu, Yue Wu, Donghong Zhang, and Wei Cui. Ythdf1 promotes cyclin b1 translation through m6a modulation and contributes to the poor prognosis of lung adenocarcinoma with kras/tp53 co-mutation. Cells, 10(7):1669, July 2021. URL: http://dx.doi.org/10.3390/cells10071669, doi:10.3390/cells10071669. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells10071669)
+
+[6. (Zou2023The) Zhongyu Zou, Caraline Sepich-Poore, Xiaoming Zhou, Jiangbo Wei, and Chuan He. The mechanism underlying redundant functions of the ythdf proteins. Genome Biology, January 2023. URL: http://dx.doi.org/10.1186/s13059-023-02862-8, doi:10.1186/s13059-023-02862-8. This article has 43 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13059-023-02862-8)
+
+[7. (Zhu2023The) Yanan Zhu, Jing Li, Hang Yang, Xinyi Yang, Ya Zhang, Xinchao Yu, Ying Li, Gangxian Chen, and Zuozhang Yang. The potential role of m6a reader ythdf1 as diagnostic biomarker and the signaling pathways in tumorigenesis and metastasis in pan-cancer. Cell Death Discovery, January 2023. URL: http://dx.doi.org/10.1038/s41420-023-01321-4, doi:10.1038/s41420-023-01321-4. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-023-01321-4)
+
+[8. (Hu2021m6A) Ying Hu, Qinwen Pan, Minghao Wang, Xiang Ai, Yuzhao Yan, Yuan Tian, Yuting Jing, Peng Tang, and Jun Jiang. M6a rna methylation regulator ythdf1 correlated with immune microenvironment predicts clinical outcomes and therapeutic efficacy in breast cancer. Frontiers in Medicine, August 2021. URL: http://dx.doi.org/10.3389/fmed.2021.667543, doi:10.3389/fmed.2021.667543. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmed.2021.667543)
+
+9. (Zou2022FMRP) FMRP phosphorylation modulates neuronal translation through YTHDF1. This article has 3 citations.

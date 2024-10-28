@@ -1,0 +1,30 @@
+# C4orf19
+
+## Overview
+C4orf19, or chromosome 4 open reading frame 19, is a gene that encodes an uncharacterized protein involved in various cellular processes. The protein encoded by C4orf19 is implicated in significant protein interactions, particularly with the PDCD10-GCK-III kinase module, suggesting a role in cellular signaling pathways (Kuzmin2023Evolution). Although the precise biological function of the C4orf19 protein remains to be fully elucidated, it is believed to influence cell proliferation and maintain epithelial integrity, potentially impacting kidney function (Palukuri2023Molecular). Clinically, C4orf19 has been associated with several cancers, including colon adenocarcinoma and clear cell renal cell carcinoma, where its expression levels correlate with disease prognosis and treatment outcomes (Zhang2024Clear; Wang2022Downregulated). These findings suggest that C4orf19 may serve as a prognostic biomarker and a potential target for therapeutic interventions in cancer.
+
+## Clinical Significance
+C4orf19 has been identified as having clinical significance in several types of cancer, particularly colon adenocarcinoma (COAD) and clear cell renal cell carcinoma (ccRCC). In COAD, C4orf19 is downregulated, and its low expression is associated with poor prognosis. This downregulation correlates with advanced clinical stages and metastasis, suggesting its potential as a prognostic biomarker. The gene's involvement in the nitrogen metabolic pathway and its regulation of carbonic anhydrases CA2 and CA4 are linked to tumor progression, indicating that C4orf19 could be a target for therapeutic strategies in COAD (Wang2022Downregulated).
+
+In ccRCC, C4orf19 is also downregulated, and its expression level is associated with immune checkpoint blockade treatment outcomes. Lower expression correlates with higher immune cell infiltration and poorer overall survival, suggesting a role in the tumor immune microenvironment. This makes C4orf19 a potential target for immunotherapy strategies in ccRCC (Zhang2024Clear).
+
+Additionally, in rectum adenocarcinoma (READ), higher expression levels of C4orf19 are associated with better overall survival rates, highlighting its prognostic significance in this cancer type as well (Ershov2023Uncharacterized).
+
+## Interactions
+C4orf19, also known as PGCA1, is involved in several protein interactions, particularly with the PDCD10-GCK-III kinase module. High-throughput methods such as affinity capture-MS and yeast two-hybrid assays have identified interactions between C4orf19 and PDCD10, as well as with the germinal center kinases (GCK-III) subfamily members STK24, STK25, and STK26. These interactions were confirmed through co-immunoprecipitation assays in MCF10A cells, demonstrating that C4orf19 interacts with PDCD10 and its associated kinases (Kuzmin2023Evolution). Proximity-dependent biotinylation coupled with mass spectrometry (miniTurboID) further identified 370 high-confidence proximal interactors of C4orf19, including PDCD10, STK24, STK25, and STK26 (Kuzmin2023Evolution).
+
+C4orf19 is suggested to directly bind to PDCD10, potentially competing with striatins for binding to PDCD10, using the same interface. This interaction may tether the GCK-III kinases through the PDCD10 adapter to the plasma membrane, influencing processes like cell proliferation (Kuzmin2023Evolution). In addition, C4orf19 is found in a complex with PDCD10, STK24, STK25, and STK26, which are known to maintain epithelial integrity and regulate kidney water balance, suggesting a potential role for C4orf19 in normal kidney function (Palukuri2023Molecular).
+
+
+## References
+
+
+[1. (Zhang2024Clear) Jiayu Zhang, Hongyi Jiang, Dapang Rao, and Xishi Jin. Clear cell renal cell carcinoma: immunological significance of alternative splicing signatures. Frontiers in Oncology, January 2024. URL: http://dx.doi.org/10.3389/fonc.2023.1206882, doi:10.3389/fonc.2023.1206882. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1206882)
+
+2. (Kuzmin2023Evolution) Evolution of chromosome arm aberrations in breast cancer through genetic network rewiring. This article has 0 citations.
+
+[3. (Palukuri2023Molecular) Meghana V. Palukuri, Ridhi S. Patil, and Edward M. Marcotte. Molecular complex detection in protein interaction networks through reinforcement learning. BMC Bioinformatics, August 2023. URL: http://dx.doi.org/10.1186/s12859-023-05425-7, doi:10.1186/s12859-023-05425-7. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12859-023-05425-7)
+
+[4. (Wang2022Downregulated) Wanpeng Wang, Xiaolu Lin, Ran Yu, Suqin Zhou, Yanyan Liu, Haifeng Jia, Feng Han, Yanzhi Bu, and Juan Pu. Down-regulated c4orf19 confers poor prognosis in colon adenocarcinoma identified by gene co-expression network. Journal of Cancer, 13(4):1145–1159, 2022. URL: http://dx.doi.org/10.7150/jca.63635, doi:10.7150/jca.63635. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/jca.63635)
+
+[5. (Ershov2023Uncharacterized) Pavel Ershov, Evgeniy Yablokov, Yuri Mezentsev, and Alexis Ivanov. Uncharacterized proteins cxorfx: subinteractome analysis and prognostic significance in cancers. International Journal of Molecular Sciences, 24(12):10190, June 2023. URL: http://dx.doi.org/10.3390/ijms241210190, doi:10.3390/ijms241210190. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms241210190)

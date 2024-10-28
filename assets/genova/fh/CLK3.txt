@@ -1,0 +1,44 @@
+# CLK3
+
+## Overview
+CLK3 is a gene that encodes the CDC like kinase 3, a member of the Cdc2-like kinase family, which is characterized by its dual-specificity kinase activity. This protein kinase is involved in the regulation of RNA splicing and processing, primarily through the phosphorylation of serine/arginine-rich (SR) proteins, which are essential for pre-mRNA splicing and the generation of diverse protein isoforms. The structural features of CDC like kinase 3 include a conserved kinase domain with a unique substitution in the DFG motif, which influences its binding properties and functional interactions. CDC like kinase 3 plays a critical role in cellular processes such as mRNA maturation, cellular differentiation, and proliferation, and is particularly significant in the context of hematopoietic stem cells and cancer progression. Its interactions with proteins like USP13 and SRSF1 further underscore its importance in modulating protein stability and activity, impacting various cellular pathways and disease states (Song2023Cdc2like; Cesana2018A; Zhou2020Targeting).
+
+## Structure
+CLK3, a member of the Cdc2-like kinase family, exhibits a conserved kinase domain structure typical of this group. The protein consists of a flexible, unstructured N-terminal region and a well-ordered catalytic domain. The N-terminal region resembles RS domains found in its target SR protein substrates, facilitating interactions and phosphorylation (Song2023Cdc2like). The catalytic domain displays a typical kinase fold with an N-lobe and a C-lobe, bridged by a hinge region forming a conserved ATP binding pocket. The N-lobe includes three β-strands and an α-helix, while the C-lobe contains three conserved structural insertions: a β-hairpin insertion, a LAMMER domain, and a MAPK-like insertion, which are crucial for substrate recognition and binding specificity (Song2023Cdc2like).
+
+A notable structural feature of CLK3 is the substitution of a Val residue with Ala in the DFG sequence motif, which increases the binding cavity size and affects inhibitor binding (Song2023Cdc2like). CLK3 is capable of autophosphorylation, a common post-translational modification, but does not phosphorylate exogenous substrates like histone or casein (Becker1996cDNA). The protein's structure and modifications play a significant role in its function in splicing regulation and other cellular processes.
+
+## Function
+CLK3 (CDC like kinase 3) is a dual-specificity protein kinase that plays a significant role in regulating RNA splicing and processing in healthy human cells. It is part of the Cdc2-like kinases (CLKs) family, which phosphorylates serine/arginine-rich (SR) proteins, crucial for pre-mRNA splicing and the generation of different protein isoforms. This phosphorylation is essential for spliceosome assembly and alternative splicing, processes critical for cell growth and survival (Song2023Cdc2like).
+
+CLK3 is primarily active in the nuclear compartment, where it influences mRNA maturation and potentially affects cellular differentiation and proliferation (Song2023Cdc2like). In human hematopoietic stem cells (HSCs), CLK3 is involved in an alternative splicing axis with the HMGA2 gene, promoting the skipping of specific exons in a manner dependent on the splicing factor SRSF1. This regulation enhances the stemness potential of HSCs by reinforcing an HSC-specific program (Cesana2018A).
+
+The CLK3-HMGA2 splicing axis is crucial for maintaining the molecular identity of HSCs throughout development, highlighting CLK3's role in regulating transcriptional diversity and functional identity in these cells (Cesana2018A).
+
+## Clinical Significance
+CLK3 (CDC like kinase 3) has been implicated in the progression of several cancers, notably cholangiocarcinoma (CCA) and hepatocellular carcinoma (HCC). In CCA, a recurrent Q607R somatic mutation in the CLK3 kinase domain acts as a gain-of-function mutation, enhancing oncogenic progression by reprogramming purine metabolism. This mutation promotes the phosphorylation of USP13, which stabilizes the c-Myc protein by preventing its ubiquitination, thereby enhancing c-Myc-mediated purine synthesis and contributing to cancer aggressiveness (Song2023Cdc2like; Zhou2020Targeting). High CLK3 expression in CCA is associated with poor overall survival and is linked to increased tumor size, stage, and metastasis (Zhou2020Targeting).
+
+In HCC, CLK3 is associated with TNM stages and patient prognosis, promoting Wnt 3a transcription and activating Wnt/β-catenin signaling cascades, which lead to increased cell proliferation, migration, and invasion (Song2023Cdc2like). Elevated CLK3 expression is also observed in other cancers, including colorectal adenocarcinoma, where it correlates with poor survival outcomes (Song2023Cdc2like). These findings suggest that CLK3 plays a significant role in cancer progression and could be a potential target for therapeutic intervention.
+
+## Interactions
+CLK3 (CDC like kinase 3) is involved in several protein interactions that are crucial for its function in cellular processes. One significant interaction is with USP13, where CLK3 phosphorylates USP13 at tyrosine 708 (Y708). This phosphorylation is essential for USP13 to bind directly to the c-Myc protein, stabilizing c-Myc by preventing its ubiquitination and degradation. This interaction is critical for promoting c-Myc-mediated purine synthesis, which is linked to the progression of cholangiocarcinoma (CCA) (Zhou2020Targeting).
+
+CLK3 also interacts with the SRSF1 protein, a known substrate, as demonstrated by immunoprecipitation kinase assays. This interaction suggests a role for CLK3 in the regulation of splicing processes, as SRSF1 is involved in spliceosome assembly and alternative splicing (Song2023Cdc2like; Zhou2020Targeting).
+
+In colorectal cancer, CLK3 has been shown to bind with c-MYC, enhancing its expression and preventing its degradation. This interaction is crucial for CLK3-mediated tumor proliferation, as silencing c-MYC reverses the effects of CLK3 on cancer cell proliferation (Shen2024CLK3).
+
+These interactions highlight CLK3's role in modulating protein stability and activity, impacting various cellular pathways and disease progressions.
+
+
+## References
+
+
+[1. (Song2023Cdc2like) Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, April 2023. URL: http://dx.doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41392-023-01409-4)
+
+[2. (Cesana2018A) Marcella Cesana, Michael H. Guo, Davide Cacchiarelli, Lara Wahlster, Jessica Barragan, Sergei Doulatov, Linda T. Vo, Beatrice Salvatori, Cole Trapnell, Kendell Clement, Patrick Cahan, Kaloyan M. Tsanov, Patricia M. Sousa, Barbara Tazon-Vega, Adriano Bolondi, Federico M. Giorgi, Andrea Califano, John L. Rinn, Alexander Meissner, Joel N. Hirschhorn, and George Q. Daley. A clk3-hmga2 alternative splicing axis impacts human hematopoietic stem cell molecular identity throughout development. Cell Stem Cell, 22(4):575-588.e7, April 2018. URL: http://dx.doi.org/10.1016/j.stem.2018.03.012, doi:10.1016/j.stem.2018.03.012. This article has 42 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.stem.2018.03.012)
+
+[3. (Zhou2020Targeting) Qingxin Zhou, Meihua Lin, Xing Feng, Fei Ma, Yuekun Zhu, Xing Liu, Chao Qu, Hong Sui, Bei Sun, Anlong Zhu, Heng Zhang, He Huang, Zhi Gao, Yongxiang Zhao, Jiangyun Sun, Yuxian Bai, Junfei Jin, Xuehui Hong, Chang Zou, and Zhiyong Zhang. Targeting clk3 inhibits the progression of cholangiocarcinoma by reprogramming nucleotide metabolism. Journal of Experimental Medicine, May 2020. URL: http://dx.doi.org/10.1084/jem.20191779, doi:10.1084/jem.20191779. This article has 45 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1084/jem.20191779)
+
+[4. (Becker1996cDNA) Walter Becker, Heiner Kentrup, Jörg Heukelbach, and Hans-Georg Joost. Cdna cloning and characterization of rat clk3, a lammer kinase predominately expressed in testis. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1312(1):63–67, June 1996. URL: http://dx.doi.org/10.1016/0167-4889(96)00036-5, doi:10.1016/0167-4889(96)00036-5. This article has 14 citations.](https://doi.org/10.1016/0167-4889(96)00036-5)
+
+[5. (Shen2024CLK3) Jing Shen, Yu Zhao, Yang Man, and Xuling Sun. Clk3 promotes tumor proliferation by activating myc signaling. Cell Division, September 2024. URL: http://dx.doi.org/10.1186/s13008-024-00132-y, doi:10.1186/s13008-024-00132-y. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13008-024-00132-y)

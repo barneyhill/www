@@ -1,0 +1,50 @@
+# C1S
+
+## Overview
+The C1S gene encodes the complement C1s protein, a serine protease that plays a pivotal role in the classical complement pathway, an essential component of the innate immune system. The C1s protein is part of the C1 complex, which also includes C1q and C1r, and is responsible for initiating the complement cascade by cleaving complement components C4 and C2. This process leads to the formation of the C3 convertase, crucial for pathogen opsonization and clearance. Structurally, C1s is characterized by domains such as CUB, EGF-like, and complement control protein (CCP) modules, which facilitate its interactions and activation within the C1 complex (Venkatraman2013Structural; Gaboriaud2000Crystal). The gene's expression and function are tightly regulated, with dysregulation linked to various diseases, including autoimmune disorders and cancer, underscoring its clinical significance (Degn2011DiseaseCausing; Zhang2024Pancancer).
+
+## Structure
+The C1S protein is a serine protease involved in the classical complement pathway. Its primary structure includes a signal peptide, a propeptide, and a catalytic domain. The secondary structure features beta-sheets and alpha-helices, with the catalytic domain composed of two six-stranded beta-barrels connected by trans-segments and a C-terminal alpha-helix (Gaboriaud2000Crystal). The tertiary structure of C1S involves a two-chain form linked by disulfide bonds, with a compact hydrophobic core in the CCP2 module stabilized by disulfide bridges (Gaboriaud2000Crystal).
+
+C1S's quaternary structure is part of the C1 complex, associating with C1r and C1q. It forms a tetramer in the absence of collagen peptide, mimicking the organization of C1r and C1s polypeptides in the C1 complex (Venkatraman2013Structural). The protein contains several domains, including CUB domains, an EGF-like domain, and complement control protein (CCP) modules. The CCP2 module is oriented perpendicularly to the serine protease domain, providing additional substrate recognition sites (Gaboriaud2000Crystal). The CUB1-EGF regions can form Ca2+-dependent homodimers, a property shared with MASP proteases (Gaboriaud2021Structures). Common post-translational modifications include glycosylation and cleavage activation.
+
+## Function
+The C1S gene encodes a serine protease that is a critical component of the C1 complex, which initiates the classical complement pathway. This pathway is essential for immune responses, including the lysis and opsonization of pathogens and the stimulation of inflammatory and adaptive immune responses (Almitairi2018Structure). The C1 complex is composed of C1q, which recognizes antibody-antigen complexes, and a tetramer of proteases, including two C1r and two C1s molecules. C1s, along with C1r, forms a Ca2+-dependent heterotetramer that becomes activated upon binding to C1q. This activation leads to the cleavage of substrates C4 and C2, forming the C3 convertase (C4b2a), which is essential for the continuation of the complement cascade (Almitairi2018Structure).
+
+In healthy human cells, C1s is primarily involved in activating the classical complement pathway, which is crucial for controlling bacterial infections and clearing immune complexes and apoptotic cells (Lorvellec2023HMGB1). C1s is mostly in a proenzyme form within the C1 complex in normal human serum, and its activity is regulated by the presence of C1 inhibitor (C1-INH) to prevent unwarranted activation (Lorvellec2023HMGB1). C1s is active in the extracellular space, particularly in blood plasma, contributing to immune defense by promoting opsonization and clearance of pathogens (Ye2022Complement).
+
+## Clinical Significance
+Mutations and alterations in the C1S gene are associated with several diseases and conditions. Genetic polymorphisms, such as single nucleotide polymorphisms (SNPs) and gene deletions, can lead to deficiencies in complement components, contributing to immune complex diseases (ICD), systemic lupus erythematosus (SLE), and recurrent infections (RI) (Mayilyan2012Complement). Specifically, C1S gene mutations are linked to a lupus-like syndrome and recurrent bacterial infections due to impaired complement activation (Degn2011DiseaseCausing).
+
+In cancer, the C1S gene shows elevated expression in various tumors, including breast cancer and stomach adenocarcinoma, and is associated with poorer prognosis in glioblastoma and lower grade glioma (GBMLGG) (Zhang2024Pancancer). High C1S expression correlates with tumor stemness and a 'hot' immune microenvironment, suggesting its role in promoting tumor progression and influencing immune responses (Zhang2024Pancancer). Drug sensitivity analysis indicates that patients with high C1S expression may benefit from treatment with 6-mercaptopurine, which shows a negative correlation with C1S expression (Zhang2024Pancancer).
+
+Overall, alterations in C1S gene expression and function are implicated in both autoimmune disorders and cancer, highlighting its clinical significance in disease pathogenesis and potential therapeutic targeting.
+
+## Interactions
+C1S is a serine protease that plays a crucial role in the classical pathway of the complement system. It forms part of the C1 complex, which includes C1q, C1r, and C1s. C1S interacts with C1r to form a C1r-C1s tetramer, which associates with C1q to form the C1 complex. This interaction is calcium-dependent and involves the CUB1-EGF-CUB2 domains of C1r and C1s, forming a compact antiparallel heterodimer (Almitairi2018Structure).
+
+C1S is located within a cage-like structure formed by the collagenous stems of C1q, which protects it from premature activation by other serum proteases. The interaction between C1s and C1q is stabilized when C1r-C1s tetramers bind to C1q, facilitating the assembly and activation of the C1 complex (Venkatraman2013Structural).
+
+Upon activation by C1r, C1S cleaves C4 and C2, initiating the complement cascade. The interaction with C4 involves an extended binding site on C1s, and the structural features of C1s, including the CCP1-CCP2 modules, are crucial for this function (Gaboriaud2021Structures).
+
+
+## References
+
+
+[1. (Degn2011DiseaseCausing) Søren E. Degn, Jens C. Jensenius, and Steffen Thiel. Disease-causing mutations in genes of the complement system. The American Journal of Human Genetics, 88(6):689–705, June 2011. URL: http://dx.doi.org/10.1016/j.ajhg.2011.05.011, doi:10.1016/j.ajhg.2011.05.011. This article has 140 citations.](https://doi.org/10.1016/j.ajhg.2011.05.011)
+
+[2. (Gaboriaud2000Crystal) C. Gaboriaud. Crystal structure of the catalytic domain of human complement c1s: a serine protease with a handle. The EMBO Journal, 19(8):1755–1765, April 2000. URL: http://dx.doi.org/10.1093/emboj/19.8.1755, doi:10.1093/emboj/19.8.1755. This article has 139 citations.](https://doi.org/10.1093/emboj/19.8.1755)
+
+[3. (Venkatraman2013Structural) Umakhanth Venkatraman Girija, Alexandre R. Gingras, Jamie E. Marshall, Roshni Panchal, Md. Arif Sheikh, James A. J. Harper, Péter Gál, Wilhelm J. Schwaeble, Daniel A. Mitchell, Peter C. E. Moody, and Russell Wallis. Structural basis of the c1q/c1s interaction and its central role in assembly of the c1 complex of complement activation. Proceedings of the National Academy of Sciences, 110(34):13916–13920, August 2013. URL: http://dx.doi.org/10.1073/pnas.1311113110, doi:10.1073/pnas.1311113110. This article has 89 citations.](https://doi.org/10.1073/pnas.1311113110)
+
+[4. (Almitairi2018Structure) Jamal O. M. Almitairi, Umakhanth Venkatraman Girija, Christopher M. Furze, Xanthe Simpson-Gray, Farah Badakshi, Jamie E. Marshall, Wilhelm J. Schwaeble, Daniel A. Mitchell, Peter C. E. Moody, and Russell Wallis. Structure of the c1r–c1s interaction of the c1 complex of complement activation. Proceedings of the National Academy of Sciences, 115(4):768–773, January 2018. URL: http://dx.doi.org/10.1073/pnas.1718709115, doi:10.1073/pnas.1718709115. This article has 51 citations.](https://doi.org/10.1073/pnas.1718709115)
+
+[5. (Lorvellec2023HMGB1) Marie Lorvellec, Anne Chouquet, Jonas Koch, Isabelle Bally, Luca Signor, Jeanne Vigne, Fabien Dalonneau, Nicole M. Thielens, Thierry Rabilloud, Bastien Dalzon, Véronique Rossi, and Christine Gaboriaud. Hmgb1 cleavage by complement c1s and its potent anti-inflammatory product. Frontiers in Immunology, April 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1151731, doi:10.3389/fimmu.2023.1151731. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1151731)
+
+[6. (Zhang2024Pancancer) Jing Zhang, Qian Zhao, Yun Du, Wannan Wang, and Cuiqing Liu. Pan-cancer analysis identifies venous thromboembolism-related genes f3, plat, and c1s as potential prognostic biomarkers for glioblastoma and lower grade glioma. Molecular Biomedicine, August 2024. URL: http://dx.doi.org/10.1186/s43556-024-00197-9, doi:10.1186/s43556-024-00197-9. This article has 0 citations.](https://doi.org/10.1186/s43556-024-00197-9)
+
+[7. (Mayilyan2012Complement) Karine R. Mayilyan. Complement genetics, deficiencies, and disease associations. Protein &amp; Cell, 3(7):487–496, July 2012. URL: http://dx.doi.org/10.1007/s13238-012-2924-6, doi:10.1007/s13238-012-2924-6. This article has 134 citations.](https://doi.org/10.1007/s13238-012-2924-6)
+
+[8. (Gaboriaud2021Structures) Christine Gaboriaud, Véronique Rossi, and Nicole M. Thielens. Structures of the MASP Proteases and Comparison with Complement C1r and C1s, pages 73–101. Springer International Publishing, 2021. URL: http://dx.doi.org/10.1007/978-3-030-67048-1_4, doi:10.1007/978-3-030-67048-1_4. This article has 0 citations.](https://doi.org/10.1007/978-3-030-67048-1_4)
+
+[9. (Ye2022Complement) Jun Ye, Peng Yang, Yili Yang, and Sheng Xia. Complement c1s as a diagnostic marker and therapeutic target: progress and propective. Frontiers in Immunology, October 2022. URL: http://dx.doi.org/10.3389/fimmu.2022.1015128, doi:10.3389/fimmu.2022.1015128. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2022.1015128)

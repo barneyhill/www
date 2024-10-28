@@ -1,0 +1,48 @@
+# CMTR1
+
+## Overview
+CMTR1, or cap methyltransferase 1, is a gene that encodes a protein of the same name, which functions as a 2′-O-ribose methyltransferase. This enzyme is integral to the post-transcriptional modification of mRNA, specifically catalyzing the N1-2'O-methylation of the penultimate nucleotide, thereby forming the cap1 structure. This modification is crucial for mRNA stability, efficient translation, and protection from immune detection and degradation. CMTR1 is categorized as a methyltransferase and is primarily localized in the nucleus, where it interacts with RNA polymerase II, suggesting a role in transcription regulation. The protein's structure includes a catalytic Rossmann-fold methyltransferase domain and a guanylyltransferase-like domain, which are essential for its enzymatic activity. CMTR1 is involved in various cellular processes, including mRNA splicing and the regulation of ribosomal protein mRNAs, and has been implicated in several cancers and immune response regulation (Wolter2023mRNA; Smietanski2014Structural; Dix2022CMTr).
+
+## Structure
+The CMTR1 protein is a human 2′-O-ribose methyltransferase involved in mRNA cap structure formation. Its primary structure includes a catalytic Rossmann-fold methyltransferase (RFM) domain, spanning residues 126-550, which is crucial for its enzymatic activity (Smietanski2014Structural). The secondary structure of CMTR1 features a Rossmann-like fold, characterized by a β-sheet with seven strands surrounded by six α-helices, a common motif in the RFM superfamily (Smietanski2014Structural).
+
+The tertiary structure of CMTR1 reveals a deep pocket for the binding of the m7G cap structure and the cofactor S-adenosylmethionine (SAM), essential for its methyltransferase function (Dix2022CMTr). The protein's structure includes a positively charged arginine cluster that stabilizes the triphosphate bridge and phosphate backbone of RNA residues (Smietanski2014Structural).
+
+CMTR1's quaternary structure involves its interaction within the PEC-RNGTT-CMTR1 complex, where it is anchored through flexible interactions and loop regions (Li2023Structures). The protein also contains a guanylyltransferase-like domain, contributing to its activity but not essential for methylation (Smietanski2014Structural). The N-terminus of CMTR1 is rich in intrinsic disorder, making it prone to degradation (Smietanski2014Structural).
+
+## Function
+CMTR1, also known as cap methyltransferase 1, is a crucial enzyme in human cells involved in the post-transcriptional modification of mRNA. It specifically catalyzes the N1-2'O-methylation of the penultimate nucleotide in mRNA, forming the cap1 structure. This modification is essential for distinguishing self from non-self RNA, thereby protecting mRNA from immune detection and degradation (Wolter2023mRNA). CMTR1's activity is vital for mRNA stability, efficient translation, and protection from exonucleases, contributing to proper gene expression and cellular function (Dix2022CMTr).
+
+In healthy human cells, CMTR1 plays a significant role in mRNA processing, including the regulation of mRNA splicing. It affects the splicing of NVL2 mRNA, an essential factor in ribosome biogenesis, and its absence leads to reduced expression of correctly spliced NVL2 (Wolter2023mRNA). CMTR1 is also involved in the regulation of ribosomal protein mRNAs and other 5'TOP transcripts, which are crucial for the translational machinery and are regulated by the mTOR pathway (Wolter2023mRNA). The enzyme is primarily localized in the nucleus, where it interacts with RNA polymerase II, suggesting a role in transcription regulation (Dix2022CMTr).
+
+## Clinical Significance
+CMTR1 has been implicated in various cancers due to its altered expression levels. In T-cell acute lymphoblastic leukemia, CMTR1 is overexpressed in cases with JAK3 mutations, and it undergoes gene rearrangements with ALK, promoting non-small-cell lung cancer development (Destefanis2020A). In colorectal cancer (CRC), CMTR1 is identified as a novel oncogene, with significantly higher expression in cancerous tissues compared to normal tissues. High CMTR1 expression correlates with poor prognosis in CRC patients. It promotes cancer cell growth and immune evasion by transcriptionally regulating STAT3, and its knockdown suppresses cell proliferation and tumorigenicity (You2022CMTR1).
+
+CMTR1 also plays a role in immune response regulation. Its deficiency affects mRNA N1-2'O-methylation, leading to impaired antiviral immunity. This deficiency results in reduced secretion and bioactivity of CXCL10 and IFN-I, compromising effective antiviral responses (Wolter2023mRNA). The interaction between CMTR1 and the RNA helicase DHX15 affects cell proliferation and mRNA translation, with implications for cancer cell growth (InestaVaquera2017DHX15). These findings suggest that CMTR1's dysregulation can contribute to cancer progression and immune system dysfunctions.
+
+## Interactions
+CMTR1, also known as human cap-specific mRNA methyltransferase 1 (hMTr1), is involved in various interactions with proteins and nucleic acids, playing a crucial role in mRNA processing and maturation. The interactome analysis of CMTR1 identified 137 proteins that co-purify with it, many of which are involved in pre-mRNA splicing and are components of the spliceosome. This suggests a central role for CMTR1 in pre-mRNA maturation (Simabuco2018Interactome). 
+
+CMTR1 interacts with proteins such as PABPC1, XRCC5, DHX15, DHX9, HNRNPA1, and FXR1, forming a dense network that links RNA processing and translation proteins. These interactions are categorized as RNA-dependent and RNA-independent. RNA-dependent interactions include those with PARP1, ILF2, XRCC6, eIF2α, and NCL, while RNA-independent interactions include FXR1, NPM1, PPM1B, and PRMT5 (Simabuco2018Interactome).
+
+Structurally, CMTR1 interacts with nucleic acids through several key interactions, including the binding of the methylated guanosine (m7G) in a deep pocket of the protein. This interaction is crucial for substrate binding and recognition, indicating sequence-independent binding with the phosphodiester backbone of RNA (Smietanski2014Structural).
+
+
+## References
+
+
+1. (Li2023Structures) Structures of co-transcriptional RNA capping enzymes on paused transcription complex. This article has 0 citations.
+
+[2. (Simabuco2018Interactome) Fernando Moreira Simabuco, Isadora Carolina Betim Pavan, Nathalie Fortes Pestana, Paulo Costa Carvalho, Fernanda Luisa Basei, Daniela Campos Granato, Adriana Franco Paes Leme, and Nilson Ivo Tonin Zanchin. Interactome analysis of the human cap‐specific mrna (nucleoside‐2′‐o‐)‐methyltransferase 1 (hmtr1) protein. Journal of Cellular Biochemistry, 120(4):5597–5611, October 2018. URL: http://dx.doi.org/10.1002/jcb.27843, doi:10.1002/jcb.27843. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcb.27843)
+
+3. (Wolter2023mRNA) mRNA N1-2’O-methylation by CMTR1 affects NVL2 mRNA splicing. This article has 0 citations.
+
+[4. (Destefanis2020A) Eliana Destefanis, Gülben Avşar, Paula Groza, Antonia Romitelli, Serena Torrini, Pınar Pir, Silvestro G. Conticello, Francesca Aguilo, and Erik Dassi. A mark of disease: how mrna modifications shape genetic and acquired pathologies. RNA, 27(4):367–389, December 2020. URL: http://dx.doi.org/10.1261/rna.077271.120, doi:10.1261/rna.077271.120. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.077271.120)
+
+[5. (Dix2022CMTr) Thomas C. Dix, Irmgard U. Haussmann, Sarah Brivio, Mohannakarthik P. Nallasivan, Yavor HadzHiev, Ferenc Müller, Berndt Müller, Jonathan Pettitt, and Matthias Soller. Cmtr mediated 2′-o-ribose methylation status of cap-adjacent nucleotides across animals. RNA, 28(10):1377–1390, August 2022. URL: http://dx.doi.org/10.1261/rna.079317.122, doi:10.1261/rna.079317.122. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.079317.122)
+
+6. (InestaVaquera2017DHX15) DHX15 regulates CMTR1-dependent gene expression and cell proliferation. This article has 1 citations.
+
+7. (You2022CMTR1) CMTR1 promotes colorectal cancer cell growth and immune evasion by transcriptionally regulating STAT3. This article has 0 citations.
+
+[8. (Smietanski2014Structural) Miroslaw Smietanski, Maria Werner, Elzbieta Purta, Katarzyna H. Kaminska, Janusz Stepinski, Edward Darzynkiewicz, Marcin Nowotny, and Janusz M. Bujnicki. Structural analysis of human 2′-o-ribose methyltransferases involved in mrna cap structure formation. Nature Communications, January 2014. URL: http://dx.doi.org/10.1038/ncomms4004, doi:10.1038/ncomms4004. This article has 83 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms4004)

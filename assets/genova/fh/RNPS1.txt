@@ -1,0 +1,50 @@
+# RNPS1
+
+## Overview
+RNPS1 is a gene that encodes the RNA binding protein with serine rich domain 1, a crucial component in the regulation of pre-mRNA splicing and mRNA processing. This protein is characterized by its RNA recognition motif (RRM) and a serine-rich domain, which facilitate its role as a general activator of splicing in human cells (Mayeda1999Purification). RNPS1 is predominantly localized in the nucleus, where it associates with nuclear speckles and active spliceosomes, indicating its involvement in RNA processing (Mayeda1999Purification). Additionally, RNPS1 is implicated in the nonsense-mediated decay (NMD) pathway, acting as a nucleocytoplasmic shuttling protein that interacts with the hUpf protein complex to degrade mRNAs containing premature stop codons (LykkeAndersen2001Communication). Beyond its fundamental roles in RNA metabolism, RNPS1 is also involved in maintaining genomic stability and has been linked to various clinical conditions, including ischemic brain injury and cancer, highlighting its significance in both cellular function and disease (Wang2024RNPS1; Zhang2020RNPS1).
+
+## Structure
+The RNPS1 protein is characterized by a single RNA recognition motif (RRM) with conserved RNP-1 and RNP-2 submotifs, which are typical features of RNA-binding proteins (Mayeda1999Purification). This RRM is distantly related to the RRMs of SR proteins and more closely resembles the RRM of the hnRNP C protein (Mayeda1999Purification). The protein also contains an extensive serine-rich domain (S domain) and a C-terminal presumptive nuclear localization signal (NLS) (Mayeda1999Purification). A conserved decapeptide motif, KHMDGGQIDG, is located near the C-terminus of the RRM, just downstream of the RNP-1 submotif, and serves as a distinctive signature for RNPS1-like proteins (Mayeda1999Purification).
+
+RNPS1 is approximately 50 kDa in size when expressed in HeLa cells and baculovirus-infected insect cells, but appears smaller (~42 kDa) when expressed in Escherichia coli, possibly due to a lack of post-translational modifications or truncation (Mayeda1999Purification). Post-translational modifications, likely phosphorylation, affect the electrophoretic mobility of RNPS1, suggesting structural changes (Mayeda1999Purification). The protein is predominantly nuclear and shows a speckled nuclear pattern, colocalizing with the SR protein SC35, indicating its involvement in splicing complexes (Mayeda1999Purification).
+
+## Function
+RNPS1 is a crucial RNA-binding protein involved in pre-mRNA splicing, primarily functioning as a general activator of this process in human cells. It is predominantly localized in the nucleus, where it associates with nuclear speckles and active spliceosomes, indicating its role in RNA processing (Mayeda1999Purification). RNPS1 contains an RNA recognition motif (RRM) and a serine-rich domain, which are essential for its function in RNA binding and splicing regulation (Mayeda1999Purification).
+
+RNPS1 activates both constitutive and alternative splicing by enhancing the use of 3' splice sites in pre-mRNA, and it shows a strong synergistic effect with SR proteins like SF2/ASF, enhancing splicing activity significantly (Mayeda1999Purification). It is also involved in the nonsense-mediated decay (NMD) pathway, where it acts as a nucleocytoplasmic shuttling protein, interacting with the hUpf protein complex to help degrade mRNAs containing premature stop codons (LykkeAndersen2001Communication).
+
+RNPS1 plays a role in maintaining genomic stability by preventing the formation of R-loops, which can lead to DNA damage. It complements the function of other splicing factors, such as ASF/SF2, in preventing transcription-induced genomic instability (Li2007The).
+
+## Clinical Significance
+Alterations in the expression of the RNPS1 gene have been implicated in several diseases, particularly ischemic brain injury and cancer. In the context of ischemic stroke, RNPS1 expression is significantly upregulated, and its knockdown has been shown to exacerbate brain injury and increase neuronal death. This suggests that RNPS1 plays a protective role in mitigating neuronal apoptosis during ischemic conditions (Zhang2020RNPS1).
+
+In cancer, particularly head and neck squamous cell carcinoma (HNSCC), RNPS1 is upregulated and contributes to tumor progression by stabilizing the NAT10 protein. This stabilization enhances tRNA ac4C modifications, which are crucial for efficient translation of cancer-related genes. Knockdown of RNPS1 in HNSCC cells results in reduced tumor growth and proliferation, indicating its role in promoting malignancy (Wang2024RNPS1).
+
+RNPS1 is also associated with neurodevelopmental disorders through its involvement in the nonsense-mediated mRNA decay (NMD) pathway. Copy number variants (CNVs) involving RNPS1 and other NMD genes have been linked to intellectual disabilities and congenital anomalies, suggesting that dosage imbalances in these genes may contribute to such disorders (Nguyen2013Contribution).
+
+## Interactions
+RNPS1 is involved in various protein interactions that play crucial roles in pre-mRNA splicing and mRNA processing. It interacts with the SART3 tumor-rejection antigen, forming a complex that regulates alternative splicing. This interaction is specific, as demonstrated by coexpression studies in 293T cells, where SART3 and RNPS1 together influence splice-site selection in a chimeric pre-mRNA model (Harada2001Binding).
+
+RNPS1 also interacts with several splicing-related proteins, including p54, hTra2β, and pinin. These interactions occur through distinct domains of RNPS1: the S domain for p54, the RS/P domain for hTra2β, and the RRM for pinin. These interactions are crucial for RNPS1's role in alternative splicing regulation, as they influence exon skipping and inclusion in a substrate-specific manner (Sakashita2004Human).
+
+In the context of mRNA surveillance, RNPS1 is a component of the exon-exon junction complex (EJC) and interacts with the human Upf complex, which is central to nonsense-mediated decay (NMD). This interaction highlights RNPS1's role in marking exon-exon junctions and influencing mRNA decay (LykkeAndersen2001Communication).
+
+
+## References
+
+
+[1. (Nguyen2013Contribution) Lam S. Nguyen, Hyung-Goo Kim, Jill A. Rosenfeld, Yiping Shen, James F. Gusella, Yves Lacassie, Lawrence C. Layman, Lisa G. Shaffer, and Jozef Gécz. Contribution of copy number variants involving nonsense-mediated mrna decay pathway genes to neuro-developmental disorders. Human Molecular Genetics, 22(9):1816–1825, January 2013. URL: http://dx.doi.org/10.1093/hmg/ddt035, doi:10.1093/hmg/ddt035. This article has 121 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddt035)
+
+[2. (Harada2001Binding) Kenji Harada, Akira Yamada, Damu Yang, Kyogo Itoh, and Shigeki Shichijo. Binding of a sart3 tumor-rejection antigen to a pre-mrna splicing factor rnps1: a possible regulation of splicing by a complex formation. International Journal of Cancer, 93(5):623–628, 2001. URL: http://dx.doi.org/10.1002/ijc.1391, doi:10.1002/ijc.1391. This article has 25 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/ijc.1391)
+
+[3. (Zhang2020RNPS1) Zhi Zhang, Mengdi Guo, Ying Liu, Pinyi Liu, Xiang Cao, Yun Xu, and Xiaolei Zhu. Rnps1 inhibition aggravates ischemic brain injury and promotes neuronal death. Biochemical and Biophysical Research Communications, 523(1):39–45, February 2020. URL: http://dx.doi.org/10.1016/j.bbrc.2019.11.185, doi:10.1016/j.bbrc.2019.11.185. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2019.11.185)
+
+[4. (Sakashita2004Human) Eiji Sakashita, Sawako Tatsumi, Dieter Werner, Hitoshi Endo, and Akila Mayeda. Human rnps1 and its associated factors: a versatile alternative pre-mrna splicing regulator in vivo. Molecular and Cellular Biology, 24(3):1174–1187, February 2004. URL: http://dx.doi.org/10.1128/MCB.24.3.1174-1187.2004, doi:10.1128/mcb.24.3.1174-1187.2004. This article has 127 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.24.3.1174-1187.2004)
+
+[5. (LykkeAndersen2001Communication) Jens Lykke-Andersen, Mei-Di Shu, and Joan A. Steitz. Communication of the position of exon-exon junctions to the mrna surveillance machinery by the protein rnps1. Science, 293(5536):1836–1839, September 2001. URL: http://dx.doi.org/10.1126/science.1062786, doi:10.1126/science.1062786. This article has 303 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1062786)
+
+[6. (Wang2024RNPS1) Xiaochen Wang, Rongsong Ling, Yurong Peng, Weiqiong Qiu, and Demeng Chen. Rnps1 stabilizes nat10 protein to facilitate translation in cancer via trna ac4c modification. International Journal of Oral Science, January 2024. URL: http://dx.doi.org/10.1038/s41368-023-00276-7, doi:10.1038/s41368-023-00276-7. This article has 2 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41368-023-00276-7)
+
+[7. (Li2007The) Xialu Li, Tianhui Niu, and James L. Manley. The rna binding protein rnps1 alleviates asf/sf2 depletion-induced genomic instability. RNA, 13(12):2108–2115, October 2007. URL: http://dx.doi.org/10.1261/rna.734407, doi:10.1261/rna.734407. This article has 49 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.734407)
+
+[8. (Mayeda1999Purification) A. Mayeda. Purification and characterization of human rnps1: a general activator of pre-mrna splicing. The EMBO Journal, 18(16):4560–4570, August 1999. URL: http://dx.doi.org/10.1093/emboj/18.16.4560, doi:10.1093/emboj/18.16.4560. This article has 120 citations.](https://doi.org/10.1093/emboj/18.16.4560)

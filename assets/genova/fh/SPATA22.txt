@@ -1,0 +1,48 @@
+# SPATA22
+
+## Overview
+SPATA22 is a gene that encodes the spermatogenesis-associated protein 22, which plays a pivotal role in the process of meiosis, particularly during prophase I. This protein is integral to the repair of DNA double-strand breaks (DSBs) and the synapsis of homologous chromosomes, processes essential for successful meiotic recombination and gametogenesis. SPATA22 is characterized by its oligonucleotide/oligosaccharide-binding domain (OB-fold containing domain, OBCD), which facilitates its interaction with the MEIOB protein and the replication protein A (RPA) complex, crucial for stabilizing Rad51-ssDNA filaments during meiosis (Petrillo2020shani; Ribeiro2018MEIOB). Mutations in SPATA22 have been linked to reproductive disorders such as infertility and premature ovarian insufficiency, underscoring its importance in maintaining genomic stability and proper germ cell development (Ding2023DNA; La2012Spata22).
+
+## Structure
+The SPATA22 protein is characterized by its structural features, which include a putative oligonucleotide/oligosaccharide-binding domain (OB-fold containing domain, OBCD) located in the C-terminal region. This domain is crucial for its interaction with the MEIOB protein and the replication protein A (RPA) complex, specifically with RPA1 and RPA2 subunits (Petrillo2020shani; Ribeiro2018MEIOB). The SPATA22 protein in humans consists of 363 amino acids and is encoded by nine exons (La2012Spata22).
+
+The primary structure of SPATA22 includes two conserved regions, CR1 and CR2, with CR2 being particularly important for its function. The protein also contains several functional sites, such as nuclear localization signals, docking motifs, and phosphorylation sites, which are potential targets for proteins involved in DNA repair and meiosis progression, like BRCA1 and Polo-like kinase (La2012Spata22).
+
+The tertiary structure of SPATA22 has been modeled using the RaptorX server, with HsRPA2 serving as the best template, indicating structural similarities between SPATA22 and RPA2 (Ribeiro2018MEIOB). The interaction between SPATA22 and MEIOB is mediated by their respective OBCDs, which are necessary and sufficient for their interaction with each other and with endogenous RPA subunits (Ribeiro2018MEIOB).
+
+## Function
+The SPATA22 gene encodes a protein that plays a critical role in meiotic progression, particularly during prophase I of meiosis. It is involved in the processing of DNA double-strand breaks (DSBs) and synapsis, which are essential for homologous chromosome pairing and recombination. SPATA22 is crucial for the maintenance of Rad51 foci, which are necessary for the repair of DSBs and the stabilization of presynaptic filaments during meiosis (Ishishita2014Genetic). The protein interacts with MEIOB and the RPA complex, suggesting a role in promoting meiotic recombination by stabilizing Rad51-ssDNA filaments (Ribeiro2018MEIOB).
+
+In mice, mutations in SPATA22, such as the repro42 and shani mutations, lead to meiotic arrest and infertility due to defects in DSB repair and synapsis (Petrillo2020shani; La2012Spata22). The absence of SPATA22 results in impaired synaptonemal complex formation and unresolved DSBs, highlighting its importance in ensuring proper chromosomal segregation and genetic diversity during gametogenesis (Petrillo2020shani; La2012Spata22). While the specific function of SPATA22 in healthy human cells is not explicitly detailed, its involvement in meiosis and potential interactions with DNA repair pathways suggest a role in germ cell development and genomic stability (La2012Spata22).
+
+## Clinical Significance
+Mutations in the SPATA22 gene are associated with several reproductive disorders due to their impact on meiotic progression. In mice, the repro42 mutation in SPATA22 leads to infertility in both males and females by causing meiotic arrest during prophase I, resulting in the absence of mature germ cells and significantly smaller testes and ovaries (La2012Spata22). The shani mutation in SPATA22 affects splicing, leading to impaired meiotic recombination and infertility due to defects in double-strand break repair and synapsis (Petrillo2020shani).
+
+In humans, mutations in SPATA22 have been linked to premature ovarian insufficiency (POI), a condition characterized by early loss of ovarian function. A study identified a novel homozygous mutation in SPATA22 in a family with multiple siblings suffering from infertility, as well as a compound heterozygous mutation in a patient with sporadic POI. These mutations disrupt the interaction between SPATA22 and its partner protein MEIOB, leading to meiotic failure (Ding2023DNA).
+
+Alterations in SPATA22 expression levels have also been observed in patients with non-obstructive azoospermia (NOA), a condition of male infertility. Variations in SPATA22 expression may correlate with fertilization and pregnancy success rates in these patients (Dorosh2013Expression).
+
+## Interactions
+SPATA22 is a meiosis-specific protein that plays a crucial role in meiotic recombination through its interactions with other proteins. It forms a complex with MEIOB, another meiosis-specific protein, and this interaction is essential for proper spermatogenesis. The MEIOB-SPATA22 complex is formed through defined interaction domains, with the aspartic residue D383 in MEIOB being critical for this interaction (Xu2020A). This complex also interacts with the RPA heterotrimeric complex, which is involved in DNA repair processes during meiosis (Ribeiro2018MEIOB).
+
+SPATA22 and MEIOB resemble RPA subunits and bind to single-stranded DNA (ssDNA), suggesting a role in stabilizing recombination intermediates. They cooperate to interact with RPA subunits, specifically RPA1 and RPA2, in human cells, and this interaction is dependent on the co-expression of both proteins (Ribeiro2018MEIOB). The MEIOB-SPATA22 complex modifies the conformation of RPA-coated ssDNA, which is crucial for the proper processing of meiotic recombination intermediates (Ribeiro2018MEIOB).
+
+SPATA22 is also proposed to function in the removal of RPA from ssDNA ends during the assembly of the presynaptic filament, which is essential for Rad51 function, a protein involved in homologous recombination (Ishishita2014Genetic).
+
+
+## References
+
+
+[1. (Ishishita2014Genetic) Satoshi Ishishita, Yoichi Matsuda, and Kazuhiro Kitada. Genetic evidence suggests that spata22 is required for the maintenance of rad51 foci in mammalian meiosis. Scientific Reports, August 2014. URL: http://dx.doi.org/10.1038/srep06148, doi:10.1038/srep06148. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep06148)
+
+[2. (Xu2020A) Yang Xu, Rong Liu, N Adrian Leu, Lei Zhang, Ilsiya Ibragmova, David C Schultz, and P Jeremy Wang. A cell-based high-content screen identifies isocotoin as a small molecule inhibitor of the meiosis-specific meiob–spata22 complex†. Biology of Reproduction, 103(2):333–342, April 2020. URL: http://dx.doi.org/10.1093/biolre/ioaa062, doi:10.1093/biolre/ioaa062. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/biolre/ioaa062)
+
+3. (Ribeiro2018MEIOB) MEIOB and SPATA22 resemble RPA subunits and interact with the RPA complex to promote meiotic recombination. This article has 3 citations.
+
+[4. (Dorosh2013Expression) Andriy Dorosh, Olina Tepla, Eva Zatecka, Lukas Ded, Karel Koci, and Jana Peknicova. Expression analysis of mnd1/gaj, spata22, gapdhs and acr genes in testicular biopsies from non-obstructive azoospermia (noa) patients. Reproductive Biology and Endocrinology, May 2013. URL: http://dx.doi.org/10.1186/1477-7827-11-42, doi:10.1186/1477-7827-11-42. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1477-7827-11-42)
+
+[5. (La2012Spata22) Sophie La Salle, Kristina Palmer, Marilyn O’Brien, John C. Schimenti, John Eppig, and Mary Ann Handel. Spata22, a novel vertebrate-specific gene, is required for meiotic progress in mouse germ cells1. Biology of Reproduction, February 2012. URL: http://dx.doi.org/10.1095/biolreprod.111.095752, doi:10.1095/biolreprod.111.095752. This article has 50 citations and is from a peer-reviewed journal.](https://doi.org/10.1095/biolreprod.111.095752)
+
+[6. (Ding2023DNA) Xuechun Ding, Xiaowei Gong, Yingying Fan, Jinghe Cao, Jingyu Zhao, Yixin Zhang, Xiaomei Wang, and Kai Meng. Dna double-strand break genetic variants in patients with premature ovarian insufficiency. Journal of Ovarian Research, July 2023. URL: http://dx.doi.org/10.1186/s13048-023-01221-2, doi:10.1186/s13048-023-01221-2. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13048-023-01221-2)
+
+[7. (Petrillo2020shani) Cynthia Petrillo, Vilma Barroca, Jonathan Ribeiro, Nathalie Lailler, Gabriel Livera, Scott Keeney, Emmanuelle Martini, and Devanshi Jain. Shani mutation in mouse affects splicing of spata22 and leads to impaired meiotic recombination. Chromosoma, 129(2):161–179, May 2020. URL: http://dx.doi.org/10.1007/s00412-020-00735-8, doi:10.1007/s00412-020-00735-8. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00412-020-00735-8)

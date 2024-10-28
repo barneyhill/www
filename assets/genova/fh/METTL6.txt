@@ -1,0 +1,44 @@
+# METTL6
+
+## Overview
+The METTL6 gene encodes the protein methyltransferase 6, tRNA N3-cytidine, which is a member of the methyltransferase enzyme family. This protein is primarily involved in the post-transcriptional modification of tRNA, specifically catalyzing the methylation of cytosine at position 32 in the anticodon loop of cytosolic tRNA Ser, converting it to 3-methylcytosine (m3C). This modification is crucial for maintaining the structural integrity and function of tRNA, thereby ensuring translation fidelity and efficiency in protein synthesis (Throll2024Structural; Chen2021Crystal). METTL6 operates in conjunction with seryl-tRNA synthetase (SerRS), forming a complex that significantly enhances its methylation activity (Throll2024Structural). The protein's structural features, including a Rossmann fold and a unique m3C RNA-binding domain, facilitate its interaction with tRNA and SerRS, underscoring its role in cellular homeostasis and metabolic regulation (Throll2024Structural; Chen2021Crystal). Alterations in METTL6 expression have been linked to various cancers, highlighting its potential as a biomarker and therapeutic target (Wang2022Integrative; Bolatkan2021Downregulation).
+
+## Structure
+The METTL6 protein is characterized by a typical Rossmann fold, which includes a central β-sheet flanked by α-helices, a common feature among methyltransferases (Chen2021Crystal). The protein's structure reveals a unique m3C-RBD (m3C RNA-binding domain) that is crucial for its interaction with tRNA Ser and SerRS (Throll2024Structural). This domain includes a β-extension hairpin region, which is flexible and allows the accommodation of diverse tRNA sequences (Throll2024Structural).
+
+The METTL6 protein forms a tetramer in crystal form but remains monomeric in solution (Chen2021Crystal). The protein's active site binds S-adenosyl-L-homocysteine (SAH) through multiple interactions, including hydrogen bonds and hydrophobic interactions, with key residues such as L137, C135, F111, D136, D110, and Y49 playing significant roles (Chen2021Crystal). The METTL6 structure also highlights specific motifs, such as the WDLFYK and FFKDRHW motifs, which are involved in coordinating interactions with SerRS and the tRNA (Throll2024Structural).
+
+The METTL6 protein is involved in the m3C modification of tRNA, specifically at cytosine 32 in the anticodon loop, which is crucial for translation fidelity (Throll2024Structural). The protein's interaction with SerRS significantly enhances its methylation activity, suggesting a cooperative mechanism in tRNA recognition and modification (Throll2024Structural).
+
+## Function
+METTL6 is a tRNA methyltransferase that specifically targets cytosine at position 32 in the anticodon loop of cytosolic tRNA Ser, converting it to 3-methylcytosine (m3C). This modification is crucial for maintaining the folding, stability, and base-pairing functions of the anticodon, thereby promoting translation efficiency and fidelity in cells (Throll2024Structural; Chen2021Crystal). METTL6 forms a complex with seryl-tRNA synthetase (SerRS) and tRNA Ser, where SerRS acts as a substrate-recognition factor, enhancing the methylation activity of METTL6 by approximately 1,000-fold (Throll2024Structural).
+
+The activity of METTL6 is essential for proper protein synthesis and cellular function, as it ensures accurate decoding during translation (Throll2024Structural). In healthy human cells, METTL6 contributes to cellular homeostasis and metabolic regulation, as evidenced by METTL6-deficient mice showing lower metabolic rates and reduced energy turnover (Throll2024Structural). The protein is primarily active in the cytoplasm, where it plays a role in maintaining translation efficiency and cellular homeostasis (Chen2021Crystal; He2024METTL).
+
+## Clinical Significance
+Alterations in the expression of the METTL6 gene have been implicated in various cancers. In hepatocellular carcinoma (HCC), METTL6 is significantly upregulated in tumor tissues compared to non-tumor tissues, and this upregulation is associated with poorer survival outcomes. Knockout studies using CRISPR/Cas9 have shown that the absence of METTL6 inhibits cell proliferation, migration, invasion, and adhesion, suggesting its role in enhancing tumorigenicity through post-transcriptional regulation of cell adhesion molecules (Bolatkan2021Downregulation).
+
+In breast cancer, high expression levels of METTL6 are linked to poor prognosis, particularly in luminal breast tumors. METTL6 acts as an oncogene, promoting cancer cell proliferation and survival (Throll2024Structural). Similarly, in lung cancer, METTL6 knockdown reduces the susceptibility of cancer cells to cisplatin, a chemotherapy drug, indicating its role in chemoresistance (Chen2021Crystal).
+
+METTL6 is also overexpressed in stomach adenocarcinoma and liver hepatocellular carcinoma, where it is associated with poor prognosis. Its genetic alterations are most frequent in bladder urothelial carcinoma, uterine corpus endometrial carcinoma, and kidney renal clear cell carcinoma, suggesting its potential as a marker for these cancers (Wang2022Integrative).
+
+## Interactions
+METTL6 interacts with seryl-tRNA synthetase (SerRS) to form a tRNA-dependent complex, which is crucial for the methylation of cytosine at position 32 in the anticodon loop of tRNA Ser. This interaction is not observed when METTL6 and SerRS are purified separately, indicating that tRNA Ser is necessary for complex formation (Throll2024Structural; Throll2023Structural). The METTL6-SerRS-tRNA Ser complex involves specific contact points, including interactions between SerRS loops and METTL6's m3C-RNA-binding domain (m3C-RBD), which are essential for the selective chemical modification of tRNA Ser (Throll2024Structural).
+
+The structural analysis reveals that METTL6 coordinates the variable arm of tRNA Ser through a hydrogen-bonding network involving conserved residues, while SerRS acts as a substrate selection factor, enhancing METTL6's methylation activity (Throll2024Structural; Throll2023Structural). The interaction between METTL6 and SerRS is mediated by a flexible linker, allowing for an on-off equilibrium of the assembly, which is necessary for efficient tRNA Ser methylation (Throll2024Structural). These interactions highlight the cooperative mechanism among METTL6, SerRS, and tRNA Ser, which is crucial for maintaining translation fidelity and efficiency (Chen2021Crystal).
+
+
+## References
+
+
+[1. (Chen2021Crystal) Ran Chen, Jie Zhou, Ling Liu, Xue-Ling Mao, Xiaolong Zhou, and Wei Xie. Crystal structure of human mettl6, the m3c methyltransferase. Communications Biology, December 2021. URL: http://dx.doi.org/10.1038/s42003-021-02890-9, doi:10.1038/s42003-021-02890-9. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-021-02890-9)
+
+[2. (Wang2022Integrative) Shuai Wang, Huiting Li, Jiheng Liu, Qianqian Zhang, Wei Xu, Juanjuan Xiang, Li Fang, Ping Xu, and Zheng Li. Integrative analysis of m3c associated genes reveals mettl2a as a potential oncogene in breast cancer. Journal of Translational Medicine, October 2022. URL: http://dx.doi.org/10.1186/s12967-022-03683-2, doi:10.1186/s12967-022-03683-2. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-022-03683-2)
+
+[3. (Bolatkan2021Downregulation) Amina Bolatkan, Ken Asada, Syuzo Kaneko, Kruthi Suvarna, Noriko Ikawa, Hidenori Machino, Masaaki Komatsu, Shuichiro Shiina, and Ryuji Hamamoto. Downregulation of mettl6 mitigates cell progression, migration, invasion and adhesion in hepatocellular carcinoma by inhibiting cell adhesion molecules. International Journal of Oncology, December 2021. URL: http://dx.doi.org/10.3892/ijo.2021.5294, doi:10.3892/ijo.2021.5294. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2021.5294)
+
+[4. (Throll2024Structural) Philipp Throll, Luciano G. Dolce, Palma Rico-Lastres, Katharina Arnold, Laura Tengo, Shibom Basu, Stefanie Kaiser, Robert Schneider, and Eva Kowalinski. Structural basis of trna recognition by the m3c rna methyltransferase mettl6 in complex with serrs seryl-trna synthetase. Nature Structural &amp; Molecular Biology, June 2024. URL: http://dx.doi.org/10.1038/s41594-024-01341-3, doi:10.1038/s41594-024-01341-3. This article has 0 citations.](https://doi.org/10.1038/s41594-024-01341-3)
+
+[5. (He2024METTL) Jiejie He, Fengchen Hao, Shiqi Song, Junli Zhang, Hongyu Zhou, Jun Zhang, and Yan Li. Mettl family in health and disease. Molecular Biomedicine, August 2024. URL: http://dx.doi.org/10.1186/s43556-024-00194-y, doi:10.1186/s43556-024-00194-y. This article has 0 citations.](https://doi.org/10.1186/s43556-024-00194-y)
+
+6. (Throll2023Structural) Structural basis of tRNA recognition by the m3C-RNA-methyltransferase METTL6 in complex with SerRS seryl-tRNA synthetase. This article has 1 citations.

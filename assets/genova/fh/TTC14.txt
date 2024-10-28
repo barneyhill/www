@@ -1,0 +1,27 @@
+# TTC14
+
+## Overview
+TTC14 is a gene that encodes the tetratricopeptide repeat domain 14 protein, which is characterized by its tetratricopeptide repeat (TPR) motifs. These motifs are known for facilitating protein-protein interactions, contributing to the protein's role in complex cellular networks. The TTC14 protein is notably marked by a high degree of intrinsic disorder, particularly in its C-terminal region, which enhances its interaction capabilities with various molecular partners. This protein is involved in a wide array of protein-protein interactions, forming a significant network that underscores its potential involvement in diverse cellular processes. Despite its extensive interaction network, the precise biological functions of TTC14 remain to be fully elucidated, although it is implicated in nucleic acid binding and may play a role as a spliceosomal component (Sarafidou2023Reconstruction; Van2020Intrinsic).
+
+## Structure
+The human tetratricopeptide repeat protein 14 (TTC14) is a 770-residue-long protein characterized by a high level of intrinsic disorder, particularly in its C-terminal region (residues 389-770), which includes regions with compositional bias such as Poly-Glu and Ser-rich areas (Van2020Intrinsic). The protein contains a conserved S1 motif (residues 126-208) and four tetratricopeptide repeats (TPRs) located at residues 210-243, 307-340, 342-374, and 382-415 (Van2020Intrinsic). These TPR motifs are involved in protein-protein interactions and typically form a helix-turn-helix structure, contributing to the protein's secondary and tertiary structures (Van2020Intrinsic).
+
+TTC14 has two alternatively spliced isoforms, which result in changes in the C-terminal region. Isoform 2 alters the region 592-653 and removes residues 654-770, while isoform 3 shortens the C-terminal region 431-770 to a peptide (Van2020Intrinsic). The protein is involved in interactions with 40 partners, as indicated by STRING analysis, and has multiple post-translational modifications (PTMs) and molecular recognition features (MoRFs) concentrated in the disordered C-terminal region (Van2020Intrinsic). These features highlight the protein's role in complex protein interaction networks.
+
+## Clinical Significance
+
+
+## Interactions
+TTC14, a human tetratricopeptide repeat protein, is involved in a complex network of protein-protein interactions. It is known to interact with 40 partners, forming a protein-protein interaction (PPI) network with 133 edges. This network has an average node degree of 6.65 and an average local clustering coefficient of 0.762, indicating a significant level of connectivity and interaction within the network (Van2020Intrinsic). The PPI enrichment p-value of less than 10^-16 further underscores the significance of these interactions (Van2020Intrinsic).
+
+TTC14 is characterized by a highly disordered C-terminal region, which includes multiple post-translational modifications (PTMs) and molecular recognition features (MoRFs). These features are concentrated in the disordered region, facilitating interactions with other proteins and nucleic acids (Van2020Intrinsic). The protein's ability to interact with DNA and its role as a spliceosomal component suggest its involvement in nucleic acid binding, although its specific function remains unknown (Sarafidou2023Reconstruction).
+
+The intrinsic disorder in TTC14, particularly in its C-terminal region, contributes to its binding promiscuity and ability to form dynamic complexes, which are essential for its role in various cellular processes (Van2020Intrinsic).
+
+
+## References
+
+
+[1. (Sarafidou2023Reconstruction) Theologia Sarafidou, Eleni Galliopoulou, Despina Apostolopoulou, Georgios A. Fragkiadakis, and Nicholas K. Moschonas. Reconstruction of a comprehensive interactome and experimental data analysis of fra10ac1 may provide insights into its biological role in health and disease. Genes, 14(3):568, February 2023. URL: http://dx.doi.org/10.3390/genes14030568, doi:10.3390/genes14030568. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes14030568)
+
+[2. (Van2020Intrinsic) Nathan W. Van Bibber, Cornelia Haerle, Roy Khalife, Bin Xue, and Vladimir N. Uversky. Intrinsic disorder in tetratricopeptide repeat proteins. International Journal of Molecular Sciences, 21(10):3709, May 2020. URL: http://dx.doi.org/10.3390/ijms21103709, doi:10.3390/ijms21103709. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21103709)

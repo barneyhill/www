@@ -1,0 +1,54 @@
+# NODAL
+
+## Overview
+NODAL is a gene that encodes the nodal growth differentiation factor, a protein belonging to the transforming growth factor beta (TGF-β) superfamily. This protein plays a pivotal role in embryonic development, particularly in the formation of the mesoderm and endoderm, as well as in establishing the anterior-posterior and left-right body axes (Liu2022Nodal). As a morphogen, nodal growth differentiation factor functions through a complex signaling pathway involving type I and type II TGF-β receptors and the coreceptor Cripto, leading to the phosphorylation of Smad2/3 and subsequent gene regulation (Pauklin2015ActivinNodal). The protein's activity is modulated by interactions with other proteins, such as GDF1, which significantly enhances its signaling capacity (Tanaka2007Longrange). Mutations in the NODAL gene are linked to developmental disorders, including heterotaxy and congenital heart defects, underscoring its critical role in human development (Sutherland2009Disorders; Roessler2008Reduced).
+
+## Structure
+The NODAL protein is a member of the TGF-β superfamily and is characterized by a conserved structure typical of this family. It is a homodimer consisting of 220 amino acids, with each monomer containing 14 cysteine residues that form six intrachain disulfide bonds and one interchain disulfide bridge (Calvanese2010Structural). The primary structure includes a signal peptide and a mature domain, which is common among TGF-β proteins.
+
+The secondary structure of NODAL features two antiparallel β-sheets forming a flattened surface, a short turn, and an amphipathic α-helix. This arrangement is described as a 'cysteine knot' motif, where the helix represents the wrist, the cysteine knot forms the palm, and the β-sheets are the fingers (Calvanese2010Structural). 
+
+In terms of tertiary structure, NODAL adopts a canonical TGF-β fold, with the monomers covalently linked by a disulfide bond. The quaternary structure is an extended symmetric arrangement similar to bone morphogenetic proteins (BMPs), with which it shares the highest sequence identity (Calvanese2010Structural).
+
+Post-translational modifications of NODAL include glycosylation and proteolytic cleavage, which are typical for proteins in the TGF-β superfamily (Calvanese2015Conformational). These structural features are crucial for NODAL's interaction with its receptors and co-receptors, such as Cripto, ALK4, and ALK7, which are essential for its signaling functions (Calvanese2015Conformational).
+
+## Function
+The NODAL gene encodes a protein that is a member of the transforming growth factor beta (TGF-β) superfamily, playing a crucial role in human embryonic development. NODAL is involved in the stabilization of the epiblast state and the induction of the anterior-posterior and left-right axes, as well as the specification of mesoderm and endoderm (Liu2022Nodal). It functions as a short-range morphogen, with its activity spreading through a relay mechanism where NODAL production induces neighboring cells to transcribe NODAL (Liu2022Nodal). 
+
+NODAL signaling is mediated through a receptor complex that includes type I and type II TGF-β receptors and a coreceptor known as Crypto. This pathway involves the phosphorylation of Smad2/3, which then binds to Smad4 to regulate target genes in the nucleus (Liu2022Nodal). In healthy human cells, NODAL signaling is essential for maintaining pluripotency and regulating developmental processes, such as differentiation and the formation of germ layers (Pauklin2015ActivinNodal). The pathway's activity is modulated by interactions with other proteins and transcription factors, ensuring tissue-specific responses and enabling the control of diverse cellular mechanisms (Pauklin2015ActivinNodal).
+
+## Clinical Significance
+Mutations in the NODAL gene are associated with several developmental disorders, particularly those affecting left-right asymmetry and heart development. Heterotaxy, a condition characterized by abnormal arrangement of internal organs, has been linked to mutations in the NODAL gene. These mutations can lead to decreased Nodal signaling, which is crucial for proper heart looping and left-right patterning, resulting in cardiovascular anomalies (Sutherland2009Disorders). 
+
+NODAL mutations are also implicated in congenital heart defects (CHD) and holoprosencephaly (HPE), a condition involving brain and facial malformations. Studies have found that mutations in NODAL and other components of its signaling pathway, such as FOXH1 and CFC1, are associated with these conditions. The presence of a common NODAL variant, H165R, which exhibits reduced activity, suggests it may act as a modifier of other pathway mutations, contributing to the phenotypic outcomes (Roessler2008Reduced).
+
+Alterations in NODAL interactions, particularly with GDF1, are critical for proper embryonic development. GDF1 enhances Nodal activity, and disruptions in this interaction can impair left-right patterning, leading to developmental defects (Tanaka2007Longrange).
+
+## Interactions
+NODAL protein interacts with several other proteins to mediate its signaling functions. It forms heterodimers with GDF1, a member of the TGF-β superfamily, which significantly enhances NODAL's signaling activity. This interaction is crucial for the increased activity of NODAL, as the NODAL-GDF1 heterodimer is approximately 100 times more active than NODAL alone in activating a NODAL-responsive reporter. The formation of this heterodimer requires the presence of Cryptic, an EGF-CFC family protein, as the heterodimer is inactive without it (Tanaka2007Longrange).
+
+NODAL also interacts with EGF-CFC proteins, such as Cripto and Cryptic, which act as coreceptors. These proteins are essential for forming a complex with NODAL ligands and activin receptors, facilitating downstream signaling. EGF-CFC proteins might alter the conformation of the activin receptor ALK4 or provide an additional interaction surface for NODALs (Schier2003Nodal).
+
+NODAL signaling involves the phosphorylation of Smad2 and Smad3 proteins, which then associate with Smad4 and other transcription factors to regulate gene expression. These interactions are crucial for the intracellular transmission of NODAL signals (Schier2009Nodal). NODAL does not directly bind nucleic acids.
+
+
+## References
+
+
+[1. (Sutherland2009Disorders) Mardi J. Sutherland and Stephanie M. Ware. Disorders of left–right asymmetry: heterotaxy and situs inversus. American Journal of Medical Genetics Part C: Seminars in Medical Genetics, 151C(4):307–317, October 2009. URL: http://dx.doi.org/10.1002/ajmg.c.30228, doi:10.1002/ajmg.c.30228. This article has 195 citations.](https://doi.org/10.1002/ajmg.c.30228)
+
+[2. (Roessler2008Reduced) Erich Roessler, Maia V. Ouspenskaia, Jayaprakash D. Karkera, Jorge I. Vélez, Amy Kantipong, Felicitas Lacbawan, Peter Bowers, John W. Belmont, Jeffrey A. Towbin, Elizabeth Goldmuntz, Benjamin Feldman, and Maximilian Muenke. Reduced nodal signaling strength via mutation of several pathway members including foxh1 is linked to human heart defects and holoprosencephaly. The American Journal of Human Genetics, 83(1):18–29, July 2008. URL: http://dx.doi.org/10.1016/j.ajhg.2008.05.012, doi:10.1016/j.ajhg.2008.05.012. This article has 137 citations.](https://doi.org/10.1016/j.ajhg.2008.05.012)
+
+[3. (Pauklin2015ActivinNodal) Siim Pauklin and Ludovic Vallier. Activin/nodal signalling in stem cells. Development, 142(4):607–619, February 2015. URL: http://dx.doi.org/10.1242/dev.091769, doi:10.1242/dev.091769. This article has 150 citations and is from a peer-reviewed journal.](https://doi.org/10.1242/dev.091769)
+
+[4. (Calvanese2015Conformational) Luisa Calvanese, Annamaria Sandomenico, Andrea Caporale, Annalia Focà, Giuseppina Focà, Gabriella D’Auria, Lucia Falcigno, and Menotti Ruvo. Conformational features and binding affinities to cripto, alk7 and alk4 of nodal synthetic fragments: conformational and binding properties of nodal synthetic fragments. Journal of Peptide Science, 21(4):283–293, January 2015. URL: http://dx.doi.org/10.1002/psc.2733, doi:10.1002/psc.2733. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/psc.2733)
+
+[5. (Schier2003Nodal) Alexander F. Schier. Nodal signaling in vertebrate development. Annual Review of Cell and Developmental Biology, 19(1):589–621, November 2003. URL: http://dx.doi.org/10.1146/annurev.cellbio.19.041603.094522, doi:10.1146/annurev.cellbio.19.041603.094522. This article has 511 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1146/annurev.cellbio.19.041603.094522)
+
+[6. (Tanaka2007Longrange) Chinatsu Tanaka, Rui Sakuma, Tetsuya Nakamura, Hiroshi Hamada, and Yukio Saijoh. Long-range action of nodal requires interaction with gdf1. Genes &amp; Development, 21(24):3272–3282, December 2007. URL: http://dx.doi.org/10.1101/gad.1623907, doi:10.1101/gad.1623907. This article has 95 citations.](https://doi.org/10.1101/gad.1623907)
+
+[7. (Calvanese2010Structural) Luisa Calvanese, Daniela Marasco, Nunzianna Doti, Angela Saporito, Gabriella D’Auria, Livio Paolillo, Menotti Ruvo, and Lucia Falcigno. Structural investigations on the nodal‐cripto binding: a theoretical and experimental approach. Biopolymers, 93(11):1011–1021, August 2010. URL: http://dx.doi.org/10.1002/bip.21517, doi:10.1002/bip.21517. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/bip.21517)
+
+[8. (Liu2022Nodal) Lizhong Liu, Anastasiia Nemashkalo, Luisa Rezende, Ji Yoon Jung, Sapna Chhabra, M. Cecilia Guerra, Idse Heemskerk, and Aryeh Warmflash. Nodal is a short-range morphogen with activity that spreads through a relay mechanism in human gastruloids. Nature Communications, January 2022. URL: http://dx.doi.org/10.1038/s41467-022-28149-3, doi:10.1038/s41467-022-28149-3. This article has 32 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-28149-3)
+
+[9. (Schier2009Nodal) A. F. Schier. Nodal morphogens. Cold Spring Harbor Perspectives in Biology, 1(5):a003459–a003459, August 2009. URL: http://dx.doi.org/10.1101/cshperspect.a003459, doi:10.1101/cshperspect.a003459. This article has 238 citations and is from a peer-reviewed journal.](https://doi.org/10.1101/cshperspect.a003459)

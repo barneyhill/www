@@ -1,0 +1,60 @@
+# STK25
+
+## Overview
+STK25, or serine/threonine kinase 25, is a gene that encodes a protein kinase belonging to the GCKIII subfamily of the Ste20-like group of serine/threonine protein kinases. The protein encoded by STK25 is involved in various cellular processes, including the regulation of lipid and glucose metabolism, cell proliferation, and inflammation. As a kinase, it plays a pivotal role in the Hippo signaling pathway, acting as a negative regulator by modulating the activity of MST1/2 kinases. STK25 is also a component of the STRIPAK complex, which influences cellular architecture and signaling. Its activity is crucial in both cytoplasmic and Golgi apparatus-associated functions, impacting cellular structure and signaling pathways. Alterations in STK25 expression have been linked to metabolic disorders, such as type 2 diabetes and nonalcoholic fatty liver disease, as well as cancer, particularly hepatocellular carcinoma, highlighting its potential as a therapeutic target (Nerstedt2012Serinethreonine; Bae2020STK25; Zhang2022STK25a).
+
+## Structure
+STK25, also known as serine/threonine kinase 25, is a member of the GCKIII subfamily of the Ste20-like group of serine/threonine protein kinases. The primary structure of STK25 includes a conserved N-terminal kinase domain and a less-conserved C-terminal regulatory domain. The kinase domain is responsible for its catalytic activity, while the regulatory domain is involved in protein-protein interactions (Bae2020STK25; Sugden2013SOcK).
+
+The secondary structure of STK25 likely includes alpha helices and beta sheets, typical of kinase domains, although specific details are not provided in the context. The tertiary structure involves the three-dimensional folding of the protein, which includes a conserved N-terminal kinase domain and a C-terminal dimerization domain (Bae2020STK25).
+
+STK25 is involved in the STRIPAK complex, which suggests a quaternary structure where STK25 interacts with other proteins such as PP2A and CCM3. This interaction is crucial for its role in cellular signaling pathways, including the Hippo pathway (Bae2020STK25; Hwang2014STRIPAK).
+
+Post-translational modifications, such as phosphorylation, play a significant role in regulating STK25 activity. STK25 phosphorylates SAV1, a scaffolding protein, which affects the Hippo signaling pathway (Bae2020STK25). Specific phosphorylation sites on STK25 itself are not detailed in the context.
+
+## Function
+STK25 (serine/threonine kinase 25) is a protein kinase involved in several critical cellular processes in healthy human cells. It plays a significant role in regulating lipid and glucose metabolism, particularly in skeletal muscle and hepatocytes. In skeletal muscle cells, partial depletion of STK25 leads to increased expression of genes involved in lipid and glucose metabolism, enhancing fatty acid oxidation and insulin-stimulated glucose uptake (Nerstedt2012Serinethreonine). In hepatocytes, STK25 overexpression reduces mitochondrial activity and induces insulin resistance, while its knockdown improves insulin sensitivity and increases β-oxidation (Amrutkar2015Protein).
+
+STK25 is also involved in the regulation of the Hippo signaling pathway, where it acts as a negative regulator by suppressing the activation of MST1/2 kinases. This regulation is crucial for controlling cell proliferation and maintaining tissue homeostasis (Bae2020STK25). STK25 phosphorylates SAV1, inhibiting its ability to activate MST1/2, thus maintaining low levels of Hippo pathway activation (Bae2020STK25).
+
+In terms of cellular localization, STK25 is active in the cytoplasm and associated with the Golgi apparatus, influencing cellular architecture and function (Bae2020STK25). Its activity in these regions is essential for coordinating cellular signaling and maintaining cellular structure.
+
+## Clinical Significance
+Alterations in the expression of the STK25 gene have been implicated in several diseases, particularly metabolic disorders and cancer. In hepatocellular carcinoma (HCC), high expression of STK25 is associated with poor prognosis and adverse clinicopathological features, such as increased tumor invasion and proliferation. Knockdown of STK25 in HCC cells has been shown to reduce tumor growth and increase apoptosis, suggesting its potential as a therapeutic target in cancer treatment (Zhang2022STK25a).
+
+In metabolic disorders, STK25 plays a significant role in lipid and glucose metabolism. Overexpression of STK25 in skeletal muscle is linked to increased lipid accumulation, mitochondrial dysfunction, and insulin resistance, which are key features in the development of type 2 diabetes. This suggests that STK25 could be a target for therapeutic intervention in metabolic diseases (Chursa2016Overexpression). 
+
+STK25 is also involved in the progression of nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis (NASH). Overexpression exacerbates these conditions, while reduced STK25 activity can ameliorate liver steatosis and inflammation, indicating its potential as a therapeutic target for NAFLD (Cansby2019Targeted).
+
+## Interactions
+STK25, also known as serine/threonine kinase 25, is involved in several protein interactions that influence cellular signaling pathways. It directly activates LATS1/2 kinases by phosphorylating their activation loop, independent of MST1/2 and MAP4Ks, which are other known upstream kinases in the Hippo signaling pathway. This activation leads to increased phosphorylation of YAP, a downstream effector, causing its cytoplasmic localization and inhibiting its activity (Lim2019Identification; Lim2018STK25).
+
+STK25 also interacts with the STRIPAK complex, which includes the PP2A phosphatase complex and other components like STRIP1, MOB4, SIKE1, and CCM3. Within this complex, STK25 phosphorylates SAV1, a scaffolding protein, inhibiting its ability to activate MST1/2, thereby suppressing Hippo pathway activation at the level of MST1/2 (Bae2020STK25).
+
+Additionally, STK25 has been identified as an IRF5 kinase, promoting TLR7/8-mediated inflammation. It phosphorylates IRF5, influencing inflammatory pathways, as demonstrated in studies involving human primary monocytes and monocyte-derived dendritic cells (Rice2023STK25). These interactions highlight STK25's role in various cellular processes, including cell proliferation, apoptosis, and inflammation.
+
+
+## References
+
+
+[1. (Nerstedt2012Serinethreonine) A. Nerstedt, E. Cansby, C. X. Andersson, M. Laakso, A. Stančáková, M. Blüher, U. Smith, and M. Mahlapuu. Serine/threonine protein kinase 25 (stk25): a novel negative regulator of lipid and glucose metabolism in rodent and human skeletal muscle. Diabetologia, 55(6):1797–1807, March 2012. URL: http://dx.doi.org/10.1007/s00125-012-2511-7, doi:10.1007/s00125-012-2511-7. This article has 34 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1007/s00125-012-2511-7)
+
+[2. (Lim2019Identification) Sanghee Lim, Nicole Hermance, Tenny Mudianto, Hatim M. Mustaly, Ian Paolo Morelos Mauricio, Marc A. Vittoria, Ryan J. Quinton, Brian W. Howell, Hauke Cornils, Amity L. Manning, and Neil J. Ganem. Identification of the kinase stk25 as an upstream activator of lats signaling. Nature Communications, April 2019. URL: http://dx.doi.org/10.1038/s41467-019-09597-w, doi:10.1038/s41467-019-09597-w. This article has 37 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-09597-w)
+
+[3. (Sugden2013SOcK) Peter H. Sugden, Liam J. McGuffin, and Angela Clerk. Sock, mists, mask and sticks: the gckiii (germinal centre kinase iii) kinases and their heterologous protein–protein interactions. Biochemical Journal, 454(1):13–30, July 2013. URL: http://dx.doi.org/10.1042/bj20130219, doi:10.1042/bj20130219. This article has 40 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20130219)
+
+[4. (Hwang2014STRIPAK) Juyeon Hwang and David C. Pallas. Stripak complexes: structure, biological function, and involvement in human diseases. The International Journal of Biochemistry &amp; Cell Biology, 47:118–148, February 2014. URL: http://dx.doi.org/10.1016/j.biocel.2013.11.021, doi:10.1016/j.biocel.2013.11.021. This article has 195 citations.](https://doi.org/10.1016/j.biocel.2013.11.021)
+
+5. (Lim2018STK25) STK25 directly activates LATS1/2 independent of MST/MAP4Ks. This article has 1 citations.
+
+[6. (Bae2020STK25) Sung Jun Bae, Lisheng Ni, and Xuelian Luo. Stk25 suppresses hippo signaling by regulating sav1-stripak antagonism. eLife, April 2020. URL: http://dx.doi.org/10.7554/elife.54863, doi:10.7554/elife.54863. This article has 34 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.54863)
+
+[7. (Chursa2016Overexpression) Urszula Chursa, Esther Nuñez-Durán, Emmelie Cansby, Manoj Amrutkar, Silva Sütt, Marcus Ståhlman, Britt-Marie Olsson, Jan Borén, Maria E. Johansson, Fredrik Bäckhed, Bengt R. Johansson, Carina Sihlbom, and Margit Mahlapuu. Overexpression of protein kinase stk25 in mice exacerbates ectopic lipid accumulation, mitochondrial dysfunction and insulin resistance in skeletal muscle. Diabetologia, 60(3):553–567, December 2016. URL: http://dx.doi.org/10.1007/s00125-016-4171-5, doi:10.1007/s00125-016-4171-5. This article has 35 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1007/s00125-016-4171-5)
+
+[8. (Cansby2019Targeted) Emmelie Cansby, Esther Nuñez-Durán, Elin Magnusson, Manoj Amrutkar, Sheri L. Booten, Nagaraj M. Kulkarni, L. Thomas Svensson, Jan Borén, Hanns-Ulrich Marschall, Mariam Aghajan, and Margit Mahlapuu. Targeted delivery of stk25 antisense oligonucleotides to hepatocytes protects mice against nonalcoholic fatty liver disease. Cellular and Molecular Gastroenterology and Hepatology, 7(3):597–618, 2019. URL: http://dx.doi.org/10.1016/j.jcmgh.2018.12.004, doi:10.1016/j.jcmgh.2018.12.004. This article has 33 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jcmgh.2018.12.004)
+
+9. (Rice2023STK25) STK25 is an IRF5 kinase that promotes TLR7/8-mediated inflammation. This article has 0 citations.
+
+[10. (Amrutkar2015Protein) Manoj Amrutkar, Matthias Kern, Esther Nuñez-Durán, Marcus Ståhlman, Emmelie Cansby, Urszula Chursa, Elin Stenfeldt, Jan Borén, Matthias Blüher, and Margit Mahlapuu. Protein kinase stk25 controls lipid partitioning in hepatocytes and correlates with liver fat content in humans. Diabetologia, 59(2):341–353, November 2015. URL: http://dx.doi.org/10.1007/s00125-015-3801-7, doi:10.1007/s00125-015-3801-7. This article has 45 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1007/s00125-015-3801-7)
+
+[11. (Zhang2022STK25a) Yichao Zhang, Junhui Xu, Zhendong Qiu, Yongjun Guan, XiaoYi Zhang, Xin Zhang, Dongqi Chai, Chen Chen, Qinyong Hu, and Weixing Wang. Stk25 enhances hepatocellular carcinoma progression through the strn/ampk/acc1 pathway. Cancer Cell International, January 2022. URL: http://dx.doi.org/10.1186/s12935-021-02421-w, doi:10.1186/s12935-021-02421-w. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-021-02421-w)

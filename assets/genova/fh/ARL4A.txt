@@ -1,0 +1,37 @@
+# ARL4A
+
+## Overview
+ARL4A is a gene that encodes the ADP ribosylation factor-like GTPase 4A, a member of the ARF family of small GTPases. This protein is involved in a variety of cellular processes, including cytoskeletal restructuring, vesicular transport, and cell migration, and plays a significant role in neuronal development. As a small GTPase, ARL4A functions as a molecular switch, cycling between active GTP-bound and inactive GDP-bound states, thereby regulating downstream signaling pathways. The protein's interactions with other cellular components, such as the Robo1 receptor and the endosomal sorting complex, highlight its importance in modulating cell motility and maintaining epidermal growth factor receptor (EGFR) signaling. ARL4A's expression is tissue-specific and developmentally regulated, with aberrant expression linked to various cancers, including thyroid and non-small cell lung cancer, where it may influence tumor progression and immune cell infiltration (Lin2023Endosomal; Han2024Thyroid).
+
+## Function
+The ARL4A gene encodes a small GTPase that is part of the ADP-ribosylation factor family, playing a significant role in various cellular processes. In healthy human cells, ARL4A is involved in cytoskeletal restructuring, vesicular transport, cell migration, and neuronal development (Han2024Thyroid). It facilitates cytoskeletal reorganization and cell membrane stretching, which are crucial for cell migration and processes like neural guidance (Han2024Thyroid). ARL4A interacts with the Robo1 receptor to modulate cell migration by promoting the activation of Cdc42, a small GTPase involved in cell motility and actin dynamics (Chiang2019ADPribosylation).
+
+ARL4A also plays a role in the regulation of epidermal growth factor receptor (EGFR) degradation. It interacts with the endosomal sorting complex required for transport (ESCRT)-II component VPS36, which prolongs EGFR ubiquitinylation and deters its transport from endosomes to lysosomes, thereby attenuating EGFR degradation (Lin2023Endosomal). This function is crucial for maintaining EGFR signaling, which is important for cell proliferation and survival (Lin2023Endosomal). ARL4A is expressed in a tissue-specific and developmentally regulated manner, with increased expression observed in several cancer cells (Lin2023Endosomal).
+
+## Clinical Significance
+Alterations in the expression of the ARL4A gene have been implicated in various cancers, including thyroid cancer (THCA) and non-small cell lung cancer (NSCLC). In thyroid cancer, ARL4A expression is significantly lower in cancerous tissues compared to normal tissues, yet higher expression levels are associated with poor prognosis, particularly in advanced stages. This suggests a complex role where ARL4A may act as an oncogene, influencing tumor growth and progression (Han2024Thyroid). ARL4A expression is also negatively correlated with immune cell infiltration in THCA, impacting the immune microenvironment and potentially affecting patient prognosis (Han2024Thyroid).
+
+In NSCLC, ARL4A has been shown to attenuate the degradation of the epidermal growth factor receptor (EGFR), a process crucial for regulating cell signaling pathways involved in cancer progression. High ARL4A expression prolongs EGFR ubiquitination and delays its degradation, potentially activating oncogenic pathways and contributing to cancer cell survival and proliferation (Lin2023Endosomal). The interaction of ARL4A with the ESCRT-II component VPS36 is critical in this regulatory mechanism, suggesting that disruptions in this interaction could influence EGFR degradation and cancer progression (Lin2023Endosomal).
+
+## Interactions
+ARL4A, a member of the ARF family of small GTPases, participates in several protein interactions that are crucial for its role in cellular processes. ARL4A interacts with ELMO proteins, particularly ELMO1, forming a complex with DOCK180. This interaction is essential for actin cytoskeleton remodeling and cell spreading, as it regulates the localization and activity of Rac1, a small GTPase involved in actin dynamics (Patel2011The).
+
+ARL4A also interacts with the Robo1 receptor, which is important for cell migration and neuronal guidance. This interaction is GTP-dependent and promotes Cdc42 activation, a Rho GTPase involved in cell polarity and actin reorganization (Chiang2019ADPribosylation).
+
+In the context of EGFR degradation, ARL4A binds to the ESCRT-II component VPS36, which is crucial for maintaining EGFR ubiquitination and preventing its degradation. This interaction affects the recruitment of the deubiquitinating enzyme USP8, influencing EGFR ubiquitination levels (Lin2023Endosomal).
+
+ARL4A also interacts with Pak1 through the Pak1-PBD domain, promoting cell migration by activating Rac1. This interaction is GTP-dependent and involves the Pak1 70-127 fragment, distinct from the core Cdc42/Rac1-binding motif (Chen2020Cooperative).
+
+
+## References
+
+
+[1. (Chiang2019ADPribosylation) Tsai-Shin Chiang, Ming-Chieh Lin, Meng-Chen Tsai, Chieh-Hsin Chen, Li-Ting Jang, and Fang-Jen S. Lee. Adp-ribosylation factor–like 4a interacts with robo1 to promote cell migration by regulating cdc42 activation. Molecular Biology of the Cell, 30(1):69–81, January 2019. URL: http://dx.doi.org/10.1091/mbc.E18-01-0001, doi:10.1091/mbc.e18-01-0001. This article has 13 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.E18-01-0001)
+
+[2. (Chen2020Cooperative) Kuan-Jung Chen, Tsai-Chen Chiang, Chia-Jung Yu, and Fang-Jen S. Lee. Cooperative recruitment of arl4a and pak1 to the plasma membrane contributes to sustained pak1 activation for cell migration. Journal of Cell Science, February 2020. URL: http://dx.doi.org/10.1242/jcs.233361, doi:10.1242/jcs.233361. This article has 9 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.233361)
+
+[3. (Lin2023Endosomal) Shin-Jin Lin, Ming-Chieh Lin, Tsai-Jung Liu, Yueh-Tso Tsai, Ming-Ting Tsai, and Fang-Jen S. Lee. Endosomal arl4a attenuates egfr degradation by binding to the escrt-ii component vps36. Nature Communications, November 2023. URL: http://dx.doi.org/10.1038/s41467-023-42979-9, doi:10.1038/s41467-023-42979-9. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-42979-9)
+
+[4. (Han2024Thyroid) Xiaoyong Han. Thyroid cancer prognostic biomarker arl4a and its relationship with immune infiltration. International Journal of Clinical and Experimental Pathology, 17(4):108–120, 2024. URL: http://dx.doi.org/10.62347/jeiv8228, doi:10.62347/jeiv8228. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.62347/jeiv8228)
+
+[5. (Patel2011The) Manishha Patel, Tsai-Chen Chiang, Viviane Tran, Fang-Jen S. Lee, and Jean-François Côté. The arf family gtpase arl4a complexes with elmo proteins to promote actin cytoskeleton remodeling and reveals a versatile ras-binding domain in the elmo proteins family. Journal of Biological Chemistry, 286(45):38969–38979, November 2011. URL: http://dx.doi.org/10.1074/jbc.m111.274191, doi:10.1074/jbc.m111.274191. This article has 45 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m111.274191)

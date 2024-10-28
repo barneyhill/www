@@ -1,0 +1,40 @@
+# RAB40B
+
+## Overview
+RAB40B is a gene that encodes a member of the RAS oncogene family, specifically a small GTPase protein known as RAB40B. This protein is part of the Rab family, which is involved in various intracellular membrane trafficking processes. RAB40B is characterized by its unique domain architecture, including a conserved G-domain and a C-terminal suppressor of cytokine signaling (SOCS) box domain. The SOCS box domain facilitates interactions with Cullin5, forming an E3 ubiquitin ligase complex that plays a crucial role in regulating cell migration and actin cytoskeleton dynamics. Through its involvement in the ubiquitylation of proteins such as Rap2, RAB40B influences cellular processes essential for cell movement and has been implicated in cancer progression, making it a potential target for therapeutic intervention (Neumann2023A; Duncan2021Methods).
+
+## Structure
+RAB40B is a small GTPase that is part of the Rab family, characterized by its unique domain architecture. The protein contains a conserved globular G-domain, which includes two switch regions, Switch-I and Switch-II, that stabilize the protein in an active conformation when bound to GTP (Neumann2023A). A distinctive feature of RAB40B is its extended C-terminal region containing a suppressor of cytokine signaling (SOCS) box domain. This domain is involved in protein-protein interactions and is part of the ubiquitin-proteasome system, facilitating the binding to Cullin5 (Cul5) to form an E3 ubiquitin ligase complex (Duncan2021Ubiquitylation; Duncan2021Methods).
+
+The SOCS box domain includes a BC-box and a Cul-box, which are crucial for binding to Elongin B and C, and Cullin proteins, respectively. The Cul-box contains an LPLP motif that is conserved across bilaterians and is essential for binding to Cullin5 (Neumann2023A). RAB40B also has a unique glycine residue upstream of Switch-I, which is involved in guanine nucleotide exchange factor (GEF) binding, suggesting unique GTPase properties compared to other Rab proteins (Neumann2023A). The protein undergoes post-translational modifications, such as prenylation, which are common among Rab GTPases, aiding in membrane association (Duncan2021Methods).
+
+## Function
+RAB40B is a small GTPase that plays a significant role in regulating cell migration and the actin cytoskeleton. It is part of the Rab family of proteins, which are involved in various membrane transport pathways. RAB40B, in conjunction with the E3 ubiquitin ligase scaffold protein Cullin5 (Cul5), forms a CRL5 ubiquitylation complex. This complex modulates the recycling of the small GTPase Rap2 to the leading-edge plasma membrane, a process crucial for maintaining the dynamic distribution of Rap2 necessary for cell migration (Duncan2021Ubiquitylation).
+
+RAB40B's interaction with Cul5 is facilitated by its unique C-terminal SOCS box domain, which allows it to function as a substrate recognition module within the E3 ubiquitin ligase complex (Duncan2021Methods). This interaction is essential for the ubiquitylation of Rap2, which regulates its localization and activity during cell migration (Duncan2021Ubiquitylation). The ubiquitylation process does not signal for proteasomal degradation but rather involves the addition of smaller ubiquitin species that regulate Rap2's recycling and activity (Duncan2021Ubiquitylation). Through these mechanisms, RAB40B influences cell migration and potentially other cellular processes related to actin dynamics (Neumann2023A).
+
+## Clinical Significance
+Alterations in the expression of the RAB40B gene have been implicated in various cancers, where it plays a significant role in promoting cancer cell invasion, migration, and metastasis. In gastric cancer, overexpression of Rab40b is associated with poor prognosis and aggressive cancer phenotypes, as it mediates the secretion of matrix metalloproteinases MMP2 and MMP9, which are crucial for invadopodia formation and extracellular matrix degradation (Guadagno2019Rab). Rab40b is also overexpressed in hepatocellular carcinoma (HCC), where it promotes cell proliferation and metastasis through the PI3K/AKT signaling pathway. This overexpression correlates with higher pathological grades and poor survival outcomes in HCC patients, making Rab40b an independent prognostic factor for the disease (Shi2020&lt; Overexpression; p&gt).
+
+In breast cancer, Rab40b is involved in cell migration and MMP secretion, interacting with the Cullin5 complex to regulate these processes through ubiquitylation (Duncan2021Methods). The gene's role in cancer progression highlights its potential as a target for therapeutic intervention, as its dysregulation contributes to the metastatic behavior of cancer cells (Neumann2023A).
+
+## Interactions
+RAB40B, a member of the RAS oncogene family, is involved in various protein interactions that influence cellular processes. It contains a SOCS box domain, which allows it to interact with the Cullin-RING E3 ubiquitin ligase complex, specifically binding to Cullin5. This interaction is crucial for the ubiquitination and regulation of protein substrates involved in cell migration and actin cytoskeleton dynamics (Duncan2021Methods; Neumann2023A).
+
+RAB40B is known to regulate the secretion of matrix metalloproteinases (MMP2 and MMP9) at invadopodia, structures involved in cancer cell migration. It interacts with tyrosine kinase substrate 5 (Tks5), which tethers MMP-containing vesicles to invadopodia, facilitating their secretion. This interaction is independent of Cullin5 binding, indicating a distinct regulatory mechanism (Neumann2023A).
+
+RAB40B also interacts with EPLIN, an actin-bundling protein, affecting its localization and function. The Rab40b/Cullin5 complex ubiquitinates EPLIN, which is necessary for its removal from the leading edge during cell migration. This interaction is enhanced in the Rab40b-4A mutant, suggesting a role in regulating actin dynamics (Linklater2021Rab40Cullin5).
+
+
+## References
+
+
+[1. (Guadagno2019Rab) Noemi Antonella Guadagno and Cinzia Progida. Rab gtpases: switching to human diseases. Cells, 8(8):909, August 2019. URL: http://dx.doi.org/10.3390/cells8080909, doi:10.3390/cells8080909. This article has 61 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells8080909)
+
+[2. (Neumann2023A) Andrew J. Neumann and Rytis Prekeris. A rab-bit hole: rab40 gtpases as new regulators of the actin cytoskeleton and cell migration. Frontiers in Cell and Developmental Biology, September 2023. URL: http://dx.doi.org/10.3389/fcell.2023.1268922, doi:10.3389/fcell.2023.1268922. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2023.1268922)
+
+3. (Linklater2021Rab40Cullin5) Rab40/Cullin5 complex regulates EPLIN and actin cytoskeleton dynamics during cell migration and invasion. This article has 1 citations.
+
+[4. (Duncan2021Methods) Emily D. Duncan, Ezra Lencer, Erik Linklater, and Rytis Prekeris. Methods to Study the Unique SOCS Box Domain of the Rab40 Small GTPase Subfamily, pages 163–179. Springer US, 2021. URL: http://dx.doi.org/10.1007/978-1-0716-1346-7_11, doi:10.1007/978-1-0716-1346-7_11. This article has 5 citations.](https://doi.org/10.1007/978-1-0716-1346-7_11)
+
+5. (Duncan2021Ubiquitylation) Ubiquitylation by Rab40b/Cul5 regulates Rap2 localization and activity during cell migration. This article has 1 citations.

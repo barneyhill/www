@@ -1,0 +1,42 @@
+# LACTB2
+
+## Overview
+LACTB2 is a gene that encodes the protein lactamase beta 2, a member of the metallo-β-lactamase (MBL) superfamily, which functions as a mitochondrial endoribonuclease. This protein is primarily involved in the processing and degradation of RNA within the mitochondria, playing a critical role in mitochondrial RNA metabolism. The LACTB2 protein is characterized by its soluble monomeric form in the mitochondrial matrix and its dependence on zinc ions for catalytic activity. It specifically cleaves single-stranded RNA (ssRNA) and is essential for maintaining mitochondrial function and cellular health. Alterations in LACTB2 expression have been linked to various diseases, including ovarian cancer, nasopharyngeal carcinoma, and Alzheimer's disease, highlighting its potential as a biomarker and therapeutic target (Harwood2021Defining; Chen2021LACTB2; Levy2016Identification).
+
+## Structure
+LACTB2 is a soluble monomeric protein located in the mitochondrial matrix and is a member of the metallo-β-lactamase (MBL) superfamily. The primary structure of LACTB2 includes a mitochondrial localization signal of 27 amino acids at the N-terminus, which remains part of the mature protein (Levy2016Identification). The secondary structure features a typical MBL fold in the N-terminal region, characterized by a central double β-sheet sandwich flanked by helices and loops (Levy2016Identification). The tertiary structure of LACTB2 was determined through crystallography, revealing a structure refined to a resolution of 2.6 Å, with the PDB ID: 4AD9 (Levy2016Identification).
+
+The protein crystallized as a trimer, but purified as a monomer, suggesting the trimeric structure may be an artifact of crystallization (Levy2016Identification). LACTB2 contains conserved zinc-coordinating residues typical of MBL proteins, with a catalytic center characterized by two Zn2+ ions (Levy2016Identification). The protein lacks the CASP and RMM domains found in the β-CASP subfamily but has a unique C-terminal domain that may play a role in substrate recognition (Levy2016Identification). The presence of a histidine residue at the C/V motif is a distinguishing feature of MBL ribonucleases, which is present in LACTB2 (Levy2016Identification).
+
+## Function
+The LACTB2 gene encodes a metallo-β-lactamase protein that functions as a mitochondrial endoribonuclease in human cells. This protein is involved in the processing and degradation of RNA within the mitochondria, playing a crucial role in mitochondrial RNA metabolism. LACTB2 specifically cleaves single-stranded RNA (ssRNA) but does not act on double-stranded RNA (dsRNA) or single-stranded DNA (ssDNA) (Harwood2020Monocytespecific; Levy2016Identification). The protein is localized in the mitochondrial matrix as a soluble monomeric protein, where it is protected from degradation, indicating its active role in this cellular compartment (Levy2016Identification).
+
+LACTB2's endoribonucleolytic activity is essential for maintaining mitochondrial function and cell viability. Alterations in its expression levels can lead to changes in mitochondrial transcript levels, with decreased expression causing transcript accumulation and overexpression resulting in reduced transcript levels (Levy2016Identification). These changes suggest that LACTB2 is involved in the turnover of mitochondrial RNA, which is vital for proper mitochondrial function and overall cellular health (Levy2016Identification). The protein's activity is dependent on the presence of zinc ions at its catalytic site, and mutations in key residues can impair its ribonucleolytic function (Levy2016Identification).
+
+## Clinical Significance
+The LACTB2 gene has been implicated in various diseases, primarily through alterations in its expression levels and interactions. In ovarian cancer (OC), LACTB2 is significantly overexpressed compared to normal tissues, correlating with advanced cancer stages and poor prognosis. High LACTB2 expression is associated with shorter overall survival and progression-free survival in OC patients, suggesting its potential as a prognostic biomarker (Cao2024Identification). LACTB2 is also linked to immune cell infiltration in OC, particularly promoting a pro-tumoral immunosuppressive environment through Th2 cell infiltration (Cao2024Identification).
+
+In nasopharyngeal carcinoma (NPC), LACTB2 contributes to radioresistance by activating the PINK1/Parkin-dependent mitophagy pathway, which maintains mitochondrial health and reduces reactive oxygen species (ROS) production. This mechanism is crucial for the radioresistance observed in NPC, making LACTB2 a potential target for sensitizing tumors to radiotherapy (Chen2021LACTB2).
+
+LACTB2 is also associated with Alzheimer's disease, where increased expression in CD14+ monocytes is linked to disease risk. This association is specific to monocytes, suggesting a role in the immune response related to Alzheimer's pathology (Harwood2021Defining; Harwood2020Monocytespecific).
+
+## Interactions
+LACTB2, a human mitochondrial protein, is involved in several interactions with other proteins and nucleic acids. It has been identified as a human mitochondrial endoribonuclease, exhibiting endoribonucleolytic activity by cleaving single-stranded RNA (ssRNA) but not double-stranded RNA (dsRNA) or single-stranded DNA (ssDNA) (Levy2016Identification). The protein interacts with RNA substrates, and specific amino acid residues are crucial for its RNA cleavage activity (Levy2016Identification). 
+
+In nasopharyngeal carcinoma (NPC) cells, LACTB2 interacts with PTEN-induced kinase 1 (PINK1), particularly through its N-terminal domain, to enhance PINK1-dependent mitophagy. This interaction stabilizes PINK1, preventing its degradation and promoting the recruitment of Parkin to the mitochondria, which is essential for the autophagic elimination of dysfunctional mitochondria (Chen2021LACTB2). 
+
+LACTB2's role in mitochondrial RNA metabolism is also highlighted by its localization in the mitochondrial matrix, where it does not form stable complexes with other proteins but may engage in transient interactions (Levy2016Identification). These interactions are significant for maintaining mitochondrial function and contribute to the radioresistance observed in certain cancer cells (Chen2021LACTB2).
+
+
+## References
+
+
+[1. (Harwood2021Defining) Janet C Harwood, Ganna Leonenko, Rebecca Sims, Valentina Escott-Price, Julie Williams, and Peter Holmans. Defining functional variants associated with alzheimer’s disease in the induced immune response. Brain Communications, April 2021. URL: http://dx.doi.org/10.1093/braincomms/fcab083, doi:10.1093/braincomms/fcab083. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/braincomms/fcab083)
+
+[2. (Cao2024Identification) Weiwei Cao, Chao Wang, Yue Zhang, Jiani Yang, Xiaomei Luo, Yaqian Zhao, Meixuan Wu, Shanshan Cheng, and Yu Wang. Identification of the prognostic value of lactb2 and its correlation with immune infiltrates in ovarian cancer by integrated bioinformatics analyses. European Journal of Medical Research, March 2024. URL: http://dx.doi.org/10.1186/s40001-024-01762-2, doi:10.1186/s40001-024-01762-2. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40001-024-01762-2)
+
+[3. (Chen2021LACTB2) Qianping Chen, Wang Zheng, Lin Zhu, Hongxia Liu, Yimeng Song, Songling Hu, Yang Bai, Yan Pan, Jianghong Zhang, Jian Guan, and Chunlin Shao. Lactb2 renders radioresistance by activating pink1/parkin-dependent mitophagy in nasopharyngeal carcinoma. Cancer Letters, 518:127–139, October 2021. URL: http://dx.doi.org/10.1016/j.canlet.2021.07.019, doi:10.1016/j.canlet.2021.07.019. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2021.07.019)
+
+[4. (Levy2016Identification) Shiri Levy, Charles K. Allerston, Varda Liveanu, Mouna R. Habib, Opher Gileadi, and Gadi Schuster. Identification of lactb2, a metallo-β-lactamase protein, as a human mitochondrial endoribonuclease. Nucleic Acids Research, 44(4):1813–1832, January 2016. URL: http://dx.doi.org/10.1093/nar/gkw050, doi:10.1093/nar/gkw050. This article has 41 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkw050)
+
+5. (Harwood2020Monocytespecific) Monocyte-specific changes in gene expression implicateLACTB2andPLIN2in Alzheimer’s disease. This article has 0 citations.

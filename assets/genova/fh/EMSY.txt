@@ -1,0 +1,50 @@
+# EMSY
+
+## Overview
+EMSY is a gene that encodes the EMSY transcriptional repressor, a nuclear protein involved in chromatin remodeling and transcriptional regulation. The EMSY protein is characterized by its interaction with the BRCA2 protein, playing a crucial role in DNA damage response and repair mechanisms, particularly in homologous recombination repair. It contains a unique EMSY N-terminal (ENT) domain, which facilitates its dimerization and interaction with chromatin-regulator proteins such as HP1β and BS69 (Ekblad2005Binding). EMSY functions as a transcriptional repressor, modulating the expression of interferon-stimulated genes through phosphorylation-dependent mechanisms (Ezell2012The). Clinically, EMSY is significant in the context of breast and ovarian cancers, where its overexpression is associated with poor prognosis and aggressive cancer phenotypes, highlighting its potential as a therapeutic target (Madjd2014Expression; Benusiglio2005Common).
+
+## Structure
+The EMSY protein is a large nuclear protein that interacts with the transactivation domain of BRCA2 and is involved in chromatin-related processes. It contains a unique domain known as the EMSY N-terminal (ENT) domain, which comprises the first 98 residues and forms a homodimer through the antiparallel packing of long amino-terminal alpha-helices. This dimerization is stabilized by hydrophobic interactions (Ekblad2005Binding). The ENT domain is followed by a region (residues 98-108) that serves as a binding platform for chromatin-regulator proteins HP1b and BS69 (Ekblad2005Binding).
+
+The crystal structure of EMSY residues 1-108 was determined at 2.0 Å resolution, revealing that the HP1b/BS69-binding motif forms an extended peptide-like conformation with distinct orientations in each subunit of the dimer (Ekblad2005Binding). The interaction between EMSY and the chromoshadow domain of HP1b involves a complex where one EMSY dimer is sandwiched between two HP1-CSD dimers, with a 2:4 stoichiometry of EMSY:HP1-CSD (Ekblad2005Binding).
+
+EMSY also contains a VxL motif crucial for its binding to HP1b, similar to the interaction seen in the HP1-CAF-1 complex (Ekblad2005Binding). The protein's structure includes a coiled-coil domain, and post-translational modifications like phosphorylation may regulate its function. EMSY has splice variant isoforms that can affect its interaction with other proteins (Cousineau2011EMSY).
+
+## Function
+EMSY is a nuclear protein that plays a significant role in transcriptional repression and DNA damage response in healthy human cells. It interacts with the BRCA2 protein, which is crucial for maintaining genomic stability through homologous recombination repair of DNA double-strand breaks. EMSY localizes to chromatin sites of DNA damage and repair, coordinating with proteins such as PALB2, RPA, and RAD51 to facilitate the DNA repair process (Cousineau2011EMSY).
+
+EMSY acts as a transcriptional repressor of interferon-stimulated genes (ISGs) by binding to their promoters. This repression is modulated by phosphorylation at Ser209 by the protein kinase Akt1, which relieves EMSY's repressive function, allowing for the expression of ISGs involved in antiviral immunity (Ezell2012The). The phosphorylation of EMSY by Akt1 is crucial for the regulation of ISGs and is dependent on its interaction with BRCA2 (Ezell2012The).
+
+In the context of DNA repair, EMSY overexpression can disrupt the BRCA2/RAD51 pathway, leading to decreased efficiency of homologous recombination repair and increased chromosomal instability. This disruption is characterized by a shift from gene conversion to single-strand annealing, indicating EMSY's role in modulating DNA repair pathway choice (Cousineau2011EMSY).
+
+## Clinical Significance
+The EMSY gene is clinically significant in the context of breast and ovarian cancers. In sporadic breast cancers, EMSY is often overexpressed, which can negatively impact the tumor suppression function of BRCA2, a gene involved in DNA repair. This overexpression may mimic the effects of BRCA2 inactivation, contributing to cancer development even in the absence of BRCA2 mutations (Madjd2014Expression; Livingston2004EMSY). EMSY amplification has been observed in approximately 13% of sporadic breast cancers and 17% of high-grade ovarian cancers, and it is associated with poor prognosis, particularly in node-negative breast cancer cases (Madjd2014Expression; Benusiglio2005Common).
+
+The expression of EMSY is linked to more aggressive breast cancer phenotypes, as it is associated with larger tumor sizes and lymph node metastasis (Madjd2014Expression). Despite its amplification, common genetic variations in EMSY do not appear to significantly increase the risk of breast or ovarian cancer, suggesting that its role in cancer may be more related to expression levels rather than genetic mutations (Benusiglio2005Common). The study of EMSY highlights its potential as a target for therapeutic intervention in breast cancer treatment (Madjd2014Expression).
+
+## Interactions
+EMSY is a nuclear protein that interacts with several key proteins involved in DNA repair and chromatin remodeling. It binds to the transactivation domain of BRCA2, potentially inhibiting BRCA2's function in DNA repair and transcription regulation (Ezell2012The; Yao2004EMSY). EMSY also interacts with HP1β through a VxL motif, forming a complex with HP1-CSD dimers, which is crucial for chromatin remodeling (Ekblad2005Binding). This interaction involves specific residues in EMSY, such as Val 100 and Leu 102, which are essential for high-affinity binding to HP1 (Ekblad2005Binding).
+
+EMSY's interaction with BS69, another chromatin regulator, is mediated by a PxLxP motif, and this binding is mutually exclusive with HP1 due to the proximity of their binding sites on EMSY (Ekblad2005Binding). EMSY also interacts with proteins containing 'Royal Family' domains, such as NDY1/KDM2B, suggesting a broader role in chromatin modification (Ezell2012The).
+
+In the context of cancer, EMSY is stabilized in KEAP1-mutant non-small cell lung cancer, leading to defects in homologous recombination repair and promoting a 'BRCAness phenotype' (Sheban2023EMSY). This stabilization is due to the absence of KEAP1-mediated ubiquitination, which normally targets EMSY for degradation (Sheban2023EMSY).
+
+
+## References
+
+
+[1. (Yao2004EMSY) Jun Yao and Kornelia Polyak. Emsy links breast cancer gene 2 to the “royal family”. Breast Cancer Research, July 2004. URL: http://dx.doi.org/10.1186/bcr916, doi:10.1186/bcr916. This article has 7 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/bcr916)
+
+[2. (Cousineau2011EMSY) Isabelle Cousineau and Abdellah Belmaaza. Emsy overexpression disrupts the brca2/rad51 pathway in the dna-damage response: implications for chromosomal instability/recombination syndromes as checkpoint diseases. Molecular Genetics and Genomics, 285(4):325–340, March 2011. URL: http://dx.doi.org/10.1007/s00438-011-0612-5, doi:10.1007/s00438-011-0612-5. This article has 55 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00438-011-0612-5)
+
+[3. (Livingston2004EMSY) David M Livingston. Emsy, a brca-2 partner in crime. Nature Medicine, 10(2):127–128, February 2004. URL: http://dx.doi.org/10.1038/nm0204-127, doi:10.1038/nm0204-127. This article has 16 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nm0204-127)
+
+[4. (Ezell2012The) Scott A. Ezell, Christos Polytarchou, Maria Hatziapostolou, Ailan Guo, Ioannis Sanidas, Teeru Bihani, Michael J. Comb, George Sourvinos, and Philip N. Tsichlis. The protein kinase akt1 regulates the interferon response through phosphorylation of the transcriptional repressor emsy. Proceedings of the National Academy of Sciences, February 2012. URL: http://dx.doi.org/10.1073/pnas.1115029109, doi:10.1073/pnas.1115029109. This article has 73 citations.](https://doi.org/10.1073/pnas.1115029109)
+
+[5. (Sheban2023EMSY) Daoud Sheban and Yifat Merbl. Emsy stabilization in keap1-mutant lung cancer disrupts genome stability and type i interferon signaling. Cell Death &amp; Differentiation, 30(5):1397–1399, March 2023. URL: http://dx.doi.org/10.1038/s41418-023-01150-z, doi:10.1038/s41418-023-01150-z. This article has 1 citations.](https://doi.org/10.1038/s41418-023-01150-z)
+
+[6. (Ekblad2005Binding) Caroline M S Ekblad, Gayatri B Chavali, Balaka P Basu, Stefan M V Freund, Dmitry Veprintsev, Luke Hughes‐Davies, Tony Kouzarides, Aidan J Doherty, and Laura S Itzhaki. Binding of emsy to hp1β: implications for recruitment of hp1β and bs69. EMBO reports, 6(7):675–680, July 2005. URL: http://dx.doi.org/10.1038/sj.embor.7400415, doi:10.1038/sj.embor.7400415. This article has 26 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/sj.embor.7400415)
+
+[7. (Benusiglio2005Common) Patrick R Benusiglio, Fabienne Lesueur, Craig Luccarini, Joan McIntosh, Robert N Luben, Paula Smith, Alison Dunning, Douglas F Easton, Bruce AJ Ponder, and Paul D Pharoah. Common variation in emsyand risk of breast and ovarian cancer: a case-control study using hapmap tagging snps. BMC Cancer, July 2005. URL: http://dx.doi.org/10.1186/1471-2407-5-81, doi:10.1186/1471-2407-5-81. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2407-5-81)
+
+[8. (Madjd2014Expression) Zahra Madjd, Mohammad Esmaeil Akbari, Amir Hassan Zarnani, Maryam Khayamzadeh, Elham Kalantari, and Nazanin Mojtabavi. Expression of emsy, a novel brca2-link protein, is associated with lymph node metastasis and increased tumor size in breast carcinomas. Asian Pacific Journal of Cancer Prevention, 15(4):1783–1789, February 2014. URL: http://dx.doi.org/10.7314/APJCP.2014.15.4.1783, doi:10.7314/apjcp.2014.15.4.1783. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.7314/APJCP.2014.15.4.1783)

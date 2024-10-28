@@ -1,0 +1,52 @@
+# LARP6
+
+## Overview
+LARP6, or La ribonucleoprotein 6, is a gene that encodes a specialized RNA binding protein involved in the regulation of type I collagen synthesis. The protein, also referred to as LARP6, is characterized by its La module, which includes the La motif (LaM) and the RNA recognition motif 1 (RRM1), both of which are crucial for its function as a translational regulator. LARP6 binds specifically to a conserved stem-loop structure in the 5' untranslated region (5' UTR) of collagen mRNAs, facilitating their stabilization and translation. This interaction is essential for the synthesis of collagen, a key structural protein in connective tissues. LARP6's activity is modulated by post-translational modifications, such as phosphorylation by kinases like Akt and mTORC1, which influence its binding affinity and interactions with other proteins. These regulatory mechanisms are significant for maintaining tissue integrity and have implications in fibrotic diseases, where dysregulation of collagen production can occur (Zhang2017mTORC1; Zhang2016Akt; Stefanovic2014Characterization).
+
+## Structure
+LARP6 is a human protein characterized by its La module, which includes the La motif (LaM) and the RNA recognition motif 1 (RRM1). The LaM is a modified winged-helix domain, featuring a 3-stranded antiparallel β-sheet surrounded by six helices, forming a hydrophobic pocket crucial for RNA interaction (DockBregeon2019The). The RRM1 domain of LARP6 exhibits a unique fold with an α-helix on the β-sheet face, which obscures the canonical RNA binding surface, suggesting a noncanonical RNA binding site (Martino2014Synergic).
+
+The LaM domain in LARP6 has a unique configuration, with a shorter α1 helix and a distinct wing 2 structure, affecting the interdomain linker length and orientation (Martino2014Synergic; Maraia2017The). The interdomain linker is notably short, consisting of only two residues, E179 and N180 (Martino2014Synergic). The RRM1 domain includes additional helices and lacks the typical RNA-binding surface, contributing to the protein's RNA substrate selection specificity (Maraia2017The).
+
+LARP6 is involved in collagen biosynthesis by binding to a conserved stem-loop in the 5' UTR of collagen mRNAs, a process that is uracil-dependent (Bayfield2010Conserved). The protein may undergo post-translational modifications such as phosphorylation and exists in different isoforms due to alternative splicing.
+
+## Function
+LARP6 (La ribonucleoprotein 6) is a crucial RNA binding protein involved in the regulation of type I collagen synthesis in human cells. It specifically binds to a conserved 5' stem-loop structure in the 5' untranslated region (5' UTR) of collagen mRNAs, including those encoding collagen α1(I) and α2(I) polypeptides. This binding is essential for the stabilization and translation of collagen mRNAs, facilitating the synthesis of the collagen triple helix structure, which is vital for maintaining tissue integrity and function (Cai2010Binding; Stefanovic2014Characterization).
+
+LARP6 interacts with various proteins, such as RNA helicase A (RHA), nonmuscle myosin, and vimentin intermediate filaments, to enhance the translational competitiveness of collagen mRNAs and prolong their half-life. These interactions ensure the efficient loading of collagen mRNAs onto polysomes and their proper folding and stability (Zhang2016Akt; Stefanovic2014Characterization). LARP6 also plays a role in targeting collagen mRNAs to the endoplasmic reticulum (ER) membrane, coordinating their translation and ensuring proper secretion of collagen polypeptides (Wang2014Role).
+
+Phosphorylation of LARP6 by kinases such as Akt and mTORC1 is critical for its function, influencing its binding affinity and interaction with other proteins, which is necessary for efficient collagen biosynthesis (Zhang2017mTORC1; Zhang2016Akt).
+
+## Clinical Significance
+Mutations and alterations in the expression of the LARP6 gene have significant clinical implications, particularly in the context of fibrotic diseases. LARP6 is crucial for the biosynthesis of type I collagen, and disruptions in its function can lead to excessive collagen production, contributing to fibrosis. For instance, mutations that affect LARP6's ability to bind to the 5' stem-loop (5'SL) of collagen mRNAs or interact with the SEC61 translocon can impair collagen synthesis, potentially impacting conditions related to collagen production (Stefanovic2014Characterization). 
+
+Phosphorylation of LARP6 is another critical factor in its function. The phosphorylation at specific serine residues, such as S451 by Akt kinase, is essential for collagen biosynthesis. Inhibition of this phosphorylation pathway can reduce collagen production, suggesting that Akt inhibitors might have potential as anti-fibrotic agents (Zhang2016Akt). Similarly, mTORC1-dependent phosphorylation of LARP6 is necessary for efficient collagen synthesis and secretion. Mutations that prevent this phosphorylation can lead to reduced collagen secretion and excessive posttranslational modifications, which are associated with fibrotic diseases (Zhang2017mTORC1). 
+
+These findings highlight the potential of targeting LARP6 interactions and phosphorylation pathways as therapeutic strategies for fibrotic conditions.
+
+## Interactions
+LARP6 interacts with the 5' stem-loop (5'SL) structure in the 5' untranslated regions (UTRs) of collagen mRNAs, which is crucial for the regulation of type I collagen synthesis. This interaction is characterized by high affinity and specificity, requiring the La domain and the RNA recognition motif (RRM) of LARP6 (Cai2010Binding; Stefanovic2014Characterization). The La domain is essential for protein folding, while the RRM, particularly loop 3, is critical for binding to the 5'SL and interacting with the protein translocation channel SEC61, which is necessary for collagen synthesis (Stefanovic2014Characterization).
+
+LARP6 also forms complexes with SEC61a and SEC61b, as demonstrated by gel mobility shift assays and immunoprecipitation experiments (Stefanovic2014Characterization). It interacts with other proteins, including nonmuscle myosin, vimentin, RNA helicase A (RHA), and serine-threonine kinase receptor-associated protein (STRAP), to coordinate the translation of collagen mRNAs and enhance their translational competitiveness (Zhang2017mTORC1; Zhang2016Akt). These interactions are crucial for the synthesis and stability of collagen mRNAs, impacting the regulation of collagen biosynthesis and potentially influencing fibrosis (Zhang2017mTORC1; Stefanovic2014Characterization).
+
+
+## References
+
+
+[1. (DockBregeon2019The) Anne-Catherine Dock-Bregeon, Karen A. Lewis, and Maria R. Conte. The la-related proteins: structures and interactions of a versatile superfamily of rna-binding proteins. RNA Biology, 18(2):178–193, December 2019. URL: http://dx.doi.org/10.1080/15476286.2019.1695712, doi:10.1080/15476286.2019.1695712. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/15476286.2019.1695712)
+
+[2. (Wang2014Role) Hao Wang and Branko Stefanovic. Role of larp6 and nonmuscle myosin in partitioning of collagen mrnas to the er membrane. PLoS ONE, 9(10):e108870, October 2014. URL: http://dx.doi.org/10.1371/journal.pone.0108870, doi:10.1371/journal.pone.0108870. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0108870)
+
+[3. (Zhang2017mTORC1) Yujie Zhang and Branko Stefanovic. Mtorc1 phosphorylates larp6 to stimulate type i collagen expression. Scientific Reports, January 2017. URL: http://dx.doi.org/10.1038/srep41173, doi:10.1038/srep41173. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep41173)
+
+[4. (Martino2014Synergic) Luigi Martino, Simon Pennell, Geoff Kelly, Baptiste Busi, Paul Brown, R. Andrew Atkinson, Nicholas J.H. Salisbury, Zi-Hao Ooi, Kang-Wei See, Stephen J. Smerdon, Caterina Alfano, Tam T.T. Bui, and Maria R. Conte. Synergic interplay of the la motif, rrm1 and the interdomain linker of larp6 in the recognition of collagen mrna expands the rna binding repertoire of the la module. Nucleic Acids Research, 43(1):645–660, December 2014. URL: http://dx.doi.org/10.1093/nar/gku1287, doi:10.1093/nar/gku1287. This article has 54 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gku1287)
+
+[5. (Bayfield2010Conserved) Mark A. Bayfield, Ruiqing Yang, and Richard J. Maraia. Conserved and divergent features of the structure and function of la and la-related proteins (larps). Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1799(5–6):365–378, May 2010. URL: http://dx.doi.org/10.1016/j.bbagrm.2010.01.011, doi:10.1016/j.bbagrm.2010.01.011. This article has 130 citations.](https://doi.org/10.1016/j.bbagrm.2010.01.011)
+
+[6. (Maraia2017The) Richard J. Maraia, Sandy Mattijssen, Isabel Cruz‐Gallardo, and Maria R. Conte. The <scp>la</scp> and related <scp>rna</scp>‐binding proteins (larps): structures, functions, and evolving perspectives. WIREs RNA, August 2017. URL: http://dx.doi.org/10.1002/wrna.1430, doi:10.1002/wrna.1430. This article has 104 citations.](https://doi.org/10.1002/wrna.1430)
+
+[7. (Zhang2016Akt) Yujie Zhang and Branko Stefanovic. Akt mediated phosphorylation of larp6; critical step in biosynthesis of type i collagen. Scientific Reports, March 2016. URL: http://dx.doi.org/10.1038/srep22597, doi:10.1038/srep22597. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep22597)
+
+[8. (Cai2010Binding) Le Cai, Dillon Fritz, Lela Stefanovic, and Branko Stefanovic. Binding of larp6 to the conserved 5′ stem–loop regulates translation of mrnas encoding type i collagen. Journal of Molecular Biology, 395(2):309–326, January 2010. URL: http://dx.doi.org/10.1016/j.jmb.2009.11.020, doi:10.1016/j.jmb.2009.11.020. This article has 86 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2009.11.020)
+
+[9. (Stefanovic2014Characterization) Lela Stefanovic, Liam Longo, Yujie Zhang, and Branko Stefanovic. Characterization of binding of larp6 to the 5’ stem-loop of collagen mrnas: implications for synthesis of type i collagen. RNA Biology, 11(11):1386–1401, November 2014. URL: http://dx.doi.org/10.1080/15476286.2014.996467, doi:10.1080/15476286.2014.996467. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/15476286.2014.996467)

@@ -1,0 +1,48 @@
+# SAMD4A
+
+## Overview
+SAMD4A is a gene that encodes the protein sterile alpha motif domain containing 4A, which is a member of the RNA-binding protein family. This protein is characterized by the presence of a sterile alpha motif (SAM) domain, which is essential for its role in post-transcriptional regulation and translation repression in eukaryotic cells (Wang2023RNA). SAMD4A is involved in various cellular processes, including the regulation of mRNA stability and translation, osteoblast differentiation, and inhibition of angiogenesis (Niu2017RNAbinding; Zhou2021RNA‐binding). It interacts with other proteins and nucleic acids, influencing metabolic homeostasis and gene expression through pathways such as mTORC1 signaling (Wang2023RNA). Clinically, SAMD4A is significant due to its involvement in diseases such as myopathy, cancer, and viral infections, where it plays roles in translation regulation, tumor suppression, and antiviral activity (Wang2023RNA; Wang2020SAMD4).
+
+## Structure
+The SAMD4A protein is a member of the SAMD4 protein family, which includes SAMD4A and SAMD4B, and is a mammalian homolog of the Drosophila Smaug protein. It consists of 629 amino acids and features several key structural domains, including the sterile alpha motif (SAM) domain, Smaug similarity region 1 (SSR1), and Smaug similarity region 2 (SSR2) (Wang2023RNA). The SAM domain is crucial for RNA binding and protein-protein interactions, recognizing stem-loop structures on the 3' untranslated region (UTR) of target mRNAs known as Smaug recognition elements (SREs) (Wang2023RNA).
+
+The N-terminal domain (NTD) of SAMD4A forms a homodimer, with each monomer composed of two subdomains. The N-terminal subdomain consists of three alpha-helices forming a dimerization domain, while the C-terminal subdomain is a bundle of five alpha-helices connected by a linker alpha-helix (Kubíková2023Structural). SAMD4A also contains two PHAT domains: PHAT1 in the NTD and PHAT2 in the middle part of the protein, with PHAT1 being compact and PHAT2 carrying an unstructured insertion (Kubíková2023Structural).
+
+SAMD4A may undergo post-translational modifications such as phosphorylation and exists in multiple splice variant isoforms, which can affect its function and interactions (Zhou2021RNA‐binding).
+
+## Function
+SAMD4A is an RNA-binding protein that plays a crucial role in post-transcriptional regulation and translation repression in eukaryotic cells. It contains a sterile alpha motif (SAM) domain that binds to target mRNAs through Smaug recognition elements (SREs), which are stem-loop structures in the 3' untranslated region of mRNAs. This binding leads to mRNA destabilization and degradation, thereby regulating mRNA stability and translation (Wang2023RNA).
+
+In healthy human cells, SAMD4A is involved in various cellular processes, including the regulation of osteoblast differentiation and skeletal development. It acts as a translational repressor of Mig6 expression, which is crucial for proper bone formation and mineralization (Niu2017RNAbinding). SAMD4A also plays a role in inhibiting angiogenesis by destabilizing proangiogenic mRNAs, such as CXCL5 and IL1β, which affects endothelial cell migration and tube formation (Zhou2021RNA‐binding).
+
+Additionally, SAMD4A is active in the cytoplasm, where it forms cytoplasmic mRNA silencing foci and interacts with other proteins to modulate gene expression. It is involved in metabolic homeostasis through mTORC1 signaling and can recruit deadenylases to target mRNA for degradation (Wang2023RNA).
+
+## Clinical Significance
+The SAMD4A gene is clinically significant due to its involvement in various diseases through mutations, expression alterations, and interaction changes. In myopathy, increased levels of SAMD4A in myoblasts from patients with Myotonic Dystrophy type 1 (DM1) can restore translation activity and inhibit CUG-induced myopathy, while decreased levels exacerbate the condition (Wang2023RNA). A missense mutation in the mouse Samd4 gene is associated with myopathy and metabolic defects linked to dysregulated mTORC1 signaling (Wang2023RNA).
+
+In cancer, SAMD4A expression is altered in several types. It is downregulated in breast cancer tissues, correlating with poor survival rates, and functions as an angiogenesis inhibitor by destabilizing proangiogenic mRNAs (Zhou2021RNA‐binding; Chen2023Exploration). In colorectal cancer, SAMD4B, a related gene, is targeted by miR-451, which suppresses cancer cell proliferation and promotes apoptosis (Wang2023RNA). SAMD4A is also overexpressed in topotecan-resistant ovarian cancer cells, suggesting a role in drug resistance (Wang2023RNA).
+
+SAMD4A is implicated in hepatitis B virus (HBV) infections, where it suppresses HBV replication by binding to the Smaug recognition element in viral RNA. Mutations affecting the SAM domain or the C-terminal region of SAMD4A can impact its antiviral activity (Wang2020SAMD4).
+
+## Interactions
+SAMD4A, a protein encoded by the SAMD4A gene, is involved in various interactions with proteins and nucleic acids that influence cellular processes. It directly interacts with Akt and is phosphorylated by it, impacting mTORC1 signaling, which is crucial for metabolic regulation (Wang2023RNA). SAMD4A also binds to Smaug recognition elements (SREs) in the 3'-UTR of target transcripts, affecting mRNA stability and translation. It recruits proteins such as eIF4E binding protein CUP and CUGBP1 to target mRNAs, influencing translation and cellular activities (Wang2023RNA).
+
+In the context of viral infections, SAMD4A binds to the Smaug recognition region (SRE) in hepatitis B virus (HBV) RNA, leading to its degradation and suppression of HBV replication. This interaction is mediated by the SAM domain, which is crucial for RNA binding (Wang2020SAMD4). SAMD4A also interacts with components of the CCR4-NOT complex, such as CNOT6 and CNOT8, contributing to mRNA degradation (Wang2020SAMD4).
+
+In breast cancer, SAMD4A inhibits tumor angiogenesis by binding to conserved stem-loop structures in the 3′UTRs of proangiogenic mRNAs, destabilizing them and reducing their expression (Zhou2021RNA‐binding).
+
+
+## References
+
+
+[1. (Wang2023RNA) Xin-Ya Wang and Li-Na Zhang. Rna binding protein samd4: current knowledge and future perspectives. Cell &amp; Bioscience, February 2023. URL: http://dx.doi.org/10.1186/s13578-023-00968-x, doi:10.1186/s13578-023-00968-x. This article has 8 citations.](https://doi.org/10.1186/s13578-023-00968-x)
+
+[2. (Niu2017RNAbinding) Ningning Niu, Jian-Feng Xiang, Qin Yang, Lijun Wang, Zhanying Wei, Ling-Ling Chen, Li Yang, and Weiguo Zou. Rna-binding protein samd4 regulates skeleton development through translational inhibition of mig6 expression. Cell Discovery, January 2017. URL: http://dx.doi.org/10.1038/celldisc.2016.50, doi:10.1038/celldisc.2016.50. This article has 25 citations.](https://doi.org/10.1038/celldisc.2016.50)
+
+[3. (Wang2020SAMD4) Yuze Wang, Xinrui Fan, Yunlong Song, Yifei Liu, Ruixin Liu, Jianfeng Wu, Xiaoling Li, Quan Yuan, Guo Fu, Ningshao Xia, and Jiahuai Han. Samd4 family members suppress human hepatitis b virus by directly binding to the smaug recognition region of viral rna. Cellular &amp; Molecular Immunology, 18(4):1032–1044, April 2020. URL: http://dx.doi.org/10.1038/s41423-020-0431-x, doi:10.1038/s41423-020-0431-x. This article has 10 citations.](https://doi.org/10.1038/s41423-020-0431-x)
+
+4. (Kubíková2023Structural) Structural basis for binding of Smaug to the GPCR Smoothened and to the germline inducer Oskar. This article has 0 citations.
+
+[5. (Zhou2021RNA‐binding) Meicen Zhou, Bing Wang, Hongwei Li, Jianqun Han, Ailing Li, and Wenbao Lu. Rna‐binding protein samd4a inhibits breast tumor angiogenesis by modulating the balance of angiogenesis program. Cancer Science, 112(9):3835–3845, July 2021. URL: http://dx.doi.org/10.1111/cas.15053, doi:10.1111/cas.15053. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/cas.15053)
+
+[6. (Chen2023Exploration) Xiang Chen, Changcheng Yang, Wei Wang, Xionghui He, Hening Sun, Wenzhi Lyu, Kejian Zou, Shuo Fang, Zhijun Dai, and Huaying Dong. Exploration of prognostic genes and risk signature in breast cancer patients based on rna binding proteins associated with ferroptosis. Frontiers in Genetics, February 2023. URL: http://dx.doi.org/10.3389/fgene.2023.1025163, doi:10.3389/fgene.2023.1025163. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2023.1025163)

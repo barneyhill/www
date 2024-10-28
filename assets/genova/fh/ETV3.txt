@@ -1,0 +1,46 @@
+# ETV3
+
+## Overview
+ETV3 is a gene that encodes the ETS variant transcription factor 3, a member of the ETS family of transcription factors. This protein functions primarily as a transcriptional repressor and is characterized by its conserved ETS domain, which facilitates DNA binding through a winged helix-turn-helix structure. ETV3 plays a crucial role in regulating gene expression related to cellular processes such as differentiation, proliferation, and immune response modulation. It is particularly significant in the differentiation of monocytes into dendritic cells, acting independently of interferon-stimulated genes. The protein's activity is modulated by phosphorylation, notably by ERK2, which affects its DNA-binding ability and transcriptional repression functions. ETV3's involvement in various diseases, including Hodgkin lymphoma and breast cancer, underscores its clinical significance, as its aberrant expression and genomic alterations contribute to oncogenic processes (Villar2022ETV3; Carlson2011LargeScale; Nagel2023Establishment).
+
+## Structure
+ETV3 is a member of the ETS family of transcription factors, characterized by a conserved ETS domain that forms a winged helix-turn-helix (wHTH) structure. This domain is approximately 85 amino acids long and is composed of three alpha helices and a four-stranded antiparallel beta sheet, which recognizes a core GGAA/T DNA sequence (Seth2005ETS; Findlay2013Understanding). The DNA-binding specificity of ETS factors, including ETV3, is influenced by sequences flanking the core motif, suggesting that DNA conformation contributes to specificity (Findlay2013Understanding).
+
+ETV3 undergoes post-translational modifications, notably phosphorylation. ERK2 phosphorylates ETV3 at Ser 139, affecting its DNA-binding ability and impairing its repressive activity (Carlson2011LargeScale). This phosphorylation was confirmed through mass spectrometry and in vitro kinase reactions, with additional phosphorylated serine residues identified (Carlson2011LargeScale).
+
+Alternative splicing can result in ETV3 isoforms with different DNA-binding affinities, although specific details about these isoforms are not provided in the available context (Findlay2013Understanding). The protein remains predominantly nuclear and does not translocate in response to ERK1/2 activity, unlike some other ETS family members (Carlson2011LargeScale).
+
+## Function
+ETV3 (ETS variant transcription factor 3) is a transcriptional repressor that plays a significant role in regulating gene expression in human cells. It is primarily active in the nucleus, where it binds to specific DNA sequences to inhibit transcription. ETV3 is involved in various cellular processes, including differentiation, proliferation, and immune response modulation.
+
+In the context of monocyte differentiation, ETV3, along with ETV6, is crucial for directing monocytes to differentiate into dendritic cells (mo-DCs) by repressing the macrophage fate commitment. This repression is independent of interferon-stimulated genes (ISGs) and involves the regulation of specific transcriptional networks (Villar2022ETV3). ETV3 is also proposed as an anti-inflammatory mediator downstream of IL-10, suggesting its role in inflammation regulation (Villar2022ETV3).
+
+ETV3 is a substrate of ERK2, a mitogen-activated protein kinase, which phosphorylates ETV3 on multiple serine residues. This phosphorylation abrogates ETV3's DNA-binding activity, allowing for a transient burst of transcriptional activity following ERK activation. This mechanism is significant for modulating transcription of genes involved in cell cycle control, NF-κB signaling, and RNA processing (Carlson2011LargeScale).
+
+## Clinical Significance
+ETV3 has been implicated in various diseases due to its role as a transcriptional regulator. In Hodgkin lymphoma (HL), ETV3 is aberrantly expressed, contributing to oncogenic processes. This aberrant expression is often due to genomic duplication and interactions with transcription factors such as JUNB and GATA3. ETV3's overexpression in HL is associated with deregulated differentiation processes and the activation of oncogenes like miR155, while its expression is typically downregulated during normal B-cell development (Nagel2023Establishment).
+
+ETV3 is also involved in breast cancer, where it has been reported to be amplified, suggesting that copy number gain is a potent activating mechanism for this oncogene (Nagel2023Establishment). In the context of hematopoietic malignancies, the fusion gene ETV3::NCOA2 has been detected in independent cell histiocytosis, indicating a broader oncogenic role for ETV3 (Nagel2023Establishment).
+
+In immune-related disorders, ETV3, along with ETV6, plays a crucial role in monocyte differentiation. It represses macrophage fate commitment, promoting differentiation into dendritic cells. This function is significant in inflammatory conditions, where ETV3 and ETV6 regulate the expression of interferon-stimulated genes, potentially offering therapeutic targets for diseases like multiple sclerosis (Villar2022ETV3).
+
+## Interactions
+ETV3, a transcriptional repressor, interacts with DNA and other proteins to regulate gene expression. It binds to GGAA-containing sequences, characteristic of ETS-family proteins, and its binding sites are enriched near transcription start sites of genes such as myc, etv6, and ddx20 (Carlson2011LargeScale). Phosphorylation by ERK2 at Ser 139 and other sites affects ETV3's DNA binding ability, leading to a loss of DNA binding as demonstrated by ChIP-seq and ChIP-PCR experiments (Carlson2011LargeScale). This phosphorylation event relieves repression by ETV3, allowing the activation of genes involved in cell cycle control, NF-κB signaling, and RNA processing (Carlson2011LargeScale).
+
+ETV3 does not translocate from the nucleus to the cytoplasm upon phosphorylation by ERK1/2, unlike its related ETS domain-containing transcriptional repressor, ERF. ETV3 remains predominantly nuclear regardless of its phosphorylation state (Carlson2011LargeScale). The study by Selvaraj et al. indicates that ETV3 is a strong substrate for JNK1 and p38α, suggesting potential roles for these pathways in ETV3 function (Selvaraj2015Comparison). However, specific details on physical interactions with other proteins or nucleic acids beyond its phosphorylation by MAPKs are not provided in the context.
+
+
+## References
+
+
+[1. (Nagel2023Establishment) Stefan Nagel, Corinna Meyer, and Claudia Pommerenke. Establishment of the lymphoid ets-code reveals deregulated ets genes in hodgkin lymphoma. PLOS ONE, 18(7):e0288031, July 2023. URL: http://dx.doi.org/10.1371/journal.pone.0288031, doi:10.1371/journal.pone.0288031. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0288031)
+
+[2. (Selvaraj2015Comparison) Nagarathinam Selvaraj, Vivekananda Kedage, and Peter C Hollenhorst. Comparison of mapk specificity across the ets transcription factor family identifies a high-affinity erk interaction required for erg function in prostate cells. Cell Communication and Signaling, February 2015. URL: http://dx.doi.org/10.1186/s12964-015-0089-7, doi:10.1186/s12964-015-0089-7. This article has 86 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12964-015-0089-7)
+
+[3. (Findlay2013Understanding) Victoria J. Findlay, Amanda C. LaRue, David P. Turner, Patricia M. Watson, and Dennis K. Watson. Understanding the Role of ETS-Mediated Gene Regulation in Complex Biological Processes, pages 1–61. Elsevier, 2013. URL: http://dx.doi.org/10.1016/b978-0-12-407190-2.00001-0, doi:10.1016/b978-0-12-407190-2.00001-0. This article has 115 citations.](https://doi.org/10.1016/b978-0-12-407190-2.00001-0)
+
+[4. (Carlson2011LargeScale) Scott M. Carlson, Candace R. Chouinard, Adam Labadorf, Carol J. Lam, Katrin Schmelzle, Ernest Fraenkel, and Forest M. White. Large-scale discovery of erk2 substrates identifies erk-mediated transcriptional regulation by etv3. Science Signaling, October 2011. URL: http://dx.doi.org/10.1126/scisignal.2002010, doi:10.1126/scisignal.2002010. This article has 114 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1126/scisignal.2002010)
+
+[5. (Seth2005ETS) Arun Seth and Dennis K. Watson. Ets transcription factors and their emerging roles in human cancer. European Journal of Cancer, 41(16):2462–2478, November 2005. URL: http://dx.doi.org/10.1016/j.ejca.2005.08.013, doi:10.1016/j.ejca.2005.08.013. This article has 351 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.ejca.2005.08.013)
+
+[6. (Villar2022ETV3) Javiera Villar, Adeline Cros, Alba De Juan, Lamine Alaoui, Pierre-Emmanuel Bonte, Colleen M. Lau, Ioanna Tiniakou, Boris Reizis, and Elodie Segura. Etv3 and etv6 enable monocyte differentiation into dendritic cells by repressing macrophage fate commitment. Nature Immunology, 24(1):84–95, December 2022. URL: http://dx.doi.org/10.1038/s41590-022-01374-0, doi:10.1038/s41590-022-01374-0. This article has 24 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41590-022-01374-0)

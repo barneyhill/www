@@ -1,0 +1,46 @@
+# PPTC7
+
+## Overview
+PPTC7 is a gene that encodes the protein phosphatase targeting COQ7, a mitochondrial phosphatase involved in critical cellular processes. The protein is categorized as a phosphatase due to its role in dephosphorylating mitochondrial proteins, which is essential for maintaining mitochondrial function and energy metabolism. PPTC7 is primarily localized in the mitochondrial matrix, where it influences the biosynthesis of coenzyme Q10 (CoQ10) by targeting COQ7, a key enzyme in this pathway (GonzálezMariscal2018The). The protein's activity is metal-ion dependent, requiring cofactors such as Mg2+ and Mn2+ for its enzymatic function (GonzálezMariscal2018The). Additionally, PPTC7 plays a significant role in regulating mitophagy by modulating the turnover of mitophagy receptors BNIP3 and NIX, thereby maintaining mitochondrial integrity (Wei2024PPTC7; Xu2024PPTC7). The gene's conservation across species underscores its fundamental role in cellular homeostasis and highlights its potential as a therapeutic target in conditions associated with mitochondrial dysfunction (Kamada2020Metaldependent).
+
+## Structure
+The PPTC7 protein contains a PP2C phosphatase domain and a mitochondrial targeting sequence (MTS), which is processed at amino acid 14. A key catalytic residue, D78, within the PP2C phosphatase domain is crucial for its function, as mutations at this site, such as D78A, result in a loss of catalytic activity (Wei2024PPTC7). The protein can exist in both full-length and processed forms, appearing as a doublet in western blots, indicating post-translational processing (Wei2024PPTC7). 
+
+PPTC7 is characterized by a disordered N-terminus and a structured PP2C phosphatase domain. The protein's structure allows it to interact with BNIP3 and NIX, docking near the D78 residue, which may influence their phosphorylation state (Wei2024PPTC7). The presence of a mitochondrial targeting sequence suggests that PPTC7 is directed to mitochondria, although its function in suppressing BNIP3 and NIX accumulation does not strictly require mitochondrial localization at overexpressed levels (Wei2024PPTC7). 
+
+PPTC7's phosphatase activity is metal-ion dependent, requiring cofactors such as Mg2+ and Mn2+ for its enzymatic function (GonzálezMariscal2018The). The protein is conserved across species, from yeast to mammals, indicating its fundamental role in cellular processes (Kamada2020Metaldependent).
+
+## Function
+PPTC7 is a mitochondrial phosphatase that plays a critical role in maintaining mitochondrial function and energy metabolism in human cells. It is primarily localized in the mitochondrial matrix, where it is involved in the dephosphorylation of mitochondrial proteins, including COQ7, a key enzyme in the biosynthesis of coenzyme Q10 (CoQ10) (GonzálezMariscal2018The). CoQ10 is essential for the electron transport chain and ATP production, and its biosynthesis is crucial for cellular energy homeostasis (GonzálezMariscal2018The).
+
+PPTC7 also regulates mitochondrial protein import and processing by affecting the phosphorylation state of proteins such as Timm50, which is part of the mitochondrial import machinery (Niemi2019Pptc7). This regulation is vital for maintaining mitochondrial protein content and function, as disruptions can lead to metabolic defects (Niemi2019Pptc7).
+
+Additionally, PPTC7 acts as a negative regulator of mitophagy by promoting the ubiquitin-mediated turnover of mitophagy receptors BNIP3 and NIX, preventing excessive mitochondrial clearance (Wei2024PPTC7). This function is crucial for maintaining mitochondrial integrity and preventing pathophysiological conditions associated with unrestrained mitophagy (Xu2024PPTC7).
+
+## Clinical Significance
+Mutations or alterations in the expression of the PPTC7 gene can lead to significant clinical consequences, primarily due to its role in mitochondrial function and metabolism. PPTC7 is crucial for mitochondrial biogenesis and metabolism, and its disruption can result in metabolic abnormalities that resemble inborn errors of metabolism. Pptc7 knockout mice exhibit symptoms such as hypoketotic hypoglycemia, elevated lactic acid, and increased acylcarnitine levels, indicating defects in gluconeogenesis and fatty acid oxidation (Niemi2019Pptc7). These metabolic disturbances are linked to mitochondrial dysfunction, as evidenced by decreased mitochondrial protein levels and smaller mitochondria in affected tissues (Niemi2019Pptc7).
+
+PPTC7 also plays a role in regulating mitophagy through its interaction with the SCF FBXL4 ubiquitin ligase complex. Loss-of-function mutations in this pathway can lead to excessive mitophagy, contributing to mitochondrial DNA depletion syndrome, type 13 (MTDPS13), a severe multi-system disorder (Xu2024PPTC7). The absence of detrimental PPTC7 polymorphisms in humans suggests that severe reductions in CoQ10 due to PPTC7 mutations may be incompatible with life, highlighting its essential role in maintaining cellular bioenergetics (GonzálezMariscal2018The). These findings underscore the potential of PPTC7 as a target for therapeutic strategies aimed at enhancing mitochondrial function in conditions associated with its deficiency.
+
+## Interactions
+PPTC7 is involved in several interactions that regulate mitophagy, particularly through its association with the mitophagy receptors BNIP3 and NIX. PPTC7 promotes the ubiquitin-mediated turnover of these proteins by acting as a molecular scaffold for the E3 ligase FBXL4 at the outer mitochondrial membrane (Wei2024PPTC7; Wei2024Duallocalized). This interaction is crucial for the proteasomal degradation of BNIP3 and NIX, thereby limiting their accumulation and regulating mitophagy (Wei2024PPTC7; Wei2024Duallocalized).
+
+PPTC7 interacts with BNIP3 and NIX both inside and outside the mitochondria. It exists in two forms: a full-length form outside mitochondria and a processed form within the mitochondrial matrix. The catalytic activity of PPTC7, particularly at the D78 residue, is essential for its function in dephosphorylating BNIP3 and NIX (Wei2024Duallocalized). PPTC7's interactions with BNIP3 and NIX are dynamic and are enhanced under conditions that promote their turnover, such as pseudohypoxia (Wei2024Duallocalized).
+
+PPTC7 also functions as an essential co-factor of the SCF FBXL4 ubiquitin ligase complex, facilitating the ubiquitin-proteasomal degradation of BNIP3/BNIP3L, which is crucial for maintaining low levels of basal mitophagy (Xu2024PPTC7). These interactions highlight PPTC7's role in maintaining mitochondrial integrity and regulating mitophagy through its interactions with key mitophagy receptors.
+
+
+## References
+
+
+[1. (GonzálezMariscal2018The) Isabel González-Mariscal, Alejandro Martin-Montalvo, Luis Vazquez-Fonseca, Teresa Pomares-Viciana, Ana Sánchez-Cuesta, Daniel José Fernández-Ayala, Placido Navas, and Carlos Santos-Ocana. The mitochondrial phosphatase pptc7 orchestrates mitochondrial metabolism regulating coenzyme q10 biosynthesis. Biochimica et Biophysica Acta (BBA) - Bioenergetics, 1859(11):1235–1248, November 2018. URL: http://dx.doi.org/10.1016/j.bbabio.2018.09.369, doi:10.1016/j.bbabio.2018.09.369. This article has 30 citations.](https://doi.org/10.1016/j.bbabio.2018.09.369)
+
+[2. (Niemi2019Pptc7) Natalie M. Niemi, Gary M. Wilson, Katherine A. Overmyer, F.-Nora Vögtle, Lisa Myketin, Danielle C. Lohman, Kathryn L. Schueler, Alan D. Attie, Chris Meisinger, Joshua J. Coon, and David J. Pagliarini. Pptc7 is an essential phosphatase for promoting mammalian mitochondrial metabolism and biogenesis. Nature Communications, July 2019. URL: http://dx.doi.org/10.1038/s41467-019-11047-6, doi:10.1038/s41467-019-11047-6. This article has 50 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-11047-6)
+
+[3. (Kamada2020Metaldependent) Rui Kamada, Fuki Kudoh, Shogo Ito, Itsumi Tani, Jose Isagani B. Janairo, James G. Omichinski, and Kazuyasu Sakaguchi. Metal-dependent ser/thr protein phosphatase ppm family: evolution, structures, diseases and inhibitors. Pharmacology &amp; Therapeutics, 215:107622, November 2020. URL: http://dx.doi.org/10.1016/j.pharmthera.2020.107622, doi:10.1016/j.pharmthera.2020.107622. This article has 65 citations.](https://doi.org/10.1016/j.pharmthera.2020.107622)
+
+4. (Xu2024PPTC7) PPTC7 acts as an essential co-factor of the SCFFBXL4ubiquitin ligase complex to restrict BNIP3/BNIP3L-dependent mitophagy. This article has 0 citations.
+
+5. (Wei2024PPTC7) PPTC7 limits mitophagy through proximal and dynamic interactions with BNIP3 and NIX. This article has 1 citations.
+
+[6. (Wei2024Duallocalized) Lianjie Wei, Mehmet Oguz Gok, Jordyn D Svoboda, Keri-Lyn Kozul, Merima Forny, Jonathan R Friedman, and Natalie M Niemi. Dual-localized pptc7 limits mitophagy through proximal and dynamic interactions with bnip3 and nix. Life Science Alliance, 7(9):e202402765, July 2024. URL: http://dx.doi.org/10.26508/lsa.202402765, doi:10.26508/lsa.202402765. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202402765)

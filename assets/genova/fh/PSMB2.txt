@@ -1,0 +1,56 @@
+# PSMB2
+
+## Overview
+PSMB2 is a gene that encodes the proteasome 20S subunit beta 2, a critical component of the 20S core proteasome complex involved in protein degradation. This protein is categorized as a protease, specifically functioning within the ubiquitin-proteasome system to degrade ubiquitinated proteins, thereby maintaining protein homeostasis and regulating various cellular processes such as the cell cycle and immune responses. The PSMB2 protein is integral to the proteolytic activity of the proteasome, forming part of the inner rings of the cylindrical 20S proteasome structure (Coux1996STRUCTURE). Its role is particularly significant in neural progenitor cells, where it contributes to self-renewal and pluripotency, and its expression is associated with cellular aging and senescence (Zhao2016Essential). Additionally, PSMB2 has clinical significance, as its altered expression is linked to various cancers, including glioma and gastric cancer, where it serves as a potential biomarker for prognosis and treatment guidance (He2024PSMB2; Liu2022PSMB2).
+
+## Structure
+The PSMB2 gene encodes a subunit of the 20S core proteasome complex, which is involved in protein degradation. The primary structure of the PSMB2 protein consists of 201 amino acids, with a calculated molecular weight of 22,900 and an isoelectric point of 7.02 (Elenich1999The). The secondary structure of the PSMB2 subunit includes alpha helices and beta sheets, which are common features in proteasome subunits (Coux1996STRUCTURE). 
+
+In terms of tertiary structure, the PSMB2 subunit, like other beta subunits, forms part of the inner rings of the proteasome, contributing to the proteolytic activity within the central chamber of the cylindrical 20S proteasome (Coux1996STRUCTURE). The quaternary structure involves the assembly of PSMB2 into the larger 20S proteasome complex, which is composed of four stacked rings, with the beta subunits forming the inner rings (Coux1996STRUCTURE).
+
+Post-translational modifications of PSMB2 may include phosphorylation, which can regulate its function and localization within the cell (Vimer2020Comparative). These structural features are crucial for the role of PSMB2 in the proteasome's function in protein degradation and antigen presentation.
+
+## Function
+PSMB2 encodes a subunit of the 20S proteasome, which is a core component of the ubiquitin-proteasome system responsible for degrading ubiquitinated proteins. This process is crucial for maintaining protein homeostasis, regulating the cell cycle, and modulating immune responses. In neural progenitor cells (NPCs), the 20S proteasome, including PSMB2, plays a critical role in maintaining self-renewal and pluripotency. The expression of PSMB2 and other catalytic subunits of the 20S proteasome is down-regulated in NPCs from older mice, which is associated with decreased proteasomal activity and impaired self-renewal and proliferation capacities. This suggests that PSMB2 is essential for the proper functioning of NPCs and may contribute to the senescent phenotype observed in aged brains (Zhao2016Essential).
+
+The 20S proteasome, where PSMB2 is active, is involved in the clearance of misfolded or damaged proteins, which is essential for maintaining cellular homeostasis and preventing diseases. Proteasomal activity declines with age, leading to impairments in NPC proliferation and differentiation, indicating that PSMB2 is vital for these cellular processes (Zhao2016Essential).
+
+## Clinical Significance
+Alterations in the expression of the PSMB2 gene have been implicated in various cancers, including glioma, gastric cancer, and clear cell renal cell carcinoma (ccRCC). In glioma, PSMB2 is overexpressed, correlating with higher tumor grades and poor prognosis. Its elevated expression is associated with increased tumor malignancy and shorter overall survival, making it an independent prognostic factor for glioma patients (He2023Relationship; He2024PSMB2). PSMB2 also influences the immune microenvironment in glioma, affecting immune cell infiltration and potentially mediating immune escape (He2023Relationship).
+
+In gastric cancer, PSMB2 overexpression is linked to enhanced proteasome activity, increased cell proliferation, and reduced apoptosis. Knockdown of PSMB2 results in decreased proteasome activity and increased apoptosis, suggesting its role in cancer progression (Liu2022PSMB2). Similarly, in ccRCC, high PSMB2 expression is associated with advanced tumor stages and shorter overall survival, indicating its potential as a biomarker for prognosis and treatment guidance (Jiang2022Comprehensive).
+
+PSMB2 expression is also relevant in other cancers, such as adrenocortical carcinoma and liver hepatocellular carcinoma, where high expression levels are linked to poor survival outcomes (Li2021Integrated).
+
+## Interactions
+PSMB2 is a component of the 20S core proteasome complex, which plays a crucial role in protein degradation. It interacts with other proteasome subunits to form the 20S proteasome and associates with regulatory particles like the 19S complex to form the 26S proteasome. This interaction is essential for the proteasome's function in degrading ubiquitinated proteins, which is vital for maintaining cellular proteostasis and regulating various cellular processes, including the cell cycle and apoptosis (Uriarte2021Starvationinduced).
+
+In the context of cancer, PSMB2 has been shown to be involved in a network related to cellular processes, deubiquitinating of protein, and post-translational protein modification. However, specific interactions involving PSMB2 in these processes are not detailed in the available studies (Jiang2022Comprehensive). The STRING database, a resource for exploring protein-protein association networks, suggests that PSMB2 may have functional associations with other proteins, although these do not necessarily imply direct physical interactions (Szklarczyk2018STRING).
+
+PSMB2 is also implicated in the formation of starvation-induced proteasome assemblies in the nucleus (SIPAN) under nutrient deprivation conditions, where it co-localizes with other proteasome subunits and regulatory particles, indicating its role in multiprotein complexes (Uriarte2021Starvationinduced).
+
+
+## References
+
+
+1. (He2023Relationship) Relationship between the expression of PSMB2 and proliferation and invasion in glioma. This article has 1 citations.
+
+[2. (Vimer2020Comparative) Shay Vimer, Gili Ben-Nissan, David Morgenstern, Fanindra Kumar-Deshmukh, Caley Polkinghorn, Royston S. Quintyn, Yury V. Vasil’ev, Joseph S. Beckman, Nadav Elad, Vicki H. Wysocki, and Michal Sharon. Comparative structural analysis of 20s proteasome ortholog protein complexes by native mass spectrometry. ACS Central Science, 6(4):573–588, April 2020. URL: http://dx.doi.org/10.1021/acscentsci.0c00080, doi:10.1021/acscentsci.0c00080. This article has 44 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1021/acscentsci.0c00080)
+
+[3. (Szklarczyk2018STRING) Damian Szklarczyk, Annika L Gable, David Lyon, Alexander Junge, Stefan Wyder, Jaime Huerta-Cepas, Milan Simonovic, Nadezhda T Doncheva, John H Morris, Peer Bork, Lars J Jensen, and Christian von Mering. String v11: protein–protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic Acids Research, 47(D1):D607–D613, November 2018. URL: http://dx.doi.org/10.1093/nar/gky1131, doi:10.1093/nar/gky1131. This article has 11615 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gky1131)
+
+[4. (Coux1996STRUCTURE) Olivier Coux, Keiji Tanaka, and Alfred L. Goldberg. Structure and functions of the 20s and 26s proteasomes. Annual Review of Biochemistry, 65(1):801–847, June 1996. URL: http://dx.doi.org/10.1146/annurev.bi.65.070196.004101, doi:10.1146/annurev.bi.65.070196.004101. This article has 3230 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1146/annurev.bi.65.070196.004101)
+
+[5. (He2024PSMB2) Wei He, Zhe Zhang, ZiLong Tan, XinXian Liu, ZeKun Wang, Bo Xiong, XiaoLi Shen, and XinGen Zhu. Psmb2 plays an oncogenic role in glioma and correlates to the immune microenvironment. Scientific Reports, March 2024. URL: http://dx.doi.org/10.1038/s41598-024-56493-5, doi:10.1038/s41598-024-56493-5. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-56493-5)
+
+[6. (Zhao2016Essential) Yunhe Zhao, Xueqin Liu, Zebin He, Xiaojie Niu, Weijun Shi, Jian M. Ding, Li Zhang, Tifei Yuan, Ang Li, Wulin Yang, and Li Lu. Essential role of proteasomes in maintaining self-renewal in neural progenitor cells. Scientific Reports, January 2016. URL: http://dx.doi.org/10.1038/srep19752, doi:10.1038/srep19752. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep19752)
+
+[7. (Liu2022PSMB2) Zimeng Liu, Changda Yu, Zhibing Chen, Chuanwen Zhao, Lin Ye, and Chen Li. Psmb2 knockdown suppressed proteasome activity and cell proliferation, promoted apoptosis, and blocked nrf1 activation in gastric cancer cells. Cytotechnology, 74(4):491–502, June 2022. URL: http://dx.doi.org/10.1007/s10616-022-00538-y, doi:10.1007/s10616-022-00538-y. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10616-022-00538-y)
+
+8. (Jiang2022Comprehensive) Comprehensive Analysis of the Expression and Prognosis for PSMBs in Clear Cell Renal Cell Carcinoma. This article has 0 citations.
+
+[9. (Li2021Integrated) Na Li and Xianquan Zhan. Integrated genomic analysis of proteasome alterations across 11,057 patients with 33 cancer types: clinically relevant outcomes in framework of 3p medicine. EPMA Journal, 12(4):605–627, September 2021. URL: http://dx.doi.org/10.1007/s13167-021-00256-z, doi:10.1007/s13167-021-00256-z. This article has 7 citations.](https://doi.org/10.1007/s13167-021-00256-z)
+
+[10. (Uriarte2021Starvationinduced) Maxime Uriarte, Nadine Sen Nkwe, Roch Tremblay, Oumaima Ahmed, Clémence Messmer, Nazar Mashtalir, Haithem Barbour, Louis Masclef, Marion Voide, Claire Viallard, Salima Daou, Djaileb Abdelhadi, Daryl Ronato, Mohammadjavad Paydar, Anaïs Darracq, Karine Boulay, Nicolas Desjardins-Lecavalier, Przemyslaw Sapieha, Jean-Yves Masson, Mikhail Sergeev, Benjamin H. Kwok, Laura Hulea, Frédérick A. Mallette, Eric Milot, Bruno Larrivée, Hugo Wurtele, and El Bachir Affar. Starvation-induced proteasome assemblies in the nucleus link amino acid supply to apoptosis. Nature Communications, November 2021. URL: http://dx.doi.org/10.1038/s41467-021-27306-4, doi:10.1038/s41467-021-27306-4. This article has 43 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-27306-4)
+
+[11. (Elenich1999The) Laura A. Elenich, D. Nandi, A. Elizabeth Kent, T. Scott McCluskey, M. Cruz, Mohan N. Iyer, Elaine C. Woodward, Christopher W. Conn, Amber L. Ochoa, David B. Ginsburg, and J. J. Monaco. The complete primary structure of mouse 20s proteasomes. Immunogenetics, 49(10):835–842, August 1999. URL: http://dx.doi.org/10.1007/s002510050562, doi:10.1007/s002510050562. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s002510050562)

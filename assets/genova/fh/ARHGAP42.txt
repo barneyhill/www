@@ -1,0 +1,54 @@
+# ARHGAP42
+
+## Overview
+ARHGAP42 is a gene that encodes the protein Rho GTPase activating protein 42, also known as GRAF3, which is a member of the RhoGAP family. This protein functions as a GTPase-activating protein, specifically targeting RhoA and Cdc42, and plays a crucial role in regulating the actin cytoskeleton, cell shape, and motility. Structurally, Rho GTPase activating protein 42 is characterized by N-terminal tandem BAR-PH domains, a central GAP domain, and a C-terminal SH3 domain, which are essential for its regulatory functions and interactions with other cellular components (Luo2017ARHGAP42). The protein is particularly significant in smooth muscle cells, where it modulates vascular resistance and blood pressure by inhibiting RhoA-dependent contractility (Bai2017Blood). Dysregulation of ARHGAP42 has been linked to various clinical conditions, including hypertension and certain cancers, highlighting its importance in both normal physiological processes and disease states (Fjorder2019Haploinsufficiency; Hu2018ARHGAP42).
+
+## Structure
+ARHGAP42, also known as GRAF3, is a member of the RhoGAP family and is characterized by specific structural domains. The protein contains N-terminal tandem BAR-PH domains, a central GAP domain, and a C-terminal SH3 domain (Luo2017ARHGAP42). The BAR domain is involved in an autoinhibitory mechanism, interacting with the GAP domain to maintain it in an inactive state. This inhibition is relieved by Src-mediated phosphorylation at Tyr-376, which activates the GAP domain and enhances cell motility (Luo2017ARHGAP42).
+
+The SH3 domain is crucial for the localization of ARHGAP42 to actin stress fibers and focal adhesions, indicating its role in actin cytoskeletal dynamics (Luo2017ARHGAP42). The protein exhibits GAP activity towards RhoA and Cdc42, but not Rac1 (Luo2017ARHGAP42).
+
+A naturally occurring splice variant of ARHGAP42 lacks 34 residues in the BAR domain, suggesting alternative splicing (Luo2017ARHGAP42). The phosphorylation of ARHGAP42 at Tyr-376 is a key post-translational modification that regulates its activity, particularly in the context of cell motility and focal adhesion dynamics (Luo2017ARHGAP42).
+
+## Function
+ARHGAP42, also known as GRAF3, is a Rho GTPase-activating protein that plays a significant role in regulating the activity of RhoA and Cdc42, but not Rac1, in healthy human cells. This regulation is crucial for various cellular processes, including actin cytoskeleton organization, cell shape, and motility (Luo2017ARHGAP42; Li2021A). ARHGAP42 is characterized by its N-terminal tandem BAR and PH domains, followed by a central GAP domain, which is involved in cell motility and is activated by Src-mediated tyrosine phosphorylation (Luo2017ARHGAP42).
+
+In smooth muscle cells, ARHGAP42 is highly expressed and plays a critical role in blood pressure regulation by modulating vascular resistance. It achieves this by inhibiting RhoA-dependent contractility, which is essential for maintaining normal blood pressure (Mangum2020Transcriptional; Bai2017Blood). The protein localizes to focal adhesions and actin stress fibers, suggesting its involvement in cell adhesion and actin cytoskeletal dynamics (Luo2017ARHGAP42).
+
+ARHGAP42's activity is regulated by the BAR domain, which acts as a negative regulator of its GAP activity. Src phosphorylation at tyrosine residue 376 counteracts this inhibition, leading to increased focal adhesion dynamics and active lamellipodia protrusions (Aspenström2018BAR). This regulation is vital for the protein's role in cell motility and vascular function.
+
+## Clinical Significance
+Mutations and alterations in the ARHGAP42 gene have been linked to several diseases and conditions. Haploinsufficiency of ARHGAP42 is associated with hypertension, as demonstrated by a study involving a balanced reciprocal translocation that truncates the gene, leading to decreased expression and increased blood pressure in carriers (Fjorder2019Haploinsufficiency). In mice, reduced expression of Arhgap42 is linked to significant hypertension and increased arterial contraction, supporting its role in blood pressure regulation (Fjorder2019Haploinsufficiency).
+
+A homozygous stop-gain variant in ARHGAP42 has been associated with childhood interstitial lung disease (chILD), systemic hypertension, and immune abnormalities. This variant results in exon 5 skipping, reducing ARHGAP42 protein expression and function, which leads to increased RhoA activity (Li2021A). The deficiency in ARHGAP42 enhances RhoA/ROCK signaling, contributing to increased smooth muscle cell contractility and disrupted actin dynamics in immune cells (Li2021A).
+
+In cancer, ARHGAP42 is implicated in nasopharyngeal carcinoma (NPC) progression and metastasis. Overexpression of ARHGAP42 is associated with poorer survival rates and increased cell migration and invasion, suggesting its involvement in cancer progression through the PI3K/AKT signaling pathway (Hu2018ARHGAP42).
+
+## Interactions
+ARHGAP42 interacts with several proteins, primarily through its domains, influencing cellular processes such as motility and cytoskeletal dynamics. It is activated by Src-mediated tyrosine phosphorylation at the Tyr-376 site, which is crucial for its function in promoting cell motility. This phosphorylation enhances ARHGAP42's GAP activity, leading to decreased RhoA-GTP levels and affecting cell morphology and motility (Luo2017ARHGAP42).
+
+The SH3 domain of ARHGAP42 is essential for its localization to actin stress fibers and focal adhesions, suggesting interactions with components of the cytoskeleton. This domain likely binds actin fibers indirectly through bridging proteins, similar to the mechanism of srGAP2, which interacts via formin-like protein 1 (FMNL1) (Luo2017ARHGAP42).
+
+ARHGAP42 also interacts with the YAP signaling pathway, where it is upregulated in response to SASH1 knockdown in triple-negative breast cancer cells. This upregulation is dependent on YAP, and ARHGAP42 is involved in regulating actin cytoskeletal dynamics, influencing cell invasion (Jiang2020SASH1).
+
+These interactions highlight ARHGAP42's role in modulating RhoA activity and its involvement in complex signaling pathways that regulate cell behavior.
+
+
+## References
+
+
+[1. (Bai2017Blood) Xue Bai, Kevin D. Mangum, Rachel A. Dee, George A. Stouffer, Craig R. Lee, Akinyemi Oni-Orisan, Cam Patterson, Jonathan C. Schisler, Anthony J. Viera, Joan M. Taylor, and Christopher P. Mack. Blood pressure–associated polymorphism controls arhgap42 expression via serum response factor dna binding. Journal of Clinical Investigation, 127(2):670–680, January 2017. URL: http://dx.doi.org/10.1172/jci88899, doi:10.1172/jci88899. This article has 34 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci88899)
+
+[2. (Jiang2020SASH1) Ke Jiang, Peng Liu, Huizhe Xu, Dapeng Liang, Kun Fang, Sha Du, Wei Cheng, Leiguang Ye, Tong Liu, Xiaohong Zhang, Peng Gong, Shujuan Shao, Yifei Wang, and Songshu Meng. Sash1 suppresses triple-negative breast cancer cell invasion through yap-arhgap42-actin axis. Oncogene, 39(27):5015–5030, June 2020. URL: http://dx.doi.org/10.1038/s41388-020-1356-7, doi:10.1038/s41388-020-1356-7. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-020-1356-7)
+
+[3. (Hu2018ARHGAP42) Qian Hu, Xiao Lin, Linxiaoxiao Ding, Yinduo Zeng, Danmei Pang, Nengtai Ouyang, Yanqun Xiang, and Herui Yao. <scp>arhgap</scp>42 promotes cell migration and invasion involving <scp>pi</scp>3k/akt signaling pathway in nasopharyngeal carcinoma. Cancer Medicine, 7(8):3862–3874, June 2018. URL: http://dx.doi.org/10.1002/cam4.1552, doi:10.1002/cam4.1552. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/cam4.1552)
+
+[4. (Luo2017ARHGAP42) Weifeng Luo, Radoslav Janoštiak, Ondřej Tolde, Larisa M. Ryzhova, Lenka Koudelková, Michal Dibus, Jan Brábek, Steven K. Hanks, and Daniel Rosel. Arhgap42 is activated by src-mediated tyrosine phosphorylation to promote cell motility. Journal of Cell Science, 130(14):2382–2393, July 2017. URL: http://dx.doi.org/10.1242/jcs.197434, doi:10.1242/jcs.197434. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.197434)
+
+[5. (Li2021A) Qifei Li, Michal Dibus, Alicia Casey, Christina S. K. Yee, Sara O. Vargas, Shiyu Luo, Samantha M. Rosen, Jill A. Madden, Casie A. Genetti, Jan Brabek, Catherine A. Brownstein, Shideh Kazerounian, Benjamin A. Raby, Klaus Schmitz-Abe, John C. Kennedy, Martha P. Fishman, Mary P. Mullen, Joan M. Taylor, Daniel Rosel, and Pankaj B. Agrawal. A homozygous stop-gain variant in arhgap42 is associated with childhood interstitial lung disease, systemic hypertension, and immunological findings. PLOS Genetics, 17(7):e1009639, July 2021. URL: http://dx.doi.org/10.1371/journal.pgen.1009639, doi:10.1371/journal.pgen.1009639. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1009639)
+
+[6. (Fjorder2019Haploinsufficiency) Amanda S. Fjorder, Malene B. Rasmussen, Mana M. Mehrjouy, Lusine Nazaryan-Petersen, Claus Hansen, Mads Bak, Niels Grarup, Anne Nørremølle, Lars A. Larsen, Henrik Vestergaard, Torben Hansen, Niels Tommerup, and Iben Bache. Haploinsufficiency of arhgap42 is associated with hypertension. European Journal of Human Genetics, 27(8):1296–1303, March 2019. URL: http://dx.doi.org/10.1038/s41431-019-0382-9, doi:10.1038/s41431-019-0382-9. This article has 13 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41431-019-0382-9)
+
+[7. (Mangum2020Transcriptional) Kevin D. Mangum, Emily J. Freeman, Justin C. Magin, Joan M. Taylor, and Christopher P. Mack. Transcriptional and posttranscriptional regulation of the smc-selective blood pressure-associated gene, arhgap42. American Journal of Physiology-Heart and Circulatory Physiology, 318(2):H413–H424, February 2020. URL: http://dx.doi.org/10.1152/ajpheart.00143.2019, doi:10.1152/ajpheart.00143.2019. This article has 4 citations.](https://doi.org/10.1152/ajpheart.00143.2019)
+
+[8. (Aspenström2018BAR) Pontus Aspenström. BAR Domain Proteins Regulate Rho GTPase Signaling, pages 33–53. Springer International Publishing, 2018. URL: http://dx.doi.org/10.1007/5584_2018_259, doi:10.1007/5584_2018_259. This article has 7 citations.](https://doi.org/10.1007/5584_2018_259)

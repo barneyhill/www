@@ -1,0 +1,37 @@
+# MTMR8
+
+## Overview
+MTMR8 is a gene that encodes the myotubularin-related protein 8, a member of the myotubularin family of phosphoinositide phosphatases. This protein is characterized by its ability to regulate phosphoinositide levels, particularly phosphatidylinositol 3-phosphate (PtdIns(3)P), which plays a crucial role in cellular processes such as autophagy and membrane trafficking (Hnia2012Myotubularin; Zou2012Myotubularinrelated). The MTMR8 protein is composed of 549 amino acids and features a phosphatase domain that forms dimers, a process facilitated by hydrophobic interactions and a unique hydrogen bond (Yoo2015Structure). Additionally, MTMR8 interacts with the catalytically inactive MTMR9, forming a complex that enhances its enzymatic activity and stability, thereby influencing cellular homeostasis and signaling pathways (Zou2012Myotubularinrelated). The protein's activity is sensitive to redox changes, with Cys338 being a critical residue for its regulation (Yoo2015Structure).
+
+## Structure
+The MTMR8 protein is a member of the myotubularin family, characterized by its phosphoinositide phosphatase activity. The primary structure of MTMR8 includes a sequence of 549 amino acids, with a calculated mass of 63 kDa (Appel2001Identification). The secondary structure of the MTMR8 phosphatase domain comprises 15 alpha-helices and a seven-stranded beta-sheet, forming a core structure similar to other Cys-X5-Arg motif-based phosphatases (Yoo2015Structure). 
+
+In terms of tertiary structure, the MTMR8 phosphatase domain was crystallized and its structure determined by molecular replacement using the MTMR2 catalytic domain as a reference. The structure reveals a high degree of conservation with MTMR2, with a root-mean-square deviation of 1.2 Å (Yoo2015Structure). The quaternary structure of MTMR8 involves dimerization, facilitated by hydrophobic interactions and a hydrogen bond between Gln494 side chains from neighboring molecules. This dimerization is unique as it occurs without the coiled-coil domain, which is typically involved in MTMR dimerization (Yoo2015Structure).
+
+MTMR8 also contains a PH-GRAM domain, which is involved in phosphoinositide binding and membrane association, although with low affinity (Yoo2015Structure). The protein's catalytic activity is sensitive to oxidation, with Cys338 being a critical residue for redox regulation (Yoo2015Structure).
+
+## Function
+MTMR8, a member of the myotubularin family, plays a significant role in cellular processes by regulating phosphoinositide levels, particularly phosphatidylinositol 3-phosphate (PtdIns(3)P). In healthy human cells, MTMR8 forms a complex with the catalytically inactive MTMR9, which enhances MTMR8's enzymatic activity and stability. This complex is crucial for modulating PtdIns(3)P levels, which are important for autophagy, a cellular degradation and recycling process (Zou2012Myotubularinrelated).
+
+The MTMR8/MTMR9 complex reduces cellular PtdIns(3)P levels, thereby inhibiting autophagy. This regulation is vital as autophagy dysfunction is linked to various diseases, including cancer and neurodegenerative disorders (Zou2012Myotubularinrelated). MTMR8's activity is also associated with endocytic membrane trafficking, impacting processes like protein sorting and lysosome size regulation (Zou2012Myotubularinrelated).
+
+MTMR8 is active in the cytoplasm and influences cellular homeostasis and signaling pathways. Its interaction with MTMR9 exemplifies how inactive myotubularins can modulate the function of active ones, affecting cellular processes such as autophagy and membrane trafficking (Hnia2012Myotubularin).
+
+## Interactions
+MTMR8 interacts with several proteins, most notably forming a complex with MTMR9. This interaction has been confirmed through co-immunoprecipitation experiments, demonstrating that MTMR9 binds to MTMR8, enhancing its stability and enzymatic activity. The MTMR8/MTMR9 complex specifically targets phosphatidylinositol 3-phosphate (PtdIns(3)P) and phosphatidylinositol 3,5-bisphosphate (PtdIns(3,5)P2), playing a significant role in regulating cellular levels of these phosphoinositides and influencing processes such as autophagy (Zou2012Myotubularinrelated).
+
+MTMR8 also exhibits self-interaction, forming dimers through its phosphatase domain. This dimerization is facilitated by hydrophobic interactions and a unique hydrogen bond involving Gln494. The dimerization of MTMR8 is weak and concentration-dependent, allowing for flexibility in its interactions (Yoo2015Structure).
+
+Additionally, MTMR8's phosphatase domain interacts with its PH-GRAM domain, although this interaction pattern differs from that observed in other myotubularins like MTMR2. This suggests a unique interaction mechanism within the MTMR family, potentially affecting membrane association and function (Yoo2015Structure).
+
+
+## References
+
+
+[1. (Yoo2015Structure) Ki-Young Yoo, Ji Young Son, Jee Un Lee, Woori Shin, Dong-Won Im, Seung Jun Kim, Seong Eon Ryu, and Yong-Seok Heo. Structure of the catalytic phosphatase domain of mtmr8: implications for dimerization, membrane association and reversible oxidation. Acta Crystallographica Section D Biological Crystallography, 71(7):1528–1539, June 2015. URL: http://dx.doi.org/10.1107/s139900471500927x, doi:10.1107/s139900471500927x. This article has 5 citations.](https://doi.org/10.1107/s139900471500927x)
+
+[2. (Hnia2012Myotubularin) Karim Hnia, Ilaria Vaccari, Alessandra Bolino, and Jocelyn Laporte. Myotubularin phosphoinositide phosphatases: cellular functions and disease pathophysiology. Trends in Molecular Medicine, 18(6):317–327, June 2012. URL: http://dx.doi.org/10.1016/j.molmed.2012.04.004, doi:10.1016/j.molmed.2012.04.004. This article has 121 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.molmed.2012.04.004)
+
+[3. (Zou2012Myotubularinrelated) Jun Zou, Chunfen Zhang, Jasna Marjanovic, Marina V. Kisseleva, Philip W. Majerus, and Monita P. Wilson. Myotubularin-related protein (mtmr) 9 determines the enzymatic activity, substrate specificity, and role in autophagy of mtmr8. Proceedings of the National Academy of Sciences, 109(24):9539–9544, May 2012. URL: http://dx.doi.org/10.1073/pnas.1207021109, doi:10.1073/pnas.1207021109. This article has 52 citations.](https://doi.org/10.1073/pnas.1207021109)
+
+[4. (Appel2001Identification) Silke Appel, Kathrin Reichwald, Wolfgang Zimmermann, André Reis, André Rosenthal, and Hans Christian Hennies. Identification and localization of a new human myotubularin-related protein gene, mtmr8, on 8p22–p23. Genomics, 75(1–3):6–8, July 2001. URL: http://dx.doi.org/10.1006/geno.2001.6591, doi:10.1006/geno.2001.6591. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1006/geno.2001.6591)

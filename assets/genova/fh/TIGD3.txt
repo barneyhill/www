@@ -1,0 +1,43 @@
+# TIGD3
+
+## Overview
+TIGD3 is a gene that encodes the tigger transposable element derived 3 protein, which is categorized as a DNA-binding protein. This protein is evolutionarily derived from Tc1/mariner transposases, retaining characteristic DNA-binding and catalytic domains that suggest a role in genomic regulation (Gao2020Evolution). TIGD3 is expressed in various human tissues, including the cerebellar hemisphere and blood, indicating its involvement in diverse physiological processes (Dupeyron2020Phylogenetic). The protein exists in multiple isoforms, with variations in expression patterns observed in cancerous tissues, suggesting a potential role in cancer progression (Ahmed2022The). TIGD3 has been implicated in clinical studies related to lung squamous cell carcinoma and non-small cell lung cancer, where its expression levels are associated with patient survival outcomes (Jiang2022Characterization; Li2020Genetic). Despite its involvement in these conditions, the specific mechanisms and interactions of TIGD3 remain to be fully elucidated, highlighting the need for further research.
+
+## Structure
+The TIGD3 protein is derived from Tc1/mariner transposases and retains a combination of DNA-binding domain (DBD) and DDE domains, which are characteristic of these transposases (Gao2020Evolution). The DBD of TIGD3 includes two submotifs: CENP-B_N and HTH_Tnp_Tc5, located in the N-terminus, while the catalytic domain (DDE_1) is found in the C-terminal region (Gao2020Evolution). This structural composition suggests an evolutionary origin from transposase genes, indicating potential functional roles in the genome.
+
+In terms of isoforms, multiple variants of the TIGD3 protein have been identified, including 90 kDa, 60 kDa, 52 kDa, and 50 kDa isoforms, with the 52 kDa isoform being common across various colorectal cancer cell lines (Ahmed2022The). These isoforms may result from post-translational modifications or alternative splicing, which could influence the protein's function and stability (Ahmed2022The). The presence of different isoforms in cancerous tissues compared to non-cancerous tissues suggests a potential role in cancer progression (Ahmed2022The). However, specific details on the secondary, tertiary, and quaternary structures of TIGD3 are not provided in the available context.
+
+## Clinical Significance
+The TIGD3 gene has been implicated in various cancer-related studies, particularly in lung squamous cell carcinoma (LUSC). It is part of an eight-gene prognostic signature used to predict survival outcomes in LUSC patients. This model, validated with datasets from The Cancer Genome Atlas (TCGA) and GEO, demonstrated significant differences in overall survival between high-risk and low-risk groups, suggesting that alterations in TIGD3 expression may be associated with cancer prognosis (Jiang2022Characterization). 
+
+In addition to its role in LUSC, TIGD3 is included in a risk-score model for non-small cell lung cancer (NSCLC), specifically in LUSC, where it is associated with overall survival outcomes (Li2020Genetic). The gene is also mentioned in the context of DNA methylation changes in type 2 diabetes patients, where a differentially methylated region overlapping TIGD3 was identified, potentially linking it to mortality risk in these patients (Sabbatinelli2024DNA).
+
+While TIGD3 is noted in these studies, specific diseases or conditions directly resulting from TIGD3 mutations or expression alterations are not well-documented, indicating a need for further research to clarify its clinical significance.
+
+## Interactions
+TIGD3, a gene derived from the Tigger transposable element, is involved in various cellular processes through its interactions with other proteins. In Homo sapiens, TIGD3 is expressed in numerous organs, with significant expression in the cerebellar hemisphere, blood, and leukocytes, suggesting its involvement in diverse physiological functions (Dupeyron2020Phylogenetic). The BioGrid database identifies four protein-protein interactions for TIGD3, indicating its role in cellular processes, although specific interaction partners are not detailed in the available context (Dupeyron2020Phylogenetic).
+
+TIGD3 is also noted as a DNA binding protein, which implies potential interactions with nucleic acids, possibly influencing gene transcription or regulation (MartínezBallesteros2017Machine). The protein's involvement in Alzheimer's disease prognosis further suggests its participation in complex cellular pathways, although specific interaction partners in this context are not provided (MartínezBallesteros2017Machine).
+
+In the context of motif interaction analysis, TIGD3 is listed with a motif of 'RxFxV/I' and a specific sequence 'QSEVARRfQVSQPQI', indicating its potential role in protein interaction networks, although specific partners or functional roles are not detailed (Taylor2024Predictive). Overall, while TIGD3 is implicated in various interactions, detailed information on its specific partners and roles remains limited.
+
+
+## References
+
+
+[1. (Sabbatinelli2024DNA) Jacopo Sabbatinelli, Angelica Giuliani, Katarzyna Malgorzata Kwiatkowska, Giulia Matacchione, Alessia Belloni, Deborah Ramini, Francesco Prattichizzo, Valeria Pellegrini, Francesco Piacenza, Elena Tortato, Anna Rita Bonfigli, Davide Gentilini, Antonio Domenico Procopio, Paolo Garagnani, Fabiola Olivieri, and Giuseppe Bronte. Dna methylation-derived biological age and long-term mortality risk in subjects with type 2 diabetes. Cardiovascular Diabetology, July 2024. URL: http://dx.doi.org/10.1186/s12933-024-02351-7, doi:10.1186/s12933-024-02351-7. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12933-024-02351-7)
+
+[2. (Dupeyron2020Phylogenetic) Mathilde Dupeyron, Tobias Baril, Chris Bass, and Alexander Hayward. Phylogenetic analysis of the tc1/mariner superfamily reveals the unexplored diversity of pogo-like elements. Mobile DNA, June 2020. URL: http://dx.doi.org/10.1186/s13100-020-00212-0, doi:10.1186/s13100-020-00212-0. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13100-020-00212-0)
+
+[3. (Ahmed2022The) Ahmed Arnaoty, Hiba. M. Ahmed, Yves Bigot, and Thierry Lecomte. The expression of neogene tigd3 that derived from dna transposons in colorectal cancer cell lines. Indian Journal of Forensic Medicine &amp; Toxicology, 16(3):58–62, July 2022. URL: http://dx.doi.org/10.37506/ijfmt.v16i3.18249, doi:10.37506/ijfmt.v16i3.18249. This article has 0 citations.](https://doi.org/10.37506/ijfmt.v16i3.18249)
+
+4. (Taylor2024Predictive) Predictive and Experimental Motif Interaction Analysis Identifies Functions of the WNK-OSR1/SPAK Pathway. This article has 2 citations.
+
+[5. (MartínezBallesteros2017Machine) María Martínez-Ballesteros, José M. García-Heredia, Isabel A. Nepomuceno-Chamorro, and José C. Riquelme-Santos. Machine learning techniques to discover genes with potential prognosis role in alzheimer’s disease using different biological sources. Information Fusion, 36:114–129, July 2017. URL: http://dx.doi.org/10.1016/j.inffus.2016.11.005, doi:10.1016/j.inffus.2016.11.005. This article has 22 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.inffus.2016.11.005)
+
+[6. (Jiang2022Characterization) Wenfa Jiang, Ning Xie, and Chenyang Xu. Characterization of a prognostic model for lung squamous cell carcinoma based on eight stemness index-related genes. BMC Pulmonary Medicine, June 2022. URL: http://dx.doi.org/10.1186/s12890-022-02011-0, doi:10.1186/s12890-022-02011-0. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12890-022-02011-0)
+
+[7. (Gao2020Evolution) Bo Gao, Yatong Sang, Wencheng Zong, Mohamed Diaby, Dan Shen, Saisai Wang, Yali Wang, Cai Chen, and Chengyi Song. Evolution and domestication oftc1/marinertransposons in the genome of african coelacanth (latimeria chalumnae). Genome, 63(8):375–386, August 2020. URL: http://dx.doi.org/10.1139/gen-2019-0216, doi:10.1139/gen-2019-0216. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1139/gen-2019-0216)
+
+8. (Li2020Genetic) Genetic Landscapes and Prognostic Implications of Circadian Rhythm in Non-small Cell Lung Cancer. This article has 0 citations.

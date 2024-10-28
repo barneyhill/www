@@ -1,0 +1,50 @@
+# THOC1
+
+## Overview
+THOC1 is a gene that encodes the THO complex subunit 1 protein, a critical component of the human THO/TREX complex involved in mRNA processing and export. The THOC1 protein plays a pivotal role in maintaining genome integrity by preventing the formation of R-loops, which are DNA:RNA hybrids that can lead to genomic instability and DNA damage. Structurally, THOC1 is part of the THO-UAP56 complex, contributing to the stabilization and orientation of the complex, and is subject to regulation by the ubiquitin-proteasome pathway (Pühringer2020Structure; Song2013The). Functionally, THOC1 is essential for transcription elongation and mRNA export, impacting cellular growth and differentiation (DomínguezSánchez2011Genome). Clinically, alterations in THOC1 expression have been linked to various cancers, including glioblastoma and breast cancer, where it influences tumor progression and cell viability (Li2007Cancer; Budhiraja2024THOC1). These characteristics underscore the importance of THOC1 in both normal cellular processes and disease states.
+
+## Structure
+The THOC1 protein is a component of the human THO complex, which plays a crucial role in mRNA processing and export. Structurally, THOC1 is part of the THO-UAP56 complex, which forms a tetramer consisting of two asymmetric dimers, each with two seven-subunit monomers (PachecoFiallos2023mRNA; Pühringer2020Structure). Within this complex, THOC1 interacts with other subunits such as THOC2, THOC5, and THOC7, contributing to the stabilization and orientation of the complex (Pühringer2020Structure). The THOC1 C-terminus is positioned near UAP56 and THOC2, suggesting its involvement in export factor loading (Pühringer2020Structure).
+
+The THOC1 protein is subject to regulation by the ubiquitin-proteasome pathway, specifically through poly-ubiquitination by the NEDD4-1 E3 ubiquitin ligase, leading to its degradation by the proteasome (Song2013The). This post-translational modification is conserved between yeast and mammals and involves the interaction of THOC1 with NEDD4-1, facilitated by the presence of an LPEY amino acid motif in THOC1 (Song2013The). The protein's structure includes specific domains such as the RNA recognition motif (RRM) and may exhibit alpha-helices and beta-sheets in its secondary structure.
+
+## Function
+The THOC1 gene encodes a protein that is a component of the human THO/TREX complex, which is crucial for maintaining genome integrity and proper transcriptional processes in human cells. THOC1 plays a significant role in preventing the formation of R-loops, which are DNA:RNA hybrids that can lead to genome instability and DNA damage. The depletion of THOC1 results in increased DNA damage, as indicated by the accumulation of DNA damage markers such as cH2AX and 53BP1 foci, and is associated with a hyper-recombination phenotype (DomínguezSánchez2011Genome).
+
+THOC1 is also involved in transcription elongation and mRNA export. Its depletion impairs transcription elongation, leading to reduced mRNA levels at the 3' regions of genes and causing the accumulation of poly(A)+ RNA in the nucleus, indicating a disruption in RNA export (DomínguezSánchez2011Genome). The protein is active in the nucleus, where it facilitates the proper expression of genes, impacting cellular growth and differentiation (Song2013The).
+
+THOC1's role in coordinating transcription and replication processes is essential for preventing replication-transcription conflicts, which can lead to genome instability. This highlights its importance in maintaining the balance between transcription and replication dynamics in healthy human cells (DomínguezSánchez2011Genome).
+
+## Clinical Significance
+Alterations in the expression of the THOC1 gene have been implicated in various cancers. In glioblastoma (GBM), higher levels of THOC1 RNA expression correlate with shorter survival times, suggesting its potential as a therapeutic target. Knockdown of THOC1 in GBM cell lines results in decreased cell viability and proliferation, and in vivo experiments show increased survival in mice implanted with THOC1-knockdown GBM cells (Budhiraja2024THOC1). 
+
+THOC1 is also overexpressed in several other cancers, including breast, ovarian, and lung tumors, where it is associated with increased tumor size and aggressiveness. In contrast, its expression is down-regulated in testis and skin tumors (DomínguezSánchez2011Differential). The differential expression patterns of THOC1 suggest it may play varying roles in tumorigenesis depending on the cancer type.
+
+The interaction of THOC1 with the Sin3A histone deacetylase complex is crucial for preventing R-loop accumulation, which can lead to genomic instability, a hallmark of cancer cells. Disruptions in this interaction may contribute to cancer development by promoting genome instability (Salas‐Armenteros2017Human). These findings highlight the clinical significance of THOC1 in cancer biology and its potential as a target for therapeutic intervention.
+
+## Interactions
+THOC1, a component of the TREX complex, is involved in several critical interactions with proteins and nucleic acids. It complexes with SIN3A, a histone deacetylase complex, to regulate R-loops, which are RNA:DNA hybrids formed during transcription. This interaction is crucial for maintaining genomic stability by preventing excessive R-loop accumulation, which can lead to DNA damage and genomic instability (Budhiraja2024THOC1). THOC1's interaction with SIN3A facilitates histone deacetylation, thereby influencing the epigenetic landscape of glioblastoma cells and promoting tumor progression (Budhiraja2024THOC1).
+
+THOC1 is also a substrate for the NEDD4-1 E3 ubiquitin ligase, which poly-ubiquitinates THOC1, targeting it for proteasomal degradation. This interaction suggests a regulatory mechanism for THOC1 stability and function within the cell (Song2013The).
+
+In the context of cancer, THOC1 is overexpressed in glioblastoma and breast cancer, where it plays a role in cell viability and proliferation. Its interactions within the TREX complex, including with proteins like THOC2 and ALYREF, are essential for transcriptional elongation and mRNA processing, highlighting its importance in both normal cellular functions and oncogenesis (Li2007Cancer; Budhiraja2024THOC1).
+
+
+## References
+
+
+[1. (PachecoFiallos2023mRNA) Belén Pacheco-Fiallos, Matthias K. Vorländer, Daria Riabov-Bassat, Laura Fin, Francis J. O’Reilly, Farja I. Ayala, Ulla Schellhaas, Juri Rappsilber, and Clemens Plaschka. Mrna recognition and packaging by the human transcription–export complex. Nature, 616(7958):828–835, April 2023. URL: http://dx.doi.org/10.1038/s41586-023-05904-0, doi:10.1038/s41586-023-05904-0. This article has 45 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-023-05904-0)
+
+[2. (Li2007Cancer) Yanping Li, Athena W. Lin, Xiaojing Zhang, Yanqing Wang, Xiaoling Wang, and David W. Goodrich. Cancer cells and normal cells differ in their requirements for thoc1. Cancer Research, 67(14):6657–6664, July 2007. URL: http://dx.doi.org/10.1158/0008-5472.can-06-3234, doi:10.1158/0008-5472.can-06-3234. This article has 38 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-06-3234)
+
+[3. (Salas‐Armenteros2017Human) Irene Salas‐Armenteros, Carmen Pérez‐Calero, Aleix Bayona‐Feliu, Emanuela Tumini, Rosa Luna, and Andrés Aguilera. Human <scp>tho</scp> –sin3a interaction reveals new mechanisms to prevent r‐loops that cause genome instability. The EMBO Journal, 36(23):3532–3547, October 2017. URL: http://dx.doi.org/10.15252/embj.201797208, doi:10.15252/embj.201797208. This article has 96 citations.](https://doi.org/10.15252/embj.201797208)
+
+4. (Budhiraja2024THOC1) THOC1 complexes with SIN3A to regulate R-loops and promote glioblastoma progression. This article has 0 citations.
+
+[5. (Pühringer2020Structure) Thomas Pühringer, Ulrich Hohmann, Laura Fin, Belén Pacheco-Fiallos, Ulla Schellhaas, Julius Brennecke, and Clemens Plaschka. Structure of the human core transcription-export complex reveals a hub for multivalent interactions. eLife, November 2020. URL: http://dx.doi.org/10.7554/elife.61503, doi:10.7554/elife.61503. This article has 51 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.61503)
+
+[6. (DomínguezSánchez2011Genome) María S. Domínguez-Sánchez, Sonia Barroso, Belén Gómez-González, Rosa Luna, and Andrés Aguilera. Genome instability and transcription elongation impairment in human cells depleted of tho/trex. PLoS Genetics, 7(12):e1002386, December 2011. URL: http://dx.doi.org/10.1371/journal.pgen.1002386, doi:10.1371/journal.pgen.1002386. This article has 193 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1002386)
+
+[7. (DomínguezSánchez2011Differential) María S Domínguez-Sánchez, Carmen Sáez, Miguel A Japón, Andrés Aguilera, and Rosa Luna. Differential expression of thoc1 and aly mrnp biogenesis/export factors in human cancers. BMC Cancer, February 2011. URL: http://dx.doi.org/10.1186/1471-2407-11-77, doi:10.1186/1471-2407-11-77. This article has 64 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2407-11-77)
+
+[8. (Song2013The) Fei Song, Chuandong Fan, Xinjiang Wang, and David W. Goodrich. The thoc1 encoded ribonucleoprotein is a substrate for the nedd4-1 e3 ubiquitin protein ligase. PLoS ONE, 8(2):e57995, February 2013. URL: http://dx.doi.org/10.1371/journal.pone.0057995, doi:10.1371/journal.pone.0057995. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0057995)

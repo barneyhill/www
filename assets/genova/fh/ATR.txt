@@ -1,0 +1,62 @@
+# ATR
+
+## Overview
+ATR (ATM and Rad3-related) is a gene that encodes the ATR serine/threonine kinase, a critical enzyme in the DNA damage response pathway. This kinase is a member of the phosphatidylinositol 3-kinase-related kinase (PIKK) family and plays a pivotal role in maintaining genomic stability by responding to DNA replication stress and damage. ATR is activated primarily during the S-phase of the cell cycle, where it detects single-stranded DNA regions coated with replication protein A (RPA) and initiates a checkpoint response to halt cell cycle progression, allowing for DNA repair. The ATR protein interacts with several key partners, including ATRIP, TopBP1, and the 9-1-1 complex, to facilitate its activation and function. Mutations in the ATR gene are linked to disorders such as Seckel syndrome and various cancers, highlighting its clinical significance. Additionally, ATR is a target for cancer therapies, as its inhibition can potentiate the effects of radiation and chemotherapy by disrupting the DNA damage response (Marechal2013DNA; Blackford2017ATM; Zighelboim2009ATR).
+
+## Structure
+ATR (ATM and Rad3-related) is a serine/threonine kinase involved in the DNA damage response. The primary structure of ATR consists of 2,644 amino acids, forming a large protein with a C-terminal catalytic domain of approximately 300 amino acids (Yang2004ATM). This domain is flanked by two loosely conserved regions, contributing to its functional complexity.
+
+The secondary structure of ATR includes alpha helices and beta sheets, which are typical of kinase proteins, although specific details are not provided in the available context. The tertiary structure, which is crucial for ATR's function, involves the three-dimensional conformation of these secondary elements, allowing for interactions with other proteins and DNA.
+
+ATR contains specific domains such as the kinase domain and HEAT repeats, which are involved in protein-protein interactions and are essential for its role in DNA damage sensing and repair (Johnson2023An). Post-translational modifications, particularly phosphorylation, play a significant role in regulating ATR's activity and interactions (Johnson2023An).
+
+ATR can exist in different isoforms due to alternative splicing, which may affect its functional properties and interactions within the cell (Johnson2023An). These structural features enable ATR to participate effectively in the cellular response to genotoxic stress.
+
+## Function
+ATR (ATR serine/threonine kinase) is a pivotal component of the DNA damage response in human cells, primarily functioning as a serine/threonine kinase. It is activated in response to DNA replication stress and damage, particularly during the S-phase of the cell cycle. ATR is crucial for maintaining genomic stability by activating cell cycle checkpoints, facilitating DNA repair, and stabilizing replication forks (Blackford2017ATM; Shechter2004Regulation).
+
+In healthy human cells, ATR is activated by the presence of single-stranded DNA (ssDNA) bound by replication protein A (RPA), a common occurrence when replication forks stall due to DNA damage or replication inhibitors. ATR forms a complex with ATRIP and other proteins, such as Claspin and the 9-1-1 complex, to initiate a checkpoint response that prevents further replication initiation. This involves the phosphorylation of downstream targets, including Chk1, which is a key effector in the checkpoint signaling pathway (Shechter2004Regulation).
+
+ATR also plays a role in the phosphorylation of the p53 tumor suppressor protein, particularly at Ser-15 and Ser-37, which is crucial for p53's accumulation and activation in response to DNA damage (Tibbetts1999A). Through these mechanisms, ATR ensures proper cell cycle progression and prevents genomic instability by halting cell cycle progression in the presence of DNA damage (Blackford2017ATM).
+
+## Clinical Significance
+Mutations in the ATR gene are associated with several clinical conditions, most notably Seckel syndrome and primary microcephaly. Seckel syndrome is a rare autosomal recessive disorder characterized by intrauterine growth retardation, dwarfism, microcephaly, and a distinctive facial appearance. These conditions arise from compound heterozygous mutations in the ATR gene, which lead to impaired DNA replication and genomic instability (Mokrani-Benhelli2012Primary). 
+
+In cancer, ATR mutations contribute to genomic instability and are implicated in the progression of various malignancies. For instance, ATR mutations are found in endometrioid endometrial cancer, particularly in tumors with microsatellite instability. These mutations are linked to poor clinical outcomes, including reduced overall and disease-free survival (Zighelboim2009ATR). In breast cancer, specific ATR mutations affect regulatory motifs, influencing cancer development (Waskiewicz2021Cancer).
+
+ATR's role in cancer therapy is also significant, as its inhibition can enhance the efficacy of radiation and chemotherapeutic treatments by disrupting the DNA damage response, making it a target for therapeutic interventions (Waskiewicz2021Cancer; Manic2015Trial).
+
+## Interactions
+ATR (ATR serine/threonine kinase) is a crucial component of the DNA damage response, interacting with various proteins and nucleic acids to maintain genomic stability. ATR forms a stable complex with ATRIP (ATR-interacting protein), which is essential for its recruitment to sites of DNA damage, particularly at RPA-coated single-stranded DNA (ssDNA) regions (Marechal2013DNA; Burrows2008How). This interaction facilitates ATR's role in phosphorylating downstream targets such as Chk1, a key checkpoint effector kinase (Kumagai2006TopBP1).
+
+TopBP1 is a significant activator of ATR, interacting with the ATR-ATRIP complex through its ATR-activating domain. This interaction is crucial for ATR's full activation and is mediated by the BRCT domains of TopBP1, which bind to phosphorylated Rad9 within the 9-1-1 complex at ssDNA/dsDNA junctions (Marechal2013DNA; Burrows2008How). The presence of TopBP1 enhances ATR's kinase activity, facilitating the phosphorylation of several substrates involved in DNA repair and checkpoint signaling (Kumagai2006TopBP1).
+
+ATR also interacts with the Rad17-RFC2-5 complex, which loads the 9-1-1 clamp onto DNA, a critical step for ATR activation (Burrows2008How). These interactions ensure ATR is activated only under conditions of DNA damage, providing a fail-safe mechanism for the DNA damage response (Marechal2013DNA).
+
+
+## References
+
+
+[1. (Burrows2008How) Anna E. Burrows and Stephen J. Elledge. How atr turns on: topbp1 goes on atrip with atr: figure 1. Genes &amp; Development, 22(11):1416–1421, June 2008. URL: http://dx.doi.org/10.1101/gad.1685108, doi:10.1101/gad.1685108. This article has 61 citations.](https://doi.org/10.1101/gad.1685108)
+
+[2. (Blackford2017ATM) Andrew N. Blackford and Stephen P. Jackson. Atm, atr, and dna-pk: the trinity at the heart of the dna damage response. Molecular Cell, 66(6):801–817, June 2017. URL: http://dx.doi.org/10.1016/j.molcel.2017.05.015, doi:10.1016/j.molcel.2017.05.015. This article has 1314 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2017.05.015)
+
+[3. (Zighelboim2009ATR) Israel Zighelboim, Amy P. Schmidt, Feng Gao, Premal H. Thaker, Matthew A. Powell, Janet S. Rader, Randall K. Gibb, David G. Mutch, and Paul J. Goodfellow. Atr mutation in endometrioid endometrial cancer is associated with poor clinical outcomes. Journal of Clinical Oncology, 27(19):3091–3096, July 2009. URL: http://dx.doi.org/10.1200/jco.2008.19.9802, doi:10.1200/jco.2008.19.9802. This article has 58 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1200/jco.2008.19.9802)
+
+[4. (Marechal2013DNA) A. Marechal and L. Zou. Dna damage sensing by the atm and atr kinases. Cold Spring Harbor Perspectives in Biology, 5(9):a012716–a012716, September 2013. URL: http://dx.doi.org/10.1101/cshperspect.a012716, doi:10.1101/cshperspect.a012716. This article has 1059 citations and is from a peer-reviewed journal.](https://doi.org/10.1101/cshperspect.a012716)
+
+[5. (Johnson2023An) Jared L. Johnson, Tomer M. Yaron, Emily M. Huntsman, Alexander Kerelsky, Junho Song, Amit Regev, Ting-Yu Lin, Katarina Liberatore, Daniel M. Cizin, Benjamin M. Cohen, Neil Vasan, Yilun Ma, Konstantin Krismer, Jaylissa Torres Robles, Bert van de Kooij, Anne E. van Vlimmeren, Nicole Andrée-Busch, Norbert F. Käufer, Maxim V. Dorovkov, Alexey G. Ryazanov, Yuichiro Takagi, Edward R. Kastenhuber, Marcus D. Goncalves, Benjamin D. Hopkins, Olivier Elemento, Dylan J. Taatjes, Alexandre Maucuer, Akio Yamashita, Alexei Degterev, Mohamed Uduman, Jingyi Lu, Sean D. Landry, Bin Zhang, Ian Cossentino, Rune Linding, John Blenis, Peter V. Hornbeck, Benjamin E. Turk, Michael B. Yaffe, and Lewis C. Cantley. An atlas of substrate specificities for the human serine/threonine kinome. Nature, 613(7945):759–766, January 2023. URL: http://dx.doi.org/10.1038/s41586-022-05575-3, doi:10.1038/s41586-022-05575-3. This article has 208 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-022-05575-3)
+
+[6. (Shechter2004Regulation) David Shechter, Vincenzo Costanzo, and Jean Gautier. Regulation of dna replication by atr: signaling in response to dna intermediates. DNA Repair, 3(8–9):901–908, August 2004. URL: http://dx.doi.org/10.1016/j.dnarep.2004.03.020, doi:10.1016/j.dnarep.2004.03.020. This article has 156 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.dnarep.2004.03.020)
+
+[7. (Manic2015Trial) Gwenola Manic, Florine Obrist, Antonella Sistigu, and Ilio Vitale. Trial watch: targeting atm–chk2 and atr–chk1 pathways for anticancer therapy. Molecular &amp; Cellular Oncology, 2(4):e1012976, February 2015. URL: http://dx.doi.org/10.1080/23723556.2015.1012976, doi:10.1080/23723556.2015.1012976. This article has 106 citations.](https://doi.org/10.1080/23723556.2015.1012976)
+
+[8. (Waskiewicz2021Cancer) Erik Waskiewicz, Michalis Vasiliou, Isaac Corcoles-Saez, and Rita S. Cha. Cancer genome datamining and functional genetic analysis implicate mechanisms of atm/atr dysfunction underpinning carcinogenesis. Communications Biology, March 2021. URL: http://dx.doi.org/10.1038/s42003-021-01884-x, doi:10.1038/s42003-021-01884-x. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-021-01884-x)
+
+[9. (Kumagai2006TopBP1) Akiko Kumagai, Joon Lee, Hae Yong Yoo, and William G. Dunphy. Topbp1 activates the atr-atrip complex. Cell, 124(5):943–955, March 2006. URL: http://dx.doi.org/10.1016/j.cell.2005.12.041, doi:10.1016/j.cell.2005.12.041. This article has 592 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2005.12.041)
+
+[10. (Yang2004ATM) Jun Yang, Zheng-Ping Xu, Yun Huang, Hope E. Hamrick, Penelope J. Duerksen-Hughes, and Ying-Nian Yu. Atm and atr: sensing dna damage. World Journal of Gastroenterology, 10(2):155, 2004. URL: http://dx.doi.org/10.3748/wjg.v10.i2.155, doi:10.3748/wjg.v10.i2.155. This article has 89 citations and is from a poor quality or predatory journal.](https://doi.org/10.3748/wjg.v10.i2.155)
+
+[11. (Mokrani-Benhelli2012Primary) Houda Mokrani-Benhelli, Laetitia Gaillard, Patricia Biasutto, Tangui Le Guen, Fabien Touzot, Nadia Vasquez, Jun Komatsu, Emmanuel Conseiller, Capucine Pïcard, Eliane Gluckman, Christine Francannet, Alain Fischer, Anne Durandy, Jean Soulier, Jean-Pierre de Villartay, Marina Cavazzana-Calvo, and Patrick Revy. Primary microcephaly, impaired dna replication, and genomic instability caused by compound heterozygousatrmutations. Human Mutation, 34(2):374–384, December 2012. URL: http://dx.doi.org/10.1002/humu.22245, doi:10.1002/humu.22245. This article has 64 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.22245)
+
+[12. (Tibbetts1999A) R. S. Tibbetts, K. M. Brumbaugh, J. M. Williams, J. N. Sarkaria, W. A. Cliby, S.-Y. Shieh, Y. Taya, C. Prives, and R. T. Abraham. A role for atr in the dna damage-induced phosphorylation of p53. Genes &amp; Development, 13(2):152–157, January 1999. URL: http://dx.doi.org/10.1101/gad.13.2.152, doi:10.1101/gad.13.2.152. This article has 789 citations.](https://doi.org/10.1101/gad.13.2.152)

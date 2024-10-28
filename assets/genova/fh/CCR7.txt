@@ -1,0 +1,52 @@
+# CCR7
+
+## Overview
+CCR7, or C-C motif chemokine receptor 7, is a gene that encodes a G protein-coupled receptor involved in the immune system's regulation and function. The CCR7 protein plays a pivotal role in directing the migration and positioning of immune cells, such as T cells and dendritic cells, to lymphoid tissues, which is essential for initiating and maintaining immune responses. This receptor is activated by its ligands, CCL19 and CCL21, facilitating the entry of naive T cells into lymph nodes and the migration of dendritic cells into lymph nodes via afferent lymphatics (Griffith2014Chemokines; Braun2011Afferent). CCR7's function is critical for immune surveillance, homeostasis, and response, and its dysregulation is implicated in various diseases, including blood cancers and autoimmune disorders (Liu2019Elevated; CuestaMateos2021CCR7).
+
+## Structure
+The CCR7 protein is a G protein-coupled receptor characterized by a sequence of 378 amino acids forming its primary structure (Vellanki2017Structural). Its secondary structure includes two β-sheets and nine α-helices, with the α-helices forming part of the seven transmembrane domains (TMDs) crucial for the protein's function (Vellanki2017Structural). These transmembrane domains are located in the conserved domain of the protein sequence and are important for binding interactions with the CCL19 protein (Vellanki2017Structural).
+
+The tertiary structure of CCR7 is stabilized by disulfide bridges between Cys48-Cys298 and Cys129-Cys210, which connect the N-terminal loop with the transmembrane domain and TMD-3 with a β2 sheet, respectively (Vellanki2017Structural). The 3D models of CCR7, generated through homology modeling, show reliable structural quality with a ProSA z-score of -3.49, indicating a well-folded structure (Vellanki2017Structural).
+
+Post-translational modifications of CCR7 may include glycosylation, as suggested by the conserved glycosylation site at N37 in swine, human, and mouse CCR7 (Shinkai2003Molecular). The quaternary structure of CCR7 is not explicitly discussed in the provided context.
+
+## Function
+CCR7 (C-C motif chemokine receptor 7) is a G protein-coupled receptor that plays a critical role in the immune system by directing the migration and positioning of immune cells, such as T cells and dendritic cells, to lymphoid tissues. This receptor is activated by its ligands, CCL19 and CCL21, which are essential for the entry of naive T cells into lymph nodes through high endothelial venules (Griffith2014Chemokines). CCR7 is crucial for the migration of dendritic cells via the afferent lymphatics into the draining lymph nodes, facilitating their interaction with T cells in the T cell zones (Griffith2014Chemokines; Braun2011Afferent).
+
+In regulatory T cells (Tregs), CCR7 is involved in their localization to secondary lymphoid organs, where they maintain immune homeostasis and regulate immune responses by controlling CD4+ T cell proliferation (Griffith2014Chemokines). CCR7 also plays a role in the migration of T cells from peripheral tissues into lymph nodes, which is essential for immune surveillance and response (Debes2005Chemokine). The receptor's function extends to the regulation of lymphocyte exit from tissues, influencing local inflammatory and immune responses (Debes2005Chemokine). CCR7 homodimerization enhances its signaling, facilitating efficient cell migration even at low ligand concentrations (Kobayashi2017Regulation).
+
+## Clinical Significance
+The CCR7 gene is clinically significant due to its role in various diseases, particularly blood cancers and autoimmune disorders. In chronic lymphocytic leukemia (CLL), CCR7 is overexpressed, enhancing leukemic cell migration and nodal involvement. This overexpression is linked to poor prognosis and is targeted by treatments like ibrutinib, which disrupts CCR7-mediated cell retention in lymph nodes (CuestaMateos2021CCR7). In mantle cell lymphoma (MCL), high CCR7 expression is associated with lymphoma cell dissemination and survival, and its inhibition reduces cell infiltration and viability (CuestaMateos2021CCR7). 
+
+In autoimmune diseases, the CCL19/CCR7 chemokine system is upregulated in primary Sjögren’s syndrome (pSS), correlating with disease activity and contributing to immune cell migration and autoantibody production (Liu2019Elevated). CCR7 is also implicated in rheumatoid arthritis, where its expression reflects blood B cell disturbances and predicts treatment responses (Liu2019Elevated). 
+
+Mutations in CCR7, particularly in its C-terminal cytoplasmic region, can lead to increased receptor expression and enhanced tumor cell migration, as seen in adult T-cell leukemia/lymphoma (ATLL) (CuestaMateos2021CCR7). These mutations often coincide with other genetic alterations, exacerbating disease progression.
+
+## Interactions
+CCR7 interacts with its ligands, CCL19 and CCL21, to mediate immune cell migration. The binding of CCL19 to CCR7 involves specific amino acid interactions, such as Asp28 of CCL19 forming a salt bridge and hydrogen bond with Lys130 of CCR7, which contributes to the stability of the complex (Vellanki2017Structural). CCR7 also forms homodimers, which are crucial for its signaling functions. Homodimerization enhances CCR7-dependent cell migration and ligand binding, and is facilitated by the TM4 domain of CCR7 (Kobayashi2017Regulation). 
+
+CCR7 can also form heterodimers with other chemokine receptors, such as CXCR4, although this interaction does not significantly affect cell migration (Kobayashi2017Regulation). The receptor's N-terminal region, particularly when modified by sulfation, enhances its binding affinity to CCL21, indicating the importance of posttranslational modifications in CCR7's interactions (Phillips2017CCR7). 
+
+CCR7's interaction with CCL21 is also influenced by the receptor's sulfotyrosine residues, which significantly increase binding affinity, suggesting a role in ligand bias and potential therapeutic implications (Phillips2017CCR7). These interactions are essential for CCR7's role in immune cell chemotaxis and signaling.
+
+
+## References
+
+
+[1. (Griffith2014Chemokines) Jason W. Griffith, Caroline L. Sokol, and Andrew D. Luster. Chemokines and chemokine receptors: positioning cells for host defense and immunity. Annual Review of Immunology, 32(1):659–702, March 2014. URL: http://dx.doi.org/10.1146/annurev-immunol-032713-120145, doi:10.1146/annurev-immunol-032713-120145. This article has 1459 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1146/annurev-immunol-032713-120145)
+
+[2. (Braun2011Afferent) Asolina Braun, Tim Worbs, G Leandros Moschovakis, Stephan Halle, Katharina Hoffmann, Jasmin Bölter, Anika Münk, and Reinhold Förster. Afferent lymph–derived t cells and dcs use different chemokine receptor ccr7–dependent routes for entry into the lymph node and intranodal migration. Nature Immunology, 12(9):879–887, August 2011. URL: http://dx.doi.org/10.1038/ni.2085, doi:10.1038/ni.2085. This article has 257 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ni.2085)
+
+[3. (Debes2005Chemokine) Gudrun F Debes, Carrie N Arnold, Alan J Young, Stefan Krautwald, Martin Lipp, John B Hay, and Eugene C Butcher. Chemokine receptor ccr7 required for t lymphocyte exit from peripheral tissues. Nature Immunology, 6(9):889–894, August 2005. URL: http://dx.doi.org/10.1038/ni1238, doi:10.1038/ni1238. This article has 383 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ni1238)
+
+[4. (Vellanki2017Structural) Santhi Prada Vellanki, Ramasree Dulapalli, Bhargavi Kondagari, Navaneetha Nambigari, Rajender Vadija, Vishwanath Ramatenki, Rama Krishna Dumpati, and Uma Vuruputuri. Structural evaluation and binding mode analysis of ccl19 and ccr7 proteins—identification of novel leads for rheumatic and autoimmune diseases: an insilico study. Interdisciplinary Sciences: Computational Life Sciences, 10(2):346–366, March 2017. URL: http://dx.doi.org/10.1007/s12539-017-0212-0, doi:10.1007/s12539-017-0212-0. This article has 6 citations.](https://doi.org/10.1007/s12539-017-0212-0)
+
+[5. (Shinkai2003Molecular) H. Shinkai, Y. Muneta, T. Eguchi, K. Suzuki, T. Awata, and H. Uenishi. Molecular cloning and chromosomal assignment to ssc12p13→p11 of swine chemokine receptor ccr7. Cytogenetic and Genome Research, 101(2):155–160, 2003. URL: http://dx.doi.org/10.1159/000074172, doi:10.1159/000074172. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1159/000074172)
+
+[6. (Phillips2017CCR7) Andrew Phillips, Deni Taleski, Chad Koplinski, Anthony Getschman, Natasha Moussouras, Amanda Richard, Francis Peterson, Michael Dwinell, Brian Volkman, Richard Payne, and Christopher Veldkamp. Ccr7 sulfotyrosine enhances ccl21 binding. International Journal of Molecular Sciences, 18(9):1857, August 2017. URL: http://dx.doi.org/10.3390/ijms18091857, doi:10.3390/ijms18091857. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms18091857)
+
+[7. (Liu2019Elevated) Zhenwei Liu, Fengxia Li, Axiao Pan, Huangqi Xue, Shan Jiang, Chengwei Zhu, Mengmeng Jin, Jinxia Fang, Xiaochun Zhu, Matthew A. Brown, and Xiaobing Wang. Elevated ccl19/ccr7 expression during the disease process of primary sjögren’s syndrome. Frontiers in Immunology, April 2019. URL: http://dx.doi.org/10.3389/fimmu.2019.00795, doi:10.3389/fimmu.2019.00795. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2019.00795)
+
+[8. (Kobayashi2017Regulation) Daichi Kobayashi, Masataka Endo, Hirotaka Ochi, Hironobu Hojo, Masayuki Miyasaka, and Haruko Hayasaka. Regulation of ccr7-dependent cell migration through ccr7 homodimer formation. Scientific Reports, August 2017. URL: http://dx.doi.org/10.1038/s41598-017-09113-4, doi:10.1038/s41598-017-09113-4. This article has 48 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-09113-4)
+
+[9. (CuestaMateos2021CCR7) Carlos Cuesta-Mateos, Fernando Terrón, and Marco Herling. Ccr7 in blood cancers – review of its pathophysiological roles and the potential as a therapeutic target. Frontiers in Oncology, October 2021. URL: http://dx.doi.org/10.3389/fonc.2021.736758, doi:10.3389/fonc.2021.736758. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.736758)

@@ -1,0 +1,50 @@
+# CEP63
+
+## Overview
+CEP63 is a gene that encodes the centrosomal protein 63, a crucial component involved in the regulation of centriole duplication and genomic stability. The protein is characterized by its coiled-coil domains, which facilitate interactions with other centrosomal proteins, notably forming a complex with CEP152. This complex is essential for recruiting key factors necessary for centriole biogenesis, such as HsSAS-6, and for maintaining the structural integrity of the centrosome during cell division (Kim2019Molecular; Brown2013Cep63). CEP63 is also implicated in the DNA damage response, where it is phosphorylated by ATM and ATR kinases, highlighting its role in maintaining genomic integrity (Smith2009An). Mutations in the CEP63 gene are associated with disorders such as Seckel syndrome and have been linked to certain cancers, underscoring its clinical significance (Liu2021Cep63; Marjanović2015CEP63).
+
+## Structure
+The CEP63 protein is characterized by its coiled-coil domains, which are versatile motifs facilitating protein-protein interactions (Kim2019Molecular). These domains are crucial for the formation of a heterotetrameric complex with Cep152, another centrosomal protein, through a four-α-helix bundle structure stabilized by hydrophobic interactions (Kim2019Molecular). The interaction between CEP63 and Cep152 is mediated by specific coiled-coil motifs, particularly the C-terminal coiled-coil motifs of CEP63 (residues 490-541, named P1b) (Kim2019Molecular).
+
+The tertiary structure of CEP63 involves the formation of a cylindrical self-assembly at the centrosomes, which is essential for recruiting downstream components necessary for centriole duplication (Kim2019Molecular). This self-assembly is dynamic and can form higher-order structures in a concentration-dependent manner, driven by hydrophobic interactions (Kim2019Molecular).
+
+CEP63 can also form homodimers, indicating a quaternary structure, and has splice variant isoforms that may affect its function. Mutations in CEP63 are linked to diseases such as cancer and microcephaly, underscoring the importance of its structural integrity (Kim2019Molecular).
+
+## Function
+CEP63 is a centrosomal protein that plays a critical role in centriole duplication, a key process in cell division. It functions in conjunction with CEP152 to ensure the proper recruitment of essential centriole duplication factors, such as HsSAS-6, to the centrosome. This recruitment is vital for the formation of the procentriole during the S phase of the cell cycle (Brown2013Cep63). The CEP63-CEP152 complex is necessary for the efficient localization of these factors to the pericentriolar material, which is essential for centriole biogenesis (Brown2013Cep63).
+
+CEP63 is also involved in the formation of a cylindrical self-assembly structure with CEP152, which is crucial for centriole biogenesis. This structure influences the spatial organization and concentration of Plk4, a kinase essential for centriole duplication (Il2023Architectural). The integrity of this complex is maintained by a conserved basic coiled-coil motif in CEP152, which is essential for the structural stability and function of the assembly (Il2023Architectural).
+
+In healthy cells, CEP63 is regulated by autophagy, which controls centrosome number by degrading excess CEP63, thereby maintaining genomic stability (Watanabe2016Autophagy).
+
+## Clinical Significance
+Mutations in the CEP63 gene are linked to Seckel syndrome, a rare genetic disorder characterized by microcephaly and growth retardation. In both humans and mouse models, CEP63 deficiency leads to microcephaly due to p53-dependent cell death of neural progenitor cells, which can be rescued by deleting p53 (Marjanović2015CEP63). CEP63 is also crucial for proper centriole duplication, and its deficiency results in mitotic errors and impaired recruitment of CEP152, contributing to the development of microcephaly (Marjanović2015CEP63).
+
+CEP63 plays a role in male fertility, as its deficiency causes severe impairments in meiotic recombination, leading to male infertility. This is due to defects in spermatogenesis, including reduced testis size and abnormal spermatids, independent of p53, ATM, or CHK2 pathways (Marjanović2015CEP63).
+
+In cancer, CEP63 is implicated in papillary thyroid cancer (PTC), where its expression is significantly increased. Knockout studies in PTC cell lines show that CEP63 promotes malignant phenotypes, including cell proliferation and metastasis, potentially through the JAK/STAT3 signaling pathway (Liu2021Cep63). These findings suggest that CEP63 may act as an oncogene in certain cancers.
+
+## Interactions
+CEP63 is involved in several critical protein interactions that regulate centrosome duplication and DNA damage response. It interacts with CEP152 to form a complex essential for centriole duplication. This interaction is crucial for recruiting Plk4, a kinase involved in centriole biogenesis, to the centrosome (Zhao2020Cep57; Watanabe2016Autophagy). CEP63 also interacts with p62, a protein involved in autophagy, which targets CEP63 for degradation to regulate centrosome numbers. This interaction is particularly significant in autophagy-deficient cells, where the accumulation of CEP63 leads to an increase in centrosome numbers (Watanabe2016Autophagy).
+
+CEP63 is phosphorylated by ATM and ATR kinases, which are part of the DNA damage response pathway. This phosphorylation affects its localization and function in spindle assembly, highlighting its role in maintaining genomic stability (Smith2009An). Additionally, CEP63 interacts with UVRAG, a protein involved in autophagy and DNA repair, suggesting a role in damage response mechanisms (Marjanović2015CEP63). These interactions underscore the multifaceted role of CEP63 in cellular processes related to centrosome function and genomic integrity.
+
+
+## References
+
+
+[1. (Il2023Architectural) Jong Il Ahn, Liang Zhang, Harsha Ravishankar, Lixin Fan, Klara Kirsch, Yan Zeng, Lingjun Meng, Jung-Eun Park, Hye-Yeoung Yun, Rodolfo Ghirlando, Buyong Ma, David Ball, Bonsu Ku, Ruth Nussinov, Jeremy D. Schmit, William F. Heinz, Seung Jun Kim, Tatiana Karpova, Yun-Xing Wang, and Kyung S. Lee. Architectural basis for cylindrical self-assembly governing plk4-mediated centriole duplication in human cells. Communications Biology, July 2023. URL: http://dx.doi.org/10.1038/s42003-023-05067-8, doi:10.1038/s42003-023-05067-8. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-023-05067-8)
+
+[2. (Zhao2020Cep57) Huijie Zhao, Sen Yang, Qingxia Chen, Xiaomeng Duan, Guoqing Li, Qiongping Huang, Xueliang Zhu, and Xiumin Yan. Cep57 and cep57l1 function redundantly to recruit the cep63–cep152 complex for centriole biogenesis. Journal of Cell Science, July 2020. URL: http://dx.doi.org/10.1242/jcs.241836, doi:10.1242/jcs.241836. This article has 13 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.241836)
+
+[3. (Kim2019Molecular) Tae-Sung Kim, Liang Zhang, Jong Il Ahn, Lingjun Meng, Yang Chen, Eunhye Lee, Jeong Kyu Bang, Jung Mi Lim, Rodolfo Ghirlando, Lixin Fan, Yun-Xing Wang, Bo Yeon Kim, Jung-Eun Park, and Kyung S. Lee. Molecular architecture of a cylindrical self-assembly at human centrosomes. Nature Communications, March 2019. URL: http://dx.doi.org/10.1038/s41467-019-08838-2, doi:10.1038/s41467-019-08838-2. This article has 32 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-08838-2)
+
+[4. (Watanabe2016Autophagy) Yuichiro Watanabe, Shinya Honda, Akimitsu Konishi, Satoko Arakawa, Michiko Murohashi, Hirofumi Yamaguchi, Satoru Torii, Minoru Tanabe, Shinji Tanaka, Eiji Warabi, and Shigeomi Shimizu. Autophagy controls centrosome number by degrading cep63. Nature Communications, November 2016. URL: http://dx.doi.org/10.1038/ncomms13508, doi:10.1038/ncomms13508. This article has 33 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms13508)
+
+[5. (Liu2021Cep63) Chenguang Liu, Fangqin Yu, Runsheng Ma, Lele Zhang, Gongbo Du, Dongpeng Niu, and Detao Yin. Cep63 knockout inhibits the malignant phenotypes of papillary thyroid cancer cell line tpc‑1. Oncology Reports, July 2021. URL: http://dx.doi.org/10.3892/or.2021.8150, doi:10.3892/or.2021.8150. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.2021.8150)
+
+[6. (Brown2013Cep63) Nicola J. Brown, Marko Marjanović, Jens Lüders, Travis H. Stracker, and Vincenzo Costanzo. Cep63 and cep152 cooperate to ensure centriole duplication. PLoS ONE, 8(7):e69986, July 2013. URL: http://dx.doi.org/10.1371/journal.pone.0069986, doi:10.1371/journal.pone.0069986. This article has 85 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0069986)
+
+[7. (Marjanović2015CEP63) Marko Marjanović, Carlos Sánchez-Huertas, Berta Terré, Rocío Gómez, Jan Frederik Scheel, Sarai Pacheco, Philip A. Knobel, Ana Martínez-Marchal, Suvi Aivio, Lluís Palenzuela, Uwe Wolfrum, Peter J. McKinnon, José A. Suja, Ignasi Roig, Vincenzo Costanzo, Jens Lüders, and Travis H. Stracker. Cep63 deficiency promotes p53-dependent microcephaly and reveals a role for the centrosome in meiotic recombination. Nature Communications, July 2015. URL: http://dx.doi.org/10.1038/ncomms8676, doi:10.1038/ncomms8676. This article has 121 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms8676)
+
+[8. (Smith2009An) Eloise Smith, Donniphat Dejsuphong, Alessia Balestrini, Martin Hampel, Christof Lenz, Shunichi Takeda, Alessandro Vindigni, and Vincenzo Costanzo. An atm- and atr-dependent checkpoint inactivates spindle assembly by targeting cep63. Nature Cell Biology, 11(3):278–285, February 2009. URL: http://dx.doi.org/10.1038/ncb1835, doi:10.1038/ncb1835. This article has 48 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncb1835)

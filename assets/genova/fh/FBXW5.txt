@@ -1,0 +1,35 @@
+# FBXW5
+
+## Overview
+FBXW5 is a gene that encodes the F-box and WD repeat domain containing 5 protein, which is a crucial component of the SCF (Skp, Cullin, F-box containing) ubiquitin E3 ligase complex. This protein plays a significant role in cellular processes such as centrosome duplication, genomic stability, and autophagy regulation. By targeting specific proteins for ubiquitination and degradation, FBXW5 ensures proper cell cycle progression and prevents oncogenic transformations. It is involved in the degradation of proteins like SAS6 and EPS8, which are essential for maintaining normal centrosome numbers and preventing genomic instability (scholta2021role). Additionally, FBXW5 interacts with SEC23B, a subunit of the COPII vesicle coat, to regulate its ubiquitylation, thereby influencing autophagic processes (Jeong2018The). The gene's expression has been linked to various cancers, where it can act as either a protective or high-risk factor depending on the cancer type, highlighting its clinical significance (Huang2022Pancancer).
+
+## Function
+The FBXW5 gene encodes a protein that is a component of the SCF (Skp, Cullin, F-box containing) ubiquitin E3 ligase complex, which plays a crucial role in regulating centrosome duplication and maintaining genomic stability. In healthy human cells, FBXW5 targets specific proteins, such as SAS6, for ubiquitination and subsequent proteasomal degradation. This regulation is essential for controlling the initiation of the centrosome cycle, particularly at the transition from G1 to S-phase, ensuring that centrosome duplication occurs only once per cell division (scholta2021role).
+
+FBXW5 is also involved in the degradation of the mitotic remodeler EPS8, preventing its overexpression, which can lead to oncogenic transformation. The protein's activity is crucial for maintaining normal centrosome numbers, preventing centrosome amplification, and the formation of multipolar spindles, which can lead to genomic instability (scholta2021role).
+
+In addition to its role in centrosome regulation, FBXW5 is positively correlated with insulin sensitivity in human skeletal muscle. It is involved in regulating mTOR signaling and autophagy, processes important for cellular metabolism and homeostasis (Parikh2021Relationship).
+
+## Clinical Significance
+FBXW5 has been implicated in various cancers due to its altered expression levels and genetic alterations. In kidney chromophobe (KICH) and uterine corpus endometrial carcinoma (UCEC), FBXW5 acts as a protective factor, whereas in lung adenocarcinoma (LUAD) and adrenocortical carcinoma (ACC), it is considered a high-risk factor (Huang2022Pancancer). The gene is also identified as a detrimental factor in ACC, pheochromocytoma and paraganglioma (PCPG), and thymoma (THYM) (Huang2022Pancancer). FBXW5 shows high expression in several cancers, including breast invasive carcinoma, cholangiocarcinoma, liver hepatocellular carcinoma, and LUAD, among others (Huang2022Pancancer). Its expression is associated with tumor stage, particularly showing increased levels in advanced stages of LUAD (Huang2022Pancancer).
+
+In acute myeloid leukemia (AML), FBXW5 is expressed at higher levels, although it does not significantly differ across age groups or cytogenetic risk classifications. Patients with lower FBXW5 expression tend to be younger and more likely to receive intensive chemotherapy and allo-SCT, suggesting a potential role in treatment decisions (Han2020FBXW4). The gene's expression is positively correlated with stromal, immune, and estimate scores across cancers, indicating its involvement in regulating the immune microenvironment (Huang2022Pancancer).
+
+## Interactions
+FBXW5 is a protein that interacts with SEC23B, a subunit of the COPII vesicle coat, to regulate its ubiquitylation and proteasomal degradation. This interaction is specific to free SEC23B and does not involve other COPII subunits, indicating that FBXW5 targets a subpopulation of SEC23B not integrated within COPII vesicles (Jeong2018The). The binding of FBXW5 to SEC23B is mediated by the TRUNK domain of SEC23B, which is also involved in the SEC23-SEC24 interaction, suggesting competition between FBXW5 and SEC24B for the same binding region on SEC23B (Jeong2018The).
+
+The interaction between FBXW5 and SEC23B is regulated by ULK1-mediated phosphorylation of SEC23B at Ser186. This phosphorylation inhibits the binding of FBXW5 to SEC23B, preventing its degradation and allowing SEC23B to maintain its cellular functions (Jeong2018The). Under nutrient deprivation, ULK1 phosphorylates SEC23B, which stabilizes SEC23B by blocking its interaction with FBXW5, thereby promoting autophagic flux (Jeong2018The). This regulatory mechanism highlights the role of FBXW5 in modulating autophagy through its interaction with SEC23B, influenced by cellular conditions such as nutrient availability (Jeong2018The).
+
+
+## References
+
+
+[1. (Huang2022Pancancer) Tingting Huang, XIaoxiao OuYang, Jiwei Li, Bingbing Shi, Zhengda Shan, Zhiyuan Shi, and Zhangru Yang. Pan-cancer analysis of fbxw family with potential implications in prognosis and immune infiltration. Frontiers in Immunology, December 2022. URL: http://dx.doi.org/10.3389/fimmu.2022.1084339, doi:10.3389/fimmu.2022.1084339. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2022.1084339)
+
+[2. (Han2020FBXW4) Qi Han, Qi Zhang, Huihui Song, Yevgeniya Bamme, Chunhua Song, and Zheng Ge. Fbxw4 is highly expressed and associated with poor survival in acute myeloid leukemia. Frontiers in Oncology, February 2020. URL: http://dx.doi.org/10.3389/fonc.2020.00149, doi:10.3389/fonc.2020.00149. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2020.00149)
+
+[3. (Parikh2021Relationship) Hemang M. Parikh, Targ Elgzyri, Amra Alibegovic, Natalie Hiscock, Ola Ekström, Karl-Fredrik Eriksson, Allan Vaag, Leif C. Groop, Kristoffer Ström, and Ola Hansson. Relationship between insulin sensitivity and gene expression in human skeletal muscle. BMC Endocrine Disorders, February 2021. URL: http://dx.doi.org/10.1186/s12902-021-00687-9, doi:10.1186/s12902-021-00687-9. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12902-021-00687-9)
+
+[4. (Jeong2018The) Yeon-Tae Jeong, Daniele Simoneschi, Sarah Keegan, David Melville, Natalia S Adler, Anita Saraf, Laurence Florens, Michael P Washburn, Claudio N Cavasotto, David Fenyö, Ana Maria Cuervo, Mario Rossi, and Michele Pagano. The ulk1-fbxw5-sec23b nexus controls autophagy. eLife, December 2018. URL: http://dx.doi.org/10.7554/elife.42253, doi:10.7554/elife.42253. This article has 65 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.42253)
+
+5. (scholta2021role) Tim Scholta. Role of FBXW5-loss in centrosome abnormalities and cell physiology. PhD thesis, Universität Tübingen, 2021. This article has 0 citations.

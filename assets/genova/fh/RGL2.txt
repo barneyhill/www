@@ -1,0 +1,54 @@
+# RGL2
+
+## Overview
+RGL2 is a gene that encodes the protein ral guanine nucleotide dissociation stimulator like 2, which is a member of the RalGDS family. This protein functions as a guanine nucleotide exchange factor (GEF) and plays a pivotal role in intracellular signaling pathways by interacting with small G-proteins such as Ras and Rap1. The RGL2 protein is characterized by several key domains, including an N-terminal Ras Exchange Motif (REM), a central CDC25 homology domain, and a C-terminal Ras/Rap Binding Domain (RBD), which is crucial for its interaction with Ras proteins (Ferro2008Gprotein). RGL2 is involved in various cellular processes, including vesicle trafficking and exocytosis, and its activity is regulated by phosphorylation, which modulates its binding capabilities with Ras proteins (Takaya2007R-Ras; Ferro2008Gprotein). Alterations in RGL2 expression have been linked to the progression of several cancers, highlighting its clinical significance (Cheng2021RGL2; Kardamiliotis2022Unraveling).
+
+## Structure
+The RGL2 protein, encoded by the RGL2 gene, is a member of the RalGDS family and plays a role in signal transduction involving Ras family proteins. It contains several key domains: an N-terminal Ras Exchange Motif (REM), a central CDC25 homology domain, and a C-terminal Ras/Rap Binding Domain (RBD) (Ferro2008Gprotein). The C-terminal RBD is highly conserved and crucial for binding to Ras proteins in a GTP-dependent manner (Ferro2008Gprotein). 
+
+Structurally, the RGL2-RBD adopts a ββαββαβ ubiquitin-fold, which is common among RA/RBD domains (Tariq2023Structural). This domain interacts with Ras proteins through specific residues, such as Arg653, Lys666, and Lys686, which are essential for forming a productive complex (Ferro2008Gprotein). The RGL2 protein can form a heterotetramer complex with KRas4B G12V, involving interactions at the switch I and switch II regions of KRas4B (Tariq2023Structural).
+
+Post-translational modifications include phosphorylation at Ser737 by PKA, which reduces RGL2's ability to bind H-Ras and Rap1b, suggesting a regulatory mechanism for its interaction with Ras proteins (Ferro2008Gprotein).
+
+## Function
+RGL2, a member of the RalGDS family, functions as a guanine nucleotide exchange factor (GEF) for Ral GTPases, playing a crucial role in intracellular signaling pathways. It interacts with small G-proteins such as Ras and Rap1, facilitating the exchange of GDP for GTP, which is essential for activating these proteins (Ferro2008Gprotein). RGL2 is involved in signal transduction by interacting with the GTP-bound active form of Ras family proteins, acting as a downstream effector for Ras and an upstream activator of Ral (Ferro2008Gprotein).
+
+In healthy human cells, RGL2 is active in the cytoplasm and is implicated in various cellular processes, including vesicle trafficking and exocytosis. It mediates Ras-dependent activation of Ral, which is significant in vesicular trafficking, including endocytosis and exocytosis (Takaya2007R-Ras). RGL2's interaction with R-Ras on endosomes is crucial for the activation of RalA, a protein involved in exocytosis, highlighting its role in cellular signaling pathways (Takaya2007R-Ras).
+
+The protein's activity is regulated by phosphorylation, which can modulate its binding capabilities with Ras proteins, suggesting a mechanism for distinguishing between different RalGDS family members (Ferro2008Gprotein).
+
+## Clinical Significance
+Alterations in the expression of the RGL2 gene have been implicated in the progression of several cancers. In colon cancer, high levels of RGL2 expression are associated with lower survival probabilities and more aggressive cancer traits, such as larger tumor size, higher metastasis, and invasiveness, particularly in younger patients (Cheng2021RGL2). RGL2 is regulated by transcription factors like ETS1 and HOXA9, with ETS1 directly binding to its promoter. Knockdown of ETS1 results in decreased RGL2 expression, while HOXA9 knockdown leads to its upregulation, indicating a complex regulatory network (Cheng2021RGL2).
+
+In breast cancer, RGL2 is overexpressed in cell lines sensitive to afatinib, a tyrosine kinase inhibitor, suggesting its role in drug sensitivity through interactions with the ERBB signaling pathway (Kardamiliotis2022Unraveling). Additionally, RGL2 is involved in the ERBB signaling pathway, modulating β-catenin and KRAS, which promotes metastasis in colorectal cancer cells (Kardamiliotis2022Unraveling).
+
+RGL2 is also upregulated in recurrent atypical teratoid/rhabdoid tumors, indicating its potential role in tumor recurrence and progression (Johann2023Recurrent). These findings highlight the clinical significance of RGL2 in cancer progression and treatment response.
+
+## Interactions
+RGL2, a member of the RalGDS family, interacts with several proteins, playing a significant role in cellular signaling pathways. It contains a Ras Binding Domain (RBD) that interacts with Ras and Rap1b proteins. The interaction is regulated by phosphorylation at Ser737 by PKA, which reduces RGL2's ability to bind H-Ras and Rap1b, suggesting a mechanism for modulating Ras protein interactions (Ferro2008Gprotein).
+
+RGL2 also interacts with NF-YC homologues, specifically NF-YC3, NF-YC4, and NF-YC9, in Arabidopsis, indicating a role in seed germination regulation. These interactions are mediated through the GRAS domain of RGL2 and the carboxy-terminal of NF-YC9, as confirmed by yeast two-hybrid assays and GST pull-down assays (Liu2016The).
+
+In the context of R-Ras signaling, RGL2/Rlf acts as a significant effector on endosomes, showing strong affinity with a constitutively active mutant of R-Ras. This interaction is GTP-dependent and is crucial for the activation of RalA, influencing processes like calcium-dependent exocytosis (Takaya2007R-Ras).
+
+RGL2 is also involved in transcriptional regulation in Arabidopsis, interacting with various transcription factors such as GAMYB, ARF1, and Dof-type factors, which are implicated in seed germination and phytohormone responses (Stamm2012Insights).
+
+
+## References
+
+
+[1. (Liu2016The) Xu Liu, Pengwei Hu, Mingkun Huang, Yang Tang, Yuge Li, Ling Li, and Xingliang Hou. The nf-yc–rgl2 module integrates ga and aba signalling to regulate seed germination in arabidopsis. Nature Communications, September 2016. URL: http://dx.doi.org/10.1038/ncomms12768, doi:10.1038/ncomms12768. This article has 197 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms12768)
+
+[2. (Tariq2023Structural) Mishal Tariq, Teppei Ikeya, Naoyuki Togashi, Louise Fairall, Shun Kamei, Sannojah Mayooramurugan, Lauren R Abbott, Anab Hasan, Carlos Bueno-Alejo, Sakura Sukegawa, Beatriz Romartinez-Alonso, Miguel Angel Muro Campillo, Andrew J Hudson, Yutaka Ito, John WR Schwabe, Cyril Dominguez, and Kayoko Tanaka. Structural insights into the complex of oncogenic kras4bg12vand rgl2, a rala/b activator. Life Science Alliance, 7(1):e202302080, October 2023. URL: http://dx.doi.org/10.26508/lsa.202302080, doi:10.26508/lsa.202302080. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202302080)
+
+[3. (Ferro2008Gprotein) Elisa Ferro, David Magrini, Paolo Guazzi, Thomas H. Fischer, Sara Pistolesi, Rebecca Pogni, Gilbert C. White, and Lorenza Trabalzini. G-protein binding features and regulation of the ralgds family member, rgl2. Biochemical Journal, 415(1):145–154, September 2008. URL: http://dx.doi.org/10.1042/bj20080255, doi:10.1042/bj20080255. This article has 8 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20080255)
+
+[4. (Kardamiliotis2022Unraveling) Konstantinos Kardamiliotis, Evangelina Karanatsiou, Ioanna Aslanidou, Eirini Stergiou, Ioannis S. Vizirianakis, and Andigoni Malousi. Unraveling drug response from pharmacogenomic data to advance systems pharmacology decisions in tumor therapeutics. Future Pharmacology, 2(1):31–44, February 2022. URL: http://dx.doi.org/10.3390/futurepharmacol2010003, doi:10.3390/futurepharmacol2010003. This article has 2 citations.](https://doi.org/10.3390/futurepharmacol2010003)
+
+[5. (Takaya2007R-Ras) Akiyuki Takaya, Takahiro Kamio, Michitaka Masuda, Naoki Mochizuki, Hirofumi Sawa, Mami Sato, Kazuo Nagashima, Akiko Mizutani, Akira Matsuno, Etsuko Kiyokawa, and Michiyuki Matsuda. R-ras regulates exocytosis by rgl2/rlf-mediated activation of rala on endosomes. Molecular Biology of the Cell, 18(5):1850–1860, May 2007. URL: http://dx.doi.org/10.1091/mbc.e06-08-0765, doi:10.1091/mbc.e06-08-0765. This article has 71 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e06-08-0765)
+
+[6. (Johann2023Recurrent) Pascal D. Johann, Lea Altendorf, Emma-Maria Efremova, Till Holsten, Mona Steinbügl, Karolina Nemes, Alicia Eckhardt, Catena Kresbach, Michael Bockmayr, Arend Koch, Christine Haberler, Manila Antonelli, John DeSisto, Martin U. Schuhmann, Peter Hauser, Reiner Siebert, Susanne Bens, Marcel Kool, Adam L. Green, Martin Hasselblatt, Michael C. Frühwald, and Ulrich Schüller. Recurrent atypical teratoid/rhabdoid tumors (at/rt) reveal discrete features of progression on histology, epigenetics, copy number profiling, and transcriptomics. Acta Neuropathologica, 146(3):527–541, July 2023. URL: http://dx.doi.org/10.1007/s00401-023-02608-7, doi:10.1007/s00401-023-02608-7. This article has 4 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1007/s00401-023-02608-7)
+
+[7. (Stamm2012Insights) Petra Stamm, Pratibha Ravindran, Bijayalaxmi Mohanty, Ee Ling Tan, Hao Yu, and Prakash P Kumar. Insights into the molecular mechanism of rgl2-mediated inhibition of seed germination in arabidopsis thaliana. BMC Plant Biology, October 2012. URL: http://dx.doi.org/10.1186/1471-2229-12-179, doi:10.1186/1471-2229-12-179. This article has 44 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2229-12-179)
+
+[8. (Cheng2021RGL2) Qingyu Cheng, Yupeng Wu, Honghai Xia, and Xiaoyuan Song. Rgl2 as an age-dependent factor regulates colon cancer progression. Computational and Structural Biotechnology Journal, 19:2190–2201, 2021. URL: http://dx.doi.org/10.1016/j.csbj.2021.04.006, doi:10.1016/j.csbj.2021.04.006. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.csbj.2021.04.006)

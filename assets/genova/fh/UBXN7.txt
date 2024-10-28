@@ -1,0 +1,54 @@
+# UBXN7
+
+## Overview
+UBXN7 is a gene that encodes the UBX domain protein 7, a multifunctional protein involved in various cellular processes, including protein degradation and stress response regulation. The protein is characterized by several functional domains, such as the ubiquitin-associated (UBA) domain, ubiquitin-interacting motif (UIM), and UBX domain, which facilitate its interactions with other proteins and complexes. UBX domain protein 7 acts as a cofactor for cullin-RING E3 ubiquitin ligase complexes, playing a critical role in the regulation of transcription factors like NRF2 and HIF-1α, which are essential for cellular responses to oxidative stress and hypoxia (Di2021UBXN7; Bandau2012UBXN7). Additionally, UBXN7 is involved in the disassembly of the replisome during DNA replication termination, contributing to genomic stability (Tarcan2021The). The protein's interactions and regulatory functions make it significant in the context of diseases such as cancer, where its dysregulation can influence tumor progression and cellular stress responses (Yang2024Exploring; Cilenti2020Mitochondrial).
+
+## Structure
+UBXN7, also known as UBX domain protein 7, is characterized by a complex molecular structure comprising several functional domains. The protein includes an N-terminal ubiquitin-associated (UBA) domain, a UAS domain with a thioredoxin-like fold, a ubiquitin-interacting motif (UIM), and a C-terminal UBX domain (Amhaz2023The; Li2017Crystal). The UBA domain is essential for binding ubiquitinated substrates, while the UBX domain facilitates interaction with the p97/VCP ATPase, a critical component in protein homeostasis (Rezvani2016UBXD; Li2017Crystal).
+
+The UIM motif is crucial for interacting with neddylated cullins, specifically CUL2, and plays a role in the regulation of cullin-RING ligase activity (Bandau2012UBXN7). The UAS domain is involved in binding to the RING domain of RNF111, influencing E3 ubiquitin ligase activity (Amhaz2023The).
+
+UBXN7 undergoes post-translational modifications, including ubiquitination at conserved residues K14 and K412, which are located in the UBA and UBX domains, respectively (Cilenti2020Mitochondrial). These modifications are crucial for its regulatory functions and interactions within the cell. The protein's ability to form a homodimer through an intermolecular disulfide bond may also impact its interaction with p97 (Li2017Crystal).
+
+## Function
+UBXN7 (UBX domain protein 7) is a crucial component in the regulation of protein degradation and cellular stress responses in healthy human cells. It functions as a cofactor for cullin-RING E3 ubiquitin ligase complexes, specifically CRL3 KEAP1 and CRL2 VHL, mediating the reciprocal regulation of the transcription factors NRF2 and HIF-1α. UBXN7 facilitates the ubiquitination and subsequent proteasomal degradation of these proteins, which is essential for maintaining cellular responses to oxidative stress and hypoxia (Di2021UBXN7).
+
+UBXN7 interacts with neddylated cullins through its UIM motif, which is critical for its role in modulating CRL activity. This interaction can lead to the accumulation of non-ubiquitylated HIF1α by sequestering CUL2 in its neddylated form, thereby negatively regulating the ubiquitin-ligase activity of CRL2 (Bandau2012UBXN7).
+
+In addition to its role in protein degradation, UBXN7 is involved in the disassembly of the replisome during DNA replication termination. It interacts with the p97 segregase and the Cul2 Lrr1 ubiquitin ligase to facilitate the efficient disassembly of the replisome, ensuring proper termination of DNA replication (Tarcan2021The). UBXN7 is active in both the cytoplasm and nucleus, contributing to protein homeostasis and cellular stress responses (Fujisawa2022Multiple).
+
+## Clinical Significance
+Alterations in the expression or function of the UBXN7 gene have been implicated in various diseases, particularly cancer. UBXN7 is involved in the regulation of hypoxia-inducible factor 1-alpha (HIF-1α), a transcription factor that plays a significant role in tumor aggressiveness under hypoxic conditions. Overexpression of UBXN7 can inhibit the CRL2 VHL complex, leading to the accumulation of HIF-1α, which is associated with increased glycolysis and tumor progression (Cilenti2020Mitochondrial; Bandau2012UBXN7). 
+
+In cancer, UBXN7 has been noted for its high levels of gene amplification in tumors, with a mutation frequency greater than 3% in The Cancer Genome Atlas (TCGA) database. These mutations are associated with poor prognosis in cancer patients, suggesting a role in tumor progression (Yang2024Exploring). UBXN7 is also involved in the regulation of NRF2, a protein that responds to oxidative stress, and its dysregulation can lead to increased sensitivity to oxidative stress-induced apoptosis (Di2021UBXN7).
+
+In hepatocellular carcinoma, UBXN7 inhibits autophagy through the NF-κB signaling pathway, while in lung squamous cell carcinomas, it is associated with promoting cell growth (Yang2024Exploring). These findings highlight the potential of UBXN7 as a therapeutic target in cancer treatment.
+
+## Interactions
+UBXN7 interacts with several proteins, primarily through its UAS thioredoxin-like domain, which plays a crucial role in regulating E3 ubiquitin ligase activity. It specifically binds to the RING domains of RNF111 and RNF165, inhibiting their ubiquitylation activity by preventing the binding of E2 conjugating enzymes. This interaction stabilizes RNF111 and modulates the degradation of its substrate, SKIL, in response to TGF-β signaling (Amhaz2023The). The UAS domain of UBXN7 also interacts with the RING domain of TOPORS, another E3 ubiquitin ligase, inhibiting its activity in a similar manner (Amhaz2023The).
+
+UBXN7's interaction with RNF111 is specific to its UAS domain, which competes with the RING-E2 interaction but not with the RING-UB interaction, indicating a regulatory role in the ubiquitination process (Amhaz2023The). The UAS domain's specificity is highlighted by its inability to interact with other proteins like VCP or CUL2, despite their presence in the UBA-UBX family (Amhaz2023The).
+
+UBXN7 also interacts with the CRL2 VHL complex, acting as a scaffold protein and influencing the regulation of HIF-1α protein levels. This interaction is mediated through its UBX domain, which binds to the AAA+ ATPase p97, and its UBA domain, which interacts with ubiquitinated substrates (Di2021UBXN7; Cilenti2020Mitochondrial).
+
+
+## References
+
+
+[1. (Li2017Crystal) Zhi-hui Li, Yong Wang, Min Xu, and Tao Jiang. Crystal structures of the ubx domain of human ubxd7 and its complex with p97 atpase. Biochemical and Biophysical Research Communications, 486(1):94–100, April 2017. URL: http://dx.doi.org/10.1016/j.bbrc.2017.03.005, doi:10.1016/j.bbrc.2017.03.005. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2017.03.005)
+
+2. (Fujisawa2022Multiple) Multiple UBX proteins reduce the ubiquitin threshold of the mammalian p97-UFD1-NPL4 unfoldase. This article has 1 citations.
+
+[3. (Amhaz2023The) Sadek Amhaz, Batiste Boëda, Mouna Chouchène, Sabrina Colasse, Florent Dingli, Damarys Loew, Julien Henri, Céline Prunier, and Laurence Levy. The uas thioredoxin-like domain of ubxn7 regulates e3 ubiquitin ligase activity of rnf111/arkadia. BMC Biology, April 2023. URL: http://dx.doi.org/10.1186/s12915-023-01576-4, doi:10.1186/s12915-023-01576-4. This article has 1 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s12915-023-01576-4)
+
+[4. (Bandau2012UBXN7) Susanne Bandau, Axel Knebel, Zoe O Gage, Nicola T Wood, and Gabriela Alexandru. Ubxn7 docks on neddylated cullin complexes using its uim motif and causes hif1α accumulation. BMC Biology, April 2012. URL: http://dx.doi.org/10.1186/1741-7007-10-36, doi:10.1186/1741-7007-10-36. This article has 55 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/1741-7007-10-36)
+
+[5. (Rezvani2016UBXD) Khosrow Rezvani. Ubxd proteins: a family of proteins with diverse functions in cancer. International Journal of Molecular Sciences, 17(10):1724, October 2016. URL: http://dx.doi.org/10.3390/ijms17101724, doi:10.3390/ijms17101724. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms17101724)
+
+[6. (Yang2024Exploring) Enyu Yang, Xiaowei Fan, Haihan Ye, Xiaoyang Sun, Qing Ji, Qianyun Ding, Shulian Zhong, Shuo Zhao, Cheng Xuan, Meiyu Fang, Xianfeng Ding, and Jun Cao. Exploring the role of ubiquitin regulatory x domain family proteins in cancers: bioinformatics insights, mechanisms, and implications for therapy. Journal of Translational Medicine, February 2024. URL: http://dx.doi.org/10.1186/s12967-024-04890-9, doi:10.1186/s12967-024-04890-9. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-024-04890-9)
+
+[7. (Cilenti2020Mitochondrial) Lucia Cilenti, Jacopo Di Gregorio, Camilla T. Ambivero, Thomas Andl, Ronglih Liao, and Antonis S. Zervos. Mitochondrial mul1 e3 ubiquitin ligase regulates hypoxia inducible factor (hif-1α) and metabolic reprogramming by modulating the ubxn7 cofactor protein. Scientific Reports, January 2020. URL: http://dx.doi.org/10.1038/s41598-020-58484-8, doi:10.1038/s41598-020-58484-8. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-020-58484-8)
+
+[8. (Di2021UBXN7) Jacopo Di Gregorio, Lucia Cilenti, Camilla T. Ambivero, Thomas Andl, Ronglih Liao, and Antonis S. Zervos. Ubxn7 cofactor of crl3keap1 and crl2vhl ubiquitin ligase complexes mediates reciprocal regulation of nrf2 and hif-1α proteins. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1868(4):118963, April 2021. URL: http://dx.doi.org/10.1016/j.bbamcr.2021.118963, doi:10.1016/j.bbamcr.2021.118963. This article has 15 citations.](https://doi.org/10.1016/j.bbamcr.2021.118963)
+
+9. (Tarcan2021The) The p97 cofactor Ubxn7 facilitates replisome disassembly during S-phase. This article has 4 citations.

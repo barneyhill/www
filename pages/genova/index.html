@@ -1,0 +1,1046 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'><circle cx='20' cy='20' r='19' fill='white' stroke='black' stroke-width='2'/><text x='20' y='27' text-anchor='middle' font-family='Arial' font-size='24' font-weight='bold'>G</text></svg>">
+    <title>Genova</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/7.3.2/pixi.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.2/marked.min.js"></script>
+    <style>
+        /* Base styles */
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden;
+            background-color: #f0f0f0;
+        }
+
+        /* Layout containers */
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            padding: clamp(5px, 2vw, 20px);
+            flex-shrink: 0;
+            box-sizing: border-box;
+            height: 100px;
+            position: relative;
+        }
+
+        .title {
+            position: absolute;
+            left: 30px;
+            margin: 0;
+            font-size: 50px;
+            font-weight: bold;
+        }
+
+        .main-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+            position: relative;
+            min-height: 0;
+        }
+        
+        /* Search section */
+        .search-container {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 8px 16px;
+        }
+
+
+        .search-text {
+            color: #333;
+            white-space: nowrap;
+            font-size: 16px;
+        }
+
+        .search-input {
+            border: 2px solid #333;
+            border-radius: 4px;
+            padding: 10px 15px;
+            font-size: 16px;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+
+        #search-term {
+            width: 300px;
+        }
+
+        #position {
+            width: 150px;
+        }
+
+        .search-input:focus {
+            outline: none;
+        }
+
+        .search-input::placeholder {
+            color: #666;
+        }
+
+        .search-input.example-text {
+            color: #333;
+        }
+
+        .search-button {
+            background: none;
+            color: #333;
+            border: 2px solid #333;
+            border-radius: 4px;
+            padding: 10px 15px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 16px;
+            transition: all 0.3s;
+        }
+
+        .search-button:hover {
+            background: #333;
+            color: #f0f0f0;
+        }
+
+        .search-icon {
+            width: 16px;
+            height: 16px;
+        }
+
+        /* Gene container and canvas */
+        #gene-container { 
+            flex: 1;
+            position: relative;
+            height: 100%;
+        }
+
+        #gene-container canvas {
+            width: 100% !important;
+            height: 100% !important;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        canvas {
+            cursor: grab;
+        }
+
+        canvas:active {
+            cursor: grabbing;
+        }
+
+        /* Article panel */
+        .article-panel {
+            width: 400px;
+            background-color: rgba(240, 240, 240, 0.8);
+            overflow-y: auto;
+            display: none;
+            flex-shrink: 0;
+            border-left: 1px solid #333;
+            border-top: 1px solid #333;
+            height: 100%;
+        }
+
+
+        .article-panel.visible {
+            display: block;
+        }
+
+        /* Gene list and items */
+        .gene-list {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .gene-item {
+            border-bottom: 1px solid #333;
+            overflow: hidden;
+        }
+
+        .gene-item.active { 
+            border-left: 2px solid #333;
+        }
+
+        .gene-header {
+            padding: 12px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+        }
+
+        .gene-header:hover {
+            background: rgba(0, 0, 0, 0.05);
+        }
+
+        .gene-stats { gap: 4px; }
+
+        .gene-name {
+            font-weight: bold;
+            color: #333;
+        }
+
+        .gene-distance, .gene-similarity { 
+            font-size: 0.9em;
+        }
+
+        /* Gene content and loading states */
+        .gene-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
+        }
+
+        .gene-content.expanded {
+            max-height: 400px;
+            overflow-y: auto;
+            transition: max-height 0.5s ease-in;
+        }
+
+        .article-content {
+            padding: 0 16px 24px 16px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .loading {
+            padding: 16px;
+            color: #333;
+            font-style: italic;
+        }
+
+        @media (max-width: 768px) {
+            .main-container {
+                flex-direction: column;
+            }
+
+            #gene-container {
+                height: 60vh;
+                min-height: 300px;
+            }
+
+            .article-panel {
+                width: 100%;
+                height: 40vh;
+                min-height: 200px;
+                border-left: none;
+                border-top: 2px solid #333;
+                position: relative;
+                overflow-y: auto;
+            }
+
+            .gene-list {
+                height: auto;
+                min-height: 100%;
+            }
+
+            .gene-item {
+                position: relative;
+            }
+
+            .gene-content.expanded {
+                position: relative;
+                overflow-y: visible;
+                height: auto;
+            }
+
+            .gene-header {
+                padding: 16px;
+                min-height: 44px;
+            }
+
+            .header {
+                flex-direction: column;
+                height: auto;
+                padding: 10px;
+                gap: 10px;
+                position: relative;
+            }
+
+            .title {
+                position: static;
+                font-size: 24px;
+                margin-bottom: 10px;
+            }
+
+            .search-container {
+                width: 100%;
+                display: flex;
+                flex-wrap: nowrap;
+                justify-content: space-between;
+                align-items: center;
+                gap: 8px;
+                padding: 0;
+            }
+
+            .search-text {
+                font-size: 12px;
+                white-space: nowrap;
+            }
+
+            #search-term {
+                flex: 2;
+                min-width: 0;
+            }
+
+            #position {
+                flex: 1;
+                min-width: 0;
+            }
+
+            .search-input {
+                padding: 8px;
+                font-size: 14px;
+            }
+
+            .search-button {
+                padding: 8px;
+                white-space: nowrap;
+            }
+
+            .about-button {
+                position: absolute;
+                top: 10px;
+                right: 10px;
+                width: auto;
+                padding: 6px 12px;
+                font-size: 14px;
+                margin: 0;
+            }
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        #loading-icon {
+            animation: spin 1s linear infinite;
+        }
+        
+        .search-button:disabled {
+            opacity: 0.7;
+            cursor: default;
+        }
+
+        .about-button {
+            background: none;
+            right: 20px;
+            color: #333;
+            border: 2px solid #333;
+            border-radius: 4px;
+            padding: 10px 15px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s;
+            position: absolute;
+            right: 40px;
+        }
+
+        .about-button:hover {
+            background: #333;
+            color: #f0f0f0;
+        }
+
+        .about-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 1000;
+        }
+
+        .about-modal.visible {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .about-content {
+            position: relative;
+            background-color: white;
+            padding: 2rem;
+            border-radius: 8px;
+            max-width: 600px;
+            margin: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .close-button {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 4px;
+            border-radius: 50%;
+            transition: background-color 0.2s;
+        }
+
+        .close-button:hover {
+            background-color: #f0f0f0;
+        }
+
+        .close-button svg {
+            width: 20px;
+            height: 20px;
+            stroke: #666;
+        }
+
+        .about-content h2 {
+            text-align: center;
+            margin-bottom: 1.5rem;
+            font-size: 1.8rem;
+            font-weight: bold;
+        }
+
+        .about-content p {
+            margin-bottom: 1rem;
+            line-height: 1.6;
+            color: #444;
+        }
+
+        .about-content .controls {
+            margin-top: 1.5rem;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .controls p {
+            margin: 0.5rem 0;
+        }
+
+    </style>
+</head>
+<body>
+<div class="header">
+    <h1 class="title">Genova</h1>
+    <div class="search-container">
+        <span class="search-text">Find genes involved with</span>
+        <input 
+            type="text" 
+            class="search-input example-text" 
+            id="search-term" 
+            value="calcium channel"
+            placeholder="function/interactions/etc">
+        <span class="search-text">near</span>
+        <input 
+            type="text" 
+            class="search-input example-text" 
+            id="position" 
+            value="CPA2"
+            placeholder="chrN:pos or gene">
+        <button class="search-button" onclick="searchPosition()" id="search-button">
+            <svg class="search-icon" id="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="11" cy="11" r="8"/>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <svg class="search-icon" id="loading-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display: none">
+                <path d="M12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2Z" stroke-opacity="0.25"/>
+                <path d="M12 2C6.47715 2 2 6.47715 2 12C2 14.7255 3.09032 17.1962 4.85857 19" stroke-opacity="1"/>
+            </svg>
+        </button>            
+    </div>
+    <button class="about-button" onclick="toggleAbout()">About</button>
+</div>
+<div class="about-modal">
+    <div class="about-content">
+        <button class="close-button" onclick="toggleAbout()">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+        </button>
+        <h2>About Genova</h2>
+        <p>
+            Genova is an genome browser enabling semantic search over <a href="https://wikicrow.ai/">wikicrow</a> generated gene articles. The closest 15 genes will be selected and the OpenAI text-embedding-3-large embedding of your search will be compared to gene articles using cosine similarity.
+        </p>
+        <p>
+            I made this tool because I was frustrated with how tedious it was to investigate non-coding variant associations. If it's of any use to you please send me an email - I would love to hear how you use it!
+        </p>
+        <p>
+           Made by <a href="www.barneyhill.com">Barney.</a>
+        </p>
+        <div class="controls">
+            <p>Use the mouse wheel to zoom</p>
+            <p>Click and drag to pan</p>
+            <p>Click on genes to view details</p>
+        </div>
+    </div>
+</div>
+<div class="main-container">
+    <div id="gene-container"></div>
+    <div class="article-panel">
+        <div class="gene-list"></div>
+    </div>
+</div>
+
+<script>
+    let app;
+    let geneContainer;
+    let ruler;
+    let isDragging = false;
+    let dragStart = null;
+    let lastPosition = null;
+    let geneLabels = [];
+    let startPos, endPos;
+    let currentGenes;
+    let loadedArticles = new Map();
+
+    function interpolateColor(similarity) {
+        const power = 0.7;  // Adjust this value to control the stretching (lower = more stretch)
+        const scaledValue = Math.pow(Math.max(0, Math.min(1, similarity)), power);
+        
+        const startRGB = [51, 51, 51];    // Dark gray
+        const endRGB = [0, 200, 0];       // Green
+        
+        return `rgb(${startRGB.map((start, i) => 
+            Math.round(start + (endRGB[i] - start) * scaledValue)
+        ).join(', ')})`;
+    }
+
+
+    async function loadGeneEmbedding(geneName) {
+        try {
+            const response = await fetch(`assets/genova/gene_embeddings/${geneName}_embedding.json`);
+            if (!response.ok) throw new Error('Embedding not found');
+            const text = await response.text();
+            const embedding = JSON.parse(text.trim());
+            return embedding;
+        } catch (error) {
+            console.error(`Error loading embedding for ${geneName}:`, error);
+            return null;
+        }
+    }
+
+    function parseSearchInput(input) {
+        // Handle chr:pos format
+        if (input.includes(':')) {
+            const [chrom, pos] = input.split(':');
+            return { 
+                chrom: chrom.startsWith('chr') ? chrom : `chr${chrom}`,
+                pos: parseInt(pos)
+            };
+        }
+        
+        // Handle gene name
+        return fetch(`assets/genova/fh/${input}_mygene_info.json`)
+            .then(response => response.json())
+            .then(geneInfo => {
+                const pos = geneInfo.genomic_pos;
+                const midpoint = Math.floor((pos.start + pos.end) / 2);
+                return { 
+                    chrom: pos.chr.startsWith('chr') ? pos.chr : `chr${pos.chr}`,
+                    pos: midpoint
+                };
+            });
+    }
+
+
+    function scrollToGene(geneName, genes) {
+        const genePos = window.genePositions.get(geneName);
+        if (!genePos) return;
+        
+        const geneCenterX = genePos.x + (genePos.width / 2);
+        geneContainer.position.x = -geneCenterX * geneContainer.scale.x + app.screen.width/2;
+    }
+
+    function cosineSimilarity(vecA, vecB) {
+        const dotProduct = vecA.reduce((acc, val, i) => acc + val * vecB[i], 0);
+        const magnitudeA = Math.sqrt(vecA.reduce((acc, val) => acc + val * val, 0));
+        const magnitudeB = Math.sqrt(vecB.reduce((acc, val) => acc + val * val, 0));
+        return dotProduct / (magnitudeA * magnitudeB);
+    }
+
+    async function findClosestGenes(genes, position, count = 15) {
+        const searchTerm = document.getElementById('search-term').value;
+        let queryEmbedding = null;
+        if (searchTerm) {
+            queryEmbedding = await getEmbedding(searchTerm);
+        }
+
+        const nearestGenes = genes
+            .filter(g => g.type === 'gene')
+            .map(gene => ({
+                ...gene,
+                distance: Math.abs((gene.start + gene.end) / 2 - position)
+            }))
+            .sort((a, b) => a.distance - b.distance)
+            .slice(0, count * 2);
+
+        const validGenes = (await Promise.all(
+            nearestGenes.map(async gene => {
+                const article = await loadArticle(gene.gene_name);
+                return article ? gene : null;
+            })
+        )).filter(Boolean).slice(0, count);
+
+        if (queryEmbedding) {
+            const geneEmbeddings = await Promise.all(
+                validGenes.map(async gene => {
+                    const embedding = await loadGeneEmbedding(gene.gene_name);
+                    return { gene, embedding };
+                })
+            );
+
+            return geneEmbeddings
+                .filter(({ embedding }) => embedding !== null)
+                .map(({ gene, embedding }) => ({
+                    ...gene,
+                    similarity: cosineSimilarity(queryEmbedding, embedding)
+                }))
+                .sort((a, b) => b.similarity - a.similarity);
+        }
+
+        return validGenes;
+    }
+
+    async function getEmbedding(query){
+        const response = await fetch('https://sicily-cf.barneyhill1.workers.dev', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ text: query })
+        });
+        const data = await response.json();
+        return data.embedding;
+    }
+
+    async function loadArticle(geneName) {
+        if (loadedArticles.has(geneName)) {
+            return loadedArticles.get(geneName);
+        }
+
+        try {
+            const response = await fetch(`assets/genova/fh/${geneName}.txt`);
+            if (!response.ok) throw new Error();
+            const text = await response.text();
+            if (!text.trim()) throw new Error();
+            
+            // Skip first two lines
+            const lines = text.split('\n');
+            const contentToRender = lines.slice(2).join('\n');
+            
+            const htmlContent = marked.parse(contentToRender);
+            loadedArticles.set(geneName, htmlContent);
+            return htmlContent;
+        } catch {
+            return false;
+        }
+    }
+
+    async function createGeneList(genes) {
+        const listContainer = document.querySelector('.gene-list');
+        listContainer.innerHTML = '';
+        
+        for (const gene of genes) {
+            const geneItem = document.createElement('div');
+            geneItem.className = 'gene-item';
+            
+            const header = document.createElement('div');
+            header.className = 'gene-header';
+            
+            const similarityText = gene.similarity !== undefined 
+                ? `<span class="gene-similarity">Similarity: <span style="color: ${interpolateColor(gene.similarity)}">${gene.similarity.toFixed(3)}</span></span>` 
+                : '';
+                
+            const geneColor = getGeneColor(gene.gene_name);
+            
+            header.innerHTML = `
+                <span class="gene-name" style="color: ${geneColor}">${gene.gene_name}</span>
+                <span class="gene-stats">
+                    <span class="gene-distance">${Math.floor(gene.distance).toLocaleString()} bp away,</span>
+                    ${similarityText}
+                </span>
+            `;
+            
+            const content = document.createElement('div');
+            content.className = 'gene-content';
+            content.innerHTML = '<div class="loading">Loading...</div>';
+            
+            geneItem.appendChild(header);
+            geneItem.appendChild(content);
+            
+            header.onclick = async () => {
+                const isExpanded = content.classList.contains('expanded');
+                
+                if (!isExpanded) {
+                    const [articleContent, embedding] = await Promise.all([
+                        loadArticle(gene.gene_name),
+                        loadGeneEmbedding(gene.gene_name)
+                    ]);
+                    content.innerHTML = `<div class="article-content">${articleContent}</div>`;
+                    scrollToGene(gene.gene_name, currentGenes);
+                }
+                
+                content.classList.toggle('expanded');
+            };
+            
+            listContainer.appendChild(geneItem);
+        }
+        
+        document.querySelector('.article-panel').classList.add('visible');
+    }
+
+    async function searchPosition() {
+        const searchButton = document.getElementById('search-button');
+        const searchIcon = document.getElementById('search-icon');
+        const loadingIcon = document.getElementById('loading-icon');
+        
+        searchButton.disabled = true;
+        searchIcon.style.display = 'none';
+        loadingIcon.style.display = 'block';
+        
+        try {
+            const input = document.getElementById('position').value;
+            if (!input) return;
+
+            const { chrom, pos } = await (input.includes(':') ? 
+                Promise.resolve(parseSearchInput(input)) : 
+                parseSearchInput(input));
+
+            const data = await fetch(`assets/genova/genes/gencode.v47.annotation.${chrom}.genes.json`)
+                .then(response => response.json());
+
+            const features = data.map(feature => ({
+                ...feature,
+                start: parseInt(feature.start),
+                end: parseInt(feature.end)
+            }))
+            .sort((a, b) => a.start - b.end);
+            
+            startPos = Math.min(...features.map(f => f.start));
+            endPos = Math.max(...features.map(f => f.end));
+            currentGenes = features;
+            
+            const closestGenes = await findClosestGenes(features, pos);
+            if (closestGenes.length > 0) {
+                createGeneList(closestGenes);
+            }
+            
+            displayGenes(features, startPos, endPos, pos);
+            
+            await new Promise(resolve => app.ticker.addOnce(resolve));
+
+        } catch (error) {
+            console.error('Search failed:', error);
+            alert('Invalid input or gene not found');
+        } finally {
+            searchButton.disabled = false;
+            searchIcon.style.display = 'block';
+            loadingIcon.style.display = 'none';
+        }
+    }
+
+    function onDragStart(event) {
+        isDragging = true;
+        dragStart = { x: event.clientX, y: event.clientY };
+        lastPosition = { 
+            x: geneContainer.position.x,
+            y: geneContainer.position.y 
+        };
+    }
+
+    function onDragMove(event) {
+        if (!isDragging) return;
+        geneContainer.position.x += event.clientX - dragStart.x;
+        dragStart.x = event.clientX;
+
+        updateRuler();
+    }
+
+    function onWheel(event) {
+        event.preventDefault();
+        const mouseX = event.clientX - app.view.getBoundingClientRect().left;
+        const zoomFactor = event.deltaY > 0 ? 1.1 : 0.9;
+        
+        const worldPos = (mouseX - geneContainer.position.x) / geneContainer.scale.x;
+        geneContainer.scale.x *= zoomFactor;
+        geneContainer.position.x = mouseX - worldPos * geneContainer.scale.x;
+        
+        updateTextScales();
+        updateRuler();
+    }
+
+    function onDragEnd() {
+        isDragging = false;
+    }
+
+    function updateTextScales() {
+        const ZOOM_THRESHOLD = 10;
+        const FADE_RANGE = 20; // Range over which fade occurs
+        
+        geneLabels.forEach(label => {
+            label.scale.x = 1 / geneContainer.scale.x;
+            const fadeAmount = Math.min(1, Math.max(0, (geneContainer.scale.x - ZOOM_THRESHOLD) / FADE_RANGE));
+            label.alpha = fadeAmount;
+        });
+    }
+
+
+    function assignRows(genes, minDistance = 100000) {
+        if (genes.length === 0) return [];
+        
+        let rows = [[genes[0]]];
+        genes[0].row = 0;
+        
+        for (let i = 1; i < genes.length; i++) {
+            let currentGene = genes[i];
+            let placed = false;
+            
+            for (let rowIndex = 0; rowIndex < rows.length; rowIndex++) {
+                let canFit = true;
+                for (let gene of rows[rowIndex]) {
+                    const distance = Math.max(currentGene.start, gene.start) - Math.min(currentGene.end, gene.end);
+                    if (distance < minDistance) {
+                        canFit = false;
+                        break;
+                    }
+                }
+                if (canFit) {
+                    rows[rowIndex].push(currentGene);
+                    currentGene.row = rowIndex;
+                    placed = true
+                    break;
+                }
+            }
+            
+            if (!placed) {
+                rows.push([currentGene]);
+                currentGene.row = rows.length - 1;
+            }
+        }
+        
+        return Math.max(...genes.map(g => g.row)) + 1;
+    }
+
+    function getGeneColor(geneName) {
+        const hash = [...geneName].reduce((h, c) => ((h << 5) - h + c.charCodeAt(0)) | 0, 0);
+        const hue = hash % 360;
+        return `hsl(${hue}, 50%, 50%)`;
+    }
+
+
+    async function handleGeneClick(gene) {
+        document.getElementById('position').value = gene.gene_name;
+        await searchPosition();
+        
+        // Find and expand the gene item
+        const geneItems = document.querySelectorAll('.gene-item');
+        geneItems.forEach(item => {
+            const isMatch = item.querySelector('.gene-name')?.textContent === gene.gene_name;
+            item.classList.toggle('active', isMatch);
+            if (isMatch) item.querySelector('.gene-header')?.click();
+        });
+    }
+
+    function createGeneGraphics(gene, x, y, width, exonHeight, geneHeight, exons) {
+        const geneDisplay = new PIXI.Container();
+        const color = PIXI.utils.string2hex(getGeneColor(gene.gene_name));
+        
+        // Create a Graphics object for the hit area
+        const hitArea = new PIXI.Graphics();
+        hitArea.beginFill(0xFFFFFF, 0.001)  // Nearly transparent fill, but not quite
+            .drawRect(0, -20, width, exonHeight + 40);
+        geneDisplay.addChild(hitArea);
+        
+        // Explicitly set the container's hit area
+        geneDisplay.hitArea = new PIXI.Rectangle(0, -20, width, exonHeight + 40);
+        geneDisplay.interactive = true;
+        geneDisplay.cursor = 'pointer';
+        geneDisplay.on('click', () => handleGeneClick(gene));
+        
+        // Create a container for the visible elements
+        const visibleElements = new PIXI.Container();
+        
+        // Draw base gene line
+        const geneRect = new PIXI.Graphics();
+        geneRect.beginFill(color)
+            .drawRect(0, (exonHeight - geneHeight) / 2, width, geneHeight);
+        visibleElements.addChild(geneRect);
+        
+        // Draw exons
+        exons.filter(exon => exon.gene_name === gene.gene_name)
+            .forEach(exon => {
+                const exonX = ((exon.start - gene.start) * width) / (gene.end - gene.start);
+                const exonWidth = ((exon.end - exon.start) * width) / (gene.end - gene.start);
+                
+                const exonRect = new PIXI.Graphics();
+                exonRect.beginFill(color)
+                    .drawRect(exonX, 0, exonWidth, exonHeight);
+                visibleElements.addChild(exonRect);
+            });
+
+        geneDisplay.addChild(visibleElements);
+            
+        return geneDisplay;
+    }
+
+    function displayGenes(genes, start, end, targetPos) {
+        geneContainer.removeChildren();
+        geneLabels = [];
+        
+        const exons = genes.filter(item => item.type === 'exon');
+        const geneItems = genes.filter(item => item.type === 'gene');
+        
+        const rowHeight = 65;
+        const geneHeight = 4;
+        const exonHeight = 40;
+        const labelOffset = 20;
+        
+        assignRows(geneItems);
+        window.genePositions = new Map();
+        
+        geneItems.forEach(gene => {
+            const x = ((gene.start - start) * app.screen.width) / (end - start);
+            const width = ((gene.end - gene.start) * app.screen.width) / (end - start);
+            const y = gene.row * rowHeight + 50;
+
+            window.genePositions.set(gene.gene_name, { x, width, start: gene.start, end: gene.end });
+
+            const geneDisplay = createGeneGraphics(gene, x, y, width, exonHeight, geneHeight, exons);
+            
+            const text = new PIXI.Text(gene.gene_name, {
+                fontFamily: 'Arial',
+                fontSize: 15,
+                fill: 0x000000
+            });
+            text.y = -labelOffset;
+            text.interactive = true;
+            text.cursor = 'pointer';
+            geneDisplay.addChild(text);
+            geneLabels.push(text);
+            
+            geneDisplay.x = x;
+            geneDisplay.y = y;
+            geneContainer.addChild(geneDisplay);
+        });
+
+        if (targetPos) {
+            const zoomLevel = 100;
+            geneContainer.scale.x = zoomLevel;
+            const targetPixelPos = ((targetPos - start) / (end - start)) * app.screen.width;
+            geneContainer.position.x = app.screen.width/2 - (targetPixelPos * zoomLevel);
+            updateTextScales();
+        }
+    }
+
+    function updateRuler() {
+        ruler.removeChildren();
+        
+        const scale = geneContainer.scale.x;
+        const viewStart = Math.floor(startPos - (geneContainer.position.x / scale / app.screen.width) * (endPos - startPos));
+        const viewEnd = Math.ceil(viewStart + (endPos - startPos) / scale);
+        const range = viewEnd - viewStart;
+        
+        const TICK_DENSITY = 5;
+        const orderMagnitude = Math.floor(Math.log10(Math.max(1, range / TICK_DENSITY)));
+        const baseInterval = Math.pow(10, orderMagnitude);
+        const interval = Math.max(1,
+            (range / TICK_DENSITY < baseInterval * 2) ? baseInterval : 
+            (range / TICK_DENSITY < baseInterval * 5) ? baseInterval * 2 : 
+            baseInterval * 5
+        );
+        
+        const gridLines = new PIXI.Graphics();
+        gridLines.lineStyle(1, 0xEEEEEE);
+        ruler.addChild(gridLines);
+        
+        const rulerLine = new PIXI.Graphics();
+        rulerLine.lineStyle(1, 0x000000);
+        rulerLine.moveTo(0, 0).lineTo(app.screen.width, 0);
+        ruler.addChild(rulerLine);
+        
+        const firstTick = Math.ceil(viewStart / interval) * interval;
+        const pixelsPerBase = app.screen.width / (viewEnd - viewStart);
+        
+        for (let pos = firstTick; pos < viewEnd; pos += interval) {
+            const offsetFromViewStart = pos - viewStart;
+            const x = Math.round(offsetFromViewStart * pixelsPerBase);
+            
+            gridLines.moveTo(x, 5).lineTo(x, app.screen.height);
+            rulerLine.moveTo(x, 0).lineTo(x, 5);
+            
+            let label;
+            if (interval >= 1e6) {
+                label = `${Math.floor(pos/1e6)}Mb`;
+            } else if (interval >= 1e3) {
+                label = `${Math.floor(pos/1e3)}kb`;
+            } else {
+                label = `${pos}bp`;
+            }
+            
+            const text = new PIXI.Text(label, { fontSize: 10, fill: 0x000000 });
+            text.x = x - text.width / 2;
+            text.y = 6;
+            ruler.addChild(text);
+        }
+    }
+
+    function initPixiApp() {
+        const container = document.getElementById('gene-container');
+        
+        app = new PIXI.Application({
+            resizeTo: container,
+            backgroundColor: 0xFFFFFF,
+            resolution: window.devicePixelRatio || 1,
+            antialias: true,
+            autoDensity: true,
+        });
+
+        container.appendChild(app.view);
+        
+        geneContainer = new PIXI.Container();
+        
+        ruler = new PIXI.Container();
+        ruler.y = 0;
+        app.stage.addChild(ruler);
+        
+        app.stage.addChild(geneContainer);
+
+        app.view.addEventListener('mousedown', onDragStart);
+        app.view.addEventListener('mousemove', onDragMove);
+        app.view.addEventListener('mouseup', onDragEnd);
+        app.view.addEventListener('wheel', onWheel);
+
+        const resizeObserver = new ResizeObserver(entries => {
+            for (const entry of entries) {
+                const { width, height } = entry.contentRect;
+                app.renderer.resize(width, height);
+                updateRuler();
+            }
+        });
+
+        resizeObserver.observe(container);
+    }
+
+    function toggleAbout() {
+        const modal = document.querySelector('.about-modal');
+        modal.classList.toggle('visible');
+    }
+
+    ['search-term', 'position'].forEach(id => {
+        document.getElementById(id).addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') searchPosition();
+        });
+    });
+
+
+    initPixiApp();
+    searchPosition();
+</script>
+</body>
+</html>

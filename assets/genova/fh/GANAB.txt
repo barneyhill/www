@@ -1,0 +1,50 @@
+# GANAB
+
+## Overview
+The GANAB gene encodes the glucosidase II alpha subunit (GIIα), a critical component of the glucosidase II enzyme complex, which is involved in the processing of N-linked glycoproteins within the endoplasmic reticulum. This enzyme plays a pivotal role in the N-glycan processing pathway, facilitating the proper folding and quality control of glycoproteins by trimming glucose residues from high-mannose N-glycans. The GIIα subunit, characterized by its β 8 α 8 barrel domain and C-terminal domain, interacts with the beta subunit encoded by the PRKCSH gene to form a functional enzyme complex. Additionally, GIIα is involved in calcium signaling through its interaction with the STIM1 protein. Mutations in GANAB are associated with genetic disorders such as autosomal dominant polycystic kidney disease (ADPKD) and polycystic liver disease, underscoring its significance in human physiology and disease (De2022GANAB; Delbarba2021Expanding; van2020Novel).
+
+## Structure
+The GANAB gene encodes the alpha subunit of glucosidase II (GIIα), a protein involved in the processing of N-linked glycoproteins. The GIIα subunit is composed of several domains, including a β 8 α 8 barrel domain where the active site is located, and a distal C-terminal domain that binds to the GIIβ subunit (van2020Novel). The protein's structure is crucial for its function, as mutations affecting these domains can lead to significant disruptions in enzymatic activity and protein interactions (van2020Novel).
+
+The primary structure of GIIα consists of a sequence of amino acids that form specific domains essential for its enzymatic function. The secondary structure includes alpha helices and beta sheets, which contribute to the protein's overall stability and function. The tertiary structure involves the three-dimensional folding necessary for the protein's activity and interaction with other subunits. In terms of quaternary structure, GIIα forms a complex with the GIIβ subunit, which is critical for its regulatory functions (Du2024Identification).
+
+Post-translational modifications, such as glycosylation, play a significant role in the protein's function and regulation, affecting its interaction with other proteins like STIM1 (Du2024Identification). Splice variant isoforms of GANAB may result in different functional forms of the protein, although specific details on these variants are not provided in the context.
+
+## Function
+GANAB encodes the alpha subunit of glucosidase II, an enzyme located in the endoplasmic reticulum (ER) that plays a critical role in the N-glycan processing pathway. This enzyme is involved in the initial trimming of high-mannose N-glycans, a crucial step in the maturation and quality control of glycoproteins. The trimming process ensures that only properly folded glycoproteins proceed through the secretory pathway, while misfolded ones are targeted for degradation (Hansen2020A). 
+
+In healthy human cells, GANAB is essential for maintaining cellular homeostasis and protein maturation by facilitating the proper folding of glycoproteins. The enzyme's activity involves the removal of glucose residues from N-linked glycans, which is a necessary step for the correct folding and function of glycoproteins (De2022GANAB). This process is part of the glucosylation/deglucosylation cycle, which involves ER chaperones like calnexin and calreticulin, crucial for protein folding and quality control (De2022GANAB). 
+
+The proper function of GANAB is vital for the organismal outcomes of these processes, as defects in glycosylation pathways can lead to a range of disorders, highlighting the enzyme's importance in human physiology (De2022GANAB).
+
+## Clinical Significance
+Mutations in the GANAB gene, which encodes the alpha subunit of glucosidase II, are associated with several genetic disorders, primarily affecting the kidneys and liver. GANAB mutations have been linked to autosomal dominant polycystic kidney disease (ADPKD) and autosomal dominant polycystic liver disease (ADPLD). These mutations can lead to the formation of renal and hepatic cysts due to impaired protein folding and glycoprotein processing (Delbarba2021Expanding; van2020Novel). 
+
+In ADPKD, GANAB mutations are considered a rare cause, accounting for approximately 0.3% to 3% of cases in genetically unresolved families. The disease is characterized by a mild renal phenotype, often not progressing to end-stage renal disease, and variable liver involvement (Delbarba2021Expanding; Waldrop2019GANAB). 
+
+GANAB mutations can also result in isolated polycystic liver disease (PCLD), where they may cause exon skipping and affect protein function, leading to cyst formation in the liver (Besse2018A). The presence of GANAB mutations can contribute to the severity and early onset of ADPKD, especially when combined with mutations in other genes like PKD1 (Waldrop2019GANAB).
+
+## Interactions
+The GANAB gene encodes the glucosidase II alpha subunit, which is a component of the glucosidase II enzyme complex. This complex is crucial for the processing and quality control of glycoproteins in the endoplasmic reticulum. GANAB interacts with the beta subunit of glucosidase II, encoded by the PRKCSH gene, to form a functional enzyme complex essential for enzymatic activity (van2020Novel).
+
+GANAB also interacts with the STIM1 protein, which is involved in calcium signaling. This interaction is mediated by the EF-SAM region of STIM1 and is crucial for modulating STIM1's calcium-binding affinity and activation status. The interaction involves the modification of STIM1's N-glycosylation sites, which affects its calcium affinity and activation dynamics (Du2024Identification). A specific aspartate residue at position 542 (D542) of GANAB is critical for its interaction with STIM1, as a point mutation at this site disrupts their co-localization (Du2024Identification).
+
+GANAB forms a ternary complex with PRKCSH and CLPTM1 within the ER lumen, and there is an indirect interaction between STIM1 and GPER1 mediated by GANAB and PRKCSH (Du2024Identification). These interactions highlight GANAB's role in regulating calcium signaling and glycoprotein processing.
+
+
+## References
+
+
+[1. (Hansen2020A) Lars Hansen, Diab M Husein, Birthe Gericke, Torben Hansen, Oluf Pedersen, Mitali A Tambe, Hudson H Freeze, Hassan Y Naim, Bernard Henrissat, Hans H Wandall, Henrik Clausen, and Eric P Bennett. A mutation map for human glycoside hydrolase genes. Glycobiology, 30(8):500–515, February 2020. URL: http://dx.doi.org/10.1093/glycob/cwaa010, doi:10.1093/glycob/cwaa010. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/glycob/cwaa010)
+
+2. (Du2024Identification) Identification of Glucosidase II that regulates STIM1 activation dynamics. This article has 1 citations.
+
+[3. (Delbarba2021Expanding) Elisa Delbarba, Laura Econimo, Chiara Dordoni, Eva Martin, Cinzia Mazza, Gianfranco Savoldi, Federico Alberici, Francesco Scolari, and Claudia Izzi. Expanding the variability of the adpkd-ganab clinical phenotype in a family of italian ancestry. Journal of Nephrology, 35(2):645–652, August 2021. URL: http://dx.doi.org/10.1007/s40620-021-01131-w, doi:10.1007/s40620-021-01131-w. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s40620-021-01131-w)
+
+[4. (van2020Novel) Liyanne F. M. van de Laarschot, René H. M. te Morsche, Alexander Hoischen, Hanka Venselaar, Hennie M. Roelofs, Wybrich R. Cnossen, Jesus M. Banales, Ronald Roepman, and Joost P. H. Drenth. Novel ganab variants associated with polycystic liver disease. Orphanet Journal of Rare Diseases, October 2020. URL: http://dx.doi.org/10.1186/s13023-020-01585-4, doi:10.1186/s13023-020-01585-4. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13023-020-01585-4)
+
+[5. (Besse2018A) Whitney Besse, Jungmin Choi, Dina Ahram, Shrikant Mane, Simone Sanna-Cherchi, Vicente Torres, and Stefan Somlo. A noncoding variant in ganab explains isolated polycystic liver disease (pcld) in a large family. Human Mutation, 39(3):378–382, January 2018. URL: http://dx.doi.org/10.1002/humu.23383, doi:10.1002/humu.23383. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.23383)
+
+[6. (Waldrop2019GANAB) Elizabeth Waldrop, Mohammed A. I. Al-Obaide, and Tetyana L. Vasylyeva. Ganab and pkd1 variations in a 12 years old female patient with early onset of autosomal dominant polycystic kidney disease. Frontiers in Genetics, February 2019. URL: http://dx.doi.org/10.3389/fgene.2019.00044, doi:10.3389/fgene.2019.00044. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2019.00044)
+
+[7. (De2022GANAB) Roberto De Masi and Stefania Orlando. Ganab and n-glycans substrates are relevant in human physiology, polycystic pathology and multiple sclerosis: a review. International Journal of Molecular Sciences, 23(13):7373, July 2022. URL: http://dx.doi.org/10.3390/ijms23137373, doi:10.3390/ijms23137373. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms23137373)

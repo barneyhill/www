@@ -1,0 +1,33 @@
+# SIMC1
+
+## Overview
+SIMC1, or SUMO interacting motifs containing 1, is a human gene that encodes a protein involved in various cellular processes, particularly those related to antiviral responses and muscle function. The SIMC1 protein is characterized by its modular structure, which includes tandem SUMO interaction motifs (SIMs) and an Nse5-like α-solenoid structure. These features enable SIMC1 to interact with other proteins, such as SLF2, forming complexes that are crucial for the recruitment of the SMC5/6 complex to viral replication centers. This interaction is significant in the context of viral infections, as it aids in the cellular response to viral replication. Additionally, SIMC1 plays a role in moderating the activity of CAPN3, a calpain involved in muscle function, suggesting its involvement in muscle structure and function. Despite its known interactions and roles, the full spectrum of SIMC1's functions, particularly in healthy human cells, remains to be fully elucidated (Zhang2018Human; Ono2016An; Oravcová2022The).
+
+## Structure
+The SIMC1 protein is characterized by a modular structure, featuring tandem SUMO interaction motifs (SIMs) within a large N-terminal intrinsically disordered region (IDR) and a predicted alpha-helical rich C-terminal region (Oravcová2022The). The protein forms an Nse5-like α-solenoid structure with 17 α-helices, similar to the structure of S. cerevisiae Nse5 (Oravcová2022The). The C-terminal region of SIMC1, consisting of α15-α17, was initially thought not to be conserved in yeast, but structural analysis revealed these helices, allowing for a comprehensive superimposition with yeast Nse5/6 (Oravcová2022The).
+
+The SIMC1 protein forms a complex with SLF2, adopting an ellipsoid shape with the α-solenoids facing each other in a head-to-tail fashion, resembling the Nse5/6 structure (Oravcová2022The). The N-terminal region of SIMC1 adopts an extended conformation, with a loop-like structure that inserts into a cleft between SIMC1 and SLF2, contributing significantly to the interface, which is highly charged and facilitates electrostatic interactions (Oravcová2022The).
+
+SIMC1 is involved in post-translational modifications through its SUMO interaction motifs, which are crucial for its function in localizing the SMC5/6 complex to viral replication centers (Oravcová2022The). The protein's structure and interactions suggest its role as an Nse5-like regulator of the human SMC5/6 complex, involved in antiviral responses (Oravcová2022The).
+
+## Function
+SIMC1, also known as PLEIAD or C5orf25, is a poly-SUMO interacting protein that plays a significant role in moderating the protease activity and autolysis of CAPN3, a calpain involved in muscle function. SIMC1 is primarily located in the cytosol but can also be found in the sarcomeric I-band, indicating its involvement in muscle structure and function (Ono2016An). The C-terminal region of SIMC1 is conserved across vertebrates and is responsible for suppressing CAPN3 activity, while its N-terminal region interacts with the transcriptional regulator CTBP1, a substrate for calpains including CAPN3. This suggests that SIMC1 may act as a scaffold for proteolysis by CAPN3, although its precise physiological functions in healthy human cells require further investigation (Ono2016An).
+
+SIMC1 is also implicated in the inhibition of autolytic degradation, although its specific relationship with processes such as HPV infection remains unclear and warrants further study (Zhang2018Human). Despite its interactions with SUMO proteins, the detailed functions of SIMC1 in healthy human cells, particularly in the context of DNA repair, transcriptional regulation, and cell cycle control, are not fully elucidated in the available literature.
+
+## Interactions
+SIMC1, a protein encoded by the human gene SIMC1, is involved in several protein-protein interactions, primarily through its SUMO-interacting motifs (SIMs). It plays a crucial role in recruiting the SMC5/6 complex to viral replication centers, particularly those induced by the SV40 large T antigen. SIMC1 interacts with components of the SUMO pathway, including PML, SUMO2/3, and ZNF451, facilitating the localization of SMC5/6 to these sites (Oravcová2022The). 
+
+SIMC1 forms a complex with SLF2, resembling the Nse5/6 complex found in other species. This interaction is mediated through their respective Nse5- and Nse6-like domains, forming a stable heterodimeric complex that regulates the localization of SMC5/6 to viral replication centers (Oravcová2022The). The SIMC1-SLF2 complex is characterized by electrostatic interactions, and mutations in key residues can disrupt this interaction, highlighting the importance of the Nse5-like domain in SMC5/6 recruitment (Oravcová2022The).
+
+SIMC1 also interacts with the poly-SUMO2 ligase ZNF451, which may help generate SUMO2 chains recognized by SIMC1's SIM motifs, further facilitating the recruitment of SMC5/6 to PML nuclear bodies (Oravcová2022The). These interactions underscore SIMC1's role in antiviral functions and DNA repair processes.
+
+
+## References
+
+
+[1. (Zhang2018Human) Boya Zhang, Xianzhen Chen, Qiang Zhou, Yinjing Song, Siyuan Sun, and Hao Cheng. Human gene expression microarray analysis of the hpv 6be7-hacat stable cell line. Gene, 657:60–68, May 2018. URL: http://dx.doi.org/10.1016/j.gene.2018.02.067, doi:10.1016/j.gene.2018.02.067. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.gene.2018.02.067)
+
+[2. (Ono2016An) Yasuko Ono, Koichi Ojima, Fumiko Shinkai-Ouchi, Shoji Hata, and Hiroyuki Sorimachi. An eccentric calpain, capn3/p94/calpain-3. Biochimie, 122:169–187, March 2016. URL: http://dx.doi.org/10.1016/j.biochi.2015.09.010, doi:10.1016/j.biochi.2015.09.010. This article has 75 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.biochi.2015.09.010)
+
+[3. (Oravcová2022The) Martina Oravcová, Minghua Nie, Nicola Zilio, Shintaro Maeda, Yasaman Jami-Alahmadi, Eros Lazzerini-Denchi, James A Wohlschlegel, Helle D Ulrich, Takanori Otomo, and Michael N Boddy. The nse5/6-like simc1-slf2 complex localizes smc5/6 to viral replication centers. eLife, November 2022. URL: http://dx.doi.org/10.7554/eLife.79676, doi:10.7554/elife.79676. This article has 17 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/eLife.79676)

@@ -1,0 +1,52 @@
+# TCF7L1
+
+## Overview
+TCF7L1 is a gene that encodes the transcription factor 7 like 1, a member of the TCF/LEF family of transcription factors. This protein plays a pivotal role in the Wnt/β-catenin signaling pathway, primarily functioning as a transcriptional repressor. The transcription factor 7 like 1 is characterized by a high-mobility group (HMG) DNA-binding domain, which facilitates its interaction with specific DNA sequences and other proteins, such as β-catenin and corepressors like Groucho/TLE. Through these interactions, TCF7L1 regulates the expression of Wnt target genes, influencing various biological processes, including embryonic development, stem cell differentiation, and carcinogenesis. The gene's expression and function are tightly regulated by post-translational modifications, such as phosphorylation and ubiquitination, which affect its stability and activity. Alterations in TCF7L1 expression have been linked to several cancers, where it may act as either a tumor suppressor or promoter, depending on the context (Shan2019Tcf7l1; Koo2023RNF2; Cadigan2012TCFLEFs).
+
+## Structure
+TCF7L1, a member of the TCF/LEF transcription factor family, is characterized by a highly conserved high-mobility group (HMG) DNA-binding domain. This domain includes an HMG box responsible for recognizing specific DNA sequences and bending the DNA helix, and a basic tail that enhances DNA-binding affinity and acts as a nuclear localization signal (Cadigan2012TCFLEFs). TCF7L1 undergoes alternative splicing, resulting in isoforms with different C-terminal tails. These isoforms lack C-clamp sequences, which are auxiliary DNA-binding domains, potentially affecting DNA-binding capabilities (Hoppler2014Evolutionary).
+
+The C-terminus of TCF7L1 contains conserved peptide sequences (PLSLxxK) that serve as binding sites for the transcriptional coregulator CtBP, involved in Wnt target gene regulation (Hoppler2014Evolutionary). TCF7L1 is known for mediating strong transcriptional repression, particularly at intermediate levels of nuclear β-catenin, and its DNA binding is regulated by phosphorylation (Hoppler2014Evolutionary). The protein does not produce short N-terminal isoforms, which are constitutive repressors in other TCF/LEF family members (Hoppler2014Evolutionary). TCF7L1's interaction with β-catenin leads to its degradation rather than forming a transactivation complex, a mechanism distinct from other TCF/LEF proteins (Shy2013Regulation).
+
+## Function
+TCF7L1 is a transcription factor that plays a critical role in the Wnt signaling pathway, acting primarily as a repressor of Wnt target genes. In healthy human cells, TCF7L1 binds to DNA in the nucleus and interacts with nuclear basal β-catenin to prevent the expression of Wnt target genes, thereby maintaining appropriate cellular responses to Wnt activation (Koo2023RNF2). This regulation is crucial for normal development, as excessive TCF7L1 can lead to abnormal responses to Wnt cues (Koo2023RNF2).
+
+TCF7L1 is subject to post-translational modifications, such as phosphorylation and ubiquitination, which regulate its stability and degradation. RNF2, an E3 ligase, ubiquitinates TCF7L1, leading to its degradation and modulating Wnt/β-catenin signaling (Koo2023RNF2). This process ensures that TCF7L1 levels remain low when the Wnt pathway is inactive, preventing the transcription of Wnt target genes (Koo2023RNF2).
+
+In embryonic development, TCF7L1 is involved in axis induction and mediates specific responses during mesoderm development, highlighting its importance in embryogenesis (Koo2023RNF2). Its role as a transcriptional repressor in the Wnt signaling pathway is essential for processes such as stem cell differentiation and may also influence carcinogenesis (Koo2023RNF2).
+
+## Clinical Significance
+Alterations in the expression and function of the TCF7L1 gene have been implicated in various cancers. In breast cancer, particularly poorly differentiated tumors of the basal subtype, TCF7L1 mRNA is highly expressed, but this does not lead to increased protein levels due to β-catenin-mediated degradation. This suggests a significant role for TCF7L1 in cancer progression through its interaction with the Wnt/β-catenin signaling pathway (Shy2013Regulation).
+
+In liver cancer, specifically hepatocellular carcinoma (HCC), TCF7L1 is expressed at low levels in cancerous tissues compared to normal tissues. This low expression is associated with poor patient outcomes, indicating that TCF7L1 may act as a tumor suppressor by inhibiting the self-renewal of liver cancer stem cells through the IGF/MEK/ERK signaling pathway, independent of β-catenin (Shan2019Tcf7l1).
+
+In gastric cancer, higher expression of TCF7L1 correlates with poorer survival outcomes. TCF7L1 promotes cancer cell proliferation by regulating aerobic glycolysis and antioxidant responses through the Keap1/NRF2 pathway, highlighting its role in cancer metabolism and progression (Zhang2019TCF7L1).
+
+In colorectal cancer, TCF7L1 enhances cell migration and invasion by repressing the expression of the tumor suppressor gene GAS1, contributing to cancer cell dynamics and progression (King2024TCF7L1).
+
+## Interactions
+TCF7L1, a member of the TCF/LEF family of transcription factors, interacts with several proteins and nucleic acids, playing a crucial role in the Wnt/β-catenin signaling pathway. TCF7L1 binds to β-catenin through a conserved motif in its amino terminus, which is essential for mediating Wnt signaling. This interaction is central to the regulation of gene expression, as β-catenin translocates to the nucleus upon Wnt signaling and partners with TCF7L1 to regulate target genes (Cadigan2012TCFLEFs).
+
+TCF7L1 also interacts with corepressors such as the Groucho/transducin-like enhancer of split (Gro/TLE) family, which repress gene transcription in the absence of β-catenin. These corepressors bind to a conserved glutamine-rich Q domain in TCF7L1, highlighting its role as a transcriptional repressor (Cadigan2012TCFLEFs). In colorectal cancer, TCF7L1 interacts with the corepressor CtBP through PXDLS motifs, contributing to its function as a transcriptional repressor (King2024TCF7L1).
+
+In mouse embryonic stem cells, TCF7L1 interacts with casein kinase 2 (Csnk2), which phosphorylates TCF7L1, leading to its degradation. This interaction is enhanced by the Wnt/β-catenin signaling pathway, indicating a mechanism for regulating TCF7L1 protein stability (Zhang2020βcatenin).
+
+
+## References
+
+
+[1. (Zhang2020βcatenin) Yan Zhang, Zhenhua Zhu, Huiwen Ding, Shengpeng Wan, Xinbao Zhang, Yuting Li, Junxiang Ji, Xin Wang, Meng Zhang, and Shou-Dong Ye. Β-catenin stimulates tcf7l1 degradation through recruitment of casein kinase 2 in mouse embryonic stem cells. Biochemical and Biophysical Research Communications, 524(2):280–287, April 2020. URL: http://dx.doi.org/10.1016/j.bbrc.2020.01.074, doi:10.1016/j.bbrc.2020.01.074. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2020.01.074)
+
+[2. (Hoppler2014Evolutionary) Stefan Hoppler and Marian L. Waterman. Evolutionary diversification of vertebrate tcf/lef structure, function, and regulation. March 2014. URL: http://dx.doi.org/10.1002/9781118444122.ch17, doi:10.1002/9781118444122.ch17. This article has 10 citations.](https://doi.org/10.1002/9781118444122.ch17)
+
+[3. (Koo2023RNF2) Youngmu Koo, Wonhee Han, Byeong-Rak Keum, Leila Lutz, Sung Ho Yun, Gun-Hwa Kim, and Jin-Kwan Han. Rnf2 regulates wnt/ß-catenin signaling via tcf7l1 destabilization. Scientific Reports, November 2023. URL: http://dx.doi.org/10.1038/s41598-023-47111-x, doi:10.1038/s41598-023-47111-x. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-023-47111-x)
+
+[4. (Cadigan2012TCFLEFs) K. M. Cadigan and M. L. Waterman. Tcf/lefs and wnt signaling in the nucleus. Cold Spring Harbor Perspectives in Biology, 4(11):a007906–a007906, September 2012. URL: http://dx.doi.org/10.1101/cshperspect.a007906, doi:10.1101/cshperspect.a007906. This article has 558 citations and is from a peer-reviewed journal.](https://doi.org/10.1101/cshperspect.a007906)
+
+[5. (Zhang2019TCF7L1) Beili Zhang, Jugang Wu, Yantao Cai, Meng Luo, Bing Wang, and Yan Gu. Tcf7l1 indicates prognosis and promotes proliferation through activation of keap1/nrf2 in gastric cancer. Acta Biochimica et Biophysica Sinica, 51(4):375–385, February 2019. URL: http://dx.doi.org/10.1093/abbs/gmz015, doi:10.1093/abbs/gmz015. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/abbs/gmz015)
+
+[6. (Shy2013Regulation) Brian R. Shy, Chun-I. Wu, Galina F. Khramtsova, Jenny Y. Zhang, Olufunmilayo I. Olopade, Kathleen H. Goss, and Bradley J. Merrill. Regulation of tcf7l1 dna binding and protein stability as principal mechanisms of wnt/β-catenin signaling. Cell Reports, 4(1):1–9, July 2013. URL: http://dx.doi.org/10.1016/j.celrep.2013.06.001, doi:10.1016/j.celrep.2013.06.001. This article has 98 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2013.06.001)
+
+[7. (Shan2019Tcf7l1) Juanjuan Shan, Junjie Shen, Min Wu, Haijun Zhou, Juan Feng, Chao Yao, Zhi Yang, Qinghua Ma, Yanfeng Luo, Yuanliang Wang, and Cheng Qian. Tcf7l1 acts as a suppressor for the self-renewal of liver cancer stem cells and is regulated by igf/mek/erk signaling independent of β-catenin. Stem Cells, 37(11):1389–1400, August 2019. URL: http://dx.doi.org/10.1002/stem.3063, doi:10.1002/stem.3063. This article has 14 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1002/stem.3063)
+
+[8. (King2024TCF7L1) Carli M. King, Wei Ding, Melanie A. Eshelman, and Gregory S. Yochum. Tcf7l1 regulates colorectal cancer cell migration by repressing gas1 expression. Scientific Reports, May 2024. URL: http://dx.doi.org/10.1038/s41598-024-63346-8, doi:10.1038/s41598-024-63346-8. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-63346-8)

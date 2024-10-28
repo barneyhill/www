@@ -1,0 +1,39 @@
+# CCM2L
+
+## Overview
+CCM2L is a gene that encodes the CCM2-like scaffold protein, which plays a critical role in cardiovascular development and endothelial cell function. The protein is categorized as a scaffold protein due to its ability to facilitate interactions between other proteins, particularly within the Heg-CCM signaling pathway, which is essential for maintaining vascular homeostasis and endothelial cell junctions (Rosen2013ccm2like; Su2020Signalling). Unlike its paralogue CCM2, CCM2L does not bind to CCM3, indicating a distinct role in the signaling pathway. It is involved in cytoskeletal remodeling, cell-cell junction formation, and angiogenesis, contributing to the stability of the blood-brain barrier and overall vascular integrity (Fischer2013Cerebral). Mutations or disruptions in the CCM2L gene are linked to cardiovascular defects and cerebral cavernous malformations, highlighting its clinical significance in cardiovascular and cerebrovascular health (Draheim2014Cerebral; Rosen2013ccm2like).
+
+## Function
+CCM2L, a paralogue of CCM2, plays a significant role in cardiovascular development and endothelial cell function. It is involved in the Heg-CCM pathway, which is crucial for normal cardiovascular development. CCM2L functions as a scaffold protein, facilitating interactions between other proteins in the cell, particularly in maintaining endothelial cell junctions and contributing to vascular homeostasis (Rosen2013ccm2like; Su2020Signalling).
+
+CCM2L is active in the cytoplasm and is associated with maintaining the stability of the blood-brain barrier. It competes with CCM2 for binding to KRIT1 and MEKK3, although it cannot bind to CCM3, suggesting complementary roles in CCM signaling (Su2020Signalling). The protein's involvement in endothelial cell functions includes cytoskeletal remodeling, cell-cell junction formation, and angiogenesis, which are essential for vascular integrity (Fischer2013Cerebral).
+
+In zebrafish and mice, CCM2L deficiency leads to cardiovascular defects, such as perturbed circulation and heart morphology changes, indicating its role in stabilizing angiogenesis and maintaining normal heart function (Rosen2013ccm2like; Su2020Signalling). These findings highlight CCM2L's importance in cardiovascular development and endothelial cell homeostasis.
+
+## Clinical Significance
+Mutations or alterations in the CCM2L gene are associated with cardiovascular defects, particularly in the context of the Heart of Glass-Cerebral Cavernous Malformation (Heg-CCM) pathway. Disruption of CCM2L in zebrafish models leads to heart defects such as dilation of the atrium and inflow tract, although these are less severe than those caused by mutations in other pathway components like CCM1, CCM2, or HEG (Rosen2013ccm2like). In mouse models, the absence of CCM2L exacerbates cardiac defects in embryos with compromised Heg-CCM pathways, although this can be mitigated by reducing CCM2 levels (Rosen2013ccm2like).
+
+CCM2L is also implicated in cerebral cavernous malformations (CCM), a condition characterized by abnormal blood vessel formations in the brain and spinal cord. The human homolog of CCM2L, C20ORF160, may have relevance to CCM disease, which is associated with mutations in CCM1, CCM2, and CCM3 genes (Rosen2013ccm2like). CCM2L competes with CCM2 for binding to KRIT1, affecting junctional stability, which may influence the development of CCM lesions (Draheim2014Cerebral). These findings suggest that alterations in CCM2L expression or its interactions with other proteins could potentially impact cardiovascular and cerebrovascular development.
+
+## Interactions
+CCM2L, a paralogue of CCM2, participates in several protein interactions that are crucial for its role in cellular signaling. It directly binds to KRIT1 (CCM1) and MEKK3, using its phosphotyrosine binding (PTB) domain for KRIT1 and its harmonin homology domain (HHD) for MEKK3. This binding inhibits MEKK3's activation, thereby reducing its ability to phosphorylate MEK5, which is necessary for activating ERK5. This interaction is significant in the MEKK3-MEK5-ERK5 pathway, which is involved in the activation of KLF2 expression, a process important for cardiovascular development (Donat2018Heg1; Su2020Signalling).
+
+CCM2L also acts as a competitive inhibitor by sequestering KRIT1, which inhibits CCM2-mediated junctional stability. However, unlike CCM2, CCM2L does not bind to CCM3, indicating a distinct role in the CCM signaling pathway (Fisher2013Signaling; Padarti2018Recent). Despite these interactions, CCM2L deficiency results in phenotypes that differ from those observed with CCM2 deficiency, such as increased lumen formation in endothelial cells, suggesting a unique role in stabilizing angiogenesis (Su2020Signalling).
+
+
+## References
+
+
+[1. (Rosen2013ccm2like) Jonathan N. Rosen, Vanessa M. Sogah, Lillian Y. Ye, and John D. Mably. Ccm2-like is required for cardiovascular development as a novel component of the heg-ccm pathway. Developmental Biology, 376(1):74–85, April 2013. URL: http://dx.doi.org/10.1016/j.ydbio.2013.01.006, doi:10.1016/j.ydbio.2013.01.006. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ydbio.2013.01.006)
+
+[2. (Donat2018Heg1) Stefan Donat, Marta Lourenço, Alessio Paolini, Cécile Otten, Marc Renz, and Salim Abdelilah-Seyfried. Heg1 and ccm1/2 proteins control endocardial mechanosensitivity during zebrafish valvulogenesis. eLife, February 2018. URL: http://dx.doi.org/10.7554/elife.28939, doi:10.7554/elife.28939. This article has 47 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.28939)
+
+[3. (Draheim2014Cerebral) Kyle M. Draheim, Oriana S. Fisher, Titus J. Boggon, and David A. Calderwood. Cerebral cavernous malformation proteins at a glance. Journal of Cell Science, January 2014. URL: http://dx.doi.org/10.1242/jcs.138388, doi:10.1242/jcs.138388. This article has 64 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.138388)
+
+[4. (Fisher2013Signaling) Oriana S. Fisher and Titus J. Boggon. Signaling pathways and the cerebral cavernous malformations proteins: lessons from structural biology. Cellular and Molecular Life Sciences, 71(10):1881–1892, November 2013. URL: http://dx.doi.org/10.1007/s00018-013-1532-9, doi:10.1007/s00018-013-1532-9. This article has 63 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-013-1532-9)
+
+[5. (Padarti2018Recent) Akhil Padarti and Jun Zhang. Recent advances in cerebral cavernous malformation research. Vessel Plus, 2(8):21, August 2018. URL: http://dx.doi.org/10.20517/2574-1209.2018.34, doi:10.20517/2574-1209.2018.34. This article has 53 citations.](https://doi.org/10.20517/2574-1209.2018.34)
+
+[6. (Fischer2013Cerebral) Andreas Fischer, Juan Zalvide, Eva Faurobert, Corinne Albiges-Rizo, and Elisabeth Tournier-Lasserve. Cerebral cavernous malformations: from ccm genes to endothelial cell homeostasis. Trends in Molecular Medicine, 19(5):302–308, May 2013. URL: http://dx.doi.org/10.1016/j.molmed.2013.02.004, doi:10.1016/j.molmed.2013.02.004. This article has 154 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.molmed.2013.02.004)
+
+[7. (Su2020Signalling) Valerie L. Su and David A. Calderwood. Signalling through cerebral cavernous malformation protein networks. Open Biology, November 2020. URL: http://dx.doi.org/10.1098/rsob.200263, doi:10.1098/rsob.200263. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1098/rsob.200263)

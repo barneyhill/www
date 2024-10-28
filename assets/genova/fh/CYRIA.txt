@@ -1,0 +1,33 @@
+# CYRIA
+
+## Overview
+CYRIA is a gene that encodes the protein CYFIP-related Rac1 interactor A, which plays a pivotal role in the regulation of actin cytoskeleton dynamics. The protein is characterized by its interaction with the small GTPase RAC1, facilitated through a Domain of Unknown Function (DUF) 1394, which is also found in CYFIP proteins. This interaction is crucial for modulating the activity of the Scar/WAVE complex, thereby influencing cell migration and morphology. CYRIA acts as a local inhibitor of actin polymerization by competing with the Scar/WAVE complex for RAC1 binding, thus regulating processes such as macropinocytic cup maturation and integrin uptake. The protein's structural features, including an N-terminal amphipathic α-helix and myristoylation at the N-terminal glycine, suggest its association with the plasma membrane, where it exerts its regulatory functions (Fort2018Fam49CYRI; Le2020CYRIA; Singh2023Regulation).
+
+## Structure
+CYRIA, encoded by the CYRIA gene, is a protein that interacts with the small GTPase RAC1, playing a crucial role in actin cytoskeleton dynamics. The molecular structure of CYRIA includes a predicted 3D fold composed of an N-terminal amphipathic α-helix connected to a Domain of Unknown Function (DUF) 1394 via a flexible linker (Le2020CYRIA). This domain is shared with CYFIP proteins and is identified as a Rac1-binding module, crucial for its interaction with active RAC1 (Fort2018Fam49CYRI). CYRIA is myristoylated at the N-terminal glycine-2, which suggests its association with the plasma membrane where it can interact with RAC1 (Fort2018Fam49CYRI). 
+
+CYRIA and its paralog CYRI-B share an 80% sequence identity, including the myristoylation site, which is important for membrane association and function (Le2020CYRIA). The protein's structure is important for its role in regulating macropinocytic cup maturation and integrin uptake, processes that are critical for cell migration and invasion (Le2020CYRIA). The structural similarities with CYFIP highlight its role as a local inhibitor of actin polymerization, influencing cell migration and chemotaxis (Fort2018Fam49CYRI).
+
+## Function
+CYRIA, also known as FAM49A, is a protein that plays a critical role in regulating the Scar/WAVE complex in mammalian cells. It contains a DUF1394 domain, which is homologous to the DUF1394 domain of the CYFIP subunit of the Scar/WAVE complex. This domain includes a Rac1 binding site, allowing CYRIA to interact with active Rac1. CYRIA competes with the Scar/WAVE complex for Rac1 binding, acting as a buffering agent that restricts the activation of Scar/WAVE at the leading edge of migrating cells. In CYRIA knockout cells, there is an increased spread and formation of large lamellipodia, which correlates with the hyperaccumulation of Scar/WAVE in these structures. This suggests that CYRIA functions as a localized negative regulator of Scar/WAVE, preventing its hyperactivation by Rac1. By modulating the activity of the Scar/WAVE complex, CYRIA plays a significant role in cell migration and the formation of actin-based protrusions, which are essential for various cellular processes, including cell movement and morphology (Singh2023Regulation). CYRIA is not part of the WAVE regulatory complex but can disrupt the Rac1-WAVE regulatory complex, indicating its potential role in detecting Rac1 activity (Mahlandt2022Cellbased).
+
+## Interactions
+CYRIA, encoded by the FAM49A gene, interacts with Rac1, a small GTPase involved in actin cytoskeleton regulation. This interaction is mediated through the DUF1394 domain, which is a Rac1-binding module shared with CYFIP, a component of the Scar/WAVE complex. CYRIA competes with the Scar/WAVE complex for Rac1 binding, acting as a local inhibitor of Rac1-mediated activation of the Scar/WAVE complex. This competition is crucial for regulating actin polymerization and cellular dynamics, affecting processes such as cell migration and polarity (Yelland2021Structural; Fort2018Fam49CYRI; Singh2023Regulation).
+
+CYRIA is recruited to macropinocytic cups, where it suppresses active Rac1 activity, influencing actin dynamics and integrin trafficking. This recruitment is dependent on PI3K-PIP3 signaling, which activates Rac1 and drives actin polymerization. CYRIA's role in integrin uptake is significant for limiting invasive migration, as it mediates the internalization and trafficking of integrins, such as α5β1, thereby influencing cell adhesion and migration (Le2020CYRIA).
+
+CYRIA's interaction with Rac1 and its regulatory effects on the Scar/WAVE complex highlight its role as a conserved regulator of actin-based protrusions, with implications for cellular processes like chemotaxis and epithelial polarization (Fort2018Fam49CYRI).
+
+
+## References
+
+
+1. (Mahlandt2022Cellbased) Cell-based optimisation and characterisation of genetically encoded, location-based biosensors for Cdc42 or Rac activity. This article has 1 citations.
+
+[2. (Yelland2021Structural) Tamas Yelland, Anh Hoang Le, Savvas Nikolaou, Robert Insall, Laura Machesky, and Shehab Ismail. Structural basis of cyri-b direct competition with scar/wave complex for rac1. Structure, 29(3):226-237.e4, March 2021. URL: http://dx.doi.org/10.1016/j.str.2020.11.003, doi:10.1016/j.str.2020.11.003. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.str.2020.11.003)
+
+[3. (Fort2018Fam49CYRI) Loic Fort, José Miguel Batista, Peter A. Thomason, Heather J. Spence, Jamie A. Whitelaw, Luke Tweedy, Jennifer Greaves, Kirsty J. Martin, Kurt I. Anderson, Peter Brown, Sergio Lilla, Matthew P. Neilson, Petra Tafelmeyer, Sara Zanivan, Shehab Ismail, David M. Bryant, Nicholas C. O. Tomkinson, Luke H. Chamberlain, Grant S. Mastick, Robert H. Insall, and Laura M. Machesky. Fam49/cyri interacts with rac1 and locally suppresses protrusions. Nature Cell Biology, 20(10):1159–1171, September 2018. URL: http://dx.doi.org/10.1038/s41556-018-0198-9, doi:10.1038/s41556-018-0198-9. This article has 65 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41556-018-0198-9)
+
+4. (Le2020CYRIA) CYRI-A regulates macropinocytic cup maturation and mediates integrin uptake, limiting invasive migration. This article has 1 citations.
+
+[5. (Singh2023Regulation) Shashi Prakash Singh. Regulation of the scar/wave complex in migrating cells: a summary of our understanding. Journal of Biosciences, May 2023. URL: http://dx.doi.org/10.1007/s12038-023-00341-7, doi:10.1007/s12038-023-00341-7. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12038-023-00341-7)

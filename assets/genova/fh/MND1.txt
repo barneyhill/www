@@ -1,0 +1,60 @@
+# MND1
+
+## Overview
+The MND1 gene encodes the meiotic nuclear divisions 1 protein, which plays a pivotal role in homologous recombination, a critical process for DNA repair and meiotic recombination. The MND1 protein is characterized by its coiled-coil domain and forms a heterodimeric complex with the HOP2 protein, which is essential for its function. This complex is crucial for the stimulation of recombinase activities of RAD51 and DMC1, facilitating the capture of duplex DNA necessary for synaptic complex formation during meiosis (Zhao2013Mechanistic; Tsubouchi2002The). The MND1-HOP2 complex is conserved across various species, including yeasts, plants, and mammals, underscoring its fundamental role in meiotic recombination (Vignard2007The). Additionally, alterations in MND1 expression have been linked to several cancers, highlighting its potential as a prognostic biomarker and therapeutic target (Tan2022Meiotic; Wei2021Genetic).
+
+## Structure
+The MND1 protein is characterized by a coiled-coil domain, which is crucial for its interaction with the HOP2 protein, forming a heterodimeric complex essential for meiotic homologous recombination (Zhao2013Mechanistic; Tsubouchi2002The). The coiled-coil region is located in the carboxy-terminal two-thirds of the protein, with a high probability of this structure occurring between amino acids 85 to 190, although there is an interruption from amino acids 115 to 125 (Tsubouchi2002The). 
+
+The MND1 protein, when complexed with HOP2, exhibits a parallel orientation and flexible conformations, as revealed by cross-linking mass spectrometry (XL-MS) studies (Rampler2015Comprehensive). The complex is described as having an elongated, open structure, with the coiled-coil domains being the primary regions of interaction (Rampler2015Comprehensive). 
+
+In terms of quaternary structure, the MND1 protein forms a 1:1 stoichiometric complex with HOP2, which is necessary for its function in DNA binding and homologous recombination (Chen2004Heterodimeric). The complex has been shown to have a V-shaped structure with distinct DNA binding domains, which are critical for its role in meiotic DNA repair processes (Zhao2013Mechanistic).
+
+## Function
+The MND1 gene encodes a protein that plays a crucial role in homologous recombination (HR), a key process in DNA repair and meiotic recombination. In healthy human cells, MND1 forms a heterodimeric complex with HOP2, which is essential for the stimulation of the recombinase activity of RAD51 and DMC1. This complex stabilizes the RAD51-single-stranded DNA nucleoprotein filament, facilitating the capture of duplex DNA necessary for synaptic complex formation, a critical step in HR (Bugreev2014HOP2MND1; Chi2007Bipartite).
+
+MND1 is involved in the localization of RAD51 to sites of DNA damage, which is essential for effective HR-mediated DNA repair. In the absence of MND1, cells exhibit defects in RAD51 function, leading to an accumulation of DNA damage and affecting cell cycle progression, particularly causing cells to remain in the G2 phase (Zelceski2022MND1). The MND1-HOP2 complex also promotes D-loop formation and strand exchange, which are critical steps in HR, by inducing conformational changes in RAD51 that enhance its binding to nucleotide cofactors and DNA (Tsubouchi2023The).
+
+MND1 is active in the nucleus during meiosis, particularly in germ cells, where it ensures proper chromosome segregation and genetic stability (Tsubouchi2002The).
+
+## Clinical Significance
+Alterations in the expression of the MND1 gene have been implicated in various cancers, notably lung adenocarcinoma (LUAD) and hepatocellular carcinoma (HCC). In LUAD, MND1 is significantly upregulated, and its high expression is associated with advanced disease stages and poorer overall survival. It is considered an independent risk factor for poor prognosis, as it promotes cell proliferation, migration, and invasion, while its silencing increases apoptosis and inhibits tumor growth (Zhang2021Meiotic; Wei2021Genetic). MND1 is involved in the p53 signaling pathway and interacts with E2F1, forming a positive feedback loop that influences cell cycle progression, particularly the G1/S transition (Zhang2021Meiotic; Wei2021Genetic).
+
+In HCC, MND1 is also overexpressed and linked to tumor progression. Knockdown experiments have shown that reducing MND1 expression decreases cell proliferation, migration, and invasion, suggesting its role in cancer metastasis (Tan2022Meiotic). High MND1 expression correlates with poorer overall and relapse-free survival in HCC patients, indicating its potential as a prognostic biomarker and therapeutic target (Tan2022Meiotic). These findings underscore the clinical significance of MND1 in cancer prognosis and therapy.
+
+## Interactions
+The MND1 protein forms a heterodimeric complex with HOP2, which is crucial for its function in meiotic recombination. This complex interacts with the recombinases RAD51 and DMC1, enhancing their activity during homologous chromosome pairing and strand assimilation. The Hop2-Mnd1 complex stabilizes the RAD51-single-stranded DNA (ssDNA) nucleoprotein filament, promoting the capture of duplex DNA, a necessary step for forming the synaptic complex essential for DNA joint formation (Chi2007Bipartite; Pezza2007Hop2Mnd1).
+
+The Hop2-Mnd1 complex also binds to both single-stranded and double-stranded DNA, with a preference for double-stranded DNA. This DNA-binding ability is primarily attributed to the Hop2 subunit, while Mnd1 contributes minimally. Mnd1 is the primary interaction partner for hRad51, especially under higher salt concentrations, indicating a significant role in this interaction (Chi2007Bipartite).
+
+In Arabidopsis thaliana, AtMND1 interacts with AHP2, the Hop2 homolog, and is required for its loading onto chromosomes. This interaction is independent of recombination initiation, double-strand break processing, or cohesion (Vignard2007The). The MND1-HOP2 complex is conserved across yeasts, plants, and mammals, highlighting its essential role in meiotic recombination (Vignard2007The).
+
+
+## References
+
+
+[1. (Bugreev2014HOP2MND1) Dmitry V. Bugreev, Fei Huang, Olga M. Mazina, Roberto J. Pezza, Oleg N. Voloshin, R. Daniel Camerini-Otero, and Alexander V. Mazin. Hop2-mnd1 modulates rad51 binding to nucleotides and dna. Nature Communications, June 2014. URL: http://dx.doi.org/10.1038/ncomms5198, doi:10.1038/ncomms5198. This article has 49 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms5198)
+
+[2. (Vignard2007The) Julien Vignard, Tanja Siwiec, Liudmila Chelysheva, Nathalie Vrielynck, Florine Gonord, Susan J Armstrong, Peter Schlögelhofer, and Raphael Mercier. The interplay of reca-related proteins and the mnd1–hop2 complex during meiosis in arabidopsis thaliana. PLoS Genetics, 3(10):e176, October 2007. URL: http://dx.doi.org/10.1371/journal.pgen.0030176, doi:10.1371/journal.pgen.0030176. This article has 89 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.0030176)
+
+[3. (Tan2022Meiotic) Kai Tan, Kunlei Wang, Anbang Zhao, Zhicheng Liu, Wenjing Song, Qian Cheng, Xinyin Li, Zhinan Chen, Yufeng Yuan, and Zhiyong Yang. Meiotic nuclear divisions 1 promotes proliferation and metastasis in hepatocellular carcinoma and is a potential diagnostic and therapeutic target gene. Medical Oncology, November 2022. URL: http://dx.doi.org/10.1007/s12032-022-01875-w, doi:10.1007/s12032-022-01875-w. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12032-022-01875-w)
+
+[4. (Zhang2021Meiotic) Quanli Zhang, Run Shi, Yongkang Bai, Lijuan Meng, Jingwen Hu, Hongyu Zhu, Tongyan Liu, Xiaomeng De, Siwei Wang, Jie Wang, Lin Xu, Guoren Zhou, and Rong Yin. Meiotic nuclear divisions 1 (mnd1) fuels cell cycle progression by activating a klf6/e2f1 positive feedback loop in lung adenocarcinoma. Cancer Communications, 41(6):492–510, March 2021. URL: http://dx.doi.org/10.1002/cac2.12155, doi:10.1002/cac2.12155. This article has 23 citations.](https://doi.org/10.1002/cac2.12155)
+
+5. (Zelceski2022MND1) MND1 and PSMC3IP control PARP inhibitor sensitivity in mitotic cells. This article has 0 citations.
+
+[6. (Zhao2013Mechanistic) W. Zhao, D. Saro, M. Hammel, Y. Kwon, Y. Xu, R. P. Rambo, G. J. Williams, P. Chi, L. Lu, R. J. Pezza, R. D. Camerini-Otero, J. A. Tainer, H.-W. Wang, and P. Sung. Mechanistic insights into the role of hop2-mnd1 in meiotic homologous dna pairing. Nucleic Acids Research, 42(2):906–917, October 2013. URL: http://dx.doi.org/10.1093/nar/gkt924, doi:10.1093/nar/gkt924. This article has 46 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkt924)
+
+[7. (Rampler2015Comprehensive) Evelyn Rampler, Thomas Stranzl, Zsuzsanna Orban-Nemeth, David Maria Hollenstein, Otto Hudecz, Peter Schlögelhofer, and Karl Mechtler. Comprehensive cross-linking mass spectrometry reveals parallel orientation and flexible conformations of plant hop2–mnd1. Journal of Proteome Research, 14(12):5048–5062, November 2015. URL: http://dx.doi.org/10.1021/acs.jproteome.5b00903, doi:10.1021/acs.jproteome.5b00903. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.jproteome.5b00903)
+
+[8. (Tsubouchi2002The) Hideo Tsubouchi and G. Shirleen Roeder. The mnd1 protein forms a complex with hop2 to promote homologous chromosome pairing and meiotic double-strand break repair. Molecular and Cellular Biology, 22(9):3078–3088, May 2002. URL: http://dx.doi.org/10.1128/mcb.22.9.3078-3088.2002, doi:10.1128/mcb.22.9.3078-3088.2002. This article has 122 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.22.9.3078-3088.2002)
+
+[9. (Chi2007Bipartite) Peter Chi, Joseph San Filippo, Michael G. Sehorn, Galina V. Petukhova, and Patrick Sung. Bipartite stimulatory action of the hop2–mnd1 complex on the rad51 recombinase. Genes &amp; Development, 21(14):1747–1757, July 2007. URL: http://dx.doi.org/10.1101/gad.1563007, doi:10.1101/gad.1563007. This article has 102 citations.](https://doi.org/10.1101/gad.1563007)
+
+[10. (Tsubouchi2023The) Hideo Tsubouchi. The hop2-mnd1 complex and its regulation of homologous recombination. Biomolecules, 13(4):662, April 2023. URL: http://dx.doi.org/10.3390/biom13040662, doi:10.3390/biom13040662. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom13040662)
+
+[11. (Chen2004Heterodimeric) Yi-Kai Chen, Chih-Hsiang Leng, Heidi Olivares, Ming-Hui Lee, Yuan-Chih Chang, Wen-Mei Kung, Shih-Chieh Ti, Yu-Hui Lo, Andrew H.-J. Wang, Chia-Seng Chang, Douglas K. Bishop, Yi-Ping Hsueh, and Ting-Fang Wang. Heterodimeric complexes of hop2 and mnd1 function with dmc1 to promote meiotic homolog juxtaposition and strand assimilation. Proceedings of the National Academy of Sciences, 101(29):10572–10577, July 2004. URL: http://dx.doi.org/10.1073/pnas.0404195101, doi:10.1073/pnas.0404195101. This article has 94 citations.](https://doi.org/10.1073/pnas.0404195101)
+
+[12. (Wei2021Genetic) Jinying Wei, Guangping Meng, Jing Wu, Qiang Zhang, and Jie Zhang. Genetic network and gene set enrichment analyses identify mnd1 as potential diagnostic and therapeutic target gene for lung adenocarcinoma. Scientific Reports, May 2021. URL: http://dx.doi.org/10.1038/s41598-021-88948-4, doi:10.1038/s41598-021-88948-4. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-021-88948-4)
+
+[13. (Pezza2007Hop2Mnd1) Roberto J. Pezza, Oleg N. Voloshin, Filip Vanevski, and R. Daniel Camerini-Otero. Hop2/mnd1 acts on two critical steps in dmc1-promoted homologous pairing. Genes &amp; Development, 21(14):1758–1766, July 2007. URL: http://dx.doi.org/10.1101/gad.1562907, doi:10.1101/gad.1562907. This article has 98 citations.](https://doi.org/10.1101/gad.1562907)

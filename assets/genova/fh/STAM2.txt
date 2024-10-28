@@ -1,0 +1,54 @@
+# STAM2
+
+## Overview
+STAM2, or signal transducing adaptor molecule 2, is a gene that encodes a protein integral to intracellular signaling and endosomal sorting processes. The protein, also named STAM2, is a component of the ESCRT-0 complex, which is involved in the sorting of ubiquitinated proteins into multivesicular bodies (MVBs) for lysosomal degradation. This function is crucial for maintaining cellular homeostasis and regulating membrane receptor activity. The STAM2 protein is characterized by several domains, including VHS, UIM, and SH3, which facilitate its interactions with ubiquitin moieties and other proteins. These interactions are essential for the protein's role in processes such as EGFR trafficking and the modulation of signaling pathways like JAK/STAT. STAM2 is highly expressed in neurons and interstitial cells of Cajal, indicating its potential involvement in endosomal trafficking and neurotransmitter release (Kapuralin2011Neurons; Migliano2018ESCRT; Nguyen2019Molecular).
+
+## Structure
+STAM2 (signal transducing adaptor molecule 2) is a protein that plays a crucial role in intracellular signaling and endosomal sorting. It is part of the ESCRT-0 complex and contains several key domains, including VHS, UIM, SH3, CC, SSM, and ITAM domains, which facilitate its interactions with other proteins and ubiquitin moieties (Kapuralin2011Neurons; Nguyen2019Molecular). The UIM-SH3 dual domain of STAM2 is particularly important for binding ubiquitin and Lys63-linked diubiquitin, with the flexibility and length of the linker between these domains influencing the protein's binding affinity and conformational dynamics (Nguyen2019Molecular).
+
+The STAM2 protein interacts with the HD-PTP Bro1 domain through a specific region, residues 350-370, which is necessary and sufficient for binding. This interaction is characterized by hydrophobic interactions, with specific residues like Tyr361 playing a key role (Lee2016Structural). The presence of Thr145 in the HD-PTP Bro1 domain is crucial for avoiding steric hindrance during this interaction (Lee2016Structural).
+
+STAM2 is also involved in the Hrs/STAM complex, where it binds to Hrs via coiled-coil regions, and the STAM-specific motif (SSM) is required for stable binding (Komada2005The). The protein is localized on the early endosome by binding to Hrs, as it lacks a lipid-binding domain (Komada2005The).
+
+## Function
+STAM2 (signal transducing adaptor molecule 2) is a crucial component of the ESCRT-0 complex, which plays a significant role in the sorting of ubiquitinated proteins into multivesicular bodies (MVBs) for lysosomal degradation. This process is essential for maintaining cellular homeostasis and regulating membrane receptor activity (Migliano2018ESCRT; Williams2007The). STAM2 contains multiple ubiquitin-binding domains, including VHS, UIM, and SH3, which allow it to recognize and bind ubiquitinated cargo, particularly those tagged with Lys63-linked polyubiquitin chains (Nguyen2019Molecular).
+
+In the context of EGFR (Epidermal Growth Factor Receptor) trafficking, STAM2 is involved in the sorting of EGFR into MVBs, a process that regulates EGFR signaling pathways crucial for cell proliferation and survival (Lee2016Structural). STAM2 interacts with the ESCRT accessory protein HD-PTP, facilitating the transfer of ubiquitinated cargo to ESCRT-III subunits and coordinating deubiquitinating enzymes (Migliano2018ESCRT; Lee2016Structural).
+
+STAM2 is highly expressed in neurons and interstitial cells of Cajal within the enteric nervous system, suggesting a role in endosomal trafficking and potentially in neurotransmitter release (Kapuralin2011Neurons). Its activity in these processes underscores its importance in cellular signaling and receptor regulation.
+
+## Clinical Significance
+Alterations in the expression of the STAM2 gene have been implicated in various diseases, particularly in cancer. In gastric cancer (GC), STAM2 expression is significantly upregulated in tumor tissues and cells. High levels of STAM2 are associated with advanced tumor stages and poor prognosis in GC patients. The gene's expression correlates with tumor size and TNM stages, making it an independent risk factor for GC prognosis. Knockdown of STAM2 in GC cell lines has been shown to suppress cell proliferation, migration, and invasion, and induce cell cycle arrest, suggesting its role in cancer progression through the JAK2/STAT3 signaling pathway (Yang2021STAM2).
+
+In skin cutaneous melanoma (SKCM), STAM2 is regulated by the long noncoding RNA GRASLND, which acts as a sponge for miR-218-5p, thereby increasing STAM2 expression. This interaction promotes melanoma cell migration and invasion, indicating that the miR-218-5p/STAM2 axis is crucial in melanoma progression (Ma2024GRASLND).
+
+In the enteric nervous system, STAM2 is highly expressed in neurons and interstitial cells of Cajal, although its clinical significance in this context remains unclear. The gene's involvement in endosomal sorting processes suggests a potential link to neurodegenerative diseases, but no significant morphological changes were observed in gene trap mice (Kapuralin2011Neurons).
+
+## Interactions
+STAM2 (Signal Transducing Adaptor Molecule 2) is involved in various protein interactions that play significant roles in intracellular signaling pathways. It is a component of the ESCRT-0 complex, where it interacts with Hrs (hepatocyte growth factor-regulated tyrosine kinase substrate) through coiled-coil regions, forming a complex essential for the downregulation of receptor tyrosine kinases (RTKs) via the multivesicular body (MVB) sorting pathway (Komada2005The). This interaction is crucial for the endosomal sorting of ubiquitinated cargoes, and the complex is stabilized by the interaction between Hrs and STAM proteins (Komada2005The).
+
+STAM2 also interacts with the Bro1 domain of HD-PTP, a cytosolic protein tyrosine phosphatase, through hydrophobic interactions involving specific residues. This interaction is important for the sorting of the epidermal growth factor receptor (EGFR) into multivesicular bodies for lysosomal degradation (Lee2016Structural).
+
+In the context of the JAK/STAT signaling pathway, STAM2 interacts with TYK2, a member of the JAK family, at early endosomes. This interaction acts as a negative regulator of JAK/STAT signaling by inhibiting TYK2 kinase activity (Zanin2019STAM). STAM2's involvement in these interactions highlights its role in modulating various signaling pathways and cellular processes.
+
+
+## References
+
+
+1. (Zanin2019STAM) STAM Interaction with Hrs Controls JAK/STAT Activation by Interferon-α at the Early Endosome. This article has 4 citations.
+
+[2. (Yang2021STAM2) Yang Yang, Qi Zhang, Jiakui Liang, Meiyuan Yang, Zheng Wang, Dong Tang, and Daorong Wang. Stam2 knockdown inhibits proliferation, migration, and invasion by affecting the jak2/stat3 signaling pathway in gastric cancer. Acta Biochimica et Biophysica Sinica, 53(6):697–706, March 2021. URL: http://dx.doi.org/10.1093/abbs/gmab038, doi:10.1093/abbs/gmab038. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/abbs/gmab038)
+
+[3. (Lee2016Structural) Juhyeon Lee, Kyoung-Jin Oh, Dasom Lee, Bo Yeon Kim, Joon Sig Choi, Bonsu Ku, and Seung Jun Kim. Structural study of the hd-ptp bro1 domain in a complex with the core region of stam2, a subunit of escrt-0. PLOS ONE, 11(2):e0149113, February 2016. URL: http://dx.doi.org/10.1371/journal.pone.0149113, doi:10.1371/journal.pone.0149113. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0149113)
+
+[4. (Kapuralin2011Neurons) Katarina Kapuralin, Chris Van Ginneken, Marija Curlin, Jean‐Pierre Timmermans, and Srecko Gajovic. Neurons and a subset of interstitial cells of cajal in the enteric nervous system highly express stam2 gene. The Anatomical Record, 295(1):113–120, December 2011. URL: http://dx.doi.org/10.1002/ar.21522, doi:10.1002/ar.21522. This article has 6 citations.](https://doi.org/10.1002/ar.21522)
+
+[5. (Migliano2018ESCRT) Simona M. Migliano and David Teis. ESCRT and Membrane Protein Ubiquitination, pages 107–135. Springer International Publishing, 2018. URL: http://dx.doi.org/10.1007/978-3-319-96704-2_4, doi:10.1007/978-3-319-96704-2_4. This article has 31 citations.](https://doi.org/10.1007/978-3-319-96704-2_4)
+
+[6. (Komada2005The) M. Komada. The hrs/stam complex in the downregulation of receptor tyrosine kinases. Journal of Biochemistry, 137(1):1–8, January 2005. URL: http://dx.doi.org/10.1093/JB/MVI001, doi:10.1093/jb/mvi001. This article has 107 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/JB/MVI001)
+
+[7. (Ma2024GRASLND) Aiwei Ma, Wenqi Shi, Liyun Chen, Zijian Huang, Yiwen Zhang, Zixuan Tang, Wenshi Jiang, Mengjing Xu, Jianda Zhou, Wancong Zhang, and Shijie Tang. Graslnd regulates melanoma cell progression by targeting the mir-218-5p/stam2 axis. Journal of Translational Medicine, July 2024. URL: http://dx.doi.org/10.1186/s12967-024-05397-z, doi:10.1186/s12967-024-05397-z. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-024-05397-z)
+
+[8. (Nguyen2019Molecular) Minh-Ha Nguyen, Marie Martin, Henry Kim, Frank Gabel, Olivier Walker, and Maggy Hologne. Molecular recognition of ubiquitin and lys63-linked diubiquitin by stam2 uim-sh3 dual domain: the effect of its linker length and flexibility. Scientific Reports, October 2019. URL: http://dx.doi.org/10.1038/s41598-019-51182-0, doi:10.1038/s41598-019-51182-0. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-019-51182-0)
+
+[9. (Williams2007The) Roger L. Williams and Sylvie Urbé. The emerging shape of the escrt machinery. Nature Reviews Molecular Cell Biology, 8(5):355–368, May 2007. URL: http://dx.doi.org/10.1038/nrm2162, doi:10.1038/nrm2162. This article has 584 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrm2162)

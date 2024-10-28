@@ -1,0 +1,28 @@
+# TMEM81
+
+## Overview
+TMEM81 is a gene that encodes the transmembrane protein 81, a type I transmembrane protein implicated in the process of gamete fusion. This protein is characterized by a large extracellular domain and an immunoglobulin (Ig)-like domain, which is conserved among its homologs and plays a critical role in its structural integrity and function (Elofsson2023Deep; Elofsson2024Deep). TMEM81 is involved in forming a complex with other proteins such as IZUMO1 and SPACA6, which are essential for sperm-egg fusion, a process crucial for fertilization in vertebrates (Deneke2023A). The protein's structural features, including its predicted N-glycosylation sites, suggest a role in modulating interactions within this protein complex, although the precise effects of glycosylation remain to be fully elucidated (Elofsson2023Deep). TMEM81's involvement in these interactions underscores its importance in reproductive biology, with its absence linked to male sterility due to impaired sperm-egg adhesion and fusion (Deneke2023A).
+
+## Structure
+TMEM81 is a type I transmembrane protein with a large extracellular domain, predicted to be involved in gamete fusion. Its primary structure includes an ectodomain spanning residues A31 to N184, which has been modeled using AlphaFold (Elofsson2024Deep). The secondary structure of TMEM81 features a three-stranded β-sheet, which replaces the characteristic four-helix bundle found in its structural homologs IZUMO1 and SPACA6 (Elofsson2023Deep; Elofsson2024Deep). 
+
+The tertiary structure of TMEM81 includes an immunoglobulin (Ig)-like domain, which is conserved among its homologs. This domain is oriented by two invariant disulfide bonds, similar to those in IZUMO1 and SPACA6, ensuring the correct positioning of structural elements (Elofsson2023Deep; Elofsson2024Deep). 
+
+In terms of quaternary structure, TMEM81 is part of a predicted 5-protein complex involved in gamete fusion, interacting with proteins such as JUNO, CD9, IZUMO1, and SPACA6. Within this complex, TMEM81 adopts the same N-to-C orientation as IZUMO1 and SPACA6, inserting its Ig-like module between these proteins and linking their C-terminal regions (Elofsson2023Deep; Elofsson2024Deep). 
+
+TMEM81 is also predicted to have N-glycosylation sites, which may influence its interactions within the protein complex, although the specific effects of glycosylation are not fully modeled (Elofsson2023Deep).
+
+## Interactions
+TMEM81 is involved in several protein interactions crucial for sperm-egg fusion in vertebrates. It forms a trimeric complex with IZUMO1 and SPACA6, which is essential for sperm-egg interaction during fertilization. This complex has been observed in both zebrafish and mice, where the absence of TMEM81 results in male sterility due to the inability of sperm to adhere to or fuse with eggs (Deneke2023A). The trimeric complex is predicted to interact with the egg protein Bouncer in zebrafish, forming a tetrameric complex that bridges sperm and egg membranes, a mechanism that is suggested to be conserved across vertebrates (Deneke2023A).
+
+In mammals, TMEM81 is part of a predicted pentameric complex involving sperm IZUMO1, SPACA6, and egg proteins JUNO and CD9. This complex is thought to mediate gamete fusion by forming a synapse-like assembly at the fusion point (Elofsson2024Deep). TMEM81's structural similarity to IZUMO1 and SPACA6, despite low sequence identity, supports its role in these interactions. It adopts a similar orientation to IZUMO1 and SPACA6, inserting its Ig-like module between them and linking their C-terminal regions, which is crucial for the structural organization necessary for egg-sperm fusion (Elofsson2024Deep).
+
+
+## References
+
+
+1. (Elofsson2023Deep) Deep learning insights into the architecture of the mammalian egg-sperm fusion synapse. This article has 3 citations.
+
+2. (Deneke2023A) A conserved fertilization complex of Izumo1, Spaca6, and Tmem81 mediates sperm-egg interaction in vertebrates. This article has 10 citations.
+
+[3. (Elofsson2024Deep) Arne Elofsson, Ling Han, Enrica Bianchi, Gavin J Wright, and Luca Jovine. Deep learning insights into the architecture of the mammalian egg-sperm fusion synapse. eLife, April 2024. URL: http://dx.doi.org/10.7554/elife.93131.3, doi:10.7554/elife.93131.3. This article has 0 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.93131.3)

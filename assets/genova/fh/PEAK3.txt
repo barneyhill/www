@@ -1,0 +1,44 @@
+# PEAK3
+
+## Overview
+PEAK3 is a gene that encodes the protein PEAK family member 3, a pseudokinase involved in cellular signaling pathways. Unlike typical kinases, PEAK3 lacks catalytic activity but functions as a molecular scaffold, facilitating protein-protein interactions that influence cell motility, proliferation, and survival. Structurally, PEAK3 is characterized by a conserved C-terminal pseudokinase domain and a split helical dimerization (SHED) domain, which is essential for its interaction with other PEAK family members and regulatory proteins such as 14-3-3 (Torosyan2023Structural; Hou2021PEAK3). The protein's interaction with 14-3-3 is phosphorylation-dependent, affecting its subcellular localization and signaling capabilities (Roy2023Structural). PEAK3's role in oncogenic processes, particularly in acute myeloid leukemia, highlights its potential as a therapeutic target (Ounoughene2021SHEDdependent).
+
+## Structure
+PEAK3 is a pseudokinase that adopts a canonical kinase fold, characterized by a β-strand rich N-lobe and an α-helical C-lobe, but it lacks the αG helix, distinguishing it from PEAK1 and PEAK2 (Torosyan2023Structural). The activation loop in PEAK3 is fully resolved and shorter than in PEAK1 and PEAK2, with the DFG motif in the 'DFG-in' state, similar to active kinases (Torosyan2023Structural). Despite mimicking active kinase features, PEAK3's active site is occluded, classifying it as a pseudokinase (Torosyan2023Structural).
+
+PEAK3 contains a conserved C-terminal pseudokinase (PsK) domain and adjacent N-and C-terminal α-helical regions forming a highly-conserved split helical dimerization (SHED) domain (Hou2021PEAK3). The SHED domain is critical for PEAK3's ability to form heterotypic associations with PEAK1 and PEAK2 (Hou2021PEAK3). PEAK3 dimerizes through 'XL'-shaped helical bundles flanking each pseudokinase domain, forming a canonical 'XX'-shaped SHED domain (Torosyan2023Structural).
+
+The interaction of PEAK3 with the 14-3-3 protein is a key regulatory mechanism, with phosphorylation at Ser 69 creating a high-affinity binding site for 14-3-3, forming a stable PEAK3:14-3-3 dimer:dimer complex (Torosyan2023Structural; Roy2023Structural). This interaction influences PEAK3's signaling and sub-cellular localization (Roy2023Structural). The N-terminal domain of PEAK3 is largely disordered except for the phosphorylated 14-3-3 binding motifs (Torosyan2023Structural).
+
+## Function
+The PEAK3 gene encodes a pseudokinase that functions primarily as a molecular scaffold in cellular signaling pathways. In healthy human cells, PEAK3 interacts with 14-3-3 proteins, which regulate its intracellular localization by sequestering it in the cytosol and preventing its nuclear translocation. This interaction is crucial for maintaining PEAK3's role in modulating protein-protein interactions (Torosyan2023Structural). PEAK3 is involved in cellular processes such as motility, proliferation, and survival. It interacts with the adaptor protein CrkII through a proline-rich motif, negatively regulating CrkII-induced changes in cell morphology, such as actin polymerization and cell motility (Lopez2019PEAK3C19orf35).
+
+Phosphorylation plays a significant role in PEAK3's function. For instance, phosphorylation at Ser 69 by protein kinase D (PKD) is important for its interaction with 14-3-3, which influences its localization and scaffolding potential (Torosyan2023Structural). Additionally, PEAK3's interaction with proteins like Grb2 and CrkII is modulated by phosphorylation, affecting downstream signaling pathways that regulate cell motility (Roy2023Structural). Through these interactions, PEAK3 contributes to cellular processes by forming complexes with other proteins and modulating signaling pathways (Torosyan2023Structural).
+
+## Clinical Significance
+PEAK3 has been implicated in various oncogenic processes, particularly in acute myeloid leukemia (AML). Overexpression of PEAK3 is observed in AML, especially in the M4 and M5 subtypes, and is associated with specific oncogenic mutations such as DNTM3A, though not with FLT3-TD mutations (Ounoughene2021SHEDdependent). This overexpression enhances cancer cell growth and migration, indicating a pro-tumoral function (Ounoughene2021SHEDdependent). PEAK3 activates AKT signaling, a pathway crucial for AML development, even in the absence of growth factors, through interactions with PYK2 and ASAP1 (Ounoughene2021SHEDdependent).
+
+Alterations in PEAK3's interactions, particularly with proteins like CrkII and Grb2, can significantly impact cellular processes such as motility and morphology, which are relevant to cancer metastasis (Roy2023Structural; Lopez2019PEAK3C19orf35). The phosphorylation state of PEAK3, especially at serine 69, modulates its binding to 14-3-3 proteins, acting as a molecular switch that influences its interaction network and subcellular localization. This regulation is crucial for controlling signal transduction pathways involved in cell growth and motility, potentially affecting cancer progression (Torosyan2023Structural; Roy2023Structural). These findings suggest that PEAK3 could be a potential therapeutic target in cancers, including leukemia (Ounoughene2021SHEDdependent).
+
+## Interactions
+PEAK3, a member of the PEAK family of pseudokinases, is involved in various protein-protein interactions that play significant roles in cellular signaling pathways. It functions as a pro-migratory and invasive signaling scaffold, forming complexes with several proteins. PEAK3 interacts with CrkII, CrkL, Grb2, ASAP1, ASAP2, and PYK2, with these interactions being modulated by epidermal growth factor (EGF) treatment, which decreases its association with ASAP1/2 and Grb2 while increasing recruitment of Cbl and EGFR (Hou2021PEAK3).
+
+PEAK3 also forms heterotypic complexes with PEAK1 and PEAK2 through a conserved dimerization interface (Hou2021PEAK3). Its interaction with 14-3-3 proteins is crucial, as it acts as a molecular switch regulating PEAK3's signaling pathways. This interaction is phosphodependent, requiring phosphorylation at the S69 site, and is essential for the recruitment of 14-3-3, forming a stable dimer:dimer complex (Roy2022When; Roy2023Structural). The interaction with 14-3-3 also influences PEAK3's subcellular localization and prevents nuclear translocation, expanding its interactome when 14-3-3 is absent (Torosyan2023Structural).
+
+PEAK3's interactions with CrkII and Grb2 are mediated through its intrinsically disordered region, which contains short linear motifs serving as docking sites for these adapter proteins (Roy2023Structural). These interactions highlight PEAK3's role as a dynamic scaffold in signal transduction related to cell growth and motility, particularly in cancer contexts.
+
+
+## References
+
+
+[1. (Torosyan2023Structural) Hayarpi Torosyan, Michael D. Paul, Antoine Forget, Megan Lo, Devan Diwanji, Krzysztof Pawłowski, Nevan J. Krogan, Natalia Jura, and Kliment A. Verba. Structural insights into regulation of the peak3 pseudokinase scaffold by 14-3-3. Nature Communications, June 2023. URL: http://dx.doi.org/10.1038/s41467-023-38864-0, doi:10.1038/s41467-023-38864-0. This article has 2 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-38864-0)
+
+2. (Hou2021PEAK3) PEAK3 pseudokinase represents a pro-migratory and -invasive signalling scaffold. This article has 2 citations.
+
+[3. (Roy2023Structural) Michael J. Roy, Minglyanna G. Surudoi, Ashleigh Kropp, Jianmei Hou, Weiwen Dai, Joshua M. Hardy, Lung-Yu Liang, Thomas R. Cotton, Bernhard C. Lechtenberg, Toby A. Dite, Xiuquan Ma, Roger J. Daly, Onisha Patel, and Isabelle S. Lucet. Structural mapping of peak pseudokinase interactions identifies 14-3-3 as a molecular switch for peak3 signaling. Nature Communications, June 2023. URL: http://dx.doi.org/10.1038/s41467-023-38869-9, doi:10.1038/s41467-023-38869-9. This article has 4 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-38869-9)
+
+4. (Ounoughene2021SHEDdependent) SHED-dependent oncogenic signalling of the PEAK3 pseudo-kinase. This article has 2 citations.
+
+5. (Roy2022When) When two’s a crowd - Structural mapping of PEAK pseudokinase interactions identifies 14-3-3 as a molecular switch for PEAK3/Crk signaling. This article has 0 citations.
+
+[6. (Lopez2019PEAK3C19orf35) Mitchell L. Lopez, Megan Lo, Jennifer E. Kung, Małgorzata Dudkiewicz, Gwendolyn M. Jang, John Von Dollen, Jeffrey R. Johnson, Nevan J. Krogan, Krzysztof Pawłowski, and Natalia Jura. Peak3/c19orf35 pseudokinase, a new nfk3 kinase family member, inhibits crkii through dimerization. Proceedings of the National Academy of Sciences, 116(31):15495–15504, July 2019. URL: http://dx.doi.org/10.1073/pnas.1906360116, doi:10.1073/pnas.1906360116. This article has 19 citations.](https://doi.org/10.1073/pnas.1906360116)

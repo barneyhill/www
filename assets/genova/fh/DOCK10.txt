@@ -1,0 +1,50 @@
+# DOCK10
+
+## Overview
+DOCK10 is a gene that encodes the protein dedicator of cytokinesis 10, which is a member of the DOCK family of guanine nucleotide exchange factors (GEFs). This protein is primarily involved in the activation of Rho GTPases, specifically Rac1 and Cdc42, which play critical roles in various cellular processes such as actin cytoskeleton reorganization, cell migration, and immune cell function (Laurin2014Insights; RuizLafuente2019The). The DOCK10 protein is characterized by its DOCK homology regions, DHR-1 and DHR-2, which are essential for its function in membrane localization and GTPase activation, respectively (Fan2022Structural; Benson2021The). DOCK10 is expressed predominantly in leukocytes and is implicated in immune responses, cancer progression, and cardiac function, highlighting its significance in both physiological and pathological contexts (Segal2022Dock10; Parrado2020Expression; Shin2019ERK2).
+
+## Structure
+DOCK10 is a member of the DOCK family of guanine nucleotide exchange factors (GEFs) and is characterized by the presence of two key domains: the DOCK homology region 1 (DHR-1) and DOCK homology region 2 (DHR-2) domains. The DHR-1 domain is involved in membrane localization through its interaction with phospholipids, specifically phosphatidylinositol (3,4,5)-trisphosphate (PIP3), which is crucial for processes like cell migration (Benson2021The). The DHR-2 domain is responsible for the exchange of GDP for GTP on Rho GTPases, thereby activating them. This domain is organized into three lobes (A, B, and C), with lobe B containing the GTPase binding site and catalytic center (Fan2022Structural; Benson2021The).
+
+The crystal structure of the DOCK10 DHR2 domain has been determined, revealing its organization into three lobes and a unique 2:1 stoichiometry when complexed with RAC3, suggesting negative cooperativity between the two catalytic sites of the dimer (Fan2022Structural). The DHR2 domain forms a complex with CDC42 with a 1:1 stoichiometry, involving lobes A, B, and C, where lobes B and C form the catalytic center (Fan2022Structural). The structure of the apo DOCK10 DHR2 dimer is asymmetric, with lobe C showing conformational variability, indicating its mobility in solution (Fan2022Structural).
+
+## Function
+DOCK10 is a guanine nucleotide exchange factor (GEF) that primarily activates the Rho GTPases Rac1 and Cdc42, which are involved in various cellular processes such as actin dynamics, vesicular trafficking, gene transcription, cell-cycle progression, and cell adhesion (RuizLafuente2019The). It is expressed at high levels in circulating leukocytes, particularly in T and B cells, and its expression is upregulated by interleukin-4 (IL-4) in B cells (Parrado2020Expression). DOCK10 plays a role in B cell activation, spreading, motility, and aggregation, and is crucial for IL-4-induced B cell activation, particularly affecting proliferation and IgG response to soluble antigens (Gerasimčik2017Deletion).
+
+In the context of epithelial-to-mesenchymal transition (EMT), DOCK10 is upregulated by ERK2, leading to the activation of Rac1 and Cdc42, which are necessary for JNK phosphorylation and FoxO1 up-regulation. This signaling pathway is important for cell migration and invasion, highlighting DOCK10's role in cellular processes related to migration and invasion (Shin2019ERK2). DOCK10 is also involved in promoting amoeboid migration by activating Cdc42 and its downstream effectors, which is crucial for cell morphology and migration regulation (Laurin2014Insights).
+
+## Clinical Significance
+Alterations in the expression of the DOCK10 gene have been associated with several clinical conditions. In multiple sclerosis (MS), particularly the relapsing-remitting form, increased expression of DOCK10 has been observed. This upregulation is linked to clinical disease activity, suggesting a role in the pathophysiology of MS. The gene is co-regulated with CASP2 and SYTL2, and these genes are involved in lymphocyte activation pathways, which are crucial in MS disease activity (Agirrezabal2016Increased).
+
+In the context of cancer, DOCK10 is implicated in the epithelial-to-mesenchymal transition (EMT), a process that enhances cancer cell invasion and metastasis. The ERK2 signaling pathway upregulates DOCK10, which in turn activates the Rac1/JNK signaling axis, promoting EMT. This mechanism is associated with poor outcomes in cancer patients, highlighting DOCK10's role in cancer progression and metastasis (Shin2019ERK2).
+
+DOCK10 also plays a role in cardiac function under stress conditions. In cardiac cells, DOCK10 regulates signaling pathways that are crucial for maintaining normal cardiac structure and function. Its ablation in mice leads to mild cardiac dysfunction and exacerbates pathological remodeling under stress, indicating its importance in preventing cardiac hypertrophy and heart failure (Segal2022Dock10).
+
+## Interactions
+DOCK10, a member of the DOCK family of guanine nucleotide exchange factors (GEFs), is involved in the activation of small GTPases, specifically CDC42 and RAC. It exhibits dual specificity, interacting with both CDC42 and RAC, which is unique within its subfamily (Fan2022Structural). The DHR2 domain of DOCK10 is the catalytic domain responsible for these interactions, facilitating the activation of these GTPases by catalyzing nucleotide exchange (Fan2022Structural).
+
+DOCK10 forms a complex with RAC3 in a 2:1 stoichiometry, where two subunits of DOCK10 DHR2 bind to one molecule of RAC3. This interaction involves the switch 1 and switch 2 regions of RAC3 and is characterized by negative cooperativity between the two catalytic sites of the dimer (Fan2022Structural). The binding between DOCK10 DHR2 and RAC3 is exothermic and enthalpically favorable, while the interaction with CDC42 is driven by entropy (Fan2022Structural).
+
+DOCK10 also plays a role in cell migration and invasion, particularly in aggressive cancers, by promoting amoeboid migration through its interaction with CDC42 and downstream effectors such as Wasl (N-Wasp) and Pak2 (Laurin2014Insights).
+
+
+## References
+
+
+[1. (Laurin2014Insights) Mélanie Laurin and Jean-François Côté. Insights into the biological functions of dock family guanine nucleotide exchange factors. Genes &amp; Development, 28(6):533–547, March 2014. URL: http://dx.doi.org/10.1101/gad.236349.113, doi:10.1101/gad.236349.113. This article has 128 citations.](https://doi.org/10.1101/gad.236349.113)
+
+[2. (Gerasimčik2017Deletion) Natalija Gerasimčik, Minghui He, Marisa A. P. Baptista, Eva Severinson, and Lisa S. Westerberg. Deletion of dock10 in b cells results in normal development but a mild deficiency upon in vivo and in vitro stimulations. Frontiers in Immunology, May 2017. URL: http://dx.doi.org/10.3389/fimmu.2017.00491, doi:10.3389/fimmu.2017.00491. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2017.00491)
+
+[3. (Parrado2020Expression) Antonio Parrado. Expression of dock10.1 protein revealed with a specific antiserum: insights into regulation of first exon isoforms of dock10. Molecular Biology Reports, 47(4):3003–3010, February 2020. URL: http://dx.doi.org/10.1007/s11033-020-05342-5, doi:10.1007/s11033-020-05342-5. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11033-020-05342-5)
+
+[4. (Benson2021The) Clare E. Benson and Laura Southgate. The dock protein family in vascular development and disease. Angiogenesis, 24(3):417–433, February 2021. URL: http://dx.doi.org/10.1007/s10456-021-09768-8, doi:10.1007/s10456-021-09768-8. This article has 22 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s10456-021-09768-8)
+
+[5. (Shin2019ERK2) Sejeong Shin, Gwen R. Buel, Michal J. Nagiec, Min-Joon Han, Philippe P. Roux, John Blenis, and Sang-Oh Yoon. Erk2 regulates epithelial-to-mesenchymal plasticity through dock10-dependent rac1/foxo1 activation. Proceedings of the National Academy of Sciences, 116(8):2967–2976, February 2019. URL: http://dx.doi.org/10.1073/pnas.1811923116, doi:10.1073/pnas.1811923116. This article has 74 citations.](https://doi.org/10.1073/pnas.1811923116)
+
+[6. (Agirrezabal2016Increased) Ion Agirrezabal, Ricardo Palacios, Beatriz Moreno, Jorge Sepulcre, Alice Abernathy, Albert Saiz, Sara Llufriu, Manuel Comabella, Xavier Montalban, Antonio Martinez, David Arteta, and Pablo Villoslada. Increased expression of dedicator-cytokinesis-10, caspase-2 and synaptotagmin-like 2 is associated with clinical disease activity in multiple sclerosis. Multiple Sclerosis and Demyelinating Disorders, June 2016. URL: http://dx.doi.org/10.1186/s40893-016-0009-8, doi:10.1186/s40893-016-0009-8. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40893-016-0009-8)
+
+[7. (RuizLafuente2019The) Natalia Ruiz-Lafuente, Alfredo Minguela, Manuel Muro, and Antonio Parrado. The role of dock10 in the regulation of the transcriptome and aging. Heliyon, 5(3):e01391, March 2019. URL: http://dx.doi.org/10.1016/j.heliyon.2019.e01391, doi:10.1016/j.heliyon.2019.e01391. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.heliyon.2019.e01391)
+
+8. (Fan2022Structural) Structural basis for CDC42 and RAC activation by the dual specificity GEF DOCK10. This article has 1 citations.
+
+[9. (Segal2022Dock10) Liad Segal, Sharon Etzion, Sigal Elyagon, Moran Shahar, Hadar Klapper-Goldstein, Aviva Levitas, Michael S. Kapiloff, Ruti Parvari, and Yoram Etzion. Dock10 regulates cardiac function under neurohormonal stress. International Journal of Molecular Sciences, 23(17):9616, August 2022. URL: http://dx.doi.org/10.3390/ijms23179616, doi:10.3390/ijms23179616. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms23179616)

@@ -1,0 +1,44 @@
+# LIN52
+
+## Overview
+LIN52 is a gene that encodes the lin-52 DREAM MuvB core complex component, a protein integral to the regulation of the cell cycle. This protein is a part of the MuvB core, which is essential for the assembly and function of the DREAM complex, a key transcriptional repressor of cell cycle-dependent genes during quiescence and early G1 phase. The lin-52 protein is characterized by its interaction with pocket proteins such as p107 and p130, facilitated by phosphorylation at serine 28 by the kinase DYRK1A, which is crucial for the stabilization of the DREAM complex (Litovchick2011DYRK1A; Sadasivam2013The). Beyond its role in cell cycle regulation, lin-52 is involved in DNA repair processes, highlighting its importance in maintaining genomic stability (BujarrabalDueso2023The). The protein's interactions and modifications underscore its potential as a therapeutic target, particularly in the context of cancers associated with disruptions in the DREAM complex, such as those induced by high-risk human papillomavirus (HPV) and high-grade serous ovarian carcinoma (Iness2021Oncogenic; James2021Restoring).
+
+## Structure
+
+
+## Function
+LIN52 is a critical component of the DREAM complex, which plays a significant role in cell cycle regulation by repressing cell cycle-dependent genes during quiescence and early G1 phase. In healthy human cells, LIN52 is part of the MuvB core and is essential for the assembly of the DREAM complex. This assembly is dependent on the phosphorylation of LIN52 at the serine 28 (S28) residue by the kinase DYRK1A, which facilitates its binding to p130, a necessary component for DREAM complex formation (Litovchick2011DYRK1A; Sadasivam2013The).
+
+The phosphorylation of LIN52 enhances its binding affinity to pocket proteins such as p107 and p130, stabilizing the DREAM complex and promoting cellular quiescence and senescence (Guiley2015Structural). This interaction is crucial for maintaining cellular homeostasis and preventing uncontrolled cell growth, as the DREAM complex acts as a transcriptional repressor of genes involved in cell cycle progression (Guiley2015Structural).
+
+LIN52 also plays a role in DNA repair regulation. As part of the DREAM complex, it represses DNA-repair gene expression, and its modulation can enhance DNA-repair capacities, suggesting a potential target for improving genome stability (BujarrabalDueso2023The).
+
+## Clinical Significance
+Mutations and alterations in the LIN52 gene have significant clinical implications, particularly in the context of high-risk human papillomavirus (HPV)-related cancers. The LIN52-S20C mutation has been shown to partially restore the function of the DREAM complex, which is disrupted by the HPV E7 oncoprotein. This restoration leads to decreased proliferation of HPV-positive cancer cells, suggesting that LIN52 is a critical target in HPV-induced oncogenesis (James2021Restoring). The E7 protein disrupts the DREAM complex by binding to pocket proteins such as p130, leading to deregulation of cell cycle genes and increased cell proliferation. The LIN52-S20C mutant competes with E7, allowing partial reassembly of the DREAM complex and suppression of cell proliferation in HPV-positive cells (James2021Restoring).
+
+In high-grade serous ovarian carcinoma (HGSOC), alterations in the DREAM complex, which includes LIN52, are associated with poor clinical outcomes. The disruption of the DREAM complex by high MYBL2 expression, which encodes the B-Myb protein, leads to the upregulation of cell cycle genes and is linked to poor overall survival in HGSOC patients (Iness2021Oncogenic). These findings highlight the potential of targeting LIN52 and the DREAM complex as therapeutic strategies in treating HPV-positive and ovarian cancers.
+
+## Interactions
+LIN52 is a component of the MuvB core, which is part of the DREAM complex involved in cell cycle regulation and transcriptional repression. LIN52 interacts specifically with the pocket proteins p107 and p130, but not with pRb, to form the DREAM complex. This interaction is facilitated by the N-terminus of LIN52 binding to the LxCxE-binding cleft of p107 and p130. The phosphorylation of LIN52 at serine 28 (S28) by DYRK1A enhances its binding affinity to these pocket proteins, which is crucial for the assembly of the DREAM complex (Guiley2015Structural; Litovchick2011DYRK1A).
+
+LIN52 also interacts with the B-Myb transcription factor through its C-terminus, playing a role in the formation of the Myb-MuvB (MMB) complex, which activates late cell cycle genes (James2021Restoring). The interaction of LIN52 with p107 and p130 is sensitive to regulatory phosphorylation, acting as a switch to increase LIN52 binding to submicromolar affinity (Guiley2015Structural).
+
+The LIN52 protein can be competitively inhibited by the HPV16 E7 protein, which binds to p130 with higher affinity due to its canonical LxCxE motif, leading to the disassembly of the DREAM complex and promoting cell cycle progression (ko2019investigation).
+
+
+## References
+
+
+[1. (BujarrabalDueso2023The) Arturo Bujarrabal-Dueso, Georg Sendtner, David H. Meyer, Georgia Chatzinikolaou, Kalliopi Stratigi, George A. Garinis, and Björn Schumacher. The dream complex functions as conserved master regulator of somatic dna-repair capacities. Nature Structural &amp; Molecular Biology, 30(4):475–488, March 2023. URL: http://dx.doi.org/10.1038/s41594-023-00942-8, doi:10.1038/s41594-023-00942-8. This article has 25 citations.](https://doi.org/10.1038/s41594-023-00942-8)
+
+[2. (Sadasivam2013The) Subhashini Sadasivam and James A. DeCaprio. The dream complex: master coordinator of cell cycle-dependent gene expression. Nature Reviews Cancer, 13(8):585–595, July 2013. URL: http://dx.doi.org/10.1038/nrc3556, doi:10.1038/nrc3556. This article has 415 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrc3556)
+
+[3. (Guiley2015Structural) Keelan Z. Guiley, Tyler J. Liban, Jessica G. Felthousen, Parameshwaran Ramanan, Larisa Litovchick, and Seth M. Rubin. Structural mechanisms of dream complex assembly and regulation. Genes &amp; Development, 29(9):961–974, April 2015. URL: http://dx.doi.org/10.1101/gad.257568.114, doi:10.1101/gad.257568.114. This article has 93 citations.](https://doi.org/10.1101/gad.257568.114)
+
+[4. (Iness2021Oncogenic) Audra N. Iness, Lisa Rubinsak, Steven J. Meas, Jessica Chaoul, Sadia Sayeed, Raghavendra Pillappa, Sarah M. Temkin, Mikhail G. Dozmorov, and Larisa Litovchick. Oncogenic b-myb is associated with deregulation of the dream-mediated cell cycle gene expression program in high grade serous ovarian carcinoma clinical tumor samples. Frontiers in Oncology, March 2021. URL: http://dx.doi.org/10.3389/fonc.2021.637193, doi:10.3389/fonc.2021.637193. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.637193)
+
+[5. (James2021Restoring) Claire D. James, Siddharth Saini, Fatmata Sesay, Kevin Ko, Jessica Felthousen-Rusbasan, Audra N. Iness, Tara Nulton, Brad Windle, Mikhail G. Dozmorov, Iain M. Morgan, and Larisa Litovchick. Restoring the dream complex inhibits the proliferation of high-risk hpv positive human cells. Cancers, 13(3):489, January 2021. URL: http://dx.doi.org/10.3390/cancers13030489, doi:10.3390/cancers13030489. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13030489)
+
+6. (ko2019investigation) Investigation of the Interactions Between the DREAM Complex and HPV16. This article has 0 citations.
+
+[7. (Litovchick2011DYRK1A) Larisa Litovchick, Laurence A. Florens, Selene K. Swanson, Michael P. Washburn, and James A. DeCaprio. Dyrk1a protein kinase promotes quiescence and senescence through dream complex assembly. Genes &amp; Development, 25(8):801–813, April 2011. URL: http://dx.doi.org/10.1101/gad.2034211, doi:10.1101/gad.2034211. This article has 243 citations.](https://doi.org/10.1101/gad.2034211)

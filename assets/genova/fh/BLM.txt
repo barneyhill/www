@@ -1,0 +1,62 @@
+# BLM
+
+## Overview
+The BLM gene encodes the BLM RecQ-like helicase, a crucial enzyme within the RecQ helicase family, which plays a significant role in maintaining genomic stability. This helicase is involved in various DNA metabolic processes, including DNA replication, repair, and recombination, particularly through its function in resolving complex DNA structures and facilitating homologous recombination. The BLM protein is characterized by its ATP-dependent helicase activity, which is essential for unwinding DNA structures such as G-quadruplexes and Holliday junctions, thereby preventing chromosomal abnormalities and contributing to proper cell division. Mutations in the BLM gene are linked to Bloom syndrome, a disorder marked by chromosomal instability and an increased risk of cancer, underscoring the gene's role as a tumor suppressor (Ababou2021Bloom; Manthei2013The; Kaur2021Functions).
+
+## Structure
+The BLM protein, encoded by the BLM gene, is a member of the RecQ helicase family and plays a critical role in DNA repair and genomic stability. The protein consists of 1,417 amino acids and includes several distinct domains: an ATPase domain, a RecQ C-terminal (RQC) domain, and a helicase-and-ribonuclease D-C-terminal (HRDC) domain (Rong2000Structural; Kitano2014Structural).
+
+The ATPase domain is responsible for ATP binding and hydrolysis, facilitating DNA translocation. It consists of two RecA-like subdomains, 1A and 2A, and a unique Zn subdomain (Kitano2014Structural). The RQC domain, which adopts a winged-helix motif, is a major double-stranded DNA-binding domain and is involved in DNA unwinding (Kitano2014Structural). The HRDC domain, comprising amino acids 1,200 to 1,295, is a stable monomer in solution and folds into a globular bundle of five alpha-helices and one 3_10-helix (Sato2010Solution).
+
+BLM undergoes post-translational modifications such as phosphorylation and ubiquitination, which regulate its function. The protein can form complexes with other proteins, indicating a quaternary structure. Splice variants may result in different isoforms with distinct functions (Wu2015BLM).
+
+## Function
+The BLM gene encodes a 3′-5′ ATP-dependent DNA helicase that is a member of the RecQ family, playing a crucial role in maintaining genomic stability in healthy human cells. BLM is involved in DNA replication, repair, and recombination processes, particularly in the repair of double-strand breaks (DSBs) through homologous recombination (HR) pathways. It unwinds complex DNA structures such as G-quadruplexes, D-loops, and Holliday junctions, which are critical for resolving unusual DNA structures that arise during HR (Manthei2013The; Kaur2021Functions).
+
+BLM forms a complex known as the BTRR complex or 'BLM dissolvasome' with topoisomerase IIIα and other proteins, which processes double Holliday junctions to yield non-crossover recombinants, thus maintaining genomic stability (Manthei2013The; Kaur2021Functions). It also acts as an early sensor of DNA damage, assembling with proteins like hRAD51 and p53 at sites of stalled replication and DSBs (Kaur2021Functions).
+
+BLM's helicase activity is essential for its function, as it facilitates the formation of DNA structures competent for replication restart, such as the 'chicken foot' structure, aiding in lesion bypass and replication fork regression (Manthei2013The). The protein is active in the nucleus, particularly at sites of DNA damage, and helps prevent chromosomal abnormalities, contributing to proper cell division and preventing cancer (Neff1999The).
+
+## Clinical Significance
+Mutations in the BLM gene are directly associated with Bloom syndrome (BS), a rare autosomal recessive disorder characterized by chromosomal instability, increased chromatid breaks, and a heightened risk of various cancers, including leukemia, colorectal, breast, and skin cancers (Ababou2021Bloom; Alzahrani2020Investigating). BS patients exhibit a significantly higher cancer risk, with malignancies often occurring at an early age (Ababou2021Bloom). The BLM gene's role as a tumor suppressor is compromised in BS due to mutations that lead to either a truncated protein or loss of helicase activity, resulting in excessive chromosome breakage and increased sister chromatid exchanges (Rong2000Structural).
+
+Alterations in BLM expression levels are linked to various cancers. Overexpression of BLM mRNA is associated with poor survival in breast cancer patients and is significantly increased in other cancers, suggesting its potential as a diagnostic marker (Alzahrani2020Investigating). High BLM expression is also linked to poor clinical outcomes in cholangiocarcinoma and contributes to its malignant progression (Du2021High). BLM overexpression may help cancer cells manage replicative stress, particularly in tumors overexpressing c-Myc, and is linked to increased DNA damage and sensitivity to platinum-based chemotherapy (Ababou2021Bloom).
+
+## Interactions
+The BLM protein, a member of the RecQ DNA helicase family, is involved in various interactions crucial for DNA repair and genomic stability. BLM forms a complex with topoisomerase IIIα (Topo IIIα), RMI1, and RMI2, known as the BTR complex, which is essential for resolving double Holliday junctions during homologous recombination (HR) (Manthei2013The; Hu2001Evidence). The interaction between BLM and Topo IIIα is mediated by the first 133 amino acids of BLM, which are necessary for recruiting Topo IIIα to promyelocytic leukemia protein (PML) nuclear bodies (Hu2001Evidence).
+
+BLM also interacts with RAD51, a key protein in the HR pathway, facilitating RAD51's recruitment or retention at single-stranded DNA (ssDNA) for homology search and strand invasion (Böhm2014The; Bergeron2010Critical). This interaction is enhanced by BLM's SUMOylation (Böhm2014The). BLM's interaction with 53BP1 is phosphorylation-dependent, with ATR-mediated phosphorylation at Thr99 enhancing this interaction during replication stress (Tripathi2007Phosphorylationdependent).
+
+BLM's DNA unwinding activity is stimulated by replication protein A (RPA), which increases BLM's processivity (Manthei2013The). BLM also interacts with various other proteins involved in DNA replication, recombination, and repair, including EXO1, DNA2, and TRF2, highlighting its central role in maintaining genome integrity (Böhm2014The; Manthei2013The).
+
+
+## References
+
+
+[1. (Ababou2021Bloom) Mouna Ababou. Bloom syndrome and the underlying causes of genetic instability. Molecular Genetics and Metabolism, 133(1):35–48, May 2021. URL: http://dx.doi.org/10.1016/j.ymgme.2021.03.003, doi:10.1016/j.ymgme.2021.03.003. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ymgme.2021.03.003)
+
+[2. (Du2021High) Xiaolong Du, Chen Zhang, Chuanzheng Yin, Wenjie Wang, Xueke Yan, Dawei Xie, Xichuan Zheng, Qichang Zheng, Min Li, and Zifang Song. High blm expression predicts poor clinical outcome and contributes to malignant progression in human cholangiocarcinoma. Frontiers in Oncology, March 2021. URL: http://dx.doi.org/10.3389/fonc.2021.633899, doi:10.3389/fonc.2021.633899. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.633899)
+
+[3. (Hu2001Evidence) P. Hu. Evidence for blm and topoisomerase iiialpha interaction in genomic stability. Human Molecular Genetics, 10(12):1287–1298, June 2001. URL: http://dx.doi.org/10.1093/hmg/10.12.1287, doi:10.1093/hmg/10.12.1287. This article has 102 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/10.12.1287)
+
+[4. (Manthei2013The) Kelly A. Manthei and James L. Keck. The blm dissolvasome in dna replication and repair. Cellular and Molecular Life Sciences, 70(21):4067–4084, March 2013. URL: http://dx.doi.org/10.1007/s00018-013-1325-1, doi:10.1007/s00018-013-1325-1. This article has 86 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-013-1325-1)
+
+[5. (Sato2010Solution) Akiko Sato, Masaki Mishima, Aki Nagai, Sun-Yong Kim, Yutaka Ito, Toshio Hakoshima, Jun-Goo Jee, and Ken Kitano. Solution structure of the hrdc domain of human bloom syndrome protein blm. The Journal of Biochemistry, 148(4):517–525, August 2010. URL: http://dx.doi.org/10.1093/jb/mvq097, doi:10.1093/jb/mvq097. This article has 25 citations.](https://doi.org/10.1093/jb/mvq097)
+
+[6. (Kaur2021Functions) Ekjot Kaur, Ritu Agrawal, and Sagar Sengupta. Functions of blm helicase in cells: is it acting like a double-edged sword? Frontiers in Genetics, March 2021. URL: http://dx.doi.org/10.3389/fgene.2021.634789, doi:10.3389/fgene.2021.634789. This article has 46 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2021.634789)
+
+[7. (Böhm2014The) Stefanie Böhm and Kara Anne Bernstein. The role of post-translational modifications in fine-tuning blm helicase function during dna repair. DNA Repair, 22:123–132, October 2014. URL: http://dx.doi.org/10.1016/j.dnarep.2014.07.007, doi:10.1016/j.dnarep.2014.07.007. This article has 47 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.dnarep.2014.07.007)
+
+[8. (Rong2000Structural) Suo-Bao Rong, Jouni Väliaho, and Mauno Vihinen. Structural basis of bloom syndrome (bs) causing mutations in the blm helicase domain. Molecular Medicine, 6(3):155–164, March 2000. URL: http://dx.doi.org/10.1007/BF03402111, doi:10.1007/bf03402111. This article has 51 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/BF03402111)
+
+[9. (Tripathi2007Phosphorylationdependent) V. Tripathi, S. Kaur, and S. Sengupta. Phosphorylation-dependent interactions of blm and 53bp1 are required for their anti-recombinogenic roles during homologous recombination. Carcinogenesis, 29(1):52–61, November 2007. URL: http://dx.doi.org/10.1093/carcin/bgm238, doi:10.1093/carcin/bgm238. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/carcin/bgm238)
+
+[10. (Bergeron2010Critical) Krystal L. Bergeron, Eileen L. Murphy, Lily W. Brown, and Karen H. Almeida. Critical interaction domains between bloom syndrome protein and rad51. The Protein Journal, 30(1):1–8, November 2010. URL: http://dx.doi.org/10.1007/s10930-010-9295-8, doi:10.1007/s10930-010-9295-8. This article has 6 citations.](https://doi.org/10.1007/s10930-010-9295-8)
+
+[11. (Kitano2014Structural) Ken Kitano. Structural mechanisms of human recq helicases wrn and blm. Frontiers in Genetics, October 2014. URL: http://dx.doi.org/10.3389/fgene.2014.00366, doi:10.3389/fgene.2014.00366. This article has 58 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2014.00366)
+
+[12. (Wu2015BLM) Wen-Qiang Wu, Xi-Miao Hou, Ming Li, Shuo-Xing Dou, and Xu-Guang Xi. Blm unfolds g-quadruplexes in different structural environments through different mechanisms. Nucleic Acids Research, 43(9):4614–4626, April 2015. URL: http://dx.doi.org/10.1093/nar/gkv361, doi:10.1093/nar/gkv361. This article has 75 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkv361)
+
+[13. (Neff1999The) Norma F. Neff, Nathan A. Ellis, Tian Zhang Ye, James Noonan, Kelly Huang, Maureen Sanz, and Maria Proytcheva. The dna helicase activity of blm is necessary for the correction of the genomic instability of bloom syndrome cells. Molecular Biology of the Cell, 10(3):665–676, March 1999. URL: http://dx.doi.org/10.1091/mbc.10.3.665, doi:10.1091/mbc.10.3.665. This article has 111 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.10.3.665)
+
+[14. (Alzahrani2020Investigating) Faisal A. Alzahrani, Firoz Ahmed, Monika Sharma, Mohd Rehan, Maryam Mahfuz, Mohammed N. Baeshen, Yousef Hawsawi, Ahmed Almatrafi, Suliman Abdallah Alsagaby, Mohammad Azhar Kamal, Mohiuddin Khan Warsi, Hani Choudhry, and Mohammad Sarwar Jamal. Investigating the pathogenic snps in blm helicase and their biological consequences by computational approach. Scientific Reports, July 2020. URL: http://dx.doi.org/10.1038/s41598-020-69033-8, doi:10.1038/s41598-020-69033-8. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-020-69033-8)

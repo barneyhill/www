@@ -1,0 +1,39 @@
+# LRRC28
+
+## Overview
+LRRC28 is a gene that encodes the protein leucine-rich repeat containing 28, which is characterized by the presence of leucine-rich repeat domains. These domains are known for facilitating protein-protein interactions, making LRRC28 a significant player in cellular communication and metabolic regulation. The protein is involved in the regulation of glycolysis, potentially through interactions with glycolytic proteins and transcription factors such as FOXK1, which it may bind to in order to modulate gene expression. LRRC28's role extends to immune responses, as its expression is elevated in macrophages during certain infections, indicating its involvement in immune activation pathways. Additionally, LRRC28 has been implicated in the development of drug resistance in multiple myeloma and is associated with cancer progression in hepatocellular carcinoma, highlighting its potential clinical significance (Liu2024Translation; Chen2021miR‐218; Roy2024Genomic).
+
+## Function
+LRRC28 is a gene that encodes a protein characterized by leucine-rich repeat domains, which are known to facilitate protein-protein interactions. In healthy human cells, LRRC28 is implicated in the regulation of glycolysis. It shows strong translation efficiency covariation with glycolytic genes, suggesting a role in interacting with glycolytic proteins. This interaction is likely mediated through its leucine-rich repeat domains, which are known for their role in molecular recognition processes (Liu2024Translation; Liu2007Identification).
+
+LRRC28 is predicted to bind to the transcription factor FOXK1, which regulates glycolytic genes. This binding is thought to occur at both the non-DNA-binding region and the DNA-binding domain of FOXK1, potentially preventing FOXK1 from binding to promoter regions of glycolytic genes, leading to the downregulation of glycolysis. This interaction is supported by AlphaFold2-Multimer predictions, which indicate a high likelihood of binding between LRRC28 and FOXK1 (Liu2024Translation).
+
+The specific function of LRRC28 in other cellular processes or its precise role in maintaining cellular structure and communication in healthy human cells is not well-documented, but its involvement in glycolysis regulation suggests it may play a significant role in cellular metabolism (Liu2024Translation).
+
+## Clinical Significance
+Alterations in the expression of the LRRC28 gene have been implicated in various diseases and conditions. In multiple myeloma (MM), miR-218 targets LRRC28, contributing to drug resistance against bortezomib (BTZ). The study by Chen et al. demonstrated that miR-218 is significantly deregulated in MM samples, and its interaction with LRRC28 influences chemoresistance. Overexpression of LRRC28 was found to inhibit apoptosis in MM cells, suggesting its role in drug resistance (Chen2021miR‐218).
+
+In hepatocellular carcinoma (HCC), LRRC28 was identified as having increased expression, indicating its potential involvement in cancer progression. This overexpression was detected using suppression subtractive hybridization and cDNA microarray techniques (Liu2007Identification).
+
+LRRC28 has also been associated with the immune response. In a study on the antibody response to a typhoid vaccine, specific SNPs in the LRRC28 gene were linked to a decreased antibody response, suggesting its role in immune signaling pathways (Roy2024Genomic).
+
+While these studies highlight the involvement of LRRC28 in various conditions, specific diseases directly resulting from mutations in the gene are not well-documented, and further research is needed to elucidate its clinical significance.
+
+## Interactions
+LRRC28, a leucine-rich repeat-containing protein, is implicated in several protein interactions that suggest its role in cellular processes. Notably, LRRC28 has been predicted to interact with the transcription factor FOXK1. This interaction is characterized by LRRC28 binding to both the non-DNA-binding region and the DNA-binding domain of FOXK1, indicating a specific and potentially regulatory interaction. The binding of LRRC28 to FOXK1 may prevent FOXK1 from binding to promoter regions of glycolytic genes, thereby downregulating glycolysis (Liu2024Translation).
+
+In the context of multiple myeloma, LRRC28 is targeted by miR-218, which regulates its expression. This interaction is significant in the development of drug resistance, as miR-218 negatively regulates LRRC28 expression, influencing the response of multiple myeloma cells to the drug bortezomib (BTZ) (Chen2021miR‐218).
+
+Additionally, LRRC28 is involved in immune responses, as its expression is elevated in primary human macrophages infected with S. typhi, suggesting a role in TLR-mediated immune activation (Roy2024Genomic). These interactions highlight LRRC28's potential involvement in various cellular pathways and its regulatory functions.
+
+
+## References
+
+
+1. (Liu2024Translation) Translation efficiency covariation across cell types is a conserved organizing principle of mammalian transcriptomes. This article has 0 citations.
+
+[2. (Liu2007Identification) Yuefang Liu, Xiaojing Zhu, Jin Zhu, Shibing Liao, Qi Tang, Kaikun Liu, Xiaohong Guan, Jianping Zhang, and Zhenqing Feng. Identification of differential expression of genes in hepatocellular carcinoma by suppression subtractive hybridization combined cdna microarray. Oncology Reports, October 2007. URL: http://dx.doi.org/10.3892/or.18.4.943, doi:10.3892/or.18.4.943. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.18.4.943)
+
+[3. (Chen2021miR‐218) Haifei Chen, Weiling Cao, Jiao Chen, Danbo Liu, Lingyun Zhou, Fang Du, and Feiqi Zhu. Mir‐218 contributes to drug resistance in multiple myeloma via targeting lrrc28. Journal of Cellular Biochemistry, 122(3–4):305–314, January 2021. URL: http://dx.doi.org/10.1002/jcb.29684, doi:10.1002/jcb.29684. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcb.29684)
+
+[4. (Roy2024Genomic) Vijay Laxmi Roy and Partha Pratim Majumder. Genomic determinants of antibody response to a typhoid vaccine in indian recipients. Journal of Genetics, February 2024. URL: http://dx.doi.org/10.1007/s12041-024-01463-z, doi:10.1007/s12041-024-01463-z. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12041-024-01463-z)

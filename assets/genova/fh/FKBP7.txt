@@ -1,0 +1,44 @@
+# FKBP7
+
+## Overview
+FKBP7 is a gene that encodes the FKBP prolyl isomerase 7 protein, a member of the FK506-binding protein family. This protein is characterized by its peptidyl-prolyl cis-trans isomerase activity, which plays a critical role in protein folding and trafficking within the endoplasmic reticulum. FKBP7 is involved in the regulation of protein translation pathways and interacts with components of the eukaryotic translation initiation factor 4F (eIF4F) complex, influencing mRNA translation. The protein's function is particularly significant in the context of cancer, where it has been implicated in chemoresistance mechanisms, especially in taxane-resistant prostate cancer and melanoma. FKBP7's expression levels and interactions suggest its potential as a prognostic marker and therapeutic target in these malignancies (Hagedorn2016Integration; Garrido2016Regulation; Garrido2019Regulation; Galat2003Peptidylprolyl).
+
+## Structure
+The FKBP7 protein, also known as FKBP23, is a member of the FK506-binding protein family, characterized by its peptidylprolyl cis/trans isomerase activity. FKBP7 is composed of 222 amino acids, with a molecular weight of approximately 25,724 Da and an isoelectric point (pI) of 5.9 (Galat2003Peptidylprolyl). The protein contains a drug-binding domain spanning residues 28-146, which is indicative of its role in binding small molecular mass compounds (Galat2003Peptidylprolyl).
+
+FKBP7 is localized in the endoplasmic reticulum and is associated with calcium-binding Ef-H regions, suggesting a role in protein folding and secretion (Somarelli2008Structure‐based). The protein is involved in the biosynthesis of collagen, particularly in the isomerization of proline peptide bonds, which is crucial for collagen's triple-helix formation (Ishikawa2017Ziplocing).
+
+While specific details about the tertiary and quaternary structures of FKBP7 are not provided, a sequence identity of 32.3% with a PDB ID of 2f4e suggests that some structural data might be available (Somarelli2008Structure‐based). However, detailed structural information, including post-translational modifications and splice variant isoforms, is not explicitly mentioned in the available context.
+
+## Function
+FKBP7 (FKBP prolyl isomerase 7) is a member of the FK506-binding protein family, functioning as a peptidyl-prolyl cis-trans isomerase. It is primarily located in the endoplasmic reticulum, where it plays a crucial role in protein folding and trafficking, contributing to the maintenance of protein homeostasis within the cell (Ishikawa2017Ziplocing; Galat2003Peptidylprolyl). FKBP7 is involved in the regulation of protein translation pathways, interacting with components of the eIF4F complex, such as eIF4E, eIF4A, and eIF4G, which are essential for cap-dependent mRNA translation (Garrido2016Regulation). In non-cancerous cells, silencing FKBP7 leads to an upregulation of these pathways, suggesting its role in modulating protein synthesis (Garrido2019Regulation).
+
+Despite its high expression levels in various non-cancerous human cell lines, FKBP7 silencing does not affect cell growth or viability, indicating that its function in healthy cells may differ from its role in cancerous cells (Garrido2016Regulation; Garrido2019Regulation). The exact molecular functions of FKBP7 in healthy human cells remain to be fully elucidated, but its involvement in protein translation and folding processes is evident.
+
+## Clinical Significance
+Alterations in the expression of the FKBP7 gene have been implicated in various cancers, notably melanoma and prostate cancer. In melanoma, FKBP7 is significantly overexpressed compared to normal skin, and its high expression is associated with poor patient survival. This suggests that FKBP7 could serve as a potential prognostic marker for melanoma, indicating a more aggressive disease course (Hagedorn2016Integration).
+
+In prostate cancer, FKBP7 is upregulated in taxane-resistant cases, particularly in castration-resistant prostate cancer (CRPC). The gene's expression is higher in taxane-resistant cells and correlates with increased recurrence rates in patients treated with docetaxel. FKBP7's role in maintaining chemoresistance is highlighted by its interaction with the eIF4F translation initiation complex, which is crucial for protein synthesis and cell survival in resistant cancer cells. Silencing FKBP7 has been shown to reduce tumor growth and sensitize cells to taxane treatment, indicating its potential as a therapeutic target to overcome chemoresistance (Garrido2016Regulation; Garrido2019Regulation).
+
+## Interactions
+FKBP7, a molecular chaperone, is known to interact with several components of the eukaryotic translation initiation factor 4F (eIF4F) complex, which plays a crucial role in protein translation. FKBP7 has been shown to interact with eIF4G, a scaffolding protein within the eIF4F complex, which is essential for mRNA translation initiation. This interaction is significant as it modulates eIF4G protein levels, thereby affecting the formation and stability of the eIF4F complex (Garrido2016Regulation; Garrido2019Regulation). 
+
+In taxane-resistant prostate cancer cells, FKBP7 stabilizes eIF4G, enhancing the activity of the eIF4F complex and promoting cap-dependent translation, which is crucial for cell survival under chemotherapeutic stress (Garrido2019Regulation). FKBP7's interaction with eIF4G is confirmed through proximity ligation assays, which show a significant reduction in interaction upon FKBP7 or eIF4G silencing (Garrido2019Regulation). 
+
+Additionally, FKBP7 interacts with the endoplasmic reticulum chaperone protein HSPA5, also known as GRP78/Bip, which is involved in chemoresistance mechanisms (Garrido2019Regulation). These interactions highlight FKBP7's role in modulating protein stability and function, particularly in the context of cancer cell proliferation and chemoresistance.
+
+
+## References
+
+
+[1. (Somarelli2008Structure‐based) J. A. Somarelli, S. Y. Lee, J. Skolnick, and R. J. Herrera. Structure‐based classification of 45 fk506‐binding proteins. Proteins: Structure, Function, and Bioinformatics, 72(1):197–208, January 2008. URL: http://dx.doi.org/10.1002/prot.21908, doi:10.1002/prot.21908. This article has 47 citations.](https://doi.org/10.1002/prot.21908)
+
+[2. (Garrido2019Regulation) Marine F. Garrido, Nicolas J.-P. Martin, Matthieu Bertrand, Catherine Gaudin, Frédéric Commo, Nassif El Kalaany, Nader Al Nakouzi, Ladan Fazli, Elaine Del Nery, Jacques Camonis, Franck Perez, Stéphanie Lerondel, Alain Le Pape, Daniel Compagno, Martin Gleave, Yohann Loriot, Laurent Désaubry, Stéphan Vagner, Karim Fizazi, and Anne Chauchereau. Regulation of eif4f translation initiation complex by the peptidyl prolyl isomerase fkbp7 in taxane-resistant prostate cancer. Clinical Cancer Research, 25(2):710–723, January 2019. URL: http://dx.doi.org/10.1158/1078-0432.CCR-18-0704, doi:10.1158/1078-0432.ccr-18-0704. This article has 19 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/1078-0432.CCR-18-0704)
+
+[3. (Hagedorn2016Integration) Martin Hagedorn, Géraldine Siegfried, Katarzyna B. Hooks, and Abdel-Majid Khatib. Integration of zebrafish fin regeneration genes with expression data of human tumors in silico uncovers potential novel melanoma markers. Oncotarget, 7(44):71567–71579, September 2016. URL: http://dx.doi.org/10.18632/oncotarget.12257, doi:10.18632/oncotarget.12257. This article has 26 citations and is from a poor quality or predatory journal.](https://doi.org/10.18632/oncotarget.12257)
+
+[4. (Ishikawa2017Ziplocing) Yoshihiro Ishikawa, Kazunori Mizuno, and Hans Peter Bächinger. Ziploc-ing the structure 2.0: endoplasmic reticulum-resident peptidyl prolyl isomerases show different activities toward hydroxyproline. Journal of Biological Chemistry, 292(22):9273–9282, June 2017. URL: http://dx.doi.org/10.1074/jbc.m116.772657, doi:10.1074/jbc.m116.772657. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m116.772657)
+
+[5. (Galat2003Peptidylprolyl) Andrzej Galat. Peptidylprolyl cis / trans isomerases (immunophilins): biological diversity - targets - functions. Current Topics in Medicinal Chemistry, 3(12):1315–1347, August 2003. URL: http://dx.doi.org/10.2174/1568026033451862, doi:10.2174/1568026033451862. This article has 308 citations and is from a peer-reviewed journal.](https://doi.org/10.2174/1568026033451862)
+
+6. (Garrido2016Regulation) Regulation of eIF4F complex by the peptidyl prolyl isomerase FKBP7 in taxane-resistant prostate cancer. This article has 0 citations.

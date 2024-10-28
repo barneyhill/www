@@ -1,0 +1,58 @@
+# TLR8
+
+## Overview
+TLR8, or Toll-like receptor 8, is a gene that encodes a transmembrane receptor protein involved in the innate immune system. The TLR8 protein is primarily expressed in the endosomes of human immune cells, such as monocytes and dendritic cells, where it functions as a sensor for RNA degradation products. This receptor is part of the Toll-like receptor family, which plays a critical role in recognizing pathogen-associated molecular patterns and initiating immune responses. TLR8 specifically detects single-stranded RNA from viral and bacterial sources, triggering signaling pathways that lead to the production of pro-inflammatory cytokines essential for immune defense. The receptor's structure includes a leucine-rich repeat motif in its extracellular domain, a helical transmembrane domain, and an intracellular Toll/IL-1 receptor homology domain, which are crucial for its function and signaling. TLR8's activity is modulated through interactions with other proteins and receptors, contributing to its role in immune regulation and homeostasis (Bergstrøm2015TLR8; Moen2019Human; Asami2021Structural).
+
+## Structure
+TLR8 is a protein that features a leucine-rich repeat (LRR) motif in its extracellular domain, forming a horseshoe-shaped solenoid structure. This structure is capped by LRR-NT and LRR-CT motifs at the N- and C-terminal ends, respectively (Asami2021Structural). The extracellular domain of TLR8 crystallizes as a dimeric structure, which is also observed in solution, distinguishing it from other TLRs like TLR3 and TLR9 that are typically monomeric (Asami2021Structural). 
+
+The TLR8 protein includes a helical transmembrane domain and an intracellular Toll/IL-1 receptor (TIR) homology domain, which is crucial for downstream signaling (Wei2009Homology). The dimeric form of TLR8 is stabilized by face-to-face interactions between two protomers, forming a C2-symmetric open-form conformation (Asami2021Structural). 
+
+Post-translational modifications of TLR8 include glycosylation, with predicted N-linked glycosylation sites located on the insertion-free faces of the LRR domain. These glycans are nonfunctional for ligand binding (Wei2009Homology). The protein's quaternary structure is characterized by its homodimeric form, which is essential for its function in the immune response (Asami2021Structural).
+
+## Function
+TLR8 (Toll-like receptor 8) is a crucial component of the innate immune system, primarily expressed in endosomes of human immune cells such as monocytes and dendritic cells. It functions as an endosomal sensor of RNA degradation products, recognizing single-stranded RNA from viral and bacterial pathogens. Upon activation, TLR8 triggers signaling pathways that lead to the production of pro-inflammatory cytokines, including IFNβ, IL-12p70, and TNF, which are essential for mounting an effective immune response (Bergstrøm2015TLR8; Moen2019Human).
+
+TLR8 signaling involves the MyD88-dependent pathway and requires IRAK-1 expression. It activates transcription factors such as IRF5 and NF-κB, which are critical for cytokine production and immune regulation (Bösl2018Coactivation; Moen2019Human). TLR8 also plays a role in modulating immune responses by interacting with other TLRs, such as TLR2, which can attenuate TLR8 signaling through mechanisms involving IRAK-1 and Myddosome components (Bösl2018Coactivation; Moen2019Human).
+
+In addition to its antiviral functions, TLR8 is involved in sensing bacterial RNA, contributing to the immune response against pathogens like Staphylococcus aureus and Streptococcus agalactiae (Bergstrøm2015TLR8; Moen2019Human). This receptor's activity is crucial for the regulation of immune homeostasis and the prevention of excessive inflammation.
+
+## Clinical Significance
+Mutations and alterations in the TLR8 gene have been implicated in various diseases and conditions. In systemic lupus erythematosus (SLE), genetic variations in TLR8, particularly the SNP rs3764880, are associated with increased susceptibility to the disease. This SNP affects TLR8 transcription and translation, leading to differences in NF-kB activation and is linked to specific clinical manifestations such as oral ulcers and pericardial effusion in SLE patients (Wang2014Genetic).
+
+TLR8 deficiency in mice has been shown to result in autoimmune conditions due to the overexpression of TLR7, leading to hyperactive immune responses. This deficiency causes an increase in autoantibody production and is associated with the development of autoimmune diseases like SLE (Demaria2010TLR8).
+
+Gain-of-function mutations in TLR8 are linked to immune system disorders and bone marrow failure. These mutations create a hyperinflammatory environment, affecting adaptive immune cells and leading to conditions such as autoimmune cytopenias, infections, and lymphoproliferation. Patients with these mutations often exhibit features of autoimmune lymphoproliferative syndrome and require complex treatment approaches (Bleesing2022Gainoffunction).
+
+## Interactions
+TLR8 interacts with various proteins and nucleic acids to modulate immune responses. It forms a pre-formed dimer structure, which undergoes significant structural rearrangements upon ligand binding. This dimerization is maintained by numerous hydrogen bonds and a hydrophobic core, involving specific residues (Berglund2015The). TLR8 recognizes single-stranded RNA (ssRNA) and small chemical ligands, with uridine and dinucleotides binding at distinct sites on the receptor. The binding of ssRNA enhances uridine's affinity for TLR8, suggesting an allosteric regulation mechanism (Ohto2016Structural).
+
+In human myeloid cells, TLR8 undergoes proteolytic processing facilitated by furin-like proprotein convertase and cathepsins, which is crucial for its activation and signaling. The N- and C-terminal halves of TLR8 remain associated after cleavage, which is essential for ligand recognition and dimerization (Ishii2014Endosomal). TLR8 also interacts with UNC93B1, which enhances its NF-kB activation by promoting proteolytic cleavage and facilitating its exit from the endoplasmic reticulum (Ishii2014Endosomal).
+
+TLR8's signaling can be modulated by interactions with other TLRs, such as TLR2, TLR4, and TLR5, which can negatively regulate TLR8-IRF5 signaling. This modulation involves the kinase IRAK-1, which undergoes post-translational modifications upon activation of surface TLRs (Moen2019Human).
+
+
+## References
+
+
+[1. (Asami2021Structural) Jinta Asami and Toshiyuki Shimizu. Structural and functional understanding of the toll‐like receptors. Protein Science, 30(4):761–772, February 2021. URL: http://dx.doi.org/10.1002/pro.4043, doi:10.1002/pro.4043. This article has 56 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pro.4043)
+
+[2. (Demaria2010TLR8) Olivier Demaria, Philippe P. Pagni, Stephanie Traub, Aude de Gassart, Nora Branzk, Andrew J. Murphy, David M. Valenzuela, George D. Yancopoulos, Richard A. Flavell, and Lena Alexopoulou. Tlr8 deficiency leads to autoimmunity in mice. Journal of Clinical Investigation, September 2010. URL: http://dx.doi.org/10.1172/jci42081, doi:10.1172/jci42081. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci42081)
+
+[3. (Wang2014Genetic) Chin-Man Wang, Su-Wei Chang, Yeong-Jian Jan Wu, Jing-Chi Lin, Huei-Huang Ho, Tse-Chih Chou, Bing Yang, Jianming Wu, and Ji-Yih Chen. Genetic variations in toll-like receptors (tlrs 3/7/8) are associated with systemic lupus erythematosus in a taiwanese population. Scientific Reports, January 2014. URL: http://dx.doi.org/10.1038/srep03792, doi:10.1038/srep03792. This article has 77 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep03792)
+
+[4. (Berglund2015The) Nils A. Berglund, Vasileios Kargas, Maite L. Ortiz-Suarez, and Peter J. Bond. The role of protein–protein interactions in toll-like receptor function. Progress in Biophysics and Molecular Biology, 119(1):72–83, October 2015. URL: http://dx.doi.org/10.1016/j.pbiomolbio.2015.06.021, doi:10.1016/j.pbiomolbio.2015.06.021. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.pbiomolbio.2015.06.021)
+
+[5. (Bösl2018Coactivation) Korbinian Bösl, Miriam Giambelluca, Markus Haug, Marit Bugge, Terje Espevik, Richard K. Kandasamy, and Bjarte Bergstrøm. Coactivation of tlr2 and tlr8 in primary human monocytes triggers a distinct inflammatory signaling response. Frontiers in Physiology, May 2018. URL: http://dx.doi.org/10.3389/fphys.2018.00618, doi:10.3389/fphys.2018.00618. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphys.2018.00618)
+
+[6. (Bleesing2022Gainoffunction) Jack Bleesing. Gain-of-function defects in toll-like receptor 8 shed light on the interface between immune system and bone marrow failure disorders. Frontiers in Immunology, September 2022. URL: http://dx.doi.org/10.3389/fimmu.2022.935321, doi:10.3389/fimmu.2022.935321. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2022.935321)
+
+[7. (Ohto2016Structural) Umeharu Ohto and Toshiyuki Shimizu. Structural aspects of nucleic acid-sensing toll-like receptors. Biophysical Reviews, 8(1):33–43, February 2016. URL: http://dx.doi.org/10.1007/s12551-015-0187-1, doi:10.1007/s12551-015-0187-1. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12551-015-0187-1)
+
+[8. (Wei2009Homology) Tiandi Wei, Jing Gong, Ferdinand Jamitzky, Wolfgang M. Heckl, Robert W. Stark, and Shaila C. Rössle. Homology modeling of human toll‐like receptors tlr7, 8, and 9 ligand‐binding domains. Protein Science, 18(8):1684–1691, July 2009. URL: http://dx.doi.org/10.1002/pro.186, doi:10.1002/pro.186. This article has 61 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pro.186)
+
+[9. (Bergstrøm2015TLR8) Bjarte Bergstrøm, Marie H. Aune, Jane A. Awuh, June F. Kojen, Kjetil J. Blix, Liv Ryan, Trude H. Flo, Tom E. Mollnes, Terje Espevik, and Jørgen Stenvik. Tlr8 senses staphylococcus aureus rna in human primary monocytes and macrophages and induces ifn-β production via a tak1–ikkβ–irf5 signaling pathway. The Journal of Immunology, 195(3):1100–1111, August 2015. URL: http://dx.doi.org/10.4049/jimmunol.1403176, doi:10.4049/jimmunol.1403176. This article has 107 citations.](https://doi.org/10.4049/jimmunol.1403176)
+
+[10. (Moen2019Human) Siv H. Moen, Birgitta Ehrnström, June F. Kojen, Mariia Yurchenko, Kai S. Beckwith, Jan E. Afset, Jan K. Damås, Zhenyi Hu, Hang Yin, Terje Espevik, and Jørgen Stenvik. Human toll-like receptor 8 (tlr8) is an important sensor of pyogenic bacteria, and is attenuated by cell surface tlr signaling. Frontiers in Immunology, May 2019. URL: http://dx.doi.org/10.3389/fimmu.2019.01209, doi:10.3389/fimmu.2019.01209. This article has 48 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2019.01209)
+
+[11. (Ishii2014Endosomal) Noriko Ishii, Kenji Funami, Megumi Tatematsu, Tsukasa Seya, and Misako Matsumoto. Endosomal localization of tlr8 confers distinctive proteolytic processing on human myeloid cells. The Journal of Immunology, 193(10):5118–5128, November 2014. URL: http://dx.doi.org/10.4049/jimmunol.1401375, doi:10.4049/jimmunol.1401375. This article has 65 citations.](https://doi.org/10.4049/jimmunol.1401375)

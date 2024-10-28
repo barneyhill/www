@@ -1,0 +1,45 @@
+# SENP5
+
+## Overview
+SENP5 is a gene that encodes the protein SUMO specific peptidase 5, which is a member of the Sentrin-specific proteases family. This protein functions as a deSUMOylating enzyme, playing a pivotal role in the post-translational modification process known as SUMOylation. SUMO specific peptidase 5 is involved in the regulation of various cellular processes, including ribosome biogenesis, mitochondrial dynamics, and cell division. It is particularly important for the desumoylation of proteins such as Drp1, which is crucial for mitochondrial fission, and H2AZ, which is involved in DNA damage repair. The protein's activity is essential for maintaining normal cellular functions and its dysregulation is implicated in several diseases, including cancer and congenital heart disease (Liu2023SENP5; Zhang2020Zinc; Hickey2012Function).
+
+## Function
+SENP5 (SUMO specific peptidase 5) is a crucial enzyme involved in the post-translational modification process known as SUMOylation, where it removes SUMO proteins from target substrates. This desumoylation activity is essential for regulating various cellular functions, including ribosome biogenesis and mitochondrial dynamics. In ribosome biogenesis, SENP5, along with SENP3, is involved in the processing of ribosomal RNA (rRNA) in mammalian cells. Its depletion leads to defects in rRNA processing and the accumulation of sumoylated forms of proteins such as NPM1, GNL2, and RPL37A, indicating its role in ribosome maturation (Claessens2024SUMO; Hickey2012Function).
+
+SENP5 also plays a significant role in mitochondrial dynamics, particularly in mitochondrial fission and fusion. It localizes to mitochondria during mitosis, facilitating mitochondrial inheritance during cell division. SENP5 desumoylates Drp1, a GTPase involved in mitochondrial fission, promoting its assembly into active polymers. Knockdown of SENP5 affects mitochondrial fusion, resulting in complex mitochondrial morphology (Claessens2024SUMO; Hickey2012Function).
+
+Additionally, SENP5 is involved in cell division, where its knockdown leads to defects in mitosis and cytokinesis, resulting in decreased cell proliferation and abnormal nuclear morphology (Drag2008DeSUMOylating; Tokarz2021SENP).
+
+## Clinical Significance
+SENP5 is implicated in various diseases and conditions due to its role in SUMOylation, a critical post-translational modification process. In cancer, SENP5 is often overexpressed, contributing to tumor progression and poor prognosis. In osteosarcoma, its overexpression is linked to increased cell growth, while depletion results in growth inhibition and apoptosis (LaraUreña2022CancerAssociated). In oral squamous cell carcinoma (OSCC), SENP5 is differentially expressed across tumor grades, suggesting its involvement in disease progression (Meng2021Expression). In colorectal cancer (CRC), SENP5 is associated with radiotherapy resistance, with high expression levels correlating with poor survival outcomes. Its knockdown enhances radiosensitivity by impairing DNA damage repair through homologous recombination (Liu2023SENP5).
+
+SENP5 also plays a role in heart development, particularly under zinc deficiency conditions. Overexpression of SENP5 due to zinc deficiency leads to cardiac dysplasia and increased apoptosis in cardiomyocytes, highlighting its significance in congenital heart disease (Zhang2020Zinc). These findings underscore SENP5's potential as a therapeutic target in cancer and its critical role in heart development under specific nutritional deficiencies.
+
+## Interactions
+SENP5, a member of the Sentrin-specific proteases family, is involved in the deSUMOylation of proteins, a process that regulates protein function and localization. SENP5 interacts with the H2AZ protein, a key factor in chromatin remodeling and DNA damage repair. This interaction is crucial for the deSUMOylation of H2AZ, which facilitates homologous recombination-mediated DNA damage repair in colorectal cancer cells. In SENP5 knockdown cells, H2AZ remains highly SUMOylated, impairing DNA repair and increasing radiosensitivity (Liu2023SENP5).
+
+SENP5 is predominantly located in the nucleolus and is targeted there through interactions with the nucleolar scaffold protein nucleophosmin (NPM1). It has a pronounced preference for cleaving SUMO2, although specific interactions beyond NPM1 are not detailed (Kunz2018SUMOspecific). SENP5 also plays a role in the regulation of macromolecular assemblies, such as PML nuclear bodies and pre-ribosomal particles, although the specific subset of SUMOylated proteins it targets is not fully defined (Kunz2018SUMOspecific).
+
+The deSUMOylation function of SENP5 is essential for homologous recombination repair and cell survival, as demonstrated by experiments showing that SENP5 wild type expression rescues HR repair and radioresistance, while a mutant lacking deSUMOylation function does not (Liu2023SENP5).
+
+
+## References
+
+
+[1. (LaraUreña2022CancerAssociated) Nieves Lara-Ureña, Vahid Jafari, and Mario García-Domínguez. Cancer-associated dysregulation of sumo regulators: proteases and ligases. International Journal of Molecular Sciences, 23(14):8012, July 2022. URL: http://dx.doi.org/10.3390/ijms23148012, doi:10.3390/ijms23148012. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms23148012)
+
+[2. (Kunz2018SUMOspecific) Kathrin Kunz, Tanja Piller, and Stefan Müller. Sumo-specific proteases and isopeptidases of the senp family at a glance. Journal of Cell Science, March 2018. URL: http://dx.doi.org/10.1242/jcs.211904, doi:10.1242/jcs.211904. This article has 173 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.211904)
+
+[3. (Liu2023SENP5) Tingting Liu, Hang Wang, Yuanyuan Chen, Zhijie Wan, Zhipeng Du, Hui Shen, Yue Yu, Shengzhe Ma, Ying Xu, Zhuqing Li, Nanxi Yu, Fangxiao Zhang, Kun Cao, Jianming Cai, Wei Zhang, Fu Gao, and Yanyong Yang. Senp5 promotes homologous recombination-mediated dna damage repair in colorectal cancer cells through h2az desumoylation. Journal of Experimental &amp; Clinical Cancer Research, September 2023. URL: http://dx.doi.org/10.1186/s13046-023-02789-9, doi:10.1186/s13046-023-02789-9. This article has 5 citations.](https://doi.org/10.1186/s13046-023-02789-9)
+
+[4. (Drag2008DeSUMOylating) Marcin Drag and Guy S. Salvesen. Desumoylating enzymes—senps. IUBMB Life, 60(11):734–742, July 2008. URL: http://dx.doi.org/10.1002/iub.113, doi:10.1002/iub.113. This article has 86 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/iub.113)
+
+[5. (Hickey2012Function) Christopher M. Hickey, Nicole R. Wilson, and Mark Hochstrasser. Function and regulation of sumo proteases. Nature Reviews Molecular Cell Biology, 13(12):755–766, November 2012. URL: http://dx.doi.org/10.1038/nrm3478, doi:10.1038/nrm3478. This article has 504 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrm3478)
+
+[6. (Meng2021Expression) Yutong Meng and Xiaozhi Li. Expression and prognosis analysis of sumoylation regulators in oral squamous cell carcinoma based on high-throughput sequencing. Frontiers in Genetics, June 2021. URL: http://dx.doi.org/10.3389/fgene.2021.671392, doi:10.3389/fgene.2021.671392. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2021.671392)
+
+[7. (Tokarz2021SENP) Paulina Tokarz and Katarzyna Woźniak. Senp proteases as potential targets for cancer therapy. Cancers, 13(9):2059, April 2021. URL: http://dx.doi.org/10.3390/cancers13092059, doi:10.3390/cancers13092059. This article has 48 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13092059)
+
+[8. (Zhang2020Zinc) Xiaoyu Zhang, Cuancuan Wang, Dan Zhao, Xuhong Chen, Chunyan Zhang, Jun Zheng, and Xiaozhi Liu. Zinc deficiency induces abnormal development of the myocardium by promoting senp5 overexpression. PLOS ONE, 15(11):e0242606, November 2020. URL: http://dx.doi.org/10.1371/journal.pone.0242606, doi:10.1371/journal.pone.0242606. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0242606)
+
+[9. (Claessens2024SUMO) Laura A. Claessens and Alfred C.O. Vertegaal. Sumo proteases: from cellular functions to disease. Trends in Cell Biology, February 2024. URL: http://dx.doi.org/10.1016/j.tcb.2024.01.002, doi:10.1016/j.tcb.2024.01.002. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tcb.2024.01.002)

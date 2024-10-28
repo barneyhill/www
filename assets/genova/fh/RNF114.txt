@@ -1,0 +1,56 @@
+# RNF114
+
+## Overview
+RNF114 is a gene that encodes the ring finger protein 114, a member of the RING-type E3 ubiquitin ligase family. This protein is characterized by its RING domain, which is essential for its function in the ubiquitination process, tagging proteins for degradation or modulating their activity (Li2022Nimbolide; Zhang2019Porcine). RNF114 plays a crucial role in various cellular processes, including immune response regulation, cell cycle control, and inflammation, by influencing both cytoplasmic and nuclear activities (Sheng2023The). The protein's interactions with other cellular components, such as PARP1 and A20, highlight its involvement in DNA repair and NF-κB pathway modulation, respectively (Rodriguez2014The; Li2022Nimbolide). Additionally, RNF114 has been implicated in the pathogenesis of diseases like cancer and autoimmune disorders, making it a potential target for therapeutic interventions (Rodriguez2014The; Feng2022RNF114).
+
+## Structure
+RNF114 is a protein characterized by several distinct domains, including an amino-terminal RING domain, which is crucial for its function as an E3 ubiquitin ligase (Li2022Nimbolide; Zhang2019Porcine). The protein also contains two C2H2-type zinc finger domains and a C2HC-type zinc finger, which are involved in mediating protein-protein interactions (Zhang2018RING-Domain; Giannini2008Tcell). These zinc fingers differ from classical DNA-binding zinc fingers and are considered atypical (Giannini2008Tcell).
+
+The RING domain is essential for the ubiquitin ligase activity of RNF114, facilitating the ubiquitination and subsequent proteasomal degradation of target proteins, such as PARylated-PARP1 and viral proteins like NS4B (Li2022Nimbolide; Zhang2019Porcine). RNF114 also features a ubiquitin-interacting motif (UIM) that may play a role in its function (Giannini2008Tcell).
+
+Post-translational modifications, such as ubiquitination, are central to RNF114's role in cellular processes, including DNA damage response and antiviral activity (Li2022Nimbolide; Zhang2019Porcine). The protein's structure and domain organization suggest potential for various interactions, although the specific contributions of each domain to its overall function are not fully understood (Giannini2008Tcell).
+
+## Function
+RNF114 (ring finger protein 114) is a ubiquitin ligase involved in the ubiquitination process, which tags proteins for degradation or modulates their activity. This protein plays a significant role in regulating the immune response, cell cycle control, and inflammation. RNF114 is active in both the cytoplasm and nucleus, where it influences various cellular processes and contributes to organismal homeostasis (Sheng2023The).
+
+In the context of targeted protein degradation (TPD), RNF114 is involved in substrate recognition and ubiquitination. It has been studied for its potential in drug discovery, particularly in the development of degraders that can target specific proteins for degradation. For example, the natural product nimbolide targets RNF114 by covalently binding to an N-terminal cysteine, impairing the ubiquitination of its endogenous substrate, the tumor suppressor p21. This interaction suggests a mechanism for nimbolide's anti-cancer effects (Luo2020ChemoproteomicsEnabled).
+
+Synthetic covalent ligands, such as EN219, have been developed to mimic nimbolide's function, targeting RNF114 to degrade specific proteins in a proteasome-dependent manner. These ligands offer a tunable alternative for TPD applications, expanding the potential for targeting challenging protein targets (Luo2020ChemoproteomicsEnabled).
+
+## Clinical Significance
+Alterations in the expression of the RNF114 gene have been implicated in several diseases, particularly in the context of cancer and autoimmune disorders. In gastric cancer, RNF114 is upregulated and associated with poor prognosis. Its overexpression correlates with increased tumor proliferation and metastasis, making it an independent prognostic factor for poor overall survival in gastric cancer patients (Feng2022RNF114). Silencing RNF114 in gastric cancer cell lines has been shown to inhibit cell proliferation, migration, and invasion, suggesting its potential as a therapeutic target (Feng2022RNF114).
+
+RNF114 is also linked to autoimmune diseases such as psoriasis. Genome-wide association studies have identified RNF114 as a susceptibility locus for psoriasis, highlighting its role in immune regulation (Rodriguez2014The). The gene modulates NF-κB activity and T-cell activation, interacting with A20, a negative regulator of NF-κB, which is crucial for controlling immune responses (Rodriguez2014The).
+
+In addition to its role in cancer and autoimmune diseases, RNF114 is involved in cell cycle regulation. It acts as a cell cycle activator by promoting the degradation of p21 WAF1, thereby inhibiting cellular senescence and potentially contributing to tumor progression (Han2013ZNF313).
+
+## Interactions
+RNF114, a ubiquitin E3 ligase, participates in several protein interactions that influence various cellular processes. It interacts with PARP1, a nuclear enzyme involved in DNA repair, by binding to poly-ADP-ribose (PAR) chains. This interaction stimulates RNF114's E3 ligase activity, leading to the ubiquitination and proteasomal degradation of PARP1. This process is crucial for the removal of PARP1 from DNA damage sites, and its inhibition results in PARP1 trapping, which is a mechanism exploited by the natural product nimbolide to enhance cytotoxicity in certain cancer cells (Li2022Nimbolide).
+
+RNF114 also interacts with A20, a regulator of the NF-κB pathway. This interaction is specific and involves the C-terminal part of A20. RNF114 enhances the ubiquitylation of A20, which modulates NF-κB activity and T-cell activation. It stabilizes A20 and IκBα, leading to the negative regulation of NF-κB-dependent transcription (Rodriguez2014The).
+
+Additionally, RNF114 interacts with PARP10, a mono-ADP-ribosyltransferase, through auto-mono-ADP-ribosylation. RNF114 mediates the ubiquitination of PARP10, affecting its function rather than its stability, which may influence cancer cell migration and tumor metastasis (Zhao2021RNF114).
+
+
+## References
+
+
+1. (Luo2020ChemoproteomicsEnabled) Chemoproteomics-Enabled Ligand Screening Yields Covalent RNF114-Based Degraders that Mimic Natural Product Function. This article has 3 citations.
+
+[2. (Sheng2023The) Xiangpeng Sheng, Zhixiong Xia, Hanting Yang, and Ronggui Hu. The ubiquitin codes in cellular stress responses. Protein &amp; Cell, 15(3):157–190, July 2023. URL: http://dx.doi.org/10.1093/procel/pwad045, doi:10.1093/procel/pwad045. This article has 9 citations.](https://doi.org/10.1093/procel/pwad045)
+
+3. (Li2022Nimbolide) Nimbolide Targets RNF114 to Induce the Trapping of PARP1 and Poly-ADP-Ribosylation-Dependent DNA Repair Factors. This article has 1 citations.
+
+[4. (Zhao2021RNF114) Yahui Zhao, Xiao Liang, Li Wei, Yao Liu, Juan Liu, Huan Feng, Fen Zheng, Ying Wang, Haijie Ma, and Jiaxue Wu. Rnf114 suppresses metastasis through regulation of parp10 in cervical cancer cells. Cancer Communications, 41(2):187–191, January 2021. URL: http://dx.doi.org/10.1002/cac2.12132, doi:10.1002/cac2.12132. This article has 11 citations.](https://doi.org/10.1002/cac2.12132)
+
+[5. (Rodriguez2014The) M S Rodriguez, I Egaña, F Lopitz-Otsoa, F Aillet, M P Lopez-Mato, A Dorronsoro, S Lobato-Gil, J D Sutherland, R Barrio, C Trigueros, and V Lang. The ring ubiquitin e3 rnf114 interacts with a20 and modulates nf-κb activity and t-cell activation. Cell Death &amp; Disease, 5(8):e1399–e1399, August 2014. URL: http://dx.doi.org/10.1038/cddis.2014.366, doi:10.1038/cddis.2014.366. This article has 46 citations.](https://doi.org/10.1038/cddis.2014.366)
+
+[6. (Han2013ZNF313) J Han, Y-L Kim, K-W Lee, N-G Her, T-K Ha, S Yoon, S-I Jeong, J-H Lee, M-J Kang, M-G Lee, B-K Ryu, J-H Baik, and S-G Chi. Znf313 is a novel cell cycle activator with an e3 ligase activity inhibiting cellular senescence by destabilizing p21waf1. Cell Death &amp; Differentiation, 20(8):1055–1067, May 2013. URL: http://dx.doi.org/10.1038/cdd.2013.33, doi:10.1038/cdd.2013.33. This article has 63 citations.](https://doi.org/10.1038/cdd.2013.33)
+
+[7. (Feng2022RNF114) Zongfeng Feng, Leyan Li, Qingwen Zeng, Yang Zhang, Yi Tu, Wenzheng Chen, Xufeng Shu, Ahao Wu, Jianbo Xiong, Yi Cao, and Zhengrong Li. Rnf114 silencing inhibits the proliferation and metastasis of gastric cancer. Journal of Cancer, 13(2):565–578, 2022. URL: http://dx.doi.org/10.7150/jca.62033, doi:10.7150/jca.62033. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/jca.62033)
+
+[8. (Giannini2008Tcell) Ana Lucia Giannini, Yifang Gao, and Marie-José Bijlmakers. T-cell regulator rnf125/trac-1 belongs to a novel family of ubiquitin ligases with zinc fingers and a ubiquitin-binding domain. Biochemical Journal, 410(1):101–111, January 2008. URL: http://dx.doi.org/10.1042/bj20070995, doi:10.1042/bj20070995. This article has 58 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20070995)
+
+[9. (Zhang2018RING-Domain) Yuexiu Zhang, Lian-Feng Li, Muhammad Munir, and Hua-Ji Qiu. Ring-domain e3 ligase-mediated host–virus interactions: orchestrating immune responses by the host and antagonizing immune defense by viruses. Frontiers in Immunology, May 2018. URL: http://dx.doi.org/10.3389/fimmu.2018.01083, doi:10.3389/fimmu.2018.01083. This article has 55 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2018.01083)
+
+[10. (Zhang2019Porcine) Yuexiu Zhang, Huawei Zhang, Guang-Lai Zheng, Qian Yang, Shaoxiong Yu, Jinghan Wang, Su Li, Lian-Feng Li, and Hua-Ji Qiu. Porcine ring finger protein 114 inhibits classical swine fever virus replication via k27-linked polyubiquitination of viral ns4b. Journal of Virology, November 2019. URL: http://dx.doi.org/10.1128/jvi.01248-19, doi:10.1128/jvi.01248-19. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/jvi.01248-19)

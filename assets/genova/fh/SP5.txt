@@ -1,0 +1,31 @@
+# SP5
+
+## Overview
+The SP5 gene encodes the Sp5 transcription factor, a member of the SP/KLF family of transcription factors, which are characterized by their C2H2-type zinc finger domains. These domains enable the protein to bind to GC-rich promoter regions, playing a crucial role in gene regulation. The Sp5 transcription factor primarily functions as a transcriptional repressor within the nucleus, where it modulates the WNT/β-catenin signaling pathway, particularly in human pluripotent stem cells. By competing with SP1 for binding sites, Sp5 influences the expression of genes involved in stem cell differentiation and maintenance. Its expression is tightly regulated by WNT signaling, and it is implicated in the regulation of intestinal stem cells, suggesting a broader role in stem cell biology and potential involvement in pathological conditions such as cancer (Huggins2017The).
+
+## Structure
+The SP5 transcription factor is a member of the SP/KLF family, characterized by three C2H2-type zinc finger domains that facilitate DNA binding. These zinc fingers are crucial for recognizing GC-rich promoter regions, known as GC boxes, which are common targets for SP/KLF family members (Huggins2017The). The zinc finger domains are essential for the protein's function, as demonstrated by studies using CRISPR-Cas9 to delete the sequence encoding this domain, resulting in altered differentiation potential in human pluripotent stem cells (Huggins2017The).
+
+While specific details about the tertiary and quaternary structures of SP5 are limited, it is known that SP5 is localized primarily in the nucleus, where it acts as a transcriptional repressor by competing with SP1 for binding sites (Huggins2017The). The protein may undergo post-translational modifications such as phosphorylation, which could influence its activity and stability, although specific modifications have not been detailed in the provided context.
+
+The SP5 gene does not appear to have multiple splice variant isoforms mentioned in the context, and no specific information on prominent folds or additional structural features is provided. Therefore, further research would be needed to elucidate these aspects of SP5's molecular structure.
+
+## Function
+The SP5 transcription factor is a key regulator in human pluripotent stem cells (hPSCs), where it modulates WNT/β-catenin signaling pathways. SP5 acts as a negative regulator of WNT transcriptional programs, selectively competing with SP1 at specific genomic sites to inhibit the expression of genes associated with primitive and definitive endoderm formation (Huggins2017The). This regulatory function is crucial for maintaining the pluripotent state of stem cells, as SP5 expression is robust in undifferentiated cells and declines upon differentiation (Huggins2017The).
+
+SP5 is a direct target of WNT signaling, with its expression induced by Wnt3a treatment and dependent on β-catenin transactivation. It binds to GC-rich elements in the DNA, acting as a transcription factor primarily in the nucleus (Huggins2017The). The protein's activity is linked to the maintenance of stemness, as its induction decreases with cell differentiation, suggesting a role in preserving the developmental potential of cells (Huggins2017The).
+
+In addition to its role in stem cells, SP5 is involved in the regulation of intestinal stem cells, where it is a top WNT target gene, indicating its broader significance in stem cell behavior and potential implications in pathological states like cancer (Huggins2017The).
+
+## Interactions
+The SP5 transcription factor is involved in several interactions with proteins and nucleic acids, playing a significant role in the regulation of gene expression. SP5 interacts with β-catenin, a key component of the Wnt signaling pathway, which is crucial for its role in transcriptional regulation. This interaction is evidenced by proximity ligation assays, suggesting that SP5's binding to Wnt target genes is facilitated through its association with β-catenin (Huggins2017The). SP5 also competes with another transcription factor, SP1, for binding at specific genomic sites. This competition is selective, as SP5 binding reduces SP1 binding at co-occupied sites upon Wnt3a treatment, indicating a regulatory mechanism where SP5 modulates the transcriptional activity of Wnt target genes (Huggins2017The).
+
+In Hydra, SP5 interacts with TCF1 and β-catenin, forming part of a feedback loop that regulates Wnt3 expression. This interaction is crucial for SP5's role as a transcriptional repressor, preventing ectopic head formation by repressing Wnt3 (Vogg2019An). SP5 also binds to its own promoter, indicating an auto-regulatory loop that is enhanced by β-catenin, likely through interactions with TCF1 and/or β-catenin (Vogg2019An). These interactions highlight SP5's dual role as both an activator and repressor of transcription, depending on the context and interacting partners.
+
+
+## References
+
+
+[1. (Vogg2019An) Matthias C. Vogg, Leonardo Beccari, Laura Iglesias Ollé, Christine Rampon, Sophie Vriz, Chrystelle Perruchoud, Yvan Wenger, and Brigitte Galliot. An evolutionarily-conserved wnt3/β-catenin/sp5 feedback loop restricts head organizer activity in hydra. Nature Communications, January 2019. URL: http://dx.doi.org/10.1038/s41467-018-08242-2, doi:10.1038/s41467-018-08242-2. This article has 93 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-08242-2)
+
+[2. (Huggins2017The) Ian J. Huggins, Tomas Bos, Olivia Gaylord, Christina Jessen, Brianna Lonquich, Angeline Puranen, Jenna Richter, Charlotte Rossdam, David Brafman, Terry Gaasterland, and Karl Willert. The wnt target sp5 negatively regulates wnt transcriptional programs in human pluripotent stem cells. Nature Communications, October 2017. URL: http://dx.doi.org/10.1038/s41467-017-01203-1, doi:10.1038/s41467-017-01203-1. This article has 54 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-017-01203-1)

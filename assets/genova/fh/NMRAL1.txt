@@ -1,0 +1,48 @@
+# NMRAL1
+
+## Overview
+NMRAL1, also known as NmrA-like redox sensor 1, is a gene that encodes a protein functioning as a cellular redox sensor, crucial for maintaining redox homeostasis in human cells. The protein, often referred to as HSCARG, is categorized as a redox sensor due to its structural similarity to short-chain dehydrogenases and its role in regulating reactive oxygen species (ROS) and nitric oxide (NO) production. NMRAL1 modulates several cellular pathways, including the NF-κB signaling pathway, which is vital for inflammation and immune responses. The protein's activity is influenced by its binding to NADPH, which affects its structural conformation and cellular localization, allowing it to respond dynamically to changes in the cell's redox status (Xiao2013HSCARG; Zang2020Structure). NMRAL1's involvement in DNA damage response and innate immunity further underscores its significance in linking redox status with critical cellular signaling processes (Zang2020Structure).
+
+## Structure
+The NMRAL1 protein, also known as HSCARG, is a cellular redox sensor with a structure similar to short-chain dehydrogenases. Its primary structure includes specific amino acid residues that facilitate its function as a redox sensor. The secondary structure of NMRAL1 features an N-terminal Rossmann fold, spanning residues 1-219, which is characterized by a central parallel β-sheet composed of six β-strands interconnected by seven α-helices (Zang2020Structure). The C-terminal domain extends from residues 220-299. 
+
+The tertiary structure of NMRAL1 is stabilized by interactions that allow it to bind selectively to the reduced form of NADPH. This binding involves 20 hydrogen bonds with the Rossmann fold, facilitated by residues Thr-13, Arg-37, and Lys-41, which interact with the 2′-phosphate on the AMP moiety of NADPH (Zang2020Structure). 
+
+In terms of quaternary structure, NMRAL1 exists in three forms in vivo: NADPH-bound monomers, NADPH-unbound monomers, and asymmetrical dimers with one subunit binding to NADPH. The redox status and concentration of NADPH regulate the equilibrium among these forms (Zang2020Structure). Conformational changes upon NADPH binding include the reorientation of Tyr-81 and rotation of Gly-123, which alter the secondary structure of residues 127-143 (Zang2020Structure).
+
+## Function
+The NMRAL1 gene encodes a protein that functions as a cellular redox sensor, playing a crucial role in maintaining redox homeostasis in healthy human cells. This protein, also known as HSCARG, is involved in several molecular processes, including the regulation of reactive oxygen species (ROS) and nitric oxide (NO) production. It acts as an oxidative sensor and a negative regulator of the NF-κB signaling pathway, which is important for controlling inflammation and immune responses (Xiao2013HSCARG; Gan2009HSCARG).
+
+NMRAL1 inhibits the activity of NADPH oxidase by repressing the expression of p47phox, a subunit of the enzyme, thereby reducing ROS production. It also interacts with argininosuccinate synthetase to attenuate NO production (Xiao2013HSCARG; Zang2020Structure). The protein's activity is modulated by its binding to NADPH, which influences its structural forms and cellular localization, allowing it to respond to changes in the redox status of the cell (Zang2020Structure).
+
+In addition to its role in redox regulation, NMRAL1 is involved in the DNA damage response and innate immunity. It interacts with various proteins to modulate these pathways, highlighting its importance in linking cellular redox status with other critical signaling processes (Zang2020Structure).
+
+## Clinical Significance
+NMRAL1 has been implicated in several diseases due to its role in cellular processes. In schizophrenia, alterations in NMRAL1 expression have been linked to the disorder's pathogenesis. The functional SNP rs2270363, located in the promoter region of NMRAL1, is associated with schizophrenia risk by modulating the gene's expression. This SNP disrupts transcription factor binding, leading to changes in NMRAL1 expression, which is significantly downregulated in the brains of schizophrenia patients compared to controls (Wang2022Functional). The gene's involvement in neurodevelopmental processes and synaptic transmission further supports its role in schizophrenia, aligning with the neurodevelopmental hypothesis of the disorder (Wang2022Functional).
+
+NMRAL1 is also associated with other neurodevelopmental disorders, such as autism spectrum disorder and bipolar disorder, where its expression levels vary (Wang2022Functional). In pancreatic adenocarcinoma, alternative splicing events involving NMRAL1 have been identified as significant prognostic markers, suggesting its potential role in cancer progression and patient risk stratification (Kumar2021Prediction). These findings highlight the clinical significance of NMRAL1 in various diseases, emphasizing the need for further research to understand its regulatory mechanisms and potential therapeutic targets.
+
+## Interactions
+NMRAL1, also known as NmrA-like redox sensor 1, participates in various protein interactions that influence cellular processes. It interacts with argininosuccinate synthase (ASS) in response to changes in NADPH levels. When NADPH is low, NMRAL1 binds to ASS, inhibiting its activity and reducing nitric oxide production, which prevents apoptosis (GarcíaLLinás2017Importance). NMRAL1 also interacts with TRAF3, inhibiting its ubiquitination and attenuating the RIG-I pathway, which is involved in antiviral responses (Cui2024Highthroughput).
+
+NMRAL1 forms dimers in the presence of its metabolite Tizoxanide (TIZ), which stabilizes the dimer structure and enhances the sensitivity of the RIG-I pathway by reducing inhibitory monomers in the cytosol (Cui2024Highthroughput). It also interacts with the deubiquitinase OTUB1 to remove ubiquitin chains from TRAF3, impairing the recruitment of IKKε and decreasing the phosphorylation and nuclear translocation of IRF3, thereby downregulating IFN-β production (Zang2020Structure).
+
+NMRAL1's interactions extend to the NF-κB pathway, where it suppresses activation by interacting with the IKK complex and COMMD1, facilitating the dephosphorylation of IKKβ and deubiquitination of NEMO (Zang2020Structure).
+
+
+## References
+
+
+[1. (Wang2022Functional) Junyang Wang, Shiwu Li, Xiaoyan Li, Jiewei Liu, Jinfeng Yang, Yifan Li, Wenqiang Li, Yongfeng Yang, Jiao Li, Rui Chen, Kaiqin Li, Di Huang, Yixing Liu, Luxian Lv, Ming Li, Xiao Xiao, and Xiong Jian Luo. Functional variant rs2270363 on 16p13.3 confers schizophrenia risk by regulating nmral1. Brain, 145(7):2569–2585, January 2022. URL: http://dx.doi.org/10.1093/brain/awac020, doi:10.1093/brain/awac020. This article has 5 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/brain/awac020)
+
+[2. (GarcíaLLinás2017Importance) Xavier García-LLinás, Antonio Bauzá, Saikat K. Seth, and Antonio Frontera. Importance of r–cf3···o tetrel bonding interactions in biological systems. The Journal of Physical Chemistry A, 121(28):5371–5376, July 2017. URL: http://dx.doi.org/10.1021/acs.jpca.7b06052, doi:10.1021/acs.jpca.7b06052. This article has 71 citations.](https://doi.org/10.1021/acs.jpca.7b06052)
+
+[3. (Gan2009HSCARG) Qini Gan, Tingting Li, Bin Hu, Min Lian, and Xiaofeng Zheng. Hscarg inhibits activation of nf-κb by interacting with iκb kinase-β. Journal of Cell Science, 122(22):4081–4088, November 2009. URL: http://dx.doi.org/10.1242/jcs.054007, doi:10.1242/jcs.054007. This article has 16 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.054007)
+
+[4. (Zang2020Structure) Weicheng Zang and Xiaofeng Zheng. Structure and functions of cellular redox sensor hscarg/nmral1, a linkage among redox status, innate immunity, dna damage response, and cancer. Free Radical Biology and Medicine, 160:768–774, November 2020. URL: http://dx.doi.org/10.1016/j.freeradbiomed.2020.09.016, doi:10.1016/j.freeradbiomed.2020.09.016. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.freeradbiomed.2020.09.016)
+
+[5. (Cui2024Highthroughput) Zhanding Cui, Jinlong Liu, Chong Xie, Tao Wang, Pu Sun, Jinlong Wang, Jiaoyang Li, Guoxiu Li, Jicheng Qiu, Ying Zhang, Dengliang Li, Ying Sun, Juanbin Yin, Kun Li, Zhixun Zhao, Hong Yuan, Xingwen Bai, Xueqing Ma, Pinghua Li, Yuanfang Fu, Huifang Bao, Dong Li, Qiang Zhang, Zaixin Liu, Yimei Cao, Jing Zhang, and Zengjun Lu. High-throughput screening unveils nitazoxanide as a potent prrsv inhibitor by targeting nmral1. Nature Communications, June 2024. URL: http://dx.doi.org/10.1038/s41467-024-48807-y, doi:10.1038/s41467-024-48807-y. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-48807-y)
+
+[6. (Xiao2013HSCARG) Weichun Xiao, Yanyan Peng, Yong Liu, Zhi Li, Senlin Li, and Xiaofeng Zheng. Hscarg inhibits nadph oxidase activity through regulation of the expression of p47phox. PLoS ONE, 8(3):e59301, March 2013. URL: http://dx.doi.org/10.1371/journal.pone.0059301, doi:10.1371/journal.pone.0059301. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0059301)
+
+7. (Kumar2021Prediction) Prediction of pancreatic adenocarcinoma patient risk status using alternative splicing events. This article has 0 citations.

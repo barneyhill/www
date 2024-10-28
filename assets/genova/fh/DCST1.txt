@@ -1,0 +1,31 @@
+# DCST1
+
+## Overview
+DCST1 is a gene that encodes the protein DC-STAMP domain containing 1, which functions as an E3 ubiquitin ligase. This protein plays a pivotal role in the regulation of type-I interferon (IFN-I) signaling by promoting the ubiquitination and degradation of STAT2, a key signaling molecule in the IFN-I pathway. The degradation process is crucial for maintaining immune homeostasis and preventing excessive immune responses (Nair2016Global). Additionally, DCST1 is involved in reproductive biology, particularly in sperm-egg fusion, where it forms a complex with DCST2, essential for this process in mice and fish (Noda2021Sperm; Noda2022Sperm). The protein is primarily localized at the plasma membrane and intracellularly, where it interacts with STAT2 and other proteins to execute its functions (Nair2016Global). Understanding the dual roles of DCST1 in immune regulation and reproduction highlights its significance in both health and disease contexts.
+
+## Function
+DCST1 encodes an E3 ubiquitin ligase that plays a critical role in the regulation of type-I interferon (IFN-I) signaling in human cells. This protein functions by promoting the ubiquitination and subsequent degradation of STAT2, a key component of the IFN-I signaling pathway. The degradation of STAT2 is mediated through K48-linked ubiquitination, which signals for proteasomal degradation, thereby attenuating the signaling pathway and preventing excessive immune responses (Nair2016Global). DCST1 is primarily active at the plasma membrane and intracellularly, where it co-localizes with STAT2, suggesting its involvement in regulating STAT2 levels and maintaining immune homeostasis (Nair2016Global).
+
+The expression of DCST1 is upregulated in response to IFNβ treatment, indicating its role in a feedback loop to modulate immune responses. Ectopic expression of DCST1 has been shown to suppress IFN-I signaling by reducing ISRE-luciferase and ISRE-GFP reporter activities, while silencing DCST1 enhances these activities and increases the expression of interferon-stimulated genes (Nair2016Global). This regulatory function is essential for balancing the protective effects of interferons during infections with the potential harm of excessive interferon activity (Nair2016Global).
+
+## Clinical Significance
+Mutations or alterations in the expression of the DCST1 gene have been linked to several clinical implications. In the context of immune response, DCST1 has been identified as a novel E3 ubiquitin ligase that acts as a negative regulator of type-I interferon (IFN-I) signaling. Overexpression of DCST1 leads to the degradation of STAT2, a critical component of the IFN-I signaling pathway, which could potentially impact conditions where IFN-I signaling is involved, although specific diseases are not detailed (Nair2016Global).
+
+In reproductive biology, DCST1, along with DCST2, is essential for sperm-egg fusion, a critical step in fertilization. Mutations in DCST1 result in male sterility in mice due to the inability of sperm to fuse with the egg membrane, despite normal sperm morphology and motility. This sterility can be rescued by introducing transgenes expressing DCST1, highlighting its crucial role in fertility (Noda2022Sperm).
+
+While the role of DCST1 in specific human diseases is not fully elucidated, its involvement in these biological processes suggests that alterations in its function could have significant clinical consequences. Further research is needed to explore its potential links to specific conditions.
+
+## Interactions
+DCST1 is involved in several protein interactions that are crucial for its function. In the context of type-I interferon (IFN-I) signaling, DCST1 acts as an E3 ubiquitin ligase that specifically interacts with the protein STAT2. This interaction leads to the ubiquitination and subsequent degradation of STAT2, thereby negatively regulating the IFN-I signaling pathway. The interaction between DCST1 and STAT2 has been confirmed through co-immunoprecipitation experiments, which demonstrated that DCST1 binds specifically to STAT2 and not to other proteins in the IFN-I signaling cascade (Nair2016Global).
+
+In the context of sperm-egg fusion, DCST1 forms a complex with another protein, DCST2. This interaction is essential for the sperm-egg fusion process in mice and fish. Co-immunoprecipitation experiments have shown that DCST1 and DCST2 can form complexes in HEK293T cells, indicating a direct interaction between these two proteins. This complex is crucial for the stability and function of both proteins in facilitating sperm-egg fusion (Noda2021Sperm; Noda2022Sperm). Despite these interactions, DCST1 does not form a complex with IZUMO1, another protein involved in sperm-egg fusion (Noda2022Sperm).
+
+
+## References
+
+
+[1. (Nair2016Global) Sajith Nair, Pradeep Bist, Neha Dikshit, and Manoj N Krishnan. Global functional profiling of human ubiquitome identifies e3 ubiquitin ligase dcst1 as a novel negative regulator of type-i interferon signaling. Scientific Reports, October 2016. URL: http://dx.doi.org/10.1038/srep36179, doi:10.1038/srep36179. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep36179)
+
+2. (Noda2021Sperm) Sperm membrane proteins DCST1 and DCST2 are required for the sperm-egg fusion process in mice and fish. This article has 10 citations.
+
+[3. (Noda2022Sperm) Taichi Noda, Andreas Blaha, Yoshitaka Fujihara, Krista R. Gert, Chihiro Emori, Victoria E. Deneke, Seiya Oura, Karin Panser, Yonggang Lu, Sara Berent, Mayo Kodani, Luis Enrique Cabrera-Quio, Andrea Pauli, and Masahito Ikawa. Sperm membrane proteins dcst1 and dcst2 are required for sperm-egg interaction in mice and fish. Communications Biology, April 2022. URL: http://dx.doi.org/10.1038/s42003-022-03289-w, doi:10.1038/s42003-022-03289-w. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-022-03289-w)

@@ -1,0 +1,50 @@
+# NSMCE2
+
+## Overview
+NSMCE2 is a gene that encodes a protein known as NSE2, also referred to as MMS21, which functions as a SUMO E3 ligase within the SMC5-SMC6 complex. This protein plays a pivotal role in maintaining genomic stability by facilitating the sumoylation of target proteins involved in DNA repair processes. The SUMO ligase activity of NSE2 is crucial for the resolution of complex DNA structures during homologous recombination repair, particularly at stalled or collapsed replication forks, thereby preventing genomic instability and ensuring proper DNA replication and cell division (Payne2014Hypomorphism; Pond2019Rescue). The structural features of NSE2, including its SP-RING domain and SUMO-interacting motifs, are essential for its function in DNA damage repair and chromatin maintenance (SoléSoler2020Smc56; Varejão2021Structural). Mutations or dysregulation of NSMCE2 have been implicated in various clinical conditions, including primordial dwarfism and certain cancers, highlighting its significance in human health (Payne2014Hypomorphism; Di2022NSMCE2).
+
+## Structure
+NSMCE2, also known as Nse2, is a component of the Smc5/6 complex and functions as a SUMO E3 ligase. It contains an SP-RING (Siz-PIAS RING) domain, which is crucial for its ligase activity, facilitating the transfer of SUMO to target proteins (SoléSoler2020Smc56; Varejão2021Structural). The SP-RING domain interacts with the E2 enzyme Ubc9 and SUMO, forming a complex that stabilizes the E2~SUMO thioester in a closed conformation, enhancing substrate specificity and catalytic efficiency (Varejão2021Structural).
+
+The structure of NSMCE2 includes SUMO-interacting motifs (SIMs), particularly the C-terminal SIM2, which anchors SUMO B to the E2 enzyme's backside, playing a critical role in the E3-dependent discharge reaction (Varejão2021Structural). This interaction is essential for the protein's function in DNA damage repair and maintaining genome stability (Varejão2021Structural).
+
+NSMCE2 is subject to post-translational modifications, such as SUMOylation, which may regulate its activity and interactions within the Smc5/6 complex (Hallett2021CryoEM). The protein's structure and interactions are integral to its role in the complex, influencing DNA repair processes and chromatin maintenance (Hallett2021CryoEM).
+
+## Function
+The NSMCE2 gene encodes a protein that functions as a SUMO ligase within the SMC5-6 complex, which is crucial for maintaining genomic stability and facilitating DNA repair processes in healthy human cells. NSMCE2 is involved in the resolution of topologically complex intermediates during homologous recombination repair (HRR), particularly in the context of restarting stalled or collapsed DNA replication forks. This function is essential for preventing genomic instability and ensuring proper DNA replication and cell division (Payne2014Hypomorphism; Pond2019Rescue).
+
+NSMCE2's SUMO-ligase activity is critical for its role in DNA damage response, as it facilitates the sumoylation of target proteins involved in DNA repair, such as BLM helicase and RAD51. This activity is necessary for the proper localization and function of these proteins at stalled replication forks, thereby preventing excessive accumulation of RAD51 and ensuring efficient homologous recombination (Payne2014Hypomorphism; Pond2019Rescue).
+
+In NSMCE2-deficient cells, there is impaired recovery from replication stress, leading to increased mitotic DNA damage and genomic instability. This highlights the importance of NSMCE2 in maintaining chromosomal integrity and preventing error-prone recombination events during cell division (Payne2014Hypomorphism; Pond2019Rescue).
+
+## Clinical Significance
+Mutations and dysregulation of the NSMCE2 gene have significant clinical implications. Mutations in NSMCE2 are linked to primordial dwarfism, extreme insulin resistance, and gonadal failure. These conditions are associated with compound heterozygous frameshift mutations in the NSMCE2 gene, leading to reduced expression and impaired function of the protein. The mutations result in chromosomal instability, as evidenced by increased micronucleus and nucleoplasmic bridge formation, and impaired DNA damage response, contributing to the clinical features observed in affected individuals (Payne2014Hypomorphism).
+
+In breast cancer, NSMCE2 is identified as a super-enhancer-regulated gene, with high expression levels correlating with poor prognosis and therapy resistance. High NSMCE2 expression is particularly associated with a poor response to chemotherapy in aggressive breast cancer subtypes, such as triple-negative and HER2-positive tumors. The gene's overexpression is linked to resistance against chemotherapeutic agents like doxorubicin, suggesting that NSMCE2 plays a role in inhibiting chemotherapy-induced apoptosis. Targeting NSMCE2 expression through pharmacological means, such as BET inhibitors, has been proposed as a strategy to sensitize breast cancer cells to chemotherapy, potentially improving treatment outcomes (Di2022NSMCE2).
+
+## Interactions
+NSMCE2, also known as NSE2 or MMS21, is a SUMO ligase that is a component of the SMC5-SMC6 complex. It plays a critical role in maintaining genomic stability through its interactions with various proteins and nucleic acids. NSMCE2 is essential for the sumoylation of several proteins, including the Bloom syndrome helicase (BLM) and Smc6 (Rad18), which are involved in DNA repair processes (Pond2019Rescue; Andrews2005Nse2). 
+
+NSMCE2 interacts with BLM to facilitate its recruitment to stalled replication forks, which is crucial for stabilizing these forks and promoting homologous recombination (HR) (Pond2019Rescue). The interaction with BLM is impaired in NSMCE2-deficient cells, leading to excessive accumulation of RAD51, a protein involved in HR, and resulting in DNA repair defects (Pond2019Rescue). 
+
+NSMCE2 also interacts with other components of the SMC5-SMC6 complex, such as Nse1 and Nse3, and is involved in the sumoylation of these proteins, which is important for the DNA damage response (Andrews2005Nse2; McDonald2003Novel). These interactions highlight NSMCE2's role in regulating protein dynamics at replication forks and ensuring proper DNA repair and genomic stability.
+
+
+## References
+
+
+[1. (SoléSoler2020Smc56) Roger Solé-Soler and Jordi Torres-Rosell. Smc5/6, an atypical smc complex with two ring-type subunits. Biochemical Society Transactions, 48(5):2159–2171, September 2020. URL: http://dx.doi.org/10.1042/bst20200389, doi:10.1042/bst20200389. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1042/bst20200389)
+
+[2. (Payne2014Hypomorphism) Felicity Payne, Rita Colnaghi, Nuno Rocha, Asha Seth, Julie Harris, Gillian Carpenter, William E. Bottomley, Eleanor Wheeler, Stephen Wong, Vladimir Saudek, David Savage, Stephen O’Rahilly, Jean-Claude Carel, Inês Barroso, Mark O’Driscoll, and Robert Semple. Hypomorphism in human nsmce2 linked to primordial dwarfism and insulin resistance. Journal of Clinical Investigation, 124(9):4028–4038, August 2014. URL: http://dx.doi.org/10.1172/jci73264, doi:10.1172/jci73264. This article has 93 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci73264)
+
+[3. (Andrews2005Nse2) Emily A. Andrews, Jan Palecek, John Sergeant, Elaine Taylor, Alan R. Lehmann, and Felicity Z. Watts. Nse2, a component of the smc5-6 complex, is a sumo ligase required for the response to dna damage. Molecular and Cellular Biology, 25(1):185–196, January 2005. URL: http://dx.doi.org/10.1128/mcb.25.1.185-196.2005, doi:10.1128/mcb.25.1.185-196.2005. This article has 192 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.25.1.185-196.2005)
+
+[4. (Varejão2021Structural) Nathalia Varejão, Jara Lascorz, Joan Codina-Fabra, Gemma Bellí, Helena Borràs-Gas, Jordi Torres-Rosell, and David Reverter. Structural basis for the e3 ligase activity enhancement of yeast nse2 by sumo-interacting motifs. Nature Communications, December 2021. URL: http://dx.doi.org/10.1038/s41467-021-27301-9, doi:10.1038/s41467-021-27301-9. This article has 19 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-27301-9)
+
+[5. (Pond2019Rescue) Kelvin W. Pond, Christelle de Renty, Mary K. Yagle, and Nathan A. Ellis. Rescue of collapsed replication forks is dependent on nsmce2 to prevent mitotic dna damage. PLOS Genetics, 15(2):e1007942, February 2019. URL: http://dx.doi.org/10.1371/journal.pgen.1007942, doi:10.1371/journal.pgen.1007942. This article has 30 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1007942)
+
+[6. (Di2022NSMCE2) Carolina Di Benedetto, Justin Oh, Zainab Choudhery, Weiquan Shi, Gilmer Valdes, and Paola Betancur. Nsmce2, a novel super-enhancer-regulated gene, is linked to poor prognosis and therapy resistance in breast cancer. BMC Cancer, October 2022. URL: http://dx.doi.org/10.1186/s12885-022-10157-7, doi:10.1186/s12885-022-10157-7. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-022-10157-7)
+
+7. (Hallett2021CryoEM) Cryo-EM structure of the Smc5/6 holo-complex. This article has 1 citations.
+
+[8. (McDonald2003Novel) W.Hayes McDonald, Yelena Pavlova, John R. Yates, and Michael N. Boddy. Novel essential dna repair proteins nse1 and nse2 are subunits of the fission yeast smc5-smc6 complex. Journal of Biological Chemistry, 278(46):45460–45467, November 2003. URL: http://dx.doi.org/10.1074/jbc.m308828200, doi:10.1074/jbc.m308828200. This article has 97 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m308828200)

@@ -1,0 +1,52 @@
+# AHCYL1
+
+## Overview
+The AHCYL1 gene encodes the adenosylhomocysteinase like 1 protein, which is a member of the adenosylhomocysteinase family. Unlike its enzymatically active counterpart, AHCY, the AHCYL1 protein does not hydrolyze S-adenosylhomocysteine (SAH) but instead functions as a sensor for SAH, playing a crucial role in regulating autophagy and calcium signaling (Devogelaere2008The; Huang2021AHCYL1). The protein is characterized by its IRBIT domain, which facilitates interactions with various cellular targets, including the inositol 1,4,5-trisphosphate receptor (IP3R) and sodium bicarbonate cotransporters (NBCs), thereby influencing intracellular pH and calcium dynamics (Devogelaere2008The). AHCYL1 is expressed in multiple tissues, with notable expression in neuronal tissues, suggesting its involvement in specialized neuronal functions and embryonic development (Devogelaere2008The). Additionally, alterations in AHCYL1 expression have been linked to various cancers, highlighting its potential as a prognostic marker and therapeutic target (Jeong2012Paradoxical; MuñozBernart2023Sadenosylhomocysteine).
+
+## Structure
+The AHCYL1 protein, also known as adenosylhomocysteinase like 1, is characterized by its unique structural features. It contains an N-terminal region that is irregular and Ser/Thr-rich, making it susceptible to protease attack and contributing to its loose and flexible structure (Gomi2008Cloning). This region is involved in phosphorylation-dephosphorylation processes and is proposed to function as an independent domain (Gomi2008Cloning). The protein also includes a highly conserved AHCY-like domain at the C terminus, which interacts with S-adenosylhomocysteine (SAH) (Huang2021AHCYL1).
+
+AHCYL1 contains an IRBIT domain, crucial for its function and regulation, which includes a PP1-binding site and a PEST motif with several phosphorylation sites (Devogelaere2008The). Phosphorylation of these sites is essential for interaction with cytoplasmic targets like the IP3 receptor (Devogelaere2008The). The protein has two splice variants, AHCYL1-A and AHCYL1-B, with AHCYL1-A being the major form in zebrafish (Devogelaere2008The).
+
+The quaternary structure of AHCYL1 is suggested to be a trimer, although cross-linking experiments indicate it may be a dimer (Gomi2008Cloning). The protein's interaction with the IP3 receptor is influenced by its phosphorylation state, with phosphorylation promoting cytoplasmic interactions and dephosphorylation leading to nuclear translocation (Devogelaere2008The).
+
+## Function
+The AHCYL1 gene encodes a protein that plays a significant role in various cellular processes, primarily through its interactions with other proteins. AHCYL1 is part of the adenosylhomocysteinase family and functions as a sensor for S-adenosylhomocysteine (SAH), an intermediate in methionine metabolism. Unlike AHCY, which hydrolyzes SAH, AHCYL1 does not have enzymatic activity but interacts with SAH to regulate autophagy in an MTORC1-independent manner by inhibiting PIK3C3 activity (Huang2021AHCYL1).
+
+AHCYL1 is involved in calcium signaling by acting as an inhibitor of the inositol 1,4,5-trisphosphate receptor (IP3R). It competes with IP3 for binding to IP3R, thereby modulating calcium release (Devogelaere2008The). The protein also interacts with sodium bicarbonate cotransporters (NBCs), influencing intracellular pH and calcium signaling (Devogelaere2008The).
+
+AHCYL1 is expressed in various tissues, with high levels in neuronal tissues, suggesting a role in specialized neuronal functions. Its expression is tightly regulated during embryonic development, affecting embryonic morphology (Devogelaere2008The). The protein is active in both the cytoplasm and nucleus, where it may influence gene expression and cellular metabolism (Grbeša2017Mutations).
+
+## Clinical Significance
+Alterations in the expression of the AHCYL1 gene have been implicated in various cancers, including lung and ovarian cancer. In non-small cell lung cancer (NSCLC), AHCYL1 expression is significantly lower in tumor samples compared to normal tissues, and its downregulation is associated with a more aggressive tumor phenotype and worse prognosis. AHCYL1 acts as a negative regulator of tumorigenesis by modulating cell differentiation and plasticity, and its low expression correlates with high levels of the tumor marker Ki67, indicating increased cell proliferation and poor clinical outcomes (MuñozBernart2023Sadenosylhomocysteine).
+
+In ovarian cancer, AHCYL1 expression is abundant in the nuclei of epithelial ovarian cancer cells, and higher expression levels are associated with a better response to treatment and longer progression-free survival. This suggests that AHCYL1 could serve as a prognostic factor in ovarian epithelial cancer, influencing both treatment response and disease progression (Jeong2012Paradoxical).
+
+AHCYL1 also plays a role in autophagy regulation. It interacts with PIK3C3, a component involved in autophagy, and this interaction is crucial for the inhibition of autophagy observed with increased levels of S-adenosylhomocysteine (SAH), highlighting its potential importance in cellular processes related to autophagy (Huang2021AHCYL1).
+
+## Interactions
+AHCYL1 interacts with several proteins, playing roles in various cellular processes. It interacts with the nonstructural 5A (NS5A) protein of the Hepatitis C virus (HCV), a multifunctional protein crucial for HCV propagation. This interaction was confirmed through protein microarray assays, in vitro binding assays, and coimmunoprecipitation experiments, demonstrating that AHCYL1 and NS5A colocalize in the cytoplasmic region of HCV-replicating cells (Lim2020Adenosylhomocysteinase).
+
+AHCYL1 also interacts with PIK3C3, a key component in the autophagy pathway. This interaction is enhanced by S-adenosylhomocysteine (SAH) and inhibits PIK3C3's lipid kinase activity, thereby regulating autophagy in an MTORC1-independent manner (Huang2021AHCYL1).
+
+Through its IRBIT domain, AHCYL1 interacts with the IP3 receptor (IP3R) and Na+/HCO3- cotransporters (NBCs), such as pNBCe1 and NBCn1. These interactions are regulated by phosphorylation and are crucial for modulating phosphoinositide metabolism and enhancing NBC activity (Devogelaere2008The).
+
+AHCYL1 can also form heterotetramers with AHCY, affecting its activity and subcellular localization, as demonstrated by co-immunoprecipitation and BiFC assays (Grbeša2017Mutations).
+
+
+## References
+
+
+[1. (Huang2021AHCYL1) Wei Huang, Na Li, Yi Zhang, Xu Wang, Miao Yin, and Qun-Ying Lei. Ahcyl1 senses sah to inhibit autophagy through interaction with pik3c3 in an mtorc1-independent manner. Autophagy, 18(2):309–319, May 2021. URL: http://dx.doi.org/10.1080/15548627.2021.1924038, doi:10.1080/15548627.2021.1924038. This article has 17 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2021.1924038)
+
+[2. (Jeong2012Paradoxical) Wooyoung Jeong, Hee Seung Kim, Yong Beom Kim, Min A Kim, Whasun Lim, Jinyoung Kim, Hyun-Jun Jang, Dong Hoon Suh, Kidong Kim, Hyun Hoon Chung, Fuller W Bazer, Yong Sang Song, Jae Yong Han, and Gwonhwa Song. Paradoxical expression of ahcyl1 affecting ovarian carcinogenesis between chickens and women. Experimental Biology and Medicine, 237(7):758–767, July 2012. URL: http://dx.doi.org/10.1258/ebm.2012.011433, doi:10.1258/ebm.2012.011433. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1258/ebm.2012.011433)
+
+[3. (MuñozBernart2023Sadenosylhomocysteine) Melina Muñoz-Bernart, Nicolás Budnik, Araceli Castro, Malena Manzi, María Eugenia Monge, Julieta Pioli, Sebastián Defranchi, Gustavo Parrilla, Juan Pablo Santilli, Kevin Davies, Joaquín M. Espinosa, Ken Kobayashi, Carlos Vigliano, and Carolina Perez-Castro. S-adenosylhomocysteine hydrolase-like protein 1 (ahcyl1) inhibits lung cancer tumorigenesis by regulating cell plasticity. Biology Direct, March 2023. URL: http://dx.doi.org/10.1186/s13062-023-00364-y, doi:10.1186/s13062-023-00364-y. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13062-023-00364-y)
+
+[4. (Grbeša2017Mutations) Ivana Grbeša, Alon Kalo, Robert Belužić, Lucija Kovačević, Adriana Lepur, Filip Rokić, Hodaya Hochberg, Itamar Kanter, Vesna Simunović, Pau Marc Muńoz-Torres, Yaron Shav-Tal, and Oliver Vugrek. Mutations in s-adenosylhomocysteine hydrolase (ahcy) affect its nucleocytoplasmic distribution and capability to interact with s-adenosylhomocysteine hydrolase-like 1 protein. European Journal of Cell Biology, 96(6):579–590, September 2017. URL: http://dx.doi.org/10.1016/j.ejcb.2017.05.002, doi:10.1016/j.ejcb.2017.05.002. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ejcb.2017.05.002)
+
+[5. (Gomi2008Cloning) Tomoharu Gomi, Fusao Takusagawa, Mikio Nishizawa, Bukhari Agussalim, Isao Usui, Eiji Sugiyama, Hirofumi Taki, Kouichiro Shinoda, Hiroyuki Hounoki, Toshiro Miwa, Kazuyuki Tobe, Masashi Kobayashi, Tetsuya Ishimoto, Hirofumi Ogawa, and Hisashi Mori. Cloning, bacterial expression, and unique structure of adenosylhomocysteine hydrolase-like protein 1, or inositol 1,4,5-triphosphate receptor-binding protein from mouse kidney. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1784(11):1786–1794, November 2008. URL: http://dx.doi.org/10.1016/j.bbapap.2008.08.016, doi:10.1016/j.bbapap.2008.08.016. This article has 8 citations.](https://doi.org/10.1016/j.bbapap.2008.08.016)
+
+[6. (Devogelaere2008The) Benoit Devogelaere, Eva Sammels, and Humbert De Smedt. The irbit domain adds new functions to the ahcy family. BioEssays, 30(7):642–652, June 2008. URL: http://dx.doi.org/10.1002/bies.20772, doi:10.1002/bies.20772. This article has 37 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/bies.20772)
+
+[7. (Lim2020Adenosylhomocysteinase) Yun-Sook Lim, Han N. Mai, Lap P. Nguyen, Sang Min Kang, Dongseob Tark, and Soon B. Hwang. Adenosylhomocysteinase like 1 interacts with nonstructural 5a and regulates hepatitis c virus propagation. Journal of Microbiology, 59(1):101–109, December 2020. URL: http://dx.doi.org/10.1007/s12275-021-0470-8, doi:10.1007/s12275-021-0470-8. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12275-021-0470-8)

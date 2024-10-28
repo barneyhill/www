@@ -1,0 +1,48 @@
+# CDKL1
+
+## Overview
+CDKL1 (cyclin-dependent kinase-like 1) is a gene that encodes a serine-threonine protein kinase, which is part of the cyclin-dependent kinase-like family. This protein exhibits a classic kinase architecture, characterized by a conserved N-terminal kinase domain, and is involved in various cellular processes, including cell cycle regulation and signal transduction (Endicott2013Structural; Canning2018CDKL). Unlike traditional cyclin-dependent kinases, CDKL1 functions independently of cyclins, and it is predominantly expressed in the brain, lungs, kidneys, and ovaries (Hsu2011Zebrafish). The protein plays a significant role in neuronal development and function, as well as in maintaining cilium length, which is crucial for cellular homeostasis (Canning2018CDKL). CDKL1's involvement in cancer has been noted, with its expression levels influencing tumor progression and immune responses, making it a potential target for therapeutic interventions (Li2019Downregulation; Li2024CDKL1).
+
+## Structure
+The CDKL1 protein is a member of the cyclin-dependent kinase-like family and exhibits a classic bilobal kinase architecture. Its structure includes a conserved N-terminal kinase domain, which is a common feature among CDKL family members (Canning2018CDKL). The primary structure of CDKL1 consists of a sequence of amino acids forming the protein's backbone, with the kinase domain displaying significant sequence identity with other kinases, such as CDK2 (Endicott2013Structural).
+
+The secondary structure of CDKL1 includes alpha helices and beta sheets, typical of kinase domains, although specific details on these elements are not provided in the context. The tertiary structure is characterized by the active kinase fold, with notable features such as the DFG motif, the start of the activation segment, and the C-helix. A salt bridge between a conserved lysine residue on β3 and a glutamate residue on αC is formed, indicative of an active kinase conformation (Endicott2013Structural).
+
+CDKL1 does not have known quaternary structures involving multiple subunits. The protein may undergo post-translational modifications, such as phosphorylation, which are common in kinase regulation, although specific sites are not detailed in the context. There is no mention of splice variant isoforms for CDKL1 in the provided information.
+
+## Function
+CDKL1 (cyclin-dependent kinase-like 1) is a serine-threonine protein kinase that plays a role in cell cycle regulation and signal transduction. It shares structural similarities with cyclin-dependent kinases (CDKs) but operates independently of cyclins. CDKL1 is predominantly expressed in the brain, lungs, kidneys, and ovaries, with notable up-regulation in glial cells during gliosis (Hsu2011Zebrafish). In the context of cellular processes, CDKL1 is capable of autophosphorylation and can phosphorylate substrates such as myelin basic protein and histone H1, indicating its involvement in phosphorylation-dependent signaling pathways (Hsu2011Zebrafish).
+
+In terms of cellular localization, CDKL1 is active in both the cytoplasm and nucleus, where it influences neuronal development and function (Hsu2011Zebrafish). The protein's kinase activity is crucial for maintaining proper cilium length, as demonstrated in studies using C. elegans, where CDKL1-related proteins modulate cilium length (Canning2018CDKL). Although specific roles in human cells are not fully detailed, CDKL1's involvement in these molecular processes suggests its importance in maintaining cellular and organismal homeostasis.
+
+## Clinical Significance
+CDKL1 (cyclin-dependent kinase-like 1) is implicated in various cancers due to its altered expression levels. In neuroblastoma, CDKL1 is significantly upregulated, contributing to the disease's progression. Knockdown of CDKL1 in neuroblastoma cells results in reduced cell proliferation, migration, and invasion, indicating its role as an oncogene in this cancer type (Li2019Downregulation). Similarly, in breast cancer, CDKL1 is overexpressed in tumor tissues compared to benign tissues, with a detection efficiency of 77%. This overexpression is associated with cell cycle regulation and increased sensitivity to chemotherapeutic drugs, suggesting its potential as a tumor marker and therapeutic target (Tang2012Evaluation).
+
+In contrast, CDKL1 is lowly expressed in lung adenocarcinoma, where its overexpression inhibits malignant behaviors such as cell proliferation and invasion, suggesting a tumor-suppressive role. CDKL1 overexpression also enhances radiosensitivity and modulates immune responses by downregulating PD-L1 expression, which could improve the efficacy of radioimmunotherapy (于晋2023cdkl1; Li2024CDKL1). These findings highlight the complex role of CDKL1 in cancer, acting as either an oncogene or tumor suppressor depending on the cancer type.
+
+## Interactions
+CDKL1 interacts with the transcription factor YBX1 in lung cancer cells. This interaction decreases YBX1's binding affinity to the PD-L1 gene promoter, resulting in reduced PD-L1 expression. This reduction is significant as PD-L1 is involved in immune evasion by tumor cells, and its downregulation can enhance the activation of CD8+ T cells, improving the immune response against tumors. The interaction between CDKL1 and YBX1 was confirmed through coimmunoprecipitation and GST pulldown assays (Li2024CDKL1).
+
+In non-small cell lung cancer, CDKL1 is targeted by miR-144-5p, which binds to the 3′-UTR of CDKL1, as demonstrated by dual-luciferase assays and RNA pulldown assays. This interaction suggests a regulatory mechanism at the nucleic acid level, where miR-144-5p negatively correlates with CDKL1 expression levels (Lu2020circRACGAP1).
+
+These interactions highlight CDKL1's role in modulating immune responses and cell proliferation in cancer, making it a potential target for therapeutic interventions.
+
+
+## References
+
+
+[1. (Canning2018CDKL) Peter Canning, Kwangjin Park, João Gonçalves, Chunmei Li, Conor J. Howard, Timothy D. Sharpe, Liam J. Holt, Laurence Pelletier, Alex N. Bullock, and Michel R. Leroux. Cdkl family kinases have evolved distinct structural features and ciliary function. Cell Reports, 22(4):885–894, January 2018. URL: http://dx.doi.org/10.1016/j.celrep.2017.12.083, doi:10.1016/j.celrep.2017.12.083. This article has 56 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2017.12.083)
+
+[2. (Lu2020circRACGAP1) Min Lu, Hui Xiong, Zhen-Kun Xia, Bin Liu, Fang Wu, Hai-Xia Zhang, Chun-Hong Hu, and Ping Liu. Circracgap1 promotes non-small cell lung cancer proliferation by regulating mir-144-5p/cdkl1 signaling pathway. Cancer Gene Therapy, 28(3–4):197–211, August 2020. URL: http://dx.doi.org/10.1038/s41417-020-00209-0, doi:10.1038/s41417-020-00209-0. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41417-020-00209-0)
+
+[3. (Li2024CDKL1) Zixuan Li, Huichan Xue, Jinsong Li, Zhikun Zheng, Zhiwei Liu, Xiaorong Dong, Hongbo Wang, Jing Chen, and Shuangbing Xu. Cdkl1 potentiates the antitumor efficacy of radioimmunotherapy by binding to transcription factor ybx1 and blocking pd-l1 expression in lung cancer. Journal of Experimental &amp; Clinical Cancer Research, March 2024. URL: http://dx.doi.org/10.1186/s13046-024-03007-w, doi:10.1186/s13046-024-03007-w. This article has 0 citations.](https://doi.org/10.1186/s13046-024-03007-w)
+
+[4. (Li2019Downregulation) Weiyi Li, Jing Cao, Jian Liu, Wenli Chu, Congqing Zhang, Shuiling Chen, and Zefeng Kang. Downregulation of cdkl1 suppresses neuroblastoma cell proliferation, migration and invasion. Cellular &amp; Molecular Biology Letters, March 2019. URL: http://dx.doi.org/10.1186/s11658-019-0139-z, doi:10.1186/s11658-019-0139-z. This article has 5 citations.](https://doi.org/10.1186/s11658-019-0139-z)
+
+[5. (Endicott2013Structural) Jane A. Endicott and Martin E.M. Noble. Structural characterization of the cyclin-dependent protein kinase family. Biochemical Society Transactions, 41(4):1008–1016, July 2013. URL: http://dx.doi.org/10.1042/bst20130097, doi:10.1042/bst20130097. This article has 31 citations and is from a peer-reviewed journal.](https://doi.org/10.1042/bst20130097)
+
+[6. (Hsu2011Zebrafish) Li-Sung Hsu, Cyong-Jhih Liang, Chen-Yuan Tseng, Chi-Wei Yeh, and Jen-Ning Tsai. Zebrafish cyclin-dependent protein kinase–like 1 (zcdkl1): identification and functional characterization. International Journal of Molecular Sciences, 12(6):3606–3617, June 2011. URL: http://dx.doi.org/10.3390/ijms12063606, doi:10.3390/ijms12063606. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms12063606)
+
+[7. (Tang2012Evaluation) Li Tang, Yanfang Gao, Feng Yan, and Jinhai Tang. Evaluation of cyclin-dependent kinase-like 1 expression in breast cancer tissues and its regulation in cancer cell growth. Cancer Biotherapy and Radiopharmaceuticals, 27(6):392–398, August 2012. URL: http://dx.doi.org/10.1089/cbr.2012.1198, doi:10.1089/cbr.2012.1198. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1089/cbr.2012.1198)
+
+8. (于晋2023cdkl1) 于晋, 李波, 张武文, and 庄敏彦. Cdkl1 在肺腺癌中的表达及其对肺腺癌细胞恶性生物学行为的影响. 广西医科大学学报, 40(11):1813–1820, 2023. This article has 0 citations.

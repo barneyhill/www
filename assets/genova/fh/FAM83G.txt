@@ -1,0 +1,33 @@
+# FAM83G
+
+## Overview
+FAM83G is a gene that encodes the protein known as PAWS1, which is a member of the protein family with sequence similarity 83. PAWS1 is primarily involved in the bone morphogenetic protein (BMP) signaling pathway, where it functions as a substrate for type I BMP receptors and modulates signaling through interactions with SMAD1, independent of SMAD4 (Vogt2014Protein). This protein is characterized by its ability to translocate from the cytosol to the nucleus upon BMP stimulation, indicating its role in nuclear signaling processes (Vogt2014Protein). Additionally, PAWS1 interacts with various proteins, including the PI3K-p85 subunit and the casein kinase 1 (CK1) family, influencing cellular signaling pathways that are critical for cell proliferation and migration (Jin2022Comprehensive). The gene's expression and interactions have been implicated in several cancers, suggesting its potential as a prognostic biomarker and therapeutic target (Zhang2021Comprehensive; Yuan2022Pan-cancer).
+
+## Function
+The FAM83G gene encodes the protein PAWS1, which plays a significant role in the bone morphogenetic protein (BMP) signaling pathway, a crucial pathway for development and tissue homeostasis. PAWS1 acts as a substrate for type I BMP receptors and modulates BMP signaling by forming a complex with SMAD1 independently of SMAD4, suggesting a unique function in BMP signaling (Vogt2014Protein). This interaction is constitutive and not affected by BMP or TGF-b treatment, indicating a stable role in BMP signaling (Vogt2014Protein).
+
+PAWS1 is phosphorylated at Ser610 by type I BMP receptor kinases, such as ALK3, which is crucial for the activation of SMAD4-independent BMP target genes like NEDD9 and ASNS (Vogt2014Protein). The protein is predominantly located in the cytosol but translocates to the nucleus upon BMP stimulation, suggesting its involvement in nuclear signaling processes (Vogt2014Protein).
+
+PAWS1 also influences the expression of various genes, including FST and TGFBI, in response to BMP-2 treatment, highlighting its role in regulating gene expression both independently and dependently of BMP signaling (Vogt2014Protein).
+
+## Clinical Significance
+FAM83G has been implicated in various cancers due to alterations in its expression levels and interactions. In gastric cancer (GC) and stomach adenocarcinoma (STAD), high mRNA expression of FAM83G is associated with improved overall survival and disease-free survival, suggesting its role as a favorable prognostic marker. However, its protein levels are notably low in these cancers, indicating a complex role in tumorigenesis (Zhang2021Comprehensive). In breast cancer, FAM83G is highly expressed, particularly in triple-negative breast cancer (TNBC), and is linked to poor survival outcomes. Its overexpression promotes cancer cell proliferation, migration, and invasion, partly through the activation of the PI3K/AKT signaling pathway (Jin2022Comprehensive). In hepatocellular carcinoma, FAM83G is also overexpressed and associated with early metastasis and high recurrence rates, further supporting its role as an oncogenic factor (Yuan2022Pan-cancer). These findings suggest that FAM83G could serve as both a prognostic biomarker and a potential therapeutic target in various cancers, although its expression and impact can vary significantly across different tumor types.
+
+## Interactions
+FAM83G, also known as PAWS1, is involved in several protein interactions that play a role in cellular signaling pathways. It has been identified as a novel interacting partner of SMAD1, a protein involved in the bone morphogenetic protein (BMP) signaling pathway. This interaction is specific to SMAD1, SMAD5, and SMAD8, and does not occur with SMAD2, SMAD3, or SMAD4. The interaction between FAM83G and SMAD1 occurs at the MH2 domain of SMAD1 and is not significantly affected by BMP or TGF-beta treatments, which induce phosphorylation of SMAD1 and SMAD2/3, respectively (Vogt2014Protein).
+
+FAM83G also interacts with the PI3K-p85 subunit, which leads to the activation of the PI3K/AKT signaling pathway. This interaction is associated with increased Cyclin D1 expression, decreased p21 expression, and the promotion of epithelial-mesenchymal transition-related factors, contributing to cancer cell proliferation, migration, and invasion (Jin2022Comprehensive).
+
+Additionally, FAM83G is known to bind to the casein kinase 1 (CK1) family of Ser/Thr protein kinases through the DUF1669 domain, affecting CK1's subcellular localization, activity, stability, and substrate specificity (Jin2022Comprehensive).
+
+
+## References
+
+
+[1. (Zhang2021Comprehensive) Tianhao Zhang, Shurong Lai, Yuzhi Cai, Zhixin Huang, Ying Li, Sile Chen, Zhimei Zhang, Zhijun Ye, Xiaoling Lai, Ertao Zhai, Shirong Cai, and Jianhui Chen. Comprehensive analysis and identification of prognostic biomarkers and therapeutic targets among fam83 family members for gastric cancer. Frontiers in Cell and Developmental Biology, November 2021. URL: http://dx.doi.org/10.3389/fcell.2021.719613, doi:10.3389/fcell.2021.719613. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.719613)
+
+[2. (Jin2022Comprehensive) Yi Jin, Jiahui Yu, Yi Jiang, Jiawen Bu, Tong Zhu, Xi Gu, and Xudong Zhu. Comprehensive analysis of the expression, prognostic significance, and function of fam83 family members in breast cancer. World Journal of Surgical Oncology, June 2022. URL: http://dx.doi.org/10.1186/s12957-022-02636-9, doi:10.1186/s12957-022-02636-9. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12957-022-02636-9)
+
+[3. (Yuan2022Pan-cancer) Shangkun Yuan, Zhisheng Huang, Xiaoying Qian, Yong Wang, Chen Fang, Renfang Chen, Xinwei Zhang, Zhehao Xiao, Qian Wang, Biao Yu, and Yong Li. Pan-cancer analysis of the fam83 family and its association with prognosis and tumor microenvironment. Frontiers in Genetics, July 2022. URL: http://dx.doi.org/10.3389/fgene.2022.919559, doi:10.3389/fgene.2022.919559. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.919559)
+
+[4. (Vogt2014Protein) Janis Vogt, Kevin S. Dingwell, Lina Herhaus, Robert Gourlay, Thomas Macartney, David Campbell, James C. Smith, and Gopal P. Sapkota. Protein associated with smad1 (paws1/fam83g) is a substrate for type i bone morphogenetic protein receptors and modulates bone morphogenetic protein signalling. Open Biology, 4(2):130210, February 2014. URL: http://dx.doi.org/10.1098/rsob.130210, doi:10.1098/rsob.130210. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.1098/rsob.130210)

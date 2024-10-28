@@ -1,0 +1,37 @@
+# TOB2
+
+## Overview
+TOB2 (Transducer of ERBB2, 2) is a gene that encodes a protein belonging to the TOB/BTG family, known for its anti-proliferative properties. The TOB2 protein plays a significant role in regulating cell growth and differentiation by modulating transcription and translation processes. It acts as a tumor suppressor candidate, primarily by inhibiting cell cycle progression and promoting mRNA deadenylation and decay. This protein is involved in the negative regulation of proto-oncogenes such as cyclin D1 and c-myc, which are crucial for cell cycle control and cellular proliferation. TOB2's interactions with various proteins, including poly(A)-binding protein C1 (PABPC1) and the CCR4-CAF1 complex, are essential for its function in mRNA turnover. The protein's activity is modulated by phosphorylation, which affects its binding capabilities and functional outcomes. Alterations in TOB2 expression have been linked to diseases such as inflammatory bowel disease and various cancers, highlighting its potential as a therapeutic target (Bai2017Expression; Fonseca‐Camarillo2021Expression; Chen2020Tob2).
+
+## Function
+TOB2 (Transducer of ERBB2, 2) is a member of the TOB/BTG family of anti-proliferative proteins, which play a crucial role in regulating cell growth and differentiation. In healthy human cells, TOB2 is involved in cell cycle control, particularly in inhibiting cell proliferation. It functions by accelerating the degradation of transcripts encoding cell cycle-related proteins, thereby inhibiting the transition from the G0/G1 phase to the S phase of the cell cycle (Li2024miR4255p). TOB2 also interacts with other proteins, such as CPEB and Caf1, to form a complex that negatively regulates the expression of c-myc, a gene essential for cell growth, by promoting the de-adenylation and decay of c-myc mRNA (Li2024miR4255p).
+
+TOB2 is active in both the cytoplasm and nucleus, where it modulates transcription and translation processes. Its role as a tumor suppressor candidate is highlighted by its ability to transcriptionally repress the proto-oncogene cyclin D1, which is involved in cell cycle progression (Fonseca‐Camarillo2021Expression). The protein's anti-proliferative effects are crucial for maintaining cellular homeostasis and preventing uncontrolled cell growth, which is a hallmark of cancerous transformations.
+
+## Clinical Significance
+Alterations in the expression of the TOB2 gene have been associated with various diseases, particularly inflammatory bowel disease (IBD) and certain cancers. In the context of IBD, TOB2 expression is notably higher in patients with ulcerative colitis (UC) in remission compared to those with active UC and control patients. This increased expression is linked to histological remission, suggesting a protective role in regulating the inflammatory response (Fonseca‐Camarillo2021Expression). 
+
+In cancer biology, TOB2 is generally downregulated in many cancer types, including lung adenocarcinoma and ovarian cancer, where its low expression is associated with poor prognosis (Bai2017Expression). The gene's role as a tumor suppressor is supported by its involvement in repressing the proto-oncogene cyclin D1, which is crucial for cell cycle progression (Fonseca‐Camarillo2021Expression). 
+
+Mutations affecting TOB2's phosphorylation, such as the S254D phosphomimetic mutation, enhance its anti-proliferative effects by destabilizing mRNAs related to cell proliferation, which could have implications for diseases involving mRNA turnover dysregulation (Chen2020Tob2). These findings highlight TOB2's potential as a therapeutic target in conditions involving immune dysregulation and cancer.
+
+## Interactions
+TOB2 interacts with several proteins and plays a significant role in mRNA deadenylation and turnover. It forms complexes with poly(A)-binding protein C1 (PABPC1) through its PAM2 motifs, which are crucial for its function in promoting mRNA deadenylation. Mutations in these motifs, such as changing phenylalanine residues to alanines, significantly reduce TOB2's ability to bind PABPC1 (Ezzeddine2007Human). TOB2 also interacts with the CCR4-CAF1 complex, enhancing the second phase of deadenylation mediated by CCR4, a poly(A) nuclease (Ezzeddine2007Human).
+
+Phosphorylation of TOB2 modulates its interactions, particularly with PABP. JNK-induced phosphorylation at multiple serine/threonine sites decreases TOB2's interaction with PABP, while phosphorylation at serine 254 (S254) enhances it. This phosphorylation is suggested to be regulated by CDK-cyclin complexes, which are involved in cell cycle progression (Chen2020Tob2). The S254D mutation in TOB2 increases its interaction with PABP, promoting mRNA deadenylation and decay (Chen2020Tob2).
+
+TOB2 also associates with the Ccr4-Not complex, which is crucial for mRNA deadenylation and decay. This interaction is stabilized by phosphorylation at S254, facilitating the recruitment of deadenylases like Caf1 and Ccr4 to the poly(A)-PABP complex (Chen2020Tob2).
+
+
+## References
+
+
+[1. (Chen2020Tob2) Chyi-Ying A. Chen, Krista Strouz, Kai-Lieh Huang, and Ann-Bin Shyu. Tob2 phosphorylation regulates global mrna turnover to reshape transcriptome and impact cell proliferation. RNA, 26(9):1143–1159, May 2020. URL: http://dx.doi.org/10.1261/rna.073528.119, doi:10.1261/rna.073528.119. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.073528.119)
+
+[2. (Li2024miR4255p) Yuchao Li, Guanhe Chen, Shuxiang Xu, Siqi Xia, Wenqiang Sun, Jie Wang, Shiyi Chen, Songjia Lai, and Xianbo Jia. Mir-425-5p regulates proliferation of bovine mammary epithelial cells by targeting tob2. Genes, 15(2):174, January 2024. URL: http://dx.doi.org/10.3390/genes15020174, doi:10.3390/genes15020174. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes15020174)
+
+[3. (Bai2017Expression) Yuru Bai, Lu Qiao, Ning Xie, Yongquan Shi, Na Liu, and Jinhai Wang. Expression and prognosis analyses of the tob/btg antiproliferative (apro) protein family in human cancers. PLOS ONE, 12(9):e0184902, September 2017. URL: http://dx.doi.org/10.1371/journal.pone.0184902, doi:10.1371/journal.pone.0184902. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0184902)
+
+[4. (Fonseca‐Camarillo2021Expression) Gabriela Fonseca‐Camarillo, Janette Furuzawa‐Carballeda, Ángel A. Priego‐Ranero, Braulio Martínez‐Benítez, Rafael Barreto‐Zúñiga, and Jesús K. Yamamoto‐Furusho. Expression of tob/btg family members in patients with inflammatory bowel disease. Scandinavian Journal of Immunology, January 2021. URL: http://dx.doi.org/10.1111/sji.13004, doi:10.1111/sji.13004. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/sji.13004)
+
+[5. (Ezzeddine2007Human) Nader Ezzeddine, Tsung-Cheng Chang, Wenmiao Zhu, Akio Yamashita, Chyi-Ying A. Chen, Zhenping Zhong, Yukiko Yamashita, Dinghai Zheng, and Ann-Bin Shyu. Human tob, an antiproliferative transcription factor, is a poly(a)-binding protein-dependent positive regulator of cytoplasmic mrna deadenylation. Molecular and Cellular Biology, 27(22):7791–7801, November 2007. URL: http://dx.doi.org/10.1128/mcb.01254-07, doi:10.1128/mcb.01254-07. This article has 139 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.01254-07)

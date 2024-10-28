@@ -1,0 +1,56 @@
+# VGLL4
+
+## Overview
+VGLL4, or vestigial like family member 4, is a gene that encodes a transcriptional cofactor protein involved in the regulation of gene expression, particularly within the Hippo signaling pathway. The VGLL4 protein is characterized as an intrinsically disordered protein, lacking stable secondary structures, and is known for its interaction with TEAD transcription factors through its tandem Tondu (TDU) domains. This interaction is crucial for VGLL4's role as a tumor suppressor, as it competes with the oncogenic YAP protein for TEAD binding, thereby inhibiting YAP-TEAD-mediated transcriptional activity. VGLL4 is implicated in various physiological processes, including heart valve and bone development, and its dysregulation is associated with several cancers, such as breast and colorectal cancer, where it acts to suppress tumorigenic phenotypes (Yamaguchi2020Multiple; Song2019VGLL4; Yu2019VGLL4).
+
+## Structure
+The VGLL4 protein is characterized by its unique molecular structure, which includes two tandem Tondu (TDU) domains crucial for its interaction with TEAD transcription factors (Yamaguchi2020Multiple). These TDU domains are located in the C-terminal region and are essential for VGLL4's function as a tumor suppressor by competing with YAP for TEAD binding (Yamaguchi2020Multiple). The primary structure of VGLL4 consists of amino acids 2-290, as identified in Homo sapiens (Mesrouze2021Biochemical).
+
+In terms of secondary structure, VGLL4 contains an α-helix, a short linker, a β-strand, and two additional α-helices. The α-helices feature a characteristic Φ-D/E-D/E-H-F motif, which is critical for binding interactions (Mesrouze2021Biochemical). The secondary structure composition includes 21.43% alpha helix, 1.7% beta turn, 7.82% extended strand, and 69.05% random coil (Hou2021Genomewide).
+
+VGLL4 is an intrinsically disordered protein, lacking stable β-sheets or α-helices, as indicated by thermal stability assays and circular dichroism spectra (Mesrouze2021Biochemical). It forms trimeric complexes with TEAD4 at high concentrations, suggesting a quaternary structure involving specific protein-protein interactions (Mesrouze2021Biochemical). Post-translational modifications, such as phosphorylation, can influence VGLL4's activity, and alternative splicing may result in different isoforms (Yamaguchi2020Multiple).
+
+## Function
+VGLL4 (vestigial like family member 4) is a transcriptional cofactor that plays a significant role in regulating gene expression through its interaction with TEAD transcription factors, primarily influencing the Hippo signaling pathway. This pathway is crucial for controlling cell proliferation, apoptosis, and organ size, and VGLL4 acts as a transcriptional co-repressor by competing with YAP for binding to TEAD transcription factors, thereby regulating cell growth (Mesrouze2021Biochemical; Yu2019VGLL4).
+
+In heart valve development, VGLL4 is essential for maintaining valve morphology and function. It is expressed in valve interstitial cells and endothelial cells, where it regulates cell proliferation and apoptosis during valve remodeling. VGLL4 deletion leads to over-proliferation of valve interstitial cells and valve malformations, highlighting its role in balancing cell growth and preventing valve disease (Yu2019VGLL4).
+
+VGLL4 also plays a critical role in bone development and osteoblast differentiation. It antagonizes TEADs-mediated transcriptional inhibition of RUNX2, a key factor in osteoblast differentiation, thereby promoting bone formation. VGLL4 deficiency results in impaired bone ossification and reduced osteoblast activity, indicating its importance in skeletal development (Suo2020VGLL4).
+
+## Clinical Significance
+VGLL4 is implicated in various cancers due to its role as a tumor suppressor. In triple-negative breast cancer (TNBC), VGLL4 expression is significantly reduced, correlating with increased tumor cell proliferation and poor prognosis. This downregulation is linked to the activation of the STAT3 signaling pathway, promoting tumorigenesis by enhancing cell proliferation and migration while inhibiting apoptosis (Song2019VGLL4). VGLL4 is also a direct target of miR-454, which is upregulated in TNBC, further contributing to its downregulation and cancer progression (Song2019VGLL4).
+
+In colorectal cancer (CRC), VGLL4 is downregulated, which is associated with larger tumor size, lymph node metastasis, and advanced TNM stage. Its reduced expression correlates with the upregulation of Wnt and Hippo signaling pathways, contributing to tumor growth and decreased patient survival (Jiao2017VGLL4). VGLL4 interacts with TEAD4 to inhibit the transcription of Wnt/b-catenin target genes, and its downregulation disrupts this interaction, promoting CRC progression (Jiao2017VGLL4).
+
+VGLL4's tumor-suppressing role is also noted in other cancers, such as lung, esophageal, and gastric tumors, where its expression is reduced, leading to increased tumor cell proliferation (Yamaguchi2020Multiple).
+
+## Interactions
+VGLL4 interacts with TEAD transcription factors, particularly TEAD1 and TEAD4, to inhibit the activity of the YAP-TEAD complex, which is a critical component of the Hippo signaling pathway. This interaction is mediated through VGLL4's Tondu (TDU) domains, with the TDU2 domain being crucial for binding to TEAD1 and TEAD4. VGLL4 competes with YAP for binding to TEADs, thereby suppressing YAP's oncogenic activity (Zhang2017VGLL4; Gao2018Computational).
+
+VGLL4 lacks intrinsic DNA binding activity and functions as a cofactor that modulates transcription factors. It forms complexes with TEADs, inhibiting their transcriptional activity and thus negatively regulating YAP-TEAD-driven gene expression. This interaction is significant in various cancers, including breast cancer and squamous cell carcinoma, where VGLL4 acts as a tumor suppressor by inhibiting YAP-dependent gene induction and tumorigenic phenotypes (Zhang2017VGLL4; Mickle2021VGLL4).
+
+VGLL4's interaction with TEADs is characterized by its ability to form both binary and ternary complexes, depending on the concentration of the proteins involved. At low concentrations, VGLL4 predominantly forms binary complexes with TEADs, while at higher concentrations, ternary complexes can form (Mesrouze2021Biochemical).
+
+
+## References
+
+
+[1. (Zhang2017VGLL4) Yinglong Zhang, He Shen, Henry G. Withers, Nuo Yang, Kayla E. Denson, Ashley L. Mussell, Alexander Truskinovsky, Qingyu Fan, Irwin H. Gelman, Costa Frangou, and Jianmin Zhang. Vgll4 selectively represses yap-dependent gene induction and tumorigenic phenotypes in breast cancer. Scientific Reports, July 2017. URL: http://dx.doi.org/10.1038/s41598-017-06227-7, doi:10.1038/s41598-017-06227-7. This article has 38 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-06227-7)
+
+[2. (Mesrouze2021Biochemical) Yannick Mesrouze, Marco Meyerhofer, Catherine Zimmermann, Patrizia Fontana, Dirk Erdmann, and Patrick Chène. Biochemical properties of <scp>vgll4</scp> from <scp>homo sapiens</scp> and tgi from <scp>drosophila melanogaster</scp> and possible biological implications. Protein Science, 30(9):1871–1881, June 2021. URL: http://dx.doi.org/10.1002/pro.4138, doi:10.1002/pro.4138. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pro.4138)
+
+[3. (Yu2019VGLL4) Wei Yu, Xueyan Ma, Jinjin Xu, Andreas Wilhelm Heumüller, Zhaoliang Fei, Xue Feng, Xiaodong Wang, Kuo Liu, Jinhui Li, Guizhong Cui, Guangdun Peng, Hongbin Ji, Jinsong Li, Naihe Jing, Hai Song, Zhiqiang Lin, Yun Zhao, Zuoyun Wang, Bin Zhou, and Lei Zhang. Vgll4 plays a critical role in heart valve development and homeostasis. PLOS Genetics, 15(2):e1007977, February 2019. URL: http://dx.doi.org/10.1371/journal.pgen.1007977, doi:10.1371/journal.pgen.1007977. This article has 40 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1007977)
+
+[4. (Yamaguchi2020Multiple) Noritaka Yamaguchi. Multiple roles of vestigial-like family members in tumor development. Frontiers in Oncology, July 2020. URL: http://dx.doi.org/10.3389/fonc.2020.01266, doi:10.3389/fonc.2020.01266. This article has 43 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2020.01266)
+
+[5. (Song2019VGLL4) Hongming Song, Qifeng Luo, Xiaochong Deng, Changle Ji, Dengfeng Li, Amik Munankarmy, Wei Jian, Junyong Zhao, and Lin Fang. Vgll4 interacts with stat3 to function as a tumor suppressor in triple-negative breast cancer. Experimental &amp; Molecular Medicine, 51(11):1–13, November 2019. URL: http://dx.doi.org/10.1038/s12276-019-0338-8, doi:10.1038/s12276-019-0338-8. This article has 11 citations.](https://doi.org/10.1038/s12276-019-0338-8)
+
+[6. (Jiao2017VGLL4) Shi Jiao, Chuanchuan Li, Qian Hao, Haofei Miao, Lei Zhang, Lin Li, and Zhaocai Zhou. Vgll4 targets a tcf4–tead4 complex to coregulate wnt and hippo signalling in colorectal cancer. Nature Communications, January 2017. URL: http://dx.doi.org/10.1038/ncomms14058, doi:10.1038/ncomms14058. This article has 109 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms14058)
+
+[7. (Gao2018Computational) Jian Gao, Yiran Zhang, Han Chen, Qingqing Chen, Dingding Feng, Ling Zhang, and Chenglin Li. Computational insights into the interaction mechanism of transcription cofactor vestigial-like protein 4 binding to tea domain transcription factor 4 by molecular dynamics simulation and molecular mechanics generalized born/surface area) calculation. Journal of Biomolecular Structure and Dynamics, 37(10):2538–2545, November 2018. URL: http://dx.doi.org/10.1080/07391102.2018.1491889, doi:10.1080/07391102.2018.1491889. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/07391102.2018.1491889)
+
+[8. (Suo2020VGLL4) Jinlong Suo, Xue Feng, Jiayi Li, Jinghui Wang, Zuoyun Wang, Lei Zhang, and Weiguo Zou. Vgll4 promotes osteoblast differentiation by antagonizing teads-inhibited runx2 transcription. Science Advances, October 2020. URL: http://dx.doi.org/10.1126/sciadv.aba4147, doi:10.1126/sciadv.aba4147. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.aba4147)
+
+[9. (Mickle2021VGLL4) McKayla Mickle, Gautam Adhikary, Suruchi Shrestha, Wen Xu, and Richard L. Eckert. Vgll4 inhibits yap1/tead signaling to suppress the epidermal squamous cell carcinoma cancer phenotype. Molecular Carcinogenesis, 60(7):497–507, May 2021. URL: http://dx.doi.org/10.1002/mc.23307, doi:10.1002/mc.23307. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/mc.23307)
+
+[10. (Hou2021Genomewide) Dan Hou, Panpan Qin, Xinran Niu, Tong Li, Bingjie Chen, Chengjie Wei, Zhenzhu Jing, Ruili Han, Hong Li, Xiaojun Liu, Yadong Tian, Donghua Li, Zhuanjian Li, Hanfang Cai, and Xiangtao Kang. Genome-wide identification evolution and expression of vestigial-like gene family in chicken. Animal Biotechnology, 33(7):1602–1612, May 2021. URL: http://dx.doi.org/10.1080/10495398.2021.1920425, doi:10.1080/10495398.2021.1920425. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/10495398.2021.1920425)

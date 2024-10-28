@@ -1,0 +1,37 @@
+# GPR182
+
+## Overview
+GPR182 is a gene that encodes the G protein-coupled receptor 182, a member of the atypical chemokine receptor (ACKR) family. This receptor is primarily involved in the scavenging of chemokines, a process that modulates inflammatory responses by shaping chemokine gradients within tissues. Unlike typical G protein-coupled receptors (GPCRs), GPR182 does not engage in classical G-protein signaling due to specific mutations in its structure. Instead, it is constitutively associated with β-arrestin, which suggests a signaling mechanism that is biased towards arrestin interactions. GPR182 is predominantly expressed in endothelial cells, including lymphatic and sinusoidal endothelial cells, and plays a significant role in regulating immune responses by internalizing chemokines through clathrin-mediated endocytosis. Its expression and function have been implicated in various physiological and pathological contexts, including cancer, where it may influence tumor progression and immune evasion (Torphy2022GPR182; Lu2024Constitutive).
+
+## Function
+GPR182 encodes a protein that functions as an atypical chemokine receptor (ACKR), primarily involved in chemokine scavenging. It is expressed mainly on endothelial cells, including lymphatic and sinusoidal endothelial cells, but not on leukocytes (Torphy2022GPR182). GPR182 binds chemokines through a glycosaminoglycan (GAG)-binding motif and internalizes them, directing them to intracellular compartments such as early endosomes and lysosomes. This process modulates inflammation by shaping chemokine gradients in tissues, rather than directly promoting leukocyte migration (Torphy2022GPR182).
+
+Unlike typical G-protein-coupled receptors (GPCRs), GPR182 does not trigger classical G-protein signaling due to mutations in the DRYLAIV motif. Instead, it is constitutively associated with β-arrestin, suggesting a signaling mechanism biased towards arrestin interactions rather than G proteins (Lu2024Constitutive). This characteristic aligns GPR182 with other atypical chemokine receptors, functioning more like a 'decoy' receptor (Lu2024Constitutive).
+
+In healthy human cells, GPR182's role may involve interactions with arrestins, contributing to its function as a chemokine scavenger and regulator of immune responses, although specific functions in non-cancerous contexts are less well-documented (Lu2024Constitutive).
+
+## Clinical Significance
+Alterations in the expression of the GPR182 gene have been linked to various diseases, particularly in the context of cancer. Reduced expression of GPR182 is associated with increased intestinal proliferative capacity, which is significant during intestinal regeneration and adenoma formation. In the Apc Min/+ mouse model, a reduction in GPR182 expression leads to an increased number of adenomas and decreased survival, suggesting its role as a negative regulator of intestinal proliferation (Kechele2017Orphan). In human cancers, GPR182 expression is significantly lower in colon adenocarcinomas compared to normal tissue, and this downregulation is also observed in other carcinomas, including bladder, breast, and liver cancers. This suggests that low GPR182 expression may contribute to cancer progression by increasing tumor burden and proliferation (Kechele2017Orphan).
+
+In melanoma, GPR182 acts as an atypical chemokine receptor that limits antitumor immunity by scavenging chemokines crucial for T cell recruitment. GPR182-deficient mice show increased T cell infiltration and enhanced antitumor immunity, indicating that GPR182 may contribute to resistance against immunotherapy in immunologically cold tumors (Torphy2022GPR182). These findings highlight the potential of targeting GPR182 as a therapeutic strategy in cancer treatment.
+
+## Interactions
+GPR182, also known as ACKR5, is an atypical chemokine receptor that interacts with a variety of proteins and ligands. It is known to interact with β-arrestins in a constitutive, ligand-independent manner, which is crucial for its internalization and chemokine scavenging functions. This interaction is necessary for GPR182 to internalize chemokines and is independent of G protein activation (Torphy2022GPR182; Melgrati2023GPR182). GPR182 also interacts with receptor activity-modifying proteins (RAMPs), specifically RAMP1, RAMP2, and RAMP3, although the functional implications of these interactions are not fully understood (Lorenzen2019Multiplexed).
+
+GPR182 binds to a broad spectrum of chemokines, including CXCL9, CXCL10, and CXCL11, and acts as a scavenger receptor, internalizing these chemokines through clathrin-mediated endocytosis (Torphy2022GPR182). It also binds non-chemokine proteins such as GPR15L and CXCL17 with high affinity, suggesting a role in immune function (Meyrath2024ACKR5GPR182). The receptor's interaction with these ligands does not induce classical G protein signaling, indicating a non-canonical signaling pathway (Torphy2022GPR182). These interactions highlight GPR182's role in modulating chemokine availability and influencing immune responses.
+
+
+## References
+
+
+[1. (Torphy2022GPR182) Robert J. Torphy, Yi Sun, Ronggui Lin, Alayna Caffrey-Carr, Yuki Fujiwara, Felix Ho, Emily N. Miller, Martin D. McCarter, Traci R. Lyons, Richard D. Schulick, Ross M. Kedl, and Yuwen Zhu. Gpr182 limits antitumor immunity via chemokine scavenging in mouse melanoma models. Nature Communications, January 2022. URL: http://dx.doi.org/10.1038/s41467-021-27658-x, doi:10.1038/s41467-021-27658-x. This article has 21 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-27658-x)
+
+[2. (Kechele2017Orphan) Daniel O. Kechele, R. Eric Blue, Bailey Zwarycz, Scott T. Espenschied, Amanda T. Mah, Marni B. Siegel, Charles M. Perou, Shengli Ding, Scott T. Magness, P. Kay Lund, and Kathleen M. Caron. Orphan gpr182 suppresses erk-mediated intestinal proliferation during regeneration and adenoma formation. Journal of Clinical Investigation, 127(2):593–607, January 2017. URL: http://dx.doi.org/10.1172/jci87588, doi:10.1172/jci87588. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci87588)
+
+[3. (Lorenzen2019Multiplexed) Emily Lorenzen, Tea Dodig-Crnković, Ilana B. Kotliar, Elisa Pin, Emilie Ceraudo, Roger D. Vaughan, Mathias Uhlèn, Thomas Huber, Jochen M. Schwenk, and Thomas P. Sakmar. Multiplexed analysis of the secretin-like gpcr-ramp interactome. Science Advances, September 2019. URL: http://dx.doi.org/10.1126/sciadv.aaw2778, doi:10.1126/sciadv.aaw2778. This article has 57 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.aaw2778)
+
+[4. (Melgrati2023GPR182) Serena Melgrati, Oliver J. Gerken, Marc Artinger, Egle Radice, Martyna Szpakowska, Andy Chevigné, Giulia D’Uonnolo, Paola Antonello, Sylvia Thelen, Pawel Pelczar, Daniel F. Legler, and Marcus Thelen. Gpr182 is a broadly scavenging atypical chemokine receptor influencing t-independent immunity. Frontiers in Immunology, July 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1242531, doi:10.3389/fimmu.2023.1242531. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1242531)
+
+5. (Meyrath2024ACKR5GPR182) ACKR5/GPR182 is a scavenger receptor for the atypical chemokine CXCL17, GPR15L and various endogenous peptides. This article has 0 citations.
+
+6. (Lu2024Constitutive) Constitutive G protein coupling profiles of understudied orphan GPCRs. This article has 0 citations.

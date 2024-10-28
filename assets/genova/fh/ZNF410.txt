@@ -1,0 +1,44 @@
+# ZNF410
+
+## Overview
+ZNF410 is a gene that encodes the zinc finger protein 410, a transcription factor characterized by its five tandem C2H2-type zinc finger domains. These domains are integral to the protein's ability to bind DNA, allowing it to regulate gene expression by interacting with specific DNA sequences. Zinc finger protein 410 plays a pivotal role in the regulation of fetal hemoglobin (HbF) expression, primarily through its activation of the CHD4 gene, a component of the NuRD chromatin remodeling complex. This specificity in gene regulation is attributed to the unique clustering of ZNF410 binding sites at the CHD4 locus, which is not observed elsewhere in the genome. The protein's function is largely confined to the nucleus, where it exerts its regulatory effects with minimal impact on other genes. Due to its specific role in HbF regulation, ZNF410 is being explored as a potential therapeutic target for hemoglobinopathies, such as sickle cell disease and beta-thalassemia, offering a promising avenue for treatment with a wide therapeutic index (Kim2021A; Vinjamur2020ZNF410; Lan2020ZNF410).
+
+## Structure
+ZNF410 is a transcription factor characterized by the presence of five tandem C2H2-type zinc finger domains, which are crucial for its DNA-binding capability (Vinjamur2020ZNF410; Lan2020ZNF410). These zinc fingers form the primary structure of the protein and are involved in recognizing a specific DNA sequence, allowing ZNF410 to bind to the major groove of DNA (Lan2020ZNF410). The secondary structure of each zinc finger includes two strands and a helix, coordinating a zinc ion in a tetrahedral C2-Zn-H2 structural unit (Lan2020ZNF410).
+
+The tertiary structure of ZNF410 involves the zinc fingers interacting with DNA, with specific amino acids making contact with DNA base pairs. The middle fingers (ZF2-4) follow a one-finger-three base rule, while the end fingers (ZF1 and ZF5) have varying base contacts (Lan2020ZNF410). The N-terminal region of ZNF410 contains a hairpin loop rich in acidic residues, which acts as a negative auto-regulator of DNA binding by mimicking DNA and interacting with the zinc finger units (Kaur2023Allosteric).
+
+ZNF410 is a monomer in solution and binds DNA with a 1:1 stoichiometry, undergoing conformational changes upon DNA binding (Kaur2023Allosteric). The protein also has different isoforms, some lacking the hairpin loop, which may affect DNA binding (Kaur2023Allosteric).
+
+## Function
+ZNF410 is a transcription factor that plays a crucial role in the regulation of fetal hemoglobin (HbF) expression in human erythroid cells. It functions primarily by activating the CHD4 gene, a component of the NuRD chromatin remodeling complex, which is essential for maintaining HbF in a silenced state. ZNF410 achieves this by binding to two highly conserved clusters of binding sites at the CHD4 promoter and enhancer regions, a specificity not observed elsewhere in the genome (Lan2020ZNF410).
+
+The protein's activity is largely confined to the nucleus, where it interacts with DNA to regulate gene expression. ZNF410's role is highly specific, as it primarily affects the expression of CHD4, with minimal impact on other genes. This specificity is due to the high density of ZNF410 binding motifs at the CHD4 locus, which facilitates its selective binding and regulatory function (Lan2020ZNF410).
+
+In healthy human cells, ZNF410 is dispensable for erythroid maturation and hematopoietic reconstitution, as its knockout does not adversely affect these processes. This makes ZNF410 a potential target for therapeutic strategies aimed at inducing HbF expression in β-hemoglobin disorders without significant side effects (Vinjamur2020ZNF410).
+
+## Clinical Significance
+ZNF410 has been identified as a potential therapeutic target for hemoglobinopathies, such as sickle cell disease and beta-thalassemia, due to its role in regulating fetal hemoglobin (HbF) expression. In these conditions, mutations in the β-globin gene lead to abnormal hemoglobin production, causing severe anemia and other complications. Reactivating HbF can ameliorate these symptoms, and ZNF410's specific regulation of the NuRD component CHD4, which represses HbF, makes it a promising target for therapeutic intervention (Kim2021A; Vinjamur2020ZNF410; Tumburu2021Targeting).
+
+ZNF410's unique binding specificity to CHD4 suggests that targeting this transcription factor could increase HbF levels without the off-target effects associated with other HbF repressors, such as BCL11A. This specificity is achieved through dense clustering of ZNF410 binding sites at the CHD4 promoter and enhancer regions, which are not found elsewhere in the genome (Vinjamur2020ZNF410; Lan2020ZNF410). The knockout of ZNF410 has been shown to be well-tolerated in experimental models, indicating that it is dispensable for normal hematopoietic function and erythroid maturation, thus presenting a wide therapeutic index for potential treatments (Vinjamur2020ZNF410; Lan2020ZNF410).
+
+## Interactions
+ZNF410 is a zinc finger protein that primarily interacts with DNA to regulate gene expression. It specifically binds to a 15-base pair DNA element, targeting the CHD4 gene in mammalian erythroid cells (Kaur2023Allosteric). The protein contains a tandem array of five zinc fingers (ZFs) that are crucial for its DNA binding capability. The ZNF410 ZF domain (ZF1-5) binds to a consensus DNA motif with a dissociation constant (KD) of 22 nM, and the crystal structure reveals that the ZF domain occupies the DNA major groove, making specific contacts with DNA base pairs (Lan2020ZNF410).
+
+ZNF410 also participates in autoregulatory interactions through its N-terminal domain, which contains a hairpin loop that mimics DNA structure and electrostatics. This loop interacts with the ZF array, potentially inhibiting DNA binding by mimicking DNA phosphates. Mutagenesis experiments have shown that altering the charges on this loop can modulate DNA binding affinity (Kaur2023Allosteric).
+
+In addition to its DNA interactions, ZNF410 is involved in chromatin targeting. It is recruited to open chromatin regions marked by H3K27ac, likely through interactions outside the ZF domain, suggesting that regions outside the ZF domain are involved in additional interactions for chromatin targeting (Kaur2023Allosteric).
+
+
+## References
+
+
+[1. (Kaur2023Allosteric) Gundeep Kaur, Ren Ren, Michal Hammel, John R Horton, Jie Yang, Yu Cao, Chenxi He, Fei Lan, Xianjiang Lan, Gerd A Blobel, Robert M Blumenthal, Xing Zhang, and Xiaodong Cheng. Allosteric autoregulation of dna binding via a dna-mimicking protein domain: a biophysical study of znf410–dna interaction using small angle x-ray scattering. Nucleic Acids Research, 51(4):1674–1686, January 2023. URL: http://dx.doi.org/10.1093/nar/gkac1274, doi:10.1093/nar/gkac1274. This article has 5 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkac1274)
+
+[2. (Tumburu2021Targeting) Laxminath Tumburu and Swee Lay Thein. Targeting znf410 as a potential β-hemoglobinopathy therapy. Nature Genetics, 53(5):589–590, April 2021. URL: http://dx.doi.org/10.1038/s41588-021-00817-y, doi:10.1038/s41588-021-00817-y. This article has 1 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41588-021-00817-y)
+
+3. (Vinjamur2020ZNF410) ZNF410 represses fetal globin by devoted control of CHD4/NuRD. This article has 0 citations.
+
+4. (Lan2020ZNF410) ZNF410 uniquely activates the NuRD component CHD4 to silence fetal hemoglobin expression. This article has 0 citations.
+
+[5. (Kim2021A) Juhyun Kim and Ann Dean. A zinc finger transcription factor faithfully dedicated to only a single target gene in erythroid cells. Molecular Cell, 81(2):218–219, January 2021. URL: http://dx.doi.org/10.1016/j.molcel.2020.12.023, doi:10.1016/j.molcel.2020.12.023. This article has 1 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2020.12.023)

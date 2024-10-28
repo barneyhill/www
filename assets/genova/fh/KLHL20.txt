@@ -1,0 +1,46 @@
+# KLHL20
+
+## Overview
+KLHL20 is a gene that encodes the protein kelch-like family member 20, which functions as a substrate adaptor within the Cullin 3 (CUL3) ubiquitin ligase complex. This protein is characterized by its structural domains, including a BTB/POZ domain, a BACK domain, and a kelch-repeat domain, which facilitate its role in protein-protein interactions and substrate recognition (Chen2016Cul3KLHL20). As a key player in cellular processes, the KLHL20 protein is involved in protein trafficking, autophagy regulation, and neural morphogenesis. It mediates the ubiquitination and degradation of various target proteins, influencing pathways related to cell death and cancer progression (Shi2019Kelchlike; Yuan2014K33Linked). The clinical significance of KLHL20 is underscored by its involvement in cancer, where it modulates the stability of tumor suppressor proteins and impacts hypoxia-inducible factor signaling, thereby contributing to tumor growth and resistance to therapies (Chen2016Cul3KLHL20; Yuan2011A).
+
+## Structure
+KLHL20 is a protein characterized by the presence of a BTB/POZ domain, a BACK domain, and a kelch-repeat domain. The BTB domain is involved in protein-protein interactions and adopts a five α-helical fold, which is typical of Cullin-binding proteins (Chen2016Cul3KLHL20). The BACK domain contains a 3-box motif that contributes to the interaction with Cullin3 (Cul3), although some BTB-domain proteins lacking this region do not co-purify with Cul3 (Chen2016Cul3KLHL20). The kelch-repeat domain at the C-terminus forms a β-propeller structure, which is crucial for substrate interaction (Chen2016Cul3KLHL20).
+
+The kelch-repeat domain of KLHL20 specifically interacts with substrates like DAPK1, where the DAPK1 peptide binds as a loose helical turn that inserts into the central pocket of the Kelch domain, contacting all six blades of the β-propeller (Chen2018Structural). This interaction involves a hydrophobic core and a salt bridge, similar to other known interactions in the Kelch family (Chen2018Structural). The structural analysis of KLHL20 provides a template for structure-based drug design, highlighting a hydrophobic interaction surface that includes an exposed cysteine residue, which could be targeted by covalent inhibitors (Chen2018Structural).
+
+## Function
+KLHL20 is a gene that encodes a protein functioning as a substrate adaptor for the Cul3-based ubiquitin E3 ligase complex, playing a crucial role in various cellular processes. In healthy human cells, KLHL20 is involved in protein trafficking, particularly in the post-Golgi transport process. It facilitates the K33-linked polyubiquitination of coronin 7 (Crn7), which is essential for Crn7's recruitment to the trans-Golgi network (TGN) and the assembly of F-actin, a process vital for generating transport carriers and ensuring proper post-Golgi trafficking (Yuan2014K33Linked).
+
+KLHL20 also regulates the stability of several proteins, including death-associated protein kinase (DAPK), by promoting its degradation, thereby negatively regulating cell death processes such as apoptosis and autophagic cell death (Shi2019Kelchlike). It plays a role in autophagy termination by influencing the stability of the ULK1 and VPS34 complexes, preventing excessive autophagy (Shi2019Kelchlike).
+
+In neural morphogenesis, KLHL20 promotes neurite outgrowth and arborization by facilitating the degradation of PDZ-RhoGEF, which inactivates RhoA, a regulator of actin and microtubule dynamics (Chen2016Cul3KLHL20). This function is crucial for the development and remodeling of the nervous system.
+
+## Clinical Significance
+Alterations in the expression or function of the KLHL20 gene have significant clinical implications, particularly in cancer. KLHL20 is implicated in the progression of prostate cancer through its role in the degradation of the tumor suppressor protein PML. This degradation is mediated by the Cul3-KLHL20 ubiquitin ligase complex, which targets PML for ubiquitination and subsequent proteasomal degradation. The downregulation of PML enhances hypoxia-inducible factor-1 (HIF-1) signaling, promoting tumor growth and progression (Yuan2011A). 
+
+KLHL20 is also involved in the regulation of cell death pathways. It interacts with death-associated protein kinase (DAPK), promoting its degradation and thereby counteracting DAPK-induced apoptosis. This mechanism can contribute to resistance against interferon-based therapies in some tumor cells (Chen2016Cul3KLHL20). 
+
+In addition to its role in cancer, KLHL20 is involved in autophagy regulation. It modulates autophagy termination by targeting key autophagy-initiating proteins, preventing excessive autophagy that can lead to cell death. Dysregulation of this process is linked to diseases related to autophagy, such as neurodegenerative diseases and muscle wasting conditions (Shi2019Kelchlike; Chen2016Cul3KLHL20).
+
+## Interactions
+KLHL20 is a substrate adaptor for the Cullin 3 (CUL3) ubiquitin ligase complex, facilitating the ubiquitination and degradation of various target proteins. It interacts with ULK1, a key protein in autophagy, through its kelch-repeat domain, forming a tripartite complex with CUL3. This interaction leads to the ubiquitination and proteasomal degradation of ULK1, which is crucial for the termination of autophagy, particularly under starvation conditions (Liu2016Cul3KLHL20).
+
+KLHL20 also plays a role in protein trafficking by mediating K33-linked polyubiquitination of Coronin 7 (Crn7), which is essential for post-Golgi trafficking. This process involves the assembly of TGN-associated F-actin, promoting the transport of proteins from the trans-Golgi network to the plasma membrane (Yuan2014K33Linked).
+
+In the context of cancer, KLHL20 interacts with the promyelocytic leukemia (PML) protein, targeting it for degradation. This interaction is part of a feedback loop that enhances hypoxia-inducible factor 1 (HIF-1) signaling, promoting tumor progression under hypoxic conditions. The degradation of PML by KLHL20 is facilitated by phosphorylation and isomerization processes, which enhance its recruitment to the CUL3-KLHL20 complex (Yuan2011A).
+
+
+## References
+
+
+[1. (Yuan2014K33Linked) Wei-Chien Yuan, Yu-Ru Lee, Shu-Yu Lin, Li-Ying Chang, Yen Pei Tan, Chin-Chun Hung, Jean-Cheng Kuo, Cheng-Hsin Liu, Mei-Yao Lin, Ming Xu, Zhijian J. Chen, and Ruey-Hwa Chen. K33-linked polyubiquitination of coronin 7 by cul3-klhl20 ubiquitin e3 ligase regulates protein trafficking. Molecular Cell, 54(4):586–600, May 2014. URL: http://dx.doi.org/10.1016/j.molcel.2014.03.035, doi:10.1016/j.molcel.2014.03.035. This article has 133 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2014.03.035)
+
+[2. (Chen2016Cul3KLHL20) Hsin-Yi Chen, Chin-Chih Liu, and Ruey-Hwa Chen. Cul3-klhl20 ubiquitin ligase: physiological functions, stress responses, and disease implications. Cell Division, March 2016. URL: http://dx.doi.org/10.1186/s13008-016-0017-2, doi:10.1186/s13008-016-0017-2. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13008-016-0017-2)
+
+[3. (Liu2016Cul3KLHL20) Chin-Chih Liu, Yu-Ching Lin, Yu-Hsuan Chen, Chun-Ming Chen, Liang-Yu Pang, Hsuan-An Chen, Pei-Rung Wu, Mei-Yao Lin, Si-Tse Jiang, Ting-Fen Tsai, and Ruey-Hwa Chen. Cul3-klhl20 ubiquitin ligase governs the turnover of ulk1 and vps34 complexes to control autophagy termination. Molecular Cell, 61(1):84–97, January 2016. URL: http://dx.doi.org/10.1016/j.molcel.2015.11.001, doi:10.1016/j.molcel.2015.11.001. This article has 181 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2015.11.001)
+
+4. (Chen2018Structural) Structural basis for recruitment of DAPK1 to the KLHL20 E3 ligase. This article has 1 citations.
+
+[5. (Shi2019Kelchlike) Xiaoxian Shi, Senfeng Xiang, Ji Cao, Hong Zhu, Bo Yang, Qiaojun He, and Meidan Ying. Kelch-like proteins: physiological functions and relationships with diseases. Pharmacological Research, 148:104404, October 2019. URL: http://dx.doi.org/10.1016/j.phrs.2019.104404, doi:10.1016/j.phrs.2019.104404. This article has 51 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.phrs.2019.104404)
+
+[6. (Yuan2011A) Wei-Chien Yuan, Yu-Ru Lee, Shiu-Feng Huang, Yu-Min Lin, Tzu-Yin Chen, Hsiang-Ching Chung, Chin-Hsien Tsai, Hsin-Yi Chen, Cheng-Ta Chiang, Chun-Kai Lai, Li-Ting Lu, Chun-Hau Chen, De-Leung Gu, Yeong-Shiau Pu, Yuh-Shan Jou, Kun Ping Lu, Pei-Wen Hsiao, Hsiu-Ming Shih, and Ruey-Hwa Chen. A cullin3-klhl20 ubiquitin ligase-dependent pathway targets pml to potentiate hif-1 signaling and prostate cancer progression. Cancer Cell, 20(2):214–228, August 2011. URL: http://dx.doi.org/10.1016/j.ccr.2011.07.008, doi:10.1016/j.ccr.2011.07.008. This article has 139 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.ccr.2011.07.008)

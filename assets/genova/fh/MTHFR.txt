@@ -1,0 +1,56 @@
+# MTHFR
+
+## Overview
+The MTHFR gene encodes the enzyme methylenetetrahydrofolate reductase, which is a critical component of the folate metabolism pathway. This enzyme is categorized as a reductase and plays a pivotal role in converting 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate, a reaction essential for the remethylation of homocysteine to methionine. Methionine is subsequently utilized in the synthesis of S-adenosylmethionine (SAM), a universal methyl donor involved in numerous methylation processes, including those affecting DNA, RNA, and proteins (Froese2018Structural; Liew2015Methylenetetrahydrofolate). The enzyme's activity is crucial for maintaining normal homocysteine levels, which are important for cardiovascular health. Genetic variations in the MTHFR gene, such as the C677T and A1298C polymorphisms, can significantly impact enzyme function and are associated with various health conditions, including cardiovascular diseases, neural tube defects, and psychiatric disorders (Zhang2022Association; Liew2015Methylenetetrahydrofolate).
+
+## Structure
+The MTHFR (methylenetetrahydrofolate reductase) protein is a crucial enzyme in the folate metabolism pathway, converting 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate. The protein structure includes a catalytic domain and a regulatory domain, connected by a linker that facilitates domain interactions (Savojardo2021A). The catalytic domain features a TIM barrel fold, which is a common structural motif in enzymes (Savojardo2021A). MTHFR functions as a homodimer, which is its quaternary structure, and this dimerization is essential for its enzymatic activity (Savojardo2021A).
+
+The enzyme is subject to post-translational modifications, such as phosphorylation, which can influence its activity (Savojardo2021A). The protein's structure is complex, and modeling efforts have been made using templates from bacterial MTHFR proteins due to the lack of experimentally established human structures (Abhinand2015Insights). The Ala222Val mutation, a common polymorphism, results in a thermolabile enzyme with reduced activity, highlighting the importance of specific residues in maintaining structural integrity (Abhinand2015Insights). Splice variant isoforms of MTHFR may differ in regulatory regions, potentially impacting enzyme function (Savojardo2021A).
+
+## Function
+The MTHFR gene encodes the enzyme methylenetetrahydrofolate reductase, which plays a crucial role in the folate and methionine cycles. This enzyme catalyzes the conversion of 5,10-methylenetetrahydrofolate to 5-methyltetrahydrofolate, a key step in the remethylation of homocysteine to methionine. Methionine is subsequently used to produce S-adenosylmethionine (SAM), a universal methyl donor involved in numerous methylation processes, including DNA, RNA, and protein methylation (Froese2018Structural; Liew2015Methylenetetrahydrofolate).
+
+MTHFR activity is essential for maintaining normal homocysteine levels in the blood, which is important for cardiovascular health. The enzyme's function is regulated by phosphorylation and allosteric inhibition by SAM, its end product. Phosphorylation increases the enzyme's sensitivity to SAM, modulating its activity based on the cell's methylation needs (Froese2018Structural).
+
+In healthy human cells, MTHFR activity primarily occurs in the cytoplasm, where it supports DNA synthesis and repair, as well as overall cellular metabolism and function. Genetic variations in the MTHFR gene can affect enzyme activity, influencing folate metabolism and homocysteine levels, which are critical for cellular health and function (Froese2018Structural; Marini2008The).
+
+## Clinical Significance
+Mutations in the MTHFR gene are associated with a variety of diseases and conditions due to their impact on folate metabolism and homocysteine levels. The C677T polymorphism is linked to elevated homocysteine levels, a risk factor for cardiovascular diseases such as coronary artery disease and stroke (Moll2015Homocysteine; Liew2015Methylenetetrahydrofolate). This polymorphism is also associated with neural tube defects (NTDs), particularly in individuals with the homozygous 677TT genotype, which results in reduced enzyme activity and increased homocysteine levels (Weisberg1998A; van1998A).
+
+The A1298C mutation, while not independently affecting homocysteine levels, can lead to decreased MTHFR activity when present with the C677T mutation, further increasing the risk of NTDs (van1998A). MTHFR mutations are also implicated in psychiatric disorders, with the C677T polymorphism being significantly related to schizophrenia and major depression, particularly in Asian populations (Zhang2022Association).
+
+Severe MTHFR deficiency, caused by various mutations, leads to hyperhomocysteinemia and a range of clinical manifestations, including neurological disorders and developmental delays (Froese2016Mutation). This condition is characterized by elevated plasma homocysteine and low methionine levels, contributing to global DNA hypomethylation and associated health issues (Froese2016Mutation).
+
+## Interactions
+MTHFR (methylenetetrahydrofolate reductase) is involved in several protein-protein interactions that are crucial for its function in the folate cycle. Notably, MTHFR interacts with Methylenetetrahydrofolate Dehydrogenase (MTHFD1), suggesting a direct delivery mechanism for methylenetetrahydrofolate, a substrate for MTHFR. This interaction is supported by 3D modeling, which indicates a potential complex formation where the dehydrogenase/cyclohydrolase domain of MTHFD1 is positioned adjacent to the catalytic domain of MTHFR, facilitating substrate channelling (Buchler2024Evidence).
+
+MTHFR also interacts with General Control Nonderepressible 1 (GCN1), a protein involved in amino acid sensing and the integrated stress response. Under amino acid starvation conditions, GCN1 binds ribosomes and recruits the kinase GCN2, leading to global translation repression and upregulation of ATF4. This interaction highlights MTHFR's role in linking methionine availability to broader metabolic pathways, such as protein translation (Buchler2024Evidence).
+
+The phosphorylation of MTHFR, particularly at threonine 34, is influenced by methionine levels, which affects its interactions with other proteins. High methionine conditions lead to increased phosphorylation, which may modulate these interactions (Buchler2024Evidence).
+
+
+## References
+
+
+[1. (Weisberg1998A) Ilan Weisberg, Pamela Tran, Benedicte Christensen, Sahar Sibani, and Rima Rozen. A second genetic polymorphism in methylenetetrahydrofolate reductase (mthfr) associated with decreased enzyme activity. Molecular Genetics and Metabolism, 64(3):169–172, July 1998. URL: http://dx.doi.org/10.1006/mgme.1998.2714, doi:10.1006/mgme.1998.2714. This article has 950 citations and is from a peer-reviewed journal.](https://doi.org/10.1006/mgme.1998.2714)
+
+2. (Froese2018Structural) Structural basis of human 5,10-methylenetetrahydrofolate reductase (MTHFR) regulation by phosphorylation and S-adenosylmethionine inhibition. This article has 0 citations.
+
+[3. (van1998A) Nathalie M.J. van der Put, Fons Gabreëls, Erik M.B. Stevens, Jan A.M. Smeitink, Frans J.M. Trijbels, Tom K.A.B. Eskes, Lambert P. van den Heuvel, and Henk J. Blom. A second common mutation in the methylenetetrahydrofolate reductase gene: an additional risk factor for neural-tube defects? The American Journal of Human Genetics, 62(5):1044–1051, May 1998. URL: http://dx.doi.org/10.1086/301825, doi:10.1086/301825. This article has 1146 citations.](https://doi.org/10.1086/301825)
+
+[4. (Liew2015Methylenetetrahydrofolate) Siaw-Cheok Liew and Esha Das Gupta. Methylenetetrahydrofolate reductase (mthfr) c677t polymorphism: epidemiology, metabolism and the associated diseases. European Journal of Medical Genetics, 58(1):1–10, January 2015. URL: http://dx.doi.org/10.1016/j.ejmg.2014.10.004, doi:10.1016/j.ejmg.2014.10.004. This article has 314 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ejmg.2014.10.004)
+
+[5. (Abhinand2015Insights) P.A. Abhinand, Faraz Shaikh, Soumendranath Bhakat, Ashish Radadiya, L.V.K.S. Bhaskar, Anamik Shah, and P.K. Ragunath. Insights on the structural perturbations in human mthfr ala222val mutant by protein modeling and molecular dynamics. Journal of Biomolecular Structure and Dynamics, 34(4):892–905, August 2015. URL: http://dx.doi.org/10.1080/07391102.2015.1057866, doi:10.1080/07391102.2015.1057866. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/07391102.2015.1057866)
+
+[6. (Marini2008The) Nicholas J. Marini, Jennifer Gin, Janet Ziegle, Kathryn Hunkapiller Keho, David Ginzinger, Dennis A. Gilbert, and Jasper Rine. The prevalence of folate-remedial mthfr enzyme variants in humans. Proceedings of the National Academy of Sciences, 105(23):8055–8060, June 2008. URL: http://dx.doi.org/10.1073/pnas.0802813105, doi:10.1073/pnas.0802813105. This article has 71 citations.](https://doi.org/10.1073/pnas.0802813105)
+
+[7. (Zhang2022Association) Yu-Xin Zhang, Lu-Ping Yang, Cong Gai, Cui-Cui Cheng, Zhen-yu Guo, Hong-Mei Sun, and Die Hu. Association between variants of mthfr genes and psychiatric disorders: a meta-analysis. Frontiers in Psychiatry, August 2022. URL: http://dx.doi.org/10.3389/fpsyt.2022.976428, doi:10.3389/fpsyt.2022.976428. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fpsyt.2022.976428)
+
+8. (Buchler2024Evidence) Evidence for Interaction of 5,10-Methylenetetrahydrofolate Reductase (MTHFR) with Methylenetetrahydrofolate Dehydrogenase (MTHFD1) and General Control Nonderepressible 1 (GCN1). This article has 0 citations.
+
+[9. (Savojardo2021A) Castrense Savojardo, Giulia Babbi, Davide Baldazzi, Pier Luigi Martelli, and Rita Casadio. A glance into mthfr deficiency at a molecular level. International Journal of Molecular Sciences, 23(1):167, December 2021. URL: http://dx.doi.org/10.3390/ijms23010167, doi:10.3390/ijms23010167. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms23010167)
+
+[10. (Froese2016Mutation) D. Sean Froese, Martina Huemer, Terttu Suormala, Patricie Burda, David Coelho, Jean-Louis Guéant, Markus A. Landolt, Viktor Kožich, Brian Fowler, and Matthias R. Baumgartner. Mutation update and review of severe methylenetetrahydrofolate reductase deficiency. Human Mutation, 37(5):427–438, March 2016. URL: http://dx.doi.org/10.1002/humu.22970, doi:10.1002/humu.22970. This article has 94 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.22970)
+
+[11. (Moll2015Homocysteine) Stephan Moll and Elizabeth A. Varga. Homocysteine and mthfr mutations. Circulation, July 2015. URL: http://dx.doi.org/10.1161/CIRCULATIONAHA.114.013311, doi:10.1161/circulationaha.114.013311. This article has 300 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1161/CIRCULATIONAHA.114.013311)

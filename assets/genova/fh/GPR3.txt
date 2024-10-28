@@ -1,0 +1,60 @@
+# GPR3
+
+## Overview
+GPR3 is a gene that encodes the G protein-coupled receptor 3, a member of the Class A G protein-coupled receptors (GPCRs) family. This receptor is characterized by its seven transmembrane domain structure, which is typical of GPCRs, and is involved in various cellular signaling pathways (Morales2017Methods). The GPR3 protein is constitutively active, meaning it can signal in the absence of an external ligand, and plays a crucial role in maintaining basal levels of cyclic adenosine monophosphate (cAMP) within cells (Tanaka2007Neural). Predominantly expressed in the central nervous system, GPR3 is implicated in neuronal survival, differentiation, and the modulation of amyloid-beta production, which is significant in the context of Alzheimer's disease (Kaushik2017Molecular; Laun2018GPR3). Additionally, GPR3 is involved in reproductive processes, such as maintaining meiotic arrest in oocytes, and has been linked to emotional behavior, neuropathic pain, addiction, and metabolic conditions (Ledent2005Premature; Laun2024A).
+
+## Structure
+The GPR3 protein is a member of the Class A G protein-coupled receptors (GPCRs), characterized by a seven transmembrane (7TM) domain structure, which is typical for GPCRs (Morales2017Methods). The primary structure of GPR3 consists of 330 amino acids (Kaushik2017Molecular). Its secondary structure includes several alpha helices, specifically identified in regions such as 45A-67A, 74A-98A, and 107A-138A, among others (Kaushik2017Molecular). 
+
+The tertiary structure involves the arrangement of these helices within the cell membrane, forming a closed bundle that creates a ligand-binding pocket (Morales2017Methods). The protein's 3D model was optimized using molecular dynamics simulations, which provided insights into its stability and interactions (Kaushik2017Molecular). 
+
+Post-translational modifications of GPR3 include glycosylation at position 20, lipidation at position 313, and phosphorylation at positions 324, 326, and 328, which may influence its function (Kaushik2017Molecular). The protein is expressed predominantly in the brain and other tissues, playing a role in modulating beta-amyloid production, which is significant for Alzheimer's disease research (Kaushik2017Molecular).
+
+## Function
+GPR3 is a G protein-coupled receptor that plays a significant role in maintaining basal levels of cyclic adenosine monophosphate (cAMP) in cells, which is crucial for various cellular processes. It is constitutively active, meaning it can signal without the presence of an external ligand, and is primarily expressed in the central nervous system, including the brain and testis (Lowther2013Regulation; Tanaka2007Neural). In neurons, GPR3 is involved in promoting neurite outgrowth and neuronal survival, particularly in cerebellar granule neurons, where it helps protect against apoptosis-inducing stimuli such as hypoxia and reactive oxygen species (Tanaka2007Neural; Tanaka2014Developmental).
+
+GPR3's signaling involves the activation of adenylate cyclase, leading to increased cAMP levels, which are essential for neuronal differentiation, axon guidance, and survival (Tanaka2014Developmental). It also interacts with β-arrestin2, which is involved in signal transduction pathways, including ERK and Akt, although the exact mechanism of its basal level activation of Akt remains unclear (Tanaka2014Developmental). In addition to its role in the central nervous system, GPR3 is crucial for maintaining meiotic arrest in oocytes, preventing premature resumption of meiosis, which is vital for proper ovulation and fertility (Ledent2005Premature).
+
+## Clinical Significance
+The GPR3 gene is implicated in several diseases and conditions due to its role in modulating amyloid-beta production, which is a key factor in Alzheimer's disease pathology. Overexpression of GPR3 has been shown to increase amyloid-beta production, while its genetic ablation reduces amyloid pathology and improves memory in Alzheimer's disease models (Laun2024A; Laun2018GPR3; Nagata2016Toward). GPR3 is highly expressed in brain regions associated with Alzheimer's disease and is elevated in sporadic Alzheimer's disease brains, suggesting its involvement in the disease (Nagata2016Toward).
+
+In addition to its role in Alzheimer's disease, GPR3 is involved in emotional behavior and mood regulation. Knockout mice exhibit increased anxiety-related responses and altered monoamine neurotransmission, indicating that changes in GPR3 expression can affect emotional states (Watkins2020Orphan; Laun2024A). GPR3 also plays a role in neuropathic pain and addiction, with knockout mice showing hyperalgesia and increased cocaine self-administration (Laun2018GPR3; Laun2024A).
+
+Furthermore, GPR3 is linked to metabolic conditions such as age-related obesity. Knockout mice develop late-onset obesity due to impaired thermogenic function in brown adipose tissue, highlighting the gene's role in energy expenditure and weight regulation (Laun2024A; Godlewski2015Mice).
+
+## Interactions
+GPR3 interacts with several proteins that influence its function and signaling pathways. A key interaction is with β-arrestin2, which is crucial for the modulation of amyloid-beta (Aβ) production. This interaction facilitates the colocalization of GPR3 with the amyloid precursor protein (APP), enhancing Aβ production, a process significant in Alzheimer's disease pathology (Thathiah2009The; Laun2018GPR3). The presence of β-arrestin2 is essential for this interaction, as its knockdown reduces Aβ production in cells expressing GPR3 (Laun2018GPR3).
+
+GPR3 also interacts with GRK2, which, along with β-arrestin2, regulates the receptor's internalization and desensitization. Overexpression of GRK2 and β-arrestin2 decreases GPR3's surface localization and cAMP production, indicating their role in receptor regulation (Lowther2013Regulation). These interactions suggest that GPR3 may signal internally before reaching the cell surface (Lowther2013Regulation).
+
+Additionally, GPR3's interaction with β-arrestin2 modulates γ-secretase activity, which is responsible for APP cleavage, further implicating GPR3 in Aβ production (Capaldi2018Allosteric). These interactions highlight GPR3's role in cellular signaling and its potential as a therapeutic target in Alzheimer's disease.
+
+
+## References
+
+
+[1. (Watkins2020Orphan) Lyndsay R. Watkins and Cesare Orlandi. Orphan g protein coupled receptors in affective disorders. Genes, 11(6):694, June 2020. URL: http://dx.doi.org/10.3390/genes11060694, doi:10.3390/genes11060694. This article has 44 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes11060694)
+
+[2. (Laun2018GPR3) Alyssa S. Laun, Sarah H. Shrader, Kevin J. Brown, and Zhao-Hui Song. Gpr3, gpr6, and gpr12 as novel molecular targets: their biological functions and interaction with cannabidiol. Acta Pharmacologica Sinica, 40(3):300–308, June 2018. URL: http://dx.doi.org/10.1038/s41401-018-0031-9, doi:10.1038/s41401-018-0031-9. This article has 95 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41401-018-0031-9)
+
+[3. (Tanaka2007Neural) Shigeru Tanaka, Ken Ishii, Kazue Kasai, Sung Ok Yoon, and Yoshinaga Saeki. Neural expression of g protein-coupled receptors gpr3, gpr6, and gpr12 up-regulates cyclic amp levels and promotes neurite outgrowth. Journal of Biological Chemistry, 282(14):10506–10515, April 2007. URL: http://dx.doi.org/10.1074/jbc.m700911200, doi:10.1074/jbc.m700911200. This article has 104 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m700911200)
+
+4. (Laun2024A) A study of GPR3, GPR6, of GPR12 as novel molecular targets for cannabidiol. This article has 1 citations.
+
+[5. (Tanaka2014Developmental) Shigeru Tanaka, Tatsuhiro Miyagi, Eisuke Dohi, Takahiro Seki, Izumi Hide, Yusuke Sotomaru, Yoshinaga Saeki, E. Antonio Chiocca, Masayasu Matsumoto, and Norio Sakai. Developmental expression of gpr3 in rodent cerebellar granule neurons is associated with cell survival and protects neurons from various apoptotic stimuli. Neurobiology of Disease, 68:215–227, August 2014. URL: http://dx.doi.org/10.1016/j.nbd.2014.04.007, doi:10.1016/j.nbd.2014.04.007. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.nbd.2014.04.007)
+
+[6. (Godlewski2015Mice) Grzegorz Godlewski, Tony Jourdan, Gergő Szanda, Joseph Tam, Resat Cinar, Judith Harvey-White, Jie Liu, Bani Mukhopadhyay, Pál Pacher, Fong Ming Mo, Douglas Osei-Hyiaman, and George Kunos. Mice lacking gpr3 receptors display late-onset obese phenotype due to impaired thermogenic function in brown adipose tissue. Scientific Reports, October 2015. URL: http://dx.doi.org/10.1038/srep14953, doi:10.1038/srep14953. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep14953)
+
+[7. (Capaldi2018Allosteric) Stefano Capaldi, Eda Suku, Martina Antolini, Mattia Di Giacobbe, Alejandro Giorgetti, and Mario Buffelli. Allosteric sodium binding cavity in gpr3: a novel player in modulation of aβ production. Scientific Reports, July 2018. URL: http://dx.doi.org/10.1038/s41598-018-29475-7, doi:10.1038/s41598-018-29475-7. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-018-29475-7)
+
+[8. (Kaushik2017Molecular) Aman Chandra Kaushik and Shakti Sahi. Molecular modeling and molecular dynamics simulation-based structural analysis of gpr3. Network Modeling Analysis in Health Informatics and Bioinformatics, April 2017. URL: http://dx.doi.org/10.1007/s13721-017-0150-0, doi:10.1007/s13721-017-0150-0. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s13721-017-0150-0)
+
+[9. (Ledent2005Premature) Catherine Ledent, Isabelle Demeestere, David Blum, Julien Petermans, Tuula Hämäläinen, Guillaume Smits, and Gilbert Vassart. Premature ovarian aging in mice deficient for gpr3. Proceedings of the National Academy of Sciences, 102(25):8922–8926, June 2005. URL: http://dx.doi.org/10.1073/pnas.0503840102, doi:10.1073/pnas.0503840102. This article has 113 citations.](https://doi.org/10.1073/pnas.0503840102)
+
+[10. (Morales2017Methods) Paula Morales, Dow P. Hurst, and Patricia H. Reggio. Methods for the Development of In Silico GPCR Models, pages 405–448. Elsevier, 2017. URL: http://dx.doi.org/10.1016/bs.mie.2017.05.005, doi:10.1016/bs.mie.2017.05.005. This article has 15 citations.](https://doi.org/10.1016/bs.mie.2017.05.005)
+
+[11. (Lowther2013Regulation) Katie M. Lowther, Tracy F. Uliasz, Konrad R. Götz, Viacheslav O. Nikolaev, and Lisa M. Mehlmann. Regulation of constitutive gpr3 signaling and surface localization by grk2 and β-arrestin-2 overexpression in hek293 cells. PLoS ONE, 8(6):e65365, June 2013. URL: http://dx.doi.org/10.1371/journal.pone.0065365, doi:10.1371/journal.pone.0065365. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0065365)
+
+[12. (Nagata2016Toward) Koji Nagata, Yukie Katayama, Tomomi Sato, Yeondae Kwon, and Takeshi Kawabata. Toward the next step in g protein-coupled receptor research: a knowledge-driven analysis for the next potential targets in drug discovery. Journal of Structural and Functional Genomics, 17(4):111–133, December 2016. URL: http://dx.doi.org/10.1007/s10969-016-9212-2, doi:10.1007/s10969-016-9212-2. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10969-016-9212-2)
+
+[13. (Thathiah2009The) Amantha Thathiah, Kurt Spittaels, Marcel Hoffmann, Mik Staes, Adrian Cohen, Katrién Horré, Mieke Vanbrabant, Frea Coun, Veerle Baekelandt, André Delacourte, David F. Fischer, Dirk Pollet, Bart De Strooper, and Pascal Merchiers. The orphan g protein–coupled receptor 3 modulates amyloid-beta peptide generation in neurons. Science, 323(5916):946–951, February 2009. URL: http://dx.doi.org/10.1126/science.1160649, doi:10.1126/science.1160649. This article has 138 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1160649)

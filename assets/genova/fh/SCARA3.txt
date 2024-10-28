@@ -1,0 +1,37 @@
+# SCARA3
+
+## Overview
+SCARA3, or scavenger receptor class A member 3, is a gene that encodes a protein belonging to the scavenger receptor family, specifically categorized as a receptor. This protein plays a pivotal role in cellular defense mechanisms against oxidative stress by scavenging reactive oxygen and nitrogen species. SCARA3 is primarily localized in the Golgi apparatus within the endoplasmic reticulum under normal conditions but relocates to the cytoplasm in response to oxidative stress, facilitating the transport of free radicals to lysosomes for degradation. The gene produces two isoforms through alternative splicing, with the full-length isoform, CSR1, being particularly significant for its lipid-binding capabilities and protective function against ultraviolet light damage in corneal cells. SCARA3's interactions, notably with CPSF3, suggest its involvement in RNA processing and gene expression regulation. Clinically, SCARA3 expression is altered in various diseases, including cancer and keratoconus, highlighting its potential as a therapeutic target and its importance in maintaining cellular homeostasis (Kim2022SCARA3; Kenney2019Corneal; Di2022Singlecell).
+
+## Function
+SCARA3, or scavenger receptor class A member 3, plays a crucial role in protecting cells from oxidative stress by scavenging reactive oxygen species (ROS) and reactive nitrogen species (RNS). In healthy human cells, SCARA3 is primarily localized to the Golgi apparatus within the endoplasmic reticulum. Upon exposure to oxidative stress, such as hydrogen peroxide, SCARA3 proteins diffuse into the cytoplasm, where they transport free radicals to lysosomes for processing and removal (Kenney2019Corneal).
+
+SCARA3 has two alternatively spliced variants: the full-length isoform (CSR1) and the shorter isoform (CSR2). The full-length CSR1 isoform contains collagen-like domains that can bind lipids and other negatively charged molecules, enhancing its scavenging function. This isoform is particularly important for corneal cells exposed to sunlight, as its overexpression increases resistance to ultraviolet light damage (Kenney2019Corneal).
+
+SCARA3 is also involved in cellular homeostasis by interacting with CPSF3, an enzyme involved in RNA processing, suggesting a role in pre-mRNA processing and potentially altered gene expression patterns in cells (Kenney2019Corneal). This gene's activity is essential for maintaining cellular resilience against environmental stressors and contributes to the overall oxidative balance in cells (Kenney2019Corneal).
+
+## Clinical Significance
+Alterations in the expression of the SCARA3 gene have been implicated in several diseases, particularly in the context of cancer and oxidative stress-related conditions. In lung cancer, SCARA3 is significantly downregulated, which is associated with poor survival rates. This downregulation is linked to increased cell proliferation and metastasis, suggesting that SCARA3 may function as a tumor suppressor. Overexpression of SCARA3 in lung cancer cells has been shown to reduce cell growth and enhance sensitivity to the chemotherapy drug cisplatin, indicating its potential as a therapeutic target (Kim2022SCARA3).
+
+In colorectal cancer, SCARA3 expression is upregulated and associated with disease progression. Functional assays have demonstrated that SCARA3 promotes tumorigenicity, suggesting its role in cancer progression (Di2022Singlecell).
+
+In keratoconus, a degenerative eye disorder, SCARA3 expression, particularly its variant 2, is decreased. This reduction may contribute to oxidative stress and increased apoptosis in corneal cells, highlighting its role in the pathophysiology of the disease (Kenney2019Corneal). These findings underscore the clinical significance of SCARA3 in various conditions, where its altered expression or function can impact disease progression and treatment outcomes.
+
+## Interactions
+SCARA3, also known as scavenger receptor class A member 3, is involved in several interactions that influence cellular processes. One notable interaction is with CPSF3, an enzyme essential for RNA polyadenylation. The C-terminus of the full-length SCARA3 isoform, CSR1/SCARA3, interacts with CPSF3, affecting its translocation from the nucleus to the cytosol. This interaction may impact pre-mRNA processing and contribute to altered gene expression patterns observed in keratoconus corneas (Kenney2019Corneal).
+
+SCARA3 does not interact with modified lipoproteins such as acetylated LDL (AcLDL), oxidized LDL (OxLDL), or oxidized VLDL (OxVLDL), which is attributed to the absence of the scavenger receptor cysteine-rich (SRCR) domain that is crucial for binding in other scavenger receptor class A members (Cheng2021Recognition). Additionally, SCARA3 does not show detectable binding with ferritin, unlike other class A scavenger receptors such as SCARA1 and MARCO, which do bind ferritin through their SRCR domains (Yu2020Interactions). These findings suggest that SCARA3's interactions are distinct from other members of its receptor class, focusing more on nucleic acid-related processes rather than lipid or protein binding.
+
+
+## References
+
+
+[1. (Di2022Singlecell) Ziyang Di, Sicheng Zhou, Gaoran Xu, Lian Ren, Chengxin Li, Zheyu Ding, Kaixin Huang, Leilei Liang, and Yihang Yuan. Single-cell and wgcna uncover a prognostic model and potential oncogenes in colorectal cancer. Biological Procedures Online, September 2022. URL: http://dx.doi.org/10.1186/s12575-022-00175-x, doi:10.1186/s12575-022-00175-x. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12575-022-00175-x)
+
+[2. (Kenney2019Corneal) Cristina Kenney, ShariR Atilano, DanielH Lee, PaulaS Fukuhara, Marilyn Chwa, AnthonyB Nesburn, and Nitin Udar. Corneal oxidative damage in keratoconus cells due to decreased oxidant elimination from modified expression levels of sod enzymes, prdx6, scara3, cpsf3, and foxm1. Journal of Ophthalmic and Vision Research, 14(1):62, 2019. URL: http://dx.doi.org/10.4103/jovr.jovr_80_18, doi:10.4103/jovr.jovr_80_18. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.4103/jovr.jovr_80_18)
+
+[3. (Yu2020Interactions) Bowen Yu, Chen Cheng, Yichun Wu, Luqiang Guo, Dandan Kong, Ze Zhang, Yuanyuan Wang, Enlin Zheng, Yingbin Liu, and Yongning He. Interactions of ferritin with scavenger receptor class a members. Journal of Biological Chemistry, 295(46):15727–15741, November 2020. URL: http://dx.doi.org/10.1074/jbc.ra120.014690, doi:10.1074/jbc.ra120.014690. This article has 39 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra120.014690)
+
+[4. (Kim2022SCARA3) Jeeho Kim, Ho Jin You, and Chakyung Youn. Scara3 inhibits cell proliferation and emt through akt signaling pathway in lung cancer. BMC Cancer, May 2022. URL: http://dx.doi.org/10.1186/s12885-022-09631-z, doi:10.1186/s12885-022-09631-z. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-022-09631-z)
+
+[5. (Cheng2021Recognition) Chen Cheng, Enlin Zheng, Bowen Yu, Ze Zhang, Yuanyuan Wang, Yingbin Liu, and Yongning He. Recognition of lipoproteins by scavenger receptor class a members. Journal of Biological Chemistry, 297(2):100948, August 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.100948, doi:10.1016/j.jbc.2021.100948. This article has 23 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.100948)

@@ -1,0 +1,39 @@
+# SCFD1
+
+## Overview
+SCFD1 is a gene that encodes the protein sec1 family domain containing 1, which is a member of the Sec1/Munc18 (SM) protein family. This protein is integral to intracellular trafficking and membrane fusion processes, particularly in the context of autophagy. As an SM-like protein, sec1 family domain containing 1 is involved in the regulation of SNARE complex assembly, facilitating the fusion of autophagosomes with lysosomes, a critical step in cellular degradation and homeostasis (Huang2021mTOR-mediated). The protein's interactions with SNARE complex components, such as VAMP8 and STX17, underscore its role in vesicular transport and membrane fusion. Dysregulation of SCFD1 has been linked to various diseases, including amyotrophic lateral sclerosis (ALS) and cardiac defects, highlighting its clinical significance (Fatkin2023Loss; Iacoangeli2021SCFD1).
+
+## Function
+SCFD1 (sec1 family domain containing 1) is a protein that plays a critical role in the process of autophagosome-lysosome fusion, a key step in autophagy. This protein is a Sec1/Munc18 (SM)-like protein, which is evolutionarily conserved and essential for membrane fusion activities. SCFD1 interacts with the SNARE complex components STX17, SNAP29, and VAMP8, facilitating the fusion of autophagosomes with lysosomes, which is crucial for the degradation of cellular components and maintaining cellular homeostasis (Huang2021mTOR-mediated).
+
+SCFD1 is recruited to autolysosomes in a VAMP8-dependent manner, promoting the assembly of the STX17-SNAP29-VAMP8 SNARE complex. This recruitment is essential for the SNARE complex formation and subsequent autophagosome-lysosome fusion. The absence of functional SCFD1 leads to a decrease in SNARE complex assembly efficiency and a blockage in autophagosome-lysosome fusion, resulting in impaired autophagic flux and increased LC3 accumulation (Huang2021mTOR-mediated).
+
+The interaction between SCFD1 and the SNARE complex is regulated by mTORC1-mediated phosphorylation of VAMP8, which inhibits SCFD1-SNARE interaction, suggesting a regulatory role in autophagy (Huang2021mTOR-mediated).
+
+## Clinical Significance
+Mutations and alterations in the expression of the SCFD1 gene have been implicated in several diseases, most notably amyotrophic lateral sclerosis (ALS). SCFD1 is identified as a risk factor for ALS, a neurodegenerative disease characterized by the progressive loss of motor neurons, leading to motor dysfunction. Studies have shown that SCFD1 expression quantitative trait loci (eQTLs) are differentially expressed in ALS patients, influencing both disease risk and survival. These eQTLs form a trans-eQTL hotspot, affecting the expression of multiple genes involved in ALS pathways (Iacoangeli2021SCFD1).
+
+In Drosophila models, knockdown of the SCFD1 orthologue, Slh, results in significant motor deficits, such as impaired flight and climbing abilities, which are early indicators of ALS-like symptoms. This suggests that reduced expression of SCFD1 can lead to motor dysfunction, a hallmark of ALS (Borg2023Loss).
+
+In zebrafish, SCFD1 mutations lead to severe cardiac defects and endoplasmic reticulum stress, highlighting its role in cardiac development and function. These mutations result in phenotypes such as bradycardia and reduced ventricular contractility, which are associated with early embryonic lethality (Fatkin2023Loss). The gene's involvement in vesicular transport processes is crucial for maintaining cellular homeostasis, and its dysregulation can contribute to disease pathogenesis.
+
+## Interactions
+SCFD1, a Sec1/Munc18-like protein, is involved in several critical protein interactions that facilitate vesicular transport and membrane fusion processes. It interacts with the SNARE complex proteins, particularly VAMP8 and STX17, to regulate autophagosome-lysosome fusion. This interaction is crucial for the proper assembly and function of the SNARE complex, which is essential for autophagosome maturation (Huang2021mTOR-mediated). SCFD1's interaction with VAMP8 is modulated by mTOR signaling, where mTORC1-mediated phosphorylation of VAMP8 inhibits SCFD1 recruitment, thus affecting SNARE complex formation (Huang2021mTOR-mediated).
+
+SCFD1 also plays a role in the early secretory pathway, interacting with the ER-to-Golgi Q-SNARE complex, which includes Syntaxin5, GS27, and Bet1. This interaction is important for the sorting and packing of cargo proteins into COPII vesicles (Adolf2018Proteomic). In the context of the Rab6-mediated Golgi-to-ER retrograde transport pathway, SCFD1 is identified as a key regulator, interacting with proteins such as VAMP4 and STX5 to facilitate membrane fusion events (Heffernan2022An). These interactions highlight SCFD1's multifaceted role in intracellular trafficking and membrane fusion processes.
+
+
+## References
+
+
+[1. (Iacoangeli2021SCFD1) Alfredo Iacoangeli, Isabella Fogh, Sashika Selvackadunco, Simon D Topp, Aleksey Shatunov, Wouter van Rheenen, Ahmad Al-Khleifat, Sarah Opie-Martin, Antonia Ratti, Andrea Calvo, John Wim Hardy, Michael E Adriano Weale, Mina Richard J Ryten, Daniah Orla Trabzuni, Adaikalavan Christopher E Ramasamy, Colin Leonard H Smith, Manuel Sebastian Peter M Guelfi, Karishma Bradley N D’sa, Paola Vincenzo Forabosco, Philip Van Damme, Wim Robberecht, Adriano Chio, Richard J Dobson, Orla Hardiman, Christopher E Shaw, Leonard H van den Berg, Peter M Andersen, Bradley N Smith, Vincenzo Silani, Jan H Veldink, Gerome Breen, Claire Troakes, Ammar Al-Chalabi, and Ashley R Jones. Scfd1 expression quantitative trait loci in amyotrophic lateral sclerosis are differentially expressed. Brain Communications, October 2021. URL: http://dx.doi.org/10.1093/braincomms/fcab236, doi:10.1093/braincomms/fcab236. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/braincomms/fcab236)
+
+[2. (Heffernan2022An) Linda F. Heffernan, Pia M. Suckrau, Teerna Banerjee, Margaritha M. Mysior, and Jeremy C. Simpson. An imaging-based rna interference screen for modulators of the rab6-mediated golgi-to-er pathway in mammalian cells. Frontiers in Cell and Developmental Biology, November 2022. URL: http://dx.doi.org/10.3389/fcell.2022.1050190, doi:10.3389/fcell.2022.1050190. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.1050190)
+
+3. (Adolf2018Proteomic) Proteomic Profiling of Mammalian COPII Vesicles. This article has 1 citations.
+
+[4. (Borg2023Loss) Rebecca Borg, Angie Purkiss, Rebecca Cacciottolo, Paul Herrera, and Ruben J. Cauchi. Loss of amyotrophic lateral sclerosis risk factor scfd1 causes motor dysfunction in drosophila. Neurobiology of Aging, 126:67–76, June 2023. URL: http://dx.doi.org/10.1016/j.neurobiolaging.2023.02.005, doi:10.1016/j.neurobiolaging.2023.02.005. This article has 6 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.neurobiolaging.2023.02.005)
+
+[5. (Huang2021mTOR-mediated) Hong Huang, Qinqin Ouyang, Min Zhu, Haijia Yu, Kunrong Mei, and Rong Liu. Mtor-mediated phosphorylation of vamp8 and scfd1 regulates autophagosome maturation. Nature Communications, November 2021. URL: http://dx.doi.org/10.1038/s41467-021-26824-5, doi:10.1038/s41467-021-26824-5. This article has 39 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-26824-5)
+
+[6. (Fatkin2023Loss) Diane Fatkin, Inken G. Huttner, Celine F. Santiago, Arie Jacoby, Delfine Cheng, Gunjan Trivedi, Stephen Cull, Jasmina Cvetkovska, Renee Chand, Joachim Berger, Peter D. Currie, and Kelly A. Smith. Loss of sec-1 family domain-containing 1 (scfd1) causes severe cardiac defects and endoplasmic reticulum stress in zebrafish. SSRN Electronic Journal, 2023. URL: http://dx.doi.org/10.2139/ssrn.4329887, doi:10.2139/ssrn.4329887. This article has 0 citations.](https://doi.org/10.2139/ssrn.4329887)

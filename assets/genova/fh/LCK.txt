@@ -1,0 +1,62 @@
+# LCK
+
+## Overview
+LCK is a gene that encodes the LCK proto-oncogene, a member of the Src family of non-receptor tyrosine kinases, which plays a pivotal role in T-cell signaling. The LCK protein is primarily expressed in T cells and is integral to the T-cell receptor (TCR) signaling pathway, where it phosphorylates immunoreceptor tyrosine-based activation motifs (ITAMs) to initiate downstream signaling cascades. This kinase is crucial for T-cell development, activation, and proliferation, and it interacts with coreceptors such as CD4 and CD8 to facilitate its recruitment to the TCR complex. The activity of LCK is tightly regulated by phosphorylation at specific tyrosine residues, with proteins like CD45 and Csk modulating its activation state. Dysregulation of LCK, through mutations or overexpression, is associated with various immune disorders and malignancies, including severe combined immunodeficiency (SCID) and T-cell leukemias (Palacios2004Function; Zhang2023New).
+
+## Structure
+The LCK protein is a member of the Src family of non-receptor tyrosine kinases and plays a crucial role in T-cell signaling. It has a typical structure found in this family, consisting of several domains: an N-terminal SH4 domain, a unique domain (UD), SH3, SH2, and a catalytic kinase domain (FernándezAguilar2023A; Prakaash2022Molecular). The SH4 domain is involved in membrane localization and undergoes post-translational modifications, including myristoylation at glycine 2 and palmitoylation at cysteines 3 and 5, which are essential for its membrane attachment and biological activity (FernándezAguilar2023A; Prakaash2022Molecular).
+
+The SH2 and SH3 domains are regulatory domains that control LCK's activity. The SH2 domain contains a critical phosphosite, Y192, which is significant for LCK's regulation (Courtney2017A). The kinase domain is responsible for phosphorylating ITAMs and other substrates, playing a key role in TCR signaling (Lo2018Lck).
+
+LCK can exist in different conformations: an unfolded (open) conformation and a folded (closed) conformation. The phosphorylation of tyrosine 505 (Y505) regulates these conformational changes, with phosphorylation generating an SH2-binding site that causes a folded conformation (FernándezAguilar2023A). The protein's structure and function are influenced by its interactions with membrane lipids, particularly PIP2 and PIP3, which form an anionic annulus around the protein (Prakaash2022Molecular).
+
+## Function
+LCK, a member of the Src family of tyrosine kinases, plays a crucial role in T-cell development and activation. It is primarily expressed in T cells and is essential for T-cell receptor (TCR) signaling. LCK is involved in the phosphorylation of immunoreceptor tyrosine-based activation motifs (ITAMs) within the TCR complex, which is a critical step for recruiting and activating the Syk-family kinase ZAP-70, thereby propagating the TCR signaling cascade (Palacios2004Function; Rossy2012How).
+
+LCK is associated with the CD4 and CD8 coreceptors, which are important for its recruitment to the TCR complex upon antigen recognition. This interaction facilitates the phosphorylation of ITAMs and the subsequent activation of downstream signaling pathways, leading to T-cell activation and proliferation (Palacios2004Function; Xu1993A). LCK's activity is regulated by its phosphorylation status at specific tyrosine residues, with CD45 and Csk playing key roles in modulating its activation state (Palacios2004Function; Rossy2012How).
+
+In addition to its kinase activity, LCK may also function as an adaptor molecule, facilitating interactions between various signaling proteins, which underscores its multifaceted role in T-cell activation (Xu1993A).
+
+## Clinical Significance
+Mutations and dysregulation of the LCK gene are implicated in various immune disorders and malignancies. In severe combined immunodeficiency (SCID), defective expression of the p56lck protein, encoded by LCK, leads to significant immunodeficiency. Patients with SCID exhibit symptoms such as lymphopenia and hypogammaglobulinemia, with reduced T cell responsiveness due to mutations affecting LCK expression and function (Goldman1998Defective). 
+
+LCK mutations also result in profound T-cell immune deficiencies, as seen in cases with novel biallelic missense variants. These mutations lead to absent LCK protein expression, impaired TCR signaling, and severe infections, highlighting the critical role of LCK in T-cell function (Lanz2023A).
+
+In malignancies, LCK is overexpressed in T-cell leukemias, such as T-ALL, and is associated with the activation of oncogenic pathways like JAK/STAT and NF-κB, contributing to leukemic cell survival and proliferation (Zhang2023New). The KHDRBS1-LCK fusion protein in peripheral T-cell lymphoma (PTCL-NOS) leads to chronic TCR signaling and lymphoma development, with dasatinib showing potential as a therapeutic intervention (Debackere2021Fusion).
+
+## Interactions
+LCK, a member of the Src family tyrosine kinases, is involved in various protein interactions crucial for T-cell receptor (TCR) signaling. It interacts with the coreceptors CD4 and CD8, which facilitates its recruitment to the TCR-MHC/peptide complex, leading to the phosphorylation of ITAMs within the CD3 and TCRz signaling chains (Palacios2004Function; Xu1993A). LCK also interacts with the phosphatase CD45, which dephosphorylates its C-terminal tail, promoting activation (Rossy2012How; Courtney2017A). 
+
+The SH2 and SH3 domains of LCK mediate interactions with proteins such as Zap70, Cbl, and TSAd. Zap70 is recruited and activated by LCK, playing a role in downstream signaling (Rossy2012How). Cbl, a ubiquitin ligase, binds to LCK's SH3 domain, leading to LCK ubiquitination and degradation, thus negatively regulating its activity (Rao2002Negative). TSAd interacts with LCK through its SH3 domain, facilitating the phosphorylation and activation of ITK, another kinase involved in T-cell signaling (Andersen2019The). 
+
+LCK's interactions are essential for maintaining the balance of active kinase in T cells, influencing T-cell activation and function (Courtney2017A).
+
+
+## References
+
+
+[1. (Debackere2021Fusion) Koen Debackere, Lukas Marcelis, Sofie Demeyer, Marlies Vanden Bempt, Nicole Mentens, Olga Gielen, Kris Jacobs, Michael Broux, Gregor Verhoef, Lucienne Michaux, Carlos Graux, Iwona Wlodarska, Philippe Gaulard, Laurence de Leval, Thomas Tousseyn, Jan Cools, and Daan Dierickx. Fusion transcripts fyn-traf3ip2 and khdrbs1-lck hijack t cell receptor signaling in peripheral t-cell lymphoma, not otherwise specified. Nature Communications, June 2021. URL: http://dx.doi.org/10.1038/s41467-021-24037-4, doi:10.1038/s41467-021-24037-4. This article has 22 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-24037-4)
+
+2. (Prakaash2022Molecular) Molecular dynamics simulations reveal membrane lipid interactions of the full-length lymphocyte specific kinase Lck. This article has 0 citations.
+
+[3. (Xu1993A) Hua Xu and Dan R. Littman. A kinase-independent function of lck in potentiating antigen-specific t cell activation. Cell, 74(4):633–643, August 1993. URL: http://dx.doi.org/10.1016/0092-8674(93)90511-n, doi:10.1016/0092-8674(93)90511-n. This article has 197 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/0092-8674(93)90511-n)
+
+[4. (Lo2018Lck) Wan-Lin Lo, Neel H. Shah, Nagib Ahsan, Veronika Horkova, Ondrej Stepanek, Arthur R. Salomon, John Kuriyan, and Arthur Weiss. Lck promotes zap70-dependent lat phosphorylation by bridging zap70 to lat. Nature Immunology, 19(7):733–741, June 2018. URL: http://dx.doi.org/10.1038/s41590-018-0131-1, doi:10.1038/s41590-018-0131-1. This article has 129 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41590-018-0131-1)
+
+[5. (Palacios2004Function) Emil H Palacios and Arthur Weiss. Function of the src-family kinases, lck and fyn, in t-cell development and activation. Oncogene, 23(48):7990–8000, October 2004. URL: http://dx.doi.org/10.1038/sj.onc.1208074, doi:10.1038/sj.onc.1208074. This article has 560 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.onc.1208074)
+
+[6. (Zhang2023New) Jing Zhang, Yu-Jing Wu, Xiao-Xi Hu, and Wei Wei. New insights into the lck-nf-κb signaling pathway. Frontiers in Cell and Developmental Biology, February 2023. URL: http://dx.doi.org/10.3389/fcell.2023.1120747, doi:10.3389/fcell.2023.1120747. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2023.1120747)
+
+[7. (Lanz2023A) Anna-Lisa Lanz, Serife Erdem, Alper Ozcan, Gulay Ceylaner, Murat Cansever, Serdar Ceylaner, Raffaele Conca, Thomas Magg, Oreste Acuto, Sylvain Latour, Christoph Klein, Turkan Patiroglu, Ekrem Unal, Ahmet Eken, and Fabian Hauck. A novel biallelic lck variant resulting in profound t-cell immune deficiency and review of the literature. Journal of Clinical Immunology, December 2023. URL: http://dx.doi.org/10.1007/s10875-023-01602-8, doi:10.1007/s10875-023-01602-8. This article has 2 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s10875-023-01602-8)
+
+[8. (Courtney2017A) Adam H. Courtney, Jeanine F. Amacher, Theresa A. Kadlecek, Marianne N. Mollenauer, Byron B. Au-Yeung, John Kuriyan, and Arthur Weiss. A phosphosite within the sh2 domain of lck regulates its activation by cd45. Molecular Cell, 67(3):498-511.e6, August 2017. URL: http://dx.doi.org/10.1016/j.molcel.2017.06.024, doi:10.1016/j.molcel.2017.06.024. This article has 53 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2017.06.024)
+
+[9. (FernándezAguilar2023A) Luis M. Fernández-Aguilar, Inmaculada Vico-Barranco, Mikel M. Arbulo-Echevarria, and Enrique Aguado. A story of kinases and adaptors: the role of lck, zap-70 and lat in switch panel governing t-cell development and activation. Biology, 12(9):1163, August 2023. URL: http://dx.doi.org/10.3390/biology12091163, doi:10.3390/biology12091163. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biology12091163)
+
+[10. (Andersen2019The) Thorny Cesilie Bie Andersen, Per Eugen Kristiansen, Zsuzsa Huszenicza, Maria U. Johansson, Ramakrishna Prabhu Gopalakrishnan, Hanna Kjelstrup, Scott Boyken, Vibeke Sundvold-Gjerstad, Stine Granum, Morten Sørli, Paul Hoff Backe, D. Bruce Fulton, B. Göran Karlsson, Amy H. Andreotti, and Anne Spurkland. The sh3 domains of the protein kinases itk and lck compete for adjacent sites on t cell–specific adapter protein. Journal of Biological Chemistry, 294(42):15480–15494, October 2019. URL: http://dx.doi.org/10.1074/jbc.ra119.008318, doi:10.1074/jbc.ra119.008318. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra119.008318)
+
+[11. (Rossy2012How) Jérémie Rossy, David J. Williamson, and Katharina Gaus. How does the kinase lck phosphorylate the t cell receptor? spatial organization as a regulatory mechanism. Frontiers in Immunology, 2012. URL: http://dx.doi.org/10.3389/fimmu.2012.00167, doi:10.3389/fimmu.2012.00167. This article has 58 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2012.00167)
+
+[12. (Goldman1998Defective) F D Goldman, Z K Ballas, B C Schutte, J Kemp, C Hollenback, N Noraz, and N Taylor. Defective expression of p56lck in an infant with severe combined immunodeficiency. Journal of Clinical Investigation, 102(2):421–429, July 1998. URL: http://dx.doi.org/10.1172/jci3205, doi:10.1172/jci3205. This article has 104 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci3205)
+
+[13. (Rao2002Negative) Navin Rao, Sachiko Miyake, Alagarsamy Lakku Reddi, Patrice Douillard, Amiya K. Ghosh, Ingrid L. Dodge, Pengcheng Zhou, Norvin D. Fernandes, and Hamid Band. Negative regulation of lck by cbl ubiquitin ligase. Proceedings of the National Academy of Sciences, 99(6):3794–3799, March 2002. URL: http://dx.doi.org/10.1073/pnas.062055999, doi:10.1073/pnas.062055999. This article has 107 citations.](https://doi.org/10.1073/pnas.062055999)

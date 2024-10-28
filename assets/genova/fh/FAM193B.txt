@@ -1,0 +1,31 @@
+# FAM193B
+
+## Overview
+FAM193B is a gene that encodes a protein belonging to the protein family with sequence similarity 193 member B. This protein is involved in various cellular processes, including protein-protein interactions, particularly within the cytoplasm. FAM193B has been identified as interacting with proteins such as KCTD5, suggesting a role in cellular signaling pathways (Rutz2015Interactions). The gene is expressed in several tissues, including the olfactory bulb, where it may interact with neuropathological substrates, potentially implicating it in neurodegenerative diseases (LachénMontes2020Smelling). Clinically, FAM193B has been associated with prostate cancer and cystic fibrosis, where its expression levels correlate with disease progression and severity, respectively (Wang2024Identification; Polineni2018Airway). Further research is needed to fully elucidate the functional roles and mechanisms of FAM193B in these contexts.
+
+## Structure
+
+
+## Clinical Significance
+FAM193B has been identified as a significant gene in the context of prostate cancer (PRAD), particularly in relation to diagnosis and metastasis. The gene was highlighted in a study by Wang et al. as one of the 18 genes in a diagnostic model for PRAD using the XGBoost algorithm and was also included in a metastasis prediction model constructed with the LASSO algorithm. The study found elevated expression levels of FAM193B in metastatic prostate cancer samples compared to non-metastatic ones, suggesting its potential role in cancer progression (Wang2024Identification).
+
+In cystic fibrosis (CF), FAM193B is associated with decreased expression linked to the chr11p12-p13 risk allele, which is connected to lung disease severity in Phe508del homozygotes. This association indicates that FAM193B may play a role in the genomic regulation of CF lung disease severity, although the specific mechanisms remain to be fully elucidated (Polineni2018Airway).
+
+The gene has also been implicated in other cancers, such as breast and colorectal cancers, where alterations in its expression or function may influence cell proliferation and metastasis. However, specific diseases or conditions directly resulting from FAM193B mutations are not detailed in the provided context.
+
+## Interactions
+FAM193B, also known as LOC54540 or IRIZIO, is a protein that interacts with several cellular proteins, including KCTD5. The interactions between FAM193B and KCTD5 were identified using yeast two-hybrid interaction screening, with KCTD5 serving as the bait. These interactions were confirmed through co-transfection experiments in HEK-293 cells followed by immunoprecipitation. FAM193B interacts strongly with KCTD5 proteins located in the cytoplasm, such as the full-length KCTD5 and its truncated variants KCTD5-1/181 and KCTD5-1/171. Some nuclear variants of KCTD5 can also bind FAM193B, though less efficiently. The differential co-precipitation of KCTD5 variants with FAM193B is largely explained by their subcellular localization, with FAM193B interactions being predominantly cytoplasmic (Rutz2015Interactions).
+
+In the context of olfactory metabolism, FAM193B is highly expressed in the mitral/tufted cell layer of the olfactory bulb. Although specific interactions of FAM193B in this context are not detailed, it is suggested that proteins like FAM193B could be involved in interactions with neuropathological substrates such as amyloid precursor protein (APP), Tau protein, and alpha-synuclein, which are associated with neurodegenerative diseases like Alzheimer's (LachénMontes2020Smelling).
+
+
+## References
+
+
+[1. (Rutz2015Interactions) Natalja Rutz, Regine Heilbronn, and Stefan Weger. Interactions of cullin3/kctd5 complexes with both cytoplasmic and nuclear proteins: evidence for a role in protein stabilization. Biochemical and Biophysical Research Communications, 464(3):922–928, August 2015. URL: http://dx.doi.org/10.1016/j.bbrc.2015.07.069, doi:10.1016/j.bbrc.2015.07.069. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2015.07.069)
+
+[2. (Wang2024Identification) YaXuan Wang, Bo Ji, Lu Zhang, Jinfeng Wang, JiaXin He, BeiChen Ding, and MingHua Ren. Identification of metastasis-related genes for predicting prostate cancer diagnosis, metastasis and immunotherapy drug candidates using machine learning approaches. Biology Direct, June 2024. URL: http://dx.doi.org/10.1186/s13062-024-00494-x, doi:10.1186/s13062-024-00494-x. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13062-024-00494-x)
+
+[3. (LachénMontes2020Smelling) Mercedes Lachén-Montes, Naroa Mendizuri, Karina Ausín, Alberto Pérez-Mediavilla, Mikel Azkargorta, Ibon Iloro, Felix Elortza, Hiroyuki Kondo, Izumi Ohigashi, Isidre Ferrer, Rafael de la Torre, Patricia Robledo, Joaquín Fernández-Irigoyen, and Enrique Santamaría. Smelling the dark proteome: functional characterization of pith domain-containing protein 1 (c1orf128) in olfactory metabolism. Journal of Proteome Research, 19(12):4826–4843, November 2020. URL: http://dx.doi.org/10.1021/acs.jproteome.0c00452, doi:10.1021/acs.jproteome.0c00452. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.jproteome.0c00452)
+
+[4. (Polineni2018Airway) Deepika Polineni, Hong Dang, Paul J. Gallins, Lisa C. Jones, Rhonda G. Pace, Jaclyn R. Stonebraker, Leah A. Commander, Jeanne E. Krenicky, Yi-Hui Zhou, Harriet Corvol, Garry R. Cutting, Mitchell L. Drumm, Lisa J. Strug, Michael P. Boyle, Peter R. Durie, James F. Chmiel, Fei Zou, Fred A. Wright, Wanda K. O’Neal, and Michael R. Knowles. Airway mucosal host defense is key to genomic regulation of cystic fibrosis lung disease severity. American Journal of Respiratory and Critical Care Medicine, 197(1):79–93, January 2018. URL: http://dx.doi.org/10.1164/rccm.201701-0134OC, doi:10.1164/rccm.201701-0134oc. This article has 54 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1164/rccm.201701-0134OC)

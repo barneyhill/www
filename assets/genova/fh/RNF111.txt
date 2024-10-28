@@ -1,0 +1,50 @@
+# RNF111
+
+## Overview
+RNF111, also known as Arkadia, is a gene that encodes the ring finger protein 111, a crucial E3 ubiquitin ligase involved in various cellular processes. This protein is characterized by its RING finger domain, which facilitates the transfer of ubiquitin molecules to target substrates, marking them for degradation or functional modification. As a SUMO-targeted ubiquitin ligase (STUbL), ring finger protein 111 plays a significant role in the DNA damage response, particularly in the nucleotide excision repair pathway, and is involved in the regulation of the transforming growth factor β (TGFβ) signaling pathway. It interacts with multiple proteins through its SUMO interaction motifs, contributing to transcriptional regulation, embryonic development, and genomic stability. Alterations in RNF111 expression or function have been linked to various diseases, including cancer, highlighting its potential as a therapeutic target (Poulsen2013RNF111Arkadia; Sun2014Multiple; Amhaz2023The).
+
+## Structure
+RNF111, also known as Arkadia, is characterized by a RING finger domain, which is crucial for its function as an E3 ubiquitin ligase. This domain is involved in the ubiquitination process, facilitating the transfer of ubiquitin from E2 conjugating enzymes to substrates (Amhaz2023The). The RING domain of RNF111 is described as having a 'cross-brace' zinc finger structure, essential for its interaction with E2 enzymes and its ubiquitin ligase activity (Amhaz2023The).
+
+The protein also contains multiple SUMO interaction motifs (SIMs), which are important for its role as a SUMO-targeted ubiquitin ligase (STUbL). These motifs allow RNF111 to interact with sumoylated proteins, particularly those marked with SUMO1-capped SUMO2/3 chains (Sriramachandran2019ArkadiaRNF111). The SIMs are located between residues 253 and 415, with SIM3 being the most critical for its function (Sun2014Multiple).
+
+RNF111 has a unique linker region, termed the M domain, which is divided into M_N and M_C subdomains. This domain is absent in its paralogs and contributes to its specific function in transcriptional regulation (Sun2014Multiple). The protein's structure and domains are integral to its role in the TGF-β signaling pathway and its localization to nuclear structures like Polycomb bodies (Sun2014Multiple).
+
+## Function
+RNF111, also known as Arkadia, is a SUMO-targeted ubiquitin ligase (STUbL) that plays a significant role in the DNA damage response, particularly in the nucleotide excision repair (NER) pathway. It facilitates the ubiquitylation of the DNA damage recognition protein XPC, which is crucial for the release of XPC from DNA damage sites, allowing the recruitment of NER endonucleases such as XPG and ERCC1/XPF. This process is essential for the efficient repair of UV-induced DNA lesions and maintaining genomic stability (Poulsen2013RNF111Arkadia).
+
+RNF111 also functions in the transforming growth factor β (TGFβ) signaling pathway, where it acts as a ubiquitin ligase that promotes the degradation of inhibitory factors downstream of TGFβ, such as Smad7, SnoN, and c-Ski. This activity enhances the transcriptional activation of TGFβ pathway-specific genes, contributing to transcriptional regulation and embryonic development (Sun2014Multiple).
+
+In addition to its roles in DNA repair and TGFβ signaling, RNF111 is involved in homologous recombination (HR) by regulating histone H4 neddylation at double-strand break sites, which is crucial for effective DNA repair through HR (Chang2021SUMOTargeted).
+
+## Clinical Significance
+Alterations in the expression or function of the RNF111 gene, also known as Arkadia, have been implicated in various diseases, particularly cancers. In gastric cancer, circRNA RNF111 is abnormally expressed and acts as a sponge for miR-27b-3p, influencing cell growth, migration, and invasion. Silencing circRNA RNF111 inhibits these cancerous behaviors, suggesting its role in gastric cancer progression (Wang2020circRNA). In clear-cell renal cell carcinoma (ccRCC), RNF111 interacts with ESRP2 to suppress tumor growth. Lower expression of RNF111 is associated with advanced tumor stages and poor outcomes, highlighting its tumor-suppressive role (Mizutani2015The).
+
+In zebrafish, RNF111 is crucial for the development of hematopoietic stem and progenitor cells (HSPC). Deficiency in RNF111 leads to impaired hematopoiesis due to reduced phosphorylation of Smad2/3 and attenuated Gcsfr/NO signaling, which are essential for HSPC proliferation (Liu2024Rnf111). These findings suggest that RNF111's regulatory role in hematopoiesis and its involvement in cancer progression make it a potential target for therapeutic interventions in related conditions.
+
+## Interactions
+RNF111, also known as Arkadia, is a SUMO-targeted ubiquitin ligase that interacts with various proteins to facilitate its functions in DNA damage response and other cellular processes. RNF111 recognizes poly-SUMO chains through its SUMO-interacting motifs (SIMs) and selectively binds to proteins modified with SUMO2, but not SUMO1 (Poulsen2013RNF111Arkadia). It interacts with the E2 ubiquitin-conjugating enzyme complex Ubc13-Mms2, promoting non-proteolytic K63-linked ubiquitination of SUMOylated proteins (Poulsen2013RNF111Arkadia).
+
+RNF111 plays a crucial role in the nucleotide excision repair (NER) pathway by interacting with the DNA damage sensor protein XPC. It facilitates the UV-induced ubiquitylation of SUMOylated XPC, which is essential for the release of XPC from DNA damage sites, allowing the repair process to proceed (Poulsen2013RNF111Arkadia).
+
+Additionally, RNF111 interacts with UBXN7, where the UAS domain of UBXN7 binds to the RING domain of RNF111. This interaction impairs the E2 enzyme's access to RNF111, regulating its ubiquitin ligase activity and preventing auto-ubiquitylation (Amhaz2023The).
+
+
+## References
+
+
+[1. (Poulsen2013RNF111Arkadia) Sara L. Poulsen, Rebecca K. Hansen, Sebastian A. Wagner, Loes van Cuijk, Gijsbert J. van Belle, Werner Streicher, Mats Wikström, Chunaram Choudhary, Adriaan B. Houtsmuller, Jurgen A. Marteijn, Simon Bekker-Jensen, and Niels Mailand. Rnf111/arkadia is a sumo-targeted ubiquitin ligase that facilitates the dna damage response. Journal of Cell Biology, 201(6):797–807, June 2013. URL: http://dx.doi.org/10.1083/jcb.201212075, doi:10.1083/jcb.201212075. This article has 135 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201212075)
+
+[2. (Wang2020circRNA) Zhibing Wang, Zongdan Jiang, Jin Zhou, and Zheng Liu. Circrna rnf111 regulates the growth, migration and invasion of gastric cancer cells by binding to mir‑27b‑3p. International Journal of Molecular Medicine, August 2020. URL: http://dx.doi.org/10.3892/ijmm.2020.4709, doi:10.3892/ijmm.2020.4709. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijmm.2020.4709)
+
+[3. (Chang2021SUMOTargeted) Ya-Chu Chang, Marissa K. Oram, and Anja-Katrin Bielinsky. Sumo-targeted ubiquitin ligases and their functions in maintaining genome stability. International Journal of Molecular Sciences, 22(10):5391, May 2021. URL: http://dx.doi.org/10.3390/ijms22105391, doi:10.3390/ijms22105391. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms22105391)
+
+[4. (Sriramachandran2019ArkadiaRNF111) Annie M. Sriramachandran, Katrin Meyer-Teschendorf, Stefan Pabst, Helle D. Ulrich, Niels H. Gehring, Kay Hofmann, Gerrit J. K. Praefcke, and R. Jürgen Dohmen. Arkadia/rnf111 is a sumo-targeted ubiquitin ligase with preference for substrates marked with sumo1-capped sumo2/3 chain. Nature Communications, August 2019. URL: http://dx.doi.org/10.1038/s41467-019-11549-3, doi:10.1038/s41467-019-11549-3. This article has 54 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-11549-3)
+
+[5. (Liu2024Rnf111) Xiaohui Liu, Jinghan Sha, Luxiang Wang, Zixuan Wang, Zhou Fang, Xiao Han, Shuiyi Tan, Yi Chen, Hao Yuan, Hugues De The, Jun Zhou, and Jun Zhu. Rnf111 has a pivotal role in regulating development of definitive hematopoietic stem and progenitor cells through the smad2/3-gcsfr/no axis in zebrafish. Haematologica, October 2024. URL: http://dx.doi.org/10.3324/haematol.2024.285438, doi:10.3324/haematol.2024.285438. This article has 0 citations.](https://doi.org/10.3324/haematol.2024.285438)
+
+[6. (Mizutani2015The) A Mizutani, D Koinuma, H Seimiya, and K Miyazono. The arkadia-esrp2 axis suppresses tumor progression: analyses in clear-cell renal cell carcinoma. Oncogene, 35(27):3514–3523, November 2015. URL: http://dx.doi.org/10.1038/onc.2015.412, doi:10.1038/onc.2015.412. This article has 42 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2015.412)
+
+[7. (Sun2014Multiple) Huaiyu Sun, Yijing Liu, and Tony Hunter. Multiple arkadia/rnf111 structures coordinate its polycomb body association and transcriptional control. Molecular and Cellular Biology, 34(16):2981–2995, August 2014. URL: http://dx.doi.org/10.1128/MCB.00036-14, doi:10.1128/mcb.00036-14. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.00036-14)
+
+[8. (Amhaz2023The) Sadek Amhaz, Batiste Boëda, Mouna Chouchène, Sabrina Colasse, Florent Dingli, Damarys Loew, Julien Henri, Céline Prunier, and Laurence Levy. The uas thioredoxin-like domain of ubxn7 regulates e3 ubiquitin ligase activity of rnf111/arkadia. BMC Biology, April 2023. URL: http://dx.doi.org/10.1186/s12915-023-01576-4, doi:10.1186/s12915-023-01576-4. This article has 1 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s12915-023-01576-4)

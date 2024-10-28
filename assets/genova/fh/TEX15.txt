@@ -1,0 +1,50 @@
+# TEX15
+
+## Overview
+TEX15 is a gene that encodes the testis-expressed 15 protein, which is primarily associated with meiosis and synapsis in male germ cells. This protein is crucial for DNA repair processes during meiosis, playing a significant role in spermatogenesis by ensuring genomic stability through the silencing of transposable elements (TEs) and facilitating chromosome synapsis and meiotic recombination. TEX15 is a serine-rich protein that interacts with members of the PIWI protein family, such as MILI and MIWI2, to mediate DNA methylation and TE silencing, particularly in embryonic male germ cells. The gene's function is vital for the repair of DNA double-strand breaks, acting downstream of SPO11 and upstream of RAD51 and DMC1. Mutations in TEX15 have been linked to male infertility, including conditions like non-obstructive azoospermia and severe oligozoospermia, due to its essential role in meiosis and DNA repair (Qureshi2023Genomic; Yang2020TEX15; Bellil2021Human).
+
+## Structure
+The TEX15 protein is a serine-rich protein involved in DNA repair during meiosis, crucial for spermatogenesis. It consists of 3,176 amino acids and is predicted to be largely disordered, complicating structural interpretation (Qureshi2023Genomic; Bellil2021Human). Despite this, some globular domains have been predicted, particularly a C-terminal region with three alpha-helical bundles, which may interact with each other, affecting protein stability and function (Qureshi2023Genomic). 
+
+The primary structure of TEX15 includes a sequence identity of 47% compared to its mouse counterpart, indicating significant evolutionary conservation (Bellil2021Human). The protein's tertiary structure has been modeled using tools like AlphaFold and Phyre2, revealing regions important for interhelical packing, such as an alpha-helix where a missense variant can cause steric clashes, potentially destabilizing the protein's structure (Qureshi2023Genomic). 
+
+Post-translational modifications, including acetylation, glycosylation, and phosphorylation, are affected by TEX15 variants, which can influence the protein's function (Qureshi2023Genomic). The gene's allelic heterogeneity and the presence of frameshifts and premature stops further complicate its structural and functional characterization (Qureshi2023Genomic).
+
+## Function
+The TEX15 gene encodes a testis-specific protein that plays a crucial role in the silencing of transposable elements (TEs) in male germ cells. TEX15 is involved in DNA methylation, a key mechanism for TE silencing, and functions as a nuclear effector of the PIWI protein MILI. It is essential for the methylation and silencing of LINE1 retrotransposons, particularly in embryonic male germ cells, and contributes to maintaining genomic stability by preventing the activation of these elements (Yang2020TEX15).
+
+TEX15 is also involved in meiotic processes, including chromosome synapsis and meiotic recombination. It functions downstream of DNA double-strand break (DSB) repair by SPO11 and upstream of repair by RAD51 and DMC1, indicating its role in the repair of DSBs during meiosis. TEX15 interacts with MIWI2 in fetal gonocytes for piwi-interacting RNA-directed de novo DNA methylation of transposons (Bellil2021Human).
+
+In Tex15-deficient mice, there is a derepression of TEs, leading to meiotic arrest and male sterility, highlighting its essential role in spermatogenesis and male fertility (Yang2020TEX15; Schöpp2020TEX15).
+
+## Clinical Significance
+Mutations in the TEX15 gene are associated with male infertility, particularly due to spermatogenic failure. This gene plays a crucial role in meiosis and DNA repair during spermatogenesis. Variants in TEX15 have been linked to conditions such as non-obstructive azoospermia (NOA) and severe oligozoospermia (SO), which are characterized by a lack of sperm in semen or a significantly reduced sperm count, respectively (GuzmánJiménez2022Contribution; Ruan2012Genetic). 
+
+In a study involving a Turkish family, a nonsense mutation in TEX15 was identified as the cause of spermatogenic failure, leading to meiotic arrest and reduced testis size, similar to phenotypes observed in Tex15 knockout mice (Okutman2015Exome). Another study highlighted the presence of compound heterozygous TEX15 variants in patients with unexplained spermatogenic failure, suggesting these variants are potentially causative (Qureshi2023Genomic).
+
+The gene's role in DNA repair and meiotic recombination is critical, and its dysfunction can lead to early meiotic arrest and impaired spermatogenesis (Qureshi2023Genomic). The allelic heterogeneity of TEX15 variants underscores the complexity of its contribution to male infertility (Qureshi2023Genomic).
+
+## Interactions
+TEX15 is a testis-specific protein that plays a crucial role in the silencing of transposable elements (TEs) in male germ cells through interactions with members of the PIWI protein family. TEX15 interacts with MILI, a PIWI family member, suggesting it functions as a nuclear effector of MILI to silence TEs via DNA methylation. This interaction is essential for the repression of TEs, as the loss of TEX15 leads to TE desilencing despite normal piRNA production (Yang2020TEX15).
+
+TEX15 also interacts with MIWI2, another PIWI family protein, in fetal gonocytes. This interaction is crucial for piRNA-directed de novo DNA methylation of transposons, indicating TEX15's role in maintaining genomic stability through epigenetic regulation (Schöpp2020TEX15; Bellil2021Human). The interaction between TEX15 and MIWI2 was confirmed through immunoprecipitation coupled with quantitative mass spectrometry (Schöpp2020TEX15).
+
+TEX15 is not required for piRNA biogenesis but is essential for the nuclear function of MIWI2, specifically in the de novo methylation of TEs regulated by the MIWI2-piRNA pathway (Schöpp2020TEX15). These interactions highlight TEX15's critical role in the piRNA pathway and TE silencing in the male germline.
+
+
+## References
+
+
+[1. (Qureshi2023Genomic) Sidra Qureshi, Jimmaline J. Hardy, Christopher Pombar, Andrea J. Berman, Agnieszka Malcher, Tara Gingrich, Rachel Hvasta, Jannah Kuong, Sarah Munyoki, Kathleen Hwang, Kyle E. Orwig, Jawad Ahmed, Marta Olszewska, Maciej Kurpisz, Donald F. Conrad, Muhammad Jaseem Khan, and Alexander N. Yatsenko. Genomic study of tex15 variants: prevalence and allelic heterogeneity in men with spermatogenic failure. Frontiers in Genetics, May 2023. URL: http://dx.doi.org/10.3389/fgene.2023.1134849, doi:10.3389/fgene.2023.1134849. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2023.1134849)
+
+[2. (Bellil2021Human) Hela Bellil, Farah Ghieh, Emeline Hermel, Béatrice Mandon-Pepin, and François Vialard. Human testis-expressed (tex) genes: a review focused on spermatogenesis and male fertility. Basic and Clinical Andrology, April 2021. URL: http://dx.doi.org/10.1186/S12610-021-00127-7, doi:10.1186/s12610-021-00127-7. This article has 31 citations.](https://doi.org/10.1186/S12610-021-00127-7)
+
+[3. (Yang2020TEX15) Fang Yang, Yemin Lan, Radha Raman Pandey, David Homolka, Shelley L. Berger, Ramesh S. Pillai, Marisa S. Bartolomei, and P. Jeremy Wang. Tex15 associates with mili and silences transposable elements in male germ cells. Genes &amp; Development, 34(11–12):745–750, May 2020. URL: http://dx.doi.org/10.1101/gad.335489.119, doi:10.1101/gad.335489.119. This article has 34 citations.](https://doi.org/10.1101/gad.335489.119)
+
+[4. (Okutman2015Exome) Ozlem Okutman, Jean Muller, Yoni Baert, Munevver Serdarogullari, Meral Gultomruk, Amélie Piton, Charlotte Rombaut, Moncef Benkhalifa, Marius Teletin, Valerie Skory, Emre Bakircioglu, Ellen Goossens, Mustafa Bahceci, and Stéphane Viville. Exome sequencing reveals a nonsense mutation intex15causing spermatogenic failure in a turkish family. Human Molecular Genetics, 24(19):5581–5588, July 2015. URL: http://dx.doi.org/10.1093/hmg/ddv290, doi:10.1093/hmg/ddv290. This article has 96 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddv290)
+
+[5. (GuzmánJiménez2022Contribution) Andrea Guzmán-Jiménez, Sara González-Muñoz, Miriam Cerván-Martín, Rocío Rivera-Egea, Nicolás Garrido, Saturnino Luján, Samuel Santos-Ribeiro, José A. Castilla, M. Carmen Gonzalvo, Ana Clavero, F. Javier Vicente, Vicente Maldonado, Javier Villegas-Salmerón, Miguel Burgos, Rafael Jiménez, Maria Graça Pinto, Isabel Pereira, Joaquim Nunes, Josvany Sánchez-Curbelo, Olga López-Rodrigo, Iris Pereira-Caetano, Patricia Isabel Marques, Filipa Carvalho, Alberto Barros, Lluís Bassas, Susana Seixas, João Gonçalves, Alexandra M. Lopes, Sara Larriba, Rogelio J. Palomino-Morales, F. David Carmona, and Lara Bossini-Castillo. Contribution of tex15 genetic variants to the risk of developing severe non-obstructive oligozoospermia. Frontiers in Cell and Developmental Biology, December 2022. URL: http://dx.doi.org/10.3389/fcell.2022.1089782, doi:10.3389/fcell.2022.1089782. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.1089782)
+
+[6. (Ruan2012Genetic) Jian Ruan, Xiao-Jin He, Wei-Dong Du, Gang Chen, Yuan Zhou, Song Xu, Xian-Bo Zuo, Li-Bin Fang, Yun-Xia Cao, and Xue-Jun Zhang. Genetic variants in tex15 gene conferred susceptibility to spermatogenic failure in the chinese han population. Reproductive Sciences, 19(11):1190–1196, November 2012. URL: http://dx.doi.org/10.1177/1933719112446076, doi:10.1177/1933719112446076. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1177/1933719112446076)
+
+[7. (Schöpp2020TEX15) Theresa Schöpp, Ansgar Zoch, Rebecca V. Berrens, Tania Auchynnikava, Yuka Kabayama, Lina Vasiliauskaitė, Juri Rappsilber, Robin C. Allshire, and Dónal O’Carroll. Tex15 is an essential executor of miwi2-directed transposon dna methylation and silencing. Nature Communications, July 2020. URL: http://dx.doi.org/10.1038/s41467-020-17372-5, doi:10.1038/s41467-020-17372-5. This article has 48 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-020-17372-5)

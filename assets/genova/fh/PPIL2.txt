@@ -1,0 +1,42 @@
+# PPIL2
+
+## Overview
+PPIL2 is a gene that encodes the protein peptidylprolyl isomerase like 2, which is a member of the cyclophilin family of proteins. This protein is characterized by its dual functionality, possessing both a U-box domain that acts as an E3 ubiquitin ligase and a C-terminal isomerase domain involved in protein folding. The U-box domain facilitates the ubiquitination of target proteins, playing a crucial role in various cellular processes, including DNA damage repair and the regulation of the epithelial-mesenchymal transition (EMT) (Rajiv2018Structural; Davis2010Structural). PPIL2 is involved in the homologous recombination repair pathway by modulating the activity of proteins such as CtIP and SNAI1, thereby influencing cancer metastasis and cellular homeostasis (Qiu2022PLK1mediated; Jia2018Ubox). Additionally, PPIL2 has been studied in the context of Alzheimer's disease, where its mRNA levels have shown correlations with BACE1, suggesting a potential role in the disease's progression (Beyer2014mRNA).
+
+## Structure
+PPIL2 is a multidomain cyclophilin protein that includes an N-terminal U-box motif and a C-terminal isomerase domain. The U-box domain, spanning amino acids 42-101, functions as an E3 ubiquitin ligase, capable of producing poly-ubiquitin chains in the presence of ubiquitin, E1, and E2 proteins (Rajiv2018Structural). The isomerase domain, which has been structurally characterized, is involved in protein folding through its peptidyl-prolyl cis-trans isomerase activity (Davis2010Structural). 
+
+PPIL2 is part of the cyclophilin family, characterized by a central closed barrel type beta fold, with large regions of ordered loops and two small helices packed against the loop region and sheets β7-β8 of the central barrel (Rajiv2018Structural). Despite its structural similarity to other cyclophilins, PPIL2 does not bind cyclosporin, indicating divergence in its active site (Davis2010Structural). 
+
+PPIL2 interacts with spliceosomal proteins such as ZNF830 and PRCC, with the U-box motif and the isomerase domain mediating these interactions (Rajiv2018Structural). The protein may undergo post-translational modifications, including phosphorylation and ubiquitination, and exists in multiple splice variant isoforms.
+
+## Function
+PPIL2, a U-box-type E3 ubiquitin ligase, plays a significant role in DNA damage repair and cellular processes in human cells. It is involved in the regulation of homologous recombination (HR), a critical DNA double-strand break repair pathway. PPIL2 is recruited to DNA damage sites, particularly double-strand breaks, through its interaction with ZNF830, and this recruitment is essential for its function in DNA repair (Qiu2022PLK1mediated). PPIL2 interacts with CtIP, a key protein in HR, and ubiquitinates it at the K426 site, which suppresses HR by preventing CtIP from interacting with DNA (Qiu2022PLK1mediated). This ubiquitination is modulated by PLK1-mediated phosphorylation, which reduces PPIL2's ability to ubiquitinate CtIP, thereby promoting HR (Qiu2022PLK1mediated).
+
+In addition to its role in DNA repair, PPIL2 is involved in the epithelial-mesenchymal transition (EMT) process, which is crucial for cancer metastasis. It inhibits EMT by promoting the ubiquitination and degradation of SNAI1, a transcription factor involved in EMT, thereby suppressing cancer cell invasion and metastasis (Jia2018Ubox). PPIL2's activity in these processes highlights its importance in maintaining cellular homeostasis and preventing pathological conditions such as cancer.
+
+## Clinical Significance
+PPIL2 has been implicated in breast cancer, where its expression levels are associated with cancer progression and metastasis. Studies have shown that PPIL2 suppresses breast cancer invasion and metastasis by promoting the ubiquitination and degradation of the SNAI1 protein, a key regulator of the epithelial-mesenchymal transition (EMT) process. Lower expression of PPIL2 is correlated with increased breast cancer infiltration and lymphatic metastasis, suggesting its role as a metastasis suppressor (Jia2018Ubox). In clinical samples, PPIL2 expression is lower in ductal breast carcinoma compared to normal tissues, and there is a negative correlation between PPIL2 and SNAI1 expression levels (Jia2018Ubox).
+
+In Alzheimer's disease, PPIL2 mRNA levels have been studied in relation to BACE1, an enzyme involved in amyloid-beta production. Although no significant differences in PPIL2 mRNA levels were found between Alzheimer's patients and controls, PPIL2 mRNA levels correlated with BACE1 mRNA levels, suggesting a potential regulatory interaction. This correlation was particularly noted in certain brain regions, indicating that PPIL2 may play a role in the disease's progression (Beyer2014mRNA).
+
+## Interactions
+PPIL2, a U-box-type E3 ubiquitin ligase, is involved in several protein interactions that influence cellular processes. It interacts with SNAI1, a key transcription factor in the epithelial-mesenchymal transition (EMT) process, promoting its ubiquitination and degradation. This interaction occurs through the U-box domain of PPIL2 and the N-terminal of SNAI1, and is crucial for suppressing breast cancer invasion and metastasis (Jia2018Ubox).
+
+PPIL2 also interacts with CtIP, a protein essential for homologous recombination (HR) repair. It ubiquitinates CtIP at the K426 site, which suppresses HR and DNA resection. This interaction is modulated by PLK1-mediated phosphorylation of PPIL2, which reduces its ability to ubiquitinate CtIP, thereby influencing DNA repair processes (Qiu2022PLK1mediated).
+
+In the context of DNA damage, PPIL2 is recruited to double-strand break sites through its interaction with ZNF830, a protein involved in HR. This recruitment is essential for regulating HR repair pathways (Qiu2022PLK1mediated). PPIL2 also interacts with kinesin light chain proteins KLC2 and KLC3, although the implications of these interactions on microtubule regulation remain unclear (Jia2018Ubox).
+
+
+## References
+
+
+[1. (Beyer2014mRNA) N. Beyer, D.T.R. Coulson, J.G. Quinn, S. Brockbank, J. Hellemans, G.B. Irvine, R. Ravid, and J.A. Johnston. Mrna levels of bace1 and its interacting proteins, rtn3 and ppil2, correlate in human post mortem brain tissue. Neuroscience, 274:44–52, August 2014. URL: http://dx.doi.org/10.1016/j.neuroscience.2014.05.020, doi:10.1016/j.neuroscience.2014.05.020. This article has 3 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.neuroscience.2014.05.020)
+
+[2. (Rajiv2018Structural) Caroline Rajiv and Tara Davis. Structural and functional insights into human nuclear cyclophilins. Biomolecules, 8(4):161, December 2018. URL: http://dx.doi.org/10.3390/biom8040161, doi:10.3390/biom8040161. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom8040161)
+
+[3. (Davis2010Structural) Tara L. Davis, John R. Walker, Valérie Campagna-Slater, Patrick J. Finerty, Ragika Paramanathan, Galina Bernstein, Farrell MacKenzie, Wolfram Tempel, Hui Ouyang, Wen Hwa Lee, Elan Z. Eisenmesser, and Sirano Dhe-Paganon. Structural and biochemical characterization of the human cyclophilin family of peptidyl-prolyl isomerases. PLoS Biology, 8(7):e1000439, July 2010. URL: http://dx.doi.org/10.1371/journal.pbio.1000439, doi:10.1371/journal.pbio.1000439. This article has 225 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.1000439)
+
+[4. (Qiu2022PLK1mediated) Zhiyu Qiu, Shuailin Hao, Shikai Song, Ruiling Zhang, Tingyu Yan, Zhifang Lu, Hailong Wang, Zongchao Jia, and Jimin Zheng. Plk1-mediated phosphorylation of ppil2 regulates hr via ctip. Frontiers in Cell and Developmental Biology, August 2022. URL: http://dx.doi.org/10.3389/fcell.2022.902403, doi:10.3389/fcell.2022.902403. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.902403)
+
+[5. (Jia2018Ubox) Zhaojun Jia, Miao Wang, Shujing Li, Xiahui Li, Xiao-Yan Bai, Zhaowei Xu, Yangyang Yang, Bowen Li, Yanan Li, and Huijian Wu. U-box ubiquitin ligase ppil2 suppresses breast cancer invasion and metastasis by altering cell morphology and promoting snai1 ubiquitination and degradation. Cell Death &amp; Disease, January 2018. URL: http://dx.doi.org/10.1038/s41419-017-0094-4, doi:10.1038/s41419-017-0094-4. This article has 23 citations.](https://doi.org/10.1038/s41419-017-0094-4)

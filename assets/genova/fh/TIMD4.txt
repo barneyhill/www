@@ -1,0 +1,56 @@
+# TIMD4
+
+## Overview
+TIMD4, or T cell immunoglobulin and mucin domain containing 4, is a gene that encodes a transmembrane protein involved in immune regulation. The TIMD4 protein is primarily expressed on macrophages and dendritic cells, where it plays a pivotal role in the clearance of apoptotic cells through its function as a receptor for phosphatidylserine. This interaction is crucial for maintaining immune homeostasis and preventing autoimmunity. Structurally, the protein is characterized by an N-terminal immunoglobulin variable (IgV) domain, a mucin domain, a transmembrane domain, and a C-terminal intracellular tail, with significant glycosylation that influences its function and stability (Chongsaritsinsuk2023Glycoproteomic; Miyanishi2007Identification). TIMD4 is implicated in various physiological and pathological processes, including immune response modulation, tissue homeostasis, and disease pathogenesis, such as chronic rhinosinusitis and non-alcoholic fatty liver disease (Liu2019Tim4; Qin2022TIM4). Its role in tumor biology, particularly in tumor-associated macrophages, highlights its potential as a therapeutic target in cancer (Liu2020Tim4).
+
+## Structure
+TIMD4, or T cell immunoglobulin and mucin domain containing 4, is a protein characterized by its distinct structural domains and glycosylation patterns. The protein includes an N-terminal variable immunoglobulin (IgV) domain, a mucin domain, a single transmembrane domain, and a C-terminal intracellular tail (Chongsaritsinsuk2023Glycoproteomic). The IgV domain is crucial for binding phosphatidylserine (PS) on apoptotic cells, facilitating their engulfment (Miyanishi2007Identification). 
+
+TIMD4 is heavily O-glycosylated, with 51 site-localized O-glycosites identified, indicating a dense glycosylation pattern that influences its structural dynamics (Chongsaritsinsuk2023Glycoproteomic). This glycosylation is particularly prominent in the mucin domain, which contributes to the protein's structural stability and function (Chongsaritsinsuk2023Glycoproteomic). 
+
+Molecular dynamics simulations have shown that the mucin domain of TIMD4 maintains a relatively linear structure compared to other TIM family proteins, likely due to its higher glycan density (Chongsaritsinsuk2023Glycoproteomic). The glycosylation patterns and structural features of TIMD4 are significant for its role in immune regulation and potential implications in cancer immunotherapy (Chongsaritsinsuk2023Glycoproteomic). 
+
+The protein's structure and post-translational modifications, such as glycosylation, are essential for its function in recognizing and binding apoptotic cells, thereby playing a critical role in immune response and homeostasis.
+
+## Function
+TIMD4, or T cell immunoglobulin and mucin domain containing 4, is a protein primarily expressed on macrophages and dendritic cells. It plays a crucial role in the immune system by facilitating the clearance of apoptotic cells. TIMD4 functions as a receptor for phosphatidylserine, a phospholipid that is exposed on the surface of dying cells, acting as an 'eat me' signal for phagocytes. This interaction is essential for the engulfment and removal of apoptotic cells, thereby maintaining immune homeostasis and preventing autoimmunity (Rodriguez‐Manzanet2009The; Miyanishi2007Identification).
+
+TIMD4 is involved in the regulation of immune responses by influencing T-cell activity. Although it is not expressed on T cells, TIMD4 modulates T-cell activation and proliferation through its receptor interactions. It can promote T-cell proliferation by inducing cell division and anti-apoptotic signals, while also inhibiting certain pathways like MAPK, which affects T-cell activation and differentiation (Liu2020Tim4).
+
+In macrophages, TIMD4 enhances efferocytosis, the process of clearing apoptotic cells, which is crucial for tissue homeostasis and repair. This function is dependent on specific structural features of the TIMD4 protein, highlighting its importance in cell biology and organismal outcomes (Liu2020Tim4).
+
+## Clinical Significance
+Alterations in the expression of the TIMD4 gene have been implicated in various diseases and conditions. In chronic rhinosinusitis with nasal polyps (CRSwNP), increased TIM-4 expression in macrophages is associated with the promotion of epithelial to mesenchymal transition (EMT) in nasal epithelial cells, contributing to nasal polyp formation. This process is mediated through the upregulation of TGF-b1 expression via the ROS/p38 MAPK/Egr-1 pathway, suggesting that TIM-4 plays a significant role in the pathogenesis of CRSwNP and could be a potential therapeutic target (Qin2022TIM4).
+
+In the context of non-alcoholic fatty liver disease (NAFLD), TIM-4 expression is upregulated in liver macrophages, where it inhibits the NLRP3 inflammasome through the LKB1/AMPKa pathway. This mechanism helps maintain cellular homeostasis and reduces inflammation, indicating a protective role of TIM-4 in NAFLD progression. Targeting TIM-4 in macrophages may offer a therapeutic strategy for NAFLD and other inflammasome-related diseases (Liu2019Tim4).
+
+TIM-4 is also involved in tumor biology, where its expression on tumor-associated macrophages and dendritic cells contributes to immune tolerance and tumor growth. Overexpression of TIM-4 in certain cancers, such as non-small-cell lung cancer and glioma, is linked to poor prognosis, suggesting its potential as a target for cancer therapy (Liu2020Tim4).
+
+## Interactions
+TIMD4, also known as Tim-4, is involved in several protein interactions that play a crucial role in efferocytosis, the process of clearing apoptotic cells. Tim-4 interacts with Mertk, a receptor tyrosine kinase, through their extracellular regions, specifically the IgV domain of Tim-4 and the FnIII domain of Mertk. This interaction enhances Tim-4-mediated efferocytosis, even in the absence of bridging molecules like Gas6, which are typically required for Mertk-mediated efferocytosis (Moon2020Mertk).
+
+Tim-4 also interacts with fibronectin (Fn1), forming a complex that enhances efferocytosis. The IgV domain of Tim-4 binds to the type III domains of Fn1, acting as a scaffold that facilitates signal transduction and integrin signaling, which is crucial for the engulfment of apoptotic cells (Lee2018A).
+
+Additionally, Tim-4 interacts with EphA2, a transmembrane protein, through the FN3 domain of EphA2 and the IgV domain of Tim-4. This interaction occurs at the plasma membrane but does not appear to influence Tim-4-mediated phagocytosis, suggesting a role in other cellular processes (Moon2021EphA2).
+
+
+## References
+
+
+1. (Chongsaritsinsuk2023Glycoproteomic) Glycoproteomic landscape and structural dynamics of TIM family immune checkpoints enabled by mucinase SmE. This article has 4 citations.
+
+[2. (Liu2019Tim4) Wen Liu, Fuxiang Bai, Hongxing Wang, Yan Liang, Xianhong Du, Cui Liu, Dejian Cai, Jiali Peng, Guangming Zhong, Xiaohong Liang, Chunhong Ma, and Lifen Gao. Tim-4 inhibits nlrp3 inflammasome via the lkb1/ampkα pathway in macrophages. The Journal of Immunology, 203(4):990–1000, August 2019. URL: http://dx.doi.org/10.4049/jimmunol.1900117, doi:10.4049/jimmunol.1900117. This article has 33 citations.](https://doi.org/10.4049/jimmunol.1900117)
+
+[3. (Liu2020Tim4) Wen Liu, Liyun Xu, Xiaohong Liang, Xiaojun Liu, Yangbing Zhao, Chunhong Ma, and Lifen Gao. Tim-4 in health and disease: friend or foe? Frontiers in Immunology, April 2020. URL: http://dx.doi.org/10.3389/fimmu.2020.00537, doi:10.3389/fimmu.2020.00537. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2020.00537)
+
+[4. (Moon2021EphA2) Byeongjin Moon, Susumin Yang, Kwangwoo Kim, Juyeon Lee, Dongtak Jeong, and Daeho Park. Epha2 interacts with tim-4 through association between its fn3 domain and the igv domain of tim-4. Cells, 10(6):1290, May 2021. URL: http://dx.doi.org/10.3390/cells10061290, doi:10.3390/cells10061290. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells10061290)
+
+[5. (Miyanishi2007Identification) Masanori Miyanishi, Kazutoshi Tada, Masato Koike, Yasuo Uchiyama, Toshio Kitamura, and Shigekazu Nagata. Identification of tim4 as a phosphatidylserine receptor. Nature, 450(7168):435–439, October 2007. URL: http://dx.doi.org/10.1038/nature06307, doi:10.1038/nature06307. This article has 920 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature06307)
+
+[6. (Rodriguez‐Manzanet2009The) Roselynn Rodriguez‐Manzanet, Rosemarie DeKruyff, Vijay K. Kuchroo, and Dale T. Umetsu. The costimulatory role of tim molecules. Immunological Reviews, 229(1):259–270, April 2009. URL: http://dx.doi.org/10.1111/j.1600-065x.2009.00772.x, doi:10.1111/j.1600-065x.2009.00772.x. This article has 188 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/j.1600-065x.2009.00772.x)
+
+[7. (Qin2022TIM4) Danxue Qin, Peiqiang Liu, Huiqin Zhou, Jing Jin, Wanyang Gong, Kunyu Liu, Siyuan Chen, Jingyu Huang, Wenjun Fan, Zezhang Tao, and Yu Xu. Tim-4 in macrophages contributes to nasal polyp formation through the tgf-β1–mediated epithelial to mesenchymal transition in nasal epithelial cells. Frontiers in Immunology, August 2022. URL: http://dx.doi.org/10.3389/fimmu.2022.941608, doi:10.3389/fimmu.2022.941608. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2022.941608)
+
+[8. (Lee2018A) Juyeon Lee, Boyeon Park, Byeongjin Moon, Jeongjun Park, Hyunji Moon, Kwanhyeong Kim, Sang-Ah Lee, Deokhwan Kim, Chanhyuk Min, Dae-Hee Lee, Gwangrog Lee, and Daeho Park. A scaffold for signaling of tim-4-mediated efferocytosis is formed by fibronectin. Cell Death &amp; Differentiation, 26(9):1646–1655, November 2018. URL: http://dx.doi.org/10.1038/s41418-018-0238-9, doi:10.1038/s41418-018-0238-9. This article has 20 citations.](https://doi.org/10.1038/s41418-018-0238-9)
+
+[9. (Moon2020Mertk) Byeongjin Moon, Juyeon Lee, Sang-Ah Lee, Chanhyuk Min, Hyunji Moon, Deokhwan Kim, Susumin Yang, Heera Moon, Jaeseon Jeon, Young-Eun Joo, and Daeho Park. Mertk interacts with tim-4 to enhance tim-4-mediated efferocytosis. Cells, 9(7):1625, July 2020. URL: http://dx.doi.org/10.3390/cells9071625, doi:10.3390/cells9071625. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells9071625)

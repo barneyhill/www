@@ -1,0 +1,50 @@
+# SLC25A32
+
+## Overview
+SLC25A32 is a gene that encodes the mitochondrial transporter protein known as solute carrier family 25 member 32. This protein is a member of the mitochondrial carrier family and is primarily involved in the transport of flavin adenine dinucleotide (FAD) across the inner mitochondrial membrane. The SLC25A32 protein is characterized by its transmembrane structure, which facilitates its role in mitochondrial one-carbon metabolism, a critical process for DNA synthesis, amino acid metabolism, and energy production. Although initially thought to transport folate, recent studies have clarified its role in FAD transport, with implications for mitochondrial function and cellular metabolism (Liu2022Mitochondrial). Mutations in the SLC25A32 gene are linked to various clinical conditions, including riboflavin-responsive multiple acyl-CoA dehydrogenase deficiency (RR-MADD) and certain cancers, highlighting its significance in both metabolic and pathological contexts (Palmieri2020Diseases; Xue2023SLC25A32).
+
+## Structure
+The SLC25A32 protein is a member of the mitochondrial carrier family, characterized by a tripartite structure with three homologous domains, each containing approximately 100 amino acids. These domains include two hydrophobic stretches that form transmembrane alpha-helices, resulting in a total of six transmembrane helices. The protein's structure is defined by a signature sequence motif, PX[D/E]XX[K/R]X[K/R], which is crucial for its function (Palmieri2013The; Pasquadibisceglie2021Computational).
+
+The tertiary structure of SLC25A32 likely involves a funnel-shaped cavity formed by the transmembrane helices, facilitating the transport of substrates across the mitochondrial membrane. This structure is supported by a network of salt bridges that stabilize the protein in different conformational states, allowing for the alternating exposure of the substrate binding site to the cytosol and mitochondrial matrix (Palmieri2013The; Pasquadibisceglie2021Computational).
+
+SLC25A32 is suggested to function as a transporter for FAD and/or folate, although this role is not definitively proven. The protein's activity is partially retained in certain mutations, indicating some functional redundancy or compensation by other mitochondrial carriers (Palmieri2020Diseases). The protein may also undergo post-translational modifications, such as phosphorylation, which could influence its transport efficiency and functional domains.
+
+## Function
+The SLC25A32 gene encodes a mitochondrial transporter protein that plays a critical role in mitochondrial one-carbon metabolism, which is essential for various cellular processes, including DNA synthesis and repair, amino acid metabolism, and energy production. This protein is primarily active in the inner mitochondrial membrane, where it facilitates the transport of flavin adenine dinucleotide (FAD), a crucial cofactor for mitochondrial flavoproteins involved in fatty acid β-oxidation and the respiratory chain (Liu2022Mitochondrial).
+
+Although initially thought to be a mitochondrial folate transporter, recent studies have clarified that SLC25A32 does not directly transport folate into mitochondria. Instead, its dysfunction leads to disturbances in folate-mediated one-carbon metabolism (FOCM), affecting mitochondrial flavoproteins and enzymes (Liu2022Mitochondrial). This disruption can result in a shortage of 5-methyltetrahydrofolate (CH3-THF) and accumulation of other folate intermediates, potentially causing developmental issues such as neural tube defects (NTDs) (Liu2022Mitochondrial).
+
+The gene's role in healthy human cells involves maintaining proper mitochondrial function and folate metabolism, which are crucial for cellular energy production and growth (Liu2022Mitochondrial).
+
+## Clinical Significance
+Mutations in the SLC25A32 gene are associated with several clinical conditions, primarily due to its role in mitochondrial FAD and folate transport. SLC25A32 deficiency can lead to riboflavin-responsive multiple acyl-CoA dehydrogenase deficiency (RR-MADD), characterized by exercise intolerance, muscle weakness, and metabolic abnormalities. Patients with SLC25A32 mutations often show improvement with riboflavin treatment, highlighting the gene's role in FAD transport (Palmieri2020Diseases; Hellebrekers2017Novel).
+
+A specific mutation, c.-264_31delinsCTCACAAATGCTCA, results in the complete loss of the mitochondrial FAD transporter protein, leading to severe neuromuscular phenotypes, including early-onset ataxia, myoclonia, and dysarthria. This mutation impairs mitochondrial FAD transport, reducing oxidative phosphorylation complex II activity and ATP production (Hellebrekers2017Novel).
+
+Altered expression of SLC25A32 is also implicated in glioblastoma, where its upregulation is associated with poor survival outcomes. SLC25A32 promotes glioblastoma cell proliferation and invasion by activating the PI3K-AKT signaling pathway, suggesting its potential as a therapeutic target in cancer treatment (Xue2023SLC25A32).
+
+## Interactions
+SLC25A32, a member of the solute carrier family 25, is involved in mitochondrial folate and FAD transport. It has been shown to interact with other solute carrier proteins, suggesting functional relationships within the mitochondrial transport system. Specifically, SLC25A32 has a validated interaction with SLC52A2, a flavin transporter, indicating a potential cooperative role in mitochondrial cofactor transport (Girardi2020A). Additionally, SLC25A32 exhibits negative genetic interactions with SLC25A51, another mitochondrial carrier involved in NAD import, suggesting a complex interplay in mitochondrial metabolism (Girardi2020Epistasisdriven).
+
+In the context of glioblastoma, SLC25A32 is implicated in the activation of the PI3K-AKT-mTOR signaling pathway, which is crucial for cancer cell proliferation and invasion. Overexpression of SLC25A32 enhances the expression of phosphorylated AKT and mTOR, while its knockdown reduces these expressions, highlighting its role in modulating this signaling cascade (Xue2023SLC25A32). These interactions suggest that SLC25A32 not only participates in metabolic transport but also plays a significant role in signaling pathways that contribute to cancer progression.
+
+
+## References
+
+
+[1. (Palmieri2020Diseases) Ferdinando Palmieri, Pasquale Scarcia, and Magnus Monné. Diseases caused by mutations in mitochondrial carrier genes slc25: a review. Biomolecules, 10(4):655, April 2020. URL: http://dx.doi.org/10.3390/biom10040655, doi:10.3390/biom10040655. This article has 75 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom10040655)
+
+[2. (Hellebrekers2017Novel) Debby M E I Hellebrekers, Suzanne C E H Sallevelt, Tom E J Theunissen, Alexandra T M Hendrickx, Ralph W Gottschalk, Janneke G J Hoeijmakers, Daphna D Habets, Jörgen Bierau, Kees G Schoonderwoerd, and Hubert J M Smeets. Novel slc25a32 mutation in a patient with a severe neuromuscular phenotype. European Journal of Human Genetics, 25(7):886–888, April 2017. URL: http://dx.doi.org/10.1038/ejhg.2017.62, doi:10.1038/ejhg.2017.62. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/ejhg.2017.62)
+
+[3. (Palmieri2013The) Ferdinando Palmieri. The mitochondrial transporter family slc25: identification, properties and physiopathology. Molecular Aspects of Medicine, 34(2–3):465–484, April 2013. URL: http://dx.doi.org/10.1016/j.mam.2012.05.005, doi:10.1016/j.mam.2012.05.005. This article has 612 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.mam.2012.05.005)
+
+[4. (Girardi2020Epistasisdriven) Enrico Girardi, Gennaro Agrimi, Ulrich Goldmann, Giuseppe Fiume, Sabrina Lindinger, Vitaly Sedlyarov, Ismet Srndic, Bettina Gürtl, Benedikt Agerer, Felix Kartnig, Pasquale Scarcia, Maria Antonietta Di Noia, Eva Liñeiro, Manuele Rebsamen, Tabea Wiedmer, Andreas Bergthaler, Luigi Palmieri, and Giulio Superti-Furga. Epistasis-driven identification of slc25a51 as a regulator of human mitochondrial nad import. Nature Communications, December 2020. URL: http://dx.doi.org/10.1038/s41467-020-19871-x, doi:10.1038/s41467-020-19871-x. This article has 88 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-020-19871-x)
+
+5. (Liu2022Mitochondrial) Mitochondrial FAD shortage in SLC25A32 deficiency affects folate-mediated one-carbon metabolism. This article has 0 citations.
+
+[6. (Xue2023SLC25A32) Zhiwei Xue, Jiwei Wang, Zide Wang, Junzhi Liu, Jiangli Zhao, Xuchen Liu, Yan Zhang, Guowei Liu, Zhimin Zhao, Wenjie Li, Qing Zhang, Xingang Li, Bin Huang, and Xinyu Wang. Slc25a32 promotes malignant progression of glioblastoma by activating pi3k-akt signaling pathway. BMC Cancer, June 2023. URL: http://dx.doi.org/10.1186/s12885-023-11097-6, doi:10.1186/s12885-023-11097-6. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-023-11097-6)
+
+7. (Girardi2020A) A systematic genetic interaction map of human solute carriers assigns a role to SLC25A51/MCART1 in mitochondrial NAD uptake. This article has 2 citations.
+
+[8. (Pasquadibisceglie2021Computational) Andrea Pasquadibisceglie and Fabio Polticelli. Computational studies of the mitochondrial carrier family slc25. present status and future perspectives. Bio-Algorithms and Med-Systems, 17(2):65–78, April 2021. URL: http://dx.doi.org/10.1515/bams-2021-0018, doi:10.1515/bams-2021-0018. This article has 2 citations.](https://doi.org/10.1515/bams-2021-0018)

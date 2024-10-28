@@ -1,0 +1,38 @@
+# ARMT1
+
+## Overview
+ARMT1, also known as C6orf211, is a gene that encodes the protein acidic residue methyltransferase 1, which functions as a carboxyl methyltransferase. This enzyme is involved in the post-translational modification of proteins, specifically targeting the proliferating cell nuclear antigen (PCNA) for methylation. ARMT1 plays a crucial role in the DNA damage response (DDR), influencing DNA replication, repair, and cell cycle progression. The protein is characterized by a SAM-MT fold and belongs to the DUF89 family, which is notable for its unique structural features. In addition to its methyltransferase activity, ARMT1 exhibits phosphatase activity, contributing to metabolite damage control. The enzyme's activity is modulated by interactions with PCNA and through automethylation, which serves as a self-regulatory mechanism. ARMT1's involvement in cellular homeostasis and organismal development, along with its potential as a target for cancer therapy, underscores its significance in both normal cellular processes and disease states (Perry2015Human; Dennis2020Human).
+
+## Structure
+The ARMT1 protein, encoded by the human gene C6orf211, is characterized by a SAM-MT (S-adenosylmethionine-dependent methyltransferase) fold, which is a common structural motif among methyltransferases. This fold includes a core 'α-β-α' sandwich of six parallel beta strands and a C-terminal antiparallel beta strand, flanked by five alpha helices, with a variable N-terminal cap region (Perry2015Human). The protein belongs to the DUF89 family, which features a unique seven-stranded central beta sheet, differing slightly from the classical SAM-MT fold (Perry2015Human). 
+
+The tertiary structure of ARMT1 includes a SAM binding pocket formed by two conserved motifs essential for its function, located in loop regions connecting specific beta strands and alpha helices (Perry2015Human). The protein's active site contains key residues, such as glutamate 258 and aspartate 291, which are crucial for its methyltransferase activity (Perry2015Human). 
+
+ARMT1 is involved in post-translational modification through methylation, targeting PCNA and itself, which suggests a regulatory role through automethylation (Perry2015Human). The presence of PCNA enhances ARMT1 activity, indicating PCNA as a substrate (Perry2015Human).
+
+## Function
+The ARMT1 gene encodes a protein that functions as a carboxyl methyltransferase, targeting the proliferating cell nuclear antigen (PCNA) in human cells. This enzyme is involved in the DNA damage response (DDR), where it plays a role in regulating cell survival following DNA damage. ARMT1's activity is linked to the methylation of PCNA, a process that influences DNA replication and repair, as well as cell cycle progression and chromatin maintenance (Perry2015Human).
+
+ARMT1 is part of the DUF89 protein family and exhibits phosphatase activity, particularly against sugar phosphates like fructose-1-phosphate. This activity suggests a role in metabolite damage control, potentially limiting the buildup of harmful phospho-glycan species in cells. The protein's phosphatase function is supported by divalent cations, with Co2+ providing the highest catalytic efficiency (Dennis2020Human).
+
+The enzyme is active in both the cytoplasm and nucleus, influencing cellular homeostasis and organismal development. Its involvement in post-translational modifications, such as methylation, is crucial for regulating various cellular processes, including signal transduction and gene expression (Perry2015Human; Dennis2020Human).
+
+## Clinical Significance
+ARMT1, encoded by the human C6orf211 gene, plays a significant role in the DNA damage response, particularly in breast cancer cells. Alterations in ARMT1 expression can lead to varying survival outcomes in different breast cancer cell lines when exposed to DNA damage. In SK-Br-3 cells, reduced expression of ARMT1 sensitizes the cells to DNA damage, while in MCF7 cells, it results in a damage-resistant phenotype. This suggests that ARMT1's role in cell survival may depend on the genetic background of the cells, such as the status of the p53 gene (Perry2015Human).
+
+ARMT1 is also associated with cancer proliferation, as it is coexpressed with ESR1 in breast cancer, indicating its involvement in cancer-related pathways. A single nucleotide polymorphism (SNP) near C6orf211 has been linked to an increased susceptibility to chronic myeloid leukemia, suggesting a broader role in cancer biology beyond breast cancer (Perry2015Human).
+
+The potential of targeting ARMT1 for anticancer therapy is highlighted by its ability to modulate the DNA damage response, making it a candidate for selective killing of tumor cells using DNA-damaging agents (Perry2015Human).
+
+## Interactions
+ARMT1, also known as C6orf211, is involved in interactions with the proliferating cell nuclear antigen (PCNA), a key protein in DNA replication and repair. ARMT1 functions as a carboxyl methyltransferase, specifically targeting PCNA for methylation. This interaction suggests a regulatory role in DNA repair processes, as methylation of PCNA by ARMT1 is implicated in the DNA damage response (DDR) (Perry2015Human). The methylation of PCNA by ARMT1 may influence post-translational modifications such as ubiquitination and SUMOylation, which are crucial for DNA damage tolerance pathways (Perry2015Human).
+
+ARMT1 is also capable of automethylation, which serves as a self-regulatory mechanism. This automethylation negatively regulates its enzymatic activity, suggesting that ARMT1 can modulate its function through self-methylation (Perry2015Human). Knockdown experiments in breast cancer cells have shown that ARMT1's interaction with PCNA affects cell survival following DNA damage, indicating that its role in DDR may vary between different cell types (Perry2015Human). These interactions highlight ARMT1's potential as a target for cancer therapy, as modulating its activity could selectively impact cancer cell survival.
+
+
+## References
+
+
+[1. (Perry2015Human) J. Jefferson P. Perry, Gregory D. Ballard, Alexandra E. Albert, Lacey E. Dobrolecki, Linda H. Malkas, and Derek J. Hoelz. Human c6orf211 encodes armt1, a protein carboxyl methyltransferase that targets pcna and is linked to the dna damage response. Cell Reports, 10(8):1288–1296, March 2015. URL: http://dx.doi.org/10.1016/j.celrep.2015.01.054, doi:10.1016/j.celrep.2015.01.054. This article has 20 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2015.01.054)
+
+[2. (Dennis2020Human) Taylor N. Dennis, Nikola Kenjić, Amrik S. Kang, Jonathan D. Lowenson, Jay S. Kirkwood, Steven G. Clarke, and J. Jefferson P. Perry. Human armt1 structure and substrate specificity indicates that it is a duf89 family damage-control phosphatase. Journal of Structural Biology, 212(1):107576, October 2020. URL: http://dx.doi.org/10.1016/j.jsb.2020.107576, doi:10.1016/j.jsb.2020.107576. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jsb.2020.107576)

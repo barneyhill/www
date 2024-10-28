@@ -1,0 +1,52 @@
+# RNF185
+
+## Overview
+RNF185 is a gene that encodes the ring finger protein 185, a transmembrane protein characterized by its RING-finger domain, which confers E3 ubiquitin ligase activity. This protein is primarily localized to the endoplasmic reticulum (ER) and mitochondrial membranes, where it plays a pivotal role in cellular processes such as ER-associated degradation (ERAD) and mitophagy. The RING-finger domain facilitates the transfer of ubiquitin to substrate proteins, a critical step in protein degradation pathways (Wang2017The; Zhang2022RNF185). RNF185 is involved in the regulation of autophagy, particularly through its interaction with BNIP1, and is essential for maintaining mitochondrial homeostasis (Tang2011RNF185). Additionally, RNF185 is implicated in the innate immune response, particularly through the cGAS-STING signaling pathway, which is crucial for antiviral defense mechanisms (Wang2017The). Alterations in RNF185 expression have been linked to various diseases, including cancers and autoimmune disorders, underscoring its significance in both normal cellular function and disease pathogenesis (Lin2022CRISPR; Van2023RNF185).
+
+## Structure
+RNF185 is a protein characterized by a RING-finger domain and two transmembrane (TM) domains. The RING-finger domain, located between amino acids 39-80, is crucial for its E3 ubiquitin ligase activity, facilitating the transfer of ubiquitin from E2 to substrate proteins (Wang2017The; Zhang2022RNF185). This domain is formed by conserved cysteine and histidine residues that coordinate zinc ions, creating a 'cross-brace' structure typical of RING domains (Nakamura2011The).
+
+The two transmembrane domains are essential for the protein's function, with the TM2 domain specifically required for interaction with the Ebola virus glycoprotein (EBOV-GP 1,2) (Zhang2022RNF185). The protein is predominantly expressed on the endoplasmic reticulum (ER) membrane, where it plays a role in ER-associated degradation (ERAD) pathways (van2020Quality; Wang2017The).
+
+RNF185 is involved in post-translational modifications, such as K27-linked polyubiquitination, which is crucial for its role in protein degradation and immune response pathways (Wang2017The; Zhang2022RNF185). The protein forms a complex with Membralin and TMUB1/2, which is important for the degradation of specific ER membrane proteins (van2020Quality).
+
+## Function
+RNF185 is a mitochondrial ubiquitin E3 ligase that plays a significant role in regulating autophagy, particularly mitochondrial autophagy or mitophagy, in healthy human cells. It is localized to the mitochondrial outer membrane, where it interacts with BNIP1, a Bcl-2 family protein, to facilitate the polyubiquitination of BNIP1 through K63-based linkage. This modification recruits the autophagy receptor p62, promoting the formation of autophagosomes and the clearance of mitochondria, thereby maintaining mitochondrial homeostasis (Tang2011RNF185).
+
+RNF185 is also involved in the quality control of endoplasmic reticulum (ER) membrane proteins through the ER-associated degradation (ERAD) pathway. It forms a complex with Membralin and TMUB1/2, targeting specific ER membrane proteins for degradation, such as CYP51A1 and TMUB2. This process is crucial for maintaining protein homeostasis by ensuring the degradation of misfolded or unneeded proteins in the ER (van2020Quality).
+
+In addition to its roles in autophagy and ERAD, RNF185 is implicated in the regulation of the cGAS-STING signaling pathway, which is essential for the innate immune response. It facilitates the activation of IRF3, a transcription factor necessary for the expression of type I interferons and other immune response genes (Wang2017The).
+
+## Clinical Significance
+Alterations in the expression of the RNF185 gene have been implicated in several diseases, particularly cancers and autoimmune disorders. In prostate cancer, low RNF185 expression is associated with increased metastatic potential and poorer patient outcomes. Studies have shown that reduced RNF185 levels correlate with higher Gleason grades, increased lymph node involvement, and advanced tumor stages, suggesting its role in limiting cancer progression and metastasis (Van2023RNF185). 
+
+In glioblastoma, RNF185 acts as a tumor suppressor. Its expression is often repressed due to promoter hypermethylation and the action of miR-587, leading to increased tumor cell proliferation and migration. Restoring RNF185 expression in glioma cells has been shown to reduce proliferation and increase apoptosis, highlighting its potential as a therapeutic target (Lin2022CRISPR).
+
+RNF185 is also involved in the regulation of the innate immune response. It plays a crucial role in the cGAS-STING signaling pathway, which is important for detecting cytosolic DNA. Elevated RNF185 expression has been observed in patients with systemic lupus erythematosus (SLE), suggesting a link between RNF185 and autoimmune conditions (Wang2017The).
+
+## Interactions
+RNF185 is involved in several protein interactions that play significant roles in cellular processes. It interacts with BNIP1, a Bcl-2 family protein, at the mitochondria. This interaction is crucial for the regulation of autophagy, as RNF185 polyubiquitinates BNIP1 through K63-based ubiquitin linkage, facilitating the recruitment of the autophagy receptor p62, which links ubiquitination and autophagy (Tang2011RNF185).
+
+RNF185 also forms a complex with Membralin and TMUB1/2, which is part of the ER-associated degradation (ERAD) pathway. This complex is involved in the quality control of ER membrane proteins, targeting specific substrates like CYP51A1 and TMUB2 for degradation (van2020Quality).
+
+In the context of the innate immune response, RNF185 interacts with cyclic GMP-AMP synthase (cGAS), catalyzing its K27-linked polyubiquitination. This modification enhances cGAS's enzymatic activity, promoting the production of cGAMP and activating the STING pathway, which is crucial for antiviral responses (Wang2017The).
+
+During Ebolavirus infection, RNF185 is involved in the polyubiquitination and degradation of the viral glycoprotein GP 1,2, highlighting its role in viral protein regulation (Zhang2022RNF185).
+
+
+## References
+
+
+[1. (Zhang2022RNF185) Jing Zhang, Bin Wang, Xiaoxiao Gao, Cheng Peng, Chao Shan, Silas F. Johnson, Richard C. Schwartz, and Yong-Hui Zheng. Rnf185 regulates proteostasis in ebolavirus infection by crosstalk between the calnexin cycle, erad, and reticulophagy. Nature Communications, October 2022. URL: http://dx.doi.org/10.1038/s41467-022-33805-9, doi:10.1038/s41467-022-33805-9. This article has 10 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-33805-9)
+
+[2. (van2020Quality) Michael L. van de Weijer, Logesvaran Krshnan, Sabrina Liberatori, Elena Navarro Guerrero, Jacob Robson-Tull, Lilli Hahn, Robert Jan Lebbink, Emmanuel J.H.J. Wiertz, Roman Fischer, Daniel Ebner, and Pedro Carvalho. Quality control of er membrane proteins by the rnf185/membralin ubiquitin ligase complex. Molecular Cell, 79(5):768-781.e7, September 2020. URL: http://dx.doi.org/10.1016/j.molcel.2020.07.009, doi:10.1016/j.molcel.2020.07.009. This article has 40 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2020.07.009)
+
+3. (Van2023RNF185) RNF185 control of COL3A1 expression limits prostate cancer migration and metastatic potential. This article has 1 citations.
+
+[4. (Nakamura2011The) Nobuhiro Nakamura. The role of the transmembrane ring finger proteins in cellular and organelle function. Membranes, 1(4):354–393, December 2011. URL: http://dx.doi.org/10.3390/membranes1040354, doi:10.3390/membranes1040354. This article has 73 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/membranes1040354)
+
+[5. (Lin2022CRISPR) Kun Lin, Shang-Hang Shen, Feng Lu, Pengfeng Zheng, Shizhong Wu, Jingwei Liao, Xiaohang Jiang, Guangming Zeng, and De Wei. Crispr screening of e3 ubiquitin ligases reveals ring finger protein 185 as a novel tumor suppressor in glioblastoma repressed by promoter hypermethylation and mir-587. Journal of Translational Medicine, February 2022. URL: http://dx.doi.org/10.1186/s12967-022-03284-z, doi:10.1186/s12967-022-03284-z. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-022-03284-z)
+
+[6. (Wang2017The) Qiang Wang, Liyuan Huang, Ze Hong, Zhongshi Lv, Zhaomin Mao, Yijun Tang, Xiufang Kong, Senlin Li, Ye Cui, Heng Liu, Lele Zhang, Xiaojie Zhang, Lindi Jiang, Chen Wang, and Qin Zhou. The e3 ubiquitin ligase rnf185 facilitates the cgas-mediated innate immune response. PLOS Pathogens, 13(3):e1006264, March 2017. URL: http://dx.doi.org/10.1371/journal.ppat.1006264, doi:10.1371/journal.ppat.1006264. This article has 120 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.ppat.1006264)
+
+[7. (Tang2011RNF185) Fei Tang, Bin Wang, Na Li, Yanfang Wu, Junying Jia, Talin Suo, Quan Chen, Yong-Jun Liu, and Jie Tang. Rnf185, a novel mitochondrial ubiquitin e3 ligase, regulates autophagy through interaction with bnip1. PLoS ONE, 6(9):e24367, September 2011. URL: http://dx.doi.org/10.1371/journal.pone.0024367, doi:10.1371/journal.pone.0024367. This article has 85 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0024367)

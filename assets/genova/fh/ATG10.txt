@@ -1,0 +1,46 @@
+# ATG10
+
+## Overview
+ATG10 is a gene that encodes the autophagy-related protein 10, which plays a pivotal role in the autophagy pathway, a crucial cellular process for degrading and recycling cytoplasmic components. The ATG10 protein functions as an E2-like enzyme, facilitating the conjugation of the ubiquitin-like protein ATG12 to ATG5, a key step in autophagosome formation. This protein is characterized by its E2-core fold, which is essential for its enzymatic activity and interactions with other autophagy-related proteins, such as ATG5 and ATG7 (Yamaguchi2012Structural; Kaiser2012Noncanonical). ATG10's activity is vital for maintaining cellular homeostasis and is implicated in various diseases, including acute myeloid leukemia and neurodegenerative disorders, highlighting its significance in both health and disease (Castro2021Functional; Catanese2019Retinoic).
+
+## Structure
+The ATG10 protein is characterized by an E2-core fold, a common structural motif among E2 enzymes, which includes a central four-stranded beta sheet and several alpha helices (Yamaguchi2012Structural). The yeast Atg10 (yAtg10) protein structure is elongated, with dimensions of approximately 65 x 41 x 40 Å, and features two alpha-helices forming one face of the protein and an antiparallel beta-sheet on the back side, followed by another alpha-helix and a second antiparallel beta-sheet (Hong2012Structure). The catalytic site of Atg10 includes a key cysteine residue, Cys133, which is located in a loop region and is crucial for its enzymatic activity (Yamaguchi2012Structural; Hong2012Structure).
+
+Atg10 interacts with other proteins such as Atg5 and Atg7, forming complexes essential for autophagy. The interaction with Atg5 involves specific beta strands and residues that facilitate the formation of the Atg12-Atg5 conjugate (Yamaguchi2012Structural). Atg10's interaction with Atg7 involves a noncanonical mechanism, where Atg10 binds to the Atg7 N-terminal domain through a β-hairpin structure, forming a 10-stranded interprotein β-sheet (Kaiser2012Noncanonical). These interactions highlight the importance of Atg10's structural features in its function within the autophagy pathway.
+
+## Function
+ATG10 is a crucial component in the autophagy pathway, functioning as an E2-like enzyme that facilitates the conjugation of the ubiquitin-like protein ATG12 to ATG5. This conjugation is essential for the formation of the ATG5-12 complex, which subsequently associates with ATG16 to form a larger complex that acts as an E3-like enzyme. This complex is vital for the lipidation of LC3, a process necessary for autophagosome formation and maturation (Kawabata2020Autophagosome). 
+
+In healthy human cells, ATG10 plays a significant role in the ubiquitin-like modification pathway, which is critical for the proper functioning of autophagy. This process involves the conversion of MAP1LC3B-I to MAP1LC3B-II, a key step in autophagosome formation, closure, and fusion with lysosomes, ultimately leading to the degradation of the inner membrane and its contents (Kawabata2020Autophagosome). 
+
+The activity of ATG10 is crucial for maintaining cellular homeostasis, as it enables the recycling of cytoplasmic components and the removal of damaged organelles and proteins. This function is vital for cellular stress responses and development, highlighting the importance of ATG10 in cell biology and organismal health (Kawabata2020Autophagosome).
+
+## Clinical Significance
+Mutations and alterations in the ATG10 gene have been implicated in various diseases, particularly acute myeloid leukemia (AML). Specific single nucleotide polymorphisms (SNPs) in ATG10, such as rs3734114, are associated with an increased risk of developing AML, while the rs1864182G allele is linked to a decreased risk, suggesting a protective role (Castro2021Functional). These genetic variants may influence the autophagic process, which is crucial in cancer biology (Castro2021Functional).
+
+In addition to AML, the ATG10 rs1864182G allele has been associated with a decreased risk of breast cancer and melanoma, but it correlates with poor survival in non-small cell lung cancer (NSCLC) and may serve as a biomarker for chemotherapy resistance in lung adenocarcinoma (Castro2021Functional). Conversely, the rs3734114C/C variant is linked to increased brain metastasis in NSCLC patients (Castro2021Functional).
+
+ATG10 is also involved in neurodegenerative diseases. In TBK1-mutant motor neurons, downregulation of ATG10 contributes to autophagy impairment, which is exacerbated by retinoic acid treatment, leading to the accumulation of immature autophagic structures and increased apoptosis (Catanese2019Retinoic). This impairment is relevant in conditions like amyotrophic lateral sclerosis (ALS) (Catanese2019Retinoic).
+
+## Interactions
+ATG10 is involved in several critical interactions within the autophagy pathway. It directly interacts with ATG5, forming an intermolecular beta sheet through specific beta strands (b5 and b6) of ATG10. This interaction is essential for the conjugation of ATG12 to ATG5, a key step in autophagosome formation (Yamaguchi2012Structural).
+
+ATG10 also interacts with the E1 enzyme ATG7. It binds to the ATG7 N-terminal domain (NTD) through a β-hairpin structure, forming a 10-stranded interprotein β-sheet. Specific residues in ATG10, such as Ile88, Asp89, Ile91, and Pro92, interact with a pocket on ATG7, stabilized by salt bridges. This interaction is crucial for the transfer of ubiquitin-like proteins (UBLs) from ATG7 to ATG10 (Kaiser2012Noncanonical).
+
+The interaction between ATG10 and ATG7 is described as dispersed, lacking a distinct center, which may be due to conformational flexibility. This interaction is important for ATG10's function in vivo, affecting ATG8 lipidation and function (Kaiser2012Noncanonical). ATG10 shares structural similarities with ATG3, another E2 enzyme, suggesting a potential common mechanism in autophagy regulation (Yamaguchi2012Structural).
+
+
+## References
+
+
+[1. (Castro2021Functional) Isabel Castro, Belém Sampaio-Marques, Anabela C. Areias, Hugo Sousa, Ângela Fernandes, José Manuel Sanchez-Maldonado, Cristina Cunha, Agostinho Carvalho, Juan Sainz, and Paula Ludovico. Functional genetic variants in atg10 are associated with acute myeloid leukemia. Cancers, 13(6):1344, March 2021. URL: http://dx.doi.org/10.3390/cancers13061344, doi:10.3390/cancers13061344. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13061344)
+
+[2. (Yamaguchi2012Structural) Masaya Yamaguchi, Nobuo N. Noda, Hayashi Yamamoto, Takayuki Shima, Hiroyuki Kumeta, Yoshihiro Kobashigawa, Rinji Akada, Yoshinori Ohsumi, and Fuyuhiko Inagaki. Structural insights into atg10-mediated formation of the autophagy-essential atg12-atg5 conjugate. Structure, 20(7):1244–1254, July 2012. URL: http://dx.doi.org/10.1016/j.str.2012.04.018, doi:10.1016/j.str.2012.04.018. This article has 59 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.str.2012.04.018)
+
+[3. (Hong2012Structure) Seung Beom Hong, Byeong-Won Kim, Jun Hoe Kim, and Hyun Kyu Song. Structure of the autophagic e2 enzyme atg10. Acta Crystallographica Section D Biological Crystallography, 68(10):1409–1417, September 2012. URL: http://dx.doi.org/10.1107/s0907444912034166, doi:10.1107/s0907444912034166. This article has 24 citations.](https://doi.org/10.1107/s0907444912034166)
+
+[4. (Kawabata2020Autophagosome) Tsuyoshi Kawabata and Tamotsu Yoshimori. Autophagosome biogenesis and human health. Cell Discovery, June 2020. URL: http://dx.doi.org/10.1038/s41421-020-0166-y, doi:10.1038/s41421-020-0166-y. This article has 67 citations.](https://doi.org/10.1038/s41421-020-0166-y)
+
+[5. (Catanese2019Retinoic) Alberto Catanese, Florian Olde Heuvel, Medhanie Mulaw, Maria Demestre, Julia Higelin, Gotthold Barbi, Axel Freischmidt, Jochen H. Weishaupt, Albert C. Ludolph, Francesco Roselli, and Tobias M. Boeckers. Retinoic acid worsens atg10-dependent autophagy impairment in tbk1-mutant hipsc-derived motoneurons through sqstm1/p62 accumulation. Autophagy, 15(10):1719–1737, April 2019. URL: http://dx.doi.org/10.1080/15548627.2019.1589257, doi:10.1080/15548627.2019.1589257. This article has 38 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2019.1589257)
+
+[6. (Kaiser2012Noncanonical) Stephen E Kaiser, Kai Mao, Asad M Taherbhoy, Shanshan Yu, Jennifer L Olszewski, David M Duda, Igor Kurinov, Alan Deng, Timothy D Fenn, Daniel J Klionsky, and Brenda A Schulman. Noncanonical e2 recruitment by the autophagy e1 revealed by atg7–atg3 and atg7–atg10 structures. Nature Structural &amp; Molecular Biology, 19(12):1242–1249, November 2012. URL: http://dx.doi.org/10.1038/nsmb.2415, doi:10.1038/nsmb.2415. This article has 92 citations.](https://doi.org/10.1038/nsmb.2415)

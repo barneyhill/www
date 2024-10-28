@@ -1,0 +1,48 @@
+# ARHGAP12
+
+## Overview
+ARHGAP12 is a gene that encodes the Rho GTPase activating protein 12, a member of the Rho GTPase-activating protein (GAP) family. This protein plays a crucial role in cellular signaling by inactivating Rho family GTPases, such as Rac1 and Cdc42, which are pivotal in regulating actin cytoskeleton dynamics and cellular architecture (Zhang2002Cloning). The protein is characterized by several functional domains, including a Src homology-3 (SH3) domain, two WW domains, a Pleckstrin-homology (PH) domain, and a GAP domain, which facilitate its interactions with other proteins and cellular membranes (Ba2016ARHGAP12; Tambrin2024Function). ARHGAP12 is involved in various cellular processes, including the regulation of tight junctions in epithelial cells and synaptic development in neurons, underscoring its importance in maintaining cellular homeostasis and its potential implications in health and disease (Ba2016ARHGAP12; Tambrin2024Function).
+
+## Structure
+ARHGAP12 encodes a Rho GTPase activating protein that contains several functional domains, including a Src homology-3 (SH3) domain, two WW domains, a Pleckstrin-homology (PH) domain, and a GAP domain (Ba2016ARHGAP12; Zhang2002Cloning). These domains facilitate protein-protein interactions and are crucial for the protein's role in cellular signaling pathways. The SH3 and WW domains are involved in binding to proline-rich regions, while the PH domain interacts with inositol lipids, targeting the protein to specific cell membranes (Tambrin2024Function).
+
+ARHGAP12 exists in two splice variants, ARHGAP12a and ARHGAP12b, which differ by the inclusion of two additional exons in ARHGAP12b (Zhang2002Cloning). These variants exhibit different expression patterns across tissues, with ARHGAP12b showing higher expression in the kidney, liver, brain, and pancreas, and ARHGAP12a being predominant in the heart (Tambrin2024Function).
+
+The protein's interaction with G-actin is mediated by an RPEL motif, which is atypical in ARHGAP12, lacking the conserved RPEL core glutamate. This interaction is crucial for regulating the protein's GAP activity towards Rac1 and Cdc42 (Diring2019RPELfamily). The protein's structure has been crystallized, revealing its complex with G-actin (Diring2019RPELfamily). However, detailed information on the primary, secondary, tertiary, or quaternary structures is not provided in the available context.
+
+## Function
+ARHGAP12 encodes a Rho GTPase activating protein that plays a significant role in regulating actin dynamics and cellular structures. It functions by inactivating Rho family GTPases, particularly Rac1 and Cdc42, which are crucial for actin cytoskeleton reorganization and cellular architecture (Zhang2002Cloning). In epithelial cells, ARHGAP12 is involved in the assembly and regulation of tight junctions (TJs), which are essential for maintaining the barrier function and controlling paracellular permeability. It interacts with N-WASP and WAVE2, linking it to Arp2/3-driven actin polymerization at TJs, and is recruited via ZO-2 (Tambrin2024Function).
+
+ARHGAP12 suppresses N-WASP activity, which is involved in actin polymerization, by interacting with its proline-rich domain through its tandem WW (tWW) domain. This interaction prevents N-WASP oligomerization, necessary for actin assembly, thus controlling junctional tension and permeability (Tambrin2024ARHGAP12). In neurons, ARHGAP12 acts as a developmental brake on excitatory synapse function by modulating synaptic transmission and dendritic spine morphology through its GAP activity and interaction with CIP4 (Ba2016ARHGAP12). These functions highlight ARHGAP12's role in maintaining cellular homeostasis and its potential implications in health and disease.
+
+## Clinical Significance
+ARHGAP12 has been implicated in several diseases and conditions due to its role in regulating Rho GTPase activity. In pancreatic adenocarcinoma (PAAD), ARHGAP12 is identified as an oncogene, with higher expression levels correlating with poorer overall survival. It negatively regulates Rac1 signaling, which is crucial for cell invasion and adhesion, suggesting its potential as a prognostic marker and therapeutic target in PAAD (Fei2024Integrated). 
+
+In melanoma, ARHGAP12 controls GTP loading on Rac and Cdc42, which are important for cell invasiveness and metastasis. Depletion of ARHGAP12 in melanoma cells enhances invadopodia formation and metastasis, indicating its role in cancer progression (Diring2019RPELfamily). 
+
+ARHGAP12 is also involved in neurological conditions. A deletion involving the ARHGAP12 gene has been associated with intellectual disability and developmental delay, although the specific contribution of ARHGAP12 to these phenotypes remains unclear due to the involvement of multiple genes in the affected regions (Giorgio2016Whole). 
+
+Overall, alterations in ARHGAP12 expression or function can significantly impact cancer progression and neurological development, highlighting its clinical significance in these areas.
+
+## Interactions
+ARHGAP12 interacts with several proteins, playing a significant role in synaptic development and function. One of its key interactions is with CIP4, a protein involved in clathrin-mediated endocytosis. This interaction is mediated by the N-terminal domain of ARHGAP12 and is independent of its SH3 domain and GAP activity (Ba2016ARHGAP12). The ARHGAP12-CIP4 interaction is crucial for AMPAR endocytosis, which affects synaptic strength by modulating the number of synaptic AMPARs. Disruption of this interaction impairs the endocytosis of the GluA1 subunit of AMPARs, leading to increased synaptic transmission (Ba2016ARHGAP12).
+
+ARHGAP12 also contains several protein motifs, including an SH3 domain, which is critical for protein-protein interactions. The first 156 amino acids of ARHGAP12, which include the SH3 domain, are essential for binding to CIP4, as demonstrated by co-immunoprecipitation experiments (Ba2016ARHGAP12). However, the interaction with CIP4 does not require the SH3 domain, indicating multiple interaction sites or mechanisms (Ba2016ARHGAP12). These interactions highlight ARHGAP12's role in coordinating synaptic structure and function through distinct pathways.
+
+
+## References
+
+
+[1. (Ba2016ARHGAP12) W. Ba, M.M. Selten, J. van der Raadt, H. van Veen, L.-L. Li, M. Benevento, A.R. Oudakker, R.S.E. Lasabuda, S.J. Letteboer, R. Roepman, R.J.A. van Wezel, M.J. Courtney, H. van Bokhoven, and N. Nadif Kasri. Arhgap12 functions as a developmental brake on excitatory synapse function. Cell Reports, 14(6):1355–1368, February 2016. URL: http://dx.doi.org/10.1016/j.celrep.2016.01.037, doi:10.1016/j.celrep.2016.01.037. This article has 20 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2016.01.037)
+
+[2. (Giorgio2016Whole) Elisa Giorgio, Andrea Ciolfi, Elisa Biamino, Viviana Caputo, Eleonora Di Gregorio, Elga Fabia Belligni, Alessandro Calcia, Elena Gaidolfi, Alessandro Bruselles, Cecilia Mancini, Simona Cavalieri, Cristina Molinatto, Margherita Cirillo Silengo, Giovanni Battista Ferrero, Marco Tartaglia, and Alfredo Brusco. Whole exome sequencing is necessary to clarify id/dd cases with de novo copy number variants of uncertain significance: two proof‐of‐concept examples. American Journal of Medical Genetics Part A, 170(7):1772–1779, April 2016. URL: http://dx.doi.org/10.1002/ajmg.a.37649, doi:10.1002/ajmg.a.37649. This article has 24 citations.](https://doi.org/10.1002/ajmg.a.37649)
+
+[3. (Zhang2002Cloning) Zhen Zhang, ChaoQun Wu, Shu Wang, Wei Huang, ZongXiang Zhou, Kang Ying, Yi Xie, and YuMin Mao. Cloning and characterization of arhgap12, a novel human rhogap gene. The International Journal of Biochemistry &amp; Cell Biology, 34(4):325–331, April 2002. URL: http://dx.doi.org/10.1016/s1357-2725(01)00134-0, doi:10.1016/s1357-2725(01)00134-0. This article has 18 citations.](https://doi.org/10.1016/s1357-2725(01)00134-0)
+
+[4. (Diring2019RPELfamily) Jessica Diring, Stephane Mouilleron, Neil Q. McDonald, and Richard Treisman. Rpel-family rhogaps link rac/cdc42 gtp loading to g-actin availability. Nature Cell Biology, 21(7):845–855, June 2019. URL: http://dx.doi.org/10.1038/s41556-019-0337-y, doi:10.1038/s41556-019-0337-y. This article has 28 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41556-019-0337-y)
+
+5. (Tambrin2024Function) Function of ArhGAP12 in the assembly and regulation of epithelial tight junctions. This article has 0 citations.
+
+[6. (Fei2024Integrated) Haoran Fei, Xiao Shi, Dan Sun, Haishen Yang, Dali Wang, Kai Li, Xinxin Si, and Wei Hu. Integrated analysis identified the role of three family members of arhgap in pancreatic adenocarcinoma. Scientific Reports, May 2024. URL: http://dx.doi.org/10.1038/s41598-024-62577-z, doi:10.1038/s41598-024-62577-z. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-62577-z)
+
+7. (Tambrin2024ARHGAP12) ARHGAP12 suppresses F-actin assembly to control epithelial tight junction mechanics and paracellular leak pathway permeability. This article has 0 citations.

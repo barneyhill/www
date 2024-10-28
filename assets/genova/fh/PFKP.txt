@@ -1,0 +1,58 @@
+# PFKP
+
+## Overview
+Phosphofructokinase, platelet (PFKP) is a gene that encodes a key enzyme in the glycolytic pathway, known as phosphofructokinase-1 (PFK1). This enzyme is a kinase, specifically responsible for catalyzing the conversion of fructose-6-phosphate to fructose-1,6-bisphosphate, a critical regulatory step in glycolysis. PFKP is predominantly expressed in platelets and is crucial for regulating glycolytic flux in response to cellular energy demands. The enzyme functions as a tetramer, with its activity modulated by various allosteric effectors and post-translational modifications, such as phosphorylation and glycosylation, which influence its role in cellular metabolism and cancer progression (Lee2018EGFRPhosphorylated; Webb2015Structures). PFKP's interactions with proteins like AKT and AMPK further underscore its involvement in metabolic and oncogenic pathways, highlighting its significance in both normal physiology and disease states (Lee2017Stabilization; Chen2022PFKP).
+
+## Structure
+The human phosphofructokinase-1 platelet isoform (PFKP) is a tetrameric enzyme, meaning it is composed of four subunits arranged as a dimer of dimers. Each subunit contains a nucleotide-binding domain (NBD) and a substrate-binding domain (SBD). The NBD resembles a Rossmann fold, a common motif in proteins that bind nucleotides (Webb2015Structures). The tetramer interface is relatively small, with a buried surface area of 700 Å² per subunit, and the subunits are arranged in an antiparallel orientation (Webb2015Structures).
+
+PFKP undergoes significant conformational changes upon nucleotide binding and hydrolysis, which are crucial for its function. The enzyme's activity is regulated allosterically by ATP and ADP, and it displays a loss of ATP inhibition in the presence of sodium sulfate, indicating that phosphate-binding and inhibitory site ATP-binding are mutually exclusive (Webb2015Structures).
+
+Post-translational modifications of PFKP include phosphorylation and glycosylation. Phosphorylation at tyrosine 64 (Y64) by the epidermal growth factor receptor (EGFR) is crucial for PI3K activation, while O-GlcNAc glycosylation at serine 529 (Ser529) inhibits its activity and alters its oligomerization state (Lee2018EGFRPhosphorylated; Yi2012Phosphofructokinase). These modifications play significant roles in regulating PFKP's activity and its involvement in cancer metabolism.
+
+## Function
+The PFKP gene encodes the platelet isoform of phosphofructokinase-1 (PFK1), a key enzyme in the glycolytic pathway. PFKP catalyzes the conversion of fructose-6-phosphate to fructose-1,6-bisphosphate, a critical regulatory step in glycolysis, effectively acting as a 'gatekeeper' of the pathway (Webb2015Structures). This enzyme is crucial for regulating glycolytic flux in response to cellular energy demands and is allosterically regulated by over ten metabolites and hormonal signals, allowing it to fine-tune glycolytic activity (Webb2015Structures).
+
+In healthy human cells, PFKP plays a significant role in maintaining glycolytic flux, which is essential for energy production and cellular metabolism. Overexpression of PFKP has been shown to significantly increase glycolytic flux, particularly when combined with other factors like GLUT3 and MCT4, indicating its pivotal role in enhancing glycolysis (Tanner2018Four). The enzyme's activity is influenced by its tetrameric structure, with specific interactions at the tetramer interface being crucial for its catalytic function (Webb2015Structures).
+
+PFKP is predominantly active in the cytoplasm, where it contributes to energy production, especially in tissues with high energy demands. Its regulation and activity are vital for normal cellular processes, including energy production and biomass synthesis (Tanner2018Four).
+
+## Clinical Significance
+Mutations and altered expression of the PFKP gene have significant clinical implications in various diseases. In cancer, particularly breast cancer, PFKP expression is upregulated and associated with poor prognosis. High PFKP levels correlate with advanced cancer stages, hormone receptor-negative status, and reduced overall survival, especially in triple-negative breast cancer (TNBC) patients (Umar2020Prognostic; Yeerken2020PFKP). PFKP is involved in the Warburg effect, a metabolic reprogramming in cancer cells characterized by increased glycolytic rates, which is a negative prognostic indicator in breast cancer (Umar2020Prognostic).
+
+PFKP mutations also play a role in congenital myocardial hypoplasia, a condition affecting heart development. The R755W variant of PFKP leads to myocardial hypoplasia, characterized by underdeveloped heart muscle and structural cardiac abnormalities (Zhang2024Prenatal). This mutation disrupts PFKP protein configuration, significantly reducing enzymatic activity and impacting heart development (Zhang2024Prenatal).
+
+In diabetic kidney disease, PFKP expression is upregulated in podocytes, where it plays a protective role against high glucose-induced cytoskeletal remodeling. Alterations in PFKP expression can affect podocyte structure and function, contributing to disease progression (Zhang2022PFKP).
+
+## Interactions
+PFKP (phosphofructokinase, platelet) interacts with several proteins that influence its stability and function. A significant interaction is with AKT, which phosphorylates PFKP at serine 386. This phosphorylation is crucial for PFKP stability as it prevents the binding of the E3 ligase TRIM21, thereby inhibiting PFKP's proteasomal degradation. This interaction promotes glycolysis, cell proliferation, and tumor growth, particularly in glioblastoma multiforme (GBM) (Lee2017Stabilization).
+
+PFKP also interacts with AMPK, particularly under glucose starvation conditions in non-small cell lung cancer (NSCLC) cells. This interaction facilitates the mitochondrial recruitment of AMPK, leading to the phosphorylation of acetyl-CoA carboxylase 2 (ACC2) and promoting long-chain fatty acid oxidation. This process is vital for maintaining energy and redox homeostasis, supporting cancer cell survival under metabolic stress (Chen2022PFKP).
+
+In addition, PFKP has been shown to bind with AXL in NSCLC, promoting its phosphorylation and activating the AXL-MET signaling pathway, which is associated with cancer progression (Sun2024PFKP). These interactions highlight PFKP's role in both metabolic and oncogenic pathways.
+
+
+## References
+
+
+[1. (Lee2018EGFRPhosphorylated) Jong-Ho Lee, Rui Liu, Jing Li, Yugang Wang, Lin Tan, Xin-Jian Li, Xu Qian, Chuanbao Zhang, Yan Xia, Daqian Xu, Wei Guo, Zhiyong Ding, Linyong Du, Yanhua Zheng, Qianming Chen, Philip L. Lorenzi, Gordon B. Mills, Tao Jiang, and Zhimin Lu. Egfr-phosphorylated platelet isoform of phosphofructokinase 1 promotes pi3k activation. Molecular Cell, 70(2):197-210.e7, April 2018. URL: http://dx.doi.org/10.1016/j.molcel.2018.03.018, doi:10.1016/j.molcel.2018.03.018. This article has 116 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2018.03.018)
+
+[2. (Tanner2018Four) Lukas Bahati Tanner, Alexander G. Goglia, Monica H. Wei, Talen Sehgal, Lance R. Parsons, Junyoung O. Park, Eileen White, Jared E. Toettcher, and Joshua D. Rabinowitz. Four key steps control glycolytic flux in mammalian cells. Cell Systems, 7(1):49-62.e8, July 2018. URL: http://dx.doi.org/10.1016/j.cels.2018.06.003, doi:10.1016/j.cels.2018.06.003. This article has 265 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.cels.2018.06.003)
+
+[3. (Lee2017Stabilization) Jong-Ho Lee, Rui Liu, Jing Li, Chuanbao Zhang, Yugang Wang, Qingsong Cai, Xu Qian, Yan Xia, Yanhua Zheng, Yuji Piao, Qianming Chen, John F. de Groot, Tao Jiang, and Zhimin Lu. Stabilization of phosphofructokinase 1 platelet isoform by akt promotes tumorigenesis. Nature Communications, October 2017. URL: http://dx.doi.org/10.1038/s41467-017-00906-9, doi:10.1038/s41467-017-00906-9. This article has 186 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-017-00906-9)
+
+[4. (Webb2015Structures) Bradley A. Webb, Farhad Forouhar, Fu-En Szu, Jayaraman Seetharaman, Liang Tong, and Diane L. Barber. Structures of human phosphofructokinase-1 and atomic basis of cancer-associated mutations. Nature, 523(7558):111–114, May 2015. URL: http://dx.doi.org/10.1038/nature14405, doi:10.1038/nature14405. This article has 121 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature14405)
+
+5. (Zhang2024Prenatal) Prenatal glycolysis restoration can rescue myocardial hypoplasia caused by platelet isoform of phosphofructokinase 1(PFKP) deficiency. This article has 0 citations.
+
+[6. (Umar2020Prognostic) Sheikh Mohammad Umar, Akanksha Kashyap, Shruti Kahol, Sandeep R Mathur, Ajay Gogia, S.V.S. Deo, and Chandra Prakash Prasad. Prognostic and therapeutic relevance of phosphofructokinase platelet-type (pfkp) in breast cancer. Experimental Cell Research, 396(1):112282, November 2020. URL: http://dx.doi.org/10.1016/j.yexcr.2020.112282, doi:10.1016/j.yexcr.2020.112282. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.yexcr.2020.112282)
+
+[7. (Chen2022PFKP) Jiaqing Chen, Li Zou, Guang Lu, Oleg Grinchuk, Lei Fang, Derrick Sek Tong Ong, Reshma Taneja, Choon-Nam Ong, and Han-Ming Shen. Pfkp alleviates glucose starvation-induced metabolic stress in lung cancer cells via ampk-acc2 dependent fatty acid oxidation. Cell Discovery, May 2022. URL: http://dx.doi.org/10.1038/s41421-022-00406-1, doi:10.1038/s41421-022-00406-1. This article has 21 citations.](https://doi.org/10.1038/s41421-022-00406-1)
+
+[8. (Yi2012Phosphofructokinase) Wen Yi, Peter M. Clark, Daniel E. Mason, Marie C. Keenan, Collin Hill, William A. Goddard, Eric C. Peters, Edward M. Driggers, and Linda C. Hsieh-Wilson. Phosphofructokinase 1 glycosylation regulates cell growth and metabolism. Science, 337(6097):975–980, August 2012. URL: http://dx.doi.org/10.1126/science.1222278, doi:10.1126/science.1222278. This article has 531 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1222278)
+
+[9. (Yeerken2020PFKP) Danna Yeerken, Ruoxi Hong, Yan Wang, Ying Gong, Rui Liu, Di Yang, Jinting Li, Jiawen Fan, Jie Chen, Weimin Zhang, and Qimin Zhan. Pfkp is transcriptionally repressed by brca1/zbrk1 and predicts prognosis in breast cancer. PLOS ONE, 15(5):e0233750, May 2020. URL: http://dx.doi.org/10.1371/journal.pone.0233750, doi:10.1371/journal.pone.0233750. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0233750)
+
+10. (Sun2024PFKP) PFKP regulates AXL-MET oncogenic and metabolic pathways in lung cancer. This article has 0 citations.
+
+[11. (Zhang2022PFKP) Zongwei Zhang, Wei Liang, Qiang Luo, Hongtu Hu, Keju Yang, Jijia Hu, Zhaowei Chen, Jili Zhu, Jun Feng, Zijing Zhu, Qingjia Chi, and Guohua Ding. Pfkp activation ameliorates foot process fusion in podocytes in diabetic kidney disease. Frontiers in Endocrinology, January 2022. URL: http://dx.doi.org/10.3389/fendo.2021.797025, doi:10.3389/fendo.2021.797025. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fendo.2021.797025)

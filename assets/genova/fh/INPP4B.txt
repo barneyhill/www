@@ -1,0 +1,50 @@
+# INPP4B
+
+## Overview
+INPP4B is a gene that encodes the protein inositol polyphosphate-4-phosphatase type II B, a dual-specificity phosphatase involved in the regulation of the phosphoinositide 3-kinase (PI3K)/AKT signaling pathway. This protein plays a critical role in cellular processes by hydrolyzing phosphatidylinositol 3,4-bisphosphate (PtdIns(3,4)P2) to phosphatidylinositol 3-phosphate (PtdIns(3)P), thereby acting as a negative regulator of the PI3K/AKT pathway, which is essential for controlling cell proliferation, survival, and metabolism (Hamila2021The). INPP4B is expressed in various human tissues, with notable expression in the heart and skeletal muscle, and is involved in diverse physiological functions, including bone homeostasis and metabolic regulation (Hamila2021The). The protein's activity is modulated by its interactions with other proteins, such as ATR and BRCA1, which are crucial for DNA repair mechanisms (Ip2015Loss). INPP4B's role in cancer is complex, acting as both a tumor suppressor and an oncogene depending on the context, with its expression levels influencing disease progression in cancers such as breast cancer, acute myeloid leukemia, and prostate cancer (Hodgson2011Decreased; Rodgers2021INPP4B; Woolley2021INPP4B).
+
+## Structure
+The INPP4B protein is characterized by its phosphatase domain, which includes a consensus Cys(X)5 Arg catalytic motif, essential for its enzymatic activity (Lopez2013Determinants; Ferron2006Characterization). This domain is structurally similar to the phosphatase domain of Mycobacterium tuberculosis PtpB, despite low sequence similarity (Lopez2013Determinants). The protein also contains a conserved C2 domain, known for its lipid-binding properties, which preferentially binds to phosphatidic acid and PI(3,4,5)P3 (Ferron2006Characterization).
+
+INPP4B exists in multiple isoforms due to alternative splicing, including the α and β isoforms, which differ in their tissue distribution and cellular localization. The α isoform is broadly expressed and localizes to the cytoplasm, while the β isoform is associated with the Golgi apparatus, suggesting distinct cellular functions (Ferron2006Characterization). A novel shorter isoform, Inpp4bαs, results from exon 5 skipping and an alternative translation initiation site, leading to a protein that lacks part of the C2 domain (Ferron2006Characterization). The presence of these isoforms indicates the potential for diverse functional roles within different cellular contexts.
+
+## Function
+INPP4B encodes inositol polyphosphate 4-phosphatase type II, a dual-specificity phosphatase involved in the regulation of the phosphoinositide 3-kinase (PI3K)/AKT signaling pathway. In healthy human cells, INPP4B functions primarily as a negative regulator of this pathway by hydrolyzing phosphatidylinositol 3,4-bisphosphate (PtdIns(3,4)P2) to phosphatidylinositol 3-phosphate (PtdIns(3)P), thereby terminating PI3K/AKT signaling. This regulation is crucial for controlling cell proliferation, survival, migration, and metabolism (Hamila2021The).
+
+INPP4B is widely expressed in human tissues, with the highest levels in the heart and skeletal muscle. It plays roles in bone homeostasis, male germ cell differentiation, and metabolic health. Inpp4b knockout mice exhibit defects in bone homeostasis, such as increased osteoclast differentiation and reduced bone density, along with metabolic changes like reduced energy expenditure and insulin resistance (Hamila2021The).
+
+The protein is active in the cytoplasm and plasma membrane, where it translocates upon growth factor stimulation to negatively regulate PtdIns(3,4)P2-mediated AKT activation. INPP4B also displays weak phosphatase activity towards PtdIns(4,5)P2, regulating protein kinase C (PKC) signaling (Hamila2021The). It is involved in endosomal processes, such as clathrin-mediated endocytosis and macropinocytosis, influencing the trafficking of growth factor receptors like the TGFβ receptor and EGFR (Hamila2021The).
+
+## Clinical Significance
+INPP4B plays a significant role in various cancers, with its expression levels and interactions influencing disease progression. In breast cancer, INPP4B acts as both a tumor suppressor and an oncogene, depending on the context. It is frequently inactivated in triple-negative breast cancer, where it typically functions as a tumor suppressor. However, in PIK3CA-mutant estrogen receptor-positive (ER+) breast cancers, increased INPP4B expression enhances tumor growth by promoting PI3Kα-dependent late endosome formation and Wnt/β-catenin signaling, despite suppressing AKT signaling (Rodgers2021INPP4B).
+
+In acute myeloid leukemia (AML), high INPP4B expression is linked to aggressive disease and poor prognosis. It is associated with leukemic stemness and influences lysosomal properties, which are crucial for leukemia stem cell maintenance (Woolley2021INPP4B).
+
+In prostate cancer, decreased INPP4B expression is correlated with earlier recurrence and increased proliferation, particularly in tumors lacking functional PTEN. This reduction in expression is associated with increased Akt activation, contributing to disease progression and poor outcomes (Hodgson2011Decreased).
+
+INPP4B's role in cancer is complex and context-dependent, with its expression and interactions significantly impacting tumorigenesis and progression across different cancer types.
+
+## Interactions
+INPP4B interacts with several proteins involved in the DNA damage response (DDR) pathway. It forms complexes with ATR and BRCA1, but not with ATM or PTEN, as demonstrated in experiments using 293T cells expressing Flag-tagged INPP4B. These interactions are crucial for maintaining DNA repair mechanisms, as the loss of INPP4B leads to reduced stability of BRCA1, ATR, and ATM proteins, resulting in increased sensitivity to PARP inhibitors (Ip2015Loss).
+
+INPP4B also interacts with RAD50 in adenocarcinoma cells, and ionizing radiation enhances its nuclear translocation and binding to RAD50. This interaction is significant for breast cancer survival, as the loss of INPP4B, along with RAD50, negatively impacts patient outcomes (Hamila2021The).
+
+In the context of breast cancer, INPP4B interacts with Rab7, a small GTPase that localizes to late endosomes. This interaction is essential for the conversion of PI(3,4)P2 to PI(3)P on late endosomes, promoting endosomal trafficking and Wnt/β-catenin signaling. INPP4B binds both GTP and GDP-loaded Rab7, and this binding enhances its phosphatase activity (Rodgers2021INPP4B).
+
+
+## References
+
+
+[1. (Ip2015Loss) Laura R. H. Ip, George Poulogiannis, Felipe Cia Viciano, Junko Sasaki, Satoshi Kofuji, Victoria J. Spanswick, Daniel Hochhauser, John A. Hartley, Takehiko Sasaki, and Christina A. Gewinner. Loss of inpp4b causes a dna repair defect through loss of brca1, atm and atr and can be targeted with parp inhibitor treatment. Oncotarget, 6(12):10548–10562, March 2015. URL: http://dx.doi.org/10.18632/oncotarget.3307, doi:10.18632/oncotarget.3307. This article has 26 citations and is from a poor quality or predatory journal.](https://doi.org/10.18632/oncotarget.3307)
+
+[2. (Hodgson2011Decreased) Myles C. Hodgson, Long-jiang Shao, Anna Frolov, Rile Li, Leif E. Peterson, Gustavo Ayala, Michael M. Ittmann, Nancy L. Weigel, and Irina U. Agoulnik. Decreased expression and androgen regulation of the tumor suppressor gene inpp4b in prostate cancer. Cancer Research, 71(2):572–582, January 2011. URL: http://dx.doi.org/10.1158/0008-5472.can-10-2314, doi:10.1158/0008-5472.can-10-2314. This article has 111 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-10-2314)
+
+[3. (Hamila2021The) Sabryn A. Hamila, Lisa M. Ooms, Samuel J. Rodgers, and Christina A. Mitchell. The inpp4b paradox: like pten, but different. Advances in Biological Regulation, 82:100817, December 2021. URL: http://dx.doi.org/10.1016/j.jbior.2021.100817, doi:10.1016/j.jbior.2021.100817. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jbior.2021.100817)
+
+[4. (Rodgers2021INPP4B) Samuel J. Rodgers, Lisa M. Ooms, Viola M. J. Oorschot, Ralf B. Schittenhelm, Elizabeth V. Nguyen, Sabryn A. Hamila, Natalie Rynkiewicz, Rajendra Gurung, Matthew J. Eramo, Absorn Sriratana, Clare G. Fedele, Franco Caramia, Sherene Loi, Genevieve Kerr, Helen E. Abud, Georg Ramm, Antonella Papa, Andrew M. Ellisdon, Roger J. Daly, Catriona A. McLean, and Christina A. Mitchell. Inpp4b promotes pi3kα-dependent late endosome formation and wnt/β-catenin signaling in breast cancer. Nature Communications, May 2021. URL: http://dx.doi.org/10.1038/s41467-021-23241-6, doi:10.1038/s41467-021-23241-6. This article has 36 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-23241-6)
+
+[5. (Lopez2013Determinants) Sandra M. Lopez, Myles C. Hodgson, Charles Packianathan, Ozlem Bingol-Ozakpinar, Fikriye Uras, Barry P. Rosen, and Irina U. Agoulnik. Determinants of the tumor suppressor inpp4b protein and lipid phosphatase activities. Biochemical and Biophysical Research Communications, 440(2):277–282, October 2013. URL: http://dx.doi.org/10.1016/j.bbrc.2013.09.077, doi:10.1016/j.bbrc.2013.09.077. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2013.09.077)
+
+6. (Woolley2021INPP4B) INPP4B drives lysosome biogenesis to restrict leukemic stem cell differentiation and promote leukemogenesis. This article has 3 citations.
+
+[7. (Ferron2006Characterization) Mathieu Ferron and Jean Vacher. Characterization of the murine inpp4b gene and identification of a novel isoform. Gene, 376(1):152–161, July 2006. URL: http://dx.doi.org/10.1016/j.gene.2006.02.022, doi:10.1016/j.gene.2006.02.022. This article has 39 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.gene.2006.02.022)

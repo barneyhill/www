@@ -1,0 +1,37 @@
+# CDC16
+
+## Overview
+CDC16 is a gene that encodes the cell division cycle 16 protein, a critical component of the anaphase-promoting complex/cyclosome (APC/C), which is a large E3 ubiquitin ligase complex. The CDC16 protein is characterized by its tetratricopeptide repeat (TPR) motifs, which form a superhelix structure essential for its function within the APC/C (Zhang2010The). As a core subunit of the APC/C, CDC16 plays a pivotal role in regulating the cell cycle by facilitating the ubiquitination and subsequent degradation of key regulatory proteins, such as cyclin B, during the transition from metaphase to anaphase (King1995A; Schwickart2004Swm1Apc13). This process is crucial for ensuring proper cell cycle progression and maintaining genomic stability. CDC16 interacts with other APC/C subunits, including CDC27 and CDC23, to form a functional complex necessary for its ubiquitination activity (King1995A). Additionally, CDC16 is involved in the regulation of the Spg1 GTPase in fission yeast, highlighting its role in the negative regulation of septation (Furge1998Byr4).
+
+## Structure
+The CDC16 protein, also known as Cut9 in Schizosaccharomyces pombe, is a subunit of the anaphase-promoting complex/cyclosome (APC/C) and is characterized by a contiguous tetratricopeptide repeat (TPR) superhelix consisting of 14 TPR units (Zhang2010The). The primary structure of CDC16 includes these TPR motifs, which are sequences of 34 amino acids forming pairs of anti-parallel alpha-helices (Zhang2010The). These motifs are organized into a right-handed superhelix, with the A-helices lining the inner concave groove and the B-helices forming the outer convex surface (Zhang2010The).
+
+The tertiary structure of CDC16 is rod-like, with the TPR motifs contributing to a linear superhelix approximately 110 Å in length and 60 Å in diameter (Zhang2010The). The quaternary structure involves the homo-dimerization of two CDC16 molecules through a homotypic dimer interface, forming a hetero-tetrameric assembly with Hcn1 (Zhang2010The). This dimerization is biologically relevant and conserved across orthologs (Zhang2010The).
+
+The CDC16/Cut9 TPR superhelix features a conserved ridge on its outer convex surface, mediating interactions with other APC/C subunits, specifically Cdc23 and Cdc27 (Zhang2010The). This structural arrangement protects Hcn1 from ubiquitin-dependent degradation by making the N-acetyl-Met residue inaccessible to the Doa10 E3 ubiquitin ligase (Zhang2010The).
+
+## Function
+CDC16 is a crucial component of the anaphase-promoting complex/cyclosome (APC/C), a large E3 ubiquitin ligase that regulates the cell cycle by targeting specific proteins for ubiquitination and subsequent degradation. This process is essential for the progression of mitosis, particularly in the transition from metaphase to anaphase, by ensuring the timely degradation of cyclin B and other regulatory proteins (King1995A; Schwickart2004Swm1Apc13). CDC16, along with CDC27 and CDC23, forms a core part of the APC/C, which is necessary for the ubiquitination of cyclins and the progression of anaphase (Lamb1994Cdc16p; King1995A).
+
+The protein is active in both the cytoplasm and nucleus, playing a vital role in maintaining genomic stability during cell division. CDC16 is involved in the regulation of cyclin degradation, which is crucial for the inactivation of Cdc2 and the exit from mitosis (King1995A). The APC/C, containing CDC16, is activated during mitosis and works with ubiquitin-conjugating enzymes to facilitate the degradation of mitotic cyclins, thereby ensuring proper cell cycle progression and preventing chromosomal instability (King1995A; Schwickart2004Swm1Apc13).
+
+## Interactions
+CDC16 is a component of the anaphase-promoting complex/cyclosome (APC/C), where it interacts with other subunits such as CDC27 and CDC23. These interactions are crucial for the ubiquitination of cyclin B, a process essential for cell cycle regulation and progression through mitosis (King1995A). CDC16 and CDC27 form a complex that is necessary for the mitosis-specific conjugation of ubiquitin to cyclin B, with CDC27 being required for ubiquitination activity (King1995A). 
+
+CDC16 also interacts with Swm1/Apc13, which stabilizes the association of CDC16 and CDC27 within the APC/C. This interaction is vital for maintaining the structural integrity and function of the APC/C (Schwickart2004Swm1Apc13). In fission yeast, CDC16 forms a two-component GTPase-activating protein (GAP) with Byr4, which regulates the Spg1 GTPase. This interaction enhances the GTPase activity of Spg1, playing a role in the negative regulation of septation (Furge1998Byr4). 
+
+CDC16 does not appear to interact directly with nucleic acids, as no such interactions have been reported in the context of its role within the APC/C or its interactions with other proteins (King1995A).
+
+
+## References
+
+
+[1. (Furge1998Byr4) Kyle A. Furge, Kelvin Wong, John Armstrong, Mohan Balasubramanian, and Charles F. Albright. Byr4 and cdc16 form a two-component gtpase-activating protein for the spg1 gtpase that controls septation in fission yeast. Current Biology, 8(17):947–954, August 1998. URL: http://dx.doi.org/10.1016/s0960-9822(98)70394-x, doi:10.1016/s0960-9822(98)70394-x. This article has 127 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0960-9822(98)70394-x)
+
+[2. (Lamb1994Cdc16p) J.R. Lamb, W.A. Michaud, R.S. Sikorski, and P.A. Hieter. Cdc16p, cdc23p and cdc27p form a complex essential for mitosis. The EMBO Journal, 13(18):4321–4328, September 1994. URL: http://dx.doi.org/10.1002/j.1460-2075.1994.tb06752.x, doi:10.1002/j.1460-2075.1994.tb06752.x. This article has 191 citations.](https://doi.org/10.1002/j.1460-2075.1994.tb06752.x)
+
+[3. (Zhang2010The) Ziguo Zhang, Kiran Kulkarni, Sarah J Hanrahan, Andrew J Thompson, and David Barford. The apc/c subunit cdc16/cut9 is a contiguous tetratricopeptide repeat superhelix with a homo-dimer interface similar to cdc27. The EMBO Journal, 29(21):3733–3744, October 2010. URL: http://dx.doi.org/10.1038/emboj.2010.247, doi:10.1038/emboj.2010.247. This article has 63 citations.](https://doi.org/10.1038/emboj.2010.247)
+
+[4. (Schwickart2004Swm1Apc13) Martin Schwickart, Jan Havlis, Bianca Habermann, Aliona Bogdanova, Alain Camasses, Tobias Oelschlaegel, Andrej Shevchenko, and Wolfgang Zachariae. Swm1/apc13 is an evolutionarily conserved subunit of the anaphase-promoting complex stabilizing the association of cdc16 and cdc27. Molecular and Cellular Biology, 24(8):3562–3576, April 2004. URL: http://dx.doi.org/10.1128/MCB.24.8.3562-3576.2004, doi:10.1128/mcb.24.8.3562-3576.2004. This article has 83 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.24.8.3562-3576.2004)
+
+[5. (King1995A) Randall W King, Jan-Michael Peters, Stuart Tugendreich, Mark Rolfe, Philip Hieter, and Marc W Kirschner. A 20s complex containing cdc27 and cdc16 catalyzes the mitosis-specific conjugation of ubiquitin to cyclin b. Cell, 81(2):279–288, April 1995. URL: http://dx.doi.org/10.1016/0092-8674(95)90338-0, doi:10.1016/0092-8674(95)90338-0. This article has 758 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/0092-8674(95)90338-0)

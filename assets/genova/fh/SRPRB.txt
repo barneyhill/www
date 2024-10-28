@@ -1,0 +1,46 @@
+# SRPRB
+
+## Overview
+The SRPRB gene encodes the signal recognition particle receptor subunit beta, a transmembrane GTPase that plays a pivotal role in the co-translational targeting of proteins to the endoplasmic reticulum (ER) membrane. This protein is integral to the signal recognition particle (SRP) pathway, where it functions as part of a heterodimeric complex with the alpha subunit, anchoring it to the ER membrane and facilitating the docking of ribosome-nascent chain complexes. The SRPRB protein is characterized by a conserved GTPase domain and a transmembrane domain, which are essential for its function in protein translocation and cellular homeostasis (Halic2006Signal; Miller1995The). Beyond its role in protein targeting, SRPRB is implicated in various cellular processes, including the regulation of apoptosis and interactions with other ER membrane proteins, highlighting its multifaceted role in cellular physiology and potential clinical significance in conditions such as pancreatic ductal adenocarcinoma and alcohol metabolism (Lee2019The; Ma2017SERP1).
+
+## Structure
+The SRPRB gene encodes the beta subunit of the signal recognition particle receptor, a transmembrane GTPase that anchors the alpha subunit to the endoplasmic reticulum membrane. The primary structure of SRPRB includes a predicted 19-amino acid transmembrane domain, which is conserved across mammalian and yeast proteins (Miller1995The). The protein's secondary structure is characterized by a conserved core consisting of a six-stranded β-sheet surrounded by α-helices, similar to other GTPases (Miller1995The). 
+
+The tertiary structure of SRPRB involves a GTPase domain with motifs G-1, G-3, and G-4 aligned based on their hydrophobic character, and a conserved threonine in the G-2 motif essential for GTP hydrolysis (Miller1995The). The carboxyl-terminal 80 residues are challenging to align but are proposed to form a helix that packs against the β-sheet, closing the fold (Miller1995The).
+
+In terms of quaternary structure, SRPRB forms a heterodimeric complex with SRα, with SRβ anchoring SRα to the ER membrane (Halic2006Signal). The SRPRB protein is involved in the SRP cycle, coordinating the presence of the RNC:SRP:SR complex with the translocon (schlenker2006structural).
+
+## Function
+The SRPRB gene encodes the beta subunit of the signal recognition particle (SRP) receptor, which plays a crucial role in the co-translational targeting of proteins to the endoplasmic reticulum (ER) in human cells. This receptor is integral to the process of protein translocation, facilitating the proper insertion of nascent polypeptides into the ER membrane. The SRP receptor, located on the ER membrane, interacts with the SRP-ribosome-nascent chain complex, ensuring that proteins are correctly directed to the ER for folding and modification, which is essential for maintaining cellular function and protein homeostasis (Yang2021Human).
+
+In the context of ER targeting, SRPRB is involved in the expression and targeting of glycosylphosphatidylinositol-anchored proteins (GPI-APs), such as CD59, in mammalian cells. The deletion of SRPRB, along with SRPRA, has been shown to downregulate the expression level of CD59, indicating its role in the ER targeting of certain GPI-APs (Yang2021Human). Additionally, SRPRB has been implicated in the regulation of apoptosis in cancer cells, suggesting its involvement in broader cellular processes beyond protein targeting (Ma2017SERP1).
+
+## Clinical Significance
+The SRPRB gene has been implicated in pancreatic ductal adenocarcinoma (PDAC) and alcohol metabolism. In PDAC, SRPRB expression is significantly downregulated in tumor tissues compared to normal pancreatic tissues, but it is upregulated in stromal fibroblasts within tumor tissues. This differential expression pattern suggests a complex role in tumor biology. Overexpression of SRPRB in PDAC cells has been shown to increase apoptosis, potentially through the suppression of NF-κB signaling, a pathway involved in tumor cell survival. These findings indicate that SRPRB may have clinical significance in the prognosis and treatment of PDAC by promoting apoptosis and inhibiting tumor progression (Ma2017SERP1).
+
+In the context of alcohol metabolism, the SRPRB gene, particularly the SNP rs17376019, has been associated with variations in blood alcohol concentration. Individuals with certain genotypes of this SNP exhibit different rates of alcohol metabolism, which may influence drinking behavior and alcohol-related health risks. However, the exact function of SRPRB in alcohol metabolism is not fully understood, and further research is needed to confirm these associations (Lee2019The). These studies suggest that alterations in SRPRB expression or genetic variants may have implications for both cancer biology and metabolic processes.
+
+## Interactions
+The SRPRB protein, also known as the signal recognition particle receptor subunit beta, is involved in several interactions crucial for its function in protein targeting to the endoplasmic reticulum (ER). SRPRB is a type I ER membrane protein that plays a role in the integration of proteins into the ER membrane. It interacts with the alpha subunit of the SRP receptor, facilitating the docking of ribosome-nascent chain complexes to the ER membrane (Bhadra2021Quantitative).
+
+In the context of pancreatic ductal adenocarcinoma (PDAC), SRPRB expression is influenced by the downregulation of SERP1, which leads to increased SRPRB expression and promotes apoptosis through the activation of the NF-κB signaling pathway. This suggests that SRPRB may have a role in modulating NF-κB activity, thereby influencing tumor cell survival (Ma2017SERP1).
+
+SRPRB is also involved in genetic interactions with RRBP1, another ER membrane protein. Depletion of RRBP1 leads to the upregulation of SRPRB, indicating a potential compensatory mechanism or interaction between these proteins in the ER protein import pathway (Bhadra2021Quantitative). These interactions highlight the multifaceted role of SRPRB in cellular processes related to protein targeting and apoptosis regulation.
+
+
+## References
+
+
+[1. (Ma2017SERP1) Qiang Ma, Xiuxiu Wu, Jing Wu, Zhiyong Liang, and Tonghua Liu. Serp1 is a novel marker of poor prognosis in pancreatic ductal adenocarcinoma patients via anti-apoptosis and regulating srprb/nf-κb axis. International Journal of Oncology, 51(4):1104–1114, August 2017. URL: http://dx.doi.org/10.3892/ijo.2017.4111, doi:10.3892/ijo.2017.4111. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2017.4111)
+
+[2. (Yang2021Human) Jing Yang, Tetsuya Hirata, Yi‐Shi Liu, Xin‐Yu Guo, Xiao‐Dong Gao, Taroh Kinoshita, and Morihisa Fujita. Human snd2 mediates er targeting of gpi‐anchored proteins with low hydrophobic gpi attachment signals. FEBS Letters, 595(11):1542–1558, April 2021. URL: http://dx.doi.org/10.1002/1873-3468.14083, doi:10.1002/1873-3468.14083. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/1873-3468.14083)
+
+[3. (Miller1995The) J D Miller, S Tajima, L Lauffer, and P Walter. The beta subunit of the signal recognition particle receptor is a transmembrane gtpase that anchors the alpha subunit, a peripheral membrane gtpase, to the endoplasmic reticulum membrane. The Journal of cell biology, 128(3):273–282, February 1995. URL: http://dx.doi.org/10.1083/jcb.128.3.273, doi:10.1083/jcb.128.3.273. This article has 91 citations.](https://doi.org/10.1083/jcb.128.3.273)
+
+[4. (Halic2006Signal) Mario Halic, Marco Gartmann, Oliver Schlenker, Thorsten Mielke, Martin R. Pool, Irmgard Sinning, and Roland Beckmann. Signal recognition particle receptor exposes the ribosomal translocon binding site. Science, 312(5774):745–747, May 2006. URL: http://dx.doi.org/10.1126/science.1124864, doi:10.1126/science.1124864. This article has 129 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1124864)
+
+5. (schlenker2006structural) Structural Characterisation of the Mammalian SRP Receptor. This article has 1 citations.
+
+[6. (Lee2019The) Yoo Jeong Lee, Min-Gyu Yoo, Hyeon-Kyeong Kim, Han Byul Jang, Keon Jae Park, Hye-Ja Lee, Sung-Gon Kim, and Sang Ick Park. The association between alcohol metabolism and genetic variants of adh1a, srprb, and pgm1 in korea. Alcohol, 79:137–145, September 2019. URL: http://dx.doi.org/10.1016/j.alcohol.2019.03.004, doi:10.1016/j.alcohol.2019.03.004. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.alcohol.2019.03.004)
+
+[7. (Bhadra2021Quantitative) Pratiti Bhadra, Stefan Schorr, Monika Lerner, Duy Nguyen, Johanna Dudek, Friedrich Förster, Volkhard Helms, Sven Lang, and Richard Zimmermann. Quantitative proteomics and differential protein abundance analysis after depletion of putative mrna receptors in the er membrane of human cells identifies novel aspects of mrna targeting to the er. Molecules, 26(12):3591, June 2021. URL: http://dx.doi.org/10.3390/molecules26123591, doi:10.3390/molecules26123591. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/molecules26123591)

@@ -1,0 +1,48 @@
+# KCTD20
+
+## Overview
+KCTD20 is a gene that encodes the protein potassium channel tetramerization domain containing 20, which is a member of the KCTD family characterized by the presence of a BTB (Broad-Complex, Tramtrack, and Bric-à-brac) domain. This protein is primarily involved in cellular signaling pathways, notably as a positive regulator of the Akt signaling pathway, which is crucial for cell survival, growth, and proliferation. The KCTD20 protein interacts with various signaling molecules, including all isoforms of Akt and protein phosphatase 2A (PP2A), to maintain Akt in an activated state by inhibiting its dephosphorylation. It is ubiquitously expressed across various tissues, with significant roles in both nervous and non-nervous systems. KCTD20's involvement in critical pathways makes it a significant player in cellular processes and a potential target in diseases such as cancer and neurodegenerative disorders (Nawa2013KCTD20; Skoblov2013Protein).
+
+## Structure
+KCTD20 is a protein characterized by the presence of a conserved BTB domain, which is involved in oligomerization and protein-protein interactions. This domain is located in the N-terminal region of the protein and is a common feature among KCTD family members (Esposito2021AlphaFoldPredicted). The BTB domain typically consists of a single β-sheet surrounded by helices, contributing to the protein's secondary structure (Esposito2021AlphaFoldPredicted).
+
+The C-terminal region of KCTD20, which is responsible for binding to Akt, shares a high degree of sequence similarity with BTBD10, indicating a conserved function in regulating Akt phosphorylation (Nawa2013KCTD20). Despite the structural predictions suggesting that KCTD20 may not form stable pentameric states, the CTD domains have a tendency to interact with adjacent CTD domains, potentially forming an open multimer (Esposito2022Alphafold).
+
+KCTD20 is ubiquitously expressed in both nervous and non-nervous tissues, with its expression levels generally equal to or higher in non-nervous tissues, except in the testis, spleen, and colon (Nawa2013KCTD20). The protein's structure and interactions suggest its role in regulating cell death and growth across various tissues.
+
+## Function
+KCTD20 is a gene that encodes a protein involved in several critical cellular processes, primarily through its role as a positive regulator of the Akt signaling pathway. The KCTD20 protein binds to all isoforms of Akt and protein phosphatase 2A (PP2A), inhibiting the dephosphorylation of Akt by PP2A. This interaction maintains Akt in an activated state, which is essential for promoting cell survival and growth by phosphorylating and activating downstream target proteins (Nawa2013KCTD20). KCTD20 is ubiquitously expressed in both nervous and non-nervous tissues, suggesting its broad role in regulating cell death and growth across various tissues (Nawa2013KCTD20).
+
+In healthy human cells, KCTD20 is involved in the AKT-mTOR-p70 S6k signaling cascade, a pathway crucial for cell growth, proliferation, and survival. This is supported by its interactions with molecules such as MAP3K8, PPP1CA, and MARK4, which are components of the mTOR/AKT pathway (Skoblov2013Protein). KCTD20's activity is primarily cytoplasmic, where it localizes with a filamentous structure, indicating its involvement in cytoplasmic signaling processes (Nawa2013KCTD20). The protein's role in maintaining Akt phosphorylation levels is vital for the survival of many cell types and may have implications in diseases where Akt signaling is compromised (Nawa2013KCTD20).
+
+## Clinical Significance
+KCTD20 has been implicated in several diseases due to alterations in its expression levels and interactions, rather than direct mutations. In non-small cell lung cancer (NSCLC), KCTD20 is overexpressed, correlating with poor prognosis, advanced TNM stage, and positive lymph node metastasis. It promotes cancer cell proliferation and invasion by activating the Fak/Akt signaling pathway, upregulating Cyclin D1, and downregulating E-cadherin (Zhang2017Kctd20). This suggests that KCTD20 could be a potential therapeutic target for NSCLC, especially in patients with specific genetic mutations like EGFR or EML4-ALK fusions (Zhang2017Kctd20).
+
+In glioma, a type of brain cancer, KCTD20 expression is upregulated and associated with the long non-coding RNA NEAT1, which regulates glioma cell proliferation and apoptosis through a NEAT1-miR-324-5p-KCTD20 axis. This regulatory pathway suggests that KCTD20 contributes to glioma development and could serve as a therapeutic target (Zhang2021Long).
+
+In the context of Parkinson's disease, KCTD20 expression is modulated by miR-423-5p, with its upregulation linked to cell injury mechanisms. This indicates a potential role in neurodegenerative processes (Zheng2021Silencing).
+
+## Interactions
+KCTD20 is involved in several protein-protein interactions that play significant roles in cellular signaling pathways. It interacts with all isoforms of Akt and protein phosphatase 2A (PP2A), functioning as a positive regulator of Akt by inhibiting PP2A-mediated dephosphorylation, thereby maintaining Akt in an activated state (Nawa2013KCTD20). KCTD20 also interacts with the catalytic subunits of protein phosphatases PP1A and PP2A, as demonstrated by GST-pulldown assays (Nawa2013KCTD20).
+
+In the context of cancer, KCTD20 is implicated in the regulation of proliferation and invasion in non-small cell lung cancer (NSCLC) through the Fak/Akt signaling pathway. It is overexpressed in NSCLC tissues and enhances cell proliferation by upregulating Cyclin D1 and facilitating invasion by downregulating E-cadherin. KCTD20's overexpression leads to increased phosphorylation of Fak (Tyr397) and Akt (Thr308), suggesting its role as an upstream regulator of this pathway (Zhang2017Kctd20).
+
+KCTD20 is also involved in the modulation of cellular responses to cytotoxicity. It is targeted by miR-423-5p, which binds to its 3'UTR, leading to its suppression. This interaction is regulated by the long noncoding RNA UCA1, which acts as a sponge for miR-423-5p, thereby modulating KCTD20 expression (Zheng2021Silencing).
+
+
+## References
+
+
+[1. (Zheng2021Silencing) Yanhua Zheng, Junpeng Liu, Jiajun Zhuang, Xiaoyan Dong, Miao Yu, and Zhihui Li. Silencing of uca1 protects against mpp+-induced cytotoxicity in sk-n-sh cells via modulating kctd20 expression by sponging mir-423-5p. Neurochemical Research, 46(4):878–887, January 2021. URL: http://dx.doi.org/10.1007/s11064-020-03214-9, doi:10.1007/s11064-020-03214-9. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11064-020-03214-9)
+
+[2. (Zhang2021Long) Jiale Zhang, Yangyang Li, Yuqi Liu, Guangzhi Xu, Yue Hei, Xiaoming Lu, and Weiping Liu. Long non‑coding rna neat1 regulates glioma cell proliferation and apoptosis by competitively binding to microrna‑324‑5p and upregulating kctd20 expression. Oncology Reports, May 2021. URL: http://dx.doi.org/10.3892/or.2021.8076, doi:10.3892/or.2021.8076. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.2021.8076)
+
+[3. (Skoblov2013Protein) Mikhail Skoblov, Andrey Marakhonov, Ekaterina Marakasova, Anna Guskova, Vikas Chandhoke, Aybike Birerdinc, and Ancha Baranova. Protein partners of <scp>kctd</scp> proteins provide insights about their functional roles in cell differentiation and vertebrate development. BioEssays, 35(7):586–596, April 2013. URL: http://dx.doi.org/10.1002/bies.201300002, doi:10.1002/bies.201300002. This article has 72 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/bies.201300002)
+
+[4. (Esposito2022Alphafold) Luciana Esposito, Nicole Balasco, and Luigi Vitagliano. Alphafold predictions provide insights into the structural features of the functional oligomers of all members of the kctd family. International Journal of Molecular Sciences, 23(21):13346, November 2022. URL: http://dx.doi.org/10.3390/ijms232113346, doi:10.3390/ijms232113346. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms232113346)
+
+[5. (Nawa2013KCTD20) Mikiro Nawa and Masaaki Matsuoka. Kctd20, a relative of btbd10, is a positive regulator of akt. BMC Biochemistry, 14(1):27, 2013. URL: http://dx.doi.org/10.1186/1471-2091-14-27, doi:10.1186/1471-2091-14-27. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2091-14-27)
+
+[6. (Zhang2017Kctd20) Xiupeng Zhang, Haijing Zhou, Lin Cai, Chuifeng Fan, Yang Liu, Liang Wang, Qingchang Li, and Yuan Miao. Kctd20 promotes the development of non‐small cell lung cancer through activating fak/akt pathway and predicts poor overall survival of patients. Molecular Carcinogenesis, 56(9):2058–2065, May 2017. URL: http://dx.doi.org/10.1002/mc.22660, doi:10.1002/mc.22660. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/mc.22660)
+
+[7. (Esposito2021AlphaFoldPredicted) Luciana Esposito, Nicole Balasco, Giovanni Smaldone, Rita Berisio, Alessia Ruggiero, and Luigi Vitagliano. Alphafold-predicted structures of kctd proteins unravel previously undetected relationships among the members of the family. Biomolecules, 11(12):1862, December 2021. URL: http://dx.doi.org/10.3390/biom11121862, doi:10.3390/biom11121862. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom11121862)

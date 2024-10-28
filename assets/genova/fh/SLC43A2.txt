@@ -1,0 +1,37 @@
+# SLC43A2
+
+## Overview
+SLC43A2 is a gene that encodes the protein solute carrier family 43 member 2 (LAT4), which is a transmembrane amino acid transporter. LAT4 is primarily involved in the transport of large neutral amino acids across cell membranes, functioning as a uniporter. This protein plays a critical role in the absorption and reabsorption of essential amino acids in the epithelial cells of the small intestine and kidney, respectively. LAT4's activity is regulated by phosphorylation and its interactions with other proteins, which influence its localization and function within the cell. The gene's expression has been linked to various physiological and pathological processes, including its involvement in liver hepatocellular carcinoma, where it is associated with poor prognosis due to its role in creating a suppressive tumor immune microenvironment (Oparija2018Anticipation; Rajendran2020Tissue‐specific; Liao2022Comprehensive).
+
+## Function
+The SLC43A2 gene encodes the LAT4 protein, a basolateral amino acid transporter involved in the transport of large neutral amino acids across cell membranes. LAT4 functions as a uniporter, facilitating the efflux of essential amino acids such as phenylalanine, methionine, leucine, isoleucine, and valine through facilitated diffusion, primarily in the epithelial cells of the small intestine and kidney (Oparija2018Anticipation; Rajendran2020Tissue‐specific). In the small intestine, LAT4 is crucial for the absorption of amino acids, aligning with circadian rhythms to optimize transport processes in anticipation of feeding times (Oparija2018Anticipation). Phosphorylation at specific serine residues, such as S274 and S297, regulates LAT4's activity and localization, enhancing its function at the cell surface and modulating its transport capacity (Oparija2018Anticipation).
+
+In the kidney, LAT4 plays a significant role in reabsorbing amino acids from primary urine, preventing their loss and maintaining amino acid homeostasis (Rajendran2020Tissue‐specific). The absence of LAT4 leads to increased aminoaciduria, highlighting its importance in amino acid reabsorption (Rajendran2020Tissue‐specific). LAT4's activity is also essential for the survival of regulatory T lymphocytes, particularly under conditions of interleukin-2 deprivation, where it facilitates methionine uptake (Naaz2022Methionine).
+
+## Clinical Significance
+The SLC43A2 gene has been implicated in liver hepatocellular carcinoma (LIHC), where its overexpression is associated with poor prognosis. High levels of SLC43A2 expression in LIHC tissues correlate with worse overall survival and recurrence-free survival in patients. This gene is linked to a suppressive tumor immune microenvironment, characterized by increased infiltration of immunosuppressive cells such as regulatory T cells, macrophages, and myeloid-derived suppressor cells. These changes contribute to T cell exhaustion, as indicated by the upregulation of exhaustion markers like PDCD1 and CTLA4 (Liao2022Comprehensive).
+
+In addition to its role in cancer, SLC43A2 is crucial for amino acid transport in the small intestine and kidney. Tissue-specific knockout studies in mice have shown that the absence of SLC43A2 leads to significant aminoaciduria and defects in amino acid absorption, particularly for substrates like leucine and methionine. These findings suggest that SLC43A2 is essential for maintaining amino acid homeostasis, and its dysfunction could potentially lead to metabolic issues (Rajendran2020Tissue‐specific).
+
+Overall, alterations in SLC43A2 expression or function can significantly impact both cancer progression and amino acid transport, highlighting its clinical significance as a potential therapeutic target.
+
+## Interactions
+SLC43A2, a member of the solute carrier family, engages in several protein-protein interactions that influence its localization and function. It interacts with proteins from the MAGUK family, including LIN7C, CASK, DLG1, and MPP1. These interactions are crucial for the trafficking and subcellular localization of SLC43A2. Specifically, the PDZ domains of LIN7C and MPP1 interact with the intracellular C-terminal tail of SLC43A2, as modeled using AlphaFold2, with weighted scores of 0.57 and 0.51, respectively (Frommelt2024The).
+
+The depletion of CASK or LIN7C results in an increased plasma membrane-associated GFP signal, indicating their role in regulating SLC43A2's presence at the plasma membrane. Conversely, RNA interference of MPP1 increases the intensity and relative distribution of SLC43A2-GFP away from the plasma membrane, suggesting a role in Golgi to plasma membrane trafficking (Frommelt2024The).
+
+These interactions highlight the importance of SLC43A2's protein environment in its cellular pathways, potentially making it a target for therapeutic interventions (Frommelt2024The). There is no mention of interactions with nucleic acids in the provided context.
+
+
+## References
+
+
+[1. (Rajendran2020Tissue‐specific) Anuradha Rajendran, Nadège Poncet, Lalita Oparija‐Rogenmozere, Brigitte Herzog, and François Verrey. Tissue‐specific deletion of mouse basolateral uniporter lat4 (slc43a2) reveals its crucial role in small intestine and kidney amino acid transport. The Journal of Physiology, 598(22):5109–5132, September 2020. URL: http://dx.doi.org/10.1113/JP280234, doi:10.1113/jp280234. This article has 15 citations.](https://doi.org/10.1113/JP280234)
+
+[2. (Oparija2018Anticipation) Lalita Oparija, Anuradha Rajendran, Nadège Poncet, and François Verrey. Anticipation of food intake induces phosphorylation switch to regulate basolateral amino acid transporter lat4 (slc43a2) function. The Journal of Physiology, 597(2):521–542, November 2018. URL: http://dx.doi.org/10.1113/JP276714, doi:10.1113/jp276714. This article has 12 citations.](https://doi.org/10.1113/JP276714)
+
+3. (Naaz2022Methionine) Methionine uptake via SLC43A2 transporter is essential for regulatory T lymphocyte survival. This article has 0 citations.
+
+[4. (Liao2022Comprehensive) Yan Liao, Junmei Weng, Lian Chen, Nan Hu, Xun Yuan, Jianhua Wang, Feng He, Yixin Cai, Qin Huang, Jianing Wang, and Liu Huang. Comprehensive analysis of slc43a2 on the tumor immune microenvironment and prognosis of liver hepatocellular carcinoma. Frontiers in Genetics, September 2022. URL: http://dx.doi.org/10.3389/fgene.2022.911378, doi:10.3389/fgene.2022.911378. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.911378)
+
+5. (Frommelt2024The) The solute carrier superfamily interactome. This article has 0 citations.

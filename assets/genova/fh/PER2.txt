@@ -1,0 +1,60 @@
+# PER2
+
+## Overview
+The PER2 gene encodes the period circadian regulator 2 protein, a crucial component of the mammalian circadian clock system. This protein is integral to the regulation of circadian rhythms, which are the 24-hour cycles governing physiological and behavioral processes. PER2 functions within a transcription-translation feedback loop, where it interacts with other clock proteins to modulate the activity of the CLOCK:BMAL1 complex, thereby influencing its own transcription and that of other clock-related genes (Reppert2002Coordination; Takahashi2008The). The protein is characterized by its PAS domains, which facilitate dimerization and protein-protein interactions, essential for its role in circadian rhythm regulation (Militi2016Early). PER2's activity is modulated by post-translational modifications, such as phosphorylation, which affect its stability and degradation, impacting the timing of the circadian cycle (Xu2007Modeling; Zhou2015A). Mutations in the PER2 gene can lead to circadian rhythm disorders and have been implicated in various clinical conditions, including sleep disorders and cancer susceptibility (Fu2002The; Toh2001An).
+
+## Structure
+The PER2 protein is characterized by its complex molecular structure, which includes several key domains that are crucial for its function in circadian rhythm regulation. The protein contains PAS domains, which are important for dimerization and protein-protein interactions. These domains are connected by an interdomain linker, which is highly conserved and plays a significant role in the stability and flexibility of the protein (Militi2016Early).
+
+A notable mutation, I324N, occurs in the interdomain linker between the PAS-A and PAS-B domains, affecting the protein's stability and leading to accelerated degradation (Militi2016Early). The PAS domains maintain a compact fold in solution, but mutations can lead to increased flexibility and reduced thermodynamic stability (Militi2016Early).
+
+Post-translational modifications, such as phosphorylation, are critical for PER2's function. Phosphorylation at specific serine residues, like S478 and S659, regulates the protein's stability and degradation through interactions with β-TrCP1, a process essential for circadian rhythm regulation (Zhou2015A). These modifications act as a phosphoswitch, influencing the protein's degradation kinetics and stability (Zhou2015A).
+
+## Function
+The PER2 gene is a critical component of the mammalian circadian clock, which regulates the 24-hour cycle of physiological and behavioral processes. PER2 is involved in a transcription-translation feedback loop that is essential for maintaining circadian rhythms. In this loop, PER2, along with other proteins such as CRY, inhibits the activity of the CLOCK:BMAL1 complex, thereby regulating its own transcription and that of other clock genes (Reppert2002Coordination; Takahashi2008The).
+
+PER2 is primarily active in the cell nucleus, where it plays a role in the negative feedback loop that controls the expression of clock genes. The phosphorylation of PER2 by casein kinase 1 (CK1) is crucial for its function, as it influences the protein's stability and degradation, which in turn affects the circadian period (Xu2007Modeling; Takahashi2008The). The phosphorylation state of PER2 determines its nuclear retention and interaction with other clock proteins, impacting the timing of the circadian cycle (Takahashi2008The).
+
+Mutations in PER2, such as the S662G mutation, can lead to alterations in its phosphorylation, affecting its stability and nuclear localization, and resulting in circadian rhythm disorders like Familial Advanced Sleep Phase Syndrome (FASPS) (Xu2007Modeling; Toh2001An).
+
+## Clinical Significance
+Mutations and alterations in the PER2 gene are associated with several clinical conditions, particularly those affecting circadian rhythms and cancer susceptibility. Familial Advanced Sleep Phase Syndrome (FASPS) is linked to a specific mutation in the PER2 gene, where a serine is substituted with glycine at position 662 (S662G). This mutation leads to hypophosphorylation by casein kinase Iε, resulting in a phase advance in the sleep-wake cycle (Xu2007Modeling; Toh2001An). 
+
+In cancer, PER2 plays a role in tumor suppression. Its deregulation is associated with increased cancer susceptibility, as seen in mPer2 mutant mice, which show higher rates of tumor development and reduced apoptosis following gamma radiation exposure (Fu2002The). In liver carcinogenesis, mutations in PER2 lead to increased cancer rates and are linked to deregulated pathways involved in proliferation and genomic instability (Mteyrek2016Clock).
+
+Alterations in PER2 expression are also implicated in mood disorders. In bipolar disorder, lithium treatment can enhance PER2 expression, suggesting a role in resynchronizing circadian rhythms, which may contribute to its therapeutic effects (McCarthy2013Genetic). These findings underscore the clinical significance of PER2 in various diseases.
+
+## Interactions
+PER2 (period circadian regulator 2) is a key component of the circadian clock, engaging in various interactions with other proteins to regulate circadian rhythms. PER2 interacts with nuclear receptors such as PPARa and REV-ERBa, acting as a coregulator of nuclear receptor-mediated transcription. This interaction allows PER2 to be rhythmically bound at the promoters of nuclear receptor target genes, modulating their expression and affecting the regulation of genes involved in glucose homeostasis, such as Hnf1a and Glucose-6-phosphatase (Schmutz2010The).
+
+PER2 also forms complexes with CRY1 and CRY2 proteins, which influence its interaction with BMAL1 and CLOCK. CRY1 is more effective than CRY2 in disrupting PER2-BMAL1 interactions, which is important for the repression of BMAL1-CLOCK-mediated transcription (Langmesser2008Interaction). PER2 can bind to the N-terminus of BMAL1, potentially through direct interaction between PAS domains (Langmesser2008Interaction).
+
+Additionally, PER2 interacts with mCRY proteins, which prevent its ubiquitylation and degradation, highlighting a protective role. This interaction is crucial for the stability and function of PER2 within the circadian clock mechanism (Yagita2002Nucleocytoplasmic). PER2's interactions with these proteins are essential for maintaining the stability and proper functioning of the circadian clock.
+
+
+## References
+
+
+[1. (Reppert2002Coordination) Steven M. Reppert and David R. Weaver. Coordination of circadian timing in mammals. Nature, 418(6901):935–941, August 2002. URL: http://dx.doi.org/10.1038/nature00965, doi:10.1038/nature00965. This article has 3369 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature00965)
+
+[2. (Fu2002The) Loning Fu, Helene Pelicano, Jinsong Liu, Peng Huang, and Cheng Chi Lee. The circadian gene period2 plays an important role in tumor suppression and dna damage response in vivo. Cell, 111(1):41–50, October 2002. URL: http://dx.doi.org/10.1016/s0092-8674(02)00961-3, doi:10.1016/s0092-8674(02)00961-3. This article has 1010 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0092-8674(02)00961-3)
+
+[3. (Schmutz2010The) Isabelle Schmutz, Jürgen A. Ripperger, Stéphanie Baeriswyl-Aebischer, and Urs Albrecht. The mammalian clock component period2 coordinates circadian output by interaction with nuclear receptors. Genes &amp; Development, 24(4):345–357, February 2010. URL: http://dx.doi.org/10.1101/gad.564110, doi:10.1101/gad.564110. This article has 290 citations.](https://doi.org/10.1101/gad.564110)
+
+[4. (Takahashi2008The) Joseph S. Takahashi, Hee-Kyung Hong, Caroline H. Ko, and Erin L. McDearmon. The genetics of mammalian circadian order and disorder: implications for physiology and disease. Nature Reviews Genetics, 9(10):764–775, October 2008. URL: http://dx.doi.org/10.1038/nrg2430, doi:10.1038/nrg2430. This article has 1267 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrg2430)
+
+[5. (Zhou2015A) Min Zhou, Jae Kyoung Kim, Gracie Wee Ling Eng, Daniel B. Forger, and David M. Virshup. A period2 phosphoswitch regulates and temperature compensates circadian period. Molecular Cell, 60(1):77–88, October 2015. URL: http://dx.doi.org/10.1016/j.molcel.2015.08.022, doi:10.1016/j.molcel.2015.08.022. This article has 148 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2015.08.022)
+
+[6. (Yagita2002Nucleocytoplasmic) Kazuhiro Yagita, Filippo Tamanini, Maya Yasuda, Jan H. J. Hoeijmakers, Gijsbertus T. J. van der Horst, and Hitoshi Okamura. Nucleocytoplasmic shuttling and mcry-dependent inhibition of ubiquitylation of the mper2 clock protein. The EMBO Journal, 21(6):1301–1314, March 2002. URL: http://dx.doi.org/10.1093/emboj/21.6.1301, doi:10.1093/emboj/21.6.1301. This article has 217 citations.](https://doi.org/10.1093/emboj/21.6.1301)
+
+[7. (Mteyrek2016Clock) Ali Mteyrek, Elisabeth Filipski, Catherine Guettier, Alper Okyar, and Francis Lévi. Clock gene per2 as a controller of liver carcinogenesis. Oncotarget, 7(52):85832–85847, August 2016. URL: http://dx.doi.org/10.18632/oncotarget.11037, doi:10.18632/oncotarget.11037. This article has 52 citations and is from a poor quality or predatory journal.](https://doi.org/10.18632/oncotarget.11037)
+
+[8. (Toh2001An) Kong L. Toh, Christopher R. Jones, Yan He, Erik J. Eide, William A. Hinz, David M. Virshup, Louis J. Ptáček, and Ying-Hui Fu. An h per2 phosphorylation site mutation in familial advanced sleep phase syndrome. Science, 291(5506):1040–1043, February 2001. URL: http://dx.doi.org/10.1126/science.1057499, doi:10.1126/science.1057499. This article has 1183 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1057499)
+
+[9. (McCarthy2013Genetic) M J McCarthy, H Wei, Z Marnoy, R M Darvish, D L McPhie, B M Cohen, and D K Welsh. Genetic and clinical factors predict lithium’s effects on per2 gene expression rhythms in cells from bipolar disorder patients. Translational Psychiatry, 3(10):e318–e318, October 2013. URL: http://dx.doi.org/10.1038/tp.2013.90, doi:10.1038/tp.2013.90. This article has 109 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/tp.2013.90)
+
+[10. (Langmesser2008Interaction) Sonja Langmesser, Tiziano Tallone, Alain Bordon, Sandro Rusconi, and Urs Albrecht. Interaction of circadian clock proteins per2 and cry with bmal1 and clock. BMC Molecular Biology, 9(1):41, 2008. URL: http://dx.doi.org/10.1186/1471-2199-9-41, doi:10.1186/1471-2199-9-41. This article has 102 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2199-9-41)
+
+[11. (Xu2007Modeling) Y. Xu, K.L. Toh, C.R. Jones, J.-Y. Shin, Y.-H. Fu, and L.J. Ptáček. Modeling of a human circadian mutation yields insights into clock regulation by per2. Cell, 128(1):59–70, January 2007. URL: http://dx.doi.org/10.1016/j.cell.2006.11.043, doi:10.1016/j.cell.2006.11.043. This article has 348 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2006.11.043)
+
+[12. (Militi2016Early) Stefania Militi, Elizabeth S. Maywood, Colby R. Sandate, Johanna E. Chesham, Alun R. Barnard, Michael J. Parsons, Jennifer L. Vibert, Greg M. Joynson, Carrie L. Partch, Michael H. Hastings, and Patrick M. Nolan. Early doors ( edo ) mutant mouse reveals the importance of period 2 (per2) pas domain structure for circadian pacemaking. Proceedings of the National Academy of Sciences, 113(10):2756–2761, February 2016. URL: http://dx.doi.org/10.1073/pnas.1517549113, doi:10.1073/pnas.1517549113. This article has 20 citations.](https://doi.org/10.1073/pnas.1517549113)

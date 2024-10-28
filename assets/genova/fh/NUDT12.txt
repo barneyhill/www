@@ -1,0 +1,35 @@
+# NUDT12
+
+## Overview
+The NUDT12 gene encodes the protein nudix hydrolase 12, a member of the Nudix hydrolase family, which is involved in nucleotide metabolism and RNA processing. This protein is characterized by its role as a decapping enzyme for NAD-capped RNAs, contributing to RNA stability and gene expression regulation. Structurally, nudix hydrolase 12 features three N-terminal ankyrin repeats and a C-terminal catalytic domain with a Nudix motif, essential for its enzymatic activity (Wu2019Decapping). The protein functions as a homodimer, a configuration necessary for its catalytic efficiency and stability (Wu2019Decapping). NUDT12 is primarily localized in peroxisomes, where it acts as an NADH diphosphatase, and also operates in the cytoplasm, where it partners with Bleomycin Hydrolase (BLMH) to manage NAD-capped RNA turnover (ABDELRAHEIM2003Mammalian; Wu2019Decapping). This dual localization underscores its significant role in maintaining cellular redox homeostasis and RNA processing.
+
+## Structure
+The NUDT12 protein is a member of the Nudix hydrolase family and functions as a decapping enzyme for NAD-capped RNAs. It is composed of three N-terminal ankyrin (ANK) repeats and a C-terminal catalytic domain containing the Nudix motif, which is crucial for its enzymatic activity (Wu2019Decapping). The protein forms a homodimer, which is essential for its catalytic activity and stability. This dimerization is mediated by the C-terminal catalytic domain, as confirmed by analytical ultracentrifugation and immunoprecipitation experiments (Wu2019Decapping).
+
+The crystal structure of the catalytic core of human NUDT12 reveals a homodimeric structure with two tandem Nudix-fold domains separated by a zinc-binding motif. The catalytic C-terminal domain contains the Nudix motif, and m7GTP is bound in the active sites, adopting multiple conformations. The purine base of m7GTP is stacked between aromatic residues from both monomers, explaining the requirement for dimerization (Wu2019Decapping). The structure also shows differences in ion binding compared to mouse and bacterial homologs, with Cd2+ ions replacing Mg2+ and Zn2+ ions in the human structure (Wu2019Decapping).
+
+## Function
+The NUDT12 gene encodes a protein that functions as a member of the Nudix hydrolase family, playing a crucial role in nucleotide metabolism and RNA processing in human cells. NUDT12 is primarily localized to peroxisomes, where it acts as an NADH diphosphatase, hydrolyzing reduced nicotinamide nucleotides such as NADH and NADPH to maintain nucleotide balance and contribute to cellular redox homeostasis (ABDELRAHEIM2003Mammalian). The enzyme's activity is enhanced in the presence of Mn2+ ions, and it is targeted to peroxisomes by a C-terminal tripeptide PNL, which serves as a peroxisomal targeting signal (ABDELRAHEIM2003Mammalian).
+
+In addition to its role in peroxisomes, NUDT12 functions as a decapping enzyme for NAD-capped RNAs in the cytoplasm. It partners with BLMH to localize to cytoplasmic granules, where it participates in the surveillance and turnover of NAD-capped RNAs, influencing RNA stability and gene expression regulation (Wu2019Decapping). This decapping activity is crucial for maintaining proper RNA processing and cellular metabolism, as it promotes the decay of NAD-capped RNAs, which are signals for RNA turnover (GrudzienNogalska2018Structural; Kulikova2020Role).
+
+## Interactions
+NUDT12, a member of the Nudix hydrolase family, is known for its interactions with both proteins and nucleic acids. It forms a significant complex with Bleomycin Hydrolase (BLMH), a cysteine peptidase, which is crucial for its localization and function in cytoplasmic surveillance of NAD-capped RNAs. This interaction results in the formation of a large complex, approximately 600 kDa, likely consisting of NUDT12 dimers and a BLMH hexamer. The ANK repeats of NUDT12 are essential for its interaction with BLMH, as their deletion abolishes the association (Wu2019Decapping).
+
+NUDT12 is localized to discrete cytoplasmic granules in human HeLa cells, a process dependent on its interaction with BLMH. This interaction sequesters NUDT12 into these granules, distinct from P-bodies and peroxisomes (Wu2019Decapping). The interaction with BLMH does not alter NUDT12's decapping activity on m7G-capped RNA, but it is essential for the cytoplasmic surveillance of NAD-capped RNAs, facilitating their degradation by XRN1 (Wu2019Decapping).
+
+NUDT12 also exhibits a unique interaction with RNA, binding RNA but not DNA. It shows a preference for RNA with NAD+ caps over NADH caps, indicating specificity for certain RNA modifications (Ray2020Fluorescent).
+
+
+## References
+
+
+[1. (Wu2019Decapping) Hao Wu, Lingyun Li, Kuan-Ming Chen, David Homolka, Pascal Gos, Fabienne Fleury-Olela, Andrew A. McCarthy, and Ramesh S. Pillai. Decapping enzyme nudt12 partners with blmh for cytoplasmic surveillance of nad-capped rnas. Cell Reports, 29(13):4422-4434.e13, December 2019. URL: http://dx.doi.org/10.1016/j.celrep.2019.11.108, doi:10.1016/j.celrep.2019.11.108. This article has 29 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2019.11.108)
+
+[2. (ABDELRAHEIM2003Mammalian) Salama R. ABDELRAHEIM, David G. SPILLER, and Alexander G. McLENNAN. Mammalian nadh diphosphatases of the nudix family: cloning and characterization of the human peroxisomal nudt12 protein. Biochemical Journal, 374(2):329–335, September 2003. URL: http://dx.doi.org/10.1042/bj20030441, doi:10.1042/bj20030441. This article has 64 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20030441)
+
+[3. (Ray2020Fluorescent) Atreyei Ray and David N. Frick. Fluorescent probe displacement assays reveal unique nucleic acid binding properties of human nudix enzymes. Analytical Biochemistry, 595:113622, April 2020. URL: http://dx.doi.org/10.1016/j.ab.2020.113622, doi:10.1016/j.ab.2020.113622. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ab.2020.113622)
+
+4. (GrudzienNogalska2018Structural) Structural and biochemical studies define Nudt12 as a new class of RNA deNADding enzyme in mammalian cells. This article has 1 citations.
+
+[5. (Kulikova2020Role) V. A. Kulikova and A. A. Nikiforov. Role of nudix hydrolases in nad and adp-ribose metabolism in mammals. Biochemistry (Moscow), 85(8):883–894, August 2020. URL: http://dx.doi.org/10.1134/S0006297920080040, doi:10.1134/s0006297920080040. This article has 27 citations.](https://doi.org/10.1134/S0006297920080040)

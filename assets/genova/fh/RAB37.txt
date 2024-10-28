@@ -1,0 +1,43 @@
+# RAB37
+
+## Overview
+RAB37 is a gene that encodes a member of the RAS oncogene family, specifically a small GTPase protein involved in intracellular membrane trafficking. The RAB37 protein plays a pivotal role in the exocytosis of secretory granules, particularly in pancreatic beta-cells where it is essential for insulin secretion. It is also involved in autophagy, interacting with key proteins to facilitate autophagosome formation, and has been implicated in tumor suppression by regulating the secretion of proteins that inhibit metastasis (Ljubicic2013The; Tsai2014Small; Sheng2017RAB37). In cancer biology, RAB37's expression levels are clinically significant, as alterations can influence tumor progression and patient outcomes, particularly in lung cancer and nasopharyngeal carcinoma (Kuo2024Rab37; Li2018RAB37). Through its diverse roles in cellular processes, RAB37 is a critical regulator of vesicle transport and has potential therapeutic implications in oncology and metabolic diseases.
+
+## Function
+RAB37 is a small GTPase involved in intracellular membrane trafficking, playing a significant role in the exocytosis of secretory granules. In pancreatic beta-cells, RAB37 is associated with insulin-containing granules and is crucial for insulin exocytosis. It regulates the docking and exocytosis of these granules, and its knockdown results in reduced insulin secretion and fewer granules near the plasma membrane (Ljubicic2013The). RAB37 does not interact with known effectors of similar GTPases, suggesting it operates through a distinct mechanism (Ljubicic2013The).
+
+RAB37 also plays a role in autophagy by interacting with ATG5 and promoting the assembly of the ATG5-12-16L1 complex, essential for autophagosome formation. This interaction is GTP-dependent, and RAB37 facilitates the lipidation of LC3B, a critical step in autophagosome formation (Sheng2017RAB37). RAB37's involvement in autophagy is crucial for maintaining cellular homeostasis and may have implications in tumor suppression by preventing metastasis (Sheng2017RAB37).
+
+In lung cancer cells, RAB37 is involved in the exocytotic pathway, particularly in the secretion of proteins like TIMP1, which may suppress tumor metastasis (Tsai2014Small).
+
+## Clinical Significance
+Alterations in the expression of the RAB37 gene have significant clinical implications, particularly in cancer. In lung cancer, low expression of RAB37 is associated with advanced disease stages, lymph node metastasis, and poor survival outcomes. This is due to RAB37's role in facilitating the secretion of tissue inhibitor of metalloproteinase 1 (TIMP1), which suppresses tumor metastasis by inhibiting matrix metalloproteinase 9 (MMP9) activity. Reduced RAB37 expression leads to decreased TIMP1 secretion and increased cancer cell invasion and migration (Tsai2014Small).
+
+In nasopharyngeal carcinoma (NPC), RAB37 is often downregulated due to promoter hypermethylation, which correlates with increased metastasis and resistance to docetaxel-based chemotherapy. RAB37 overexpression in NPC cells suppresses metastasis and enhances chemotherapy sensitivity by regulating the secretion of TIMP2, another inhibitor of metalloproteinases, thereby reducing MMP2 activity (Li2018RAB37).
+
+In the context of immune response, RAB37 is involved in the trafficking and membrane presentation of PD-1 on T cells, contributing to T cell exhaustion in the tumor microenvironment of lung cancer. High RAB37 expression is linked to increased PD-1 presentation, leading to T cell dysfunction and poor patient outcomes (Kuo2024Rab37).
+
+## Interactions
+RAB37, a member of the RAS oncogene family, is involved in various protein interactions that are crucial for its role in vesicle trafficking and cellular processes. RAB37 interacts directly with ATG5, a key protein in autophagy, facilitating the assembly of the ATG5-12-16L1 complex essential for autophagosome formation. This interaction is GTP-dependent, with the GTP-bound form of RAB37 enhancing the interaction, while the GDP-stabilized form disrupts it (Sheng2017RAB37).
+
+RAB37 also interacts with Munc13-1, a protein involved in membrane fusion regulation, to control the secretion of TNF-a from activated macrophages. This interaction is significant for the exocytosis of TNF-a, which is crucial for inflammatory responses and tissue repair (Mori2011Release).
+
+In the context of cancer, RAB37 is involved in the exocytosis of tissue inhibitor of metalloproteinase 1 (TIMP1), a process that suppresses tumor metastasis. RAB37 targets TIMP1 for exocytosis, and this interaction is crucial for inhibiting extracellular matrix turnover and decreasing cell motility (Tsai2014Small; Wu2022Secretory). These interactions highlight RAB37's role in regulating vesicle transport and its potential implications in autophagy and cancer suppression.
+
+
+## References
+
+
+[1. (Wu2022Secretory) Shan-Ying Wu, Jia-Wen Chen, Hsi-Yu Liu, Yi-Ching Wang, Yeh-Shiu Chu, Chi-Ying Huang, Kai-Ying Lan, Hsiao-Sheng Liu, and Sheng-Hui Lan. Secretory autophagy promotes rab37-mediated exocytosis of tissue inhibitor of metalloproteinase 1. Journal of Biomedical Science, December 2022. URL: http://dx.doi.org/10.1186/s12929-022-00886-z, doi:10.1186/s12929-022-00886-z. This article has 10 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s12929-022-00886-z)
+
+[2. (Mori2011Release) Ryoichi Mori, Kazuya Ikematsu, Tetsuya Kitaguchi, Sang E. Kim, Momoko Okamoto, Takuya Chiba, Atsushi Miyawaki, Isao Shimokawa, and Takashi Tsuboi. Release of tnf‐α from macrophages is mediated by small gtpase rab37. European Journal of Immunology, 41(11):3230–3239, September 2011. URL: http://dx.doi.org/10.1002/eji.201141640, doi:10.1002/eji.201141640. This article has 43 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/eji.201141640)
+
+[3. (Tsai2014Small) Chung-Han Tsai, Hung-Chi Cheng, Yu-Shiuan Wang, Pinpin Lin, Jayu Jen, I-Ying Kuo, Ying-Hua Chang, Pao-Chi Liao, Ruey-Hwa Chen, Wei-Chien Yuan, Han-Shui Hsu, Muh-Hwa Yang, Ming-Ta Hsu, Chu-Yi Wu, and Yi-Ching Wang. Small gtpase rab37 targets tissue inhibitor of metalloproteinase 1 for exocytosis and thus suppresses tumour metastasis. Nature Communications, September 2014. URL: http://dx.doi.org/10.1038/ncomms5804, doi:10.1038/ncomms5804. This article has 42 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms5804)
+
+[4. (Sheng2017RAB37) Yue Sheng, Ying Song, Zhigang Li, Yabo Wang, Heming Lin, Hanhua Cheng, and Rongjia Zhou. Rab37 interacts directly with atg5 and promotes autophagosome formation via regulating atg5-12-16 complex assembly. Cell Death &amp; Differentiation, December 2017. URL: http://dx.doi.org/10.1038/s41418-017-0023-1, doi:10.1038/s41418-017-0023-1. This article has 31 citations.](https://doi.org/10.1038/s41418-017-0023-1)
+
+[5. (Li2018RAB37) Yingqin Li, Xiaojing Yang, Xiaojing Du, Yuan Lei, Qingmei He, Xiaohong Hong, Xinran Tang, Xin Wen, Panpan Zhang, Ying Sun, Jian Zhang, Yaqin Wang, Jun Ma, and Na Liu. Rab37 hypermethylation regulates metastasis and resistance to docetaxel-based induction chemotherapy in nasopharyngeal carcinoma. Clinical Cancer Research, 24(24):6495–6508, August 2018. URL: http://dx.doi.org/10.1158/1078-0432.ccr-18-0532, doi:10.1158/1078-0432.ccr-18-0532. This article has 25 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/1078-0432.ccr-18-0532)
+
+[6. (Ljubicic2013The) Sanda Ljubicic, Paola Bezzi, Saska Brajkovic, Valeria Nesca, Claudiane Guay, Norihiko Ohbayashi, Mitsunori Fukuda, Amar Abderrhamani, and Romano Regazzi. The gtpase rab37 participates in the control of insulin exocytosis. PLoS ONE, 8(6):e68255, June 2013. URL: http://dx.doi.org/10.1371/journal.pone.0068255, doi:10.1371/journal.pone.0068255. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0068255)
+
+[7. (Kuo2024Rab37) Wan-Ting Kuo, I-Ying Kuo, Hung-Chia Hsieh, Ssu-Ting Wu, Wu-Chou Su, and Yi-Ching Wang. Rab37 mediates trafficking and membrane presentation of pd-1 to sustain t cell exhaustion in lung cancer. Journal of Biomedical Science, February 2024. URL: http://dx.doi.org/10.1186/s12929-024-01009-6, doi:10.1186/s12929-024-01009-6. This article has 1 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s12929-024-01009-6)

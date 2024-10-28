@@ -1,0 +1,42 @@
+# RFWD3
+
+## Overview
+The RFWD3 gene encodes the RING finger and WD repeat domain 3 protein, a RING-type E3 ubiquitin ligase that plays a pivotal role in the DNA damage response, particularly in homologous recombination (HR) repair. This protein is integral to maintaining genomic stability by facilitating the ubiquitination of key proteins involved in DNA repair, such as Replication Protein A (RPA) and RAD51, thereby ensuring their proper turnover at DNA damage sites (Inano2017RFWD3Mediated). RFWD3 is also involved in the regulation of stalled replication forks and the ATR-mediated intra-S phase checkpoint, highlighting its importance in replication stress responses (Elia2015RFWD3Dependent). Mutations in RFWD3 are linked to Fanconi anemia, a disorder characterized by genomic instability, and its altered expression is associated with colorectal cancer progression (Knies2017Biallelic; Xu2021RFWD3).
+
+## Structure
+
+
+## Function
+The RFWD3 gene encodes a RING-type E3 ubiquitin ligase that plays a crucial role in the DNA damage response, particularly in the process of homologous recombination (HR) repair. In healthy human cells, RFWD3 facilitates the ubiquitination of key proteins such as Replication Protein A (RPA) and RAD51, which are essential for DNA repair processes. This ubiquitination is necessary for the timely removal of RPA and RAD51 from DNA damage sites, allowing HR to proceed efficiently and ensuring proper turnover of these proteins at DNA damage sites (Inano2017RFWD3Mediated).
+
+RFWD3 is involved in the regulation of DNA repair at stalled replication forks, promoting the restart of these forks and enhancing HR repair of double-strand breaks (DSBs) at collapsed forks. This function is critical for maintaining genomic stability by ensuring proper repair and restart of stalled replication forks (Elia2015RFWD3Dependent). RFWD3 also plays a role in the ATR-mediated intra-S phase checkpoint, influencing RPA phosphorylation and CHK1 activation, which are important for replication stress responses (Elia2015RFWD3Dependent).
+
+The activity of RFWD3 is regulated by phosphorylation through ATM/ATR kinases, and its function is essential for the repair of interstrand crosslinks and other DNA damage, preventing genomic instability (Inano2017RFWD3Mediated).
+
+## Clinical Significance
+Mutations in the RFWD3 gene are associated with Fanconi anemia (FA), a genetic disorder characterized by bone marrow failure, developmental anomalies, and increased cancer risk. Biallelic mutations in RFWD3, such as the I639K mutation, impair homologous recombination (HR), a critical DNA repair process, leading to chromosomal instability and sensitivity to DNA-damaging agents (Knies2017Biallelic). These mutations disrupt RFWD3's interaction with replication protein A (RPA), affecting its role in DNA repair and contributing to the FA phenotype (Knies2017Biallelic).
+
+Alterations in RFWD3 expression levels have been implicated in colorectal cancer (CRC). RFWD3 is overexpressed in CRC tissues, and its knockdown has been shown to restrict CRC development both in vitro and in vivo. This overexpression is associated with poor prognosis and shorter survival in CRC patients (Xu2021RFWD3). RFWD3's role in CRC involves its interaction with E2F1 and regulation of BIRC5, a downstream gene involved in cancer progression (Xu2021RFWD3).
+
+Overall, RFWD3 mutations and expression alterations can lead to genomic instability, contributing to conditions like Fanconi anemia and influencing cancer progression.
+
+## Interactions
+RFWD3 is involved in several critical interactions with proteins and nucleic acids that facilitate its role in DNA repair processes. It physically interacts with replication protein A (RPA), a trimeric single-stranded DNA (ssDNA) binding protein complex, which is crucial for its recruitment to DNA damage sites and for promoting homologous recombination (HR) (Inano2017RFWD3Mediated). RFWD3 also interacts with RAD51, a protein essential for HR, and this interaction is enhanced by DNA damage (Inano2017RFWD3Mediated). The interaction with RAD51 is mediated through the N-terminal domain of RFWD3, and mutations in this region can disrupt the interaction (Inano2017RFWD3Mediated).
+
+RFWD3's interaction with RPA is not limited to ssDNA but is likely constitutive in solution, which is critical for its function in ubiquitylation processes (Gallina2021The). RFWD3 is recruited to ssDNA gaps by RPA, where it initiates the ubiquitylation of RPA and other proteins, leading to an accumulation of ubiquitin conjugates at ssDNA regions (Gallina2021The). This interaction is essential for the regulation of PCNA ubiquitylation, a process necessary for translesion DNA synthesis (TLS) (Gallina2021The). RFWD3 also forms a complex with murine double minute 2 (Mdm2) and positively regulates p53, highlighting its involvement in broader cellular processes beyond DNA repair (Kanao2022RFWD3).
+
+
+## References
+
+
+[1. (Xu2021RFWD3) Fenghua Xu, Zhifeng Xiao, Liqin Fan, Guangcong Ruan, Yi Cheng, Yuting Tian, Minjia Chen, Dongfeng Chen, and Yanling Wei. Rfwd3 participates in the occurrence and development of colorectal cancer via e2f1 transcriptional regulation of birc5. Frontiers in Cell and Developmental Biology, October 2021. URL: http://dx.doi.org/10.3389/fcell.2021.675356, doi:10.3389/fcell.2021.675356. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.675356)
+
+[2. (Elia2015RFWD3Dependent) Andrew E.H. Elia, David C. Wang, Nicholas A. Willis, Alexander P. Boardman, Ildiko Hajdu, Richard O. Adeyemi, Elizabeth Lowry, Steven P. Gygi, Ralph Scully, and Stephen J. Elledge. Rfwd3-dependent ubiquitination of rpa regulates repair at stalled replication forks. Molecular Cell, 60(2):280–293, October 2015. URL: http://dx.doi.org/10.1016/j.molcel.2015.09.011, doi:10.1016/j.molcel.2015.09.011. This article has 109 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2015.09.011)
+
+[3. (Knies2017Biallelic) Kerstin Knies, Shojiro Inano, María J. Ramírez, Masamichi Ishiai, Jordi Surrallés, Minoru Takata, and Detlev Schindler. Biallelic mutations in the ubiquitin ligase rfwd3 cause fanconi anemia. Journal of Clinical Investigation, 127(8):3013–3027, July 2017. URL: http://dx.doi.org/10.1172/jci92069, doi:10.1172/jci92069. This article has 230 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci92069)
+
+[4. (Kanao2022RFWD3) Rie Kanao, Hidehiko Kawai, Toshiyasu Taniguchi, Minoru Takata, and Chikahide Masutani. Rfwd3 and translesion dna polymerases contribute to pcna modification–dependent dna damage tolerance. Life Science Alliance, 5(12):e202201584, July 2022. URL: http://dx.doi.org/10.26508/lsa.202201584, doi:10.26508/lsa.202201584. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202201584)
+
+[5. (Inano2017RFWD3Mediated) Shojiro Inano, Koichi Sato, Yoko Katsuki, Wataru Kobayashi, Hiroki Tanaka, Kazuhiro Nakajima, Shinichiro Nakada, Hiroyuki Miyoshi, Kerstin Knies, Akifumi Takaori-Kondo, Detlev Schindler, Masamichi Ishiai, Hitoshi Kurumizaka, and Minoru Takata. Rfwd3-mediated ubiquitination promotes timely removal of both rpa and rad51 from dna damage sites to facilitate homologous recombination. Molecular Cell, 66(5):622-634.e8, June 2017. URL: http://dx.doi.org/10.1016/j.molcel.2017.04.022, doi:10.1016/j.molcel.2017.04.022. This article has 119 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2017.04.022)
+
+[6. (Gallina2021The) Irene Gallina, Ivo A. Hendriks, Saskia Hoffmann, Nicolai B. Larsen, Joachim Johansen, Camilla S. Colding-Christensen, Lisa Schubert, Selene Sellés-Baiget, Zita Fábián, Ulrike Kühbacher, Alan O. Gao, Markus Räschle, Simon Rasmussen, Michael L. Nielsen, Niels Mailand, and Julien P. Duxin. The ubiquitin ligase rfwd3 is required for translesion dna synthesis. Molecular Cell, 81(3):442-458.e9, February 2021. URL: http://dx.doi.org/10.1016/j.molcel.2020.11.029, doi:10.1016/j.molcel.2020.11.029. This article has 54 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2020.11.029)

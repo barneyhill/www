@@ -1,0 +1,42 @@
+# RBM6
+
+## Overview
+RBM6 is a gene that encodes the RNA binding motif protein 6, a crucial RNA-binding protein involved in the regulation of mRNA processing and alternative splicing. This protein is characterized by its RNA recognition motifs (RRMs), a Zinc finger domain, a G-patch, and an OCRE domain, which collectively facilitate its role in RNA processing and regulation (Bechara2013RBM5; Machour2021RBM6). As a splicing factor, RBM6 is predominantly localized in the nucleus, where it associates with splicing speckles and nascent transcripts, indicating its involvement in co-transcriptional splicing mechanisms (Heath2010Subnuclear). The protein plays a significant role in maintaining genomic stability by participating in the homologous recombination repair of DNA double-strand breaks and regulating the alternative splicing of genes linked to tumorigenesis (Machour2021RBM6). Its clinical significance is underscored by its function as a tumor suppressor, with alterations in its expression or mutations being associated with various cancers, including breast and lung cancer (Coomer2019Alternative; Machour2021RBM6).
+
+## Structure
+RBM6 is a protein characterized by several distinct domains that contribute to its function in RNA processing. It contains two RNA recognition motifs (RRMs), a Zinc finger domain, a G-patch, and an OCRE domain, which are involved in alternative splicing regulation (Bechara2013RBM5; Machour2021RBM6). The N-terminal region of RBM6 includes a multimerization domain composed of about 20 decapeptide repeats with a central arginine residue, which is conserved across species such as mouse, human, and Xenopus tropicalis (Heath2010Subnuclear). This domain is crucial for the protein's ability to form large nuclear structures and is responsible for self-interaction (Heath2010Subnuclear).
+
+The C-terminal region of RBM6 contains the C2H2 zinc finger and G-patch domains, which are involved in targeting the protein to the interior of interchromatin granule clusters (IGCs) (Heath2010Subnuclear). RBM6 is known to form foci corresponding to splicing speckles, indicating its role in RNA splicing (Machour2021RBM6). The protein's ability to oligomerize and form large structures is a key feature of its quaternary structure, driven by its N-terminal domain (Heath2010Subnuclear).
+
+## Function
+RBM6 is an RNA-binding protein that plays a crucial role in mRNA processing and translation, particularly in alternative splicing. It is involved in the homologous recombination (HR) repair of DNA double-strand breaks (DSBs), a critical process for maintaining genomic stability. RBM6 regulates the alternative splicing and nonstop-decay of Fe65/APBB1, a positive regulator of HR, ensuring proper levels of Fe65 protein to facilitate effective HR repair of DSBs (Machour2021RBM6).
+
+RBM6 is predominantly localized in the nucleus, where it associates with splicing speckles and nascent transcripts, indicating its role as a splicing factor. It targets nascent transcripts of active lampbrush chromosomes, suggesting a co-transcriptional mechanism of action (Heath2010Subnuclear). RBM6's RNA recognition motif (RRM) is crucial for its function, as it binds directly to the Fe65 transcript, influencing its splicing and stability (Machour2021RBM6).
+
+RBM6 also plays a role in regulating gene expression and alternative splicing of genes linked to various cellular processes, including tumorigenesis. Its function in maintaining genomic integrity and DNA repair highlights its importance in healthy human cells (Machour2021RBM6).
+
+## Clinical Significance
+RBM6 is implicated in various cancers due to its role as a tumor suppressor. Alterations in RBM6 expression or mutations can lead to increased cancer susceptibility. In breast cancer, low RBM6 expression is associated with metastasis and poor prognosis, suggesting its potential as a biomarker for cancer progression (Machour2021RBM6). RBM6-deficient tumors show increased sensitivity to chemotherapeutic drugs like cisplatin, indicating that targeting these tumors with such treatments could be effective (Machour2021RBM6). 
+
+In lung cancer, RBM6 is often deleted or mutated, contributing to tumorigenesis through its influence on alternative splicing and signaling pathways (Coomer2019Alternative). The gene is located in the 3p21.3 tumor suppressor region, frequently deleted in lung cancer, and its downregulation is linked to increased cell proliferation (Bechara2013RBM5). 
+
+RBM6 also plays a role in regulating the splicing of the NUMB gene, which affects the Notch signaling pathway, further influencing cancer cell growth (Bechara2013RBM5). These findings highlight the clinical significance of RBM6 in cancer, suggesting that its expression levels and mutations could serve as important indicators for cancer diagnosis and treatment strategies.
+
+## Interactions
+RBM6 is known to participate in several interactions with proteins and nucleic acids, playing a significant role in RNA processing and regulation. It binds directly to the Fe65 transcript in an RNA recognition motif (RRM)-dependent manner, specifically recognizing the consensus binding motif 'CUCUGAA' on the Fe65 mRNA. This interaction is crucial for RBM6's function in regulating the alternative splicing coupled to nonstop decay (AS-NSD) of Fe65, highlighting its role in mRNA surveillance and decay pathways (Machour2021RBM6).
+
+RBM6 also interacts with RNPS1, a novel proximity interactor identified through an APEX2-based proximity labeling approach. This interaction was confirmed by co-immunoprecipitation assays, and both RBM6 and RNPS1 cooperatively regulate the alternative splicing-coupled NSD of Fe65. Depletion of either protein leads to a reduction in spliced Fe65 RNA and protein levels, indicating their collaborative role in this process (Machour2021RBM6).
+
+In addition to its interactions with specific proteins, RBM6 is associated with splicing speckles and interchromatin granule clusters (IGCs) in the nucleus. It forms novel nuclear structures through multimerization, facilitated by its N-terminal domain, which is essential for its targeting and assembly within these nuclear compartments (Heath2010Subnuclear).
+
+
+## References
+
+
+[1. (Heath2010Subnuclear) Emma Heath, Fred Sablitzky, and Garry T. Morgan. Subnuclear targeting of the rna-binding motif protein rbm6 to splicing speckles and nascent transcripts. Chromosome Research, 18(8):851–872, November 2010. URL: http://dx.doi.org/10.1007/s10577-010-9170-7, doi:10.1007/s10577-010-9170-7. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10577-010-9170-7)
+
+[2. (Bechara2013RBM5) Elias G. Bechara, Endre Sebestyén, Isabella Bernardis, Eduardo Eyras, and Juan Valcárcel. Rbm5, 6, and 10 differentially regulate numb alternative splicing to control cancer cell proliferation. Molecular Cell, 52(5):720–733, December 2013. URL: http://dx.doi.org/10.1016/j.molcel.2013.11.010, doi:10.1016/j.molcel.2013.11.010. This article has 275 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2013.11.010)
+
+[3. (Coomer2019Alternative) Alice O. Coomer, Fiona Black, Alastair Greystoke, Jennifer Munkley, and David J. Elliott. Alternative splicing in lung cancer. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1862(11–12):194388, November 2019. URL: http://dx.doi.org/10.1016/j.bbagrm.2019.05.006, doi:10.1016/j.bbagrm.2019.05.006. This article has 73 citations.](https://doi.org/10.1016/j.bbagrm.2019.05.006)
+
+[4. (Machour2021RBM6) Feras E Machour, Enas R Abu-Zhayia, Samah W Awwad, Tirza Bidany-Mizrahi, Stefan Meinke, Laila A Bishara, Florian Heyd, Rami I Aqeilan, and Nabieh Ayoub. Rbm6 splicing factor promotes homologous recombination repair of double-strand breaks and modulates sensitivity to chemotherapeutic drugs. Nucleic Acids Research, 49(20):11708–11727, October 2021. URL: http://dx.doi.org/10.1093/nar/gkab976, doi:10.1093/nar/gkab976. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkab976)

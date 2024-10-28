@@ -1,0 +1,56 @@
+# RAD51
+
+## Overview
+RAD51 is a gene that encodes the RAD51 recombinase, a protein essential for homologous recombination and DNA repair processes. The RAD51 protein is categorized as a recombinase, which plays a pivotal role in maintaining genomic stability by facilitating the repair of DNA double-strand breaks through homologous recombination. This protein forms nucleoprotein filaments on single-stranded DNA, enabling the search for homologous sequences and promoting strand exchange, a critical step in accurate DNA repair (Bonilla2020RAD51). The activity of RAD51 is tightly regulated by ATP binding and hydrolysis, which are necessary for the dynamic assembly and disassembly of these filaments (Demeyer2021Inhibiting). RAD51's function is further modulated by interactions with various proteins, including BRCA2, which enhances its recruitment and stability on DNA (Bonilla2020RAD51). Given its crucial role in DNA repair, alterations in RAD51 expression and function have significant implications in cancer biology, influencing tumor progression, treatment response, and patient prognosis (Alshareeda2016Clinical; Laurini2020Role).
+
+## Structure
+The RAD51 recombinase is a crucial protein involved in homologous recombination and DNA repair. Its primary structure consists of a sequence of amino acids forming the protein chain, which includes an α/β ATPase core domain. This domain is similar to those found in helicases and other nucleotide triphosphate-hydrolyzing proteins and contains the Walker A and Walker B motifs essential for ATP binding and hydrolysis (Bonilla2020RAD51).
+
+The secondary structure of RAD51 includes alpha helices and beta sheets, with the N-terminal domain forming a four-helix bundle and a helix-hairpin-helix (HhH) motif involved in DNA phosphate backbone binding (Shin2003Fulllength). The tertiary structure of RAD51 reveals a conserved ATPase fold, indicating structural conservation between archaeal and eukaryotic RAD51 proteins (Shin2003Fulllength).
+
+In terms of quaternary structure, RAD51 forms dynamic nucleoprotein filaments essential for DNA repair processes. These filaments are helical structures that can bind both single-stranded and double-stranded DNA, forming a right-handed helical structure where each monomer binds three nucleotides (Bonilla2020RAD51). RAD51 is also post-translationally modified by phosphorylation, which enhances its recombinase activity (Bonilla2020RAD51).
+
+## Function
+RAD51 is a crucial protein involved in homologous recombination (HR), a key DNA repair mechanism that maintains genomic stability by repairing DNA double-strand breaks (DSBs). It forms nucleoprotein filaments on single-stranded DNA (ssDNA), facilitating the search for homologous DNA sequences and promoting strand exchange, which is essential for accurate DNA repair (Bonilla2020RAD51). RAD51's activity is regulated by ATP binding and hydrolysis, which are necessary for filament formation and disassembly (Demeyer2021Inhibiting).
+
+In healthy human cells, RAD51 is active in the nucleus, particularly during the S and G2 phases of the cell cycle, when DNA replication and repair are most critical (Demeyer2021Inhibiting). It plays a significant role in replication fork stability, promoting fork reversal, protecting ssDNA from degradation, and enabling fork restart under replication stress (Bonilla2020RAD51). RAD51 also participates in mitotic DNA synthesis (MiDAS), protecting stalled replication forks during mitosis and ensuring proper chromosome segregation (Wassing2020The).
+
+The protein's function is supported by various mediators, including BRCA2, which enhances RAD51's recruitment and filament stability on ssDNA (Bonilla2020RAD51). RAD51's role in HR and replication stress response is vital for preventing genomic instability and is conserved across species (Bonilla2020RAD51).
+
+## Clinical Significance
+Alterations in RAD51 expression and function have significant clinical implications in various cancers. Overexpression of RAD51 is linked to poor clinical outcomes in several cancers, including squamous-cell esophageal cancer, where it correlates with lower disease-specific survival rates (Laurini2020Role). In breast cancer, RAD51 expression, particularly its subcellular localization, is associated with aggressive tumor characteristics and poor prognosis. Cytoplasmic expression of RAD51 correlates with aggressive features and shorter breast cancer-specific survival, while nuclear expression is linked to better outcomes (Alshareeda2016Clinical). 
+
+In prostate cancer, high RAD51 expression, especially in cases with BRCA mutations, indicates distinct recombinase regulatory activity (Laurini2020Role). RAD51 overexpression in cervical cancer predicts poor response to chemoradiation therapy and disease-free survival (Laurini2020Role). In soft tissue sarcomas, RAD51 contributes to chemoresistance, with p53 playing a regulatory role (Laurini2020Role).
+
+RAD51 polymorphisms, such as the 135GNC SNP, are associated with increased cancer risk, including breast cancer, particularly among BRCA2 mutation carriers (Laurini2020Role). These genetic variations can affect RAD51 splicing and expression, modifying cancer susceptibility and treatment resistance (Laurini2020Role). RAD51's role in DNA repair and its expression levels are critical in determining cancer cell response to therapies, making it a potential therapeutic target (Laurini2020Role).
+
+## Interactions
+RAD51 recombinase is a crucial protein involved in homologous recombination and DNA repair, interacting with various proteins and nucleic acids to perform its functions. RAD51 forms nucleoprotein filaments on single-stranded DNA (ssDNA), a process that is influenced by ATP binding and is essential for DNA joint formation. This filament assembly is susceptible to competition from replication protein A (RPA), a ssDNA-binding protein, which can both promote and hinder RAD51 filament assembly depending on its concentration and timing (Sung2003Rad51).
+
+RAD51 interacts with several recombination mediators that assist in overcoming RPA's inhibitory effects. RAD52, for instance, binds ssDNA and interacts with RAD51 to facilitate nucleation and filament formation. The Rad55-Rad57 complex and RAD51 paralogs such as XRCC2, XRCC3, Rad51B, Rad51C, and Rad51D also aid in filament assembly and stability (Sung2003Rad51).
+
+RAD51 interacts with Rad54, a DNA translocase involved in chromatin remodeling, which enhances the filament's ability to scan for homology and facilitates DNA strand exchange. This interaction is mediated by the N-terminal domain of Rad54 and is conserved across species (Golub1997Interaction; Clever1997Recombinational; Jiang1996Direct). Additionally, RAD51 interacts with BRCA2, which helps load RAD51 onto DNA, explaining the recombination deficiencies observed in BRCA2 mutant cells (Sung2003Rad51).
+
+
+## References
+
+
+[1. (Alshareeda2016Clinical) Alaa Tarig Alshareeda, Ola H. Negm, Mohammed A. Aleskandarany, Andrew R. Green, Christopher Nolan, Patrick J. TigHhe, Srinivasan Madhusudan, Ian O. Ellis, and Emad A. Rakha. Clinical and biological significance of rad51 expression in breast cancer: a key dna damage response protein. Breast Cancer Research and Treatment, 159(1):41–53, July 2016. URL: http://dx.doi.org/10.1007/s10549-016-3915-8, doi:10.1007/s10549-016-3915-8. This article has 36 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10549-016-3915-8)
+
+[2. (Jiang1996Direct) Hua Jiang, Yueqing Xie, Peter Houston, Katherine Stemke-Hale, Uffe H. Mortensen, Rodney Rothstein, and Thomas Kodadek. Direct association between the yeast rad51 and rad54 recombination proteins. Journal of Biological Chemistry, 271(52):33181–33186, December 1996. URL: http://dx.doi.org/10.1074/jbc.271.52.33181, doi:10.1074/jbc.271.52.33181. This article has 119 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.271.52.33181)
+
+[3. (Demeyer2021Inhibiting) A. Demeyer, H. Benhelli-Mokrani, B. Chénais, P. Weigel, and F. Fleury. Inhibiting homologous recombination by targeting rad51 protein. Biochimica et Biophysica Acta (BBA) - Reviews on Cancer, 1876(2):188597, December 2021. URL: http://dx.doi.org/10.1016/j.bbcan.2021.188597, doi:10.1016/j.bbcan.2021.188597. This article has 29 citations.](https://doi.org/10.1016/j.bbcan.2021.188597)
+
+[4. (Clever1997Recombinational) Beate Clever, Heidrun Interthal, Jacqueline Schmuckli-Maurer, Jeff King, Markus Sigrist, and Wolf-Dietrich Heyer. Recombinational repair in yeast: functional interactions between rad51 and rad54 proteins. The EMBO Journal, 16(9):2535–2544, May 1997. URL: http://dx.doi.org/10.1093/emboj/16.9.2535, doi:10.1093/emboj/16.9.2535. This article has 137 citations.](https://doi.org/10.1093/emboj/16.9.2535)
+
+5. (Wassing2020The) The RAD51 recombinase protects mitotic chromatin in human cells. This article has 2 citations.
+
+[6. (Laurini2020Role) Erik Laurini, Domenico Marson, Alice Fermeglia, Suzana Aulic, Maurizio Fermeglia, and Sabrina Pricl. Role of rad51 and dna repair in cancer: a molecular perspective. Pharmacology &amp; Therapeutics, 208:107492, April 2020. URL: http://dx.doi.org/10.1016/j.pharmthera.2020.107492, doi:10.1016/j.pharmthera.2020.107492. This article has 84 citations.](https://doi.org/10.1016/j.pharmthera.2020.107492)
+
+[7. (Sung2003Rad51) Patrick Sung, Lumir Krejci, Stephen Van Komen, and Michael G. Sehorn. Rad51 recombinase and recombination mediators. Journal of Biological Chemistry, 278(44):42729–42732, October 2003. URL: http://dx.doi.org/10.1074/jbc.r300027200, doi:10.1074/jbc.r300027200. This article has 330 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.r300027200)
+
+[8. (Shin2003Fulllength) D. S. Shin. Full-length archaeal rad51 structure and mutants: mechanisms for rad51 assembly and control by brca2. The EMBO Journal, 22(17):4566–4576, September 2003. URL: http://dx.doi.org/10.1093/emboj/cdg429, doi:10.1093/emboj/cdg429. This article has 212 citations.](https://doi.org/10.1093/emboj/cdg429)
+
+[9. (Golub1997Interaction) E. Golub. Interaction of human recombination proteins rad51 and rad54. Nucleic Acids Research, 25(20):4106–4110, October 1997. URL: http://dx.doi.org/10.1093/nar/25.20.4106, doi:10.1093/nar/25.20.4106. This article has 97 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/25.20.4106)
+
+[10. (Bonilla2020RAD51) Braulio Bonilla, Sarah R. Hengel, McKenzie K. Grundy, and Kara A. Bernstein. Rad51 gene family structure and function. Annual Review of Genetics, 54(1):25–46, November 2020. URL: http://dx.doi.org/10.1146/annurev-genet-021920-092410, doi:10.1146/annurev-genet-021920-092410. This article has 128 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1146/annurev-genet-021920-092410)

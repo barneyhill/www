@@ -1,0 +1,37 @@
+# USP51
+
+## Overview
+USP51 is a gene that encodes the protein ubiquitin specific peptidase 51, a deubiquitinating enzyme involved in various cellular processes, including the DNA damage response (DDR) and cell cycle regulation. As a member of the ubiquitin-specific protease family, USP51 plays a critical role in maintaining genomic stability by regulating the ubiquitylation of histone H2A, particularly at lysine residues 13 and 15 (H2AK13,15ub) (Wang2016USP51). This regulation is essential for the recruitment and disassembly of DNA repair proteins at damage sites. USP51 is active in both the nucleus and cytoplasm of healthy human cells, where it influences DNA repair and cell cycle processes (Campos-Iglesias2020Ubiquitin-specific). The protein's interactions with other cellular proteins, such as ZEB1 and TWIST1, further underscore its role in modulating protein stability and function, with significant implications in cancer progression and metastasis (Chen2023USP51; Zhang2020CDK46).
+
+## Function
+USP51, a deubiquitylating enzyme, plays a crucial role in the DNA damage response (DDR) by regulating the ubiquitylation of histone H2A at lysine residues 13 and 15 (H2AK13,15ub). This regulation is essential for the recruitment and disassembly of DNA repair proteins at damage sites, thereby maintaining genomic stability (Wang2016USP51). USP51 functions downstream of the RNF168 E3 ligase and is involved in the removal of ubiquitin from H2AK15ub, which is critical for the proper assembly and disassembly of DNA damage foci, such as 53BP1 and BRCA1, after repair (Wang2016USP51).
+
+In healthy human cells, USP51 is active in both the nucleus and cytoplasm, influencing cellular processes such as DNA repair and cell cycle regulation. Its activity is crucial for maintaining genomic integrity and preventing aberrant DNA repair, which can lead to genomic instability and diseases like cancer (Campos-Iglesias2020Ubiquitin-specific; Wang2016USP51). USP51's dynamic role in DDR involves its dissociation from chromatin upon DNA damage and reassociation after repair, highlighting its importance in modulating chromatin structure and ensuring efficient DNA repair (Wang2016USP51).
+
+## Clinical Significance
+Alterations in the expression or function of the USP51 gene have been implicated in various cancers. In non-small cell lung carcinoma (NSCLC), USP51 promotes cancer cell stemness by deubiquitinating TWIST1, a protein associated with poor prognosis. High USP51 expression correlates with increased levels of stemness markers such as CD44, SOX2, NANOG, and OCT4, suggesting its role in cancer progression and potential as a therapeutic target (Chen2023USP51).
+
+In lung cancer, USP51 is involved in cisplatin resistance through its interaction with ZEB1. Knockdown of USP51 enhances ZEB1 ubiquitination, leading to its degradation and increased apoptosis, thereby reducing drug resistance. This suggests that targeting USP51 could help overcome chemotherapy resistance (Zhou2020Knockdown).
+
+In breast cancer, USP51 stabilizes ZEB1, facilitating epithelial-mesenchymal transition (EMT) and metastasis. CDK4/6 phosphorylates USP51, enhancing its activity and promoting ZEB1 stability. High levels of phosphorylated USP51 and ZEB1 are associated with poor survival outcomes, indicating that USP51 plays a significant role in cancer metastasis and could be targeted to reduce tumor aggressiveness (Zhang2020CDK46).
+
+## Interactions
+USP51, a deubiquitinating enzyme, interacts with several proteins, playing a significant role in various cellular processes. It specifically binds to histone H2A, where it deubiquitylates H2AK13,15ub, a modification crucial for the DNA damage response (DDR). This interaction is essential for regulating the dynamic assembly and disassembly of DNA repair foci, such as 53BP1 and BRCA1, at DNA damage sites (Wang2016USP51).
+
+USP51 also interacts with ZEB1, a transcription factor involved in epithelial-mesenchymal transition (EMT) and cancer metastasis. It deubiquitinates and stabilizes ZEB1, thereby promoting its activity. This interaction is particularly significant in breast cancer, where the CDK4/6-USP51-ZEB1 axis is implicated in metastasis. Phosphorylation of USP51 by CDK4/6 enhances its ability to stabilize ZEB1, linking this interaction to cancer progression (Zhang2020CDK46).
+
+In non-small cell lung carcinoma (NSCLC), USP51 interacts with TWIST1, another protein associated with cancer stemness and progression. By deubiquitinating TWIST1, USP51 enhances its stability, contributing to the maintenance of stemness in NSCLC cells (Chen2023USP51). These interactions highlight USP51's role in modulating protein stability and function in various cellular contexts.
+
+
+## References
+
+
+[1. (Campos-Iglesias2020Ubiquitin-specific) Diana Campos-Iglesias, Carlos López-Otín, and José M.P. Freije. Ubiquitin-specific proteases as targets for anticancer drug therapies, pages 73–120. Elsevier, 2020. URL: http://dx.doi.org/10.1016/b978-0-12-818168-3.00004-8, doi:10.1016/b978-0-12-818168-3.00004-8. This article has 3 citations.](https://doi.org/10.1016/b978-0-12-818168-3.00004-8)
+
+[2. (Zhang2020CDK46) Zhen Zhang, Jianjun Li, Yang Ou, Guang Yang, Kaiyuan Deng, Qiong Wang, Zhaoyang Wang, Wenhao Wang, Quansheng Zhang, Hang Wang, Wei Sun, Peiqing Sun, and Shuang Yang. Cdk4/6 inhibition blocks cancer metastasis through a usp51-zeb1-dependent deubiquitination mechanism. Signal Transduction and Targeted Therapy, March 2020. URL: http://dx.doi.org/10.1038/s41392-020-0118-x, doi:10.1038/s41392-020-0118-x. This article has 42 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41392-020-0118-x)
+
+[3. (Chen2023USP51) Jin Chen, Zhongqiu Wu, Wenyi Deng, Minying Tang, Lvying Wu, Na Lin, Liuyan Chen, Yunfeng Fu, Min Zhao, Changguo Chen, and Wenting Li. Usp51 promotes non-small cell lung carcinoma cell stemness by deubiquitinating twist1. Journal of Translational Medicine, July 2023. URL: http://dx.doi.org/10.1186/s12967-023-04304-2, doi:10.1186/s12967-023-04304-2. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-023-04304-2)
+
+[4. (Wang2016USP51) Zhiquan Wang, Honglian Zhang, Ji Liu, Abigael Cheruiyot, Jeong-Heon Lee, Tamas Ordog, Zhenkun Lou, Zhongsheng You, and Zhiguo Zhang. Usp51 deubiquitylates h2ak13,15ub and regulates dna damage response. Genes &amp; Development, 30(8):946–959, April 2016. URL: http://dx.doi.org/10.1101/gad.271841.115, doi:10.1101/gad.271841.115. This article has 75 citations.](https://doi.org/10.1101/gad.271841.115)
+
+[5. (Zhou2020Knockdown) Feng Zhou, Chunling Du, Donghui Xu, Jinchang Lu, Lei Zhou, Chaomin Wu, Bo Wu, and Jianan Huang. Knockdown of ubiquitin‑specific protease 51 attenuates cisplatin resistance in lung cancer through ubiquitination of zinc‑finger e‑box binding homeobox 1. Molecular Medicine Reports, 22(2):1382–1390, May 2020. URL: http://dx.doi.org/10.3892/mmr.2020.11188, doi:10.3892/mmr.2020.11188. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/mmr.2020.11188)

@@ -1,0 +1,44 @@
+# RBBP9
+
+## Overview
+RBBP9 is a gene that encodes the RB binding protein 9, a serine hydrolase involved in critical cellular processes such as cell cycle regulation and proliferation. The protein is characterized by an α/β hydrolase fold and contains a catalytic triad, although its enzymatic activity remains unconfirmed for certain substrates (Vorobiev2008Crystal). RBBP9 interacts with the retinoblastoma protein (Rb), influencing the RB/E2F pathway, which is essential for cell cycle progression (Lim2020Application). It is active in both the cytoplasm and nucleus, playing a role in maintaining normal cellular functions (Vorobiev2008Crystal). Clinically, RBBP9 is implicated in various cancers, including pancreatic and breast cancers, due to its role in cell cycle regulation and tumorigenesis (Lim2020Application). It has also been identified as a potential therapeutic target in Fanconi anaemia-deficient head-and-neck squamous cell carcinoma (FA-HNSCC) (Pai2023Genomewide).
+
+## Structure
+The human retinoblastoma binding protein 9 (RBBP9) exhibits a distinct molecular structure characterized by an α/β hydrolase fold. This fold includes a central six-stranded parallel β-sheet surrounded by seven α-helices, which is typical of proteins with potential hydrolase activity (Vorobiev2008Crystal). The putative active site of RBBP9 is located at the top of the β-sheet and features a catalytic triad composed of Ser75, His165, and Asp138. Despite the presence of this catalytic triad, experimental assays have not confirmed enzymatic activity towards tested substrates (Vorobiev2008Crystal).
+
+RBBP9 functions as a monomer in solution, and its closest structural homolog is the YdeN protein from Bacillus subtilis, with which it shares 26% sequence identity (Vorobiev2008Crystal). The protein contains the retinoblastoma (Rb) binding motif LxCxE, which facilitates its interaction with the Rb protein, influencing cell growth and transformation (Vorobiev2008Crystal). While the context does not provide specific information on post-translational modifications or splice variant isoforms, RBBP9 is known to be involved in cell cycle regulation and tumorigenesis, suggesting potential regulatory modifications.
+
+## Function
+RBBP9 (RB binding protein 9, serine hydrolase) is involved in several critical cellular processes, primarily related to cell cycle regulation and proliferation. It functions as a serine hydrolase, with its activity linked to the promotion of cell proliferation. In human pluripotent stem cells (hPSCs), RBBP9's serine hydrolase activity is crucial for maintaining proliferation, as its inhibition leads to reduced cell growth without affecting differentiation (Lim2020Application). This activity is thought to facilitate the transition from the G0/G1 phase to the S-phase of the cell cycle (Lim2020Application).
+
+RBBP9 also interacts with the retinoblastoma protein (RB), modulating the RB/E2F pathway, which is essential for cell cycle progression. This interaction helps release E2F transcription factors, necessary for the progression of the cell cycle (Lim2020Application; Vorobiev2008Crystal). The protein is active in both the cytoplasm and nucleus, playing a role in maintaining normal cellular functions (Vorobiev2008Crystal).
+
+In addition to its role in cell cycle regulation, RBBP9 has been identified as a valacyclovir-activating enzyme, suggesting a role in drug metabolism (Shenoy2020Chemoproteomic).
+
+## Clinical Significance
+RBBP9 has been implicated in various cancers due to its role in cell cycle regulation and tumorigenesis. Alterations in RBBP9 expression or function can contribute to cancer development, particularly in pancreatic and breast cancers, by disrupting normal cell cycle control and promoting unchecked cell proliferation (Lim2020Application). In pancreatic cancer, RBBP9 is essential for the survival of neoplasms as it antagonizes TGF-beta signaling, which is crucial for maintaining cell proliferation (Pai2023Genomewide).
+
+In Fanconi anaemia-deficient head-and-neck squamous cell carcinoma (FA-HNSCC), RBBP9 has been identified as a potential therapeutic target. The gene is crucial for the survival of FA-HNSCC cells, and its knockdown results in significant lethality in these cells while sparing normal cells. This suggests that targeting RBBP9 could be valuable for treating FA-HNSCC (Pai2023Genomewide). The pharmacological inhibitor Emetine, which targets RBBP9, has shown selective lethality in FA-HNSCC tumor cells, indicating its potential therapeutic value (Pai2023Genomewide).
+
+RBBP9 is also expressed in other cancers, including ovarian, colon, lung, and breast cancers, suggesting a broader role in oncogenesis (Lim2020Application).
+
+## Interactions
+RBBP9, a serine hydrolase, is known to interact with several proteins, playing a significant role in cell cycle regulation and cancer progression. It binds to the retinoblastoma protein (Rb) and other Rb family members such as p107 and p130, influencing the transition from the G1 to S phase of the cell cycle. This interaction allows RBBP9 to displace E2F1 from E2F1-Rb complexes, potentially regulating the formation of the p107-E2F4/5-DP1-Smad3 complex (M.2012Human).
+
+In the context of Fanconi anaemia-deficient head-and-neck squamous cell carcinoma (FA-HNSCC), RBBP9 has been identified as a synthetic lethal target. Its knockdown selectively induces apoptosis in FA-HNSCC cells, suggesting a critical role in these cancer cells' survival (Pai2023Genomewide). Co-immunoprecipitation and mass spectrometry studies have identified 32 high-confidence RBBP9-interacting proteins, including those involved in DNA replication and genome maintenance, such as RECQL5, MCM5, and RIF1. Proteins involved in pre-mRNA processing and protein synthesis, like SNRPD3, PRPF31, RPS11, and RPS15, were also identified as interactors (Pai2023Genomewide).
+
+These interactions highlight RBBP9's involvement in crucial cellular processes and its potential as a therapeutic target in specific cancer types.
+
+
+## References
+
+
+[1. (Pai2023Genomewide) Govind Pai, Khashayar Roohollahi, Davy Rockx, Yvonne de Jong, Chantal Stoepker, Charlotte Pennings, Martin Rooimans, Lianne Vriend, Sander Piersma, Connie R. Jimenez, Renee X. De Menezes, Victor W. Van Beusechem, Ruud H. Brakenhoff, Hein Te Riele, Rob M. F. Wolthuis, and Josephine C. Dorsman. Genome-wide sirna screens identify rbbp9 function as a potential target in fanconi anaemia-deficient head-and-neck squamous cell carcinoma. Communications Biology, January 2023. URL: http://dx.doi.org/10.1038/s42003-022-04389-3, doi:10.1038/s42003-022-04389-3. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-022-04389-3)
+
+[2. (M.2012Human) Sergey M. Vorobiev, Yuanpeng Janet Huang, Jayaraman Seetharaman, Rong Xiao, Thomas B. Acton, Gaetano T. Montelione, and Liang Tong. Human retinoblastoma binding protein 9, a serine hydrolase implicated in pancreatic cancers. Protein &amp; Peptide Letters, 19(2):194–197, February 2012. URL: http://dx.doi.org/10.2174/092986612799080356, doi:10.2174/092986612799080356. This article has 7 citations.](https://doi.org/10.2174/092986612799080356)
+
+[3. (Vorobiev2008Crystal) Sergey M. Vorobiev, Min Su, Jayaraman Seetharaman, Yuanpeng Janet Huang, Chen X. Chen, Melissa Maglaqui, Haleema Janjua, Michael Proudfoot, Alexander Yakunin, Rong Xiao, Thomas B. Acton, Gaetano T. Montelione, and Liang Tong. Crystal structure of human retinoblastoma binding protein 9. Proteins: Structure, Function, and Bioinformatics, 74(2):526–529, November 2008. URL: http://dx.doi.org/10.1002/prot.22278, doi:10.1002/prot.22278. This article has 9 citations.](https://doi.org/10.1002/prot.22278)
+
+[4. (Shenoy2020Chemoproteomic) Vikram M. Shenoy, Brian R. Thompson, Jian Shi, Hao-Jie Zhu, David E. Smith, and Gordon L. Amidon. Chemoproteomic identification of serine hydrolase rbbp9 as a valacyclovir-activating enzyme. Molecular Pharmaceutics, 17(5):1706–1714, March 2020. URL: http://dx.doi.org/10.1021/acs.molpharmaceut.0c00131, doi:10.1021/acs.molpharmaceut.0c00131. This article has 9 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1021/acs.molpharmaceut.0c00131)
+
+[5. (Lim2020Application) Seakcheng Lim, Rachel A. Shparberg, Jens R. Coorssen, and Michael D. O’Connor. Application of the rbbp9 serine hydrolase inhibitor, ml114, decouples human pluripotent stem cell proliferation and differentiation. International Journal of Molecular Sciences, 21(23):8983, November 2020. URL: http://dx.doi.org/10.3390/ijms21238983, doi:10.3390/ijms21238983. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21238983)

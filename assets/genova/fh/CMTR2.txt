@@ -1,0 +1,41 @@
+# CMTR2
+
+## Overview
+The CMTR2 gene encodes the cap methyltransferase 2 protein, which is a crucial enzyme involved in the post-transcriptional modification of mRNA. This protein specifically catalyzes the 2′-O-methylation of the ribose on the second nucleotide of mRNA, a modification known as Cap2. This modification is essential for distinguishing host mRNA from viral RNA, thereby playing a significant role in modulating the innate immune response by preventing the activation of the RIG-I receptor, which detects viral RNA (Despic2023mRNA). CMTR2 is primarily localized in the cytoplasm but is also found in the nucleus and at cell membranes, where it contributes to mRNA stability and translation efficiency (Dix2022CMTr). The protein's function is critical in various cellular processes, including gene expression regulation and cellular response to stress, and it has been implicated in the pathogenesis of several cancers, highlighting its clinical significance (Zengin2021Comprehensive; Despic2023mRNA).
+
+## Function
+The CMTR2 gene encodes a cap methyltransferase that is crucial for the 2′-O-methylation of the ribose on the second nucleotide of mRNA, forming Cap2-modified mRNA 5′ ends. This modification is essential for distinguishing between host and viral RNAs, as it helps prevent the activation of the innate immune response by reducing the binding and activation of RIG-I, an immune receptor that detects viral RNA (Despic2023mRNA). In healthy human cells, CMTR2-mediated Cap2 methylation suppresses RIG-I activation, thereby modulating the innate immune response and preventing excessive immune activation (Despic2023mRNA).
+
+CMTR2 is primarily localized in the cytoplasm but is also present in the nucleus and at cell membranes. It methylates the second cap-adjacent nucleotide on a capped poly(A) substrate RNA or a transcript starting with three guanosines, and its activity is thought to be sequence-independent (Dix2022CMTr). The presence of Cap2, facilitated by CMTR2, is associated with increased mRNA stability and translation efficiency, contributing to the regulation of gene expression and cellular response to stress (Despic2023mRNA; Dix2022CMTr).
+
+## Clinical Significance
+Mutations and alterations in the CMTR2 gene have been implicated in various cancers. In lung adenocarcinoma (LUAD), CMTR2 is identified as a driver gene in the low-risk group, with its associated pathways including EGFR tyrosine kinase inhibitor resistance and MAPK signaling, which are crucial in lung cancer development (Zengin2021Comprehensive). In melanoma, germline mutations in CMTR2, accompanied by the loss of the wild-type allele, suggest its functional relevance in melanoma development, indicating a potential role in tumor progression (Wang2022Integrated).
+
+In hepatocellular carcinoma (HCC), CMTR2 is recognized as one of the RNA methylation writers, specifically involved in Nm methylation. Although the study does not directly link CMTR2 mutations to specific clinical outcomes, it highlights the importance of RNA methylation modifications in cancer, suggesting that alterations in CMTR2 could impact tumor microenvironment, immunotherapy response, and survival outcomes (Zhang2023Integrated).
+
+These findings underscore the clinical significance of CMTR2 in cancer, where its mutations or dysregulation may contribute to disease progression by affecting critical signaling pathways and RNA processing mechanisms.
+
+## Interactions
+CMTR2 interacts with RNA substrates and other proteins involved in RNA processing. It plays a crucial role in the methylation of mRNA caps, specifically the 2'-O-ribose methylation of cap-adjacent nucleotides. This modification enhances the binding of the cap-binding complex (CBC), which includes CBP20 and CBP80, to mRNA caps, facilitating mRNA transport and localization, particularly in neurons (Haussmann2022CMTr). 
+
+Mutagenesis studies have identified key amino acid residues in CMTR2, such as K74, L77, W85, T89, K307, H142, and E145, that are essential for RNA binding and catalytic activity. These residues are critical for the structural integrity and function of the CMTR2 catalytic domain, affecting its interaction with RNA substrates (Smietanski2014Structural).
+
+CMTR2 also interacts with the RIG-I protein, a sensor of foreign RNA involved in immune response signaling. Cap2 methylation by CMTR2 suppresses RIG-I activation, reducing its ability to bind to RNA and thereby modulating the immune response. This interaction highlights the role of CMTR2 in immune regulation through its influence on RNA cap structures (Despic2023mRNA).
+
+
+## References
+
+
+[1. (Zengin2021Comprehensive) Talip Zengin and Tuğba Önal-Süzek. Comprehensive profiling of genomic and transcriptomic differences between risk groups of lung adenocarcinoma and lung squamous cell carcinoma. Journal of Personalized Medicine, 11(2):154, February 2021. URL: http://dx.doi.org/10.3390/jpm11020154, doi:10.3390/jpm11020154. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/jpm11020154)
+
+[2. (Zhang2023Integrated) Jianping Zhang, Jie Gao, Mingchao Hu, Shiyu Xu, Chun Cheng, Wenjie Zheng, and Jie Zhang. Integrated investigation of the clinical implications and targeted landscape for rna methylation modifications in hepatocellular carcinoma. European Journal of Medical Research, January 2023. URL: http://dx.doi.org/10.1186/s40001-023-01016-7, doi:10.1186/s40001-023-01016-7. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40001-023-01016-7)
+
+[3. (Dix2022CMTr) Thomas C. Dix, Irmgard U. Haussmann, Sarah Brivio, Mohannakarthik P. Nallasivan, Yavor HadzHiev, Ferenc Müller, Berndt Müller, Jonathan Pettitt, and Matthias Soller. Cmtr mediated 2′-o-ribose methylation status of cap-adjacent nucleotides across animals. RNA, 28(10):1377–1390, August 2022. URL: http://dx.doi.org/10.1261/rna.079317.122, doi:10.1261/rna.079317.122. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.079317.122)
+
+[4. (Haussmann2022CMTr) Irmgard U. Haussmann, Yanying Wu, Mohanakarthik P. Nallasivan, Nathan Archer, Zsuzsanna Bodi, Daniel Hebenstreit, Scott Waddell, Rupert Fray, and Matthias Soller. Cmtr cap-adjacent 2′-o-ribose mrna methyltransferases are required for reward learning and mrna localization to synapses. Nature Communications, March 2022. URL: http://dx.doi.org/10.1038/s41467-022-28549-5, doi:10.1038/s41467-022-28549-5. This article has 12 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-28549-5)
+
+[5. (Despic2023mRNA) Vladimir Despic and Samie R. Jaffrey. Mrna ageing shapes the cap2 methylome in mammalian mrna. Nature, 614(7947):358–366, February 2023. URL: http://dx.doi.org/10.1038/s41586-022-05668-z, doi:10.1038/s41586-022-05668-z. This article has 27 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-022-05668-z)
+
+[6. (Smietanski2014Structural) Miroslaw Smietanski, Maria Werner, Elzbieta Purta, Katarzyna H. Kaminska, Janusz Stepinski, Edward Darzynkiewicz, Marcin Nowotny, and Janusz M. Bujnicki. Structural analysis of human 2′-o-ribose methyltransferases involved in mrna cap structure formation. Nature Communications, January 2014. URL: http://dx.doi.org/10.1038/ncomms4004, doi:10.1038/ncomms4004. This article has 83 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms4004)
+
+[7. (Wang2022Integrated) Meng Wang, Ishani Banik, A. Hunter Shain, Iwei Yeh, and Boris C. Bastian. Integrated genomic analyses of acral and mucosal melanomas nominate novel driver genes. Genome Medicine, June 2022. URL: http://dx.doi.org/10.1186/s13073-022-01068-0, doi:10.1186/s13073-022-01068-0. This article has 15 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13073-022-01068-0)

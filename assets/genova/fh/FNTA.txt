@@ -1,0 +1,44 @@
+# FNTA
+
+## Overview
+The FNTA gene encodes the alpha subunit of farnesyltransferase, a critical enzyme involved in the post-translational modification of proteins through prenylation. This modification is essential for the proper localization and function of various proteins, including those in the Ras superfamily, which play significant roles in cell signaling, growth, and differentiation. Farnesyltransferase, categorized as a transferase enzyme, facilitates the attachment of lipid groups to proteins, thereby influencing their membrane association and activity. The FNTA gene product is shared between farnesyltransferase and geranylgeranyltransferase type I, highlighting its importance in multiple cellular pathways. Alterations in FNTA expression and function have been linked to cancer progression, particularly in bladder cancer, where it is involved in the regulation of oncogenic signaling pathways (MaurerStroh2003Protein; Chen2020Androgen).
+
+## Structure
+The FNTA gene encodes the alpha subunit of farnesyltransferase, a key enzyme involved in the post-translational modification of proteins through prenylation. The primary structure of FNTA includes a conserved N-terminal proline-rich region (PRR) in mammals, which is absent in other phyla such as plants, yeasts, reptiles, birds, and fishes. In marsupials, this region is replaced by an alanine-rich sequence (Hagemann2022Impact). The PRR is similar to SH3-binding and profilin-binding domains, suggesting a role in protein-protein interactions, although it is not essential for the enzyme's activity or its interaction with the beta subunit (Hagemann2022Impact).
+
+The secondary structure of FNTA likely includes alpha helices and beta sheets, typical of many proteins, although specific details are not provided in the context. The tertiary structure involves the 3D folding necessary for its function, while the quaternary structure involves its interaction with the beta subunit to form a functional heterodimer (Hagemann2022Impact).
+
+Common post-translational modifications of FNTA include prenylation, which is crucial for its enzymatic activity. The PRR does not significantly affect the enzyme's activity or its sensitivity to inhibitors like lonafarnib and tipifarnib (Hagemann2022Impact).
+
+## Function
+The FNTA gene encodes the alpha subunit of farnesyltransferase (FT) and geranylgeranyltransferase type I (GGT1), which are crucial enzymes in the post-translational modification of proteins through prenylation. This process involves the attachment of lipid groups, such as farnesyl or geranylgeranyl moieties, to the cysteine residue of proteins containing a CAAX motif. This modification is essential for the proper localization and function of these proteins, facilitating their association with cell membranes and enabling their participation in various cellular processes (MaurerStroh2003Protein).
+
+Protein prenylation is vital for the activity of several proteins, including members of the Ras superfamily, which are involved in cell signaling, growth, and differentiation. The FNTA gene's product is particularly important for the function of proteins that regulate critical cellular pathways, such as those involved in immune system regulation and T cell survival (Taheri2018Assessment). The alpha subunit encoded by FNTA is shared between FT and GGT1, and its expression is typically higher than that of the beta subunits, suggesting a regulatory mechanism to ensure the formation of functional enzyme complexes (MaurerStroh2003Protein).
+
+## Clinical Significance
+Alterations in the FNTA gene, which encodes the alpha subunit of farnesyltransferase, have been implicated in the progression of bladder cancer (BCa). The circular RNA circFNTA, derived from the FNTA gene, is upregulated in BCa tissues and cell lines, promoting cancer cell invasion and resistance to the chemotherapy drug cisplatin. This upregulation is associated with increased invasiveness and chemo-resistance in BCa, suggesting that circFNTA plays an oncogenic role in this cancer type (Chen2020Androgen).
+
+The androgen receptor (AR) regulates circFNTA expression by repressing the RNA editing gene ADAR2, which affects FNTA expression. This regulation is part of a signaling pathway involving miR-370-3p and KRAS, a significant oncogene in BCa. Alterations in this pathway contribute to cancer cell invasion and chemoresistance, highlighting the potential of targeting the AR/ADAR2/circFNTA/miR-370-3p/FNTA/KRAS axis as a therapeutic strategy for BCa (Chen2020Androgen).
+
+The FNTA gene's role in cancer is further supported by its involvement in the modulation of KRAS signaling, which is crucial for cancer cell proliferation and metastasis. These findings underscore the clinical significance of FNTA in cancer biology and its potential as a target for cancer prevention and treatment (Chen2020Androgen).
+
+## Interactions
+The FNTA protein, as part of the farnesyltransferase complex, interacts with the FNTB protein to form a heterodimeric enzyme responsible for the farnesylation of target proteins. This interaction is crucial for the enzyme's function in post-translational modification, which affects protein localization and function (Carr2016A). FNTA is also involved in the degradation of unassembled soluble proteins, where it interacts with the p97-Ufd1-Npl4 complex. The p97 ATPase activity is essential for the degradation of FNTA, as demonstrated by the stronger interaction of a p97 mutant (p97 QQ) with FNTA compared to the wild-type p97, indicating a direct role in the degradation process (Xu2016The).
+
+In the context of bladder cancer, FNTA is implicated in the regulation of KRAS signaling through its association with circular RNA circFNTA. This circRNA acts as a miRNA sponge, particularly for miR-370-3p, leading to increased expression of FNTA and activation of KRAS signaling, which promotes cancer cell invasion and chemoresistance (Chen2020Androgen). However, specific physical interactions of FNTA with nucleic acids are not detailed in the provided context.
+
+
+## References
+
+
+[1. (MaurerStroh2003Protein) Sebastian Maurer-Stroh, Stefan Washietl, and Frank Eisenhaber. Protein prenyltransferases. Genome Biology, April 2003. URL: http://dx.doi.org/10.1186/gb-2003-4-4-212, doi:10.1186/gb-2003-4-4-212. This article has 105 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/gb-2003-4-4-212)
+
+[2. (Chen2020Androgen) Jinbo Chen, Yin Sun, Zhenyu Ou, Shuyuan Yeh, Chi‐Ping Huang, Bosen You, Yu‐Chieh Tsai, Tzong‐jen Sheu, Xiongbing Zu, and Chawnshang Chang. Androgen receptor‐regulated circ <scp>fnta</scp> activates <scp>kras</scp> signaling to promote bladder cancer invasion. EMBO reports, February 2020. URL: http://dx.doi.org/10.15252/embr.201948467, doi:10.15252/embr.201948467. This article has 58 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.15252/embr.201948467)
+
+[3. (Hagemann2022Impact) Anna Hagemann, Sandro Tasillo, Aykut Aydin, Miriam Caroline Alice Kehrenberg, and Hagen Sjard Bachmann. Impact of a conserved n-terminal proline-rich region of the α-subunit of caax-prenyltransferases on their enzyme properties. Cell Communication and Signaling, August 2022. URL: http://dx.doi.org/10.1186/s12964-022-00929-w, doi:10.1186/s12964-022-00929-w. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12964-022-00929-w)
+
+[4. (Carr2016A) David Carr, Leticia Sanchez-Alvarez, Janice H. Imai, Cristina Slatculescu, Nathaniel Noblett, Lei Mao, Lorena Beese, and Antonio Colavita. A farnesyltransferase acts to inhibit ectopic neurite formation in c. elegans. PLOS ONE, 11(6):e0157537, June 2016. URL: http://dx.doi.org/10.1371/journal.pone.0157537, doi:10.1371/journal.pone.0157537. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0157537)
+
+[5. (Xu2016The) Yue Xu, D Eric Anderson, and Yihong Ye. The hect domain ubiquitin ligase huwe1 targets unassembled soluble proteins for degradation. Cell Discovery, November 2016. URL: http://dx.doi.org/10.1038/celldisc.2016.40, doi:10.1038/celldisc.2016.40. This article has 61 citations.](https://doi.org/10.1038/celldisc.2016.40)
+
+[6. (Taheri2018Assessment) Mohammad Taheri, Soudeh Ghafouri-Fard, Arezou Sayad, Shahram Arsang-jang, Mehrdokht Mazdeh, Mehdi Toghi, and Mir Davood Omrani. Assessment of protein prenylation pathway in multiple sclerosis patients. Journal of Molecular Neuroscience, 64(4):581–590, March 2018. URL: http://dx.doi.org/10.1007/s12031-018-1052-z, doi:10.1007/s12031-018-1052-z. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12031-018-1052-z)

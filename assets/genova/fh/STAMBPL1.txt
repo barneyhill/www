@@ -1,0 +1,50 @@
+# STAMBPL1
+
+## Overview
+STAMBPL1 is a gene that encodes the STAM binding protein-like 1, a member of the JAMM-family deubiquitinases. This protein is characterized by its catalytic JAMM domain, which is essential for its enzymatic activity, particularly in cleaving ubiquitin bonds such as K63 and K48 linkages. These activities are crucial for regulating protein stability and cell survival (Chaithongyot2022Helicobacter; Guo2021Structural). STAMBPL1 is involved in various cellular processes, including the regulation of apoptotic pathways and signal transduction, by stabilizing proteins like Survivin and interacting with other cellular components such as the CSN signalosome (Chaithongyot2022Helicobacter). The protein's role in modulating key signaling pathways and transcriptional networks has been linked to its involvement in cancer progression and metastasis, making it a potential therapeutic target in several cancers, including gastric, prostate, and triple-negative breast cancer (Chen2019Targeting; Fang2024STAMBPL1).
+
+## Structure
+The STAMBPL1 protein is a member of the JAMM-family deubiquitinases and shares significant sequence identity with STAMBP, particularly in the catalytic domains, with 68% identity (Guo2021Structural). The protein features a catalytic JAMM domain, which is crucial for its enzymatic activity, and this domain includes two Zn2+-coordinating residues, E292 and D360, essential for its function (Ambroise2020Systematic). The structure of the STAMBPL1 JAMM domain in complex with a ubiquitin variant (UbV SP.1) has been resolved, revealing specific interaction sites and conformational details (Guo2021Structural).
+
+The STAMBPL1 protein also contains conserved insertions, ins-1 and ins-2, which are involved in its interaction with ubiquitin chains, highlighting its specificity for K63-linked polyubiquitin chains (Guo2021Structural). The protein's interaction with ubiquitin variants is characterized by specific amino acid substitutions that enhance binding affinity, such as the R42G and L73H mutations in UbV SP.1 (Guo2021Structural). These structural features contribute to the protein's role in deubiquitination processes, impacting various cellular pathways. The protein's structure and interactions are further elucidated through crystallization and X-ray diffraction studies, providing insights into its functional mechanisms (Guo2021Structural).
+
+## Function
+STAMBPL1 is a deubiquitinating enzyme that plays a crucial role in regulating protein degradation pathways in healthy human cells. It is a member of the JAMM family of deubiquitinating enzymes and is involved in the ubiquitin system, which is essential for protein regulation and cell signaling. STAMBPL1 specifically cleaves ubiquitin bonds, particularly K63 and K48 linkages, which are important for maintaining protein stability and regulating cell survival (Chaithongyot2022Helicobacter).
+
+In healthy cells, STAMBPL1 stabilizes the anti-apoptotic protein Survivin by removing ubiquitin chains, preventing its degradation via the proteasome. This stabilization is critical for inhibiting apoptotic pathways, as Survivin forms complexes that prevent the activation of the caspase cascade, a key component of apoptosis (Chaithongyot2022Helicobacter). STAMBPL1 interacts with the CSN signalosome subunits CSN5 and CSN6, which is necessary for its stabilization and function (Chaithongyot2022Helicobacter).
+
+STAMBPL1 is active in the cytoplasm and endosomes, where it influences processes such as cell growth and immune responses. Its activity is crucial for maintaining cellular homeostasis and regulating signal transduction pathways (Guo2021Structural).
+
+## Clinical Significance
+STAMBPL1 has been implicated in several cancers due to its altered expression and interactions. In gastric cancer, STAMBPL1 expression is significantly upregulated, particularly in advanced stages, promoting cell proliferation, invasion, and migration. Knockdown of STAMBPL1 in gastric cancer cell lines results in decreased proliferation and increased apoptosis, suggesting its potential as a therapeutic target (Yu2019STAMBPL1).
+
+In prostate cancer, STAMBPL1 is overexpressed in primary tumors compared to normal tissues, correlating with poor overall survival. Its knockdown induces apoptosis in prostate cancer cells by promoting the degradation of XIAP, a protein that inhibits apoptosis, highlighting its role in cell survival and potential as a therapeutic target (Chen2019Targeting).
+
+STAMBPL1 is also overexpressed in hepatocellular carcinoma (HCC), where it stabilizes TRAF2 and activates the WNT/PI3K/NF-kB signaling pathway, contributing to tumor proliferation and metastasis. High STAMBPL1 expression is associated with worse overall survival, indicating its prognostic value (Wang2024Unlocking).
+
+In triple-negative breast cancer (TNBC), STAMBPL1 promotes angiogenesis through the GRHL3/HIF1A/VEGFA axis, enhancing tumor growth and microvessel density. Its interaction with FOXO1 is crucial for this process, suggesting that targeting STAMBPL1 could be beneficial in TNBC treatment (Fang2024STAMBPL1).
+
+## Interactions
+STAMBPL1 interacts with several proteins, playing a significant role in various cellular processes. It is involved in the epithelial-mesenchymal transition (EMT) by interacting with the Snail protein, where it prevents Snail's proteasome-dependent degradation, thereby affecting its stability (Ambroise2020Systematic). In hepatocellular carcinoma (HCC), STAMBPL1 interacts with TRAF2, stabilizing it through deubiquitination at the K63 residue, which activates the WNT/PI3K/NF-kB signaling pathway, promoting cancer progression (Wang2024Unlocking).
+
+In triple-negative breast cancer (TNBC), STAMBPL1 interacts with the transcription factor FOXO1, which is crucial for the transcriptional activation of GRHL3. This interaction enhances the GRHL3/HIF1A/VEGFA axis, promoting angiogenesis. The interaction between STAMBPL1 and FOXO1 was confirmed through immunoprecipitation assays, showing that the N-terminus of STAMBPL1 interacts with FOXO1 (Fang2024STAMBPL1; Chen2024STAMBPL1). These interactions highlight STAMBPL1's role in modulating key signaling pathways and transcriptional networks, contributing to its involvement in cancer progression and metastasis.
+
+
+## References
+
+
+[1. (Guo2021Structural) Yusong Guo, Qi Liu, Evan Mallette, Cody Caba, Feng Hou, Julia Fux, Gabriel LaPlante, Aiping Dong, Qi Zhang, Hui Zheng, Yufeng Tong, and Wei Zhang. Structural and functional characterization of ubiquitin variant inhibitors for the jamm-family deubiquitinases stambp and stambpl1. Journal of Biological Chemistry, 297(4):101107, October 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.101107, doi:10.1016/j.jbc.2021.101107. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.101107)
+
+[2. (Chen2019Targeting) Xi Chen, Hongzhe Shi, Xingang Bi, Yajian Li, and Zhenhua Huang. Targeting the deubiquitinase stambpl1 triggers apoptosis in prostate cancer cells by promoting xiap degradation. Cancer Letters, 456:49–58, August 2019. URL: http://dx.doi.org/10.1016/j.canlet.2019.04.020, doi:10.1016/j.canlet.2019.04.020. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2019.04.020)
+
+[3. (Ambroise2020Systematic) Gorbatchev Ambroise, Ting-ting Yu, Boxi Zhang, Merve Kacal, Yuqing Hao, Andre L. Queiroz, Amanda T. Ouchida, Cecilia Lindskog, Erik Norberg, and Helin Vakifahmetoglu-Norberg. Systematic analysis reveals a functional role for stambpl1 in the epithelial–mesenchymal transition process across multiple carcinomas. British Journal of Cancer, 123(7):1164–1177, July 2020. URL: http://dx.doi.org/10.1038/s41416-020-0972-x, doi:10.1038/s41416-020-0972-x. This article has 13 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41416-020-0972-x)
+
+4. (Chen2024STAMBPL1) STAMBPL1 promotes triple-negative breast cancer angiogenesis by upregulating the transcription of GRHL3/HIF1α/VEGFA via FOXO1. This article has 0 citations.
+
+[5. (Wang2024Unlocking) Zhihuai Wang, Yinjie Zhang, Yuhang Shen, Haiyang Zhou, Yuan Gao, Chunfu Zhu, and Xihu Qin. Unlocking hepatocellular carcinoma aggression: stambpl1-mediated traf2 deubiquitination activates wnt/pi3k/nf-kb signaling pathway. Biology Direct, February 2024. URL: http://dx.doi.org/10.1186/s13062-024-00460-7, doi:10.1186/s13062-024-00460-7. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13062-024-00460-7)
+
+6. (Fang2024STAMBPL1) STAMBPL1 activates the GRHL3/HIF1A/VEGFA axis through interaction with FOXO1 to promote angiogenesis in triple-negative breast cancer. This article has 0 citations.
+
+[7. (Yu2019STAMBPL1) Da‑Jun Yu, Jun Qian, Xin Jin, Jing Li, Chen‑Xu Guo, and Xi‑Cheng Yue. Stambpl1 knockdown has antitumour effects on gastric cancer biological activities. Oncology Letters, September 2019. URL: http://dx.doi.org/10.3892/ol.2019.10789, doi:10.3892/ol.2019.10789. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2019.10789)
+
+[8. (Chaithongyot2022Helicobacter) Supattra Chaithongyot and Michael Naumann. Helicobacter pylori-induced reactive oxygen species direct turnover of csn-associated stambpl1 and augment apoptotic cell death. Cellular and Molecular Life Sciences, January 2022. URL: http://dx.doi.org/10.1007/s00018-022-04135-2, doi:10.1007/s00018-022-04135-2. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-022-04135-2)

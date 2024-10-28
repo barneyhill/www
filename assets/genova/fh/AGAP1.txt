@@ -1,0 +1,48 @@
+# AGAP1
+
+## Overview
+AGAP1, or ArfGAP with GTPase domain, ankyrin repeat, and PH domain 1, is a gene that encodes a multifunctional protein involved in various cellular processes, including membrane trafficking and cytoskeletal organization. The protein encoded by AGAP1 is categorized as a GTPase-activating protein (GAP) and is characterized by its distinct structural domains, such as the GTP-binding protein-like domain, pleckstrin homology domain, and ankyrin repeat domains. These domains facilitate its interactions with other proteins and its role in regulating the activity of small GTPases like ADP-ribosylation factor 1 (Arf1), which is crucial for vesicle formation and transport. AGAP1's interactions with adaptor protein complexes, such as AP-3, and its involvement in cytoskeleton remodeling underscore its significance in cellular architecture and signaling. The gene's dysfunction has been linked to neurodevelopmental disorders and certain cancers, highlighting its clinical relevance (Nie2005The; Nie2002AGAP1; Lewis2023AGAP1associated).
+
+## Structure
+AGAP1 is a multidomain protein characterized by several distinct structural features. It contains a GTP-binding protein-like domain (GLD) at its N-terminus, which is structurally similar to Ras family proteins but with notable differences, such as the replacement of the NKXD motif with a TQDA sequence, potentially affecting its catalytic properties (Nie2002AGAP1; Cheng2021Crystal). The GLD consists of a six-stranded beta-sheet surrounded by five alpha-helices, indicative of its role in protein binding and activity regulation (Cheng2021Crystal).
+
+AGAP1 also includes a split pleckstrin homology (PH) domain, which is essential for its activity and spans 189 residues, containing nine of the ten residues identified in the phosphatidylinositol 3,4,5-trisphosphate (PIP3) binding consensus sequence (Nie2002AGAP1). The protein's Arf GAP domain is crucial for its GTPase-activating function, and it requires a zinc finger motif and a specific arginine residue for activity (Nie2002AGAP1). Additionally, AGAP1 contains ankyrin repeat domains that facilitate protein-protein interactions (Luo2016Direct).
+
+AGAP1's structure and function are influenced by its interactions with other proteins, such as Kif2A, which modulates its GAP activity and is involved in cytoskeleton remodeling (Luo2016Direct). The protein's abnormal expression has been linked to neurodevelopmental disorders and leukemia (Cheng2021Crystal).
+
+## Function
+AGAP1 is a GTPase-activating protein (GAP) that plays a crucial role in membrane trafficking and cytoskeletal organization. It specifically regulates the activity of ADP-ribosylation factor 1 (Arf1), a small GTPase involved in vesicle formation and transport. AGAP1 interacts with the adaptor protein complex AP-3, which is essential for its function in membrane trafficking, particularly in the regulation of endosomal compartments (Nie2005The). This interaction allows AGAP1 to influence the distribution and function of endosomal compartments by causing the dissociation of AP-3 from membranes in certain cell types (Nie2005The).
+
+AGAP1 is activated by phosphatidic acid (PA) and phosphatidylinositol 4,5-bisphosphate (PIP2), which enhances its ability to regulate Arf1 activity. This regulation is critical for maintaining proper membrane dynamics and cellular signaling (Nie2005The). AGAP1's ability to distinguish between different adaptor protein complexes, such as AP-1 and AP-3, highlights its role as a site-specific regulator of membrane trafficking pathways (Nie2005The). Through these interactions, AGAP1 contributes to the organization of the actin cytoskeleton and the overall cellular architecture, impacting various cellular processes and organismal outcomes.
+
+## Clinical Significance
+Mutations and alterations in the AGAP1 gene are associated with several neurodevelopmental disorders. Heterozygous variants in AGAP1 can lead to haploinsufficiency, contributing to conditions such as autism spectrum disorder (ASD), cerebral palsy, intellectual disability, and developmental delay (Lewis2023AGAP1associated; Pacault2019A). Clinical phenotypes linked to AGAP1 mutations include language impairments, aggression, impaired growth metrics, epilepsy, dystonia, and brain growth abnormalities (Lewis2023AGAP1associated). 
+
+AGAP1 is also implicated in endolysosomal trafficking abnormalities, which are linked to neurodevelopmental disorders with systemic manifestations (Lewis2023AGAP1associated). The gene's dysfunction may increase sensitivity to environmental stressors, suggesting a gene-environment interaction in the pathogenesis of these disorders (Lewis2023AGAP1associated). 
+
+In addition, AGAP1's interaction with other proteins, such as Kif2A, affects cellular processes like actin stress fiber reduction and membrane traffic regulation, which are crucial for cell migration and invasion, particularly in cancer cells (Luo2016Direct). Alterations in AGAP1 expression levels can influence dendritic spine morphology, impacting synaptic connectivity and plasticity, which are often associated with neurodevelopmental disorders (Arnold2016The).
+
+## Interactions
+AGAP1 interacts with several proteins, playing a significant role in cellular processes. It binds to Kif2A, a kinesin-13 family member, through its GLD and PH domains. This interaction is crucial for regulating cell migration and spreading, with AGAP1 functioning downstream of Kif2A. The interaction enhances AGAP1's GAP activity and Kif2A's ATPase activity, suggesting a role in cytoskeleton remodeling and cell movement (Luo2016Direct).
+
+AGAP1 also interacts with adaptor protein complexes, notably AP-3, causing its dissociation from membranes in NIH3T3 cells. This interaction is specific to AGAP1, as AGAP2 does not affect AP-3 but interacts with AP-1 (Nie2005The). AGAP1's interaction with AP-3 is significant in endosomal trafficking and is implicated in neurodevelopmental disorders (Arnold2016The).
+
+In neuronal contexts, AGAP1 localizes to dendritic endosomes and interacts with the BLOC-1 complex, which includes dysbindin, a factor associated with neurodevelopmental disorders. The loss of dysbindin results in decreased AGAP1 levels, indicating a regulatory relationship (Arnold2016The). These interactions highlight AGAP1's role in vesicle trafficking and synaptic function.
+
+
+## References
+
+
+[1. (Pacault2019A) Mathilde Pacault, Mathilde Nizon, Olivier Pichon, Marie Vincent, Cédric Le Caignec, and Bertrand Isidor. A de novo 2q37.2 deletion encompassing agap1 and sh3bp4 in a patient with autism and intellectual disability. European Journal of Medical Genetics, 62(12):103586, December 2019. URL: http://dx.doi.org/10.1016/j.ejmg.2018.11.020, doi:10.1016/j.ejmg.2018.11.020. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ejmg.2018.11.020)
+
+[2. (Arnold2016The) Miranda Arnold, Rebecca Cross, Kaela S. Singleton, Stephanie Zlatic, Christopher Chapleau, Ariana P. Mullin, Isaiah Rolle, Carlene C. Moore, Anne Theibert, Lucas Pozzo-Miller, Victor Faundez, and Jennifer Larimore. The endosome localized arf-gap agap1 modulates dendritic spine morphology downstream of the neurodevelopmental disorder factor dysbindin. Frontiers in Cellular Neuroscience, September 2016. URL: http://dx.doi.org/10.3389/fncel.2016.00218, doi:10.3389/fncel.2016.00218. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fncel.2016.00218)
+
+[3. (Nie2005The) Zhongzhen Nie, Jiajing Fei, Richard T. Premont, and Paul A. Randazzo. The arf gaps agap1 and agap2 distinguish between the adaptor protein complexes ap-1 and ap-3. Journal of Cell Science, 118(15):3555–3566, August 2005. URL: http://dx.doi.org/10.1242/jcs.02486, doi:10.1242/jcs.02486. This article has 59 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.02486)
+
+[4. (Nie2002AGAP1) Zhongzhen Nie, Katherine T. Stanley, Stacey Stauffer, Kerry M. Jacques, Dianne S. Hirsch, Jiro Takei, and Paul A. Randazzo. Agap1, an endosome-associated, phosphoinositide-dependent adp-ribosylation factor gtpase-activating protein that affects actin cytoskeleton. Journal of Biological Chemistry, 277(50):48965–48975, December 2002. URL: http://dx.doi.org/10.1074/jbc.M202969200, doi:10.1074/jbc.m202969200. This article has 134 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M202969200)
+
+5. (Lewis2023AGAP1associated) AGAP1-associated endolysosomal trafficking abnormalities link gene-environment interactions in a neurodevelopmental disorder. This article has 2 citations.
+
+[6. (Cheng2021Crystal) N. Cheng, H. Zhang, S. Zhang, X. Ma, and G. Meng. Crystal structure of gtp-binding protein-like domain of agap1. April 2021. URL: http://dx.doi.org/10.2210/pdb7eb6/pdb, doi:10.2210/pdb7eb6/pdb. This article has 0 citations.](https://doi.org/10.2210/pdb7eb6/pdb)
+
+[7. (Luo2016Direct) Ruibai Luo, Pei-Wen Chen, Michael Wagenbach, Xiaoying Jian, Lisa Jenkins, Linda Wordeman, and Paul A. Randazzo. Direct functional interaction of the kinesin-13 family membrane kinesin-like protein 2a (kif2a) and arf gap with gtp-binding protein-like, ankyrin repeats and ph domains1 (agap1). Journal of Biological Chemistry, 291(41):21350–21362, October 2016. URL: http://dx.doi.org/10.1074/jbc.m116.732479, doi:10.1074/jbc.m116.732479. This article has 6 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m116.732479)

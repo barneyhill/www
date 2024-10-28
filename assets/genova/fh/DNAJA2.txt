@@ -1,0 +1,48 @@
+# DNAJA2
+
+## Overview
+DNAJA2 is a gene that encodes the protein DnaJ heat shock protein family (Hsp40) member A2, which is a crucial component of the cellular machinery responsible for protein homeostasis. As a member of the Hsp40 family, DNAJA2 functions primarily as a co-chaperone, interacting with Hsp70 proteins to facilitate protein folding, prevent aggregation, and assist in the degradation of misfolded proteins (Huang2023Heat). The protein is characterized by its ability to form oligomeric structures, which are essential for its function under stress conditions, such as heat shock (VelascoCarneros2023The). DNAJA2 plays a significant role in various cellular processes, including transcription-coupled nucleotide excision repair and the stabilization of proteins with missense mutations, thereby contributing to genomic stability and cellular function (Huang2023Heat; Baker2024The). Additionally, alterations in DNAJA2 expression or function have been linked to diseases such as cancer and cystic fibrosis, highlighting its clinical significance (Kim2019Hsp70; Huang2023DNAJA2).
+
+## Structure
+DNAJA2, a member of the Hsp40 family, is characterized by its ability to form oligomeric structures, including dimers and larger tubular assemblies. The primary structure of DNAJA2 includes a conserved J-domain, which is crucial for its interaction with Hsp70 proteins and stimulates their ATPase activity (VelascoCarneros2023The). The secondary structure features alpha helices and beta sheets, contributing to its compact fold (VelascoCarneros2023The).
+
+The tertiary structure of DNAJA2 involves several key regions, including the J-domain, the C-terminal domain (CD), and the cysteine-rich domain (CTD). These domains are essential for the protein's self-association and interaction with client proteins (VelascoCarneros2023The). The quaternary structure is marked by the formation of helical oligomers, where DNAJA2 dimers align to form cylindrical structures stabilized by hydrophobic and electrostatic interactions (VelascoCarneros2023The).
+
+DNAJA2 undergoes post-translational modifications, such as farnesylation, although this does not significantly affect its antibody reactivity (Kotlarz2013Human). The protein's oligomerization state is modulated by interactions with Hsc70 and ATP, which can induce dissociation into dimers, enhancing its substrate binding efficiency (VelascoCarneros2023The).
+
+## Function
+DNAJA2, a member of the Hsp40 family, functions as a co-chaperone to Hsp70 proteins, playing a crucial role in protein homeostasis. It assists in protein folding, prevents aggregation, and facilitates the degradation of misfolded proteins. DNAJA2 is involved in the cellular response to stress, such as heat shock, where it forms oligomeric structures that dissociate into dimers to enhance substrate binding and holding activity. This process is reversible, allowing DNAJA2 to reassemble into oligomers once stress conditions subside, thus maintaining efficient substrate processing and high refolding efficiency (VelascoCarneros2023The).
+
+In healthy cells, DNAJA2 interacts with Hsc70 to assist in the folding and refolding of denatured proteins, particularly under stress conditions. This interaction is regulated by the self-association equilibrium of DNAJA2, which is influenced by temperature and ionic strength (VelascoCarneros2023The). DNAJA2 also plays a role in transcription-coupled nucleotide excision repair (TC-NER) by facilitating the degradation of Cockayne syndrome group B (CSB) protein through chaperone-mediated autophagy, ensuring efficient lesion removal and transcription recovery in response to DNA damage (Huang2023Heat).
+
+Additionally, DNAJA2 is involved in stabilizing cytosolic proteins with missense mutations, buffering them from degradation and maintaining their stability, which is crucial for managing genetic variations and maintaining cellular function (Baker2024The).
+
+## Clinical Significance
+Alterations in the expression or function of the DNAJA2 gene have been implicated in various diseases, particularly cancer. DNAJA2 deficiency leads to aberrant mitosis and chromosome instability, activating the cGAS-STING pathway, which enhances the response to immune checkpoint blockade (ICB) therapy in tumors. This suggests that DNAJA2 could be a target for enhancing cancer immunotherapy (Huang2023DNAJA2). Conversely, overexpression of DNAJA2 in tumors is associated with resistance to ICB therapy, indicating its role in immune evasion (Huang2023DNAJA2).
+
+DNAJA2 also plays a role in stabilizing mutant forms of the p53 protein, which is often associated with cancer. By forming oligomeric complexes with non-natively folded p53, DNAJA2 protects these mutants from degradation, potentially enhancing their oncogenic properties (Zoltsman2024A). This stabilization of mutant p53 by DNAJA2 may contribute to cancer progression.
+
+In addition to its role in cancer, DNAJA2 is involved in the degradation of immature CFTR, a process relevant to cystic fibrosis. Inhibiting DNAJA2 could potentially rescue CFTR function in cystic fibrosis patients (Kim2019Hsp70).
+
+## Interactions
+DNAJA2, a member of the Hsp40 family, is involved in various protein-protein interactions, primarily functioning as a co-chaperone with Hsc70, a constitutively expressed Hsp70 isoform. DNAJA2 can form highly-ordered, tubular oligomers that dissociate into dimers under stress conditions, such as heat shock, enhancing their interaction with unfolded substrate proteins and Hsc70 (VelascoCarneros2023The). The J-domain of DNAJA2 is crucial for its oligomerization and interaction with Hsc70, stimulating Hsc70's ATPase activity, which is essential for substrate remodeling (VelascoCarneros2023The).
+
+DNAJA2 also plays a role in transcription-coupled nucleotide excision repair (TC-NER) by facilitating the degradation of the Cockayne syndrome group B (CSB) protein through chaperone-mediated autophagy (CMA). This process involves the interaction of DNAJA2 with Hsc70, enabling the recognition and degradation of sumoylated CSB, which is crucial for efficient TC-NER (Huang2023Heat). Additionally, DNAJA2 is involved in the ER-associated degradation (ERAD) pathway, promoting the degradation of the CFTR protein in conjunction with Hsp70 and the co-chaperone CHIP (Kim2019Hsp70). These interactions highlight DNAJA2's role in maintaining protein homeostasis and genomic stability.
+
+
+## References
+
+
+[1. (Kotlarz2013Human) Agnieszka Kotlarz, Stefan Tukaj, Konrad Krzewski, Elzbieta Brycka, and Barbara Lipinska. Human hsp40 proteins, dnaja1 and dnaja2, as potential targets of the immune response triggered by bacterial dnaj in rheumatoid arthritis. Cell Stress and Chaperones, 18(5):653–659, September 2013. URL: http://dx.doi.org/10.1007/s12192-013-0407-1, doi:10.1007/s12192-013-0407-1. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12192-013-0407-1)
+
+[2. (VelascoCarneros2023The) Lorea Velasco-Carneros, Jorge Cuéllar, Leire Dublang, César Santiago, Jean-Didier Maréchal, Jaime Martín-Benito, Moisés Maestro, José Ángel Fernández-Higuero, Natalia Orozco, Fernando Moro, José María Valpuesta, and Arturo Muga. The self-association equilibrium of dnaja2 regulates its interaction with unfolded substrate proteins and with hsc70. Nature Communications, September 2023. URL: http://dx.doi.org/10.1038/s41467-023-41150-8, doi:10.1038/s41467-023-41150-8. This article has 10 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-41150-8)
+
+[3. (Kim2019Hsp70) Patrick Kim Chiaw, Christine Hantouche, Michael J. H. Wong, Elizabeth Matthes, Renaud Robert, John W. Hanrahan, Alvin Shrier, and Jason C. Young. Hsp70 and dnaja2 limit cftr levels through degradation. PLOS ONE, 14(8):e0220984, August 2019. URL: http://dx.doi.org/10.1371/journal.pone.0220984, doi:10.1371/journal.pone.0220984. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0220984)
+
+[4. (Huang2023DNAJA2) Yaping Huang, Changzheng Lu, Hanzhi Wang, Liya Gu, Yang-Xin Fu, and Guo-Min Li. Dnaja2 deficiency activates cgas-sting pathway via the induction of aberrant mitosis and chromosome instability. Nature Communications, August 2023. URL: http://dx.doi.org/10.1038/s41467-023-40952-0, doi:10.1038/s41467-023-40952-0. This article has 4 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-40952-0)
+
+5. (Baker2024The) The co-chaperone DNAJA2 buffers proteasomal degradation of cytosolic proteins with missense mutations. This article has 0 citations.
+
+[6. (Huang2023Heat) Yaping Huang, Liya Gu, and Guo-Min Li. Heat shock protein dnaja2 regulates transcription-coupled repair by triggering csb degradation via chaperone-mediated autophagy. Cell Discovery, October 2023. URL: http://dx.doi.org/10.1038/s41421-023-00601-8, doi:10.1038/s41421-023-00601-8. This article has 3 citations.](https://doi.org/10.1038/s41421-023-00601-8)
+
+[7. (Zoltsman2024A) Guy Zoltsman, Thi Lieu Dang, Miriam Kuchersky, Ofrah Faust, Micael S. Silva, Tal Ilani, Anne S. Wentink, Bernd Bukau, and Rina Rosenzweig. A unique chaperoning mechanism in class a jdps recognizes and stabilizes mutant p53. Molecular Cell, 84(8):1512-1526.e9, April 2024. URL: http://dx.doi.org/10.1016/j.molcel.2024.02.018, doi:10.1016/j.molcel.2024.02.018. This article has 3 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2024.02.018)

@@ -1,0 +1,33 @@
+# RNF150
+
+## Overview
+RNF150 is a gene that encodes the ring finger protein 150, a member of the PA-TM-RING family of transmembrane RING finger proteins. This protein is characterized by its protease-associated (PA) domain, transmembrane domains, and a RING-H2 finger domain, which is crucial for its function as an E3 ubiquitin ligase (Nakamura2011The). The RING-H2 domain facilitates the ubiquitination process by transferring ubiquitin from E2 to substrate proteins, playing a significant role in protein homeostasis, particularly under stress conditions (Nakamura2011The). RNF150 is implicated in various cellular processes, including endoplasmic reticulum-associated degradation (ERAD) and has been associated with microsatellite instability in gastric cancer, suggesting its potential as a diagnostic marker and its clinical significance in cancer prognosis (Pan2022Identification). Despite its recognized role, specific interaction partners of RNF150 remain largely unidentified, indicating a need for further research to fully elucidate its functional interactions and mechanisms (Fenech2020Interaction).
+
+## Structure
+RNF150 is a member of the PA-TM-RING family of transmembrane RING finger proteins, characterized by the presence of a protease-associated (PA) domain, a transmembrane domain, and a RING-H2 finger domain (Nakamura2011The). The RING-H2 finger domain is notable for its role in coordinating zinc ions, which is crucial for the protein's function as an E3 ubiquitin ligase (Nakamura2011The). This domain is involved in the ubiquitination process, facilitating the transfer of ubiquitin from E2 to substrate proteins.
+
+RNF150 contains two transmembrane domains and has a protein length of 438 amino acids (Kaneko2016Genomewide). The PA domain is proposed to act as a protein-protein interaction module, aiding in the recognition and binding of substrate proteins (Nakamura2011The). While specific details about the secondary, tertiary, and quaternary structures of RNF150 are not provided, the presence of these domains suggests a complex structure that supports its function in cellular processes.
+
+Post-translational modifications such as ubiquitination are likely, given its role as an E3 ligase, although specific modifications for RNF150 are not detailed in the available context. The protein's involvement in endoplasmic reticulum-associated degradation (ERAD) suggests a role in maintaining protein homeostasis under stress conditions (Kaneko2016Genomewide).
+
+## Clinical Significance
+RNF150 has been identified as a hub gene associated with microsatellite instability (MSI) in gastric cancer (GC). Its expression is notably lower in MSI gastric cancer compared to microsatellite stable (MSS) gastric cancer, and this downregulation is linked to longer overall survival in MSI GC patients (Pan2022Identification). RNF150 mRNA levels are significantly reduced in MSI individuals compared to MSS individuals, and this gene can distinguish between MSI-High (MSI-H) and MSI-Low (MSI-L) from MSS, although it cannot differentiate between MSI-H and MSI-L (Pan2022Identification). In gastric tumors, RNF150 protein levels are lower than in adjacent normal tissues, consistent with mRNA expression patterns (Pan2022Identification).
+
+The gene's expression is also downregulated in diffuse-type gastric cancer compared to intestinal-type, and its levels increase with tumor development in advanced stages (Pan2022Identification). RNF150's involvement in the 'heparin binding' pathway, potentially through interaction with SLIT2 and RSPO3 genes, suggests a role in the molecular mechanisms underlying MSI in gastric cancer (Pan2022Identification). These findings highlight RNF150's potential as a diagnostic marker and its clinical significance in gastric cancer prognosis and treatment.
+
+## Interactions
+RNF150, a member of the RING finger protein family, is implicated in various protein interactions, although specific interactions are not extensively detailed in the literature. It is identified as a hub gene associated with microsatellite instability (MSI) in gastric cancer, where it interacts with genes such as SLIT2 and RSPO3, potentially playing a role in the heparin binding pathway (Pan2022Identification). RNF150 is part of the PA-TM-RING family, which is characterized by domains that facilitate protein-protein interactions, suggesting that RNF150 may engage in such interactions through its PA domain (Nakamura2011The).
+
+Despite its potential for interaction, RNF150 was excluded from a high-confidence candidate interacting proteins (HCIPs) analysis in a study mapping interactions of endoplasmic reticulum (ER)-resident E3 ubiquitin ligases due to insufficient bait peptide counts or lack of enrichment in interactors (Fenech2020Interaction). This indicates that while RNF150 is recognized as an E3 ubiquitin ligase, its specific interaction partners in the context of ER-resident ligases remain unidentified. Overall, RNF150's interactions are suggested but not comprehensively mapped, highlighting a need for further research to elucidate its role in cellular processes.
+
+
+## References
+
+
+[1. (Nakamura2011The) Nobuhiro Nakamura. The role of the transmembrane ring finger proteins in cellular and organelle function. Membranes, 1(4):354–393, December 2011. URL: http://dx.doi.org/10.3390/membranes1040354, doi:10.3390/membranes1040354. This article has 73 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/membranes1040354)
+
+[2. (Kaneko2016Genomewide) Masayuki Kaneko, Ikuko Iwase, Yuki Yamasaki, Tomoko Takai, Yan Wu, Soshi Kanemoto, Koji Matsuhisa, Rie Asada, Yasunobu Okuma, Takeshi Watanabe, Kazunori Imaizumi, and Yausyuki Nomura. Genome-wide identification and gene expression profiling of ubiquitin ligases for endoplasmic reticulum protein degradation. Scientific Reports, August 2016. URL: http://dx.doi.org/10.1038/srep30955, doi:10.1038/srep30955. This article has 61 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep30955)
+
+3. (Pan2022Identification) Identification of RNF150 as the hub gene associated with microsatellite instability in gastric cancer. This article has 0 citations.
+
+4. (Fenech2020Interaction) Interaction mapping of endoplasmic reticulum ubiquitin ligases identifies modulators of innate immune signalling. This article has 74 citations.

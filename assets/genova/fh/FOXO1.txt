@@ -1,0 +1,68 @@
+# FOXO1
+
+## Overview
+FOXO1, or forkhead box O1, is a gene that encodes a transcription factor belonging to the forkhead family of proteins, characterized by a distinct forkhead or winged-helix DNA-binding domain. The protein encoded by FOXO1 plays a critical role in regulating various cellular processes, including metabolism, cell differentiation, and stress resistance. As a transcription factor, forkhead box O1 is involved in the regulation of genes essential for glucose homeostasis, energy metabolism, and cellular response to oxidative stress. It is modulated by post-translational modifications such as phosphorylation and acetylation, which influence its activity and subcellular localization. FOXO1 is also implicated in several clinical conditions, acting as a tumor suppressor in cancer and playing a role in metabolic diseases such as type 2 diabetes. Its interactions with other proteins and its regulation by signaling pathways underscore its importance in maintaining cellular homeostasis and its potential as a therapeutic target (Brent2008Structural; Gross2008The; Santos2023FOXO).
+
+## Structure
+FOXO1 is a transcription factor characterized by a forkhead or winged-helix DNA-binding domain (DBD), which is a helix-turn-helix motif with two loops, or "wings," flanking the recognition helix. The FOXO1 DBD structure includes secondary structure elements in the sequence H1-S1-H2-H3-S2-W1-S3-W2, forming a compact core where helix H3 is supported by interactions with helices H2 and H3 (Santos2023FOXO). The DBD is crucial for DNA binding, with helix H3 inserting into the major groove of the DNA, making specific contacts with the DNA bases (Singh2017Crystal).
+
+FOXO1's tertiary structure is stabilized by interactions within the DBD, and the protein can form dimers, indicating a quaternary structure (Singh2017Crystal). The protein is subject to various post-translational modifications, including phosphorylation and acetylation, which regulate its DNA-binding affinity and transcriptional activity. Phosphorylation by kinases such as Akt and MST1 affects its subcellular localization and DNA-binding ability, while acetylation by CBP/p300 reduces DNA affinity (Brent2008Structural; Chen2019Molecular).
+
+FOXO1 is part of a family with several isoforms, including FOXO3, FOXO4, and FOXO6, which share similar structural features but have distinct functions (Santos2023FOXO).
+
+## Function
+FOXO1 (forkhead box O1) is a transcription factor that plays a pivotal role in regulating various molecular processes in healthy human cells. It is primarily involved in maintaining glucose homeostasis by promoting the expression of gluconeogenic enzymes such as phosphoenolpyruvate carboxykinase (PCK1) and glucose-6-phosphatase (G6PC) in the liver, which are crucial during fasting states to prevent hypoglycemia (Gross2008The; Zhou2011Regulation). FOXO1 is also involved in the regulation of energy metabolism, influencing the switch from carbohydrate to fatty acid metabolism during starvation, and promoting lipid oxidation (Gross2008The).
+
+In skeletal muscle, FOXO1 is implicated in muscle differentiation and the regulation of myocyte fusion into myotubes, with its activity modulated by insulin/IGF-1 signaling through Akt phosphorylation (Gross2008The). In adipose tissue, FOXO1 regulates differentiation and function, affecting insulin sensitivity and protecting against oxidative stress (Gross2008The).
+
+FOXO1 is also essential for maintaining pluripotency in human embryonic stem cells by directly regulating key pluripotency genes such as OCT4 and SOX2, thereby suppressing differentiation into specific lineages (Zhang2011FOXO1).
+
+## Clinical Significance
+Mutations and alterations in the expression of the FOXO1 gene are implicated in various diseases. In cancer, FOXO1 acts as a tumor suppressor, and its inactivation is an early event in tumorigenesis. In gastric cancer, FOXO1 is often phosphorylated and inactivated, leading to increased levels of HIF-1 and VEGF, which promote angiogenesis and tumor growth (Farhan2017FOXO). FOXO1 is also involved in alveolar rhabdomyosarcoma through chromosomal translocations that result in fusion proteins like PAX3-FOXO1, which act as oncogenes (Farhan2017FOXO). In prostate cancer, the loss of FOXO1 activity is associated with mutations in the tumor suppressor PTEN, contributing to tumor progression (Maiese2008OutFOXOing).
+
+In type 2 diabetes, FOXO1 is crucial for regulating β-cell function and insulin's metabolic effects. Genetic variations in FOXO1 are associated with β-cell dysfunction, impaired glucose tolerance, and increased diabetes risk (Müssig2009Association). FOXO1 overexpression in skeletal muscle can lead to reduced muscle mass and impaired glucose tolerance, contributing to insulin resistance (Teaney2023FoxO1). In Parkinson's disease, FOXO1 expression is differentially regulated, implicating it in neurodegenerative processes (Dumitriu2012Gene).
+
+## Interactions
+FOXO1 interacts with various proteins and nucleic acids, playing a crucial role in cellular processes. It physically interacts with STAT3, inhibiting STAT3-mediated leptin-induced POMC transcription by preventing STAT3 from binding to the SP1-POMC promoter complex. This interaction involves the amino acid sequence Ala137-Leu160 in FOXO1, with key residues such as Gln145, Arg147, Lys148, Arg153, and Arg154 being essential for binding (Ma2015FoxO1).
+
+FOXO1 also interacts with YAP, a transcriptional co-activator, enhancing FOXO1's transcriptional activity on antioxidant genes like catalase and MnSOD. This interaction is crucial for the transcriptional activation of these genes, with YAP and FOXO1 co-localizing at promoter regions (Shao2014A).
+
+FOXO1's interactions extend to hnRNP family members, including hnRNPK, which may play roles in cancer and diabetes regulation. RBM14, a nuclear receptor coactivator, also interacts with FOXO1, participating in transcriptional activation (Su2023Study).
+
+Acetylation of FOXO1 affects its interactions with proteins such as SIRT1, SIRT2, and SIRT3, modulating its DNA-binding activity and transcriptional functions. These interactions highlight the regulatory role of protein-protein interactions in FOXO1's function, particularly in metabolism and cancer cell regulation (Daitoku2011Regulation).
+
+
+## References
+
+
+[1. (Dumitriu2012Gene) Alexandra Dumitriu, Jeanne C. Latourelle, Tiffany C. Hadzi, Nathan Pankratz, Dan Garza, John P. Miller, Jeffery M. Vance, Tatiana Foroud, Thomas G. Beach, and Richard H. Myers. Gene expression profiles in parkinson disease prefrontal cortex implicate foxo1 and genes under its transcriptional regulation. PLoS Genetics, 8(6):e1002794, June 2012. URL: http://dx.doi.org/10.1371/journal.pgen.1002794, doi:10.1371/journal.pgen.1002794. This article has 68 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1002794)
+
+[2. (Shao2014A) Dan Shao, Peiyong Zhai, Dominic P. Del Re, Sebastiano Sciarretta, Norikazu Yabuta, Hiroshi Nojima, Dae-Sik Lim, Duojia Pan, and Junichi Sadoshima. A functional interaction between hippo-yap signalling and foxo1 mediates the oxidative stress response. Nature Communications, February 2014. URL: http://dx.doi.org/10.1038/ncomms4315, doi:10.1038/ncomms4315. This article has 203 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms4315)
+
+[3. (Zhou2011Regulation) Yingjiang Zhou, Justin Lee, Candace M Reno, Cheng Sun, Sang Won Park, Jason Chung, Jaemin Lee, Simon J Fisher, Morris F White, Sudha B Biddinger, and Umut Ozcan. Regulation of glucose homeostasis through a xbp-1–foxo1 interaction. Nature Medicine, 17(3):356–365, February 2011. URL: http://dx.doi.org/10.1038/nm.2293, doi:10.1038/nm.2293. This article has 238 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nm.2293)
+
+[4. (Müssig2009Association) Karsten Müssig, Harald Staiger, Fausto Machicao, Alena Stančáková, Johanna Kuusisto, Markku Laakso, Claus Thamer, Jürgen Machann, Fritz Schick, Claus D. Claussen, Norbert Stefan, Andreas Fritsche, and Hans-Ulrich Häring. Association of common genetic variation in thefoxo1gene with β-cell dysfunction, impaired glucose tolerance, and type 2 diabetes. The Journal of Clinical Endocrinology &amp; Metabolism, 94(4):1353–1360, April 2009. URL: http://dx.doi.org/10.1210/jc.2008-1048, doi:10.1210/jc.2008-1048. This article has 32 citations.](https://doi.org/10.1210/jc.2008-1048)
+
+[5. (Ma2015FoxO1) Wei Ma, Gloria Fuentes, Xiaohe Shi, Chandra Verma, George K. Radda, and Weiping Han. Foxo1 negatively regulates leptin-induced pomc transcription through its direct interaction with stat3. Biochemical Journal, 466(2):291–298, February 2015. URL: http://dx.doi.org/10.1042/bj20141109, doi:10.1042/bj20141109. This article has 29 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20141109)
+
+[6. (Brent2008Structural) Michael M. Brent, Ruchi Anand, and Ronen Marmorstein. Structural basis for dna recognition by foxo1 and its regulation by posttranslational modification. Structure, 16(9):1407–1416, September 2008. URL: http://dx.doi.org/10.1016/j.str.2008.06.013, doi:10.1016/j.str.2008.06.013. This article has 159 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.str.2008.06.013)
+
+[7. (Singh2017Crystal) Puja Singh, Eun Hee Han, James A. Endrizzi, Richard M. O’Brien, and Young-In Chi. Crystal structures reveal a new and novel foxo1 binding site within the human glucose-6-phosphatase catalytic subunit 1 gene promoter. Journal of Structural Biology, 198(1):54–64, April 2017. URL: http://dx.doi.org/10.1016/j.jsb.2017.02.006, doi:10.1016/j.jsb.2017.02.006. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jsb.2017.02.006)
+
+[8. (Santos2023FOXO) Bruno F. Santos, Inês Grenho, Paulo J. Martel, Bibiana I. Ferreira, and Wolfgang Link. Foxo family isoforms. Cell Death &amp; Disease, October 2023. URL: http://dx.doi.org/10.1038/s41419-023-06177-1, doi:10.1038/s41419-023-06177-1. This article has 12 citations.](https://doi.org/10.1038/s41419-023-06177-1)
+
+[9. (Teaney2023FoxO1) Nicole A. Teaney and Nicole E. Cyr. Foxo1 as a tissue-specific therapeutic target for type 2 diabetes. Frontiers in Endocrinology, October 2023. URL: http://dx.doi.org/10.3389/fendo.2023.1286838, doi:10.3389/fendo.2023.1286838. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fendo.2023.1286838)
+
+[10. (Gross2008The) D N Gross, A P J van den Heuvel, and M J Birnbaum. The role of foxo in the regulation of metabolism. Oncogene, 27(16):2320–2336, April 2008. URL: http://dx.doi.org/10.1038/onc.2008.25, doi:10.1038/onc.2008.25. This article has 437 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2008.25)
+
+[11. (Zhang2011FOXO1) Xin Zhang, Safak Yalcin, Dung-Fang Lee, Tsung-Yin J. Yeh, Seung-Min Lee, Jie Su, Sathish Kumar Mungamuri, Pauline Rimmelé, Marion Kennedy, Rani Sellers, Markus Landthaler, Thomas Tuschl, Nai-Wen Chi, Ihor Lemischka, Gordon Keller, and Saghi Ghaffari. Foxo1 is an essential regulator of pluripotency in human embryonic stem cells. Nature Cell Biology, 13(9):1092–1099, July 2011. URL: http://dx.doi.org/10.1038/ncb2293, doi:10.1038/ncb2293. This article has 218 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncb2293)
+
+[12. (Farhan2017FOXO) Mohd Farhan, Haitao Wang, Uma Gaur, Peter J. Little, Jiangping Xu, and Wenhua Zheng. Foxo signaling pathways as therapeutic targets in cancer. International Journal of Biological Sciences, 13(7):815–827, 2017. URL: http://dx.doi.org/10.7150/ijbs.20052, doi:10.7150/ijbs.20052. This article has 334 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/ijbs.20052)
+
+[13. (Maiese2008OutFOXOing) Kenneth Maiese, Zhao Zhong Chong, and Yan Chen Shang. Outfoxoing disease and disability: the therapeutic potential of targeting foxo proteins. Trends in Molecular Medicine, 14(5):219–227, May 2008. URL: http://dx.doi.org/10.1016/j.molmed.2008.03.002, doi:10.1016/j.molmed.2008.03.002. This article has 115 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.molmed.2008.03.002)
+
+[14. (Su2023Study) Yanting Su, Yuanyuan Guo, Jieyu Guo, Ting Zeng, Ting Wang, and Wu Liu. Study of foxo1-interacting proteins using turboid-based proximity labeling technology. BMC Genomics, March 2023. URL: http://dx.doi.org/10.1186/s12864-023-09238-z, doi:10.1186/s12864-023-09238-z. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12864-023-09238-z)
+
+[15. (Daitoku2011Regulation) Hiroaki Daitoku, Jun-ichi Sakamaki, and Akiyoshi Fukamizu. Regulation of foxo transcription factors by acetylation and protein–protein interactions. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1813(11):1954–1960, November 2011. URL: http://dx.doi.org/10.1016/j.bbamcr.2011.03.001, doi:10.1016/j.bbamcr.2011.03.001. This article has 339 citations.](https://doi.org/10.1016/j.bbamcr.2011.03.001)
+
+[16. (Chen2019Molecular) Junye Chen, Yi Lu, Mengyuan Tian, and Qiren Huang. Molecular mechanisms of foxo1 in adipocyte differentiation. Journal of Molecular Endocrinology, 62(3):R239–R253, April 2019. URL: http://dx.doi.org/10.1530/jme-18-0178, doi:10.1530/jme-18-0178. This article has 64 citations and is from a peer-reviewed journal.](https://doi.org/10.1530/jme-18-0178)

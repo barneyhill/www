@@ -1,0 +1,46 @@
+# HAUS8
+
+## Overview
+The HAUS8 gene encodes the HAUS augmin-like complex subunit 8, a protein integral to the augmin complex, which is crucial for microtubule organization during cell division. As a component of the T-II subcomplex, HAUS8 forms a dimer with HAUS6, contributing to the structural integrity and function of the augmin complex (Travis2023Integrated). This protein is characterized by its intrinsically disordered N-terminal region, which contains the primary microtubule binding domain, allowing it to play a pivotal role in microtubule nucleation and stabilization (Ustinova2023Microtubule; Travis2023Integrated). Beyond its structural role, HAUS8 is involved in antiviral signaling pathways, enhancing the polyubiquitination of key signaling molecules, thereby participating in immune responses (He2018HAUS8). Clinically, HAUS8 is associated with poor prognosis in low-grade glioma and is considered a potential biomarker in kidney cancer, underscoring its significance in cancer biology (Wang2023A; Peixoto2022Kidney).
+
+## Structure
+The HAUS8 protein is a component of the vertebrate augmin complex, specifically part of the T-II subcomplex. This subcomplex is composed of two sets of paralogues: Haus6/7 and Haus2/8. Within T-II, HAUS8 forms a tight dimer with HAUS6, which then associates with the HAUS2/HAUS7 dimer, contributing to a core parallel 4-helix bundle structure (Travis2023Integrated). The N-terminal region of HAUS8, which contains the primary microtubule (MT) binding domain, is predicted to be disordered, indicating a region of low structural confidence (Travis2023Integrated). This disordered nature suggests flexibility and a lack of defined structure in the context of the augmin complex (Travis2023Integrated).
+
+The T-II segment, including HAUS8, is U-shaped and exhibits clamp-like motions, supporting open and closed conformations. The N-termini of HAUS6 and HAUS7, which are part of the same subcomplex, have a globular calponin homology (CH) domain fold, similar to the MT-binding CH domain of the kinetochore NDC80 complex, suggesting a direct role in microtubule binding (Manka2023Structural). However, specific details on the primary, secondary, and tertiary structures of HAUS8 are not provided in the available context.
+
+## Function
+The HAUS8 gene encodes a protein that is a critical component of the HAUS complex, which plays a significant role in microtubule organization during cell division. The HAUS complex, including HAUS8, is involved in the nucleation and stabilization of microtubules, essential for proper spindle assembly and chromosome segregation during mitosis. This process is regulated by the Ran-GTP pathway, which modulates the activity of spindle assembly factors by releasing them from inhibitory interactions with importins. HAUS8 contains a primary microtubule binding site at its intrinsically-disordered N-terminus, which is crucial for its function in microtubule dynamics (Ustinova2023Microtubule).
+
+In addition to its role in cell division, HAUS8 is involved in antiviral signaling pathways. It participates in the RLR-VISA signaling pathway, enhancing the polyubiquitination of key signaling molecules such as VISA, RIG-I, and TBK1. This modification is crucial for the activation of antiviral responses, including the production of interferon-beta (IFN-β). HAUS8's involvement in these pathways highlights its role in the immune response against viral infections (He2018HAUS8).
+
+## Clinical Significance
+The HAUS8 gene, a component of the augmin complex, plays a significant role in the clinical context of low-grade glioma (LGG). Studies have shown that HAUS8 expression is elevated in LGG tissues compared to normal brain tissues, and this increased expression is associated with poor prognosis in LGG patients (Wang2023A). Although the mutation rate of HAUS8 in the TCGA LGG cohort is relatively low at 2.1%, its high expression levels are considered a risk factor for poor prognosis, particularly in IDH wild-type gliomas (Wang2023A). 
+
+HAUS8 is also implicated in immune regulation within the tumor microenvironment, as it is positively linked with the infiltration of various immune cells, except CD8+ T cells (Wang2023A). This suggests a role in modulating the immune response in LGG. Additionally, HAUS8 has been identified as a potential biomarker in kidney cancer, where it was consistently selected in survival models, indicating its relevance in this cancer type as well (Peixoto2022Kidney). These findings highlight the importance of HAUS8 in cancer prognosis and its potential as a target for therapeutic interventions.
+
+## Interactions
+HAUS8, a subunit of the human HAUS complex, is involved in several critical protein interactions essential for its function in microtubule organization. It interacts with importins, specifically importin-α and importin-β, which inhibit its binding to microtubules. This inhibition is relieved by Ran-GTP, which promotes the dissociation of HAUS8 from importins, allowing it to bind to microtubules (Ustinova2023Microtubule; Kraus2022RanGTP). The N-terminal region of HAUS8 contains a nuclear localization signal (NLS) motif that mediates competitive binding to both microtubules and importins (Ustinova2023Microtubule).
+
+HAUS8 is also a part of the augmin complex, which includes other subunits such as HAUS6 and HAUS7. This complex is crucial for recruiting the γ-tubulin ring complex (γ-TuRC) to spindle microtubules, facilitating microtubule nucleation and branching during mitosis (Zupa2022The; Habermann2012New). The interaction between HAUS8 and HAUS6/FAM29A is particularly important for the recruitment of γ-TuRCs to the spindle, which is essential for centrosome and spindle integrity (Habermann2012New). These interactions highlight HAUS8's role in maintaining microtubule stability and organization during cell division.
+
+
+## References
+
+
+[1. (He2018HAUS8) Tian‑Sheng He, Tian Chen, Dan‑Dan Wang, and Liang‑Guo Xu. Haus8 regulates rlr‑visa antiviral signaling positively by targeting visa. Molecular Medicine Reports, June 2018. URL: http://dx.doi.org/10.3892/mmr.2018.9171, doi:10.3892/mmr.2018.9171. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/mmr.2018.9171)
+
+[2. (Manka2023Structural) Szymon W. Manka. Structural insights into how augmin augments the mitotic spindle. Nature Communications, April 2023. URL: http://dx.doi.org/10.1038/s41467-023-37625-3, doi:10.1038/s41467-023-37625-3. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-37625-3)
+
+[3. (Peixoto2022Kidney) Carolina Peixoto, Marta Martins, Luís Costa, and Susana Vinga. Kidney cancer biomarker selection using regularized survival models. Cells, 11(15):2311, July 2022. URL: http://dx.doi.org/10.3390/cells11152311, doi:10.3390/cells11152311. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells11152311)
+
+[4. (Travis2023Integrated) Sophie M. Travis, Brian P. Mahon, Wei Huang, Meisheng Ma, Michael J. Rale, Jodi Kraus, Derek J. Taylor, Rui Zhang, and Sabine Petry. Integrated model of the vertebrate augmin complex. Nature Communications, April 2023. URL: http://dx.doi.org/10.1038/s41467-023-37519-4, doi:10.1038/s41467-023-37519-4. This article has 4 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-37519-4)
+
+5. (Kraus2022RanGTP) RanGTP regulates the augmin complex. This article has 2 citations.
+
+[6. (Habermann2012New) Karin Habermann and Bodo MH Lange. New insights into subcomplex assembly and modifications of centrosomal proteins. Cell Division, 7(1):17, 2012. URL: http://dx.doi.org/10.1186/1747-1028-7-17, doi:10.1186/1747-1028-7-17. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1747-1028-7-17)
+
+[7. (Wang2023A) Tao Wang, Senbang Yao, Siyu Li, Xichang Fei, and Mingjun Zhang. A prognostic model based on the augmin family genes for lgg patients. Scientific Reports, May 2023. URL: http://dx.doi.org/10.1038/s41598-023-34779-4, doi:10.1038/s41598-023-34779-4. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-023-34779-4)
+
+8. (Ustinova2023Microtubule) Microtubule binding of the human HAUS complex is directly controlled by importins and Ran-GTP. This article has 1 citations.
+
+[9. (Zupa2022The) Erik Zupa, Martin Würtz, Annett Neuner, Thomas Hoffmann, Mandy Rettel, Anna Böhler, Bram J. A. Vermeulen, Sebastian Eustermann, Elmar Schiebel, and Stefan Pfeffer. The augmin complex architecture reveals structural insights into microtubule branching. Nature Communications, September 2022. URL: http://dx.doi.org/10.1038/s41467-022-33228-6, doi:10.1038/s41467-022-33228-6. This article has 11 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-33228-6)

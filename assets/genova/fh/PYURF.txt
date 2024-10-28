@@ -1,0 +1,34 @@
+# PYURF
+
+## Overview
+The PYURF gene, also known as PIGY Upstream Reading Frame, encodes a protein that is integral to mitochondrial function, specifically in the biosynthesis of coenzyme Q (CoQ) and the assembly of complex I (CI) within the electron transport chain. The protein encoded by PYURF acts as a chaperone, facilitating the stability and function of CoQ and CI-related proteins, which are vital for efficient mitochondrial respiration and energy production (Rensvold2022Defining). It interacts with members of the S-adenosylmethionine-dependent methyltransferase (SAM-MT) family, such as AF5 and COQ5, through its Trm112-like domain, underscoring its role in maintaining cellular health (Rensvold2022Defining). The protein's function is conserved across species, and disruptions in PYURF can lead to severe metabolic disorders, highlighting its clinical significance (Baker2023Mitochondrial; Rensvold2022Defining).
+
+## Structure
+
+
+## Function
+The PYURF gene, also known as PIGY Upstream Reading Frame, encodes a protein that plays a crucial role in mitochondrial function, particularly in the biosynthesis of coenzyme Q (CoQ) and the assembly of complex I (CI) in the electron transport chain. PYURF acts as a chaperone or facilitator in these pathways, ensuring the stability and abundance of CoQ and CI-related proteins, which are essential for mitochondrial respiration and energy production (Rensvold2022Defining). The protein interacts with members of the S-adenosylmethionine-dependent methyltransferase (SAM-MT) family, such as AF5 and COQ5, through its Trm112-like domain, stabilizing these enzymes and maintaining cellular health (Rensvold2022Defining).
+
+PYURF is primarily localized within the mitochondria, where it influences the stability of CoQ and CI-related proteins. Its activity is critical for the proper assembly and function of mitochondrial complexes, and disruptions in PYURF can lead to severe metabolic disorders (Rensvold2022Defining). The protein's function is conserved across species, as evidenced by its consistent role in human and murine cells (Rensvold2022Defining).
+
+## Clinical Significance
+
+
+## Interactions
+PYURF, also known as NDUFAFQ, is involved in mitochondrial complex I (CI) assembly and coenzyme Q (CoQ) biosynthesis. It is identified as a potential subunit of the NDUFAF5 hydroxylase complex, which is crucial for CI assembly. PYURF likely interacts with NDUFAF5, as predicted by high contact probabilities using AlphaFold2 and RoseTTAFold, suggesting its role in CI assembly (Pei2021Human). This interaction is supported by coevolution analysis and the remote homology of PYURF to Trm112 proteins, which are subunits of multifunctional methyltransferases (Pei2021Human).
+
+PYURF also interacts with COQ3, COQ5, and NDUFAF5, which are methyltransferases involved in CoQ biosynthesis and CI assembly pathways. This interaction suggests that PYURF may coordinate these pathways by chaperoning distinct methyltransferases (Oláhová2024RTN4IP1). The involvement of PYURF in these processes is further corroborated by a genome-wide CRISPR screen showing CI deficiency when the PYURF gene is disrupted (Pei2021Human).
+
+Mutations in PYURF have been linked to a multisystemic mitochondrial disorder, highlighting its critical role in mitochondrial function (Baker2023Mitochondrial).
+
+
+## References
+
+
+1. (Pei2021Human) Human mitochondrial protein complexes revealed by large-scale coevolution analysis and deep learning-based structure modeling. This article has 3 citations.
+
+[2. (Baker2023Mitochondrial) Zakery N. Baker, Patrick Forny, and David J. Pagliarini. Mitochondrial proteome research: the road ahead. Nature Reviews Molecular Cell Biology, 25(1):65–82, September 2023. URL: http://dx.doi.org/10.1038/s41580-023-00650-7, doi:10.1038/s41580-023-00650-7. This article has 9 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41580-023-00650-7)
+
+3. (Oláhová2024RTN4IP1) RTN4IP1 is essential for the final stages of mitochondrial complex I assembly and coenzyme Q biosynthesis. This article has 0 citations.
+
+[4. (Rensvold2022Defining) Jarred W. Rensvold, Evgenia Shishkova, Yuriy Sverchkov, Ian J. Miller, Arda Cetinkaya, Angela Pyle, Mateusz Manicki, Dain R. Brademan, Yasemin Alanay, Julian Raiman, Adam Jochem, Paul D. Hutchins, Sean R. Peters, Vanessa Linke, Katherine A. Overmyer, Austin Z. Salome, Alexander S. Hebert, Catherine E. Vincent, Nicholas W. Kwiecien, Matthew J. P. Rush, Michael S. Westphall, Mark Craven, Nurten A. Akarsu, Robert W. Taylor, Joshua J. Coon, and David J. Pagliarini. Defining mitochondrial protein functions through deep multiomic profiling. Nature, 606(7913):382–388, May 2022. URL: http://dx.doi.org/10.1038/s41586-022-04765-3, doi:10.1038/s41586-022-04765-3. This article has 64 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-022-04765-3)

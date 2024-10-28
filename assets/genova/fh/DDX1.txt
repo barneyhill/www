@@ -1,0 +1,60 @@
+# DDX1
+
+## Overview
+DDX1 is a gene that encodes the DEAD-box helicase 1 protein, a member of the DEAD-box family of RNA helicases. These proteins are characterized by the conserved DEAD (Asp-Glu-Ala-Asp) motif and are involved in various aspects of RNA metabolism, including transcription, splicing, and translation. The DDX1 protein is notable for its role in RNA processing and transport, contributing to the regulation of gene expression and cellular function. It is involved in the formation of ribonucleoprotein granules and interacts with viral proteins, playing a significant role in viral replication processes. Additionally, DDX1 has been implicated in cancer biology, where its expression levels can influence tumor progression and patient prognosis (Yuan2022DDX1; Taschuk2020DEADBox; Lin2014A).
+
+## Structure
+The DDX1 protein is a member of the DEAD-box helicase family, characterized by a conserved helicase core consisting of two RecA-like domains, D1 and D2, connected by a flexible linker region. These domains contain nine conserved motifs, including the DEAD motif, which are involved in ATP binding, hydrolysis, and RNA binding (Squeglia2020Host). A unique feature of DDX1 is the insertion of the SPRY domain within the amino-terminal helicase domain, positioned between the P-loop and the conserved motif Ia of the RecA domain D1. The SPRY domain is characterized by a β-sandwich fold with variable loop regions and functions as a protein interaction module (Squeglia2020Host).
+
+The DDX1 protein also includes an N-terminal SPRY domain and a C-terminal helicase superfamily c-terminal (HELICc) domain (Lin2021Chicken). The SPRY domain is involved in interactions with other proteins, such as the RNA exosome, and plays a role in modulating R-loops (de2023The). While specific details on the primary, secondary, tertiary, and quaternary structures of DDX1 are not provided, the protein is known to undergo post-translational modifications like phosphorylation and has splice variant isoforms that can affect its function.
+
+## Function
+DDX1 (DEAD-box helicase 1) is an RNA helicase involved in various aspects of RNA metabolism, including transcription, splicing, microRNA biogenesis, ribosomal RNA processing, RNA export, translation, and RNA decay. It plays a crucial role in maintaining cellular RNA homeostasis and is active in both the nucleus and cytoplasm (Zhang2021DEAD-Box; Taschuk2020DEADBox). DDX1 is also involved in the formation of ribonucleoprotein (RNP) granules, such as stress granules, which are important for cellular stress responses (Taschuk2020DEADBox).
+
+In the context of HIV-1 replication, DDX1 interacts with the HIV-1 Rev protein, facilitating the export of unspliced and partially spliced viral mRNA from the nucleus to the cytoplasm. This interaction is essential for the production of viral proteins, highlighting DDX1's role in RNA transport and localization processes (Lin2014A). DDX1 also acts as a chaperone, remodeling the structure of the Rev-responsive element (RRE) RNA sequence, which promotes increased Rev binding and oligomerization (Taschuk2020DEADBox).
+
+Overall, DDX1 is integral to RNA processing and transport, contributing to gene expression regulation and cellular function in healthy human cells.
+
+## Clinical Significance
+Alterations in the expression of the DDX1 gene have been implicated in various cancers, affecting tumor progression and patient prognosis. In ovarian cancer, DDX1 acts as a tumor suppressor by promoting the maturation of miRNAs, such as the miR-200 family, which inhibit epithelial-mesenchymal transition (EMT). Low levels of DDX1 are associated with increased tumor invasion, metastasis, and poor clinical outcomes in serous ovarian adenocarcinoma (Han2014The).
+
+In breast cancer, elevated cytoplasmic levels of DDX1 protein correlate with early recurrence, increased risk of death, and negative estrogen and progesterone receptor status. High DDX1 RNA levels are also linked to poor prognosis, suggesting its potential as a prognostic marker for early recurrence (Germain2010DEAD).
+
+In hepatocellular carcinoma (HCC), DDX1 expression is higher in tumor tissues compared to normal tissues and is associated with advanced pathological grades and poor prognosis. DDX1 is considered an independent prognostic factor for HCC, with its expression linked to the tumor immune microenvironment (Yuan2022DDX1).
+
+These findings highlight the complex role of DDX1 in cancer, where its expression and localization can significantly impact disease progression and patient outcomes.
+
+## Interactions
+DDX1 (DEAD-box helicase 1) is involved in various interactions with proteins and nucleic acids, playing a significant role in cellular processes. DDX1 interacts with G-quadruplex (G4) RNA structures, particularly in the context of immunoglobulin heavy chain (IgH) class switch recombination (CSR). It binds specifically to G4 structures in intronic switch RNAs, facilitating the conversion of these structures into R-loops, which are crucial for CSR (Ribeiro2018RNA).
+
+DDX1 is also a component of the Drosha microprocessor complex, where it interacts with Drosha and DGCR8, enhancing the processing of specific primary microRNAs (pri-miRNAs) such as pri-miR-200a and pri-miR-200b. This interaction is RNA-independent and involves the C-terminal helicase domain of DDX1 (Han2014The).
+
+In viral contexts, DDX1 interacts with the non-structural protein 3D of the foot-and-mouth disease virus (FMDV), inhibiting viral replication. It also interacts with the SARS-CoV-2 nucleocapsid protein, which modulates DDX1's activity on double-stranded RNA and may play a role in the viral life cycle (Lodola2023Interaction; Xue2019The). These interactions highlight DDX1's multifaceted role in RNA processing and its potential implications in viral infections.
+
+
+## References
+
+
+[1. (Lin2021Chicken) Zhenyu Lin, Jie Wang, Wenxian Zhu, Xiangyu Yu, Zhaofei Wang, Jingjiao Ma, Hengan Wang, Yaxian Yan, Jianhe Sun, and Yuqiang Cheng. Chicken ddx1 acts as an rna sensor to mediate ifn-β signaling pathway activation in antiviral innate immunity. Frontiers in Immunology, September 2021. URL: http://dx.doi.org/10.3389/fimmu.2021.742074, doi:10.3389/fimmu.2021.742074. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2021.742074)
+
+[2. (Zhang2021DEAD-Box) Lu Zhang and Xiaogang Li. Dead-box rna helicases in cell cycle control and clinical therapy. Cells, 10(6):1540, June 2021. URL: http://dx.doi.org/10.3390/cells10061540, doi:10.3390/cells10061540. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells10061540)
+
+[3. (Han2014The) Cecil Han, Yunhua Liu, Guohui Wan, Hyun Jin Choi, Luqing Zhao, Cristina Ivan, Xiaoming He, Anil K. Sood, Xinna Zhang, and Xiongbin Lu. The rna-binding protein ddx1 promotes primary microrna maturation and inhibits ovarian tumor progression. Cell Reports, 8(5):1447–1460, September 2014. URL: http://dx.doi.org/10.1016/j.celrep.2014.07.058, doi:10.1016/j.celrep.2014.07.058. This article has 83 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2014.07.058)
+
+[4. (Taschuk2020DEADBox) Frances Taschuk and Sara Cherry. Dead-box helicases: sensors, regulators, and effectors for antiviral defense. Viruses, 12(2):181, February 2020. URL: http://dx.doi.org/10.3390/v12020181, doi:10.3390/v12020181. This article has 83 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/v12020181)
+
+[5. (Lin2014A) Min-Hsuan Lin, Haran Sivakumaran, Alun Jones, Dongsheng Li, Callista Harper, Ting Wei, Hongping Jin, Lina Rustanti, Frederic A Meunier, Kirsten Spann, and David Harrich. A hiv-1 tat mutant protein disrupts hiv-1 rev function by targeting the dead-box rna helicase ddx1. Retrovirology, December 2014. URL: http://dx.doi.org/10.1186/s12977-014-0121-9, doi:10.1186/s12977-014-0121-9. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12977-014-0121-9)
+
+[6. (Yuan2022DDX1) Mengping Yuan, Jinyong Xu, Shuguang Cao, and Shuangshuang Sun. Ddx1 is a prognostic biomarker and correlates with immune infiltrations in hepatocellular carcinoma. BMC Immunology, November 2022. URL: http://dx.doi.org/10.1186/s12865-022-00533-0, doi:10.1186/s12865-022-00533-0. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12865-022-00533-0)
+
+7. (de2023The) The RNA helicase DDX1 associates with the nuclear RNA exosome and modulates R-loops. This article has 2 citations.
+
+[8. (Xue2019The) Qiao Xue, Huisheng Liu, Qiaoying Zeng, Haixue Zheng, Qinghong Xue, and Xuepeng Cai. The dead-box rna helicase ddx1 interacts with the viral protein 3d and inhibits foot-and-mouth disease virus replication. Virologica Sinica, 34(6):610–617, July 2019. URL: http://dx.doi.org/10.1007/s12250-019-00148-7, doi:10.1007/s12250-019-00148-7. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12250-019-00148-7)
+
+[9. (Squeglia2020Host) Flavia Squeglia, Maria Romano, Alessia Ruggiero, Giovanni Maga, and Rita Berisio. Host ddx helicases as possible sars-cov-2 proviral factors: a structural overview of their hijacking through multiple viral proteins. Frontiers in Chemistry, December 2020. URL: http://dx.doi.org/10.3389/fchem.2020.602162, doi:10.3389/fchem.2020.602162. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fchem.2020.602162)
+
+[10. (Lodola2023Interaction) Camilla Lodola, Massimiliano Secchi, Virginia Sinigiani, Antonella De Palma, Rossana Rossi, Davide Perico, Pier Luigi Mauri, and Giovanni Maga. Interaction of sars-cov-2 nucleocapsid protein and human rna helicases ddx1 and ddx3x modulates their activities on double-stranded rna. International Journal of Molecular Sciences, 24(6):5784, March 2023. URL: http://dx.doi.org/10.3390/ijms24065784, doi:10.3390/ijms24065784. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms24065784)
+
+[11. (Germain2010DEAD) Devon R. Germain, Kathryn Graham, Darryl D. Glubrecht, Judith C. Hugh, John R. Mackey, and Roseline Godbout. Dead box 1: a novel and independent prognostic marker for early recurrence in breast cancer. Breast Cancer Research and Treatment, 127(1):53–63, May 2010. URL: http://dx.doi.org/10.1007/s10549-010-0943-7, doi:10.1007/s10549-010-0943-7. This article has 56 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10549-010-0943-7)
+
+[12. (Ribeiro2018RNA) Claudia Ribeiro de Almeida, Somdutta Dhir, Ashish Dhir, Amin E. Moghaddam, Quentin Sattentau, Anton Meinhart, and Nicholas J. Proudfoot. Rna helicase ddx1 converts rna g-quadruplex structures into r-loops to promote igh class switch recombination. Molecular Cell, 70(4):650-662.e8, May 2018. URL: http://dx.doi.org/10.1016/j.molcel.2018.04.001, doi:10.1016/j.molcel.2018.04.001. This article has 124 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2018.04.001)

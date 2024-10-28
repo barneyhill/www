@@ -1,0 +1,50 @@
+# NCBP3
+
+## Overview
+NCBP3, or nuclear cap binding subunit 3, is a gene that encodes a protein involved in the post-transcriptional regulation of mRNA in human cells. The protein NCBP3 is a component of the nuclear cap-binding complex (CBC), where it can substitute for NCBP2 to form an alternative CBC with NCBP1. This alternative complex is crucial for mRNA export from the nucleus to the cytoplasm, thereby playing a significant role in gene expression and cellular function (Dou2020Affinity; Gebhardt2015mRNA). Structurally, NCBP3 is characterized by an RNA-binding domain and a unique C-terminal region that facilitates its interaction with the CBC (Dubiez2023Structural). Functionally, NCBP3 is involved in mRNA processing, interacting with the Exon Junction Complex (EJC) and the Transcription Export (TREX) complex, which are essential for mRNA stabilization and export (Dou2020NCBP3). Additionally, NCBP3 has been implicated in oncogenic processes, particularly in lung adenocarcinoma and gliomas, highlighting its potential as a therapeutic target (Rambout2021NCBP3:; Zhao2022Construction).
+
+## Structure
+NCBP3 is a 620-residue protein with a distinct molecular structure that includes an RNA-binding domain. The primary structure of NCBP3 features a C-terminal region (residues 560-620) crucial for binding to the nuclear cap-binding complex (CBC) (Dubiez2023Structural). This region forms a stable complex with CBC, with a dissociation constant of ~173 nM, which improves to ~115 nM when CBC is bound to a cap analogue (Dubiez2023Structural).
+
+The secondary structure of NCBP3 includes an α-helix formed by residues 574-594, which interacts with the second MIF4G domain of CBP80. Key residues such as L577, W581, L584, and I585 are involved in this interaction, with W581 playing a critical role by inserting into a hydrophobic pocket on CBP80 (Dubiez2023Structural).
+
+NCBP3's tertiary structure is characterized by its RNA recognition motif (RRM) and an associated noncanonical α3-helix. The α3-helix is predicted to bind caps but not RNA, suggesting a regulatory role in RNA binding (Rambout2021NCBP3:).
+
+In terms of quaternary structure, NCBP3 can form a complex with CBP80 and ARS2, and it can substitute for CBP20/NCBP2 to form an alternative cap-binding complex with CBP80/NCBP1, which is important for mRNA export (Schulze2018Structural). NCBP3 also has splice variant isoforms across species, which likely bind similarly to CBC (Dubiez2023Structural).
+
+## Function
+NCBP3, also known as nuclear cap binding subunit 3, is a protein involved in mRNA processing in human cells. It functions as part of an alternative cap-binding complex (CBC) with NCBP1, potentially substituting for NCBP2. This alternative CBC plays a role in mRNA export from the nucleus to the cytoplasm, ensuring proper gene expression and cellular function (Dou2020Affinity; Gebhardt2015mRNA).
+
+NCBP3 predominantly interacts with the Exon Junction Complex (EJC) and the Transcription Export (TREX) complex, which are crucial for the post-splicing phase of mRNA processing. These interactions facilitate the stabilization and export of mRNA, promoting the transition from the nucleus to the cytoplasm for translation (Dou2020NCBP3). NCBP3's binding profile is similar to that of EIF4A3, a core EJC component, indicating its role in RNA processing near exon-exon junctions (Dou2020NCBP3).
+
+NCBP3 also competes with the RNA degradation factor ZC3H18 for binding to CBC-bound transcripts, positively influencing the nuclear export of polyadenylated RNAs and the expression of large multi-exonic transcripts (Dou2020NCBP3). Its interactions with EJC and TREX components suggest a critical role in mRNA export and processing, impacting RNA metabolism in human cells (Dou2020Affinity).
+
+## Clinical Significance
+NCBP3 has been implicated in various cancer-related processes, particularly in lung adenocarcinoma and gliomas. Alterations in NCBP3 expression or function can contribute to cancer progression. In lung adenocarcinoma, NCBP3 acts as an oncogenic protein by forming a complex with CBP80, which upregulates the E3 ubiquitin ligase Cullin 4B (CUL4B), promoting cancer progression (Rambout2021NCBP3:). In non-small cell lung cancer, NCBP3 interacts with NCBP1 to upregulate downstream target genes, further promoting cancer progression (Zhao2022Construction). In gliomas, NCBP3 binds to small nucleolar RNA host gene 6 (SNHG6) and inhibits the transcription of gastrulation brain homeobox 2 (GBX2) in a polycomb repressive complex 2 (PRC2)-dependent manner, promoting malignant progression (Zhao2022Construction).
+
+NCBP3's role extends to virology, where its dysregulation may impact viral replication and survival, as viruses often exploit the CBC and CUL4 genes (Rambout2021NCBP3:). While specific diseases resulting from mutations in NCBP3 are not detailed, its involvement in cancer and potential role in viral infections highlight its clinical significance. The potential of NCBP3 as a therapeutic target in these contexts is underlined by its significant role in tumorigenesis and cancer prognosis (Zhao2022Construction).
+
+## Interactions
+NCBP3 (nuclear cap binding subunit 3) is involved in various protein interactions as part of the nuclear cap-binding complex (CBC). It forms an alternative CBC with NCBP1, which can compensate for the loss of NCBP2 in mRNA export processes (Gebhardt2015mRNA). NCBP3 is distinct from NCBP1 and NCBP2 in its interaction profile, showing a stronger association with the exon junction complex (EJC) and its affiliated complexes, such as ASAP and PSAP, as well as the THO/TREX and spliceosomal C complexes (Dou2020Affinity). 
+
+NCBP3 interacts with SRRT, forming a ternary complex with NCBP1, which is mutually exclusive with PHAX (Dou2020Affinity). It is also associated with mRNA processing and export, interacting with components of the EJC and TREX complexes, such as eIF4A3, MAGOH, RBM8A, ALYREF, and DDX39B (Ye2021The). In hypoxic conditions, NCBP3 interacts with METTL3 and eIF4A2, forming a complex that enhances translation processes in cardiomyocytes (Ye2021The). These interactions highlight NCBP3's role in mRNA processing, export, and translation regulation.
+
+
+## References
+
+
+[1. (Rambout2021NCBP3:) Xavier Rambout and Lynne E. Maquat. Ncbp3: a multifaceted adaptive regulator of gene expression. Trends in Biochemical Sciences, 46(2):87–96, February 2021. URL: http://dx.doi.org/10.1016/j.tibs.2020.09.003, doi:10.1016/j.tibs.2020.09.003. This article has 8 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tibs.2020.09.003)
+
+[2. (Ye2021The) Fei Ye, Xiaoyan Wang, San Tu, Lixiong Zeng, Xu Deng, Wenzhi Luo, and Zhihui Zhang. The effects of ncbp3 on mettl3‐mediated m6a rna methylation to enhance translation process in hypoxic cardiomyocytes. Journal of Cellular and Molecular Medicine, 25(18):8920–8928, August 2021. URL: http://dx.doi.org/10.1111/jcmm.16852, doi:10.1111/jcmm.16852. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/jcmm.16852)
+
+3. (Dubiez2023Structural) Structural basis for competitive binding of productive and degradative co-transcriptional effectors to the nuclear cap-binding complex. This article has 0 citations.
+
+[4. (Gebhardt2015mRNA) Anna Gebhardt, Matthias Habjan, Christian Benda, Arno Meiler, Darya A. Haas, Marco Y. Hein, Angelika Mann, Matthias Mann, Bianca Habermann, and Andreas Pichlmair. Mrna export through an additional cap-binding complex consisting of ncbp1 and ncbp3. Nature Communications, September 2015. URL: http://dx.doi.org/10.1038/ncomms9192, doi:10.1038/ncomms9192. This article has 94 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms9192)
+
+[5. (Zhao2022Construction) Junde Zhao, Jiani Zou, Wenjian Jiao, Lidong Lin, Jiuling Wang, and Zhiheng Lin. Construction of n-7 methylguanine-related mrna prognostic model in uterine corpus endometrial carcinoma based on multi-omics data and immune-related analysis. Scientific Reports, November 2022. URL: http://dx.doi.org/10.1038/s41598-022-22879-6, doi:10.1038/s41598-022-22879-6. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-022-22879-6)
+
+[6. (Schulze2018Structural) Wiebke Manuela Schulze, Frank Stein, Mandy Rettel, Max Nanao, and Stephen Cusack. Structural analysis of human ars2 as a platform for co-transcriptional rna sorting. Nature Communications, April 2018. URL: http://dx.doi.org/10.1038/s41467-018-04142-7, doi:10.1038/s41467-018-04142-7. This article has 55 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-04142-7)
+
+[7. (Dou2020Affinity) Yuhui Dou, Svetlana Kalmykova, Maria Pashkova, Mehrnoosh Oghbaie, Hua Jiang, Kelly R Molloy, Brian T Chait, Michael P Rout, David Fenyö, Torben Heick Jensen, Ilya Altukhov, and John LaCava. Affinity proteomic dissection of the human nuclear cap-binding complex interactome. Nucleic Acids Research, 48(18):10456–10469, September 2020. URL: http://dx.doi.org/10.1093/nar/gkaa743, doi:10.1093/nar/gkaa743. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkaa743)
+
+8. (Dou2020NCBP3) NCBP3 is a productive mRNP component. This article has 0 citations.

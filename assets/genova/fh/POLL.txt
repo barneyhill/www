@@ -1,0 +1,52 @@
+# POLL
+
+## Overview
+The POLL gene encodes DNA polymerase lambda (Pol λ), a member of the X family of DNA polymerases, which plays a pivotal role in DNA repair mechanisms. This enzyme is characterized by its multifunctionality, participating in base excision repair (BER), non-homologous end joining (NHEJ), and microhomology-mediated end joining (MMEJ), thereby contributing to the maintenance of genomic stability. Pol λ is a single-subunit protein with a molecular weight of approximately 68 kDa and consists of several distinct domains, including a BRCT domain, which facilitates protein-protein interactions, and a DNA polymerase domain essential for its catalytic activity (Yamtich2010DNA; Sweasy2006DNA). The enzyme's unique structural features, such as its ability to synthesize DNA without a primer or template and its preference for Mn2+ as a metal activator, underscore its specialized functions in DNA repair (van2017Living). Pol λ's activity is modulated by post-translational modifications, including phosphorylation and SUMOylation, which influence its interactions and localization within the cell (MorenoOñate2020RanBP2mediated; Sweasy2006DNA). The clinical significance of POLL is highlighted by its association with cancer, where alterations in its expression or function can lead to genomic instability and contribute to tumorigenesis (van2017Living).
+
+## Structure
+DNA polymerase lambda (Pol λ), encoded by the POLL gene, is a member of the X family of DNA polymerases. It is a single-subunit protein with a molecular weight of approximately 68 kDa (Yamtich2010DNA; Sweasy2006DNA). The primary structure of Pol λ consists of 573 amino acids (Garcı́aDı́az2000DNA). 
+
+The protein contains several distinct domains, including an N-terminal BRCT domain, an 8 kDa dRP lyase domain, and a 31 kDa DNA polymerase domain (Sweasy2006DNA). The BRCT domain is involved in protein-protein interactions and is located between residues 35 to 131 (Garcı́aDı́az2000DNA). The catalytic core of Pol λ is organized into four subdomains: the 8 kDa domain, fingers, palm, and thumb, which are crucial for DNA binding, substrate accommodation, and catalysis (Garcı́aDı́az2000DNA).
+
+Pol λ's tertiary structure is similar to that of Pol β, with a Pol β-like fold and a 32% sequence identity in the aligned portion of their sequences (Garcı́aDı́az2000DNA). The enzyme does not undergo large subdomain movements during catalysis, unlike other polymerases, and features a flexible loop (loop 1) that aids in nucleotide selectivity (Yamtich2010DNA; Hoitsma2019Structure). 
+
+Post-translational modifications of Pol λ include phosphorylation, which may modulate its interactions with other proteins or chromatin (Sweasy2006DNA). The protein can exist in different splice variant isoforms, potentially affecting its function and localization (van2017Living).
+
+## Function
+DNA polymerase lambda (POLL) is a multifunctional enzyme involved in several DNA repair pathways in human cells, playing a crucial role in maintaining genome stability. It is part of the X family of DNA polymerases and is active in the nucleus, where it participates in base excision repair (BER), non-homologous end joining (NHEJ), and translesion synthesis (van2017Living).
+
+In BER, POLL is involved in the repair of oxidative DNA damage, such as 8-oxo-G lesions, by incorporating cytosine opposite the lesion to promote accurate repair and prevent mutagenesis (van2017Living). It also acts as a backup enzyme for DNA polymerase beta in BER, coordinating gap-filling and dRP excision steps (Garcı́aDı́az2001Identification).
+
+POLL is also involved in NHEJ, where it fills gaps in DNA with partially complementary overhangs, and in microhomology-mediated end joining (MMEJ), which repairs DNA ends using regions of microhomology (van2017Living). Its activity is regulated by phosphorylation, which stabilizes the enzyme and enhances its interaction with the NHEJ complex (van2017Living).
+
+The enzyme's unique ability to synthesize polynucleotide chains without a primer or template and its preference for Mn2+ over Mg2+ as a metal activator contribute to its role in DNA repair processes (van2017Living).
+
+## Clinical Significance
+Mutations and alterations in the expression of the POLL gene, which encodes DNA polymerase lambda, have been implicated in various clinical conditions, particularly in the context of cancer. Overexpression of DNA polymerase lambda has been associated with tumorigenesis and may contribute to tumor chemoresistance. This is particularly evident in the activation of microhomology-mediated end joining (MMEJ) repair of double-strand breaks, a process linked to increased mutagenesis and chromosomal instability (van2017Living). In lung cancer, DNA pol λ expression is correlated with habitual smoking, although not directly with the cancer tissue itself (van2017Living).
+
+Specific variants of DNA pol λ, such as the R438W variant, have been identified in breast cancer. This variant exhibits reduced fidelity and impaired non-homologous end joining (NHEJ) efficiency, leading to increased mutagenesis and chromosomal instability (van2017Living). While direct clinical implications in humans are not well-documented, these findings suggest that variations in POLL could influence DNA repair efficiency and genomic stability, potentially contributing to disease susceptibility (Sweasy2006DNA). The regulation of DNA pol λ is critical, as its deregulation can lead to genetic instability, highlighting its dual role as both a protector and potential threat to genomic integrity (van2017Living).
+
+## Interactions
+DNA polymerase lambda (POLL) is involved in several critical interactions with proteins and nucleic acids, primarily within the non-homologous end joining (NHEJ) pathway for DNA repair. POLL interacts with the Ku70/80 heterodimer, a key component of the NHEJ synaptic complex. This interaction is mediated through the BRCT domain of POLL, which is essential for its recruitment and activity in the NHEJ complex. The BRCT domain of POLL binds to specific regions on Ku70/80, with residues Arg57 and Leu60 playing crucial roles in this interaction. Mutations in these residues can disrupt POLL's ability to bind to Ku70/80, affecting its recruitment to DNA damage sites (Frit2024DNA).
+
+POLL also interacts with the DNA-PK holoenzyme, where its interaction with Ku70/80 is stabilized. This interaction is not influenced by the nature of the DNA ends but rather by the intrinsic affinity for the DNA-PK complex (Frit2024DNA). Additionally, POLL undergoes SUMOylation, a post-translational modification mediated by the E3 ligase RanBP2, which promotes its nuclear localization and recruitment to DNA lesions (MorenoOñate2020RanBP2mediated).
+
+
+## References
+
+
+[1. (Sweasy2006DNA) Joann B. Sweasy, Julia M. Lauper, and Kristin A. Eckert. Dna polymerases and human diseases. Radiation Research, 166(5):693–714, November 2006. URL: http://dx.doi.org/10.1667/RR0706.1, doi:10.1667/rr0706.1. This article has 109 citations and is from a peer-reviewed journal.](https://doi.org/10.1667/RR0706.1)
+
+[2. (Garcı́aDı́az2001Identification) Miguel Garcı́a-Dı́az, Katarzyna Bebenek, Thomas A. Kunkel, and Luis Blanco. Identification of an intrinsic 5′-deoxyribose-5-phosphate lyase activity in human dna polymerase λ. Journal of Biological Chemistry, 276(37):34659–34663, September 2001. URL: http://dx.doi.org/10.1074/jbc.m106336200, doi:10.1074/jbc.m106336200. This article has 187 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m106336200)
+
+3. (Frit2024DNA) DNA polymerase Lambda is anchored within the NHEJ synaptic complex via Ku70/80. This article has 0 citations.
+
+[4. (Yamtich2010DNA) Jennifer Yamtich and Joann B. Sweasy. Dna polymerase family x: function, structure, and cellular roles. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1804(5):1136–1150, May 2010. URL: http://dx.doi.org/10.1016/j.bbapap.2009.07.008, doi:10.1016/j.bbapap.2009.07.008. This article has 119 citations.](https://doi.org/10.1016/j.bbapap.2009.07.008)
+
+[5. (van2017Living) Barbara van Loon, Ulrich Hübscher, and Giovanni Maga. Living on the edge: dna polymerase lambda between genome stability and mutagenesis. Chemical Research in Toxicology, 30(11):1936–1941, September 2017. URL: http://dx.doi.org/10.1021/acs.chemrestox.7b00152, doi:10.1021/acs.chemrestox.7b00152. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1021/acs.chemrestox.7b00152)
+
+[6. (Hoitsma2019Structure) Nicole M. Hoitsma, Amy M. Whitaker, Matthew A. Schaich, Mallory R. Smith, Max S. Fairlamb, and Bret D. Freudenthal. Structure and function relationships in mammalian dna polymerases. Cellular and Molecular Life Sciences, 77(1):35–59, November 2019. URL: http://dx.doi.org/10.1007/s00018-019-03368-y, doi:10.1007/s00018-019-03368-y. This article has 25 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-019-03368-y)
+
+[7. (Garcı́aDı́az2000DNA) Miguel Garcı́a-Dı́az, Orlando Domı́nguez, Luis A López-Fernández, Laı́n Teresa de Lera, Marı́a L Sanı́ger, José F Ruiz, Mario Párraga, Marı́a J Garcı́a-Ortiz, Tomas Kirchhoff, Jesús del Mazo, Antonio Bernad, and Luis Blanco. Dna polymerase lambda (pol λ), a novel eukaryotic dna polymerase with a potential role in meiosis 1 1edited by m. yaniv. Journal of Molecular Biology, 301(4):851–867, August 2000. URL: http://dx.doi.org/10.1006/jmbi.2000.4005, doi:10.1006/jmbi.2000.4005. This article has 207 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1006/jmbi.2000.4005)
+
+8. (MorenoOñate2020RanBP2mediated) RanBP2-mediated SUMOylation promotes human DNA polymerase lambda nuclear localization and DNA repair. This article has 0 citations.

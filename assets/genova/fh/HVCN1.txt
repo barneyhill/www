@@ -1,0 +1,48 @@
+# HVCN1
+
+## Overview
+The HVCN1 gene encodes the hydrogen voltage-gated channel 1 (Hv1), a unique transmembrane protein that functions as a voltage-gated proton channel. Unlike conventional ion channels, Hv1 lacks a traditional pore domain and instead comprises a voltage-sensing domain (VSD) with four transmembrane segments. This structural configuration allows Hv1 to play a pivotal role in various physiological processes, including pH homeostasis and reactive oxygen species (ROS) production. The channel is particularly significant in immune cells, such as phagocytes and B cells, where it facilitates the respiratory burst and modulates B cell receptor (BCR) signaling, respectively. Additionally, Hv1 is involved in maintaining acid-base balance in airway epithelial cells and contributes to cardiac function by regulating pH homeostasis. Alterations in HVCN1 expression or function have been implicated in several diseases, including chronic lymphocytic leukemia, asthma, cystic fibrosis, and heart disease (Capasso2010HVCN1; Capasso2011pH; Wu2022RNASeq).
+
+## Structure
+The HVCN1 gene encodes the Hv1 protein, a voltage-gated proton channel characterized by a unique molecular structure. Unlike typical voltage-gated ion channels, Hv1 lacks a canonical pore domain and instead consists of a voltage-sensing domain (VSD) with four transmembrane segments (S1-S4) (Okamura2015Gating). The S4 segment contains three conserved arginines (R201, R204, R207) essential for voltage sensing, while the S1-S3 segments have acidic residues that form salt bridges with these arginines, stabilizing the VSD (Okamura2015Gating).
+
+The C-terminal region of Hv1 features a coiled-coil motif, forming a parallel, left-handed double helix crucial for dimerization and oligomeric interactions (Okamura2015Gating). This coiled-coil domain is involved in subunit assembly and influences the channel's stoichiometry, allowing for the formation of functional trimeric channels (Okamura2015Gating). The presence of cysteine (C245) suggests potential redox-dependent regulation through disulfide bond formation (Okamura2015Gating).
+
+The protein's structure is further stabilized by a hydrophobic plug formed by phenylalanine (F150) in the S2 segment, which is critical for voltage sensitivity (Okamura2015Gating). The channel's gating is influenced by factors such as pH, metal ions, and temperature, with zinc notably modulating its activity (Okamura2015Gating).
+
+## Function
+The HVCN1 gene encodes a voltage-gated proton channel that plays a crucial role in maintaining pH homeostasis and regulating reactive oxygen species (ROS) production in various cell types. In phagocytes, HVCN1 is essential for the respiratory burst, a process that generates ROS necessary for pathogen destruction. The channel provides charge and pH compensation during the activity of NADPH oxidase, preventing excessive depolarization and maintaining optimal intracellular pH (Capasso2011pH).
+
+In B cells, HVCN1 is associated with the B cell receptor (BCR) complex and modulates BCR signaling by regulating ROS production. This regulation is crucial for the activation of downstream signaling pathways, such as those involving Syk and Akt, which are important for B cell metabolism and immune responses (Capasso2010HVCN1).
+
+HVCN1 also plays a role in airway epithelial cells, where it is involved in acid secretion. The channel is activated by alkaline mucosal pH and is sensitive to blockage by zinc ions. This function is important for maintaining the acid-base balance in the airway surface liquid, contributing to proper respiratory function (Iovannisci2010Function).
+
+## Clinical Significance
+Mutations and alterations in the expression of the HVCN1 gene have been linked to various diseases and conditions. In B cells, HVCN1 is crucial for optimal B cell receptor (BCR) signaling. Its deficiency leads to impaired BCR signaling due to reduced reactive oxygen species (ROS) production, affecting downstream signaling pathways and impacting cell metabolism. This impairment is associated with conditions like chronic lymphocytic leukemia and certain B cell lymphomas, where HVCN1 expression is altered (Capasso2010HVCN1).
+
+In airway epithelia, a naturally occurring mutation, M91T, affects the channel's pH sensitivity, potentially reducing its activity and impacting acidification processes. This mutation is linked to respiratory conditions such as asthma and cystic fibrosis, where proper pH regulation is crucial (Iovannisci2010Function; Capasso2011pH).
+
+In cardiac tissue, HVCN1 is involved in pH homeostasis. Its deletion leads to downregulation of NADPH oxidases and Cl-/HCO3- exchangers, affecting cardiac function and potentially contributing to heart diseases (Wu2022RNASeq).
+
+In individuals with alpha-1 antitrypsin deficiency, HVCN1 expression is reduced due to proteolytic degradation, which may exacerbate lung disease by affecting neutrophil function (Hawkins2021Alpha1).
+
+## Interactions
+HVCN1, also known as hydrogen voltage-gated channel 1, is involved in several key interactions within B cells. It is associated with the B cell receptor (BCR) complex, which includes a membrane-bound immunoglobulin molecule and the immunoglobulin-associated-α-immunoglobulin-associated-β heterodimer. HVCN1 colocalizes with the BCR on the plasma membrane and translocates to major histocompatibility complex class II loading compartments after BCR internalization. Coimmunoprecipitation experiments have confirmed the association between HVCN1 and immunoglobulin-associated-β (CD79B) in both mouse B cell lines and human primary B cells. Mass-spectrometry analysis supports this interaction, identifying immunoglobulin-associated-β and IgM as proteins coimmunoprecipitated with HVCN1. This interaction is specific to HVCN1, as another transmembrane protein, CD20, does not show association with immunoglobulin-associated-β (Capasso2010HVCN1).
+
+HVCN1 is phosphorylated in a protein kinase C-dependent manner following BCR crosslinking, indicating its role in BCR signaling pathways (Capasso2010HVCN1). The protein is crucial for the regulation of reactive oxygen species (ROS) production, which is essential for BCR signaling and subsequent immune responses (Capasso2010HVCN1).
+
+
+## References
+
+
+[1. (Hawkins2021Alpha1) Padraig Hawkins, Julian Sya, Nee Kee Hup, Mark P. Murphy, Noel G. McElvaney, and Emer P. Reeves. Alpha-1 antitrypsin augmentation inhibits proteolysis of neutrophil membrane voltage-gated proton channel-1 in alpha-1 deficient individuals. Medicina, 57(8):814, August 2021. URL: http://dx.doi.org/10.3390/medicina57080814, doi:10.3390/medicina57080814. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/medicina57080814)
+
+[2. (Okamura2015Gating) Yasushi Okamura, Yuichiro Fujiwara, and Souhei Sakata. Gating mechanisms of voltage-gated proton channels. Annual Review of Biochemistry, 84(1):685–709, June 2015. URL: http://dx.doi.org/10.1146/annurev-biochem-060614-034307, doi:10.1146/annurev-biochem-060614-034307. This article has 38 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1146/annurev-biochem-060614-034307)
+
+[3. (Capasso2010HVCN1) Melania Capasso, Mandeep K Bhamrah, Tom Henley, Robert S Boyd, Claudia Langlais, Kelvin Cain, David Dinsdale, Karen Pulford, Mahmood Khan, Boris Musset, Vladimir V Cherny, Deri Morgan, Randy D Gascoyne, Elena Vigorito, Thomas E DeCoursey, Ian C M MacLennan, and Martin J S Dyer. Hvcn1 modulates bcr signal strength via regulation of bcr-dependent generation of reactive oxygen species. Nature Immunology, 11(3):265–272, February 2010. URL: http://dx.doi.org/10.1038/ni.1843, doi:10.1038/ni.1843. This article has 195 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ni.1843)
+
+[4. (Iovannisci2010Function) David Iovannisci, Beate Illek, and Horst Fischer. Function of the hvcn1 proton channel in airway epithelia and a naturally occurring mutation, m91t. Journal of General Physiology, 136(1):35–46, June 2010. URL: http://dx.doi.org/10.1085/jgp.200910379, doi:10.1085/jgp.200910379. This article has 79 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1085/jgp.200910379)
+
+[5. (Capasso2011pH) Melania Capasso, Thomas E. DeCoursey, and Martin J.S. Dyer. Ph regulation and beyond: unanticipated functions for the voltage-gated proton channel, hvcn1. Trends in Cell Biology, 21(1):20–28, January 2011. URL: http://dx.doi.org/10.1016/j.tcb.2010.09.006, doi:10.1016/j.tcb.2010.09.006. This article has 81 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tcb.2010.09.006)
+
+[6. (Wu2022RNASeq) Xin Wu, Yawei Li, Mark Maienschein-Cline, Leonid Feferman, Longjun Wu, and Liang Hong. Rna-seq analyses reveal roles of the hvcn1 proton channel in cardiac ph homeostasis. Frontiers in Cell and Developmental Biology, March 2022. URL: http://dx.doi.org/10.3389/fcell.2022.860502, doi:10.3389/fcell.2022.860502. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.860502)

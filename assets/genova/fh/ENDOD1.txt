@@ -1,0 +1,40 @@
+# ENDOD1
+
+## Overview
+ENDOD1 (endonuclease domain containing 1) is a gene that encodes a protein involved in DNA repair and genomic stability. The protein, also named ENDOD1, contains an endonuclease domain, which is indicative of its role in cleaving phosphodiester bonds within nucleic acids, thereby contributing to DNA single-strand break repair. It is primarily located in the cytoplasm but can translocate to the nucleus in response to DNA damage, such as oxidative stress. ENDOD1 interacts with various proteins, including RNF26, to modulate the cGAS-STING innate immunity pathway, and it plays a crucial role in PARP-dependent DNA repair processes. The protein's activity is essential for maintaining genomic integrity, and its dysfunction is associated with synthetic lethality in homologous recombination-deficient cells. ENDOD1's involvement in DNA repair and immune signaling pathways underscores its potential as a therapeutic target, particularly in cancers with TP53 mutations (Tang2020Synthetic; Fenech2020Interaction).
+
+## Structure
+
+
+## Function
+ENDOD1 (endonuclease domain containing 1) is a protein involved in DNA repair and genomic stability. It contains an endonuclease domain, which suggests its role in cleaving phosphodiester bonds within nucleic acids, contributing to DNA single-strand break repair. ENDOD1 interacts with RNF26 to modulate the cGAS-STING innate immunity pathway and is primarily located in the cytoplasm but can form nuclear foci in response to DNA damage, such as oxidative stress from hydrogen peroxide treatment (Tang2020Synthetic).
+
+The protein's activity is linked to PARP-dependent single-strand break repair, particularly in G1 phase-arrested cells. ENDOD1 influences PARP chromatin association, and its deletion leads to increased PARP1 and PARP3 association with damaged DNA (Tang2020Synthetic). The loss of ENDOD1 function is synthetic lethal with defects in homologous recombination, leading to the accumulation of DNA double-strand breaks, highlighting its crucial role in maintaining genomic stability (Tang2020Synthetic).
+
+In healthy cells, ENDOD1 is enriched in the nucleus following oxidative stress, indicating its role in responding to DNA damage and maintaining genomic integrity (Tang2020Synthetic). ENDOD1's involvement in DNA repair processes underscores its importance in cellular responses to DNA damage.
+
+## Clinical Significance
+ENDOD1 has been implicated in various cancers due to its role in DNA repair and cellular homeostasis. In prostate cancer (PCa), ENDOD1 acts as a tumor suppressor. Its expression is downregulated in high-grade PCa tissues, and its overexpression suppresses cell proliferation, induces cell cycle arrest, and inhibits migration and invasion in PCa cell lines. This suggests that ENDOD1 may influence the transition from androgen dependence to independence in PCa, highlighting its potential as a therapeutic target (Qiu2017Identification).
+
+In the context of synthetic lethality, ENDOD1 has been identified as a potential target in cancers with TP53 mutations. The loss of ENDOD1 in TP53-mutated tumor cells leads to cell death, suggesting that targeting ENDOD1 could selectively kill cancer cells with these genetic backgrounds. This interaction is particularly relevant as TP53 is mutated in approximately 50% of tumors, making ENDOD1 a promising target for broad-spectrum cancer therapies (Tang2020Synthetic).
+
+ENDOD1 is also under-expressed in HPV-positive oropharyngeal and oral squamous cell carcinomas, indicating its potential involvement in the pathogenesis of these cancers (Riaz2023Comparative).
+
+## Interactions
+ENDOD1 is involved in several protein-protein interactions, particularly within the context of the cGAS-STING innate immunity pathway. It interacts with RNF26, forming part of a complex that includes TMEM43, TMEM33, and TMED1, which modulates innate immune signaling at the endoplasmic reticulum (ER) membrane (Fenech2020Interaction). This complex represents a novel modulatory axis of STING and innate immune signaling (Fenech2020Interaction).
+
+ENDOD1 also interacts with poly(ADP-ribose) polymerase 1 (PARP1), as evidenced by its colocalization with poly(ADP-ribose) (PAR) foci in the nucleus. The formation of these foci is dependent on PARP activity, and ENDOD1 knockout cells show altered PARP chromatin association, suggesting a regulatory role in DNA repair processes (Tang2020Synthetic). The interaction with PARP1 is further supported by the observation that ENDOD1 knockout cells exhibit resistance to hydrogen peroxide-induced DNA damage, which is reversed by PARP1 knockdown (Tang2020Synthetic).
+
+These interactions highlight ENDOD1's role in both immune signaling and DNA repair, suggesting its potential as a target for therapeutic interventions, particularly in TP53-mutated cancers (Tang2020Synthetic).
+
+
+## References
+
+
+1. (Riaz2023Comparative) Comparative analysis of HPV-Human Protein Interaction Networks in Oropharyngeal and Oral Squamous cell carcinomas. This article has 1 citations.
+
+[2. (Qiu2017Identification) Jianguang Qiu, Shubin Peng, Jie Si-Tu, Cheng Hu, Wentao Huang, Yunhua Mao, Wenhan Qiu, Ke Li, and Dejuan Wang. Identification of endonuclease domain-containing 1 as a novel tumor suppressor in prostate cancer. BMC Cancer, May 2017. URL: http://dx.doi.org/10.1186/s12885-017-3330-5, doi:10.1186/s12885-017-3330-5. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-017-3330-5)
+
+3. (Tang2020Synthetic) Synthetic lethality between TP53 and ENDOD1. This article has 0 citations.
+
+4. (Fenech2020Interaction) Interaction mapping of endoplasmic reticulum ubiquitin ligases identifies modulators of innate immune signalling. This article has 74 citations.

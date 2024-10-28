@@ -1,0 +1,60 @@
+# PRIMPOL
+
+## Overview
+PRIMPOL is a gene that encodes the primase and DNA-directed polymerase protein, a multifunctional enzyme involved in DNA replication and repair. This enzyme is categorized as a primase-polymerase due to its dual ability to synthesize RNA primers and extend DNA strands. The protein plays a critical role in maintaining genomic stability by facilitating translesion synthesis and re-priming during DNA replication, particularly in response to DNA damage. It operates in both nuclear and mitochondrial contexts, contributing to the repair of oxidative lesions and the continuation of DNA synthesis past damaged sites. PRIMPOL's activity is modulated by interactions with other proteins, such as replication protein A (RPA) and PolDIP2, which enhance its function and fidelity. Mutations in the PRIMPOL gene have been associated with various clinical conditions, including cancer and mitochondrial disorders, highlighting its significance in cellular homeostasis and disease (Bianchi2013PrimPol; GarcíaGómez2013PrimPol; Guilliam2014Human).
+
+## Structure
+The human PRIMPOL gene encodes a protein with a distinct molecular structure that includes an N-terminal catalytic domain (NTD) and a C-terminal domain (CTD). The NTD contains an Archeal-Eukaryotic Primases (AEP) core, which is crucial for its primase and polymerase activities. This core includes specific motifs and residues such as Asp114, Glu116, Asp280, and His169, which are essential for coordinating metal ions and binding nucleotides (Boldinova2023The; Blanco2019Mechanism).
+
+The CTD features a zinc finger domain (ZnFD), which is vital for DNA primase activity. This domain contains conserved cysteines and a histidine that coordinate a Zn2+ atom, playing a key role in binding the triphosphate moiety of the 5'-site nucleotide and facilitating primer synthesis (MartínezJiménez2018The; Blanco2019Mechanism). The ZnFD is also involved in interactions with replication protein A (RPA), which is important for the protein's function in DNA replication and repair (Guilliam2014Human).
+
+PRIMPOL can exist in different isoforms due to alternative splicing, which may affect its functional properties. The protein's activity is influenced by metal ions, with Mn2+ ions stimulating its primase activity (Boldinova2023The).
+
+## Function
+PRIMPOL encodes a primase-polymerase enzyme that plays a critical role in DNA replication and repair in human cells. It is involved in both nuclear and mitochondrial DNA replication, contributing to genome stability and the cellular response to DNA damage. In the nucleus, PrimPol is essential for bypassing DNA lesions during chromosomal replication, particularly UV-induced lesions, by facilitating translesion synthesis (TLS) and re-priming downstream of lesions (Bianchi2013PrimPol; Guilliam2014Human). This function is crucial for maintaining replication fork progression and preventing fork collapse in the presence of DNA damage (Guilliam2016PolDIP2).
+
+PrimPol is also active in the mitochondria, where it plays a role in maintaining mitochondrial DNA (mtDNA) integrity by tolerating and bypassing oxidative DNA damage, such as 8-oxoguanine lesions (GarcíaGómez2013PrimPol). The enzyme's ability to initiate DNA synthesis using deoxynucleoside triphosphates (dNTPs) and perform TLS highlights its role in DNA damage tolerance, especially in the oxidative environment of mitochondria (GarcíaGómez2013PrimPol). PrimPol's activity is regulated by interactions with single-stranded DNA binding proteins, which help control its error-prone nature and ensure genomic stability (Guilliam2014Human).
+
+## Clinical Significance
+Mutations in the PRIMPOL gene have been linked to various diseases and conditions. The Y100H mutation in PRIMPOL is associated with increased resistance to hydroxyurea, a compound that reduces deoxynucleotide triphosphate (dNTP) pool levels, and has been found in cancer, particularly lung cancer. This mutation may provide a survival advantage to cancer cells under conditions of replication stress by enhancing nucleotide triphosphate (NTP) incorporation when dNTP pools are limited (DíazTalavera2019A).
+
+In the context of mitochondrial disorders, a mutation in PRIMPOL has been implicated in chronic progressive external ophthalmoplegia (CPEO), a condition characterized by neuromuscular symptoms. The p.Y89D mutation is associated with impaired mitochondrial DNA replication, potentially leading to multiple muscle mtDNA deletions (Kasamo2020A).
+
+PRIMPOL mutations also play a role in tenofovir-induced mitochondrial toxicity in HIV-positive patients. The D114N mutation impairs PrimPol's catalytic activities, increasing sensitivity to tenofovir's toxic effects (Duong2020Identifying).
+
+Alterations in PRIMPOL expression levels have been observed in various cancers, with its expression linked to prognosis in certain types, such as glioblastoma multiforme and kidney renal clear cell carcinoma (Deng2023Multiomics).
+
+## Interactions
+PRIMPOL interacts with several proteins and nucleic acids, playing a crucial role in DNA replication and repair. It binds to the replication protein A (RPA) complex, specifically interacting with the RPA70N subunit. This interaction is mediated by two RPA-binding motifs within PRIMPOL, known as RBM-A and RBM-B, which are located in its C-terminal domain (CTD). Both motifs can independently bind to RPA70N, but mutations in these motifs disrupt the binding, highlighting their importance in PRIMPOL's function (Guilliam2017Molecular).
+
+PRIMPOL's interaction with RPA is essential for its recruitment to replication forks, where it acts as a repriming enzyme. This interaction is primarily mediated by the RBM-A domain, which is crucial for stabilizing PRIMPOL on the DNA template and promoting repriming (Guilliam2017Molecular). The binding involves hydrophobic and electrostatic interactions, with specific residues such as phenylalanine (F522) and isoleucine (I554) playing key roles (Guilliam2017Molecular).
+
+PRIMPOL also interacts with PolDIP2, which enhances its DNA polymerase activities. PolDIP2 increases PRIMPOL's DNA binding capacity and processivity, acting as a fidelity factor during the bypass of oxidative lesions like 8-oxoG (Guilliam2016PolDIP2). This interaction is independent of PCNA and involves the catalytic domain of PRIMPOL (Guilliam2016PolDIP2).
+
+
+## References
+
+
+[1. (Kasamo2020A) Kei Kasamo, Masayuki Nakamura, Yoko Daimou, and Akira Sano. A primpol mutation and variants in multiple genes may contribute to phenotypes in a familial case with chronic progressive external ophthalmoplegia symptoms. Neuroscience Research, 157:58–63, August 2020. URL: http://dx.doi.org/10.1016/j.neures.2019.07.006, doi:10.1016/j.neures.2019.07.006. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.neures.2019.07.006)
+
+[2. (Guilliam2014Human) Thomas A. Guilliam, Stanislaw K. Jozwiakowski, Aaron Ehlinger, Ryan P. Barnes, Sean G. Rudd, Laura J. Bailey, J. Mark Skehel, Kristin A. Eckert, Walter J. Chazin, and Aidan J. Doherty. Human primpol is a highly error-prone polymerase regulated by single-stranded dna binding proteins. Nucleic Acids Research, 43(2):1056–1068, December 2014. URL: http://dx.doi.org/10.1093/nar/gku1321, doi:10.1093/nar/gku1321. This article has 91 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gku1321)
+
+[3. (GarcíaGómez2013PrimPol) Sara García-Gómez, Aurelio Reyes, María I. Martínez-Jiménez, E. Sandra Chocrón, Silvana Mourón, Gloria Terrados, Christopher Powell, Eduardo Salido, Juan Méndez, Ian J. Holt, and Luis Blanco. Primpol, an archaic primase/polymerase operating in human cells. Molecular Cell, 52(4):541–553, November 2013. URL: http://dx.doi.org/10.1016/j.molcel.2013.09.025, doi:10.1016/j.molcel.2013.09.025. This article has 327 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2013.09.025)
+
+[4. (Duong2020Identifying) Vincent N. Duong, Lei Zhou, María I. Martínez-Jiménez, Linh He, Moises Cosme, Luis Blanco, Elijah Paintsil, and Karen S. Anderson. Identifying the role of primpol in tdf-induced toxicity and implications of its loss of function mutation in an hiv+ patient. Scientific Reports, June 2020. URL: http://dx.doi.org/10.1038/s41598-020-66153-z, doi:10.1038/s41598-020-66153-z. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-020-66153-z)
+
+5. (Boldinova2023The) The role of catalytic and regulatory domains of human PrimPol in DNA binding and synthesis. This article has 0 citations.
+
+[6. (Guilliam2016PolDIP2) Thomas A. Guilliam, Laura J. Bailey, Nigel C. Brissett, and Aidan J. Doherty. Poldip2 interacts with human primpol and enhances its dna polymerase activities. Nucleic Acids Research, 44(7):3317–3329, March 2016. URL: http://dx.doi.org/10.1093/nar/gkw175, doi:10.1093/nar/gkw175. This article has 56 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkw175)
+
+[7. (Guilliam2017Molecular) Thomas A. Guilliam, Nigel C. Brissett, Aaron Ehlinger, Benjamin A. Keen, Peter Kolesar, Elaine M. Taylor, Laura J. Bailey, Howard D. Lindsay, Walter J. Chazin, and Aidan J. Doherty. Molecular basis for primpol recruitment to replication forks by rpa. Nature Communications, May 2017. URL: http://dx.doi.org/10.1038/ncomms15222, doi:10.1038/ncomms15222. This article has 86 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms15222)
+
+[8. (Blanco2019Mechanism) Luis Blanco, Patricia A. Calvo, Alberto Diaz-Talavera, Gustavo Carvalho, Nieves Calero, Ana Martínez-Carrón, Cristina Velázquez-Ruiz, Sabina Villadangos, Susana Guerra, and María I. Martínez-Jiménez. Mechanism of DNA primer synthesis by human PrimPol, pages 289–310. Elsevier, 2019. URL: http://dx.doi.org/10.1016/bs.enz.2019.06.003, doi:10.1016/bs.enz.2019.06.003. This article has 17 citations.](https://doi.org/10.1016/bs.enz.2019.06.003)
+
+[9. (Deng2023Multiomics) Langmei Deng, Abhimanyu Thakur, Jinwu Peng, Liying Song, and Zhilan Li. Multi-omics analysis of dna replication-associated primase polymerase (primpol) in pan-cancer: a potential target for prognosis and immune response. European Journal of Medical Research, June 2023. URL: http://dx.doi.org/10.1186/s40001-023-01181-9, doi:10.1186/s40001-023-01181-9. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40001-023-01181-9)
+
+[10. (MartínezJiménez2018The) María I Martínez-Jiménez, Patricia A Calvo, Sara García-Gómez, Susana Guerra-González, and Luis Blanco. The zn-finger domain of human primpol is required to stabilize the initiating nucleotide during dna priming. Nucleic Acids Research, 46(8):4138–4151, March 2018. URL: http://dx.doi.org/10.1093/nar/gky230, doi:10.1093/nar/gky230. This article has 37 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gky230)
+
+[11. (Bianchi2013PrimPol) Julie Bianchi, Sean G. Rudd, Stanislaw K. Jozwiakowski, Laura J. Bailey, Violetta Soura, Elaine Taylor, Irena Stevanovic, Andrew J. Green, Travis H. Stracker, Howard D. Lindsay, and Aidan J. Doherty. Primpol bypasses uv photoproducts during eukaryotic chromosomal dna replication. Molecular Cell, 52(4):566–573, November 2013. URL: http://dx.doi.org/10.1016/j.molcel.2013.10.035, doi:10.1016/j.molcel.2013.10.035. This article has 236 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2013.10.035)
+
+[12. (DíazTalavera2019A) Alberto Díaz-Talavera, Patricia A. Calvo, Daniel González-Acosta, Marcos Díaz, Guillermo Sastre-Moreno, Luis Blanco-Franco, Susana Guerra, Maria I. Martínez-Jiménez, Juan Méndez, and Luis Blanco. A cancer-associated point mutation disables the steric gate of human primpol. Scientific Reports, February 2019. URL: http://dx.doi.org/10.1038/s41598-018-37439-0, doi:10.1038/s41598-018-37439-0. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-018-37439-0)

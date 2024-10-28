@@ -1,0 +1,39 @@
+# TOX4
+
+## Overview
+TOX4, or thymocyte selection-associated high mobility group box family member 4, is a gene that encodes a transcription factor involved in the regulation of gene expression. The protein product of TOX4, also known as TOX high mobility group box family member 4, plays a pivotal role in transcriptional regulation by modulating the activity of RNA Polymerase II (Pol II). It is involved in the dephosphorylation of Pol II's C-terminal domain, which is essential for transcriptional control and reinitiation. TOX4 interacts with protein phosphatase 1 (PP1), particularly PP1α, to facilitate these processes, thereby influencing transcriptional elongation and chromatin dynamics. Beyond its transcriptional roles, TOX4 is implicated in cell cycle regulation and the maintenance of pluripotency in stem cells. Clinically, alterations in TOX4 expression have been associated with various cancers, including acute myeloid leukemia and lung cancer, where it may serve as a prognostic biomarker and potential therapeutic target (Chen2023LncRNA; Liang2021Higher; Liu2022TOX4).
+
+## Function
+TOX4 (TOX high mobility group box family member 4) plays a crucial role in transcriptional regulation in human cells by influencing RNA Polymerase II (Pol II) activity. It facilitates promoter-proximal pausing and dephosphorylation of the C-terminal domain (CTD) of Pol II, which is essential for transcriptional control. The dephosphorylation of CTD serines 2 and 5 by TOX4 is critical for Pol II recycling and transcriptional reinitiation, allowing for efficient transcriptional processes (Liu2022TOX4).
+
+TOX4 is involved in regulating the phosphorylation states of Pol II, which affects transcriptional elongation and reinitiation. Its loss leads to increased levels of phosphorylated Pol II and decreased chromatin-bound Pol II, indicating its role in maintaining proper transcriptional dynamics (Liu2022TOX4). TOX4 also interacts with protein phosphatase 1 (PP1), particularly PP1α, to facilitate Pol II CTD dephosphorylation, further supporting its function in transcription regulation (Liu2022TOX4).
+
+In addition to its role in transcription, TOX4 is involved in cell cycle regulation and the maintenance of pluripotency in stem cells, highlighting its importance in cell biology and development (Liang2021TOX).
+
+## Clinical Significance
+Alterations in the expression of the TOX4 gene have been implicated in various diseases, particularly in cancer. In acute myeloid leukemia (AML), higher expression levels of TOX4 are associated with poor overall survival. Patients with elevated TOX4 expression exhibit significantly lower 3-year overall survival rates compared to those with lower expression levels. This suggests that TOX4 expression could serve as a prognostic biomarker in AML, with high expression levels linked to worse outcomes (Liang2021Higher).
+
+In lung cancer, TOX4 plays a role in promoting cancer cell migration and invasion. It interacts with the long non-coding RNA SLCO4A1-AS1, which can sequester TOX4 and reduce its effects on cancer progression. The TOX4/SLCO4A1-AS1 axis is involved in the regulation of the NTSR1 signaling pathway, which is crucial for cancer cell motility. Alterations in this interaction can influence lung cancer metastasis and patient survival, making TOX4 a potential target for therapeutic intervention (Chen2023LncRNA).
+
+These findings highlight the clinical significance of TOX4 in cancer, suggesting that its expression and interactions could be targeted for developing new treatment strategies.
+
+## Interactions
+TOX4, a transcription factor, is involved in various protein interactions that influence its role in transcription regulation. It interacts with RNA Polymerase II (Pol II) and PP1 phosphatases, particularly PP1α, facilitating the dephosphorylation of Pol II's C-terminal domain (CTD) at Ser-2 and Ser-5 sites. This interaction is crucial for Pol II recycling and transcriptional reinitiation (Liu2022TOX4). TOX4 is also a subunit of the PP1C complex, which includes PNUTS, WDR82, and PP1 phosphatases, and it plays a role in restricting pause release and early productive elongation during transcription (Liu2022TOX4).
+
+In the context of apoptosis regulation, TOX4 interacts with TRIM65, an E3 ubiquitin ligase. TRIM65 promotes K48-linked ubiquitination and proteasomal degradation of TOX4, which is crucial for modulating apoptosis in intestinal epithelial cells during ischemia/reperfusion injury (Huang2024E3). The interaction between TRIM65 and TOX4 is mediated by the coiled-coil and SPRY domains of TRIM65 and the N-terminal region of TOX4 (Huang2024E3).
+
+TOX4 also interacts with the long non-coding RNA SLCO4A1-AS1 in lung cancer cells. This interaction disrupts TOX4's ability to bind to the NTSR1 promoter, thereby reducing NTSR1 expression and affecting cell migration and invasion (Chen2023LncRNA).
+
+
+## References
+
+
+[1. (Huang2024E3) Yingjie Huang, Tao Chen, Ming Jiang, Chenlu Xiong, Chao Mei, Jinping Nie, Qi Zhang, Qing Zhu, Xuan Huang, Xuekang Zhang, and Yong Li. E3 ligase trim65 alleviates intestinal ischemia/reperfusion injury through inhibition of tox4-mediated apoptosis. Cell Death &amp; Disease, January 2024. URL: http://dx.doi.org/10.1038/s41419-023-06410-x, doi:10.1038/s41419-023-06410-x. This article has 3 citations.](https://doi.org/10.1038/s41419-023-06410-x)
+
+[2. (Liu2022TOX4) Ziling Liu, Aiwei Wu, Zhen Wu, Talang Wang, Yixuan Pan, Bing Li, Xumin Zhang, and Ming Yu. Tox4 facilitates promoter-proximal pausing and c-terminal domain dephosphorylation of rna polymerase ii in human cells. Communications Biology, April 2022. URL: http://dx.doi.org/10.1038/s42003-022-03214-1, doi:10.1038/s42003-022-03214-1. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-022-03214-1)
+
+[3. (Chen2023LncRNA) Yi-Ling Chen, Yi-Nan Liu, Yen-Ting Lin, Meng-Feng Tsai, Shang-Gin Wu, Tzu-Hua Chang, Chia-Lang Hsu, Huey-Dong Wu, and Jin-Yuan Shih. Lncrna slco4a1-as1 suppresses lung cancer progression by sequestering the tox4-ntsr1 signaling axis. Journal of Biomedical Science, September 2023. URL: http://dx.doi.org/10.1186/s12929-023-00973-9, doi:10.1186/s12929-023-00973-9. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s12929-023-00973-9)
+
+[4. (Liang2021Higher) Chaofeng Liang, Yujie Zhao, Cunte Chen, Shuxin Huang, Tairan Deng, Xiangbo Zeng, Jiaxiong Tan, Xianfeng Zha, Shaohua Chen, and Yangqiu Li. Higher tox genes expression is associated with poor overall survival for patients with acute myeloid leukemia. Frontiers in Oncology, October 2021. URL: http://dx.doi.org/10.3389/fonc.2021.740642, doi:10.3389/fonc.2021.740642. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.740642)
+
+[5. (Liang2021TOX) Chaofeng Liang, Shuxin Huang, Yujie Zhao, Shaohua Chen, and Yangqiu Li. Tox as a potential target for immunotherapy in lymphocytic malignancies. Biomarker Research, March 2021. URL: http://dx.doi.org/10.1186/s40364-021-00275-y, doi:10.1186/s40364-021-00275-y. This article has 39 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40364-021-00275-y)

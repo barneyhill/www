@@ -1,0 +1,38 @@
+# PABIR1
+
+## Overview
+PABIR1 is a gene that encodes the protein FAM122A, which functions as a regulatory inhibitor of the protein phosphatase 2A (PP2A) complex, specifically interacting with the B55α subunit. FAM122A is categorized as a phosphatase regulator due to its role in modulating the activity of the PP2A-B55α complex. This protein is integral to cell cycle regulation, particularly in maintaining genomic stability and ensuring proper cell cycle progression by inhibiting the dephosphorylation of key proteins such as WEE1. The interaction between FAM122A and the PP2A-B55α complex is mediated by a conserved Short Linear Motif (SLiM) within FAM122A, which acts as a substrate-competitive inhibitor. This interaction is crucial for the protein's function in cell cycle checkpoints and response to replication stress, with significant implications for cancer biology and potential therapeutic interventions (Wasserman2023FAM122A; Wasserman2024FAM122A).
+
+## Structure
+The PABIR1 gene encodes the FAM122A protein, which plays a critical role in cell cycle regulation by interacting with the B55α subunit of the PP2A holoenzyme. The molecular structure of FAM122A includes a conserved Short Linear Motif (SLiM) sequence, identified as [RK]-V-x-x-[VI]-R, which is essential for binding to B55α. This SLiM forms a helical structure that is crucial for its function as a substrate-competitive inhibitor, preventing substrate access to the PP2A/C active site (Wasserman2023FAM122A; Wasserman2024FAM122A).
+
+The SLiM is located within a short α-helix (R84-G93) followed by a longer C-terminal helix (L95-S120), which further stabilizes the enzyme/inhibitor complex by blocking substrate access (Wasserman2023FAM122A; Wasserman2024FAM122A). Specific residues, such as R84, form critical interactions with B55α, including a salt bridge with D197, while L85 and L88 make hydrophobic contacts with L225 in B55α (Wasserman2024FAM122A).
+
+Mutations that disrupt the helical structure, such as substitutions to proline or glycine, impair binding to B55α, highlighting the importance of the α-helical conformation for FAM122A's inhibitory function (Wasserman2024FAM122A). The protein's interaction with B55α is consistent throughout the cell cycle, and its function may be modulated by post-translational modifications, including phosphorylation at multiple sites (Wasserman2023FAM122A; Wasserman2024FAM122A).
+
+## Function
+PABIR1, also known as FAM122A, plays a crucial role in regulating the cell cycle and maintaining genomic stability in healthy human cells. It functions as an inhibitor of the PP2A-B55α complex, a protein phosphatase involved in cell cycle regulation. By binding to and inhibiting this complex, PABIR1 limits the dephosphorylation of WEE1, a kinase that is important for the G2/M checkpoint, thereby maintaining low levels of WEE1 and ensuring proper cell cycle progression (Li2020CHK1; Wasserman2024FAM122A).
+
+PABIR1's interaction with the PP2A-B55α complex is dependent on specific short linear motifs (SLiMs) within its structure, which are evolutionarily conserved and crucial for its function. These motifs allow PABIR1 to act as a substrate-competitive inhibitor, preventing the dephosphorylation of key cell cycle proteins and ensuring proper checkpoint control during interphase (Wasserman2024FAM122A).
+
+In non-transformed cells, PABIR1 is primarily localized in the nucleus during interphase and is released into the cytoplasm during prometaphase. This localization is essential for its role in cell cycle regulation and response to replication stress, highlighting its importance in maintaining cellular homeostasis and function (Wasserman2023FAM122A).
+
+## Clinical Significance
+PABIR1, also known as FAM122A, plays a significant role in the regulation of the ATR-CHK1-WEE1 pathway, which is crucial for the G2/M checkpoint in cell cycle regulation. Alterations in PABIR1 expression or function can have clinical implications, particularly in cancer. In cancer cells, replication stress activates CHK1, leading to the phosphorylation of PABIR1 and its release from the PP2A complex. This process increases WEE1 levels, contributing to the G2/M checkpoint and allowing cancer cells to manage replication stress, which is essential for their survival despite high replication rates (Li2020CHK1).
+
+Cancer cells often reduce PABIR1 expression to cope with replication stress, which can lead to resistance against CHK1 inhibitors (CHK1i). These inhibitors block PABIR1 phosphorylation, reducing PP2A activity and WEE1 levels, thereby increasing replication stress and promoting cancer cell death. The study suggests that targeting PP2A-B55a specifically could reverse CHK1i resistance with lower toxicity (Li2020CHK1). PABIR1's role in non-transformed cells includes suppressing PP2A-B55a and promoting WEE1 degradation, highlighting its potential as a biomarker for CHK1i therapy response, with low PABIR1 levels indicating resistance (Li2020CHK1).
+
+## Interactions
+PABIR1, also known as FAM122A, is a protein that interacts with the PP2A/B55α holoenzyme, acting as a SLiM-dependent inhibitor. This interaction is mediated by a conserved SLiM sequence within FAM122A, which folds into a short helix to bind B55α. Specific residues in the SLiM, such as R81, L82, I85, and K86, are crucial for this binding, as mutations in these residues disrupt the interaction (Wasserman2023FAM122A; Wasserman2024FAM122A). The interaction is further stabilized by additional conserved regions in FAM122A, which enhance binding through charge-charge interactions (Wasserman2023FAM122A).
+
+FAM122A's interaction with B55α is highly specific, with the side chain of R84 forming a salt bridge with D197 in B55α, and L85 and I88 making hydrophobic contacts with L225 in B55α. This interaction is crucial for inhibiting the PP2A/C active site, thereby blocking substrate access (Wasserman2023FAM122A). FAM122A also plays a role in cell cycle regulation by modulating the phosphorylation state of WEE1 through its interaction with the PP2A complex, particularly in the context of replication stress in cancer cells (Li2020CHK1).
+
+
+## References
+
+
+1. (Wasserman2023FAM122A) FAM122A ensures cell cycle interphase progression and checkpoint control as a SLiM-dependent substrate-competitive inhibitor to the B55⍺/PP2A phosphatase. This article has 1 citations.
+
+[2. (Li2020CHK1) Feng Li, David Kozono, Peter Deraska, Timothy Branigan, Connor Dunn, Xiao-Feng Zheng, Kalindi Parmar, Huy Nguyen, James DeCaprio, Geoffrey I. Shapiro, Dipanjan Chowdhury, and Alan D. D’Andrea. Chk1 inhibitor blocks phosphorylation of fam122a and promotes replication stress. Molecular Cell, 80(3):410-422.e6, November 2020. URL: http://dx.doi.org/10.1016/j.molcel.2020.10.008, doi:10.1016/j.molcel.2020.10.008. This article has 40 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2020.10.008)
+
+[3. (Wasserman2024FAM122A) Jason S. Wasserman, Bulat Faezov, Kishan R. Patel, Alison M. Kurimchak, Seren M. Palacio, David J. Glass, Holly Fowle, Brennan C. McEwan, Qifang Xu, Ziran Zhao, Lauren Cressey, Neil Johnson, James S. Duncan, Arminja N. Kettenbach, Roland L. Dunbrack, and Xavier Graña. Fam122a ensures cell cycle interphase progression and checkpoint control by inhibiting b55α/pp2a through helical motifs. Nature Communications, July 2024. URL: http://dx.doi.org/10.1038/s41467-024-50015-7, doi:10.1038/s41467-024-50015-7. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-50015-7)

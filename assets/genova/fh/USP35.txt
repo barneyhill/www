@@ -1,0 +1,52 @@
+# USP35
+
+## Overview
+USP35 is a gene that encodes the protein ubiquitin specific peptidase 35, a deubiquitinating enzyme involved in the regulation of protein stability and cellular processes. As a member of the ubiquitin-specific protease (USP) family, USP35 plays a critical role in modulating the ubiquitination status of target proteins, thereby influencing their degradation, localization, and activity. The protein is characterized by a USP catalytic domain and exists in multiple isoforms due to alternative splicing, with distinct functional roles in cellular homeostasis and stress responses. Isoform 1 is a soluble protein with anti-apoptotic properties, while isoform 2 is an integral membrane protein associated with the endoplasmic reticulum and lipid droplets, involved in inducing ER stress and apoptosis (Leznicki2018Expansion). USP35 is implicated in various cellular processes, including mitotic progression, cell proliferation, and cancer pathogenesis, making it a potential target for therapeutic intervention in oncology (Park2018USP35; Wang2021Regulation).
+
+## Structure
+USP35 is a deubiquitinating enzyme characterized by a USP catalytic domain, with cysteine 450 as the active site. The protein features a long, highly-charged loop insertion within its catalytic domain, which is predicted to be unstructured. The crystal structure of a catalytically inactive mutant (C450S) of USP35, lacking the loop insertion, reveals a typical USP domain architecture with subdomains known as thumb, palm, and fingers. These subdomains form a network of hydrophobic, ionic, and hydrogen bonds with ubiquitin, stabilizing the complex (Leznicki2018Expansion).
+
+USP35 has multiple isoforms resulting from alternative splicing, which differ in their N-terminal regions. Isoform 1 (iso1) is a soluble protein with anti-apoptotic properties, while isoform 2 (iso2) is an integral membrane protein associated with the endoplasmic reticulum (ER) and lipid droplets. Iso2 contains a potential transmembrane domain spanning residues 317-337, which acts as an ER targeting signal. This isoform is involved in inducing ER stress and apoptosis, with its membrane localization playing a crucial role (Leznicki2018Expansion). The presence of HEAT repeats in iso1 limits its integration into the ER membrane, unlike iso2, which lacks these repeats (Leznicki2018Expansion).
+
+## Function
+USP35 (ubiquitin specific peptidase 35) is a deubiquitinating enzyme that plays a crucial role in regulating mitotic progression and cell proliferation in healthy human cells. It functions by modulating the stability of key proteins involved in mitosis, such as survivin and Aurora B, which are components of the chromosomal passenger complex (CPC) (Park2018USP35; Wang2021Regulation). USP35 enhances the stability of survivin by promoting its deubiquitination, thereby preventing its degradation and supporting proper cell division and genomic stability (Wang2021Regulation).
+
+USP35 also interacts with Aurora B, a key kinase in mitosis, inhibiting its degradation by the APC CDH1-mediated proteasomal pathway. This interaction ensures the maintenance of Aurora B levels, which is essential for accurate chromosome segregation and cytokinesis (Park2018USP35). The enzyme's activity is crucial for preventing mitotic defects such as misaligned chromosomes and cytokinesis failure (Park2018USP35).
+
+USP35 is active in both the cytoplasm and nucleus, where it influences cellular responses and organismal development by maintaining protein homeostasis and regulating cell cycle progression (Park2018USP35).
+
+## Clinical Significance
+Alterations in the expression and function of the USP35 gene have been implicated in several types of cancer. In breast cancer, particularly estrogen receptor-positive (ER+) subtypes, USP35 is overexpressed and associated with poor patient outcomes. It stabilizes and enhances the transcriptional activity of estrogen receptor α (ERα), promoting tumor growth and resistance to endocrine therapies such as tamoxifen and fulvestrant (Cao2021USP35). USP35's role in breast cancer is further supported by its regulation through estrogen and AKT signaling pathways, forming a positive feedback loop that exacerbates cancer progression (Cao2021USP35).
+
+In colorectal cancer (CRC), USP35 is overexpressed and linked to increased cancer stages and recurrence rates. It promotes cell proliferation and chemotherapeutic resistance by stabilizing FUCA1, a protein involved in these processes (Zhang2022USP35). Similarly, in prostate cancer, USP35 is upregulated and associated with poor prognosis, enhancing cancer cell growth and migration through the stabilization of BRPF1 proteins, which activate the mevalonate metabolism pathway (Lin2022Deubiquitinase).
+
+In gastric cancer, USP35 contributes to metastasis by stabilizing Snail1, a key transcription factor in the epithelial-mesenchymal transition, which is crucial for cancer spread (Ma2024Ubiquitinspecific). These findings suggest that USP35 is a potential therapeutic target across various cancers due to its role in promoting tumor growth and resistance to treatment.
+
+## Interactions
+USP35, a deubiquitinating enzyme, engages in several significant protein interactions that influence various cellular processes. In colorectal cancer, USP35 interacts with α-L-fucosidase 1 (FUCA1), stabilizing it by removing ubiquitin chains and preventing its degradation. This interaction enhances cell proliferation and chemotherapeutic resistance (Xiao2023USP35).
+
+In breast cancer, USP35 interacts with estrogen receptor alpha (ERα), stabilizing it through deubiquitination. This interaction enhances ERα's transcriptional activity, promoting the growth of estrogen receptor-positive breast cancer cells. The phosphorylation of USP35 by AKT at Ser613 is crucial for its nuclear translocation and function in enhancing ERα activity (Cao2021USP35).
+
+USP35 also plays a role in mitotic progression by interacting with Aurora B, a component of the chromosomal passenger complex (CPC). It inhibits the CDH1-mediated degradation of Aurora B, maintaining its stability during mitosis. This interaction is essential for proper mitotic progression and prevents defects such as metaphase chromosome misalignment (Park2018USP35).
+
+In prostate cancer, USP35 interacts with BRPF1, stabilizing it and promoting tumorigenesis and stemness potential. This interaction is crucial for the oncogenic roles of USP35 in prostate cancer progression (Lin2022Deubiquitinase).
+
+
+## References
+
+
+[1. (Xiao2023USP35) Yi Xiao, Xiaoyu Jiang, Ke Yin, Tianshu Miao, Hanlin Lu, Wenqing Wang, Lijuan Ma, Yinghui Zhao, Chunyan Liu, Yun Qiao, and Pengju Zhang. Usp35 promotes cell proliferation and chemotherapeutic resistance through stabilizing fuca1 in colorectal cancer. Oncogenesis, March 2023. URL: http://dx.doi.org/10.1038/s41389-023-00458-2, doi:10.1038/s41389-023-00458-2. This article has 2 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41389-023-00458-2)
+
+2. (Zhang2022USP35) USP35 promotes cell proliferation and chemotherapeutic resistance through stabilizing FUCA1 in colorectal cancer. This article has 0 citations.
+
+[3. (Cao2021USP35) Jiawei Cao, Du Wu, Guang Wu, Yaqi Wang, Tianhao Ren, Yang Wang, Yingshuai Lv, Wei Sun, Jieyi Wang, Changrui Qian, Licai He, Kaiyan Yang, Hongzhi Li, and Haihua Gu. Usp35, regulated by estrogen and akt, promotes breast tumorigenesis by stabilizing and enhancing transcriptional activity of estrogen receptor α. Cell Death &amp; Disease, June 2021. URL: http://dx.doi.org/10.1038/s41419-021-03904-4, doi:10.1038/s41419-021-03904-4. This article has 13 citations.](https://doi.org/10.1038/s41419-021-03904-4)
+
+[4. (Ma2024Ubiquitinspecific) Cunying Ma, Zhuangfei Tian, Dandan Wang, Wenrong Gao, Lilin Qian, Yichen Zang, Xia Xu, Jihui Jia, and Zhifang Liu. Ubiquitin-specific protease 35 promotes gastric cancer metastasis by increasing the stability of snail1. International Journal of Biological Sciences, 20(3):953–967, 2024. URL: http://dx.doi.org/10.7150/ijbs.87176, doi:10.7150/ijbs.87176. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/ijbs.87176)
+
+[5. (Park2018USP35) Jinyoung Park, Mi-Sun Kwon, Eunice EunKyeong Kim, Hyunsook Lee, and Eun Joo Song. Usp35 regulates mitotic progression by modulating the stability of aurora b. Nature Communications, February 2018. URL: http://dx.doi.org/10.1038/s41467-018-03107-0, doi:10.1038/s41467-018-03107-0. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-03107-0)
+
+[6. (Wang2021Regulation) Wei Wang, Hanbin Lin, Enrun Zheng, Zhenzhu Hou, Yuanyuan Liu, Wenyang Huang, Danni Chen, Jinan Feng, Jingyi Li, and Lisheng Li. Regulation of survivin protein stability by usp35 is evolutionarily conserved. Biochemical and Biophysical Research Communications, 574:48–55, October 2021. URL: http://dx.doi.org/10.1016/j.bbrc.2021.08.050, doi:10.1016/j.bbrc.2021.08.050. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2021.08.050)
+
+[7. (Lin2022Deubiquitinase) Guowen Lin, Tianrun Huang, Xiaobo Zhang, and Gangmin Wang. Deubiquitinase usp35 stabilizes brpf1 to activate mevalonate (mva) metabolism during prostate tumorigenesis. Cell Death Discovery, November 2022. URL: http://dx.doi.org/10.1038/s41420-022-01231-x, doi:10.1038/s41420-022-01231-x. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-022-01231-x)
+
+[8. (Leznicki2018Expansion) Pawel Leznicki, Jayaprakash Natarajan, Gerd Bader, Walter Spevak, Andreas Schlattl, Syed Arif Abdul Rehman, Deepika Pathak, Simone Weidlich, Andreas Zoephel, Marie C. Bordone, Nuno L. Barbosa-Morais, Guido Boehmelt, and Yogesh Kulathu. Expansion of dub functionality generated by alternative isoforms – usp35, a case study. Journal of Cell Science, May 2018. URL: http://dx.doi.org/10.1242/jcs.212753, doi:10.1242/jcs.212753. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.212753)

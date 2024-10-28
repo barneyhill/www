@@ -1,0 +1,52 @@
+# TRIM29
+
+## Overview
+TRIM29 is a gene that encodes the protein tripartite motif containing 29, which is a member of the tripartite motif (TRIM) protein family. Unlike many other TRIM proteins, TRIM29 lacks a RING finger domain, which is typically involved in ubiquitin ligase activity (Napolitano2011TRIM). The TRIM29 protein functions primarily as a scaffold protein, playing a critical role in the DNA damage response (DDR) by facilitating the assembly of DNA repair proteins into chromatin (Masuda2015TRIM29). It is involved in maintaining genomic stability and modulating immune responses by interacting with various proteins, including histones and components of the DDR pathway (Li2018TRIM29; Masuda2015TRIM29). TRIM29 is also implicated in several cancers, where its expression levels and interactions influence disease progression and patient prognosis (Eberhardt2020Multifaceted; Yi2023TRIM29).
+
+## Structure
+TRIM29 is a member of the tripartite motif (TRIM) protein family, characterized by a tripartite motif that typically includes a RING finger domain, B-box domains, and a coiled-coil region. However, TRIM29 is unique in that it lacks the RING domain, which is common among other TRIM proteins (Napolitano2011TRIM). The protein contains both N-terminal and C-terminal regions that are involved in binding to nucleosomes, with the C-terminal region being crucial for interactions with certain DNA repair proteins such as MSH2/MSH6 (Masuda2015TRIM29).
+
+TRIM29 has a Walker A motif in its N-terminal domain, a nucleotide-binding motif conserved in ATPases, which is essential for its interaction with modified histones like H3K36me3 (Masuda2015TRIM29). The protein also undergoes post-translational modifications, including phosphorylation by MK2, which influences its nuclear localization and role in radioresistance (Masuda2015TRIM29).
+
+TRIM29 functions as a scaffold protein, facilitating the assembly of DNA repair proteins into chromatin, which is crucial for the DNA damage response (DDR) (Masuda2015TRIM29). The protein can form complexes with other proteins, such as MSH2, and is involved in the regulation of DNA repair pathways (Masuda2015TRIM29).
+
+## Function
+TRIM29 is a protein involved in the DNA damage response (DDR) and plays a crucial role in maintaining genomic stability in healthy human cells. It functions as a histone-binding protein that facilitates the assembly of DNA repair proteins into damaged chromatin. TRIM29 interacts with modified histone tails, such as H3K36me3 and modified H4 tails, to regulate the DDR by forming a molecular scaffold with mismatch repair (MMR) proteins on chromatin (Masuda2015TRIM29). This interaction is essential for the phosphorylation of H2AX, a critical step in the DDR pathway, and is necessary for cell viability in response to ionizing radiation (Masuda2015TRIM29).
+
+TRIM29 also plays a role in the immune response by negatively regulating the host's antiviral immune response. It targets the STING protein for K48-linked ubiquitination and degradation, thereby modulating the STING-TBK1-IRF3 signaling pathway. This regulation prevents excessive immune activation in response to DNA viruses, maintaining a balance in the immune response (Li2018TRIM29). TRIM29 is inducibly expressed in macrophages and dendritic cells upon stimulation with cytosolic DNA, acting as a negative feedback mechanism to control cytokine production and prevent excessive inflammation (Li2018TRIM29).
+
+## Clinical Significance
+TRIM29 is implicated in various cancers, with its expression levels and interactions playing significant roles in disease progression. In esophageal squamous cell carcinoma (ESCC), TRIM29 is downregulated due to hypermethylation of its promoter, which is linked to advanced cancer stages, metastasis, and poor survival. This downregulation affects the tumor suppressor gene ZNF750 through the IL6/STAT3 signaling pathway, promoting cell proliferation, epithelial-mesenchymal transition (EMT), migration, and invasion (Yi2023TRIM29).
+
+In colorectal carcinoma (CRC), TRIM29 acts as a tumor-promoting factor. It sequesters p53 in the cytoplasm, inhibiting its tumor suppressor functions, and enhances Wnt/β-catenin signaling, which is crucial for EMT and metastasis. High TRIM29 expression correlates with poor survival and lymph node metastasis in CRC patients (Eberhardt2020Multifaceted; Xu2016RNA).
+
+In pancreatic cancer, TRIM29 stabilizes Yes-associated protein 1 (YAP1), promoting tumor growth and progression. High TRIM29 expression is associated with larger tumor size, lymph node metastasis, and shorter overall survival, indicating its role as an oncogene in this context (Deng2021E3; Hao2021TRIM29).
+
+## Interactions
+TRIM29, a member of the tripartite motif protein family, is involved in various protein interactions that play crucial roles in DNA repair and immune response. It interacts with several key components of the DNA damage response (DDR), including the BRCA1-associated surveillance complex, cohesion, DNA-PKcs, and components of the TIP60 complex (Masuda2015TRIM29). TRIM29 binds directly to histone tails, particularly modified H3 and H4, which is essential for the activation of DDR (Masuda2015TRIM29). It also forms a molecular scaffold with mismatch repair proteins, such as MSH2, facilitating DNA damage signaling (Masuda2015TRIM29).
+
+TRIM29 interacts with ATM, a key protein in DDR, and its phosphorylation by ATM and MK2 influences its function and localization (Masuda2015TRIM29). It also binds to nucleosomes through its N-terminal and C-terminal regions, with the Walker A motif in the N-terminal domain being crucial for ATP and ADP binding (Masuda2015TRIM29).
+
+In the context of immune response, TRIM29 negatively regulates the production of type I interferons and pro-inflammatory cytokines by interacting with and ubiquitinating STING, leading to its degradation (Xing2017TRIM29; Li2018TRIM29). This interaction is significant in modulating the host's antiviral defense mechanisms (Xing2017TRIM29).
+
+
+## References
+
+
+[1. (Eberhardt2020Multifaceted) Wolfgang Eberhardt, Kristina Haeussler, Usman Nasrullah, and Josef Pfeilschifter. Multifaceted roles of trim proteins in colorectal carcinoma. International Journal of Molecular Sciences, 21(20):7532, October 2020. URL: http://dx.doi.org/10.3390/ijms21207532, doi:10.3390/ijms21207532. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21207532)
+
+[2. (Hao2021TRIM29) Liang Hao, Qi Zhang, Huai-Yu Qiao, Fu-Ying Zhao, Jing-Yi Jiang, Ling-Yue Huyan, Bao-Qin Liu, Jing Yan, Chao Li, and Hua-Qin Wang. Trim29 alters bioenergetics of pancreatic cancer cells via cooperation of mir-2355-3p and ddx3x recruitment to ak4 transcript. Molecular Therapy - Nucleic Acids, 24:579–590, June 2021. URL: http://dx.doi.org/10.1016/j.omtn.2021.01.027, doi:10.1016/j.omtn.2021.01.027. This article has 12 citations.](https://doi.org/10.1016/j.omtn.2021.01.027)
+
+[3. (Xing2017TRIM29) Junji Xing, Ao Zhang, Hua Zhang, Jin Wang, Xian Chang Li, Mu-Sheng Zeng, and Zhiqiang Zhang. Trim29 promotes dna virus infections by inhibiting innate immune response. Nature Communications, October 2017. URL: http://dx.doi.org/10.1038/s41467-017-00101-w, doi:10.1038/s41467-017-00101-w. This article has 145 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-017-00101-w)
+
+[4. (Xu2016RNA) Weihong Xu, Bin Xu, Yiting Yao, Xiaoling Yu, Hua Cao, Jun Zhang, Jie Liu, and Huiming Sheng. Rna interference against trim29 inhibits migration and invasion of colorectal cancer cells. Oncology Reports, 36(3):1411–1418, July 2016. URL: http://dx.doi.org/10.3892/or.2016.4941, doi:10.3892/or.2016.4941. This article has 30 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.2016.4941)
+
+[5. (Deng2021E3) Xueqiang Deng, Xiaowei Fu, Hong Teng, Lu Fang, Bo Liang, Rengui Zeng, Lian Chen, and Yeqing Zou. E3 ubiquitin ligase trim29 promotes pancreatic cancer growth and progression via stabilizing yes-associated protein 1. Journal of Translational Medicine, August 2021. URL: http://dx.doi.org/10.1186/s12967-021-03007-w, doi:10.1186/s12967-021-03007-w. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-021-03007-w)
+
+[6. (Napolitano2011TRIM) Luisa M. Napolitano and Germana Meroni. Trim family: pleiotropy and diversification through homomultimer and heteromultimer formation. IUBMB Life, 64(1):64–71, November 2011. URL: http://dx.doi.org/10.1002/iub.580, doi:10.1002/iub.580. This article has 142 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/iub.580)
+
+[7. (Yi2023TRIM29) Qiyi Yi, Yujia Zhao, Ran Xia, Qinqin Wei, Fengmei Chao, Rui Zhang, Po Bian, and Lei Lv. Trim29 hypermethylation drives esophageal cancer progression via suppression of znf750. Cell Death Discovery, June 2023. URL: http://dx.doi.org/10.1038/s41420-023-01491-1, doi:10.1038/s41420-023-01491-1. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-023-01491-1)
+
+[8. (Li2018TRIM29) Qijie Li, Liangbin Lin, Yanli Tong, Yantong Liu, Jun Mou, Xiaodong Wang, Xiuxuan Wang, Yanqiu Gong, Yi Zhao, Yi Liu, Bo Zhong, Lunzhi Dai, Yu-Quan Wei, Huiyuan Zhang, and Hongbo Hu. Trim29 negatively controls antiviral immune response through targeting sting for degradation. Cell Discovery, March 2018. URL: http://dx.doi.org/10.1038/s41421-018-0010-9, doi:10.1038/s41421-018-0010-9. This article has 83 citations.](https://doi.org/10.1038/s41421-018-0010-9)
+
+[9. (Masuda2015TRIM29) Yasushi Masuda, Hidehisa Takahashi, Shigeo Sato, Chieri Tomomori-Sato, Anita Saraf, Michael P. Washburn, Laurence Florens, Ronald C. Conaway, Joan W. Conaway, and Shigetsugu Hatakeyama. Trim29 regulates the assembly of dna repair proteins into damaged chromatin. Nature Communications, June 2015. URL: http://dx.doi.org/10.1038/ncomms8299, doi:10.1038/ncomms8299. This article has 48 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms8299)

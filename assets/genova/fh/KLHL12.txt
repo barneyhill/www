@@ -1,0 +1,50 @@
+# KLHL12
+
+## Overview
+KLHL12 is a gene that encodes the protein kelch-like family member 12, which is a member of the BTB-Kelch protein family. This protein functions primarily as an adaptor in a Cullin3-based E3 ubiquitin ligase complex, playing a significant role in the ubiquitination and subsequent degradation of target proteins. The structural composition of KLHL12 includes an N-terminal BTB domain, a central BACK domain, and a C-terminal region with multiple Kelch repeats, which are essential for substrate recognition and binding (Zhao2020Structural; Rondou2008BTB). KLHL12 is involved in various cellular processes, including the regulation of the dopamine D4 receptor and Dishevelled proteins, which are integral to the Wnt signaling pathway (Chen2020Identification; Rondou2008BTB). Additionally, KLHL12 has clinical significance, with implications in diseases such as craniofacial disorders, autoimmune diseases, and cancer (Shi2019Kelchlike; Ma2017Whole; Asmar2020Control).
+
+## Structure
+KLHL12 is a protein characterized by the presence of several structural domains that facilitate its function in protein-protein interactions. It contains an N-terminal BTB (Broad-Complex, Tramtrack, and Bric-à-brac) domain, a central BACK (BTB and C-terminal Kelch) domain, and a C-terminal region composed of multiple Kelch repeats (Rondou2008BTB). The BTB domain is typically involved in dimerization and interaction with Cullin3, forming part of a CUL3-RING E3 ligase complex (Rondou2008BTB). The Kelch repeats form a β-propeller structure, which is crucial for substrate recognition and binding (Zhao2020Structural).
+
+The Kelch domain of KLHL12 is specifically involved in binding to substrates such as the dopamine D4 receptor and Dishevelled proteins, facilitating their ubiquitination (Chen2020Identification; Rondou2008BTB). The interaction with Dishevelled proteins involves a 'PGXPP' degron motif, which binds to a hydrophobic pocket in the Kelch domain (Chen2020Identification). KLHL12 undergoes post-translational modifications, including phosphorylation, which may regulate its activity and interactions. Splice variant isoforms of KLHL12 may exist, contributing to its functional diversity.
+
+## Function
+KLHL12 is a BTB-Kelch protein that functions as an adaptor in a Cul3-based E3 ubiquitin ligase complex, facilitating the ubiquitination of specific target proteins. In healthy human cells, KLHL12 plays a crucial role in the regulation of protein ubiquitination, a process essential for protein degradation and cellular homeostasis (Rondou2008BTB). KLHL12 specifically targets the dopamine D4 receptor for ubiquitination, interacting with the receptor's third intracellular loop through its Kelch domain. This interaction is species-specific, occurring in humans and primates, and is crucial for the regulation of the D4 receptor's stability and function (Rondou2008BTB).
+
+KLHL12 also mediates the ubiquitination and degradation of Dishevelled proteins (DVL1-3), which are key components of the Wnt signaling pathway. This interaction is facilitated by a 'PGXPP' degron motif in the Dishevelled proteins, which is recognized by the Kelch domain of KLHL12 (Chen2020Identification). Through these interactions, KLHL12 influences various cellular processes, including signal transduction and protein homeostasis, and is active in the cytoplasm (Chen2020Identification). Additionally, KLHL12 is involved in collagen secretion by ubiquitinating SEC31A, a component of the COPII complex, which is crucial for extracellular matrix remodeling (Abe2023LZTR1).
+
+## Clinical Significance
+Mutations and dysregulation of the KLHL12 gene have been implicated in several diseases. In craniofacial development, KLHL12 is part of the CRL3-KLHL12 complex, which is crucial for collagen secretion. Mutations in related components, such as SEC23A, can lead to cranio-lenticulo-sutural dysplasia, a genetic craniofacial disorder (Asmar2020Control). In the context of neuronal differentiation, KLHL12 is involved in the WNT signaling pathway. Its knockdown in zebrafish embryos results in developmental defects, particularly the loss of anterior neural tissues, indicating its role in neuroectodermal cell establishment (Asmar2020Control).
+
+KLHL12 has also been associated with autoimmune diseases. Anti-KLHL12 antibodies are more frequently detected in patients with primary biliary cholangitis, suggesting its potential as a biomarker for this condition. Additionally, autoantibodies against KLHL12 have been found in Sjögren's syndrome, a chronic autoimmune disease (Shi2019Kelchlike).
+
+In cancer, KLHL12 mutations have been identified in familial hemangioblastomas, highlighting its role in tumor development (Ma2017Whole). Furthermore, KLHL12 interacts with LZTR1, and its dysregulation can enhance collagen secretion, promoting tumor metastasis (Abe2023LZTR1).
+
+## Interactions
+KLHL12 interacts with the dopamine D4 receptor, specifically binding to the polymorphic region in the third intracellular loop (IC3) of the receptor through its Kelch domain. This interaction is crucial for targeting the D4 receptor for ubiquitination by a Cul3-based E3 ligase complex. The interaction is specific to the human D4 receptor, as the mouse D4 receptor does not interact with KLHL12 due to the absence of the polymorphism in the IC3 region in rodents (Rondou2008BTB).
+
+KLHL12 also interacts with Cullin 3 (Cul3) and Roc1, components of the E3 ligase complex, facilitating the ubiquitination process. The interaction with Cul3 does not require the BTB domain of KLHL12, indicating that other regions of the protein are involved (Rondou2008BTB).
+
+In addition to its role with the D4 receptor, KLHL12 interacts with β-arrestins, which are multifunctional proteins involved in protein ubiquitination regulation. The Kelch domain of KLHL12 is essential for binding with β-arrestins, while the BTB domain is not necessary (Skieterska2016Characterization).
+
+KLHL12 also regulates the degradation of dishevelled proteins (DVL1-3) by binding to a 'PGXPP' degron motif, which is crucial for their ubiquitination and degradation (Chen2020Identification).
+
+
+## References
+
+
+[1. (Skieterska2016Characterization) Kamila Skieterska, Ao Shen, Dorien Clarisse, Pieter Rondou, Dasiel Oscar Borroto-Escuela, Béatrice Lintermans, Kjell Fuxe, Yang Kevin Xiang, and Kathleen Van Craenenbroeck. Characterization of the interaction between the dopamine d4 receptor, klhl12 and β-arrestins. Cellular Signalling, 28(8):1001–1014, August 2016. URL: http://dx.doi.org/10.1016/j.cellsig.2016.05.003, doi:10.1016/j.cellsig.2016.05.003. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2016.05.003)
+
+[2. (Ma2017Whole) Dexuan Ma, Jingyun Yang, Ying Wang, Xiang Huang, Guhong Du, and Liangfu Zhou. Whole exome sequencing identified genetic variations in chinese hemangioblastoma patients. American Journal of Medical Genetics Part A, 173(10):2605–2613, July 2017. URL: http://dx.doi.org/10.1002/ajmg.a.38350, doi:10.1002/ajmg.a.38350. This article has 15 citations.](https://doi.org/10.1002/ajmg.a.38350)
+
+[3. (Abe2023LZTR1) Taiki Abe, Shin-ichiro Kanno, Tetsuya Niihori, Miho Terao, Shuji Takada, and Yoko Aoki. Lztr1 deficiency exerts high metastatic potential by enhancing sensitivity to emt induction and controlling klhl12-mediated collagen secretion. Cell Death &amp; Disease, August 2023. URL: http://dx.doi.org/10.1038/s41419-023-06072-9, doi:10.1038/s41419-023-06072-9. This article has 6 citations.](https://doi.org/10.1038/s41419-023-06072-9)
+
+[4. (Chen2020Identification) Zhuoyao Chen, Gregory A. Wasney, Sarah Picaud, Panagis Filippakopoulos, Masoud Vedadi, Vincenzo D’Angiolella, and Alex N. Bullock. Identification of a pgxpp degron motif in dishevelled and structural basis for its binding to the e3 ligase klhl12. Open Biology, June 2020. URL: http://dx.doi.org/10.1098/rsob.200041, doi:10.1098/rsob.200041. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1098/rsob.200041)
+
+[5. (Zhao2020Structural) Bin Zhao, William G. Payne, Jiqing Sai, Zhenwei Lu, Edward T. Olejniczak, and Stephen W. Fesik. Structural elucidation of peptide binding to klhl-12, a substrate specific adapter protein in a cul3-ring e3 ligase complex. Biochemistry, 59(8):964–969, February 2020. URL: http://dx.doi.org/10.1021/acs.biochem.9b01073, doi:10.1021/acs.biochem.9b01073. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.biochem.9b01073)
+
+[6. (Asmar2020Control) Anthony J. Asmar, David B. Beck, and Achim Werner. Control of craniofacial and brain development by cullin3-ring ubiquitin ligases: lessons from human disease genetics. Experimental Cell Research, 396(2):112300, November 2020. URL: http://dx.doi.org/10.1016/j.yexcr.2020.112300, doi:10.1016/j.yexcr.2020.112300. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.yexcr.2020.112300)
+
+[7. (Rondou2008BTB) Pieter Rondou, Guy Haegeman, Peter Vanhoenacker, and Kathleen Van Craenenbroeck. Btb protein klhl12 targets the dopamine d4 receptor for ubiquitination by a cul3-based e3 ligase. Journal of Biological Chemistry, 283(17):11083–11096, April 2008. URL: http://dx.doi.org/10.1074/jbc.m708473200, doi:10.1074/jbc.m708473200. This article has 69 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m708473200)
+
+[8. (Shi2019Kelchlike) Xiaoxian Shi, Senfeng Xiang, Ji Cao, Hong Zhu, Bo Yang, Qiaojun He, and Meidan Ying. Kelch-like proteins: physiological functions and relationships with diseases. Pharmacological Research, 148:104404, October 2019. URL: http://dx.doi.org/10.1016/j.phrs.2019.104404, doi:10.1016/j.phrs.2019.104404. This article has 51 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.phrs.2019.104404)

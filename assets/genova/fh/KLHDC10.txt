@@ -1,0 +1,42 @@
+# KLHDC10
+
+## Overview
+KLHDC10 is a gene that encodes the protein kelch domain containing 10, which is characterized by a central Kelch β-propeller domain. This protein functions as an E3 ligase within the Cullin-RING E3 ubiquitin ligase complex (CRL2), playing a crucial role in the Ribosome-associated Quality Control (RQC) pathway. The Kelch domain is essential for substrate recognition, particularly in binding to C-terminal polyalanine tails, known as Ala-tail degrons, facilitating the ubiquitylation and degradation of nascent polypeptides (Patil2023Mechanism). KLHDC10's involvement in protein degradation pathways is vital for maintaining cellular homeostasis and preventing protein aggregation. Additionally, KLHDC10 has been implicated in coronary artery disease through genetic associations, although its role in disease pathogenesis requires further investigation (Shadrina2020Prioritization; Erbilgin2013Identification).
+
+## Structure
+KLHDC10 is a protein characterized by a central Kelch β-propeller domain, which consists of six repeats of the Kelch motif. This domain is crucial for substrate recognition, particularly in binding to the Ala-tail degron (Patil2023Mechanism). The protein structure includes an N-terminal region predicted to be mostly unstructured and a C-terminal region that contains a BC-box and a Cul2-box, forming a trihelical domain. These C-terminal features are involved in interactions with Cullin-2 adaptor proteins, facilitating the formation of a CRL2 E3 ligase complex (Patil2023Mechanism; Sekine2012The).
+
+The Kelch domain of KLHDC10 is implicated in binding to the Ala-tail degron, with specific residues such as Ser93, Ser156, Phe176, Tyr208, Thr225, Tyr261, Phe366, and Arg391 playing a role in this interaction (Patil2023Mechanism). The protein's structure is further supported by AlphaFold2 predictions, which suggest that the Ala-tail degron binds at the 'top' surface of the Kelch domain, characterized by a basic patch and hydrophobic residues (Patil2023Mechanism).
+
+KLHDC10 also interacts with PP5, a serine/threonine protein phosphatase, through its Kelch motif, influencing oxidative stress responses (Sekine2012The). The protein may undergo post-translational modifications such as phosphorylation, which could affect its function. Splice variant isoforms of KLHDC10 may exist, potentially altering its structural and functional properties.
+
+## Function
+KLHDC10 is a protein that plays a significant role in the degradation of nascent polypeptides with C-terminal polyalanine tails, known as 'Ala-tails', as part of the Ribosome-associated Quality Control (RQC) pathway. It functions as an E3 ligase within the CRL2 complex, recognizing Ala-tails as C-end degrons, which facilitates the ubiquitylation and subsequent degradation of these polypeptides (Patil2023Mechanism). KLHDC10 contains a central Kelch β-propeller domain, which is crucial for its substrate recognition capabilities. This domain is flanked by an N-terminal region and a C-terminal region containing a BC-box and a Cul2-box, which are involved in forming a trihelical domain that interacts with Cullin-2 adaptor proteins and recruits the RING domain protein Rbx1 into the CRL2 E3 ligase complex (Patil2023Mechanism).
+
+KLHDC10 is also involved in recognizing other C-end degrons, such as those ending in TrpGly, ProGly, or AlaGly, indicating its broader substrate recognition capabilities (Patil2023Mechanism). The protein is active in the cytoplasm, where it contributes to maintaining cellular homeostasis by participating in protein degradation pathways, which are essential for cellular quality control and the prevention of protein aggregation (Patil2023Mechanism).
+
+## Clinical Significance
+KLHDC10 has been implicated in coronary artery disease (CAD) through its association with specific genetic variants. The SNP rs11556924, located in the 7q32.2 locus, is linked to higher expression levels of KLHDC10 in monocytes, which is significant in the context of CAD. This suggests that alterations in KLHDC10 expression, influenced by genetic variants, may contribute to the pathogenesis of CAD (Erbilgin2013Identification). However, the evidence for KLHDC10's role in CAD is not considered strong enough to prioritize it as a causal gene based solely on experimental data, though it is supported by in silico studies (Shadrina2020Prioritization).
+
+In heart failure (HF), KLHDC10 is identified as one of the necroptosis-related differentially expressed genes, being downregulated in HF samples. Despite this, the expression levels of KLHDC10 did not show a significant difference between HF and normal blood samples, indicating that its role in HF may not be as pronounced (Kong2023System).
+
+KLHDC10 is also involved in the recognition of alanine-tail C-degrons, which are implicated in protein degradation processes. This function is evolutionarily conserved, suggesting a critical role in cellular homeostasis, although specific diseases directly linked to mutations in KLHDC10 are not detailed in the provided context (Patil2023Mechanism).
+
+## Interactions
+KLHDC10 is involved in the recognition and binding of C-terminal polyalanine tails, known as Ala-tail degrons, as part of the CRL2 E3 ligase complex. This interaction facilitates the ubiquitylation and degradation of nascent polypeptides, a process crucial in the Ribosome-associated Quality Control (RQC) pathway (Patil2023Mechanism). The protein interacts specifically with Ala-tail degrons through its Kelch domain, which forms a binding pocket characterized by hydrophobic and electrostatic interactions. Key residues such as Ser93, Ser156, Arg391, Tyr110, Tyr208, and Tyr261 are involved in forming hydrogen bonds and electrostatic interactions with the degron (Patil2023Mechanism).
+
+KLHDC10 also shows flexibility in binding to peptides ending in Gly, unlike its paralog Pirh2, which requires Ala at the -1 position. This flexibility extends to substrates ending in -TrpGly, -ProGly, and -AlaGly (Patil2023Mechanism). The protein's interaction with GFP-Ala6 has been demonstrated through binding assays, indicating a strong affinity for Ala-tail degrons (Patil2023Mechanism). These interactions highlight KLHDC10's role in protein degradation and its specificity for Ala-tail degrons, which is essential for its function as an E3 ligase.
+
+
+## References
+
+
+[1. (Erbilgin2013Identification) Ayca Erbilgin, Mete Civelek, Casey E. Romanoski, Calvin Pan, Raffi Hagopian, Judith A. Berliner, and Aldons J. Lusis. Identification of cad candidate genes in gwas loci and their expression in vascular cells. Journal of Lipid Research, 54(7):1894–1905, July 2013. URL: http://dx.doi.org/10.1194/jlr.m037085, doi:10.1194/jlr.m037085. This article has 84 citations and is from a peer-reviewed journal.](https://doi.org/10.1194/jlr.m037085)
+
+[2. (Sekine2012The) Yusuke Sekine, Ryo Hatanaka, Takeshi Watanabe, Naoki Sono, Shun-ichiro Iemura, Tohru Natsume, Erina Kuranaga, Masayuki Miura, Kohsuke Takeda, and Hidenori Ichijo. The kelch repeat protein klhdc10 regulates oxidative stress-induced ask1 activation by suppressing pp5. Molecular Cell, 48(5):692–704, December 2012. URL: http://dx.doi.org/10.1016/j.molcel.2012.09.018, doi:10.1016/j.molcel.2012.09.018. This article has 68 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2012.09.018)
+
+3. (Kong2023System) System analysis based on the necroptosis-related genes in heart failure. This article has 0 citations.
+
+4. (Patil2023Mechanism) Mechanism and evolutionary origins of Alanine-tail C-degron recognition by E3 ligases Pirh2 and CRL2-KLHDC10. This article has 1 citations.
+
+[5. (Shadrina2020Prioritization) Alexandra S. Shadrina, Tatiana I. Shashkova, Anna A. Torgasheva, Sodbo Z. Sharapov, Lucija Klarić, Eugene D. Pakhomov, Dmitry G. Alexeev, James F. Wilson, Yakov A. Tsepilov, Peter K. Joshi, and Yurii S. Aulchenko. Prioritization of causal genes for coronary artery disease based on cumulative evidence from experimental and in silico studies. Scientific Reports, June 2020. URL: http://dx.doi.org/10.1038/s41598-020-67001-w, doi:10.1038/s41598-020-67001-w. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-020-67001-w)

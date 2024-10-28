@@ -1,0 +1,46 @@
+# RNF7
+
+## Overview
+RNF7 is a gene that encodes the ring finger protein 7, also known as SAG (Sensitive to Apoptosis Gene), which functions as a RING-type E3 ubiquitin ligase. This protein is integral to the ubiquitin-proteasome system, where it plays a pivotal role in tagging proteins for degradation, thus maintaining cellular protein homeostasis. The RNF7 protein is characterized by its RING domain, which is essential for its ligase activity and antioxidant properties. It is a component of the SCF (Skp1-Cullin-F-box) E3 ubiquitin ligase complex, interacting with various proteins to regulate processes such as cell cycle progression, signal transduction, and apoptosis. RNF7 is involved in several signaling pathways, including NF-κB, and has been implicated in the pathogenesis of various cancers and inflammatory diseases, making it a potential target for therapeutic interventions (Telesio2017The; Xiao2022RNF7; Sun2012Functional).
+
+## Structure
+The RNF7 gene encodes a protein known as SAG, which is characterized by its RING domain, a crucial feature for its function as an E3 ubiquitin ligase. This domain contains a C3H2C3 motif that chelates two zinc atoms, a common structural feature in proteins with E3 ubiquitin ligase activity (Sun2012Functional). The protein is composed of 113 amino acids and includes 12 cysteine residues, which are involved in forming disulfide bonds, contributing to its antioxidant properties (Sun2012Functional). The RING domain's structure is essential for the protein's dual function as an antioxidant and an E3 ligase (Sun2012Functional).
+
+RNF7 is part of the SCF (Skp1-Cullin-F-box) E3 ubiquitin ligase complex, indicating its involvement in a quaternary structure association. Within this complex, RNF7 forms the core E3 ligase with cullin-1, facilitating the transfer of ubiquitin from E2 to the substrate (Sun2012Functional). The protein's antioxidant activity is attributed to its high cysteine content, which allows it to form thiol/disulfide redox buffers and chelate metals like zinc and copper (Sun2012Functional). The phosphorylation of RNF7 at Thr 10 by casein kinase II (CK2) may affect its stability but not its intrinsic E3 ligase activity (Sun2012Functional).
+
+## Function
+RNF7, also known as ring finger protein 7, functions as an E3 ubiquitin ligase, playing a critical role in the ubiquitin-proteasome system. This system is essential for maintaining protein homeostasis by marking proteins for degradation. RNF7 is a component of the SCF (SKP1-CUL-F-box proteins) E3 ubiquitin ligase complex, where it facilitates the ubiquitination and degradation of various protein substrates, including c-JUN, DEPTOR, HIF-1α, IκBα, NF1, NOXA, p27, and procaspase-3. This activity regulates several signaling pathways and biological processes, such as cell cycle progression, signal transduction, and tumor suppression (Sun2012Functional).
+
+In healthy human cells, RNF7 is involved in the regulation of NF-κB signaling pathways. It negatively regulates the NF-κB-inducing activity of CARMA2sh, a protein involved in signal transduction pathways, by promoting the deubiquitination of MALT1 and NEMO. This regulation is crucial for maintaining the balance of NF-κB signaling, which is important for inflammatory responses (Telesio2017The).
+
+RNF7 is active in both the cytoplasm and nucleus, influencing cellular responses to stress and apoptosis. It also plays a role in protecting cells from apoptosis by scavenging reactive oxygen species and inhibiting oxidative stress-induced damage (Sun2012Functional).
+
+## Clinical Significance
+Alterations in the expression of the RNF7 gene have been implicated in various cancers. In renal cell carcinoma (RCC), particularly clear cell renal cell carcinoma (ccRCC), RNF7 is upregulated, correlating with poor patient survival. High RNF7 expression is associated with reduced apoptosis and increased glycolysis, contributing to tumor progression and resistance to the tyrosine kinase inhibitor sunitinib. This regulation occurs through the SOCS1/JAK/STAT3 feedback loop, making RNF7 a potential target for therapeutic intervention in RCC (Xiao2022RNF7).
+
+In non-small cell lung cancer (NSCLC), RNF7 is identified as a candidate driver gene, with more frequent amplification and overexpression in squamous cell carcinoma compared to adenocarcinoma. This suggests a role in tumor histology and development (Lazar2013Integrated).
+
+RNF7 also plays a role in inflammatory conditions. It negatively regulates NF-κB signaling by interacting with CARMA2sh, a protein involved in this pathway. Mutations in CARMA2sh linked to psoriasis can escape RNF7's regulatory effects, potentially contributing to the disease's pathogenesis (Telesio2017The). These findings highlight RNF7's involvement in both cancer and inflammatory diseases, underscoring its clinical significance.
+
+## Interactions
+RNF7, also known as SAG, is a component of the SCF (Skp1-Cullin-F-box) E3 ubiquitin ligase complex, where it functions as a RING-type E3 ubiquitin ligase. It interacts with Cullin-1 and Skp1, facilitating the ubiquitination and degradation of various protein substrates (Sun2012Functional; Zhou2013Genetically). RNF7 is involved in the degradation of proteins such as c-Jun, HIF-1α, and IκBα through its interaction with different SCF complexes, including SCF FBXW7 and SCF βTrCP (Sun2012Functional).
+
+RNF7 also interacts with β-TrCP1, a substrate-recognizing subunit of the SCF complex, forming a complex with CUL5 to promote K11-linked polyubiquitylation of β-TrCP1, leading to its degradation (Kuang2016SAGRBX2). This interaction highlights a biochemical distinction between RNF7 and RBX1, another RING component, in their binding to different E2 enzymes and their role in ubiquitylation (Kuang2016SAGRBX2).
+
+In renal cell carcinoma, RNF7 interacts with SOCS1, a component of the JAK/STAT3 signaling pathway, inducing its ubiquitination and leading to decreased SOCS1 protein levels. This interaction is crucial for RNF7's role in regulating apoptosis and glycolysis through the SOCS1/JAK/STAT3 feedback loop (Xiao2022RNF7).
+
+
+## References
+
+
+[1. (Kuang2016SAGRBX2) Peng Kuang, Mingjia Tan, Weihua Zhou, Qiang Zhang, and Yi Sun. Sag/rbx2 e3 ligase complexes with ubch10 and ube2s e2s to ubiquitylate β-trcp1 via k11-linkage for degradation. Scientific Reports, December 2016. URL: http://dx.doi.org/10.1038/srep37441, doi:10.1038/srep37441. This article has 33 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep37441)
+
+[2. (Sun2012Functional) Yi Sun and Hua Li. Functional characterization of sag/rbx2/roc2/rnf7, an antioxidant protein and an e3 ubiquitin ligase. Protein &amp; Cell, 4(2):103–116, November 2012. URL: http://dx.doi.org/10.1007/s13238-012-2105-7, doi:10.1007/s13238-012-2105-7. This article has 71 citations.](https://doi.org/10.1007/s13238-012-2105-7)
+
+[3. (Zhou2013Genetically) Weihua Zhou, Wenyi Wei, and Yi Sun. Genetically engineered mouse models for functional studies of skp1-cul1-f-box-protein (scf) e3 ubiquitin ligases. Cell Research, 23(5):599–619, March 2013. URL: http://dx.doi.org/10.1038/cr.2013.44, doi:10.1038/cr.2013.44. This article has 64 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/cr.2013.44)
+
+[4. (Xiao2022RNF7) Chengwu Xiao, Wei Zhang, Meimian Hua, Huan Chen, Bin Yang, Ye Wang, and Qing Yang. Rnf7 inhibits apoptosis and sunitinib sensitivity and promotes glycolysis in renal cell carcinoma via the socs1/jak/stat3 feedback loop. Cellular &amp; Molecular Biology Letters, May 2022. URL: http://dx.doi.org/10.1186/s11658-022-00337-5, doi:10.1186/s11658-022-00337-5. This article has 12 citations.](https://doi.org/10.1186/s11658-022-00337-5)
+
+[5. (Lazar2013Integrated) Vladimir Lazar, Chen Suo, Cedric Orear, Joost van den Oord, Zsofia Balogh, Justine Guegan, Bastien Job, Guillaume Meurice, Hugues Ripoche, Stefano Calza, Johanna Hasmats, Joakim Lundeberg, Ludovic Lacroix, Philippe Vielh, Fabienne Dufour, Janne Lehtiö, Rudolf Napieralski, Alexander Eggermont, Manfred Schmitt, Jacques Cadranel, Benjamin Besse, Philippe Girard, Fiona Blackhall, Pierre Validire, Jean-Charles Soria, Philippe Dessen, Johan Hansson, and Yudi Pawitan. Integrated molecular portrait of non-small cell lung cancers. BMC Medical Genomics, December 2013. URL: http://dx.doi.org/10.1186/1755-8794-6-53, doi:10.1186/1755-8794-6-53. This article has 47 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1755-8794-6-53)
+
+[6. (Telesio2017The) Gianluca Telesio, Ivan Scudiero, Maddalena Pizzulo, Pellegrino Mazzone, Tiziana Zotti, Serena Voccola, Immacolata Polvere, Pasquale Vito, and Romania Stilo. The e3 ubiquitin ligase rnf7 negatively regulates card14/carma2sh signaling. International Journal of Molecular Sciences, 18(12):2581, December 2017. URL: http://dx.doi.org/10.3390/ijms18122581, doi:10.3390/ijms18122581. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms18122581)

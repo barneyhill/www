@@ -1,0 +1,35 @@
+# KCTD4
+
+## Overview
+KCTD4 is a gene that encodes the protein potassium channel tetramerization domain containing 4, which is a member of the KCTD family. This protein is characterized by its pentameric structure, forming a propeller-like fold that is crucial for its function in cellular processes, particularly in the regulation of potassium channels. The KCTD4 protein contains a BTB (Broad-Complex, Tramtrack, and Bric-à-brac) domain, which facilitates protein oligomerization and interactions, although it does not form stable complexes with Cullin 3, unlike some other KCTD family members (Balasco2024A; Liu2013The). The structural integrity and oligomerization of KCTD4 are essential for its role in cellular signaling pathways, impacting neurological and muscular functions by modulating potassium channel activity (Esposito2022Alphafold). Despite its well-characterized structure, the specific interaction partners and detailed functional roles of KCTD4 in cellular processes remain subjects for further research (Esposito2022Alphafold).
+
+## Structure
+The KCTD4 protein is characterized by a pentameric structure, forming a propeller-like fold with a central cavity surrounded by five β-strands (Esposito2022Alphafold). This structural motif is consistent across the KCTD family, despite a lack of sequence similarity in the C-terminal domains (CTDs) (Esposito2022Alphafold). The BTB (Broad-Complex, Tramtrack, and Bric-à-brac) domain is a key feature of KCTD4, facilitating protein oligomerization and interactions (Liu2013The). 
+
+The predicted structure of KCTD4 is reliable, with low errors in intra-BTB and CTD interactions, although inter-CTD interactions show larger expected errors (Esposito2022Alphafold). Molecular dynamics simulations support the stability of the pentameric state, indicating that the interdomain interactions are accurately predicted and the structure is rigid (Esposito2022Alphafold). 
+
+KCTD4 does not form stable complexes with Cullin 3 (Cul3), as its BTB domain does not interact meaningfully with Cul3, unlike other KCTD proteins (Balasco2024A). The protein's structure and oligomerization properties suggest potential functional roles, although further validation is required (Esposito2022Alphafold).
+
+## Function
+KCTD4, a member of the potassium channel tetramerization domain-containing family, is involved in various cellular processes, particularly in the regulation of potassium channels. These channels are crucial for maintaining the ion flow across cell membranes, which influences cellular excitability and signaling. KCTD4 is typically active in the cytoplasm, where it may impact neurological and muscular functions by modulating potassium channel activity (Liu2013The).
+
+Structurally, KCTD4 is characterized by the presence of a BTB/POZ domain, which is involved in protein oligomerization. This domain facilitates interactions with other proteins, such as cullin 3, AP-2α, and the GABA B2 receptor, although not all KCTD proteins bind to cullin 3 (Esposito2022Alphafold; Esposito2021AlphaFoldPredicted). KCTD4 forms pentameric structures with a propeller-like motif in the C-terminal domain, which is a common feature among KCTD proteins and is linked to their functional roles in cellular processes (Esposito2022Alphafold).
+
+The oligomerization of KCTD4 and its structural integrity are crucial for its function, as these properties are associated with extra-stabilization and allosteric regulation, which are important for its role in cellular signaling pathways (Esposito2022Alphafold).
+
+## Interactions
+KCTD4 is a pentameric protein characterized by a propeller-like fold with a central cavity surrounded by β-strands. Despite its structural features, KCTD4 does not form stable complexes with Cullin 3 (Cul3), a protein involved in ubiquitination pathways. This lack of interaction is supported by AlphaFold predictions, which indicate that any predicted complexes between KCTD4 and Cul3 are not structurally significant (Balasco2024A). KCTD4 is part of a group of KCTD proteins that do not interact with Cul3, unlike other members of the KCTD family that do form stable complexes with Cul3 (Balasco2024A).
+
+The structural predictions for KCTD4 suggest that its pentameric state is stable, with low RMSD values indicating that the interdomain interactions are correctly predicted and the protein's structure is relatively rigid (Esposito2022Alphafold). However, specific interactions of KCTD4 with other proteins or nucleic acids are not detailed in the available literature, and its role in forming multiprotein complexes or engaging in transient interactions remains unclear (Esposito2022Alphafold). Overall, while KCTD4's structural features are well-characterized, its specific interaction partners and functional roles in cellular processes require further investigation.
+
+
+## References
+
+
+[1. (Esposito2022Alphafold) Luciana Esposito, Nicole Balasco, and Luigi Vitagliano. Alphafold predictions provide insights into the structural features of the functional oligomers of all members of the kctd family. International Journal of Molecular Sciences, 23(21):13346, November 2022. URL: http://dx.doi.org/10.3390/ijms232113346, doi:10.3390/ijms232113346. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms232113346)
+
+[2. (Balasco2024A) Nicole Balasco, Luciana Esposito, Giovanni Smaldone, Marco Salvatore, and Luigi Vitagliano. A comprehensive analysis of the structural recognition between kctd proteins and cullin 3. International Journal of Molecular Sciences, 25(3):1881, February 2024. URL: http://dx.doi.org/10.3390/ijms25031881, doi:10.3390/ijms25031881. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25031881)
+
+[3. (Liu2013The) Zhepeng Liu, Yaqian Xiang, and Guihong Sun. The kctd family of proteins: structure, function, disease relevance. Cell &amp; Bioscience, November 2013. URL: http://dx.doi.org/10.1186/2045-3701-3-45, doi:10.1186/2045-3701-3-45. This article has 96 citations.](https://doi.org/10.1186/2045-3701-3-45)
+
+[4. (Esposito2021AlphaFoldPredicted) Luciana Esposito, Nicole Balasco, Giovanni Smaldone, Rita Berisio, Alessia Ruggiero, and Luigi Vitagliano. Alphafold-predicted structures of kctd proteins unravel previously undetected relationships among the members of the family. Biomolecules, 11(12):1862, December 2021. URL: http://dx.doi.org/10.3390/biom11121862, doi:10.3390/biom11121862. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom11121862)

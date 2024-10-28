@@ -1,0 +1,50 @@
+# DSN1
+
+## Overview
+The DSN1 gene encodes a protein that is a vital component of the MIS12 kinetochore complex, which is integral to the proper segregation of chromosomes during cell division. The DSN1 protein, categorized as a structural protein, plays a crucial role in the assembly and stability of kinetochore-microtubule attachments, ensuring accurate chromosome movement and alignment during mitosis (Cheeseman2006The). It is involved in various molecular interactions and undergoes post-translational modifications, such as phosphorylation, which regulate its function and contribute to genomic stability (Yatskevich2023Structure). The DSN1 protein's interactions within the KMN network, including its association with the NDC80 and KNL1 complexes, underscore its central role in kinetochore assembly and function (Petrovic2010The). Additionally, DSN1 has clinical significance, particularly in colorectal cancer, where its upregulation is linked to poor prognosis, highlighting its potential as a therapeutic target (Zhou2020Identification; Wang2022SRSF9).
+
+## Structure
+The DSN1 protein is a component of the MIS12 complex (Mis12C), which is part of the KMN network essential for kinetochore assembly. The Mis12C is described as having an elongated structure with a long axis of approximately 22 nm, featuring two globular heads, head1 and head2, each forming a four-helix bundle. DSN1, along with NSL1, contributes to these heads (Polley2023Insights). The DSN1 protein interacts with other subunits like PMF1 and NSL1 in a compact parallel helical bundle known as the stalk (Polley2023Insights).
+
+The N-terminal region of DSN1 is involved in auto-inhibitory interactions that stabilize the MIS12C complex in an inactive state. This auto-inhibition is mediated by phosphorylation of Ser100 and Ser109 by Aurora B kinase, which relieves the inhibition and enhances interactions with CENP-C (Yatskevich2023Structure). The DSN1 C-terminal region folds across the Spc25 RWD domain, forming multiple contact points crucial for interaction with the NDC80 complex (NDC80C) (Yatskevich2023Structure).
+
+Phosphorylation of DSN1 at Ser100 and Ser109 is a key post-translational modification that facilitates binding of CENP-C and CENP-T to Mis12C, modifying the charge balance and allowing for an open conformation of the complex (Polley2023Insights). The DSN1 protein's interaction with other components of the KMN network involves hydrophobic, hydrophilic, and charge-charge interactions, contributing to the stability and function of the kinetochore assembly (Polley2023Insights).
+
+## Function
+The DSN1 gene encodes a protein that is a critical component of the MIS12 kinetochore complex, which plays a vital role in chromosome segregation during cell division. In healthy human cells, DSN1 is involved in the assembly and stability of kinetochore-microtubule attachments, ensuring accurate chromosome movement and alignment during mitosis (Cheeseman2006The). The protein is active at the centromere, contributing to genomic stability and proper cell cycle progression (Akiyoshi2013The).
+
+DSN1's function is regulated by various molecular interactions and modifications. For instance, the Mub1/Ubr2 ubiquitin ligase complex regulates DSN1 levels through ubiquitin-mediated proteolysis, acting as a quality control system to maintain kinetochore integrity (Akiyoshi2013The). This regulation is crucial for preventing the assembly of defective kinetochores, which could lead to genomic instability (Akiyoshi2013The).
+
+The protein's microtubule-binding activity is also modulated by phosphorylation, which affects chromosome biorientation and kinetochore dynamics (Cheeseman2006The). These processes are essential for maintaining the dynamic properties of the kinetochore-spindle interface, allowing for the precise segregation of chromosomes during cell division.
+
+## Clinical Significance
+DSN1 has been implicated in the progression of colorectal cancer (CRC) due to its upregulation in cancerous tissues compared to normal tissues. This upregulation is associated with poor prognosis and lower overall survival in CRC patients (Zhou2020Identification; Wang2022SRSF9). Functional studies have shown that silencing DSN1 in CRC cells reduces cell proliferation and migration, indicating its role in cancer progression (Zhou2020Identification). DSN1 interacts with BUB1B, a protein crucial for spindle assembly checkpoint signal transmission and chromosome alignment, which may influence the migration and proliferation of CRC cells (Zhou2020Identification).
+
+The gene is also stabilized by SRSF9, an m6A-binding protein, which enhances DSN1 mRNA stability through m6A modifications. This stabilization is crucial for CRC cell proliferation, migration, and invasion (Wang2022SRSF9). The interaction between SRSF9 and DSN1 suggests that DSN1 is a downstream target of SRSF9, and alterations in DSN1 expression mediated by SRSF9 are significant in CRC progression (Wang2022SRSF9). These findings highlight DSN1 as a potential therapeutic target in CRC management (Wang2022SRSF9).
+
+## Interactions
+The DSN1 protein is a component of the MIS12 kinetochore complex and plays a crucial role in kinetochore assembly and function. DSN1 interacts with several proteins within the kinetochore complex, including MIS12, NNF1, and NSL1, forming a rod-like structure essential for kinetochore recruitment and stability (Petrovic2010The). DSN1 is in close proximity to MIS12, with specific cross-links identified between K129 of MIS12 and K167 or K248 of DSN1, indicating direct contact (Petrovic2010The).
+
+DSN1 also interacts with the Csm1 protein through its Box 1-2-3 regions. Box 2 forms an α-helix that interacts with the side of the Csm1 dimer, while Box 3 binds to the hydrophobic cavity of Csm1. This interaction is crucial for successful meiosis, as mutations in these regions can lead to defects in chromosome segregation (Plowman2019The).
+
+Additionally, DSN1 is involved in the KMN network, interacting with the NDC80 and KNL1 complexes. The DSN1-NSL1 dimer is a critical binding site for NDC80C and KNL1C, facilitating proper kinetochore-microtubule attachments (Petrovic2010The). These interactions highlight DSN1's role as a central hub in kinetochore assembly and function.
+
+
+## References
+
+
+[1. (Wang2022SRSF9) Xiaoyu Wang, Xiansheng Lu, Ping Wang, Qiaoyu Chen, Le Xiong, Minshan Tang, Chang Hong, Xiaowen Lin, Kaixi Shi, Li Liang, and Jie Lin. Srsf9 promotes colorectal cancer progression via stabilizing dsn1 mrna in an m6a-related manner. Journal of Translational Medicine, May 2022. URL: http://dx.doi.org/10.1186/s12967-022-03399-3, doi:10.1186/s12967-022-03399-3. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-022-03399-3)
+
+[2. (Petrovic2010The) Arsen Petrovic, Sebastiano Pasqualato, Prakash Dube, Veronica Krenn, Stefano Santaguida, Davide Cittaro, Silvia Monzani, Lucia Massimiliano, Jenny Keller, Aldo Tarricone, Alessio Maiolica, Holger Stark, and Andrea Musacchio. The mis12 complex is a protein interaction hub for outer kinetochore assembly. Journal of Cell Biology, 190(5):835–852, September 2010. URL: http://dx.doi.org/10.1083/jcb.201002070, doi:10.1083/jcb.201002070. This article has 193 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201002070)
+
+[3. (Plowman2019The) Rebecca Plowman, Namit Singh, Eelco C. Tromer, Angel Payan, Eris Duro, Christos Spanos, Juri Rappsilber, Berend Snel, Geert J. P.L. Kops, Kevin D. Corbett, and Adele L. Marston. The molecular basis of monopolin recruitment to the kinetochore. Chromosoma, 128(3):331–354, April 2019. URL: http://dx.doi.org/10.1007/s00412-019-00700-0, doi:10.1007/s00412-019-00700-0. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00412-019-00700-0)
+
+[4. (Cheeseman2006The) Iain M. Cheeseman, Joshua S. Chappie, Elizabeth M. Wilson-Kubalek, and Arshad Desai. The conserved kmn network constitutes the core microtubule-binding site of the kinetochore. Cell, 127(5):983–997, December 2006. URL: http://dx.doi.org/10.1016/j.cell.2006.09.039, doi:10.1016/j.cell.2006.09.039. This article has 863 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2006.09.039)
+
+[5. (Akiyoshi2013The) Bungo Akiyoshi, Christian R. Nelson, Nicole Duggan, Steven Ceto, Jeffrey A. Ranish, and Sue Biggins. The mub1/ubr2 ubiquitin ligase complex regulates the conserved dsn1 kinetochore protein. PLoS Genetics, 9(2):e1003216, February 2013. URL: http://dx.doi.org/10.1371/journal.pgen.1003216, doi:10.1371/journal.pgen.1003216. This article has 27 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1003216)
+
+[6. (Zhou2020Identification) Hongrui Zhou, Zhe Yang, Jiaxin Yue, Yang Chen, Tianqiao Chen, Teng Mu, Hongsheng Liu, and Xiuli Bi. Identification of potential hub genes via bioinformatics analysis combined with experimental verification in colorectal cancer. Molecular Carcinogenesis, 59(4):425–438, February 2020. URL: http://dx.doi.org/10.1002/mc.23165, doi:10.1002/mc.23165. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/mc.23165)
+
+7. (Yatskevich2023Structure) Structure of the human outer kinetochore KMN network complex. This article has 3 citations.
+
+8. (Polley2023Insights) Insights into human outer kinetochore assembly and force transmission from a structure-function analysis of the KMN network. This article has 3 citations.

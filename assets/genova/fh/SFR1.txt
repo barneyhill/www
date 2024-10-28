@@ -1,0 +1,31 @@
+# SFR1
+
+## Overview
+The SFR1 gene encodes the SWI5 dependent homologous recombination repair protein 1, which is integral to the DNA repair process through homologous recombination. This protein is a component of the Swi5-Sfr1 complex, which plays a pivotal role in stabilizing Rad51 recombinase filaments, thereby facilitating DNA strand exchange and repair of double-strand breaks. The SFR1 protein is characterized by its two-domain structure, with a coiled-coil C-terminal domain and an intrinsically disordered N-terminal domain, the latter being crucial for its interaction with Rad51 (Liang2023Phosphoregulation; Argunhan2020Cooperative). The protein's function is modulated by post-translational modifications, such as phosphorylation, which influence its interaction with Rad51 and its efficacy in DNA repair (Liang2023Phosphoregulation). Through its interactions and regulatory mechanisms, SFR1 is essential for maintaining genomic stability and preventing genomic instability-related diseases.
+
+## Structure
+The SFR1 protein, part of the Swi5-Sfr1 complex, plays a crucial role in homologous recombination for DNA repair. It consists of two structurally distinct domains: the C-terminal half forms a coiled-coil structure with Swi5, while the N-terminal half is intrinsically disordered (Liang2023Phosphoregulation). The N-terminal domain, known as Sfr1N, is characterized by its flexibility and lack of stable secondary structures, as indicated by circular dichroism and NMR spectroscopy (Argunhan2020Cooperative). This domain contains two critical sites for interaction with Rad51, located between Ser84-Thr114 and Thr152-Ser168, which are essential for its function in DNA repair (Liang2023Phosphoregulation; Argunhan2020Cooperative).
+
+The Sfr1 protein undergoes post-translational modifications, including phosphorylation at several residues within its intrinsically disordered domain. These modifications regulate its interaction with Rad51, affecting the stabilization of Rad51 nucleoprotein filaments and the stimulation of Rad51-driven strand exchange (Liang2023Phosphoregulation). Phosphomimetic mutations at these sites impair the complex's ability to function effectively in DNA repair, highlighting the importance of controlled phosphorylation for Sfr1's role in homologous recombination (Liang2023Phosphoregulation).
+
+## Function
+The SFR1 gene encodes a protein that plays a crucial role in the homologous recombination repair of DNA double-strand breaks, a vital process for maintaining genomic stability. In healthy human cells, the SFR1 protein functions as part of the Swi5-Sfr1 complex, which interacts with Rad51, a key protein in homologous recombination. This complex stabilizes Rad51 recombinase filaments, essential for DNA strand exchange during repair processes (Lu2018Swi5–Sfr1). The Swi5-Sfr1 complex modulates Rad51 dissociation, thereby stabilizing nucleoprotein filaments and enhancing Rad51's ATPase activity, which is crucial for maintaining the filament in an active form (Lu2018Swi5–Sfr1).
+
+SFR1 is active in the nucleus, where it facilitates the formation of Rad51 nucleoprotein filaments on single-stranded DNA, reducing the number of Rad51 molecules required for stable nucleation and increasing the rate of nucleoprotein assembly (Lu2018Swi5–Sfr1). This activity is essential for efficient DNA repair and genomic maintenance. The Swi5-Sfr1 complex also works synergistically with other proteins, such as Rad52, to stimulate Rad51 assembly on single-stranded DNA, even in the presence of replication protein A, which can act as a barrier (Lu2018Swi5–Sfr1).
+
+## Interactions
+The SFR1 protein, as part of the Swi5-Sfr1 complex, plays a crucial role in homologous recombination by interacting with Rad51, a key protein in DNA repair. This interaction is facilitated by two distinct sites within the intrinsically disordered N-terminus of SFR1, which cooperatively bind Rad51 (Argunhan2020Cooperative). The Swi5-Sfr1 complex stabilizes Rad51 nucleoprotein filaments and stimulates its strand exchange activity, which is essential for DNA repair processes (Liang2023Phosphoregulation). 
+
+SFR1 interacts with Rad51 through its N-terminal domain, which contains two sites identified via NMR interaction analysis. These sites are critical for the physical interaction with Rad51, and phosphorylation of residues within this domain regulates the interaction (Liang2023Phosphoregulation). Mutations in these sites, such as the 7A mutant, impair the ability of Swi5-Sfr1 to stimulate Rad51-driven strand exchange, indicating their importance for Rad51 filament stabilization (Argunhan2020Cooperative).
+
+SFR1 also collaborates with the Rad55-Rad57 complex, which acts as a molecular bridge, facilitating Rad51-dependent DNA repair. This interaction suggests a direct relationship between Swi5-Sfr1 and Rad55-Rad57, independent of Rad51 (Argunhan2020Cooperative).
+
+
+## References
+
+
+1. (Liang2023Phosphoregulation) Phosphoregulation of the Rad51 auxiliary factor Swi5-Sfr1. This article has 0 citations.
+
+[2. (Lu2018Swi5–Sfr1) Chih-Hao Lu, Hsin-Yi Yeh, Guan-Chin Su, Kentaro Ito, Yumiko Kurokawa, Hiroshi Iwasaki, Peter Chi, and Hung-Wen Li. Swi5–sfr1 stimulates rad51 recombinase filament assembly by modulating rad51 dissociation. Proceedings of the National Academy of Sciences, October 2018. URL: http://dx.doi.org/10.1073/pnas.1812753115, doi:10.1073/pnas.1812753115. This article has 29 citations.](https://doi.org/10.1073/pnas.1812753115)
+
+[3. (Argunhan2020Cooperative) Bilge Argunhan, Masayoshi Sakakura, Negar Afshar, Misato Kurihara, Kentaro Ito, Takahisa Maki, Shuji Kanamaru, Yasuto Murayama, Hideo Tsubouchi, Masayuki Takahashi, Hideo Takahashi, and Hiroshi Iwasaki. Cooperative interactions facilitate stimulation of rad51 by the swi5-sfr1 auxiliary factor complex. eLife, March 2020. URL: http://dx.doi.org/10.7554/elife.52566, doi:10.7554/elife.52566. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.52566)

@@ -1,0 +1,39 @@
+# MON2
+
+## Overview
+The MON2 gene encodes the MON2 homolog, a protein that plays a pivotal role in endosome-to-Golgi trafficking, a critical process in intracellular transport. This protein is highly conserved across species and is characterized by several distinct domains that facilitate its function in membrane interactions and trafficking. In yeast, the Mon2p protein contains domains that suggest structural similarities to guanine nucleotide exchange factors (GEFs), although MON2 itself does not function as a GEF for Arl1 in mammals (Efe2005Yeast; Mahajan2013Mammalian). Instead, MON2 is involved in the localization and maintenance of recycling endosomes near the Golgi apparatus, and it forms a complex with the Dopey1 protein, which is essential for membrane trafficking and organelle positioning (Zhao2020MON2; Mahajan2019Dopey1Mon2). The MON2-Dopey1 complex is particularly important for Golgi-to-plasma membrane trafficking, highlighting its role in cellular transport mechanisms (Mahajan2019Dopey1Mon2).
+
+## Structure
+The MON2 protein is a highly conserved protein involved in endosome-to-Golgi trafficking. It contains several distinct domains that contribute to its function. In yeast, Mon2p, the homolog of human MON2, has six conserved domains labeled A to F. The B and C domains are particularly significant, showing 41% and 40% sequence similarity, respectively, and are involved in membrane interactions (Efe2005Yeast). The C domain contains ten predicted α-helices and a conserved Y-D motif, suggesting structural similarity to the Sec7 domains of guanine nucleotide exchange factors (GEFs) (Efe2005Yeast).
+
+In mammals, Mon2 localizes to the trans-Golgi network and requires both its N and C termini for this localization. The protein includes domains such as DCB, HUS, and HDS1-3, which are conserved among Arf GEFs, although Mon2 does not function as a GEF for Arl1 (Mahajan2013Mammalian). Mon2 forms a complex with Dopey1, where it acts as a homodimer, and this complex is involved in membrane trafficking (Mahajan2019Dopey1Mon2). The interaction with phosphatidic acid is crucial for its Golgi localization, indicating a specific lipid-binding capability (Mahajan2019Dopey1Mon2).
+
+## Function
+The MON2 protein in humans is involved in endosome-to-Golgi trafficking, playing a crucial role in intracellular transport processes. It localizes to the trans-Golgi network (TGN) and is implicated in retrograde trafficking from endosomes to the Golgi. Although initially hypothesized to function as a guanine nucleotide exchange factor (GEF) for the Arl1 GTPase, studies have shown that MON2 does not possess GEF activity for Arl1, nor does it affect the localization or activation of Arl1 and its effectors (Mahajan2013Mammalian). 
+
+MON2 is essential for the proper localization of recycling endosomes (RE) near the Golgi apparatus and is involved in the segregation of RE from early endosomes (EE). In MON2 knockout cells, the mislocalization of RAB4B-positive RE indicates a disruption in RE localization, which can be rescued by reintroducing MON2, confirming its role in maintaining RE structures and facilitating endocytic recycling (Zhao2020MON2). 
+
+The MON2 protein also interacts with the Dopey1 protein, forming a complex that is crucial for membrane trafficking and organelle positioning. This complex is involved in the Golgi-to-plasma membrane trafficking and recruits kinesin-1 to promote the biogenesis and peripheral trafficking of carriers (Mahajan2019Dopey1Mon2).
+
+## Interactions
+The MON2 protein is involved in several key interactions with other proteins, playing a significant role in membrane trafficking and organelle positioning. MON2 forms a complex with Dop1, an uncharacterized protein encoded by the gene YDR141c, recently named DOP1. This interaction is crucial for recruiting Dop1 to the Golgi apparatus, as the deletion of MON2 results in the delocalization of Dop1 from the Golgi to the cytoplasm (Gillingham2006Mon2).
+
+MON2 also interacts with Dopey1, forming a heterotetrameric complex that is essential for Golgi localization. This interaction is mediated by the C-terminal region of MON2 and the central region of Dopey1. The complex recruits kinesin-1, a motor protein involved in intracellular transport, through Dopey1's interaction with the kinesin light chain 2 (KLC2) (Mahajan2019Dopey1Mon2).
+
+In human cells, MON2 interacts with Gga proteins, which are involved in sorting cargo from the trans-Golgi network and endosomes. This interaction is mediated by the VHS domain of Gga proteins and is crucial for their proper localization (SingerKrüger2008Yeast).
+
+
+## References
+
+
+[1. (Gillingham2006Mon2) Alison K. Gillingham, James R.C. Whyte, Bojana Panic, and Sean Munro. Mon2, a relative of large arf exchange factors, recruits dop1 to the golgi apparatus. Journal of Biological Chemistry, 281(4):2273–2280, January 2006. URL: http://dx.doi.org/10.1074/jbc.m510176200, doi:10.1074/jbc.m510176200. This article has 36 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m510176200)
+
+[2. (SingerKrüger2008Yeast) Birgit Singer-Krüger, Maja Lasić, Anna-Maria Bürger, Angelika Haußer, Rüdiger Pipkorn, and Yi Wang. Yeast and human ysl2p/hmon2 interact with gga adaptors and mediate their subcellular distribution. The EMBO Journal, April 2008. URL: http://dx.doi.org/10.1038/emboj.2008.75, doi:10.1038/emboj.2008.75. This article has 9 citations.](https://doi.org/10.1038/emboj.2008.75)
+
+[3. (Mahajan2013Mammalian) Divyanshu Mahajan, Boon Kim Boh, Yan Zhou, Li Chen, Tobias Carl Cornvik, Wanjin Hong, and Lei Lu. Mammalian mon2/ysl2 regulates endosome-to-golgi trafficking but possesses no guanine nucleotide exchange activity toward arl1 gtpase. Scientific Reports, November 2013. URL: http://dx.doi.org/10.1038/srep03362, doi:10.1038/srep03362. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep03362)
+
+[4. (Zhao2020MON2) Shen-Bao Zhao, Neta Dean, Xiao-Dong Gao, and Morihisa Fujita. Mon2 guides wntless transport to the golgi through recycling endosomes. Cell Structure and Function, 45(1):77–92, 2020. URL: http://dx.doi.org/10.1247/csf.20012, doi:10.1247/csf.20012. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1247/csf.20012)
+
+[5. (Mahajan2019Dopey1Mon2) Divyanshu Mahajan, Hieng Chiong Tie, Bing Chen, and Lei Lu. Dopey1-mon2 complex binds to dual-lipids and recruits kinesin-1 for membrane trafficking. Nature Communications, July 2019. URL: http://dx.doi.org/10.1038/s41467-019-11056-5, doi:10.1038/s41467-019-11056-5. This article has 24 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-11056-5)
+
+[6. (Efe2005Yeast) Jem A. Efe, Fabienne Plattner, Nicolas Hulo, Dieter Kressler, Scott D. Emr, and Olivier Deloche. Yeast mon2p is a highly conserved protein that functions in the cytoplasm-to-vacuole transport pathway and is required for golgi homeostasis. Journal of Cell Science, 118(20):4751–4764, October 2005. URL: http://dx.doi.org/10.1242/jcs.02599, doi:10.1242/jcs.02599. This article has 33 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.02599)

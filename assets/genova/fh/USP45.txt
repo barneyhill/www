@@ -1,0 +1,44 @@
+# USP45
+
+## Overview
+USP45 is a gene that encodes the protein ubiquitin specific peptidase 45, which is a member of the ubiquitin-specific protease (USP) family. This protein functions as a deubiquitylating enzyme, playing a critical role in the regulation of protein ubiquitination, a post-translational modification that controls protein stability, localization, and activity. USP45 is particularly involved in DNA repair processes, where it interacts with the ERCC1-XPF endonuclease complex to facilitate the repair of DNA damage. Additionally, USP45 is implicated in cell migration through its interaction with the protein Spindly, highlighting its importance in cellular dynamics and potentially in processes such as wound healing. The gene's mutations have been associated with diseases like Leber congenital amaurosis and various cancers, where it may act as an oncogene, influencing tumor progression and response to therapy (Conte2018USP45; Perez‐Oliva2014USP; Li2022Comprehensive).
+
+## Structure
+The USP45 protein is composed of 814 amino acids and features several distinct domains. It includes an N-terminal motif specific to ubiquitin-specific proteases (USPs), a zinc finger-ubiquitin-binding protein (Znf-UBP) domain, and a catalytic USP peptidase domain, which is essential for its deubiquitination activity (Yi2018Biallelic; Perez‐Oliva2014USP). The catalytic domain of USP45 is unique in that it contains a serine residue instead of the conserved Asp/Asn typically found in the catalytic triad of other USPs, yet it remains active as a deubiquitylating enzyme (Quesada2004Cloning).
+
+USP45 interacts with other proteins, such as Spindly, forming complexes that are crucial for its function in cell migration and division. This interaction is dependent on the catalytic activity of USP45, as demonstrated by the inability of catalytically inactive mutants to bind Spindly (Conte2018USP45). The protein also plays a role in DNA repair processes, interacting with the ERCC1-XPF endonuclease complex, where it regulates the ubiquitylation status of ERCC1 (Perez‐Oliva2014USP).
+
+## Function
+USP45, a ubiquitin-specific peptidase, plays a crucial role in DNA repair processes by interacting with the ERCC1-XPF endonuclease complex. It deubiquitylates ERCC1, a key component in DNA repair pathways such as nucleotide excision repair (NER) and interstrand cross-link (ICL) repair. This deubiquitylation is essential for the proper function of ERCC1, as it facilitates the recruitment of ERCC1 to sites of DNA damage and the formation of ERCC1 foci, which are critical for efficient DNA repair (Perez‐Oliva2014USP). USP45's enzymatic activity is necessary for maintaining genomic stability, as its absence leads to increased levels of ubiquitylated ERCC1, resulting in hypersensitivity to DNA-damaging agents like UV light and mitomycin C (Perez‐Oliva2014USP).
+
+In addition to its role in DNA repair, USP45 is involved in cell migration through its interaction with Spindly, a protein associated with cell division and migration. USP45 catalyzes the removal of monoubiquitylation from Spindly, which is crucial for proper cell migration. The loss of USP45 results in defects in cell migration, indicating its importance in cellular movement and potentially in processes like wound healing (Conte2018USP45).
+
+## Clinical Significance
+Mutations and alterations in the USP45 gene have been linked to several diseases and conditions. Biallelic mutations in USP45 are associated with Leber congenital amaurosis (LCA), a severe retinal dystrophy leading to early-onset blindness. These mutations result in significant visual impairment due to disrupted retinal development and function, as demonstrated in experimental models like zebrafish and mice (Yi2018Biallelic).
+
+In the context of cancer, USP45 is identified as a putative oncogene. It is upregulated in various tumor types and negatively correlated with patient survival outcomes. Its expression is linked to tumor heterogeneity, stemness, and immune cell infiltration, suggesting a role in tumor progression and immune evasion (Li2022Comprehensive). USP45 also interacts with the MYC signaling pathway, stabilizing MYC protein levels and promoting cancer cell stemness and drug resistance, particularly in cervical cancer (Tu2023Suppression).
+
+USP45's involvement in DNA damage repair processes, particularly through its interaction with the ERCC1-XPF endonuclease complex, further underscores its clinical significance. Mutations in USP45 can impair DNA repair, potentially sensitizing tumors to certain therapies (Perez‐Oliva2014USP).
+
+## Interactions
+USP45, a deubiquitylating enzyme, interacts with several proteins, playing a significant role in DNA damage response and cell migration. It is known to associate with the ERCC1-XPF endonuclease complex, where it specifically binds to the ERCC1 subunit. This interaction is crucial for the deubiquitylation of ERCC1, which is essential for DNA repair processes such as nucleotide excision repair and the repair of DNA interstrand cross-links (Perez‐Oliva2014USP). USP45's interaction with ERCC1 is mediated by its N-terminal 62 amino acids, which contain a cluster of acidic residues necessary for binding (Perez‐Oliva2014USP).
+
+USP45 also interacts with Spindly, a protein encoded by the SPDL1 gene, forming part of a complex implicated in cell migration. This interaction is dependent on the catalytic activity of USP45, as demonstrated by the inability of catalytically inactive or truncated versions of USP45 to bind Spindly (Conte2018USP45). The USP45-Spindly complex is involved in modulating cell migration, with USP45's enzymatic activity being crucial for this function (Conte2018USP45).
+
+Additionally, USP45 interacts with other proteins such as MYH9, MYH10, MYL12B, ZFR, and RBMX, which co-precipitate with USP45, indicating its involvement in various cellular processes (Perez‐Oliva2014USP).
+
+
+## References
+
+
+[1. (Conte2018USP45) Claudia Conte, Eric R. Griffis, Ian Hickson, and Ana B. Perez-Oliva. Usp45 and spindly are part of the same complex implicated in cell migration. Scientific Reports, September 2018. URL: http://dx.doi.org/10.1038/s41598-018-32685-8, doi:10.1038/s41598-018-32685-8. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-018-32685-8)
+
+[2. (Li2022Comprehensive) Kai Li, Qian Wang, Hua Bian, Zhiguo Chen, Haifa He, Xulin Zhao, and Pengju Gong. Comprehensive analysis reveals usp45 as a novel putative oncogene in pan-cancer. Frontiers in Molecular Biosciences, June 2022. URL: http://dx.doi.org/10.3389/fmolb.2022.886904, doi:10.3389/fmolb.2022.886904. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmolb.2022.886904)
+
+[3. (Quesada2004Cloning) Vı́ctor Quesada, Araceli Dı́az-Perales, Ana Gutiérrez-Fernández, Cecilia Garabaya, Santiago Cal, and Carlos López-Otı́n. Cloning and enzymatic analysis of 22 novel human ubiquitin-specific proteases. Biochemical and Biophysical Research Communications, 314(1):54–62, January 2004. URL: http://dx.doi.org/10.1016/j.bbrc.2003.12.050, doi:10.1016/j.bbrc.2003.12.050. This article has 186 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2003.12.050)
+
+[4. (Perez‐Oliva2014USP) Ana B Perez‐Oliva, Christophe Lachaud, Piotr Szyniarowski, Ivan Muñoz, Thomas Macartney, Ian Hickson, John Rouse, and Dario R Alessi. <scp>usp</scp> 45 deubiquitylase controls <scp>ercc</scp> 1– <scp>xpf</scp> endonuclease‐mediated <scp>dna</scp> damage responses. The EMBO Journal, 34(3):326–343, December 2014. URL: http://dx.doi.org/10.15252/embj.201489184, doi:10.15252/embj.201489184. This article has 47 citations.](https://doi.org/10.15252/embj.201489184)
+
+[5. (Tu2023Suppression) Xiao Tu, Chuncheng Li, Wen Sun, Xi Tian, Qiufu Li, Shaoxin Wang, Xiaoling Ding, and Zhen Huang. Suppression of cancer cell stemness and drug resistance via myc destabilization by deubiquitinase usp45 inhibition with a natural small molecule. Cancers, 15(3):930, February 2023. URL: http://dx.doi.org/10.3390/cancers15030930, doi:10.3390/cancers15030930. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers15030930)
+
+[6. (Yi2018Biallelic) Zhen Yi, Jiamin Ouyang, Wenmin Sun, Xueshan Xiao, Shiqiang Li, Xiaoyun Jia, Panfeng Wang, and Qingjiong Zhang. Biallelic mutations in usp45, encoding a deubiquitinating enzyme, are associated with leber congenital amaurosis. Journal of Medical Genetics, 56(5):325–331, December 2018. URL: http://dx.doi.org/10.1136/jmedgenet-2018-105709, doi:10.1136/jmedgenet-2018-105709. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1136/jmedgenet-2018-105709)

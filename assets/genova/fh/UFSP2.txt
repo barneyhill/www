@@ -1,0 +1,52 @@
+# UFSP2
+
+## Overview
+UFM1 specific peptidase 2 (UFSP2) is a gene that encodes a cysteine protease involved in the UFMylation pathway, a post-translational modification process analogous to ubiquitination. The UFSP2 protein plays a critical role in processing UFM1, a ubiquitin-like protein, by cleaving it from UFM1-conjugated cellular proteins and generating mature UFM1 from its precursor. This protease is active in both the cytoplasm and the endoplasmic reticulum (ER), where it interacts with various substrates to facilitate its localization and function. Structurally, UFSP2 contains a catalytic domain with a papain-like structure and a unique N-terminal domain essential for substrate recognition and ER recruitment. Mutations in the UFSP2 gene have been linked to several disorders, including Beukes familial hip dysplasia and spondyloepimetaphyseal dysplasia, underscoring its importance in maintaining cellular and organismal homeostasis (Watson2015Identification; Ni2021A; Ha2011Structure).
+
+## Structure
+The UFSP2 protein, encoded by the UFSP2 gene, is a cysteine protease involved in the UFMylation pathway. Its molecular structure includes a catalytic domain and a unique N-terminal domain. The catalytic domain, which resembles a papain-like structure, is responsible for the cleavage of UFM1 from target proteins and contains key catalytic residues: Cys 294, Asp 418, and His 420. This domain is structurally similar to UfSP1, with a sequence identity of 36%, but features differences such as a longer helix α7 (Ha2011Structure).
+
+The N-terminal domain of UFSP2 is distinct and plays a crucial role in substrate recognition, particularly interacting with the cellular substrate C20orf116. This domain is characterized by a six-stranded β-sheet and five helices, with a hydrophobic inner surface and a polar opposite side. It is essential for the recruitment of UFSP2 to the endoplasmic reticulum (Ha2011Structure).
+
+Mutations in UFSP2, such as the Y290H mutation, affect its catalytic activity and are associated with disorders like Beukes familial hip dysplasia. This mutation corresponds to Tyr 282 in mouse UfSP2, which is important for oxyanion hole formation (Watson2015Identification; Ha2011Structure).
+
+## Function
+UFSP2 (UFM1 specific peptidase 2) is a cysteine protease involved in the UFMylation pathway, a post-translational modification process similar to ubiquitination. It plays a crucial role in processing UFM1, a ubiquitin-like protein, by cleaving it from UFM1-conjugated cellular proteins and generating mature UFM1 from its precursor (Ni2021A; Ha2011Structure). UFSP2 is active in both the cytoplasm and the endoplasmic reticulum (ER), where it interacts with substrates such as C20orf116, facilitating its localization to the ER (Ha2011Structure).
+
+In the context of DNA damage response, UFSP2 is involved in regulating ATM activation by removing UFM1 from histone H4 at lysine 31 (H4K31). This deufmylation process is essential for fine-tuning the DNA damage response and preventing excessive ATM activation, which could lead to cell apoptosis (Qin2022Dynamic). UFSP2 interacts with the MRN complex and is regulated by phosphorylation and dephosphorylation events mediated by ATM and WIP1, respectively, to modulate its activity during DNA repair (Qin2022Dynamic).
+
+Mutations in UFSP2 can lead to various disorders, such as Beukes familial hip dysplasia, highlighting its importance in maintaining cellular and organismal homeostasis (Watson2015Identification).
+
+## Clinical Significance
+Mutations in the UFSP2 gene are associated with several distinct disorders, primarily affecting skeletal and neurological systems. Beukes hip dysplasia (BHD) is an autosomal dominant disorder linked to a c.868T>C mutation in UFSP2, resulting in a p.Tyr290His substitution. This mutation leads to bilateral dysmorphism of the proximal femur and severe degenerative osteoarthropathy, as it abolishes the proteolytic function of UFSP2, implicating the ubiquitin-fold modifier 1 cascade in the pathology of BHD (Watson2015Identification; Ha2011Structure).
+
+Another condition associated with UFSP2 mutations is spondyloepimetaphyseal dysplasia (SEMD), specifically the Di Rocco type (SEMDDR). This disorder is linked to heterozygous mutations such as c.1283A>G, which affect the active enzymatic site of UFSP2, leading to skeletal anomalies, including short stature and joint deformities (Zhang2020UFSP2related; Di2018Novel).
+
+UFSP2 mutations also contribute to an autosomal recessive form of pediatric neurodevelopmental anomalies and epilepsy. The p.V115E variant affects protein stability and disrupts the UFMylation pathway, which is crucial for vesicular trafficking and ER homeostasis, leading to severe neurodevelopmental disabilities (Ni2021A).
+
+## Interactions
+UFSP2 interacts with several proteins, playing a crucial role in the UFMylation pathway. It physically interacts with DDRGK1, a target of UFMylation, through its N-terminal domain. This interaction is significant for the regulation of the UFMylation process, which is essential for maintaining vesicular trafficking and endoplasmic reticulum (ER) homeostasis (Ni2021A).
+
+UFSP2 also forms a complex with ODR4, a transmembrane protein localized to the ER membrane. This interaction is important for anchoring UFSP2 near the ER-ribosome interface, which is crucial for its function in regulating RPL26 UFMylation. The absence of ODR4 leads to reduced UFSP2 protein levels, indicating a mutually stabilizing relationship between these proteins (Millrine2022Human).
+
+In C. elegans, the ortholog of UFSP2, known as ODR-8, interacts with ODR-4 to promote the maturation of G-protein coupled receptors (GPCRs) through a UFM1-independent mechanism. This interaction is essential for the proper localization of olfactory receptors to sensory cilia, highlighting a conserved function across species (Chen2014An). These interactions underscore UFSP2's role in protein modification and cellular homeostasis.
+
+
+## References
+
+
+[1. (Chen2014An) Changchun Chen, Eisuke Itakura, Katherine P. Weber, Ramanujan S. Hegde, and Mario de Bono. An er complex of odr-4 and odr-8/ufm1 specific protease 2 promotes gpcr maturation by a ufm1-independent mechanism. PLoS Genetics, 10(3):e1004082, March 2014. URL: http://dx.doi.org/10.1371/journal.pgen.1004082, doi:10.1371/journal.pgen.1004082. This article has 45 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1004082)
+
+[2. (Di2018Novel) M. Di Rocco, M. Rusmini, F. Caroli, A. Madeo, M. Bertamino, G. Marre‐Brunenghi, and I. Ceccherini. Novel spondyloepimetaphyseal dysplasia due to ufsp2 gene mutation. Clinical Genetics, 93(3):671–674, January 2018. URL: http://dx.doi.org/10.1111/cge.13134, doi:10.1111/cge.13134. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/cge.13134)
+
+[3. (Zhang2020UFSP2related) Guiping Zhang, Shiwei Tang, Hongli Wang, Huan Pan, Wei Zhang, Yi Huang, Jing Kong, Yongtao Wang, Juan Gu, and Yuhe Wang. Ufsp2-related spondyloepimetaphyseal dysplasia: a confirmatory report. European Journal of Medical Genetics, 63(11):104021, November 2020. URL: http://dx.doi.org/10.1016/j.ejmg.2020.104021, doi:10.1016/j.ejmg.2020.104021. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ejmg.2020.104021)
+
+[4. (Qin2022Dynamic) Bo Qin, Jia Yu, Fei Zhao, Jinzhou Huang, Qin Zhou, and Zhenkun Lou. Dynamic recruitment of ufm1-specific peptidase 2 to the dna double-strand breaks regulated by wip1. Genome Instability &amp; Disease, 3(4):217–226, August 2022. URL: http://dx.doi.org/10.1007/s42764-022-00076-z, doi:10.1007/s42764-022-00076-z. This article has 4 citations.](https://doi.org/10.1007/s42764-022-00076-z)
+
+[5. (Ni2021A) Min Ni, Bushra Afroze, Chao Xing, Chunxiao Pan, Yanqiu Shao, Ling Cai, Brandi L. Cantarel, Jimin Pei, Nick V. Grishin, Stacy Hewson, Devon Knight, Sonal Mahida, Donnice Michel, Mark Tarnopolsky, Annapurna Poduri, Alexander Rotenberg, Neal Sondheimer, and Ralph J. DeBerardinis. A pathogenic ufsp2 variant in an autosomal recessive form of pediatric neurodevelopmental anomalies and epilepsy. Genetics in Medicine, 23(5):900–908, May 2021. URL: http://dx.doi.org/10.1038/s41436-020-01071-z, doi:10.1038/s41436-020-01071-z. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41436-020-01071-z)
+
+[6. (Ha2011Structure) Byung Hak Ha, Young Joo Jeon, Sang Chul Shin, Kanako Tatsumi, Masaaki Komatsu, Keiji Tanaka, Christopher M. Watson, Gillian Wallis, Chin Ha Chung, and Eunice EunKyeong Kim. Structure of ubiquitin-fold modifier 1-specific protease ufsp2. Journal of Biological Chemistry, 286(12):10248–10257, March 2011. URL: http://dx.doi.org/10.1074/jbc.M110.172171, doi:10.1074/jbc.m110.172171. This article has 61 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M110.172171)
+
+[7. (Watson2015Identification) Christopher Mark Watson, Laura A Crinnion, Lindsay Gleghorn, William G Newman, Rajkumar Ramesar, Peter Beighton, and Gillian A Wallis. Identification of a mutation in the ubiquitin-fold modifier 1-specific peptidase 2 gene, ufsp2, in an extended south african family with beukes hip dysplasia. South African Medical Journal, 105(7):558, September 2015. URL: http://dx.doi.org/10.7196/samjnew.7917, doi:10.7196/samjnew.7917. This article has 49 citations.](https://doi.org/10.7196/samjnew.7917)
+
+8. (Millrine2022Human) Human UFSP1 is an active protease that regulates UFM1 maturation and UFMylation. This article has 26 citations.

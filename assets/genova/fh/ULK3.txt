@@ -1,0 +1,46 @@
+# ULK3
+
+## Overview
+ULK3, or unc-51 like kinase 3, is a gene that encodes a serine/threonine-protein kinase, which is part of the ATG family of kinases. This protein is involved in several critical cellular processes, including autophagy and the regulation of the Hedgehog signaling pathway. As a non-RD type kinase, ULK3 is characterized by its unique structural features, such as a kinase domain and microtubule interacting and trafficking (MIT) domains, which facilitate its diverse functional roles (Kasak2018Characterization). ULK3's interactions with various proteins, including histone arginine methyltransferases and ESCRT-III proteins, underscore its importance in chromatin configuration and cytokinetic abscission (Caballe2015ULK3; Goruppi2023The). The gene's involvement in disease pathogenesis, such as celiac disease and myeloid neoplasms, highlights its potential as a therapeutic target and biomarker (Visconte2016Complete; van2018Genetic).
+
+## Structure
+ULK3 is a serine/threonine-protein kinase that belongs to the ATG family of kinases, which are conserved across species from yeast to mammals. The primary structure of ULK3 includes a kinase domain spanning amino acids 1-270, followed by two microtubule interacting and trafficking (MIT) domains located at amino acids 279-353 and 374-449 (Kasak2018Characterization). The kinase domain is crucial for its enzymatic activity and is characterized by the absence of the typical arginine-aspartate (RD) motif found in many other kinases, classifying it as a non-RD type kinase (Kasak2018Characterization).
+
+The secondary and tertiary structures of ULK3 have been modeled using homology modeling techniques, which suggest that the ATP-binding site is situated between the N-terminal and C-terminal lobes of the kinase domain (Kasak2018Characterization). However, attempts to obtain a crystal structure have been unsuccessful, leaving some aspects of its molecular structure speculative (Kasak2018Characterization).
+
+ULK3 undergoes post-translational modifications, including phosphorylation at several serine residues, although these modifications do not appear to be necessary for its catalytic activity (Kasak2018Characterization). The protein may exist in different isoforms due to alternative splicing, which could affect its functional domains and interactions (Alers2012The).
+
+## Function
+ULK3 (unc-51 like kinase 3) is a serine/threonine kinase that plays a significant role in various cellular processes, including autophagy and the regulation of the Hedgehog signaling pathway. In healthy human cells, ULK3 is involved in the regulation of chromatin configuration, particularly in squamous cell carcinoma (SCC) cells, where it is predominantly localized in the nucleus. It binds near the transcription start sites of genes with functional significance, maintaining active chromatin states by influencing histone acetylation, such as H3K27ac, which is a marker of active chromatin (Goruppi2023The).
+
+ULK3 also interacts with histone arginine methyltransferases PRMT1 and PRMT5, affecting their chromatin association and histone H4 methylation. This interaction is crucial for transcription related to stem cell and metabolism programs (Goruppi2023The). Additionally, ULK3 is involved in the regulation of autophagy and the control of daughter cell separation during mitosis. It plays a role in the Sonic hedgehog (Shh) signaling pathway by regulating GLI transcription factors, impacting cell growth and differentiation (Kasak2018Characterization).
+
+The kinase activity of ULK3 can be inhibited by the small molecule SU6668, which acts in an ATP competitive manner, highlighting its potential as a target for therapeutic interventions (Kasak2018Characterization).
+
+## Clinical Significance
+The ULK3 gene has been implicated in the pathogenesis of celiac disease (CeD). A genome-wide study identified a significant association between the ULK3 rs1378938 SNP and CeD, particularly in patients carrying the risk T allele. These patients exhibited increased expression of autophagy proteins and interleukin-6 (IL6) in response to lipopolysaccharides, suggesting that ULK3 may influence immune responses in CeD through autophagy pathways. This highlights the potential of ULK3 as a biomarker for CeD, with a noted decline in autophagy activity in intestinal epithelial cells being a key factor in the disease's progression (van2018Genetic).
+
+In the context of myeloid neoplasms, ULK3 expression is elevated in patients with myelodysplastic syndromes (MDS) who have SF3B1 mutations. This increased expression is associated with a higher risk of disease progression and poorer prognosis. The study suggests that alterations in autophagy-related genes, including ULK3, may contribute to the susceptibility to additional mutations in pathways related to signal transduction, DNA methylation, and RNA splicing, indicating a potential role for ULK3 in the pathophysiology of MDS (Visconte2016Complete).
+
+## Interactions
+ULK3 (unc-51 like kinase 3) is known to interact with several proteins, playing a significant role in various cellular processes. It directly binds to and phosphorylates protein arginine methyltransferases PRMT1 and PRMT5, enhancing their methylase activity and facilitating their recruitment to chromatin. This interaction is crucial for the dimethylation of histone H4 at arginine 3, impacting keratinocyte self-renewal and tumorigenesis (Goruppi2023The).
+
+ULK3 also interacts with ESCRT-III proteins, including CHMP1A, CHMP1B, CHMP2A, and IST1, playing a role in cytokinetic abscission. It phosphorylates these proteins, influencing their localization and polymerization at the midbody, which is essential for abscission. The interaction with IST1 is particularly strong, mediated by the IST1 MIM1 motif binding to the ULK3 MIT2 domain (Caballe2015ULK3).
+
+In the context of the Sonic Hedgehog (SHH) signaling pathway, ULK3 interacts with GLI transcription factors and SUFU, the main negative regulator of GLI proteins. This interaction regulates the generation of GLI transcriptional activators, influencing SHH-dependent transcriptional programs (Kasak2018Characterization).
+
+
+## References
+
+
+[1. (Caballe2015ULK3) A. Caballe, D.M. Wenzel, M. Agromayor, S.L. Alam, J.J. Skalicky, M. Kloc, J.G. Carlton, L. Labrador, W.I. Sundquist, and J. Martin-Serrano. Ulk3 regulates cytokinetic abscission by phosphorylating escrt-iii proteins. June 2015. URL: http://dx.doi.org/10.2210/pdb4wzx/pdb, doi:10.2210/pdb4wzx/pdb. This article has 0 citations.](https://doi.org/10.2210/pdb4wzx/pdb)
+
+[2. (Visconte2016Complete) V Visconte, B Przychodzen, Y Han, S T Nawrocki, S Thota, K R Kelly, B J Patel, C Hirsch, A S Advani, H E Carraway, M A Sekeres, J P Maciejewski, and J S Carew. Complete mutational spectrum of the autophagy interactome: a novel class of tumor suppressor genes in myeloid neoplasms. Leukemia, 31(2):505–510, October 2016. URL: http://dx.doi.org/10.1038/leu.2016.295, doi:10.1038/leu.2016.295. This article has 28 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/leu.2016.295)
+
+[3. (Alers2012The) Sebastian Alers, Antje S Löffler, Sebastian Wesselborg, and Björn Stork. The incredible ulks. Cell Communication and Signaling, 10(1):7, 2012. URL: http://dx.doi.org/10.1186/1478-811x-10-7, doi:10.1186/1478-811x-10-7. This article has 74 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1478-811x-10-7)
+
+[4. (van2018Genetic) Nienke van Beek, Daniel J. Klionsky, and Fulvio Reggiori. Genetic aberrations in macroautophagy genes leading to diseases. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1865(5):803–816, May 2018. URL: http://dx.doi.org/10.1016/j.bbamcr.2018.03.002, doi:10.1016/j.bbamcr.2018.03.002. This article has 49 citations.](https://doi.org/10.1016/j.bbamcr.2018.03.002)
+
+[5. (Kasak2018Characterization) Lagle Kasak, Mihkel Näks, Priit Eek, Alla Piirsoo, Rohit Bhadoria, Pavel Starkov, Merilin Saarma, Sergo Kasvandik, and Marko Piirsoo. Characterization of protein kinase ulk3 regulation by phosphorylation and inhibition by small molecule su6668. Biochemistry, 57(37):5456–5465, August 2018. URL: http://dx.doi.org/10.1021/acs.biochem.8b00356, doi:10.1021/acs.biochem.8b00356. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.biochem.8b00356)
+
+[6. (Goruppi2023The) Sandro Goruppi, Andrea Clocchiatti, Giulia Bottoni, Emery Di Cicco, Min Ma, Beatrice Tassone, Victor Neel, Shadhmer Demehri, Christian Simon, and G. Paolo Dotto. The ulk3 kinase is a determinant of keratinocyte self-renewal and tumorigenesis targeting the arginine methylome. Nature Communications, February 2023. URL: http://dx.doi.org/10.1038/s41467-023-36410-6, doi:10.1038/s41467-023-36410-6. This article has 7 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-36410-6)

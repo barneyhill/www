@@ -1,0 +1,54 @@
+# ARF1
+
+## Overview
+ARF1 (ADP ribosylation factor 1) is a gene that encodes a small GTPase protein involved in critical cellular processes, particularly vesicular trafficking and membrane dynamics. The ARF1 protein is a member of the ARF family of GTP-binding proteins, which are key regulators of vesicle formation and trafficking within the Golgi apparatus and between the Golgi and the endoplasmic reticulum (VolpicelliDaley2005Isoformselective; Southon2011The). Structurally, ARF1 is characterized by a canonical GTPase domain and a myristoylated N-terminal amphipathic α-helix, which is essential for its membrane association and function (Zhang2023MyrArf1). The protein's activity is modulated by its GTP/GDP cycle, which influences its interactions with various effector proteins and adaptor complexes, such as AP-1, AP-3, and AP-4, thereby facilitating vesicle coat formation and cargo sorting (Boehm2001Functional; Austin2000Direct). Beyond its role in vesicular transport, ARF1 is implicated in copper homeostasis and has been associated with cancer progression, making it a potential target for therapeutic intervention (Southon2011The; Casalou2020The).
+
+## Structure
+The ARF1 protein, a small GTPase, plays a crucial role in vesicular trafficking and membrane interactions. Structurally, ARF1 consists of a canonical GTPase domain, which includes the nucleotide-binding site and effector-binding regions such as switch I, switch II, and the α-3 helix (Zhang2023MyrArf1). The primary structure of ARF1 includes a myristoylated N-terminal amphipathic α-helix, essential for its biological function and membrane association (Zhang2023MyrArf1). 
+
+In its GDP-bound state, the myristoyl group is sequestered in a hydrophobic cleft formed by switch I, switch II, and interswitch regions, shielded by disordered N-terminal residues (Zhang2023MyrArf1). Upon GTP binding, conformational changes occur, ejecting the myristate and allowing the N-terminal residues to form an α-helix that associates with the membrane surface (Zhang2023MyrArf1). 
+
+The tertiary structure of ARF1 is characterized by a dynamic G domain that explores a large conformational space, existing in equilibrium between membrane-associated and membrane-distal conformations (Zhang2023MyrArf1). This dynamic nature allows ARF1 to interact with various effectors, such as the Pleckstrin homology domain of ASAP1, an Arf-GTPase activating protein (ArfGAP), which restricts the motions of the G domain (Zhang2023MyrArf1). 
+
+The myristoylation of ARF1 is a critical post-translational modification that facilitates its stable association with membranes, with the myristoyl chain fully integrated into the membrane (Zhang2023MyrArf1). This anchoring mechanism is distinct from other proteins that require additional lipid modifications for stable membrane binding (Zhang2023MyrArf1).
+
+## Function
+ARF1 (ADP ribosylation factor 1) is a small GTPase that plays a critical role in vesicular trafficking and membrane dynamics within human cells. It is primarily active in the Golgi apparatus, where it regulates the formation of COPI-coated vesicles essential for retrograde transport from the Golgi to the endoplasmic reticulum (ER) (VolpicelliDaley2005Isoformselective; Southon2011The). ARF1 is involved in both anterograde and retrograde trafficking within the Golgi, maintaining Golgi structure and facilitating the exit of secreted proteins from the ER (VolpicelliDaley2005Isoformselective).
+
+ARF1 also influences the recruitment of adaptor protein complexes, such as AP-4, to the trans-Golgi network (TGN), impacting the sorting of integral membrane proteins in post-Golgi compartments (Boehm2001Functional). The interaction of ARF1 with AP-4 is regulated by its GTP/GDP cycle, with the GTP-bound form being crucial for AP-4's membrane association (Boehm2001Functional).
+
+In addition to its role in vesicular trafficking, ARF1 is implicated in copper homeostasis. It affects copper uptake efficiency by regulating the trafficking and localization of the copper transporter Ctr1 to the plasma membrane, independent of ATP7A-mediated copper efflux (Southon2011The). This highlights ARF1's multifaceted role in cellular processes beyond vesicular transport.
+
+## Clinical Significance
+ARF1 (ADP ribosylation factor 1) is implicated in various cancers due to its role in cell signaling and membrane trafficking. It is highly expressed in breast, prostate, and ovarian cancers, where it contributes to cancer progression by maintaining Golgi apparatus function and regulating signaling pathways involved in cell proliferation and migration (Casalou2020The). In breast cancer, ARF1 is associated with reduced overall survival and increased immune cell infiltration, suggesting its potential as a prognostic marker (Yang2024Association). 
+
+In prostate cancer, ARF1 promotes tumorigenesis by controlling MAPK activation and cell growth (Casalou2020The). In ovarian cancer, ARF1 is linked to cell proliferation and migration through the PI3K pathway (Casalou2020The). Therapeutic strategies targeting ARF1, such as inhibitors like LM11 and EXO2, have shown promise in reducing cancer cell proliferation and invasion (Casalou2020The).
+
+Alterations in ARF1 expression are also associated with drug resistance in myeloma cells, where it promotes cell proliferation and inhibits adhesion (Casalou2020The). These findings highlight the clinical significance of ARF1 in cancer and its potential as a therapeutic target.
+
+## Interactions
+ARF1 (ADP ribosylation factor 1) is involved in various protein interactions critical for its role in vesicular trafficking and membrane dynamics. ARF1 directly interacts with clathrin adaptor protein AP-1 on immature secretory granules (ISGs) in a GTP-dependent manner. This interaction involves the γ and β-adaptin subunits of AP-1 and is essential for clathrin coat formation on ISGs (Austin2000Direct). ARF1 also interacts with the Sec7 domain of guanine nucleotide exchange factors (GEFs), which facilitates the exchange of GDP for GTP, activating ARF1 for membrane binding and recruitment of its cytosolic effector, the coatomer (Goldberg1998Structural).
+
+ARF1 is known to interact with other adaptor protein complexes, such as AP-3 and AP-4. It binds to the β3 and δ-adaptin subunits of AP-3 and the ε and μ4 subunits of AP-4, with the interaction with AP-4 being regulated by the GTP/GDP cycle of ARF1 (Boehm2001Functional; Austin2002SiteSpecific). These interactions highlight ARF1's role in recruiting adaptor protein complexes to membranes, facilitating vesicle formation and trafficking.
+
+
+## References
+
+
+[1. (Yang2024Association) Lixian Yang, Shiyu Zhang, Lei Zheng, Fanting Kong, Pengpeng Pu, Xiaowei Li, and Lining Jia. Association of adp‑ribosylation factor family genes with prognosis and immune infiltration of breast cancer. Oncology Letters, April 2024. URL: http://dx.doi.org/10.3892/ol.2024.14413, doi:10.3892/ol.2024.14413. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2024.14413)
+
+[2. (Goldberg1998Structural) Jonathan Goldberg. Structural basis for activation of arf gtpase. Cell, 95(2):237–248, October 1998. URL: http://dx.doi.org/10.1016/s0092-8674(00)81754-7, doi:10.1016/s0092-8674(00)81754-7. This article has 453 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0092-8674(00)81754-7)
+
+[3. (Casalou2020The) Cristina Casalou, Andreia Ferreira, and Duarte C. Barral. The role of arf family proteins and their regulators and effectors in cancer progression: a therapeutic perspective. Frontiers in Cell and Developmental Biology, April 2020. URL: http://dx.doi.org/10.3389/fcell.2020.00217, doi:10.3389/fcell.2020.00217. This article has 58 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2020.00217)
+
+[4. (Zhang2023MyrArf1) Yue Zhang, Olivier Soubias, Shashank Pant, Frank Heinrich, Alexander Vogel, Jess Li, Yifei Li, Luke A. Clifton, Sebastian Daum, Kirsten Bacia, Daniel Huster, Paul A. Randazzo, Mathias Lösche, Emad Tajkhorshid, and R. Andrew Byrd. Myr-arf1 conformational flexibility at the membrane surface sheds light on the interactions with arfgap asap1. Nature Communications, November 2023. URL: http://dx.doi.org/10.1038/s41467-023-43008-5, doi:10.1038/s41467-023-43008-5. This article has 6 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-43008-5)
+
+[5. (Boehm2001Functional) M. Boehm. Functional and physical interactions of the adaptor protein complex ap-4 with adp-ribosylation factors (arfs). The EMBO Journal, 20(22):6265–6276, November 2001. URL: http://dx.doi.org/10.1093/emboj/20.22.6265, doi:10.1093/emboj/20.22.6265. This article has 99 citations.](https://doi.org/10.1093/emboj/20.22.6265)
+
+[6. (Austin2002SiteSpecific) Carol Austin, Markus Boehm, and Sharon A. Tooze. Site-specific cross-linking reveals a differential direct interaction of class 1, 2, and 3 adp-ribosylation factors with adaptor protein complexes 1 and 3. Biochemistry, 41(14):4669–4677, March 2002. URL: http://dx.doi.org/10.1021/bi016064j, doi:10.1021/bi016064j. This article has 49 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/bi016064j)
+
+[7. (Southon2011The) Adam Southon, Mark Greenough, Ya Hui Hung, Melanie Norgate, Richard Burke, and James Camakaris. The adp-ribosylation factor 1 (arf1) is involved in regulating copper uptake. The International Journal of Biochemistry &amp; Cell Biology, 43(1):146–153, January 2011. URL: http://dx.doi.org/10.1016/j.biocel.2010.10.012, doi:10.1016/j.biocel.2010.10.012. This article has 6 citations.](https://doi.org/10.1016/j.biocel.2010.10.012)
+
+[8. (VolpicelliDaley2005Isoformselective) Laura A. Volpicelli-Daley, Yawei Li, Chun-Jiang Zhang, and Richard A. Kahn. Isoform-selective effects of the depletion of adp-ribosylation factors 1–5 on membrane traffic. Molecular Biology of the Cell, 16(10):4495–4508, October 2005. URL: http://dx.doi.org/10.1091/mbc.e04-12-1042, doi:10.1091/mbc.e04-12-1042. This article has 205 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e04-12-1042)
+
+[9. (Austin2000Direct) Carol Austin, Ina Hinners, and Sharon A. Tooze. Direct and gtp-dependent interaction of adp-ribosylation factor 1 with clathrin adaptor protein ap-1 on immature secretory granules. Journal of Biological Chemistry, 275(29):21862–21869, July 2000. URL: http://dx.doi.org/10.1074/jbc.m908875199, doi:10.1074/jbc.m908875199. This article has 57 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m908875199)

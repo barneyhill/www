@@ -1,0 +1,45 @@
+# DDX46
+
+## Overview
+DDX46 is a gene that encodes the protein DEAD-box helicase 46, a member of the DEAD-box family of RNA helicases. These proteins are characterized by the conserved motif Asp-Glu-Ala-Asp (DEAD) and are involved in various aspects of RNA metabolism, including pre-mRNA splicing, ribosome biogenesis, and RNA decay. DEAD-box helicase 46 is primarily localized in the nucleus and plays a critical role in the assembly of the U2 small nuclear ribonucleoprotein (snRNP) complex, which is essential for the early stages of spliceosome assembly and pre-mRNA splicing. The protein's interactions with other spliceosomal components, such as SF3B1, are crucial for maintaining the fidelity of mRNA processing. Beyond its role in splicing, DEAD-box helicase 46 is involved in regulating immune responses and maintaining genome stability. Dysregulation of DDX46 has been implicated in various cancers and viral infections, highlighting its potential as a therapeutic target (Zheng2023Role; Ma2024Multifunctional; Rao2022DEADly).
+
+## Function
+DDX46, also known as PRPF5, is a DEAD-box RNA helicase that plays a significant role in pre-mRNA splicing within healthy human cells. It is predominantly localized in the nucleus, particularly in Cajal bodies, where it is associated with the human U2 small nuclear ribonucleoprotein (snRNP) complex. This complex is crucial for the early stages of spliceosome assembly, a process essential for the maturation of precursor mRNA into functional mRNA (Zheng2023Role; Ma2024Multifunctional).
+
+DDX46 interacts with SF3B1, a core component of the U2 snRNP, facilitating the proper assembly of the pre-spliceosome. This interaction is vital for accurate splicing, as disruptions can lead to impaired splicing and have implications in various diseases, including cancer (Ma2024Multifunctional). DDX46 is involved in the proofreading of the branch site during splicing, ensuring the fidelity of mRNA processing (Zheng2023Role).
+
+In addition to its role in splicing, DDX46 is implicated in maintaining genome stability and regulating nuclear RNA. It also plays a part in modulating the immune response by affecting the stability and localization of specific mRNA transcripts involved in antiviral signaling (Rao2022DEADly).
+
+## Clinical Significance
+DDX46, also known as Prp5, is implicated in various cancers due to its role in nuclear pre-mRNA splicing. Its expression is upregulated in several cancer types, including colorectal carcinoma, esophageal squamous cell carcinoma, gastric cancer, and osteosarcoma. Knockdown of DDX46 inhibits cancer cell proliferation, invasion, and induces apoptosis, suggesting its potential as a therapeutic target. In esophageal squamous cell carcinoma, silencing DDX46 arrests the cell cycle at the G1 phase and reduces the phosphorylation of Akt and IκBα, although the exact mechanism of G1/S phase transition regulation remains unclear (Zhang2021DEAD-Box; Sergeeva2021RNA).
+
+Mutations in SF3B1, a splicing factor interacting with DDX46, are associated with cancer. These mutations disrupt the binding of DDX46, potentially leading to improper assembly of the 17S U2 snRNP and affecting prespliceosome assembly. This disruption may result in premature exposure of the RNA path to pre-mRNA and other protein factors, compromising U2 snRNP function (Yang2023Mechanisms).
+
+DDX46 also plays a role in viral infections by promoting Vesicular Stomatitis Virus (VSV) infection. It recruits the RNA demethylase ALKBH5 to remove m6A modifications from antiviral gene transcripts, leading to their nuclear retention and reduced translation, which may contribute to cancer progression (Ma2024Multifunctional).
+
+## Interactions
+DDX46 is a DEAD-box helicase that plays a significant role in the assembly of the U2 snRNP spliceosome complex. It interacts with the SF3b complex, a component of the spliceosome, by binding to the SF3B1 subunit. This interaction is competitive with another helicase, DDX42, as both occupy the RNA path of SF3B1. The binding affinity of DDX46 to SF3b is characterized by a dissociation constant of 66 nM (Yang2023Mechanisms).
+
+DDX46 also interacts with the UHM domain of TAT-SF1, stabilizing its conformation during the maturation of the 17S U2 snRNP. This interaction is crucial for the replacement of DDX42 by DDX46 in the U2 snRNP assembly process (Yang2023Mechanisms).
+
+In addition to its role in splicing, DDX46 acts as a negative regulator of the interferon (IFN) response. It binds to mRNAs encoding key players in viral RNA sensing and signaling pathways, such as TRAF3, TRAF6, and MAVS. DDX46 recruits the m6A eraser ALKBH5 to these mRNAs, leading to their nuclear retention and impaired translation, which negatively impacts IFN-β production (Bonaventure2022DExH/D-box; Su2021DExD/H-box).
+
+
+## References
+
+
+[1. (Ma2024Multifunctional) Jing Ma and Susan R. Ross. Multifunctional role of dead-box helicase 41 in innate immunity, hematopoiesis and disease. Frontiers in Immunology, August 2024. URL: http://dx.doi.org/10.3389/fimmu.2024.1451705, doi:10.3389/fimmu.2024.1451705. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2024.1451705)
+
+[2. (Zhang2021DEAD-Box) Lu Zhang and Xiaogang Li. Dead-box rna helicases in cell cycle control and clinical therapy. Cells, 10(6):1540, June 2021. URL: http://dx.doi.org/10.3390/cells10061540, doi:10.3390/cells10061540. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells10061540)
+
+[3. (Yang2023Mechanisms) Fenghua Yang, Tong Bian, Xiechao Zhan, Zhe Chen, Zhihan Xing, Nicolas A. Larsen, Xiaofeng Zhang, and Yigong Shi. Mechanisms of the rna helicases ddx42 and ddx46 in human u2 snrnp assembly. Nature Communications, February 2023. URL: http://dx.doi.org/10.1038/s41467-023-36489-x, doi:10.1038/s41467-023-36489-x. This article has 15 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-36489-x)
+
+[4. (Bonaventure2022DExH/D-box) Boris Bonaventure and Caroline Goujon. Dexh/d-box helicases at the frontline of intrinsic and innate immunity against viral infections. Journal of General Virology, August 2022. URL: http://dx.doi.org/10.1099/jgv.0.001766, doi:10.1099/jgv.0.001766. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1099/jgv.0.001766)
+
+[5. (Sergeeva2021RNA) Olga Sergeeva and Timofei Zatsepin. Rna helicases as shadow modulators of cell cycle progression. International Journal of Molecular Sciences, 22(6):2984, March 2021. URL: http://dx.doi.org/10.3390/ijms22062984, doi:10.3390/ijms22062984. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms22062984)
+
+[6. (Su2021DExD/H-box) Chenhe Su, Yan-dong Tang, and Chunfu Zheng. Dexd/h-box helicases: multifunctional regulators in antiviral innate immunity. Cellular and Molecular Life Sciences, December 2021. URL: http://dx.doi.org/10.1007/s00018-021-04072-6, doi:10.1007/s00018-021-04072-6. This article has 36 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-021-04072-6)
+
+[7. (Zheng2023Role) Bichun Zheng, Xudong Chen, Qiaoyun Ling, Quan Cheng, and Shaoshun Ye. Role and therapeutic potential of dead-box rna helicase family in colorectal cancer. Frontiers in Oncology, October 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1278282, doi:10.3389/fonc.2023.1278282. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1278282)
+
+[8. (Rao2022DEADly) Shringar Rao and Tokameh Mahmoudi. Dead-ly affairs: the roles of dead-box proteins on hiv-1 viral rna metabolism. Frontiers in Cell and Developmental Biology, June 2022. URL: http://dx.doi.org/10.3389/fcell.2022.917599, doi:10.3389/fcell.2022.917599. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.917599)

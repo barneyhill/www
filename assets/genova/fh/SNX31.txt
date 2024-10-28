@@ -1,0 +1,31 @@
+# SNX31
+
+## Overview
+SNX31 is a gene that encodes the protein sorting nexin 31, which is a member of the PX-FERM subfamily of sorting nexins. This protein is characterized by the presence of a phosphoinositide-binding PX domain and a C-terminal FERM domain, which are crucial for its role in intracellular trafficking and endosomal sorting (Teasdale2011Insights). Sorting nexin 31 is primarily involved in the degradation of uroplakin proteins within multivesicular bodies (MVBs) in terminally differentiated urothelial cells, playing a significant role in maintaining the integrity of the urothelial barrier (Vieira2014SNX31:). The protein's interaction with phosphoinositides and specific uroplakin proteins highlights its specialized function in cellular membrane dynamics and protein sorting (Vieira2014SNX31:).
+
+## Structure
+SNX31 is a protein characterized by the presence of a PX domain and a C-terminal FERM domain. The PX domain is crucial for binding phosphoinositides, specifically PtdIns(3)P, which facilitates its localization to early endosomes (Teasdale2011Insights; Vieira2014SNX31:). The FERM domain, approximately 300 amino acids in length, is involved in membrane tethering and binding to cytosolic domains of transmembrane proteins. It consists of three subdomains: F1, F2, and F3, with the F1 subdomain having a ubiquitin-like fold and the F3 subdomain being structurally similar to PH and PTB domains (Teasdale2011Insights).
+
+SNX31 is part of the PX-FERM subfamily, which includes SNX17 and SNX27, sharing structural similarities with these proteins (Weeratunga2020Recognising; Teasdale2011Insights). Unlike SNX17, SNX31 lacks a PDZ domain, relying on its FERM domain for cargo interaction, specifically recognizing FxNxx motifs (Weeratunga2020Recognising). SNX31 is involved in the degradation of uroplakins in multivesicular bodies of urothelial cells, indicating a specialized role in these cells (Vieira2014SNX31:). The protein's structure has been studied using X-ray crystallography, revealing key residues such as R37, Y38, K62, and R76, although the typical phosphatidylinositol-binding pocket is absent (Teasdale2011Insights).
+
+## Function
+SNX31 (sorting nexin 31) is a protein involved in intracellular trafficking and endosomal sorting, primarily in terminally differentiated urothelial cells. It binds to phosphoinositides, specifically PtdIns3P, through its PX domain, which allows it to target specific cellular membranes (Vieira2014SNX31:). SNX31 is associated with multivesicular bodies (MVBs) and plays a role in the degradation of uroplakin proteins, which are crucial for the structure and function of the urothelial barrier (Vieira2014SNX31:).
+
+SNX31 interacts with uroplakins in the MVBs, facilitating their sorting and degradation, potentially through a ubiquitin-independent mechanism (Vieira2014SNX31:). It is hypothesized that SNX31 binds to the cytoplasmic tail of UPIIIa, causing the dissociation and collapse of uroplakin particles, which aids in the formation of intraluminal vesicles (ILVs) destined for lysosomal degradation (Vieira2014SNX31:). This process is crucial for maintaining the turnover and integrity of the urothelial cell surface (Vieira2014SNX31:).
+
+SNX31 is part of the PX-FERM subfamily of sorting nexins, which includes SNX17 and SNX27, and is characterized by a C-terminal FERM domain involved in membrane tethering and binding to transmembrane proteins (Teasdale2011Insights).
+
+## Interactions
+SNX31 is known to interact with uroplakin proteins, specifically UPIIIa and Ib, in urothelial cells. This interaction is observed in peripheral membranes and the intraluminal vesicles (ILVs) of multivesicular bodies (MVBs) (Vieira2014SNX31:). The interaction between SNX31 and uroplakins is confirmed through co-immunoprecipitation and proximity ligation assays, particularly in MVBs, suggesting a role in the degradation of uroplakins (Vieira2014SNX31:). SNX31's binding to uroplakins is specific to in vivo urothelium, as cultured cells do not exhibit the same interaction, possibly due to differences in uroplakin conformation or modifications (Vieira2014SNX31:).
+
+SNX31 also binds to PtdIns3P lipids, which are found in early endosomes and MVBs, facilitating its association with these organelles (Vieira2014SNX31:). This binding may contribute to SNX31's role in the multivesicular body-mediated degradation of uroplakins, potentially involving a mechanism independent of ubiquitination and ESCRT complexes (Vieira2014SNX31:). The presence of an ESCRT-like domain in SNX31 suggests its involvement in protein sorting into MVBs and ILVs (Vieira2014SNX31:).
+
+
+## References
+
+
+[1. (Weeratunga2020Recognising) Saroja Weeratunga, Blessy Paul, and Brett M. Collins. Recognising the signals for endosomal trafficking. Current Opinion in Cell Biology, 65:17–27, August 2020. URL: http://dx.doi.org/10.1016/j.ceb.2020.02.005, doi:10.1016/j.ceb.2020.02.005. This article has 54 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ceb.2020.02.005)
+
+[2. (Teasdale2011Insights) Rohan D. Teasdale and Brett M. Collins. Insights into the px (phox-homology) domain and snx (sorting nexin) protein families: structures, functions and roles in disease. Biochemical Journal, 441(1):39–59, December 2011. URL: http://dx.doi.org/10.1042/bj20111226, doi:10.1042/bj20111226. This article has 321 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20111226)
+
+[3. (Vieira2014SNX31:) Neide Vieira, Fang-Ming Deng, Feng-Xia Liang, Yi Liao, Jennifer Chang, Ge Zhou, Weiyue Zheng, Jean-Pierre Simon, Mingxiao Ding, Xue-Ru Wu, Rok Romih, Gert Kreibich, and Tung-Tien Sun. Snx31: a novel sorting nexin associated with the uroplakin-degrading multivesicular bodies in terminally differentiated urothelial cells. PLoS ONE, 9(6):e99644, June 2014. URL: http://dx.doi.org/10.1371/journal.pone.0099644, doi:10.1371/journal.pone.0099644. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0099644)

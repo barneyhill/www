@@ -1,0 +1,40 @@
+# COQ10B
+
+## Overview
+COQ10B is a gene that encodes the coenzyme Q10B protein, a member of the START domain protein family, which is primarily involved in lipid binding. The protein plays a crucial role in cellular respiration and energy production by acting as a chaperone for coenzyme Q (CoQ), a vital component of the mitochondrial electron transport chain. This function is essential for ATP synthesis and cellular bioenergetics, as well as for protecting cells against oxidative stress. COQ10B is expressed across various human tissues and interacts with mitochondrial proteins, such as enoyl-CoA hydratase, to facilitate CoQ's role in enzymatic reactions. Despite its significant role in CoQ function, COQ10B does not fully restore CoQ biosynthesis in yeast models, suggesting its primary function lies in the stabilization and utilization of CoQ rather than its synthesis (Tsui2019Human).
+
+## Structure
+The COQ10B protein is a member of the START domain protein family, which is involved in lipid binding. Its core structure consists of two alpha-helices and seven antiparallel beta-sheets, forming a hydrophobic cavity that accommodates the coenzyme Q (CoQ) lipid ligand. This structural feature is known as a helix-grip fold, which is crucial for shielding the CoQ lipid from the aqueous environment (Tsui2019Human). 
+
+The tertiary structure of COQ10B includes a central cavity where the CoQ lipid ligand binds, with the hexaprenyl tail interacting with specific residues. The orientation of the quinone head group is variable, possibly due to a less compact conformation in the ligand-free state (Tsui2019Human). 
+
+COQ10B is expressed in multiple isoforms due to alternative splicing and translation initiation, although these variations do not affect the secondary structural elements of the START domain (Tsui2019Human). The protein is dispersed between 232 and 440 kDa, suggesting it forms oligomeric complexes or associates with other proteins, although it does not significantly stabilize the CoQ synthome (Tsui2019Human).
+
+## Function
+COQ10B encodes a lipid-binding START domain protein essential for the function of coenzyme Q (CoQ), a crucial component in cellular respiration and energy production. In healthy human cells, COQ10B is involved in the mitochondrial electron transport chain, where it plays a role in facilitating ATP synthesis by acting as a chaperone for CoQ. This function is vital for maintaining cellular bioenergetics and protecting cells against oxidative stress (Tsui2019Human).
+
+COQ10B is universally expressed across human tissues and interacts with enoyl-CoA hydratase (ECH1), which is involved in the β-oxidation of unsaturated fatty acids in the mitochondrial matrix. This interaction suggests that COQ10B helps deliver CoQ as a cofactor for various enzymatic reactions, supporting its role in cellular respiration and as an antioxidant (Tsui2019Human).
+
+Despite its critical role in CoQ function, COQ10B does not fully restore CoQ biosynthesis in yeast models, indicating that its primary function may not be in the synthesis of CoQ but rather in its stabilization and utilization within the mitochondria (Tsui2019Human).
+
+## Clinical Significance
+Mutations and alterations in the COQ10B gene have been implicated in various clinical conditions, particularly those related to mitochondrial dysfunction. Polymorphisms in COQ10B, such as L48F, are suggested to predispose individuals to statin-associated myopathy. This condition is thought to be linked to disruptions in coenzyme Q biosynthesis, cholesterol homeostasis, or calcium metabolism, potentially due to isoprenoid depletion (Tsui2019Human).
+
+COQ10B, along with COQ10A, plays a role in coenzyme Q function, which is crucial for cellular respiration and antioxidant protection. Deficiencies in coenzyme Q, often resulting from mutations in COQ genes, are associated with a range of diseases, including encephalopathy, cerebellar ataxia, cardiomyopathy, nephrotic syndrome, and myopathy (Tsui2019Human). Although COQ10B does not directly associate with the CoQ synthome complex, its role as a lipid-binding protein is essential for maintaining mitochondrial function (Wang2022Predicting).
+
+Despite its importance, COQ10B's exact interactions and effects on the CoQ synthome remain unclear, and its role in disease is not fully detailed. However, its involvement in mitochondrial processes suggests that alterations in COQ10B could contribute to mitochondrial-related disorders (Tsui2019Human).
+
+## Interactions
+COQ10B is involved in the function of coenzyme Q (CoQ) and interacts with several proteins within the mitochondrial matrix. It has been shown to interact with enoyl-CoA hydratase (ECH1), a protein involved in the β-oxidation of unsaturated fatty acids. This interaction aligns with COQ10B's role as a chaperone for CoQ, facilitating its function in respiration and as an antioxidant (Tsui2019Human).
+
+In yeast models, COQ10B does not significantly interact with other Coq polypeptides or the CoQ synthome, as its expression does not stabilize the high molecular mass complexes necessary for efficient CoQ synthesis. COQ10B is dispersed across complexes ranging from 232 to 440 kDa, indicating potential interactions with other mitochondrial proteins involved in CoQ biosynthesis, although these interactions do not fully restore the CoQ synthome's stability (Tsui2019Human).
+
+Despite its role in CoQ function, COQ10B does not interact with yeast Coq11, failing to restore de novo CoQ biosynthesis. This suggests that COQ10B's interactions are not sufficient to compensate for the absence of Coq11, which may be necessary for efficient CoQ biosynthesis in yeast (Tsui2019Human).
+
+
+## References
+
+
+[1. (Wang2022Predicting) Sining Wang, Akash Jain, Noelle Alexa Novales, Audrey N. Nashner, Fiona Tran, and Catherine F. Clarke. Predicting and understanding the pathology of single nucleotide variants in human coq genes. Antioxidants, 11(12):2308, November 2022. URL: http://dx.doi.org/10.3390/antiox11122308, doi:10.3390/antiox11122308. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/antiox11122308)
+
+[2. (Tsui2019Human) Hui S. Tsui, NguyenV.B. Pham, Brendan R. Amer, Michelle C. Bradley, Jason E. Gosschalk, Marcus Gallagher-Jones, Hope Ibarra, Robert T. Clubb, Crysten E. Blaby-Haas, and Catherine F. Clarke. Human coq10a and coq10b are distinct lipid-binding start domain proteins required for coenzyme q function. Journal of Lipid Research, 60(7):1293–1310, July 2019. URL: http://dx.doi.org/10.1194/jlr.m093534, doi:10.1194/jlr.m093534. This article has 40 citations and is from a peer-reviewed journal.](https://doi.org/10.1194/jlr.m093534)

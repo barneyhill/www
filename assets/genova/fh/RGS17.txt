@@ -1,0 +1,54 @@
+# RGS17
+
+## Overview
+RGS17 is a gene that encodes the protein regulator of G protein signaling 17, which is a member of the RZ subfamily of RGS proteins. This protein functions as a GTPase-activating protein (GAP) and plays a crucial role in modulating G protein-coupled receptor (GPCR) signaling pathways by accelerating the deactivation of Gα subunits. RGS17 is particularly influential in the nervous system, where it regulates neuronal signaling by modulating cyclic AMP (cAMP) accumulation and calcium ion (Ca2+) signaling. The protein's unique ability to bind Ca2+ with high affinity distinguishes it from other RGS proteins and suggests a feedback mechanism to terminate Gα signaling when Ca2+ levels are elevated. RGS17 is also implicated in various cancers, including lung, prostate, and breast cancer, where it influences tumor growth and chemoresistance, making it a potential target for therapeutic intervention (Hayes2016Regulator; James2009RGS17; Sieng2019Highresolution).
+
+## Structure
+RGS17 is a member of the RZ subfamily of Regulator of G protein signaling (RGS) proteins, characterized by a serine residue implicated in GTPase-activating protein (GAP) activity (Sieng2019Highresolution). The primary structure of RGS17 includes a short N-terminal poly-cysteine (pCys) string, an RH domain, and a very short C-terminus. The pCys string is a substrate for palmitoylation, anchoring the protein in the membrane (Hayes2016Regulator). 
+
+The secondary structure of RGS17 features motifs such as ILS, S*, HR, and N, which interact with Gα subunits (SalemMansour2018Structural). The tertiary structure of RGS17 includes a canonical RH fold, with differences in the orientation of its terminal and bundle subdomains compared to other RGS proteins (Sieng2019Highresolution). RGS17 crystallizes as an asymmetric dimer, although it is monomeric in solution (Sieng2019Highresolution).
+
+RGS17 binds calcium ions (Ca2+) at specific sites, enhancing its interaction with activated Gα subunits and promoting its GAP activity. This binding is facilitated by residues such as Tyr106 and Glu109, and is significantly stronger than its binding to magnesium ions (Mg2+) (Sieng2019Highresolution).
+
+## Function
+RGS17, a member of the RZ subfamily of Regulator of G protein signaling (RGS) proteins, functions as a GTPase-activating protein (GAP) for Gα subunits, particularly influencing Gα i/o and Gα q proteins. This activity accelerates the deactivation of G proteins, thereby modulating G protein-coupled receptor (GPCR) signaling pathways in healthy human cells (Masuho2020A; Sieng2019Highresolution). RGS17 is highly expressed in the cerebellum and plays a crucial role in regulating neuronal signaling by inhibiting Gα i/o subunits, which leads to increased cAMP accumulation, and by negatively regulating Ca2+ signaling through a Gα q-dependent mechanism (Sieng2019Highresolution).
+
+The protein's interaction with calcium ions (Ca2+) is significant, as Ca2+ binding enhances RGS17's ability to interact with Gα o•GTP, suggesting that Ca2+ acts as a potentiator of RGS17 activity. This interaction may serve as a feedback mechanism to terminate Gα signaling when Ca2+ levels are elevated (Sieng2019Highresolution). RGS17's ability to bind Ca2+ with high affinity is unique compared to other RGS proteins, which typically show lower affinity for Ca2+ (Sieng2019Highresolution). Through these mechanisms, RGS17 plays a vital role in modulating signaling pathways that are essential for various physiological processes, particularly in the nervous system (Sieng2019Highresolution).
+
+## Clinical Significance
+RGS17 is implicated in several cancers, including lung, prostate, hepatocellular carcinoma (HCC), breast, and ovarian cancers. In lung and prostate cancers, RGS17 is overexpressed, promoting tumor growth through the cAMP-PKA-CREB pathway. Knockdown of RGS17 in lung cancer cells significantly reduces tumor volume, indicating its role in tumor proliferation (James2009RGS17). In HCC, RGS17 is overexpressed in cancerous tissues compared to normal tissues, and its knockdown decreases cellular proliferation. This regulation may involve proteasomal degradation and epigenetic changes (Hayes2016Regulator; Sokolov2011Altered).
+
+In breast cancer, RGS17 is upregulated and associated with increased cell migration and invasion. It is a direct target of miR-32, which can modulate its expression (Li2015Deregulation). In ovarian cancer, RGS17 influences chemoresistance and modulates the PI3K/AKT survival pathway. Loss of RGS17 expression is linked to increased cell survival and chemoresistance, while its overexpression increases sensitivity to chemotherapy (Hayes2016Regulator; Hooks2010Regulators).
+
+RGS17's role in cancer involves modulation of signaling pathways that affect cell proliferation, migration, invasion, and survival, making it a potential target for therapeutic intervention (Li2023RGS; Hayes2016Regulator).
+
+## Interactions
+RGS17 interacts with various proteins, playing a significant role in G protein-coupled receptor (GPCR) signaling. It acts as a GTPase-activating protein (GAP) for Gα subunits, including Gαo, Gαz, and Gαi1-3, enhancing their GTPase activity to terminate signaling (Hayes2016Regulator; Sieng2019Highresolution). RGS17 also interacts with the μ-opioid receptor (μOR) and forms complexes with histidine triad nucleotide binding protein 1 (HINT1), facilitating the recruitment of protein kinase C (PKC) γ to the plasma membrane, which leads to receptor phosphorylation and desensitization (Hayes2016Regulator).
+
+RGS17 can bind to intracellular regions of other receptors, such as serotonin, dopamine, and cannabinoid receptors, and interacts with GAIP-interacting protein N-terminus (GIPN), an E3 ubiquitin ligase, suggesting a role in linking activated Gα subunits to ubiquitin-dependent degradation (Hayes2016Regulator). It also co-immunoprecipitates with the μ-opioid receptor in an agonist-sensitive manner (AbramowNewerly2006RGS).
+
+Calcium ions (Ca2+) enhance the interaction between RGS17 and activated Gαo subunits, increasing the GTPase activity of RGS17, which suggests a regulatory role for Ca2+ in RGS17 activity (Sieng2019Highresolution).
+
+
+## References
+
+
+[1. (James2009RGS17) Michael A. James, Yan Lu, Yan Liu, Haris G. Vikis, and Ming You. Rgs17, an overexpressed gene in human lung and prostate cancer, induces tumor cell proliferation through the cyclic amp-pka-creb pathway. Cancer Research, 69(5):2108–2116, March 2009. URL: http://dx.doi.org/10.1158/0008-5472.can-08-3495, doi:10.1158/0008-5472.can-08-3495. This article has 80 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-08-3495)
+
+[2. (Hooks2010Regulators) Shelley B Hooks, Phillip Callihan, Molly K Altman, Jillian H Hurst, Mourad W Ali, and Mandi M Murph. Regulators of g-protein signaling rgs10 and rgs17 regulate chemoresistance in ovarian cancer cells. Molecular Cancer, 9(1):289, 2010. URL: http://dx.doi.org/10.1186/1476-4598-9-289, doi:10.1186/1476-4598-9-289. This article has 72 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/1476-4598-9-289)
+
+[3. (Li2023RGS) Lin Li, Qiang Xu, and Chao Tang. Rgs proteins and their roles in cancer: friend or foe? Cancer Cell International, April 2023. URL: http://dx.doi.org/10.1186/s12935-023-02932-8, doi:10.1186/s12935-023-02932-8. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-023-02932-8)
+
+[4. (AbramowNewerly2006RGS) Maria Abramow-Newerly, Anju A. Roy, Caroline Nunn, and Peter Chidiac. Rgs proteins have a signalling complex: interactions between rgs proteins and gpcrs, effectors, and auxiliary proteins. Cellular Signalling, 18(5):579–591, May 2006. URL: http://dx.doi.org/10.1016/J.CELLSIG.2005.08.010, doi:10.1016/j.cellsig.2005.08.010. This article has 300 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/J.CELLSIG.2005.08.010)
+
+[5. (Hayes2016Regulator) Michael P. Hayes and David L. Roman. Regulator of g protein signaling 17 as a negative modulator of gpcr signaling in multiple human cancers. The AAPS Journal, 18(3):550–559, February 2016. URL: http://dx.doi.org/10.1208/s12248-016-9894-1, doi:10.1208/s12248-016-9894-1. This article has 22 citations.](https://doi.org/10.1208/s12248-016-9894-1)
+
+[6. (SalemMansour2018Structural) Denise Salem-Mansour, Ali Asli, Meirav Avital-Shacham, and Mickey Kosloff. Structural motifs in the rgs rz subfamily combine to attenuate interactions with gα subunits. Biochemical and Biophysical Research Communications, 503(4):2736–2741, September 2018. URL: http://dx.doi.org/10.1016/j.bbrc.2018.08.033, doi:10.1016/j.bbrc.2018.08.033. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2018.08.033)
+
+[7. (Li2015Deregulation) Yuhua Li, Liliang Li, Junyi Lin, Xin Hu, Beixu Li, Aimin Xue, Yiwen Shen, Jieqing Jiang, Mingchang Zhang, Jianhui Xie, and Ziqin Zhao. Deregulation of rgs17 expression promotes breast cancer progression. Journal of Cancer, 6(8):767–775, 2015. URL: http://dx.doi.org/10.7150/jca.11833, doi:10.7150/jca.11833. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/jca.11833)
+
+[8. (Masuho2020A) Ikuo Masuho, Santhanam Balaji, Brian S. Muntean, Nickolas K. Skamangas, Sreenivas Chavali, John J.G. Tesmer, M. Madan Babu, and Kirill A. Martemyanov. A global map of g protein signaling regulation by rgs proteins. Cell, 183(2):503-521.e19, October 2020. URL: http://dx.doi.org/10.1016/j.cell.2020.08.052, doi:10.1016/j.cell.2020.08.052. This article has 85 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2020.08.052)
+
+[9. (Sokolov2011Altered) Eugene Sokolov, David A. Iannitti, Laura W. Schrum, and Iain H. McKillop. Altered expression and function of regulator of g-protein signaling-17 (rgs17) in hepatocellular carcinoma. Cellular Signalling, 23(10):1603–1610, October 2011. URL: http://dx.doi.org/10.1016/j.cellsig.2011.05.012, doi:10.1016/j.cellsig.2011.05.012. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2011.05.012)
+
+[10. (Sieng2019Highresolution) Monita Sieng, Michael P. Hayes, Joseph B. O’Brien, C. Andrew Fowler, Jon C. Houtman, David L. Roman, and Angeline M. Lyon. High-resolution structure of rgs17 suggests a role for ca2+ in promoting the gtpase-activating protein activity by rz subfamily members. Journal of Biological Chemistry, 294(20):8148–8160, May 2019. URL: http://dx.doi.org/10.1074/jbc.ra118.006059, doi:10.1074/jbc.ra118.006059. This article has 2 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra118.006059)

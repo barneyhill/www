@@ -1,0 +1,50 @@
+# TMEM63B
+
+## Overview
+TMEM63B is a gene that encodes the transmembrane protein 63B, which functions as a mechanosensitive and osmosensitive ion channel. This protein is integral to various physiological processes, including osmoregulation and mechanotransduction, by facilitating ion flow across the plasma membrane in response to mechanical and osmotic stimuli. TMEM63B is particularly significant in the brain, where it is involved in thirst perception, and in the lungs, where it aids in surfactant secretion. Structurally, the protein is characterized by multiple transmembrane regions and is glycosylated, contributing to its functional properties. Mutations in the TMEM63B gene are linked to severe neurological disorders, highlighting its critical role in maintaining cellular and organismal homeostasis (Vetro2022Stretchactivated; Zou2024TMEM63B; Marques2019Overexpression).
+
+## Structure
+The TMEM63B protein is a stretch-activated ion channel associated with mechanosensory and osmosensory transduction. It is a mammalian homologue of the osmosensitive calcium channels known as OSCAs. The protein localizes to the plasma membrane and is associated with F-actin in HEK293T cells, where it induces calcium influx in response to extracellular calcium concentration and hyperosmolarity (Marques2019Overexpression).
+
+Structurally, TMEM63B contains a cytoplasmic PHM7 cyt domain and N- and C-terminal calcium-dependent channel domains, with 11 predicted transmembrane regions. The 3D structure of TMEM63B was modeled using the OSCA1.2 structure as a template, revealing several conserved helices and strands, primarily located in TM1, TM4-TM7, and TM9-TM10 (Marques2019Overexpression). The protein also contains a RNA recognition motif (RRM) similar to those found in RNA binding proteins, although its RNA binding capability is not yet determined (Marques2019Overexpression).
+
+TMEM63B is monomeric, unlike the dimeric AtOSCA1.1, due to structural differences such as the rotation of the M10 helix, which hinders dimerization (Zhang2023A). The protein is glycosylated, with three N-glycosylated sites identified through mass spectrometry (Zou2024TMEM63B). These structural features contribute to its role as a mechanosensitive and osmosensitive channel.
+
+## Function
+TMEM63B is a transmembrane protein that functions as a mechanosensitive and osmosensitive ion channel in various cell types. In healthy human cells, TMEM63B is involved in osmoregulation and mechanotransduction, playing a critical role in maintaining cellular homeostasis by responding to changes in osmotic pressure and mechanical stimuli. It is primarily active in the plasma membrane, where it facilitates the flow of ions, particularly calcium, across the membrane in response to hyperosmotic conditions (Zou2024TMEM63B; Marques2019Overexpression).
+
+In the brain, TMEM63B is highly expressed in excitatory neurons of the subfornical organ (SFO), where it acts as an osmosensor crucial for thirst perception. It is activated by hypertonic stimuli, leading to membrane depolarization and increased neuronal firing rates, which drive drinking behavior (Yang2024TMEM63B; Zou2024TMEM63B).
+
+In the lungs, TMEM63B is expressed in alveolar epithelial cells and is essential for surfactant secretion, which is crucial for lung inflation and normal respiratory function. Its mechanosensitive properties facilitate the release of pulmonary surfactant and ATP in response to mechanical forces during lung inflation (Chen2024Mechanosensitive). TMEM63B's role in these processes highlights its importance in both cellular and organismal physiology.
+
+## Clinical Significance
+Mutations in the TMEM63B gene are associated with a range of severe neurological conditions, primarily developmental and epileptic encephalopathies (DEE) and progressive neurodegeneration. Patients with TMEM63B mutations often present with early-onset drug-resistant epilepsy, severe developmental delay, and intellectual disability. These conditions are characterized by focal motor seizures, impaired awareness, and bilateral tonic-clonic seizures, with MRI findings showing multiregional white matter abnormalities, cerebellar atrophy, and thinning of the corpus callosum (Vetro2022Stretchactivated).
+
+The recurrent V44M variant in TMEM63B is noted for its uniformly severe phenotype, leading to severe early onset epilepsy, intellectual disability, and motor and cortical visual impairment. This variant, along with others like G580C, has been shown to cause toxic gain of function, altering neuronal excitability and calcium homeostasis, which contributes to epilepsy and neurodegeneration (Vetro2022Stretchactivated).
+
+In addition to neurological symptoms, TMEM63B mutations can cause hematological abnormalities, such as macrocytosis and hemolysis, sometimes requiring blood transfusions. These hematological changes are similar to those seen in dehydrated hereditary stomatocytosis, a condition linked to mutations in another stretch-activated ion channel gene, PIEZO1 (Vetro2022Stretchactivated).
+
+## Interactions
+TMEM63B interacts with several proteins, forming complexes that are crucial for its function in phospholipid scrambling (PLS). TMEM63B forms a heterodimer with the thiamine transporter Slc19a2, which is essential for inducing PLS. This interaction has been confirmed through various assays, including Blue Native-PAGE and immunoprecipitation (Niu2024Phospholipid). The heterodimer formation between TMEM63B and Slc19a2 is significant for PLS activity and is independent of the Ca2+-activated K+ channel Kcnn4, although Kcnn4-mediated K+ efflux is crucial for promoting TMEM63B-induced PLS (Niu2024Phospholipid).
+
+TMEM63B is also involved in interactions that are modulated by calcium ions. The protein is activated through Ca2+-mediated activation of Kcnn4, suggesting an indirect Ca2+ dependency (Niu2024Phospholipid). Additionally, TMEM63B can be activated by changes in membrane tension, which may involve other channels like Piezo1 (Niu2024Phospholipid).
+
+The study of TMEM63B interactions also involves the use of various experimental techniques, such as BN-PAGE, Western blotting, and mass spectrometry, to analyze protein interactions and expression levels (Niu2024Phospholipid). These interactions highlight the complex regulatory mechanisms involving TMEM63B in cellular processes.
+
+
+## References
+
+
+[1. (Yang2024TMEM63B) Guolin Yang, Min Jia, Guizhou Li, Yan-Yu Zang, Yang-Yang Chen, Yue-Ying Wang, Shi-Yu Zhan, Shi-Xiao Peng, Guoqiang Wan, Wei Li, Jian-Jun Yang, and Yun Stone Shi. Tmem63b channel is the osmosensor required for thirst drive of interoceptive neurons. Cell Discovery, January 2024. URL: http://dx.doi.org/10.1038/s41421-023-00628-x, doi:10.1038/s41421-023-00628-x. This article has 5 citations.](https://doi.org/10.1038/s41421-023-00628-x)
+
+[2. (Marques2019Overexpression) Marta C. Marques, Inês S. Albuquerque, Sandra H. Vaz, and Gonçalo J. L. Bernardes. Overexpression of osmosensitive ca2+-permeable channel tmem63b promotes migration in hek293t cells. Biochemistry, 58(26):2861–2866, June 2019. URL: http://dx.doi.org/10.1021/acs.biochem.9b00224, doi:10.1021/acs.biochem.9b00224. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.biochem.9b00224)
+
+[3. (Chen2024Mechanosensitive) Gui-Lan Chen, Jing-Yi Li, Xin Chen, Jia-Wei Liu, Qian Zhang, Jie-Yu Liu, Jing Wen, Na Wang, Ming Lei, Jun-Peng Wei, Li Yi, Jia-Jia Li, Yu-Peng Ling, He-Qiang Yi, Zhenying Hu, Jingjing Duan, Jin Zhang, and Bo Zeng. Mechanosensitive channels tmem63a and tmem63b mediate lung inflation–induced surfactant secretion. Journal of Clinical Investigation, March 2024. URL: http://dx.doi.org/10.1172/jci174508, doi:10.1172/jci174508. This article has 6 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci174508)
+
+[4. (Niu2024Phospholipid) Han Niu, Masahiro Maruoka, Yuki Noguchi, Hidetaka Kosako, and Jun Suzuki. Phospholipid scrambling induced by an ion channel/metabolite transporter complex. Nature Communications, August 2024. URL: http://dx.doi.org/10.1038/s41467-024-51939-w, doi:10.1038/s41467-024-51939-w. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-51939-w)
+
+5. (Vetro2022Stretchactivated) Stretch-activated ion channel TMEM63B associates with developmental and epileptic encephalopathies and progressive neurodegeneration. This article has 1 citations.
+
+6. (Zou2024TMEM63B) TMEM63B functions as a mammalian thirst receptor. This article has 0 citations.
+
+[7. (Zhang2023A) Mingfeng Zhang, Yuanyue Shan, Charles D. Cox, and Duanqing Pei. A mechanical-coupling mechanism in osca/tmem63 channel mechanosensitivity. Nature Communications, July 2023. URL: http://dx.doi.org/10.1038/s41467-023-39688-8, doi:10.1038/s41467-023-39688-8. This article has 26 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-39688-8)

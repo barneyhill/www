@@ -1,0 +1,37 @@
+# CRAT
+
+## Overview
+The CRAT gene encodes the enzyme carnitine O-acetyltransferase, a mitochondrial enzyme that is integral to cellular energy metabolism. This enzyme belongs to the family of transferases, specifically those acyltransferases transferring groups other than aminoacyl groups. Carnitine O-acetyltransferase facilitates the reversible transfer of acetyl groups from acetyl-CoA to carnitine, forming acetylcarnitine, which is crucial for regulating the intramitochondrial concentration of acetyl-CoA. This regulation is vital for maintaining metabolic flexibility and energy homeostasis, particularly in tissues with high energy demands such as the heart. The enzyme's activity is not limited to mitochondria; it is also present in peroxisomes and potentially the cytosol, where it helps buffer intracellular pools of acetyl-CoA and carnitine. Alterations in the expression or function of the CRAT gene have been linked to metabolic disorders, highlighting its importance in maintaining metabolic balance (Mucerino2017Alterations; Berdous2020A; Melone2018The).
+
+## Structure
+The human carnitine O-acetyltransferase (CRAT) is a monomeric enzyme composed of 626 amino acid residues, forming its primary structure (Giudice2022Overproduction). The enzyme features two identical, tightly interacting domains, which contribute to its tertiary structure. A notable characteristic of CRAT is the presence of a solvent-accessible open cavity at the center of the protein, which functions as the substrate-binding site (Giudice2022Overproduction). This cavity is crucial for the enzyme's role in transferring acetyl groups between acetyl-CoA and L-carnitine.
+
+The 3D structure of CRAT reveals a subtle shift in the side chains of some residues within the L-carnitine binding site upon substrate binding, although no significant structural changes occur (Giudice2022Overproduction). This structural stability is important for its function in maintaining the acetyl-CoA/free CoA ratio in mitochondria.
+
+The enzyme is expressed in E. coli for research purposes, with optimal conditions identified for its production and purification, ensuring high enzymatic activity and solubility (Giudice2022Overproduction). The expression and purification processes involve the use of specific vectors and affinity chromatography techniques (Giudice2022Overproduction).
+
+## Function
+Carnitine O-acetyltransferase (CRAT) is a mitochondrial enzyme that plays a crucial role in cellular energy metabolism by catalyzing the reversible transfer of acetyl groups from acetyl-CoA to carnitine, forming acetylcarnitine. This process is essential for regulating the intramitochondrial concentration of acetyl-CoA, which affects the activity of the pyruvate dehydrogenase complex, thereby influencing glucose oxidation and metabolic flexibility (Berdous2020A; Giudice2022Overproduction).
+
+CRAT is primarily located in the mitochondrial matrix but is also active in peroxisomes and potentially in the cytosol. It facilitates the efflux of acetyl-CoA from mitochondria to the cytosol, helping to buffer intracellular pools of acetyl-CoA and carnitine (Melone2018The). This buffering action prevents the accumulation of acetyl-CoA, which could inhibit pyruvate dehydrogenase activity, thus maintaining a balance between glucose and fatty acid oxidation (altamimi2018integrated).
+
+In cardiac tissues, CRAT is involved in the regulation of fatty acid and glucose oxidation, contributing to the production of acetyl-CoA for energy metabolism. Its activity is higher in the heart compared to the liver, indicating its significant role in cardiac energy metabolism (altamimi2018integrated).
+
+## Clinical Significance
+Alterations in the expression or function of the CRAT gene, which encodes carnitine O-acetyltransferase, have been implicated in various metabolic disorders. In a mouse model of Rett syndrome, a neurodevelopmental disorder, decreased expression of CRAT is associated with mitochondrial dysfunction and metabolic inflexibility. This deficiency leads to an imbalance in the carnitine cycle, resulting in incomplete fatty acid oxidation and accumulation of fatty acylcarnitines, which can contribute to cardiac dysfunction and sudden death (Mucerino2017Alterations). 
+
+The study also highlights that CRAT deficiency affects the conversion of acetyl-CoA to acetylcarnitine, impacting metabolic flexibility and substrate switching, which are crucial for cardiac metabolism (Mucerino2017Alterations). In Mecp2 +/- mice, particularly those with long QT intervals, CRAT activity is significantly reduced, correlating with decreased levels of acetylcarnitine and propionylcarnitine, and increased levels of medium- and long-chain acylcarnitines (Mucerino2017Alterations). These findings suggest that CRAT plays a critical role in maintaining energy metabolism and that its dysfunction may contribute to the pathophysiology of Rett syndrome and potentially other metabolic disorders.
+
+
+## References
+
+
+[1. (Giudice2022Overproduction) Deborah Giudice, Lara Console, Arduino Arduini, and Cesare Indiveri. Overproduction, purification, and stability of the functionally active human carnitine acetyl transferase. Molecular Biotechnology, 64(12):1431–1440, June 2022. URL: http://dx.doi.org/10.1007/s12033-022-00522-z, doi:10.1007/s12033-022-00522-z. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12033-022-00522-z)
+
+[2. (Berdous2020A) Dassine Berdous, Xavier Berney, Ana Rodriguez Sanchez-Archidona, Maxime Jan, Clara Roujeau, Isabel C. Lopez-Mejia, Randall Mynatt, and Bernard Thorens. A genetic screen identifies crat as a regulator of pancreatic beta-cell insulin secretion. Molecular Metabolism, 37:100993, July 2020. URL: http://dx.doi.org/10.1016/j.molmet.2020.100993, doi:10.1016/j.molmet.2020.100993. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.molmet.2020.100993)
+
+[3. (Mucerino2017Alterations) Sabrina Mucerino, Anna Di Salle, Nicola Alessio, Sabrina Margarucci, Raffaella Nicolai, Mariarosa A. B. Melone, Umberto Galderisi, and Gianfranco Peluso. Alterations in the carnitine cycle in a mouse model of rett syndrome. Scientific Reports, February 2017. URL: http://dx.doi.org/10.1038/srep41824, doi:10.1038/srep41824. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep41824)
+
+4. (altamimi2018integrated) Integrated Regulation of Cardiac Fatty Acid and Glucose Oxidation. This article has 0 citations.
+
+[5. (Melone2018The) Mariarosa Anna Beatrice Melone, Anna Valentino, Sabrina Margarucci, Umberto Galderisi, Antonio Giordano, and Gianfranco Peluso. The carnitine system and cancer metabolic plasticity. Cell Death &amp; Disease, February 2018. URL: http://dx.doi.org/10.1038/s41419-018-0313-7, doi:10.1038/s41419-018-0313-7. This article has 160 citations.](https://doi.org/10.1038/s41419-018-0313-7)

@@ -1,0 +1,54 @@
+# ROS1
+
+## Overview
+The ROS1 gene encodes the ROS proto-oncogene 1, a receptor tyrosine kinase that plays a pivotal role in cellular signaling pathways involved in growth, differentiation, and survival. This protein is characterized by its structure, which includes an extracellular domain, a transmembrane region, and an intracellular tyrosine kinase domain, allowing it to function as a transmembrane receptor (Oesterich2019ROS1). ROS1 is implicated in oncogenesis through gene rearrangements and fusions, particularly in non-small cell lung cancer and other malignancies, where it activates pathways such as PI3K-AKT-mTOR and JAK-STAT3 (Pal2017ROS11; Drilon2020ROS1dependent). These oncogenic fusions have made ROS1 a target for therapeutic interventions, with tyrosine kinase inhibitors like crizotinib and lorlatinib demonstrating clinical efficacy (Yang2023Progress).
+
+## Structure
+The ROS1 protein is a receptor tyrosine kinase with a complex molecular structure. It consists of a large N-terminal extracellular domain, a single-pass transmembrane region, and a C-terminal intracellular tyrosine kinase domain (Oesterich2019ROS1). The extracellular domain is unique, composed of six repeat motifs with high homology to fibronectin type III repeats, resembling a cell adhesion molecule (Oesterich2019ROS1). The kinase domain is crucial for its function, retaining activity in various fusion proteins identified in cancers (Uguen2016ROS1).
+
+The primary structure of ROS1 includes a sequence of 2347 amino acids (Uguen2016ROS1). The secondary structure features include alpha helices and beta sheets, particularly within the kinase domain, which is characterized by a bilobal structure with N- and C-terminal lobes connected by a hinge (Vilachã2024Structural). The tertiary structure involves the three-dimensional folding of these domains, allowing for specific interactions with inhibitors and substrates (Vilachã2024Structural).
+
+Post-translational modifications, such as phosphorylation, play a role in regulating ROS1 activity (Uguen2016ROS1). The protein is phylogenetically related to ALK, sharing similar structural features (Uguen2016ROS1). Splice variant isoforms may exist, potentially altering its function or localization, although specific details are not provided in the context.
+
+## Function
+The ROS1 gene encodes a receptor tyrosine kinase that plays a significant role in various cellular processes essential for normal cell function and development. In healthy human cells, ROS1 functions as a growth or differentiation factor receptor, primarily active at the cell membrane. It contains three major domains: an extracellular domain with an N-glycosylation site, a transmembrane domain, and a tyrosine kinase domain (Uguen2016ROS1).
+
+ROS1 is involved in activating several downstream signaling pathways that are crucial for cell differentiation, proliferation, growth, and survival. It predominantly phosphorylates and activates STAT3, which is necessary for anchorage-independent growth. Additionally, ROS1 phosphorylates VAV3, a guanine-nucleotide exchange factor for Rho GTPases, which regulates actin dynamics and gene expression. The protein also activates the PI3K/AKT/mTOR signaling pathway, which is vital for cell survival and growth (Uguen2016ROS1).
+
+ROS1 interacts with proteins such as PTPN6 (SHP-1) and PTPN11 (SHP-2), which modulate its signaling through feedback mechanisms. PTPN6 generally suppresses cellular activation, while PTPN11 promotes it, highlighting the complex regulatory roles of these interactions in maintaining cellular homeostasis (Uguen2016ROS1).
+
+## Clinical Significance
+The ROS1 gene, encoding a receptor tyrosine kinase, is implicated in various cancers through gene rearrangements and fusions. In non-small cell lung cancer (NSCLC), ROS1 rearrangements occur in approximately 1%-2% of cases, often in adenocarcinomas, and are more prevalent in younger, non-smoking females. These rearrangements lead to constitutive activation of signaling pathways that promote oncogenesis. Common fusion partners in NSCLC include CD74, SLC34A2, and TPM3, with CD74-ROS1 being the most frequent (Pal2017ROS11; Drilon2020ROS1dependent).
+
+In glioblastoma, ROS1 fusions such as GOPC-ROS1 have been identified, although they are rare, occurring in about 0.5%-1% of adult cases. These fusions are associated with chromosome 6q22 microdeletions and contribute to tumor formation, especially when combined with other genetic alterations like the loss of p16Ink4a and p19Arf (Davare2018Rare; Drilon2020ROS1dependent).
+
+ROS1 rearrangements are also found in other malignancies, including cholangiocarcinoma, inflammatory myofibroblastic tumors, and Spitzoid neoplasms. These fusions activate several signaling pathways, such as RAS-MEK-ERK and PI3K-AKT-mTOR, which are crucial for cell survival and proliferation (Pal2017ROS11; Drilon2020ROS1dependent). Tyrosine kinase inhibitors like crizotinib and lorlatinib have shown efficacy in treating ROS1 fusion-positive cancers (Yang2023Progress; Davare2018Rare).
+
+## Interactions
+The ROS1 protein, a receptor tyrosine kinase, engages in several critical interactions with other proteins that facilitate its role in cellular signaling and oncogenesis. ROS1 undergoes autophosphorylation at multiple tyrosine residues, creating docking sites for proteins such as SHP2 (PTPN11) and SHP1 (PTPN6). Phosphorylated SHP2 enhances its catalytic activity and recruits additional SH2 domain-containing adaptor proteins like GRB2 and SHIP1, which are involved in various signaling pathways (Uguen2016ROS1; Drilon2020ROS1dependent).
+
+ROS1 also interacts with VAV3, a guanine exchange factor for the small G protein RHO, leading to actin cytoskeletal remodeling through RHO-mediated pathways (Drilon2020ROS1dependent). In E-cadherin-defective cells, ROS1 interacts with p120 catenin, a protein crucial for cytokinesis. Inhibition of ROS1 exacerbates defects in p120 catenin, leading to cytokinesis failure and apoptosis (Bajrami2018ECadherinROS1).
+
+Additionally, ROS1 phosphorylates LIX1L, a protein involved in cancer cell proliferation, indicating a direct interaction that promotes oncogenic activity (Nakamura2015Novel). These interactions underscore ROS1's involvement in key signaling pathways, including RAS-RAF-MEK-ERK, PI3K-AKT-mTOR, and JAK-STAT3, which are essential for its oncogenic functions (Drilon2020ROS1dependent).
+
+
+## References
+
+
+[1. (Yang2023Progress) Xin Yang, Zhe Tang, Jing Li, Jizong Jiang, and Yue Liu. Progress of non-small-cell lung cancer with ros1 rearrangement. Frontiers in Molecular Biosciences, December 2023. URL: http://dx.doi.org/10.3389/fmolb.2023.1238093, doi:10.3389/fmolb.2023.1238093. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmolb.2023.1238093)
+
+[2. (Nakamura2015Novel) Satoki Nakamura, Tomoaki Kahyo, Hong Tao, Kiyoshi Shibata, Nobuya Kurabe, Hidetaka Yamada, Kazuya Shinmura, Kazunori Ohnishi, and Haruhiko Sugimura. Novel roles for lix1l in promoting cancer cell proliferation through ros1-mediated lix1l phosphorylation. Scientific Reports, August 2015. URL: http://dx.doi.org/10.1038/srep13474, doi:10.1038/srep13474. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep13474)
+
+[3. (Bajrami2018ECadherinROS1) Ilirjana Bajrami, Rebecca Marlow, Marieke van de Ven, Rachel Brough, Helen N. Pemberton, Jessica Frankum, Feifei Song, Rumana Rafiq, Asha Konde, Dragomir B. Krastev, Malini Menon, James Campbell, Aditi Gulati, Rahul Kumar, Stephen J. Pettitt, Mark D. Gurden, Marta Llorca Cardenosa, Irene Chong, Patrycja Gazinska, Fredrik Wallberg, Elinor J. Sawyer, Lesley-Ann Martin, Mitch Dowsett, Spiros Linardopoulos, Rachael Natrajan, Colm J. Ryan, Patrick W.B. Derksen, Jos Jonkers, Andrew N.J. Tutt, Alan Ashworth, and Christopher J. Lord. E-cadherin/ros1 inhibitor synthetic lethality in breast cancer. Cancer Discovery, 8(4):498–515, April 2018. URL: http://dx.doi.org/10.1158/2159-8290.CD-17-0603, doi:10.1158/2159-8290.cd-17-0603. This article has 115 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/2159-8290.CD-17-0603)
+
+[4. (Davare2018Rare) Monika A. Davare, Jacob J. Henderson, Anupriya Agarwal, Jacob P. Wagner, Sudarshan R. Iyer, Nameeta Shah, Randy Woltjer, Romel Somwar, Stephen W. Gilheeney, Ana DeCarvalo, Tom Mikkelson, Erwin G. Van Meir, Marc Ladanyi, and Brian J. Druker. Rare but recurrent ros1 fusions resulting from chromosome 6q22 microdeletions are targetable oncogenes in glioma. Clinical Cancer Research, 24(24):6471–6482, December 2018. URL: http://dx.doi.org/10.1158/1078-0432.CCR-18-1052, doi:10.1158/1078-0432.ccr-18-1052. This article has 48 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/1078-0432.CCR-18-1052)
+
+[5. (Pal2017ROS11) Prodipto Pal and Zanobia Khan. Ros1-1. Journal of Clinical Pathology, 70(12):1001–1009, September 2017. URL: http://dx.doi.org/10.1136/jclinpath-2016-204244, doi:10.1136/jclinpath-2016-204244. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1136/jclinpath-2016-204244)
+
+[6. (Drilon2020ROS1dependent) Alexander Drilon, Chelsea Jenkins, Sudarshan Iyer, Adam Schoenfeld, Clare Keddy, and Monika A. Davare. Ros1-dependent cancers — biology, diagnostics and therapeutics. Nature Reviews Clinical Oncology, 18(1):35–55, August 2020. URL: http://dx.doi.org/10.1038/s41571-020-0408-9, doi:10.1038/s41571-020-0408-9. This article has 145 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41571-020-0408-9)
+
+[7. (Uguen2016ROS1) Arnaud Uguen and Marc De Braekeleer. Ros1 fusions in cancer: a review. Future Oncology, 12(16):1911–1928, June 2016. URL: http://dx.doi.org/10.2217/fon-2016-0050, doi:10.2217/fon-2016-0050. This article has 61 citations and is from a peer-reviewed journal.](https://doi.org/10.2217/fon-2016-0050)
+
+[8. (Oesterich2019ROS1) Leslie G. Oesterich and Jonathan W. Riess. ROS1, pages 55–78. Springer International Publishing, 2019. URL: http://dx.doi.org/10.1007/978-3-030-17832-1_3, doi:10.1007/978-3-030-17832-1_3. This article has 0 citations.](https://doi.org/10.1007/978-3-030-17832-1_3)
+
+[9. (Vilachã2024Structural) Juliana F. Vilachã, Tsjerk A. Wassenaar, and Siewert J. Marrink. Structural aspects of the ros1 kinase domain and oncogenic mutations. Crystals, 14(2):106, January 2024. URL: http://dx.doi.org/10.3390/cryst14020106, doi:10.3390/cryst14020106. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cryst14020106)

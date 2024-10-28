@@ -1,0 +1,58 @@
+# KDM7A
+
+## Overview
+KDM7A is a gene that encodes the protein lysine demethylase 7A, a member of the histone demethylase family. This protein is characterized by its ability to remove methyl groups from specific lysine residues on histone proteins, thereby playing a crucial role in the regulation of gene expression through epigenetic modifications. KDM7A contains a Plant Homeodomain (PHD) and a Jumonji C (JmjC) domain, which are essential for its substrate recognition and catalytic activity, respectively (Hou2010Structural; Chaturvedi2019Structurefunction). The protein is primarily localized in the nucleus, where it influences chromatin structure and transcriptional activity, impacting processes such as cellular differentiation, development, and response to stress (Ming2020The; Chaturvedi2019Structurefunction). KDM7A's involvement in various biological pathways and its interactions with other proteins underscore its significance in both normal cellular functions and pathological conditions, including cancer (Lee2018Histone; Zhang2021The).
+
+## Structure
+KDM7A, also known as KIAA1718, is a histone lysine demethylase that features a Plant Homeodomain (PHD) at the N-terminal and a Jumonji C (JmjC) domain at the C-terminal, connected by a linker region (Chaturvedi2019Structurefunction). The PHD domain is responsible for binding to the histone H3 substrate at K4me3, while the JmjC domain is crucial for the demethylation of H3K9me2 and H3K27me2 (Hou2010Structural; Chaturvedi2019Structurefunction). The active site of KDM7A is located within a double-stranded beta-helix (DSBH) and includes a Fe co-factor and a 2-oxoglutarate (2OG) co-substrate, coordinated by a conserved His-Asp-His triad (Chaturvedi2019Structurefunction).
+
+The structure of KDM7A is similar to that of KDM7B, with a more rigid linker region, which affects the positioning of the catalytic JmjC domain for effective demethylation (Chaturvedi2019Structurefunction). The protein adopts an extended conformation, similar to KIAA1718, and is distinct from the bent conformation observed in PHF8 (Yang2010Structural). The substrate specificity of KDM7A is influenced by the local sequence similarity at the H3-K9 and H3-K27 sites, which share an 'ARKS' motif (Hou2010Structural).
+
+## Function
+KDM7A is a histone demethylase that plays a significant role in gene regulation by demethylating specific lysine residues on histone proteins, particularly H3K9me2/1, H3K27me2/1, and H4K20me1. This activity is crucial for modulating chromatin structure and influencing gene expression in healthy human cells (Chaturvedi2019Structurefunction). KDM7A is involved in various biological processes, including the regulation of angiogenesis, which can impact tumor growth and progression (Chaturvedi2019Structurefunction).
+
+In the context of cellular stress, KDM7A is implicated in the formation of nuclear bodies, known as K-bodies, through phase separation. These structures are thought to help cells resist stress by organizing nuclear architecture and sequestering proteins related to DNA replication and repair (Ming2020The). KDM7A is also involved in the regulation of protein stability, particularly in response to inflammatory signals. It modulates lysosomal activity, which affects the stability of proteins like ICAM1, a key player in leukocyte adhesion and transmigration (Choi2016KDM7A).
+
+KDM7A's activity is primarily localized in the nucleus, where it influences chromatin accessibility and transcriptional activity, thereby playing a critical role in cellular differentiation and development (Chaturvedi2019Structurefunction).
+
+## Clinical Significance
+KDM7A (lysine demethylase 7A) plays a significant role in the progression of various cancers due to its involvement in epigenetic regulation. In breast cancer, KDM7A is crucial for the transcription of RHOJ, a regulator of metastasis. Its knockdown reduces cancer cell migration and invasion, suggesting its role in cancer progression and poor prognosis (Zhang2021The). KDM7A also maintains breast cancer stem cells by upregulating stemness factors like KLF4 and c-MYC, and inhibiting apoptosis through BCL2 regulation (Meng2019Histone).
+
+In bladder cancer, KDM7A is essential for cell migration and invasion, facilitating epithelial-mesenchymal transition (EMT) by altering EMT markers. Its expression is upregulated in cancer tissues and correlates with patient survival outcomes (Lee2020Histone). In prostate cancer, KDM7A acts as a co-activator of the androgen receptor, promoting tumor growth, particularly in castration-resistant prostate cancer (Lee2018Histone).
+
+KDM7A-DT, a divergent transcript of KDM7A, is implicated in several cancers, including breast cancer, where it promotes tumor growth and metastasis. Its overexpression is associated with genomic instability and poor prognosis, particularly in ER-negative aggressive breast cancer (Giannakakis2024KDM7ADT).
+
+## Interactions
+KDM7A, a histone demethylase, is involved in various protein interactions that influence its role in cellular processes. It forms complexes with the androgen receptor (AR) in prostate cancer cells, acting as a co-activator to enhance AR activity and promote tumor growth. This interaction is crucial for AR-mediated transcriptional regulation, particularly in castration-resistant prostate cancer (Lee2018Histone).
+
+In breast cancer cells, KDM7A interacts with the transcriptional regulator MKL1, which recruits KDM7A to the RHOJ promoter. This interaction facilitates the transcriptional activation of RHOJ, contributing to cancer cell migration and invasion. KDM7A's role in this process is linked to its ability to demethylate repressive histone marks, thereby modulating chromatin structure and enhancing gene expression (Zhang2021The).
+
+KDM7A also interacts with diacylglycerol acyltransferase 2 (DGAT2) in hepatic steatosis models. It upregulates DGAT2 expression by demethylating repressive histone marks on the DGAT2 promoter, leading to increased triglyceride accumulation in liver cells (Kim2021Histone).
+
+These interactions highlight KDM7A's role in transcriptional regulation and its potential as a therapeutic target in various diseases.
+
+
+## References
+
+
+[1. (Giannakakis2024KDM7ADT) Antonis Giannakakis, Margaritis Tsifintaris, Vasileios Gouzouasis, Ghim Siong Ow, Mei Yee Aau, Csaba Papp, Anna V. Ivshina, and Vladimir A. Kuznetsov. Kdm7a-dt induces genotoxic stress, tumorigenesis, and progression of p53 missense mutation-associated invasive breast cancer. Frontiers in Oncology, May 2024. URL: http://dx.doi.org/10.3389/fonc.2024.1227151, doi:10.3389/fonc.2024.1227151. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2024.1227151)
+
+[2. (Lee2018Histone) Kyoung‐Hwa Lee, Seokbong Hong, Minyong Kang, Chang Wook Jeong, Ja Hyeon Ku, Hyeon‐Hoe Kim, and Cheol Kwak. Histone demethylase kdm7a controls androgen receptor activity and tumor growth in prostate cancer. International Journal of Cancer, 143(11):2849–2861, October 2018. URL: http://dx.doi.org/10.1002/ijc.31843, doi:10.1002/ijc.31843. This article has 40 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/ijc.31843)
+
+[3. (Kim2021Histone) Ji-Hyun Kim, Arulkumar Nagappan, Dae Jung, Nanjoo Suh, and Myeong Jung. Histone demethylase kdm7a contributes to the development of hepatic steatosis by targeting diacylglycerol acyltransferase 2. International Journal of Molecular Sciences, 22(20):11085, October 2021. URL: http://dx.doi.org/10.3390/ijms222011085, doi:10.3390/ijms222011085. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms222011085)
+
+[4. (Ming2020The) Hui Ming, Qianfeng Wang, Yuwen Zhang, Luzhang Ji, Lu Cheng, Xiangru Huo, Zixiang Yan, Zhexiao Liu, Yongjun Dang, and Bo Wen. The nuclear bodies formed by histone demethylase kdm7a. Protein &amp; Cell, 12(4):297–304, September 2020. URL: http://dx.doi.org/10.1007/s13238-020-00783-x, doi:10.1007/s13238-020-00783-x. This article has 5 citations.](https://doi.org/10.1007/s13238-020-00783-x)
+
+[5. (Zhang2021The) Ziyu Zhang, Baoyu Chen, Yuwen Zhu, Tianyi Zhang, Xiaoling Zhang, Yibiao Yuan, and Yong Xu. The jumonji domain-containing histone demethylase homolog 1d/lysine demethylase 7a (jhdm1d/kdm7a) is an epigenetic activator of rhoj transcription in breast cancer cells. Frontiers in Cell and Developmental Biology, June 2021. URL: http://dx.doi.org/10.3389/fcell.2021.664375, doi:10.3389/fcell.2021.664375. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.664375)
+
+[6. (Hou2010Structural) Haifeng Hou and Hongtao Yu. Structural insights into histone lysine demethylation. Current Opinion in Structural Biology, 20(6):739–748, December 2010. URL: http://dx.doi.org/10.1016/j.sbi.2010.09.006, doi:10.1016/j.sbi.2010.09.006. This article has 144 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.sbi.2010.09.006)
+
+[7. (Yang2010Structural) Ying Yang, Lulu Hu, Ping Wang, Haifeng Hou, Yan Lin, Yi Liu, Ze Li, Rui Gong, Xiang Feng, Lu Zhou, Wen Zhang, Yuhui Dong, Huirong Yang, Hanqing Lin, Yiqin Wang, Charlie Degui Chen, and Yanhui Xu. Structural insights into a dual-specificity histone demethylase cekdm7a from caenorhabditis elegans. Cell Research, 20(8):886–898, June 2010. URL: http://dx.doi.org/10.1038/cr.2010.86, doi:10.1038/cr.2010.86. This article has 43 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/cr.2010.86)
+
+[8. (Meng2019Histone) Zhenzhen Meng, Ying Liu, Jie Wang, Hongjia Fan, Huan Fang, Sha Li, Lin Yuan, Cuicui Liu, You Peng, Weiwei Zhao, Lulu Wang, Jing Li, and Jing Feng. Histone demethylase kdm7a is required for stem cell maintenance and apoptosis inhibition in breast cancer. Journal of Cellular Physiology, 235(2):932–943, June 2019. URL: http://dx.doi.org/10.1002/jcp.29008, doi:10.1002/jcp.29008. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcp.29008)
+
+[9. (Chaturvedi2019Structurefunction) Shobhit S. Chaturvedi, Rajeev Ramanan, Sodiq O. Waheed, Tatyana G. Karabencheva-Christova, and Christo Z. Christov. Structure-function relationships in KDM7 histone demethylases, pages 113–125. Elsevier, 2019. URL: http://dx.doi.org/10.1016/bs.apcsb.2019.08.005, doi:10.1016/bs.apcsb.2019.08.005. This article has 18 citations.](https://doi.org/10.1016/bs.apcsb.2019.08.005)
+
+[10. (Lee2020Histone) Kyoung-Hwa Lee, Byung-Chan Kim, Seung-Hwan Jeong, Chang Wook Jeong, Ja Hyeon Ku, Hyeon Hoe Kim, and Cheol Kwak. Histone demethylase kdm7a regulates androgen receptor activity, and its chemical inhibitor tc-e 5002 overcomes cisplatin-resistance in bladder cancer cells. International Journal of Molecular Sciences, 21(16):5658, August 2020. URL: http://dx.doi.org/10.3390/ijms21165658, doi:10.3390/ijms21165658. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21165658)
+
+[11. (Choi2016KDM7A) Ji-Young Choi and Sangmee Ahn Jo. Kdm7a histone demethylase mediates tnf-α-induced icam1 protein upregulation by modulating lysosomal activity. Biochemical and Biophysical Research Communications, 478(3):1355–1362, September 2016. URL: http://dx.doi.org/10.1016/j.bbrc.2016.08.128, doi:10.1016/j.bbrc.2016.08.128. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2016.08.128)

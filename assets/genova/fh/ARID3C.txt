@@ -1,0 +1,44 @@
+# ARID3C
+
+## Overview
+ARID3C is a gene that encodes the protein AT-rich interaction domain 3C, also known as Brightlike, which is a member of the ARID family of transcription factors. This protein is characterized by its conserved ARID domain, which facilitates DNA binding, and a REKLES domain that is crucial for protein interactions and nuclear-cytoplasmic shuttling (Tidwell2011Characterization; Korn2022Structures). ARID3C plays a significant role in the regulation of immunoglobulin heavy chain (IgH) gene transcription, particularly in B lineage lymphocytes, where it acts as a co-activator with ARID3A (Tidwell2011Characterization). The protein's function is modulated by post-translational modifications such as sumoylation, which influences its localization and interaction capabilities (Tidwell2011Characterization). Clinically, ARID3C has been implicated in various cancers, including digestive cancers and multiple myeloma, where its expression and mutations are associated with cancer progression and prognosis (Zhang2022Identification; Lu2022Expression).
+
+## Structure
+The ARID3C protein, also known as Brightlike, is a member of the ARID family characterized by a conserved DNA-binding domain known as the ARID domain. This domain is approximately 100 amino acids long and includes a helix-turn-helix motif responsible for DNA interaction, with a hydrophobic core crucial for its functionality (Korn2022Structures). The ARID domain in ARID3C retains about 80% identity with its paralogues, including extended regions (eARIDs) that are essential for specific DNA binding (Tidwell2011Characterization).
+
+ARID3C contains a REKLES domain, divided into REKLES-α and REKLES-β subdomains. The REKLES-β domain is highly conserved and crucial for nuclear export, self-association, and interactions with other proteins like Bright (Kim2007REKLES; Tidwell2011Characterization). The REKLES domain also plays a role in nuclear-cytoplasmic shuttling and lipid raft localization (Tidwell2011Characterization).
+
+ARID3C undergoes post-translational modification through sumoylation at a conserved motif, which affects its function and interaction capabilities (Tidwell2011Characterization). The gene encodes two splice variants, one of which lacks the REKLES-β domain, affecting its nuclear export and protein-protein interactions (Tidwell2011Characterization).
+
+## Function
+ARID3C, also known as Brightlike, is a transcription factor that plays a significant role in the regulation of immunoglobulin heavy chain (IgH) gene transcription. It functions primarily as a co-activator with Bright/ARID3A, enhancing transcriptional activity at matrix attachment regions (MARs) upstream of the basal IgH promoter. This interaction is crucial for modulating immune responses in B cells (Tidwell2011Characterization).
+
+ARID3C is expressed in B lineage lymphocytes and is involved in B cell receptor (BCR) signaling. It localizes to lipid rafts in the plasma membrane following BCR stimulation, which influences the signaling threshold of the BCR. This localization is regulated by sumoylation, a post-translational modification that affects its entry into lipid rafts (Tidwell2011Characterization).
+
+The protein undergoes nuclear-cytoplasmic shuttling and is primarily active in the nucleus, where it interacts with DNA and other proteins to modulate transcriptional processes. ARID3C's activity is influenced by its isoforms, with the full-length form being upregulated in activated follicular B cells, suggesting a role in B cell differentiation (Tidwell2011Characterization).
+
+## Clinical Significance
+ARID3C has been implicated in various cancers, particularly digestive cancers and multiple myeloma. In digestive cancers, ARID3C shows differential expression, notably in cholangiocarcinoma (CHOL), where it is significantly different between tumor and normal tissues. This gene functions as a transcriptional coactivator and may influence cancer progression through its activation in B lineage lymphocytes. Its expression is negatively associated with immune scores in CHOL, suggesting a role in immune regulation (Lu2022Expression). 
+
+In multiple myeloma, mutations in the ARID gene family, including ARID3C, are associated with poor prognosis. Patients with these mutations have significantly shorter progression-free survival and overall survival compared to those without mutations. The study highlights the potential of ARID mutations as indicators of poor prognosis and their involvement in chromatin remodeling, a critical process in gene expression regulation (Zhang2022Identification).
+
+These findings suggest that ARID3C may play diverse roles in tumor regulation, potentially acting as an activator or inhibitor in different pathways across various types of cancers. Its involvement in immune response and cancer progression underscores its clinical significance in oncology (Lu2022Expression).
+
+## Interactions
+ARID3C, also known as Brightlike, is a transcription factor that interacts with various proteins and nucleic acids, playing a role in transcriptional regulation. It interacts with Bright (ARID3A) through their REKLES domains, forming both homo- and hetero-interactions. This interaction occurs at common DNA binding sites and is enriched at Bright binding sites in chromatin (Tidwell2011Characterization). ARID3C can bind to matrix attachment regions (MARs) associated with the immunoglobulin heavy chain (IgH) S107 variable region, a process dependent on its conserved ARID domain (Tidwell2011Characterization).
+
+ARID3C is involved in co-activating IgH transcription with Bright, requiring both DNA binding and protein-protein interaction capabilities. This co-activation is enhanced by the loss of sumoylation at a conserved SUMO-I conjugation motif (Tidwell2011Characterization). ARID3C also localizes to lipid rafts following B cell receptor (BCR) stimulation, where it may form homomers or heteromers with Bright. This localization is influenced by its sumoylation status, which is necessary for its entry into lipid rafts (Tidwell2011Characterization). These interactions suggest that ARID3C plays a significant role in regulating transcription by altering chromatin structure and participating in B cell signaling pathways.
+
+
+## References
+
+
+[1. (Tidwell2011Characterization) Josephine A. Tidwell, Christian Schmidt, Phillip Heaton, Van Wilson, and Philip W. Tucker. Characterization of a new arid family transcription factor (brightlike/arid3c) that co-activates bright/arid3a-mediated immunoglobulin gene transcription. Molecular Immunology, 49(1–2):260–272, October 2011. URL: http://dx.doi.org/10.1016/j.molimm.2011.08.025, doi:10.1016/j.molimm.2011.08.025. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.molimm.2011.08.025)
+
+[2. (Lu2022Expression) Yongqu Lu, Zhenzhen Liu, Wendong Wang, Xin Chen, Xin Zhou, and Wei Fu. Expression signature of the at-rich interactive domain gene family identified in digestive cancer. Frontiers in Medicine, January 2022. URL: http://dx.doi.org/10.3389/fmed.2021.775357, doi:10.3389/fmed.2021.775357. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmed.2021.775357)
+
+[3. (Zhang2022Identification) Lina Zhang, Run Zhang, Jing Wang, Ying Chen, Chun Qiao, Qinglin Shi, Yuanyuan Jin, Xuxing Shen, Jianyong Li, and Lijuan Chen. Identification of clinical implications and potential prognostic models of chromatin regulator mutations in multiple myeloma. Clinical Epigenetics, July 2022. URL: http://dx.doi.org/10.1186/s13148-022-01314-7, doi:10.1186/s13148-022-01314-7. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13148-022-01314-7)
+
+[4. (Kim2007REKLES) Dongkyoon Kim, Loren Probst, Chhaya Das, and Philip W. Tucker. Rekles is an arid3-restricted multifunctional domain. Journal of Biological Chemistry, 282(21):15768–15777, May 2007. URL: http://dx.doi.org/10.1074/jbc.m700397200, doi:10.1074/jbc.m700397200. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m700397200)
+
+[5. (Korn2022Structures) Sophie Marianne Korn and Andreas Schlundt. Structures and nucleic acid-binding preferences of the eukaryotic arid domain. Biological Chemistry, 403(8–9):731–747, February 2022. URL: http://dx.doi.org/10.1515/hsz-2021-0404, doi:10.1515/hsz-2021-0404. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/hsz-2021-0404)

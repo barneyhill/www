@@ -1,0 +1,54 @@
+# HSF2
+
+## Overview
+Heat shock factor 2 (HSF2) is a gene that encodes the heat shock transcription factor 2 protein, a critical regulator of the cellular stress response. As a transcription factor, HSF2 is involved in the modulation of heat shock proteins (Hsps), which are essential for maintaining protein homeostasis under stress conditions. The HSF2 protein is characterized by its multi-domain structure, including a DNA-binding domain and a coiled-coil multimerization domain, which facilitate its interaction with DNA and other proteins (Sheldon1993Hydrophobic; Jaeger2016Structures). HSF2 plays a pivotal role in cellular processes such as chromatin remodeling during mitosis and stress-induced transcriptional regulation, often forming heterotrimers with HSF1 to exert its functions (Sandqvist2009Heterotrimerization; Elsing2014Expression). Clinically, HSF2 is implicated in various diseases, including cancer and neurodegenerative disorders, due to its involvement in stress response pathways and gene expression regulation (Tokunaga2022Heat).
+
+## Structure
+The human heat shock transcription factor 2 (HSF2) protein is a multi-domain transcription factor with a complex molecular structure. It contains an amino-terminal winged helix-turn-helix DNA-binding domain (DBD), which is crucial for its interaction with DNA. The DBD features a carboxyl-terminal helix that wraps around DNA, forming a hydrophobic pocket with residues such as Phe96, Leu14, Trp15, Trp29, and Phe35 (Jaeger2016Structures). The DBD also includes a recognition helix with the conserved sequence 'SFVRQ', where Arg63 forms a hydrogen bond with the guanine of the nGAAn HSE motif (Jaeger2016Structures).
+
+HSF2 has a coiled-coil multimerization domain, which facilitates its oligomerization, typically forming dimers or trimers (Sheldon1993Hydrophobic; Jaeger2016Structures). The protein also contains hydrophobic heptad repeat sequences that form coiled-coil structures, regulating its subcellular localization and nuclear translocation (Sheldon1993Hydrophobic).
+
+Post-translational modifications of HSF2 include SUMOylation at Lys82, which is specific to HSF2 and not observed in HSF1 (Jaeger2016Structures). This modification is facilitated by SUMO2 and SUMO3 and is crucial for the protein's regulatory functions. The wing domain of HSF2, which does not directly contact DNA, plays a regulatory role and provides specificity among HSF family members (Jaeger2016Structures).
+
+## Function
+HSF2 (heat shock transcription factor 2) is a protein that plays a significant role in regulating the expression of heat shock proteins (Hsps) in human cells. It is primarily involved in modulating the heat shock response (HSR) by interacting with HSF1, another heat shock factor. During mitosis, HSF2 acts as a repressor of stress-inducible Hsp expression, particularly Hsp70, by modulating chromatin accessibility. This repression is crucial for maintaining chromatin structure and ensuring proper chromosome segregation during cell division (Elsing2014Expression).
+
+HSF2 is a short-lived protein whose activity is regulated by its cellular levels, which decline during mitosis. This decline allows HSF1 and RNA polymerase II to access the hsp70 promoter, facilitating stress-inducible Hsp70 expression and enhancing cell survival under acute stress conditions (Elsing2014Expression). HSF2 is also involved in forming heterotrimers with HSF1, which bind to DNA sequences to induce the expression of target genes (Elsing2014Expression).
+
+HSF2's activity is linked to the ubiquitin-proteasome pathway, where it is rapidly degraded during stress, allowing for its regulation in response to environmental changes (Mathew1998Heat). This regulation is crucial for cellular homeostasis and survival during stress, particularly in cancer cells (Elsing2014Expression).
+
+## Clinical Significance
+Heat shock transcription factor 2 (HSF2) is implicated in various diseases due to its role in regulating stress responses and gene expression. In cancer, HSF2 interacts with HSF1 to regulate pro-tumorigenic gene expression programs. It is involved in at least ten types of cancers, including bladder, cervical, lung, and prostate cancer. In prostate cancer, HSF2 expression is highest in non-invasive cells and decreases with higher Gleason scores, indicating its role in suppressing tumor invasion (Tokunaga2022Heat). HSF2 is also a target of the Wnt/β-catenin/TCF signaling pathway in hepatocellular carcinoma, where it regulates aerobic glycolysis by suppressing fructose-1,6-biphosphatase 1 (Tokunaga2022Heat).
+
+In neurodegenerative diseases, HSF2 is crucial for neuronal migration and synaptic plasticity. Its deficiency affects synaptic transmission and plasticity, contributing to conditions like fetal alcohol spectrum disorder (Tokunaga2022Heat). HSF2 also plays a role in Huntington's disease, where its knockout leads to increased protein aggregation and reduced lifespan, highlighting its importance in proteostasis (Tokunaga2022Heat; Roos‐Mattjus2021Interplay).
+
+In inflammatory bowel disease, particularly ulcerative colitis, HSF2 expression correlates with disease severity and inflammatory markers, suggesting its protective role against intestinal inflammation (Tokunaga2022Heat).
+
+## Interactions
+HSF2 interacts with various proteins and nucleic acids, playing a significant role in cellular stress responses. It forms heterocomplexes with HSF1, particularly under proteotoxic stress conditions induced by proteasome inhibitors like MG132. These complexes bind to specific DNA elements such as the Clusterin gene's CLE and the Hsp70 gene's HSE, as confirmed by chromatin immunoprecipitation (ChIP) and co-immunoprecipitation experiments (Loison2006Upregulation).
+
+HSF2 also interacts with PRC1 during mitosis, a specific interaction not shared with HSF1. This interaction is crucial for gene bookmarking, allowing rapid transcriptional reactivation in early G1 phase. HSF2 recruits phosphatase PP2A and interacts with the CAP-G subunit of condensin, facilitating dephosphorylation and reducing chromatin compaction at the hsp70i promoter (Murphy2008PRC1).
+
+HSF2's interaction with HSF1 involves the formation of heterotrimers, which regulate stress-induced transcription. This interaction is mediated through their coiled-coil domains, essential for their DNA-binding activity and localization to nuclear stress bodies (nSBs) (Sandqvist2009Heterotrimerization). These interactions highlight HSF2's role in modulating transcriptional responses to stress and developmental cues.
+
+
+## References
+
+
+[1. (Elsing2014Expression) Alexandra N. Elsing, Camilla Aspelin, Johanna K. Björk, Heidi A. Bergman, Samu V. Himanen, Marko J. Kallio, Pia Roos-Mattjus, and Lea Sistonen. Expression of hsf2 decreases in mitosis to enable stress-inducible transcription and cell survival. Journal of Cell Biology, 206(6):735–749, September 2014. URL: http://dx.doi.org/10.1083/jcb.201402002, doi:10.1083/jcb.201402002. This article has 39 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201402002)
+
+[2. (Murphy2008PRC1) Lynea A. Murphy, Donald C. Wilkerson, Yiling Hong, and Kevin D. Sarge. Prc1 associates with the hsp70i promoter and interacts with hsf2 during mitosis. Experimental Cell Research, 314(11–12):2224–2230, July 2008. URL: http://dx.doi.org/10.1016/j.yexcr.2008.04.015, doi:10.1016/j.yexcr.2008.04.015. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.yexcr.2008.04.015)
+
+[3. (Mathew1998Heat) Anu Mathew, Sameer K. Mathur, and Richard I. Morimoto. Heat shock response and protein degradation: regulation of hsf2 by the ubiquitin-proteasome pathway. Molecular and Cellular Biology, 18(9):5091–5098, September 1998. URL: http://dx.doi.org/10.1128/mcb.18.9.5091, doi:10.1128/mcb.18.9.5091. This article has 170 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.18.9.5091)
+
+[4. (Tokunaga2022Heat) Yasuko Tokunaga, Ken-Ichiro Otsuyama, Shigeru Kakuta, and Naoki Hayashida. Heat shock transcription factor 2 is significantly involved in neurodegenerative diseases, inflammatory bowel disease, cancer, male infertility, and fetal alcohol spectrum disorder: the novel mechanisms of several severe diseases. International Journal of Molecular Sciences, 23(22):13763, November 2022. URL: http://dx.doi.org/10.3390/ijms232213763, doi:10.3390/ijms232213763. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms232213763)
+
+[5. (Sandqvist2009Heterotrimerization) Anton Sandqvist, Johanna K. Björk, Malin Åkerfelt, Zhanna Chitikova, Alexei Grichine, Claire Vourc’h, Caroline Jolly, Tiina A. Salminen, Yvonne Nymalm, and Lea Sistonen. Heterotrimerization of heat-shock factors 1 and 2 provides a transcriptional switch in response to distinct stimuli. Molecular Biology of the Cell, 20(5):1340–1347, March 2009. URL: http://dx.doi.org/10.1091/mbc.e08-08-0864, doi:10.1091/mbc.e08-08-0864. This article has 132 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e08-08-0864)
+
+[6. (Roos‐Mattjus2021Interplay) Pia Roos‐Mattjus and Lea Sistonen. Interplay between mammalian heat shock factors 1 and 2 in physiology and pathology. The FEBS Journal, 289(24):7710–7725, September 2021. URL: http://dx.doi.org/10.1111/febs.16178, doi:10.1111/febs.16178. This article has 14 citations.](https://doi.org/10.1111/febs.16178)
+
+[7. (Jaeger2016Structures) Alex M Jaeger, Charles W Pemble, Lea Sistonen, and Dennis J Thiele. Structures of hsf2 reveal mechanisms for differential regulation of human heat-shock factors. Nature Structural &amp; Molecular Biology, 23(2):147–154, January 2016. URL: http://dx.doi.org/10.1038/nsmb.3150, doi:10.1038/nsmb.3150. This article has 67 citations.](https://doi.org/10.1038/nsmb.3150)
+
+[8. (Sheldon1993Hydrophobic) L A Sheldon and R E Kingston. Hydrophobic coiled-coil domains regulate the subcellular localization of human heat shock factor 2. Genes &amp; Development, 7(8):1549–1558, August 1993. URL: http://dx.doi.org/10.1101/gad.7.8.1549, doi:10.1101/gad.7.8.1549. This article has 69 citations.](https://doi.org/10.1101/gad.7.8.1549)
+
+[9. (Loison2006Upregulation) Fabien Loison, Laure Debure, Philippe Nizard, Pascale le Goff, Denis Michel, and Yves le Dréan. Up-regulation of the clusterin gene after proteotoxic stress: implication of hsf1–hsf2 heterocomplexes. Biochemical Journal, 395(1):223–231, March 2006. URL: http://dx.doi.org/10.1042/bj20051190, doi:10.1042/bj20051190. This article has 102 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20051190)

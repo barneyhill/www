@@ -1,0 +1,56 @@
+# KCTD5
+
+## Overview
+KCTD5 is a gene that encodes the protein potassium channel tetramerization domain containing 5, which is a member of the KCTD family of proteins. This protein is characterized by its unique pentameric structure, which is facilitated by its N-terminal BTB (Broad-Complex, Tramtrack, and Bric-à-brac) domain and a C-terminal domain (CTD) (Barone2015KCTD5; Nguyen2023Structure). KCTD5 functions primarily as a substrate-specific adaptor for CUL3-based ubiquitin ligases, playing a significant role in protein degradation pathways (Bayón2008KCTD5). It is involved in various cellular processes, including cytoskeletal regulation, cytokinesis, and cell migration, and is predominantly active in the cytoplasm (Canales2020K+; Skoblov2013Protein). KCTD5 has been implicated in several cancers, such as triple-negative breast cancer and lung adenocarcinoma, where its expression levels are associated with clinical outcomes and potential as a therapeutic target (Shi2022Comprehensive; Li2024CD8+).
+
+## Structure
+The KCTD5 protein is characterized by a pentameric assembly, a unique feature among its family, which typically forms tetramers. This structure is facilitated by its N-terminal BTB (Broad-Complex, Tramtrack, and Bric-à-brac) domain and a C-terminal domain (CTD), connected by a flexible linker. The BTB domain, spanning residues 45-150, is crucial for oligomerization and partner recognition, forming a pentameric ring that interacts with CUL3 NTD in the E3 ubiquitin ligase complex (Barone2015KCTD5; Nguyen2023Structure). The CTD, comprising residues 156-209, also forms a pentameric structure and is involved in binding to substrates like Gβγ (Nguyen2023Structure).
+
+The protein's secondary structure includes α-helices and β-sheets, with the BTB domain containing five α-helices and a three-stranded β-sheet, while the CTD consists of a three-stranded β-sheet and one α-helix (Barone2015KCTD5). The tertiary structure reveals a gown-like configuration with a central cavity, and the quaternary structure is stabilized by specific intermolecular interactions, including polar and hydrophobic contacts (Dementieva2009Pentameric).
+
+KCTD5's dynamic nature allows for significant interdomain motions, with rotations up to 40°, which are essential for its function in ubiquitylation processes (Barone2015KCTD5; Nguyen2023Structure).
+
+## Function
+KCTD5 is a protein involved in several molecular processes within healthy human cells. It functions as a substrate-specific adaptor for CUL3-based ubiquitin ligases, playing a crucial role in protein degradation pathways by recruiting proteins to be ubiquitinated and subsequently degraded by the proteasome (Bayón2008KCTD5). The BTB domain of KCTD5 is essential for its interaction with CUL3, facilitating the formation of a cullin-based E3 ligase complex (Bayón2008KCTD5).
+
+KCTD5 is also implicated in the regulation of the cytoskeleton and cytokinesis. It interacts with NIMA-related kinase NEK6, which is vital for mitotic spindle formation, and with CKAP5/ch-TOG, a component of the TACC3/clathrin complex that stabilizes kinetochore fibers (Skoblov2013Protein). These interactions suggest a role in cytoskeletal regulation and cell division.
+
+In addition, KCTD5 modulates cell migration and focal adhesion dynamics through calcium signaling and Rac1 activity. Its depletion leads to increased cell migration and spreading, indicating its role as a negative regulator of these processes (Canales2020K+). KCTD5 is predominantly active in the cytoplasm, where it influences cellular homeostasis and signaling pathways (Bayón2008KCTD5).
+
+## Clinical Significance
+KCTD5 has been implicated in various cancers, including triple-negative breast cancer (TNBC) and lung adenocarcinoma (LUAD). In TNBC, high KCTD5 expression is associated with poorer clinical outcomes, such as shorter overall survival, disease-free survival, and relapse-free survival. It is considered an independent prognostic factor alongside lysyl oxidase (LOX) and is linked to drug sensitivity and immune checkpoint gene expression. Knockdown of KCTD5 in TNBC cells reduces cell viability, migration, and invasion, suggesting its potential as a therapeutic target (Li2024CD8+).
+
+In LUAD, KCTD5 expression is significantly increased compared to normal tissues and is associated with advanced tumor stages, lymph node metastasis, and TP53 mutations. High KCTD5 expression correlates with poor prognosis and is linked to immune cell infiltration and hypoxia-related pathways. It is suggested as a potential molecular target for LUAD treatment and a biomarker for diagnosis and prognosis prediction (Shi2022Comprehensive).
+
+KCTD5 also plays a role in cell migration, as its depletion increases migration and spreading in melanoma and breast cancer cells. This effect is mediated through modulation of calcium signaling and Rac1 activity, indicating its involvement in cancer metastasis (Canales2020K+).
+
+## Interactions
+KCTD5 is known to participate in various protein-protein interactions, forming hetero-oligomeric complexes with members of the KCTD protein family. These interactions are facilitated by the BTB domain and the C-terminus of KCTD5. The BTB domain is crucial for interactions with KCTD2, KCTD5 itself, and KCTD17, while the C-terminus is important for interactions with KCTD8, KCTD12, and KCTD16 (Liao2023KCTD5). KCTD5 also interacts with other KCTD family members, including KCTD14, KCTD10, KCTD13, KCNRG, KCTD15, KCTD6, KCTD21, KCTD3, SHKBP1, KCTD18, KCTD20, and BTBD10, with varying interaction strengths (Liao2023KCTD5).
+
+KCTD5 acts as a substrate-specific adaptor for Cullin3-based ubiquitin E3 ligases, interacting with Cullin3 to mediate the ubiquitination of target proteins. This interaction is essential for the mono-ubiquitination of ΔNp63α, a process that modulates its activity (He2018Cullin3KCTD5). KCTD5 also interacts with proteins such as MCM7, ZNF711, and FAM193B, with these interactions being influenced by the subcellular localization of KCTD5 (Rutz2015Interactions). The BTB domain of KCTD5 is critical for its interaction with Cullin3, forming part of a complex that includes Gβγ subunits, which are targeted for ubiquitylation (Nguyen2023Structure).
+
+
+## References
+
+
+[1. (He2018Cullin3KCTD5) Hanbing He, Yougong Peng, Shijie Fan, Yonglong Chen, Xuan Zheng, and Chenghua Li. Cullin3/<scp>kctd</scp>5 induces monoubiquitination of δnp63α and impairs its activity. FEBS Letters, 592(13):2334–2340, June 2018. URL: http://dx.doi.org/10.1002/1873-3468.13104, doi:10.1002/1873-3468.13104. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/1873-3468.13104)
+
+[2. (Barone2015KCTD5) Daniela Barone, Nicole Balasco, and Luigi Vitagliano. Kctd5 is endowed with large, functionally relevant, interdomain motions. Journal of Biomolecular Structure and Dynamics, 34(8):1725–1735, October 2015. URL: http://dx.doi.org/10.1080/07391102.2015.1090343, doi:10.1080/07391102.2015.1090343. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/07391102.2015.1090343)
+
+[3. (Rutz2015Interactions) Natalja Rutz, Regine Heilbronn, and Stefan Weger. Interactions of cullin3/kctd5 complexes with both cytoplasmic and nuclear proteins: evidence for a role in protein stabilization. Biochemical and Biophysical Research Communications, 464(3):922–928, August 2015. URL: http://dx.doi.org/10.1016/j.bbrc.2015.07.069, doi:10.1016/j.bbrc.2015.07.069. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2015.07.069)
+
+[4. (Shi2022Comprehensive) Yuan-Xiang Shi, Wei-Dong Zhang, Peng-Hui Dai, Jun Deng, and Li-Hong Tan. Comprehensive analysis of kctd family genes associated with hypoxic microenvironment and immune infiltration in lung adenocarcinoma. Scientific Reports, June 2022. URL: http://dx.doi.org/10.1038/s41598-022-14250-6, doi:10.1038/s41598-022-14250-6. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-022-14250-6)
+
+[5. (Liao2023KCTD5) Yini Liao, Douglas C. Sloan, Josephine H. Widjaja, and Brian S. Muntean. Kctd5 forms hetero-oligomeric complexes with various members of the kctd protein family. International Journal of Molecular Sciences, 24(18):14317, September 2023. URL: http://dx.doi.org/10.3390/ijms241814317, doi:10.3390/ijms241814317. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms241814317)
+
+[6. (Canales2020K+) Jimena Canales, Pablo Cruz, Nicolás Díaz, Denise Riquelme, Elías Leiva-Salcedo, and Oscar Cerda. K+ channel tetramerization domain 5 (kctd5) protein regulates cell migration, focal adhesion dynamics and spreading through modulation of ca2+ signaling and rac1 activity. Cells, 9(10):2273, October 2020. URL: http://dx.doi.org/10.3390/cells9102273, doi:10.3390/cells9102273. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells9102273)
+
+7. (Nguyen2023Structure) Structure and dynamics of a pentameric KCTD5/Cullin3/Gβγ E3 ubiquitin ligase complex. This article has 2 citations.
+
+[8. (Skoblov2013Protein) Mikhail Skoblov, Andrey Marakhonov, Ekaterina Marakasova, Anna Guskova, Vikas Chandhoke, Aybike Birerdinc, and Ancha Baranova. Protein partners of <scp>kctd</scp> proteins provide insights about their functional roles in cell differentiation and vertebrate development. BioEssays, 35(7):586–596, April 2013. URL: http://dx.doi.org/10.1002/bies.201300002, doi:10.1002/bies.201300002. This article has 72 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/bies.201300002)
+
+[9. (Bayón2008KCTD5) Yolanda Bayón, Antonio G. Trinidad, María L. de la Puerta, María del Carmen Rodríguez, Jori Bogetz, Ana Rojas, José M. De Pereda, Souad Rahmouni, Scott Williams, Shu‐ichi Matsuzawa, John C. Reed, Mariano Sánchez Crespo, Tomas Mustelin, and Andrés Alonso. Kctd5, a putative substrate adaptor for cullin3 ubiquitin ligases. The FEBS Journal, 275(15):3900–3910, July 2008. URL: http://dx.doi.org/10.1111/j.1742-4658.2008.06537.x, doi:10.1111/j.1742-4658.2008.06537.x. This article has 70 citations.](https://doi.org/10.1111/j.1742-4658.2008.06537.x)
+
+[10. (Li2024CD8+) Jia Li and Jingchun Yao. Cd8+ t cell‑related kctd5 contributes to malignant progression and unfavorable clinical outcome of patients with triple‑negative breast cancer. Molecular Medicine Reports, July 2024. URL: http://dx.doi.org/10.3892/mmr.2024.13290, doi:10.3892/mmr.2024.13290. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/mmr.2024.13290)
+
+[11. (Dementieva2009Pentameric) Irina S. Dementieva, Valentina Tereshko, Zoe A. McCrossan, Elena Solomaha, Daniel Araki, Chen Xu, Nikolaus Grigorieff, and Steve A.N. Goldstein. Pentameric assembly of potassium channel tetramerization domain-containing protein 5. Journal of Molecular Biology, 387(1):175–191, March 2009. URL: http://dx.doi.org/10.1016/j.jmb.2009.01.030, doi:10.1016/j.jmb.2009.01.030. This article has 91 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2009.01.030)

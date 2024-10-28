@@ -1,0 +1,52 @@
+# PAQR3
+
+## Overview
+PAQR3, or Progestin and AdipoQ Receptor Family Member 3, is a gene that encodes a seven-transmembrane protein localized to the Golgi apparatus. This protein, distinct from typical G protein-coupled receptors, plays a crucial role in various cellular processes, including autophagy, insulin signaling, and cholesterol homeostasis. As a scaffold protein, PAQR3 facilitates the formation of protein complexes essential for autophagy initiation and modulates the spatial distribution of key signaling molecules, such as the PI3K p110α subunit, thereby influencing insulin signaling pathways. Additionally, PAQR3 is involved in cholesterol regulation by interacting with the Scap/SREBP complex. Its expression levels have significant implications in cancer biology, where it often functions as a tumor suppressor, with altered expression linked to various cancers, including hepatocellular carcinoma, colorectal cancer, and non-small cell lung cancer (Xu2016PAQR3; Guo2020PAQR3; Wang2013PAQR3).
+
+## Structure
+PAQR3 is a type III topological seven-transmembrane protein, distinct from typical G protein-coupled receptors (GPCRs) due to its complex topological structure. The protein's N-terminal is oriented towards the cytoplasm, while the C-terminal is located in the Golgi cavity (Lei2020<p>Characterization). PAQR3 contains a highly conserved PFAM-UPF0073 domain, which is predicted to have a seven-times transmembrane structure (Lei2020<p>Characterization). This structural configuration is crucial for its localization to the Golgi apparatus and its interaction with other proteins, such as Raf-1, in mammalian cells (Lei2020<p>Characterization).
+
+The NH2-terminal region of PAQR3, specifically amino acids 21-60, is essential for its interactions with proteins involved in autophagy, such as Beclin1 and ATG14L, and for modulating the activity of the ATG14L-associated class III PI3K complex (Xu2016PAQR3). Additionally, the NH2-terminal 41-60 amino acids are necessary for binding with Scap, while the first 20 residues are important for interaction with SREBP-2, forming a ternary complex with Scap and SREBP-2 (Xu2015PAQR3). PAQR3 undergoes phosphorylation by AMPK during glucose starvation, which is dependent on ATG14L, occurring at the NH2-terminal 71 amino acids enriched in serine or threonine residues (Xu2016PAQR3).
+
+## Function
+PAQR3, a Golgi-localized membrane protein, plays a significant role in modulating autophagy and insulin signaling in healthy human cells. It acts as a scaffold protein that facilitates the formation of the ATG14L-linked VPS34 complex, essential for autophagy initiation. This complex generates phosphatidylinositol 3-phosphate (PI(3)P), crucial for the nucleation of the isolation membrane and recruitment of downstream autophagy effectors. PAQR3 enhances the activity of the ATG14L-associated class III PI3K complex, which is vital for autophagy initiation, particularly under conditions like glucose starvation (Xu2016PAQR3).
+
+In insulin signaling, PAQR3 modulates the spatial distribution of the PI3K p110α subunit by tethering it to the Golgi apparatus. This spatial regulation affects insulin-stimulated PI3K activity and phosphoinositide triphosphate production. PAQR3's interaction with p110α reduces its interaction with the p85 regulatory subunit, thereby negatively regulating insulin signaling by sequestering PI3K to the Golgi (Wang2013PAQR3).
+
+PAQR3 also influences cholesterol homeostasis by anchoring the Scap/SREBP complex to the Golgi apparatus, promoting SREBP processing and lipid synthesis. This interaction is crucial for maintaining cholesterol levels, as PAQR3 competes with Insig for Scap binding in a cholesterol-dependent manner (Xu2015PAQR3).
+
+## Clinical Significance
+Alterations in the expression of the PAQR3 gene have been implicated in various cancers, where it often acts as a tumor suppressor. In hepatocellular carcinoma (HCC), decreased PAQR3 expression is associated with poor prognosis and is an independent prognostic marker for overall and disease-free survival. Restoring PAQR3 expression in HCC cells reduces proliferation, suggesting its role in inhibiting tumor growth (WU2014Identification).
+
+In colorectal cancer, PAQR3 is downregulated in a significant number of tumors, correlating with higher tumor grades and increased cell proliferation. Its overexpression inhibits cell growth and ERK phosphorylation, indicating its suppressive role in tumorigenesis (Wang2012PAQR3).
+
+PAQR3 also plays a critical role in non-small cell lung cancer (NSCLC), where its expression is linked to better prognosis in lung adenocarcinoma patients. It inhibits NSCLC cell growth by regulating the NF-κB/p53/Bax signaling pathway, promoting apoptosis and reducing proliferation (Guo2020PAQR3).
+
+In gastric cancer, low PAQR3 expression is associated with poor survival outcomes and increased risks of metastasis. It is linked to epithelial-mesenchymal transition (EMT), a key process in cancer metastasis (Ling2014A). PAQR3's role in various cancers highlights its potential as a prognostic marker and therapeutic target.
+
+## Interactions
+PAQR3, also known as RKTG, is involved in several protein interactions that are crucial for its function in cellular processes. It interacts with COPII coat proteins, specifically Sec13 and Sec31A, facilitating the tethering of COPII vesicles to the Golgi apparatus. This interaction is mediated by the WD domains of Sec13 and Sec31A and the N-terminal 1-70 amino acids of PAQR3 (Cao2018PAQR3). PAQR3 also plays a role in cholesterol homeostasis by interacting with the Scap/SREBP complex. It anchors this complex to the Golgi, promoting SREBP processing and cholesterol biosynthesis. The interaction with Scap is mediated by amino acid residues 41-60, while the first 20 residues are required for SREBP-2 binding (Xu2015PAQR3).
+
+PAQR3 is involved in the Gβγ-PKD signaling pathway, where it interacts with the Gβ subunit through its N-terminus, affecting Golgi vesicle fission and transport (Hewavitharana2015PAQR3). It also modulates insulin signaling by reducing the interaction between the p85α and p110α subunits of phosphoinositide 3-kinase (PI3K), thereby inhibiting PI3K activity (Wang2013PAQR3).
+
+
+## References
+
+
+[1. (Ling2014A) Z.Q. Ling, W. Guo, X.X. Lu, X. Zhu, L.L. Hong, Z. Wang, Z. Wang, and Y. Chen. A golgi-specific protein paqr3 is closely associated with the progression, metastasis and prognosis of human gastric cancers. Annals of Oncology, 25(7):1363–1372, July 2014. URL: http://dx.doi.org/10.1093/annonc/mdu168, doi:10.1093/annonc/mdu168. This article has 50 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/annonc/mdu168)
+
+[2. (Wang2012PAQR3) X. Wang, X. Li, F. Fan, S. Jiao, L. Wang, L. Zhu, Y. Pan, G. Wu, Z.-Q. Ling, J. Fang, and Y. Chen. Paqr3 plays a suppressive role in the tumorigenesis of colorectal cancers. Carcinogenesis, 33(11):2228–2235, July 2012. URL: http://dx.doi.org/10.1093/carcin/bgs245, doi:10.1093/carcin/bgs245. This article has 42 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/carcin/bgs245)
+
+[3. (Wang2013PAQR3) Xiao Wang, Lingdi Wang, Lu Zhu, Yi Pan, Fei Xiao, Weizhong Liu, Zhenzhen Wang, Feifan Guo, Yong Liu, Walter G. Thomas, and Yan Chen. Paqr3 modulates insulin signaling by shunting phosphoinositide 3-kinase p110α to the golgi apparatus. Diabetes, 62(2):444–456, January 2013. URL: http://dx.doi.org/10.2337/db12-0244, doi:10.2337/db12-0244. This article has 45 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.2337/db12-0244)
+
+[4. (WU2014Identification) HONG GE WU, WEN JIE ZHANG, QIAN DING, GANG PENG, ZHEN WEI ZOU, TING LIU, RU BO CAO, SHI JIANG FEI, PENG CHENG LI, KUN YU YANG, JIAN LI HU, XIANG FANG DAI, GANG WU, and PIN DONG LI. Identification of paqr3 as a new candidate tumor suppressor in hepatocellular carcinoma. Oncology Reports, 32(6):2687–2695, October 2014. URL: http://dx.doi.org/10.3892/or.2014.3532, doi:10.3892/or.2014.3532. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.2014.3532)
+
+[5. (Cao2018PAQR3) Qianqian Cao, Zheng Wang, Huida Wan, Lijiao Xu, Xue You, Lujian Liao, and Yan Chen. Paqr3 regulates endoplasmic reticulum-to-golgi trafficking of copii vesicle via interaction with sec13/sec31 coat proteins. iScience, 9:382–398, November 2018. URL: http://dx.doi.org/10.1016/j.isci.2018.11.002, doi:10.1016/j.isci.2018.11.002. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.isci.2018.11.002)
+
+[6. (Hewavitharana2015PAQR3) Thamara Hewavitharana and Philip B. Wedegaertner. Paqr3 regulates golgi vesicle fission and transport via the gβγ–pkd signaling pathway. Cellular Signalling, 27(12):2444–2451, December 2015. URL: http://dx.doi.org/10.1016/j.cellsig.2015.08.017, doi:10.1016/j.cellsig.2015.08.017. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2015.08.017)
+
+[7. (Xu2016PAQR3) Da‐Qian Xu, Zheng Wang, Chen‐Yao Wang, De‐Yi Zhang, Hui‐Da Wan, Zi‐Long Zhao, Jin Gu, Yong‐Xian Zhang, Zhi‐Gang Li, Kai‐Yang Man, Yi Pan, Zhi‐Fei Wang, Zun‐Ji Ke, Zhi‐Xue Liu, Lu‐Jian Liao, and Yan Chen. <scp>paqr</scp>3 controls autophagy by integrating <scp>ampk</scp> signaling to enhance <scp>atg</scp>14l‐associated <scp>pi</scp>3k activity. The EMBO Journal, 35(5):496–514, February 2016. URL: http://dx.doi.org/10.15252/embj.201592864, doi:10.15252/embj.201592864. This article has 62 citations.](https://doi.org/10.15252/embj.201592864)
+
+[8. (Guo2020PAQR3) Qiang Guo, Xi-Xian Ke, Shi-Xu Fang, Wei-Long Gao, Yong-Xiang Song, Cheng Chen, Hong-Ling Lu, and Gang Xu. Paqr3 inhibits non-small cell lung cancer growth by regulating the nf-κb/p53/bax axis. Frontiers in Cell and Developmental Biology, October 2020. URL: http://dx.doi.org/10.3389/fcell.2020.581919, doi:10.3389/fcell.2020.581919. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2020.581919)
+
+[9. (Xu2015PAQR3) Daqian Xu, Zheng Wang, Yuxue Zhang, Wei Jiang, Yi Pan, Bao-Liang Song, and Yan Chen. Paqr3 modulates cholesterol homeostasis by anchoring scap/srebp complex to the golgi apparatus. Nature Communications, August 2015. URL: http://dx.doi.org/10.1038/ncomms9100, doi:10.1038/ncomms9100. This article has 88 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms9100)

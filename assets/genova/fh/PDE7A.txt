@@ -1,0 +1,54 @@
+# PDE7A
+
+## Overview
+PDE7A is a gene that encodes the enzyme phosphodiesterase 7A, which is a member of the phosphodiesterase family of proteins. This enzyme is categorized as a cAMP-specific phosphodiesterase, playing a pivotal role in the hydrolysis of cyclic adenosine monophosphate (cAMP) to 5' adenosine monophosphate (AMP), thereby regulating intracellular levels of cAMP, a crucial second messenger in various cellular signaling pathways. The PDE7A gene undergoes alternative splicing, resulting in multiple isoforms, including PDE7A1 and PDE7A2, which differ in their subcellular localization and kinetic properties (Han1997Alternative). PDE7A is expressed in a wide range of tissues, particularly in immune cells, where it is involved in modulating immune responses and inflammation (Smith2003Ubiquitous). The enzyme's activity and expression patterns suggest its potential as a therapeutic target in inflammatory diseases and neurological disorders (Glavas2001T; Chen2021Phosphodiesterase).
+
+## Structure
+The PDE7A protein is a cAMP-specific phosphodiesterase with a catalytic domain that is conserved across phosphodiesterase families. This domain consists of approximately 300 amino acids and includes fourteen α-helices, which are typical of the secondary structure of phosphodiesterases (Ke2007Crystal). The catalytic domain of PDE7A1, spanning residues 130-482, shows structural similarity to PDE4D, with a root mean square deviation of 0.93 Å for the superposition of 317 Cα atoms, indicating a high degree of structural conservation (Ke2007Crystal).
+
+PDE7A exists in multiple isoforms due to alternative splicing, notably PDE7A1 and PDE7A2. PDE7A1 is a 57 kDa protein, while PDE7A2 is a 50 kDa protein with a hydrophobic N terminus, which influences its subcellular localization to particulate fractions (Han1997Alternative). The alternative splicing results in small effects on kinetic properties but significantly affects subcellular localization (Han1997Alternative).
+
+The tertiary structure of PDE7A includes a catalytic site that binds two divalent metal ions, zinc and magnesium, essential for its enzymatic activity (Ke2007Crystal). The presence of allosteric modulation cavities, such as the PA2 cavity, suggests potential sites for drug interactions, which could influence the catalytic mechanism (Redondo2013Unraveling).
+
+## Function
+Phosphodiesterase 7A (PDE7A) is an enzyme that plays a critical role in regulating intracellular levels of cyclic AMP (cAMP), a key second messenger involved in various cellular signaling pathways. By hydrolyzing cAMP to 5' AMP, PDE7A modulates cAMP-dependent processes, which are crucial for cellular functions such as immune response and inflammation control (Glavas2001T; Smith2003Ubiquitous).
+
+PDE7A is expressed in a variety of immune cells, including CD4+ and CD8+ T lymphocytes, monocytes, and airway smooth muscle cells, indicating its involvement in immune regulation and inflammatory responses (Smith2003Ubiquitous). In T cells, PDE7A1, a splice variant of PDE7A, is up-regulated following activation, which is essential for optimal T cell activation and function by reducing cAMP levels that otherwise inhibit T cell activity (Glavas2001T).
+
+The enzyme's activity is particularly significant in naïve CD4+ T cells, where it is expressed at higher levels compared to memory T cells, although its expression decreases upon activation, suggesting a regulatory role during T cell maturation (Nueda2006Phosphodiesterase). PDE7A's ability to control cAMP levels positions it as a potential target for therapeutic interventions in inflammatory diseases (Glavas2001T).
+
+## Clinical Significance
+The PDE7A gene has been implicated in several diseases due to alterations in its expression levels and interactions. In Alzheimer's disease (AD), abnormal expression of PDE7A has been observed, with a noted decrease in PDE7A mRNA levels in the brain's white matter as the disease progresses. This suggests a potential link between PDE7A and AD pathogenesis, although the specific role of PDE7A in AD remains to be fully elucidated (Chen2021Phosphodiesterase).
+
+PDE7A is also considered a potential therapeutic target for central nervous system diseases, including Parkinson's disease (PD). In PD models, PDE7A inhibitors have shown promise in reducing neuronal death and glial activation, indicating a possible role in mitigating disease symptoms (Chen2021Phosphodiesterase).
+
+In the context of chronic lymphocytic leukemia, PDE7A expression is considered a prognostic indicator, although effective inhibitors are not yet available (Azevedo2013Clinical). Despite its potential significance in these conditions, the physiological functions of PDE7A and the impact of its mutations remain unclear, highlighting the need for further research to explore its clinical implications (Narjes2024Computational).
+
+## Interactions
+Phosphodiesterase 7A (PDE7A) is involved in various protein interactions that are crucial for its role in cellular signaling. PDE7A is part of the cAMP-specific phosphodiesterases, which regulate cellular processes by terminating cyclic nucleotide signals. It has a high affinity for cAMP and is involved in the cAMP/PKA signaling pathway in neurons and immune cells (Narjes2024Computational). 
+
+PDE7A interacts with proteins involved in immune response and inflammation, such as CD4+ T cells, and is ubiquitously expressed in proinflammatory and immune cells, including CD4+ and CD8+ T lymphocytes, neutrophils, macrophages, and monocytes (Smith2003Ubiquitous). The enzyme's distribution mirrors that of PDE4, suggesting a possible role in regulating cAMP-dependent responses in cells central to asthma and COPD pathogenesis (Smith2003Ubiquitous).
+
+The study of PDE7A's protein-protein interactions (PPIs) is essential for understanding its role in biochemical cascades and its implications in diseases like cancer and neurological disorders (Narjes2024Computational). These interactions are crucial for the enzyme's function and its potential as a drug target for central nervous system diseases and chronic lymphocytic leukemia (Narjes2024Computational).
+
+
+## References
+
+
+[1. (Redondo2013Unraveling) Miriam Redondo, Ignacio Soteras, José Brea, Alejandro González-García, María Isabel Cadavid, María Isabel Loza, Ana Martinez, Carmen Gil, and Nuria E. Campillo. Unraveling phosphodiesterase surfaces. identification of phosphodiesterase 7 allosteric modulation cavities. European Journal of Medicinal Chemistry, 70:781–788, December 2013. URL: http://dx.doi.org/10.1016/j.ejmech.2013.10.035, doi:10.1016/j.ejmech.2013.10.035. This article has 5 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.ejmech.2013.10.035)
+
+[2. (Narjes2024Computational) Narjes El Osta, Abir M. EM Sharif, and Omran Algriany. Computational analyses of amino acid molecules in pde7a for elucidating their evolutionary diversity and protein interactions in multiple mammalian species. AlQalam Journal of Medical and Applied Sciences, pages 934–944, October 2024. URL: http://dx.doi.org/10.54361/ajmas.247406, doi:10.54361/ajmas.247406. This article has 0 citations.](https://doi.org/10.54361/ajmas.247406)
+
+[3. (Azevedo2013Clinical) Monalisa F. Azevedo, Fabio R. Faucz, Eirini Bimpaki, Anelia Horvath, Isaac Levy, Rodrigo B. de Alexandre, Faiyaz Ahmad, Vincent Manganiello, and Constantine A. Stratakis. Clinical and molecular genetics of the phosphodiesterases (pdes). Endocrine Reviews, 35(2):195–233, December 2013. URL: http://dx.doi.org/10.1210/er.2013-1053, doi:10.1210/er.2013-1053. This article has 228 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1210/er.2013-1053)
+
+[4. (Chen2021Phosphodiesterase) Ying Chen, Hao Wang, Wen-zhi Wang, Dong Wang, Keith Skaggs, and Han-Ting Zhang. Phosphodiesterase 7(pde7): a unique drug target for central nervous system diseases. Neuropharmacology, 196:108694, September 2021. URL: http://dx.doi.org/10.1016/j.neuropharm.2021.108694, doi:10.1016/j.neuropharm.2021.108694. This article has 12 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.neuropharm.2021.108694)
+
+[5. (Ke2007Crystal) Hengming Ke and Huanchen Wang. Crystal structures of phosphodiesterases and implications on substrate specificity and inhibitor selectivity. Current Topics in Medicinal Chemistry, 7(4):391–403, February 2007. URL: http://dx.doi.org/10.2174/156802607779941242, doi:10.2174/156802607779941242. This article has 125 citations and is from a peer-reviewed journal.](https://doi.org/10.2174/156802607779941242)
+
+[6. (Han1997Alternative) Ping Han, Xiaoyan Zhu, and Tamar Michaeli. Alternative splicing of the high affinity camp-specific phosphodiesterase (pde7a) mrna in human skeletal muscle and heart. Journal of Biological Chemistry, 272(26):16152–16157, June 1997. URL: http://dx.doi.org/10.1074/jbc.272.26.16152, doi:10.1074/jbc.272.26.16152. This article has 98 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.272.26.16152)
+
+[7. (Smith2003Ubiquitous) Susan J. Smith, Steven Brookes-Fazakerley, Louise E. Donnelly, Peter J. Barnes, Mary S. Barnette, and Mark A. Giembycz. Ubiquitous expression of phosphodiesterase 7a in human proinflammatory and immune cells. American Journal of Physiology-Lung Cellular and Molecular Physiology, 284(2):L279–L289, February 2003. URL: http://dx.doi.org/10.1152/ajplung.00170.2002, doi:10.1152/ajplung.00170.2002. This article has 88 citations.](https://doi.org/10.1152/ajplung.00170.2002)
+
+[8. (Nueda2006Phosphodiesterase) Arsenio Nueda, Nuria García-Roger, Teresa Domenech, Nuria Godessart, Alvaro Cárdenas, Luis F. Santamaría-Babi, and Jorge Beleta. Phosphodiesterase 7a1 is expressed in human cd4+ naïve t cells at higher levels than in cd4+ memory cells and is not required during their cd3/cd28-dependent activation. Cellular Immunology, 242(1):31–38, July 2006. URL: http://dx.doi.org/10.1016/j.cellimm.2006.09.001, doi:10.1016/j.cellimm.2006.09.001. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellimm.2006.09.001)
+
+[9. (Glavas2001T) Natalie A. Glavas, Cari Ostenson, Jonathan B. Schaefer, Valeria Vasta, and Joseph A. Beavo. T cell activation up-regulates cyclic nucleotide phosphodiesterases 8a1 and 7a3. Proceedings of the National Academy of Sciences, 98(11):6319–6324, May 2001. URL: http://dx.doi.org/10.1073/pnas.101131098, doi:10.1073/pnas.101131098. This article has 92 citations.](https://doi.org/10.1073/pnas.101131098)

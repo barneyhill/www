@@ -1,0 +1,50 @@
+# DCP2
+
+## Overview
+DCP2 is a gene that encodes the decapping mRNA 2 protein, a pivotal enzyme in the mRNA decapping complex, which is integral to mRNA turnover and gene expression regulation. The DCP2 protein is characterized as a decapping enzyme, featuring a catalytic Nudix domain responsible for hydrolyzing the 7-methylguanosine cap from mRNA molecules, thereby marking them for degradation. This process is crucial for maintaining mRNA stability and translation efficiency, influencing cellular responses and RNA homeostasis (Chang2014The; Vukovic2024Nonredundant). DCP2 interacts with various cofactors, including DCP1a and DCP1b, and is modulated by activators such as Dhh1, Pat1, Edc3, and Scd6, which enhance its decapping activity (Vukovic2024Nonredundant; Vijjamarri2023Decapping). The gene's role extends to clinical significance, where its mutations and expression alterations have been linked to diseases like cancer, highlighting its potential as a therapeutic target (Zhang2021miR4293; Kunar2020A).
+
+## Structure
+The DCP2 protein is a key component of the mRNA decapping complex, which plays a crucial role in mRNA degradation. Structurally, DCP2 consists of an N-terminal regulatory domain (NRD), a catalytic Nudix domain, and a C-terminal variable region (Chang2014The). The NRD is involved in interactions with DCP1, which are essential for the decapping activity, and this interaction is facilitated by EDC4, which acts as a scaffold (Chang2014The). The Nudix domain is responsible for the hydrolysis of the mRNA cap structure, releasing m7GDP and a 5'-monophosphorylated mRNA (Chang2014The).
+
+The protein's structure includes a flexible hinge region between the NRD and Nudix domains, allowing DCP2 to adopt open or closed conformations, which are critical for its catalytic function (Chang2014The). Specific residues, such as W44 in helix a2 and K130 in the Nudix domain, are crucial for catalytic activity (Chang2014The). The interaction with DCP1 involves a conserved asparagine-arginine loop in the DCP1 EVH1 domain, which is important for DCP2 activation (Chang2014The).
+
+DCP2 also contains a phenylalanine-rich motif in its C-terminal region, which is necessary for binding to EDC4, further highlighting its role in the assembly of the decapping complex (Chang2014The).
+
+## Function
+DCP2 is a crucial enzyme in the mRNA decapping complex, which plays a significant role in mRNA turnover and gene expression regulation in human cells. It functions by removing the 7-methylguanosine cap from the 5' end of mRNA molecules, marking them for degradation. This decapping process is essential for mRNA stability and translation efficiency, influencing cellular responses and maintaining RNA homeostasis (Vukovic2024Nonredundant).
+
+In humans, DCP2 interacts with cofactors DCP1a and DCP1b, which have non-redundant roles in the decapping complex. DCP1a is essential for complex assembly and interactions with mRNA cap-binding proteins, while DCP1b is crucial for interactions with protein degradation and translational machinery (Vukovic2024Nonredundant). The interaction between DCP2 and DCP1 proteins is stabilized by the decapping enhancer protein EDC4, necessary for efficient decapping activity in vivo (Vukovic2024Nonredundant).
+
+DCP2's activity is modulated by various activators, including Dhh1, Pat1, Edc3, and Scd6, which work together to stimulate decapping and subsequent mRNA degradation (Vijjamarri2023Decapping). This regulation of mRNA abundance and translation is crucial for adjusting cellular metabolism and responses to nutrient availability (Vijjamarri2023Decapping).
+
+## Clinical Significance
+Mutations and alterations in the expression of the DCP2 gene have been implicated in various diseases, particularly in cancer. In Drosophila melanogaster, DCP2 has been identified as a novel tumor suppressor gene. Mutations in DCP2, such as the l(3)tb allele, lead to developmental delays, tumorous larval brains, and lethality. These mutations are characterized by hyperplastic tumors with elevated levels of Cyclins A and E, indicating increased cell proliferation and rapid cell cycles (Kunar2020A). The mutation involves a Gypsy-LTR like sequence in the 5'UTR coding region of DCP2, suggesting a link between mRNA degradation pathways and tumor biology (Kunar2020A).
+
+In humans, DCP2 is involved in mRNA decay, and its downregulation has been associated with lung carcinoma. The microRNA miR-4293 targets DCP2, leading to its suppression and resulting in increased levels of the long non-coding RNA WFDC21P. This interaction enhances STAT3 phosphorylation, promoting lung cancer cell proliferation and metastasis (Zhang2021miR4293). The study suggests that targeting the interaction between miR-4293 and DCP2 could be a potential therapeutic strategy for lung cancer treatment (Zhang2021miR4293).
+
+## Interactions
+DCP2 is a key enzyme in mRNA decapping, interacting with several proteins to form complexes that regulate mRNA degradation. It forms a complex with DCP1, which is essential for its decapping activity. This complex is further modulated by interactions with proteins such as Edc3, Edc1, and Edc2, which enhance the catalytic efficiency of DCP2 by promoting tighter enzyme-substrate binding and facilitating conformational changes necessary for decapping (Borja2010Dcp1; Tibble2020Biomolecular).
+
+Edc3 plays a significant role in activating DCP2 by alleviating its autoinhibition through interactions with helical leucine-rich motifs in the intrinsically disordered region of DCP2. This interaction promotes phase separation, which is crucial for the decapping process within biomolecular condensates (Tibble2020Biomolecular). The presence of Edc3 enhances the decapping activity of DCP2 by shifting its conformation towards a precatalytic state, thereby increasing RNA binding affinity (Tibble2020Biomolecular).
+
+DCP2 also interacts with the Lsm1-7 complex and Pat1, forming a larger network of interactions that facilitate the transition of mRNPs from a translationally active state to one that allows for mRNA degradation (Decker2012PBodies). These interactions highlight the complex regulatory mechanisms involving DCP2 in mRNA turnover.
+
+
+## References
+
+
+[1. (Decker2012PBodies) C. J. Decker and R. Parker. P-bodies and stress granules: possible roles in the control of translation and mrna degradation. Cold Spring Harbor Perspectives in Biology, 4(9):a012286–a012286, July 2012. URL: http://dx.doi.org/10.1101/cshperspect.a012286, doi:10.1101/cshperspect.a012286. This article has 624 citations and is from a peer-reviewed journal.](https://doi.org/10.1101/cshperspect.a012286)
+
+[2. (Vijjamarri2023Decapping) Anil Kumar Vijjamarri, Xiao Niu, Matthew D Vandermeulen, Chisom Onu, Fan Zhang, Hongfang Qiu, Neha Gupta, Swati Gaikwad, Miriam L Greenberg, Paul J Cullen, Zhenguo Lin, and Alan G Hinnebusch. Decapping factor dcp2 controls mrna abundance and translation to adjust metabolism and filamentation to nutrient availability. eLife, June 2023. URL: http://dx.doi.org/10.7554/elife.85545, doi:10.7554/elife.85545. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.85545)
+
+3. (Kunar2020A) A forward genetic approach to mapping aP-element second site mutation identifiesDCP2as a novel tumor suppressor inDrosophila melanogaster. This article has 0 citations.
+
+[4. (Chang2014The) Chung-Te Chang, Natalia Bercovich, Belinda Loh, Stefanie Jonas, and Elisa Izaurralde. The activation of the decapping enzyme dcp2 by dcp1 occurs on the edc4 scaffold and involves a conserved loop in dcp1. Nucleic Acids Research, 42(8):5217–5233, February 2014. URL: http://dx.doi.org/10.1093/nar/gku129, doi:10.1093/nar/gku129. This article has 97 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gku129)
+
+[5. (Zhang2021miR4293) Qian Zhang, Yun-Fei Yan, Qing Lv, You-Jie Li, Ran-Ran Wang, Guang-Bin Sun, Li Pan, Jin-Xia Hu, Ning Xie, Can Zhang, Bao-Cheng Tian, Fei Jiao, Sen Xu, Ping-Yu Wang, and Shu-Yang Xie. Mir-4293 upregulates lncrna wfdc21p by suppressing mrna-decapping enzyme 2 to promote lung carcinoma proliferation. Cell Death &amp; Disease, July 2021. URL: http://dx.doi.org/10.1038/s41419-021-04021-y, doi:10.1038/s41419-021-04021-y. This article has 20 citations.](https://doi.org/10.1038/s41419-021-04021-y)
+
+[6. (Vukovic2024Nonredundant) Ivana Vukovic, Samantha M Barnada, Jonathan W Ruffin, Jon Karlin, Ravi Kumar Lokareddy, Gino Cingolani, and Steven B McMahon. Non-redundant roles for the human mrna decapping cofactor paralogs dcp1a and dcp1b. Life Science Alliance, 7(11):e202402938, September 2024. URL: http://dx.doi.org/10.26508/lsa.202402938, doi:10.26508/lsa.202402938. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202402938)
+
+[7. (Borja2010Dcp1) Mark S. Borja, Kirill Piotukh, Christian Freund, and John D. Gross. Dcp1 links coactivators of mrna decapping to dcp2 by proline recognition. RNA, 17(2):278–290, December 2010. URL: http://dx.doi.org/10.1261/rna.2382011, doi:10.1261/rna.2382011. This article has 45 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.2382011)
+
+8. (Tibble2020Biomolecular) Biomolecular condensates amplify mRNA decapping by coupling protein interactions with conformational changes in Dcp1/Dcp2. This article has 3 citations.

@@ -1,0 +1,41 @@
+# MRS2
+
+## Overview
+The MRS2 gene encodes a mitochondrial magnesium transporter protein, which is integral to the maintenance of magnesium ion (Mg2+) homeostasis within the mitochondria. This protein, categorized as a transmembrane transporter, is essential for mitochondrial metabolic functions, including ATP production and enzymatic activities, by facilitating the transport of Mg2+ across the inner mitochondrial membrane. Structurally, the MRS2 protein forms a pentameric channel with a unique architecture that includes transmembrane helices and a central ion-conduction pore, allowing it to efficiently conduct Mg2+ ions. The protein's function is modulated by Mg2+ binding, which influences its structural stability and activity, underscoring its role in cellular energy metabolism and viability. Disruptions in the MRS2 gene can lead to mitochondrial dysfunction and are associated with conditions such as demyelination, highlighting its clinical significance (Lai2023CryoEM; Kuramoto2011A; Li2023Molecular).
+
+## Structure
+The human MRS2 protein is a mitochondrial magnesium transporter that forms a pentameric channel, crucial for Mg2+ transport across the inner mitochondrial membrane. The primary structure of MRS2 includes sequences that form transmembrane domains, specifically two transmembrane helices, TM1 and TM2, which are integral to its function (Li2023Molecular). The secondary structure is characterized by a combination of alpha helices and beta strands, with the N-terminal region comprising a compact α/β domain (He2023Structure; Lai2023CryoEM).
+
+The tertiary structure involves the folding of these helices into a funnel-shaped architecture, with a central ion-conduction pore formed by the intertwined α8/TM1 helices from five subunits (Lai2023CryoEM). The quaternary structure is a symmetrical pentamer, exhibiting fivefold symmetry, which is similar to other proteins in the CorA family, despite low sequence homology (Li2023Molecular).
+
+MRS2 also features a conserved GMN motif near the intermembrane side, which plays a role in Mg2+ ion capture, and a unique Cl- binding site composed of five Arg332 residues, suggesting a distinct mechanism for Mg2+ permeation (Lai2023CryoEM; Li2023Molecular). The channel's structure and gating mechanisms are influenced by key residues such as R332 and M336, which are crucial for its function (Lai2023CryoEM).
+
+## Function
+The MRS2 gene encodes a magnesium transporter protein located in the inner mitochondrial membrane, playing a crucial role in maintaining magnesium (Mg2+) homeostasis within mitochondria. This protein is essential for mitochondrial metabolic function, as it facilitates the permeation of Mg2+ ions through the inner mitochondrial membrane, which is vital for ATP production and various enzymatic activities (Lai2023CryoEM; Li2023Molecular). MRS2 forms symmetrical pentamers and utilizes a membrane potential-driven mechanism to transport Mg2+ ions, with Cl- ions assisting in overcoming electrostatic repulsion during the permeation process (Li2023Molecular).
+
+In healthy human cells, MRS2 is involved in regulating cellular energy metabolism and cell viability by ensuring adequate Mg2+ levels in the mitochondrial matrix. This regulation supports the function of the electron transport chain and ATP synthesis, which are critical for cellular energy supply (Yamanaka2016Mitochondrial). The protein's activity is modulated by Mg2+ binding, which affects its structural stability and function, highlighting its role in maintaining cellular and mitochondrial health (Uthayabalan2023The). Disruption of MRS2 function can lead to impaired mitochondrial metabolism and increased susceptibility to cellular stress (Lai2023CryoEM).
+
+## Clinical Significance
+Mutations in the MRS2 gene, which encodes a mitochondrial magnesium (Mg2+) transporter, have been linked to demyelination in rats, a condition characterized by the breakdown of the myelin sheath in the central nervous system (CNS). This mutation results in a loss of function of the MRS2 protein, leading to mitochondrial dysfunction, including elevated lactic acid levels, reduced ATP production, and altered mitochondrial morphology. These mitochondrial deficiencies are associated with the demyelinating phenotype observed in mutant rats, which serves as a model for studying mitochondrial diseases affecting myelin maintenance (Kuramoto2011A).
+
+The mutation involves a G-to-A transition that creates a novel splice acceptor site, resulting in a truncated, non-functional protein. This mutation is considered a null allele and is consistent with its recessive nature (Kuramoto2011A). The demyelination observed in these rats is similar to mitochondrial diseases such as Leigh syndrome and mitochondrial DNA depletion syndrome, highlighting the role of mitochondrial dysfunction in energy-demanding tissues (Kuramoto2011A).
+
+In human cells, knockdown of MRS2 leads to reduced Mg2+ uptake into mitochondria, loss of respiratory complex I, and cell death, indicating its critical role in maintaining mitochondrial function (Piskacek2009Conditional).
+
+
+## References
+
+
+1. (He2023Structure) Structure and function of the human mitochondrial MRS2 channel. This article has 1 citations.
+
+2. (Lai2023CryoEM) Cryo-EM structures of human magnesium channel MRS2 reveal gating and regulatory mechanisms. This article has 0 citations.
+
+[3. (Yamanaka2016Mitochondrial) Ryu Yamanaka, Sho Tabata, Yutaka Shindo, Kohji Hotta, Koji Suzuki, Tomoyoshi Soga, and Kotaro Oka. Mitochondrial mg2+ homeostasis decides cellular energy metabolism and vulnerability to stress. Scientific Reports, July 2016. URL: http://dx.doi.org/10.1038/srep30027, doi:10.1038/srep30027. This article has 104 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep30027)
+
+[4. (Uthayabalan2023The) Sukanthathulse Uthayabalan, Neelanjan Vishnu, Muniswamy Madesh, and Peter B Stathopulos. The human mrs2 magnesium-binding domain is a regulatory feedback switch for channel activity. Life Science Alliance, 6(4):e202201742, February 2023. URL: http://dx.doi.org/10.26508/lsa.202201742, doi:10.26508/lsa.202201742. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202201742)
+
+[5. (Piskacek2009Conditional) Martin Piskacek, Ludmila Zotova, Gábor Zsurka, and Rudolf J. Schweyen. Conditional knockdown of hmrs2 results in loss of mitochondrial mg + uptake and cell death. Journal of Cellular and Molecular Medicine, 13(4):693–700, April 2009. URL: http://dx.doi.org/10.1111/j.1582-4934.2008.00328.x, doi:10.1111/j.1582-4934.2008.00328.x. This article has 62 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/j.1582-4934.2008.00328.x)
+
+[6. (Kuramoto2011A) Takashi Kuramoto, Mitsuru Kuwamura, Satoko Tokuda, Takeshi Izawa, Yoshifumi Nakane, Kazuhiro Kitada, Masaharu Akao, Jean-Louis Guénet, and Tadao Serikawa. A mutation in the gene encoding mitochondrial mg2+ channel mrs2 results in demyelination in the rat. PLoS Genetics, 7(1):e1001262, January 2011. URL: http://dx.doi.org/10.1371/journal.pgen.1001262, doi:10.1371/journal.pgen.1001262. This article has 45 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1001262)
+
+[7. (Li2023Molecular) Ming Li, Yang Li, Yue Lu, Jianhui Li, Xuhang Lu, Yue Ren, Tianlei Wen, Yaojie Wang, Shenghai Chang, Xing Zhang, Xue Yang, and Yuequan Shen. Molecular basis of mg2+ permeation through the human mitochondrial mrs2 channel. Nature Communications, August 2023. URL: http://dx.doi.org/10.1038/s41467-023-40516-2, doi:10.1038/s41467-023-40516-2. This article has 13 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-40516-2)

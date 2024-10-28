@@ -1,0 +1,48 @@
+# SUGP1
+
+## Overview
+SUGP1 is a gene that encodes the protein SURP and G-patch domain containing 1, which plays a pivotal role in the process of RNA splicing. This protein is characterized by the presence of two tandem SURP domains and a G-patch domain, which are integral to its function in the spliceosome, a complex responsible for the removal of introns from pre-mRNA. The SURP domains facilitate interactions with the branchsite binding protein SF1, while the G-patch domain is involved in activating RNA helicases, crucial for branch point recognition by the SF3B1-containing U2 snRNP (Zhang2023Characterization; Zhang2019DiseaseCausing). SUGP1 is essential for the accurate selection of branch sites and 3' splice sites, ensuring splicing fidelity and preventing cryptic splicing errors. Mutations in SUGP1 can lead to splicing defects and have been implicated in various cancers and lipid metabolism disorders, highlighting its clinical significance (Zhang2023Characterization; Deng2020Association).
+
+## Structure
+The SUGP1 protein, encoded by the human gene SUGP1, is involved in RNA splicing and contains distinct structural domains that contribute to its function. The protein features two tandem SURP domains and a G-patch domain. The SURP domains are known to interact with the branchsite binding protein SF1, while the G-patch domain is involved in activating RNA helicases, which is crucial for branch point recognition by the SF3B1-containing U2 snRNP (Zhang2019DiseaseCausing). 
+
+The G-patch domain, located between amino acids 560-606, is a significant structural feature, although direct interactions with SF3B1 occur outside this patch (Zhang2023Characterization). The C-terminal region of SUGP1, particularly the last two residues (Y645 and Y644), is crucial for its interaction with SF3B1, forming multiple interactions such as salt bridges, Pi interactions, and hydrogen bonds (Zhang2023Characterization). 
+
+Mutations in SUGP1, particularly those affecting the SF3B1-interacting regions, can lead to splicing defects similar to those caused by SF3B1 mutations, highlighting the importance of these structural interactions in maintaining proper splicing function (Zhang2023Characterization). The protein's structure and interactions are further elucidated through computational modeling using AlphaFold-Multimer, which predicts the SF3B1-SUGP1 complex structure (Zhang2023Characterization).
+
+## Function
+The SUGP1 gene encodes a protein that plays a crucial role in the process of mRNA splicing, particularly in the recognition and selection of branch sites and 3' splice sites. In healthy human cells, SUGP1 is involved in the early steps of splicing by recruiting the U2 snRNP to the branch site, which is essential for the correct selection of branch sites. This recruitment is part of a two-step mechanism where SUGP1 first brings U2 snRNP to the branch site and then activates the helicase DHX15 to position the pre-mRNA correctly (Zhang2023Characterization). SUGP1 interacts with SF3B1, a major component of the spliceosome, to ensure accurate splicing and prevent cryptic splicing errors. This interaction is critical for maintaining the integrity of the splicing process, and mutations in SUGP1 or SF3B1 can lead to missplicing (Zhang2023Characterization).
+
+SUGP1 also plays a role in splicing quality control by interacting with DHX15. This interaction helps disassemble spliceosomal complexes on suboptimal substrates, promoting splicing fidelity and preventing the use of cryptic 3' splice sites (Feng2022Splicing). The protein is active in the nucleus, where it participates in the assembly and function of the spliceosome, influencing mRNA maturation and stability (Feng2022Splicing).
+
+## Clinical Significance
+Mutations in the SUGP1 gene have been implicated in various cancers due to their role in splicing dysregulation. These mutations can mimic the splicing errors caused by SF3B1 mutations, leading to the use of cryptic 3′ splice sites, which contribute to tumorigenesis (Liu2020Pancancer). SUGP1 mutations are particularly significant in lung adenocarcinoma, where they show distinct splicing patterns compared to wild-type, although their rarity makes it challenging to link them definitively to specific cancer types (Liu2020Pancancer). 
+
+In myelodysplastic syndromes (MDS), SUGP1 is crucial for proper spliceosomal function. Its interaction with mutant SF3B1 is defective, leading to splicing errors that can induce oncogenic changes. Overexpression of SUGP1 can partially rescue these splicing defects, suggesting potential therapeutic interventions (Jiang2023SF3B1; Zhou2020The).
+
+Beyond cancer, SUGP1 has been associated with lipid metabolism. Variants in SUGP1 are linked to changes in serum lipid levels and hyperlipidemia, which are risk factors for cardiovascular diseases. These genetic variations may influence lipid metabolism through interactions with other genes (Deng2020Association).
+
+## Interactions
+SUGP1, a protein involved in RNA splicing, interacts with several other proteins, playing a crucial role in the spliceosome complex. It interacts with SF3B1, a core spliceosomal protein, through its C-terminal region, particularly involving residues 476-645. This interaction is essential for proper mRNA splicing, and mutations in SF3B1 or SUGP1 can lead to splicing errors associated with cancer (Zhang2023Characterization). The interaction between SUGP1 and SF3B1 involves the HEAT repeats H4-H7 of SF3B1, which are hotspots for cancer mutations (Zhang2023Characterization).
+
+SUGP1 also forms a trimer complex with SF3B1 and DHX15, which is crucial for branch site recognition during spliceosome assembly. This complex is necessary for the activation of DHX15, which facilitates ATP hydrolysis and branch site selection (Zhang2023Characterization). The G-patch domain of SUGP1 interacts with DHX15, promoting its ATPase and helicase activity, which is vital for splicing quality control (Feng2022Splicing).
+
+Additionally, SUGP1 interacts with U2AF2 and likely with SF1 via its SURP domains, contributing to branchpoint-3′ splice site recognition (Liu2020Pancancer). These interactions underscore SUGP1's role in maintaining normal splicing patterns and its potential impact on cancer when mutated.
+
+
+## References
+
+
+[1. (Deng2020Association) Guo-Xiong Deng, Rui-Xing Yin, Yao-Zong Guan, Chun-Xiao Liu, Peng-Fei Zheng, Bi-Liu Wei, Jin-Zhen Wu, and Liu Miao. Association of the ncan-tm6sf2-cilp2-pbx4-sugp1-mau2 snps and gene-gene and gene-environment interactions with serum lipid levels. Aging, 12(12):11893–11913, June 2020. URL: http://dx.doi.org/10.18632/aging.103361, doi:10.18632/aging.103361. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.18632/aging.103361)
+
+[2. (Zhang2019DiseaseCausing) Jian Zhang, Abdullah M. Ali, Yen K. Lieu, Zhaoqi Liu, Jianchao Gao, Raul Rabadan, Azra Raza, Siddhartha Mukherjee, and James L. Manley. Disease-causing mutations in sf3b1 alter splicing by disrupting interaction with sugp1. Molecular Cell, 76(1):82-95.e7, October 2019. URL: http://dx.doi.org/10.1016/j.molcel.2019.07.017, doi:10.1016/j.molcel.2019.07.017. This article has 93 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2019.07.017)
+
+[3. (Jiang2023SF3B1) Moqin Jiang, Meng Chen, Qian Liu, Zhiling Jin, Xiangdong Yang, and Weifeng Zhang. Sf3b1 mutations in myelodysplastic syndromes: a potential therapeutic target for modulating the entire disease process. Frontiers in Oncology, March 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1116438, doi:10.3389/fonc.2023.1116438. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1116438)
+
+4. (Feng2022Splicing) Splicing quality control mediated by DHX15 and its G-patch activator, SUGP1. This article has 3 citations.
+
+[5. (Zhou2020The) Zhixia Zhou, Qi Gong, Yin Wang, Mengkun Li, Lu Wang, Hongfei Ding, and Peifeng Li. The biological function and clinical significance of sf3b1 mutations in cancer. Biomarker Research, September 2020. URL: http://dx.doi.org/10.1186/s40364-020-00220-5, doi:10.1186/s40364-020-00220-5. This article has 53 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40364-020-00220-5)
+
+[6. (Liu2020Pancancer) Zhaoqi Liu, Jian Zhang, Yiwei Sun, Tomin E. Perea-Chamblee, James L. Manley, and Raul Rabadan. Pan-cancer analysis identifies mutations in sugp1 that recapitulate mutant sf3b1 splicing dysregulation. Proceedings of the National Academy of Sciences, 117(19):10305–10312, April 2020. URL: http://dx.doi.org/10.1073/pnas.1922622117, doi:10.1073/pnas.1922622117. This article has 34 citations.](https://doi.org/10.1073/pnas.1922622117)
+
+[7. (Zhang2023Characterization) Jian Zhang, Jindou Xie, Ji Huang, Xiangyang Liu, Ruihong Xu, Jonas Tholen, Wojciech P. Galej, Liang Tong, James L. Manley, and Zhaoqi Liu. Characterization of the sf3b1–sugp1 interface reveals how numerous cancer mutations cause mrna missplicing. Genes &amp; Development, 37(21–24):968–983, November 2023. URL: http://dx.doi.org/10.1101/gad.351154.123, doi:10.1101/gad.351154.123. This article has 5 citations.](https://doi.org/10.1101/gad.351154.123)

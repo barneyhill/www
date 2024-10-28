@@ -1,0 +1,37 @@
+# CD7
+
+## Overview
+The CD7 gene encodes a transmembrane glycoprotein that is predominantly expressed on T cells and natural killer (NK) cells. This protein, also referred to as CD7, plays a crucial role in immune cell signaling and adhesion, contributing to T-cell activation and integrin-mediated interactions. The CD7 protein is involved in various cellular processes, including signal transduction pathways that are essential for immune responses. It interacts with the K12/SECTM1 protein, facilitating T cell activation and adhesion. Despite its significant roles, CD7 is not essential for the development or function of mature T cells, as evidenced by normal immune responses in CD7-deficient models. Clinically, CD7 is of interest due to its expression in certain hematological malignancies, making it a target for therapeutic interventions, although challenges such as fratricide in CAR T-cell therapies remain (Lyman2000Identification; Liu2023Targeted; Gomes-Silva2017CD7-edited).
+
+## Function
+The CD7 protein is a 40 kDa transmembrane glycoprotein primarily expressed on T cells and natural killer (NK) cells, as well as their precursors. It is involved in several molecular processes, including signal transduction and cell adhesion. CD7 plays a role in T-cell activation by providing costimulation through the activation of PI(3)K and PI(4)K pathways upon binding its ligand K12/SECTM1, which is expressed by myeloid cells and thymic epithelial and stromal cells (Gomes-Silva2017CD7-edited). The protein is also involved in integrin-mediated adhesion, which is crucial for T cell interactions with other cells and the extracellular matrix. This adhesion is enhanced by crosslinking CD7, which increases T cell adhesion to ligands such as VCAM-1, fibronectin, and ICAM-1 (Shimizu1992Crosslinking).
+
+CD7 is suggested to function as an accessory protein in HIV-1 mediated syncytium formation and infection, and its interaction with its putative natural ligand, K12, may play a role in T cell activation (Lyman2000Identification). Despite its involvement in these processes, CD7 is not critical for the development or function of mature T cells, as CD7-knockout mice display normal T cell development and immune responses (Gomes-Silva2017CD7-edited).
+
+## Clinical Significance
+The CD7 gene is clinically significant due to its association with various hematological malignancies. Alterations in CD7 expression are linked to T-cell acute lymphoblastic leukemia (T-ALL), T-lymphoma, and acute myeloid leukemia (AML). In T-ALL and T-lymphoma, CD7 is highly expressed, making it a target for therapies such as CD7 chimeric antigen receptor (CAR) T-cell therapy. However, these therapies face challenges like fratricide, where CAR T-cells attack each other, leading to reduced effectiveness (Liu2023Targeted; Gomes-Silva2017CD7-edited).
+
+In AML, CD7 is expressed in about 30% of cases and is associated with more aggressive disease, worse prognosis, and increased drug resistance (Liu2023Targeted). CD7 expression in chronic myeloid leukemia (CML) is linked to epigenetic modifications, such as DNA methylation, and is associated with poor survival outcomes (Rogers2010Expression). The expression of CD7 on normal T and NK cells complicates its targeting, as it can lead to the depletion of these cells and reduce immune competence (Liu2023Targeted). Despite these challenges, CD7 remains a promising target for immunotherapy in these malignancies (Lu2022Naturally).
+
+## Interactions
+CD7 is known to interact with the human K12 (SECTM1) protein, which has been identified as a cognate of CD7. This interaction is characterized by a high affinity, with an estimated affinity constant of 1 x 10^8 M^-1. The K12 protein can be expressed on the cell surface in transfected cells and has been shown to bind at high levels to human T and NK cells, suggesting CD7 as a potential binding partner (Lyman2000Identification). 
+
+The interaction between CD7 and K12 is unique because the genes encoding these proteins are located adjacent to each other in the genome. This interaction may involve cross-linking that plays a role in T cell activation, as K12-mediated CD7 cross-linking on human NK cells enhances the expression of surface molecules such as CD25, CD69, and CD54 (Lyman2000Identification). 
+
+CD7 also participates in integrin-mediated adhesion, where its crosslinking by monoclonal antibodies increases T cell adhesion to ligands such as VCAM-1, FN, and ICAM-1. This process involves signaling pathways regulated by protein kinase C (PKC) and cAMP (Shimizu1992Crosslinking).
+
+
+## References
+
+
+[1. (Lyman2000Identification) Stewart D. Lyman, Sabine Escobar, Anne-Marie Rousseau, Allison Armstrong, and William C. Fanslow. Identification of cd7 as a cognate of the human k12 (sectm1) protein. Journal of Biological Chemistry, 275(5):3431–3437, February 2000. URL: http://dx.doi.org/10.1074/JBC.275.5.3431, doi:10.1074/jbc.275.5.3431. This article has 45 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/JBC.275.5.3431)
+
+[2. (Liu2023Targeted) Jile Liu, Yi Zhang, Ruiting Guo, Yifan Zhao, Rui Sun, Shujing Guo, Wenyi Lu, and Mingfeng Zhao. Targeted cd7 car t-cells for treatment of t-lymphocyte leukemia and lymphoma and acute myeloid leukemia: recent advances. Frontiers in Immunology, May 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1170968, doi:10.3389/fimmu.2023.1170968. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1170968)
+
+[3. (Lu2022Naturally) Yu Lu, Ying Liu, Shupeng Wen, Na Kuang, Xuejun Zhang, Jianqiang Li, and Fuxu Wang. Naturally selected cd7 car-t therapy without genetic editing demonstrates significant antitumour efficacy against relapsed and refractory acute myeloid leukaemia (r/r-aml). Journal of Translational Medicine, December 2022. URL: http://dx.doi.org/10.1186/s12967-022-03797-7, doi:10.1186/s12967-022-03797-7. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-022-03797-7)
+
+[4. (Shimizu1992Crosslinking) Y Shimizu, G A van Seventer, E Ennis, W Newman, K J Horgan, and S Shaw. Crosslinking of the t cell-specific accessory molecules cd7 and cd28 modulates t cell adhesion. The Journal of experimental medicine, 175(2):577–582, February 1992. URL: http://dx.doi.org/10.1084/jem.175.2.577, doi:10.1084/jem.175.2.577. This article has 133 citations.](https://doi.org/10.1084/jem.175.2.577)
+
+[5. (Rogers2010Expression) Sally L Rogers, Yun Zhao, Xiaoyan Jiang, Connie J Eaves, Dixie L Mager, and Arefeh Rouhi. Expression of the leukemic prognostic marker cd7 is linked to epigenetic modifications in chronic myeloid leukemia. Molecular Cancer, February 2010. URL: http://dx.doi.org/10.1186/1476-4598-9-41, doi:10.1186/1476-4598-9-41. This article has 15 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/1476-4598-9-41)
+
+[6. (Gomes-Silva2017CD7-edited) Diogo Gomes-Silva, Madhuwanti Srinivasan, Sandhya Sharma, Ciaran M. Lee, Dimitrios L. Wagner, Timothy H. Davis, Rayne H. Rouce, Gang Bao, Malcolm K. Brenner, and Maksim Mamonkin. Cd7-edited t cells expressing a cd7-specific car for the therapy of t-cell malignancies. Blood, 130(3):285–296, July 2017. URL: http://dx.doi.org/10.1182/blood-2017-01-761320, doi:10.1182/blood-2017-01-761320. This article has 380 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1182/blood-2017-01-761320)

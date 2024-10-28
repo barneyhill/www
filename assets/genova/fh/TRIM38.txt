@@ -1,0 +1,48 @@
+# TRIM38
+
+## Overview
+TRIM38 is a gene that encodes the tripartite motif containing 38 protein, a member of the tripartite motif (TRIM) family, which is characterized by a conserved structure comprising a RING domain, B-box domains, a coiled-coil region, and a PRYSPRY domain. The TRIM38 protein functions primarily as an E3 ubiquitin ligase, playing a pivotal role in the regulation of protein degradation and signaling pathways, particularly in the context of innate immunity and inflammation. It is involved in modulating key immune signaling pathways, such as the cGAS/STING and TLR3/4 pathways, by targeting specific proteins for ubiquitination, thereby influencing their stability and activity. TRIM38's regulatory functions are crucial during viral infections and in preventing excessive inflammatory responses, highlighting its significance in immune regulation and potential implications in diseases such as cancer and autoimmune disorders (Wang2021TRIM38; Di2020TRIM; Hu2015TRIM38).
+
+## Structure
+TRIM38 is a member of the tripartite motif (TRIM) protein family, characterized by a conserved molecular structure that includes a RING domain, B-box domains, a coiled-coil region, and a PRYSPRY domain. The RING domain, located at the N-terminus, is a specialized zinc finger critical for the E3 ubiquitin ligase activity of TRIM38, facilitating the ubiquitination of target proteins (Liu2011Enterovirus). This domain contains a Cys3HisCys4 motif that binds two zinc cations, essential for its function (Liu2011Enterovirus).
+
+The B-box domains and coiled-coil region contribute to the protein's structural stability and are involved in protein-protein interactions. The PRYSPRY domain, located at the C-terminus, is crucial for mediating interactions with other proteins, such as the TIR domain-containing adaptor inducing IFN-b (TRIF), which TRIM38 targets for degradation (Xue2012TRIM38).
+
+TRIM38 is primarily localized in the cytoplasm and is involved in both K48- and K63-linked polyubiquitination, which are important for its role in immune regulation (Liu2011Enterovirus). The protein's structure and domains are essential for its function in modulating innate immune responses.
+
+## Function
+TRIM38 is a member of the tripartite motif (TRIM) family and functions as an E3 ubiquitin ligase, playing a crucial role in regulating protein degradation and signaling pathways in healthy human cells. It is involved in the modulation of innate immunity and inflammation by targeting specific proteins for ubiquitination, thereby influencing their stability and activity (Hatakeyama2017TRIM; Hu2015TRIM38).
+
+In the context of the cGAS/STING signaling pathway, TRIM38 enhances the activity of the STING pathway by preventing the autophagic degradation of STING. It achieves this by mediating the sumoylation of STING, which prevents its degradation through chaperone-mediated autophagy. TRIM38 also mediates the sumoylation of cGAS, preventing its proteasomal degradation. This regulation is particularly important during viral infections, such as HSV1, where TRIM38 is required for the efficient activation of the type I IFN response (Di2020TRIM).
+
+TRIM38 also negatively regulates TLR3/4-mediated signaling pathways by facilitating the K48-linked polyubiquitination and proteasomal degradation of the TLR3/4 adapter protein TRIF, thereby inhibiting downstream signaling. This action helps prevent excessive inflammation by modulating the production of type I interferons and proinflammatory cytokines (Hu2015TRIM38).
+
+## Clinical Significance
+TRIM38 has been implicated in various diseases and conditions due to its role in immune regulation and tumor suppression. In bladder cancer (BLCA), TRIM38 is identified as a tumor suppressor gene. Its low expression levels are associated with poor prognosis, advanced clinical stages, and worse overall survival outcomes. TRIM38 interacts with glucose transporter type 1 (GLUT1), promoting its ubiquitination and degradation, which is crucial for regulating glycolytic activity in cancer cells. Alterations in TRIM38 expression or its interaction with GLUT1 can enhance tumor progression, making it a potential therapeutic target in BLCA (Wang2021TRIM38).
+
+In the context of immune responses, TRIM38 negatively regulates Toll-like receptor (TLR) mediated pathways, particularly TLR3 and TLR4, by promoting the degradation of adaptor proteins like TRIF. This regulation is essential for controlling the production of type I interferons and proinflammatory cytokines. TRIM38 deficiency can lead to excessive inflammatory responses, increasing susceptibility to conditions such as septic shock (Hu2015TRIM38). Additionally, TRIM38 is involved in modulating the NF-κB signaling pathway, which is crucial for inflammatory responses, suggesting its potential relevance in autoimmune diseases and inflammatory conditions (Yang2021TRIM).
+
+## Interactions
+TRIM38 is an E3 ubiquitin ligase that interacts with several proteins involved in immune signaling pathways. It physically interacts with TRIF, TAB2, TRAF6, and NAP1, but not with TRAF3, in a mammalian overexpression system. TRIM38 mediates the degradation of TRIF and TAB2 through the ubiquitin-proteasome pathway, promoting K48-linked polyubiquitination of TRIF at lysine 228, which is essential for its degradation (Hu2015TRIM38). TRIM38 also interacts with TAB2/3, leading to their degradation in a lysosome-dependent manner, which inhibits NF-κB activation (Yang2021TRIM).
+
+TRIM38 is involved in the regulation of the cGAS/STING signaling pathway by preventing the autophagic degradation of STING through sumoylation and mediating the sumoylation of cGAS, preventing its proteasomal degradation (Di2020TRIM). It also interacts with RIG-I and MDA5, positively regulating them by sumoylation, which prevents their degradation (Patil2019Tripartite). In the context of viral infections, TRIM38 activates NF-κB signaling pathways and increases the ubiquitination of cellular proteins, including self-ubiquitination, which is dependent on its RING finger domain (Liu2011Enterovirus).
+
+
+## References
+
+
+[1. (Di2020TRIM) Martina Di Rienzo, Alessandra Romagnoli, Manuela Antonioli, Mauro Piacentini, and Gian Maria Fimia. Trim proteins in autophagy: selective sensors in cell damage and innate immune responses. Cell Death &amp; Differentiation, 27(3):887–902, January 2020. URL: http://dx.doi.org/10.1038/s41418-020-0495-2, doi:10.1038/s41418-020-0495-2. This article has 109 citations.](https://doi.org/10.1038/s41418-020-0495-2)
+
+[2. (Hu2015TRIM38) Ming-Ming Hu, Xue-Qin Xie, Qing Yang, Chen-Yang Liao, Wen Ye, Heng Lin, and Hong-Bing Shu. Trim38 negatively regulates tlr3/4-mediated innate immune and inflammatory responses by two sequential and distinct mechanisms. The Journal of Immunology, 195(9):4415–4425, November 2015. URL: http://dx.doi.org/10.4049/jimmunol.1500859, doi:10.4049/jimmunol.1500859. This article has 70 citations.](https://doi.org/10.4049/jimmunol.1500859)
+
+[3. (Yang2021TRIM) Luting Yang and Haibin Xia. Trim proteins in inflammation: from expression to emerging regulatory mechanisms. Inflammation, 44(3):811–820, January 2021. URL: http://dx.doi.org/10.1007/s10753-020-01394-8, doi:10.1007/s10753-020-01394-8. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10753-020-01394-8)
+
+[4. (Hatakeyama2017TRIM) Shigetsugu Hatakeyama. Trim family proteins: roles in autophagy, immunity, and carcinogenesis. Trends in Biochemical Sciences, 42(4):297–311, April 2017. URL: http://dx.doi.org/10.1016/j.tibs.2017.01.002, doi:10.1016/j.tibs.2017.01.002. This article has 577 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tibs.2017.01.002)
+
+[5. (Wang2021TRIM38) Xiaojing Wang, Hongchao He, Wenbin Rui, Ning Zhang, Yu Zhu, and Xin Xie. Trim38 triggers the ubiquitination and degradation of glucose transporter type 1 (glut1) to restrict tumor progression in bladder cancer. Journal of Translational Medicine, December 2021. URL: http://dx.doi.org/10.1186/s12967-021-03173-x, doi:10.1186/s12967-021-03173-x. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-021-03173-x)
+
+[6. (Liu2011Enterovirus) Xinlei Liu, Xiaobo Lei, Zhuo Zhou, Zhenmin Sun, Qinghua Xue, Jianwei Wang, and Tao Hung. Enterovirus 71 induces degradation of trim38, a potential e3 ubiquitin ligase. Virology Journal, February 2011. URL: http://dx.doi.org/10.1186/1743-422X-8-61, doi:10.1186/1743-422x-8-61. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1743-422X-8-61)
+
+[7. (Xue2012TRIM38) Qinghua Xue, Zhuo Zhou, Xiaobo Lei, Xinlei Liu, Bin He, Jianwei Wang, and Tao Hung. Trim38 negatively regulates tlr3-mediated ifn-β signaling by targeting trif for degradation. PLoS ONE, 7(10):e46825, October 2012. URL: http://dx.doi.org/10.1371/journal.pone.0046825, doi:10.1371/journal.pone.0046825. This article has 60 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0046825)
+
+[8. (Patil2019Tripartite) Girish Patil and Shitao Li. Tripartite motif proteins: an emerging antiviral protein family. Future Virology, 14(2):107–122, January 2019. URL: http://dx.doi.org/10.2217/fvl-2018-0161, doi:10.2217/fvl-2018-0161. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.2217/fvl-2018-0161)

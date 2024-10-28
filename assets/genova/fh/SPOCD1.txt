@@ -1,0 +1,48 @@
+# SPOCD1
+
+## Overview
+SPOCD1 (SPOC domain containing 1) is a gene that encodes a protein involved in transcriptional regulation, primarily through its SPOC domain, which is a phosphoserine binding module. The SPOCD1 protein is categorized as a transcription factor and is part of the transcription factor S-II (TFIIS) family, playing a crucial role in developmental signaling and transcriptional repression. This protein is implicated in various cellular processes, including epigenetic regulation and cellular signaling pathways, particularly through interactions with other proteins such as DNMT3A and SPIN1. SPOCD1's involvement in piRNA-directed de novo DNA methylation highlights its significance in maintaining genomic stability and regulating gene expression. Clinically, altered expression of SPOCD1 is associated with several cancers, where it may serve as a biomarker and potential therapeutic target due to its role in promoting carcinogenesis and influencing the tumor microenvironment (Hui2022SPOCD1; Gan2023Prognostic; Lin2022Prognostic).
+
+## Structure
+The SPOCD1 protein contains a SPOC domain, which is a phosphoserine binding module involved in transcriptional regulation. The SPOC domain is characterized by a distorted β-barrel structure comprising seven β-strands and a variable number of α-helices (Appel2022The). However, the SPOCD1 SPOC domain has lost some phosphoserine binding abilities due to the conservation of only two out of four basic residues from its ancestral PHF3 gene, resulting in a weaker positive charge on its surface patches (Appel2022The). This structural feature affects its ability to bind phosphorylated serine residues, distinguishing it from other SPOC domains like those in PHF3 and DIDO (Appel2022The).
+
+The interaction between SPOCD1 and SPIN1 is mediated by a β-hairpin region, which is crucial for its role in spermatogenesis (Dias2024Twofactor). A separation-of-function mutation in this region, termed SPOCD1-ΔSPIN1, disrupts the interaction with SPIN1 but does not affect its association with DNMT3L, highlighting the specificity of this structural feature (Dias2024Twofactor). Despite these insights, detailed information on the primary, tertiary, or quaternary structures of SPOCD1, as well as specific post-translational modifications, is not provided in the available context.
+
+## Function
+SPOCD1 (SPOC domain containing 1) encodes a protein that is part of the transcription factor S-II (TFIIS) family, which plays a significant role in transcriptional regulation. The protein contains a SPOC domain, which is typically involved in developmental signaling and transcriptional repression, suggesting a role in regulating developmental processes and maintaining genomic stability (Hui2022SPOCD1; Lin2022Prognostic). 
+
+In healthy human cells, SPOCD1 is hypothesized to interact with testis protein phosphatase 1, a major eukaryotic serine/threonine-specific phosphatase, indicating a potential role in cellular signaling pathways (Hui2022SPOCD1; Liang2017SPOCD1). The protein is involved in the epigenetic regulation of gene expression, particularly through piRNA-directed de novo DNA methylation, which is crucial for gene regulation and genome stability (Gan2023Prognostic; Lin2022Prognostic). 
+
+SPOCD1's activity is associated with transcriptional processes, and it may contribute to maintaining normal cellular functions through its interaction with other transcription factors and components of the transcriptional machinery (Lin2022Prognostic). Although specific details about its cellular localization and molecular activities in healthy cells remain to be fully elucidated, its involvement in transcriptional regulation and potential role in epigenetic processes suggest its importance in cell biology (Liang2017SPOCD1).
+
+## Clinical Significance
+SPOCD1 (SPOC domain containing 1) is implicated in various cancers due to its altered expression levels. In osteosarcoma, SPOCD1 is upregulated, particularly in highly invasive cell lines, promoting cell proliferation and inhibiting apoptosis. It also regulates the expression of vascular endothelial growth factor A (VEGF-A), suggesting its role as a pro-oncogenic factor in this cancer type (Liang2017SPOCD1).
+
+In colon cancer, elevated SPOCD1 expression is associated with poor prognosis, including shorter overall survival and disease-specific survival. It is linked to immune cell infiltration, influencing the tumor microenvironment and cancer progression (Hui2022SPOCD1). Similarly, in colorectal cancer, high SPOCD1 levels correlate with poor survival outcomes and are associated with immune regulation and chemokine signaling pathways (Gan2023Prognostic).
+
+SPOCD1 is also overexpressed in esophageal squamous cell carcinoma (ESCC), where it correlates with advanced pathological features and poor outcomes. It is involved in pathways crucial for tumorigenesis, such as cytokine-cytokine receptor interaction and Ras signaling (Lin2022Prognostic). These findings suggest that SPOCD1 could serve as a biomarker and potential therapeutic target in various cancers.
+
+## Interactions
+SPOCD1, a protein containing the SPOC domain, is involved in various interactions with other proteins and nucleic acids, influencing gene expression and cellular processes. In keloid fibroblasts, SPOCD1 interacts with DNMT3A, a DNA methyltransferase, as demonstrated by coimmunoprecipitation (co-IP) experiments. This interaction is significant in the regulation of ferroptosis, where DNMT3A negatively regulates SPOCD1 expression, impacting DNA methylation and chromatin structure (Wang2024IFNγ).
+
+In the context of ovarian cancer, SPOCD1 is implicated in the PI3K/AKT signaling pathway. Knockdown of SPOCD1 in ovarian cancer cell lines results in the downregulation of pathway components such as p-PI3K, p-AKT, and mTOR, suggesting that SPOCD1 may promote carcinogenesis by activating this pathway (SPOCD1; Liu2020&lt; p&gt).
+
+SPOCD1 also plays a role in colorectal cancer, where its expression correlates with immune cell infiltration and chemokine signaling pathways. This suggests that SPOCD1 may influence the immune microenvironment, potentially contributing to cancer progression (Gan2023Prognostic). In esophageal squamous cell carcinoma, SPOCD1 expression is associated with mutations in genes like TP53, TTN, and MUC16, and it is involved in pathways related to tumorigenesis, such as the Ras signaling pathway (Lin2022Prognostic).
+
+
+## References
+
+
+1. (Hui2022SPOCD1) SPOCD1 serves as a prognostic marker in colon cancer and is associated with immune infiltration. This article has 0 citations.
+
+[2. (Lin2022Prognostic) Zhizhong Lin, Lin Chen, Tingting Wu, Yiping Zhang, Xinyi Huang, Yuanmei Chen, Junqiang Chen, and Yuanji Xu. Prognostic value of spocd1 in esophageal squamous cell carcinoma: a comprehensive study based on bioinformatics and validation. Frontiers in Genetics, May 2022. URL: http://dx.doi.org/10.3389/fgene.2022.872026, doi:10.3389/fgene.2022.872026. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.872026)
+
+[3. (Liang2017SPOCD1) Jinqian Liang, Hong Zhao, Jianhua Hu, Yong Liu, and Zheng Li. Spocd1 promotes cell proliferation and inhibits cell apoptosis in human osteosarcoma. Molecular Medicine Reports, December 2017. URL: http://dx.doi.org/10.3892/mmr.2017.8263, doi:10.3892/mmr.2017.8263. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/mmr.2017.8263)
+
+[4. (Gan2023Prognostic) Lin Gan, Changjiang Yang, Long Zhao, Shan Wang, Zhidong Gao, and Yingjiang Ye. Prognostic biomarker spocd1 and its correlation with immune infiltrates in colorectal cancer. Biomolecules, 13(2):209, January 2023. URL: http://dx.doi.org/10.3390/biom13020209, doi:10.3390/biom13020209. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom13020209)
+
+5. (Wang2024IFNγ) IFNγ regulates ferroptosis in KFs by inhibiting the expression of SPOCD1 through DNMT3A. This article has 0 citations.
+
+6. (Appel2022The) The SPOC domain is a phosphoserine binding module that bridges transcription machinery with co- and post-transcriptional regulators. This article has 0 citations.
+
+[7. (Dias2024Twofactor) Madeleine Dias Mirandela, Ansgar Zoch, Jessica Leismann, Shaun Webb, Rebecca V. Berrens, Devisree Valsakumar, Yuka Kabayama, Tania Auchynnikava, Martina Schito, Tamoghna Chowdhury, David MacLeod, Xinyu Xiang, Juan Zou, Juri Rappsilber, Robin C. Allshire, Philipp Voigt, Atlanta G. Cook, Joan Barau, and Dónal O’Carroll. Two-factor authentication underpins the precision of the pirna pathway. Nature, September 2024. URL: http://dx.doi.org/10.1038/s41586-024-07963-3, doi:10.1038/s41586-024-07963-3. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-024-07963-3)

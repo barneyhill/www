@@ -1,0 +1,42 @@
+# ACOT8
+
+## Overview
+ACOT8 is a gene that encodes the enzyme acyl-CoA thioesterase 8, a member of the TE4 thioesterase family. This enzyme is categorized as a peroxisomal enzyme and plays a crucial role in lipid metabolism by hydrolyzing acyl-CoA thioesters into free fatty acids and coenzyme A (CoASH). The protein is characterized by a conserved double hotdog fold structure, which is essential for its enzymatic activity (Swarbrick2020Structure). ACOT8 is involved in the catabolism of long-chain and branched-chain fatty acids and is localized to peroxisomes in various species, including humans, mice, and rats (Swarbrick2020Structure). The enzyme's activity is regulated by CoASH levels, linking it to the regulation of fatty acid flux through the β-oxidation pathway (Hunt2012The). ACOT8 also interacts with the HIV-1 Nef protein, influencing viral pathogenesis and immune evasion (Serena2016Molecular). Additionally, ACOT8 has clinical significance as a prognostic marker in clear cell renal cell carcinoma, where its expression levels correlate with tumor progression (Xu2020AcylCoA).
+
+## Structure
+ACOT8, a member of the TE4 thioesterase family, exhibits a conserved double hotdog fold structure. This structure is characterized by a specific topology: α1-β1-β2-α2-β3-β4-β5-β6-α3-β7-β8-α4-β9-β10-β11-β12, with the hotdog domain boundary indicated by italics (Swarbrick2020Structure). The active site residues within TE4 family members, including ACOT8, are conserved and consist of an aspartic acid (Asp) located in the middle of the α4-helix, and glutamine (Gln) and threonine (Thr) on β-strands 9 and 12, respectively (Swarbrick2020Structure). ACOT8 lacks the C-terminal α-helix found in other TE families (Swarbrick2020Structure).
+
+The quaternary structure of ACOT8 involves an octamer of hotdog domains or a tetramer of double hotdog domain protomers, a unique arrangement confirmed in various species (Swarbrick2020Structure). ACOT8 is regulated by the binding of peroxisome proliferator-activated receptor α (PPARα) to its promoter region, linking it to lipid metabolism and bile acid production (Swarbrick2020Structure). The protein is involved in the catabolism of long-chain and branched-chain fatty acids and is localized to peroxisomes in humans, mice, and rats (Swarbrick2020Structure).
+
+## Function
+ACOT8, or acyl-CoA thioesterase 8, is a peroxisomal enzyme involved in lipid metabolism by hydrolyzing a wide range of acyl-CoA thioesters into free fatty acids and coenzyme A (CoASH). This activity is crucial for regulating the intraperoxisomal levels of acyl-CoA and CoASH, optimizing fatty acid flux through the β-oxidation pathway (Hunt2012The; Palmeira2019Physiological). ACOT8 is characterized by its broad substrate specificity, acting on saturated, unsaturated, and methyl-branched fatty acids, as well as bile-acid intermediates (Hunt2012The).
+
+The enzyme plays a significant role in maintaining acyl-CoA/CoASH homeostasis within peroxisomes, which is essential for the transport of shorter fatty acids out of the peroxisome (Hunt2012The). ACOT8 is also implicated in the depalmitoylation of membrane proteins, affecting their hydrophobicity and cycling between acylated and deacylated states, which is important for protein trafficking, vesicular transport, and signal transduction (Palmeira2019Physiological).
+
+ACOT8's activity is strongly regulated by CoASH, suggesting its role in sensing CoASH levels and contributing to the degradation of fatty acids that are poorly oxidized by mitochondria (Hunt2012The). Despite its known functions, the full physiological roles of ACOT8 in human cells are not yet fully elucidated (Palmeira2019Physiological).
+
+## Clinical Significance
+ACOT8 has been identified as a significant prognostic marker in clear cell renal cell carcinoma (ccRCC). Higher expression levels of ACOT8 are associated with poor prognosis in ccRCC patients, indicating its potential as an independent predictor of unfavorable outcomes. Despite being significantly downregulated in ccRCC tissues compared to normal kidney tissues, increased expression of ACOT8 correlates with advanced tumor grades and TNM stages, suggesting a complex role in tumor progression (Xu2020AcylCoA). ACOT8 is involved in mitochondrial electron transport and oxidative phosphorylation (OXPHOS), and its expression is linked to the regulation of these processes, which are crucial in ccRCC tumorigenesis (Xu2020AcylCoA).
+
+In the context of HIV infection, ACOT8 interacts with the HIV-1 Nef protein, which enhances ACOT8's catalytic function. This interaction is significant for the viral life cycle, affecting processes such as protein trafficking and immune evasion. The Nef-ACOT8 interaction is linked to the down-regulation of CD4 and MHC-I, which are important for immune evasion, although the exact mechanisms remain unclear (Palmeira2019Physiological). The physiological relevance of this interaction suggests a potential impact on HIV pathogenesis, although specific clinical implications of ACOT8 gene mutations or expression alterations in this context are not fully elucidated (Palmeira2019Physiological).
+
+## Interactions
+ACOT8, also known as acyl-CoA thioesterase 8, is involved in several protein interactions, notably with the HIV-1 Nef protein. This interaction is characterized by specific residues in both proteins, with ACOT8's Lys 91 playing a crucial role in maintaining charge complementarity with Nef. The interaction involves salt bridges and hydrogen bonds, particularly between ACOT8 Lys 91 and Nef Asp 108 and Asp 111, as well as hydrophobic contacts between other residues (Serena2016Molecular). 
+
+The ACOT8-Nef interaction is significant as it may stabilize the Nef protein, preventing its degradation by the proteasome, and influence lipid modifications crucial for membrane anchoring and receptor internalization (Serena2016Molecular). This interaction also affects the localization of Nef, changing its distribution from cytoplasmic to peroxisomal regions (Serena2016Molecular; Palmeira2019Physiological). 
+
+Mutational analysis has shown that alterations in ACOT8, such as the K91S mutation, can disrupt its interaction with Nef, highlighting the importance of specific residues in this protein-protein interaction (Serena2016Molecular).
+
+
+## References
+
+
+[1. (Swarbrick2020Structure) Crystall M.D. Swarbrick, Jeffrey D. Nanson, Edward I. Patterson, and Jade K. Forwood. Structure, function, and regulation of thioesterases. Progress in Lipid Research, 79:101036, July 2020. URL: http://dx.doi.org/10.1016/j.plipres.2020.101036, doi:10.1016/j.plipres.2020.101036. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.plipres.2020.101036)
+
+[2. (Palmeira2019Physiological) Julys da Fonseca Palmeira, Gustavo A. Argañaraz, Guilherme Xavier Lyra Malcher de Oliveira, and Enrique R. Argañaraz. Physiological relevance of acot8‐nef interaction in hiv infection. Reviews in Medical Virology, June 2019. URL: http://dx.doi.org/10.1002/rmv.2057, doi:10.1002/rmv.2057. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/rmv.2057)
+
+[3. (Serena2016Molecular) Michela Serena, Alejandro Giorgetti, Mirko Busato, Francesca Gasparini, Erica Diani, Maria Grazia Romanelli, and Donato Zipeto. Molecular characterization of hiv-1 nef and acot8 interaction: insights from in silico structural predictions and in vitro functional assays. Scientific Reports, March 2016. URL: http://dx.doi.org/10.1038/srep22319, doi:10.1038/srep22319. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep22319)
+
+[4. (Hunt2012The) Mary C. Hunt, Marina I. Siponen, and Stefan E.H. Alexson. The emerging role of acyl-coa thioesterases and acyltransferases in regulating peroxisomal lipid metabolism. Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease, 1822(9):1397–1410, September 2012. URL: http://dx.doi.org/10.1016/j.bbadis.2012.03.009, doi:10.1016/j.bbadis.2012.03.009. This article has 131 citations.](https://doi.org/10.1016/j.bbadis.2012.03.009)
+
+[5. (Xu2020AcylCoA) Chao-Liang Xu, Lei Chen, Deng Li, Fei-Teng Chen, Ming-Lei Sha, and Yi Shao. Acyl-coa thioesterase 8 and 11 as novel biomarkers for clear cell renal cell carcinoma. Frontiers in Genetics, December 2020. URL: http://dx.doi.org/10.3389/fgene.2020.594969, doi:10.3389/fgene.2020.594969. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2020.594969)

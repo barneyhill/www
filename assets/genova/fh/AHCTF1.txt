@@ -1,0 +1,38 @@
+# AHCTF1
+
+## Overview
+AHCTF1 is a gene that encodes the AT-hook containing transcription factor 1, commonly referred to as ELYS, a multifunctional nucleoporin protein. ELYS is a critical component of the NUP107-160 subcomplex, which is essential for the assembly of nuclear pore complexes (NPCs) and plays a pivotal role in nucleocytoplasmic transport, chromatin organization, and mitotic processes. The protein is primarily active in the nucleus, where it facilitates the recruitment of other proteins to chromatin, thereby initiating NPC assembly and contributing to chromatin relaxation and DNA replication. ELYS interacts with various proteins, including transcription factors and chromatin remodelers, underscoring its importance in gene regulation and cell cycle progression. Due to its significant role in cell proliferation and survival, particularly in highly proliferative cells, ELYS is being investigated as a potential target for cancer therapy, especially in contexts involving synthetic lethality (Wang2020Identification; Morgan2023ahctf1; Morgan2021Elys).
+
+## Structure
+
+
+## Function
+The AHCTF1 gene encodes the ELYS protein, a multifunctional nucleoporin essential for nuclear pore complex (NPC) assembly and mitosis. ELYS is a component of the NUP107-160 subcomplex, which is crucial for nucleocytoplasmic transport and the intracellular localization of large molecules. It plays a vital role in NPC reassembly after mitosis, chromatin decompaction, mitotic spindle assembly, and chromosome segregation during the cell cycle (Morgan2023ahctf1; Morgan2021Elys).
+
+In healthy human cells, ELYS is indispensable for the correct recruitment to chromatin, initiating the assembly of NPCs. This process is vital for chromatin relaxation and the import of S-phase kinases necessary for DNA replication activation (Wang2020Identification). ELYS also facilitates the entry of proteins such as G1 and S phase cyclin-dependent kinases into the nucleus, which are necessary for DNA replication and cell cycle progression (Morgan2021Elys).
+
+ELYS is active primarily in the nucleus, where it interacts with components of the SWI/SNF chromatin remodeller complex and the DNA replication origin licensing system, regulating transcription and DNA replication. These functions are critical for the proliferation and survival of highly proliferative cells, highlighting its potential as a target for synthetic lethality in cancer therapy (Morgan2021Elys).
+
+## Clinical Significance
+The AHCTF1 gene, encoding the ELYS protein, plays a significant role in nuclear pore assembly and mitosis. Alterations in AHCTF1 expression have been linked to various diseases, particularly cancer. In hepatocellular carcinoma (HCC), high expression of AHCTF1 and other components of the NUP107-160 subcomplex correlates with poorer survival outcomes. Patients with elevated levels of these genes have a median overall survival of 21.70 months compared to 81.73 months for those with lower expression, suggesting that AHCTF1 overexpression is associated with more aggressive disease and worse prognosis (Morgan2023ahctf1).
+
+In a zebrafish model of HCC driven by mutant kras, reducing the dosage of the ahctf1 gene by 50% significantly decreases liver volume, indicating a synthetic lethal interaction between ahctf1 and kras mutations. This interaction leads to impaired nuclear pore formation, mitotic spindle assembly, and chromosome segregation, resulting in DNA damage and activation of a Tp53-dependent transcriptional program that induces cell death and cell cycle arrest (Morgan2023ahctf1). These findings suggest that targeting AHCTF1 could be a promising therapeutic strategy for cancers with mutant KRAS, providing a rationale for developing treatments that exploit this vulnerability (Morgan2023ahctf1).
+
+## Interactions
+AHCTF1, also known as ELYS, is involved in several protein interactions critical for its function in nuclear pore complex (NPC) assembly and chromatin organization. AHCTF1 interacts with CTCF, a transcription factor, suggesting that a subpopulation of CTCF physically interacts with oligomers of AHCTF1. This interaction is sensitive to BC21 treatment, which disrupts the CTCF-AHCTF1 complex (Chachoua2022Canonical). AHCTF1 also interacts with the ß-catenin/TCF4 complex, particularly in the recruitment to the oncogenic super-enhancer (OSE) and the gating of MYC to nuclear pores (Chachoua2022Canonical). 
+
+AHCTF1 is a component of the NUP107-160 subcomplex of NPCs, essential for nucleocytoplasmic transport and intracellular localization of large molecules (Morgan2023ahctf1). It binds to nucleosomes through its C-terminal region, particularly interacting with the histone H2A-H2B dimer and chromatin via its AT-hook DNA-binding domain (Kobayashi2019Structural). AHCTF1's interaction with nucleosomes is crucial for NPC assembly, as demonstrated by defects in NPC formation when AHCTF1 is knocked down (Kobayashi2019Structural). These interactions highlight AHCTF1's role in maintaining nuclear architecture and gene regulation.
+
+
+## References
+
+
+[1. (Chachoua2022Canonical) Ilyas Chachoua, Ilias Tzelepis, Hao Dai, Jia Pei Lim, Anna Lewandowska-Ronnegren, Felipe Beccaria Casagrande, Shuangyang Wu, Johanna Vestlund, Carolina Diettrich Mallet de Lima, Deeksha Bhartiya, Barbara A. Scholz, Mirco Martino, Rashid Mehmood, and Anita Göndör. Canonical wnt signaling-dependent gating of myc requires a noncanonical ctcf function at a distal binding site. Nature Communications, January 2022. URL: http://dx.doi.org/10.1038/s41467-021-27868-3, doi:10.1038/s41467-021-27868-3. This article has 16 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-27868-3)
+
+[2. (Morgan2023ahctf1) Kimberly J Morgan, Karen Doggett, Fansuo Geng, Stephen Mieruszynski, Lachlan Whitehead, Kelly A Smith, Benjamin M Hogan, Cas Simons, Gregory J Baillie, Ramyar Molania, Anthony T Papenfuss, Thomas E Hall, Elke A Ober, Didier YR Stainier, Zhiyuan Gong, and Joan K Heath. Ahctf1 and kras mutations combine to amplify oncogenic stress and restrict liver overgrowth in a zebrafish model of hepatocellular carcinoma. eLife, January 2023. URL: http://dx.doi.org/10.7554/elife.73407, doi:10.7554/elife.73407. This article has 2 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.73407)
+
+[3. (Kobayashi2019Structural) Wataru Kobayashi, Yoshimasa Takizawa, Maya Aihara, Lumi Negishi, Hajime Ishii, and Hitoshi Kurumizaka. Structural and biochemical analyses of the nuclear pore complex component elys identify residues responsible for nucleosome binding. Communications Biology, May 2019. URL: http://dx.doi.org/10.1038/s42003-019-0385-7, doi:10.1038/s42003-019-0385-7. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-019-0385-7)
+
+[4. (Wang2020Identification) Qian Wang, Shu Chen, Jia Wu, Dingkun Liu, Nanxi Jiang, Bizhou Wang, Jianjia Zhai, and Zhihui Liu. Identification of potential hub genes and signal pathways promoting the distinct biological features of cord blood-derived endothelial progenitor cells via bioinformatics. Genetic Testing and Molecular Biomarkers, 24(9):549–561, September 2020. URL: http://dx.doi.org/10.1089/gtmb.2019.0272, doi:10.1089/gtmb.2019.0272. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1089/gtmb.2019.0272)
+
+5. (Morgan2021Elys) Elys deficiency constrains Kras-driven tumour burden by amplifying oncogenic stress. This article has 0 citations.

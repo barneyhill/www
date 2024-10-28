@@ -1,0 +1,48 @@
+# TRMT61A
+
+## Overview
+TRMT61A is a gene that encodes the tRNA methyltransferase 61A protein, a crucial enzyme involved in the post-transcriptional modification of tRNA molecules. This protein functions as a methyltransferase, specifically catalyzing the formation of N1-methyladenosine (m1A) at position 58 in tRNA, a modification essential for tRNA stability and efficient protein synthesis (Oerum2017m1A; FinerMoore2015Crystal). The TRMT61A protein operates as part of a heterotetrameric complex with the TRMT6 subunit, where TRMT61A serves as the catalytic component, while TRMT6 aids in RNA binding and orientation (FinerMoore2015Crystal). This complex is active in both the nucleus and cytoplasm of human cells, playing a significant role in maintaining cellular homeostasis and responding to stress (Li2017Base-Resolution). Beyond its fundamental role in tRNA modification, TRMT61A has been implicated in various cellular processes, including gene expression regulation and cancer progression, highlighting its potential as a therapeutic target (Su2022TRMT661Adependent; Monshaugen2024Depletion).
+
+## Structure
+The TRMT61A gene encodes the tRNA methyltransferase 61A protein, which is part of a heterotetrameric complex involved in the methylation of tRNA molecules. The protein is composed of two subunits, Trm61 and Trm6, with Trm61 serving as the catalytic subunit. The primary structure of TRMT61A includes motifs common among S-adenosylmethionine-dependent methyltransferases, which are crucial for its catalytic function (OZANICK2005The).
+
+The secondary structure of TRMT61A features a Rossmann fold, a common structural motif in methyltransferases, characterized by a seven-stranded mixed β-sheet sandwiched by helices (FinerMoore2015Crystal). This fold is essential for the binding of the cofactor S-adenosyl-L-methionine (SAM), which is necessary for the methylation process (Oerum2017m1A).
+
+In terms of quaternary structure, TRMT61A forms a heterotetramer with Trm6, where each heterodimer consists of one Trm61 and one Trm6 subunit. This assembly is stabilized by conserved salt bridges and involves an extended antiparallel β-sheet connecting all four subunits (FinerMoore2015Crystal). The Trm6 subunit, although not catalytic, plays a crucial role in tRNA binding and orientation, facilitating the methylation of adenosine at position 58 in tRNA (FinerMoore2015Crystal).
+
+## Function
+TRMT61A encodes a tRNA methyltransferase that plays a crucial role in the methylation of tRNA molecules, specifically catalyzing the formation of N1-methyladenosine (m1A) at position 58 in tRNA. This modification is essential for the stability and proper functioning of tRNA during protein synthesis (Oerum2017m1A; FinerMoore2015Crystal). The enzyme is composed of two subunits: Trm61, which is the catalytic component, and Trm6, which assists in RNA binding. Together, they form a heterotetrameric complex that facilitates the methylation process (FinerMoore2015Crystal).
+
+In healthy human cells, TRMT61A is active in both the nucleus and cytoplasm, contributing to efficient translation and cellular homeostasis (Li2017Base-Resolution). The m1A58 modification is present in 18 out of 20 human tRNA sequences, indicating its widespread occurrence and importance in maintaining tRNA stability (FinerMoore2015Crystal). The enzyme's activity involves the use of S-adenosyl-L-methionine (SAM) as a methyl donor, with the methylation process resulting in the production of S-adenosylhomocysteine (SAH) (FinerMoore2015Crystal). This modification is also implicated in the regulation of gene expression and cellular responses to stress (Su2022TRMT661Adependent).
+
+## Clinical Significance
+Alterations in the expression of the TRMT61A gene have been implicated in the progression of several cancers. In bladder cancer (BLCA), TRMT61A is part of the TRMT6/TRMT61A complex, which is involved in N1-methyladenosine (m1A) modifications on tRNA. This complex is upregulated in BLCA, leading to increased m1A levels that promote cancer cell proliferation, migration, and invasion. The TRMT6/TRMT61A complex also affects the unfolded protein response (UPR), a pathway crucial for cancer cell survival under stress, suggesting its potential as a therapeutic target in BLCA (Su2022TRMT661Adependent; Monshaugen2024Depletion).
+
+In hepatocellular carcinoma (HCC), TRMT61A is significantly upregulated, particularly in liver cancer stem cells (CSCs). This upregulation is associated with advanced cancer stages and poor prognosis. The TRMT6/TRMT61A complex enhances the translation of genes involved in cholesterol metabolism and Hedgehog signaling, contributing to liver tumorigenesis. Inhibiting this complex has been shown to suppress liver CSC self-renewal and tumor growth, indicating its role in liver cancer progression (Wang2021N1methyladenosine).
+
+These findings highlight the clinical significance of TRMT61A in cancer, where its dysregulation can drive tumorigenesis and affect patient prognosis.
+
+## Interactions
+TRMT61A is a component of the tRNA methyltransferase complex, where it functions in conjunction with TRMT6. Together, TRMT61A and TRMT6 form a heterodimer, with TRMT61A providing the catalytic activity necessary for the methylation of tRNA molecules. This interaction is crucial for the formation of N1-methyladenosine (m1A) in tRNA, which supports RNA stability and function (Su2022TRMT661Adependent).
+
+In addition to its role in tRNA methylation, TRMT61A is involved in the methylation of tRNA-derived fragments (tRFs), specifically the 22-nucleotide tRF-3b fragments. These fragments are enriched with m1A modifications, which are dependent on the TRMT6/61A complex. The m1A modification on tRF-3b is significant for its gene-silencing activity, as it affects the ability of these fragments to pair with target RNAs (Su2022TRMT661Adependent).
+
+The TRMT6/61A complex also plays a role in regulating the unfolded protein response (UPR) in bladder cancer by modulating the m1A status on tRF-3s, which in turn influences gene expression and cellular stress responses (Su2022TRMT661Adependent).
+
+
+## References
+
+
+[1. (OZANICK2005The) SARAH OZANICK, ANNETTE KRECIC, JOSHUA ANDERSLAND, and JAMES T. ANDERSON. The bipartite structure of the trna m1a58 methyltransferase from s. cerevisiae is conserved in humans. RNA, 11(8):1281–1290, July 2005. URL: http://dx.doi.org/10.1261/rna.5040605, doi:10.1261/rna.5040605. This article has 118 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.5040605)
+
+[2. (Su2022TRMT661Adependent) Zhangli Su, Ida Monshaugen, Briana Wilson, Fengbin Wang, Arne Klungland, Rune Ougland, and Anindya Dutta. Trmt6/61a-dependent base methylation of trna-derived fragments regulates gene-silencing activity and the unfolded protein response in bladder cancer. Nature Communications, April 2022. URL: http://dx.doi.org/10.1038/s41467-022-29790-8, doi:10.1038/s41467-022-29790-8. This article has 61 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-29790-8)
+
+[3. (Oerum2017m1A) Stephanie Oerum, Clément Dégut, Pierre Barraud, and Carine Tisné. M1a post‐transcriptional modification in trnas. Biomolecules, 7(1):20, February 2017. URL: http://dx.doi.org/10.3390/biom7010020, doi:10.3390/biom7010020. This article has 116 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom7010020)
+
+[4. (Li2017Base-Resolution) Xiaoyu Li, Xushen Xiong, Meiling Zhang, Kun Wang, Ying Chen, Jun Zhou, Yuanhui Mao, Jia Lv, Danyang Yi, Xiao-Wei Chen, Chu Wang, Shu-Bing Qian, and Chengqi Yi. Base-resolution mapping reveals distinct m1a methylome in nuclear- and mitochondrial-encoded transcripts. Molecular Cell, 68(5):993-1005.e9, December 2017. URL: http://dx.doi.org/10.1016/j.molcel.2017.10.019, doi:10.1016/j.molcel.2017.10.019. This article has 403 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2017.10.019)
+
+[5. (FinerMoore2015Crystal) Janet Finer-Moore, Nadine Czudnochowski, Joseph D. O’Connell, Amy Liya Wang, and Robert M. Stroud. Crystal structure of the human trna m1a58 methyltransferase–trna3lys complex: refolding of substrate trna allows access to the methylation target. Journal of Molecular Biology, 427(24):3862–3876, December 2015. URL: http://dx.doi.org/10.1016/j.jmb.2015.10.005, doi:10.1016/j.jmb.2015.10.005. This article has 52 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2015.10.005)
+
+[6. (Wang2021N1methyladenosine) Yanying Wang, Jing Wang, Xiaoyu Li, Xushen Xiong, Jianyi Wang, Ziheng Zhou, Xiaoxiao Zhu, Yang Gu, Dan Dominissini, Lei He, Yong Tian, Chengqi Yi, and Zusen Fan. N1-methyladenosine methylation in trna drives liver tumourigenesis by regulating cholesterol metabolism. Nature Communications, November 2021. URL: http://dx.doi.org/10.1038/s41467-021-26718-6, doi:10.1038/s41467-021-26718-6. This article has 113 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-26718-6)
+
+[7. (Monshaugen2024Depletion) Ida Monshaugen, Luisa Luna, Jayden Rhodes, Felicia Iselin Svensson Kristiansen, Anna Lång, Stig Ove Bøe, Anindya Dutta, Zhangli Su, Arne Klungland, and Rune Ougland. Depletion of the m1a writer trmt6/trmt61a reduces proliferation and resistance against cellular stress in bladder cancer. Frontiers in Oncology, January 2024. URL: http://dx.doi.org/10.3389/fonc.2023.1334112, doi:10.3389/fonc.2023.1334112. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1334112)

@@ -1,0 +1,42 @@
+# CEP68
+
+## Overview
+CEP68 is a gene that encodes the centrosomal protein 68, a crucial component involved in maintaining centrosome cohesion during cell division. The protein, categorized as a centrosomal protein, plays a significant role in centriole separation and disengagement, processes essential for accurate cell cycle progression. Centrosomal protein 68 interacts with other centrosomal proteins such as rootletin and C-Nap1, forming a dynamic linker structure that stabilizes centrosome cohesion. The protein undergoes post-translational modifications, including phosphorylation by the kinase PLK1, which targets it for degradation by the E3 ubiquitin ligase bTrCP during mitosis, ensuring proper cell cycle regulation (Pagan2014Degradation; Graser2007Cep68). Variants in the CEP68 gene have been linked to clinical conditions such as multiple NSAIDs-induced acute urticaria/angioedema and aspirin-intolerant asthma, highlighting its broader significance in human health (CornejoGarcía2014Variants; Kim2010GenomeWide).
+
+## Structure
+The human gene CEP68 encodes a protein involved in centrosome cohesion, with two isoforms resulting from alternative splicing: Cep68L and Cep68S. Cep68L consists of 757 amino acids, while Cep68S has 620 amino acids. Both isoforms share a globular domain at the C-terminus, with the domain spanning amino acids 618-757 in Cep68L and 454-620 in Cep68S (Graser2007Cep68). The primary structure of Cep68L includes a 137 amino acid insertion compared to Cep68S (Graser2007Cep68). 
+
+Cep68 is predicted to form a C-terminal globular domain, suggesting a specific folding pattern in its tertiary structure (Graser2007Cep68). The protein contains several coiled-coil regions and a microtubule association region, which are important for its function in centrosome cohesion (Graser2007Cep68). Cep68 interacts with other proteins like C-Nap1 and rootletin, stabilizing rootletin homopolymers, although it does not form polymers on its own (Graser2007Cep68). 
+
+Post-translational modifications include phosphorylation by the kinase PLK1 at the Ser332 residue, which is necessary for its degradation by the E3 ubiquitin ligase bTrCP during mitosis (Pagan2014Degradation).
+
+## Function
+CEP68 (centrosomal protein 68) plays a critical role in the process of centriole separation, disengagement, and licensing during cell division. It is targeted for degradation by the E3 ubiquitin ligase bTrCP during mitosis, a process essential for the removal of Cep215 from the pericentriolar material (PCM). This removal is necessary for proper centriole separation and disengagement, which are key steps in the cell cycle. The degradation of CEP68 is mediated by phosphorylation at specific sites, such as Ser332, by the kinase PLK1. This phosphorylation and subsequent degradation are crucial for maintaining the integrity of the cell cycle and ensuring accurate cell division (Pagan2014Degradation).
+
+CEP68 interacts with other centrosomal proteins, including Cep215 and PCNT, although these interactions are independent of PCNT. The degradation of CEP68 is shown to be essential for proper centriole separation after disengagement, as demonstrated by experiments using CEP68 mutants. These interactions and processes highlight the importance of CEP68 in maintaining centrosome cohesion and stability, contributing to genomic stability and normal cellular function (Pagan2014Degradation).
+
+## Clinical Significance
+Variants in the CEP68 gene have been associated with several clinical conditions, particularly those related to hypersensitivity reactions and respiratory diseases. Studies have identified significant associations between CEP68 gene variants and acute urticaria/angioedema induced by multiple non-steroidal anti-inflammatory drugs (NSAIDs). This condition, known as multiple NSAIDs-induced acute urticaria/angioedema (MNSAID-UA), is linked to specific single nucleotide polymorphisms (SNPs) in the CEP68 gene, with the most notable being SNP rs1050675, which shows a protective effect against MNSAID-UA (CornejoGarcía2014Variants).
+
+The CEP68 gene is also implicated in aspirin-intolerant asthma (AIA), a condition where patients experience bronchoconstriction after taking aspirin. A genome-wide association study identified several SNPs within the CEP68 gene associated with AIA, particularly the nonsynonymous SNP rs7572857, which results in a Gly74Ser substitution. This variant is linked to a decline in forced expiratory volume in one second (FEV1) following aspirin provocation, suggesting its potential impact on respiratory function in AIA patients (Kim2010GenomeWide).
+
+Additionally, CEP68's role in centrosome cohesion and cell cycle regulation suggests that disruptions in its normal interactions could contribute to chromosomal instability, potentially leading to tumorigenesis and other cell proliferation disorders (Graser2007Cep68).
+
+## Interactions
+CEP68 is involved in several protein interactions crucial for centrosome cohesion and function. It interacts with rootletin and C-Nap1, forming a dynamic linker structure at the centrosome. This interaction is essential for maintaining centrosome cohesion, as depletion of CEP68 leads to the loss of rootletin from centrosomes, indicating a strong interdependence between these proteins (Graser2007Cep68). CEP68 is recruited to fibrous structures formed by rootletin, suggesting a stabilizing role, although no direct biochemical interaction has been confirmed (Graser2007Cep68).
+
+CEP68 also interacts with the E3 ubiquitin ligase bTrCP, which targets it for degradation during mitosis. This process is regulated by the phosphorylation of CEP68 by the kinase PLK1 at the Ser332 residue, facilitating bTrCP binding and subsequent degradation. This degradation is necessary for centriole separation after disengagement (Pagan2014Degradation).
+
+CEP68's interactions are not limited to centrosomal proteins. It is part of a complex network that includes proteins like CEP215, although its interaction with CEP215 does not involve the formation of filamentous structures, unlike its interaction with rootletin (Graser2007Cep68).
+
+
+## References
+
+
+[1. (Pagan2014Degradation) Julia K. Pagan, Antonio Marzio, Mathew J. K. Jones, Anita Saraf, Prasad V. Jallepalli, Laurence Florens, Michael P. Washburn, and Michele Pagano. Degradation of cep68 and pcnt cleavage mediate cep215 removal from the pcm to allow centriole separation, disengagement and licensing. Nature Cell Biology, 17(1):31–43, December 2014. URL: http://dx.doi.org/10.1038/ncb3076, doi:10.1038/ncb3076. This article has 69 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncb3076)
+
+[2. (CornejoGarcía2014Variants) José Antonio Cornejo-García, Carlos Flores, María C. Plaza-Serón, Marialbert Acosta-Herrera, Natalia Blanca-López, Inmaculada Doña, María J. Torres, Cristobalina Mayorga, Rosa M. Guéant-Rodríguez, Pedro Ayuso, Javier Fernández, José J. Laguna, José A. G. Agúndez, Elena García-Martín, Jean-Louis Guéant, Gabriela Canto, and Miguel Blanca. Variants of cep68 gene are associated with acute urticaria/angioedema induced by multiple non-steroidal anti-inflammatory drugs. PLoS ONE, 9(3):e90966, March 2014. URL: http://dx.doi.org/10.1371/journal.pone.0090966, doi:10.1371/journal.pone.0090966. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0090966)
+
+[3. (Graser2007Cep68) Susanne Graser, York-Dieter Stierhof, and Erich A. Nigg. Cep68 and cep215 (cdk5rap2) are required for centrosome cohesion. Journal of Cell Science, 120(24):4321–4331, December 2007. URL: http://dx.doi.org/10.1242/jcs.020248, doi:10.1242/jcs.020248. This article has 171 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.020248)
+
+[4. (Kim2010GenomeWide) Jeong-Hyun Kim, Byung-Lae Park, Hyun Sub Cheong, Joon Seol Bae, Jong Sook Park, An Soo Jang, Soo-Taek Uh, Jae-Sung Choi, Yong-Hoon Kim, Mi-Kyeong Kim, Inseon S. Choi, Sang Heon Cho, Byoung Whui Choi, Choon-Sik Park, and Hyoung Doo Shin. Genome-wide and follow-up studies identify cep68 gene variants associated with risk of aspirin-intolerant asthma. PLoS ONE, 5(11):e13818, November 2010. URL: http://dx.doi.org/10.1371/journal.pone.0013818, doi:10.1371/journal.pone.0013818. This article has 65 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0013818)

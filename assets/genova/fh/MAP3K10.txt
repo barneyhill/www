@@ -1,0 +1,43 @@
+# MAP3K10
+
+## Overview
+MAP3K10 is a gene that encodes the protein mitogen-activated protein kinase kinase kinase 10, a member of the mixed-lineage kinase family. This protein functions as a kinase, playing a pivotal role in the mitogen-activated protein kinase (MAPK) signaling pathway, which is crucial for regulating cellular processes such as gene expression, cell division, and differentiation. MAP3K10 is particularly significant in neuronal signaling and stress response, influencing apoptosis and inflammation. It is involved in the phosphorylation and activation of downstream MAPK pathways, including the p38 MAPK pathway, which is essential for cellular responses to stress and cytokines. The protein's activity is modulated by interactions with other kinases and microRNAs, impacting its role in various physiological and pathological contexts, including cancer and neurodegenerative diseases (Zhou2021MiR146b3p; Wang2017MicroRNA155; Sapkota2013The).
+
+## Function
+MAP3K10, also known as mitogen-activated protein kinase kinase kinase 10, is a crucial component of the MAPK signaling pathway, which regulates various cellular activities such as gene expression, cell division, and differentiation. It functions as an upstream kinase, activating downstream MAPK pathways, and is primarily active in the cytoplasm. MAP3K10 plays a significant role in neuronal signaling and stress response, impacting processes like apoptosis and inflammation.
+
+In the context of TGFβ signaling, MAP3K10 is involved in the phosphorylation and activation of p38 MAPK, a process essential for cellular responses such as epithelial-to-mesenchymal transition and apoptosis. The study by Sapkota highlights that MAP3K10, along with MAP3K4, is necessary for TGFβ-induced p38 MAPK phosphorylation in mouse embryonic fibroblasts and human keratinocytes. The depletion of MAP3K10 results in a moderate reduction of this phosphorylation, and in the absence of MAP3K4, it leads to a complete loss, indicating their combined necessity for this signaling pathway (Sapkota2013The).
+
+MAP3K10 is part of the mixed-lineage kinase family, which includes MLK1, MLK3, and MLK4, but only MLK2 (MAP3K10) is sufficient for the TGFβ-induced phosphorylation of p38 MAPK, distinguishing its role from other family members (Sapkota2013The).
+
+## Clinical Significance
+MAP3K10 has been implicated in various cancers, including pancreatic ductal adenocarcinoma (PDAC), esophageal carcinoma, and osteosarcoma. In PDAC, MAP3K10 is overexpressed in cancer tissues compared to normal tissues, promoting cell proliferation and reducing sensitivity to the chemotherapy drug gemcitabine. This effect is mediated through the upregulation of GLI-1 and GLI-2, key proteins in the Sonic Hedgehog (Shh) signaling pathway, which are associated with tumorigenesis and drug resistance (An2013MAP3K10).
+
+In esophageal squamous cell carcinoma (ESCC), MAP3K10 is a target of miR-155-5p, and its suppression by this microRNA is linked to increased resistance to radiation and chemotherapy. This resistance is mediated through the JNK signaling pathway, suggesting that MAP3K10 plays a role in chemoradio-resistance rather than tumorigenesis in ESCC (Luo2020DNA).
+
+In osteosarcoma, MAP3K10 is targeted by miR-155, which regulates cancer cell growth by influencing cell proliferation and apoptosis. Inhibition of miR-155 leads to reduced tumor growth, highlighting MAP3K10 as a potential therapeutic target in this cancer type (Wang2017MicroRNA155). These findings suggest that MAP3K10 is a significant player in cancer progression and resistance to treatment.
+
+## Interactions
+MAP3K10, also known as mitogen-activated protein kinase kinase kinase 10, is involved in several protein interactions that play crucial roles in cellular signaling pathways. It is a key mediator in the TGFβ-induced phosphorylation and activation of p38 MAPK, interacting with MAP3K4 to facilitate this process. The depletion of MAP3K10 in cells with a catalytically inactive MAP3K4 results in a complete loss of p38 MAPK phosphorylation, indicating a cooperative function between these kinases (Sapkota2013The).
+
+MAP3K10 is also targeted by microRNAs, such as miR-146b-3p and miR-155, which regulate its expression post-transcriptionally. In pancreatic cancer cells, miR-146b-3p directly binds to the 3'-UTR of MAP3K10 mRNA, inhibiting its translation and affecting cell proliferation and apoptosis (Zhou2021MiR146b3p). Similarly, miR-155 targets MAP3K10 in osteosarcoma cells, reducing its protein expression and influencing cell growth and apoptosis (Wang2017MicroRNA155).
+
+In the context of neurodegenerative diseases, MAP3K10 is associated with Huntington's disease and interacts with several proteins, including those involved in the JNK signaling pathway, which is stimulated by reactive oxygen species and inflammatory conditions (Suthar2021Bioinformatic; Jayapalan2016Computational).
+
+
+## References
+
+
+[1. (Zhou2021MiR146b3p) Min Zhou, Yang Gao, Min Wang, Xingjun Guo, Xu Li, Feng Zhu, Simiao Xu, and Renyi Qin. Mir-146b-3p regulates proliferation of pancreatic cancer cells with stem cell-like properties by targeting map3k10. Journal of Cancer, 12(12):3726–3740, 2021. URL: http://dx.doi.org/10.7150/jca.48418, doi:10.7150/jca.48418. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/jca.48418)
+
+[2. (Luo2020DNA) Wenguang Luo, Huanhuan Zhang, Xue Liang, Ran Xia, Hui Deng, Qiyi Yi, Lei Lv, and Liting Qian. Dna methylation‑regulated mir‑155‑5p depresses sensitivity of esophageal carcinoma cells to radiation and multiple chemotherapeutic drugs via suppression of map3k10. Oncology Reports, March 2020. URL: http://dx.doi.org/10.3892/or.2020.7535, doi:10.3892/or.2020.7535. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.2020.7535)
+
+[3. (Jayapalan2016Computational) Saranya Jayapalan, Devika Subramanian, and Jeyakumar Natarajan. Computational identification and analysis of neurodegenerative disease associated protein kinases in hominid genomes. Genes &amp; Diseases, 3(3):228–237, September 2016. URL: http://dx.doi.org/10.1016/j.gendis.2016.04.004, doi:10.1016/j.gendis.2016.04.004. This article has 12 citations.](https://doi.org/10.1016/j.gendis.2016.04.004)
+
+[4. (Suthar2021Bioinformatic) Sharad Kumar Suthar, Mohammad Maqusood Alam, Jihye Lee, Jitender Monga, Alex Joseph, and Sang-Yoon Lee. Bioinformatic analyses of canonical pathways of tspoap1 and its roles in human diseases. Frontiers in Molecular Biosciences, June 2021. URL: http://dx.doi.org/10.3389/fmolb.2021.667947, doi:10.3389/fmolb.2021.667947. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmolb.2021.667947)
+
+[5. (Wang2017MicroRNA155) Chuangjian Wang, Xiaobo Zhang, Chunlin Zhang, Fuying Zhai, Ying Li, and Zongqiang Huang. Microrna-155 targets map3k10 and regulates osteosarcoma cell growth. Pathology - Research and Practice, 213(4):389–393, April 2017. URL: http://dx.doi.org/10.1016/j.prp.2016.12.028, doi:10.1016/j.prp.2016.12.028. This article has 9 citations.](https://doi.org/10.1016/j.prp.2016.12.028)
+
+[6. (An2013MAP3K10) Yong An, Baobao Cai, Jianmin Chen, Nan Lv, Jie Yao, Xiaofeng Xue, Min Tu, Dong Tang, Jishu Wei, Kuirong Jiang, Junli Wu, Qiang Li, Wentao Gao, and Yi Miao. Map3k10 promotes the proliferation and decreases the sensitivity of pancreatic cancer cells to gemcitabine by upregulating gli-1 and gli-2. Cancer Letters, 329(2):228–235, February 2013. URL: http://dx.doi.org/10.1016/j.canlet.2012.11.005, doi:10.1016/j.canlet.2012.11.005. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2012.11.005)
+
+[7. (Sapkota2013The) Gopal P. Sapkota. The tgfβ-induced phosphorylation and activation of p38 mitogen-activated protein kinase is mediated by map3k4 and map3k10 but not tak1. Open Biology, 3(6):130067, June 2013. URL: http://dx.doi.org/10.1098/rsob.130067, doi:10.1098/rsob.130067. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1098/rsob.130067)

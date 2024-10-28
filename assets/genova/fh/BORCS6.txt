@@ -1,0 +1,41 @@
+# BORCS6
+
+## Overview
+BORCS6 is a gene that encodes the protein BLOC-1 related complex subunit 6, also known as Lyspersin or C17orf59. This protein is a component of the BLOC-1-related complex (BORC), which is integral to the regulation of lysosomal positioning and trafficking within cells. BORCS6 plays a pivotal role in the recruitment of the small GTPase Arl8b to lysosomes, facilitating their transport along microtubules via kinesin motor proteins, which is essential for processes such as autophagy and endocytosis (Pu2015BORC; Jia2017BORC). Additionally, BORCS6 is involved in the ARL8-dependent recruitment of the HOPS complex to lysosomes, crucial for autophagosome-lysosome fusion (Jia2017BORC). The protein also contributes to maintaining the morphology of lysosome-related organelles, such as lung lamellar bodies, by regulating their size (Araki2021BORCS6). Dysfunctions in BORCS6 have been linked to various conditions, including autoimmune diseases and neurodevelopmental disorders, highlighting its significance in cellular homeostasis and disease pathogenesis (Hartwig2017Neurodevelopmental; Mishra2023Endosome).
+
+## Function
+BORCS6 is a subunit of the BORC complex, which plays a crucial role in lysosome positioning and movement within cells. It is involved in the recruitment of the small GTPase Arl8b to lysosomes, facilitating their transport along microtubules via kinesin motor proteins. This movement is essential for the proper dispersal of lysosomes throughout the cell, impacting processes such as autophagy and endocytosis (Pu2015BORC; Jia2017BORC).
+
+In healthy human cells, BORCS6 is active in the cytoplasm, particularly associated with lysosomal membranes. It is involved in the ARL8-dependent recruitment of the HOPS complex to lysosomes, which is crucial for the fusion of autophagosomes with lysosomes. This fusion is a critical step in autophagy, allowing for the degradation and recycling of cellular components (Jia2017BORC).
+
+BORCS6 also plays a role in maintaining the morphology of lysosome-related organelles, such as lung lamellar bodies, by regulating their size and preventing their enlargement. This function is particularly evident in the context of LRRK2 knockout models, where BORCS6 helps maintain normal organelle size (Araki2021BORCS6).
+
+## Clinical Significance
+BORCS6 is implicated in several cellular processes, and its dysfunction can contribute to various conditions. In the context of autoimmune diseases, alterations in BORCS6, as part of the BORC complex, are linked to the regulation of Toll-like receptor 7 (TLR7) signaling. Dysregulation of TLR7 due to impaired BORC function can lead to its accumulation in endosomal compartments, contributing to the pathogenesis of lupus, an autoimmune disease (Mishra2023Endosome).
+
+In neurodevelopmental disorders, BORCS6 is part of the BORC complex, which is involved in membrane protein trafficking and endosome-derived compartment distribution. Although specific diseases are not directly mentioned, the complex's role in these processes suggests a potential link to neurodevelopmental conditions (Hartwig2017Neurodevelopmental).
+
+BORCS6 also plays a role in lysosomal positioning and autophagy. Knockout studies have shown that loss of BORCS6 leads to defects in lysosome positioning and autophagosome-lysosome fusion, which are critical for maintaining cellular homeostasis. These defects can result in impaired autophagic flux, potentially contributing to neurodegenerative diseases (Jia2017BORC).
+
+In LRRK2 knockout mice, BORCS6 is involved in the regulation of lung lamellar body size, suggesting its role in cellular processes related to lung function, although specific diseases are not detailed (Araki2021BORCS6).
+
+## Interactions
+BORCS6, also known as C17orf59 or Lyspersin, is a subunit of the BLOC-1-related complex (BORC) and plays a significant role in lysosomal positioning and trafficking. It interacts with LAMTOR on lysosomes, inhibiting the recruitment of mammalian target of rapamycin complex 1 (mTORC1) to lysosomes. This interaction is crucial for regulating the size of lung lamellar bodies (LBs) in Lrrk2 knockout mice, where the dissociation of BORCS6 from LBs leads to their enlargement (Araki2021BORCS6).
+
+BORCS6 is also involved in the regulation of TLR7 signaling, which is implicated in autoimmune diseases like lupus. It forms part of the BORC complex that recruits the small Arf1-like GTPase Arl8b, which serves as an adaptor for connecting BORC to different downstream protein machineries to mediate vesicle trafficking and fusion. The deletion of BORC subunits, including BORCS6, in mouse macrophages results in enhanced TLR7 signaling, indicating that BORC limits TLR7 signaling (Mishra2023Endosome).
+
+In the context of lung lamellar bodies, BORCS6 interacts with Rab GTPases, which are known to be phosphorylated by LRRK2. The altered localization of Rab proteins and BORC subunits, including BORCS6, suggests a potential interaction or pathway involving these proteins (Araki2021BORCS6).
+
+
+## References
+
+
+[1. (Jia2017BORC) Rui Jia, Carlos M. Guardia, Jing Pu, Yu Chen, and Juan S. Bonifacino. Borc coordinates encounter and fusion of lysosomes with autophagosomes. Autophagy, 13(10):1648–1663, September 2017. URL: http://dx.doi.org/10.1080/15548627.2017.1343768, doi:10.1080/15548627.2017.1343768. This article has 111 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2017.1343768)
+
+[2. (Araki2021BORCS6) Miho Araki, Kyohei Ito, Sho Takatori, Genta Ito, and Taisuke Tomita. Borcs6 is involved in the enlargement of lung lamellar bodies in lrrk2 knockout mice. Human Molecular Genetics, 30(17):1618–1631, June 2021. URL: http://dx.doi.org/10.1093/hmg/ddab146, doi:10.1093/hmg/ddab146. This article has 8 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddab146)
+
+[3. (Pu2015BORC) Jing Pu, Christina Schindler, Rui Jia, Michal Jarnik, Peter Backlund, and Juan S. Bonifacino. Borc, a multisubunit complex that regulates lysosome positioning. Developmental Cell, 33(2):176–188, April 2015. URL: http://dx.doi.org/10.1016/j.devcel.2015.02.011, doi:10.1016/j.devcel.2015.02.011. This article has 294 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.devcel.2015.02.011)
+
+[4. (Hartwig2017Neurodevelopmental) Cortnie Hartwig, William J. Monis, Xun Chen, Dion K. Dickman, Gregory J. Pazour, and Victor Faundez. Neurodevelopmental disease mechanisms, primary cilia, and endosomes converge on the bloc‐1 and borc complexes. Developmental Neurobiology, 78(3):311–330, October 2017. URL: http://dx.doi.org/10.1002/dneu.22542, doi:10.1002/dneu.22542. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/dneu.22542)
+
+5. (Mishra2023Endosome) Endosome dysfunction leads to gain-of-function TLR7 and human lupus. This article has 1 citations.

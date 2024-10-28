@@ -1,0 +1,48 @@
+# PYGO1
+
+## Overview
+PYGO1 is a gene that encodes the protein pygopus family PHD finger 1, which is a chromatin-associated protein involved in the Wnt signaling pathway. This protein is characterized by its plant homeodomain (PHD) finger, a zinc finger-like motif that plays a crucial role in chromatin remodeling and gene expression regulation. The PHD finger of PYGO1 facilitates its interaction with methylated histone H3 tails, particularly at lysine 4 (H3K4me), which is essential for recruiting transcriptional coregulators and chromatin-modifying complexes to Wnt target genes (Söderholm2020The; Fiedler2008Decoding). In the nucleus, PYGO1 forms a complex with BCL9, enhancing its affinity for methylated histone tails and promoting the transcriptional activity of β-catenin, a key effector in the Wnt pathway (Fiedler2008Decoding). This interaction underscores PYGO1's role in regulating gene expression during development and maintaining adult tissue homeostasis, highlighting its importance in cellular signaling and gene regulation.
+
+## Structure
+The PYGO1 protein is characterized by its plant homeodomain (PHD) finger, a zinc finger-like motif that plays a crucial role in chromatin remodeling and gene expression regulation. The PHD finger of PYGO1 forms a compact scaffold that binds two Zn2+ ions and consists of two pairs of antiparallel beta strands, followed by an alpha helix and another beta strand (Fiedler2008Decoding). This structure includes a highly conserved EVND motif within a flexible surface loop known as the 'Pygo loop' (Fiedler2008Decoding).
+
+The PHD finger of PYGO1 interacts with the HD1 domain of BCL9, forming a complex that enhances its affinity for methylated histone H3 tails, particularly H3K4me2 (Fiedler2008Decoding). The interaction involves a semiaromatic K4me2 cavity formed by specific residues, which accommodates the methyl groups of K4me2, and a deep cavity for A1, stabilized by interactions with backbone carbonyl groups (Fiedler2008Decoding). The PHD-HD1 complex shows a preference for H3K4me2 and is insensitive to methylation of H3R2, which is distinct from other PHD fingers (Fiedler2008Decoding).
+
+Mutations in specific residues within the PHD finger, such as W366, V350, and A356, significantly reduce binding affinity, highlighting their importance in ligand recognition (Fiedler2008Decoding). The structural integrity and function of the PYGO1 protein are essential for its role in the Wnt signaling pathway.
+
+## Function
+The PYGO1 gene encodes a protein that plays a significant role in the Wnt signaling pathway, which is crucial for various cellular processes, including transcriptional regulation, cell proliferation, and differentiation. The PYGO1 protein contains a PHD finger domain that facilitates its interaction with chromatin, specifically binding to methylated histone H3 tails at lysine 4 (H3K4me) (Söderholm2020The; Fiedler2008Decoding). This interaction is essential for the recruitment of transcriptional coregulators and chromatin-modifying complexes to Wnt target genes, thereby influencing gene expression (Fiedler2008Decoding).
+
+In the nucleus, PYGO1 forms a complex with BCL9, which enhances its affinity for methylated histone tails, promoting the transcriptional activity of β-catenin, a key effector in the Wnt pathway (Fiedler2008Decoding). This complex is involved in the transition from gene silence to Wnt-induced transcription, highlighting its role in regulating gene expression during development and maintaining adult tissue homeostasis (Fiedler2008Decoding).
+
+PYGO1's activity is particularly relevant in tissues where Wnt signaling is active, such as during embryonic development and in the maintenance of adult tissue homeostasis (Fiedler2008Decoding). Its function as a chromatin-associated protein underscores its importance in modulating transcriptional outcomes in response to Wnt signaling.
+
+## Clinical Significance
+Mutations and alterations in the expression of the PYGO1 gene have been implicated in various developmental and pathological conditions. In the context of heart development, mutations in PYGO1, along with its interaction partners BCL9 and β-catenin, are associated with congenital heart defects. These defects include hypoplastic ventricular myocardium, dilated atria, and aberrant chamber septation, highlighting the critical role of the PYGO1-BCL9 complex in cardiac progenitor cells and Wnt/β-catenin signaling (Cantù2018Mutations).
+
+In zebrafish models, mutations in PYGO1 do not show significant phenotypic changes, suggesting a non-essential role in certain contexts, whereas PYGO2 mutations result in cardiac and craniofacial defects (Cantù2018Mutations). This indicates a potential compensatory mechanism or context-dependent function of PYGO1 in vertebrate development.
+
+In mammalian kidney development, PYGO1 acts as a modulator of Wnt signaling rather than an essential component. Mutations in PYGO1, along with PYGO2, result in mild phenotypes, suggesting a less critical role in Wnt signaling compared to its function in Drosophila (Schwab2007Pygo1). These findings underscore the evolutionary divergence in the function of Pygopus genes between species.
+
+## Interactions
+PYGO1, a member of the pygopus family, is involved in the Wnt signaling pathway through its interactions with several key proteins. It interacts with BCL9, also known as Legless in Drosophila, forming a complex that is crucial for the transcriptional activity of β-catenin, a central effector in the Wnt signaling pathway. This interaction is mediated by the PHD finger of PYGO1, which associates with the HD1 domain of BCL9 to bind specifically to the histone H3 tail methylated at lysine 4 (H3K4me) (Fiedler2008Decoding; Kramps2002WntWingless).
+
+The PYGO1-BCL9 complex acts as an adaptor, linking PYGO1 to β-catenin, thereby facilitating the recruitment of β-catenin to TCF target genes and enhancing its transcriptional activity (Kramps2002WntWingless). This interaction is essential for the proper functioning of the Wnt signaling pathway, as it supports the transition from gene silence to Wnt-induced transcription (Fiedler2008Decoding).
+
+In addition to its role in the Wnt pathway, PYGO1 is involved in chromatin regulation, as its PHD finger is a common feature in proteins associated with chromatin remodeling (Jessen2008Pygopus). These interactions highlight the multifaceted role of PYGO1 in cellular signaling and gene regulation.
+
+
+## References
+
+
+[1. (Schwab2007Pygo1) Kristopher R Schwab, Larry T Patterson, Heather A Hartman, Ni Song, Richard A Lang, Xinhua Lin, and S Steven Potter. Pygo1 and pygo2 roles in wnt signaling in mammalian kidney development. BMC Biology, April 2007. URL: http://dx.doi.org/10.1186/1741-7007-5-15, doi:10.1186/1741-7007-5-15. This article has 77 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/1741-7007-5-15)
+
+[2. (Fiedler2008Decoding) Marc Fiedler, María José Sánchez-Barrena, Maxim Nekrasov, Juliusz Mieszczanek, Vladimir Rybin, Jürg Müller, Phil Evans, and Mariann Bienz. Decoding of methylated histone h3 tail by the pygo-bcl9 wnt signaling complex. Molecular Cell, 30(4):507–518, May 2008. URL: http://dx.doi.org/10.1016/j.molcel.2008.03.011, doi:10.1016/j.molcel.2008.03.011. This article has 145 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2008.03.011)
+
+[3. (Kramps2002WntWingless) Thomas Kramps, Oliver Peter, Erich Brunner, Denise Nellen, Barbara Froesch, Sandipan Chatterjee, Maximilien Murone, Stephanie Züllig, and Konrad Basler. Wnt/wingless signaling requires bcl9/legless-mediated recruitment of pygopus to the nuclear β-catenin-tcf complex. Cell, 109(1):47–60, April 2002. URL: http://dx.doi.org/10.1016/s0092-8674(02)00679-7, doi:10.1016/s0092-8674(02)00679-7. This article has 474 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0092-8674(02)00679-7)
+
+[4. (Jessen2008Pygopus) Shannon Jessen, Bingnan Gu, and Xing Dai. Pygopus and the wnt signaling pathway: a diverse set of connections. BioEssays, 30(5):448–456, April 2008. URL: http://dx.doi.org/10.1002/bies.20757, doi:10.1002/bies.20757. This article has 51 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/bies.20757)
+
+[5. (Söderholm2020The) Simon Söderholm and Claudio Cantù. The wnt/β‐catenin dependent transcription: a tissue‐specific business. WIREs Mechanisms of Disease, October 2020. URL: http://dx.doi.org/10.1002/wsbm.1511, doi:10.1002/wsbm.1511. This article has 41 citations.](https://doi.org/10.1002/wsbm.1511)
+
+[6. (Cantù2018Mutations) Claudio Cantù, Anastasia Felker, Dario Zimmerli, Karin D. Prummel, Elena M. Cabello, Elena Chiavacci, Kevin M. Méndez-Acevedo, Lucia Kirchgeorg, Sibylle Burger, Jorge Ripoll, Tomas Valenta, George Hausmann, Nathalie Vilain, Michel Aguet, Alexa Burger, Daniela Panáková, Konrad Basler, and Christian Mosimann. Mutations in bcl9 and pygo genes cause congenital heart defects by tissue-specific perturbation of wnt/β-catenin signaling. Genes &amp; Development, 32(21–22):1443–1458, October 2018. URL: http://dx.doi.org/10.1101/gad.315531.118, doi:10.1101/gad.315531.118. This article has 42 citations.](https://doi.org/10.1101/gad.315531.118)

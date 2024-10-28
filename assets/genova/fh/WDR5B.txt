@@ -1,0 +1,37 @@
+# WDR5B
+
+## Overview
+WDR5B (WD repeat domain 5B) is a gene that encodes the WD repeat domain 5B protein, which is integral to chromatin remodeling and gene expression regulation. The protein is characterized by the presence of WD40 repeats, which are structural motifs that facilitate protein-protein interactions, essential for its role in histone modification processes. Specifically, the WD repeat domain 5B protein is involved in the methylation of histones, particularly at histone H3 lysine 4 (H3K4), influencing transcriptional activation and repression (Kelly2023Proteina). This protein is active in the nucleus and plays a crucial role in cellular processes such as differentiation, development, and response to environmental changes, including hypoxia (Li2020The). Its involvement in the NSL complex further underscores its significance in transcription regulation through histone acetylation. WDR5B's interactions with other proteins, such as the estrogen receptor and RBBP5, highlight its role in complex protein networks, with implications in diseases like colorectal cancer and Parkinson's disease (Kelly2023Protein; Tang2012Augmented).
+
+## Function
+WDR5B (WD repeat domain 5B) is a gene encoding a protein that plays a significant role in chromatin remodeling and gene expression regulation. The protein contains WD40 repeats, which facilitate protein-protein interactions crucial for its function in histone modification processes. WDR5B is involved in transcriptional activation and repression by influencing the methylation status of histones, particularly through its interaction with histone H3 at lysine 4 (H3K4) (Kelly2023Proteina). This interaction is essential for the regulation of gene expression, as it affects chromatin structure and gene accessibility, thereby impacting cellular processes such as differentiation and development (Li2020The).
+
+In healthy human cells, WDR5B is active in the nucleus, where it contributes to various cellular processes, including the regulation of protein amino acid phosphorylation and response to hypoxia (Li2020The). The protein's involvement in these processes highlights its role in maintaining cellular homeostasis and responding to environmental changes. Additionally, WDR5B's function in chromatin remodeling is linked to its participation in the NSL complex, which is implicated in transcription regulation through histone acetylation, further underscoring its importance in gene expression modulation (Kelly2023Proteina).
+
+## Clinical Significance
+WDR5B has been implicated in several diseases due to its role in gene expression regulation and chromatin modification. In colorectal cancer (CRC), WDR5B is identified as one of six prognostic dosage-sensitive genes (PDSGs) located on chromosome 3q13.33-3q21.1. These genes show high consistency in copy number alterations and are involved in co-expression networks that affect the expression of other genes in CRC. WDR5B, along with other PDSGs like NDUFB4 and SEC22A, exhibits a high degree of connectivity in these networks, suggesting its significant role in CRC. The study indicates that WDR5B may serve as a prognostic marker in CRC due to its stable prognostic classification and association with poor prognosis (Chang2020Identification).
+
+WDR5B is also linked to Parkinson's disease (PD) through its interactions within the NSL complex, which is involved in mitochondrial and nuclear pathways. The NSL complex's interactome includes proteins from PD-associated genes, suggesting a potential role for WDR5B in PD pathogenesis (Kelly2023Protein).
+
+In Ewing Sarcoma, WDR5B is identified as a critical gene in the recurrence group, although specific details on its clinical significance in this context are not provided (Li2020The).
+
+## Interactions
+WDR5B is involved in several protein-protein interactions, particularly in the context of protein interaction prediction using augmented transitive relationships. It is known to interact with the estrogen receptor (ER) and RBBP5, forming interactions such as WDR5B-RBBP5 and ER-RBBP5. These interactions are used as evidence to predict other protein-protein interactions, like ER-DDB1, even when direct interactions are not identified (Tang2012Augmented).
+
+In the context of colorectal cancer, WDR5B is part of a network of prognostic dosage-sensitive genes (PDSGs) located on chromosome 3q13.33-3q21.1. This network includes co-expressed gene pairs and genes involved in differential co-expression networks. WDR5B, along with other PDSGs, is related to at least 13 genes, and 22 genes are associated with more than one PDSG. The functional enrichment analysis of linked genes reveals involvement in processes significant in tumorigenesis and metastasis (Chang2020Identification).
+
+WDR5B was initially included in the PD-CORE network, which is related to Parkinson's disease and mitochondrial biology, but was removed because it was private to a single PD seed (Kelly2023Protein).
+
+
+## References
+
+
+1. (Kelly2023Protein) Protein network analysis links the NSL complex to Parkinson’s disease and mitochondrial biology. This article has 0 citations.
+
+[2. (Kelly2023Proteina) Katie Kelly, Patrick A. Lewis, Helene Plun-Favreau, and Claudia Manzoni. Protein network analysis links the nsl complex to parkinson’s disease via mitochondrial and nuclear biology. Molecular Omics, 19(8):668–679, 2023. URL: http://dx.doi.org/10.1039/d2mo00325b, doi:10.1039/d2mo00325b. This article has 0 citations.](https://doi.org/10.1039/d2mo00325b)
+
+[3. (Tang2012Augmented) Yi-Tsung Tang and Hung-Yu Kao. Augmented transitive relationships with high impact protein distillation in protein interaction prediction. Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics, 1824(12):1468–1475, December 2012. URL: http://dx.doi.org/10.1016/j.bbapap.2012.05.013, doi:10.1016/j.bbapap.2012.05.013. This article has 0 citations.](https://doi.org/10.1016/j.bbapap.2012.05.013)
+
+4. (Li2020The) The Oxidative Stress Pathway May be an Important Pathway Leading to The Recurrence of Ewing Sarcoma —— Based On Weighted Gene Co-Expression Network Analysis. This article has 0 citations.
+
+[5. (Chang2020Identification) Zhiqiang Chang, Xiuxiu Miao, and Wenyuan Zhao. Identification of prognostic dosage-sensitive genes in colorectal cancer based on multi-omics. Frontiers in Genetics, January 2020. URL: http://dx.doi.org/10.3389/fgene.2019.01310, doi:10.3389/fgene.2019.01310. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2019.01310)

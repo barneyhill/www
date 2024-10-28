@@ -1,0 +1,50 @@
+# CDK2AP1
+
+## Overview
+CDK2AP1, or Cyclin Dependent Kinase-2 Associated Protein-1, is a gene that encodes a protein involved in the regulation of the cell cycle and maintenance of genomic stability. The protein, categorized as a regulatory protein, plays a critical role in controlling cell proliferation by negatively regulating CDK2, a kinase essential for cell cycle progression from the G1 to the S phase. By sequestering monomeric CDK2 and targeting it for proteolysis, CDK2AP1 effectively reduces CDK2 activity, thereby influencing cell cycle dynamics (Alsayegh2015Knockdown; alsayegh2013characterizing). Additionally, CDK2AP1 is a component of the Nucleosome Remodeling and Deacetylation (NuRD) complex, contributing to epigenetic regulation and transcriptional repression, which are vital for cellular homeostasis and prevention of premature senescence (Spruijt2010CDK2AP1DOC1). The gene's expression and function have significant implications in cancer biology, where its dysregulation is associated with various malignancies, highlighting its potential as a therapeutic target (Che2022CDK2AP1; Stabile2023The).
+
+## Structure
+
+
+## Function
+CDK2AP1, also known as Cyclin Dependent Kinase-2 Associated Protein-1, is a crucial regulator of the cell cycle in healthy human cells. It primarily functions by negatively regulating CDK2, a kinase essential for the transition from the G1 to the S phase of the cell cycle. CDK2AP1 achieves this by sequestering monomeric CDK2 and targeting it for proteolysis, thereby reducing CDK2 activity. This action results in an accumulation of cells in the G1 phase and a decrease in cells entering the S phase, effectively controlling cell proliferation (Alsayegh2015Knockdown; alsayegh2013characterizing).
+
+CDK2AP1 is also involved in maintaining genomic stability. Its knockdown in primary human fibroblasts leads to increased DNA damage, as indicated by the presence of γ-H2AX foci, which are markers of DNA damage (Alsayegh2015Knockdown). Additionally, CDK2AP1 is a component of the Nucleosome Remodeling and Deacetylation (NuRD) complex, which is involved in epigenetic regulation and transcriptional repression (Spruijt2010CDK2AP1DOC1). This complex plays a role in regulating the expression of genes involved in cell cycle arrest and apoptosis, such as p53, p21, BAX, and PUMA, thereby contributing to the prevention of premature senescence and maintaining cellular homeostasis (Alsayegh2015Knockdown; alsayegh2013characterizing).
+
+## Clinical Significance
+Alterations in the expression of the CDK2AP1 gene have been implicated in various cancers, often correlating with poor prognosis and aggressive disease characteristics. In prostate cancer, high CDK2AP1 expression is associated with metastatic disease and poor overall survival, particularly when combined with PTEN loss or abnormal p53 expression (Gamallat2022The). In hepatocellular carcinoma, CDK2AP1 is upregulated in tumor tissues and linked to advanced clinical stages and poor prognosis (Che2022CDK2AP1). Conversely, in oral squamous cell carcinoma (OSCC), CDK2AP1 is often downregulated due to non-mutational mechanisms, such as microRNA-mediated silencing, which is associated with poor survival outcomes (Stabile2023The).
+
+In breast cancer, CDK2AP1 acts as a tumor suppressor, with its downregulation leading to increased cell growth and tumorigenesis. Overexpression of CDK2AP1 in breast cancer cells results in cell cycle arrest and increased sensitivity to chemotherapy (He2014CDK2AP1). Similarly, in myxofibrosarcoma, low levels of CDK2AP1 are linked to poor prognosis, with its overexpression inducing cell cycle arrest and apoptosis (Li2014Clinical). These findings underscore the gene's role in tumor suppression and its potential as a therapeutic target in various cancers.
+
+## Interactions
+CDK2AP1, also known as DOC-1, is involved in several protein-protein interactions that play crucial roles in cellular processes. It is a subunit of the Mi-2/NuRD chromatin remodeling complex, interacting specifically with subunits such as MBD2 and MBD3. This interaction is significant for transcriptional repression and chromatin remodeling, as CDK2AP1 binds to methylated DNA as part of the MBD2/NuRD complex (Spruijt2010CDK2AP1DOC1).
+
+CDK2AP1 also interacts with the tumor suppressor protein p53. Co-immunoprecipitation experiments and molecular docking studies have shown that CDK2AP1 forms multiple hydrogen bonds and physical contacts with p53, suggesting a potential regulatory role in cell cycle and apoptosis (Gamallat2022The).
+
+In addition, CDK2AP1 interacts with a novel protein product named UPP, which is involved in cell cycle regulation. This interaction inhibits cell proliferation by modulating the expression of UPP, highlighting CDK2AP1's role in tumor suppression (LIU2013Interaction).
+
+CDK2AP1 also associates with DNA polymerase α/primase, inhibiting DNA replication by suppressing CDK2-mediated phosphorylation of the polymerase, which affects the initiation of DNA replication (Matsuo2000p12DOC1).
+
+
+## References
+
+
+[1. (Gamallat2022The) Yaser Gamallat, Andrea Bakker, Ealia Khosh Kish, Muhammad Choudhry, Simon Walker, Saood Aldakheel, Sima Seyedi, Kuo-Cheng Huang, Sunita Ghosh, Geoffrey Gotto, and Tarek A. Bismar. The association between cyclin dependent kinase 2 associated protein 1 (cdk2ap1) and molecular subtypes of lethal prostate cancer. International Journal of Molecular Sciences, 23(21):13326, November 2022. URL: http://dx.doi.org/10.3390/ijms232113326, doi:10.3390/ijms232113326. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms232113326)
+
+[2. (Stabile2023The) Roberto Stabile, Mario Román Cabezas, Mathijs P. Verhagen, Francesco A. Tucci, Thierry P. P. van den Bosch, Maria J. De Herdt, Berdine van der Steen, Alex L. Nigg, Meng Chen, Cristina Ivan, Masayoshi Shimizu, Senada Koljenović, Jose A. Hardillo, C. Peter Verrijzer, Robert J. Baatenburg de Jong, George A. Calin, and Riccardo Fodde. The deleted in oral cancer (doc1 aka cdk2ap1) tumor suppressor gene is downregulated in oral squamous cell carcinoma by multiple micrornas. Cell Death &amp; Disease, May 2023. URL: http://dx.doi.org/10.1038/s41419-023-05857-2, doi:10.1038/s41419-023-05857-2. This article has 4 citations.](https://doi.org/10.1038/s41419-023-05857-2)
+
+[3. (Alsayegh2015Knockdown) Khaled N. Alsayegh, Venkat S. Gadepalli, Shilpa Iyer, and Raj R. Rao. Knockdown of cdk2ap1 in primary human fibroblasts induces p53 dependent senescence. PLOS ONE, 10(3):e0120782, March 2015. URL: http://dx.doi.org/10.1371/journal.pone.0120782, doi:10.1371/journal.pone.0120782. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0120782)
+
+[4. (Spruijt2010CDK2AP1DOC1) Cornelia G. Spruijt, Stefanie J. J. Bartels, Arie B. Brinkman, Jorrit V. Tjeertes, Ina Poser, Hendrik G. Stunnenberg, and Michiel Vermeulen. Cdk2ap1/doc-1 is a bona fide subunit of the mi-2/nurd complex. Molecular BioSystems, 6(9):1700, 2010. URL: http://dx.doi.org/10.1039/c004108d, doi:10.1039/c004108d. This article has 53 citations and is from a peer-reviewed journal.](https://doi.org/10.1039/c004108d)
+
+[5. (LIU2013Interaction) LIJUN LIU, XIANGMING YANG, QIANWEI NI, ZHIFENG XIAO, YANNAN ZHAO, JIN HAN, MOYI SUN, and BING CHEN. Interaction between p12cdk2ap1 and a novel unnamed protein product inhibits cell proliferation by regulating the cell cycle. Molecular Medicine Reports, 9(1):156–162, November 2013. URL: http://dx.doi.org/10.3892/mmr.2013.1801, doi:10.3892/mmr.2013.1801. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/mmr.2013.1801)
+
+[6. (Matsuo2000p12DOC1) Kou Matsuo, Satoru Shintani, Takanori Tsuji, Emi Nagata, Michael Lerman, Jim Mcbride, Yuuji Nakahara, Hiroe Ohyama, Randy Todd, and David T. W. Wong. P12doc1, a growth suppressor, associates with dna polymerase α/primase. The FASEB Journal, 14(10):1318–1324, July 2000. URL: http://dx.doi.org/10.1096/fasebj.14.10.1318, doi:10.1096/fasebj.14.10.1318. This article has 11 citations.](https://doi.org/10.1096/fasebj.14.10.1318)
+
+7. (alsayegh2013characterizing) Characterizing the Role of CDK2AP1 in Primary Human Fibroblasts and Human Embryonic Stem Cells. This article has 0 citations.
+
+[8. (Li2014Clinical) Chien-Feng Li, Hsuan-Ying Huang, Wen-Ren Wu, Shih-Shin Liang, Yi-Ling Chen, Lih-Ren Chen, Yu-Ting Peng, Hui-Chieh Lee, and Yow-Ling Shiue. Clinical aggressiveness of myxofibrosarcomas associates with down-regulation of p12cdk2ap1: prognostic implication of a putative tumor suppressor that induces cell cycle arrest and apoptosis via mitochondrial pathway. Annals of Surgical Oncology, 21(S4):711–720, June 2014. URL: http://dx.doi.org/10.1245/s10434-014-3825-0, doi:10.1245/s10434-014-3825-0. This article has 2 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1245/s10434-014-3825-0)
+
+[9. (He2014CDK2AP1) Xiangming He, Hua Xiang, Xiangyun Zong, Xuebing Yan, Yang Yu, Guan Liu, Dehong Zou, and Hongjian Yang. Cdk2-ap1 inhibits growth of breast cancer cells by regulating cell cycle and increasing docetaxel sensitivity in vivo and in vitro. Cancer Cell International, November 2014. URL: http://dx.doi.org/10.1186/s12935-014-0130-8, doi:10.1186/s12935-014-0130-8. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-014-0130-8)
+
+[10. (Che2022CDK2AP1) Yibin Che, Ge Wang, and Qiang Xia. Cdk2ap1 influences immune infiltrates and serves as a prognostic indicator for hepatocellular carcinoma. Frontiers in Genetics, August 2022. URL: http://dx.doi.org/10.3389/fgene.2022.937310, doi:10.3389/fgene.2022.937310. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.937310)

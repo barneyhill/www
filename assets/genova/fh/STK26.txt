@@ -1,0 +1,29 @@
+# STK26
+
+## Overview
+STK26, also known as MST4, is a gene that encodes the serine/threonine kinase 26, a member of the kinase family of proteins. This kinase plays a pivotal role in cellular signaling pathways by transferring phosphate groups to serine/threonine residues on substrate proteins, thereby modulating various cellular processes. The protein's structure is characterized by a kinase domain essential for its enzymatic activity, and it can undergo post-translational modifications such as phosphorylation, which regulate its function and interactions. STK26 is involved in critical protein-protein interactions, notably acting as a negative regulator of Toll-like receptor (TLR) signaling, which is significant in immune response modulation. Alterations in the STK26 gene have been linked to severe outcomes in diseases such as COVID-19, underscoring its clinical relevance (Mezghrani2024Detection; Sahajpal2021Host).
+
+## Structure
+STK26, also known as MST4, is a serine/threonine kinase with a complex molecular structure. The primary structure of STK26 consists of a sequence of amino acids that form the protein. Its secondary structure includes alpha helices and beta sheets, which contribute to the protein's stability and function. The tertiary structure of STK26 is characterized by the three-dimensional folding of the protein, prominently featuring a kinase domain that is crucial for its enzymatic activity. This domain is responsible for the transfer of phosphate groups to serine/threonine residues on substrate proteins, a key function in cellular signaling pathways.
+
+STK26 may undergo post-translational modifications, such as phosphorylation, which can influence its activity and interactions with other proteins. These modifications are essential for regulating the kinase's function in various cellular processes. Additionally, STK26 can exist in different splice variant isoforms. These isoforms result from alternative splicing of mRNA, leading to variations in the protein that may have distinct functional roles within the cell. The presence of these isoforms allows STK26 to participate in a diverse range of cellular activities, adapting to different physiological conditions.
+
+## Clinical Significance
+Mutations and alterations in the expression of the STK26 gene have been implicated in the severity of COVID-19. A study identified a rare structural variation involving a ~534.9 kb tandem duplication on chromosome X that affects the STK26 gene in a female patient with severe COVID-19. This duplication disrupts the gene by duplicating the 5'UTR and coding exon 1 region, potentially leading to increased transcription and translation of STK26. The overexpression of STK26, which encodes serine/threonine kinase 26, a negative regulator of Toll-like receptor (TLR) signaling, may inhibit TLR signaling. This inhibition can impair the type I interferon response, reducing viral clearance and exacerbating the severity of COVID-19 (Sahajpal2021Host). 
+
+The study further suggests that increased expression of STK26 is associated with severe COVID-19 outcomes, highlighting the gene's potential clinical significance in the disease's pathogenesis (Sahajpal2021Host). These findings underscore the importance of STK26 mutations and expression alterations in influencing the immune response and disease severity in COVID-19 patients (Sahajpal2021Host).
+
+## Interactions
+STK26, also known as serine/threonine kinase 26, is involved in various protein-protein interactions that play significant roles in cellular signaling pathways. It is a negative regulator of Toll-like receptor (TLR) signaling, where it directly binds and phosphorylates TRAF6 at two threonine residues (T463 and T486) in the C-terminal TRAF domain. This interaction inhibits the oligomerization and autoubiquitination activity of TRAF6, which is a downstream signaling molecule in the TLR3/TLR7 pathways that mediate the NF-kB and type I interferon response (Sahajpal2021Host).
+
+STK26 is also involved in a network of protein-protein interactions identified through the SLiMAn2 web server, which analyzes short linear motif-based interactions. It is one of the five protein kinases involved in 244 protein-protein interactions supported by data from the BioGRID and IntAct databases. These interactions involve 21 substrates containing multiple motifs, although specific details about the physical interactions of STK26 with other proteins or nucleic acids are not provided (Mezghrani2024Detection).
+
+STK26's interactions are crucial for its role in regulating immune responses and other cellular processes, highlighting its importance in both health and disease contexts.
+
+
+## References
+
+
+1. (Sahajpal2021Host) Host genome analysis of structural variations by Optical Genome Mapping provides clinically valuable insights into genes implicated in critical immune, viral infection, and viral replication pathways in patients with severe COVID-19. This article has 3 citations.
+
+[2. (Mezghrani2024Detection) Alexandre Mezghrani, Juliette Simon, Victor Reys, and Gilles Labesse. Detection and Analysis of Short Linear Motif-Based Protein–Protein Interactions with SLiMAn2 Web Server, pages 253–281. Springer US, 2024. URL: http://dx.doi.org/10.1007/978-1-0716-4007-4_14, doi:10.1007/978-1-0716-4007-4_14. This article has 0 citations.](https://doi.org/10.1007/978-1-0716-4007-4_14)

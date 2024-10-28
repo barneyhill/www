@@ -1,0 +1,42 @@
+# FBH1
+
+## Overview
+FBH1 (F-box DNA helicase 1) is a gene that encodes a protein of the same name, which plays a critical role in maintaining genomic stability through its involvement in DNA repair and replication processes. The FBH1 protein is categorized as a DNA helicase and is a component of the SCF (SKP1, CUL1, and F-box) ubiquitin ligase complex. It is characterized by an F-box motif, which facilitates its interaction with SKP1, and a helicase domain that is essential for its function in homologous recombination and DNA repair (Sakaguchi2008Essential). FBH1 regulates the activity of RAD51, a key protein in homologous recombination, by promoting its ubiquitylation, thereby preventing excessive recombination and ensuring genomic stability (Chu2015FBH1; Watson2023Fbox). The protein's interaction with PCNA is crucial for its recruitment to replication forks, where it aids in the repair of DNA damage and the stabilization of replication processes (Watson2023Fbox). Mutations in the FBH1 gene have been associated with various cancers, highlighting its significance in cellular responses to DNA damage and its potential role in oncogenic transformation (Watson2023Fbox; Jeong2013FBH1).
+
+## Structure
+The human FBH1 (F-box DNA helicase 1) protein is characterized by several key domains and isoforms. It contains a canonical F-box motif at its N-terminus, which is essential for binding to SKP1 and linking FBH1 to SCF ubiquitin-ligase complexes (Sakaguchi2008Essential). The central region of the protein features a catalytic helicase domain, which is related to the Rep, UvrD, PcrA, and Srs2 family of helicases and is crucial for DNA processing during homologous recombination (Sakaguchi2008Essential).
+
+FBH1 exists in at least four isoforms due to alternative splicing. Isoforms 1 and 2 include a PCNA-interacting peptide (PIP) domain at their N-terminus, necessary for PCNA-dependent degradation via the Cullin ring ligase 4 (Watson2023Fbox). Isoform 2 lacks a 51 amino acid sequence before the PIP domain. Isoforms 3 and 4 are missing significant parts of their N-termini, including both the PIP and F-box domains. All isoforms contain an AlkB homolog 2 PCNA-interacting motif (APIM) at their C-termini, which binds the same PCNA site as PIP, albeit with lower affinity (Watson2023Fbox).
+
+The protein may undergo post-translational modifications, such as phosphorylation, which can influence its function and interactions. The structural integrity and function of FBH1 are critical for its role in DNA repair and replication processes.
+
+## Function
+FBH1 (F-box DNA helicase 1) is a crucial protein in maintaining genomic stability in healthy human cells. It functions as a DNA helicase and is involved in the regulation of homologous recombination (HR), a key mechanism for repairing DNA double-strand breaks (DSBs) (Chu2015FBH1; Watson2023Fbox). FBH1 limits the activity of RAD51, a central protein in HR, by ubiquitylating it, which prevents excessive recombination that could lead to genomic instability (Chu2015FBH1; Watson2023Fbox). This regulation is essential for stabilizing replication forks and preventing hyperrecombination (Chu2015FBH1).
+
+FBH1 is part of the SCF (SKP1, CUL1, and F-box) complex, suggesting its role as a ubiquitin ligase (Chu2015FBH1). It cooperates with the MUS81-EME1 nuclease to generate DSBs following replication stress, which can trigger apoptosis and prevent oncogenic transformation (Fugger2013FBH1). FBH1 is recruited to replication forks through its interaction with PCNA, ensuring accurate fork restart and repair of single-strand breaks (Watson2023Fbox). Its helicase activity is crucial for processing stalled replication forks and promoting DNA breakage necessary for proper checkpoint signaling and cell cycle regulation (Fugger2013FBH1).
+
+## Clinical Significance
+Mutations and deletions in the FBH1 gene have been implicated in the progression of melanoma. FBH1 is often deleted or mutated in melanoma cells, which leads to increased survival under replicative stress conditions. This suggests that FBH1 inactivation may contribute to oncogenic transformation by allowing cells to survive despite DNA damage, particularly from UV irradiation (Jeong2013FBH1). Mutations in the helicase domain of FBH1, such as Asp698Asn, Pro793Ser, and Pro844Ser, result in a loss of helicase activity, impairing the activation of DNA damage response pathways and increasing cell survival in clonogenic assays (Jeong2013FBH1).
+
+FBH1 mutations are also observed in various other cancers, including lung cancer, where the FBH1 locus is often deleted (Jeong2013FBH1). In human cancers, FBH1 mutations and copy-number variations are prevalent, with a higher percentage of FBH1 loss noted in esophageal cancer and under-expression in kidney chromophobe cancer (Watson2023Fbox). Although FBH1 is not classified as a driver gene, its mutations frequently co-occur with mutations in other DNA repair genes, such as BRCA2, suggesting a role in destabilizing DNA repair machinery in cancer cells (Watson2023Fbox).
+
+## Interactions
+FBH1 (F-box DNA helicase 1) is involved in several key interactions with proteins and nucleic acids, playing a significant role in DNA repair and replication processes. FBH1 contains an F-box domain, which facilitates its role as a ubiquitin ligase within the SCF (SKP1, CUL1, and F-box) complex. This complex is responsible for the ubiquitylation of RAD51, a central player in homologous recombination (HR). The ubiquitylation of RAD51 by the SCF FBH1 complex is crucial for regulating RAD51's function, particularly during replication stress (Chu2015FBH1).
+
+FBH1 also interacts with PCNA (Proliferating Cell Nuclear Antigen) through a PCNA-interacting peptide (PIP) domain at its N-terminus and an AlkB homolog 2 PCNA-interacting motif (APIM) at its C-terminus. These interactions are important for FBH1's recruitment to replication forks and its role in DNA repair (Watson2023Fbox).
+
+FBH1's helicase activity is involved in displacing RAD51 filaments from single-stranded DNA (ssDNA), indicating a direct interaction with RAD51. This interaction is essential for targeting RAD51 for ubiquitylation, preventing its re-association with DNA (Chu2015FBH1).
+
+
+## References
+
+
+[1. (Watson2023Fbox) Alizhah J. Watson, Michaela L. Shaffer, Renee A. Bouley, and Ruben C. Petreaca. F-box dna helicase 1 (fbh1) contributes to the destabilization of dna damage repair machinery in human cancers. Cancers, 15(18):4439, September 2023. URL: http://dx.doi.org/10.3390/cancers15184439, doi:10.3390/cancers15184439. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers15184439)
+
+[2. (Sakaguchi2008Essential) Chikako Sakaguchi, Takashi Morishita, Hideo Shinagawa, and Takashi Hishida. Essential and distinct roles of the f-box and helicase domains of fbh1 in dna damage repair. BMC Molecular Biology, 9(1):27, 2008. URL: http://dx.doi.org/10.1186/1471-2199-9-27, doi:10.1186/1471-2199-9-27. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2199-9-27)
+
+[3. (Chu2015FBH1) Wai Kit Chu, Miranda J. Payne, Petra Beli, Katsuhiro Hanada, Chunaram Choudhary, and Ian D. Hickson. Fbh1 influences dna replication fork stability and homologous recombination through ubiquitylation of rad51. Nature Communications, January 2015. URL: http://dx.doi.org/10.1038/ncomms6931, doi:10.1038/ncomms6931. This article has 56 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms6931)
+
+[4. (Fugger2013FBH1) Kasper Fugger, Wai Kit Chu, Peter Haahr, Arne Nedergaard Kousholt, Halfdan Beck, Miranda J. Payne, Katsuhiro Hanada, Ian D. Hickson, and Claus Storgaard Sørensen. Fbh1 co-operates with mus81 in inducing dna double-strand breaks and cell death following replication stress. Nature Communications, January 2013. URL: http://dx.doi.org/10.1038/ncomms2395, doi:10.1038/ncomms2395. This article has 77 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms2395)
+
+[5. (Jeong2013FBH1) Yeon-Tae Jeong, Lukas Cermak, Maria Guijarro, Eva Hernando, and Michele Pagano. Fbh1 protects melanocytes from transformation and is deregulated in melanomas. Cell Cycle, 12(7):1128–1132, April 2013. URL: http://dx.doi.org/10.4161/cc.24165, doi:10.4161/cc.24165. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/cc.24165)

@@ -1,0 +1,36 @@
+# TSSK6
+
+## Overview
+TSSK6, or testis-specific serine kinase 6, is a gene that encodes a protein kinase predominantly expressed in the testes. The protein, also named TSSK6, is a serine/threonine kinase that plays a pivotal role in spermatogenesis, particularly during the postmeiotic stages of sperm development. It is involved in critical processes such as chromatin remodeling and the histone-to-protamine transition, which are essential for the proper condensation of DNA in spermatids. TSSK6 is localized in the sperm head, where it facilitates actin polymerization and the translocation of Izumo1 during the acrosome reaction, a key step for sperm-egg fusion. The protein's activity is regulated through interactions with heat shock proteins and a co-chaperone, which are necessary for its stability and function. Beyond its role in fertility, TSSK6 has been implicated in cancer biology, suggesting its potential as an oncogene (Salicioni2020Testis-specific).
+
+## Structure
+The TSSK6 protein in tree shrews has a molecular weight of 30,288.8 Da and is characterized by a theoretical isoelectric point (pI) of 9.30, indicating it is a basic protein (Li2021cDNA). It is considered an unstable protein with a stability coefficient of 43.93 and is hydrophilic, as indicated by a grand average hydrophilicity coefficient (GRAVY) of -0.234 (Li2021cDNA). The protein does not contain a transmembrane region, classifying it as a non-transmembrane protein (Li2021cDNA).
+
+The tertiary structure of TSSK6 was predicted using the protein kinase c4wnkA as a template, with a coverage rate of 96% and reliability of 100%, suggesting a similar spatial structure to other protein kinases (Li2021cDNA). The functional domain analysis identified a highly conserved S_TKc structural domain (serine/threonine protein kinases, catalytic domain) at positions 12-267, which is crucial for its kinase activity (Li2021cDNA). TSSK6 contains 13 phosphorylation sites, including 10 serine sites, 1 threonine site, and 2 tyrosine sites, indicating potential post-translational modifications that may regulate its function (Li2021cDNA). The protein lacks signal peptides, suggesting it is not secreted (Li2021cDNA).
+
+## Function
+TSSK6 (testis-specific serine kinase 6) is a crucial protein kinase involved in the process of spermatogenesis, specifically in the postmeiotic stages of sperm development. It plays a significant role in chromatin remodeling, particularly in the histone-to-protamine transition, which is essential for proper DNA condensation in spermatids. This transition is vital for the structural integrity and functionality of mature sperm (Salicioni2020Testis-specific).
+
+TSSK6 is localized in the sperm head, particularly in the postacrosomal region, which is rich in polymerized actin. This localization is crucial for its role in actin polymerization and the translocation of Izumo1 during the acrosome reaction, a process necessary for successful sperm-egg fusion (Salicioni2020Testis-specific).
+
+The protein interacts with heat shock proteins HSP70 and HSP90, which are necessary for its stability and activity. The co-chaperone SIP also plays a role in the activation of TSSK6, preventing its degradation (Salicioni2020Testis-specific). TSSK6's kinase activity requires Mg2+ ions and is involved in phosphorylating specific substrates, such as peptides from the Myelin Basic Protein sequence (Salicioni2020Testis-specific).
+
+## Clinical Significance
+Mutations or alterations in the expression of the TSSK6 gene have been linked to male infertility. TSSK6 is crucial for sperm chromatin remodeling, morphology, and motility. Knockout studies in mice have demonstrated that the absence of TSSK6 results in infertility due to abnormal sperm morphology, impaired motility, and defects in sperm-egg fusion. Specifically, TSSK6-null mice show defects in Izumo1 translocation during the acrosome reaction, which is essential for sperm-egg fusion (Salicioni2020Testis-specific). In humans, single-nucleotide polymorphisms (SNPs) in TSSK6 have been associated with conditions such as azoospermia and severe oligospermia, indicating its significant role in male fertility (Salicioni2020Testis-specific).
+
+In addition to its role in fertility, TSSK6 has been implicated in cancer cell survival and proliferation. It has been identified as a kinase that can cooperate with activated MEK1 to replace the transformative potential of activated AKT1 in HEK cells, suggesting its role as a putative oncogene (Salicioni2020Testis-specific). These findings highlight the broader implications of TSSK6 beyond fertility, suggesting potential roles in oncogenesis.
+
+## Interactions
+TSSK6, a testis-specific serine kinase, is known to interact with several proteins that are crucial for its function in spermatogenesis. One of the primary interactions is with heat shock proteins HSP70 and HSP90, which are essential for the stability and activity of TSSK6. These interactions are necessary for the proper functioning of TSSK6, as they help stabilize the kinase and prevent its degradation (Salicioni2020Testis-specific).
+
+TSSK6 also interacts with a novel co-chaperone known as SSTK-interacting protein (SIP). SIP is expressed specifically in mouse and human testis and plays a critical role in the early activation of TSSK6. It is involved in the HSP90-dependent activation process, potentially by initially binding to HSP70 and then recruiting TSSK6 into the HSP90 complex. This interaction is crucial for the stabilization and activation of TSSK6 during spermatogenesis (Salicioni2020Testis-specific).
+
+Additionally, TSSK6 is capable of phosphorylating specific peptides, such as the GKGRGLSLARFAKK peptide from the Myelin Basic Protein sequence, indicating its role in phosphorylation processes that are significant for sperm development (Salicioni2020Testis-specific).
+
+
+## References
+
+
+[1. (Li2021cDNA) Xue Li, Yuanji Li, Wenfei Song, Daohao Xie, Fangfang Zhu, Minghua Yang, and Yahui Li. Cdna cloning, expression and bioinformatical analysis of tssk genes in tree shrews. Computational Biology and Chemistry, 92:107474, June 2021. URL: http://dx.doi.org/10.1016/j.compbiolchem.2021.107474, doi:10.1016/j.compbiolchem.2021.107474. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.compbiolchem.2021.107474)
+
+[2. (Salicioni2020Testis-specific) Ana M Salicioni, María G Gervasi, Julian Sosnik, Darya A Tourzani, Saman Nayyab, Diego A Caraballo, and Pablo E Visconti. Testis-specific serine kinase protein family in male fertility and as targets for non-hormonal male contraception†. Biology of Reproduction, 103(2):264–274, April 2020. URL: http://dx.doi.org/10.1093/biolre/ioaa064, doi:10.1093/biolre/ioaa064. This article has 47 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/biolre/ioaa064)

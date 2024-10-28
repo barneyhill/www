@@ -1,0 +1,42 @@
+# ZDHHC18
+
+## Overview
+ZDHHC18 is a gene that encodes the protein zinc finger DHHC-type palmitoyltransferase 18, a member of the DHHC family of palmitoyltransferases. These enzymes are characterized by a conserved DHHC (Asp-His-His-Cys) motif and are involved in the post-translational modification process known as palmitoylation, where palmitate is added to cysteine residues on target proteins. This modification is crucial for regulating protein localization, stability, and function. The ZDHHC18 protein is a multi-pass transmembrane enzyme, indicating its role in cellular membranes, particularly in the Golgi apparatus, where it influences protein trafficking and localization. It is expressed in various tissues, including the lung, testis, and brain, and plays a role in processes such as T-cell receptor signaling. ZDHHC18 has been implicated in several cancers, including glioblastoma multiforme and lung adenocarcinoma, where its altered expression is associated with tumor progression and poor prognosis (Lin2021Protein; Chen2019DHHC; Korycka2012Human).
+
+## Structure
+ZDHHC18 is a member of the DHHC family of palmitoyltransferases, characterized by the presence of a conserved DHHC (Asp-His-His-Cys) motif. This motif is typically located in a cytoplasmic loop of the protein, which is a common feature among members of this enzyme family. The protein structure of ZDHHC18 is defined by a multi-pass transmembrane configuration, which suggests that it spans the cellular membrane multiple times. This structural arrangement is crucial for its function in catalyzing the palmitoylation of substrate proteins, a post-translational modification that involves the addition of palmitic acid to cysteine residues on target proteins. 
+
+ZDHHC18 may exist in various isoforms due to alternative splicing, which can result in differences in the protein's structure and function. These isoforms allow for a diversity of functional roles and regulatory mechanisms within the cell. The specific structural details of ZDHHC18, such as the exact number of transmembrane domains or the presence of additional functional domains, are not detailed in the available context. However, the conserved nature of the DHHC motif and the multi-pass transmembrane structure are key features that define its role as a palmitoyltransferase.
+
+## Function
+ZDHHC18 encodes a protein that is part of the DHHC family of palmitoyltransferases, which are enzymes responsible for catalyzing the addition of palmitate, a 16-carbon fatty acid, to cysteine residues on target proteins. This post-translational modification, known as palmitoylation, plays a crucial role in regulating protein localization, stability, and function. ZDHHC18 is expressed at high levels in the lung, testis, and brain, indicating its potential importance in these tissues (Korycka2012Human).
+
+In cellular processes, ZDHHC18 is involved in signal transduction and membrane trafficking. It is active in the Golgi apparatus and other cellular membranes, where it facilitates the palmitoylation of proteins, thereby influencing their trafficking and localization within the cell (Lin2021Protein). Specifically, ZDHHC18 has been implicated in T-cell receptor (TCR) signaling, where it palmitoylates VAMP7 on Cys183. This modification is essential for VAMP7's trafficking to the Golgi and its localization to the immune synapse during T-cell activation, highlighting its role in the adaptive immune response (Lin2021Protein).
+
+Despite these insights, the specific substrates and detailed physiological roles of ZDHHC18 in healthy human cells remain largely undefined (Korycka2012Human).
+
+## Clinical Significance
+ZDHHC18 is implicated in several cancers due to its altered expression levels. In gliomas, particularly glioblastoma multiforme (GBM), ZDHHC18 is significantly upregulated compared to normal brain tissues. Its high expression is associated with the mesenchymal GBM subtype and correlates with increased malignancy and poor prognosis. ZDHHC18 is predominantly expressed in necrotic regions of GBM, and its interaction with proteins like RNF144A and BMI1 is crucial for the survival of mesenchymal glioma stem cells under stress conditions (Chen2019DHHC).
+
+In lung adenocarcinoma (LUAD), ZDHHC18 is also upregulated and linked to shorter overall survival. Its expression is associated with immune cell infiltration, including B cells, CD8+ T cells, and macrophages, and correlates with immune checkpoint-related genes such as CD276. High ZDHHC18 expression is further associated with lymph node metastasis and advanced pathological stages in LUAD (Bian2024Identification).
+
+In kidney renal clear cell carcinoma (KIRC), ZDHHC18 is significantly upregulated and associated with tumor progression and poor prognosis. Its expression correlates with immune cell infiltration and may influence immune-related signaling pathways, suggesting a role in tumorigenesis and potential as a therapeutic target (Liu2020Bioinformatics).
+
+## Interactions
+ZDHHC18 is involved in several protein interactions, particularly in the context of glioma stem cells (GSCs). It is part of a protein network that includes ZDHHC23 and the E3 ligase RNF144A. In proneural GSCs, ZDHHC23 interacts with RNF144A, but overexpression of ZDHHC18 reduces this interaction and increases BMI1 protein levels. Conversely, in mesenchymal GSCs, ZDHHC18 interacts with RNF144A, and overexpression of ZDHHC23 reduces this interaction, leading to a decrease in BMI1 protein levels. These interactions suggest that ZDHHC18 can modulate the level of polyubiquitinated BMI1 by affecting its interaction with RNF144A, promoting the survival of mesenchymal GSCs under stress by stabilizing BMI1 (Chen2019DHHC).
+
+ZDHHC18 and ZDHHC23 also show different expression patterns in proneural and mesenchymal GSCs but are partly co-localized in both cell types, suggesting an association between the two proteins. Immunoprecipitation analysis confirmed the interaction between ZDHHC18 and ZDHHC23 in these GSCs. The BMI1 protein complex is a key component of the ZDHHC18-ZDHHC23 network, playing a significant role in cellular metabolic processes and under hypoxic conditions (Chen2019DHHC).
+
+
+## References
+
+
+[1. (Chen2019DHHC) Xueran Chen, Lei Hu, Haoran Yang, Huihui Ma, Kaiqin Ye, Chenggang Zhao, Zhiyang Zhao, Haiming Dai, Hongzhi Wang, and Zhiyou Fang. Dhhc protein family targets different subsets of glioma stem cells in specific niches. Journal of Experimental &amp; Clinical Cancer Research, January 2019. URL: http://dx.doi.org/10.1186/s13046-019-1033-2, doi:10.1186/s13046-019-1033-2. This article has 43 citations.](https://doi.org/10.1186/s13046-019-1033-2)
+
+[2. (Lin2021Protein) Hening Lin. Protein cysteine palmitoylation in immunity and inflammation. The FEBS Journal, 288(24):7043–7059, February 2021. URL: http://dx.doi.org/10.1111/febs.15728, doi:10.1111/febs.15728. This article has 36 citations.](https://doi.org/10.1111/febs.15728)
+
+[3. (Bian2024Identification) Jing Bian, Wenji Xiong, Zhiguang Yang, Minzhe Li, Demei Song, Yanli Zhang, and Chaoying Liu. Identification and prognostic biomarkers among zdhhc4/12/18/24, and apt2 in lung adenocarcinoma. Scientific Reports, January 2024. URL: http://dx.doi.org/10.1038/s41598-024-51182-9, doi:10.1038/s41598-024-51182-9. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-51182-9)
+
+[4. (Korycka2012Human) Justyna Korycka, Agnieszka Łach, Elżbieta Heger, Dżamila M. Bogusławska, Marcin Wolny, Monika Toporkiewicz, Katarzyna Augoff, Jan Korzeniewski, and Aleksander F. Sikorski. Human dhhc proteins: a spotlight on the hidden player of palmitoylation. European Journal of Cell Biology, 91(2):107–117, February 2012. URL: http://dx.doi.org/10.1016/j.ejcb.2011.09.013, doi:10.1016/j.ejcb.2011.09.013. This article has 118 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ejcb.2011.09.013)
+
+[5. (Liu2020Bioinformatics) Zhuang Liu, Chang Liu, Mingming Xiao, Yamei Han, Siyue Zhang, and Bo Xu. Bioinformatics analysis of the prognostic and biological significance of zdhhc-protein acyltransferases in kidney renal clear cell carcinoma. Frontiers in Oncology, December 2020. URL: http://dx.doi.org/10.3389/fonc.2020.565414, doi:10.3389/fonc.2020.565414. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2020.565414)

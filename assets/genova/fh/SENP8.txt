@@ -1,0 +1,39 @@
+# SENP8
+
+## Overview
+SENP8 is a gene that encodes a protease known as SUMO peptidase family member, NEDD8 specific, or NEDP1. This enzyme is a critical component of the deneddylation process, which involves the removal of the ubiquitin-like protein NEDD8 from substrate proteins. SENP8 is particularly important for regulating the activity of cullin-RING ligases (CRLs), which are pivotal in the ubiquitin-proteasome system responsible for protein degradation. The enzyme's specificity for NEDD8 over ubiquitin is a key feature, ensuring precise modulation of protein modifications that influence various cellular processes, including cell cycle progression, DNA repair, and signal transduction (Shin2011The; Hemelaar2004Specific). SENP8's activity is primarily localized in the nucleus and cytoplasm, where it plays a significant role in maintaining cellular homeostasis and has potential implications in therapeutic strategies for cancer and viral infections (Matunis2016Concepts; Chen2021Deneddylation).
+
+## Function
+SENP8, also known as DEN1 or NEDP1, is a protease that specifically processes and deconjugates NEDD8, a ubiquitin-like protein. This enzyme plays a critical role in the regulation of cullin-RING ligases (CRLs), which are essential for protein degradation via the ubiquitin-proteasome system. SENP8's activity is crucial for maintaining cellular homeostasis by regulating the neddylation status of cullin proteins, thereby influencing cell cycle progression, DNA repair, and signal transduction (Shin2011The; Hemelaar2004Specific).
+
+SENP8 exhibits a strong preference for NEDD8 over ubiquitin, with a 60,000-fold higher specificity for NEDD8, which is vital for the fidelity of cellular processes involving NEDD8 modifications (Shin2011The). The enzyme is primarily active in the nucleus and cytoplasm, where it modulates the conjugation status of substrate proteins, impacting various cellular functions (Matunis2016Concepts).
+
+The molecular determinants of SENP8's substrate specificity include specific amino acid residues, such as position 51, which are crucial for distinguishing between NEDD8 and ubiquitin, ensuring precise regulation of protein modifications (Shin2011The). This specificity is essential for the proper functioning of cellular processes and organismal development.
+
+## Clinical Significance
+Alterations in the SENP8 gene have been implicated in various clinical conditions, particularly in the context of cancer and viral infections. In primary effusion lymphoma (PEL), inactivation of SENP8 leads to resistance against cereblon modulators (CMs) such as lenalidomide (LEN) and pomalidomide (POM). This resistance is associated with the accumulation of unneddylated CUL4A and CUL4B proteins, which interfere with the efficacy of these drugs by sequestering cereblon (CRBN) (Patil2019Genomewide). The study suggests that SENP8 inactivation can drive resistance to CMs in a dominant-negative manner, highlighting its role in modulating drug response in cancer treatment (Patil2019Genomewide).
+
+SENP8 also plays a role in restricting hepatitis B virus (HBV) propagation. Overexpression of SENP8 has been shown to reduce HBV DNA levels in various cell models, suggesting that SENP8's deneddylation activity suppresses HBV replication (Chen2021Deneddylation). These findings indicate that SENP8 could be a potential target for therapeutic strategies in both cancer and viral infections. However, specific diseases or conditions directly resulting from mutations in the SENP8 gene have not been extensively documented in the provided context.
+
+## Interactions
+SENP8, also known as NEDP1, is a protease that plays a crucial role in the deneddylation process, which involves the removal of the ubiquitin-like protein NEDD8 from substrate proteins. This activity is essential for regulating the activity of cullin-RING ligases (CRLs), as SENP8 interacts with these ligases to modulate their function by removing NEDD8, thereby influencing protein degradation pathways (Chen2019Identifying).
+
+SENP8's specificity for NEDD8 over ubiquitin is highlighted by its ability to recognize and cleave NEDD8-conjugated proteins, a process that is critical for maintaining the distinct biological roles of these proteins. The enzyme's specificity is attributed to its interaction with specific residues on NEDD8, particularly positions 51 and 72, which are key determinants for substrate recognition (Shin2011The).
+
+In the context of viral infections, SENP8 has been shown to interact with NEDD8-conjugated proteins to restrict the propagation of the hepatitis B virus (HBV). Overexpression of SENP8 reduces HBV DNA levels, suggesting that its deneddylation activity plays a role in suppressing viral replication (Chen2021Deneddylation). These interactions underscore SENP8's importance in cellular processes and its potential as a therapeutic target.
+
+
+## References
+
+
+[1. (Chen2019Identifying) Jonathan J. Chen, Lyndsey N. Schmucker, and Donald P. Visco. Identifying de‐neddylation inhibitors: virtual high‐throughput screens targeting senp8. Chemical Biology &amp; Drug Design, 93(4):590–604, February 2019. URL: http://dx.doi.org/10.1111/cbdd.13457, doi:10.1111/cbdd.13457. This article has 3 citations.](https://doi.org/10.1111/cbdd.13457)
+
+[2. (Shin2011The) Yung-Cheng Shin, Siao-Jing Tang, Jou-Han Chen, Pei-Han Liao, and Shih-Chung Chang. The molecular determinants of nedd8 specific recognition by human senp8. PLoS ONE, 6(11):e27742, November 2011. URL: http://dx.doi.org/10.1371/journal.pone.0027742, doi:10.1371/journal.pone.0027742. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0027742)
+
+[3. (Chen2021Deneddylation) David Virya Chen, Tatsuya Suzuki, Yumi Itoh, Yusuke Maeda, Junki Hirano, Saori Haga, He Zhang, Daiki Ito, Yoshiharu Matsuura, and Toru Okamoto. Deneddylation by senp8 restricts hepatitis b virus propagation. Microbiology and Immunology, 65(3):125–135, February 2021. URL: http://dx.doi.org/10.1111/1348-0421.12874, doi:10.1111/1348-0421.12874. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/1348-0421.12874)
+
+[4. (Patil2019Genomewide) Ajinkya Patil, Mark Manzano, and Eva Gottwein. Genome-wide crispr screens reveal genetic mediators of cereblon modulator toxicity in primary effusion lymphoma. Blood Advances, 3(14):2105–2117, July 2019. URL: http://dx.doi.org/10.1182/bloodadvances.2019031732, doi:10.1182/bloodadvances.2019031732. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1182/bloodadvances.2019031732)
+
+[5. (Hemelaar2004Specific) Joris Hemelaar, Anna Borodovsky, Benedikt M. Kessler, David Reverter, Julie Cook, Nagamallesawari Kolli, Tudev Gan-Erdene, Keith D. Wilkinson, Grace Gill, Christopher D. Lima, Hidde L. Ploegh, and Huib Ovaa. Specific and covalent targeting of conjugating and deconjugating enzymes of ubiquitin-like proteins. Molecular and Cellular Biology, 24(1):84–95, January 2004. URL: http://dx.doi.org/10.1128/mcb.24.1.84-95.2004, doi:10.1128/mcb.24.1.84-95.2004. This article has 172 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.24.1.84-95.2004)
+
+[6. (Matunis2016Concepts) Michael J. Matunis and Manuel S. Rodriguez. Concepts and Methodologies to Study Protein SUMOylation: An Overview, pages 3–22. Springer New York, 2016. URL: http://dx.doi.org/10.1007/978-1-4939-6358-4_1, doi:10.1007/978-1-4939-6358-4_1. This article has 12 citations.](https://doi.org/10.1007/978-1-4939-6358-4_1)

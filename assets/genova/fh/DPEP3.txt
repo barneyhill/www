@@ -1,0 +1,46 @@
+# DPEP3
+
+## Overview
+DPEP3 is a gene that encodes the protein dipeptidase 3, a member of the Membrane-Bound Dipeptidase (MBD) family. This protein is a glycosylphosphatidylinositol-anchored metallopeptidase primarily expressed in the testis. Unlike its homologs, DPEP1 and DPEP2, which are active in hydrolyzing dipeptides, dipeptidase 3 lacks enzymatic activity due to specific amino acid substitutions in its active site, suggesting it may function as an inactive enzyme or a decoy receptor (Hayashi2020Structure). Structurally, dipeptidase 3 is characterized by a dimeric TIM (β/α)8-barrel fold and forms a homodimer in solution (Hayashi2020Structure). The protein is also associated with TEX101 on the sperm cell surface, indicating a potential role in the sperm cell surface proteome (Schiza2019Identification). DPEP3 has been implicated in clinical contexts such as cancer and male infertility, with elevated expression in ovarian cancer and reduced expression in certain forms of azoospermia (Hayashi2020Structure; Davalieva2022Comparative).
+
+## Structure
+The DPEP3 protein is characterized by a dimeric TIM (β/α)8-barrel fold, which is a common structural motif in enzymes that facilitates catalytic activity (Hayashi2020Structure). The active site of DPEP3 is centrally located within this TIM barrel, distinct from the dimerization interface (Hayashi2020Structure). Unlike its homolog DPEP1, DPEP3 lacks zinc ions at its active site, which are typically crucial for metalloprotease activity. This absence is due to the protonation of histidine residues under acidic conditions, leading to water molecules occupying the site instead (Hayashi2020Structure).
+
+DPEP3 shares 49% sequence identity with DPEP1, and their structural superposition yields a 1.83 Å RMSD, indicating high structural conservation (Hayashi2020Structure). However, key differences in the active site include the substitution of histidine with tyrosine at position 269 and aspartate with asparagine at position 359, which result in reduced zinc affinity and lack of dipeptidase activity (Hayashi2020Structure). The protein forms a homodimer in solution, with the dimerization interface primarily formed by two helices and a loop (Hayashi2020Structure). The structure is stabilized by two intramolecular disulfide bonds (Hayashi2020Structure).
+
+## Function
+DPEP3, a member of the Membrane-Bound Dipeptidase (MBD) family, is a glycosylphosphatidylinositol-anchored metallopeptidase primarily expressed in the testis. Unlike its homologs DPEP1 and DPEP2, which are active in hydrolyzing dipeptides, DPEP3 lacks dipeptidase activity due to specific amino acid substitutions in its active site. In DPEP3, the presence of asparagine and serine instead of the typical aspartate residue results in the loss of enzymatic activity, suggesting it may function as an inactive enzyme or a decoy receptor (Hayashi2020Structure).
+
+Despite its structural similarity to DPEP1, DPEP3 does not bind zinc effectively, which is crucial for catalytic activity in metallopeptidases. This is attributed to the substitution of His 214 in DPEP1 with Tyr 269 in DPEP3, affecting zinc coordination and ligand binding (Hayashi2020Structure). DPEP3 forms a homodimer in solution, and its dimerization interface is largely conserved with DPEP1, although its exact biological function remains unclear (Hayashi2020Structure).
+
+DPEP3 is also associated with TEX101 on the sperm cell surface, forming a stable complex that is not affected by the absence of TEX101, indicating a potential role in the sperm cell surface proteome (Schiza2019Identification).
+
+## Clinical Significance
+The DPEP3 gene has been implicated in several clinical contexts, particularly in relation to cancer and male infertility. In ovarian cancer, DPEP3 expression is elevated, suggesting its potential as a target for cancer therapy. The SC-003 antibody drug conjugate, which targets DPEP3, has shown efficacy in preclinical models and is undergoing clinical evaluation (Hayashi2020Structure). 
+
+In the context of male infertility, DPEP3 is primarily expressed in the testis and is significantly reduced in patients with non-obstructive azoospermia (NOA) and post-vasectomy, indicating its potential as a biomarker for azoospermia. The reduction in DPEP3 expression is particularly notable in Sertoli cell-only syndrome (SCO), where levels are significantly lower compared to other forms of azoospermia (Fietz2024Proteomic; Davalieva2022Comparative). 
+
+Despite its high expression in the testis, studies in mice have shown that DPEP3 is not essential for male fertility, as knockout mice remain fertile despite reduced sperm count (Xie2019The). This suggests that while DPEP3 may play a role in spermatogenesis, it is not critical for fertility under normal conditions.
+
+## Interactions
+DPEP3, a glycosylphosphatidylinositol-anchored metallopeptidase, is known to form a homodimer in solution, with its dimerization interface primarily involving two helices, α2 and α3, and the loop between αB and α1. This dimerization mechanism is largely conserved with DPEP1, although DPEP3 lacks dipeptidase activity due to specific amino acid substitutions (Hayashi2020Structure).
+
+DPEP3 interacts specifically with the SC-003 antibody Fab fragment, which binds with high affinity (1.7 nM) to DPEP3 but not to DPEP1 or DPEP2. This specificity is attributed to key residues such as Glu 256, Ser 415, Arg 416, and Ala 417, which are not conserved in DPEP1 and DPEP2. Arg 416, in particular, forms hydrogen bonds with both the light and heavy chains of SC-003 (Hayashi2020Structure).
+
+DPEP3 also forms a physical complex with TEX101, a germ cell-specific protein, although its levels remain stable in the absence of TEX101, suggesting a specific interaction that does not depend on TEX101 for stability (Schiza2019Identification; Schiza2018Identification).
+
+
+## References
+
+
+1. (Schiza2018Identification) Identification of TEX101 functional interactome through proteomic measurement of human spermatozoa homozygous for the missense variant rs35033974. This article has 1 citations.
+
+[2. (Schiza2019Identification) Christina Schiza, Dimitrios Korbakis, Keith Jarvi, Eleftherios P. Diamandis, and Andrei P. Drabovich. Identification of tex101-associated proteins through proteomic measurement of human spermatozoa homozygous for the missense variant rs35033974*. Molecular &amp; Cellular Proteomics, 18(2):338–351, February 2019. URL: http://dx.doi.org/10.1074/mcp.ra118.001170, doi:10.1074/mcp.ra118.001170. This article has 29 citations.](https://doi.org/10.1074/mcp.ra118.001170)
+
+[3. (Hayashi2020Structure) Kristyn Hayashi, Kenton L. Longenecker, Patrick Koenig, Aditi Prashar, Johannes Hampl, Vincent Stoll, and Sandro Vivona. Structure of human dpep3 in complex with the sc-003 antibody fab fragment reveals basis for lack of dipeptidase activity. Journal of Structural Biology, 211(1):107512, July 2020. URL: http://dx.doi.org/10.1016/j.jsb.2020.107512, doi:10.1016/j.jsb.2020.107512. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jsb.2020.107512)
+
+[4. (Davalieva2022Comparative) Katarina Davalieva, Aleksandar Rusevski, Milan Velkov, Predrag Noveski, Katerina Kubelka-Sabit, Vanja Filipovski, Toso Plaseski, Aleksandar Dimovski, and Dijana Plaseska-Karanfilska. Comparative proteomics analysis of human ffpe testicular tissues reveals new candidate biomarkers for distinction among azoospermia types and subtypes. Journal of Proteomics, 267:104686, September 2022. URL: http://dx.doi.org/10.1016/j.jprot.2022.104686, doi:10.1016/j.jprot.2022.104686. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jprot.2022.104686)
+
+[5. (Xie2019The) Yubin Xie, Ranjha Khan, Fazal Wahab, Hafiz Muhammad Jafar Hussain, Asim Ali, Hui Ma, Hanwei Jiang, Jianze Xu, Qamar Zaman, Mazhar Khan, Xiaohua Jiang, and Qinghua Shi. The testis-specifically expressed dpep3 is not essential for male fertility in mice. Gene, 711:143925, August 2019. URL: http://dx.doi.org/10.1016/j.gene.2019.06.015, doi:10.1016/j.gene.2019.06.015. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.gene.2019.06.015)
+
+[6. (Fietz2024Proteomic) Daniela Fietz, Raouda Sgaier, Liza O’Donnell, Peter G. Stanton, Laura F. Dagley, Andrew I. Webb, Hans-Christian Schuppe, Thorsten Diemer, and Adrian Pilatz. Proteomic biomarkers in seminal plasma as predictors of reproductive potential in azoospermic men. Frontiers in Endocrinology, April 2024. URL: http://dx.doi.org/10.3389/fendo.2024.1327800, doi:10.3389/fendo.2024.1327800. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fendo.2024.1327800)

@@ -1,0 +1,46 @@
+# DHPS
+
+## Overview
+The DHPS gene encodes the enzyme deoxyhypusine synthase, a cytosolic transferase that plays a pivotal role in the post-translational modification of the eukaryotic initiation factor 5A (eIF5A) through the synthesis of hypusine. This modification is crucial for the activation of eIF5A, which is involved in essential cellular processes such as translation elongation and termination. Deoxyhypusine synthase is characterized by its Rossmann fold and forms a homotetramer, which is necessary for its catalytic activity. The enzyme's function is vital for cell proliferation and development, with its activity being regulated through interactions with extracellular signal-regulated kinases ERK1/2. Alterations in DHPS expression and function have significant clinical implications, particularly in cancer, where it is associated with poor prognosis and therapy resistance (Park2021Posttranslational; Wang2020Extracellular).
+
+## Structure
+The deoxyhypusine synthase (DHS) enzyme, encoded by the DHPS gene, is a cytosolic transferase involved in the hypusination of eukaryotic initiation factor 5A (eIF5A). The primary structure of DHS consists of 369 amino acids, with a molecular mass of approximately 41 kDa (Wątor2020Half). The secondary structure includes a conserved N-terminal 'ball-and-chain' motif, which is crucial for the assembly of the DHS homotetramer and consists of a short helix connected to the protein core by a flexible loop (Wątor2020Half; Wątor2023Half).
+
+The tertiary structure of DHS features a Rossmann fold, a common motif in proteins that bind nucleotide cofactors, formed by five parallel beta-strands (Wątor2023Half). DHS forms a homotetramer under physiological conditions, which is essential for its catalytic activity (Wątor2020Half; Wątor2023Half). The enzyme's active sites are located at the dimer interface, and the tetramer is stabilized by hydrophobic and polar interactions (Wątor2023Half).
+
+DHS requires NAD as a co-factor for its catalytic activity, and the enzyme's structure has been solved in both NAD- and GC7-bound states (Wątor2023Half). The enzyme's quaternary structure is characterized by a dimer of dimers, which is considered the active form of the protein (Wątor2023Half).
+
+## Function
+Deoxyhypusine synthase (DHPS) is an enzyme encoded by the DHPS gene, playing a critical role in the post-translational modification of the eukaryotic initiation factor 5A (eIF5A) through the synthesis of hypusine. This modification is essential for the activation of eIF5A, which is involved in promoting translation elongation and facilitating translation termination (Park2021Posttranslational; BarbaAliaga2022Role). The hypusination process involves two steps: DHPS catalyzes the transfer of a 4-aminobutyl moiety from spermidine to a specific lysine residue on eIF5A, forming deoxyhypusine, which is then hydroxylated by deoxyhypusine hydroxylase (DOHH) to form hypusine (Park2021Posttranslational).
+
+The activity of DHPS is crucial for cell proliferation and development, as evidenced by the embryonic lethality observed in mice with a homozygous knockout of the DHPS gene (Park2021Posttranslational). In humans, rare biallelic pathogenic variants in DHPS are associated with neurodevelopmental disorders, highlighting its importance in human health (Park2021Posttranslational). DHPS is primarily active in the cytoplasm, where it ensures the proper functioning of eIF5A, which is implicated in various cellular processes, including translation and neurodevelopment (Park2021Posttranslational).
+
+## Clinical Significance
+Alterations in the expression and function of the DHPS gene have significant clinical implications, particularly in cancer. High DHPS expression is associated with poor prognosis in several cancer types, including lung adenocarcinoma, neuroblastoma, and esophageal squamous cell carcinoma. In lung cancer, elevated DHPS levels correlate with resistance to inhibitors targeting the EGFR, BRAF, and MEK1/2 pathways, suggesting its potential as a predictive biomarker for therapy response (Wang2020Extracellular). In neuroblastoma, high DHPS expression is linked to poor survival rates and is correlated with MYCN amplification, a marker of aggressive disease. However, DHPS expression alone is not an independent prognostic factor without MYCN amplification (Bandino2014Deoxyhypusine).
+
+The phosphorylation of DHPS at Ser-233 by ERK1/2 is crucial for its role in promoting cell proliferation. This post-translational modification is regulated by the ERK1/2 signaling pathway, which is often implicated in cancer. Disruptions in the interaction between DHPS and ERK1/2 could impact cell proliferation, highlighting the potential clinical significance of these interactions (Wang2020Extracellular). Targeting DHPS expression or its phosphorylation state may offer therapeutic strategies in cancers where DHPS is overexpressed (Wang2020Extracellular).
+
+## Interactions
+Deoxyhypusine synthase (DHPS) interacts directly with extracellular signal-regulated kinases ERK1/2. This interaction is mediated through an ERK-binding motif (EBM) located in the N-terminal region of DHPS, which contains several basic residues. The binding of DHPS to ERK1/2 does not depend on the phosphorylation or activation state of ERK1/2. Mutations in the EBM that alter its charge can abolish this interaction, highlighting the importance of the EBM for binding (Wang2020Extracellular).
+
+DHPS is phosphorylated by ERK1/2 at the Ser-233 site, which is crucial for its enzymatic activity. This phosphorylation occurs within the NADPH binding pocket of DHPS and is essential for promoting cell proliferation. The phosphorylation enhances the hypusination process and gene translation, indicating a role in cell proliferation through its interaction with ERK1/2 (Wang2020Extracellular).
+
+DHPS also regulates p21 CIP1 expression through mechanisms independent of its hypusination activity. It influences p21 CIP1 expression via the transcription factors TP53 and SP1, although the exact nature of these interactions remains to be elucidated (Becker2021eIF5AIndependent).
+
+
+## References
+
+
+[1. (Park2021Posttranslational) Myung Hee Park, Rajesh Kumar Kar, Siddharth Banka, Alban Ziegler, and Wendy K. Chung. Post-translational formation of hypusine in eif5a: implications in human neurodevelopment. Amino Acids, 54(4):485–499, July 2021. URL: http://dx.doi.org/10.1007/s00726-021-03023-6, doi:10.1007/s00726-021-03023-6. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00726-021-03023-6)
+
+[2. (Wang2020Extracellular) Chao Wang, Zhen Chen, Litong Nie, Mengfan Tang, Xu Feng, Dan Su, Huimin Zhang, Yun Xiong, Jeong-Min Park, and Junjie Chen. Extracellular signal-regulated kinases associate with and phosphorylate dhps to promote cell proliferation. Oncogenesis, September 2020. URL: http://dx.doi.org/10.1038/s41389-020-00271-1, doi:10.1038/s41389-020-00271-1. This article has 6 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41389-020-00271-1)
+
+[3. (Becker2021eIF5AIndependent) Andrew E. Becker, Pui-Kei Wu, and Jong-In Park. Eif5a-independent role of dhps in p21cip1 and cell fate regulation. International Journal of Molecular Sciences, 22(24):13187, December 2021. URL: http://dx.doi.org/10.3390/ijms222413187, doi:10.3390/ijms222413187. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms222413187)
+
+[4. (Wątor2020Half) Elżbieta Wątor, Piotr Wilk, and Przemysław Grudnik. Half way to hypusine—structural basis for substrate recognition by human deoxyhypusine synthase. Biomolecules, 10(4):522, March 2020. URL: http://dx.doi.org/10.3390/biom10040522, doi:10.3390/biom10040522. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom10040522)
+
+[5. (Bandino2014Deoxyhypusine) Andrea Bandino, Dirk Geerts, Jan Koster, and André S. Bachmann. Deoxyhypusine synthase (dhps) inhibitor gc7 induces p21/rb-mediated inhibition of tumor cell growth and dhps expression correlates with poor prognosis in neuroblastoma patients. Cellular Oncology, 37(6):387–398, October 2014. URL: http://dx.doi.org/10.1007/s13402-014-0201-9, doi:10.1007/s13402-014-0201-9. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s13402-014-0201-9)
+
+[6. (BarbaAliaga2022Role) Marina Barba-Aliaga and Paula Alepuz. Role of eif5a in mitochondrial function. International Journal of Molecular Sciences, 23(3):1284, January 2022. URL: http://dx.doi.org/10.3390/ijms23031284, doi:10.3390/ijms23031284. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms23031284)
+
+[7. (Wątor2023Half) E. Wątor, P. Wilk, A. Biela, M. Rawski, W. Steinchen, G. Bange, S. Glatt, and P. Grudnik. Half way to hypusine. molecular basis of deoxyhypusination. Acta Crystallographica Section A Foundations and Advances, 79(a2):C929–C929, August 2023. URL: http://dx.doi.org/10.1107/s2053273323086928, doi:10.1107/s2053273323086928. This article has 0 citations.](https://doi.org/10.1107/s2053273323086928)

@@ -1,0 +1,42 @@
+# DCAF12
+
+## Overview
+DCAF12 is a gene that encodes the protein DDB1 and CUL4 associated factor 12, which is a crucial component of the CRL4-DCAF12 E3 ubiquitin ligase complex. This protein functions primarily as a substrate receptor, recognizing specific C-terminal degrons on target proteins and facilitating their ubiquitination and subsequent degradation by the proteasome. The DCAF12 protein is characterized by a WD40-repeat domain, which forms a seven-bladed β-propeller structure essential for its protein-protein interactions (Righetto2024Probing; Righetto2023Probing). It plays significant roles in various cellular processes, including spermatogenesis, T cell activation, and the regulation of the Hippo signaling pathway, impacting cell growth and tumorigenesis (Cho2019CDK7; Lidak2021CRL4DCAF12). The protein's interactions and functions make it a potential target for therapeutic interventions, particularly in immune-related disorders and cancer (Righetto2023Probing).
+
+## Structure
+DCAF12 is characterized by a seven-bladed β-propeller fold, typical of the WD40-repeat (WDR) domain, which is crucial for its function in protein-protein interactions (Righetto2024Probing; Righetto2023Probing). This structure is confirmed by a 3.17 Å cryo-EM structure of the DCAF12-DDB1-MAGEA3 complex (Righetto2023Probing). The central channel of the WDR domain contains positively charged residues, such as Arg203, Arg256, Arg344, Lys91, and Lys108, which are essential for binding to C-terminal degrons of substrate proteins like MAGEA3 and CCT5 (Righetto2024Probing; Righetto2023Probing).
+
+DCAF12 interacts with DDB1, which is composed of three β-propeller domains (BPA, BPB, and BPC). The DDB1-BPA and DDB1-BPC domains anchor DCAF12 through a helix-loop-helix region in its N-terminus, while the DDB1-BPB domain interacts with the CUL4 scaffold protein in the E3 ligase complex (Righetto2024Probing; Righetto2023Probing). The interaction with DDB1 is crucial for the stability and function of DCAF12 within the E3 ligase complex (Righetto2024Probing). The protein's structure and interactions make it a promising target for drug discovery, particularly in the context of targeted protein degradation strategies (Righetto2023Probing).
+
+## Function
+DCAF12 is a protein that functions as a substrate receptor within the CRL4-DCAF12 ubiquitin ligase complex, playing a significant role in the regulation of protein degradation. It specifically targets proteins with C-terminal degrons, such as the -EE and -EL motifs, for ubiquitination and subsequent proteasomal degradation (Lidak2021CRL4DCAF12). This activity is crucial for maintaining protein homeostasis in various cellular processes, including spermatogenesis and T cell activation. DCAF12 regulates the levels of the MOV10 RNA helicase, which is involved in miRNA pathways and retrotransposon restriction, particularly during spermatogenesis and immune responses (Lidak2021CRL4DCAF12).
+
+In the context of T cell activation, DCAF12 is upregulated and modulates the protein levels of MOV10, impacting immune cell homeostasis and function (Lidak2021CRL4DCAF12). DCAF12 is also implicated in the regulation of the Hippo pathway effectors Yki/Yap/Taz, where it facilitates their ubiquitination and degradation, thus influencing cell growth and tumorigenesis (Cho2019CDK7). The protein is primarily localized in the nucleus but can transiently localize to the cytoplasm, where it interacts with its substrates (Lidak2021CRL4DCAF12).
+
+## Clinical Significance
+Mutations or alterations in the expression of the DCAF12 gene have been implicated in various clinical conditions. DCAF12 is involved in the regulation of the MOV10 RNA helicase, which plays a role in immune responses and spermatogenesis. In Dcaf12 knockout (KO) mice, there is a notable dysregulation of T cell populations, leading to increased apoptosis and reduced T cell percentages, which suggests potential implications for immune-related disorders such as post-transplantation organ rejection and inflammatory diseases like intestinal Behçet's disease (Lidak2021CRL4DCAF12). 
+
+DCAF12 also plays a role in synaptic function and plasticity. In Drosophila, DCAF12 is essential for maintaining synaptic homeostasis, and its deficiency impairs synaptic plasticity, which could have implications for neurological conditions if similar mechanisms exist in humans (Patrón2019Cul4). 
+
+Additionally, DCAF12 interacts with proteins such as MAGEA3, which is implicated in various cancers, including breast and lung cancer. This interaction suggests that DCAF12 may be involved in cancer pathogenesis through its role in protein degradation pathways (Righetto2023Probing). These findings highlight the potential clinical significance of DCAF12 in immune, neurological, and cancer-related conditions.
+
+## Interactions
+DCAF12 is a component of the CRL4 E3 ubiquitin ligase complex, where it functions as a substrate recognition component. It interacts with the adaptor protein DDB1, forming a stable complex that is crucial for its function in ubiquitination and proteasomal degradation of target proteins. DCAF12 specifically recognizes C-terminal degrons, such as the double-glutamic acid motifs found in MAGEA3 and CCT5, facilitating their degradation (Righetto2024Probing; Righetto2023Probing).
+
+The interaction between DCAF12 and its substrates involves electrostatic interactions with positively charged residues within the central channel of its WD40 repeat domain. Key residues such as Arg203, Arg256, and Arg344 are essential for binding to the degrons of MAGEA3 and CCT5 (Righetto2024Probing; Righetto2023Probing). The presence of DDB1 enhances the binding affinity of DCAF12 to these substrates, although DDB1 alone does not bind to the degrons (Righetto2023Probing).
+
+DCAF12 also interacts with MOV10 RNA helicase, GART, and ADAR, indicating its role in various cellular processes, including immune responses. These interactions are specific to DCAF12, as its paralogs DCAF12L1 and DCAF12L2 do not interact with MOV10 (Lidak2021CRL4DCAF12).
+
+
+## References
+
+
+[1. (Righetto2024Probing) Germanna Lima Righetto, Yanting Yin, David M Duda, Victoria Vu, Magdalena M Szewczyk, Hong Zeng, Yanjun Li, Peter Loppnau, Tony Mei, Yen-Yen Li, Alma Seitova, Aaron N Patrick, Jean-Francois Brazeau, Charu Chaudhry, Dalia Barsyte-Lovejoy, Vijayaratnam Santhakumar, and Levon Halabelian. Probing the crl4dcaf12 interactions with magea3 and cct5 di-glu c-terminal degrons. PNAS Nexus, March 2024. URL: http://dx.doi.org/10.1093/pnasnexus/pgae153, doi:10.1093/pnasnexus/pgae153. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/pnasnexus/pgae153)
+
+[2. (Patrón2019Cul4) Lilian A. Patrón, Kei Nagatomo, David Tyler Eves, Mays Imad, Kimberly Young, Meaghan Torvund, Xiufang Guo, Gregory C. Rogers, and Konrad E. Zinsmaier. Cul4 ubiquitin ligase cofactor dcaf12 promotes neurotransmitter release and homeostatic plasticity. Journal of Cell Biology, 218(3):993–1010, January 2019. URL: http://dx.doi.org/10.1083/jcb.201805099, doi:10.1083/jcb.201805099. This article has 16 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201805099)
+
+[3. (Cho2019CDK7) Yong Suk Cho, Shuang Li, Xiaohui Wang, Jian Zhu, Shu Zhuo, Yuhong Han, Tao Yue, Yingzi Yang, and Jin Jiang. Cdk7 regulates organ size and tumor growth by safeguarding the hippo pathway effector yki/yap/taz in the nucleus. Genes &amp; Development, 34(1–2):53–71, December 2019. URL: http://dx.doi.org/10.1101/gad.333146.119, doi:10.1101/gad.333146.119. This article has 42 citations.](https://doi.org/10.1101/gad.333146.119)
+
+[4. (Lidak2021CRL4DCAF12) Tomas Lidak, Nikol Baloghova, Vladimir Korinek, Radislav Sedlacek, Jana Balounova, Petr Kasparek, and Lukas Cermak. Crl4-dcaf12 ubiquitin ligase controls mov10 rna helicase during spermatogenesis and t cell activation. International Journal of Molecular Sciences, 22(10):5394, May 2021. URL: http://dx.doi.org/10.3390/ijms22105394, doi:10.3390/ijms22105394. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms22105394)
+
+5. (Righetto2023Probing) Probing the DCAF12 interactions with MAGEA3 and CCT5 C-terminal degrons. This article has 0 citations.

@@ -1,0 +1,43 @@
+# FRAT1
+
+## Overview
+FRAT1 (Frequently Rearranged in Advanced T-cell lymphomas 1) is a gene that encodes the FRAT regulator of WNT signaling pathway 1 protein, which plays a pivotal role in the Wnt/β-catenin signaling pathway. This pathway is essential for regulating various cellular processes, including cell proliferation, differentiation, and migration. The FRAT1 protein functions as a positive regulator by inhibiting glycogen synthase kinase-3 (GSK-3), thereby preventing the degradation of β-catenin and facilitating its accumulation and nuclear translocation. Once in the nucleus, β-catenin interacts with TCF/LEF transcription factors to activate the transcription of Wnt target genes. The FRAT1 protein is categorized as a signaling regulator due to its role in modulating the Wnt pathway. It is expressed in several human tissues, including the endometrium, testis, pancreas, and prostate, indicating its involvement in normal tissue function and homeostasis (Wang2006Tissue). The dysregulation of FRAT1 has been implicated in various cancers, highlighting its significance in both normal physiological processes and pathological conditions (Zhu2016FRAT1; Zhang2016Frequently).
+
+## Function
+FRAT1 (FRAT regulator of WNT signaling pathway 1) is a gene that encodes a protein involved in the Wnt/β-catenin signaling pathway, which is crucial for various cellular processes, including cell proliferation, differentiation, and migration. The FRAT1 protein acts as a positive regulator of this pathway by inhibiting glycogen synthase kinase-3 (GSK-3), which prevents the phosphorylation and subsequent degradation of β-catenin. This inhibition allows β-catenin to accumulate in the cytoplasm and translocate to the nucleus, where it interacts with TCF/LEF transcription factors to activate the transcription of Wnt target genes such as c-myc and cyclin D1 (YU2016Silencing; Wang2006Tissue).
+
+In healthy human cells, FRAT1 is expressed in tissues such as the endometrium, testis, pancreas, and prostate, suggesting a role in normal tissue function and homeostasis (Wang2006Tissue). Although its specific function in these tissues is not fully detailed, the involvement of FRAT1 in the Wnt signaling pathway indicates its importance in maintaining cellular processes essential for tissue development and repair. The protein's activity in stabilizing β-catenin and promoting gene expression is vital for embryonic development and maintaining tissue homeostasis (Wang2006Tissue).
+
+## Clinical Significance
+FRAT1 is implicated in several cancers due to its role in the Wnt/β-catenin signaling pathway. In prostate cancer, FRAT1 is overexpressed in cancerous tissues compared to normal prostate tissues, where it is typically confined to the nuclei of basal cells. This overexpression is associated with increased cancer cell growth and may confer a growth advantage, suggesting an oncogenic role for FRAT1 in prostate cancer (Zhang2016Frequently). 
+
+In ovarian cancer, FRAT1 overexpression correlates with the accumulation of β-catenin in the nucleus and cytoplasm, which is linked to the activation of Wnt target genes involved in tumor development. This suggests that FRAT1 may contribute to the aberrant activation of the Wnt pathway in ovarian serous adenocarcinomas (Wang2006Tissue).
+
+In gastric cancer, FRAT1, along with FRAT2, promotes metastasis and invasion through the Wnt/β-catenin pathway. The miR-3648 molecule negatively regulates this pathway by targeting FRAT1 and FRAT2, indicating that FRAT1 overexpression may facilitate cancer progression (Tang2022The).
+
+In colon cancer, increased FRAT1 expression is associated with higher tumor malignancy and advanced stages, promoting cell proliferation and migration (Zhu2016FRAT1).
+
+## Interactions
+FRAT1, a key regulator in the Wnt signaling pathway, engages in several significant protein interactions. It physically interacts with FRAT2, a relationship that has been confirmed through co-immunoprecipitation and colocalization experiments in gastric cancer cells. This interaction is crucial for promoting metastasis and invasion in these cells, as the FRAT1-FRAT2 axis enhances the progression of gastric cancer by activating the Wnt/β-catenin signaling pathway (Tang2022The).
+
+FRAT1 also interacts with glycogen synthase kinase 3 (GSK3), specifically through a peptide derived from FRAT1 known as FRATtide. This peptide binds to GSK3, inhibiting its ability to phosphorylate substrates such as Axin and β-catenin. This inhibition is selective, as FRATtide does not affect the phosphorylation of other GSK3 substrates like glycogen synthase. By blocking GSK3's interaction with Axin, FRAT1 modulates the Wnt signaling pathway, stabilizing β-catenin and influencing gene expression critical for embryogenesis and cancer progression (Thomas1999A).
+
+In glioblastoma, FRAT1 competes with Axin for GSK-3β binding sites, leading to the inactivation of GSK-3β. This interaction prevents the degradation of β-catenin, allowing it to accumulate and activate transcriptional complexes that promote tumor growth and angiogenesis (Yang2022FRAT1).
+
+
+## References
+
+
+[1. (Thomas1999A) Gareth M. Thomas, Sheelagh Frame, Michel Goedert, Inke Nathke, Paul Polakis, and Philip Cohen. A gsk3‐binding peptide from frat1 selectively inhibits the gsk3‐catalysed phosphorylation of axin and β‐catenin. FEBS Letters, 458(2):247–251, September 1999. URL: http://dx.doi.org/10.1016/s0014-5793(99)01161-8, doi:10.1016/s0014-5793(99)01161-8. This article has 178 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0014-5793(99)01161-8)
+
+[2. (Tang2022The) Weimei Tang, Miaomiao Pei, Jiaying Li, Nanzhu Xu, Wushuang Xiao, Zhen Yu, Jieming Zhang, Linjie Hong, Zheng Guo, Jianjiao Lin, Weiyu Dai, Yizhi Xiao, Xiaosheng Wu, Guangnan Liu, Fachao Zhi, Guoxin Li, Jing Xiong, Ye Chen, Hui Zhang, Li Xiang, Aimin Li, Side Liu, and Jide Wang. The mir-3648/frat1-frat2/c-myc negative feedback loop modulates the metastasis and invasion of gastric cancer cells. Oncogene, 41(43):4823–4838, September 2022. URL: http://dx.doi.org/10.1038/s41388-022-02451-2, doi:10.1038/s41388-022-02451-2. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-022-02451-2)
+
+[3. (Yang2022FRAT1) Biao Yang, Dong Liu, Ye-Qing Ren, Yan-Qi Sun, Jian-Ping Zhang, Xiao-Gang Wang, Yong-Qiang Wu, Shu-Le Wang, Shi-Hao Guo, and Geng Guo. Frat1 promotes the angiogenic properties of human glioblastoma cells via vegfa. Molecular Medicine Reports, January 2022. URL: http://dx.doi.org/10.3892/mmr.2022.12611, doi:10.3892/mmr.2022.12611. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/mmr.2022.12611)
+
+[4. (Zhu2016FRAT1) Kongxi Zhu, Jianqiang Guo, Hongjuan Wang, and Weihua Yu. Frat1 expression regulates proliferation in colon cancer cells. Oncology Letters, 12(6):4761–4766, October 2016. URL: http://dx.doi.org/10.3892/ol.2016.5300, doi:10.3892/ol.2016.5300. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2016.5300)
+
+[5. (Wang2006Tissue) Y Wang, S M Hewitt, S Liu, X Zhou, H Zhu, C Zhou, G Zhang, L Quan, J Bai, and N Xu. Tissue microarray analysis of human frat1 expression and its correlation with the subcellular localisation of β-catenin in ovarian tumours. British Journal of Cancer, 94(5):686–691, February 2006. URL: http://dx.doi.org/10.1038/sj.bjc.6602988, doi:10.1038/sj.bjc.6602988. This article has 38 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.bjc.6602988)
+
+[6. (Zhang2016Frequently) Wei Zhang, Hua Xiong, Yanmei Zou, Sanpeng Xu, Lanping Quan, Xianglin Yuan, Ningzhi Xu, and Yihua Wang. Frequently rearranged in advanced t-cell lymphomas-1 demonstrates oncogenic properties in prostate cancer. Molecular Medicine Reports, 14(4):3551–3558, September 2016. URL: http://dx.doi.org/10.3892/mmr.2016.5704, doi:10.3892/mmr.2016.5704. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/mmr.2016.5704)
+
+[7. (YU2016Silencing) QINGGONG YU, LU SHANG, HONGBO YU, ZIRONG YANG, and DEKUI XU. Silencing of frat1 by sirna inhibits the proliferation of sgc7901 human gastric adenocarcinoma cells. Biomedical Reports, 4(2):223–226, January 2016. URL: http://dx.doi.org/10.3892/br.2016.571, doi:10.3892/br.2016.571. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/br.2016.571)

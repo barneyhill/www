@@ -1,0 +1,42 @@
+# CTPS2
+
+## Overview
+CTPS2 (CTP synthase 2) is a gene that encodes the enzyme CTP synthase 2, a critical component in the de novo synthesis of cytidine triphosphate (CTP), a nucleotide essential for RNA and DNA synthesis. This enzyme is categorized as a pyrimidine biosynthetic enzyme and functions as a homotetramer, with each monomer comprising a glutaminase domain and an amidoligase domain. The enzyme's activity is intricately regulated through its ability to form filamentous structures, known as cytoophidia, which can transition between active and inactive states in response to cellular nucleotide levels. This dynamic regulation is crucial for maintaining nucleotide balance and genomic integrity, as imbalances can lead to increased mutagenesis and sensitivity to DNA-damaging agents (Lynch2019Coupled). CTPS2's role extends to clinical significance, particularly in immune cell function and cancer cell proliferation, where its expression and activity can influence cellular responses and therapeutic outcomes (Minet2023Differential; Soudais2024Inactivation).
+
+## Structure
+CTP synthase 2 (CTPS2) is a key enzyme in pyrimidine biosynthesis, catalyzing the conversion of UTP to CTP. The enzyme is a homotetramer, with each monomer consisting of a glutaminase domain and an amidoligase domain connected by a helical linker (Lynch2019Coupled). The enzyme's structure allows it to form filaments that can dynamically switch between active (S-state) and inactive (P-state) forms, a process regulated by substrate and product levels (Lynch2019Coupled). 
+
+The S-state filaments have a stable conformation, while the P-state filaments are in a CTP-inhibited conformation. This structural transition is crucial for the enzyme's regulatory function, as it involves changes in helical symmetry and interdomain rotation, which alter the positions of filament contacts around the helical axis (Lynch2019Coupled). 
+
+CTPS2 also features a novel ADP binding site in the P-state, suggesting a potential allosteric regulation mechanism. In the S-state, a tunnel facilitates ammonia transfer between active sites, which is blocked in the P-state, ensuring ammonia is only released when a UTP substrate is present (Lynch2019Coupled). The enzyme's regulation is highly cooperative, with polymerization greatly increasing cooperativity (Lynch2019Coupled).
+
+## Function
+CTP synthase 2 (CTPS2) is an enzyme that plays a crucial role in the de novo synthesis of cytidine triphosphate (CTP), a nucleotide essential for RNA and DNA synthesis. It catalyzes the conversion of uridine triphosphate (UTP) to CTP, a rate-limiting step in pyrimidine biosynthesis, which is vital for maintaining nucleotide balance and genome integrity (Lynch2019Coupled). CTPS2 functions as a homotetramer, with each monomer containing a glutaminase and an amidoligase domain. The enzyme's activity is modulated by polymerization into filaments, which can switch between active and inactive forms in response to substrate and product levels, allowing for highly cooperative control of enzyme activity (Lynch2019Coupled).
+
+In healthy human cells, CTPS2 is involved in maintaining the balance of UTP and CTP levels, which is crucial for genomic integrity. Imbalances in nucleotide pools can lead to increased mutagenesis and sensitivity to DNA-damaging agents (Lynch2019Coupled). The enzyme is regulated through feedback inhibition by CTP binding and is allosterically regulated by GTP, making it sensitive to the levels of the four essential ribonucleotides (Lynch2019Coupled). CTPS2's regulation ensures nucleotide levels are maintained within a narrow concentration range, which is important for metabolic control and efficient regulation of enzyme activity (Lynch2019Coupled).
+
+## Clinical Significance
+CTPS2 (CTP synthase 2) plays a role in cell proliferation and its expression or activity alterations can have clinical implications. While CTPS2 is generally less critical than CTPS1 for cell proliferation, it becomes essential in the absence of CTPS1, particularly in T lymphocytes. CTPS2 can partially compensate for CTPS1 deficiency, which explains the residual proliferation observed in CTPS1-deficient T cells (Soudais2024Inactivation). However, the absence of both CTPS1 and CTPS2 drastically affects T cell proliferation, indicating a non-redundant role for CTPS2 in immune cell function (Soudais2024Inactivation).
+
+In cancer, CTPS2 is less critical than CTPS1, but its expression levels can influence the proliferation of certain cancer cell lines. CTPS2 is weakly expressed or undetectable in some T lymphoid cancer cell lines, which may affect their growth and response to therapies targeting CTPS1 (Minet2023Differential). The regulation of CTPS2 through polymerization into filaments is crucial for maintaining nucleotide balance, which is important for genomic integrity. Imbalances in nucleotide pools, which CTPS2 regulation helps prevent, are linked to increased mutagenesis and multidrug resistance (Lynch2019Coupled).
+
+## Interactions
+CTP synthase 2 (CTPS2) is involved in the formation of filamentous structures known as cytoophidia, which are crucial for its enzymatic regulation. The N-terminal region of CTPS2 plays a significant role in these interactions, particularly in the assembly of cytoophidia. This region is essential for protein-protein interactions necessary for filament formation, as demonstrated by studies showing that mutations in the N-terminal amino acids can disrupt filament assembly and lead to the formation of cytoplasmic aggregates instead (Huang2017Critical).
+
+CTPS2 can form heteromeric filamentous structures with human CTPS1 and Drosophila CTP synthase, indicating its ability to interact with other isoforms and species variants of CTP synthase (Huang2017Critical). The enzyme's activity is also modulated by its interaction with nucleotides such as GTP, which acts as an allosteric effector. GTP binding induces conformational changes that facilitate the enzyme's glutaminase activity and influence the formation of the NH3 tunnel, crucial for its catalytic function (Bearne2022GTPDependent).
+
+These interactions highlight the complex regulatory mechanisms of CTPS2, involving both structural and functional dynamics essential for its role in nucleotide biosynthesis.
+
+
+## References
+
+
+[1. (Soudais2024Inactivation) Claire Soudais, Romane Schaus, Camille Bachelet, Norbert Minet, Sara Mouasni, Cécile Garcin, Caique Lopes Souza, Pierre David, Clara Cousu, Hélène Asnagli, Andrew Parker, Paul Palmquist-Gomes, Fernando E. Sepulveda, Sébastien Storck, Sigolène M. Meilhac, Alain Fischer, Emmanuel Martin, and Sylvain Latour. Inactivation of cytidine triphosphate synthase 1 prevents fatal auto-immunity in mice. Nature Communications, March 2024. URL: http://dx.doi.org/10.1038/s41467-024-45805-y, doi:10.1038/s41467-024-45805-y. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-45805-y)
+
+[2. (Lynch2019Coupled) Eric M. Lynch and Justin M. Kollman. Coupled structural transitions enable highly cooperative regulation of human ctps2 filaments. Nature Structural &amp; Molecular Biology, 27(1):42–48, December 2019. URL: http://dx.doi.org/10.1038/s41594-019-0352-5, doi:10.1038/s41594-019-0352-5. This article has 61 citations.](https://doi.org/10.1038/s41594-019-0352-5)
+
+3. (Minet2023Differential) Differential roles of CTP synthetases CTPS1 and CTPS2 in cell proliferation. This article has 0 citations.
+
+[4. (Huang2017Critical) Yong Huang, Jin-Jun Wang, Sanjay Ghosh, and Ji-Long Liu. Critical roles of ctp synthase n-terminal in cytoophidium assembly. Experimental Cell Research, 354(2):122–133, May 2017. URL: http://dx.doi.org/10.1016/j.yexcr.2017.03.042, doi:10.1016/j.yexcr.2017.03.042. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.yexcr.2017.03.042)
+
+[5. (Bearne2022GTPDependent) Stephen L. Bearne, Chen-Jun Guo, and Ji-Long Liu. Gtp-dependent regulation of ctp synthase: evolving insights into allosteric activation and nh3 translocation. Biomolecules, 12(5):647, April 2022. URL: http://dx.doi.org/10.3390/biom12050647, doi:10.3390/biom12050647. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom12050647)

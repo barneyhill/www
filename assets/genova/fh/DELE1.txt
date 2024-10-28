@@ -1,0 +1,50 @@
+# DELE1
+
+## Overview
+DELE1, or Death Associated Protein 3 (DAP3) binding cell death enhancer 1, is a gene that encodes a mitochondrial protein involved in cellular stress responses and apoptosis. The DELE1 protein is characterized by its role as a sensor for mitochondrial stress and iron availability, playing a pivotal part in the integrated stress response (ISR) pathway. It is primarily localized to the mitochondria, where it undergoes proteolytic processing to facilitate its function in stress signaling. DELE1 interacts with key proteins such as the heme-regulated inhibitor kinase (HRI) and mitochondrial protease OMA1, which are crucial for its role in activating the ISR and modulating apoptosis. The protein's involvement in the mitochondrial unfolded protein response (UPRmt) further underscores its significance in maintaining cellular homeostasis. Alterations in DELE1 expression or function have been linked to various diseases, including neurodegenerative disorders and cancer, highlighting its potential as a therapeutic target (Sui2022Death; Sekine2022A; Fessler2020A).
+
+## Structure
+The DELE1 protein is characterized by a unique molecular structure that includes an unusually long mitochondrial targeting sequence (MTS) of 100-115 amino acids, which is crucial for its mitochondrial localization and processing (Fessler2022DELE1). The MTS is divided into two functional regions: an N-terminal presequence essential for mitochondrial import and sorting, and a downstream portion that prevents DELE1 release from stressed mitochondria in the absence of OMA1 activity (Fessler2022DELE1). The N-terminal 25-36 amino acids are sufficient to promote mitochondrial localization (Fessler2022DELE1).
+
+DELE1 contains a hydrophobic sequence between residues 80 and 106, predicted to form an α-helical structure, which acts as a stop-transfer signal at the TIM23 complex of the inner mitochondrial membrane (Fessler2022DELE1). The protein also includes tetratricopeptide repeat (TPR) domains, which are crucial for protein-protein interactions, particularly with the HRI protein, facilitating the activation of the integrated stress response (ISR) (Sekine2022A; Fessler2020A).
+
+DELE1 undergoes proteolytic processing, resulting in various forms, including S-DELE1, which is redistributed to the cytosol to interact with HRI (Fessler2020A). The processing involves cleavage by mitochondrial processing peptidase (MPP) and OMA1, with specific cleavage sites identified between amino acids 101 and 141 (Guo2019Mitochondrial). The presence of a tightly folded heme-binding (HB) domain at the C-terminus can stall translocation across mitochondrial membranes, affecting DELE1 processing (Fessler2022DELE1).
+
+## Function
+DELE1 (DAP3 binding cell death enhancer 1) is a mitochondrial protein that plays a critical role in the mitochondrial iron-sensing pathway and the integrated stress response (ISR) in healthy human cells. Under normal conditions, DELE1 is imported into the mitochondria and rapidly degraded by the mitochondrial protease LONP1, maintaining low levels of the protein. This degradation process is independent of the proteasome and macroautophagy, indicating a specific mitochondrial protease-mediated pathway (Sekine2022A).
+
+DELE1 functions as a sensor for mitochondrial stress and iron availability. In iron-deficient conditions, DELE1 import into mitochondria is halted, leading to its stabilization on the outer mitochondrial membrane. This stabilization allows DELE1 to interact with the heme-regulated kinase HRI, activating the ISR pathway, which is crucial for cellular stress responses (Sekine2022A). The interaction with HRI results in the phosphorylation of eIF2α, promoting the expression of stress-responsive transcription factors such as ATF4, which are involved in the regulation of apoptosis and cellular homeostasis (Torres2024Mitochondrial; Spinella2023DELE1).
+
+DELE1's role in the mitochondrial unfolded protein response (UPRmt) further underscores its importance in maintaining cellular homeostasis by modulating stress-related signaling pathways (Torres2024Mitochondrial).
+
+## Clinical Significance
+Alterations in the expression or function of the DELE1 gene have been implicated in several diseases, particularly those involving mitochondrial dysfunction and cancer. In the context of neurodegenerative diseases, DELE1 is involved in mitochondrial stress signaling pathways. Its interaction with proteins such as PITRM1 and PMPCB, which are associated with neurodegenerative phenotypes, suggests that DELE1 may play a role in these conditions. The modulation of the OMA1-DELE1-HRI pathway is considered to have potential therapeutic implications for diseases like Alzheimer's, where mitochondrial dysfunction is a hallmark (Fessler2022DELE1).
+
+In cancer, particularly colorectal cancer (CRC), DELE1 is overexpressed and has been linked to poor clinical outcomes, including overall survival and chemoresistance. High levels of DELE1 in CRC are associated with increased resistance to chemotherapeutic drugs, suggesting that DELE1 may contribute to the survival and proliferation of cancer cells under treatment stress. Silencing DELE1 in CRC cells has been shown to enhance sensitivity to chemotherapy, indicating its potential as a therapeutic target (Sui2022Death). These findings highlight the clinical significance of DELE1 in both neurodegenerative and cancer-related contexts.
+
+## Interactions
+DELE1 interacts with several proteins, playing a crucial role in mitochondrial stress signaling and apoptosis. It binds to the heme-regulated inhibitor kinase (HRI) in the cytosol, a key interaction for the integrated stress response (ISR). This binding is facilitated by the tetratricopeptide repeat (TPR) domains of DELE1, which are essential for protein-protein interactions. The interaction between DELE1 and HRI leads to the activation of HRI, as indicated by autophosphorylation and a shift in electrophoretic mobility (Fessler2020A).
+
+DELE1 also interacts with the mitochondrial protease OMA1, which cleaves DELE1 into a shorter form, S-DELE1, upon mitochondrial stress. This cleavage is necessary for DELE1 to interact with HRI and activate the ISR (Fessler2022DELE1; Guo2019Mitochondrial).
+
+In the context of apoptosis, DELE1 binds to Death Associated Protein 3 (DAP3), a mitochondrial ribosomal protein. This interaction is crucial for death receptor-mediated apoptosis, enhancing cell susceptibility to apoptosis-inducing agents like TRAIL (Harada2010Identification). DELE1's role in apoptosis is further supported by its ability to influence the activation of caspases, particularly caspase-9 (Harada2010Identification).
+
+
+## References
+
+
+1. (Guo2019Mitochondrial) Mitochondrial dysfunction is signaled to the integrated stress response by OMA1, DELE1 and HRI. This article has 2 citations.
+
+2. (Sekine2022A) A mitochondrial iron-sensing pathway regulated by DELE1. This article has 3 citations.
+
+[3. (Harada2010Identification) Tanenobu Harada, Atsushi Iwai, and Tadaaki Miyazaki. Identification of dele, a novel dap3-binding protein which is crucial for death receptor-mediated apoptosis induction. Apoptosis, 15(10):1247–1255, June 2010. URL: http://dx.doi.org/10.1007/s10495-010-0519-3, doi:10.1007/s10495-010-0519-3. This article has 31 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10495-010-0519-3)
+
+[4. (Fessler2022DELE1) Evelyn Fessler, Luisa Krumwiede, and Lucas T. Jae. Dele1 tracks perturbed protein import and processing in human mitochondria. Nature Communications, April 2022. URL: http://dx.doi.org/10.1038/s41467-022-29479-y, doi:10.1038/s41467-022-29479-y. This article has 43 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-29479-y)
+
+[5. (Fessler2020A) Evelyn Fessler, Eva-Maria Eckl, Sabine Schmitt, Igor Alves Mancilla, Matthias F. Meyer-Bender, Monika Hanf, Julia Philippou-Massier, Stefan Krebs, Hans Zischka, and Lucas T. Jae. A pathway coordinated by dele1 relays mitochondrial stress to the cytosol. Nature, 579(7799):433–437, March 2020. URL: http://dx.doi.org/10.1038/s41586-020-2076-4, doi:10.1038/s41586-020-2076-4. This article has 315 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-020-2076-4)
+
+[6. (Spinella2023DELE1) Jean-François Spinella, Jalila Chagraoui, Céline Moison, Vincent P. Lavallée, Isabel Boivin, Deanne Gracias, Sylvie Lavallée, Guillaume Richard Carpentier, François Beliveau, Josée Hébert, and Guy Sauvageau. Dele1 haploinsufficiency causes resistance to mitochondrial stress-induced apoptosis in monosomy 5/del(5q) aml. Leukemia, 38(3):530–537, December 2023. URL: http://dx.doi.org/10.1038/s41375-023-02107-4, doi:10.1038/s41375-023-02107-4. This article has 2 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41375-023-02107-4)
+
+[7. (Sui2022Death) Laijian Sui, Jianyuan Zeng, Huishan Zhao, Lin Ye, Tracey Martin, Andrew Sanders, Fiona Ruge, Aihua Jiang, Q. Dou, Rachel Hargest, Xicheng Song, and Wen Jiang. Death associated protein‑3 (dap3) and dap3 binding cell death enhancer‑1 (dele1) in human colorectal cancer, and their impacts on clinical outcome and chemoresistance. International Journal of Oncology, November 2022. URL: http://dx.doi.org/10.3892/ijo.2022.5455, doi:10.3892/ijo.2022.5455. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2022.5455)
+
+[8. (Torres2024Mitochondrial) Angie K. Torres, Veronika Fleischhart, and Nibaldo C. Inestrosa. Mitochondrial unfolded protein response (uprmt): what we know thus far. Frontiers in Cell and Developmental Biology, May 2024. URL: http://dx.doi.org/10.3389/fcell.2024.1405393, doi:10.3389/fcell.2024.1405393. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2024.1405393)

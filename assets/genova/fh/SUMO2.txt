@@ -1,0 +1,58 @@
+# SUMO2
+
+## Overview
+SUMO2 is a gene that encodes the small ubiquitin-like modifier 2 (SUMO2) protein, which is a member of the SUMO protein family involved in post-translational modification processes known as SUMOylation. This protein is primarily active in the nucleus of eukaryotic cells, where it plays a critical role in maintaining genomic integrity and regulating various nuclear processes, including transcription, DNA repair, and chromatin remodeling. SUMO2 is distinguished by its ability to form polymeric chains, which are crucial for cellular responses to stress and protein quality control. The protein's interactions are mediated through SUMO-interacting motifs (SIMs) and are essential for the stabilization of protein complexes involved in DNA repair and RNA metabolism. Alterations in SUMO2 expression have been linked to various cancers and neurodegenerative diseases, highlighting its significance in both normal cellular function and disease states (Wang2023ParalogueSpecific; Hendriks2014Uncovering).
+
+## Structure
+SUMO2, a small ubiquitin-like modifier protein, exhibits a conserved ubiquitin-like fold, characterized by an alpha/beta structure. Its primary structure includes a conserved C-terminal motif, QQTGG, which is crucial for its interaction with sentrin-specific protease 1 (SENP1) and other proteins (Ambaye2019Noncovalent). The secondary structure of SUMO2 consists of an antiparallel β-sheet and two α-helices, contributing to its stability and function (Ambaye2019Noncovalent). 
+
+The tertiary structure of SUMO2 is influenced by its interaction with metal ions such as Cu2+ and Zn2+. Cu2+ binding can induce aggregation without significantly altering the secondary structure, suggesting potential changes in the tertiary structure and dynamics (Kaur2023Conformational). The presence of a conserved cysteine residue within the hydrophobic core of SUMO2 also plays a role in its structural stability, with modifications like Cys to Ala causing subtle changes in its secondary structure (Bouchenna2019The).
+
+SUMO2 can form poly-SUMO chains, which are involved in various cellular processes, including stress response and protein degradation (Ambaye2019Noncovalent). Its interaction with SENP1 is mediated by polar interactions and limited hydrophobic contacts, with the C-terminal motif of SUMO2 playing a key role in this interaction (Ambaye2019Noncovalent).
+
+## Function
+SUMO2 (Small Ubiquitin-like Modifier 2) is a protein that plays a crucial role in post-translational modification processes known as SUMOylation. In healthy human cells, SUMO2 is primarily active in the nucleus, where it is involved in maintaining genomic integrity and regulating various nuclear processes. These processes include transcription, DNA repair, chromatin remodeling, pre-mRNA splicing, and ribosome assembly (Hendriks2014Uncovering).
+
+SUMO2 is essential for eukaryotic life, with its knockout being embryonic lethal in mice, highlighting its critical role in cellular functions (Hendriks2018Sitespecific). It is involved in protecting cells against stress and ensuring faithful cell division, particularly in rapidly dividing cells like cancer cells (Hendriks2018Sitespecific). SUMO2 also plays a significant role in protein quality control by mediating the degradation of aberrant proteins through the ubiquitin-proteasome system, particularly under stress conditions (Wang2023ParalogueSpecific).
+
+The protein is involved in forming polymeric chains through lysine residues, with K11 being a major site for poly-SUMOylation, which serves as unique cellular signals for processes like proteolysis and DNA damage repair (Wang2023ParalogueSpecific). These functions are crucial for maintaining cellular homeostasis and responding to cellular stress.
+
+## Clinical Significance
+Alterations in the expression of the SUMO2 gene have been implicated in various cancers, including hepatocellular carcinoma (HCC) and glioblastoma multiforme (GBM). In HCC, high SUMO2 expression is associated with poor prognosis, lymph node metastasis, and vascular invasion. Downregulation of SUMO2 in liver cancer cells has been shown to significantly inhibit their proliferation, migration, and invasion, suggesting that SUMO2 promotes these processes through mechanisms involving matrix metalloproteinase-9 (MMP-9) and vascular endothelial growth factor (VEGF) (Chen2021Downregulation). 
+
+In GBM, SUMO2 is significantly upregulated and is considered essential for cancer cell fitness. Its high expression correlates with poor patient survival and resistance to therapies such as Temozolomide. Targeting SUMO2 specifically, rather than global SUMOylation, is suggested as a potential therapeutic strategy, as it could impair multiple oncogenic kinases and other key pro-tumorigenic genes across GBM subtypes (Krishna2021Proteotranscriptomics).
+
+Beyond cancer, SUMO2/3 modifications are implicated in neurodegenerative diseases, where they can promote the degradation of pathogenic proteins or affect stress granule dynamics, relevant in conditions like amyotrophic lateral sclerosis (ALS) (Wang2023ParalogueSpecific).
+
+## Interactions
+SUMO2 interacts with a variety of proteins through non-covalent and covalent mechanisms, playing a crucial role in cellular processes such as transcription, DNA repair, and chromatin remodeling. It is known to form polymeric chains, unlike SUMO1, which allows it to modify substrates more extensively. This ability is facilitated by the presence of a consensus SUMO modification site in its N-terminal region, enabling the formation of poly(SUMO) chains through isopeptide bonds (Tatham2001Polymeric).
+
+SUMO2 interacts with proteins through SUMO-interacting motifs (SIMs), which are sequences that mediate binding to SUMO proteins. These interactions are influenced by the presence of hydrophobic residues and acidic or phosphorylated serine residues near the SIMs, which affect binding specificity (Hecker2006Specification). Proteins such as TTRAP and PIASxα have been shown to interact with SUMO2, with TTRAP displaying a stronger affinity for SUMO2 compared to SUMO1 (Hecker2006Specification).
+
+SUMO2 also participates in non-covalent interactions with a wide range of proteins, including those involved in the DNA damage response and RNA metabolic processes. These interactions are crucial for the stabilization of protein complexes, such as the non-homologous end joining complex involved in DNA repair (GonzálezPrieto2021Global).
+
+
+## References
+
+
+[1. (Ambaye2019Noncovalent) Nigus D. Ambaye. Noncovalent structure of senp1 in complex with sumo2. Acta Crystallographica Section F Structural Biology Communications, 75(5):332–339, April 2019. URL: http://dx.doi.org/10.1107/s2053230x19004266, doi:10.1107/s2053230x19004266. This article has 7 citations.](https://doi.org/10.1107/s2053230x19004266)
+
+[2. (Chen2021Downregulation) Jintu Chen, Canwei Chen, Yongfa Lin, Yongfa Su, Xueping Yu, Yancheng Jiang, Zixuan Chen, ShaoYing Ke, ShaoZe Lin, LiangJuan Chen, Zhishan Zhang, and Tao Zhang. Downregulation of sumo2 inhibits hepatocellular carcinoma cell proliferation, migration and invasion. FEBS Open Bio, 11(6):1771–1784, May 2021. URL: http://dx.doi.org/10.1002/2211-5463.13173, doi:10.1002/2211-5463.13173. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/2211-5463.13173)
+
+[3. (Hecker2006Specification) Christina-Maria Hecker, Matthias Rabiller, Kaisa Haglund, Peter Bayer, and Ivan Dikic. Specification of sumo1- and sumo2-interacting motifs. Journal of Biological Chemistry, 281(23):16117–16127, June 2006. URL: http://dx.doi.org/10.1074/jbc.m512757200, doi:10.1074/jbc.m512757200. This article has 472 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m512757200)
+
+4. (Kaur2023Conformational) Conformational Dynamics and metal-ion interactions in human small Ubiquitin-like modifier (SUMO2). This article has 0 citations.
+
+[5. (Hendriks2018Sitespecific) Ivo A. Hendriks, David Lyon, Dan Su, Niels H. Skotte, Jeremy A. Daniel, Lars J. Jensen, and Michael L. Nielsen. Site-specific characterization of endogenous sumoylation across species and organs. Nature Communications, June 2018. URL: http://dx.doi.org/10.1038/s41467-018-04957-4, doi:10.1038/s41467-018-04957-4. This article has 151 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-04957-4)
+
+[6. (Tatham2001Polymeric) Michael H. Tatham, Ellis Jaffray, Owen A. Vaughan, Joana M.P. Desterro, Catherine H. Botting, James H. Naismith, and Ronald T. Hay. Polymeric chains of sumo-2 and sumo-3 are conjugated to protein substrates by sae1/sae2 and ubc9. Journal of Biological Chemistry, 276(38):35368–35374, September 2001. URL: http://dx.doi.org/10.1074/jbc.m104214200, doi:10.1074/jbc.m104214200. This article has 660 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m104214200)
+
+[7. (Wang2023ParalogueSpecific) Wei Wang and Michael J. Matunis. Paralogue-specific roles of sumo1 and sumo2/3 in protein quality control and associated diseases. Cells, 13(1):8, December 2023. URL: http://dx.doi.org/10.3390/cells13010008, doi:10.3390/cells13010008. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells13010008)
+
+[8. (Bouchenna2019The) Jennifer Bouchenna, Magalie Sénéchal, Hervé Drobecq, Nicolas Stankovic-Valentin, Jérôme Vicogne, and Oleg Melnyk. The role of the conserved sumo-2/3 cysteine residue on domain structure investigated using protein chemical synthesis. Bioconjugate Chemistry, 30(10):2684–2696, September 2019. URL: http://dx.doi.org/10.1021/acs.bioconjchem.9b00598, doi:10.1021/acs.bioconjchem.9b00598. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.bioconjchem.9b00598)
+
+[9. (Krishna2021Proteotranscriptomics) Aswani P. Krishna, Sebastian John, Puja Laxmanrao Shinde, and Rashmi Mishra. Proteo-transcriptomics meta-analysis identifies sumo2 as a promising target in glioblastoma multiforme therapeutics. Cancer Cell International, October 2021. URL: http://dx.doi.org/10.1186/s12935-021-02279-y, doi:10.1186/s12935-021-02279-y. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-021-02279-y)
+
+[10. (Hendriks2014Uncovering) Ivo A Hendriks, Rochelle C J D’Souza, Bing Yang, Matty Verlaan-de Vries, Matthias Mann, and Alfred C O Vertegaal. Uncovering global sumoylation signaling networks in a site-specific manner. Nature Structural &amp; Molecular Biology, 21(10):927–936, September 2014. URL: http://dx.doi.org/10.1038/nsmb.2890, doi:10.1038/nsmb.2890. This article has 403 citations.](https://doi.org/10.1038/nsmb.2890)
+
+[11. (GonzálezPrieto2021Global) Román González-Prieto, Karolin Eifler-Olivi, Laura A. Claessens, Edwin Willemstein, Zhenyu Xiao, Cami M.P. Talavera Ormeno, Huib Ovaa, Helle D. Ulrich, and Alfred C.O. Vertegaal. Global non-covalent sumo interaction networks reveal sumo-dependent stabilization of the non-homologous end joining complex. Cell Reports, 34(4):108691, January 2021. URL: http://dx.doi.org/10.1016/j.celrep.2021.108691, doi:10.1016/j.celrep.2021.108691. This article has 50 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2021.108691)

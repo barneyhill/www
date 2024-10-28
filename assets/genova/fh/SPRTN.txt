@@ -1,0 +1,56 @@
+# SPRTN
+
+## Overview
+SPRTN is a gene that encodes a DNA-binding metalloprotease, which plays a pivotal role in the repair of DNA-protein crosslinks (DPCs), a critical process for maintaining genomic stability. The protein product of the SPRTN gene, characterized by its SprT-like N-terminal domain, functions as a metalloprotease and is involved in the ATR-CHK1 signaling pathway, facilitating DNA replication and repair. The structural features of the SPRTN protein, including its metalloprotease sub-domain and zinc-binding domain, enable it to interact with DNA and other proteins, such as CHK1 and PCNA, to promote translesion synthesis and DNA repair. Mutations in the SPRTN gene are associated with Ruijs-Aalfs syndrome, a disorder marked by genomic instability and early-onset cancer, underscoring the clinical significance of SPRTN in genomic maintenance and disease prevention (Weickert2023SPRTN; Li2019Structural; Halder2019SPRTN).
+
+## Structure
+The SPRTN protein is a human metalloprotease involved in DNA repair, characterized by its SprT-like N-terminal domain. This domain includes a metalloprotease sub-domain (MPD) and a zinc-binding domain (ZBD), both crucial for its function (Li2019Structural). The MPD contains three alpha helices and a three-stranded anti-parallel beta sheet, with a zinc ion at the active site coordinated by specific residues (Li2019Structural). The ZBD, unique in its structure, binds a zinc ion and features an aromatic pocket for DNA base binding, particularly accommodating unpaired bases in single-stranded DNA (Li2019Structural).
+
+SPRTN's structure allows it to form dimers, with each monomer adopting slightly different conformations to adjust to DNA, suggesting that dimerization might be regulated by unidentified ligands (Li2019Structural). The protein also contains a basic region (BR) adjacent to the SprT domain, contributing to DNA binding (Li2019Structural). The C-terminal tail of SPRTN is largely unstructured and includes several protein-protein interaction domains, such as a ubiquitin-binding zinc finger and a PCNA-interacting protein motif (Reinking2020DNA).
+
+Post-translational modifications, including ubiquitination, regulate SPRTN's activity, enhancing its cleavage function in the presence of free ubiquitin (LopezMosqueda2016SPRTN). The protein may have multiple isoforms due to alternative splicing, although specific details on these isoforms are not provided in the context.
+
+## Function
+The SPRTN gene encodes a DNA-binding metalloprotease that plays a critical role in resolving DNA-protein crosslinks (DPCs), which are significant impediments to DNA replication and transcription. This function is essential for maintaining genomic stability and normal cellular homeostasis. SPRTN's proteolytic activity is triggered upon DNA and ubiquitin binding, allowing it to cleave DPC substrates and itself, thus facilitating DNA replication and repair processes (LopezMosqueda2016SPRTN).
+
+SPRTN is involved in the ATR-CHK1 signaling pathway, where it activates CHK1 by cleaving its C-terminal part, releasing active N-terminal CHK1 fragments. These fragments phosphorylate SPRTN, enhancing its recruitment to chromatin, which supports DNA replication fork progression and DPC repair (Halder2019SPRTN). SPRTN also interacts with PCNA, a DNA sliding clamp, to promote translesion synthesis (TLS) and facilitate the switch from replicative to TLS polymerases in response to DNA damage (Perry2022Mechanisms).
+
+In healthy human cells, SPRTN is active in the nucleus, particularly during the S/G2 phase of the cell cycle, where it ensures proper DNA synthesis and repair. Its activity is crucial for preventing genomic instability and associated diseases, such as Ruijs-Aalfs syndrome, characterized by genomic instability and cancer (Weickert2023SPRTN).
+
+## Clinical Significance
+Mutations in the SPRTN gene are linked to Ruijs-Aalfs syndrome (RJALS), a rare genetic disorder characterized by genomic instability, early-onset hepatocellular carcinoma, and segmental progeria. This syndrome is caused by biallelic mutations in SPRTN, leading to symptoms such as reduced cell proliferation, increased replication stress, and chromosomal instability (Halder2019SPRTN; LopezMosqueda2016SPRTN; Perry2022Mechanisms). Patients with RJALS exhibit slower replication fork movements and increased sensitivity to DNA-protein crosslink (DPC)-inducing agents like formaldehyde, Camptothecin, and Etoposide (LopezMosqueda2016SPRTN).
+
+SPRTN mutations impair the resolution of DPCs, leading to replication stress and genomic instability, which are critical factors in the development of premature aging and cancer (Maskey2014Spartan; LopezMosqueda2016SPRTN). In mouse models, SPRTN deficiency results in embryonic lethality, while hypomorphic mice display progeroid phenotypes and spontaneous liver tumorigenesis due to increased DPC accumulation (Perry2021USP11). The regulation of SPRTN protease activity is crucial to prevent aberrant proteolysis, with regulation potentially coming from protein-protein interactions, DNA binding, and post-translational modifications (Perry2022Mechanisms).
+
+## Interactions
+SPRTN interacts with several proteins and nucleic acids, playing a crucial role in DNA-protein crosslink (DPC) repair and DNA replication. It forms a physical complex with CHK1, a key component of the DNA replication machinery, and is essential for the proper activation of the CHK1 signaling cascade. SPRTN proteolytically cleaves CHK1, releasing N-terminal fragments that exhibit higher kinase activity, which in turn phosphorylate SPRTN and other substrates, enhancing SPRTN's recruitment to chromatin (Halder2019SPRTN).
+
+SPRTN also interacts with the deubiquitinase USP11, which regulates SPRTN by cleaving its monoubiquitin modification. This interaction is crucial for SPRTN's localization to chromatin and its function in DPC repair (Perry2020USP11). Additionally, SPRTN binds to DNA, particularly single-stranded DNA, which is necessary for its protease activity. It can cleave various DNA-binding proteins, including histones, in the presence of DNA (LopezMosqueda2016SPRTN).
+
+SPRTN's interaction with ubiquitin and SUMOylated proteins is also significant. It has a ubiquitin-binding zinc finger domain and is involved in a replication-coupled DPC repair pathway, where SUMO-1 and ubiquitin coordinate to regulate its proteolytic activity (Vaz2020SPRTN; Reinking2020Function).
+
+
+## References
+
+
+[1. (Maskey2014Spartan) Reeja S. Maskey, Myoung Shin Kim, Darren J. Baker, Bennett Childs, Liviu A. Malureanu, Karthik B. Jeganathan, Yuka Machida, Jan M. van Deursen, and Yuichi J. Machida. Spartan deficiency causes genomic instability and progeroid phenotypes. Nature Communications, December 2014. URL: http://dx.doi.org/10.1038/ncomms6744, doi:10.1038/ncomms6744. This article has 98 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms6744)
+
+[2. (Weickert2023SPRTN) Pedro Weickert, Hao-Yi Li, Maximilian J. Götz, Sophie Dürauer, Denitsa Yaneva, Shubo Zhao, Jacqueline Cordes, Aleida C. Acampora, Ignasi Forne, Axel Imhof, and Julian Stingele. Sprtn patient variants cause global-genome dna-protein crosslink repair defects. Nature Communications, January 2023. URL: http://dx.doi.org/10.1038/s41467-023-35988-1, doi:10.1038/s41467-023-35988-1. This article has 17 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-35988-1)
+
+[3. (Li2019Structural) Faxiang Li, Joanna E. Raczynska, Zhe Chen, and Hongtao Yu. Structural insight into dna-dependent activation of human metalloprotease spartan. Cell Reports, 26(12):3336-3346.e4, March 2019. URL: http://dx.doi.org/10.1016/j.celrep.2019.02.082, doi:10.1016/j.celrep.2019.02.082. This article has 42 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2019.02.082)
+
+[4. (LopezMosqueda2016SPRTN) Jaime Lopez-Mosqueda, Karthik Maddi, Stefan Prgomet, Sissy Kalayil, Ivana Marinovic-Terzic, Janos Terzic, and Ivan Dikic. Sprtn is a mammalian dna-binding metalloprotease that resolves dna-protein crosslinks. eLife, November 2016. URL: http://dx.doi.org/10.7554/elife.21491, doi:10.7554/elife.21491. This article has 131 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.21491)
+
+[5. (Halder2019SPRTN) Swagata Halder, Ignacio Torrecilla, Martin D. Burkhalter, Marta Popović, John Fielden, Bruno Vaz, Judith Oehler, Domenic Pilger, Davor Lessel, Katherine Wiseman, Abhay Narayan Singh, Iolanda Vendrell, Roman Fischer, Melanie Philipp, and Kristijan Ramadan. Sprtn protease and checkpoint kinase 1 cross-activation loop safeguards dna replication. Nature Communications, July 2019. URL: http://dx.doi.org/10.1038/s41467-019-11095-y, doi:10.1038/s41467-019-11095-y. This article has 38 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-11095-y)
+
+6. (Vaz2020SPRTN) SPRTN protease and SUMOylation coordinate DNA-protein crosslink repair to prevent genome instability. This article has 2 citations.
+
+[7. (Perry2021USP11) Megan Perry, Meghan Biegert, Sai Sundeep Kollala, Halle Mallard, Grace Su, Manohar Kodavati, Natasha Kreiling, Alexander Holbrook, and Gargi Ghosal. Usp11 mediates repair of dna–protein cross-links by deubiquitinating sprtn metalloprotease. Journal of Biological Chemistry, 296:100396, January 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.100396, doi:10.1016/j.jbc.2021.100396. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.100396)
+
+[8. (Reinking2020DNA) Hannah K. Reinking, Hyun-Seo Kang, Maximilian J. Götz, Hao-Yi Li, Anja Kieser, Shubo Zhao, Aleida C. Acampora, Pedro Weickert, Evelyn Fessler, Lucas T. Jae, Michael Sattler, and Julian Stingele. Dna structure-specific cleavage of dna-protein crosslinks by the sprtn protease. Molecular Cell, 80(1):102-113.e6, October 2020. URL: http://dx.doi.org/10.1016/j.molcel.2020.08.003, doi:10.1016/j.molcel.2020.08.003. This article has 47 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2020.08.003)
+
+[9. (Perry2022Mechanisms) Megan Perry and Gargi Ghosal. Mechanisms and regulation of dna-protein crosslink repair during dna replication by sprtn protease. Frontiers in Molecular Biosciences, June 2022. URL: http://dx.doi.org/10.3389/fmolb.2022.916697, doi:10.3389/fmolb.2022.916697. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmolb.2022.916697)
+
+10. (Perry2020USP11) USP11 deubiquitinates monoubiquitinated SPRTN to repair DNA-protein crosslinks. This article has 4 citations.
+
+[11. (Reinking2020Function) Hannah K. Reinking, Kay Hofmann, and Julian Stingele. Function and evolution of the dna-protein crosslink proteases wss1 and sprtn. DNA Repair, 88:102822, April 2020. URL: http://dx.doi.org/10.1016/j.dnarep.2020.102822, doi:10.1016/j.dnarep.2020.102822. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.dnarep.2020.102822)

@@ -1,0 +1,48 @@
+# EXOG
+
+## Overview
+The EXOG gene encodes a mitochondrial enzyme known as exo/endonuclease G (ExoG), which is integral to the maintenance of mitochondrial DNA (mtDNA) integrity. ExoG is categorized as a nuclease, specifically functioning as a 5'-3' exonuclease, and plays a pivotal role in DNA replication and repair processes within the mitochondria. The enzyme is involved in the removal of RNA primers during mtDNA replication and participates in mitochondrial base excision repair (BER), ensuring the stability and integrity of mtDNA. Structurally, ExoG is characterized by a catalytic core domain and a unique C-terminal Wing domain, which enhances its substrate specificity and exonuclease activity. This structural configuration allows ExoG to interact with various proteins and nucleic acids, facilitating its role in DNA repair and replication. The enzyme's activity is crucial for maintaining mitochondrial function and cellular energy production, impacting overall cellular health and potentially influencing conditions related to mitochondrial dysfunction (Cymerman2008EXOG; Wu2019A; Szymanski2017A).
+
+## Structure
+The human EXOG protein is a mitochondrial enzyme with a complex molecular structure that includes several distinct domains. The primary structure of EXOG consists of 368 amino acids, with a theoretical mass of 41.1 kDa (Cymerman2008EXOG). The secondary structure features a predicted helical transmembrane segment within its leader sequence, which is crucial for mitochondrial localization (Cymerman2008EXOG). 
+
+The tertiary structure of EXOG includes a catalytic core domain similar to EndoG, but with a unique C-terminal Wing domain. This Wing domain is essential for substrate specificity and exonuclease activity, transforming EXOG from a nonspecific nuclease into a substrate-specific exonuclease (Szymanski2017A). The Wing domain also acts as a 'tape-measure' for nucleolytic cleavage, providing a register for DNA binding (Szymanski2017A).
+
+In terms of quaternary structure, EXOG forms a symmetrical homodimer, with each monomer containing a core domain and a helical-bundle Wing domain (Szymanski2017A). The dimeric form is stabilized by a domain swap at the N-termini, contributing to its stability and function (Szymanski2017A). The protein's structure allows it to process structurally diverse substrates, playing a role in mitochondrial base excision repair and mtDNA replication (Wu2019A).
+
+## Function
+The EXOG gene encodes a mitochondrial enzyme known as ExoG, which plays a critical role in maintaining mitochondrial DNA (mtDNA) integrity through its involvement in DNA replication and repair processes. ExoG functions as a 5'-3' exonuclease, specifically cleaving RNA-DNA junctions to remove RNA primers during mtDNA replication. This activity is essential for the proper processing of RNA primers left by RNase H1, ensuring the continuation of DNA replication and preventing replication stress (Wu2019A).
+
+ExoG is also involved in mitochondrial base excision repair (BER), where it processes abasic sites to generate ligatable ends, facilitating DNA repair and maintaining mtDNA stability. This function is crucial for preventing mtDNA lesions and ensuring efficient repair, as ExoG interacts with other repair enzymes like DNA polymerase gamma and DNA ligase III (Szymanski2017A).
+
+The enzyme's activity is regulated by its structural domains, including a Wing domain that enhances exonuclease function and substrate specificity. This domain allows ExoG to precisely excise dinucleotides, contributing to its role in DNA repair processes (Szymanski2017A). ExoG's function is vital for maintaining mitochondrial function and cellular energy production, impacting overall cellular health (Xiao2021PGC1ɑ).
+
+## Clinical Significance
+Mutations and altered expression of the EXOG gene have significant clinical implications, particularly in relation to mitochondrial dysfunction. The loss of EXOG function has been linked to increased mitochondrial respiration and reactive oxygen species (ROS) production, which can lead to cardiomyocyte hypertrophy. This condition is characterized by an increase in cell size and protein synthesis, potentially contributing to cardiovascular diseases (Tigchelaar2015Loss). 
+
+In the context of neurodegenerative diseases, EXOG plays a crucial role in maintaining mitochondrial DNA integrity. Its knockdown exacerbates neurotoxicity in PC12 cells exposed to rotenone, a neurotoxin, by reducing cell viability and increasing mitochondrial dysfunction. Conversely, overexpression of EXOG can mitigate these effects, suggesting its potential therapeutic role in neurodegenerative conditions (Xiao2021PGC1ɑ).
+
+Mutations affecting the catalytic site of EXOG, such as the His140 to Ala mutation, inactivate the enzyme, which may have clinical implications due to its critical role in DNA repair. Additionally, SNP-related mutations near the C-terminal coiled coil domain can also inactivate EXOG, potentially impacting its activity in humans and contributing to disease (Cymerman2008EXOG).
+
+## Interactions
+EXOG, a mitochondrial enzyme, plays a crucial role in DNA repair and maintenance through its interactions with various proteins and nucleic acids. It is part of a complex with other mitochondrial DNA (mtDNA) repair enzymes, including APE1, DNA polymerase gamma (Pol γ), and ligase III. These interactions are enhanced by oxidative stress and regulated by poly(ADP-ribose) polymerase-1, suggesting a coordinated response to DNA damage (Szymanski2017A).
+
+EXOG interacts with DNA by binding to double-stranded DNA (dsDNA) through a V-shaped cleft lined with positively charged residues, which facilitates DNA binding. The Wing domain of EXOG increases specificity for dsDNA and acts as a 'tape-measure' for nucleolytic cleavage, contributing to its role in mitochondrial base excision repair (mtBER) (Szymanski2017A).
+
+In the context of rotenone-induced neurotoxicity in PC12 cells, EXOG interacts with proteins involved in mtDNA repair, such as the HSF1-SSBP1 complex and POLG. EXOG upregulation increases the expression of these proteins, indicating its regulatory role in mtDNA repair complexes (Xiao2021PGC1ɑ).
+
+EXOG also shows a preference for binding A-form duplexes, such as RNA/DNA hybrid duplexes, which is crucial for its function in mitochondrial DNA replication. This preference is facilitated by specific interactions at the active site, including coordination with catalytic Mg2+ and RNA-specific interactions mediated by conserved residues (Wu2019A).
+
+
+## References
+
+
+[1. (Wu2019A) Chyuan-Chuan Wu, Jason L J Lin, Hsin-Fang Yang-Yen, and Hanna S Yuan. A unique exonuclease exog cleaves between rna and dna in mitochondrial dna replication. Nucleic Acids Research, 47(10):5405–5419, April 2019. URL: http://dx.doi.org/10.1093/nar/gkz241, doi:10.1093/nar/gkz241. This article has 20 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkz241)
+
+[2. (Tigchelaar2015Loss) Wardit Tigchelaar, Hongjuan Yu, Anne Margreet de Jong, Wiek H. van Gilst, Pim van der Harst, B. Daan Westenbrink, Rudolf A. de Boer, and Herman H. W. Silljé. Loss of mitochondrial exo/endonuclease exog affects mitochondrial respiration and induces ros-mediated cardiomyocyte hypertrophy. American Journal of Physiology-Cell Physiology, 308(2):C155–C163, January 2015. URL: http://dx.doi.org/10.1152/ajpcell.00227.2014, doi:10.1152/ajpcell.00227.2014. This article has 18 citations.](https://doi.org/10.1152/ajpcell.00227.2014)
+
+[3. (Cymerman2008EXOG) Iwona A. Cymerman, Inn Chung, Benedikt M. Beckmann, Janusz M. Bujnicki, and Gregor Meiss. Exog, a novel paralog of endonuclease g in higher eukaryotes. Nucleic Acids Research, 36(4):1369–1379, January 2008. URL: http://dx.doi.org/10.1093/nar/gkm1169, doi:10.1093/nar/gkm1169. This article has 62 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkm1169)
+
+[4. (Szymanski2017A) Michal R. Szymanski, Wangsheng Yu, Aleksandra M. Gmyrek, Mark A. White, Ian J. Molineux, J. Ching Lee, and Y. Whitney Yin. A domain in human exog converts apoptotic endonuclease to dna-repair exonuclease. Nature Communications, May 2017. URL: http://dx.doi.org/10.1038/ncomms14959, doi:10.1038/ncomms14959. This article has 20 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms14959)
+
+[5. (Xiao2021PGC1ɑ) Jingsong Xiao, Xunhu Dong, Kaige Peng, Feng Ye, Jin Cheng, Guorong Dan, Zhongmin Zou, Jia Cao, and Yan Sai. Pgc-1ɑ mediated-exog, a specific repair enzyme for mitochondrial dna, plays an essential role in the rotenone-induced neurotoxicity of pc12 cells. Journal of Molecular Neuroscience, 71(11):2336–2352, January 2021. URL: http://dx.doi.org/10.1007/s12031-020-01775-6, doi:10.1007/s12031-020-01775-6. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12031-020-01775-6)

@@ -1,0 +1,48 @@
+# MEMO1
+
+## Overview
+MEMO1 (Mediator of Cell Motility 1) is a gene that encodes a protein involved in various cellular processes, particularly those related to cell motility and signaling pathways. The MEMO1 protein is characterized by a unique structure that includes a mixed seven-strand β-sheet and nine α-helices, resembling class III nonheme iron-dependent dioxygenases, although it lacks their typical enzymatic activity (Qiu2008Memo). Functionally, MEMO1 plays a critical role in regulating cytoskeletal dynamics, interacting with proteins such as cofilin-1 to facilitate cell migration (Schotanus2020Finding). It is also integral to receptor tyrosine kinase signaling pathways, influencing cell proliferation, differentiation, and survival (Schotanus2020Finding). Clinically, MEMO1 is significant in cancer biology, where its overexpression is associated with tumor progression and metastasis, particularly in breast and colorectal cancers (Schotanus2020Finding). Additionally, MEMO1 is involved in bone homeostasis and iron metabolism, highlighting its diverse roles in human health and disease (Dolgova2023MEMO1; Schotanus2020Finding).
+
+## Structure
+The MEMO1 protein is a 297-amino-acid protein with a single domain structure characterized by a mixed seven-strand β-sheet surrounded by nine α-helices (Qiu2008Memo). Its crystal structure has been determined to a resolution of 2.1 Å, revealing that MEMO1 is homologous to class III nonheme iron-dependent dioxygenases, specifically sharing structural similarities with LigB, the catalytic β-subunit of protocatechuate 4,5-dioxygenase from Sphingomonas paucimobilis (Qiu2008Memo). Despite this homology, MEMO1 does not exhibit metal binding or enzymatic activity typical of dioxygenases (Qiu2008Memo).
+
+The protein contains conserved histidine residues (His-49, His-81, and His-192) and a cysteine (Cys-244), which are analogous to metal-binding sites in related enzymes, although MEMO1 does not strongly bind metals in its native state (Qiu2008Memo; Dolgova2023MEMO1). The binding site for its interaction with ErbB2-derived phosphopeptides is located in a large cleft, referred to as the 'vestigial' active site, which is homologous to the dioxygenase active site (Qiu2008Memo). This site includes key residues such as His49, His81, His192, and Cys244, which are involved in forming hydrogen bonds with the phosphopeptide (Feracci2011MEMO).
+
+## Function
+The MEMO1 gene encodes a protein that plays a crucial role in various cellular processes, particularly in the regulation of cytoskeletal dynamics and cell motility. In healthy human cells, MEMO1 is involved in the regulation of actin and microtubule networks, interacting with proteins such as cofilin-1 to facilitate cell migration by remodeling the actin network. This interaction is essential for the recruitment of cofilin to lamellipodia, enhancing actin depolymerization activity necessary for sustained cell migration (Schotanus2020Finding).
+
+MEMO1 is also integral to receptor tyrosine kinase (RTK) signaling pathways, including FGFR and IGF/IGFR pathways. It is crucial for the optimal phosphorylation of adaptor proteins like FRS2, affecting the assembly and efficiency of the signalosome and the activation of downstream signaling pathways such as PI3K/AKT/S6K (Schotanus2020Finding). MEMO1's involvement in these pathways supports cell proliferation, differentiation, and survival, highlighting its role in maintaining cellular structure and function.
+
+At the organismal level, MEMO1 is essential for embryonic development, with its deletion resulting in embryonic lethality in mice, indicating its critical role in development and survival (Schotanus2020Finding).
+
+## Clinical Significance
+The MEMO1 gene is clinically significant due to its involvement in various diseases, particularly cancer. In breast and colorectal cancers, MEMO1 is often upregulated, correlating with aggressive disease and poor prognosis. Its overexpression is linked to enhanced tumor growth and metastasis, partly through its interaction with the ERBB2 receptor, which affects cell migration and tumor progression (Schotanus2020Finding). MEMO1 also plays a role in the epithelial-mesenchymal transition (EMT), a process associated with cancer aggressiveness and metastasis, by activating the PI3K/Akt signaling pathway and upregulating transcriptional repressors like Snail1 (Sorokin2012MEMO1).
+
+In addition to its role in cancer, MEMO1 is involved in mineralization and bone homeostasis. Alterations in MEMO1 can lead to skeletal defects, such as craniofacial abnormalities and perinatal lethality, due to impaired mineralization processes (Schotanus2020Finding). MEMO1's interaction with the FGF23 signaling pathway further implicates it in phosphate and calcium homeostasis, affecting bone structure and mineral density (Schotanus2020Finding).
+
+The gene's involvement in iron homeostasis is also notable, as MEMO1 facilitates iron transport into mitochondria, which is crucial under hypoxic conditions in tumors. This function links MEMO1 to ferroptosis, a form of cell death, suggesting its potential as a therapeutic target in cancers with high iron requirements (Dolgova2023MEMO1).
+
+## Interactions
+MEMO1 is involved in various protein interactions that are crucial for its role in cell motility and signaling pathways. It directly interacts with cofilin, a protein involved in actin dynamics, as demonstrated by yeast two-hybrid screens and GST pull-down assays. This interaction is specific, as shown by the recovery of cofilin from GST-Memo beads and the reduction of binding when preincubated with excess soluble Memo (Meira2009Memo). MEMO1 also forms complexes with the active ErbB2 receptor and cofilin in mammalian cells, indicating its role in actin network remodeling during cell migration (Schotanus2020Finding; Meira2009Memo).
+
+MEMO1 interacts with estrogen receptor alpha (ERα), particularly with the AF1 and AF2 domains, and is involved in activating MAPK and AKT pathways. This interaction is crucial for estrogen-responsive gene expression and breast tumor growth (Jiang2013Mediator). MEMO1 also binds to IRS1 in a phospho-Tyr-dependent manner, competing with SHP2 for binding sites and influencing IRS1 functions (Sorokin2012MEMO1).
+
+Additionally, MEMO1 binds directly to a phosphopeptide derived from ErbB2, specifically at Tyr-1227, using its vestigial active site, which is crucial for its role in ErbB2 signaling (Qiu2008Memo).
+
+
+## References
+
+
+[1. (Jiang2013Mediator) Kai Jiang, Zhihong Yang, Long Cheng, Shibin Wang, Kang Ning, Lei Zhou, Jing Lin, Hui Zhong, Lisheng Wang, Yang Li, Junjian Huang, Hao Zhang, and Qinong Ye. Mediator of erbb2-driven cell motility (memo) promotes extranuclear estrogen receptor signaling involving the growth factor receptors igf1r and erbb2*. Journal of Biological Chemistry, 288(34):24590–24599, August 2013. URL: http://dx.doi.org/10.1074/jbc.m113.467837, doi:10.1074/jbc.m113.467837. This article has 29 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m113.467837)
+
+[2. (Feracci2011MEMO) Mikaël Feracci, Cyril Pimentel, Olivier Bornet, Philippe Roche, Danièle Salaun, Ali Badache, and Françoise Guerlesquin. Memo associated with an erbb2 receptor phosphopeptide reveals a new phosphotyrosine motif. FEBS Letters, 585(17):2688–2692, August 2011. URL: http://dx.doi.org/10.1016/j.febslet.2011.07.048, doi:10.1016/j.febslet.2011.07.048. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.febslet.2011.07.048)
+
+[3. (Qiu2008Memo) Chen Qiu, Susanne Lienhard, Nancy E. Hynes, Ali Badache, and Daniel J. Leahy. Memo is homologous to nonheme iron dioxygenases and binds an erbb2-derived phosphopeptide in its vestigial active site. Journal of Biological Chemistry, 283(5):2734–2740, February 2008. URL: http://dx.doi.org/10.1074/jbc.m703523200, doi:10.1074/jbc.m703523200. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m703523200)
+
+[4. (Schotanus2020Finding) Michaela D. Schotanus and Eric Van Otterloo. Finding memo—emerging evidence for memo1′s function in development and disease. Genes, 11(11):1316, November 2020. URL: http://dx.doi.org/10.3390/genes11111316, doi:10.3390/genes11111316. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes11111316)
+
+[5. (Sorokin2012MEMO1) A V Sorokin and J Chen. Memo1, a new irs1-interacting protein, induces epithelial–mesenchymal transition in mammary epithelial cells. Oncogene, 32(26):3130–3138, July 2012. URL: http://dx.doi.org/10.1038/onc.2012.327, doi:10.1038/onc.2012.327. This article has 61 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2012.327)
+
+[6. (Meira2009Memo) Maria Meira, Régis Masson, Igor Stagljar, Susanne Lienhard, Francisca Maurer, Anne Boulay, and Nancy E. Hynes. Memo is a cofilin-interacting protein that influences plcγ1 and cofilin activities, and is essential for maintaining directionality during erbb2-induced tumor-cell migration. Journal of Cell Science, 122(6):787–797, March 2009. URL: http://dx.doi.org/10.1242/jcs.032094, doi:10.1242/jcs.032094. This article has 32 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.032094)
+
+7. (Dolgova2023MEMO1) MEMO1 is a Metal Containing Regulator of Iron Homeostasis in Cancer Cells. This article has 1 citations.

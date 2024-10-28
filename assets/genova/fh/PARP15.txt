@@ -1,0 +1,48 @@
+# PARP15
+
+## Overview
+PARP15 is a gene that encodes the protein poly(ADP-ribose) polymerase family member 15, which is part of the poly(ADP-ribose) polymerase (PARP) family. This protein is characterized by its mono-ADP-ribosyltransferase activity and is involved in various cellular processes, including transcriptional regulation and chromatin remodeling. PARP15 is primarily active within the nucleus and is associated with stress granules, playing a role in the cellular response to stress and apoptosis inhibition (Richard2022Beyond; Vyas2014New). The protein contains a catalytic ADP-ribosyltransferase (ART) domain and two macrodomains, with dimerization of the ART domain being crucial for its enzymatic function (Ebenwaldner2024Regulation). Despite its involvement in these processes, the specific functions of PARP15 in healthy human cells remain largely unexplored, and its potential role in DNA damage repair has not been experimentally demonstrated (Richard2022Beyond). The clinical significance of PARP15 is highlighted by its association with decreased survival rates in acute myeloid leukemia and its amplification in head and neck squamous cell carcinoma, suggesting a potential role in cancer progression (Richard2022Beyond; Ravikumar2021Decoding).
+
+## Structure
+PARP15 is a member of the poly(ADP-ribose) polymerase family, characterized by its mono-ADP-ribosyltransferase activity. The protein contains a catalytic ADP-ribosyltransferase (ART) domain and two macrodomains. The ART domain is crucial for its enzymatic function and forms dimers with mid-nanomolar affinity, a process essential for its catalytic activity. This dimerization occurs at a specific interface identified through X-ray crystallography, involving side chains in helix α2 and a salt bridge network between specific residues (Ebenwaldner2024Regulation).
+
+PARP15 exists in two human isoforms. Isoform-1 includes an unstructured N-terminal extension, two macrodomains, and a C-terminal ART domain. Isoform-2 lacks the first macrodomain (Ebenwaldner2024Regulation). The protein's domains are flexible relative to each other, as predicted by AlphaFold2 models, which also suggest a prevalence of K homology (KH) domains in a subset of PARPs, although PARP15 itself lacks RNA-binding domains (Suskiewicz2023Updated).
+
+Dimerization of the ART domain is a regulatory mechanism that affects the enzyme's activity by influencing target engagement or catalytic residue placement, rather than NAD+ binding (Ebenwaldner2024Regulation).
+
+## Function
+PARP15 is a member of the macro-PARP subfamily, characterized by its ability to produce mono-ADP ribosylation (MAR) modifications. This protein is involved in transcriptional regulation and chromatin remodeling, primarily active within the nucleus of cells (Richard2022Beyond). PARP15 contains an RNA Recognition Motif (RRM), which is typically found in RNA-binding proteins involved in processes such as alternative splicing and the formation of small nuclear ribonucleoproteins (snRNPs) (Amé2004The). Additionally, PARP15 is associated with stress granules, which are involved in the cellular response to stress and play a role in inhibiting apoptosis under stress conditions (Vyas2014New).
+
+Despite its involvement in these cellular processes, the specific functions of PARP15 in healthy human cells remain largely unexplored. Its low expression levels and unknown specific localization in cells suggest that further research is needed to fully understand its role in normal cellular physiology (Richard2022Beyond). The potential involvement of PARP15 in DNA damage repair has not been experimentally demonstrated, indicating a gap in the current understanding of its function in DNA repair pathways (Richard2022Beyond).
+
+## Clinical Significance
+PARP15 has been implicated in various clinical conditions, particularly in cancer. Two single nucleotide polymorphisms (SNPs) in the PARP15 gene have been associated with decreased survival rates in patients with acute myeloid leukemia, suggesting a potential role in the progression of this hematological malignancy (Richard2022Beyond). Despite its low expression levels in cells, the clinical significance of PARP15 in cancer is underscored by its potential impact on survival outcomes, although further research is needed to determine its direct involvement in tumorigenesis and its viability as a target for cancer therapy (Richard2022Beyond).
+
+In head and neck squamous cell carcinoma (HNSCC), PARP15, along with other PARP family members, exhibits amplification patterns, indicating a possible role in the disease's genetic landscape (Ravikumar2021Decoding). The study of PARP15 in this context highlights the broader significance of PARP proteins in DNA repair and cancer, as PARP inhibitors have been shown to increase tumor sensitivity to DNA-damaging agents, suggesting their potential utility in cancer treatment (Ravikumar2021Decoding). Despite these associations, no selective inhibitors of PARP15 have been reported, indicating a gap in the development of targeted therapies involving this gene (Richard2022Beyond).
+
+## Interactions
+PARP15, a member of the poly(ADP-ribose) polymerase family, participates in various protein interactions that are crucial for its function. The dimerization of its ART domain is a significant interaction, as it is essential for its catalytic activity. This dimerization occurs at mid-nanomolar concentrations, typical for physiological protein-protein interactions, and is necessary for MARylation activity, although not for ligand binding at the active site (Ebenwaldner2024Regulation). The dimer interface involves a salt bridge network and interactions with specific helices, as confirmed by crystallographic data and AlphaFold2 predictions (Ebenwaldner2024Regulation).
+
+PARP15 also interacts with other PARP family members. Its macrodomain-2 interacts with the MARylated catalytic domains of PARP10, PARP12, and PARP14, as identified using AlphaScreen technology. These interactions have binding affinities in the high nanomolar to low micromolar range, indicating a selective binding mechanism that requires ADP-ribose in a structure-dependent context (Ekblad2018Identification).
+
+Under stress conditions, PARP15 translocates to cytoplasmic stress granules, where it may interact with PAR, a polymer that accumulates in these granules, suggesting a role in stress response mechanisms (Sanderson2020Mechanisms).
+
+
+## References
+
+
+[1. (Amé2004The) Jean‐Christophe Amé, Catherine Spenlehauer, and Gilbert de Murcia. The parp superfamily. BioEssays, 26(8):882–893, July 2004. URL: http://dx.doi.org/10.1002/bies.20085, doi:10.1002/bies.20085. This article has 1184 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/bies.20085)
+
+[2. (Suskiewicz2023Updated) Marcin J Suskiewicz, Deeksha Munnur, Øyvind Strømland, Ji-Chun Yang, Laura E Easton, Chatrin Chatrin, Kang Zhu, Domagoj Baretić, Stéphane Goffinont, Marion Schuller, Wing-Fung Wu, Jonathan M Elkins, Dragana Ahel, Sumana Sanyal, David Neuhaus, and Ivan Ahel. Updated protein domain annotation of the parp protein family sheds new light on biological function. Nucleic Acids Research, 51(15):8217–8236, June 2023. URL: http://dx.doi.org/10.1093/nar/gkad514, doi:10.1093/nar/gkad514. This article has 23 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkad514)
+
+[3. (Ekblad2018Identification) Torun Ekblad, Patricia Verheugd, Anders E. Lindgren, Tomas Nyman, Mikael Elofsson, and Herwig Schüler. Identification of poly(adp-ribose) polymerase macrodomain inhibitors using an alphascreen protocol. SLAS Discovery, 23(4):353–362, April 2018. URL: http://dx.doi.org/10.1177/2472555217750870, doi:10.1177/2472555217750870. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1177/2472555217750870)
+
+[4. (Vyas2014New) Sejal Vyas and Paul Chang. New parp targets for cancer therapy. Nature Reviews Cancer, 14(7):502–509, June 2014. URL: http://dx.doi.org/10.1038/nrc3748, doi:10.1038/nrc3748. This article has 140 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrc3748)
+
+[5. (Richard2022Beyond) Iain A. Richard, Joshua T. Burgess, Kenneth J. O’Byrne, and Emma Bolderson. Beyond parp1: the potential of other members of the poly (adp-ribose) polymerase family in dna repair and cancer therapeutics. Frontiers in Cell and Developmental Biology, January 2022. URL: http://dx.doi.org/10.3389/fcell.2021.801200, doi:10.3389/fcell.2021.801200. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.801200)
+
+[6. (Sanderson2020Mechanisms) Daniel J. Sanderson and Michael S. Cohen. Mechanisms governing parp expression, localization, and activity in cells. Critical Reviews in Biochemistry and Molecular Biology, 55(6):541–554, September 2020. URL: http://dx.doi.org/10.1080/10409238.2020.1818686, doi:10.1080/10409238.2020.1818686. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/10409238.2020.1818686)
+
+[7. (Ravikumar2021Decoding) Harita Ravikumar, J. Vijayashree Priyadharsini, A. S. Smiline Girija, P. Sankar Ganesh, and Nidhi Poddar. Decoding the genetic alteration in genes of parp family and the possible association with hnscc. Journal of Pharmaceutical Research International, pages 307–317, December 2021. URL: http://dx.doi.org/10.9734/jpri/2021/v33i64a35692, doi:10.9734/jpri/2021/v33i64a35692. This article has 0 citations.](https://doi.org/10.9734/jpri/2021/v33i64a35692)
+
+8. (Ebenwaldner2024Regulation) Regulation of ADP-ribosyltransferase activity by ART domain dimerization in PARP15. This article has 1 citations.

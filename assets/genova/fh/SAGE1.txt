@@ -1,0 +1,35 @@
+# SAGE1
+
+## Overview
+SAGE1, or sarcoma antigen 1, is a gene that encodes a cancer/testis antigen protein predominantly expressed in post-pubertal germ cells, particularly within the testis. The protein encoded by SAGE1 is categorized as a cancer/testis antigen, which is a class of proteins typically restricted to the testis and various cancerous tissues, making them of interest in cancer research and potential therapeutic targeting (Kumar2016Cancertestis). SAGE1 is notably absent in most normal tissues, except for its expression in the testis, where it is involved in the differentiation and maturation of germ cells (Lim2011OCT2). Its expression is regulated by transcription factors such as EWSR1-FLI1 in certain cancers, including Ewing sarcoma, highlighting its role in oncogenesis (Gallegos2019EWSR1FLI1). The protein's involvement in a complex network of protein-protein interactions further underscores its significance in both normal testicular function and cancer pathology (Kumar2016Cancertestis).
+
+## Function
+SAGE1 (sarcoma antigen 1) is a cancer/testis antigen primarily expressed in post-pubertal germ cells, particularly in a subset of B spermatogonia within the normal adult testis (Lim2011OCT2). Its expression is absent during prepubertal development, indicating that SAGE1 is up-regulated after puberty, suggesting a role in the differentiation and maturation of germ cells (Lim2011OCT2). The specific function of SAGE1 in healthy human cells remains elusive, but its expression pattern suggests involvement in spermatogenesis, particularly in post-pubertal spermatogonia (Lim2011OCT2).
+
+In the context of testicular development, SAGE1 is expressed in distinct subpopulations of spermatogonia, with nuclear staining detected in a small subset of A spermatogonia and predominantly in more differentiated B spermatogonia (Lim2011OCT2). This expression pattern supports the hypothesis that SAGE1 plays a role in the maturation process of germ cells, although the exact molecular processes and cellular activities remain to be fully elucidated (Lim2011OCT2). The absence of SAGE1 expression in other testicular germ cell tumor tissues, such as embryonal carcinoma and classical seminoma, further highlights its specific association with spermatogonia (Lim2011OCT2).
+
+## Clinical Significance
+SAGE1 (sarcoma antigen 1) is a cancer/testis antigen that is predominantly expressed in various cancers, including non-small-cell lung cancer (NSCLC) and spermatocytic seminoma (SS), but not in most normal tissues except for the testis. Its expression is associated with tumorigenesis, contributing to cancer progression by promoting cell proliferation, inhibiting apoptosis, and enhancing energy metabolism (Yang2022CancerTestis). In NSCLC, SAGE1 is overexpressed, highlighting its potential role in tumorigenesis and metastasis (Yang2022CancerTestis).
+
+In the context of spermatocytic seminoma, SAGE1 is expressed in a subset of tumor cells, with 39% of SS cases showing positivity for SAGE1. This expression pattern supports the hypothesis that SS originates from different subtypes of spermatogonia, reflecting the phenotypic heterogeneity of the tumor (Lim2011OCT2). The study suggests that SAGE1 expression is up-regulated in spermatogonia after puberty, as it is absent in fetal and infantile testes (Lim2011OCT2).
+
+While the clinical significance of SAGE1 gene mutations is not specifically addressed, its expression alterations in cancerous tissues underscore its potential as a biomarker and therapeutic target in oncology (Yang2022CancerTestis; Lim2011OCT2).
+
+## Interactions
+SAGE1 (sarcoma antigen 1) is a cancer/testis antigen that participates in various protein interactions, primarily within the context of cancer. It is part of a network of cancer/testis antigens that exhibit nucleic acid binding and catalytic activity, as identified through the PANTHER classification system. SAGE1 is involved in a protein-protein interaction network that includes 700 interacting proteins, forming a scale-free network architecture, which suggests a robust and biologically significant network (Kumar2016Cancertestis).
+
+SAGE1 is identified as a major hub protein in the cancer/testis antigen network, interacting with 49% of the protein network. It shares interactions with other hub proteins such as SPO11, MAGEC2, and FTHL17, indicating its central role in the network (Kumar2016Cancertestis). The Mcode algorithm identified SAGE1 in a cluster with 16 nodes and 84 edges, including proteins like ZNF165, SPO11, and GAGE1, suggesting that SAGE1 can interact with a large number of partners despite no sequence similarity among interacting proteins (Kumar2016Cancertestis).
+
+In Ewing sarcoma, SAGE1 expression is regulated by the EWSR1-FLI1 transcription factor, which binds to regions near the SAGE1 promoter, influencing its expression levels (Gallegos2019EWSR1FLI1).
+
+
+## References
+
+
+[1. (Yang2022CancerTestis) Ping Yang, Yingnan Qiao, Mei Meng, and Quansheng Zhou. Cancer/testis antigens as biomarker and target for the diagnosis, prognosis, and therapy of lung cancer. Frontiers in Oncology, April 2022. URL: http://dx.doi.org/10.3389/fonc.2022.864159, doi:10.3389/fonc.2022.864159. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.864159)
+
+[2. (Gallegos2019EWSR1FLI1) Zachary R. Gallegos, Patrick Taus, Zane A. Gibbs, Kathleen McGlynn, Nicholas C. Gomez, Ian Davis, and Angelique W. Whitehurst. Ewsr1-fli1 activation of the cancer/testis antigen fate1 promotes ewing sarcoma survival. Molecular and Cellular Biology, July 2019. URL: http://dx.doi.org/10.1128/mcb.00138-19, doi:10.1128/mcb.00138-19. This article has 16 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.00138-19)
+
+[3. (Lim2011OCT2) Jasmine Lim, Anne Goriely, Gareth DH Turner, Katherine A Ewen, Grete Krag Jacobsen, Niels Graem, Andrew OM Wilkie, and Ewa Rajpert‐De Meyts. Oct2, ssx and sage1 reveal the phenotypic heterogeneity of spermatocytic seminoma reflecting distinct subpopulations of spermatogonia. The Journal of Pathology, 224(4):473–483, June 2011. URL: http://dx.doi.org/10.1002/path.2919, doi:10.1002/path.2919. This article has 70 citations.](https://doi.org/10.1002/path.2919)
+
+[4. (Kumar2016Cancertestis) Anuj Kumar, Drista Sharma, M. L. Aggarwal, K. M. Chacko, and Tarun Kumar Bhatt. Cancer/testis antigens as molecular drug targets using network pharmacology. Tumor Biology, 37(12):15697–15705, October 2016. URL: http://dx.doi.org/10.1007/s13277-016-5333-2, doi:10.1007/s13277-016-5333-2. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s13277-016-5333-2)

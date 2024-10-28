@@ -1,0 +1,42 @@
+# HLA-DOA
+
+## Overview
+HLA-DOA is a gene that encodes the alpha chain of the HLA-DO protein, a non-classical major histocompatibility complex (MHC) class II molecule. The HLA-DO protein, categorized as a regulatory protein, forms a heterodimer with the DO beta chain, and this complex is involved in the modulation of antigen presentation. Unlike classical MHC class II molecules, which directly present antigens to CD4 T-helper cells, HLA-DO functions primarily as a modulator of the peptide loading process by interacting with HLA-DM. This interaction is crucial for the regulation of peptide exchange on MHC class II molecules, particularly in acidic lysosomal compartments, thereby influencing the repertoire of peptides presented to the immune system (van2002Novel; Kropshofer1998A). HLA-DOA is predominantly expressed in B cells and certain thymic epithelial cells, where it plays a role in fine-tuning immune responses and maintaining self-tolerance (Nagarajan2002Class).
+
+## Structure
+
+
+## Function
+HLA-DOA is a gene that encodes the DO alpha chain, which pairs with the DO beta chain to form the HLA-DO complex. This complex plays a crucial role in the immune system by modulating antigen presentation. HLA-DO interacts with HLA-DM, a molecule involved in the loading of peptides onto MHC class II molecules, which are essential for presenting antigens to CD4 T-helper cells. The interaction between HLA-DO and HLA-DM is pH-dependent, allowing HLA-DM-mediated peptide exchange in lysosomal compartments while preventing it in early endosomes (van2002Novel).
+
+HLA-DO is selectively expressed in B cells and a subset of thymic epithelial cells. In B cells, HLA-DO impedes the function of HLA-DM, reducing the formation of stable class II/peptide complexes. This mechanism helps B cells limit the risk of recruiting T-cell help with BCR-irrelevant protein antigens, thereby favoring the presentation of BCR-internalized antigens. This process increases the specificity of B-cell activation and may prevent non-specific B-cell activation, which could otherwise lead to autoimmunity or B-cell proliferative diseases (van2002Novel; Nagarajan2002Class).
+
+## Clinical Significance
+Mutations and alterations in the expression of the HLA-DOA gene have been associated with various autoimmune diseases, particularly rheumatoid arthritis (RA). A synonymous mutation in HLA-DOA, identified as rs378352, is significantly associated with an increased risk of anti-citrullinated protein autoantibody (ACPA)-positive RA. This mutation is linked to reduced expression of HLA-DOA mRNA, as demonstrated in a cis-expression quantitative trait loci (cis-eQTL) study, and shows varying risk levels across different ethnic populations, including Japanese, East Asian, and European groups (Okada2016Contribution).
+
+The absence of HLA-DO, known as H2-O in mice, has been shown to increase susceptibility to autoimmune diseases. Studies on DO-KO (knockout) mice indicate that the lack of this gene leads to a more self-reactive CD4 T-cell repertoire, contributing to the development of autoimmune conditions such as collagen-induced arthritis, a model for human RA (Welsh2020Lack). These findings suggest that HLA-DOA plays a critical role in immune regulation, and its dysfunction may lead to increased autoreactivity and susceptibility to autoimmune diseases (Welsh2020Lack).
+
+## Interactions
+HLA-DOA, as part of the HLA-DO complex, interacts with HLA-DM to modulate the peptide loading of MHC class II molecules. This interaction is crucial for the stabilization and function of MHC class II molecules, particularly in lysosome-like compartments at low pH. HLA-DOA forms a heterodimer with HLA-DOB, and together they bind tightly to HLA-DM, acting as a co-chaperone. This binding helps preserve the activity of HLA-DM during intracellular trafficking and enhances the stability of peptide-MHC complexes (Kropshofer1998A).
+
+The interaction between HLA-DO and HLA-DM is characterized by a tight binding that affects the stability and function of MHC class II molecules. HLA-DO modulates the catalytic activity of HLA-DM, resulting in a reduced turnover number for peptide loading, which suggests that the DM-DO complex remains bound to MHC class II molecules longer than DM alone (Kropshofer1998A). This interaction influences the editing function of HLA-DM, altering the self-peptide repertoire presented by MHC class II molecules (Kropshofer1998A).
+
+HLA-DOA does not directly bind peptides but requires binding to HLA-DM for proper expression and transport to the class II processing compartment (Welsh2020The). The interaction between HLA-DO and HLA-DM is pH-dependent, with HLA-DO inhibiting HLA-DM at higher pH levels, while at low pH, the DO/DM complexes have a higher affinity for MHC class II molecules (Welsh2019What).
+
+
+## References
+
+
+[1. (Welsh2020The) Robin A Welsh and Scheherazade Sadegh-Nasseri. The love and hate relationship of hla-dm/do in the selection of immunodominant epitopes. Current Opinion in Immunology, 64:117–123, June 2020. URL: http://dx.doi.org/10.1016/j.coi.2020.05.007, doi:10.1016/j.coi.2020.05.007. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.coi.2020.05.007)
+
+[2. (Nagarajan2002Class) Uma M. Nagarajan, Jonathan Lochamy, Xinjian Chen, Guy W. Beresford, Roger Nilsen, Peter E. Jensen, and Jeremy M. Boss. Class ii transactivator is required for maximal expression of hla-dob in b cells. The Journal of Immunology, 168(4):1780–1786, February 2002. URL: http://dx.doi.org/10.4049/jimmunol.168.4.1780, doi:10.4049/jimmunol.168.4.1780. This article has 35 citations.](https://doi.org/10.4049/jimmunol.168.4.1780)
+
+[3. (Welsh2019What) Robin Welsh, Nianbin Song, and Scheherazade Sadegh-Nasseri. What to do with hla-do/h-2o two decades later? Immunogenetics, 71(3):189–196, January 2019. URL: http://dx.doi.org/10.1007/s00251-018-01097-3, doi:10.1007/s00251-018-01097-3. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00251-018-01097-3)
+
+[4. (Kropshofer1998A) H. Kropshofer. A role for hla-do as a co-chaperone of hla-dm in peptide loading of mhc class ii molecules. The EMBO Journal, 17(11):2971–2981, June 1998. URL: http://dx.doi.org/10.1093/emboj/17.11.2971, doi:10.1093/emboj/17.11.2971. This article has 98 citations.](https://doi.org/10.1093/emboj/17.11.2971)
+
+[5. (van2002Novel) Marcel van Lith, Marieke van Ham, and Jacques Neefjes. Novel polymorphisms in hla-doa and hla-dob in b-cell malignancies. Immunogenetics, 54(8):591–595, November 2002. URL: http://dx.doi.org/10.1007/s00251-002-0500-6, doi:10.1007/s00251-002-0500-6. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00251-002-0500-6)
+
+[6. (Welsh2020Lack) Robin A. Welsh, Nianbin Song, Catherine A. Foss, Tatiana Boronina, Robert N. Cole, and Scheherazade Sadegh-Nasseri. Lack of the mhc class ii chaperone h2-o causes susceptibility to autoimmune diseases. PLOS Biology, 18(2):e3000590, February 2020. URL: http://dx.doi.org/10.1371/journal.pbio.3000590, doi:10.1371/journal.pbio.3000590. This article has 20 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.3000590)
+
+[7. (Okada2016Contribution) Yukinori Okada, Akari Suzuki, Katsunori Ikari, Chikashi Terao, Yuta Kochi, Koichiro Ohmura, Koichiro Higasa, Masato Akiyama, Kyota Ashikawa, Masahiro Kanai, Jun Hirata, Naomasa Suita, Yik-Ying Teo, Huji Xu, Sang-Cheol Bae, Atsushi Takahashi, Yukihide Momozawa, Koichi Matsuda, Shigeki Momohara, Atsuo Taniguchi, Ryo Yamada, Tsuneyo Mimori, Michiaki Kubo, Matthew A. Brown, Soumya Raychaudhuri, Fumihiko Matsuda, Hisashi Yamanaka, Yoichiro Kamatani, and Kazuhiko Yamamoto. Contribution of a non-classical hla gene, hla-doa, to the risk of rheumatoid arthritis. The American Journal of Human Genetics, 99(2):366–374, August 2016. URL: http://dx.doi.org/10.1016/j.ajhg.2016.06.019, doi:10.1016/j.ajhg.2016.06.019. This article has 66 citations.](https://doi.org/10.1016/j.ajhg.2016.06.019)

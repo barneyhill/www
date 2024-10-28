@@ -1,0 +1,48 @@
+# SAMD5
+
+## Overview
+Sterile alpha motif domain containing 5 (SAMD5) is a gene that encodes a protein involved in various cellular processes, primarily through its sterile alpha motif (SAM) domain. This domain is a common protein interaction module that facilitates protein-protein interactions, playing a crucial role in cellular signaling pathways and transcriptional regulation. The SAMD5 protein is particularly noted for its interactions with Eph receptor SAM domains, such as EphA5, which are significant in receptor tyrosine kinase signaling. These interactions are implicated in cancer progression, with SAMD5 being overexpressed in several cancer types, including prostate and breast cancer, where it may influence tumorigenesis and cancer cell characteristics (Xu2021CircRNA; Li2019SAMD5). Additionally, SAMD5 is involved in the MAPK signaling pathway and can activate JNK kinase, further highlighting its role in cell proliferation and survival (Li2019SAMD5). The gene's expression in specific tissues, such as the epithelial cells of intrahepatic bile ducts, suggests a role in cellular responses to liver injury and in defining cell lineage in cholestatic livers (Yagai2017Expression).
+
+## Structure
+The SAMD5 protein is characterized by the presence of a sterile alpha motif (SAM) domain, which is a common protein interaction module. The SAM domain typically consists of about 70 residues and forms a globular five-helix bundle structure, which is involved in various protein-protein interactions (Mercurio2022Hunting). The SAM domain of SAMD5 is structurally similar to those found in other proteins like SHIP2 and Odin, with key binding residues aligning well with these proteins (Wang2018Specific).
+
+The SAM domain of SAMD5 is involved in interactions with the EphA5 receptor, forming a SAM-SAM complex that is primarily mediated by charge-charge and hydrogen bonding interactions. A critical hydrogen bond between Gly853 in EphA5 and Tyr27 in SAMD5 is essential for binding (Wang2018Specific). The interaction between EphA5 and SAMD5 involves the N-terminus of EphA5's α5-helix interacting with SAMD5's mid-loop region (Kan2023Domain).
+
+The SAM domain of SAMD5 is highly expressed in breast cancer cells and is primarily cytoplasmic, suggesting its potential role in cellular signaling pathways (Wang2018Specific). However, specific details on post-translational modifications or splice variant isoforms of SAMD5 are not provided in the available context.
+
+## Function
+SAMD5 (sterile alpha motif domain containing 5) is a protein that plays a role in various cellular processes, primarily through its involvement in protein-protein interactions mediated by its sterile alpha motif (SAM) domain. This domain allows SAMD5 to self-associate and bind to other proteins, RNA, DNA, or lipids, which can influence signaling pathways and transcriptional regulation (Yagai2017Expression). In healthy human cells, SAMD5 is expressed in the epithelial cells of intrahepatic large bile ducts and peribiliary glands, particularly after liver injury, suggesting a role in the cellular response to damage and in defining the cell lineage of columnar cholangiocytes in cholestatic livers (Yagai2017Expression).
+
+SAMD5 is also involved in the MAPK signaling pathway and can activate JNK kinase, indicating its participation in key signaling cascades that regulate cell proliferation and survival (Li2019SAMD5). The protein's nuclear localization in certain cancer cell lines suggests it may have functions related to nuclear processes, potentially influencing cell cycle regulation and proliferation (Yagai2017Expression). These activities highlight SAMD5's potential role in maintaining cellular homeostasis and responding to physiological changes.
+
+## Clinical Significance
+SAMD5 has been implicated in various cancers due to its altered expression levels and interactions. In prostate cancer, SAMD5 is overexpressed and serves as a predictive marker for biochemical recurrence after radical prostatectomy. High expression of SAMD5 is associated with an increased risk of post-operative biochemical recurrence, independent of traditional clinical parameters such as Gleason score and pathologic T stage (Li2019SAMD5). 
+
+In cholangiocarcinoma and hepatocellular carcinoma, SAMD5 localizes to the nucleus and is involved in cell cycle regulation. Its overexpression in certain cell lines suppresses growth, suggesting a role in the regulation of cancer cell characteristics (Yagai2017Expression). SAMD5 is also upregulated in the peribiliary glands and bile duct epithelial cells in cholestatic conditions, indicating its potential involvement in bile duct malignancies (Yagai2017Expression).
+
+In bladder cancer, SAMD5 expression is influenced by the long noncoding RNA KCNMB2-AS1, which promotes cancer cell stemness and tumor growth by inhibiting miR-3194-3p. This interaction highlights SAMD5's role in maintaining cancer cell characteristics and promoting tumor progression (Chen2021Long). 
+
+Mutations in the SAM domain of Eph receptors, which interact with SAMD5, can disrupt these interactions and are associated with various cancers, underscoring the clinical significance of SAMD5 in cancer biology (Wang2018Specific).
+
+## Interactions
+SAMD5 is known to interact with Eph receptor SAM domains, particularly binding strongly to EphA5-8 and EphB1-4 SAM domains, while showing weaker interactions with EphA1/2 SAM domains. This suggests that SAMD5 is a specific effector of Eph SAM domains, contributing to diverse binding specificities (Wang2018Specific). The interaction between SAMD5 and EphA5 is characterized by charge-charge and hydrogen bonding, with a critical hydrogen bond between Gly853 of EphA5 and Tyr27 of SAMD5 being essential for binding. This interaction is distinct from other Eph receptor complexes that involve p-p stacking (Wang2018Specific).
+
+In the context of cancer, SAMD5 is overexpressed in prostate cancer and is involved in receptor tyrosine kinase signaling through its interaction with EphA5. This interaction may play a role in tumorigenesis and cancer progression (Li2019SAMD5). Additionally, SAMD5 is implicated in the circ_0075796/miR-452-3p/SAMD5 axis in breast cancer, where it is suggested to be a target of miR-452-3p, indicating a regulatory mechanism involving these molecules in cancer progression (Xu2021CircRNA).
+
+
+## References
+
+
+1. (Xu2021CircRNA) CircRNA circ_0075796 is downregulated in breast cancer and suppresses cell proliferation, migration and invasion. This article has 0 citations.
+
+[2. (Li2019SAMD5) Fei Li, Yong Xu, and Ran-Lu Liu. Samd5 mrna was overexpressed in prostate cancer and can predict biochemical recurrence after radical prostatectomy. International Urology and Nephrology, 51(3):443–451, February 2019. URL: http://dx.doi.org/10.1007/s11255-019-02096-3, doi:10.1007/s11255-019-02096-3. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11255-019-02096-3)
+
+[3. (Mercurio2022Hunting) Flavia Anna Mercurio, Marian Vincenzi, and Marilisa Leone. Hunting for novel routes in anticancer drug discovery: peptides against sam-sam interactions. International Journal of Molecular Sciences, 23(18):10397, September 2022. URL: http://dx.doi.org/10.3390/ijms231810397, doi:10.3390/ijms231810397. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms231810397)
+
+[4. (Chen2021Long) Yong-Sheng Chen, Yong-Peng Xu, Wen-Hua Liu, De-Chao Li, Huan Wang, and Chang-Fu Li. Long noncoding rna kcnmb2-as1 promotes smad5 by targeting mir-3194-3p to induce bladder cancer progression. Frontiers in Oncology, May 2021. URL: http://dx.doi.org/10.3389/fonc.2021.649778, doi:10.3389/fonc.2021.649778. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.649778)
+
+[5. (Yagai2017Expression) Tomoki Yagai, Satoshi Matsui, Kenichi Harada, Fuyuki F. Inagaki, Eiko Saijou, Yasushi Miura, Yasuni Nakanuma, Atsushi Miyajima, and Minoru Tanaka. Expression and localization of sterile alpha motif domain containing 5 is associated with cell type and malignancy of biliary tree. PLOS ONE, 12(4):e0175355, April 2017. URL: http://dx.doi.org/10.1371/journal.pone.0175355, doi:10.1371/journal.pone.0175355. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0175355)
+
+[6. (Kan2023Domain) Yagmur Kan, YiTing Paung, Markus A. Seeliger, and W. Todd Miller. Domain architecture of the nonreceptor tyrosine kinase ack1. Cells, 12(6):900, March 2023. URL: http://dx.doi.org/10.3390/cells12060900, doi:10.3390/cells12060900. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells12060900)
+
+[7. (Wang2018Specific) Yue Wang, Yuan Shang, Jianchao Li, Weidi Chen, Gang Li, Jun Wan, Wei Liu, and Mingjie Zhang. Specific eph receptor-cytoplasmic effector signaling mediated by sam–sam domain interactions. eLife, May 2018. URL: http://dx.doi.org/10.7554/elife.35677, doi:10.7554/elife.35677. This article has 32 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.35677)
