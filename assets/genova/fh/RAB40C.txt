@@ -1,0 +1,42 @@
+# RAB40C
+
+## Overview
+RAB40C is a gene that encodes a member of the RAS oncogene family, specifically a small monomeric GTPase protein known as RAB40C. This protein is categorized as a GTP-binding protein and is part of the Rab40 subfamily, which is involved in various cellular processes, including the regulation of the actin cytoskeleton, cell migration, and protein ubiquitination. RAB40C is unique among Rab GTPases due to its C-terminal suppressor of cytokine signaling (SOCS) box domain, which facilitates its interaction with Cullin5 to form an E3 ubiquitin ligase complex. This interaction is crucial for the protein's role in targeting specific proteins for degradation, thereby influencing cell migration and actin dynamics. Additionally, RAB40C is implicated in lipid metabolism and Golgi organization, playing a role in lipophagy and vesicle transport within oligodendrocytes. Alterations in the expression and function of RAB40C have been associated with various cancers, highlighting its clinical significance (Duan2021Regulation; Neumann2023A; Rodriguez‐Gabin2004Vesicle).
+
+## Structure
+Rab40c is a GTP-binding protein with a unique sequence that shows significant identity with Rab40a and Rab40b, sharing 75% and 80% identity, respectively (Rodriguez‐Gabin2004Vesicle). The primary structure of Rab40c consists of 281 amino acids, with a molecular weight of 31,466 Da and an isoelectric point of 9.83 (Rodriguez‐Gabin2004Vesicle). The protein features a GTP-binding domain with specific motifs, a carboxyl terminal extension, and amino acid substitutions in conserved motifs involved in GTP-binding, which result in atypical GTP-binding properties (Rodriguez‐Gabin2004Vesicle).
+
+Rab40c contains a C-terminal suppressor of cytokine signaling (SOCS) box domain, which is unique among Rab GTPases. This domain allows Rab40c to interact with Cullin5 to form an E3 ubiquitin ligase complex, playing a role in protein ubiquitination (Duncan2021Methods; Neumann2023A). The SOCS box includes a BC-box for binding Elongin B and C, and a Cul-box for Cullin binding, with an LPLP motif conserved across the family (Neumann2023A). Rab40c also has an isoprenylation motif and a potential palmitoylation site, indicating post-translational modifications that may affect its localization and function (Rodriguez‐Gabin2004Vesicle).
+
+## Function
+RAB40C is a member of the Rab40 family of GTPases, which are involved in regulating the actin cytoskeleton and cell migration. This protein plays a significant role in modulating the actin cytoskeleton and focal adhesion sites, crucial for cell migration. It achieves this by ubiquitinating and degrading specific proteins, such as RACK1 and ANKRD28, which are involved in inhibiting cell migration and focal adhesion formation, respectively (Neumann2023A). RAB40C is part of an E3 ubiquitin ligase complex, unique to the Rab40 family due to the presence of a SOCS box domain. This domain allows RAB40C to bind to Cullin5 and target specific proteins for degradation, influencing cell migration and actin dynamics (Neumann2023A).
+
+In addition to its role in cell migration, RAB40C is involved in lipid metabolism and Golgi organization. It is enriched on the Golgi apparatus and participates in lipophagy, a process crucial for lipid mobilization. RAB40C localizes on lipid droplets in fed cells and enriches on the Golgi during starvation, indicating its involvement in lipid homeostasis (Duan2021Regulation). This protein is also implicated in vesicle transport within oligodendrocytes, contributing to myelin formation in the central nervous system (Rodriguez‐Gabin2004Vesicle).
+
+## Clinical Significance
+Alterations in the expression and function of the RAB40C gene have been implicated in various diseases, particularly cancer. In prostate and breast cancers, RAB40C is often hypermethylated, while it is overexpressed in gastric cancer and lung squamous cell carcinoma. Conversely, reduced levels of RAB40C have been associated with poor outcomes in osteosarcoma cases, suggesting that dysregulation of RAB40C expression may contribute to cancer metastasis (Neumann2023A).
+
+RAB40C plays a role in cell migration by regulating focal adhesions and the actin cytoskeleton. It is involved in the ubiquitylation and degradation of ANKRD28, a scaffolding component of the protein phosphatase 6 (PP6) complex. This process affects focal adhesion dynamics and cell migration, which are critical in cancer cell invasion and metastasis (Han2022Rab40c). Dysregulation of the RAB40C-PP6 axis has potential clinical implications, as PP6c mutations are found in about 10% of melanoma patients (Han2022Rab40c).
+
+RAB40C is also involved in the Hippo signaling pathway, affecting the activity of YAP/TAZ, which is crucial for cell mechanics and focal adhesion assembly. Dysregulated Hippo pathways are associated with various diseases, especially cancer (Han2021Rab40c).
+
+## Interactions
+RAB40C, a member of the Rab40 subfamily of small monomeric GTPases, is involved in several protein interactions that regulate cellular processes. It interacts with components of the Cullin-RING E3 ubiquitin ligase complex, including Cullin5, Rbx2, and Elongin B/C, through its SOCS box domain. This interaction is crucial for its role in protein ubiquitylation and degradation (Han2022Rab40c; Neumann2023A). RAB40C specifically binds to Cullin5, forming a complex that ubiquitinates target proteins such as ANKRD28, a subunit of protein phosphatase 6 (PP6) (Han2021Rab40c; Neumann2023A).
+
+RAB40C also interacts with the PP6 complex, particularly with the subunits ANKRD28 and PP6R1. This interaction is mediated by the C-terminal region of PP6R1 and is enhanced by GTPγS, indicating a GTP-dependent interaction (Han2021Rab40c; Han2022Rab40c). The interaction with ANKRD28 is significant for regulating focal adhesion dynamics and cell migration, as RAB40C mediates the ubiquitylation and lysosomal degradation of ANKRD28, affecting the activity of the PP6 complex (Han2021Rab40c; Han2022Rab40c). These interactions highlight RAB40C's role in modulating the actin cytoskeleton and cell migration through its involvement in protein ubiquitylation pathways.
+
+
+## References
+
+
+[1. (Rodriguez‐Gabin2004Vesicle) A.G. Rodriguez‐Gabin, G. Almazan, and J.N. Larocca. Vesicle transport in oligodendrocytes: probable role of rab40c protein. Journal of Neuroscience Research, 76(6):758–770, April 2004. URL: http://dx.doi.org/10.1002/jnr.20121, doi:10.1002/jnr.20121. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jnr.20121)
+
+[2. (Han2022Rab40c) Ke-Jun Han, Valeryia Mikalayeva, Scott A Gerber, Arminja N Kettenbach, Vytenis A Skeberdis, and Rytis Prekeris. Rab40c regulates focal adhesions and pp6 activity by controlling ankrd28 ubiquitylation. Life Science Alliance, 5(9):e202101346, May 2022. URL: http://dx.doi.org/10.26508/lsa.202101346, doi:10.26508/lsa.202101346. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202101346)
+
+[3. (Neumann2023A) Andrew J. Neumann and Rytis Prekeris. A rab-bit hole: rab40 gtpases as new regulators of the actin cytoskeleton and cell migration. Frontiers in Cell and Developmental Biology, September 2023. URL: http://dx.doi.org/10.3389/fcell.2023.1268922, doi:10.3389/fcell.2023.1268922. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2023.1268922)
+
+[4. (Duan2021Regulation) Xiuying Duan, Lingna Xu, Yawen Li, Lijun Jia, Wei Liu, Wenxia Shao, Vafa Bayat, Weina Shang, Liquan Wang, Jun-Ping Liu, and Chao Tong. Regulation of lipid homeostasis by the tbc protein dtbc1d22 via modulation of the small gtpase rab40 to facilitate lipophagy. Cell Reports, 36(9):109541, August 2021. URL: http://dx.doi.org/10.1016/j.celrep.2021.109541, doi:10.1016/j.celrep.2021.109541. This article has 8 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2021.109541)
+
+[5. (Duncan2021Methods) Emily D. Duncan, Ezra Lencer, Erik Linklater, and Rytis Prekeris. Methods to Study the Unique SOCS Box Domain of the Rab40 Small GTPase Subfamily, pages 163–179. Springer US, 2021. URL: http://dx.doi.org/10.1007/978-1-0716-1346-7_11, doi:10.1007/978-1-0716-1346-7_11. This article has 5 citations.](https://doi.org/10.1007/978-1-0716-1346-7_11)
+
+6. (Han2021Rab40c) Rab40c Regulates Focal Adhesions and Protein Phosphatase 6 Activity by Controlling ANKRD28 Ubiquitylation and Degradation. This article has 0 citations.

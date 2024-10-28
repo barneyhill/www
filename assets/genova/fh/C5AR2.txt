@@ -1,0 +1,50 @@
+# C5AR2
+
+## Overview
+C5AR2 is a gene that encodes the complement C5a receptor 2, a member of the class A G protein-coupled receptor (GPCR) superfamily. Unlike typical GPCRs, the C5a receptor 2 is characterized by its inability to couple with G proteins due to the absence of specific motifs, classifying it as a decoy receptor. This receptor is primarily expressed in myeloid cells and plays a significant role in modulating immune responses by interacting with the complement component C5a and its desarginated form, C5a-desArg. Despite its initial classification as a decoy receptor, C5a receptor 2 is involved in noncanonical signaling pathways through its interaction with β-arrestins, influencing both pro- and anti-inflammatory pathways. The receptor's function is further modulated by its ability to form heterodimers with C5aR1, affecting various signaling pathways and immune responses (Li2019The; Zhang2017The).
+
+## Structure
+The C5aR2 protein, encoded by the human C5AR2 gene, is a member of the class A G protein-coupled receptor (GPCR) superfamily. It features a seven-transmembrane helical core, typical of GPCRs, and is primarily expressed intracellularly on myeloid cells (Pandey2020Emerging; SantosLópez2023Structural). The primary structure of C5aR2 includes a sequence that shares about 35-36% identity with C5aR1, another receptor in the same family (Pandey2020Emerging; SantosLópez2023Structural).
+
+C5aR2 lacks the canonical DRY motif at the end of transmembrane helix 3, which is crucial for G protein coupling, and instead has a D131 3.49, L132 3.50, and C133 3.51 sequence, leading to its uncoupling from heterotrimeric G proteins (Li2019The; SantosLópez2023Structural). The NPXXY motif in transmembrane helix 7 also lacks the tyrosine residue, replaced by F291 7.53 (SantosLópez2023Structural).
+
+Post-translational modifications of C5aR2 include an N-glycosylation site at the N terminus and multiple serine and threonine phosphorylation sites, particularly in the intracellular loop 3 and C terminus (Li2019The; SantosLópez2023Structural). These modifications are crucial for its function as a decoy receptor and its role in ligand-induced phosphorylation and internalization (Li2019The). C5aR2 can recruit β-arrestins, suggesting it may engage in noncanonical signaling pathways (Pandey2020Emerging).
+
+## Function
+C5AR2, also known as complement C5a receptor 2, is a receptor involved in modulating both innate and adaptive immunity. It is primarily expressed in various human tissues, including bone marrow, spleen, and lung, and in immune cells such as myeloid cells and certain T cell subsets (Li2019The). C5AR2 functions as a modulator of immune responses by interacting with the complement component C5a and its desarginated form, C5a-desArg. Unlike C5aR1, C5AR2 lacks the motifs necessary for G protein coupling, leading to its initial classification as a decoy receptor. However, it plays a significant signaling role through β-arrestins, which regulate receptor activity (Li2019The).
+
+C5AR2 can form heterodimers with C5aR1, influencing both pro- and anti-inflammatory pathways. It acts as a decoy receptor by sequestering C5a and C5a des Arg from C5aR1, thereby negatively modulating C5a-C5aR1 signals, suggesting an anti-inflammatory role (Zhang2017The). The receptor's function is influenced by its cellular localization, which can be dynamic and cell-specific. On the cell surface, C5AR2 may act as a non-signaling receptor, while intracellularly, it may interact with other proteins like β-arrestins to modulate signaling pathways (Zhang2017The). C5AR2's role in healthy human cells involves a complex interplay of signaling pathways that can either promote or inhibit inflammation, depending on factors such as ligand concentration and receptor localization (Zhang2017The).
+
+## Clinical Significance
+The C5AR2 gene, also known as complement C5a receptor 2, is implicated in various diseases due to its role in modulating immune responses. Alterations in C5AR2 expression are associated with inflammatory and autoimmune conditions. In bullous pemphigoid, an autoimmune skin disease, C5AR2 is upregulated in early skin lesions, primarily expressed by mast cells and eosinophils, suggesting its involvement in the disease's pathogenesis (Emtenani2022Differential). 
+
+In cancer, C5AR2 expression is elevated in several types, including breast cancer, where it is linked to poor prognosis and immune infiltration, particularly affecting macrophage polarization (Zhu2021An). High C5AR2 expression in breast cancer is associated with increased M2 macrophage infiltration, which is often linked to tumor progression (Zhu2021An).
+
+C5AR2 also plays a role in metabolic disorders. Its expression in adipose tissue influences triglyceride synthesis and glucose transport, with knockout mice showing altered metabolic profiles and increased insulin resistance under a diabetogenic diet (Zhang2017The). These findings highlight the gene's involvement in metabolic inflammation and its contribution to obesity-associated disorders (Zhang2017The). 
+
+Overall, C5AR2's expression and interactions are crucial in various pathological conditions, making it a potential target for therapeutic interventions.
+
+## Interactions
+C5AR2, also known as complement C5a receptor 2, is involved in various protein interactions that modulate immune responses. It forms heterodimers with C5aR1, which is crucial for the internalization and desensitization of C5aR1, thereby regulating C5a-induced responses (Li2019The; Zhang2017The). This heterodimerization also influences ERK signaling pathways, contributing to both pro- and anti-inflammatory responses (Zhang2017The).
+
+C5AR2 interacts with β-arrestins, which are key in regulating G protein-coupled receptor signaling. This interaction is significant for the recruitment of β-arrestins, which mediate receptor desensitization and internalization, and can inhibit ERK1/2 activation and IL-6 production (Li2019The; Zhang2017The). The interaction between C5AR2 and β-arrestins has been demonstrated through colocalization studies and bioluminescence resonance energy transfer (BRET) techniques (Li2019The; Croker2016Discovery).
+
+C5AR2 also interacts with pattern recognition receptors such as TLR4, influencing the release of inflammatory mediators like HMGB1, TNF-a, and IL-6 in response to stimuli (Li2019The). These interactions suggest that C5AR2 plays a complex role in modulating immune responses, acting as more than just a decoy receptor.
+
+
+## References
+
+
+[1. (Li2019The) Xaria X. Li, John D. Lee, Claudia Kemper, and Trent M. Woodruff. The complement receptor c5ar2: a powerful modulator of innate and adaptive immunity. The Journal of Immunology, 202(12):3339–3348, June 2019. URL: http://dx.doi.org/10.4049/jimmunol.1900371, doi:10.4049/jimmunol.1900371. This article has 102 citations.](https://doi.org/10.4049/jimmunol.1900371)
+
+[2. (Croker2016Discovery) Daniel E Croker, Peter N Monk, Reena Halai, Geraldine Kaeslin, Zoe Schofield, Mike CL Wu, Richard J Clark, Mark AT Blaskovich, Dimitrios Morikis, Christodoulos A Floudas, Matthew A Cooper, and Trent M Woodruff. Discovery of functionally selective c5ar2 ligands: novel modulators of c5a signalling. Immunology &amp; Cell Biology, 94(8):787–795, May 2016. URL: http://dx.doi.org/10.1038/icb.2016.43, doi:10.1038/icb.2016.43. This article has 65 citations.](https://doi.org/10.1038/icb.2016.43)
+
+[3. (Pandey2020Emerging) Shubhi Pandey, Jagannath Maharana, Xaria X. Li, Trent M. Woodruff, and Arun K. Shukla. Emerging insights into the structure and function of complement c5a receptors. Trends in Biochemical Sciences, 45(8):693–705, August 2020. URL: http://dx.doi.org/10.1016/j.tibs.2020.04.004, doi:10.1016/j.tibs.2020.04.004. This article has 62 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tibs.2020.04.004)
+
+[4. (Emtenani2022Differential) Shirin Emtenani, Maike M. Holtsche, Richard Stahlkopf, Daniel L. Seiler, Timothy Burn, Huiqing Liu, Melissa Parker, Kaan Yilmaz, Hasan O. Dikmen, Markus Huber Lang, Christian D. Sadik, Christian M. Karsten, Nina van Beek, Ralf J. Ludwig, Jörg Köhl, and Enno Schmidt. Differential expression of c5ar1 and c5ar2 in innate and adaptive immune cells located in early skin lesions of bullous pemphigoid patients. Frontiers in Immunology, November 2022. URL: http://dx.doi.org/10.3389/fimmu.2022.942493, doi:10.3389/fimmu.2022.942493. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2022.942493)
+
+[5. (SantosLópez2023Structural) Jorge Santos-López, Karla de la Paz, Francisco J. Fernández, and M. Cristina Vega. Structural biology of complement receptors. Frontiers in Immunology, September 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1239146, doi:10.3389/fimmu.2023.1239146. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1239146)
+
+[6. (Zhu2021An) Yumeng Zhu, Xiaochao Wang, Yanqing Xu, Lu Chen, Peipei Ding, Jianfeng Chen, and Weiguo Hu. An integrated analysis of c5ar2 related to malignant properties and immune infiltration of breast cancer. Frontiers in Oncology, September 2021. URL: http://dx.doi.org/10.3389/fonc.2021.736725, doi:10.3389/fonc.2021.736725. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.736725)
+
+[7. (Zhang2017The) Ting Zhang, Malgorzata A. Garstka, and Ke Li. The controversial c5a receptor c5ar2: its role in health and disease. Journal of Immunology Research, 2017:1–16, 2017. URL: http://dx.doi.org/10.1155/2017/8193932, doi:10.1155/2017/8193932. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1155/2017/8193932)

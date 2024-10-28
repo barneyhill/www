@@ -1,0 +1,39 @@
+# SPSB2
+
+## Overview
+SPSB2, or splA/ryanodine receptor domain and SOCS box containing 2, is a gene that encodes a protein involved in the ubiquitin-proteasome system, functioning primarily as an E3 ubiquitin ligase. This protein is characterized by the presence of a SPRY domain, which facilitates protein-protein interactions, and a SOCS box, which is crucial for forming E3 ubiquitin ligase complexes. The SPSB2 protein plays a significant role in cellular processes by targeting specific proteins for degradation, thereby maintaining cellular homeostasis and regulating immune responses and signaling pathways. It is particularly noted for its interaction with inducible nitric oxide synthase (iNOS), which it targets for degradation, highlighting its role in modulating immune responses (Wang2019SPSB2).
+
+## Structure
+The SPSB2 protein is characterized by the presence of a SPRY domain and a SOCS box. The SPRY domain, spanning residues 22-220, is crucial for protein-protein interactions and is involved in binding with target proteins such as inducible nitric oxide synthase (iNOS) and hepatitis C virus (HCV) proteins like NS5A and E1 (Wang2019SPSB2; Li2021Structural). The SOCS box, located at the C-terminal, is approximately 40 residues long and includes a BC box and a Cul5 box, which are essential for recruiting adaptor proteins and forming E3 ubiquitin ligase complexes (Wang2019SPSB2).
+
+The crystal structure of the SPSB2-iNOS complex has been resolved at a high resolution of 1.24 Å, revealing that the iNOS N-terminal peptide binds to a shallow pocket on the SPSB2 SPRY domain. This pocket is formed by loops B, C, D, and E, and the interaction is stabilized by numerous hydrogen bonds involving residues such as Arg68, Pro70, Ala72, Thr102, Tyr120, Val206, Trp207, and Gln209 (Li2021Structural).
+
+SPSB2 also undergoes post-translational modifications, such as ubiquitination, which are mediated by its SOCS box, facilitating the degradation of target proteins (Wang2019SPSB2). The protein's structure and interactions are critical for its role in regulating protein degradation and cellular processes.
+
+## Function
+SPSB2 (splA/ryanodine receptor domain and SOCS box containing 2) is a protein that functions as an E3 ubiquitin ligase, playing a crucial role in the ubiquitin-proteasome system. This system is responsible for the targeted degradation of proteins, which is essential for maintaining cellular homeostasis and regulating various cellular processes. SPSB2 acts as a substrate adaptor, facilitating the ubiquitination and subsequent degradation of specific proteins through its SPRY domain, which is critical for protein-protein interactions (Wang2019SPSB2).
+
+In healthy human cells, SPSB2 is involved in the regulation of immune responses and cellular signaling pathways. It interacts with various cellular proteins, although its specific functions in these contexts are not fully characterized. The protein is active in the cytoplasm, where it participates in the degradation of proteins involved in cell-cycle control, DNA repair, apoptosis, and immune response regulation (Wang2019SPSB2).
+
+While SPSB2's role in healthy cells is not extensively detailed, its involvement in the ubiquitin-proteasome system suggests it plays a significant part in maintaining protein quality control and cellular function (Foster2013Proteomic).
+
+## Interactions
+SPSB2 interacts with inducible nitric oxide synthase (iNOS) to regulate its degradation through the ubiquitin-proteasome pathway. This interaction is mediated by the SPRY domain of SPSB2, specifically involving the Tyr120 residue, which is critical for binding to the N-terminal region of iNOS. The N-terminal region of iNOS contains a conserved DINNN sequence, crucial for this interaction (Kuang2010The). SPSB2 functions as an adaptor protein in an E3 ubiquitin ligase complex, which includes the elongin BC complex, Cullin5, and Rbx2, facilitating the polyubiquitination and subsequent proteasomal degradation of iNOS (Kuang2010The).
+
+SPSB2 also interacts with other proteins, such as the hepatocyte growth factor receptor c-Met, although c-Met does not contain the typical sequence motif for SPSB binding, suggesting alternative interaction sites (Kuang2010The). Additionally, SPSB2 can bind to prostate apoptosis response protein 4 (Par-4) through its SPRY domain, indicating a common mechanism for binding partner recognition by this subclass of SPRY domains (Kuang2010The).
+
+Cyclic peptide inhibitors, such as cR7 and cR9, have been developed to disrupt the SPSB2-iNOS interaction, potentially augmenting nitric oxide production (Li2024Subtle).
+
+
+## References
+
+
+[1. (Kuang2010The) Zhihe Kuang, Rowena S. Lewis, Joan M. Curtis, Yifan Zhan, Bernadette M. Saunders, Jeffrey J. Babon, Tatiana B. Kolesnik, Andrew Low, Seth L. Masters, Tracy A. Willson, Lukasz Kedzierski, Shenggen Yao, Emanuela Handman, Raymond S. Norton, and Sandra E. Nicholson. The spry domain–containing socs box protein spsb2 targets inos for proteasomal degradation. Journal of Cell Biology, 190(1):129–141, July 2010. URL: http://dx.doi.org/10.1083/jcb.200912087, doi:10.1083/jcb.200912087. This article has 84 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.200912087)
+
+[2. (Li2024Subtle) Kefa Li, Yanhong Luo, Weiwei Hu, Jinjin Yang, Danting Zhang, Huan Wei, Tingting You, Hai-Shu Lin, and Zhihe Kuang. Subtle structural differences affect the inhibitory potency of rgd-containing cyclic peptide inhibitors targeting spsb proteins. International Journal of Molecular Sciences, 25(12):6764, June 2024. URL: http://dx.doi.org/10.3390/ijms25126764, doi:10.3390/ijms25126764. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25126764)
+
+[3. (Li2021Structural) Kefa Li, Tingting You, Panqi Zhao, Yanhong Luo, Danting Zhang, Huan Wei, Yuhui Wang, Jinjin Yang, Xueyan Guan, and Zhihe Kuang. Structural basis for the regulation of inducible nitric oxide synthase by the spry domain-containing socs box protein spsb2, an e3 ubiquitin ligase. Nitric Oxide, 113–114:1–6, September 2021. URL: http://dx.doi.org/10.1016/j.niox.2021.04.004, doi:10.1016/j.niox.2021.04.004. This article has 6 citations.](https://doi.org/10.1016/j.niox.2021.04.004)
+
+[4. (Wang2019SPSB2) Mingzhen Wang, Yu Wang, Yuehong Liu, Hailong Wang, Xiu Xin, Jiadai Li, Yao Hao, Lingling Han, Fang Yu, Congyi Zheng, and Chao Shen. Spsb2 inhibits hepatitis c virus replication by targeting ns5a for ubiquitination and degradation. PLOS ONE, 14(7):e0219989, July 2019. URL: http://dx.doi.org/10.1371/journal.pone.0219989, doi:10.1371/journal.pone.0219989. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0219989)
+
+[5. (Foster2013Proteomic) Matthew W. Foster, J. Will Thompson, Michael T. Forrester, Yonggang Sha, Timothy J. McMahon, Dawn E. Bowles, M. Arthur Moseley, and Harvey E. Marshall. Proteomic analysis of the nos2 interactome in human airway epithelial cells. Nitric Oxide, 34:37–46, November 2013. URL: http://dx.doi.org/10.1016/j.niox.2013.02.079, doi:10.1016/j.niox.2013.02.079. This article has 20 citations.](https://doi.org/10.1016/j.niox.2013.02.079)

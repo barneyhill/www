@@ -1,0 +1,43 @@
+# TNFRSF10C
+
+## Overview
+TNFRSF10C, also known as DcR1, is a gene that encodes the protein TNF receptor superfamily member 10c, which is a member of the tumor necrosis factor receptor superfamily. This protein functions as a decoy receptor, primarily interacting with the TNF-related apoptosis-inducing ligand (TRAIL) to regulate apoptosis. Unlike other receptors in its family, TNF receptor superfamily member 10c lacks a cytoplasmic death domain, which prevents it from transmitting apoptotic signals, thereby acting as an antagonistic receptor. This characteristic allows it to modulate apoptotic responses and protect healthy cells from inappropriate apoptosis (Minchenko2016The; Cheng2008Genetic). The expression of TNFRSF10C is regulated by the tumor suppressor protein p53 and is inducible by DNA damage, indicating its involvement in cellular stress responses (Minchenko2016The). The protein's selective expression in normal tissues, but not in cancerous ones, highlights its potential role in maintaining cellular homeostasis and preventing tumorigenesis (Minchenko2016The).
+
+## Function
+TNFRSF10C, also known as DcR1, is a member of the tumor necrosis factor receptor superfamily and functions primarily as a decoy receptor for the TNF-related apoptosis-inducing ligand (TRAIL). In healthy human cells, TNFRSF10C is involved in the regulation of apoptosis by binding to TRAIL, thereby preventing it from interacting with death receptors such as TNFRSF10A and TNFRSF10B, which would otherwise initiate apoptotic signaling (Minchenko2016The; Cheng2008Genetic). This protective mechanism helps maintain cell survival and tissue homeostasis by inhibiting unnecessary apoptosis (Narayan2015Epigenetic; Minchenko2016The).
+
+TNFRSF10C is a glycosylphosphatidylinositol (GPI)-linked membrane protein that lacks a cytoplasmic death domain, which is essential for transmitting apoptotic signals. As a result, it acts as an antagonistic receptor, modulating the apoptotic response and potentially protecting healthy cells from inappropriate apoptosis (Minchenko2016The; Cheng2008Genetic). The expression of TNFRSF10C is regulated by p53, a key tumor suppressor protein, and is inducible by DNA damage, suggesting its role in cellular stress responses (Minchenko2016The). The tissue-restricted expression of TNFRSF10C in normal cells, but not in cancerous tissues, underscores its potential role in maintaining normal cellular function and preventing tumorigenesis (Minchenko2016The).
+
+## Clinical Significance
+Alterations in the TNFRSF10C gene, also known as DcR1, have been implicated in various cancers due to its role as a decoy receptor in the tumor necrosis factor receptor superfamily. In prostate cancer, TNFRSF10C is frequently inactivated through promoter hypermethylation and hemizygous deletion, leading to decreased mRNA expression. This inactivation is observed in a significant proportion of primary prostate cancer cases, suggesting its potential role as a tumor suppressor gene (Cheng2008Genetic). 
+
+In cervical cancer, TNFRSF10C is often epigenetically inactivated by promoter hypermethylation, which may enhance the sensitivity of cancer cells to TRAIL-cisplatin combination therapy. This suggests that TNFRSF10C inactivation could be leveraged for therapeutic purposes (Narayan2015Epigenetic). 
+
+In non-small cell lung cancer, TNFRSF10C hypermethylation is associated with the disease, particularly in male patients and non-smokers, indicating its potential as a biomarker for lung cancer (Qi2020Hypermethylation). 
+
+In colorectal cancer, TNFRSF10C copy number variation, characterized by homozygous deletions, is significantly associated with metastatic disease, highlighting its potential role in cancer progression and as a prognostic marker (Tanenbaum2016TNFRSF10C).
+
+## Interactions
+TNFRSF10C, also known as DcR1, is a decoy receptor that interacts with the TNF-related apoptosis-inducing ligand (TRAIL). Unlike other receptors in the TNF receptor superfamily, TNFRSF10C lacks a functional death domain, which prevents it from transducing apoptotic signals. Instead, it competes with death receptors such as DR4 (TNFRSF10A) and DR5 (TNFRSF10B) for binding to TRAIL, thereby inhibiting TRAIL-induced apoptosis (Tayyeb2019Insilico; Minchenko2016The).
+
+The interaction between TNFRSF10C and TRAIL has been confirmed using AI-based protein interaction screening methods, such as the AISID method, which extends the capabilities of AlphaFold-Multimer. This method successfully predicted the interaction between TNFRSF10C and TRAIL, despite the absence of solved complex structures, demonstrating its potential utility in identifying novel protein interactions (Fu2022AIBased).
+
+TNFRSF10C's role as a decoy receptor is significant in the context of cancer biology, where it is expressed on normal cells but not on cancer cells. This selective expression provides a therapeutic rationale for TRAIL-mediated anti-tumor therapies, as TNFRSF10C can inhibit apoptosis in normal cells while allowing TRAIL to induce apoptosis in cancer cells (Minchenko2016The).
+
+
+## References
+
+
+[1. (Tanenbaum2016TNFRSF10C) Daniel G. Tanenbaum, William A. Hall, Lauren E. Colbert, Amanda J. Bastien, Daniel J. Brat, Jun Kong, Sungjin Kim, Bhakti Dwivedi, Jeanne Kowalski, Jerome C. Landry, and David S. Yu. Tnfrsf10c copy number variation is associated with metastatic colorectal cancer. Journal of Gastrointestinal Oncology, 7(3):306–314, June 2016. URL: http://dx.doi.org/10.21037/jgo.2015.11.04, doi:10.21037/jgo.2015.11.04. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.21037/jgo.2015.11.04)
+
+[2. (Minchenko2016The) O. H. Minchenko, D. O. Tsymbal, D. O. Minchenko, and О. O. Ratushna. The role of the tnf receptors and apoptosis inducing ligands in tumor growth. The Ukrainian Biochemical Journal, 88(5):18–37, October 2016. URL: http://dx.doi.org/10.15407/ubj88.05.018, doi:10.15407/ubj88.05.018. This article has 8 citations.](https://doi.org/10.15407/ubj88.05.018)
+
+[3. (Cheng2008Genetic) Yu Cheng, Jin Woo Kim, Wennuan Liu, Thomas A. Dunn, Jun Luo, Matthew J. Loza, Seong‐Tae Kim, Siqun Lilly Zheng, Jianfeng Xu, William B. Isaacs, and Bao‐Li Chang. Genetic and epigenetic inactivation of tnfrsf10c in human prostate cancer. The Prostate, 69(3):327–335, November 2008. URL: http://dx.doi.org/10.1002/pros.20882, doi:10.1002/pros.20882. This article has 24 citations.](https://doi.org/10.1002/pros.20882)
+
+[4. (Tayyeb2019Insilico) A Tayyeb and ZA Shah. Insilico investigation of tnfsf10 signaling cascade in ovarian serous cystadenocarcinoma. Archives of Cancer Science and Therapy, 3(1):025–034, July 2019. URL: http://dx.doi.org/10.29328/journal.acst.1001005, doi:10.29328/journal.acst.1001005. This article has 0 citations.](https://doi.org/10.29328/journal.acst.1001005)
+
+[5. (Qi2020Hypermethylation) Yuanlin Qi, Lin Qi, Minglian Qiu, Caiyun Yao, Mingfang Zhang, Jianbo Lin, Zhonghua Zheng, Chujia Chen, Hongxiang Li, and Shiwei Duan. Hypermethylation of tumor necrosis factor decoy receptor gene in non‑small lung cancer. Oncology Letters, April 2020. URL: http://dx.doi.org/10.3892/ol.2020.11565, doi:10.3892/ol.2020.11565. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2020.11565)
+
+[6. (Narayan2015Epigenetic) Gopeshwar Narayan, Dongxu Xie, Ganchimeg Ishdorj, Luigi Scotto, Mahesh Mansukhani, Bhavana Pothuri, Jason D. Wright, Andreas M. Kaufmann, Achim Schneider, Hugo Arias‐Pulido, and Vundavalli V. Murty. Epigenetic inactivation of <scp>trail</scp> decoy receptors at 8p12‐21.3 commonly deleted region confers sensitivity to <scp>a</scp>po2l/<scp>trail</scp>‐<scp>c</scp>isplatin combination therapy in cervical cancer. Genes, Chromosomes and Cancer, 55(2):177–189, November 2015. URL: http://dx.doi.org/10.1002/gcc.22325, doi:10.1002/gcc.22325. This article has 18 citations.](https://doi.org/10.1002/gcc.22325)
+
+[7. (Fu2022AIBased) Zheng-Qing Fu, Hansen L. Sha, and Bingdong Sha. Ai-based protein interaction screening and identification (aisid). International Journal of Molecular Sciences, 23(19):11685, October 2022. URL: http://dx.doi.org/10.3390/ijms231911685, doi:10.3390/ijms231911685. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms231911685)

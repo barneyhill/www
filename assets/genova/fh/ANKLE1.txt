@@ -1,0 +1,44 @@
+# ANKLE1
+
+## Overview
+ANKLE1 is a gene that encodes the protein ankyrin repeat and LEM domain containing 1, which is a specialized nuclease involved in DNA repair and genomic stability. The protein is characterized by its unique domain architecture, including ankyrin repeats, a LEM domain, and a GIY-YIG nuclease domain, which collectively contribute to its function in processing complex DNA structures and maintaining chromosomal integrity during cell division (Freeman2023Biochemical; Brachner2012The). ANKLE1 is predominantly expressed in hematopoietic tissues, suggesting a specialized role in these cells, such as lymphocyte development (Brachner2012The). The protein's ability to shuttle between the cytoplasm and nucleus is crucial for preventing accidental genomic damage, and its interactions with the Barrier-to-Autointegration Factor (BAF) highlight its involvement in chromatin organization (Zlopasa2016Nucleocytoplasmic; Brachner2012The). Variants of the ANKLE1 gene have been associated with altered cancer risks, underscoring its potential as a therapeutic target in oncology (Tian2019ANKLE1; Bakshi2021ANKLE1).
+
+## Structure
+The ANKLE1 protein is characterized by a unique domain architecture that includes ankyrin repeats, a LEM domain, and a GIY-YIG nuclease domain. The primary structure of ANKLE1 consists of 615 amino acids in humans, with a predicted molecular weight of approximately 65 kDa (Brachner2012The). The protein's secondary structure is predicted to resemble other GIY-YIG nucleases, featuring three antiparallel β-strands surrounded by α-helices (Freeman2023Biochemical).
+
+The LEM domain is centrally located within the polypeptide and is crucial for chromatin binding, interacting with the Barrier-to-Autointegration Factor (BAF) (Brachner2012The). The GIY-YIG domain, located at the C-terminal, is responsible for the protein's endonuclease activity and is highly conserved across species (Brachner2012The). Key residues within this domain, such as Y453, Y486, H498, E551, and N565, are essential for catalytic function (Freeman2023Biochemical).
+
+ANKLE1 lacks transmembrane domains, allowing it to shuttle between the cytoplasm and nucleus (Brachner2012The). A splice variant, ANKLE1b, lacks the LEM domain, which affects its DNA damage response capability (Brachner2012The). The protein functions as a monomer, unlike other nucleases that often form dimers (Freeman2023Biochemical).
+
+## Function
+ANKLE1 is a nuclease involved in DNA repair and genomic stability in healthy human cells. It encodes a protein that contains a GIY-YIG endonuclease domain, which is crucial for its DNA cleavage activity. This domain allows ANKLE1 to process branched DNA structures, such as splayed Y-junctions and four-way DNA junctions, which are important for resolving DNA junctions during cell division (Freeman2023Biochemical). ANKLE1's activity is essential for removing physical connections between sister chromatids, preventing chromosomal linkages that could block cell division (Freeman2023Biochemical).
+
+The protein shuttles between the cytoplasm and the nucleus, with its localization regulated by nuclear export and import signals. This shuttling is thought to prevent accidental genomic damage due to its endonuclease activity (Zlopasa2016Nucleocytoplasmic). ANKLE1 is predominantly expressed in hematopoietic tissues, suggesting a role in processes specific to these tissues, such as lymphocyte development (Brachner2012The). Its function in DNA repair pathways is supported by its ability to induce a DNA damage response when localized in the nucleus (Brachner2012The).
+
+## Clinical Significance
+Mutations and alterations in the ANKLE1 gene have been associated with various cancers, including colorectal and breast cancer. In colorectal cancer (CRC), the rs8100241 variant of ANKLE1, which involves a G>A change (Ala>Thr), is linked to a decreased risk of CRC in the Chinese population. This variant increases ANKLE1 m6A modification levels and protein expression, suggesting a tumor-suppressive role by inhibiting CRC cell proliferation and maintaining genomic stability (Tian2019ANKLE1).
+
+In breast cancer, particularly in the Indian population, the rs2363956 variant of ANKLE1 is associated with a lower risk of breast cancer. The GT genotype at this variant shows a protective effect compared to the GG genotype. ANKLE1's role in DNA repair is highlighted by its ability to reduce DNA damage in breast cancer cells treated with DNA-damaging agents like cisplatin. Increased ANKLE1 expression correlates with decreased levels of γH2AX, a marker of DNA damage, indicating its involvement in DNA repair pathways (Bakshi2021ANKLE1).
+
+ANKLE1's endonuclease activity, facilitated by its GIY-YIG motif, is crucial for its function in DNA cleavage and damage signaling, further supporting its role in maintaining genomic stability and its potential as a therapeutic target in cancer treatment (Brachner2012The).
+
+## Interactions
+ANKLE1 interacts with the Barrier-to-Autointegration Factor (BAF) through its LEM domain. This interaction was demonstrated using in vitro pull-down assays, where full-length ANKLE1 co-precipitated with BAF, indicating a direct binding interaction. The LEM domain is crucial for this interaction, as a truncated version of ANKLE1 lacking the LEM domain did not bind BAF. This suggests that the LEM domain is essential for ANKLE1's ability to interact with BAF (Brachner2012The).
+
+ANKLE1 also exhibits DNA binding and cleavage activity. It binds to splayed Y-junction DNA with high affinity, as shown by fluorescence anisotropy experiments, and cleaves branched DNA structures, including Holliday junctions. The binding affinity is influenced by pH, with reduced affinity at higher pH levels (Freeman2023Biochemical). The GIY-YIG domain of ANKLE1 is responsible for its endonuclease activity, cleaving supercoiled plasmid DNA into relaxed circular and linearized forms. This activity is dependent on specific conserved residues within the GIY-YIG motif (Brachner2012The).
+
+ANKLE1's interaction with DNA and BAF suggests its involvement in chromatin organization and DNA repair processes, particularly in hematopoietic tissues where it is predominantly expressed (Brachner2012The).
+
+
+## References
+
+
+[1. (Tian2019ANKLE1) Jianbo Tian, Pingting Ying, Juntao Ke, Ying Zhu, Yang Yang, Yajie Gong, Danyi Zou, Xiating Peng, Nan Yang, Xiaoyang Wang, Shufang Mei, Yuxing Zhang, Changyi Wang, Rong Zhong, Jiang Chang, and Xiaoping Miao. Ankle1 n6‐methyladenosine‐related variant is associated with colorectal cancer risk by maintaining the genomic stability. International Journal of Cancer, 146(12):3281–3293, November 2019. URL: http://dx.doi.org/10.1002/ijc.32677, doi:10.1002/ijc.32677. This article has 38 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/ijc.32677)
+
+[2. (Brachner2012The) Andreas Brachner, Juliane Braun, Medini Ghodgaonkar, Dennis Castor, Livija Zlopasa, Veronika Ehrlich, Josef Jiricny, Josef Gotzmann, Siegfried Knasmüller, and Roland Foisner. The endonuclease ankle1 requires its lem and giy-yig motifs for dna cleavage in vivo. Journal of Cell Science, 125(4):1048–1057, February 2012. URL: http://dx.doi.org/10.1242/jcs.098392, doi:10.1242/jcs.098392. This article has 49 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.098392)
+
+[3. (Zlopasa2016Nucleocytoplasmic) Livija Zlopasa, Andreas Brachner, and Roland Foisner. Nucleo-cytoplasmic shuttling of the endonuclease ankyrin repeats and lem domain-containing protein 1 (ankle1) is mediated by canonical nuclear export- and nuclear import signals. BMC Cell Biology, June 2016. URL: http://dx.doi.org/10.1186/s12860-016-0102-z, doi:10.1186/s12860-016-0102-z. This article has 7 citations.](https://doi.org/10.1186/s12860-016-0102-z)
+
+[4. (Bakshi2021ANKLE1) Divya Bakshi, Archana Katoch, Souneek Chakraborty, Ruchi Shah, Bhanu Sharma, Amrita Bhat, Sonali Verma, Gh. Rasool Bhat, Ashna Nagpal, Samantha Vaishnavi, Anindya Goswami, and Rakesh Kumar. Ankle1 as new hotspot mutation for breast cancer in indian population and has a role in dna damage and repair in mammalian cells. Frontiers in Genetics, January 2021. URL: http://dx.doi.org/10.3389/fgene.2020.609758, doi:10.3389/fgene.2020.609758. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2020.609758)
+
+[5. (Freeman2023Biochemical) Alasdair D J Freeman, Anne-Cécile Déclais, Timothy J Wilson, and David M J Lilley. Biochemical and mechanistic analysis of the cleavage of branched dna by human ankle1. Nucleic Acids Research, 51(11):5743–5754, May 2023. URL: http://dx.doi.org/10.1093/nar/gkad416, doi:10.1093/nar/gkad416. This article has 3 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkad416)

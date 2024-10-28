@@ -1,0 +1,29 @@
+# EFHB
+
+## Overview
+EFHB is a gene that encodes the protein EF-hand domain family member B, which is characterized by the presence of two EF-hand domains. These domains are integral to the protein's function in calcium signaling pathways, particularly in the regulation of store-operated calcium entry (SOCE). EFHB acts as a cytosolic calcium sensor, facilitating interactions between key proteins such as STIM1 and Orai1, which are essential for calcium homeostasis within cells (Wang2021Proteins; Jardin2021SARAF). While EFHB's role in healthy cells appears to be subtle and context-dependent, its expression and function are notably altered in certain cancer cells, such as those in breast cancer, where it contributes to enhanced cell proliferation and migration (Jardin2021SARAF). This makes EFHB a potential target for therapeutic interventions in cancer treatment.
+
+## Function
+EFHB (EF-hand domain family member B) is a cytosolic protein characterized by the presence of two EF-hand domains, which are crucial for its role in calcium signaling pathways. These domains facilitate the interaction between STIM1 and Orai1, leading to the activation of store-operated calcium entry (SOCE), a process essential for maintaining calcium homeostasis within cells (Jardin2021SARAF). EFHB is involved in the regulation of calcium influx, which is necessary for various cellular functions such as cell survival, proliferation, and migration (Jardin2021SARAF).
+
+In healthy human cells, EFHB's role in SOCE is likely important due to its involvement in fundamental cellular processes, although its specific function in non-cancerous cells is less pronounced compared to its role in cancer cells (Jardin2021SARAF). In non-cancerous breast epithelial cells, such as the MCF10A cell line, EFHB expression is low, and its knockdown does not significantly affect SOCE, suggesting a limited role in these cells (Jardin2021SARAF). This indicates that while EFHB is crucial for calcium signaling in certain contexts, its function in healthy cells may be more subtle and context-dependent.
+
+## Clinical Significance
+EFHB (EF-hand domain family member B) has been implicated in the progression of breast cancer, particularly in estrogen receptor-positive (ER+) and triple-negative breast cancer (TNBC) cells. Alterations in EFHB expression are associated with increased cell proliferation, migration, and viability, which are critical for cancer progression (Jardin2021SARAF). EFHB is overexpressed in these cancer cells compared to pre-neoplastic cells, suggesting its role in the malignancy of breast cancer (Jardin2021SARAF).
+
+The gene plays a crucial role in store-operated calcium entry (SOCE), a process vital for maintaining calcium homeostasis in cells. In breast cancer cells, EFHB facilitates the interaction between STIM1 and Orai1, leading to calcium influx, which supports enhanced proliferation and migration (Jardin2021SARAF). Knockdown of EFHB in breast cancer cell lines MCF7 and MDA-MB-231 results in reduced cell proliferation, migration, and viability, indicating its critical role in these processes (Jardin2021SARAF).
+
+These findings suggest that EFHB's altered expression or function could contribute to breast cancer progression, making it a potential target for therapeutic intervention (Jardin2021SARAF).
+
+## Interactions
+EFHB, a cytosolic protein with two EF-hand domains, is involved in store-operated calcium entry (SOCE) through its interactions with other proteins. It co-immunoprecipitates with STIM1 and ORAI1, and these interactions are enhanced upon the release of calcium from the endoplasmic reticulum (ER) (Wang2021Proteins). Knockdown of EFHB reduces the interaction between STIM1 and ORAI1, which is induced by thapsigargin, while overexpression of EFHB enhances this interaction. This suggests that EFHB plays a role in facilitating the STIM1-ORAI1 interaction necessary for SOCE (Wang2021Proteins).
+
+EFHB also appears to compete with SARAF for binding to STIM1. The interactions between EFHB-STIM1 and SARAF-STIM1 are inversely related, indicating a competitive binding mechanism. Overexpression of SARAF reduces the amount of EFHB co-immunoprecipitated with STIM1, while silencing EFHB maintains high levels of SARAF-STIM1 co-immunoprecipitation. SARAF does not directly co-immunoprecipitate with EFHB, supporting the idea that EFHB competes with SARAF for STIM1 binding (Wang2021Proteins). These interactions suggest that EFHB acts as a cytosolic calcium sensor that regulates SOCE and SARAF-mediated calcium-dependent inactivation (CDI) (Wang2021Proteins).
+
+
+## References
+
+
+[1. (Wang2021Proteins) Wen-An Wang and Nicolas Demaurex. Proteins Interacting with STIM1 and Store-Operated Ca2+ Entry, pages 51–97. Springer International Publishing, 2021. URL: http://dx.doi.org/10.1007/978-3-030-67696-4_4, doi:10.1007/978-3-030-67696-4_4. This article has 6 citations.](https://doi.org/10.1007/978-3-030-67696-4_4)
+
+[2. (Jardin2021SARAF) Isaac Jardin, Joel Nieto-Felipe, Sandra Alvarado, Raquel Diez-Bello, Jose J. Lopez, Ginés M. Salido, Tarik Smani, and Juan A. Rosado. Saraf and efhb modulate store-operated ca2+ entry and are required for cell proliferation, migration and viability in breast cancer cells. Cancers, 13(16):4160, August 2021. URL: http://dx.doi.org/10.3390/cancers13164160, doi:10.3390/cancers13164160. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13164160)

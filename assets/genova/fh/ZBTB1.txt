@@ -1,0 +1,52 @@
+# ZBTB1
+
+## Overview
+ZBTB1 is a gene that encodes the zinc finger and BTB domain containing 1 protein, which is a member of the BTB/POZ domain-containing zinc finger protein family. This protein functions primarily as a transcriptional repressor and plays a crucial role in maintaining genomic stability through its involvement in DNA repair processes, particularly translesion DNA synthesis (TLS) (Kim2014Transcriptional). The ZBTB1 protein is characterized by an N-terminal BTB/POZ domain and multiple C2H2-type zinc finger motifs, which facilitate protein-protein interactions and DNA binding, respectively (Liu2011Novel). It is involved in chromatin remodeling and immune cell differentiation, highlighting its significance in both genomic maintenance and immune system development (Punwani2012Transcription). Mutations or altered expression of ZBTB1 have been implicated in various clinical conditions, including cancer and immune disorders, underscoring its potential as a therapeutic target (Williams2020ZBTB1; Cheng2021Preliminary).
+
+## Structure
+The ZBTB1 protein is a member of the BTB/POZ domain-containing zinc finger protein family, characterized by a distinct molecular structure. It consists of 713 amino acids and features an N-terminal BTB/POZ domain and eight C2H2-type zinc finger motifs at the C-terminus (Kim2014Transcriptional; Liu2011Novel). The BTB/POZ domain, approximately 100 amino acids in length, is evolutionarily conserved and facilitates protein-protein interactions, promoting homomerization or heteromerization (Liu2011Novel). This domain is also involved in transcriptional repression by recruiting corepressor proteins and histone deacetylases to target gene promoters (Liu2011Novel).
+
+The zinc finger motifs, particularly the C2H2 type, are involved in DNA binding and are characterized by a conserved sequence (Liu2011Novel). One of these zinc fingers includes a specialized UBZ4 domain, crucial for DNA repair functions, particularly in the monoubiquitination of PCNA following UV damage (Kim2014Transcriptional). The BTB domain also acts as a substrate-specific adaptor for a CUL-3 E3 ubiquitin ligase, targeting proteins for degradation (Kim2014Transcriptional).
+
+ZBTB1 is localized in the nucleus, forming dot-like structures, and functions as a transcriptional repressor, particularly inhibiting the transcriptional activities of the cAMP response element (CRE) (Liu2011Novel).
+
+## Function
+The ZBTB1 gene encodes a transcriptional repressor protein that plays a critical role in several molecular processes within healthy human cells. ZBTB1 is involved in the regulation of translesion DNA synthesis (TLS), a mechanism that allows DNA replication to bypass lesions such as those induced by UV damage. It contains a UBZ4 domain essential for its recruitment to DNA damage sites, where it facilitates the monoubiquitination of proliferating cell nuclear antigen (PCNA), a key step in TLS (Kim2014Transcriptional). This process is crucial for maintaining genomic stability and preventing replication fork stalling (Kim2014Transcriptional).
+
+ZBTB1 also plays a significant role in chromatin remodeling, which is necessary for the recruitment of DNA repair factors. It interacts with KAP-1, a component of the chromatin remodeling complex, to promote chromatin relaxation and facilitate DNA repair (Kim2014Transcriptional). In addition to its role in DNA repair, ZBTB1 is involved in the development of immune cells, particularly in the differentiation of lymphoid cells, by acting as a transcriptional repressor in lymphoid lineage commitment and differentiation (Punwani2012Transcription).
+
+## Clinical Significance
+Mutations and altered expression of the ZBTB1 gene have significant clinical implications, particularly in cancer and immune system disorders. In leukemia, ZBTB1 is crucial for asparagine synthesis, and its loss sensitizes leukemia cells to L-asparaginase, a chemotherapeutic agent. This suggests that targeting ZBTB1 could enhance the efficacy of asparagine deprivation therapies in treating leukemia, especially T-cell acute lymphoblastic leukemias (Williams2020ZBTB1).
+
+In pancreatic carcinoma, ZBTB1 is overexpressed, particularly in cases with lymph node metastasis, indicating its role in maintaining the malignant phenotype and promoting tumor metastasis. However, its expression does not significantly correlate with overall survival, though it is linked to relapse-free survival (Cheng2021Preliminary).
+
+ZBTB1 also plays a role in DNA repair processes. Mutations in ZBTB1, especially those affecting the UBZ4 domain, are found in cancer genomes and may contribute to cancer pathogenesis by impairing translesion DNA synthesis, leading to increased replication stress and chromosomal aberrations (Kim2014Transcriptional).
+
+In immune progenitors, ZBTB1 is essential for maintaining genome integrity and preventing p53-mediated apoptosis. Deficiency or mutations in ZBTB1 lead to increased DNA damage and apoptosis, affecting lymphoid and myeloid development (Cao2016Zbtb1).
+
+## Interactions
+ZBTB1 is a transcription factor that participates in several interactions with other proteins and complexes, influencing its role in gene regulation. It is known to interact with the TRIM28/NuRD complex, guiding them to sites of DNA damage in human cells. This interaction facilitates chromatin remodeling and increases the accessibility of RAD18, which is crucial for initiating translesion DNA synthesis, thereby maintaining genome integrity during B cell replication and differentiation (Zhu2018Regulation).
+
+ZBTB1 also associates with the TRIM28/NuRD complex in thymic T-cell development, where it plays a role in chromatin remodeling and translesion DNA synthesis, contributing to genome integrity and preventing TP53-mediated apoptosis (Cheng2021ZBTB). The BTB/POZ domain of ZBTB1 is involved in protein-protein interactions, potentially through homo-dimerization, and may recruit corepressor proteins like SMRT and N-CoR, which are known to recruit histone deacetylases to silence target genes (Liu2011Novel).
+
+ZBTB1's interactions extend to its role as a transcriptional repressor, where it inhibits the transcriptional activities of the cAMP response element (CRE), suggesting a regulatory role in gene expression (Liu2011Novel). These interactions highlight ZBTB1's multifaceted role in transcriptional regulation and genome maintenance.
+
+
+## References
+
+
+[1. (Williams2020ZBTB1) Robert T. Williams, Rohiverth Guarecuco, Leah A. Gates, Douglas Barrows, Maria C. Passarelli, Bryce Carey, Lou Baudrier, Swarna Jeewajee, Konnor La, Benjamin Prizer, Sohail Malik, Javier Garcia-Bermudez, Xiphias Ge Zhu, Jason Cantor, Henrik Molina, Thomas Carroll, Robert G. Roeder, Omar Abdel-Wahab, C. David Allis, and Kıvanç Birsoy. Zbtb1 regulates asparagine synthesis and leukemia cell response to l-asparaginase. Cell Metabolism, 31(4):852-861.e6, April 2020. URL: http://dx.doi.org/10.1016/j.cmet.2020.03.008, doi:10.1016/j.cmet.2020.03.008. This article has 43 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cmet.2020.03.008)
+
+[2. (Zhu2018Regulation) Can Zhu, Ge Chen, Ying Zhao, Xiao-Ming Gao, and Jun Wang. Regulation of the development and function of b cells by zbtb transcription factors. Frontiers in Immunology, March 2018. URL: http://dx.doi.org/10.3389/fimmu.2018.00580, doi:10.3389/fimmu.2018.00580. This article has 55 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2018.00580)
+
+[3. (Kim2014Transcriptional) Hyungjin Kim, Donniphat Dejsuphong, Guillaume Adelmant, Raphael Ceccaldi, Kailin Yang, Jarrod A. Marto, and Alan D. D’Andrea. Transcriptional repressor zbtb1 promotes chromatin remodeling and translesion dna synthesis. Molecular Cell, 54(1):107–118, April 2014. URL: http://dx.doi.org/10.1016/j.molcel.2014.02.017, doi:10.1016/j.molcel.2014.02.017. This article has 46 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2014.02.017)
+
+[4. (Cao2016Zbtb1) Xin Cao, Ying Lu, Xianyu Zhang, and Damian Kovalovsky. Zbtb1 safeguards genome integrity and prevents p53-mediated apoptosis in proliferating lymphoid progenitors. The Journal of Immunology, 197(4):1199–1211, August 2016. URL: http://dx.doi.org/10.4049/jimmunol.1600013, doi:10.4049/jimmunol.1600013. This article has 13 citations.](https://doi.org/10.4049/jimmunol.1600013)
+
+[5. (Punwani2012Transcription) Divya Punwani, Karen Simon, Youngnim Choi, Amalia Dutra, Diana Gonzalez-Espinosa, Evgenia Pak, Martin Naradikian, Chang-Hwa Song, Jenny Zhang, David M. Bodine, and Jennifer M. Puck. Transcription factor zinc finger and btb domain 1 is essential for lymphocyte development. The Journal of Immunology, 189(3):1253–1264, August 2012. URL: http://dx.doi.org/10.4049/jimmunol.1200623, doi:10.4049/jimmunol.1200623. This article has 27 citations.](https://doi.org/10.4049/jimmunol.1200623)
+
+[6. (Cheng2021Preliminary) Ming‐yang Cheng, Yan Zeng, Yu Sun, Chun‐wei Shi, Jun‐hong Wang, Feng‐di Li, Yi‐yuan Lu, Jing‐Ying Wang, Ru‐Yu Wang, Xin‐yang Li, Xiao‐xu Li, Shu‐hui Fan, Gui‐lian Yang, Xin Cao, Bin Xu, and Chun‐feng Wang. Preliminary analysis of the expression of zbtb1 in human pancreatic carcinoma. Journal of Cellular and Molecular Medicine, 25(17):8573–8576, July 2021. URL: http://dx.doi.org/10.1111/jcmm.16804, doi:10.1111/jcmm.16804. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/jcmm.16804)
+
+[7. (Liu2011Novel) Qingmei Liu, Feng Yao, Minghua Wang, Bin Zhou, Hongxia Cheng, Weiping Wang, Li Jin, Qiang Lin, and Jiu-Cun Wang. Novel human btb/poz domain-containing zinc finger protein zbtb1 inhibits transcriptional activities of cre. Molecular and Cellular Biochemistry, 357(1–2):405–414, June 2011. URL: http://dx.doi.org/10.1007/s11010-011-0911-5, doi:10.1007/s11010-011-0911-5. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11010-011-0911-5)
+
+[8. (Cheng2021ZBTB) Zhong-Yan Cheng, Ting-Ting He, Xiao-Ming Gao, Ying Zhao, and Jun Wang. Zbtb transcription factors: key regulators of the development, differentiation and effector function of t cells. Frontiers in Immunology, July 2021. URL: http://dx.doi.org/10.3389/fimmu.2021.713294, doi:10.3389/fimmu.2021.713294. This article has 51 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2021.713294)

@@ -1,0 +1,48 @@
+# NPM3
+
+## Overview
+NPM3 is a gene that encodes the protein nucleophosmin/nucleoplasmin 3, a member of the nucleophosmin/nucleoplasmin family, which is primarily involved in ribosome biogenesis and chromatin remodeling. The NPM3 protein functions as a molecular chaperone within the nucleus, interacting with nucleolar proteins and histones to regulate various cellular processes. It is characterized by a distinct structural configuration, including a folded N-terminal region and a C-terminal nucleic acid binding domain, which facilitate its role in chromatin dynamics and ribosome production (Shackleford2001Cloning; Okuwaki2012Function). NPM3 is expressed in multiple human tissues, with notable expression in the pancreas and testis, and has been implicated in several physiological and pathological processes, including cancer progression and adipose tissue metabolism (Shackleford2001Cloning; Wei2023NPM3).
+
+## Structure
+NPM3 is a member of the nucleophosmin/nucleoplasmin family and exhibits distinct structural characteristics compared to other family members. The primary structure of NPM3 is highly similar to its mouse ortholog, with 87% identity and 95% similarity, and is three amino acids longer in humans (Shackleford2001Cloning). The protein contains multiple potential phosphorylation sites, which may involve kinases such as casein kinase I and II, protein kinase A and C, glycogen synthase kinase 3, and calmodulin-dependent protein kinase II (Shackleford2001Cloning).
+
+The secondary and tertiary structures of NPM3 include a folded N-terminal region forming a typical NPM core structure, characterized by a compact domain with an eight-stranded beta-barrel (Okuwaki2012Function). This structure is similar to other NPM proteins, although NPM3 does not efficiently form higher-order oligomers like pentamers or decamers, primarily forming dimers in solution (Okuwaki2012Function).
+
+NPM3 contains an acidic domain for histone binding and a C-terminal nucleic acid binding domain, along with a putative nuclear localization signal formed by a cluster of basic residues and glycines at the C-terminus (Shackleford2001Cloning; Wei2023NPM3). These features suggest its role as a molecular chaperone within the nucleus (Shackleford2001Cloning).
+
+## Function
+NPM3 (nucleophosmin/nucleoplasmin 3) is a protein that plays a significant role in ribosome biogenesis and chromatin remodeling in healthy human cells. It is primarily localized in the nucleolus and interacts with the nucleolar protein B23/nucleophosmin (NPM1), influencing ribosome biogenesis by inhibiting pre-rRNA transcription and processing. This interaction is crucial for the regulation of ribosome production, as NPM3 overexpression leads to a reduction in 18S and 28S rRNA production, indicating its role as a negative regulator of ribosome biogenesis (Huang2005Protein).
+
+NPM3 is also involved in chromatin remodeling, particularly during sperm chromatin decondensation and nucleosome assembly. It functions as a histone chaperone, although its activity is significantly enhanced when forming hetero-oligomers with NPM1. This interaction modulates NPM1's histone chaperone activity while repressing its RNA-binding and ribosome biogenesis activities, suggesting that NPM3's primary role is to regulate NPM1's functions in chromatin dynamics (Scott2016Nucleolin; Okuwaki2012Function).
+
+NPM3 is expressed in various human tissues, with the highest levels in the pancreas and testis, indicating its fundamental role in cellular processes across different tissues (Shackleford2001Cloning).
+
+## Clinical Significance
+NPM3 has been implicated in various diseases, particularly lung adenocarcinoma (LUAD), a subtype of non-small cell lung cancer. Studies have identified NPM3 as an oncogenic factor in LUAD, where its expression is significantly upregulated in tumor tissues. This overexpression is associated with poor prognosis and advanced clinical stages, potentially driven by decreased promoter methylation levels (Wei2023NPM3). High NPM3 expression correlates with increased mutation frequencies of several genes, including the tumor suppressor TP53, suggesting a role in tumor progression (Wei2023NPM3). NPM3 expression is also linked to an immunosuppressive tumor microenvironment, as it negatively correlates with the infiltration of immune cells such as B cells and CD4 T cells, which may contribute to tumor growth and immune evasion (Wei2023NPM3).
+
+In addition to its role in cancer, NPM3 is involved in the browning of white adipose tissue (WAT), a process that can influence metabolic health. NPM3, carried by small extracellular vesicles from brown adipose tissue, promotes WAT browning by stabilizing PRDM16 mRNA, which is crucial for thermogenic gene expression. This function suggests potential implications for obesity management, as NPM3's activity in adipose tissue browning could enhance energy expenditure and improve metabolic parameters (Zhang2022Nucleophosmin3).
+
+## Interactions
+NPM3 interacts with the multifunctional nucleolar protein B23/nucleophosmin (NPM1). This interaction was identified using a yeast two-hybrid assay and confirmed through co-immunoprecipitation experiments in mammalian cells. NPM3 and B23 form a stable complex resistant to high salt concentrations, suggesting hydrophobic interactions. The interaction does not require RNA, indicating a direct protein-protein interaction. The oligomerization domain of B23 is crucial for its interaction with NPM3, while the nucleic acid binding domain is not necessary. The N-terminal region of NPM3, specifically amino acids 30-90, is required for interaction with B23 (Huang2005Protein).
+
+NPM3 also interacts with histones, particularly showing a higher affinity for the H4 tail peptide compared to the H3 tail peptide. It binds to histones H3 and H4, although the H3 tail domain alone shows little binding activity. This interaction was confirmed through pull-down assays and Western blot analysis (Motoi2008Identification).
+
+NPM3 forms oligomers with NPM1, affecting the RNA-binding activity of NPM1 and increasing its mobility. NPM3 alone cannot form homopentamers or decamers but associates with NPM1 to form a pentamer, which can further assemble into a decamer (Okuwaki2012Function).
+
+
+## References
+
+
+[1. (Scott2016Nucleolin) Daniel D. Scott and Marlene Oeffinger. Nucleolin and nucleophosmin: nucleolar proteins with multiple functions in dna repair. Biochemistry and Cell Biology, 94(5):419–432, October 2016. URL: http://dx.doi.org/10.1139/bcb-2016-0068, doi:10.1139/bcb-2016-0068. This article has 101 citations.](https://doi.org/10.1139/bcb-2016-0068)
+
+[2. (Motoi2008Identification) Natsuki Motoi, Ken‐ichi Suzuki, Ryuichi Hirota, Penny Johnson, Ken Oofusa, Yutaka Kikuchi, and Katsutoshi Yoshizato. Identification and characterization of nucleoplasmin 3 as a histone‐binding protein in embryonic stem cells. Development, Growth &amp; Differentiation, 50(5):307–320, May 2008. URL: http://dx.doi.org/10.1111/j.1440-169x.2008.01034.x, doi:10.1111/j.1440-169x.2008.01034.x. This article has 20 citations.](https://doi.org/10.1111/j.1440-169x.2008.01034.x)
+
+[3. (Shackleford2001Cloning) Gregory M Shackleford, Amit Ganguly, and Craig A MacArthur. Cloning, expression and nuclear localization of human npm3, a member of the nucleophosmin/nucleoplasmin family of nuclear chaperones. BMC Genomics, November 2001. URL: http://dx.doi.org/10.1186/1471-2164-2-8, doi:10.1186/1471-2164-2-8. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2164-2-8)
+
+[4. (Okuwaki2012Function) M. Okuwaki, A. Sumi, M. Hisaoka, A. Saotome-Nakamura, S. Akashi, Y. Nishimura, and K. Nagata. Function of homo- and hetero-oligomers of human nucleoplasmin/nucleophosmin family proteins npm1, npm2 and npm3 during sperm chromatin remodeling. Nucleic Acids Research, 40(11):4861–4878, February 2012. URL: http://dx.doi.org/10.1093/nar/gks162, doi:10.1093/nar/gks162. This article has 69 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gks162)
+
+[5. (Huang2005Protein) Nian Huang, Sandeep Negi, Attila Szebeni, and Mark O.J. Olson. Protein npm3 interacts with the multifunctional nucleolar protein b23/nucleophosmin and inhibits ribosome biogenesis. Journal of Biological Chemistry, 280(7):5496–5502, February 2005. URL: http://dx.doi.org/10.1074/jbc.m407856200, doi:10.1074/jbc.m407856200. This article has 73 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m407856200)
+
+[6. (Wei2023NPM3) Shan Wei, Jing Xing, Kaining Lu, Kai Wang, and Wanjun Yu. Npm3 as a novel oncogenic factor and poor prognostic marker contributes to cell proliferation and migration in lung adenocarcinoma. Hereditas, May 2023. URL: http://dx.doi.org/10.1186/s41065-023-00289-6, doi:10.1186/s41065-023-00289-6. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s41065-023-00289-6)
+
+[7. (Zhang2022Nucleophosmin3) Yan Zhang, Mei Yu, Jia Dong, Yue Wu, and Weidong Tian. Nucleophosmin3 carried by small extracellular vesicles contribute to white adipose tissue browning. Journal of Nanobiotechnology, March 2022. URL: http://dx.doi.org/10.1186/s12951-022-01381-1, doi:10.1186/s12951-022-01381-1. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12951-022-01381-1)

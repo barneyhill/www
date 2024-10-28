@@ -1,0 +1,36 @@
+# FAM114A2
+
+## Overview
+FAM114A2 is a gene that encodes a protein belonging to the family with sequence similarity 114 member A2. This protein is categorized as a peripheral membrane protein and plays a crucial role in the recycling of Golgi enzymes by acting as an adaptor in intra-Golgi transport vesicles. It is involved in binding to Rab2 and Golgi resident membrane proteins, facilitating the recruitment of these proteins into COPI-coated vesicles, which are essential for maintaining Golgi function and glycosylation processes (Welch2024The). The FAM114A2 protein's interactions are characterized by its affinity for the cytoplasmic tails of Golgi resident enzymes, particularly those with membrane-proximal basic residues, which underscores its role in intracellular trafficking and Golgi organization (Welch2024The). Additionally, the gene has been implicated in various cancers, where alterations in its expression, particularly in its circular RNA form, circFAM114A2, have been associated with cancer progression and chemotherapy sensitivity (Lu2020CircFAM114A2; Lv2021CircFAM114A2).
+
+## Structure
+
+
+## Function
+The FAM114A2 protein is involved in the recycling of Golgi enzymes, functioning as an adaptor in intra-Golgi transport vesicles. It binds to Rab2 and Golgi resident membrane proteins, specifically enriching a variety of Golgi-resident membrane proteins, many of which are presumptive intra-Golgi COPI cargo proteins such as glycosyltransferases (Welch2024The). FAM114A2 is predicted to be a peripheral membrane protein, likely interacting with the cytoplasmic tails of Golgi resident proteins through membrane-proximal polybasic residues. This interaction is similar to that of COPI adaptors GOLPH3 and GOLPH3L (Welch2024The).
+
+In Drosophila, deletion of the FAM114A gene results in defects in glycosylation, indicating its role in maintaining Golgi function. FAM114A proteins help recruit Golgi resident enzymes into COPI-coated vesicles, essential for recycling membrane proteins within the Golgi stack (Welch2024The). Although deletion of FAM114A genes in U2OS cells did not significantly affect Golgi function, the Drosophila ortholog interacts with the COPI coat and Golgi resident proteins, suggesting a potential role in Golgi function and intracellular trafficking (Welch2024The).
+
+## Clinical Significance
+FAM114A2 has been implicated in various cancers, particularly urothelial carcinoma and bladder cancer, through alterations in its expression levels. In urothelial carcinoma, circFAM114A2, a circular RNA derived from the FAM114A2 gene, is significantly downregulated. This downregulation is associated with reduced sensitivity to cisplatin, a common chemotherapy drug. Overexpression of circFAM114A2 enhances cisplatin sensitivity by sponging miR-222-3p and miR-146a-5p, which in turn affects the expression of tumor suppressor genes P27 and P21, crucial for cell cycle regulation and apoptosis (Lv2021CircFAM114A2).
+
+In bladder cancer, circFAM114A2 is also found to be downregulated, correlating with higher tumor grades and poorer survival outcomes. Its overexpression inhibits cancer cell proliferation and enhances cisplatin sensitivity through similar molecular pathways involving miR-222-3p and miR-146a-5p (Lu2020CircFAM114A2).
+
+Additionally, hypomethylation of the FAM114A2 gene has been observed in ovarian cancer, suggesting a potential role in the disease's pathogenesis, although the specific clinical implications require further investigation (Erdogan2020Genome‑wide). These findings highlight the potential of FAM114A2 as a prognostic biomarker and therapeutic target in cancer treatment.
+
+## Interactions
+The FAM114A2 protein is involved in several interactions with other proteins, particularly within the Golgi apparatus. It is known to bind directly to the cytoplasmic tails of Golgi resident enzymes through membrane-proximal basic residues. This interaction is crucial for recruiting Golgi enzymes into COPI-coated vesicles, which are essential for maintaining the organization and levels of glycosylation enzymes and other Golgi residents (Welch2024The). FAM114A2 interacts with Rab2A and Rab2B, small GTPases involved in vesicular trafficking. The interaction with Rab2A has been confirmed through in vivo proximity biotinylation screens, and AlphaFold2 predicts a high-confidence complex between Rab2 and FAM114A proteins, suggesting that the interaction occurs with the C-terminal helical bundle of FAM114A2 (Welch2024The).
+
+FAM114A2 also shows a preference for binding to Golgi enzyme tails with positive residues, such as arginines or lysines, near the membrane, while tails with negative residues bind poorly. This specificity is facilitated by the predicted structure of FAM114A2, which includes a C-terminal helical bundle with large electronegative surfaces (Welch2024The). These interactions highlight the role of FAM114A2 as an adaptor in the recycling of Golgi enzymes, contributing to the specificity of COPI vesicle recycling in the Golgi stack (Welch2024The).
+
+
+## References
+
+
+1. (Lu2020CircFAM114A2) CircFAM114A2 Inhibits Bladder Cancer Proliferation and Promotes Cisplatin Sensitivity via the miR-222-3p/P27 and miR-146a-5p/P21 Cascades. This article has 0 citations.
+
+[2. (Erdogan2020Genome‑wide) Ozge Erdogan, Seref Tuncer, Seda Kilic, Demet Odemis, Gozde Turkcan, Betul Celik, Mukaddes Avsar, and Hulya Yazici. Genome‑wide methylation profiles in monozygotic twins with discordance for ovarian carcinoma. Oncology Letters, 20(6):1–1, October 2020. URL: http://dx.doi.org/10.3892/ol.2020.12221, doi:10.3892/ol.2020.12221. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2020.12221)
+
+3. (Welch2024The) The FAM114A proteins are adaptors for the recycling of Golgi enzymes. This article has 0 citations.
+
+[4. (Lv2021CircFAM114A2) Jiancheng Lv, Zijian Zhou, Jingzi Wang, Xiao Yang, Hao Yu, Jie Han, Dexiang Feng, Baorui Yuan, Qikai Wu, Pengchao Li, Qiang Lu, and Haiwei Yang. Circfam114a2 promotes cisplatin sensitivity via mir-222-3p/p27 and mir-146a-5p/p21 cascades in urothelial carcinoma. Frontiers in Oncology, October 2021. URL: http://dx.doi.org/10.3389/fonc.2021.659166, doi:10.3389/fonc.2021.659166. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.659166)

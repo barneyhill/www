@@ -1,0 +1,44 @@
+# TMEM14B
+
+## Overview
+TMEM14B is a gene that encodes the transmembrane protein 14B, a member of the TMEM14 protein family, which is characterized by its transmembrane nature. The protein is predicted to contain four transmembrane helices, a structural feature that facilitates its role in the inner mitochondrial membrane, where it is involved in critical cellular processes such as regulating mitochondrial membrane potential and energy production (Kitata2015Mining; Ma2023A). TMEM14B has been implicated in various regulatory pathways, including DNA repair and oxidative phosphorylation, and is notably associated with cancer progression, particularly in hepatocellular carcinoma (HCC), where it serves as a poor prognostic marker (Ma2023A). Additionally, TMEM14B has been identified in studies related to neuroblastoma and major depressive disorder, suggesting its broader significance in human health and disease (Alam2022Bioinformatic; Przybyła2022Whole).
+
+## Structure
+TMEM14B is a transmembrane protein predicted to contain four transmembrane helices (TMH) (Kitata2015Mining). This structural feature is characteristic of the TMEM14 protein family, which includes other members like TMEM14A and TMEM14C, both also predicted to have four transmembrane helices (Attwood2016Topology). However, a study using NMR has suggested that while TMEM14A and TMEM14C are predicted to have four transmembrane segments, only three actually span the entire membrane, which might imply a similar structural characteristic for TMEM14B (Attwood2016Topology).
+
+The protein is classified as a membrane protein, and its validation in several lung cancer cell lines has been achieved using a specific peptide sequence, TGSVPSLAAGLLFGSLAGLGAYQLYQDPR (+3), indicating its presence and potential functional role in these cells (Kitata2015Mining). Despite these insights, detailed information on the primary, secondary, tertiary, and quaternary structures of TMEM14B, as well as specific domains or post-translational modifications, is not provided in the available literature. Therefore, further experimental studies would be necessary to elucidate these structural details.
+
+## Function
+TMEM14B (transmembrane protein 14B) is involved in several critical molecular processes within healthy human cells. It plays a significant role in mitochondrial function, particularly in regulating mitochondrial membrane potential and energy production. TMEM14B is primarily active in the inner mitochondrial membrane, where it contributes to cellular energy metabolism and homeostasis (Ma2023A).
+
+In the context of hepatocellular carcinoma (HCC), TMEM14B has been identified as a novel poor prognostic marker, with its expression levels being significantly higher in HCC cells compared to normal hepatocytes. This differential expression suggests that TMEM14B may have a role in cancer progression, although its precise molecular function in normal cell biology remains less clear (Ma2023A).
+
+The protein is also involved in several regulatory pathways, including DNA repair, MYC target V1, and oxidative phosphorylation, which are crucial for maintaining cellular integrity and function. These pathways are essential for normal cellular processes and are often dysregulated in cancerous cells, highlighting the importance of TMEM14B in both normal and pathological states (Ma2023A).
+
+## Clinical Significance
+TMEM14B has been identified as a significant prognostic marker in hepatocellular carcinoma (HCC). It is highly expressed in HCC cells compared to normal hepatocytes, and its expression is negatively associated with overall survival, disease-specific survival, disease-free interval, and progression-free interval in HCC patients. Knockdown experiments in HepG2 and MHCC-LM3 cells have shown that reducing TMEM14B expression inhibits cell proliferation and migration, suggesting its role in tumor progression. These findings highlight TMEM14B's potential as a target for therapeutic intervention in HCC (Ma2023A).
+
+In neuroblastoma, TMEM14B has been identified as one of the genes with novel non-synonymous variants. These variants were found in two patients, with a tumor allele frequency ranging from 44 to 58%. The study suggests that these variants may influence neuroblastoma progression, indicating a potential role for TMEM14B in this disease (Przybyła2022Whole).
+
+TMEM14B has also been highlighted in a bioinformatic analysis of major depressive disorder (MDD), where it was identified as a central gene in a protein-protein interaction network of candidate genes for MDD (Alam2022Bioinformatic).
+
+## Interactions
+TMEM14B has been identified as a significant prognostic marker in hepatocellular carcinoma (HCC) through single-cell RNA sequencing analysis. The PLACE method was used to construct a protein-protein interaction (PPI) network for TMEM14B, revealing its interactions with other genes. This network highlighted TMEM14B's involvement in several key regulatory pathways, including DNA repair, MYC target V1, and oxidative phosphorylation pathways. Validation using the TCGA-LIHC cohort confirmed interactions between TMEM14B and genes in these pathways (Ma2023A).
+
+Functional assays demonstrated that TMEM14B knockdown inhibited cell proliferation and migration in HepG2 and MHCC-LM3 cells, supporting its role in tumor progression. These findings suggest that TMEM14B may participate in multiprotein complexes or engage in regulatory interactions that influence cancer cell behavior (Ma2023A).
+
+The study highlights the utility of the PLACE method in constructing PPI and co-expression networks for genes of interest, effectively connecting key genes like TMEM14B to regulatory pathways. This underscores TMEM14B's potential as a prognostic marker in HCC and its involvement in critical cellular processes (Ma2023A).
+
+
+## References
+
+
+[1. (Attwood2016Topology) Misty M. Attwood, Arunkumar Krishnan, Valentina Pivotti, Samira Yazdi, Markus Sällman Almén, and Helgi B. Schiöth. Topology based identification and comprehensive classification of four-transmembrane helix containing proteins (4tms) in the human genome. BMC Genomics, March 2016. URL: http://dx.doi.org/10.1186/s12864-016-2592-7, doi:10.1186/s12864-016-2592-7. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12864-016-2592-7)
+
+2. (Ma2023A) A novel approach for the analysis of single-cell RNA sequencing identifies TMEM14B as a novel poor prognostic marker in hepatocellular carcinoma. This article has 0 citations.
+
+[3. (Alam2022Bioinformatic) Farwah B. Alam, Yeimy González-Giraldo, and Diego Forero. Bioinformatic analysis of epigenomic studies for major depressive disorder. Archivos de Neurociencias, May 2022. URL: http://dx.doi.org/10.31157/an.v27i2.326, doi:10.31157/an.v27i2.326. This article has 0 citations.](https://doi.org/10.31157/an.v27i2.326)
+
+[4. (Kitata2015Mining) Reta Birhanu Kitata, Baby Rorielyn T. Dimayacyac-Esleta, Wai-Kok Choong, Chia-Feng Tsai, Tai-Du Lin, Chih-Chiang Tsou, Shao-Hsing Weng, Yi-Ju Chen, Pan-Chyr Yang, Susan D. Arco, Alexey I. Nesvizhskii, Ting-Yi Sung, and Yu-Ju Chen. Mining missing membrane proteins by high-ph reverse-phase stagetip fractionation and multiple reaction monitoring mass spectrometry. Journal of Proteome Research, 14(9):3658–3669, August 2015. URL: http://dx.doi.org/10.1021/acs.jproteome.5b00477, doi:10.1021/acs.jproteome.5b00477. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.jproteome.5b00477)
+
+[5. (Przybyła2022Whole) Weronika Przybyła, Kirsti Marie Gjersvoll Paulsen, Charitra Kumar Mishra, Ståle Nygård, Solveig Engebretsen, Ellen Ruud, Gunhild Trøen, Klaus Beiske, and Lars Oliver Baumbusch. Whole exome sequencing of high-risk neuroblastoma identifies novel non-synonymous variants. PLOS ONE, 17(8):e0273280, August 2022. URL: http://dx.doi.org/10.1371/journal.pone.0273280, doi:10.1371/journal.pone.0273280. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0273280)

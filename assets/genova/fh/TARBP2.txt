@@ -1,0 +1,60 @@
+# TARBP2
+
+## Overview
+TARBP2, or Trans-Activation Response RNA-Binding Protein 2, is a gene that encodes a protein component of the RNA-induced silencing complex (RISC) loading complex, which is crucial for RNA interference (RNAi) mechanisms. The TARBP2 protein is characterized as an RNA-binding protein, containing two double-stranded RNA-binding domains (dsRBDs) and a Medipal domain, which facilitate its role in microRNA (miRNA) and small interfering RNA (siRNA) pathways. These pathways are essential for gene silencing and regulation of gene expression. Beyond its role in RNA processing, TARBP2 is involved in modulating immune responses and has been implicated in various cancers, where its expression levels can influence tumor growth and progression (Fish2019Nuclear; Caramuta2013Clinical; Yamashita2010Structures).
+
+## Structure
+The TARBP2 protein, a component of the RNA-induced silencing complex (RISC) loading complex, contains two double-stranded RNA-binding domains (dsRBDs) and a Medipal domain. The dsRBDs, specifically dsRBD1 and dsRBD2, exhibit an α2β2β2β2α fold, a common feature of dsRNA-binding domains (Yamashita2010Structures). The structures of dsRBD1 and dsRBD2 are similar, with a slight shift in the first alpha helix, and the residues involved in dsRNA binding are conserved (Yamashita2010Structures). 
+
+The second dsRBD (dsRBD2) contains a tryptophan residue (Trp152) in the L1 loop, which contributes to its higher thermal stability compared to dsRBD1. This residue interacts with surrounding residues through cation-π interactions, stabilizing the domain structure (Yamashita2010Structures). The full-length TRBP, which includes TARBP2, can bind simultaneously to a single siRNA molecule, resulting in a subnanomolar dissociation constant, indicating a strong binding affinity (Yamashita2010Structures).
+
+Post-translational modifications of TARBP2 may include phosphorylation, and splice variants can result in different isoforms with distinct functions. These structural features and modifications are crucial for its role in microRNA processing and gene silencing.
+
+## Function
+TARBP2, or Trans-Activation Response RNA-Binding Protein 2, is a crucial component of the RNA-induced silencing complex (RISC) loading complex, primarily active in the cytoplasm. It plays a significant role in the microRNA (miRNA) and small interfering RNA (siRNA) pathways by facilitating the loading of these RNA molecules onto Argonaute proteins, which is essential for gene silencing and regulation of gene expression (St1992A). 
+
+In healthy human cells, TARBP2 is involved in RNA processing and stability within the nucleus. It interacts with RNA processing and export factors, including WTAP and the m6A methylation machinery, leading to increased intron retention and transcript destabilization. This interaction marks target transcripts for methylation, affecting their stability and processing (Fish2019Nuclear). TARBP2 also plays a role in regulating RNA splicing through m6A methylation, affecting the expression of mature transcripts by modulating the binding of splicing regulators like SRSF1 (Fish2019Nuclear).
+
+Additionally, TARBP2 is involved in modulating the immune response. It acts as a negative regulator of virus-induced IFN-β production by targeting MAVS, thereby inhibiting the cellular antiviral response (Ling2018TARBP2). This multifunctional role highlights TARBP2's importance in both RNA interference mechanisms and immune regulation.
+
+## Clinical Significance
+Alterations in the expression of the TARBP2 gene have been implicated in various cancers. In adrenocortical carcinoma (ACC), TARBP2 is significantly over-expressed compared to adenomas and normal adrenal cortices. This over-expression is associated with increased cell proliferation and reduced apoptosis, suggesting a role in tumor growth. TARBP2 expression serves as a strong molecular predictor for distinguishing between adenomas and carcinomas, with high sensitivity and specificity (Caramuta2013Clinical).
+
+In hepatocellular carcinoma (HCC), TARBP2 is consistently downregulated, correlating with poor prognosis and advanced tumor stages. Its reduced expression promotes cell proliferation, migration, and invasion, indicating its potential as a biomarker for diagnosis and prognosis in HCC (Li2021Loss).
+
+TARBP2 also plays a role in lung cancer, where its increased activity is linked to oncogenic growth. It influences RNA splicing and decay, affecting the expression of numerous transcripts involved in cancer progression (Fish2019Nuclear).
+
+In gastric cancer, TARBP2 interacts with LINC01526, promoting cancer cell proliferation and migration, further highlighting its role in cancer progression (Zhou2022LINC01526).
+
+## Interactions
+TARBP2, also known as TRBP, is a key component of the RNA-induced silencing complex (RISC) loading complex. It interacts with Dicer, a ribonuclease essential for microRNA processing, through a specific 69 amino acid C4 domain in TRBP, which is crucial for RNA interference (RNAi) activity. This interaction facilitates the loading of double-stranded RNA into the RISC, a process necessary for effective gene silencing (Daniels2009Characterization).
+
+TARBP2 also interacts with Ago2, another core component of the RISC. SUMOylation of TARBP2 enhances its interaction with Ago2, promoting the efficiency of miRNA/siRNA-mediated gene silencing by stabilizing Ago2 and facilitating the formation of the RISC-loading complex (Chen2015SUMOylation).
+
+In addition to its role in RNAi, TARBP2 is involved in modulating antiviral signaling pathways. It interacts with MAVS and RIG-I, negatively regulating virus-triggered type I IFN signaling by inhibiting the formation of IRF3 dimers and promoting the proteasomal degradation of RIG-I through increased K48-linked ubiquitination (Ling2018TARBP2).
+
+TARBP2 also affects the stability and ubiquitination of TRAF6 and IRF7, influencing immune response signaling. It decreases TRAF6-linked linear ubiquitination while enhancing K48-linked ubiquitination, leading to TRAF6 degradation. TARBP2 also attenuates the interaction between TRAF6 and IRF7, reducing IRF7's K63-linked ubiquitination and stability (Ling2019TARBP2).
+
+
+## References
+
+
+[1. (St1992A) D St Johnston, N H Brown, J G Gall, and M Jantsch. A conserved double-stranded rna-binding domain. Proceedings of the National Academy of Sciences, 89(22):10979–10983, November 1992. URL: http://dx.doi.org/10.1073/pnas.89.22.10979, doi:10.1073/pnas.89.22.10979. This article has 401 citations.](https://doi.org/10.1073/pnas.89.22.10979)
+
+[2. (Yamashita2010Structures) Seisuke Yamashita, Takashi Nagata, Masahito Kawazoe, Chie Takemoto, Takanori Kigawa, Peter Güntert, Naohiro Kobayashi, Takaho Terada, Mikako Shirouzu, Motoaki Wakiyama, Yutaka Muto, and Shigeyuki Yokoyama. Structures of the first and second double‐stranded rna‐binding domains of human tar rna‐binding protein. Protein Science, 20(1):118–130, December 2010. URL: http://dx.doi.org/10.1002/pro.543, doi:10.1002/pro.543. This article has 54 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pro.543)
+
+[3. (Daniels2009Characterization) Sylvanne M Daniels, Carlos E Melendez-Peña, Robert J Scarborough, Aïcha Daher, Helen S Christensen, Mohamed El Far, Damian FJ Purcell, Sébastien Lainé, and Anne Gatignol. Characterization of the trbp domain required for dicer interaction and function in rna interference. BMC Molecular Biology, May 2009. URL: http://dx.doi.org/10.1186/1471-2199-10-38, doi:10.1186/1471-2199-10-38. This article has 114 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2199-10-38)
+
+[4. (Caramuta2013Clinical) Stefano Caramuta, Linkiat Lee, Deniz M Özata, Pinar Akçakaya, Hong Xie, Anders Höög, Jan Zedenius, Martin Bäckdahl, Catharina Larsson, and Weng-Onn Lui. Clinical and functional impact of tarbp2 over-expression in adrenocortical carcinoma. Endocrine-Related Cancer, 20(4):551–564, May 2013. URL: http://dx.doi.org/10.1530/erc-13-0098, doi:10.1530/erc-13-0098. This article has 46 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1530/erc-13-0098)
+
+[5. (Fish2019Nuclear) Lisa Fish, Albertas Navickas, Bruce Culbertson, Yichen Xu, Hoang C.B. Nguyen, Steven Zhang, Myles Hochman, Ross Okimoto, Brian D. Dill, Henrik Molina, Hamed S. Najafabadi, Claudio Alarcón, Davide Ruggero, and Hani Goodarzi. Nuclear tarbp2 drives oncogenic dysregulation of rna splicing and decay. Molecular Cell, 75(5):967-981.e9, September 2019. URL: http://dx.doi.org/10.1016/j.molcel.2019.06.001, doi:10.1016/j.molcel.2019.06.001. This article has 58 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2019.06.001)
+
+[6. (Li2021Loss) Li-Man Li, Chang Chen, Ruo-Xi Ran, Jing-Tao Huang, Hui-Lung Sun, Chang Zeng, Zhou Zhang, Wei Zhang, and Song-Mei Liu. Loss of tarbp2 drives the progression of hepatocellular carcinoma via mir-145-serpine1 axis. Frontiers in Oncology, June 2021. URL: http://dx.doi.org/10.3389/fonc.2021.620912, doi:10.3389/fonc.2021.620912. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.620912)
+
+[7. (Ling2019TARBP2) Ting Ling, Guang-Xiu Weng, Jing Li, Changsheng Li, Weiying Wang, Lingzhen Cao, Hua Rao, Cynthia Ju, and Liang-Guo Xu. Tarbp2 inhibits irf7 activation by suppressing traf6-mediated k63-linked ubiquitination of irf7. Molecular Immunology, 109:116–125, May 2019. URL: http://dx.doi.org/10.1016/j.molimm.2019.02.019, doi:10.1016/j.molimm.2019.02.019. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.molimm.2019.02.019)
+
+[8. (Chen2015SUMOylation) Cheng Chen, Changhong Zhu, Jian Huang, Xian Zhao, Rong Deng, Hailong Zhang, Jinzhuo Dou, Qin Chen, Ming Xu, Haihua Yuan, Yanli Wang, and Jianxiu Yu. Sumoylation of tarbp2 regulates mirna/sirna efficiency. Nature Communications, November 2015. URL: http://dx.doi.org/10.1038/ncomms9899, doi:10.1038/ncomms9899. This article has 27 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms9899)
+
+[9. (Zhou2022LINC01526) Jin-Yong Zhou, Jin-Yan Liu, Yu Tao, Chen Chen, and Shen-Lin Liu. Linc01526 promotes proliferation and metastasis of gastric cancer by interacting with tarbp2 to induce gng7 mrna decay. Cancers, 14(19):4940, October 2022. URL: http://dx.doi.org/10.3390/cancers14194940, doi:10.3390/cancers14194940. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers14194940)
+
+[10. (Ling2018TARBP2) Ting Ling, Sheng-Na Li, Guang-Xiu Weng, Weiying Wang, Changsheng Li, Lingzhen Cao, Hua Rao, Hong-Bing Shu, and Liang-Guo Xu. Tarbp2 negatively regulates ifn-β production and innate antiviral response by targeting mavs. Molecular Immunology, 104:1–10, December 2018. URL: http://dx.doi.org/10.1016/j.molimm.2018.10.017, doi:10.1016/j.molimm.2018.10.017. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.molimm.2018.10.017)

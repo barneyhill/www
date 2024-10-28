@@ -1,0 +1,64 @@
+# AMBRA1
+
+## Overview
+AMBRA1 (autophagy and beclin 1 regulator 1) is a gene that encodes a multifunctional protein involved in the regulation of autophagy, a critical cellular process for degrading and recycling cellular components. The AMBRA1 protein is characterized by its complex structure, including a WD40 domain and intrinsically disordered regions, which facilitate its role as a molecular hub in various cellular processes (Wang2024AMBRA1:; Liu2023Structure). Functionally, AMBRA1 is pivotal in autophagy regulation, cell cycle control, and mitophagy, interacting with key proteins such as Beclin-1, ULK1, and PARKIN to maintain cellular homeostasis and genomic stability (Cianfanelli2015Ambra1; Maiani2021AMBRA1). Clinically, mutations in the AMBRA1 gene have been associated with a range of conditions, including cancer, neurodevelopmental disorders, and neural tube defects, underscoring its significance in human health and disease (La2019Neurodevelopmental; Revathidevi2022AMBRA1).
+
+## Structure
+AMBRA1 is a protein characterized by a complex molecular structure that includes a WD40 domain, which is a seven-blade β-propeller structure. This domain is split into two parts: WD40-N and WD40-C. The WD40-N includes Blades I-III and the first two strands of Blade IV, while the WD40-C contributes to the latter two strands of Blade IV and the remaining Blades V-VII. This split domain must reunite to form a functional substrate receptor, which is crucial for its interaction with the CRL4 E3 ligase complex (Liu2022Structural; Liu2023Structure).
+
+AMBRA1 also contains intrinsically disordered regions (IDRs) that provide conformational flexibility, allowing it to interact with various partners. These IDRs are essential for the protein's role as a molecular hub in cellular processes like autophagy and cell cycle regulation (Wang2024AMBRA1:; Liu2023Structure).
+
+The protein features an N-terminal helix-loop-helix motif, which is critical for its interaction with DDB1, a component of the CRL4 E3 ubiquitin ligase complex. This interaction is stabilized by hydrophobic and ionic interactions (Liu2022Structural; Liu2023Structure).
+
+AMBRA1 is subject to post-translational modifications, including phosphorylation by ULK1, which influences its subcellular localization and function in autophagy (Wang2024AMBRA1:). The protein can also be ubiquitinated and degraded by the CUL4-DDB1 and RNF2 E3 ligase complexes (Wang2024AMBRA1:).
+
+## Function
+AMBRA1 (autophagy and beclin 1 regulator 1) is a crucial protein involved in the regulation of autophagy, a cellular process essential for degrading and recycling cellular components. In healthy human cells, AMBRA1 is part of a complex with Beclin-1 and PI3KIII, which is essential for autophagosome formation. Upon autophagy induction, AMBRA1 translocates to the endoplasmic reticulum, facilitating the formation of autophagosomes by regulating ULK1 activity and stability (Antonioli2014AMBRA1; Cianfanelli2015Ambra1).
+
+AMBRA1 also plays a significant role in cell cycle regulation by mediating the degradation of D-type cyclins, thus preventing replication stress and maintaining genomic integrity. This function is vital for the transition from the G1 phase to the S phase of the cell cycle, which is crucial for DNA replication and cell division (Maiani2021AMBRA1).
+
+In addition to its role in autophagy and cell cycle regulation, AMBRA1 is involved in mitophagy, a selective autophagy process for damaged mitochondria, by interacting with proteins such as PARKIN and LC3 to enhance mitochondrial clearance (Cianfanelli2015Ambra1). These activities underscore AMBRA1's importance in maintaining cellular homeostasis and genomic stability.
+
+## Clinical Significance
+Mutations and alterations in the AMBRA1 gene have been linked to several diseases and conditions. In Cowden syndrome, a rare autosomal dominant disorder, the Q30R mutation in AMBRA1 has been associated with hyperproliferative potential, leading to benign hamartomatous lesions. This mutation disrupts the G1/S phase transition control, contributing to uncontrolled cell proliferation (Revathidevi2022AMBRA1).
+
+AMBRA1 mutations are also implicated in neural tube defects (NTDs), with specific missense mutations like p.Thr80Met and p.Leu274Phe affecting autophagy induction, a critical process for neural tube closure. These mutations have been identified in cases of meningomyelocele, encephalocele, and spina bifida (Ye2020Rare).
+
+In cancer, AMBRA1 plays a dual role, acting as both a tumor suppressor and an oncogene. Its expression is linked to tumor survival and progression, with decreased expression correlating with poor prognosis in certain cancers, such as breast cancer. Mutations in AMBRA1 can lead to chemoresistance by modulating autophagy, impacting treatment outcomes (Cianfanelli2015Connecting; Karabay2024Bioinformatic).
+
+AMBRA1 is also associated with neurodevelopmental disorders, including autism spectrum disorders and schizophrenia. Alterations in AMBRA1 protein levels have been correlated with these conditions, highlighting its clinical significance in neurodevelopment (La2019Neurodevelopmental).
+
+## Interactions
+AMBRA1 (autophagy and beclin 1 regulator 1) is involved in several key interactions that regulate autophagy and apoptosis. It interacts with BECLIN 1, enhancing the BECLIN 1/Vps34 functional interaction, which is crucial for autophagy. This interaction is facilitated by AMBRA1's ability to bind BECLIN 1 mutants, indicating that an intact BH3 binding site for BCL-2 is not required for AMBRA1 binding (Strappazzon2011Mitochondrial). AMBRA1 also competes with BCL-2 to bind BECLIN 1, suggesting overlapping binding regions (Strappazzon2011Mitochondrial).
+
+AMBRA1 interacts with BCL-2, particularly the mitochondrial pool of BCL-2 (mito-BCL-2), and this interaction is disrupted upon autophagy induction. This suggests that BCL-2 binds AMBRA1 at the mitochondria to inhibit its pro-autophagic function (Strappazzon2011Mitochondrial). AMBRA1's interaction with BCL-2 is independent of BECLIN 1, and it can bind both wild-type and mutant forms of BCL-2 (Strappazzon2011Mitochondrial).
+
+AMBRA1 is also involved in the regulation of mitophagy through its interaction with Parkin, where it translocates to depolarized mitochondria and activates the PI3KIII complex, contributing to mitochondrial clearance (Cianfanelli2015Connecting). These interactions highlight AMBRA1's role as a central regulator in autophagy and apoptosis pathways.
+
+
+## References
+
+
+[1. (Cianfanelli2015Ambra1) Valentina Cianfanelli, Daniela De Zio, Sabrina Di Bartolomeo, Francesca Nazio, Flavie Strappazzon, and Francesco Cecconi. Ambra1 at a glance. Journal of Cell Science, 128(11):2003–2008, June 2015. URL: http://dx.doi.org/10.1242/jcs.168153, doi:10.1242/jcs.168153. This article has 76 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.168153)
+
+[2. (La2019Neurodevelopmental) Livia La Barbera, Francescangelo Vedele, Annalisa Nobili, Marcello D’Amelio, and Paraskevi Krashia. Neurodevelopmental disorders: functional role of ambra1 in autism and schizophrenia. Molecular Neurobiology, 56(10):6716–6724, March 2019. URL: http://dx.doi.org/10.1007/s12035-019-1557-7, doi:10.1007/s12035-019-1557-7. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12035-019-1557-7)
+
+3. (Liu2022Structural) Structural basis for substrate recruitment by AMBRA1 E3 ligase receptor. This article has 1 citations.
+
+[4. (Karabay2024Bioinformatic) Umut Karabay. Bioinformatic assessment of the relationship between breast cancer and autophagy-related protein ambra1 mutation. International Journal of Medical Biochemistry, pages 51–59, 2024. URL: http://dx.doi.org/10.14744/ijmb.2024.59244, doi:10.14744/ijmb.2024.59244. This article has 0 citations.](https://doi.org/10.14744/ijmb.2024.59244)
+
+[5. (Maiani2021AMBRA1) Emiliano Maiani, Giacomo Milletti, Francesca Nazio, Søs Grønbæk Holdgaard, Jirina Bartkova, Salvatore Rizza, Valentina Cianfanelli, Mar Lorente, Daniele Simoneschi, Miriam Di Marco, Pasquale D’Acunzo, Luca Di Leo, Rikke Rasmussen, Costanza Montagna, Marilena Raciti, Cristiano De Stefanis, Estibaliz Gabicagogeascoa, Gergely Rona, Nélida Salvador, Emanuela Pupo, Joanna Maria Merchut-Maya, Colin J. Daniel, Marianna Carinci, Valeriana Cesarini, Alfie O’sullivan, Yeon-Tae Jeong, Matteo Bordi, Francesco Russo, Silvia Campello, Angela Gallo, Giuseppe Filomeni, Letizia Lanzetti, Rosalie C. Sears, Petra Hamerlik, Armando Bartolazzi, Robert E. Hynds, David R. Pearce, Charles Swanton, Michele Pagano, Guillermo Velasco, Elena Papaleo, Daniela De Zio, Apolinar Maya-Mendoza, Franco Locatelli, Jiri Bartek, and Francesco Cecconi. Ambra1 regulates cyclin d to guard s-phase entry and genomic integrity. Nature, 592(7856):799–803, April 2021. URL: http://dx.doi.org/10.1038/s41586-021-03422-5, doi:10.1038/s41586-021-03422-5. This article has 88 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-021-03422-5)
+
+[6. (Cianfanelli2015Connecting) Valentina Cianfanelli, Francesca Nazio, and Francesco Cecconi. Connecting autophagy: ambra1 and its network of regulation. Molecular &amp; Cellular Oncology, 2(1):e970059, January 2015. URL: http://dx.doi.org/10.4161/23723548.2014.970059, doi:10.4161/23723548.2014.970059. This article has 26 citations.](https://doi.org/10.4161/23723548.2014.970059)
+
+[7. (Revathidevi2022AMBRA1) Sundaramoorthy Revathidevi, Kazuyoshi Hosomichi, Toyoaki Natsume, Hirofumi Nakaoka, Naoko T. Fujito, Hisako Akatsuka, Takehito Sato, Arasambattu Kannan Munirajan, and Ituro Inoue. Ambra1 p.gln30arg mutation, identified in a cowden syndrome family, exhibits hyperproliferative potential in htert-rpe1 cells. International Journal of Molecular Sciences, 23(19):11124, September 2022. URL: http://dx.doi.org/10.3390/ijms231911124, doi:10.3390/ijms231911124. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms231911124)
+
+[8. (Wang2024AMBRA1:) Yang Wang and Goran Stjepanovic. Ambra1: orchestrating cell cycle control and autophagy for cellular homeostasis. Journal of Cancer Immunology, 6(1):44–50, 2024. URL: http://dx.doi.org/10.33696/cancerimmunol.6.083, doi:10.33696/cancerimmunol.6.083. This article has 0 citations.](https://doi.org/10.33696/cancerimmunol.6.083)
+
+[9. (Antonioli2014AMBRA1) Manuela Antonioli, Federica Albiero, Francesca Nazio, Tiziana Vescovo, Ariel Basulto Perdomo, Marco Corazzari, Claudia Marsella, Pierluca Piselli, Christine Gretzmeier, Jörn Dengjel, Francesco Cecconi, Mauro Piacentini, and Gian Maria Fimia. Ambra1 interplay with cullin e3 ubiquitin ligases regulates autophagy dynamics. Developmental Cell, 31(6):734–746, December 2014. URL: http://dx.doi.org/10.1016/j.devcel.2014.11.013, doi:10.1016/j.devcel.2014.11.013. This article has 117 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.devcel.2014.11.013)
+
+[10. (Strappazzon2011Mitochondrial) Flavie Strappazzon, Matteo Vietri-Rudan, Silvia Campello, Francesca Nazio, Fulvio Florenzano, Gian Maria Fimia, Mauro Piacentini, Beth Levine, and Francesco Cecconi. Mitochondrial bcl-2 inhibits ambra1-induced autophagy: ambra1/bcl-2 in autophagy. The EMBO Journal, 30(7):1195–1208, February 2011. URL: http://dx.doi.org/10.1038/emboj.2011.49, doi:10.1038/emboj.2011.49. This article has 191 citations.](https://doi.org/10.1038/emboj.2011.49)
+
+[11. (Ye2020Rare) Jianhong Ye, Youli Tong, Jiashun Lv, Rui Peng, Shuxia Chen, Lele Kuang, Ke Su, Yufang Zheng, Ting Zhang, Feng Zhang, Li Jin, Xueyan Yang, and Hongyan Wang. Rare mutations in the autophagy‐regulating gene ambra1 contribute to human neural tube defects. Human Mutation, 41(8):1383–1393, May 2020. URL: http://dx.doi.org/10.1002/humu.24028, doi:10.1002/humu.24028. This article has 16 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.24028)
+
+[12. (Liu2023Structure) Ming Liu, Yang Wang, Fei Teng, Xinyi Mai, Xi Wang, Ming-Yuan Su, and Goran Stjepanovic. Structure of the ddb1-ambra1 e3 ligase receptor complex linked to cell cycle regulation. Nature Communications, November 2023. URL: http://dx.doi.org/10.1038/s41467-023-43174-6, doi:10.1038/s41467-023-43174-6. This article has 2 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-43174-6)

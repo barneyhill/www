@@ -1,0 +1,35 @@
+# USP50
+
+## Overview
+USP50 is a gene that encodes the protein ubiquitin specific peptidase 50, which is classified as a deubiquitinating enzyme. Although USP50 is catalytically inactive, it plays a crucial regulatory role in various cellular processes, including cell cycle progression, erythropoiesis, and immune response. The protein is involved in maintaining the G2/M checkpoint by stabilizing the Wee1 kinase through interactions with the Hsp90 chaperone complex, thereby preventing premature mitotic entry in response to DNA damage (Aressy2010A). Additionally, USP50 is implicated in the regulation of erythropoiesis by influencing the stability of the DNA-binding protein Ku70, and it plays a role in inflammasome activation by deubiquitinating the ASC adaptor protein, which is essential for cytokine release during inflammatory responses (Cai2018Induction; Lee2017The). Alterations in USP50 expression have been linked to various diseases, including cancer and inflammatory conditions, highlighting its potential as a therapeutic target (Zhao2024USP50).
+
+## Function
+USP50, although catalytically inactive, plays a significant role in regulating the G2/M checkpoint during cell cycle progression. It interacts with the chaperone protein Hsp90 to stabilize Wee1, a kinase that inhibits entry into mitosis, thereby maintaining the G2/M checkpoint. This function is crucial in response to DNA damage, where USP50 accumulates in the nucleus to prevent Wee1 degradation and counteract the mitotic-inducing activity of CDC25B (Aressy2010A). 
+
+USP50 is also involved in erythropoiesis, the process of red blood cell differentiation. During this process, USP50 levels increase, and it is suggested to regulate the stability of Ku70, a DNA-binding protein, potentially impacting the enucleation process and maturation of red blood cells (Cai2018Induction). 
+
+In the context of immune response, USP50 regulates inflammasome activation by interacting with the ASC adaptor protein, promoting the secretion of IL-1β, a cytokine involved in inflammatory responses. It is involved in the deubiquitination of ASC, specifically targeting K63-linked polyubiquitination, which is crucial for inflammasome activation (Lee2017The).
+
+## Clinical Significance
+Alterations in USP50 expression or function have been implicated in several diseases, particularly in the context of cancer and inflammatory conditions. In gastric cancer, USP50 expression is elevated, especially in macrophages, and is associated with bile reflux gastritis. This upregulation enhances the activation of the NLRP3 inflammasome, leading to increased inflammation and promoting gastric tumorigenesis through pathways such as PI3K/AKT and MAPK/ERK (Zhao2024USP50). The interaction of USP50 with the ASC protein is crucial for inflammasome activation, and its dysregulation can lead to excessive inflammatory responses, which are significant in the progression of gastric cancer (Zhao2024USP50; Lee2017The).
+
+In the context of cell cycle regulation, USP50 is involved in maintaining the stability of the Wee1 kinase, which is essential for the G2/M checkpoint. Depletion of USP50 can lead to a bypass of this checkpoint, potentially contributing to genomic instability, a hallmark of cancer (Aressy2010A). Although the clinical significance of USP50 mutations is not directly addressed, its role in these pathways suggests that alterations in USP50 could impact disease progression and serve as potential therapeutic targets.
+
+## Interactions
+USP50, a deubiquitinating enzyme, is involved in several protein interactions that are crucial for its regulatory functions. It interacts with the Hsp90 chaperone complex, which is essential for the stability of the Wee1 kinase. This interaction is significant for maintaining the G2/M checkpoint in the cell cycle, as USP50 helps stabilize Wee1 by associating with Hsp90 and preventing its degradation (Aressy2010A). The depletion of USP50 leads to decreased Wee1 levels, highlighting the specificity of this interaction (Aressy2010A).
+
+USP50 also interacts with the ASC adaptor protein, a key component of the NLRP3 inflammasome complex. It deubiquitinates K63-linked polyubiquitination of ASC, which is crucial for inflammasome activation and cytokine release. This interaction is vital for the formation of ASC specks and the oligomerization process necessary for inflammasome signaling (Lee2017The).
+
+During erythropoiesis, USP50 is associated with Ku70, a DNA-binding protein. This interaction is suggested to influence the stability of Ku70, potentially through an indirect mechanism involving an E3 ligase, although the exact details remain to be fully elucidated (Cai2018Induction).
+
+
+## References
+
+
+[1. (Zhao2024USP50) Chenye Zhao, Mingchao Mu, Xiaopeng Li, Zepeng Dong, Jiahao Wang, Chengzhi Yao, Jianbao Zheng, Xuejun Sun, and Junhui Yu. Usp50 regulates nlrp3 inflammasome activation in duodenogastric reflux-induced gastric tumorigenesis. Frontiers in Immunology, February 2024. URL: http://dx.doi.org/10.3389/fimmu.2024.1326137, doi:10.3389/fimmu.2024.1326137. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2024.1326137)
+
+[2. (Cai2018Induction) Junting Cai, Jianxin Wei, Valerie Schrott, Jing Zhao, Grant Bullock, and Yutong Zhao. Induction of deubiquitinating enzyme usp50 during erythropoiesis and its potential role in the regulation of ku70 stability. Journal of Investigative Medicine, 66(1):1–6, January 2018. URL: http://dx.doi.org/10.1136/jim-2017-000622, doi:10.1136/jim-2017-000622. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1136/jim-2017-000622)
+
+[3. (Aressy2010A) Bernadette Aressy, Denis Jullien, Martine Cazales, Marlène Marcellin, Béatrix Bugler, Odile Burlet-Schiltz, and Bernard Ducommun. A screen for deubiquitinating enzymes involved in the g2/m checkpoint identifies usp50 as a regulator of hsp90-dependent wee1 stability. Cell Cycle, 9(18):3839–3846, September 2010. URL: http://dx.doi.org/10.4161/cc.9.18.13133, doi:10.4161/cc.9.18.13133. This article has 37 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/cc.9.18.13133)
+
+[4. (Lee2017The) Jae Young Lee, Dongyeob Seo, Jiyeon You, Sehee Chung, Jin Seok Park, Ji‐Hyung Lee, Su Myung Jung, Youn Sook Lee, and Seok Hee Park. The deubiquitinating enzyme, ubiquitin‐specific peptidase 50, regulates inflammasome activation by targeting the <scp>asc</scp> adaptor protein. FEBS Letters, 591(3):479–490, January 2017. URL: http://dx.doi.org/10.1002/1873-3468.12558, doi:10.1002/1873-3468.12558. This article has 37 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/1873-3468.12558)

@@ -1,0 +1,48 @@
+# WDR82
+
+## Overview
+WDR82 is a gene that encodes the WD repeat domain 82 protein, which is characterized by the presence of WD40 domains. These domains facilitate protein-protein interactions, playing a crucial role in various cellular processes, including transcription regulation and chromatin modification. The WD repeat domain 82 protein is a component of the Set1/COMPASS complex, which is responsible for the trimethylation of histone H3 at lysine 4 (H3K4), a modification associated with active transcription start sites. It interacts with the Setd1A and Setd1B histone methyltransferase complexes and binds to the Ser5-phosphorylated C-terminal domain of RNA polymerase II, facilitating the recruitment of these complexes to transcription start sites (Wu2008Molecular; Lee2008Wdr82). Additionally, WDR82 is involved in DNA replication and genomic stability, interacting with the PNUTS-PP1 complex to prevent transcription-replication conflicts (Landsverk2020WDR82/PNUTS-PP1). The gene's alterations have been implicated in various diseases, including cancer and immune-related conditions, highlighting its significance in cellular function and potential as a therapeutic target (Morelli2021Long; Lin2021Epigenomewide).
+
+## Structure
+WDR82 is a protein characterized by the presence of WD40 domains, which are known for facilitating protein-protein interactions through a β-propeller-like structure. These domains are part of a large family of proteins involved in various biological functions, including signal transduction and cell cycle control (Lee2008Wdr82). The protein is highly conserved across species, showing significant similarity to yeast Swd2 and Drosophila Wdr82 (Lee2008Wdr82).
+
+WDR82 interacts with the Setd1A and Setd1B histone methyltransferase complexes, playing a crucial role in the regulation of histone H3-Lys4 methylation. It binds to the Ser5-phosphorylated C-terminal domain of RNA polymerase II, which is involved in transcription initiation (Lee2008Wdr82). This interaction is essential for the localization of Setd1A near transcription start sites, facilitating histone H3-Lys4 trimethylation (Lee2008Wdr82).
+
+The protein is also involved in DNA replication, where it interacts with the PNUTS-PP1 complex, which includes TOX4 and PP1 isoforms. This interaction is crucial for normal DNA replication and cell survival under stress conditions (Landsverk2020WDR82/PNUTS-PP1). WDR82's role in these processes highlights its importance in maintaining genomic stability and regulating gene expression.
+
+## Function
+WDR82 is a protein that plays a crucial role in the regulation of histone modifications and transcription processes in human cells. It is a component of the Set1/COMPASS complex, which is responsible for the trimethylation of histone H3 at lysine 4 (H3K4), a modification associated with active transcription start sites. WDR82 interacts with the Setd1A and Setd1B complexes, facilitating their recruitment to RNA polymerase II (RNAP II) at transcription start sites through its binding to the Ser5-phosphorylated C-terminal domain of RNAP II (Wu2008Molecular; Lee2008Wdr82).
+
+The protein is involved in histone cross talk, interacting with chromatin in a manner dependent on histone H2B ubiquitination, which is necessary for proper H3K4 methylation (Wu2008Molecular). Depletion of WDR82 results in decreased H3K4 trimethylation, indicating its essential role in maintaining this histone modification, which is crucial for gene expression regulation (Wu2008Molecular).
+
+WDR82 also plays a role in preventing transcription-replication conflicts by promoting the degradation of RNAP II on chromatin, thereby reducing replication stress and maintaining genomic stability (Landsverk2020WDR82/PNUTS-PP1). This function is critical for normal DNA replication and cell survival during replication stress (Landsverk2020WDR82/PNUTS-PP1).
+
+## Clinical Significance
+Alterations in the WDR82 gene have been implicated in various diseases, particularly in the context of cancer and immune-related conditions. In multiple myeloma, WDR82 interacts with the transcription factor MYC and the long noncoding RNA RROL, forming a complex that is crucial for lipid metabolism and tumor cell growth. This interaction facilitates the epigenetic activation of ACC1, a key enzyme in lipogenesis, which is often upregulated in cancer cells. Disruption of this pathway through WDR82 depletion leads to reduced histone H3-Lys4 trimethylation, decreased MYC occupancy at the ACC1 promoter, and ultimately lower ACC1 expression, affecting tumor cell proliferation and survival (Morelli2021Long).
+
+In the context of IgA nephropathy (IgAN), an epigenome-wide association study identified WDR82 as a significant gene associated with the disease. The study highlighted WDR82's role in promoting NF-κB signaling, a critical pathway in the pathogenesis of IgAN. Alterations in WDR82 expression or function may contribute to the modulation of the immune environment, influencing the development and progression of IgAN (Lin2021Epigenomewide). These findings suggest that WDR82 plays a significant role in both cancer metabolism and immune response regulation, with potential implications for therapeutic targeting.
+
+## Interactions
+WDR82 is a protein that plays a significant role in transcription regulation and chromatin modification through its interactions with various proteins and complexes. It is a component of the Setd1A and Setd1B histone methyltransferase complexes, which are involved in histone H3-Lys4 trimethylation, a modification associated with active transcription. WDR82 interacts with the C-terminal domain (CTD) of RNA polymerase II, specifically when the CTD is phosphorylated at the Ser5 position, facilitating the recruitment of Setd1A and Setd1B complexes to transcription start sites (Lee2008Wdr82).
+
+WDR82 does not interact with the MLL1 complex, indicating specificity in its interactions with histone methyltransferase complexes (Lee2008Wdr82). It also interacts with the Suppressor of sable [su(s)] protein, as confirmed by coimmunoprecipitation and affinity-purification experiments (BrewerJensen2015Suppressor).
+
+In the context of antiviral responses, WDR82 interacts with TRAF3, promoting its polyubiquitination and affecting its stability. This interaction plays a role in negatively regulating the virus-triggered type I interferon signaling pathway (Zhu2015WDR82). These interactions highlight WDR82's diverse roles in cellular processes.
+
+
+## References
+
+
+[1. (Lin2021Epigenomewide) Yifei Lin, Peiran Yin, Zhaozhong Zhu, Yuan Peng, Ming Li, Jun Li, Liming Liang, and Xueqing Yu. Epigenome-wide association study and network analysis for iga nephropathy from cd19+b-cell in chinese population. Epigenetics, 16(12):1283–1294, January 2021. URL: http://dx.doi.org/10.1080/15592294.2020.1861171, doi:10.1080/15592294.2020.1861171. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/15592294.2020.1861171)
+
+[2. (Lee2008Wdr82) Jeong-Heon Lee and David G. Skalnik. Wdr82 is a c-terminal domain-binding protein that recruits the setd1a histone h3-lys4 methyltransferase complex to transcription start sites of transcribed human genes. Molecular and Cellular Biology, 28(2):609–618, January 2008. URL: http://dx.doi.org/10.1128/mcb.01356-07, doi:10.1128/mcb.01356-07. This article has 181 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.01356-07)
+
+[3. (Zhu2015WDR82) Kun Zhu, Xiang Wang, Lin-Gao Ju, Yuan Zhu, Jie Yao, Yanyi Wang, Min Wu, and Lian-Yun Li. Wdr82 negatively regulates cellular antiviral response by mediating traf3 polyubiquitination in multiple cell lines. The Journal of Immunology, 195(11):5358–5366, December 2015. URL: http://dx.doi.org/10.4049/jimmunol.1500339, doi:10.4049/jimmunol.1500339. This article has 15 citations.](https://doi.org/10.4049/jimmunol.1500339)
+
+[4. (Wu2008Molecular) Min Wu, Peng Fei Wang, Jung Shin Lee, Skylar Martin-Brown, Laurence Florens, Michael Washburn, and Ali Shilatifard. Molecular regulation of h3k4 trimethylation by wdr82, a component of human set1/compass. Molecular and Cellular Biology, 28(24):7337–7344, December 2008. URL: http://dx.doi.org/10.1128/mcb.00976-08, doi:10.1128/mcb.00976-08. This article has 266 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.00976-08)
+
+5. (Morelli2021Long) Long Noncoding RNA RROL Provides Chromatin Scaffold for MYC-WDR82 Interaction to Impact Lipid Metabolism and Tumor Cell Growth in Multiple Myeloma. This article has 0 citations.
+
+[6. (Landsverk2020WDR82/PNUTS-PP1) Helga B. Landsverk, Lise E. Sandquist, Lilli T.E. Bay, Barbara Steurer, Coen Campsteijn, Ole J.B. Landsverk, Jurgen A. Marteijn, Eva Petermann, Laura Trinkle-Mulcahy, and Randi G. Syljuåsen. Wdr82/pnuts-pp1 prevents transcription-replication conflicts by promoting rna polymerase ii degradation on chromatin. Cell Reports, 33(9):108469, December 2020. URL: http://dx.doi.org/10.1016/j.celrep.2020.108469, doi:10.1016/j.celrep.2020.108469. This article has 42 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2020.108469)
+
+[7. (BrewerJensen2015Suppressor) Paul Brewer-Jensen, Carrie B. Wilson, John Abernethy, Lonna Mollison, Samantha Card, and Lillie L. Searles. Suppressor of sable [su(s)] and wdr82 down-regulate rna from heat-shock-inducible repetitive elements by a mechanism that involves transcription termination. RNA, 22(1):139–154, November 2015. URL: http://dx.doi.org/10.1261/rna.048819.114, doi:10.1261/rna.048819.114. This article has 22 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.048819.114)

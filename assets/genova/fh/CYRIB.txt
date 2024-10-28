@@ -1,0 +1,48 @@
+# CYRIB
+
+## Overview
+The CYRIB gene encodes the protein CYFIP-related Rac1 interactor B (CYRI-B), which is integral to the regulation of actin cytoskeleton dynamics. CYRI-B is categorized as a regulatory protein that interacts with Rac1, a small GTPase, to modulate cellular processes such as migration and chemotaxis. The protein is characterized by its unique structure, comprising alpha-helices and a Domain of Unknown Function (DUF1394), which facilitates its interaction with Rac1 (Fort2018Fam49CYRI; Kaplan2020Structure). CYRI-B functions as a negative regulator of the Scar/WAVE complex, influencing actin polymerization and maintaining cell polarity (Yelland2021Structural; Whitelaw2019CYRI). Its role extends to clinical significance, particularly in cancer biology, where it is implicated in the progression and metastasis of pancreatic ductal adenocarcinoma (Nikolaou2022CYRIB).
+
+## Structure
+The CYRI-B protein, encoded by the CYRIB gene, is characterized by a structure composed entirely of alpha-helices, divided into three linear subdomains. The N-terminal subdomain extends to residue 125 and consists of five alpha-helices, with three forming an elongated helical hairpin. The medial subdomain, from residues 126 to 214, features a broken antiparallel helical hairpin. The C-terminal subdomain (residues 215-324) consists of six alpha-helices forming a globular bundle. A flexible loop (residues 171-175) was too disordered to be modeled (Kaplan2020Structure).
+
+CYRI-B contains a Domain of Unknown Function (DUF1394), which is shared with CYFIP proteins, indicating structural homology despite low sequence identity. This domain is crucial for its interaction with Rac1, a small GTPase, and plays a role in regulating actin assembly (Fort2018Fam49CYRI; Kaplan2020Structure). The protein is N-myristoylated at Gly2, suggesting a potential association with the plasma membrane (Fort2018Fam49CYRI; Kaplan2020Structure).
+
+CYRI-B exists in two isoforms, CYRI-A and CYRI-B, with about 80% sequence identity across species, but they are functionally distinct (Kaplan2020Structure). The protein is monomeric in solution, as confirmed by biochemical analyses (Kaplan2020Structure).
+
+## Function
+CYRI-B (CYFIP related Rac1 interactor B) is a protein that plays a crucial role in regulating actin cytoskeleton dynamics in healthy human cells. It interacts with Rac1, a small GTPase, to modulate the activity of the Scar/WAVE complex, which is essential for actin-based protrusions such as lamellipodia. CYRI-B acts as a negative regulator of the Scar/WAVE complex, competing with it for Rac1 binding, thereby inhibiting the activation of the Arp2/3 complex responsible for nucleating branched F-actin at the leading edge of migrating cells (Fort2018Fam49CYRI; Whitelaw2019CYRI; Yelland2021Structural).
+
+CYRI-B's interaction with Rac1 is mediated through a conserved domain known as DUF1394, which is homologous to the WRC subunit CYFIP1. This interaction is crucial for maintaining cell polarity and plasticity during migration, as it controls the dynamics of lamellipodia, allowing cells to respond to environmental changes (Yelland2021Structural; Whitelaw2019CYRI). In epithelial cells, CYRI-B helps maintain the Rac1 activation gradient, which is essential for epithelial polarity and proper cyst formation (Fort2018Fam49CYRI).
+
+CYRI-B is also involved in regulating focal adhesion dynamics, influencing cell adhesion to the extracellular matrix and affecting cell migration and chemotaxis (Whitelaw2024CYRIB). Its role in these processes highlights its importance in cellular signaling pathways and organismal development.
+
+## Clinical Significance
+CYRI-B, also known as CYFIP related Rac1 interactor B, plays a significant role in the progression and metastasis of pancreatic ductal adenocarcinoma (PDAC). High expression levels of CYRI-B are associated with poor survival outcomes in PDAC patients. It is involved in regulating RAC1-mediated actin assembly, which is crucial for cell motility and metastasis. CYRI-B is enriched in extracellular vesicles linked to cancer, suggesting its potential as a biomarker for early cancer detection (Nikolaou2022CYRIB).
+
+In PDAC, CYRI-B deletion accelerates tumorigenesis by enhancing ERK and JNK-induced proliferation in precancerous lesions, indicating its role in buffering RAC1 hyperactivation. However, its loss also inhibits metastasis, as CYRI-B depleted tumor cells show reduced chemotactic responses to lysophosphatidic acid (LPA), a major driver of tumor spread. This is due to impaired macropinocytic uptake of the LPAR1 receptor, which is crucial for receptor trafficking and cancer cell signaling (Nikolaou2022CYRIB).
+
+CYRI-B's involvement in maintaining epithelial apico-basolateral polarity is noted, with its loss potentially leading to hyperactivation of RAC1, disrupting cell polarity and enhancing cancer progression (Nikolaou2022CYRIB). These findings highlight CYRI-B as a potential target in PDAC progression and metastasis.
+
+## Interactions
+CYRI-B, also known as CYFIP-related Rac1 interactor B, is a protein that interacts with Rac1, a small GTPase involved in actin cytoskeleton reorganization. CYRI-B binds specifically to the active form of Rac1, competing with the Scar/WAVE complex for Rac1 binding, which is crucial for regulating actin polymerization and cell migration dynamics (Fort2018Fam49CYRI; Yelland2021Structural). The interaction between CYRI-B and Rac1 is mediated by the DUF1394 domain, a Rac1-binding module shared with CYFIP proteins of the Scar/WAVE complex (Fort2018Fam49CYRI).
+
+CYRI-B's interaction with Rac1 is characterized by specific binding to the switch-I loop of Rac1, involving a combination of polar and hydrophobic interactions (Yelland2021Structural). Key residues in CYRI-B, such as R160 and R161, form critical contacts with Rac1, and mutations in these residues significantly disrupt the interaction (Yelland2021Structural). CYRI-B also forms dimers that can autoinhibit Rac1 binding, suggesting a regulatory mechanism for its functionality (Yelland2021Structural).
+
+CYRI-B's role extends to maintaining epithelial polarity and proper luminogenesis by stabilizing Rac1 activation gradients, which are essential for the spatial control of the Scar/WAVE complex during cyst formation (Fort2018Fam49CYRI). This interaction is crucial for modulating Rac1-mediated actin dynamics and cellular processes such as cell migration and chemotaxis (Fort2018Fam49CYRI).
+
+
+## References
+
+
+[1. (Kaplan2020Structure) Elise Kaplan, Rachael Stone, Peter J. Hume, Nicholas P. Greene, and Vassilis Koronakis. Structure of cyri-b (fam49b), a key regulator of cellular actin assembly. Acta Crystallographica Section D Structural Biology, 76(10):1015–1024, September 2020. URL: http://dx.doi.org/10.1107/s2059798320010906, doi:10.1107/s2059798320010906. This article has 12 citations.](https://doi.org/10.1107/s2059798320010906)
+
+[2. (Whitelaw2019CYRI) Jamie A. Whitelaw, Sergio Lilla, Nikki R. Paul, Loic Fort, Sara Zanivan, and Laura M. Machesky. Cyri/ fam49 proteins represent a new class of rac1 interactors. Communicative &amp; Integrative Biology, 12(1):112–118, January 2019. URL: http://dx.doi.org/10.1080/19420889.2019.1643665, doi:10.1080/19420889.2019.1643665. This article has 7 citations.](https://doi.org/10.1080/19420889.2019.1643665)
+
+[3. (Yelland2021Structural) Tamas Yelland, Anh Hoang Le, Savvas Nikolaou, Robert Insall, Laura Machesky, and Shehab Ismail. Structural basis of cyri-b direct competition with scar/wave complex for rac1. Structure, 29(3):226-237.e4, March 2021. URL: http://dx.doi.org/10.1016/j.str.2020.11.003, doi:10.1016/j.str.2020.11.003. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.str.2020.11.003)
+
+[4. (Fort2018Fam49CYRI) Loic Fort, José Miguel Batista, Peter A. Thomason, Heather J. Spence, Jamie A. Whitelaw, Luke Tweedy, Jennifer Greaves, Kirsty J. Martin, Kurt I. Anderson, Peter Brown, Sergio Lilla, Matthew P. Neilson, Petra Tafelmeyer, Sara Zanivan, Shehab Ismail, David M. Bryant, Nicholas C. O. Tomkinson, Luke H. Chamberlain, Grant S. Mastick, Robert H. Insall, and Laura M. Machesky. Fam49/cyri interacts with rac1 and locally suppresses protrusions. Nature Cell Biology, 20(10):1159–1171, September 2018. URL: http://dx.doi.org/10.1038/s41556-018-0198-9, doi:10.1038/s41556-018-0198-9. This article has 65 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41556-018-0198-9)
+
+5. (Whitelaw2024CYRIB) CYRI-B loss promotes enlarged mature focal adhesions and restricts microtubule and ERC1 access to the cell leading edge. This article has 0 citations.
+
+6. (Nikolaou2022CYRIB) CYRI-B mediated macropinocytosis drives metastasis via lysophosphatidic acid receptor uptake. This article has 0 citations.

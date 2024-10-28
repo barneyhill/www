@@ -1,0 +1,36 @@
+# DET1
+
+## Overview
+The DET1 gene encodes a protein known as the DET1 partner of COP1 E3 ubiquitin ligase, which plays a pivotal role in the regulation of protein stability through ubiquitination processes. As an adaptor protein, DET1 is integral to the function of the Cullin-4 (CRL4) ubiquitin ligase complex, facilitating the recruitment of the ubiquitin ligase COP1 and the ubiquitin-conjugating enzyme Ube2e2. This interaction is crucial for the posttranslational regulation of proteins such as the proto-oncogenic transcription factor c-Jun, thereby maintaining cellular homeostasis and preventing oncogenic processes (Wertz2004Human; Burgess2024DET1). The DET1 protein is characterized by a predominantly beta sheet structure with unique conformational dynamics that are essential for its function (Burgess2024DET1). Clinically, mutations in the DET1 gene have been associated with therapeutic resistance in melanoma, underscoring its significance in cancer biology and potential as a target for therapeutic intervention (Xie2018COP1DET1ETS).
+
+## Structure
+The human DET1 protein is characterized by a predominantly beta sheet structure, which aligns with the AlphaFold2 predicted structure (Burgess2024DET1). The N-terminal H-box motif of DET1 interacts with the BPC of DDB1 using a helix-loop-helix motif, similar to other DCAF-DDB1 structures (Burgess2024DET1). Beyond the beta sheet core, DET1 includes an insertion of residues 262-329 that form a series of alpha-helices, creating a 'cup' structure that accommodates the ubiquitin-conjugating domain of Ube2e2 (Burgess2024DET1). This 'cup' structure is crucial for binding to the ubiquitin conjugating domain, with specific residues interacting with the C-terminal helix and beta-sheet backside of Ube2e2 (Burgess2024DET1).
+
+DET1 exists in dynamic states, transitioning between open and closed conformations, with the closed state being stabilized by DDA1 when Ube2e2 is bound (Burgess2024DET1). Phosphorylation sites, such as Ser66 and Ser458, are implicated in regulating its conformation and interaction with COP1 (Burgess2024DET1). The closed conformation of DET1 is linked to COP1 binding, involving the WD40 domain of COP1 (Burgess2024DET1).
+
+## Function
+The human gene DET1 encodes a protein that plays a critical role in regulating the stability and activity of the proto-oncogenic transcription factor c-Jun. DET1 is a component of a multisubunit ubiquitin ligase complex that includes DNA Damage Binding Protein-1 (DDB1), cullin 4A (CUL4A), Regulator of Cullins-1 (ROC1), and constitutively photomorphogenic-1 (hCOP1) (Wertz2004Human). This complex is involved in the ubiquitination and subsequent degradation of c-Jun, a process essential for controlling c-Jun-activated transcription and maintaining cellular homeostasis (Wertz2004Human).
+
+DET1 recruits hCOP1 to form the DCX hDET1-hCOP1 complex, which facilitates the recruitment of c-Jun for degradation. This process is posttranslational, as it does not affect c-Jun mRNA levels (Wertz2004Human). The interaction between DET1 and hCOP1 is crucial, as variants of hCOP1 that do not bind DET1 fail to promote c-Jun degradation (Wertz2004Human). The degradation of c-Jun by this complex is significant for preventing the overactivation of c-Jun, which could lead to oncogenic processes (Wertz2004Human). DET1's role in regulating apoptosis is also suggested by the induction of apoptosis in U2OS cells upon DET1 siRNA treatment (Wertz2004Human).
+
+## Clinical Significance
+Mutations and alterations in the DET1 gene have been implicated in therapeutic resistance in melanoma. DET1 mutations, such as the P535F mutation, have been identified in melanoma patients who developed resistance to MAPK inhibitors like vemurafenib. These mutations can lead to a failure in degrading proteins like mCherry-nETV1, contributing to resistance by maintaining high levels of Pea3 factors, which are not reduced by MAPK inhibition (Xie2018COP1DET1ETS). The loss of DET1 disrupts the coupling between MAPK signaling and transcriptional output, potentially leading to increased levels of ERK-feedback regulators and contributing to therapeutic resistance (Xie2018COP1DET1ETS).
+
+In addition to melanoma, DET1 is involved in the regulation of the proto-oncogenic transcription factor c-Jun through a ubiquitin ligase complex. This complex targets c-Jun for degradation, and alterations in DET1 expression can lead to c-Jun accumulation, affecting cellular homeostasis and potentially contributing to oncogenesis (Wertz2004Human). The DET1 gene's role in these pathways highlights its clinical significance in cancer progression and resistance to targeted therapies.
+
+## Interactions
+The human gene DET1 encodes a protein that plays a significant role in ubiquitination processes by interacting with various proteins. DET1 functions as an adaptor protein, recruiting the ubiquitin ligase COP1 to the Cullin-4 (CRL4) ubiquitin ligase complex. It binds to the DDB1-DDA1 complex, facilitating the recruitment of Cullin-4 and the ubiquitin ligase enzyme Ube2e2. The binding of DDA1 stabilizes a closed conformation of DET1, which is necessary for the recruitment of COP1 in an antiparallel dimeric state (Burgess2024DET1).
+
+DET1 is unique among DCAF proteins because it can directly bind ubiquitin-conjugating (E2) enzymes, specifically the human Ube2e family. It recruits Ube2e enzymes through a helical hairpin that binds to the backside beta-sheet of Ube2e2, a binding mode crucial for specific recruitment. This interaction precludes the backside-binding of ubiquitin, suggesting that DET1 does not enhance ubiquitin discharge from Ube2e2 (Burgess2024DET1).
+
+The interaction between DET1 and COP1 is crucial for the stability of COP1, as shown by co-expression experiments. Specific mutations in COP1 can affect its interaction with DET1, highlighting the importance of these interactions for the stability and function of the complex (Burgess2024DET1).
+
+
+## References
+
+
+[1. (Wertz2004Human) Ingrid E. Wertz, Karen M. O’Rourke, Zemin Zhang, David Dornan, David Arnott, Raymond J. Deshaies, and Vishva M. Dixit. Human de-etiolated-1 regulates c-jun by assembling a cul4a ubiquitin ligase. Science, 303(5662):1371–1374, February 2004. URL: http://dx.doi.org/10.1126/science.1093549, doi:10.1126/science.1093549. This article has 302 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1093549)
+
+[2. (Xie2018COP1DET1ETS) Yuanyuan Xie, Zhen Cao, Elissa W.P. Wong, Youxin Guan, Wenfu Ma, Jenny Q. Zhang, Edward G. Walczak, Devan Murphy, Leili Ran, Inna Sirota, Shangqian Wang, Shipra Shukla, Dong Gao, Simon R.V. Knott, Kenneth Chang, Justin Leu, John Wongvipat, Cristina R. Antonescu, Gregory Hannon, Ping Chi, and Yu Chen. Cop1/det1/ets axis regulates erk transcriptome and sensitivity to mapk inhibitors. Journal of Clinical Investigation, 128(4):1442–1457, March 2018. URL: http://dx.doi.org/10.1172/jci94840, doi:10.1172/jci94840. This article has 32 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci94840)
+
+3. (Burgess2024DET1) DET1 dynamics underlie co-operative ubiquitination by CRL4DET1-COP1 complexes. This article has 0 citations.

@@ -1,0 +1,46 @@
+# TEX19
+
+## Overview
+TEX19 is a gene that encodes the testis-expressed 19 protein, which is primarily expressed in the testis and plays a significant role in maintaining genomic stability during spermatogenesis. The TEX19 protein is characterized by conserved regions and motifs, such as the CXXC motif, which suggest potential functional roles in redox activity and zinc finger interactions (Bianchetti2015Tex19). Functionally, TEX19 is involved in the repression of transposable elements, crucial for preserving genomic integrity, particularly in germ cells (PlanellsPalop2017Human). It interacts with proteins such as L1-ORF1p and UBR2, facilitating the degradation of transposable elements and maintaining genomic stability (MacLennan2017Mobilization). TEX19's expression levels have clinical significance, serving as potential prognostic markers in various cancers, where its expression correlates with disease progression and patient outcomes (PlanellsPalop2017Human; Xu2020TEX19).
+
+## Structure
+The TEX19 protein is characterized by several conserved regions, including 'MCP', 'VPTEL', and 'iLeu'. The 'MCP' region contains invariant cysteines at positions 2, 34, and 37, and a histidine at position 27. The 'VPTEL' region includes an invariant cysteine at position 155 and a histidine at position 157. The 'iLeu' region is marked by invariant leucines at several positions. Secondary structure predictions for the 'MCP' region suggest the presence of two alpha-helices, with Cys-2 and His-27 located in a coil and the first helix, respectively, and Cys-34 and Cys-37 in the second helix (Bianchetti2015Tex19).
+
+The TEX19 protein also features a CXXC motif in the 'MCP' region, which is common in redox-active catalytic enzymes and zinc fingers, indicating a potential functional role. Despite the presence of cysteines, which typically form disulfide bridges, TEX19 is localized in the cytoplasm, a reductive environment that does not favor disulfide bond formation (Bianchetti2015Tex19). The tertiary and quaternary structures of TEX19, as well as any post-translational modifications or splice variant isoforms, have not been well-documented in the available literature.
+
+## Function
+TEX19 is a gene primarily expressed in the testis, where it plays a crucial role in maintaining genomic stability and regulating transposable elements during spermatogenesis. In healthy human cells, TEX19 is involved in the repression of transposable genetic elements, which is essential for preserving genomic integrity. This function is particularly important in germ cells, where the mobilization of transposable elements can lead to mutations and genomic instability (PlanellsPalop2017Human).
+
+TEX19 is active in both the cytoplasm and nucleus of cells, with its localization varying depending on the cell type and density. In the testis, TEX19 is found in the basal layer, potentially in spermatogonial cells or Sertoli cells, and forms nuclear foci, suggesting a role in chromatin association (PlanellsPalop2017Human). This nuclear presence is indicative of its involvement in transcriptional regulation and genome protection.
+
+In mice, the orthologue Tex19.1 is known to interact with PIWI proteins to repress transposable elements, a function that is likely conserved in humans (Bellil2021Human). This interaction is crucial for maintaining genomic stability during the development of germ cells, highlighting TEX19's role in safeguarding the integrity of the germline genome.
+
+## Clinical Significance
+TEX19 is implicated in various cancers, with its expression levels serving as potential prognostic markers. High TEX19 expression is associated with poor prognosis in several cancer types, including breast invasive carcinoma, prostate adenocarcinoma, and certain kidney cancers. However, in gliomas, higher TEX19 expression correlates with a better prognosis, highlighting its complex role in cancer (PlanellsPalop2017Human). TEX19 is also involved in ovarian carcinoma progression, where elevated levels are linked to advanced disease stages and increased metastasis. Knockdown of TEX19 in ovarian carcinoma cells reduces proliferation, migration, and invasion, suggesting its role in promoting cancer progression (Xu2020TEX19).
+
+TEX19 interacts with the LINE-1 retrotransposable element ORF1 protein (LIRE1), which is crucial for maintaining genomic stability. Mutations in TEX19, such as missense polymorphisms, can potentially disrupt this interaction, leading to increased genomic instability and cancer risk (Alzahrani2021In). TEX19's role in regulating transposable elements and its involvement in oncogenic proliferation make it a potential target for cancer therapy (PlanellsPalop2017Human). These findings underscore the clinical significance of TEX19 in cancer prognosis and therapy, although further research is needed to fully understand its implications in different cancer types.
+
+## Interactions
+TEX19 is known to interact with the LINE-1 (L1) retrotransposon-encoded protein L1-ORF1p. This interaction is significant as it stimulates the polyubiquitylation and degradation of L1-ORF1p, thereby restricting L1 mobilization in the genome. TEX19 likely promotes the activity of the E3 ubiquitin ligase UBR2 towards L1-ORF1p, facilitating its degradation via the proteasome (MacLennan2017Mobilization). 
+
+In addition to its interaction with L1-ORF1p, TEX19 forms a stable complex with UBR2, a RING domain E3 ubiquitin ligase. This complex is crucial for the stability of TEX19, as UBR2 is required to prevent TEX19 from being degraded. TEX19 acts as a regulatory subunit in this complex, modulating UBR2's activity and substrate specificity (MacLennan2017Mobilization; Reichmann2017Tex19.1Regulates).
+
+TEX19 also interacts with PIWI proteins in the mouse testis, playing a role in repressing transposable genetic elements and maintaining genomic stability. This interaction is part of TEX19's broader function in regulating transposable elements and ensuring genomic integrity in germ cells (Bellil2021Human).
+
+
+## References
+
+
+[1. (Bianchetti2015Tex19) Laurent Bianchetti, Yara Tarabay, Odile Lecompte, Roland Stote, Olivier Poch, Annick Dejaegere, and Stéphane Viville. Tex19 and sectm1 concordant molecular phylogenies support co-evolution of both eutherian-specific genes. BMC Evolutionary Biology, October 2015. URL: http://dx.doi.org/10.1186/s12862-015-0506-y, doi:10.1186/s12862-015-0506-y. This article has 3 citations.](https://doi.org/10.1186/s12862-015-0506-y)
+
+[2. (Xu2020TEX19) Zhaoxu Xu, Haichao Tang, Tianshu Zhang, Mingli Sun, Qiang Han, Jiao Xu, Minjie Wei, and Zhaojin Yu. Tex19 promotes ovarian carcinoma progression and is a potential target for epitope vaccine immunotherapy. Life Sciences, 241:117171, January 2020. URL: http://dx.doi.org/10.1016/j.lfs.2019.117171, doi:10.1016/j.lfs.2019.117171. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.lfs.2019.117171)
+
+3. (Reichmann2017Tex19.1Regulates) Tex19.1Regulates Acetylated SMC3 Cohesin and Prevents Aneuploidy in Mouse Oocytes. This article has 2 citations.
+
+[4. (MacLennan2017Mobilization) Marie MacLennan, Marta García-Cañadas, Judith Reichmann, Elena Khazina, Gabriele Wagner, Christopher J Playfoot, Carmen Salvador-Palomeque, Abigail R Mann, Paula Peressini, Laura Sanchez, Karen Dobie, David Read, Chao-Chun Hung, Ragnhild Eskeland, Richard R Meehan, Oliver Weichenrieder, Jose Luis García-Pérez, and Ian R Adams. Mobilization of line-1 retrotransposons is restricted by tex19.1 in mouse embryonic stem cells. eLife, August 2017. URL: http://dx.doi.org/10.7554/elife.26152, doi:10.7554/elife.26152. This article has 44 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.26152)
+
+[5. (Bellil2021Human) Hela Bellil, Farah Ghieh, Emeline Hermel, Béatrice Mandon-Pepin, and François Vialard. Human testis-expressed (tex) genes: a review focused on spermatogenesis and male fertility. Basic and Clinical Andrology, April 2021. URL: http://dx.doi.org/10.1186/S12610-021-00127-7, doi:10.1186/s12610-021-00127-7. This article has 31 citations.](https://doi.org/10.1186/S12610-021-00127-7)
+
+[6. (PlanellsPalop2017Human) Vicente Planells-Palop, Ali Hazazi, Julia Feichtinger, Jana Jezkova, Gerhard Thallinger, Naif O. Alsiwiehri, Mikhlid Almutairi, Lee Parry, Jane A. Wakeman, and Ramsay J. McFarlane. Human germ/stem cell-specific gene tex19 influences cancer cell proliferation and cancer prognosis. Molecular Cancer, April 2017. URL: http://dx.doi.org/10.1186/s12943-017-0653-4, doi:10.1186/s12943-017-0653-4. This article has 19 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s12943-017-0653-4)
+
+[7. (Alzahrani2021In) Faisal A. Alzahrani, Yousef MohammedRabaa Hawsawi, Hisham N. Altayeb, Naif O. Alsiwiehri, Othman R. Alzahrani, Hanan E. Alatwi, Osama M. Al‐Amer, Suliman Alomar, and Lamjed Mansour. In silico modeling of the interaction between tex19 and lire1, and analysis of tex19 gene missense snps. Molecular Genetics &amp; Genomic Medicine, May 2021. URL: http://dx.doi.org/10.1002/mgg3.1707, doi:10.1002/mgg3.1707. This article has 7 citations.](https://doi.org/10.1002/mgg3.1707)

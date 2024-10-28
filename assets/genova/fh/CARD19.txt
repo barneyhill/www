@@ -1,0 +1,36 @@
+# CARD19
+
+## Overview
+CARD19, also known as caspase recruitment domain family member 19, is a gene that encodes a transmembrane protein localized to the outer mitochondrial membrane. The CARD19 protein is characterized by an N-terminal caspase recruitment domain (CARD), which is involved in protein-protein interactions, particularly in pathways related to apoptosis and inflammation (Rios2020CARD19). Despite its initial association with NF-κB activation through BCL10 interaction, CARD19's primary role appears to be in maintaining mitochondrial cristae morphology by interacting with components of the mitochondrial contact site and cristae organizing system (MICOS) (Rios2022CARD19). These interactions are crucial for the structural integrity of the inner mitochondrial membrane, as CARD19 deficiency leads to abnormal cristae structures (Rios2022CARD19). Additionally, CARD19 may play a role in the regulation of cell lysis, particularly in the context of pyroptosis, a form of programmed cell death (Bjanes2021Genetic).
+
+## Structure
+The CARD19 protein, encoded by the human gene C9orf89, is a mitochondrial protein characterized by an N-terminal caspase recruitment domain (CARD) spanning amino acids 8-97, which is crucial for binding to Bcl10 (Rios2020CARD19). The CARD domain is known for facilitating protein-protein interactions, particularly in apoptosis and inflammation pathways, and typically forms a six-helix bundle contributing to its tertiary structure. The C-terminal domain of CARD19 includes a predicted transmembrane domain, essential for its mitochondrial localization, but lacks identified functional motifs (Rios2022CARD19; Rios2020CARD19).
+
+CARD19 is a transmembrane protein localized to the outer mitochondrial membrane, with its N-terminus facing the cytoplasm and the C-terminus facing the intermembrane space (Rios2022CARD19). The protein interacts with components of the mitochondrial contact site and cristae organizing system (MICOS), such as MIC60, MIC19, and MIC25, which are crucial for maintaining cristae morphology (Rios2022CARD19). The CARD domain itself is not necessary for mitochondrial localization, as the transmembrane domain and distal C-terminus are sufficient for this targeting (Rios2022CARD19). The CARD19 protein is derived from a fully spliced mRNA, with no significant translation of its partially spliced variant, AK057716, in T cells (Rios2020CARD19).
+
+## Function
+CARD19 is a mitochondrial protein that plays a significant role in maintaining mitochondrial cristae morphology. It is localized to the outer mitochondrial membrane and interacts with components of the mitochondrial contact site and cristae organizing system (MICOS), such as MIC19, MIC25, MIC60, SAMM50, and MTX2. These interactions are crucial for its function, as CARD19 knockout cells exhibit abnormal cristae structures, indicating its role in maintaining inner membrane architecture (Rios2022CARD19).
+
+Although initially thought to regulate NF-κB activation through interaction with BCL10, this interaction is only significant under conditions of overexpression and not observed in primary cells. CARD19 does not regulate Bcl10-dependent NF-κB activation after TCR engagement in T cells, suggesting its function in healthy human cells may not be directly related to this pathway (Rios2020CARD19).
+
+CARD19 is also implicated in the regulation of cell lysis, potentially through interactions with mitochondrial proteins or other pathways. CARD19-deficient cells show a decoupling of cell lysis from cytokine release, indicating a potential role in the terminal stages of pyroptosis, a form of programmed cell death (Bjanes2021Genetic).
+
+## Clinical Significance
+
+
+## Interactions
+CARD19 is a mitochondrial protein that localizes to the outer mitochondrial membrane and interacts with several components of the mitochondrial contact site and cristae organizing system (MICOS). It specifically associates with MICOS components such as MIC19, MIC25, and MIC60, as well as MICOS-interacting proteins SAMM50 and MTX2. These interactions are crucial for maintaining proper cristae morphology, as the absence of CARD19 leads to irregular cristae structures, similar to phenotypes observed with the silencing of MICOS subunits (Rios2022CARD19).
+
+The interactions between CARD19 and these mitochondrial proteins are highly dependent on CARD19's mitochondrial localization. Mutations affecting CARD19's transmembrane domain or specific deletions result in minimal association with MICOS components, highlighting the importance of its transmembrane and C-terminal domains for proper localization and interaction (Rios2022CARD19). The CARD domain itself is not required for these interactions, although its proper folding is necessary for optimal association with MICOS partners (Rios2022CARD19).
+
+CARD19's role in regulating cristae morphology is further supported by its interaction with MICOS-MIB complex proteins, although it remains unclear if CARD19 is an integral component of MICOS required for subcomplex assembly or stability (Rios2022CARD19).
+
+
+## References
+
+
+[1. (Bjanes2021Genetic) Elisabet Bjanes, Reyna Garcia Sillas, Rina Matsuda, Benjamin Demarco, Timothée Fettrelet, Alexandra A. DeLaney, Opher S. Kornfeld, Bettina L. Lee, Eric M. Rodríguez López, Daniel Grubaugh, Meghan A. Wynosky-Dolfi, Naomi H. Philip, Elise Krespan, Dorothy Tovar, Leonel Joannas, Daniel P. Beiting, Jorge Henao-Mejia, Brian C. Schaefer, Kaiwen W. Chen, Petr Broz, and Igor E. Brodsky. Genetic targeting of card19 is linked to disrupted ninj1 expression, impaired cell lysis, and increased susceptibility to yersinia infection. PLOS Pathogens, 17(10):e1009967, October 2021. URL: http://dx.doi.org/10.1371/journal.ppat.1009967, doi:10.1371/journal.ppat.1009967. This article has 29 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.ppat.1009967)
+
+[2. (Rios2022CARD19) Kariana E. Rios, Ming Zhou, Nathaniel M. Lott, Chelsi R. Beauregard, Dennis P. McDaniel, Thomas P. Conrads, and Brian C. Schaefer. Card19 interacts with mitochondrial contact site and cristae organizing system constituent proteins and regulates cristae morphology. Cells, 11(7):1175, March 2022. URL: http://dx.doi.org/10.3390/cells11071175, doi:10.3390/cells11071175. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells11071175)
+
+[3. (Rios2020CARD19) Kariana E. Rios, Anuj K. Kashyap, Sean K. Maynard, Michael Washington, Suman Paul, and Brian C. Schaefer. Card19, the protein formerly known as bincard, is a mitochondrial protein that does not regulate bcl10-dependent nf-κb activation after tcr engagement. Cellular Immunology, 356:104179, October 2020. URL: http://dx.doi.org/10.1016/j.cellimm.2020.104179, doi:10.1016/j.cellimm.2020.104179. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellimm.2020.104179)

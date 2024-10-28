@@ -1,0 +1,56 @@
+# TAS2R7
+
+## Overview
+The TAS2R7 gene encodes the taste 2 receptor member 7, a G protein-coupled receptor (GPCR) that plays a pivotal role in the perception of bitter taste. This receptor is primarily expressed in taste bud cells and is involved in detecting a variety of bitter compounds, including certain metal ions, which may serve as a protective mechanism against the ingestion of potentially harmful substances (Wang2019Metal; Behrens2019The). The TAS2R7 protein is characterized by its seven transmembrane helices, a hallmark of GPCRs, and is known to form oligomers with other bitter taste receptors, although the functional implications of these interactions remain to be fully elucidated (Liu2018Plasticity; Kuhn2010Oligomerization). Beyond its role in taste, TAS2R7 is expressed in extraoral tissues and has been implicated in various health conditions, including type 2 diabetes mellitus and potentially in cancer biology, highlighting its broader physiological significance (Dotson2008Bitter; Lu2017Extraoral).
+
+## Structure
+The TAS2R7 protein is a G protein-coupled receptor (GPCR) involved in bitter taste perception. It consists of 318 amino acids and features a structure typical of GPCRs, with seven transmembrane helices, a short N-terminus, three extracellular loops, three intracellular loops, and an intracellular C-terminus (Liu2018Plasticity). The ligand-binding pocket of TAS2R7 is located on the extracellular side of the transmembrane domains, involving residues from transmembrane helices and extracellular loop 2 (ECL2) (Liu2018Plasticity; Behrens2020StructureFunction). 
+
+Molecular modeling studies have identified key residues such as D86, S181, and W170 as essential for agonist binding, with mutations in these areas leading to loss of function (Liu2018Plasticity). The receptor is also responsive to metal ions, with specific residues like E16, H94, E264, and E271 playing critical roles in metal ion recognition (Wang2019Metal). 
+
+Post-translational modifications such as glycosylation are suggested, although not yet incorporated into modeling efforts (Behrens2020StructureFunction). The receptor's structure has been modeled using homology modeling techniques, often based on the crystal structure of related GPCRs like the 5-HT2C serotonin receptor (Wang2019Metal; Spaggiari2020Sweet).
+
+## Function
+The TAS2R7 gene encodes a bitter taste receptor that is part of the G protein-coupled receptor (GPCR) family, specifically involved in detecting bitter compounds. This receptor is expressed in taste bud cells and plays a crucial role in the perception of bitterness, which is important for avoiding potentially toxic substances. TAS2R7 is activated by divalent and trivalent metal ions, such as zinc, calcium, magnesium, copper, manganese, and aluminum, but not by monovalent salts like potassium chloride (Wang2019Metal; Behrens2019The). 
+
+The receptor's activation by these metal ions suggests it functions as a metal cation receptor, contributing to the bitterness of mineral-rich foods (Wang2019Metal). TAS2R7's ability to detect bitter-tasting salts may serve as a protective mechanism to prevent the ingestion of harmful levels of these compounds (Behrens2019The). 
+
+Molecular modeling and site-directed mutagenesis have identified critical residues, such as H94 and E264, that are important for the interaction with metal ions, indicating a specific ligand-binding mechanism (Wang2019Metal). The receptor's activity is mediated through G αi subunits, which are part of the signaling pathways that transmit taste information to the brain (Sainz2007Functional).
+
+## Clinical Significance
+The TAS2R7 gene, encoding a bitter taste receptor, has been implicated in various health conditions through its genetic variations and expression levels. In the Amish population, specific single nucleotide polymorphisms (SNPs) within the TAS2R7 gene, such as rs619381, have been associated with an increased risk of type 2 diabetes mellitus (T2DM). This SNP results in a nonsynonymous coding change (C519T, encoding Met304Ile), suggesting a potential role in glucose dysregulation and T2DM risk (Dotson2008Bitter).
+
+Beyond its role in taste perception, TAS2R7 is expressed in extraoral tissues, including the digestive and respiratory systems, and is involved in diverse biological functions. Although the specific clinical significance of TAS2R7 expression alterations is not fully detailed, the broader TAS2R family has been linked to various disorders, indicating potential clinical relevance (Lu2017Extraoral).
+
+Research has also explored the role of TAS2R7 in cancer biology, particularly in acute myeloid leukemia (AML). While the specific impact of TAS2R7 in AML is not explicitly detailed, the expression of TAS2Rs in AML cells suggests a possible involvement in cancer progression and therapy resistance (Salvestrini2020Denatonium).
+
+## Interactions
+TAS2R7, a member of the bitter taste receptor family, is involved in various protein interactions that contribute to its function in taste perception. It is known to form oligomers, both homomers and heteromers, with other TAS2R receptors. This oligomerization has been demonstrated using coimmunoprecipitation and bioluminescence resonance energy transfer (BRET) assays. TAS2R7 has been shown to interact with other TAS2R receptors such as TAS2R44 and TAS2R46, forming multiprotein complexes in living cells (Kuhn2010Oligomerization).
+
+The functional consequences of these oligomerizations are not fully understood, as no significant differences in receptor localization or pharmacological properties have been observed when TAS2Rs are coexpressed. Attempts to identify heteromer-specific agonists have not been successful, indicating that oligomerization does not significantly alter the receptor's response to ligands (Kuhn2010Oligomerization).
+
+TAS2R7 also interacts with G-proteins, primarily signaling through G αi-mediated pathways. It has been shown to couple with various G αi subunits, such as transducin, G αi1, and G αo, although it does not interact with G αs or G αq subunits, suggesting a specific pathway for bitter taste transduction (Sainz2007Functional).
+
+
+## References
+
+
+[1. (Sainz2007Functional) Eduardo Sainz, Margaret M. Cavenagh, Joanne Gutierrez, James F. Battey, John K. Northup, and Susan L. Sullivan. Functional characterization of human bitter taste receptors. Biochemical Journal, 403(3):537–543, April 2007. URL: http://dx.doi.org/10.1042/bj20061744, doi:10.1042/bj20061744. This article has 99 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20061744)
+
+[2. (Salvestrini2020Denatonium) Valentina Salvestrini, Marilena Ciciarello, Valentina Pensato, Giorgia Simonetti, Maria Antonella Laginestra, Samantha Bruno, Martina Pazzaglia, Elena De Marchi, Dorian Forte, Stefania Orecchioni, Giovanni Martinelli, Francesco Bertolini, Simon Méndez-Ferrer, Elena Adinolfi, Francesco Di Virgilio, Michele Cavo, and Antonio Curti. Denatonium as a bitter taste receptor agonist modifies transcriptomic profile and functions of acute myeloid leukemia cells. Frontiers in Oncology, July 2020. URL: http://dx.doi.org/10.3389/fonc.2020.01225, doi:10.3389/fonc.2020.01225. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2020.01225)
+
+[3. (Kuhn2010Oligomerization) Christina Kuhn, Bernd Bufe, Claudia Batram, and Wolfgang Meyerhof. Oligomerization of tas2r bitter taste receptors. Chemical Senses, 35(5):395–406, March 2010. URL: http://dx.doi.org/10.1093/chemse/bjq027, doi:10.1093/chemse/bjq027. This article has 73 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/chemse/bjq027)
+
+[4. (Spaggiari2020Sweet) Giulia Spaggiari, Antonella Di Pizio, and Pietro Cozzini. Sweet, umami and bitter taste receptors: state of the art of in silico molecular modeling approaches. Trends in Food Science &amp; Technology, 96:21–29, February 2020. URL: http://dx.doi.org/10.1016/j.tifs.2019.12.002, doi:10.1016/j.tifs.2019.12.002. This article has 81 citations.](https://doi.org/10.1016/j.tifs.2019.12.002)
+
+[5. (Liu2018Plasticity) Kun Liu, Appalaraju Jaggupilli, Dhanaraj Premnath, and Prashen Chelikani. Plasticity of the ligand binding pocket in the bitter taste receptor t2r7. Biochimica et Biophysica Acta (BBA) - Biomembranes, 1860(5):991–999, May 2018. URL: http://dx.doi.org/10.1016/j.bbamem.2018.01.014, doi:10.1016/j.bbamem.2018.01.014. This article has 27 citations.](https://doi.org/10.1016/j.bbamem.2018.01.014)
+
+[6. (Behrens2020StructureFunction) Maik Behrens and Florian Ziegler. Structure-function analyses of human bitter taste receptors—where do we stand? Molecules, 25(19):4423, September 2020. URL: http://dx.doi.org/10.3390/molecules25194423, doi:10.3390/molecules25194423. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/molecules25194423)
+
+[7. (Behrens2019The) Maik Behrens, Ulrike Redel, Kristina Blank, and Wolfgang Meyerhof. The human bitter taste receptor tas2r7 facilitates the detection of bitter salts. Biochemical and Biophysical Research Communications, 512(4):877–881, May 2019. URL: http://dx.doi.org/10.1016/j.bbrc.2019.03.139, doi:10.1016/j.bbrc.2019.03.139. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2019.03.139)
+
+[8. (Wang2019Metal) Yi Wang, Amanda L Zajac, Weiwei Lei, Carol M Christensen, Robert F Margolskee, Cédric Bouysset, Jérôme Golebiowski, Huabin Zhao, Sébastien Fiorucci, and Peihua Jiang. Metal ions activate the human taste receptor tas2r7. Chemical Senses, 44(5):339–347, April 2019. URL: http://dx.doi.org/10.1093/chemse/bjz024, doi:10.1093/chemse/bjz024. This article has 45 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/chemse/bjz024)
+
+[9. (Dotson2008Bitter) Cedrick D. Dotson, Lan Zhang, Hong Xu, Yu-Kyong Shin, Stephan Vigues, Sandra H. Ott, Amanda E. T. Elson, Hyun Jin Choi, Hillary Shaw, Josephine M. Egan, Braxton D. Mitchell, Xiaodong Li, Nanette I. Steinle, and Steven D. Munger. Bitter taste receptors influence glucose homeostasis. PLoS ONE, 3(12):e3974, December 2008. URL: http://dx.doi.org/10.1371/journal.pone.0003974, doi:10.1371/journal.pone.0003974. This article has 220 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0003974)
+
+[10. (Lu2017Extraoral) Ping Lu, Cheng-Hai Zhang, Lawrence M. Lifshitz, and Ronghua ZhuGe. Extraoral bitter taste receptors in health and disease. Journal of General Physiology, 149(2):181–197, January 2017. URL: http://dx.doi.org/10.1085/jgp.201611637, doi:10.1085/jgp.201611637. This article has 157 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1085/jgp.201611637)

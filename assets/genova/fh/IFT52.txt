@@ -1,0 +1,52 @@
+# IFT52
+
+## Overview
+IFT52 is a gene that encodes the intraflagellar transport 52 protein, a critical component of the intraflagellar transport (IFT) system, specifically within the IFT-B complex. This protein plays a pivotal role in the assembly and maintenance of cilia, which are essential microtubule-based structures involved in cellular signaling and movement. The IFT52 protein is characterized by its interactions with other IFT-B proteins, such as IFT88, IFT70, and IFT46, forming complexes necessary for the anterograde transport of proteins along the ciliary axoneme. This transport is crucial for proper ciliogenesis and ciliary function, impacting various cellular processes, including microtubule dynamics and centrosome cohesion (Dupont2019Human; Zhang2016IFT52mutations). Mutations in the IFT52 gene are linked to several ciliopathies, such as Short Rib Polydactyly Syndrome and Bardet-Biedl syndrome, highlighting its clinical significance in human health (Dupont2019Human; Zhang2016IFT52mutations).
+
+## Structure
+IFT52 is a core component of the IFT-B complex, essential for its assembly and stability. The protein contains an N-terminal 'GIFT' domain, which is suggested to bind oligosaccharides, although significant binding to glycan ligands has not been detected experimentally (Taschner2012Architecture). The N-terminal domain of IFT52 adopts an aminotransferase fold, characterized by an extended central beta-sheet flanked by helices and beta-hairpins. This structure shows similarity to b-galactosidase and the glutaminase subunit PDX2, but lacks the sugar-binding domain and catalytic residues (Taschner2016Intraflagellar).
+
+IFT52 interacts with several other proteins within the IFT-B complex, forming a tetrameric complex with IFT88, IFT70, and IFT46. The interaction with IFT88 involves the N-terminal GIFT domain of IFT52 and the TPRs of IFT88, while the C-terminal domain of IFT52 interacts with IFT46 to form a heterodimer (Petriman2022Biochemically). The protein also contains a proline-rich stretch predicted to interact with SH3 domains, although the exact nature of this interaction remains unclear (Taschner2012Architecture). High-resolution studies have localized IFT52 to the periphery of transitional fibers, suggesting a role as a docking site for IFT particles (Taschner2012Architecture).
+
+## Function
+IFT52 is a crucial component of the intraflagellar transport (IFT) system, specifically part of the IFT-B complex, which is essential for the assembly and maintenance of cilia in human cells. Cilia are microtubule-based structures that play significant roles in cellular signaling and movement. IFT52 is involved in the anterograde transport of proteins along the ciliary axoneme, a process necessary for proper ciliogenesis and ciliary function (Dupont2019Human; Zhang2016IFT52mutations).
+
+In healthy cells, IFT52 interacts with other IFT-B proteins, such as IFT88, IFT70, and IFT46, to maintain the stability and assembly of the IFT-B complex. This interaction is critical for the transport of structural and signaling components to the ciliary tip, ensuring the proper formation and function of cilia (Lv2017Intraflagellar; Zhang2016IFT52mutations). IFT52 also plays a role in microtubule dynamics and centrosome cohesion, contributing to the structural integrity of the centrosome and proper cell division (Dupont2019Human).
+
+Mutations in IFT52 can lead to ciliopathies, which are disorders resulting from defective ciliary function, affecting multiple systems in the body, including the skeletal system, as seen in conditions like short rib polydactyly syndrome (Zhang2016IFT52mutations).
+
+## Clinical Significance
+Mutations in the IFT52 gene are associated with a range of ciliopathies, which are disorders caused by defects in the structure or function of cilia. These conditions often affect multiple systems, including the skeleton, kidneys, and eyes. One such condition is Short Rib Polydactyly Syndrome (SRPS), characterized by skeletal abnormalities such as a narrow thorax, short ribs, and polydactyly. Mutations in IFT52 disrupt the intraflagellar transport (IFT) process, leading to impaired ciliogenesis and skeletal defects (Zhang2016IFT52mutations).
+
+IFT52 mutations are also linked to Short-Rib Thoracic Dysplasia (SRTD) and Sensenbrenner syndrome, both of which involve skeletal dysplasia and other systemic anomalies. These mutations can lead to defects in cilia length regulation and reduced levels of IFT-B complex proteins, which are crucial for ciliary function (Dupont2019Human).
+
+Additionally, IFT52 mutations have been associated with Bardet-Biedl syndrome, isolated retinal dystrophy, and nephronophthisis-related disorders. These conditions exhibit phenotypic variability, potentially due to the nature of the mutations and their impact on ciliary signaling pathways (Dupont2019Human).
+
+## Interactions
+IFT52 is a core component of the intraflagellar transport (IFT) complex B, where it plays a crucial role in protein interactions necessary for ciliary function. Within the IFT-B complex, IFT52 directly interacts with IFT88 and IFT46, forming a stable ternary complex that is essential for the assembly and stability of the IFT complex B. This interaction is supported by yeast-based two-hybrid analysis and chemical cross-linking experiments (Lucker2010Direct).
+
+IFT52 also interacts with the IFT-B2 subcomplex through its association with IFT57 and IFT38. These interactions are mediated by specific residues in the N-terminal domain of IFT52, which are critical for maintaining the stability of the IFT-B complex (Taschner2016Intraflagellar).
+
+In addition to its role in the IFT complex, IFT52 interacts with centrin at the distal end of centrioles, contributing to microtubule anchorage and dynamics. This interaction is important for centrosome cohesion and is disrupted by certain missense mutations in IFT52, such as p.N98S and p.D259H, which lead to centriole splitting (Dupont2019Human).
+
+IFT52's interactions extend to the IFT-A complex, where it forms a significant interface with IFT88 and the IFT144-IFT122 dimer, highlighting its role in ciliary retrograde protein trafficking (Kobayashi2021Cooperation).
+
+
+## References
+
+
+[1. (Taschner2012Architecture) Michael Taschner, Sagar Bhogaraju, and Esben Lorentzen. Architecture and function of ift complex proteins in ciliogenesis. Differentiation, 83(2):S12–S22, February 2012. URL: http://dx.doi.org/10.1016/j.diff.2011.11.001, doi:10.1016/j.diff.2011.11.001. This article has 234 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.diff.2011.11.001)
+
+[2. (Dupont2019Human) Marie Alice Dupont, Camille Humbert, Céline Huber, Quentin Siour, Ida Chiara Guerrera, Vincent Jung, Anni Christensen, Aurore Pouliet, Meriem Garfa-Traoré, Patrick Nitschké, Marie Injeyan, Kathryn Millar, David Chitayat, Patrick Shannon, Katta Mohan Girisha, Anju Shukla, Charlotte Mechler, Esben Lorentzen, Alexandre Benmerah, Valérie Cormier-Daire, Cécile Jeanpierre, Sophie Saunier, and Marion Delous. Human ift52 mutations uncover a novel role for the protein in microtubule dynamics and centrosome cohesion. Human Molecular Genetics, 28(16):2720–2737, May 2019. URL: http://dx.doi.org/10.1093/hmg/ddz091, doi:10.1093/hmg/ddz091. This article has 23 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddz091)
+
+[3. (Taschner2016Intraflagellar) Michael Taschner, Kristina Weber, André Mourão, Melanie Vetter, Mayanka Awasthi, Marc Stiegler, Sagar Bhogaraju, and Esben Lorentzen. Intraflagellar transport proteins 172, 80, 57, 54, 38, and 20 form a stable tubulin‐binding <scp>ift</scp>‐b2 complex. The EMBO Journal, 35(7):773–790, February 2016. URL: http://dx.doi.org/10.15252/embj.201593164, doi:10.15252/embj.201593164. This article has 162 citations.](https://doi.org/10.15252/embj.201593164)
+
+4. (Petriman2022Biochemically) Biochemically validated structural model of the 15-subunit IFT-B complex. This article has 1 citations.
+
+[5. (Lv2017Intraflagellar) Bo Lv, Lei Wan, Michael Taschner, Xi Cheng, Esben Lorentzen, and Kaiyao Huang. Intraflagellar transport protein ift52 recruits ift46 to the basal body and flagella. Journal of Cell Science, 130(9):1662–1674, May 2017. URL: http://dx.doi.org/10.1242/jcs.200758, doi:10.1242/jcs.200758. This article has 41 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.200758)
+
+[6. (Lucker2010Direct) Ben F. Lucker, Mark S. Miller, Slawomir A. Dziedzic, Philip T. Blackmarr, and Douglas G. Cole. Direct interactions of intraflagellar transport complex b proteins ift88, ift52, and ift46. Journal of Biological Chemistry, 285(28):21508–21518, July 2010. URL: http://dx.doi.org/10.1074/jbc.M110.106997, doi:10.1074/jbc.m110.106997. This article has 98 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M110.106997)
+
+[7. (Kobayashi2021Cooperation) Takuya Kobayashi, Yamato Ishida, Tomoaki Hirano, Yohei Katoh, and Kazuhisa Nakayama. Cooperation of the ift-a complex with the ift-b complex is required for ciliary retrograde protein trafficking and gpcr import. Molecular Biology of the Cell, 32(1):45–56, January 2021. URL: http://dx.doi.org/10.1091/mbc.E20-08-0556, doi:10.1091/mbc.e20-08-0556. This article has 52 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.E20-08-0556)
+
+[8. (Zhang2016IFT52mutations) Wenjuan Zhang, S. Paige Taylor, Lisette Nevarez, Ralph S. Lachman, Deborah A. Nickerson, Michael Bamshad, Deborah Krakow, and Daniel H. Cohn. Ift52mutations destabilize anterograde complex assembly, disrupt ciliogenesis and result in short rib polydactyly syndrome. Human Molecular Genetics, 25(18):4012–4020, July 2016. URL: http://dx.doi.org/10.1093/hmg/ddw241, doi:10.1093/hmg/ddw241. This article has 42 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddw241)

@@ -1,0 +1,42 @@
+# FBXL17
+
+## Overview
+FBXL17 is a gene that encodes the F-box and leucine-rich repeat protein 17, a crucial component of the SCF (Skp1-Cul1-F-box protein) E3 ubiquitin ligase complex. This protein is characterized by its F-box domain, which facilitates protein-protein interactions, and leucine-rich repeats (LRRs) that are essential for substrate recognition and binding. FBXL17 plays a significant role in protein homeostasis by targeting specific proteins for ubiquitination and subsequent proteasomal degradation, thereby regulating processes such as cell cycle progression and signal transduction (Mason2019Fbxl17). It is involved in the quality control of BTB domain-containing proteins and the regulation of PRMT1 stability, impacting neuronal development and inflammatory responses (Mena2018Dimerization; Lai2017Lipopolysaccharide). Alterations in FBXL17 have been linked to various pathological conditions, including cancer, neurodegenerative diseases, and inflammatory disorders, highlighting its potential as a therapeutic target (Mason2019Fbxl17; Kang2022FBXL17spastin).
+
+## Structure
+FBXL17 is a protein characterized by the presence of an F-box domain and leucine-rich repeats (LRRs). The F-box domain, approximately 40 amino acids in length, is crucial for mediating protein-protein interactions, particularly within the SCF (Skp1-Cul1-F-box protein) E3 ubiquitin ligase complex (Mason2019Fbxl17). The LRRs form a horseshoe-like structure that facilitates the binding of various protein substrates, playing a significant role in the recruitment of SCF subunits necessary for ubiquitination (Mason2019Fbxl17).
+
+The LRRs are essential for the assembly and activity of the SCF complex, as they enable FBXL17 to interact with other SCF components like Skp1, Cul1, and Rbx1 (Mason2019Fbxl17). Mutations or rearrangements affecting the LRRs can impair these interactions, leading to reduced ubiquitination activity (Mason2019Fbxl17).
+
+FBXL17 is involved in post-translational modifications, such as ubiquitination, and interacts with proteins like Uap1, influencing pathways like O-GlcNAcylation (Mason2019Fbxl17). The protein's structure and interactions suggest its role as a tumor suppressor, with disruptions potentially contributing to cancer progression (Mason2019Fbxl17). Specific splice variant isoforms of FBXL17 have not been detailed in the available context.
+
+## Function
+FBXL17 is a crucial component of the SCF (Skp1-Cul1-F-box protein) E3 ubiquitin ligase complex, which plays a significant role in maintaining protein homeostasis by targeting specific proteins for ubiquitination and subsequent proteasomal degradation. This process is essential for regulating protein turnover, cell cycle progression, and signal transduction in healthy human cells (Mason2019Fbxl17). FBXL17 specifically targets BTB domain-containing proteins, ensuring that only properly folded proteins persist, which is vital for neuronal development and survival (Mena2018Dimerization). It recognizes nascent BTB proteins during a brief window of their synthesis, targeting immature dimers rather than monomeric forms, thus preventing the accumulation of aberrant protein complexes (Mena2018Dimerization).
+
+FBXL17 also regulates the stability of PRMT1, a protein involved in histone modification, by mediating its ubiquitination and degradation. This regulation is influenced by the acetylation status of specific lysine residues within PRMT1, which affects FBXL17's binding capacity (Lai2017Lipopolysaccharide). In the context of cancer, FBXL17 is frequently rearranged, particularly in breast cancer, leading to disruptions in its function and increased global O-GlcNAcylation, which is associated with higher-grade tumors (Mason2019Fbxl17).
+
+## Clinical Significance
+Mutations and alterations in the FBXL17 gene have been implicated in several neurodegenerative and inflammatory conditions. In hereditary spastic paraplegia (HSP), FBXL17 interacts with the SPAST-M1 isoform, targeting it for degradation. Mutations in SPAST, such as the Y52C mutant, disrupt this interaction, leading to increased protein stability and contributing to HSP pathology. Inhibiting the SCF FBXL17 E3 ubiquitin ligase complex can mitigate these effects, suggesting a potential therapeutic target for HSP (Kang2022FBXL17spastin).
+
+FBXL17 also plays a role in neuronal development through dimerization quality control (DQC). Its depletion can lead to the accumulation of aberrant BTB proteins, impairing neuronal differentiation and survival, which is relevant to neurodegenerative diseases. Mutations in FBXL17 have been reported in Parkinson's disease, although their specific effects on dopaminergic neurons remain unclear (Mena2018Dimerization).
+
+In pulmonary inflammatory diseases, FBXL17 regulates the stability of PRMT1, a protein involved in bronchial epithelial cell proliferation. Alterations in FBXL17 expression, influenced by factors like lipopolysaccharide treatment, can lead to PRMT1 accumulation and contribute to conditions such as asthma (Lai2017Lipopolysaccharide).
+
+## Interactions
+FBXL17 is involved in various protein interactions, primarily through its role as a component of the SCF (Skp1-Cul1-F-box protein) E3 ubiquitin ligase complex. It interacts with the SPAST-M1 isoform of the spastin protein, targeting it for degradation via the ubiquitin-proteasome pathway. This interaction occurs specifically through the BTB domain at the N-terminus of SPAST-M1, and is crucial for regulating microtubule dynamics and axonal extension, which are essential for neuronal function (Kang2022FBXL17spastin).
+
+FBXL17 also interacts with several other proteins, including UDP-N-acetylglucosamine pyrophosphorylase 1 (Uap1), ubiquitin-fold modifier conjugating enzyme 1 (Ufc1), casein kinase 2b (Csnk2B), and Klhl12. These interactions are dependent on the leucine-rich repeats (LRRs) of FBXL17. For instance, Uap1 and Ufc1 co-immunoprecipitate with both wild-type and Δ3LRR FBXL17, but truncation of 10 LRRs ablates their interaction. Klhl12 does not interact with either the Δ3LRR or Δ10LRR mutants, indicating its interaction with FBXL17 is dependent on the LRRs (Mason2019Fbxl17).
+
+FBXL17 is also involved in the quality control of BTB domain-containing proteins, recognizing and ubiquitylating aberrant BTB domain heterodimers while ignoring functional heterodimers. This role is crucial for maintaining proper protein interactions and function during neuronal development (Mena2018Dimerization).
+
+
+## References
+
+
+[1. (Mason2019Fbxl17) Bethany Mason, Susanne Flach, Felipe R. Teixeira, Raquel Manzano Garcia, Oscar M. Rueda, Jean E. Abraham, Carlos Caldas, Paul A. W. Edwards, and Heike Laman. Fbxl17 is rearranged in breast cancer and loss of its activity leads to increased global o-glcnacylation. Cellular and Molecular Life Sciences, 77(13):2605–2620, September 2019. URL: http://dx.doi.org/10.1007/s00018-019-03306-y, doi:10.1007/s00018-019-03306-y. This article has 10 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-019-03306-y)
+
+[2. (Mena2018Dimerization) Elijah L. Mena, Rachel A. S. Kjolby, Robert A. Saxton, Achim Werner, Brandon G. Lew, John M. Boyle, Richard Harland, and Michael Rape. Dimerization quality control ensures neuronal development and survival. Science, October 2018. URL: http://dx.doi.org/10.1126/science.aap8236, doi:10.1126/science.aap8236. This article has 60 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.aap8236)
+
+[3. (Lai2017Lipopolysaccharide) Yandong Lai, Jin Li, Xiuying Li, and Chunbin Zou. Lipopolysaccharide modulates p300 and sirt1 to promote prmt1 stability via an scffbxl17-recognized acetyldegron. Journal of Cell Science, 130(20):3578–3587, October 2017. URL: http://dx.doi.org/10.1242/jcs.206904, doi:10.1242/jcs.206904. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.206904)
+
+[4. (Kang2022FBXL17spastin) Hyun Mi Kang, Dae Hun Kim, Mijin Kim, Yoohong Min, Bohyeon Jeong, Kyung Hee Noh, Da Yong Lee, Hyun-Soo Cho, Nam-Soon Kim, Cho-Rok Jung, and Jung Hwa Lim. Fbxl17/spastin axis as a novel therapeutic target of hereditary spastic paraplegia. Cell &amp; Bioscience, July 2022. URL: http://dx.doi.org/10.1186/s13578-022-00851-1, doi:10.1186/s13578-022-00851-1. This article has 0 citations.](https://doi.org/10.1186/s13578-022-00851-1)

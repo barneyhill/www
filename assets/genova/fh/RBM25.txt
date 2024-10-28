@@ -1,0 +1,52 @@
+# RBM25
+
+## Overview
+RBM25 is a gene that encodes the RNA binding motif protein 25, a critical RNA-binding protein involved in the regulation of transcription and RNA processing. This protein is characterized by its RNA recognition motif (RRM), arginine-glutamate-rich (RE) motif, and proline-tryptophan-isoleucine (PWI) domain, which facilitate its interactions with RNA and influence alternative splicing (Le2023Alternative). As a splicing factor, RBM25 plays a significant role in modulating apoptotic pathways by influencing the alternative splicing of genes such as BCL-x, thereby affecting the balance between pro- and anti-apoptotic isoforms (Le2023Alternative). The protein's activity is crucial in various cellular processes, including transcription regulation and chromatin structure maintenance, and it has been implicated in the pathogenesis of several cancers, such as acute myeloid leukemia and hepatocellular carcinoma, where its expression levels can serve as potential prognostic markers (Zhang2021Prognostic; Ge2019The).
+
+## Structure
+RBM25 is a protein characterized by several distinct domains that contribute to its function in RNA processing. The protein contains an N-terminal RNA recognition motif (RRM), which is crucial for binding RNA molecules (Le2023Alternative). Additionally, it features a central arginine-glutamate-rich (RE) motif, which has been identified as necessary and sufficient for binding to specific RNA structures, such as the GQ-2 rG4 in BCL-x pre-mRNA (Le2023Alternative). The C-terminal region of RBM25 includes a proline-tryptophan-isoleucine (PWI) domain, which also plays a role in nucleic acid binding (Le2023Alternative).
+
+The protein's structure is highly conserved across various species, indicating its essential role in RNA binding and alternative splicing (Cheng2017RBM25). The presence of these domains suggests a complex tertiary structure that facilitates interactions with RNA and possibly DNA. RBM25 may undergo post-translational modifications, such as phosphorylation, which can regulate its activity and function. The protein exists in multiple splice variant isoforms, which can influence its localization and functional roles within the cell (Le2023Alternative). These structural features underscore RBM25's importance in the regulation of alternative splicing and its potential implications in cellular processes like apoptosis.
+
+## Function
+RBM25 (RNA binding motif protein 25) is a crucial RNA-binding protein involved in the regulation of transcription and co-transcriptional RNA processing in human cells. It plays a significant role in modulating the transcription factor YY1's function by facilitating its recruitment to target gene promoters, thereby enhancing YY1-dependent transcription activities across the human genome (Xiao2019Pervasive). RBM25 interacts with target gene promoters and recruits YY1 in a transcription-dependent manner, indicating its involvement in integrating transcription and RNA processing (Xiao2019Pervasive).
+
+RBM25 is active in the nucleus, where it predominantly interacts with pre-mRNAs and spliced mRNAs, rather than enhancer RNAs (eRNAs) (Xiao2019Pervasive). It is involved in maintaining chromatin structure and transcriptional regulation by modulating long-distance genomic interactions, such as enhancer-promoter loops (Xiao2019Pervasive). The protein's promoter-association activity is predictive of nuclear retention, particularly affecting the nuclear retention of long non-coding RNAs (lncRNAs) (Xiao2019Pervasive).
+
+RBM25 also participates in complex interactions with transcription factors and other proteins, potentially influencing transcription regulation through its binding patterns and interactions with chromatin (Xiao2019Pervasive).
+
+## Clinical Significance
+Alterations in RBM25 gene expression have significant clinical implications in various cancers. In acute myeloid leukemia (AML), low RBM25 expression is associated with increased MYC activity, which accelerates leukemic proliferation and correlates with poor patient outcomes. This suggests RBM25's potential as a prognostic factor and therapeutic target in AML (Ge2019The). RBM25 regulates the splicing of BIN1 pre-mRNA, influencing MYC transcriptional activity, and its knockdown leads to increased MYC target gene expression, promoting cell cycle progression and leukemic stem cell expansion (Ge2019The).
+
+In colorectal cancer (CRC), RBM25 is upregulated in tumor tissues, indicating its potential as a biomarker for CRC progression. However, its expression does not correlate with prognosis or lymph node metastasis (Guo2020Proteome).
+
+In hepatocellular carcinoma (HCC), higher RBM25 expression is linked to shorter overall survival, particularly in males and N0 stage patients. This suggests that RBM25 may play a role in HCC pathogenesis and progression, making it a potential prognostic marker (Zhang2021Prognostic).
+
+RBM25 also influences apoptosis through its role in the alternative splicing of the BCL-x gene, promoting the pro-apoptotic Bcl-xS isoform. This function could be leveraged therapeutically to sensitize cancer cells to chemotherapy (Le2023Alternative).
+
+## Interactions
+RBM25 is a splicing factor that interacts with various proteins and nucleic acids, playing a crucial role in RNA processing and regulation. It directly binds to specific pre-mRNA structures, such as the G-quadruplex (GQ-2) in BCL-x pre-mRNA, influencing the alternative splicing of the BCL-x gene. This interaction is essential for the production of the pro-apoptotic Bcl-xS isoform, highlighting RBM25's role in modulating apoptotic pathways (Le2023Alternative).
+
+RBM25 also interacts with the BCL2L1 pre-mRNA, affecting the balance between pro- and anti-apoptotic isoforms, which influences sensitivity to BCL2 inhibitors like Navitoclax. This interaction is significant in acute myeloid leukemia (AML), where low RBM25 levels correlate with high expression of anti-apoptotic BCL2L1 isoforms (Ge2019The).
+
+In the context of pulmonary arterial hypertension (PAH), RBM25 interacts with LncRNA-536 and the splicing factor SFPQ. This interaction affects the expression of the HOXB13 gene, influencing cell proliferation in pulmonary artery smooth muscle cells (Mahajan2024LncRNA536).
+
+RBM25's interactions extend to its role in regulating MYC activity in AML by modulating the splicing of BIN1 pre-mRNA, which affects MYC target gene expression (Ge2019The).
+
+
+## References
+
+
+[1. (Le2023Alternative) Ronan Le Sénéchal, Marc Keruzoré, Alicia Quillévéré, Nadège Loaëc, Van-Trang Dinh, Oksana Reznichenko, Pedro Guixens-Gallardo, Laurent Corcos, Marie-Paule Teulade-Fichou, Anton Granzhan, and Marc Blondel. Alternative splicing of bcl-x is controlled by rbm25 binding to a g-quadruplex in bcl-x pre-mrna. Nucleic Acids Research, 51(20):11239–11257, October 2023. URL: http://dx.doi.org/10.1093/nar/gkad772, doi:10.1093/nar/gkad772. This article has 7 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkad772)
+
+[2. (Zhang2021Prognostic) Yong-Fa Zhang, Yi-Xiu Wang, Ning- Zhang, Zhen-Hai Lin, Long-Rong Wang, Yun Feng, Qi Pan, and Lu Wang. Prognostic alternative splicing regulatory network of rbm25 in hepatocellular carcinoma. Bioengineered, 12(1):1202–1211, January 2021. URL: http://dx.doi.org/10.1080/21655979.2021.1908812, doi:10.1080/21655979.2021.1908812. This article has 6 citations.](https://doi.org/10.1080/21655979.2021.1908812)
+
+[3. (Guo2020Proteome) Ai‐Jun Guo, Feng‐Jie Wang, Qiang Ji, Hui‐Wu Geng, Xu Yan, Lin‐Qi Wang, Wei‐Wei Tie, Xiao‐Ying Liu, Rick F. Thorne, Gang Liu, and A‐Man Xu. Proteome analyses reveal s100a11, s100p, and rbm25 are tumor biomarkers in colorectal cancer. PROTEOMICS – Clinical Applications, November 2020. URL: http://dx.doi.org/10.1002/prca.202000056, doi:10.1002/prca.202000056. This article has 11 citations.](https://doi.org/10.1002/prca.202000056)
+
+4. (Mahajan2024LncRNA536) LncRNA-536 and RNA Binding Protein RBM25 Interactions in Pulmonary Arterial Hypertension. This article has 0 citations.
+
+[5. (Ge2019The) Ying Ge, Mikkel Bruhn Schuster, Sachin Pundhir, Nicolas Rapin, Frederik Otzen Bagger, Nikos Sidiropoulos, Nadia Hashem, and Bo Torben Porse. The splicing factor rbm25 controls myc activity in acute myeloid leukemia. Nature Communications, January 2019. URL: http://dx.doi.org/10.1038/s41467-018-08076-y, doi:10.1038/s41467-018-08076-y. This article has 48 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-08076-y)
+
+[6. (Xiao2019Pervasive) Rui Xiao, Jia-Yu Chen, Zhengyu Liang, Daji Luo, Geng Chen, Zhi John Lu, Yang Chen, Bing Zhou, Hairi Li, Xian Du, Yang Yang, Mingkui San, Xintao Wei, Wen Liu, Eric Lécuyer, Brenton R. Graveley, Gene W. Yeo, Christopher B. Burge, Michael Q. Zhang, Yu Zhou, and Xiang-Dong Fu. Pervasive chromatin-rna binding protein interactions enable rna-based regulation of transcription. Cell, 178(1):107-121.e18, June 2019. URL: http://dx.doi.org/10.1016/j.cell.2019.06.001, doi:10.1016/j.cell.2019.06.001. This article has 249 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2019.06.001)
+
+[7. (Cheng2017RBM25) Chunhong Cheng, Zhijuan Wang, Bingjian Yuan, and Xia Li. Rbm25 mediates abiotic responses in plants. Frontiers in Plant Science, March 2017. URL: http://dx.doi.org/10.3389/fpls.2017.00292, doi:10.3389/fpls.2017.00292. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fpls.2017.00292)

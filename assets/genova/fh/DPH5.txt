@@ -1,0 +1,26 @@
+# DPH5
+
+## Overview
+DPH5 is a gene that encodes the enzyme diphthamide biosynthesis 5, a methyltransferase involved in the post-translational modification of eukaryotic elongation factor 2 (eEF2). This enzyme plays a pivotal role in the biosynthesis of diphthamide, a unique histidine modification essential for maintaining translational fidelity and proper protein synthesis. The DPH5 protein catalyzes the methylation of an ACP-modified intermediate, a critical step in the diphthamide biosynthesis pathway, which is necessary for the accurate function of eEF2 in mRNA translation (Hawer2020Diphthamide-deficiency; Uthman2013The). The activity of DPH5 is primarily localized in the cytoplasm, where it interacts with eEF2, and its function is regulated by other proteins in the pathway, such as DPH7 (Mattheakis1992DPH5; Uthman2013The). Understanding the role of DPH5 and its interactions is crucial for elucidating the mechanisms underlying translational accuracy and cellular growth.
+
+## Function
+The DPH5 gene encodes a methyltransferase enzyme that plays a critical role in the biosynthesis of diphthamide, a unique post-translationally modified histidine residue found in eukaryotic elongation factor 2 (eEF2). This modification is essential for accurate mRNA translation and protein synthesis, as it prevents ribosomal reading frame errors and influences the expression of certain proteins, including selenoproteins (Hawer2020Diphthamide-deficiency). DPH5 specifically catalyzes the methylation of an ACP-modified intermediate to generate methylated diphthine, which is a crucial step in the diphthamide biosynthesis pathway (Mattheakis1992DPH5; Uthman2013The).
+
+In healthy human cells, DPH5 is involved in the second step of the diphthamide biosynthesis pathway, which is necessary for the proper function of eEF2 in protein synthesis (Uthman2013The). The enzyme's activity is primarily located in the cytoplasm, where it interacts with eEF2 to facilitate the methylation process (Mattheakis1992DPH5). Although the physiological role of diphthamide is not entirely clear, it is suggested to be important for translational accuracy and cell growth (Uthman2013The).
+
+## Interactions
+The DPH5 protein in Saccharomyces cerevisiae is a methyltransferase involved in the diphthamide biosynthesis pathway, specifically interacting with the eukaryotic translation elongation factor 2 (eEF2). DPH5 catalyzes the trimethylation of the ACP intermediate in this pathway, a crucial step for the formation of diphthine (Mattheakis1992DPH5; Uthman2013The). 
+
+DPH5 interacts with eEF2, and this interaction is regulated by DPH7. In dph7 mutants, there is an increased binding of DPH5 to eEF2, suggesting that DPH7 plays a regulatory role in modulating this interaction (Uthman2013The). The absence of DPH7 results in enhanced binding of DPH5 to eEF2, which can inhibit the function of the translation factor unless eEF2 carries the completed diphthamide modification (Uthman2013The). 
+
+The interaction between DPH5 and eEF2 is also influenced by other mutations in the diphthamide pathway, such as dph6 and dph1, which similarly show increased DPH5-eEF2 binding (Uthman2013The). DPH5 does not bind concurrently with DPH6 to eEF2, indicating mutually exclusive binding interactions (Uthman2013The).
+
+
+## References
+
+
+[1. (Hawer2020Diphthamide-deficiency) Harmen Hawer, Bryce A. Mendelsohn, Klaus Mayer, Ann Kung, Amit Malhotra, Sari Tuupanen, Jennifer Schleit, Ulrich Brinkmann, and Raffael Schaffrath. Diphthamide-deficiency syndrome: a novel human developmental disorder and ribosomopathy. European Journal of Human Genetics, 28(11):1497–1508, June 2020. URL: http://dx.doi.org/10.1038/s41431-020-0668-y, doi:10.1038/s41431-020-0668-y. This article has 25 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41431-020-0668-y)
+
+[2. (Mattheakis1992DPH5) Larry C. Mattheakis, Wei Hai Shen, and R. John Collier. Dph5, a methyltransferase gene required for diphthamide biosynthesis in saccharomyces cerevisiae. Molecular and Cellular Biology, 12(9):4026–4037, September 1992. URL: http://dx.doi.org/10.1128/mcb.12.9.4026-4037.1992, doi:10.1128/mcb.12.9.4026-4037.1992. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.12.9.4026-4037.1992)
+
+[3. (Uthman2013The) Shanow Uthman, Christian Bär, Viktor Scheidt, Shihui Liu, Sara ten Have, Flaviano Giorgini, Michael J. R. Stark, and Raffael Schaffrath. The amidation step of diphthamide biosynthesis in yeast requires dph6, a gene identified through mining the dph1-dph5 interaction network. PLoS Genetics, 9(2):e1003334, February 2013. URL: http://dx.doi.org/10.1371/journal.pgen.1003334, doi:10.1371/journal.pgen.1003334. This article has 53 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1003334)

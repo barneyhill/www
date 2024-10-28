@@ -1,0 +1,52 @@
+# RAG2
+
+## Overview
+RAG2 (recombination activating gene 2) is a gene that encodes the recombination activating 2 protein, a critical component of the V(D)J recombination machinery in the adaptive immune system. This protein, categorized as a DNA-binding protein, works in concert with RAG1 to facilitate the rearrangement of immunoglobulin and T-cell receptor gene segments, a process essential for generating the diverse repertoire of antibodies and T-cell receptors necessary for effective immune responses (Notarangelo2016Human; Fugmann2000The). The RAG2 protein is characterized by a core domain that interacts with RAG1 to form a heterotetrameric complex, which is crucial for the recognition and cleavage of recombination signal sequences (RSS) (Notarangelo2016Human; Sadofsky2001The). Additionally, RAG2's non-core region contains a plant homeodomain (PHD) that binds to histone H3 trimethylated at lysine 4 (H3K4me3), linking chromatin structure to recombination activity (Notarangelo2016Human). Mutations in the RAG2 gene can lead to severe immunodeficiency disorders, highlighting its vital role in immune system development and function (Gennery2019Recent; Notarangelo2016Human).
+
+## Structure
+The RAG2 protein is composed of 527 amino acids and features a core domain spanning amino acids 1-383 and a non-core region from amino acids 384-527. The core domain folds into a six-bladed β-propeller structure, which is crucial for its interaction with RAG1, forming part of the Y-shaped RAG complex (Notarangelo2016Human; Kapitonov2015Evolution). The non-core region includes a plant homeodomain (PHD) between amino acids 414-487, which plays a significant role in chromatin accessibility and recombination activity by binding to histone H3 with trimethylated lysine 4 (H3K4me3), an epigenetic marker of active transcription start sites (Notarangelo2016Human).
+
+RAG2 is subject to post-translational modifications, notably the phosphorylation of threonine 490 by the cyclin A-CDK2 complex. This modification leads to polyubiquitylation and proteasomal degradation, restricting RAG activity to the G0/G1 phases of the cell cycle (Notarangelo2016Human; villa1999omenn). The protein does not have a quaternary structure as it functions as a monomer, but it forms a heterotetramer with RAG1 during the V(D)J recombination process (Notarangelo2016Human).
+
+## Function
+RAG2 (recombination activating gene 2) is essential for the V(D)J recombination process, which is crucial for the development of B and T lymphocytes in the immune system. In healthy human cells, RAG2, in conjunction with RAG1, facilitates the rearrangement of immunoglobulin (Ig) gene segments, enabling the generation of a diverse repertoire of antibodies and T-cell receptors. This process involves the recombination of variable (V), diversity (D), and joining (J) segments of the Ig genes, which is necessary for the progression of B cells from pro-B to pre-B and eventually to immature B cells (Hillion2009Signaling).
+
+RAG2 is highly expressed in pro-B and pre-BII cells but is down-regulated in pre-BI and immature B cells. Its expression is tightly regulated to ensure proper B-cell development and to prevent the survival of autoreactive B cells (Hillion2009Signaling). In immature B lymphocytes, transcription factors such as Pax-5, c-Myb, and LEF-1 activate the RAG2 promoter, while E2A activates it in early B cell precursors (Hillion2009Signaling). The regulation of RAG2 is critical for maintaining immune tolerance and preventing autoimmune diseases by allowing receptor editing and the elimination of self-reactive B cells (Hillion2009Signaling).
+
+## Clinical Significance
+Mutations in the RAG2 gene are associated with a spectrum of immunodeficiency disorders, primarily severe combined immunodeficiency (SCID) and Omenn syndrome. SCID is characterized by a profound deficiency in T and B lymphocytes, leading to severe infections early in life. Omenn syndrome presents with symptoms such as erythroderma, lymphadenopathy, and eosinophilia, often accompanied by immune dysregulation and oligoclonal T cell infiltration in multiple organs (Gennery2019Recent; Notarangelo2016Human). 
+
+Hypomorphic mutations in RAG2, which allow some residual recombination activity, can result in less severe conditions like atypical SCID and combined immunodeficiency with granulomas and/or autoimmunity (CID-G/AI). These conditions may present later in childhood or young adulthood and are associated with autoimmune manifestations and granulomas (Notarangelo2016Human; Delmonte2018RAG). 
+
+Specific mutations, such as the G35V mutation, have been shown to cause steric clashes within the RAG2 protein, impairing its interaction with RAG1 and leading to a debilitated complex. This results in severe immunological conditions, as seen in a case study of a 2-month-old girl who succumbed to sepsis following complications from hematopoietic stem cell transplantation (LugoReyes2021Clinical).
+
+## Interactions
+RAG2 interacts with RAG1 to form a heterotetrameric complex essential for V(D)J recombination. This complex binds to recombination signal sequences (RSS) and facilitates DNA cleavage. RAG2 enhances the stability and specificity of RAG1's binding to RSS, particularly at the heptamer element, while RAG1 makes direct contacts with both the nonamer and heptamer regions (Notarangelo2016Human; Sadofsky2001The; Fugmann2000The).
+
+RAG2 also interacts with chromatin-associated proteins. Its non-core region contains a plant homeodomain (PHD) that binds to histone H3 trimethylated at lysine 4 (H3K4me3), an epigenetic marker of active transcription sites, promoting recombination activity (Notarangelo2016Human).
+
+RAG2's interactions extend to other proteins involved in DNA repair. It plays a role in the hand-off to non-homologous end joining (NHEJ) machinery, crucial for preventing genomic instability. RAG2's phosphorylation at residue T490 regulates its degradation, limiting recombination to the G1 phase and favoring NHEJ (Christie2022V(D)J page 4 of 7).
+
+RAG2 also influences the conformation of RAG1, forming a 2:2 tetramer that is essential for concerted cleavage at RSSs. This interaction is crucial for the proper execution of V(D)J recombination (Sadofsky2001The).
+
+
+## References
+
+
+[1. (Hillion2009Signaling) Sophie Hillion, Caroline Rochas, Pierre Youinou, and Christophe Jamin. Signaling pathways regulating rag expression in b lymphocytes. Autoimmunity Reviews, 8(7):599–604, June 2009. URL: http://dx.doi.org/10.1016/j.autrev.2009.02.004, doi:10.1016/j.autrev.2009.02.004. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.autrev.2009.02.004)
+
+[2. (Sadofsky2001The) M. J. Sadofsky. The rag proteins in v(d)j recombination: more than just a nuclease. Nucleic Acids Research, 29(7):1399–1409, April 2001. URL: http://dx.doi.org/10.1093/nar/29.7.1399, doi:10.1093/nar/29.7.1399. This article has 63 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/29.7.1399)
+
+[3. (Fugmann2000The) Sebastian D. Fugmann, Alfred Ian Lee, Penny E. Shockett, Isabelle J. Villey, and David G. Schatz. The rag proteins and v(d)j recombination: complexes, ends, and transposition. Annual Review of Immunology, 18(1):495–527, April 2000. URL: http://dx.doi.org/10.1146/annurev.immunol.18.1.495, doi:10.1146/annurev.immunol.18.1.495. This article has 492 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1146/annurev.immunol.18.1.495)
+
+[4. (LugoReyes2021Clinical) Saul Oswaldo Lugo-Reyes, Nina Pastor, Edith González-Serrano, Marco Antonio Yamazaki-Nakashimada, Selma Scheffler-Mendoza, Laura Berron-Ruiz, Guillermo Wakida, Maria Enriqueta Nuñez-Nuñez, Ana Paola Macias-Robles, Aide Tamara Staines-Boone, Edna Venegas-Montoya, Carmen Alaez-Verson, Carolina Molina-Garay, Luis Leonardo Flores-Lagunes, Karol Carrillo-Sanchez, Julie Niemela, Sergio D. Rosenzweig, Paul Gaytan, Jorge A. Yañez, Ivan Martinez-Duncker, Luigi D. Notarangelo, Sara Espinosa-Padilla, and Mario Ernesto Cruz-Munoz. Clinical manifestations, mutational analysis, and immunological phenotype in patients with rag1/2 mutations: first cases series from mexico and description of two novel mutations. Journal of Clinical Immunology, 41(6):1291–1302, May 2021. URL: http://dx.doi.org/10.1007/s10875-021-01052-0, doi:10.1007/s10875-021-01052-0. This article has 2 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s10875-021-01052-0)
+
+[5. (Gennery2019Recent) Andrew Gennery. Recent advances in understanding rag deficiencies. F1000Research, 8:148, February 2019. URL: http://dx.doi.org/10.12688/f1000research.17056.1, doi:10.12688/f1000research.17056.1. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.12688/f1000research.17056.1)
+
+[6. (Notarangelo2016Human) Luigi D. Notarangelo, Min-Sung Kim, Jolan E. Walter, and Yu Nee Lee. Human rag mutations: biochemistry and clinical implications. Nature Reviews Immunology, 16(4):234–246, March 2016. URL: http://dx.doi.org/10.1038/nri.2016.28, doi:10.1038/nri.2016.28. This article has 179 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nri.2016.28)
+
+[7. (Kapitonov2015Evolution) Vladimir V Kapitonov and Eugene V Koonin. Evolution of the rag1-rag2 locus: both proteins came from the same transposon. Biology Direct, April 2015. URL: http://dx.doi.org/10.1186/s13062-015-0055-8, doi:10.1186/s13062-015-0055-8. This article has 101 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13062-015-0055-8)
+
+[8. (Delmonte2018RAG) Ottavia M. Delmonte, Catharina Schuetz, and Luigi D. Notarangelo. Rag deficiency: two genes, many diseases. Journal of Clinical Immunology, 38(6):646–655, July 2018. URL: http://dx.doi.org/10.1007/s10875-018-0537-4, doi:10.1007/s10875-018-0537-4. This article has 85 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s10875-018-0537-4)
+
+9. (villa1999omenn) Anna Villa, Sandro Santagata, Fabio Bozzi, Luisa Imberti, and Luigi D Notarangelo. Omenn syndrome: a disorder of rag1 and rag2 genes. Journal of clinical immunology, 19:87–97, 1999. This article has 88 citations and is from a domain leading peer-reviewed journal.

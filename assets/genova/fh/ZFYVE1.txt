@@ -1,0 +1,24 @@
+# ZFYVE1
+
+## Overview
+ZFYVE1 is a gene that encodes the protein zinc finger FYVE-type containing 1, also known as DFCP1. This protein is characterized by the presence of a FYVE domain, which is crucial for its role in cellular processes such as autophagy and the innate antiviral response. The FYVE domain facilitates the binding of phosphatidylinositol 3-phosphate, a phospholipid integral to cell membrane dynamics, thereby localizing the protein to cytoplasmic and endosomal compartments (Nascimbeni2017Local). Functionally, the protein acts as a negative regulator of the MDA5-mediated signaling pathway, modulating immune responses to prevent excessive inflammation (Zhong2020ZFYVE1). Additionally, it plays a pivotal role in the early stages of autophagosome formation, marking the endoplasmic reticulum for pre-autophagosome assembly and facilitating the transition to phagophore formation (Nascimbeni2017Local). Through these mechanisms, ZFYVE1 is essential for maintaining cellular homeostasis and modulating responses to viral infections.
+
+## Function
+ZFYVE1, also known as DFCP1, is a protein that plays a significant role in regulating the innate antiviral response and autophagy in human cells. It contains a FYVE domain, which is involved in binding phosphatidylinositol 3-phosphate, a phospholipid found in cell membranes, and is primarily active in the cytoplasm and endosomal compartments (Nascimbeni2017Local).
+
+In the context of antiviral responses, ZFYVE1 acts as a negative regulator of the MDA5-mediated signaling pathway. It inhibits the oligomerization and activation of MDA5, a process crucial for the antiviral response, thereby preventing excessive immune activation and potential immune damage (Zhong2020ZFYVE1). ZFYVE1 competes with MDA5 for viral RNA binding, reducing MDA5's ligand binding and oligomerization, which modulates the immune response to avoid excessive inflammation (Zhong2020ZFYVE1).
+
+ZFYVE1 is also involved in autophagy, particularly in the early stages of autophagosome formation. It acts as an ER marker of pre-autophagosome assembly and is involved in the omegasome-to-phagophore transition, recruiting proteins necessary for autophagosome biogenesis (Nascimbeni2017Local). This role highlights its importance in maintaining cellular homeostasis and responding to cellular stress.
+
+## Interactions
+ZFYVE1 interacts with melanoma differentiation-associated gene 5 (MDA5), a key cytosolic sensor of viral RNAs, acting as a negative regulator of MDA5-mediated antiviral responses. ZFYVE1 inhibits MDA5 oligomerization, which is crucial for its activation and subsequent signaling. This inhibition occurs through ZFYVE1's N-terminal domain, independent of its C-terminal zinc finger (ZF) domain. Overexpression of ZFYVE1 inhibits MDA5 self-association, while ZFYVE1 deficiency enhances it. The interaction between ZFYVE1 and MDA5 is slightly increased following viral infection, but the affinity decreases, suggesting a dynamic interaction where ZFYVE1 targets MDA5 to exert its inhibitory effects (Zhong2020ZFYVE1).
+
+ZFYVE1 also competes with MDA5 for viral RNA binding, thereby inhibiting MDA5's ability to bind to poly(I:C)-HMW, a synthetic analog of viral RNA. This competition is dependent on the C-terminal ZF domain of ZFYVE1 (Zhong2020ZFYVE1). ZFYVE1 is constitutively associated with MDA5, and this association decreases following viral infection, indicating a specific regulatory mechanism (Zhong2020ZFYVE1).
+
+
+## References
+
+
+[1. (Nascimbeni2017Local) Anna Chiara Nascimbeni, Patrice Codogno, and Etienne Morel. Local detection of ptdins3p at autophagosome biogenesis membrane platforms. Autophagy, 13(9):1602–1612, August 2017. URL: http://dx.doi.org/10.1080/15548627.2017.1341465, doi:10.1080/15548627.2017.1341465. This article has 32 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2017.1341465)
+
+[2. (Zhong2020ZFYVE1) Xuan Zhong, Lu Feng, Ru Zang, Cao-Qi Lei, Qing Yang, and Hong-Bing Shu. Zfyve1 negatively regulates mda5- but not rig-i-mediated innate antiviral response. PLOS Pathogens, 16(4):e1008457, April 2020. URL: http://dx.doi.org/10.1371/journal.ppat.1008457, doi:10.1371/journal.ppat.1008457. This article has 16 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.ppat.1008457)

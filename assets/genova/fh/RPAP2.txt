@@ -1,0 +1,46 @@
+# RPAP2
+
+## Overview
+RPAP2, or RNA polymerase II associated protein 2, is a gene that encodes a protein involved in the regulation of transcription in human cells. The RPAP2 protein is primarily recognized for its role as a phosphatase, specifically targeting the C-terminal domain (CTD) of RNA polymerase II (Pol II) by dephosphorylating serine-5 residues. This activity is crucial for the transition from transcription initiation to elongation, particularly in the transcription of small nuclear RNA (snRNA) genes (Egloff2012Ser7). Structurally, RPAP2 is characterized by a conserved N-terminal region that interacts with the jaw domains of Pol II subunits, facilitating its regulatory functions (Fianu2021CryoEM). Beyond its phosphatase activity, RPAP2 acts as a transcriptional gatekeeper by inhibiting the assembly of the preinitiation complex (PIC) and preventing the recruitment of transcription factors such as TFIIF (Chen2021RPAP2). Additionally, RPAP2 is implicated in the nuclear import of Pol II and pre-mRNA 3'-end formation, underscoring its multifaceted role in transcription regulation and RNA processing (Wani2014Human).
+
+## Structure
+The human RPAP2 protein is characterized by a conserved N-terminal region that consists of four helices, which are also conserved in its yeast homolog, Rtr1. This region binds between the jaw domains of the RNA polymerase II (Pol II) subunits RPB1 and RPB5. An insertion in the N-terminal region of RPAP2 forms two β-strands, a feature specific to metazoans, which interacts with helix α43 in the RPB1 jaw domain (Fianu2021CryoEM). The interaction with RPB5 involves hydrophobic, ionic, and hydrogen bonding interactions, highlighting the evolutionary conservation of these interactions (Fianu2021CryoEM).
+
+The C-terminal region of RPAP2, although not observed in the cryo-EM structure, might make additional contacts with Pol II and is not involved in the primary interactions described (Fianu2021CryoEM). RPAP2 is implicated in the dephosphorylation of the C-terminal repeat domain (CTD) of Pol II, potentially interacting indirectly with hyperphosphorylated Pol II via proteins RPRD1A and RPRD1B (Fianu2021CryoEM). The structure does not provide new insights into phosphorylation-related functions, but RPAP2 may be recruited by serine-7 phosphorylation of the CTD and dephosphorylate serine-5 residues (Fianu2021CryoEM).
+
+## Function
+RPAP2 (RNA polymerase II associated protein 2) plays a crucial role in transcription regulation in human cells. It is primarily involved in the dephosphorylation of the C-terminal domain (CTD) of RNA polymerase II (Pol II), specifically targeting Ser5 phosphorylation. This activity is essential for the transition from transcription initiation to elongation, particularly in the transcription of small nuclear RNA (snRNA) genes (Egloff2012Ser7). RPAP2 is recruited to snRNA genes through the recognition of Ser7 phosphorylation on the Pol II CTD, facilitating the recruitment of the Integrator complex necessary for snRNA gene expression and 3' end processing (Egloff2012Ser7).
+
+In addition to its phosphatase activity, RPAP2 acts as a gatekeeper in transcription initiation by inhibiting the assembly of the preinitiation complex (PIC). It prevents the recruitment of TFIIF, a general transcription factor, thereby controlling the assembly of the PIC and acting as a transcription initiation checkpoint (Chen2021RPAP2). RPAP2 is also involved in the nuclear import of Pol II and participates in pre-mRNA 3'-end formation, highlighting its importance in transcription regulation and RNA processing (Wani2014Human). These functions underscore RPAP2's critical role in maintaining proper gene expression and cellular function.
+
+## Clinical Significance
+RPAP2 has been implicated in several diseases due to its role in transcription regulation and interaction with RNA polymerase II. In myofibrillar myopathies (MFMs), RPAP2 accumulates abnormally in the cytoplasm of muscle fibers, co-localizing with protein aggregates such as aB-crystallin deposits. This abnormal expression pattern suggests that RPAP2 could serve as a diagnostic marker for MFMs (Guglielmi2015Abnormal).
+
+In breast cancer, a circular RNA derived from the RPAP2 gene, known as circRPAP2, is downregulated. This downregulation is associated with increased cancer cell proliferation and migration. CircRPAP2 acts as a tumor suppressor by binding to the splicing factor SRSF1, affecting the alternative splicing of PTK2, a gene involved in cancer progression. The circRPAP2/SRSF1/PTK2 axis represents a potential target for therapeutic interventions in breast cancer (Yu2022CircRPAP2).
+
+RPAP2 also plays a role in the unfolded protein response (UPR), where it regulates IRE1 activity. Alterations in RPAP2 expression can enhance IRE1 activation, affecting cell fate decisions during endoplasmic reticulum stress and potentially influencing apoptotic pathways (Chang2018Coordination).
+
+## Interactions
+RPAP2 interacts with RNA polymerase II (Pol II) by binding between the jaw domains of the Pol II subunits RPB1 and RPB5. This interaction is crucial for its role in Pol II biogenesis and nuclear import, as RPAP2 is displaced during the formation of the transcription pre-initiation complex (PIC) (Fianu2021CryoEM). RPAP2 also interacts directly with the Pol II subunit RPB6, which is important for pre-mRNA 3'-end formation (Wani2014Human).
+
+RPAP2 is involved in regulating transcription initiation by inhibiting the assembly of the PIC. It prevents the formation of the Pol II-TFIIF complex, acting as a transcription gatekeeper by sterically hindering this interaction (Chen2021RPAP2). The N-terminal domain of RPAP2, which includes a five-helix bundle and a zinc finger, is essential for its interaction with Pol II, stabilizing the interaction through contacts with the RPB5 and RPB1 jaw domains (Chen2021RPAP2).
+
+RPAP2's interaction with Pol II is stable even in the absence of the RPRD1A-RPRD1B heterodimer, which was previously thought to facilitate its phosphatase activity (Chen2021RPAP2). RPAP2 also interacts with the small GTPase GPN1, which is involved in Pol II transport from the cytosol to the nucleus (Wani2014Human).
+
+
+## References
+
+
+[1. (Chang2018Coordination) Tsun-Kai Chang, David A. Lawrence, Min Lu, Jenille Tan, Jonathan M. Harnoss, Scot A. Marsters, Peter Liu, Wendy Sandoval, Scott E. Martin, and Avi Ashkenazi. Coordination between two branches of the unfolded protein response determines apoptotic cell fate. Molecular Cell, 71(4):629-636.e5, August 2018. URL: http://dx.doi.org/10.1016/j.molcel.2018.06.038, doi:10.1016/j.molcel.2018.06.038. This article has 134 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2018.06.038)
+
+2. (Chen2021RPAP2) RPAP2 regulates a transcription initiation checkpoint by prohibiting assembly of preinitiation complex. This article has 0 citations.
+
+[3. (Fianu2021CryoEM) Isaac Fianu, Christian Dienemann, Shintaro Aibara, Sandra Schilbach, and Patrick Cramer. Cryo-em structure of mammalian rna polymerase ii in complex with human rpap2. Communications Biology, May 2021. URL: http://dx.doi.org/10.1038/s42003-021-02088-z, doi:10.1038/s42003-021-02088-z. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-021-02088-z)
+
+[4. (Egloff2012Ser7) Sylvain Egloff, Justyna Zaborowska, Clélia Laitem, Tamás Kiss, and Shona Murphy. Ser7 phosphorylation of the ctd recruits the rpap2 ser5 phosphatase to snrna genes. Molecular Cell, 45(1):111–122, January 2012. URL: http://dx.doi.org/10.1016/j.molcel.2011.11.006, doi:10.1016/j.molcel.2011.11.006. This article has 112 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2011.11.006)
+
+[5. (Guglielmi2015Abnormal) Valeria Guglielmi, Matteo Marini, Émilie Fiola Masson, Manuela Malatesta, Diane Forget, Giuliano Tomelleri, Benoit Coulombe, and Gaetano Vattemi. Abnormal expression of <scp>rna</scp> polymerase <scp>ii</scp>‐associated proteins in muscle of patients with myofibrillar myopathies. Histopathology, 67(6):859–865, May 2015. URL: http://dx.doi.org/10.1111/his.12715, doi:10.1111/his.12715. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/his.12715)
+
+[6. (Wani2014Human) Shotaro Wani, Yutaka Hirose, and Yoshiaki Ohkuma. Human rna polymerase ii-associated protein 2 (rpap2) interacts directly with the rna polymerase ii subunit rpb6 and participates in pre-mrna 3&amp;apos;-end formation. Drug Discoveries &amp; Therapeutics, 8(6):255–261, 2014. URL: http://dx.doi.org/10.5582/ddt.2014.01044, doi:10.5582/ddt.2014.01044. This article has 14 citations.](https://doi.org/10.5582/ddt.2014.01044)
+
+[7. (Yu2022CircRPAP2) Yunhe Yu and Lin Fang. Circrpap2 regulates the alternative splicing of ptk2 by binding to srsf1 in breast cancer. Cell Death Discovery, April 2022. URL: http://dx.doi.org/10.1038/s41420-022-00965-y, doi:10.1038/s41420-022-00965-y. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-022-00965-y)

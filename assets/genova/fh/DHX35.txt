@@ -1,0 +1,39 @@
+# DHX35
+
+## Overview
+DHX35 is a gene that encodes the DEAH-box helicase 35, a member of the DEAH-box family of RNA helicases. This protein is primarily involved in RNA metabolism and plays a crucial role in the innate immune response, particularly in human airway epithelial cells. DEAH-box helicase 35 functions as a co-sensor in the RIG-I/MAVS signaling pathway, enhancing the detection of cytosolic nucleic acids, which are analogs of viral RNA and DNA. This activity is vital for the production of antiviral cytokines, contributing to the immune response against viral infections (Qiao2024The). The protein is predominantly located in the nucleus but translocates to the cytoplasm upon stimulation by viral RNA/DNA, where it interacts with mitochondrial antiviral signaling protein (MAVS) and retinoic acid-inducible gene 1 (RIG-I) to form a signalsome complex (Qiao2024The). Beyond its role in immunity, DHX35 has been implicated in cancer and viral replication, highlighting its potential as a target for therapeutic interventions (Chen2022High; Mussazhanova2021The; Rahman2017Identification).
+
+## Function
+DHX35 is a member of the DEAH-box family of RNA helicases, which are involved in various cellular processes, particularly in RNA metabolism. In healthy human cells, DHX35 plays a significant role in the innate immune response, particularly in human airway epithelial cells. It functions as a co-sensor in the RIG-I/MAVS signaling pathway, enhancing the detection of cytosolic nucleic acids such as poly(I:C) and poly(dA:dT), which are analogs of viral RNA and DNA. This activity is crucial for the production of antiviral cytokines like interferon-β (IFN-β), IL6, and CXCL10, which are key mediators of the immune response (Qiao2024The).
+
+DHX35 is primarily located in the nucleus under steady-state conditions but translocates to the cytoplasm upon stimulation by viral RNA/DNA. This translocation is essential for its role in sensing cytosolic nucleic acids. DHX35 interacts with mitochondrial antiviral signaling protein (MAVS) and retinoic acid-inducible gene 1 (RIG-I), enhancing RIG-I's binding affinity with nucleic acids and forming a signalsome complex that activates downstream signaling pathways (Qiao2024The). These interactions highlight DHX35's role in boosting antiviral immunity and its potential as a target for drug and vaccine development against viral infections (Qiao2024The).
+
+## Clinical Significance
+DHX35 has been implicated in various clinical contexts, particularly in relation to cancer. In the Kazakh population, a single-nucleotide polymorphism (SNP) near the DHX35 gene, rs7267944, has been associated with papillary thyroid carcinoma (PTC). This SNP shows a significant association with PTC in males, suggesting a potential sex-specific risk factor for the disease (Mussazhanova2021The).
+
+In liver hepatocellular carcinoma (LIHC), high expression levels of DHX35, along with other DEAH-box RNA helicases, are linked to poor prognosis. This association highlights the potential role of DHX35 in influencing cancer progression and patient outcomes (Chen2022High).
+
+DHX35 also plays a role in viral replication, specifically in the context of the oncolytic myxoma virus (MYXV). It has been identified as a pro-viral factor, where its knockdown reduces MYXV replication in human cancer cells, indicating its involvement in enhancing viral replication (Rahman2017Identification).
+
+Interactions between DHX35 and protein cofactors, such as GPATCH1, suggest that alterations in these interactions could impact its function, potentially influencing disease processes (Memet2024Insights).
+
+## Interactions
+DHX35, a member of the DEAH-box family of RNA helicases, is involved in several critical interactions with proteins and nucleic acids that facilitate its role in innate immunity. It functions as a co-sensor with RIG-I, enhancing the detection of cytosolic nucleic acids such as poly(I:C) and poly(dA:dT) in human airway epithelial cells. This interaction is mediated through its HELICc domain, which binds to these nucleic acids, as confirmed by in vitro pull-down assays and competition assays with non-labeled nucleic acids (Qiao2024The).
+
+DHX35 also interacts with the mitochondrial antiviral signaling protein (MAVS), forming a signalsome that activates downstream signaling pathways, including the production of IFN-β, IL6, and CXCL10. This interaction is crucial for the enhanced immune response and is demonstrated through co-immunoprecipitation experiments, showing that DHX35 binds to MAVS via its HELICc domain, while MAVS interacts with DHX35 through its 360-510 amino acid region (Qiao2024The).
+
+These interactions highlight DHX35's role as a critical component in the detection of viral nucleic acids and the activation of immune responses, suggesting its potential as a target for drug and vaccine design against RNA viruses and AT-rich DNA virus infections (Qiao2024The).
+
+
+## References
+
+
+[1. (Mussazhanova2021The) Zhanna Mussazhanova, Tatiana I. Rogounovitch, Vladimir A. Saenko, Ainur Krykpayeva, Maira Espenbetova, Bauyrzhan Azizov, Hisayoshi Kondo, Katsuya Matsuda, Zhanna Kalmatayeva, Raushan Issayeva, Zhanar Yeleubayeva, Madina Madiyeva, Aray Mukanova, Marat Sandybayev, Saltanat Bolsynbekova, Zhanna Kozykenova, Shunichi Yamashita, and Masahiro Nakashima. The contribution of genetic variants to the risk of papillary thyroid carcinoma in the kazakh population: study of common single nucleotide polymorphisms and their clinicopathological correlations. Frontiers in Endocrinology, January 2021. URL: http://dx.doi.org/10.3389/fendo.2020.543500, doi:10.3389/fendo.2020.543500. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fendo.2020.543500)
+
+[2. (Rahman2017Identification) Masmudur M. Rahman, Eugenie Bagdassarian, Mohamed A. M. Ali, and Grant McFadden. Identification of host dead-box rna helicases that regulate cellular tropism of oncolytic myxoma virus in human cancer cells. Scientific Reports, November 2017. URL: http://dx.doi.org/10.1038/s41598-017-15941-1, doi:10.1038/s41598-017-15941-1. This article has 37 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-15941-1)
+
+[3. (Chen2022High) Xi Chen, Letao Lin, Guanyu Chen, Huzheng Yan, Zhenyu Li, Meigui Xiao, Xu He, Fujun Zhang, and Yanling Zhang. High levels of deah-box helicases relate to poor prognosis and reduction of dhx9 improves radiosensitivity of hepatocellular carcinoma. Frontiers in Oncology, June 2022. URL: http://dx.doi.org/10.3389/fonc.2022.900671, doi:10.3389/fonc.2022.900671. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.900671)
+
+4. (Memet2024Insights) Insights into the regulation of RNA helicases by protein cofactors. This article has 0 citations.
+
+[5. (Qiao2024The) Yuan Qiao, Shan Zhu, Ning Yang, Shan-Shan Zou, Bao Gao, Jing Wu, Chunyan Liu, Xiaoping Li, Yong-Jun Liu, and Jingtao Chen. The rna helicase dhx35 functions as a co-sensor for rig-i-mediated innate immunity. PLOS Pathogens, 20(7):e1012379, July 2024. URL: http://dx.doi.org/10.1371/journal.ppat.1012379, doi:10.1371/journal.ppat.1012379. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.ppat.1012379)

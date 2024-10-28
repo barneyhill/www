@@ -1,0 +1,37 @@
+# LDLRAD3
+
+## Overview
+LDLRAD3 is a gene that encodes the protein low-density lipoprotein receptor class A domain containing 3, which is a member of the LDL-receptor family. This protein is characterized by its low-density lipoprotein receptor type A (LA) domain, which plays a crucial role in mediating interactions with various viral proteins, including those of the Venezuelan equine encephalitis virus (VEEV) and SARS-CoV-2 (Zhu2021Genomewide; Basore2021Structure). The protein's ability to bind to viral components highlights its significance in viral entry into host cells, making it a potential target for therapeutic interventions. Additionally, LDLRAD3 is implicated in the progression of certain cancers, such as non-small cell lung cancer and pancreatic cancer, where it influences oncogenic signaling pathways and tumor microenvironment dynamics (Yao2019Downregulation; Su2023A). The multifaceted roles of LDLRAD3 in both viral infections and cancer underscore its importance in cellular processes and disease mechanisms.
+
+## Structure
+The LDLRAD3 protein is characterized by a low-density lipoprotein receptor type A (LA) domain, which is approximately 40 amino acids in length. This domain contains six disulfide-bound cysteine residues and a cluster of conserved acidic residues that coordinate calcium ions, contributing to its structural stability and function (Basore2021Structure). The LA domain architecture is highly conserved, with numerous structures available in the Protein Data Bank (PDB), indicating a well-established structural framework (Basore2021Structure).
+
+LDLRAD3 interacts specifically with the Venezuelan equine encephalitis virus (VEEV) at the E2-E1 heterodimer interface, with the D1 domain being crucial for this interaction. The D2 domain does not contribute to VEEV binding, as evidenced by weak electron density in structural analyses (Basore2021Structure). The interaction involves specific residues in the D1 domain, which are essential for viral binding and infection (Basore2021Structure).
+
+The protein is part of the LDL-receptor family, which is known for mediating the entry of various viruses. The structural analysis of LDLRAD3 has been conducted using cryo-electron microscopy, providing near-atomic-resolution reconstructions of its interaction with VEEV (Basore2021Structure).
+
+## Clinical Significance
+LDLRAD3 has been implicated in the progression of several cancers, notably non-small cell lung cancer (NSCLC) and pancreatic cancer. In NSCLC, high expression of LDLRAD3 is associated with poor prognosis and is considered an independent prognostic factor. It is linked to oncogenic signaling pathways, such as MYC targets and MTORC1 signaling, and is negatively correlated with immune responses, suggesting an immunosuppressive role in the tumor microenvironment (Su2023A). Overexpression of LDLRAD3 in NSCLC cell lines promotes proliferation, migration, and invasion, indicating its involvement in cancer progression (Su2023A).
+
+In pancreatic cancer, circ-LDLRAD3, a circular RNA derived from LDLRAD3, acts as an oncogene by sponging miR-137-3p, which regulates the expression of pleiotrophin (PTN). This interaction contributes to cancer progression, and knockdown of circ-LDLRAD3 has been shown to suppress tumor growth and invasion (Yao2019Downregulation).
+
+LDLRAD3 also plays a role in viral infections, serving as a receptor necessary for Venezuelan equine encephalitis virus (VEEV) infectivity. Mutations in the D1 domain of LDLRAD3 can impact the virus-receptor interaction, affecting susceptibility to VEEV infection (Basore2021Structure).
+
+## Interactions
+LDLRAD3 is involved in interactions with several viral proteins, playing a role in viral entry into host cells. It interacts with the Venezuelan equine encephalitis virus (VEEV) structural proteins, specifically binding to the E2-E1 heterodimers. The interaction occurs at two distinct interfaces: the 'wrapped' and 'intraspike' heterodimer interfaces, with specific residues of LDLRAD3 contributing to these interactions (Basore2021Structure). Mutations in certain residues of LDLRAD3, such as G33D, M36T, P44R, and D57V, disrupt its ability to support VEEV infection, highlighting their importance in binding (Basore2021Structure).
+
+LDLRAD3 also interacts with the SARS-CoV-2 spike protein, specifically binding to its N-terminal domain (NTD). This interaction facilitates viral entry into host cells, even in the absence of the ACE2 receptor, which is the primary receptor for SARS-CoV-2. The binding of LDLRAD3 to the spike protein has been confirmed through co-immunoprecipitation and pull-down assays (Zhu2021Genomewide; Zhu2021Genomewidea). The interaction between LDLRAD3 and the spike protein is significant enough to trigger membrane fusion, indicating its functional role in the viral entry process (Zhu2021Genomewidea).
+
+
+## References
+
+
+1. (Zhu2021Genomewide) Genome-wide CRISPR activation screen identifies novel receptors for SARS-CoV-2 entry. This article has 4 citations.
+
+[2. (Yao2019Downregulation) Jun Yao, Ce Zhang, Yanfei Chen, and Shegan Gao. Downregulation of circular rna circ-ldlrad3 suppresses pancreatic cancer progression through mir-137-3p/ptn axis. Life Sciences, 239:116871, December 2019. URL: http://dx.doi.org/10.1016/j.lfs.2019.116871, doi:10.1016/j.lfs.2019.116871. This article has 50 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.lfs.2019.116871)
+
+[3. (Zhu2021Genomewidea) Shiyou Zhu, Ying Liu, Zhuo Zhou, Zhiying Zhang, Xia Xiao, Zhiheng Liu, Ang Chen, Xiaojing Dong, Feng Tian, Shihua Chen, Yiyuan Xu, Chunhui Wang, Qiheng Li, Xuran Niu, Qian Pan, Shuo Du, Junyu Xiao, Jianwei Wang, and Wensheng Wei. Genome-wide crispr activation screen identifies candidate receptors for sars-cov-2 entry. Science China Life Sciences, 65(4):701–717, August 2021. URL: http://dx.doi.org/10.1007/s11427-021-1990-5, doi:10.1007/s11427-021-1990-5. This article has 44 citations.](https://doi.org/10.1007/s11427-021-1990-5)
+
+[4. (Su2023A) Wei Su, Ting Hong, Baijie Feng, Zhou Yang, and Guang Lei. A unique regulated cell death-related classification regarding prognosis and immune landscapes in non-small cell lung cancer. Frontiers in Immunology, February 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1075848, doi:10.3389/fimmu.2023.1075848. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1075848)
+
+[5. (Basore2021Structure) Katherine Basore, Hongming Ma, Natasha M. Kafai, Samantha Mackin, Arthur S. Kim, Christopher A. Nelson, Michael S. Diamond, and Daved H. Fremont. Structure of venezuelan equine encephalitis virus in complex with the ldlrad3 receptor. Nature, 598(7882):672–676, October 2021. URL: http://dx.doi.org/10.1038/s41586-021-03963-9, doi:10.1038/s41586-021-03963-9. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-021-03963-9)

@@ -1,0 +1,50 @@
+# KDM4D
+
+## Overview
+KDM4D, also known as JMJD2D, is a gene that encodes the protein lysine demethylase 4D, a member of the Jumonji C (JmjC) domain-containing family of histone demethylases. This protein plays a pivotal role in the regulation of chromatin structure and gene expression by specifically demethylating histone H3 on lysine 9 (H3K9me3), a mark associated with transcriptional repression (Wu2016H3K9me3). The demethylase activity of lysine demethylase 4D is crucial for DNA replication and cell cycle progression, as it facilitates the formation of the pre-initiation complex at replication origins (Wu2016H3K9me3). Additionally, KDM4D is involved in the DNA damage response and interacts with various proteins, including the tumor suppressor p53, to modulate transcriptional activity (Kim2012Regulation). Dysregulation of KDM4D expression or function has been implicated in several cancers, highlighting its potential as a therapeutic target (Chen2022Histone).
+
+## Structure
+KDM4D, also known as JMJD2D, is a member of the Jumonji C (JmjC) domain-containing family of proteins, which are involved in histone demethylation. The primary structure of KDM4D includes the JmjN and JmjC domains, with the JmjC domain containing the catalytic site essential for its demethylase activity (Wang2021Crystal; Chen2006Structural). The secondary structure of KDM4D is characterized by alpha-helices and beta-sheets, which are common in proteins of this family (Chen2006Structural).
+
+The tertiary structure of KDM4D involves the folding of these secondary elements into a three-dimensional shape, stabilized by the coordination of metal ions such as Fe(II) at the catalytic site (Wang2021Crystal). This structure is crucial for its function in demethylating specific histone marks, particularly H3K9me3 (Krishnan2013Structural).
+
+KDM4D does not have a canonical RNA binding domain, but it can bind RNA through non-canonical regions located in its N-terminal and C-terminal areas, which include the JmjN and JmjC domains (Zoabi2014RNAdependent). Post-translational modifications, such as phosphorylation, can affect the demethylase activity of KDM4D (Krishnan2013Structural).
+
+## Function
+KDM4D, a lysine demethylase, plays a crucial role in DNA replication by demethylating histone H3 on lysine 9 (H3K9me3), a modification associated with transcriptionally silenced chromatin. This demethylation is essential for the initiation and elongation phases of DNA replication. KDM4D facilitates the formation of the pre-initiation complex (pre-IC) by reducing H3K9me3 levels at replication origins, thereby promoting proper replication initiation and elongation (Wu2016H3K9me3). 
+
+KDM4D interacts with several replication proteins, including the origin recognition complex (ORC), minichromosome maintenance (MCM) complex, proliferating cell nuclear antigen (PCNA), and DNA polymerases, indicating its involvement in the replication process. These interactions are regulated during the cell cycle, with KDM4D associating with chromatin during the G1 and S phases (Wu2016H3K9me3). 
+
+KDM4D's function is distinct from its role in the DNA damage response, as it binds to DNA replication proteins and origins independently of DNA damage (Wu2016H3K9me3). Its activity is crucial for maintaining a favorable chromatin environment for DNA replication, ensuring efficient cell cycle progression and cellular homeostasis.
+
+## Clinical Significance
+Alterations in the expression or function of the KDM4D gene, also known as JMJD2D, have been implicated in various cancers. In colorectal cancer (CRC), KDM4D is upregulated and promotes tumor progression by enhancing oncogene expression and tumor glycolysis through pathways such as Wnt/β-catenin and NF-κB signaling (Chen2022Histone). It also contributes to immune evasion by upregulating PD-L1 expression, which inhibits CD8+ T cell activation (Chen2022Histone). In hepatocellular carcinoma (HCC), KDM4D is highly expressed in tumor tissues and inhibits p53 signaling, which is crucial for tumor suppression, thereby promoting cancer progression (Chen2022Histone).
+
+KDM4D is also involved in the pathogenesis of other cancers, including gastrointestinal stromal tumors (GIST), acute myeloid leukemia (AML), renal cell carcinoma (RCC), and esophageal squamous cell carcinoma (ESCC). In GIST, it promotes tumor growth and angiogenesis through HIF1β/VEGFA signaling (Chen2022Histone). In AML, it enhances cell survival by activating MCL-1 expression (Chen2022Histone). Interestingly, KDM4D acts as a tumor suppressor in ESCC, indicating its role is cancer-type dependent (Chen2022Histone). These findings suggest that KDM4D could be a potential target for therapeutic intervention in various cancers.
+
+## Interactions
+KDM4D, also known as JMJD2D, is a histone demethylase that interacts with several proteins and nucleic acids, playing a significant role in chromatin remodeling and transcription regulation. It forms a complex with the tumor suppressor protein p53, specifically interacting with its DNA binding domain. This interaction enhances the transcriptional activity of p53, particularly in activating the p21 promoter, a p53 target gene. The C-terminal region of KDM4D is responsible for this interaction, and its catalytic activity is essential for the coactivation of p53-dependent transcription (Kim2012Regulation).
+
+KDM4D also interacts with components of the DNA replication machinery. It is recruited to DNA replication origins in a manner dependent on the origin recognition complex (ORC) and the minichromosome maintenance (MCM) complex. KDM4D facilitates the formation of the pre-initiation complex by reducing H3K9me3 levels, which is crucial for the chromatin association of replication proteins such as Cdc45 and PCNA during the S phase of the cell cycle (Wu2016H3K9me3).
+
+Additionally, KDM4D is involved in the DNA damage response, where it binds to poly(ADP-ribose) (PAR) and RNA. These interactions are crucial for its recruitment to DNA damage sites, highlighting its role in facilitating double-strand break repair (KhouryHaddad2015The).
+
+
+## References
+
+
+[1. (Kim2012Regulation) Tae-Dong Kim, Sangphil Oh, Sook Shin, and Ralf Janknecht. Regulation of tumor suppressor p53 and hct116 cell physiology by histone demethylase jmjd2d/kdm4d. PLoS ONE, 7(4):e34618, April 2012. URL: http://dx.doi.org/10.1371/journal.pone.0034618, doi:10.1371/journal.pone.0034618. This article has 55 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0034618)
+
+[2. (KhouryHaddad2015The) Hanan Khoury-Haddad, Prathamesh T Nadar-Ponniah, Samah Awwad, and Nabieh Ayoub. The emerging role of lysine demethylases in dna damage response: dissecting the recruitment mode of kdm4d/jmjd2d to dna damage sites. Cell Cycle, 14(7):950–958, April 2015. URL: http://dx.doi.org/10.1080/15384101.2015.1014147, doi:10.1080/15384101.2015.1014147. This article has 40 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/15384101.2015.1014147)
+
+[3. (Krishnan2013Structural) Swathi Krishnan and Raymond C. Trievel. Structural and functional analysis of jmjd2d reveals molecular basis for site-specific demethylation among jmjd2 demethylases. Structure, 21(1):98–108, January 2013. URL: http://dx.doi.org/10.1016/j.str.2012.10.018, doi:10.1016/j.str.2012.10.018. This article has 59 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.str.2012.10.018)
+
+[4. (Zoabi2014RNAdependent) Muhammad Zoabi, Prathamesh T. Nadar-Ponniah, Hanan Khoury-Haddad, Marko Usaj, Inbal Budowski-Tal, Tali Haran, Arnon Henn, Yael Mandel-Gutfreund, and Nabieh Ayoub. Rna-dependent chromatin localization of kdm4d lysine demethylase promotes h3k9me3 demethylation. Nucleic Acids Research, 42(21):13026–13038, November 2014. URL: http://dx.doi.org/10.1093/nar/gku1021, doi:10.1093/nar/gku1021. This article has 33 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gku1021)
+
+[5. (Wang2021Crystal) Tianqi Wang, Yang Liu, Hailin Zhang, Zhen Fang, Rong Zhang, Wenqing Zhang, Yan Fan, and Rong Xiang. Crystal structures of two inhibitors in complex with histone lysine demethylase 4d (kdm4d) provide new insights for rational drug design. Biochemical and Biophysical Research Communications, 554:71–75, May 2021. URL: http://dx.doi.org/10.1016/j.bbrc.2021.03.083, doi:10.1016/j.bbrc.2021.03.083. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2021.03.083)
+
+[6. (Chen2022Histone) Qiang Chen, Kesong Peng, Pingli Mo, and Chundong Yu. Histone demethylase jmjd2d: a novel player in colorectal and hepatocellular cancers. Cancers, 14(12):2841, June 2022. URL: http://dx.doi.org/10.3390/cancers14122841, doi:10.3390/cancers14122841. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers14122841)
+
+[7. (Wu2016H3K9me3) Rentian Wu, Zhiquan Wang, Honglian Zhang, Haiyun Gan, and Zhiguo Zhang. H3k9me3 demethylase kdm4d facilitates the formation of pre-initiative complex and regulates dna replication. Nucleic Acids Research, 45(1):169–180, September 2016. URL: http://dx.doi.org/10.1093/nar/gkw848, doi:10.1093/nar/gkw848. This article has 46 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkw848)
+
+[8. (Chen2006Structural) Zhongzhou Chen, Jianye Zang, Johnathan Whetstine, Xia Hong, Foteini Davrazou, Tatiana G. Kutateladze, Michael Simpson, Qilong Mao, Cheol-Ho Pan, Shaodong Dai, James Hagman, Kirk Hansen, Yang Shi, and Gongyi Zhang. Structural insights into histone demethylation by jmjd2 family members. Cell, 125(4):691–702, May 2006. URL: http://dx.doi.org/10.1016/j.cell.2006.04.024, doi:10.1016/j.cell.2006.04.024. This article has 316 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2006.04.024)

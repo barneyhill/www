@@ -1,0 +1,42 @@
+# GPR62
+
+## Overview
+GPR62 is a gene that encodes the G protein-coupled receptor 62, a member of the class A (rhodopsin-like) G protein-coupled receptors (GPCRs). This receptor is characterized by its constitutive activity, which is attributed to the absence of conserved motifs typically involved in maintaining GPCRs in an inactive state. GPR62 is primarily expressed in the brain and germ cells of the testes, with its expression pattern suggesting roles in neuronal differentiation and sperm development. Despite being an orphan receptor, meaning its endogenous ligand is unknown, GPR62 is involved in the constitutive activation of the cAMP signaling pathway, which may have implications for brain function and development. The receptor also forms heteromeric complexes with the melatonin MT2 receptor, influencing its signaling properties. While the physiological role of GPR62 in humans is not fully understood, its altered expression has been noted in psychiatric conditions such as Autism Spectrum Disorder, indicating potential clinical significance (Muroi2017GPR62; Monfared2021Transcriptome; Oishi2017Orphan).
+
+## Structure
+GPR62 is a G protein-coupled receptor (GPCR) that consists of 368 amino acids and is part of the class A (rhodopsin-like) GPCRs. It shares significant sequence homology with other GPCRs, particularly showing 55% identity in the transmembrane domains with GPR45 (Lee2001Identification). GPR62 is characterized by the absence of the conserved DRY and BBXXB motifs, which are typically found in the juxtamembrane regions of transmembrane helices 3 and 6 in class A GPCRs. This absence leads to its constitutive activity, as these motifs are important for maintaining the inactive conformation of GPCRs through an 'ionic lock' mechanism (Muroi2017GPR62; Oishi2017Orphan).
+
+GPR62 can form homooligomers, although oligomerization does not activate the receptor (Muroi2017GPR62). The receptor is expressed in the brain and germ cells in the testes, with its expression increasing during sperm differentiation (Muroi2017GPR62). Despite its role in signaling, GPR62 is dispensable for male fertility in mice, possibly due to compensatory expression of GPR61 (Muroi2017GPR62). The receptor's evolutionary conservation across vertebrates suggests a significant functional role, with mammalian GPR62s showing 80%-95% sequence similarity (Muroi2017GPR62).
+
+## Function
+GPR62 is an orphan G protein-coupled receptor (GPCR) that is primarily expressed in the brain and germ cells of the testes in mice, with similar expression patterns observed in humans. It is involved in the constitutive activation of the cAMP signaling pathway, a process that occurs without the need for ligand stimulation due to the absence of conserved DRY and BBXXB motifs, which are typically involved in maintaining GPCRs in an inactive state (Muroi2017GPR62). This constitutive activity suggests that GPR62 may play a role in neuronal differentiation and sperm development through its activation of the cAMP pathway (Muroi2017GPR62).
+
+In humans, GPR62 mRNA is expressed in various brain regions, including the basal forebrain, frontal cortex, thalamus, hippocampus, caudate, and putamen, indicating a potential role in brain function (Lee2001Identification). GPR62 also forms heteromers with the melatonin receptor MT2, modulating its function by inhibiting β-arrestin recruitment while allowing Gi/o signaling, which suggests a level of cross-talk between these receptors (Watkins2020Orphan). The exact physiological role of GPR62 in humans remains to be fully elucidated, but its constitutive activation of cAMP signaling is a key aspect of its function (Muroi2017GPR62).
+
+## Clinical Significance
+The GPR62 gene has been studied in the context of various psychiatric disorders, particularly Autism Spectrum Disorder (ASD). It is among the top downregulated G protein-coupled receptor (GPCR) genes in ASD, with 23 GPCR genes downregulated and 35 upregulated in this condition (Monfared2021Transcriptome). Although specific diseases directly linked to mutations in GPR62 are not well-documented, its altered expression is notable in psychiatric conditions. The gene's downregulation in ASD suggests a potential role in the disorder's pathophysiology, although the exact mechanisms remain unclear.
+
+GPR62 also exhibits constitutive activity in signaling pathways, such as the Gs/cAMP and Gq/IP1 pathways, which may influence its interactions with other receptors, like the melatonin MT2 receptor. This interaction can modulate melatonin functions, affecting ß-arrestin recruitment but not cAMP production, indicating a role as a pathway-biased allosteric modulator (Oishi2017Orphan). Despite these findings, the clinical significance of GPR62 in terms of specific diseases or conditions remains largely unexplored, and further research is needed to elucidate its potential implications in neurological and psychiatric disorders.
+
+## Interactions
+GPR62, a G protein-coupled receptor, is known to form heteromeric complexes with the melatonin MT2 receptor. This interaction is specific and has been confirmed through Bioluminescence Resonance Energy Transfer (BRET) and co-immunoprecipitation experiments. The formation of these heteromers affects the signaling functions of the MT2 receptor, particularly its ability to recruit ß-arrestin2, although it does not influence the receptor's capacity to inhibit cAMP production (Oishi2017Orphan). 
+
+GPR62 also exhibits constitutive activity, activating adenylyl cyclase and suggesting coupling to Gs proteins. It has been shown to couple with Gi1 and G15 proteins as well, which may explain its relatively weak constitutive activation of adenylyl cyclase (Lu2024Constitutive). 
+
+In addition to its interactions with G proteins, GPR62 constitutively recruits ß-arrestins, which could influence its interactions with other proteins. This recruitment is spontaneous and agonist-independent, as demonstrated in HEK293 cells (Oishi2017Orphan). Despite these interactions, GPR62 does not bind melatonin or iodomelatonin, indicating that its interactions are not ligand-dependent (Oishi2017Orphan).
+
+
+## References
+
+
+[1. (Watkins2020Orphan) Lyndsay R. Watkins and Cesare Orlandi. Orphan g protein coupled receptors in affective disorders. Genes, 11(6):694, June 2020. URL: http://dx.doi.org/10.3390/genes11060694, doi:10.3390/genes11060694. This article has 44 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes11060694)
+
+[2. (Muroi2017GPR62) Tomoyuki Muroi, Yuri Matsushima, Ryota Kanamori, Hikari Inoue, Wataru Fujii, and Keiichiro Yogo. Gpr62 constitutively activates camp signaling but is dispensable for male fertility in mice. Reproduction, 154(6):755–764, December 2017. URL: http://dx.doi.org/10.1530/rep-17-0333, doi:10.1530/rep-17-0333. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1530/rep-17-0333)
+
+[3. (Oishi2017Orphan) Atsuro Oishi, Angeliki Karamitri, Romain Gerbier, Olivier Lahuna, Raise Ahmad, and Ralf Jockers. Orphan gpr61, gpr62 and gpr135 receptors and the melatonin mt2 receptor reciprocally modulate their signaling functions. Scientific Reports, August 2017. URL: http://dx.doi.org/10.1038/s41598-017-08996-7, doi:10.1038/s41598-017-08996-7. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-08996-7)
+
+[4. (Lee2001Identification) Dennis K. Lee, Susan R. George, Regina Cheng, Tuan Nguyen, Yang Liu, Morgan Brown, Kevin R. Lynch, and Brian F. O’Dowd. Identification of four novel human g protein-coupled receptors expressed in the brain. Molecular Brain Research, 86(1–2):13–22, January 2001. URL: http://dx.doi.org/10.1016/s0169-328x(00)00242-4, doi:10.1016/s0169-328x(00)00242-4. This article has 64 citations.](https://doi.org/10.1016/s0169-328x(00)00242-4)
+
+[5. (Monfared2021Transcriptome) Roudabeh Vakil Monfared, Wedad Alhassen, Tri Minh Truong, Michael Angelo Maglalang Gonzales, Vincent Vachirakorntong, Siwei Chen, Pierre Baldi, Olivier Civelli, and Amal Alachkar. Transcriptome profiling of dysregulated gpcrs reveals overlapping patterns across psychiatric disorders and age-disease interactions. Cells, 10(11):2967, October 2021. URL: http://dx.doi.org/10.3390/cells10112967, doi:10.3390/cells10112967. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells10112967)
+
+6. (Lu2024Constitutive) Constitutive G protein coupling profiles of understudied orphan GPCRs. This article has 0 citations.

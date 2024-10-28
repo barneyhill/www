@@ -1,0 +1,66 @@
+# MCM4
+
+## Overview
+The MCM4 gene encodes the minichromosome maintenance complex component 4, a protein integral to the MCM2-7 complex, which functions as a replicative helicase in eukaryotic cells. This protein is essential for the unwinding of DNA strands during replication, facilitating the progression of replication forks during the S phase of the cell cycle (Pasion2024Deconstructing; Hughes2012MCM4). MCM4 is characterized by its ATPase domains, which are crucial for its helicase activity, and a serine/threonine-rich N-terminal domain that undergoes phosphorylation to regulate its function (Sheu2014Domain; Costa2009Structural). The protein's interactions with other MCM components and regulatory proteins underscore its role in maintaining genome stability and integrity, particularly under conditions of DNA damage and replication stress (Li2019PostTranslational). MCM4's clinical significance is highlighted by its association with various cancers and genetic disorders, where mutations or altered expression can lead to genomic instability and disease (Zheng2021Increased; Gineau2012Partial).
+
+## Structure
+The MCM4 protein is a component of the minichromosome maintenance (MCM) complex, which plays a crucial role in DNA replication. The primary structure of MCM4 consists of a sequence of amino acids encoded by the MCM4 gene. Its secondary structure includes alpha helices and beta sheets, which contribute to its stable three-dimensional tertiary structure. MCM4 interacts with other MCM proteins to form a hexameric helicase complex, representing its quaternary structure (Costa2009Structural).
+
+MCM4 contains ATPase domains that are essential for its helicase activity, facilitating DNA unwinding during replication (Costa2009Structural). The protein also features a significant N-terminal serine/threonine-rich domain (NSD), which is a target for phosphorylation by multiple kinases, including Dbf4-Cdc7 kinase (DDK), CDK, and Mec1. This domain is divided into proximal and distal segments, each with distinct roles in DNA replication initiation and fork progression (Sheu2014Domain).
+
+Phosphorylation is a common post-translational modification of MCM4, regulating its activity during the cell cycle. The phosphorylation of the NSD by DDK is particularly important for helicase activation, as it alleviates the inhibitory effect of the NSD on the MCM complex (Cheng2022Structural).
+
+## Function
+MCM4 is a critical component of the MCM2-7 complex, which functions as the replicative helicase essential for DNA replication in eukaryotic cells. This complex is responsible for unwinding DNA strands, allowing replication forks to progress during the S phase of the cell cycle (Pasion2024Deconstructing; Hughes2012MCM4). MCM4, along with other MCM proteins, forms a hexameric ring structure that is crucial for the helicase activity necessary for DNA unwinding at replication origins (Pasion2024Deconstructing).
+
+In healthy human cells, MCM4 is loaded onto chromatin during the G1 phase and becomes active at the G1/S transition, a process regulated by post-translational modifications (Li2019PostTranslational). This loading is stable and requires DNA replication to unload, indicating a tightly regulated process that ensures replication occurs only once per cell cycle (Kuipers2011Highly). MCM4 interacts with other proteins such as Cdc7 and the GINS complex, which are important for the activation of the replication process (Kuipers2011Highly).
+
+MCM4's function is vital for maintaining genome stability and integrity, particularly during DNA damage and replication stress (Li2019PostTranslational). Its role in DNA replication is underscored by its involvement in replication licensing, a critical step in DNA replication initiation (Pasion2024Deconstructing).
+
+## Clinical Significance
+Mutations and altered expression of the MCM4 gene have significant clinical implications. MCM4 is associated with various cancers, where its overexpression is linked to poor prognosis and survival outcomes. High MCM4 expression is observed in multiple cancer types, including hepatocellular carcinoma, where it correlates with reduced overall survival and increased tumor progression (Zheng2021Increased; Li2024Multiomics). MCM4 mutations, particularly amplifications, are prevalent in cancers such as uterine carcinosarcoma, and these genetic alterations are associated with genomic instability and cancer development (Li2024Multiomics).
+
+In humans, partial MCM4 deficiency is linked to an autosomal recessive disorder characterized by growth retardation, adrenal insufficiency, and natural killer (NK) cell deficiency. This condition is caused by a hypomorphic allele that results in truncated MCM4 isoforms, affecting DNA replication and immune function (Gineau2012Partial). The mutation leads to a clinical phenotype that includes a predisposition to viral infections and potentially cancer (Hughes2012MCM4).
+
+In mice, the Chaos3 mutation in MCM4 causes chromosome instability and a high incidence of mammary adenocarcinomas, suggesting a potential link between MCM4 mutations and breast cancer risk (Shima2007Genetic).
+
+## Interactions
+MCM4 is a component of the minichromosome maintenance (MCM) complex, which is essential for DNA replication. It interacts with other MCM proteins, including MCM6 and MCM7, to form the MCM4/6/7 complex, a critical part of the helicase activity necessary for DNA unwinding during replication (Watanabe2012Effect; Crevel2001Nearest). Mutations in MCM4, such as the F345I mutation, can disrupt its interaction with MCM6 and MCM7, affecting the stability and nuclear localization of the complex (Watanabe2012Effect).
+
+MCM4 also interacts with recombination proteins like Rhp51 (Rad51) and Rad22, suggesting a role in DNA repair and replication fork protection. These interactions are observed under replication stress conditions, such as treatment with hydroxyurea, and are independent of DNA, indicating direct protein-protein interactions (Bailis2008Minichromosome).
+
+In addition, MCM4 is part of the CMG complex, which includes CDC45 and GINS, essential for replication fork progression. The phosphorylation state of MCM4, regulated by kinases such as Cdc7-Dbf4, influences its function in replication initiation and chromatin binding (Pereverzeva2000Distinct).
+
+
+## References
+
+
+[1. (Sheu2014Domain) Yi-Jun Sheu, Justin B. Kinney, Armelle Lengronne, Philippe Pasero, and Bruce Stillman. Domain within the helicase subunit mcm4 integrates multiple kinase signals to control dna replication initiation and fork progression. Proceedings of the National Academy of Sciences, April 2014. URL: http://dx.doi.org/10.1073/pnas.1404063111, doi:10.1073/pnas.1404063111. This article has 63 citations.](https://doi.org/10.1073/pnas.1404063111)
+
+[2. (Li2024Multiomics) Yanxing Li, Wentao Gao, Zhen Yang, Zhenwei Hu, and Jianjun Li. Multi-omics pan-cancer analyses identify mcm4 as a promising prognostic and diagnostic biomarker. Scientific Reports, March 2024. URL: http://dx.doi.org/10.1038/s41598-024-57299-1, doi:10.1038/s41598-024-57299-1. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-57299-1)
+
+[3. (Li2019PostTranslational) Zheng Li and Xingzhi Xu. Post-translational modifications of the mini-chromosome maintenance proteins in dna replication. Genes, 10(5):331, April 2019. URL: http://dx.doi.org/10.3390/genes10050331, doi:10.3390/genes10050331. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes10050331)
+
+[4. (Costa2009Structural) Alessandro Costa and Silvia Onesti. Structural biology of mcm helicases. Critical Reviews in Biochemistry and Molecular Biology, 44(5):326–342, September 2009. URL: http://dx.doi.org/10.1080/10409230903186012, doi:10.1080/10409230903186012. This article has 50 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/10409230903186012)
+
+[5. (Gineau2012Partial) Laure Gineau, Céline Cognet, Nihan Kara, Francis Peter Lach, Jean Dunne, Uma Veturi, Capucine Picard, Céline Trouillet, Céline Eidenschenk, Said Aoufouchi, Alexandre Alcaïs, Owen Smith, Frédéric Geissmann, Conleth Feighery, Laurent Abel, Agata Smogorzewska, Bruce Stillman, Eric Vivier, Jean-Laurent Casanova, and Emmanuelle Jouanguy. Partial mcm4 deficiency in patients with growth retardation, adrenal insufficiency, and natural killer cell deficiency. Journal of Clinical Investigation, 122(3):821–832, March 2012. URL: http://dx.doi.org/10.1172/jci61014, doi:10.1172/jci61014. This article has 252 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci61014)
+
+[6. (Shima2007Genetic) Naoko Shima, Tavanna R. Buske, and John C. Schimenti. Genetic screen for chromosome instability in mice: mcm4 and breast cancer. Cell Cycle, 6(10):1135–1140, May 2007. URL: http://dx.doi.org/10.4161/cc.6.10.4250, doi:10.4161/cc.6.10.4250. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/cc.6.10.4250)
+
+[7. (Zheng2021Increased) Ruinian Zheng, Guowei Lai, Rongfa Li, Yanyan Hao, Limin Cai, and Jun Jia. Increased expression of mcm4 is associated with poor prognosis in patients with hepatocellular carcinoma. Journal of Gastrointestinal Oncology, 12(1):153–173, February 2021. URL: http://dx.doi.org/10.21037/jgo-20-574, doi:10.21037/jgo-20-574. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.21037/jgo-20-574)
+
+[8. (Watanabe2012Effect) E. Watanabe, R. Ohara, and Y. Ishimi. Effect of an mcm4 mutation that causes tumours in mouse on human mcm4/6/7 complex formation. Journal of Biochemistry, 152(2):191–198, June 2012. URL: http://dx.doi.org/10.1093/jb/mvs060, doi:10.1093/jb/mvs060. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/jb/mvs060)
+
+[9. (Pereverzeva2000Distinct) Inna Pereverzeva, Elizabeth Whitmire, Bettina Khan, and Martine Coué. Distinct phosphoisoforms of the xenopus mcm4 protein regulate the function of the mcm complex. Molecular and Cellular Biology, 20(10):3667–3676, May 2000. URL: http://dx.doi.org/10.1128/MCB.20.10.3667-3676.2000, doi:10.1128/mcb.20.10.3667-3676.2000. This article has 71 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.20.10.3667-3676.2000)
+
+[10. (Kuipers2011Highly) Marjorie A. Kuipers, Timothy J. Stasevich, Takayo Sasaki, Korey A. Wilson, Kristin L. Hazelwood, James G. McNally, Michael W. Davidson, and David M. Gilbert. Highly stable loading of mcm proteins onto chromatin in living cells requires replication to unload. Journal of Cell Biology, 192(1):29–41, January 2011. URL: http://dx.doi.org/10.1083/jcb.201007111, doi:10.1083/jcb.201007111. This article has 71 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201007111)
+
+[11. (Hughes2012MCM4) Claire R. Hughes, Leonardo Guasti, Eirini Meimaridou, Chen-Hua Chuang, John C. Schimenti, Peter J. King, Colm Costigan, Adrian J.L. Clark, and Louise A. Metherell. Mcm4 mutation causes adrenal failure, short stature, and natural killer cell deficiency in humans. Journal of Clinical Investigation, 122(3):814–820, March 2012. URL: http://dx.doi.org/10.1172/jci60224, doi:10.1172/jci60224. This article has 216 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci60224)
+
+[12. (Cheng2022Structural) Jiaxuan Cheng, Ningning Li, Yunjing Huo, Shangyu Dang, Bik-Kwoon Tye, Ning Gao, and Yuanliang Zhai. Structural insight into the mcm double hexamer activation by dbf4-cdc7 kinase. Nature Communications, March 2022. URL: http://dx.doi.org/10.1038/s41467-022-29070-5, doi:10.1038/s41467-022-29070-5. This article has 17 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-29070-5)
+
+[13. (Crevel2001Nearest) G. Crevel. Nearest neighbour analysis of mcm protein complexes in drosophila melanogaster. Nucleic Acids Research, 29(23):4834–4842, December 2001. URL: http://dx.doi.org/10.1093/nar/29.23.4834, doi:10.1093/nar/29.23.4834. This article has 30 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/29.23.4834)
+
+14. (Pasion2024Deconstructing) Deconstructing a Conserved Protein Family: The Role of MCM Proteins in Eukaryotic DNA Replication. This article has 6 citations.
+
+[15. (Bailis2008Minichromosome) Julie M. Bailis, Douglas D. Luche, Tony Hunter, and Susan L. Forsburg. Minichromosome maintenance proteins interact with checkpoint and recombination proteins to promote s-phase genome stability. Molecular and Cellular Biology, 28(5):1724–1738, March 2008. URL: http://dx.doi.org/10.1128/mcb.01717-07, doi:10.1128/mcb.01717-07. This article has 64 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.01717-07)

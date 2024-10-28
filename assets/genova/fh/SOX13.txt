@@ -1,0 +1,43 @@
+# SOX13
+
+## Overview
+SOX13 is a gene that encodes the SRY-box transcription factor 13, a member of the SOX (SRY-related HMG-box) family of transcription factors. These proteins are characterized by their ability to bind DNA and regulate gene expression, playing crucial roles in various developmental and cellular processes. SOX13, in particular, is involved in T-cell development and endothelial cell function, acting as a transcriptional regulator that influences cell differentiation and response to mechanical stimuli. It functions as a Wnt/TCF signaling antagonist in T-cells and as a flow-sensitive transcription factor in endothelial cells, contributing to vascular homeostasis. The dysregulation of SOX13 has been implicated in several cancers, where it may act as an oncogene, influencing tumor progression and metastasis (Demos2022Sox13; Chew2009The; Du2020SOX13).
+
+## Function
+SOX13 is a transcription factor that plays a significant role in various biological processes, particularly in T-cell development and endothelial cell function. In T-cell differentiation, SOX13 promotes the development of the gammaDelta lineage from progenitors while suppressing differentiation to the alphaBeta lineage. This is achieved by inhibiting Wnt signaling through antagonizing T-cell factor 1 (TCF1), rather than directly interacting with beta-catenin (Chew2009The; Kormish2009Interactions). SOX13 also downregulates TCF1 target genes, such as Ly49a, in T cells, and its absence leads to increased thymocyte proliferation, indicating its role as a Wnt/TCF signaling antagonist (Chew2009The).
+
+In endothelial cells, SOX13 functions as a flow-sensitive transcription factor that helps maintain a non-inflammatory state by repressing the expression of pro-inflammatory chemokines and cytokines, such as CCL5 and CXCL10. This repression is crucial for preventing endothelial inflammation and maintaining vascular homeostasis, which is important for preventing atherosclerosis (Demos2022Sox13). SOX13 is predominantly expressed in the nucleus of endothelial cells and is upregulated under stable flow conditions, highlighting its role in responding to mechanical stimuli in the vascular environment (Demos2022Sox13).
+
+## Clinical Significance
+The SOX13 gene has been implicated in several cancers due to its altered expression levels and interactions. In hepatocellular carcinoma (HCC), SOX13 is overexpressed in tumor tissues compared to non-tumor tissues, and its high expression is associated with poor differentiation, metastasis, recurrence, and overall poor survival. SOX13 promotes HCC cell invasion, migration, and epithelial-to-mesenchymal transition (EMT) by activating Twist1 transcription, suggesting its role as an oncogene and potential prognostic marker in HCC (Feng2020Sox13).
+
+In colorectal cancer (CRC), SOX13 is significantly overexpressed and linked to aggressive cancer features and poor prognosis. It promotes CRC metastasis by transactivating SNAI2 and c-MET, which are crucial for EMT and cancer cell migration. SOX13 expression is induced by the HGF/STAT3 signaling pathway, and targeting this pathway with the c-MET inhibitor crizotinib has shown potential in reducing CRC metastasis (Du2020SOX13).
+
+In breast cancer, SOX13 is highly expressed and associated with immune infiltration and drug resistance. Its expression correlates with poor overall survival and is linked to immune system interactions, suggesting its role as a prognostic biomarker (Gao2024SOX13).
+
+## Interactions
+SOX13 is involved in various interactions with proteins and nucleic acids, influencing multiple cellular processes. In glioma endothelial cells, SOX13 is part of a regulatory feedback loop involving FUS, circ_002136, and miR-138-5p. It is negatively regulated by miR-138-5p, which binds to the 3'-UTR of SOX13, inhibiting its expression. Circ_002136 acts as a molecular sponge for miR-138-5p, indirectly promoting SOX13 expression. SOX13 also binds to the FUS promoter region, up-regulating FUS expression and forming a positive feedback loop that enhances glioma angiogenesis (He2019FUScirc002136miR1385pSOX13).
+
+In colorectal cancer, SOX13 interacts with the HGF/STAT3 signaling pathway, leading to the transactivation of SNAI2 and c-MET, which are crucial for cancer metastasis. SOX13 binds to the promoters of these genes, enhancing their expression and promoting epithelial-mesenchymal transition (Du2020SOX13).
+
+In T-cell development, SOX13 interacts with TCF1, potentially preventing β-catenin from binding to TCF1 and repressing Wnt target gene expression. This interaction suggests that SOX13 modulates Wnt signaling pathways, particularly in the context of T-cell development (Bernard2010Acquisition; Kormish2009Interactions).
+
+
+## References
+
+
+[1. (Du2020SOX13) Feng Du, Xiaowei Li, Weibo Feng, Chenyang Qiao, Jie Chen, Mingzuo Jiang, Zhaoyan Qiu, Meirui Qian, Dean Tian, Yongzhan Nie, Daiming Fan, Kaichun Wu, and Limin Xia. Sox13 promotes colorectal cancer metastasis by transactivating snai2 and c-met. Oncogene, 39(17):3522–3540, February 2020. URL: http://dx.doi.org/10.1038/s41388-020-1233-4, doi:10.1038/s41388-020-1233-4. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-020-1233-4)
+
+[2. (Kormish2009Interactions) Jay D. Kormish, Débora Sinner, and Aaron M. Zorn. Interactions between sox factors and wnt/β‐catenin signaling in development and disease. Developmental Dynamics, 239(1):56–68, August 2009. URL: http://dx.doi.org/10.1002/dvdy.22046, doi:10.1002/dvdy.22046. This article has 184 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/dvdy.22046)
+
+[3. (He2019FUScirc002136miR1385pSOX13) Zhenwei He, Xuelei Ruan, Xiaobai Liu, Jian Zheng, Yunhui Liu, Libo Liu, Jun Ma, Lianqi Shao, Di Wang, Shuyuan Shen, Chunqing Yang, and Yixue Xue. Fus/circ_002136/mir-138-5p/sox13 feedback loop regulates angiogenesis in glioma. Journal of Experimental &amp; Clinical Cancer Research, February 2019. URL: http://dx.doi.org/10.1186/s13046-019-1065-7, doi:10.1186/s13046-019-1065-7. This article has 126 citations.](https://doi.org/10.1186/s13046-019-1065-7)
+
+[4. (Demos2022Sox13) Catherine Demos, Janie Johnson, Aitor Andueza, Christian Park, Yerin Kim, Nicolas Villa-Roel, Dong-Won Kang, Sandeep Kumar, and Hanjoong Jo. Sox13 is a novel flow-sensitive transcription factor that prevents inflammation by repressing chemokine expression in endothelial cells. Frontiers in Cardiovascular Medicine, September 2022. URL: http://dx.doi.org/10.3389/fcvm.2022.979745, doi:10.3389/fcvm.2022.979745. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcvm.2022.979745)
+
+[5. (Bernard2010Acquisition) Pascal Bernard and Vincent R. Harley. Acquisition of sox transcription factor specificity through protein–protein interaction, modulation of wnt signalling and post-translational modification. The International Journal of Biochemistry &amp; Cell Biology, 42(3):400–410, March 2010. URL: http://dx.doi.org/10.1016/j.biocel.2009.10.017, doi:10.1016/j.biocel.2009.10.017. This article has 72 citations.](https://doi.org/10.1016/j.biocel.2009.10.017)
+
+[6. (Chew2009The) Li‐Jin Chew and Vittorio Gallo. The yin and yang of sox proteins: activation and repression in development and disease. Journal of Neuroscience Research, 87(15):3277–3287, May 2009. URL: http://dx.doi.org/10.1002/jnr.22128, doi:10.1002/jnr.22128. This article has 84 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jnr.22128)
+
+[7. (Gao2024SOX13) Ting Gao, Baohong Jiang, Yu Zhou, Rongfang He, Liming Xie, and Yuehua Li. Sox13 is a novel prognostic biomarker and associates with immune infiltration in breast cancer. Frontiers in Immunology, April 2024. URL: http://dx.doi.org/10.3389/fimmu.2024.1369892, doi:10.3389/fimmu.2024.1369892. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2024.1369892)
+
+[8. (Feng2020Sox13) Min Feng, Fei Fang, Ting Fang, Hui Jiao, Song You, Xiaomin Wang, and Wenxiu Zhao. Sox13 promotes hepatocellular carcinoma metastasis by transcriptionally activating twist1. Laboratory Investigation, 100(11):1400–1410, November 2020. URL: http://dx.doi.org/10.1038/s41374-020-0445-0, doi:10.1038/s41374-020-0445-0. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41374-020-0445-0)

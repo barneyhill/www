@@ -1,0 +1,56 @@
+# ABHD2
+
+## Overview
+ABHD2 is a gene that encodes the protein abhydrolase domain containing 2, acylglycerol lipase, which is a member of the α/β hydrolase fold family. This protein functions primarily as a serine hydrolase enzyme involved in lipid metabolism, playing a critical role in the hydrolysis of triacylglycerols and esters into free fatty acids and glycerol. ABHD2 is characterized by its conserved lipid hydrolase domain and is implicated in various biological processes, including sperm activation and oocyte maturation, through its involvement in the endocannabinoid signaling pathway (Nader2024Progesterone; Baggelaar2019ABHD2). Additionally, ABHD2 is involved in calcium signaling and cellular lipid homeostasis, with significant roles in the liver and endoplasmic reticulum (Price2023Lipidomic; Yun2017Regulation). The protein's activity and expression have been linked to several clinical conditions, including cancer and vascular diseases, highlighting its potential as a therapeutic target (Liu2022TDP43; Yamanoi2016Suppression).
+
+## Structure
+ABHD2 is a serine hydrolase that belongs to the α/β hydrolase fold family, characterized by a conserved lipid hydrolase domain with a GxSxG motif, which is typical for this protein family (Nader2024Progesterone; Lord2013Mammalian). The protein consists of 425 amino acids and has a molecular weight of approximately 48 kDa (Lord2013Mammalian). It is encoded by 11 exons located on chromosome 15q26.1 (Lord2013Mammalian).
+
+ABHD2 contains a lipase domain crucial for its biological function, particularly in processes like oocyte maturation (Nader2024Progesterone). The protein also has an acyltransferase domain, which is close to the human HxxxD consensus, but with an asparagine (Asn) replacing the aspartate (Asp) residue (Nader2024Progesterone). The full structure, including the lipase domain, is necessary for its function, as demonstrated by the non-functionality of the shorter isoform, ABHD2.L, which lacks the C-terminal end of the α/β hydrolase domain (Nader2024Progesterone).
+
+ABHD2 is predicted to be a single-pass type II membrane protein, although this has not been experimentally confirmed (Lord2013Mammalian). The protein is involved in lipid metabolism and has been linked to various biological processes, including sperm activation and oocyte maturation (Nader2024Progesterone; Baggelaar2019ABHD2).
+
+## Function
+ABHD2, also known as lung alpha/beta hydrolase 2, is a serine hydrolase enzyme involved in lipid metabolism. It functions as a triacylglycerol (TAG) lipase and ester hydrolase, playing a role in the breakdown of lipid molecules into free fatty acids and glycerol (M.2016Molecular). ABHD2 is part of the α/β hydrolase superfamily and is characterized by conserved motifs typical of the catalytic triad in hydrolases, which are crucial for its enzymatic activity (M.2016Molecular).
+
+In cellular biology, ABHD2 is involved in the regulation of calcium release from the endoplasmic reticulum (ER), influencing calcium signaling and cell death processes. It is localized to the ER and plays a role in the transfer of calcium from the ER to mitochondria, which is important for cellular processes such as bioenergetics and ATP production (Yun2017Regulation). ABHD2's activity in lipid metabolism is also significant in the liver, where it metabolizes phosphatidylcholine and cardiolipin, impacting mitochondrial lipid synthesis and homeostasis (Price2023Lipidomic). These functions highlight ABHD2's role in maintaining cellular lipid balance and calcium signaling.
+
+## Clinical Significance
+Alterations in the expression of the ABHD2 gene have been linked to various diseases and conditions. In ovarian cancer, particularly high-grade serous ovarian cancer (HGSOC), suppression of ABHD2 is associated with anoikis resistance, chemoresistance, and poor prognosis. Low expression of ABHD2 correlates with increased phosphorylation of ERK1/2 and p38MAPK pathways, which are linked to platinum resistance and worse survival outcomes in patients (Yamanoi2016Suppression). 
+
+In hepatocellular carcinoma (HCC), ABHD2 is upregulated by TDP-43, an RNA-binding protein, which enhances the stability of ABHD2 mRNA. This upregulation promotes lipid metabolism, leading to increased free fatty acids and reactive oxygen species, which suppress apoptosis and facilitate cancer cell proliferation. Targeting the TDP-43/ABHD2 pathway is suggested as a potential therapeutic strategy for HCC (Liu2022TDP43).
+
+In vascular biology, ABHD2 plays a role in regulating smooth muscle cell (SMC) migration and intimal hyperplasia. Mice lacking ABHD2 exhibit increased SMC migration and neointimal hyperplasia, suggesting its involvement in vascular diseases such as atherosclerosis (Miyata2005Increase). 
+
+ABHD2 deficiency is also implicated in the development of pulmonary emphysema, as seen in mice models where its absence leads to increased macrophage infiltration, inflammation, and apoptosis, mirroring human emphysema progression (Jin2009Agerelated).
+
+## Interactions
+ABHD2 is involved in various physiological processes, but specific physical interactions with other proteins or nucleic acids are not extensively detailed in the available literature. However, ABHD2 is known to interact functionally with components of the endocannabinoid signaling pathway. It acts as a progesterone-dependent 2-arachidonoylglycerol (2-AG) hydrolase, which is crucial for sperm hyperactivation by opening the CatSper channel in spermatozoa (Baggelaar2019ABHD2). 
+
+In the context of hepatocellular carcinoma, TDP-43, an RNA-binding protein, interacts with ABHD2 mRNA by binding to UG-rich sequences in its 3ʹUTR. This interaction enhances the stability and expression of ABHD2 mRNA, thereby influencing lipid metabolism and suppressing apoptosis in cancer cells (Liu2022TDP43). 
+
+While the STRING protein-protein association network database predicts a potential interaction between ABHD2 and ABHD18, this has not been experimentally validated (Price2023Lipidomic). Overall, while ABHD2's functional roles are well-documented, specific physical interactions with other proteins or nucleic acids remain to be fully elucidated.
+
+
+## References
+
+
+[1. (Jin2009Agerelated) Shoude Jin, Gang Zhao, Zhenghua Li, Yuki Nishimoto, Yoichiro Isohama, Jingling Shen, Takaaki Ito, Motohiro Takeya, Kimi Araki, Ping He, and Ken-ichi Yamamura. Age-related pulmonary emphysema in mice lacking α/β hydrolase domain containing 2 gene. Biochemical and Biophysical Research Communications, 380(2):419–424, March 2009. URL: http://dx.doi.org/10.1016/j.bbrc.2009.01.098, doi:10.1016/j.bbrc.2009.01.098. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2009.01.098)
+
+[2. (Liu2022TDP43) Bo-wen Liu, Xiang-yun Wang, Jin-ling Cao, Lu-lu Chen, Yi-lei Wang, Bing-qian Zhao, Jia Zhou, and Zhi-fa Shen. Tdp-43 upregulates lipid metabolism modulator abhd2 to suppress apoptosis in hepatocellular carcinoma. Communications Biology, August 2022. URL: http://dx.doi.org/10.1038/s42003-022-03788-w, doi:10.1038/s42003-022-03788-w. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-022-03788-w)
+
+[3. (Miyata2005Increase) Keishi Miyata, Yuichi Oike, Takayuki Hoshii, Hiromitsu Maekawa, Hisao Ogawa, Toshio Suda, Kimi Araki, and Ken-ichi Yamamura. Increase of smooth muscle cell migration and of intimal hyperplasia in mice lacking the α/β hydrolase domain containing 2 gene. Biochemical and Biophysical Research Communications, 329(1):296–304, April 2005. URL: http://dx.doi.org/10.1016/j.bbrc.2005.01.127, doi:10.1016/j.bbrc.2005.01.127. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2005.01.127)
+
+[4. (Lord2013Mammalian) Caleb C. Lord, Gwynneth Thomas, and J. Mark Brown. Mammalian alpha beta hydrolase domain (abhd) proteins: lipid metabolizing enzymes at the interface of cell signaling and energy metabolism. Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids, 1831(4):792–802, April 2013. URL: http://dx.doi.org/10.1016/j.bbalip.2013.01.002, doi:10.1016/j.bbalip.2013.01.002. This article has 122 citations.](https://doi.org/10.1016/j.bbalip.2013.01.002)
+
+[5. (Price2023Lipidomic) Tara R. Price, Donnie S. Stapleton, Kathryn L. Schueler, Marie K. Norris, Brian W. Parks, Brian S. Yandell, Gary A. Churchill, William L. Holland, Mark P. Keller, and Alan D. Attie. Lipidomic qtl in diversity outbred mice identifies a novel function for α/β hydrolase domain 2 (abhd2) as an enzyme that metabolizes phosphatidylcholine and cardiolipin. PLOS Genetics, 19(7):e1010713, July 2023. URL: http://dx.doi.org/10.1371/journal.pgen.1010713, doi:10.1371/journal.pgen.1010713. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1010713)
+
+[6. (Baggelaar2019ABHD2) Marc P. Baggelaar, Hans den Dulk, Bogdan I. Florea, Domenico Fazio, Nicola Bernabò, Marcello Raspa, Antonius P. A. Janssen, Ferdinando Scavizzi, Barbara Barboni, Hermen S. Overkleeft, Mauro Maccarrone, and Mario van der Stelt. Abhd2 inhibitor identified by activity-based protein profiling reduces acrosome reaction. ACS Chemical Biology, October 2019. URL: http://dx.doi.org/10.1021/acschembio.9b00640, doi:10.1021/acschembio.9b00640. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1021/acschembio.9b00640)
+
+[7. (Yamanoi2016Suppression) Koji Yamanoi, Noriomi Matsumura, Susan K. Murphy, Tsukasa Baba, Kaoru Abiko, Junzo Hamanishi, Ken Yamaguchi, Masafumi Koshiyama, Ikuo Konishi, and Masaki Mandai. Suppression of abhd2, identified through a functional genomics screen, causes anoikis resistance, chemoresistance and poor prognosis in ovarian cancer. Oncotarget, 7(30):47620–47636, June 2016. URL: http://dx.doi.org/10.18632/oncotarget.9951, doi:10.18632/oncotarget.9951. This article has 29 citations and is from a poor quality or predatory journal.](https://doi.org/10.18632/oncotarget.9951)
+
+8. (Nader2024Progesterone) Progesterone induces meiosis through two obligate co-receptors with PLA2 activity. This article has 1 citations.
+
+[9. (M.2016Molecular) Naresh Kumar M., Thunuguntla V.B.S.C., Veeramachaneni G.K., Chandra Sekhar B., Swapna Guntupalli, and Bondili J.S. Molecular characterization of human abhd2 as tag lipase and ester hydrolase. Bioscience Reports, July 2016. URL: http://dx.doi.org/10.1042/bsr20160033, doi:10.1042/bsr20160033. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1042/bsr20160033)
+
+[10. (Yun2017Regulation) Bogeon Yun, HeeJung Lee, Roger Powell, Nichole Reisdorph, Heather Ewing, Michael H. Gelb, Ku-Lung Hsu, Benjamin F. Cravatt, and Christina C. Leslie. Regulation of calcium release from the endoplasmic reticulum by the serine hydrolase abhd2. Biochemical and Biophysical Research Communications, 490(4):1226–1231, September 2017. URL: http://dx.doi.org/10.1016/j.bbrc.2017.06.195, doi:10.1016/j.bbrc.2017.06.195. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2017.06.195)

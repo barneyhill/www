@@ -1,0 +1,60 @@
+# HDAC7
+
+## Overview
+HDAC7 is a gene that encodes the protein histone deacetylase 7, a member of the class IIa histone deacetylases. This protein is primarily involved in the regulation of gene expression through its role in chromatin remodeling, achieved by removing acetyl groups from histone proteins, which leads to chromatin condensation and transcriptional repression (RUIJTER2003Histone; Clocchiatti2011Class). Histone deacetylase 7 is characterized by a conserved catalytic domain and is known to interact with various transcription factors and co-repressors, influencing processes such as cell differentiation, apoptosis, and vascular integrity (Martin2007Class; Ficner2009Novel). The protein's activity is modulated by post-translational modifications, including phosphorylation, which affects its subcellular localization and function (Dequiedt2005Phosphorylation). HDAC7 has been implicated in several pathological conditions, including cancer and cardiovascular diseases, making it a potential target for therapeutic interventions (Ouaïssi2008High; Yang2005Class).
+
+## Structure
+The human HDAC7 protein is a member of the class IIa histone deacetylases, characterized by a conserved catalytic domain located in the C-terminal half of the protein (RUIJTER2003Histone). The crystal structure of HDAC7's catalytic domain, spanning residues 515-900, reveals a fold similar to other Zn2+-dependent HDACs, with structural homology to HDAC4 and bacterial class II HDAH (Ficner2009Novel). This domain includes a second Zn2+ ion liganded by a conserved C-X-C-X5-H-X75-76-C motif, forming a hydrophobic pocket adjacent to the active site, which may serve as a docking site for other proteins (Ficner2009Novel).
+
+HDAC7 features a His residue in its active site, replacing the catalytic Tyr found in class I HDACs, a structural feature shared with HDAC4, suggesting a common mechanism among class IIa HDACs (Ficner2009Novel). The protein also contains conserved binding domains for C-terminal binding protein (CtBP), myocyte enhancer factor 2 (MEF2), and 14-3-3 proteins on the N-terminus (RUIJTER2003Histone). HDAC7 can undergo post-translational modifications such as phosphorylation, which influences its localization and function (RUIJTER2003Histone).
+
+## Function
+HDAC7 is a class IIa histone deacetylase that plays a significant role in transcriptional repression by removing acetyl groups from histone proteins, leading to chromatin condensation. It is primarily active in the nucleus and is involved in various cellular processes, including gene expression regulation, cell differentiation, and maintaining vascular integrity (RUIJTER2003Histone; Clocchiatti2011Class).
+
+In the thymus, HDAC7 is transiently expressed in CD4/CD8 double-positive thymocytes, where it associates with the MEF2D transcription factor to repress the proapoptotic gene nur77. This repression is crucial for the negative selection of thymocytes, ensuring the removal of self-reactive T cells (Martin2007Class). HDAC7 also interacts with co-repressors such as SMRT/N-CoR and BCoR, inhibiting the myogenic transcription factor MEF2, which is essential for muscle differentiation (RUIJTER2003Histone).
+
+During embryogenesis, HDAC7 is specifically expressed in the vascular endothelium, where it maintains vascular integrity by repressing matrix metalloproteinase 10 (MMP10). This repression prevents the degradation of the extracellular matrix, which is vital for endothelial cell adhesion and blood vessel stability (Clocchiatti2011Class; Chang2006Histone). The absence of HDAC7 leads to vascular defects, highlighting its critical role in vascular development (Chang2006Histone).
+
+## Clinical Significance
+HDAC7 (histone deacetylase 7) has been implicated in various diseases due to alterations in its expression levels. In pancreatic adenocarcinomas, HDAC7 expression is significantly upregulated, with 81% of tumor samples showing increased mRNA levels compared to normal pancreatic tissue. This upregulation is associated with the progression of pancreatic cancer and suggests that HDAC7 could serve as a biomarker for this malignancy (Ouaïssi2008High).
+
+HDAC7 is also involved in cancer treatment responses. Histone deacetylase inhibitors (HDACi), such as vorinostat, selectively suppress HDAC7 expression, particularly in transformed cells sensitive to these inhibitors. This suppression is linked to the induction of cell death in cancerous cells, highlighting HDAC7's potential role in cancer therapy (Dokmanovic2007Histone).
+
+Beyond cancer, HDAC7 is implicated in cardiovascular diseases. In null mice, HDAC7 is associated with cardiovascular defects, although specific human diseases directly linked to HDAC7 mutations are not detailed (Yang2005Class). HDAC7's involvement in endothelial cell migration and angiogenesis further underscores its significance in disease pathogenesis (Ouaïssi2008High).
+
+## Interactions
+HDAC7 interacts with a variety of proteins, playing significant roles in different cellular processes. It is known to associate with protein kinase D (PKD), which phosphorylates HDAC7, leading to its nuclear export. This interaction is crucial for the regulation of Nur77 expression during T cell receptor (TCR)-induced apoptosis, as it overcomes HDAC7-mediated repression of Nur77 (Dequiedt2005Phosphorylation).
+
+In endothelial cells, HDAC7 interacts with β-catenin, a protein involved in cell proliferation. HDAC7 stabilizes β-catenin in the cytoplasm, preventing its nuclear translocation and thus modulating endothelial cell growth. Vascular Endothelial Growth Factor (VEGF) can induce the degradation of HDAC7, allowing β-catenin to translocate to the nucleus and promote cell proliferation (Margariti2010Histone).
+
+HDAC7 also interacts with hypoxia-inducible factor 1α (HIF-1α), enhancing its transcriptional activity under hypoxic conditions. This interaction involves the formation of a complex with HIF-1α and p300, which increases the expression of HIF-1α target genes (Kato2004Histone).
+
+Additionally, HDAC7 is associated with the myosin phosphatase complex, including protein phosphatase 1β (PP1β) and myosin phosphatase targeting subunit 1 (MYPT1), which dephosphorylates HDAC7, affecting its nucleocytoplasmic shuttling and function in thymocytes (Parra2007Myosin).
+
+
+## References
+
+
+[1. (Clocchiatti2011Class) Andrea Clocchiatti, Cristina Florean, and Claudio Brancolini. Class iia hdacs: from important roles in differentiation to possible implications in tumourigenesis. Journal of Cellular and Molecular Medicine, 15(9):1833–1846, August 2011. URL: http://dx.doi.org/10.1111/j.1582-4934.2011.01321.x, doi:10.1111/j.1582-4934.2011.01321.x. This article has 83 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/j.1582-4934.2011.01321.x)
+
+[2. (Chang2006Histone) Shurong Chang, Bryan D. Young, Shijie Li, Xiaoxia Qi, James A. Richardson, and Eric N. Olson. Histone deacetylase 7 maintains vascular integrity by repressing matrix metalloproteinase 10. Cell, 126(2):321–334, July 2006. URL: http://dx.doi.org/10.1016/j.cell.2006.05.040, doi:10.1016/j.cell.2006.05.040. This article has 364 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2006.05.040)
+
+[3. (Yang2005Class) Xiang-Jiao Yang and Serge Grégoire. Class ii histone deacetylases: from sequence to function, regulation, and clinical implication. Molecular and Cellular Biology, 25(8):2873–2884, April 2005. URL: http://dx.doi.org/10.1128/MCB.25.8.2873-2884.2005, doi:10.1128/mcb.25.8.2873-2884.2005. This article has 533 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.25.8.2873-2884.2005)
+
+[4. (Ficner2009Novel) Ralf Ficner. Novel structural insights into class i and ii histone deacetylases. Current Topics in Medicinal Chemistry, 9(3):235–240, February 2009. URL: http://dx.doi.org/10.2174/156802609788085304, doi:10.2174/156802609788085304. This article has 55 citations and is from a peer-reviewed journal.](https://doi.org/10.2174/156802609788085304)
+
+[5. (Kato2004Histone) Hiroyuki Kato, Shiori Tamamizu-Kato, and Futoshi Shibasaki. Histone deacetylase 7 associates with hypoxia-inducible factor 1α and increases transcriptional activity. Journal of Biological Chemistry, 279(40):41966–41974, October 2004. URL: http://dx.doi.org/10.1074/jbc.m406320200, doi:10.1074/jbc.m406320200. This article has 163 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m406320200)
+
+[6. (Ouaïssi2008High) Mehdi Ouaïssi, Igor Sielezneff, Ricardo Silvestre, Bernard Sastre, Jean-Paul Bernard, Joelle Simony Lafontaine, Marie José Payan, Laetitia Dahan, Nicolas Pirrò, Jean François Seitz, Eric Mas, Dominique Lombardo, and Ali Ouaissi. High histone deacetylase 7 (hdac7) expression is significantly associated with adenocarcinomas of the pancreas. Annals of Surgical Oncology, 15(8):2318–2328, May 2008. URL: http://dx.doi.org/10.1245/s10434-008-9940-z, doi:10.1245/s10434-008-9940-z. This article has 96 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1245/s10434-008-9940-z)
+
+[7. (Parra2007Myosin) Maribel Parra, Tokameh Mahmoudi, and Eric Verdin. Myosin phosphatase dephosphorylates hdac7, controls its nucleocytoplasmic shuttling, and inhibits apoptosis in thymocytes. Genes &amp; Development, 21(6):638–643, March 2007. URL: http://dx.doi.org/10.1101/gad.1513107, doi:10.1101/gad.1513107. This article has 70 citations.](https://doi.org/10.1101/gad.1513107)
+
+[8. (Margariti2010Histone) Andriana Margariti, Anna Zampetaki, Qingzhong Xiao, Boda Zhou, Eirini Karamariti, Daniel Martin, Xiaoke Yin, Manuel Mayr, Hongling Li, Zhongyi Zhang, Elena De Falco, Yanhua Hu, Gillian Cockerill, Qingbo Xu, and Lingfang Zeng. Histone deacetylase 7 controls endothelial cell growth through modulation of β-catenin. Circulation Research, 106(7):1202–1211, April 2010. URL: http://dx.doi.org/10.1161/circresaha.109.213165, doi:10.1161/circresaha.109.213165. This article has 93 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1161/circresaha.109.213165)
+
+[9. (Dequiedt2005Phosphorylation) Franck Dequiedt, Johan Van Lint, Emily Lecomte, Viktor Van Duppen, Thomas Seufferlein, Jackie R. Vandenheede, Ruddy Wattiez, and Richard Kettmann. Phosphorylation of histone deacetylase 7 by protein kinase d mediates t cell receptor–induced nur77 expression and apoptosis. The Journal of Experimental Medicine, 201(5):793–804, February 2005. URL: http://dx.doi.org/10.1084/jem.20042034, doi:10.1084/jem.20042034. This article has 140 citations.](https://doi.org/10.1084/jem.20042034)
+
+[10. (Dokmanovic2007Histone) Milos Dokmanovic, Gisela Perez, Weisheng Xu, Lang Ngo, Cathy Clarke, Raphael B. Parmigiani, and Paul A. Marks. Histone deacetylase inhibitors selectively suppress expression of hdac7. Molecular Cancer Therapeutics, 6(9):2525–2534, September 2007. URL: http://dx.doi.org/10.1158/1535-7163.mct-07-0251, doi:10.1158/1535-7163.mct-07-0251. This article has 82 citations and is from a peer-reviewed journal.](https://doi.org/10.1158/1535-7163.mct-07-0251)
+
+[11. (Martin2007Class) M Martin, R Kettmann, and F Dequiedt. Class iia histone deacetylases: regulating the regulators. Oncogene, 26(37):5450–5467, August 2007. URL: http://dx.doi.org/10.1038/sj.onc.1210613, doi:10.1038/sj.onc.1210613. This article has 195 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.onc.1210613)
+
+[12. (RUIJTER2003Histone) Annemieke J.M. de RUIJTER, Albert H. van GENNIP, Huib N. CARON, Stephan KEMP, and André B.P. van KUILENBURG. Histone deacetylases (hdacs): characterization of the classical hdac family. Biochemical Journal, 370(3):737–749, March 2003. URL: http://dx.doi.org/10.1042/bj20021321, doi:10.1042/bj20021321. This article has 2344 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20021321)

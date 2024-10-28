@@ -1,0 +1,52 @@
+# GIGYF2
+
+## Overview
+GIGYF2, or GRB10 interacting GYF protein 2, is a gene that encodes a protein involved in various cellular processes, including translational repression and protein quality control. The protein, characterized by its GYF domain, is a cytoplasmic adaptor protein that interacts with proline-rich sequences in other proteins, playing a significant role in the regulation of mRNA translation and degradation. GIGYF2 is particularly important in the ribosome-associated quality control (RQC) pathways, where it collaborates with the eIF4E homologous protein (4EHP) to inhibit translation initiation on defective mRNAs, thus maintaining protein homeostasis (Sobti2023Molecular; Hickey2019GIGYF2). Additionally, GIGYF2 is implicated in insulin and insulin-like growth factor signaling pathways, which are crucial for cellular growth and metabolism (RuizMartinez2015GIGYF2). Mutations in the GIGYF2 gene have been associated with familial Parkinson's disease, although the extent of its involvement remains a subject of ongoing research (Guella2011Mutational; Lautier2008Mutations).
+
+## Structure
+The GIGYF2 protein is characterized by its GYF domain, which is crucial for its function in binding proline-rich sequences. This domain spans residues 529-597 and is part of the Smy2 subclass of GYF adaptors, featuring a four-stranded antiparallel β-sheet with two α-helices packed onto one face (Sobti2023Molecular; Sobti2021Molecular). The GYF domain includes a conserved Asp residue (D540) within the β1-β2 loop, which interacts with a hydrogen bond donor on the β2 strand (Q546), stabilized by hydrogen bonds with the backbone amides of the β1-β2 loop (Q542 and E544) (Sobti2023Molecular).
+
+The GIGYF2 GYF domain also contains a hydrophobic cavity lined by residues such as Y538, F563, and L567, which interact with PPGL sequences from proteins like TNRC6A and TNRC6C (Sobti2023Molecular). A conserved C-terminal Phe side chain, known as the 'Phe plug', is inserted into a hydrophobic pocket, contributing to the domain's stability (Sobti2023Molecular). Mutations in this Phe plug can decrease the thermal stability of the GYF domain (Sobti2023Molecular).
+
+GIGYF2 is involved in miRNA-mediated translational repression, interacting with TNRC6 proteins and 4EHP, and is implicated in neurological conditions and protein quality control (Sobti2023Molecular).
+
+## Function
+GIGYF2 (GRB10 interacting GYF protein 2) plays a crucial role in the ribosome-associated quality control (RQC) pathways in mammalian cells. It functions alongside 4EHP to inhibit translation initiation on defective messenger RNAs (mRNAs), preventing the synthesis of incomplete or erroneous proteins. This process is essential for maintaining protein homeostasis and cellular health by preventing the accumulation of toxic proteins that can result from the translation of damaged or problematic mRNAs (Hickey2019GIGYF2).
+
+GIGYF2 is recruited to problematic mRNAs by the ubiquitin ligase ZNF598, which acts as a scaffold, leading to the inhibition of translation initiation. This mechanism helps maintain the fidelity of protein synthesis by blocking further ribosome initiation on faulty mRNAs (Hickey2019GIGYF2). The protein is primarily active in the cytoplasm, where it interacts with the inhibitory cap-binding protein 4EHP and the ribosome collision sensor ZNF598, functioning in a pathway parallel to the RQC pathway (Hickey2019GIGYF2).
+
+In addition to its role in translation regulation, GIGYF2 is involved in insulin and insulin-like growth factor signaling pathways, which are crucial for cellular growth and metabolism (RuizMartinez2015GIGYF2).
+
+## Clinical Significance
+Mutations in the GIGYF2 gene have been implicated in familial Parkinson's disease (PD), particularly in Italian and French populations. Studies have identified several missense mutations, such as Asn56Ser, Thr112Ala, and Asp606Glu, which are associated with PD and suggest an autosomal-dominant inheritance pattern (Lautier2008Mutations). These mutations are found in highly conserved amino acid blocks, indicating their potential importance in disease pathogenesis (Lautier2008Mutations). However, the role of GIGYF2 in PD remains controversial, as some studies have not found a significant association between GIGYF2 mutations and PD in other populations, such as Asian cohorts (Guella2011Mutational; Tan2009Nonsynonymous).
+
+Meta-analyses have shown that certain GIGYF2 variants, like N56S and N457T, are associated with an increased risk of PD in Caucasian populations but not in Asians, suggesting ethnic differences in genetic susceptibility (DAI2014Metaanalyses; Zhang2015The). Despite these findings, functional studies using zebrafish models have indicated that GIGYF2 may not be essential for dopaminergic neuron development, challenging its role as a major PD gene (Guella2011Mutational). The clinical significance of GIGYF2 mutations in PD thus remains to be fully elucidated.
+
+## Interactions
+GIGYF2 (GRB10 interacting GYF protein 2) is involved in various protein-protein interactions that play a crucial role in translational repression and mRNA processing. The GIGYF2 protein contains a GYF domain that interacts with proline-rich sequences (PRSs) in other proteins, such as TNRC6A, TNRC6B, and TNRC6C, which are part of the miRNA-induced silencing complex (miRISC) (Sobti2023Molecular; Sobti2021Molecular). This interaction is mediated by a conserved PPGL motif in TNRC6 proteins, which binds to the GYF domain of GIGYF2, facilitating the recruitment of the GIGYF2-4EHP complex to target transcripts (Sobti2023Molecular).
+
+GIGYF2 also interacts with the eIF4E homologous protein (4EHP) to prevent the assembly of the eIF4F complex on target mRNAs, thereby inhibiting translation initiation (Sobti2023Molecular). Additionally, GIGYF2 is associated with proteins involved in mRNA degradation, such as the CCR4-NOT deadenylation complex, and translational repression, such as DDX6 (Peter2019Molecular). The GIGYF2 GYF domain also interacts with the PPPPGF motif of TTP, a protein from mice, and this interaction is conserved in humans (Sobti2023Molecular). These interactions highlight the role of GIGYF2 in post-transcriptional regulation and its potential involvement in neurological conditions (Sobti2023Molecular).
+
+
+## References
+
+
+[1. (RuizMartinez2015GIGYF2) Javier Ruiz-Martinez, Catharine E Krebs, Vladimir Makarov, Ana Gorostidi, Jose Félix Martí-Massó, and Coro Paisán-Ruiz. Gigyf2 mutation in late-onset parkinson’s disease with cognitive impairment. Journal of Human Genetics, 60(10):637–640, July 2015. URL: http://dx.doi.org/10.1038/jhg.2015.69, doi:10.1038/jhg.2015.69. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/jhg.2015.69)
+
+[2. (DAI2014Metaanalyses) DONGJUN DAI, YUNLIANG WANG, XINGYU ZHOU, JIANMIN TAO, DANJIE JIANG, HANLIN ZHOU, YI JIANG, GUANGHUI PAN, PING RU, HUIHUI JI, JINFENG LI, YUZHENG ZHANG, HONGLEI YIN, MINGQING XU, and SHIWEI DUAN. Meta-analyses of seven gigyf2 polymorphisms with parkinson’s disease. Biomedical Reports, 2(6):886–892, July 2014. URL: http://dx.doi.org/10.3892/br.2014.324, doi:10.3892/br.2014.324. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/br.2014.324)
+
+[3. (Lautier2008Mutations) Corinne Lautier, Stefano Goldwurm, Alexandra Dürr, Barbara Giovannone, William G. Tsiaras, Gianni Pezzoli, Alexis Brice, and Robert J. Smith. Mutations in the gigyf2 (tnrc15) gene at the park11 locus in familial parkinson disease. The American Journal of Human Genetics, 82(4):822–833, April 2008. URL: http://dx.doi.org/10.1016/j.ajhg.2008.01.015, doi:10.1016/j.ajhg.2008.01.015. This article has 137 citations.](https://doi.org/10.1016/j.ajhg.2008.01.015)
+
+[4. (Guella2011Mutational) Ilaria Guella, Anna Pistocchi, Rosanna Asselta, Valeria Rimoldi, Anna Ghilardi, Francesca Sironi, Luca Trotta, Paola Primignani, Michela Zini, Anna Zecchinelli, Domenico Coviello, Gianni Pezzoli, Luca Del Giacco, Stefano Duga, and Stefano Goldwurm. Mutational screening and zebrafish functional analysis of gigyf2 as a parkinson-disease gene. Neurobiology of Aging, 32(11):1994–2005, November 2011. URL: http://dx.doi.org/10.1016/j.neurobiolaging.2009.12.016, doi:10.1016/j.neurobiolaging.2009.12.016. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.neurobiolaging.2009.12.016)
+
+[5. (Peter2019Molecular) Daniel Peter, Vincenzo Ruscica, Praveen Bawankar, Ramona Weber, Sigrun Helms, Eugene Valkov, Cátia Igreja, and Elisa Izaurralde. Molecular basis for gigyf–me31b complex assembly in 4ehp-mediated translational repression. Genes &amp; Development, 33(19–20):1355–1360, August 2019. URL: http://dx.doi.org/10.1101/gad.329219.119, doi:10.1101/gad.329219.119. This article has 27 citations.](https://doi.org/10.1101/gad.329219.119)
+
+6. (Sobti2021Molecular) Molecular basis for GIGYF-TNRC6 complex assembly in miRNA-mediated translational repression. This article has 0 citations.
+
+[7. (Zhang2015The) Yuan Zhang, Qi-ying Sun, Ren-he Yu, Ji-feng Guo, Bei-sha Tang, and Xin-xiang Yan. The contribution of gigyf2 to parkinson’s disease: a meta-analysis. Neurological Sciences, 36(11):2073–2079, July 2015. URL: http://dx.doi.org/10.1007/s10072-015-2316-9, doi:10.1007/s10072-015-2316-9. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10072-015-2316-9)
+
+[8. (Sobti2023Molecular) Meghna Sobti, Benjamin J. Mead, Alastair G. Stewart, Cátia Igreja, and Mary Christie. Molecular basis for gigyf–tnrc6 complex assembly. RNA, 29(6):724–734, February 2023. URL: http://dx.doi.org/10.1261/rna.079596.123, doi:10.1261/rna.079596.123. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.079596.123)
+
+9. (Hickey2019GIGYF2) GIGYF2 and 4EHP Inhibit Translation Initiation of Defective Messenger RNAs to Assist Ribosome-Associated Quality Control. This article has 9 citations.
+
+[10. (Tan2009Nonsynonymous) Eng-King Tan, Chin-Hslen Lin, Chun-Hwei Tai, Louis C. Tan, Meng-Ling Chen, R. Li, Hui-Qin Lim, Ratnagopal Pavanni, Yih Yuen, K. M. Prakash, Yi Zhao, and Ruey-Meei Wu. Non-synonymous gigyf2 variants in parkinson’s disease from two asian populations. Human Genetics, 126(3):425–430, May 2009. URL: http://dx.doi.org/10.1007/s00439-009-0678-x, doi:10.1007/s00439-009-0678-x. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00439-009-0678-x)

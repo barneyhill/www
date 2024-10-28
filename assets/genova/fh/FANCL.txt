@@ -1,0 +1,54 @@
+# FANCL
+
+## Overview
+FANCL is a gene that encodes the FA complementation group L protein, a crucial component of the Fanconi anemia (FA) DNA repair pathway. The FA complementation group L protein functions as an E3 ubiquitin ligase, playing a pivotal role in the monoubiquitination of the FANCD2-FANCI complex, a key step in the repair of DNA interstrand cross-links. This protein is characterized by its RING domain, which facilitates interactions with E2-conjugating enzymes, and is essential for maintaining genomic stability. Mutations in the FANCL gene are linked to Fanconi anemia, a genetic disorder marked by bone marrow failure, increased cancer susceptibility, and various congenital anomalies (Dong2015Update; Bogliolo2015Fanconi). The gene's involvement in DNA repair and telomere maintenance underscores its significance in cellular homeostasis and chromosomal integrity (Michl2016Interplay).
+
+## Structure
+The FANCL protein is a component of the Fanconi Anemia DNA repair pathway and functions as a RING E3 ligase. Its molecular structure includes three distinct domains: an N-terminal E2-like fold (ELF) domain, a central double RWD (DRWD) domain, and a C-terminal RING domain. The RING domain is crucial for recruiting E2-conjugating enzymes, specifically Ube2T, which is necessary for the monoubiquitination of FANCD2, a key step in the DNA repair process (Kalb2007Fanconi; Miles2015The).
+
+The ELF domain, although conserved across species, does not interact with the other domains of FANCL. It mediates a non-covalent interaction with ubiquitin, which is essential for efficient DNA damage-induced FANCD2 monoubiquitination in vertebrate cells. This interaction involves the canonical Ile44 patch on ubiquitin and a conserved patch on FANCL (Miles2015The). Mutations in the ELF domain, such as L7A, D78A, L79A, and V80A, disrupt its ubiquitin-binding ability, leading to reduced monoubiquitination of FANCD2 and FANCI (Miles2015The).
+
+FANCL is also identified as a 43-kDa FA-associated polypeptide and is identical to the WD40-repeat containing PHD finger protein-9 (PHF9), highlighting its evolutionary conservation (Kalb2007Fanconi).
+
+## Function
+The FANCL gene encodes a protein that functions as an E3 ubiquitin ligase, a critical component of the Fanconi anemia (FA) core complex. This complex is integral to the FA/BRCA DNA repair pathway, which is essential for maintaining genomic stability by repairing DNA interstrand cross-links (ICLs) (Dong2015Update). FANCL facilitates the monoubiquitination of the FANCD2-FANCI heterodimer, a crucial step in the DNA repair process. This modification allows the complex to relocate to sites of DNA damage, where it recruits other repair proteins, including BRCA1, BRCA2, and RAD51, to facilitate homologous recombination repair (Michl2016Interplay; Bogliolo2015Fanconi).
+
+FANCL operates primarily in the nucleus, where it plays a role in protecting against replication stress and maintaining telomere integrity. It is involved in the alternative lengthening of telomeres (ALT) mechanism, which is crucial for telomere maintenance in cells lacking telomerase activity (Michl2016Interplay). The activity of FANCL in these processes underscores its importance in preserving genomic homeostasis and preventing chromosomal instability, which is characteristic of Fanconi anemia (Dong2015Update).
+
+## Clinical Significance
+Mutations in the FANCL gene are associated with Fanconi anemia (FA), a rare genetic disorder characterized by bone marrow failure, increased cancer risk, and congenital abnormalities. FANCL is part of the FA core complex, essential for DNA repair through the monoubiquitination of FANCD2, a critical step in the FA pathway. Loss-of-function mutations in FANCL lead to chromosomal instability and developmental abnormalities, often overlapping with the VACTERL association, which includes vertebral defects, anal atresia, cardiac defects, tracheoesophageal fistula, renal anomalies, and limb abnormalities (Vetro2015LossofFunctionFANCLMutations).
+
+A specific founder variant, c.1092G>A, prevalent in the South Asian population, causes aberrant splicing and is linked to FA cases in India and Pakistan. This variant results in a failure of the DNA repair pathway, leading to severe aplastic anemia and various congenital abnormalities (Donovan2019A).
+
+FANCL mutations also contribute to gonadal dysfunction, such as primary ovarian insufficiency, due to reduced DNA repair capacity. This dysfunction can manifest as sub/infertility in individuals with monoallelic or biallelic pathogenic variants in FANCL (Daum2021Fanconi).
+
+## Interactions
+FANCL is a key component of the Fanconi anemia (FA) DNA repair pathway, functioning as an E3 ubiquitin ligase. It interacts with the E2 ubiquitin-conjugating enzyme UBE2T, facilitating the monoubiquitination of FANCD2 and FANCI, which are crucial steps in the DNA repair process (Rego2009The; Miles2015The). The interaction between FANCL and UBE2T is mediated through the RING domain of FANCL, which recruits UBE2T to the FA core complex (Miles2015The).
+
+FANCL is part of the FA core complex, which includes other FA proteins such as FANCA, FANCB, FANCC, FANCE, FANCF, FANCG, FAAP100, and FAAP20 (Kaddar2012Fanconi; Miles2015The). This complex is essential for the monoubiquitination of FANCD2 and FANCI, promoting their association with other FA pathway components (Kaddar2012Fanconi).
+
+The ELF domain of FANCL interacts non-covalently with ubiquitin, a crucial interaction for efficient DNA damage-induced monoubiquitination of FANCD2 in vertebrate cells (Miles2015The). This interaction involves the canonical Ile44 patch on ubiquitin and a conserved patch on FANCL, highlighting its regulatory role in the FA pathway (Miles2015The).
+
+
+## References
+
+
+[1. (Michl2016Interplay) Johanna Michl, Jutta Zimmer, and Madalena Tarsounas. Interplay between fanconi anemia and homologous recombination pathways in genome integrity. The EMBO Journal, 35(9):909–923, April 2016. URL: http://dx.doi.org/10.15252/embj.201693860, doi:10.15252/embj.201693860. This article has 151 citations.](https://doi.org/10.15252/embj.201693860)
+
+[2. (Donovan2019A) Frank X. Donovan, Avani Solanki, Minako Mori, Niranjan Chavan, Merin George, Selvaa Kumar C, Yusuke Okuno, Hideki Muramastsu, Kenichi Yoshida, Akira Shimamoto, Akifumi Takaori‐Kondo, Hiromasa Yabe, Seishi Ogawa, Seiji Kojima, Miharu Yabe, Ramanagouda Ramanagoudr‐Bhojappa, Agata Smogorzewska, Sheila Mohan, Aruna Rajendran, Arleen D. Auerbach, Minoru Takata, Settara C. Chandrasekharappa, and Babu Rao Vundinti. A founder variant in the south asian population leads to a high prevalence offanclfanconi anemia cases in india. Human Mutation, 41(1):122–128, September 2019. URL: http://dx.doi.org/10.1002/humu.23914, doi:10.1002/humu.23914. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.23914)
+
+[3. (Bogliolo2015Fanconi) Massimo Bogliolo and Jordi Surrallés. Fanconi anemia: a model disease for studies on human genetics and advanced therapeutics. Current Opinion in Genetics &amp; Development, 33:32–40, August 2015. URL: http://dx.doi.org/10.1016/j.gde.2015.07.002, doi:10.1016/j.gde.2015.07.002. This article has 205 citations.](https://doi.org/10.1016/j.gde.2015.07.002)
+
+[4. (Kaddar2012Fanconi) Tagrid Kaddar and Madeleine Carreau. Fanconi anemia proteins and their interacting partners: a molecular puzzle. Anemia, 2012:1–11, 2012. URL: http://dx.doi.org/10.1155/2012/425814, doi:10.1155/2012/425814. This article has 12 citations.](https://doi.org/10.1155/2012/425814)
+
+[5. (Daum2021Fanconi) Hagit Daum and Joël Zlotogora. Fanconi anemia gene variants in patients with gonadal dysfunction. Reproductive Sciences, 29(5):1408–1413, May 2021. URL: http://dx.doi.org/10.1007/s43032-021-00582-7, doi:10.1007/s43032-021-00582-7. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s43032-021-00582-7)
+
+[6. (Vetro2015LossofFunctionFANCLMutations) Annalisa Vetro, Maria Iascone, Ivan Limongelli, Najim Ameziane, Simone Gana, Erika Della Mina, Ursula Giussani, Roberto Ciccone, Antonella Forlino, Laura Pezzoli, Martin A. Rooimans, Antoni J. van Essen, Jole Messa, Tommaso Rizzuti, Paolo Bianchi, Josephine Dorsman, Johan P. de Winter, Faustina Lalatta, and Orsetta Zuffardi. Loss-of-functionfanclmutations associate with severe fanconi anemia overlapping the vacterl association. Human Mutation, 36(5):562–568, April 2015. URL: http://dx.doi.org/10.1002/humu.22784, doi:10.1002/humu.22784. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.22784)
+
+[7. (Dong2015Update) Hongbin Dong, Daniel W. Nebert, Elspeth A. Bruford, David C. Thompson, Hans Joenje, and Vasilis Vasiliou. Update of the human and mouse fanconi anemia genes. Human Genomics, November 2015. URL: http://dx.doi.org/10.1186/s40246-015-0054-y, doi:10.1186/s40246-015-0054-y. This article has 182 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40246-015-0054-y)
+
+[8. (Rego2009The) Meghan A. Rego, Frederick W. Kolling, and Niall G. Howlett. The fanconi anemia protein interaction network: casting a wide net. Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis, 668(1–2):27–41, July 2009. URL: http://dx.doi.org/10.1016/j.mrfmmm.2008.11.018, doi:10.1016/j.mrfmmm.2008.11.018. This article has 17 citations.](https://doi.org/10.1016/j.mrfmmm.2008.11.018)
+
+[9. (Miles2015The) Jennifer A. Miles, Mark G. Frost, Eilis Carroll, Michelle L. Rowe, Mark J. Howard, Ateesh Sidhu, Viduth K. Chaugule, Arno F. Alpi, and Helen Walden. The fanconi anemia dna repair pathway is regulated by an interaction between ubiquitin and the e2-like fold domain of fancl. Journal of Biological Chemistry, 290(34):20995–21006, August 2015. URL: http://dx.doi.org/10.1074/jbc.M115.675835, doi:10.1074/jbc.m115.675835. This article has 30 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M115.675835)
+
+[10. (Kalb2007Fanconi) R. Kalb, K. Neveling, S. Herterich, and D. Schindler. Fanconi Anemia Genes: Structure, Mutations, and Genotype-Phenotype Correlations, pages 39–58. KARGER, 2007. URL: http://dx.doi.org/10.1159/000102547, doi:10.1159/000102547. This article has 0 citations.](https://doi.org/10.1159/000102547)

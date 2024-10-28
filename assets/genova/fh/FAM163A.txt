@@ -1,0 +1,35 @@
+# FAM163A
+
+## Overview
+FAM163A is a gene that encodes the protein known as neuroblastoma-derived secretory protein (NDSP), which is a member of the protein family with sequence similarity 163. This protein is implicated in various cellular processes and is categorized as a secretory protein due to its role in signaling pathways. FAM163A is notably involved in oncogenic processes, particularly in neuroblastoma, where it functions as an oncogene associated with poor prognosis (Chen2022BRD4). The protein interacts with key signaling molecules, such as 14-3-3β, to promote ERK phosphorylation, thereby influencing cancer cell proliferation (Yin2022Comprehensive). Beyond its role in cancer, FAM163A is also associated with other conditions, including endometriosis and refractive errors like myopia, highlighting its diverse biological significance (Han2022Identification; Yin2022Comprehensive). Despite its involvement in various diseases, the precise mechanisms and interaction partners of FAM163A remain an active area of research, necessitating further investigation to fully elucidate its functions and potential as a therapeutic target.
+
+## Function
+
+
+## Clinical Significance
+FAM163A, also known as neuroblastoma-derived secretory protein (NDSP), is implicated in several diseases due to alterations in its expression levels. In neuroblastoma, FAM163A is identified as an oncogene associated with super-enhancers, and its high expression is linked to poor overall survival in patients. Knockdown of FAM163A in neuroblastoma cells inhibits proliferation and induces apoptosis, suggesting its role in sustaining tumor growth and survival (Chen2022BRD4). 
+
+In the context of refractive errors, particularly myopia, FAM163A has been associated with genetic variations in East Asian populations. The allele G of rs10913877, which downregulates FAM163A expression, is linked to lower spherical equivalents and increased myopia risk (Han2022Identification). 
+
+FAM163A is also overexpressed in endometriosis, where it may promote the proliferation of endometriotic cells, although further validation is needed (Yin2022Comprehensive). 
+
+Additionally, FAM163A has been linked to Alzheimer's disease and acute contagious conjunctivitis, suggesting a broader role in various conditions. Its association with smoking and body mass index further indicates its involvement in diverse physiological and pathological processes (Han2022Identification; Molendijk2020CoffeeProt).
+
+## Interactions
+FAM163A, also known as neuroblastoma-derived secretory protein (NDSP), is involved in several protein interactions, although specific physical interactions are not extensively detailed in the literature. In the context of squamous cell lung carcinoma, FAM163A interacts with the protein 14-3-3β, promoting ERK phosphorylation, which influences cancer cell proliferation (Yin2022Comprehensive). In the realm of systems genetics, FAM163A has been identified as having a significant protein-protein interaction with Tenascin (TNC), with a bicor coefficient of 0.84 and a q-value < 0.001, suggesting a strong correlation in their expression patterns. This interaction is linked to body mass index (BMI) through the SNP rs12376870 (Molendijk2020CoffeeProt:).
+
+While FAM163A is noted in various studies for its role in different diseases, such as neuroblastoma and endometriosis, specific details on its physical interactions with other proteins or nucleic acids are limited. The STRING database, a comprehensive resource for protein-protein interaction information, includes FAM163A in its network, but specific interaction partners are not detailed in the provided context (Szklarczyk2018STRING). Overall, while FAM163A is implicated in several biological processes, further research is needed to elucidate its precise interaction partners and mechanisms.
+
+
+## References
+
+
+[1. (Han2022Identification) Xiaotong Han, Tianzi Liu, Xiaohu Ding, Jialin Liu, Xingyan Lin, Decai Wang, Moeen Riaz, Paul N. Baird, Zhi Xie, Yuan Cheng, Yi Li, Yuki Mori, Masahiro Miyake, Hengtong Li, Ching-Yu Cheng, Changqing Zeng, Kyoko Ohno-Matsui, Xiangtian Zhou, Fan Liu, and Mingguang He. Identification of novel loci influencing refractive error in east asian populations using an extreme phenotype design. Journal of Genetics and Genomics, 49(1):54–62, January 2022. URL: http://dx.doi.org/10.1016/j.jgg.2021.08.011, doi:10.1016/j.jgg.2021.08.011. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jgg.2021.08.011)
+
+2. (Molendijk2020CoffeeProt:) CoffeeProt: An online tool for correlation and functional enrichment of proteome-wide systems genetics. This article has 0 citations.
+
+[3. (Yin2022Comprehensive) Meichen Yin, Lingyun Zhai, Jianzhang Wang, Qin Yu, Tiantian Li, Xinxin Xu, Xinyue Guo, Xinqi Mao, Jianwei Zhou, and Xinmei Zhang. Comprehensive analysis of rna-seq in endometriosis reveals competing endogenous rna network composed of circrna, lncrna and mrna. Frontiers in Genetics, March 2022. URL: http://dx.doi.org/10.3389/fgene.2022.828238, doi:10.3389/fgene.2022.828238. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.828238)
+
+[4. (Chen2022BRD4) Yan-Ling Chen, Xiao-Lu Li, Gen Li, Yan-Fang Tao, Ran Zhuo, Hai-Bo Cao, Wan-yan Jiao, Zhi-Heng Li, Zhen-Hong Zhu, Fang Fang, Yi Xie, Xin-Mei Liao, Di Wu, Hai-Rong Wang, Juan-Juan Yu, Si-Qi Jia, Yang Yang, Chen-Xi Feng, Peng-Cheng Yang, Xiao-Dong Fei, Jian-Wei Wang, Yun-Yun Xu, Guang-Hui Qian, Zi-Mu Zhang, and Jian Pan. Brd4 inhibitor gne987 exerts anti-cancer effects by targeting super-enhancers in neuroblastoma. Cell &amp; Bioscience, March 2022. URL: http://dx.doi.org/10.1186/s13578-022-00769-8, doi:10.1186/s13578-022-00769-8. This article has 11 citations.](https://doi.org/10.1186/s13578-022-00769-8)
+
+[5. (Szklarczyk2018STRING) Damian Szklarczyk, Annika L Gable, David Lyon, Alexander Junge, Stefan Wyder, Jaime Huerta-Cepas, Milan Simonovic, Nadezhda T Doncheva, John H Morris, Peer Bork, Lars J Jensen, and Christian von Mering. String v11: protein–protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic Acids Research, 47(D1):D607–D613, November 2018. URL: http://dx.doi.org/10.1093/nar/gky1131, doi:10.1093/nar/gky1131. This article has 11615 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gky1131)

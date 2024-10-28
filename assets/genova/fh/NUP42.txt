@@ -1,0 +1,31 @@
+# NUP42
+
+## Overview
+NUP42 is a gene that encodes the protein nucleoporin 42, a critical component of the nuclear pore complex (NPC) in eukaryotic cells. Nucleoporin 42 is involved in the regulation of mRNA export from the nucleus to the cytoplasm, a process essential for gene expression and cellular function. The protein is characterized by its intrinsic disorder and contains specific domains, such as zinc-finger and coiled-coil domains, which facilitate its interactions with other proteins like Gle1 and Dbp5/DDX19B. These interactions are crucial for the formation of a trimeric complex that enhances the ATPase activity of Dbp5, thereby promoting efficient mRNA export (Adams2017Nup42). Nucleoporin 42's role in mRNA export is conserved across species, and its dysfunction can lead to the accumulation of mRNA within the nucleus, highlighting its importance in maintaining normal cellular processes (Adams2017Nup42).
+
+## Structure
+NUP42, also known as nucleoporin 42, is a protein that plays a role in the nuclear pore complex (NPC). It is composed of 423 amino acid residues and has a molecular mass of approximately 45 kDa, with a theoretical isoelectric point (pI) of 9.25 (Lyngdoh2021Prevalence). The protein's N-terminus contains zinc-finger and coiled-coil domains, while the C-terminus is a compositionally biased region (Lyngdoh2021Prevalence). NUP42 is characterized by a high level of intrinsic disorder, with a mean predicted percent of intrinsic disorder (PPID mean) of 52.48%, and is enriched in disorder-promoting amino acids such as proline, serine, and glutamine (Lyngdoh2021Prevalence).
+
+The C-terminal domain (CTD) of NUP42, particularly residues 408-424, is critical for its interaction with Gle1, a protein involved in mRNA export (Adams2017Nup42). This region is highly conserved and essential for binding with Gle1, although it is not sufficient to rescue all functional roles of the full NUP42 CTD (Adams2017Nup42). The Gle1-binding motif (GBM) within residues 397-430 of NUP42 is crucial for its localization to the nuclear pore complex (Lin2018Structural). NUP42 also contains FG repeats, which contribute to its flexible, disordered regions, facilitating transport (Lyngdoh2021Prevalence). The protein may undergo post-translational modifications such as phosphorylation, influencing its function and interactions (Lyngdoh2021Prevalence).
+
+## Function
+NUP42, or nucleoporin 42, is a crucial component of the nuclear pore complex (NPC) involved in the export of mRNA from the nucleus to the cytoplasm in human cells. It interacts with Gle1 and Dbp5/DDX19B, forming a trimeric complex essential for mRNA export. This interaction is facilitated by the presence of inositol hexakisphosphate (IP6), which enhances the ATPase activity of Dbp5, a critical step in mRNA export (Adams2017Nup42).
+
+NUP42 is located at the cytoplasmic face of the NPC, where it plays a role in mRNP remodeling, a process necessary for the efficient export of mRNA. The C-terminal domain (CTD) of NUP42 is essential for its function, as it interacts with Gle1 to stimulate Dbp5 activity, ensuring proper mRNA export (Adams2017Nup42).
+
+In human cells, the interaction between NUP42 and Gle1 is conserved and necessary for mRNA export. Knockdown of NUP42 in HeLa cells results in the nuclear accumulation of poly(A)+ RNA, indicating a block in mRNA export, which underscores its essential role in maintaining normal cellular function (Adams2017Nup42).
+
+## Interactions
+NUP42, also known as nucleoporin 42, is involved in several critical interactions within the nuclear pore complex (NPC) that facilitate mRNA export. It interacts with the protein Gle1, forming a complex that is essential for the stimulation of the ATPase activity of Dbp5/DDX19B, a DEAD-box protein crucial for mRNA export. This interaction is mediated by the C-terminal domain (CTD) of NUP42, which binds to Gle1 at a site distinct from where Gle1 interacts with Dbp5/DDX19B, forming a trimeric complex in the presence of inositol hexakisphosphate (IP6) (Adams2017Nup42).
+
+The interaction between NUP42 and Gle1 is conserved across species, including yeast and humans, and is necessary for efficient mRNA export. In human cells, knockdown of NUP42 results in nuclear accumulation of poly(A)+ RNA, indicating a block in mRNA export (Adams2017Nup42). NUP42 also enhances the interaction between Gle1 and Dbp5, particularly in the absence of IP6, highlighting its role in mRNA export under stress conditions such as heat shock (Adams2017Nup42). These interactions underscore the importance of NUP42 in the regulation of mRNA export through its coordination with Gle1 and Dbp5/DDX19B.
+
+
+## References
+
+
+[1. (Adams2017Nup42) Rebecca L. Adams, Aaron C. Mason, Laura Glass, Aditi, and Susan R. Wente. Nup42 and <scp>ip6</scp> coordinate gle1 stimulation of dbp5/<scp>ddx19b</scp> for <scp>mrna</scp> export in yeast and human cells. Traffic, 18(12):776–790, October 2017. URL: http://dx.doi.org/10.1111/tra.12526, doi:10.1111/tra.12526. This article has 42 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/tra.12526)
+
+[2. (Lyngdoh2021Prevalence) Denzelle Lee Lyngdoh, Niharika Nag, Vladimir N. Uversky, and Timir Tripathi. Prevalence and functionality of intrinsic disorder in human fg-nucleoporins. International Journal of Biological Macromolecules, 175:156–170, April 2021. URL: http://dx.doi.org/10.1016/j.ijbiomac.2021.01.218, doi:10.1016/j.ijbiomac.2021.01.218. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ijbiomac.2021.01.218)
+
+[3. (Lin2018Structural) Daniel H. Lin, Ana R. Correia, Sarah W. Cai, Ferdinand M. Huber, Claudia A. Jette, and André Hoelz. Structural and functional analysis of mrna export regulation by the nuclear pore complex. Nature Communications, June 2018. URL: http://dx.doi.org/10.1038/s41467-018-04459-3, doi:10.1038/s41467-018-04459-3. This article has 54 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-04459-3)

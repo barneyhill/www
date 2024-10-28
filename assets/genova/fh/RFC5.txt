@@ -1,0 +1,56 @@
+# RFC5
+
+## Overview
+The RFC5 gene encodes the replication factor C subunit 5, a critical component of the replication factor C (RFC) complex, which is essential for DNA replication and repair. The RFC5 protein is part of the AAA+ protein family, known for its ATPase activity, although RFC5 itself lacks a functional ATP binding site. As a subunit of the heteropentameric RFC complex, RFC5 plays a pivotal role in loading the proliferating cell nuclear antigen (PCNA) onto DNA, a process vital for high-speed DNA synthesis and genomic stability. The protein's interactions with PCNA and its involvement in sister chromatid cohesion underscore its importance in maintaining DNA integrity and ensuring proper cell cycle progression. RFC5's expression levels have been linked to various cancers, where it may function as an oncogene, influencing tumor progression and immune cell infiltration (Schrecker2022Multistep; Chen2018Subunit; Wu2022Integrative).
+
+## Structure
+The RFC5 protein is a subunit of the replication factor C (RFC) complex, which is crucial for DNA replication and repair. RFC5 is one of the smaller subunits, with a molecular weight of approximately 38-41 kDa, and is part of the AAA+ protein family, characterized by ATPase activity (Yao2012The; Schrecker2022Multistep). Despite being part of this family, RFC5 lacks a functional ATP binding site due to the absence of a P-loop, a motif typically involved in ATP binding (Yao2012The).
+
+In terms of quaternary structure, RFC5 is part of the heteropentameric RFC complex, which includes subunits Rfc1, Rfc2, Rfc3, Rfc4, and Rfc5. These subunits form a two-tiered ring structure, with the N-terminal tier containing the AAA+ domains and the C-terminal tier forming a rigid collar (Schrecker2022Multistep). RFC5 specifically binds GDP rather than adenine nucleotides, with specificity imparted by Rfc5-Arg52 (Schrecker2022Multistep).
+
+RFC5 interacts with the proliferating cell nuclear antigen (PCNA) through hydrophobic and hydrophilic contacts, contributing to the stabilization of PCNA in an open state during DNA loading (Schrecker2022Multistep). The α4 loop of Rfc5 undergoes conformational changes, allowing it to bind to different DNA clamps, such as PCNA and 9-1-1, stabilizing them in open states (Schrecker2022Multistep).
+
+## Function
+RFC5 (Replication Factor C subunit 5) is a crucial component of the RFC complex, which plays a significant role in DNA replication and repair processes in healthy human cells. The RFC complex is a heteropentameric structure composed of five subunits, including RFC5, and functions as a clamp loader that facilitates the loading of the proliferating cell nuclear antigen (PCNA) onto DNA. This process is essential for high-speed DNA synthesis and genomic stability (Schrecker2022Multistep; Chen2018Subunit).
+
+RFC5 is involved in the stabilization of PCNA in an open state, which is necessary for the proper engagement of PCNA with DNA during replication. The interactions between RFC5 and PCNA are largely hydrophilic, and RFC5 binds at the inter-subunit interfaces between PCNA B and PCNA C (Schrecker2022Multistep). Although RFC5 lacks residues critical for ATP hydrolysis, it is still required for the normal function of the RFC complex, indicating its importance in the structural integrity and function of the complex (Schrecker2022Multistep).
+
+In addition to its role in DNA replication, RFC5 is also implicated in sister chromatid cohesion, a process essential for accurate chromosome segregation during cell division (Kenna2003Mechanical). RFC5's activity is primarily localized in the nucleus, where it contributes to maintaining DNA integrity and ensuring proper cell cycle progression (Chen2018Subunit).
+
+## Clinical Significance
+Alterations in the expression of the RFC5 gene have been implicated in various cancers. In sarcoma, high expression levels of RFC5 are significantly correlated with poor overall survival, suggesting that RFC5 may function as an oncogene in this context. The expression of RFC5 is also negatively correlated with the infiltration of CD4+ T cells and macrophages, which are crucial for anti-tumor immunity, indicating that RFC5 might influence sarcoma development by affecting immune cell infiltration (Wu2022Integrative).
+
+In colorectal cancer (CRC), low expression levels of RFC5 are associated with poor prognosis. The study suggests that RFC5, through its interaction with microRNAs such as miR-636, plays a role in tumor progression and could serve as a prognostic marker (Misbah2024Identification). Additionally, RFC5 expression levels vary across different tumor stages, highlighting its relevance to cancer progression (Misbah2024Identification).
+
+In lung cancer, RFC5 is significantly overexpressed in tumor tissues compared to normal tissues, and high RFC5 expression is linked to poorer survival outcomes. This suggests that RFC5 may act as an oncogene in lung cancer and could serve as a prognostic biomarker (Wang2018Identification).
+
+## Interactions
+RFC5, a subunit of the replication factor C (RFC) complex, plays a crucial role in DNA replication and repair by interacting with various proteins and nucleic acids. It is part of the RFC complex, which functions as a clamp loader to load the proliferating cell nuclear antigen (PCNA) onto DNA, facilitating the formation of a processive replication complex with DNA polymerases (Sugimoto1997Rfc5). RFC5 interacts with other RFC subunits, including RFC1, RFC2, RFC3, and RFC4, to form this complex (Collins2007Functional).
+
+RFC5 also interacts with DNA through its β-hairpin structure, known as the Rfc5 plug, which forms hydrogen bonds with the phosphate backbone of the DNA template strand. This interaction is crucial for the RFC complex's ability to recognize both 3′- and 5′-DNA ends, which is essential for loading PCNA onto DNA for repair processes (Zheng2022CryoEM).
+
+In the context of the DNA damage response, RFC5 is involved in the regulation of Rad53 protein kinase activity. The rfc5-1 mutation affects Rad53 phosphorylation, indicating that RFC5 is necessary for proper Rad53 activation in response to DNA damage (Sugimoto1997Rfc5).
+
+
+## References
+
+
+[1. (Collins2007Functional) Sean R. Collins, Kyle M. Miller, Nancy L. Maas, Assen Roguev, Jeffrey Fillingham, Clement S. Chu, Maya Schuldiner, Marinella Gebbia, Judith Recht, Michael Shales, Huiming Ding, Hong Xu, Junhong Han, Kristin Ingvarsdottir, Benjamin Cheng, Brenda Andrews, Charles Boone, Shelley L. Berger, Phil Hieter, Zhiguo Zhang, Grant W. Brown, C. James Ingles, Andrew Emili, C. David Allis, David P. Toczyski, Jonathan S. Weissman, Jack F. Greenblatt, and Nevan J. Krogan. Functional dissection of protein complexes involved in yeast chromosome biology using a genetic interaction map. Nature, 446(7137):806–810, February 2007. URL: http://dx.doi.org/10.1038/nature05649, doi:10.1038/nature05649. This article has 1021 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature05649)
+
+[2. (Yao2012The) Nina Y. Yao and Mike O’Donnell. The RFC Clamp Loader: Structure and Function, pages 259–279. Springer Netherlands, 2012. URL: http://dx.doi.org/10.1007/978-94-007-4572-8_14, doi:10.1007/978-94-007-4572-8_14. This article has 76 citations.](https://doi.org/10.1007/978-94-007-4572-8_14)
+
+[3. (Chen2018Subunit) Yueyue Chen, Jie Qian, Li You, Xiufeng Zhang, Jinxia Jiao, Yang Liu, and Jie Zhao. Subunit interaction differences between the replication factor c complexes in arabidopsis and rice. Frontiers in Plant Science, June 2018. URL: http://dx.doi.org/10.3389/fpls.2018.00779, doi:10.3389/fpls.2018.00779. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fpls.2018.00779)
+
+[4. (Wang2018Identification) Meng Wang, Tian Xie, Yingjie Wu, Qian Yin, Songping Xie, Qingyu Yao, Jie Xiong, and Qiuping Zhang. Identification of rfc5 as a novel potential prognostic biomarker in lung cancer through bioinformatics analysis. Oncology Letters, July 2018. URL: http://dx.doi.org/10.3892/ol.2018.9221, doi:10.3892/ol.2018.9221. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2018.9221)
+
+[5. (Kenna2003Mechanical) Margaret A. Kenna and Robert V. Skibbens. Mechanical link between cohesion establishment and dna replication: ctf7p/eco1p, a cohesion establishment factor, associates with three different replication factor c complexes. Molecular and Cellular Biology, 23(8):2999–3007, April 2003. URL: http://dx.doi.org/10.1128/MCB.23.8.2999-3007.2003, doi:10.1128/mcb.23.8.2999-3007.2003. This article has 140 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.23.8.2999-3007.2003)
+
+[6. (Zheng2022CryoEM) Fengwei Zheng, Roxana Georgescu, Nina Y Yao, Huilin Li, and Michael E O’Donnell. Cryo-em structures reveal that rfc recognizes both the 3′- and 5′-dna ends to load pcna onto gaps for dna repair. eLife, July 2022. URL: http://dx.doi.org/10.7554/elife.77469, doi:10.7554/elife.77469. This article has 19 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.77469)
+
+[7. (Sugimoto1997Rfc5) Katsunori Sugimoto, Seiko Ando, Toshiyasu Shimomura, and Kunihiro Matsumoto. Rfc5, a replication factor c component, is required for regulation of rad53 protein kinase in the yeast checkpoint pathway. Molecular and Cellular Biology, 17(10):5905–5914, October 1997. URL: http://dx.doi.org/10.1128/mcb.17.10.5905, doi:10.1128/mcb.17.10.5905. This article has 69 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.17.10.5905)
+
+[8. (Wu2022Integrative) Gen Wu, Jian Zhou, Xi Zhu, Xianzhe Tang, Jie Liu, Qiong Zhou, Ziyuan Chen, Tang Liu, Wanchun Wang, Xungang Xiao, and Tong Wu. Integrative analysis of expression, prognostic significance and immune infiltration of rfc family genes in human sarcoma. Aging, 14(8):3705–3719, April 2022. URL: http://dx.doi.org/10.18632/aging.204039, doi:10.18632/aging.204039. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.18632/aging.204039)
+
+[9. (Schrecker2022Multistep) Marina Schrecker, Juan C Castaneda, Sujan Devbhandari, Charanya Kumar, Dirk Remus, and Richard K Hite. Multistep loading of a dna sliding clamp onto dna by replication factor c. eLife, August 2022. URL: http://dx.doi.org/10.7554/elife.78253, doi:10.7554/elife.78253. This article has 22 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.78253)
+
+[10. (Misbah2024Identification) Md Misbah, Manoj Kumar, Abul Kalam Najmi, and Mymoona Akhtar. Identification of expression profiles and prognostic value of rfcs in colorectal cancer. Scientific Reports, March 2024. URL: http://dx.doi.org/10.1038/s41598-024-56361-2, doi:10.1038/s41598-024-56361-2. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-56361-2)

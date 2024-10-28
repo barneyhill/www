@@ -1,0 +1,54 @@
+# RHOB
+
+## Overview
+RHOB is a gene that encodes the protein ras homolog family member B, a member of the Rho GTPase family, which is involved in various cellular processes, including the regulation of the actin cytoskeleton, cell shape, and motility. The RHOB protein is characterized by its role as a molecular switch, cycling between active GTP-bound and inactive GDP-bound states, and is categorized as a small GTPase. It is distinct from other Rho family members due to its unique post-translational modifications, such as geranylgeranylation and farnesylation, which are critical for its localization to cellular membranes (Ridley1997The; Adamson1992Posttranslational). RHOB is implicated in intracellular membrane trafficking, DNA damage response, and apoptosis, and it plays a significant role in cancer biology, often acting as a tumor suppressor (Gutierrez2019Regulation; Vega2016The). Its expression and activity are tightly regulated, and alterations in RHOB expression are associated with various pathological conditions, including cancer and age-related diseases (Gutierrez2019Regulation).
+
+## Structure
+The RHOB protein is a member of the Rho GTPase family, consisting of 196 amino acids (Ridley1997The). Its primary structure is highly similar to RhoA and RhoC, with notable differences at the carboxy terminus, where RHOB has three additional amino acids (Ridley1997The). The secondary structure of RHOB is dominated by α-helices, comprising 78% of the protein, with 34.18% as random coils, 19.9% as extended strands, and 6.12% as β-turns (Paul2023A).
+
+RHOB contains a core G domain typical of RhoGTPases, featuring a 6-stranded mixed beta-sheet surrounded by 5 alpha-helices, and includes a helical insert region unique to this family (Schaefer2014Toward). The G domain has five conserved sequence motifs (G1-G5), with the G1 motif coordinating the beta-phosphate of the bound nucleotide and the Mg2+ ion (Schaefer2014Toward).
+
+Post-translational modifications of RHOB include prenylation, specifically geranylgeranylation and farnesylation, which are crucial for its membrane localization (Ridley1997The; Adamson1992Posttranslational). RHOB also undergoes palmitoylation at cysteine residues, which is not observed in RhoA and RhoC (Adamson1992Posttranslational). These modifications influence its localization to endosomes, lysosomes, and the plasma membrane (Ridley1997The).
+
+## Function
+RHOB is a member of the Rho GTPase family, which plays a crucial role in regulating the actin cytoskeleton, cell shape, and motility. In healthy human cells, RHOB is involved in intracellular membrane vesicle dynamics, influencing the transport and signaling of receptors such as the epidermal growth factor receptor (EGFR) and kinases like Src and Akt (Vega2016The). RHOB is also implicated in the DNA damage response, where it is upregulated in response to stimuli such as UV irradiation and cytokines, contributing to DNA repair processes, particularly through homologous recombination (Vega2016The).
+
+RHOB affects the trafficking of signaling molecules and is involved in the sorting and recycling of EGFR to lysosomes, impacting cellular homeostasis and stress responses (Vega2016The). It also plays a role in cell migration and adhesion by modulating β-integrin expression and localization, which is crucial for cell movement (Vega2016The). RHOB's activity is regulated by GTP/GDP loading, and it cycles between active and inactive states, with its localization influenced by post-translational modifications such as geranyl-geranylation and farnesylation (Vega2016The). These functions highlight RHOB's importance in maintaining cellular integrity and responding to environmental changes.
+
+## Clinical Significance
+Alterations in the expression of the RHOB gene are linked to various cancers, where it often acts as a tumor suppressor. In lung cancer, particularly non-small cell lung cancer (NSCLC), decreased RHOB expression is associated with increased tumor invasiveness and aggressiveness, mediated through pathways such as PI3K/AKT and Rac1 (Gutierrez2019Regulation). Loss of RHOB expression is also linked to a worse prognosis in NSCLC, with studies suggesting its potential as a prognostic biomarker for disease progression (Gutierrez2019Regulation).
+
+In addition to lung cancer, RHOB expression is downregulated in other cancers, including pancreatic and cervical cancers, where its suppression is associated with tumorigenesis (Gutierrez2019Regulation). The gene's expression is also influenced by factors like EGFR and K-Ras mutations, which can suppress RHOB and contribute to chemotherapy resistance (Gutierrez2019Regulation).
+
+RHOB's role extends beyond cancer, as its expression declines with age, particularly in muscle and lung tissues, correlating with an increased risk of cancer in older patients (Gutierrez2019Regulation). This age-related decline highlights RHOB's potential involvement in age-related cancer pathways.
+
+## Interactions
+RHOB, a member of the Rho GTPase family, is involved in various protein interactions that influence cellular processes. It interacts with caspase 3, a key protein in the apoptosis pathway, with a high binding affinity, suggesting a role in regulating apoptosis in colorectal cancer (Kopsida2024RhoB). RHOB also interacts with TNFAIP1, a BTB/POZ domain-containing protein, in HeLa cells. This interaction is significant for inducing apoptosis, as coexpression of RHOB and TNFAIP1 leads to increased apoptosis through the JNK signaling pathway (Kim2009RhoB).
+
+RHOB's interactions extend to its role in regulating cadherin expression and epithelial cell-cell interactions. In prostate cancer cells, RHOB influences cell migration by modulating the levels of E-cadherin and N-cadherin, affecting cell-cell adhesion and migration speed (Vega2015The). Additionally, RHOB is involved in the trafficking of growth factor receptors, such as EGF and VEGF receptors, which are crucial for cell signaling and migration (Vega2015The).
+
+RHOB's interactions are not limited to proteins; it also interacts with nucleic acids, impacting gene expression and cellular stress responses. The presence of a polybasic region (PBR) in RHOB facilitates interactions with SmgGDS, a guanine nucleotide exchange factor, and may regulate nucleocytoplasmic shuttling (Williams2003The).
+
+
+## References
+
+
+[1. (Gutierrez2019Regulation) Eutiquio Gutierrez, Ian Cahatol, Cedric Bailey, Audrey Lafargue, Naming Zhang, Ying Song, Hongwei Tian, Yizhi Zhang, Ryan Chan, Kevin Gu, Angel Zhang, James Tang, Chunshui Liu, Nick Connis, Phillip Dennis, and Chunyu Zhang. Regulation of rhob gene expression during tumorigenesis and aging process and its potential applications in these processes. Cancers, 11(6):818, June 2019. URL: http://dx.doi.org/10.3390/cancers11060818, doi:10.3390/cancers11060818. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers11060818)
+
+[2. (Kopsida2024RhoB) Maria Kopsida, Na Liu, Angeliki Kotti, Jing Wang, Lasse Jensen, Ganesan Jothimani, Camilla Hildesjo, Staffan Haapaniemi, Wen Zhong, Surajit Pathak, and Xiao-Feng Sun. Rhob expression associated with chemotherapy response and prognosis in colorectal cancer. Cancer Cell International, February 2024. URL: http://dx.doi.org/10.1186/s12935-024-03236-1, doi:10.1186/s12935-024-03236-1. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-024-03236-1)
+
+[3. (Ridley1997The) A.J. Ridley. The gtp-binding protein rho. The International Journal of Biochemistry &amp; Cell Biology, 29(11):1225–1229, November 1997. URL: http://dx.doi.org/10.1016/s1357-2725(97)00052-6, doi:10.1016/s1357-2725(97)00052-6. This article has 62 citations.](https://doi.org/10.1016/s1357-2725(97)00052-6)
+
+[4. (Williams2003The) Carol L Williams. The polybasic region of ras and rho family small gtpases: a regulator of protein interactions and membrane association and a site of nuclear localization signal sequences. Cellular Signalling, 15(12):1071–1080, December 2003. URL: http://dx.doi.org/10.1016/s0898-6568(03)00098-6, doi:10.1016/s0898-6568(03)00098-6. This article has 168 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0898-6568(03)00098-6)
+
+[5. (Schaefer2014Toward) Antje Schaefer, Nathalie R Reinhard, and Peter L Hordijk. Toward understanding rhogtpase specificity: structure, function and local activation. Small GTPases, 5(2):e968004, April 2014. URL: http://dx.doi.org/10.4161/21541248.2014.968004, doi:10.4161/21541248.2014.968004. This article has 82 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/21541248.2014.968004)
+
+6. (Paul2023A) A computational investigation on Rho-related GTP-binding protein RhoB through molecular modeling and molecular dynamics simulation study. This article has 1 citations.
+
+[7. (Vega2015The) Francisco M Vega, Mairian Thomas, Nicolas Reymond, and Anne J Ridley. The rho gtpase rhob regulates cadherin expression and epithelial cell-cell interaction. Cell Communication and Signaling, 13(1):6, 2015. URL: http://dx.doi.org/10.1186/s12964-015-0085-y, doi:10.1186/s12964-015-0085-y. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12964-015-0085-y)
+
+[8. (Adamson1992Posttranslational) P Adamson, C.J. Marshall, A Hall, and P.A. Tilbrook. Post-translational modifications of p21rho proteins. Journal of Biological Chemistry, 267(28):20033–20038, October 1992. URL: http://dx.doi.org/10.1016/s0021-9258(19)88661-1, doi:10.1016/s0021-9258(19)88661-1. This article has 315 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/s0021-9258(19)88661-1)
+
+[9. (Vega2016The) Francisco M. Vega and Anne J. Ridley. The rhob small gtpase in physiology and disease. Small GTPases, 9(5):384–393, November 2016. URL: http://dx.doi.org/10.1080/21541248.2016.1253528, doi:10.1080/21541248.2016.1253528. This article has 62 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/21541248.2016.1253528)
+
+[10. (Kim2009RhoB) Dong‐Myung Kim, Kyung‐Sook Chung, Shin‐Jung Choi, Yu‐Jin Jung, Song‐Kyu Park, Gyoon‐Hee Han, Jae‐Seok Ha, Kyung‐Bin Song, Nam‐Song Choi, Hwan‐Mook Kim, Misun Won, and Yeon‐Soo Seo. Rhob induces apoptosis via direct interaction with tnfaip1 in hela cells. International Journal of Cancer, 125(11):2520–2527, July 2009. URL: http://dx.doi.org/10.1002/ijc.24617, doi:10.1002/ijc.24617. This article has 62 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/ijc.24617)

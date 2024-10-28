@@ -1,0 +1,38 @@
+# NHERF4
+
+## Overview
+NHERF4, or Na+/H+ exchanger regulatory factor 4, is a gene that encodes a member of the NHERF family of PDZ scaffold proteins, specifically known as PDZK1. This protein is characterized by its four PDZ domains, which are essential for mediating protein-protein interactions and facilitating the assembly of multiprotein complexes. NHERF4 plays a crucial role in cellular signaling and the regulation of membrane proteins, particularly in epithelial tissues. It is predominantly localized at the plasma membrane, where it acts as a scaffold for various channels and transporters, including the epithelial calcium channels TRPV5 and TRPV6, and the SLC26A3 anion exchanger. Through these interactions, NHERF4 is involved in regulating ion transport and maintaining fluid balance, as well as modulating signaling pathways that influence cell migration and invasion. Its expression and function have significant implications in both physiological processes and pathological conditions, such as clear cell renal cell carcinoma (Yang2021NHERF4; van2006Interaction; Lee2012Regulation).
+
+## Structure
+NHERF4, also known as Na+/H+ exchanger regulatory factor 4, is a member of the NHERF family of PDZ scaffold proteins. It contains four PDZ domains, which are protein-protein interaction modules crucial for its role in cellular signaling and membrane protein regulation (van2006Interaction; Lee2012Regulation). These domains facilitate the assembly of protein complexes by binding to specific motifs on target proteins. The fourth PDZ domain of NHERF4 is particularly significant, as it is sufficient for interaction with the epithelial calcium channels TRPV5 and TRPV6 (van2006Interaction).
+
+NHERF4 is known to undergo post-translational modifications, such as phosphorylation, which can influence its interactions and function. For instance, phosphorylation of serine 329 in the third PDZ domain affects its regulatory role with the SLC26A3 protein (Lee2012Regulation). NHERF4 can exist in different isoforms due to alternative splicing, which may alter its structural and functional properties, although specific isoforms are not detailed in the provided context.
+
+The protein is predominantly localized at the plasma membrane, where it acts as a scaffold for various channels and transporters, indicating its role in membrane-associated processes (van2006Interaction).
+
+## Function
+NHERF4, also known as PDZK1, is a PDZ domain-containing scaffold protein that plays a significant role in regulating the activity of the SLC26A3 anion exchanger in epithelial cells. SLC26A3 is a chloride/bicarbonate exchanger expressed in the intestine, pancreas, and salivary glands. NHERF4 interacts with the PDZ-binding motif of SLC26A3, primarily through its third PDZ domain, leading to a decrease in SLC26A3 expression on the plasma membrane and reduced anion exchange activity (Lee2012Regulation). This interaction induces the rapid internalization of SLC26A3 from the plasma membrane, a process modulated by the phosphorylation state of NHERF4, particularly at serine 329 (Lee2012Regulation).
+
+NHERF4's regulation of SLC26A3 is crucial for maintaining luminal fluidity in the intestine, impacting chloride re-uptake in the ileal and colonic epithelium (Lee2012Regulation). By modulating the surface expression and activity of SLC26A3, NHERF4 plays a vital role in maintaining homeostasis and overall health, particularly in epithelial tissues where it is highly expressed (Lee2012Regulation). This regulatory mechanism highlights NHERF4's importance in cellular processes such as ion transport and fluid balance.
+
+## Clinical Significance
+NHERF4 has been implicated in the progression of clear cell renal cell carcinoma (ccRCC). Studies have shown that low expression of NHERF4 is associated with increased tumor invasion, lymphatic involvement, and metastasis in ccRCC. This downregulation correlates with worse overall survival and disease-free survival in patients, suggesting that NHERF4 expression could serve as an independent prognostic indicator for poor outcomes in ccRCC (Yang2021NHERF4). NHERF4 interacts with the Mas receptor to modulate the PLC/AKT signaling pathway, which is crucial for cell migration and invasion. Overexpression of NHERF4 attenuates Ang-(1-7)-induced AKT phosphorylation and Ca2+ signaling, indicating its role in suppressing these pathways and reducing the invasive potential of ccRCC cells (Yang2021NHERF4).
+
+In addition to its role in cancer, NHERF4 is involved in regulating ion transport processes. It interacts with the SLC26A3 anion exchanger, modulating its activity through PDZ domain-mediated interactions. Alterations in NHERF4 expression can affect SLC26A3 activity, which may have implications for conditions involving electrolyte imbalance (Lee2012Regulation). These findings highlight the clinical significance of NHERF4 in both cancer progression and ion transport regulation.
+
+## Interactions
+NHERF4, also known as PDZK1, is a PDZ domain-containing scaffold protein that interacts with various proteins, playing a significant role in cellular processes. It interacts with the epithelial calcium channels TRPV5 and TRPV6, which are crucial for calcium transport in epithelial tissues. NHERF4 binds specifically to a conserved region in the carboxyl terminus of these channels, distinct from the binding site of another PDZ protein, NHERF2. This interaction is confirmed through yeast two-hybrid screens, GST pull-down assays, and co-immunoprecipitation assays (van2006Interaction).
+
+NHERF4 also interacts with the SLC26A3 anion transporter, a chloride/bicarbonate exchanger. This interaction occurs between the PDZ-binding motif of SLC26A3 and the third PDZ domain of NHERF4, leading to decreased SLC26A3 expression on the plasma membrane and reduced anion exchange activity. The interaction is phosphorylation-dependent, involving serine 329 in NHERF4-PDZ3 (Lee2012Regulation).
+
+In the context of clear cell renal cell carcinoma (ccRCC), NHERF4 interacts with the Mas receptor, affecting the PLC/AKT signaling pathway. NHERF4 overexpression attenuates Ang-(1-7)-induced phosphorylation of AKT, suggesting a regulatory role in cell migration and invasion (Yang2021NHERF4).
+
+
+## References
+
+
+[1. (Yang2021NHERF4) Ying Yang, Jihuan Liang, Chunjuan Zhao, Yibin Chen, Siyu Gu, Xiaomei Yang, Hua Liu, Qiong Qin, Haibo Wang, Zhuoli Yang, Xuedi Cao, Duiping Feng, and Junqi He. Nherf4 hijacks mas-mediated plc/akt signaling to suppress the invasive potential of clear cell renal cell carcinoma cells. Cancer Letters, 519:130–140, October 2021. URL: http://dx.doi.org/10.1016/j.canlet.2021.06.021, doi:10.1016/j.canlet.2021.06.021. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2021.06.021)
+
+[2. (van2006Interaction) Stan F. J. van de Graaf, Joost G. J. Hoenderop, Annemiete W. C. M. van der Kemp, Serge M. Gisler, and René J. M. Bindels. Interaction of the epithelial ca2+ channels trpv5 and trpv6 with the intestine- and kidney-enriched pdz protein nherf4. Pflügers Archiv, 452(4):407–417, March 2006. URL: http://dx.doi.org/10.1007/s00424-006-0051-z, doi:10.1007/s00424-006-0051-z. This article has 28 citations.](https://doi.org/10.1007/s00424-006-0051-z)
+
+[3. (Lee2012Regulation) Ji Hyun Lee, Joo Hyun Nam, Joonhee Park, Dong-Won Kang, Joo Young Kim, Min Goo Lee, and Jae Seok Yoon. Regulation of slc26a3 activity by nherf4 pdz-mediated interaction. Cellular Signalling, 24(9):1821–1830, September 2012. URL: http://dx.doi.org/10.1016/j.cellsig.2012.05.010, doi:10.1016/j.cellsig.2012.05.010. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2012.05.010)

@@ -1,0 +1,44 @@
+# METTL18
+
+## Overview
+The METTL18 gene encodes the protein methyltransferase 18, RPL3 N3(tau)-histidine, which is a histidine-specific methyltransferase. This enzyme is part of the 7BS methyltransferase family, characterized by a conserved structural motif that includes seven β-strands forming a twisted β-sheet (Małecki2021Human). METTL18 is primarily localized in the nucleoli, where it plays a crucial role in ribosome biogenesis by methylating the ribosomal protein RPL3 at the His-245 residue, thereby influencing ribosome maturation and function (MatsuuraSuzuki2022METTL18mediated; Małecki2021Human). Beyond its role in ribosomal function, METTL18 is implicated in cancer metastasis, particularly in breast cancer, through its interaction with actin and Src kinase, affecting cell migration and invasion (Kim2019Metastatic). The gene's expression levels have been linked to poor prognosis in various cancers, including breast cancer and hepatocellular carcinoma, highlighting its potential as a therapeutic target (Kim2019Metastatic; Li2021Identification).
+
+## Structure
+The human METTL18 protein is a histidine-specific methyltransferase with a conserved molecular structure characteristic of 7BS methyltransferases (MTases). Its crystal structure, in complex with S-adenosylhomocysteine, reveals seven β-strands forming a twisted β-sheet, a hallmark of 7BS MTases (Małecki2021Human). The protein contains conserved motifs such as Motif I, Post I, Motif II, and the 'DXXY-motif', which are typical of MTase Family 16 (MTF16) members (Małecki2021Human).
+
+METTL18 is automethylated at histidine 154, a modification that occurs both in recombinant forms and in human cells, suggesting a regulatory role in its activity (Małecki2021Human). The protein's N-terminal region is variable in size across different organisms, indicating it may not be essential for enzymatic activity (Małecki2021Human).
+
+In terms of localization, METTL18 contains a nuclear localization signal (NLS) within the sequence PDVKRCR, which is conserved in vertebrates and essential for its nuclear accumulation (Małecki2021Human). The protein is primarily localized in the nucleoli, where it plays a role in ribosome biogenesis and function (Małecki2021Human).
+
+## Function
+METTL18 is a histidine-specific methyltransferase that targets the ribosomal protein RPL3, specifically methylating the His-245 residue. This modification is crucial for ribosome biogenesis and function in human cells (MatsuuraSuzuki2022METTL18mediated; Małecki2021Human). METTL18 is localized in the nucleoli, where it participates in ribosome maturation, affecting pre-rRNA processing and mRNA translation (Małecki2021Human). The enzyme interacts strongly with RPL3, suggesting that it recognizes its substrate within partially or fully assembled ribosomes (Małecki2021Human).
+
+The methylation of RPL3 by METTL18 is essential for translation elongation, particularly at tyrosine codons, which is important for maintaining proteostasis by ensuring proper protein folding and preventing aggregation (MatsuuraSuzuki2022METTL18mediated). In METTL18 knockout cells, there is an increase in protein aggregation, especially of tyrosine-rich proteins, due to the absence of this methylation (MatsuuraSuzuki2022METTL18mediated).
+
+Despite its significant role in optimizing ribosome function, METTL18 is considered nonessential for cell survival, indicating its role is more about enhancing ribosome efficiency rather than being critical for basic cellular functions (Małecki2021Human).
+
+## Clinical Significance
+Alterations in the expression of the METTL18 gene have been implicated in various cancers, notably breast cancer and hepatocellular carcinoma (HCC). In breast cancer, particularly HER2-negative and triple-negative breast cancer (TNBC), METTL18 is associated with poor prognosis. High METTL18 expression correlates with lower overall survival rates, and its knockdown in TNBC cell lines reduces metastatic behaviors such as migration and invasion. This suggests that METTL18 plays a critical role in breast cancer metastasis through the METTL18-Src signaling pathway, influencing actin methylation and Src kinase activation (Kim2019Metastatic).
+
+In hepatocellular carcinoma, METTL18 is overexpressed and linked to poor prognosis, with higher expression levels associated with lower overall survival, disease-specific survival, and progression-free intervals. METTL18 expression in HCC is also related to advanced tumor stages and grades. Knockdown of METTL18 in HCC cells significantly inhibits proliferation, invasion, and migration, indicating its potential oncogenic role. METTL18's involvement in pathways such as the G2/M checkpoint and KRAS signaling further underscores its significance in HCC progression (Zhang2024METTL; Li2021Identification).
+
+## Interactions
+METTL18 is a histidine-specific methyltransferase that interacts with several proteins, playing a significant role in ribosome biogenesis and function. It specifically targets the ribosomal protein RPL3, methylating it at the His-245 residue. This interaction is crucial for the methylation process, as METTL18 recognizes RPL3 in the context of a partially or fully assembled ribosome, indicating a specific substrate recognition mechanism (Małecki2021Human).
+
+METTL18 also forms a complex with HSP90AA1 and Src kinase in the context of breast cancer metastasis. This complex is involved in actin methylation, which in turn affects Src kinase activity. METTL18 methylates actin at His73, enhancing Src phosphorylation and promoting metastatic responses in breast cancer cells. This interaction highlights METTL18's role in modulating actin polymerization and Src activation, which are critical for cancer cell migration and invasion (Kim2019Metastatic).
+
+In addition to its interactions with RPL3 and actin, METTL18 is automethylated at His-154, a modification that may regulate its own activity and function within the cell (Małecki2021Human). These interactions underscore METTL18's involvement in both ribosomal function and cancer metastasis.
+
+
+## References
+
+
+[1. (MatsuuraSuzuki2022METTL18mediated) Eriko Matsuura-Suzuki, Tadahiro Shimazu, Mari Takahashi, Kaoru Kotoshiba, Takehiro Suzuki, Kazuhiro Kashiwagi, Yoshihiro Sohtome, Mai Akakabe, Mikiko Sodeoka, Naoshi Dohmae, Takuhiro Ito, Yoichi Shinkai, and Shintaro Iwasaki. Mettl18-mediated histidine methylation of rpl3 modulates translation elongation for proteostasis maintenance. eLife, June 2022. URL: http://dx.doi.org/10.7554/elife.72780, doi:10.7554/elife.72780. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.72780)
+
+[2. (Li2021Identification) Tian-Hao Li, Cheng Qin, Bang-Bo Zhao, Hong-Tao Cao, Xiao-Ying Yang, Yuan-Yang Wang, Ze-Ru Li, Xing-Tong Zhou, and Wei-Bin Wang. Identification mettl18 as a potential prognosis biomarker and associated with immune infiltrates in hepatocellular carcinoma. Frontiers in Oncology, May 2021. URL: http://dx.doi.org/10.3389/fonc.2021.665192, doi:10.3389/fonc.2021.665192. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.665192)
+
+3. (Kim2019Metastatic) Metastatic function of METTL18 in breast cancer via actin methylation and Src. This article has 1 citations.
+
+[4. (Zhang2024METTL) Huhu Zhang, Fulin Sun, Shuyao Jiang, Fanghao Yang, Xiaolei Dong, Guoxiang Liu, Mengjun Wang, Ya Li, Mohan Su, Ziyuan Wen, Chunjuan Yu, Chenkai Fan, Xiaoxia Li, Zhe Zhang, Lina Yang, and Bing Li. Mettl protein family: focusing on the occurrence, progression and treatment of cancer. Biomarker Research, September 2024. URL: http://dx.doi.org/10.1186/s40364-024-00652-3, doi:10.1186/s40364-024-00652-3. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40364-024-00652-3)
+
+[5. (Małecki2021Human) Jędrzej M Małecki, Marie-Francoise Odonohue, Yeji Kim, Magnus E Jakobsson, Luca Gessa, Rita Pinto, Jie Wu, Erna Davydova, Anders Moen, Jesper V Olsen, Bernd Thiede, Pierre-Emmanuel Gleizes, Sebastian A Leidel, and Pål Ø Falnes. Human mettl18 is a histidine-specific methyltransferase that targets rpl3 and affects ribosome biogenesis and function. Nucleic Acids Research, 49(6):3185–3203, March 2021. URL: http://dx.doi.org/10.1093/nar/gkab088, doi:10.1093/nar/gkab088. This article has 34 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkab088)

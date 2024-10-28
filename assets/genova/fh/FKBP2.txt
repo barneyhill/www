@@ -1,0 +1,44 @@
+# FKBP2
+
+## Overview
+FKBP2 is a gene that encodes the protein FKBP prolyl isomerase 2, also known as FKBP13, which is a member of the FK506-binding protein family. This protein is characterized by its peptidyl-prolyl cis-trans isomerase activity, which plays a crucial role in protein folding within the endoplasmic reticulum (ER). FKBP13 is primarily located in the luminal part of the rough ER and is associated with the membrane, where it functions as a molecular chaperone. It is involved in the folding of proinsulin and interacts with other proteins such as GRP94 and ERp57, highlighting its importance in maintaining protein homeostasis and preventing misfolding. FKBP13 also binds immunosuppressive drugs like FK506 and rapamycin, influencing T cell proliferation and apoptosis. The gene's expression is implicated in various physiological and pathological processes, including insulin biosynthesis, cancer, and fibrotic lung diseases, underscoring its potential as a therapeutic target (Akintade2021FK506binding; Ishikawa2015Ziplocing; Hoefner2022FK506binding).
+
+## Structure
+FKBP2, also known as FKBP13, is a member of the FK506-binding protein family, characterized by the presence of a conserved FKBP domain responsible for its peptidyl-prolyl cis-trans isomerase activity. The protein is encoded by the FKBP2 gene and is located in the luminal part of the rough endoplasmic reticulum (rER), where it is proposed to be membrane-associated (Ishikawa2015Ziplocing). Structurally, FKBP13 is similar to FKBP12, with a major difference being the presence of a disulfide bridge that stabilizes the FKBP fold (Ishikawa2015Ziplocing). The protein contains a single FKBP-type domain and a transmembrane region (Ishikawa2015Ziplocing).
+
+The crystal structure of FKBP13 reveals a β-sheet wrapped around a short α-helix, a common feature among FKBP family proteins (Ishikawa2015Ziplocing). FKBP13 has conserved cysteine residues that form intra-domain disulfide bonds, contributing to the stability of its structure (Ishikawa2015Ziplocing). The PPIase active site is largely conserved, with slight variations that may influence substrate specificity (Ishikawa2015Ziplocing). FKBP13 is also known to interact with ERp57, a protein involved in glycoprotein folding (Ishikawa2015Ziplocing).
+
+## Function
+FKBP2 (FKBP prolyl isomerase 2) is a crucial protein involved in the folding of proinsulin within the endoplasmic reticulum (ER) of pancreatic β-cells. It functions as a proline isomerase, specifically catalyzing the isomerization of proline at position 28 (P28) in the B-chain of proinsulin. This isomerization is essential for proper protein folding, as proline can exist in either cis or trans conformations, and the transition between these states is a rate-limiting step in protein folding (Hoefner2022FK506binding).
+
+FKBP2 interacts with proinsulin and the chaperone GRP94, indicating its role in the early stages of proinsulin folding, before disulfide bond formation locks the protein structure. This interaction suggests that FKBP2 helps maintain proinsulin solubility and prevents misfolding, which is crucial for insulin biosynthesis and β-cell function (Hoefner2022FK506binding).
+
+In the context of type 2 diabetes, FKBP2 expression is up-regulated in β-cells, likely as a compensatory response to increased insulin demand. This suggests that FKBP2 plays a significant role in maintaining insulin production under conditions of metabolic stress (Hoefner2022FK506binding).
+
+## Clinical Significance
+Alterations in the expression of the FKBP2 gene have been associated with several diseases and conditions. FKBP2 is overexpressed in lung adenocarcinoma (LUAD) tissues compared to healthy tissues, suggesting its potential role as a prognostic biomarker in this type of cancer (Wang2022Penetrating). The gene's expression is also elevated in the hypoxic environment of glioblastoma multiforme, where it may contribute to tumor metastasis (Wang2022Penetrating).
+
+In the context of fibrotic lung diseases, higher expression levels of FKBP13, the protein encoded by FKBP2, have been observed. Knockout mice lacking FKBP13 exhibit increased lung inflammation and apoptosis of alveoli type 2 cells due to endoplasmic reticulum (ER) stress, indicating a protective role of FKBP2 against such stress (Akintade2021FK506binding).
+
+FKBP2 has also been implicated in primary open-angle glaucoma (POAG), where it is identified as one of the gut microbiota-related differentially expressed genes (DEGs) potentially involved in the pathogenesis of the disease (Chen2023The). Despite these associations, FKBP2 was excluded as a biomarker gene for multiple endocrine neoplasia type-1 (MEN1) tumors (Akintade2021FK506binding).
+
+## Interactions
+FKBP2, also known as FKBP13, is involved in several protein interactions, primarily functioning as a molecular chaperone within the endoplasmic reticulum (ER). It facilitates protein folding by acting as a cis-trans prolyl isomerase and is known to bind immunosuppressive drugs like FK506 and rapamycin, forming complexes that inhibit the protein phosphatase calcineurin, thereby regulating T cell proliferation and apoptosis (Akintade2021FK506binding). FKBP2 has been shown to interact with MAPK3, a component of the human ras-mapk/pi3k signaling pathways, with a high confidence score of 20.6, indicating a strong physical interaction (Wang2008Protein).
+
+In yeast, FKBP2 has been demonstrated to inhibit Bax-induced apoptosis, similar to the anti-apoptotic protein Bcl-xL. This suggests that FKBP2 can rescue cells from apoptosis by maintaining mitochondrial membrane potential and reducing reactive oxygen species production, highlighting its protective role against ER stress-linked apoptosis (Akintade2021FK506binding). While specific interactions with nucleic acids are not detailed, FKBP2's role as a chaperone implies transient binding to proteins translocated into the ER to assist in their proper folding (Akintade2021FK506binding).
+
+
+## References
+
+
+[1. (Wang2022Penetrating) Chin-Chou Wang, Wan-Jou Shen, Gangga Anuraga, Yu-Hsiu Hsieh, Hoang Khoa Ta, Do Xuan, Chiu-Fan Shen, Chih-Yang Wang, and Wei-Jan Wang. Penetrating exploration of prognostic correlations of the fkbp gene family with lung adenocarcinoma. Journal of Personalized Medicine, 13(1):49, December 2022. URL: http://dx.doi.org/10.3390/jpm13010049, doi:10.3390/jpm13010049. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/jpm13010049)
+
+[2. (Chen2023The) Si Chen, Nan Wang, Siqi Xiong, and Xiaobo Xia. The correlation between primary open-angle glaucoma (poag) and gut microbiota: a pilot study towards predictive, preventive, and personalized medicine. EPMA Journal, 14(3):539–552, August 2023. URL: http://dx.doi.org/10.1007/s13167-023-00336-2, doi:10.1007/s13167-023-00336-2. This article has 9 citations.](https://doi.org/10.1007/s13167-023-00336-2)
+
+[3. (Ishikawa2015Ziplocing) Yoshihiro Ishikawa, Sergei Boudko, and Hans Peter Bächinger. Ziploc-ing the structure: triple helix formation is coordinated by rough endoplasmic reticulum resident ppiases. Biochimica et Biophysica Acta (BBA) - General Subjects, 1850(10):1983–1993, October 2015. URL: http://dx.doi.org/10.1016/j.bbagen.2014.12.024, doi:10.1016/j.bbagen.2014.12.024. This article has 33 citations.](https://doi.org/10.1016/j.bbagen.2014.12.024)
+
+4. (Hoefner2022FK506binding) FK506-binding protein 2 participates in proinsulin folding. This article has 0 citations.
+
+[5. (Akintade2021FK506binding) Damilare D. Akintade and Bhabatosh Chaudhuri. Fk506-binding protein 2 (fkbp13) inhibit bax-induced apoptosis in saccharomyces cerevisiae (yeast). Cell Biology and Toxicology, 39(3):719–728, August 2021. URL: http://dx.doi.org/10.1007/s10565-021-09633-w, doi:10.1007/s10565-021-09633-w. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10565-021-09633-w)
+
+[6. (Wang2008Protein) Jian Wang, Yanzhi Yuan, Ying Zhou, Longhua Guo, Lingqiang Zhang, Xuezhang Kuai, Binwei Deng, Zhi Pan, Dong Li, and Fuchu He. Protein interaction data set highlighted with human ras-mapk/pi3k signaling pathways. Journal of Proteome Research, 7(9):3879–3889, July 2008. URL: http://dx.doi.org/10.1021/pr8001645, doi:10.1021/pr8001645. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/pr8001645)

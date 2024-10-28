@@ -1,0 +1,52 @@
+# DDX42
+
+## Overview
+DDX42 is a gene that encodes the DEAD-box helicase 42, a member of the DEAD-box protein family characterized by the conserved DEAD (Asp-Glu-Ala-Asp) motif. This protein functions primarily as an RNA helicase, playing a crucial role in RNA metabolism, including pre-mRNA splicing and genome stability. DEAD-box helicase 42 is involved in the assembly of the U2 small nuclear ribonucleoprotein (snRNP) complex, a key component of the spliceosome, and interacts with the SF3b complex, particularly SF3B1, to facilitate proper spliceosome function. Additionally, DDX42 is implicated in maintaining genome stability by regulating DNA/RNA hybrid levels and has been identified as a G-quadruplex (G4)-binding protein, which influences transcription and translation processes. The protein's interactions and functions underscore its importance in cellular processes and its potential involvement in various diseases, including cancer and neuropsychiatric disorders (Ma2024Multifunctional; Rao2022DEADly; Yang2023Mechanisms).
+
+## Structure
+The DDX42 protein is a member of the DEAD-box helicase family, characterized by the conserved DEAD motif (Asp-Glu-Ala-Asp). Its primary structure includes N-terminal motifs such as the N-plug (residues 69-81), an extended helix α-3 (residues 114-135), and a pair of short helices α-2/α-1 (residues 145-167) (Yang2023Mechanisms). These motifs are crucial for its interaction with the SF3b complex, particularly SF3B1, where they form hydrogen bonds and van der Waals contacts (Yang2023Mechanisms).
+
+The secondary structure of DDX42 features α-helices, as indicated by the presence of the α-3, α-2, and α-1 helices. The tertiary structure includes a helicase domain composed of two RecA domains, which are loosely attached to the C-terminus of SF3B1 HEAT (Yang2023Mechanisms). This structural organization is essential for its function as an RNA helicase, which relies on ATP binding and hydrolysis (Yang2023Mechanisms).
+
+DDX42 forms part of a quaternary structure when it interacts with the SF3b complex and U2 snRNP, where it is located at the periphery of the SF3b complex (Yang2023Mechanisms). The protein may also contain the Novel Interesting Quadruplex Interaction (NIQI) motif, which is associated with regions transitioning from unstructured to structured states (Dupas2021Predicting).
+
+## Function
+DDX42, also known as DEAD-box helicase 42, is a multifunctional protein involved in several critical cellular processes. It plays a significant role in pre-mRNA splicing by interacting with SF3B1, a core component of the human spliceosome U2 small nuclear ribonucleoprotein (snRNP). This interaction is essential for the proper assembly of the pre-spliceosome, and disruptions can lead to impaired splicing. Overexpression of wild-type DDX42 can restore this interaction and correct splicing defects, highlighting its importance in maintaining normal cellular functions (Ma2024Multifunctional).
+
+DDX42 is enriched in the nucleus, particularly in Cajal bodies, and is associated with the human U2 snRNP, which is involved in early spliceosome assembly. It has RNA chaperone activity and binds to the SF3b complex, playing a role in pre-mRNA splicing (Zheng2023Role). DDX42 also contributes to genome stability by regulating DNA/RNA hybrid levels, and its depletion can cause DNA damage, indicating its nonredundant role in promoting genome stability (Ma2024Multifunctional).
+
+In addition to its role in splicing and genome maintenance, DDX42 has been identified as a G-quadruplex (G4)-binding protein, which are secondary structures in nucleic acids that regulate transcription and translation (Rao2022DEADly).
+
+## Clinical Significance
+Alterations in the DDX42 gene have been implicated in several diseases and conditions. The MAP3K3-DDX42 chimeric gene, resulting from a deletion event, has been associated with schizophrenia. This fusion acts as a dominant-negative inhibitor of the ERK5 signaling pathway, which is crucial for neuronal differentiation and neurogenesis. Disruption of this pathway may contribute to neuropsychiatric disorders, including schizophrenia (Rippey2013Formation; Sun2022Chimeric).
+
+DDX42 is also involved in the regulation of G-quadruplex (G4) structures, which are linked to genome instability and cancer. DDX42's role as a G4-binding protein suggests that its dysfunction could lead to increased sensitivity to G4 ligands, potentially affecting cancer cell growth and survival (Zyner2019Genetic).
+
+In the context of RNA splicing, DDX42 interacts with SF3B1, a component of the spliceosome. Mutations in SF3B1 that affect this interaction have been observed in various cancers, suggesting that disruptions in DDX42's function could contribute to cancer development through impaired RNA splicing (Yang2023Mechanisms).
+
+## Interactions
+DDX42, a member of the DEAD-box protein family, is involved in various interactions with proteins and nucleic acids, playing a significant role in RNA metabolism. It interacts with the SF3b complex, which includes SF3B1, SF3B3, SF3B5, and PHF5A, and is crucial for the assembly of the U2 snRNP, a component of the spliceosome. DDX42 is anchored to the SF3b core primarily through its N-terminal sequences, which include an N-terminal plug (N-plug) and several helices. The N-plug occupies the RNA path of SF3B1, forming a network of hydrogen bonds with positively charged residues from SF3B1 (Yang2023Mechanisms).
+
+In the DDX42-U2 complex, the helicase domain of DDX42 is displaced by U2 snRNA and TAT-SF1, suggesting a role in the formation of the branchpoint-interacting stem-loop (BSL) (Yang2023Mechanisms). DDX42 and DDX46 bind to SF3b competitively, with DDX42 having a higher binding affinity (Yang2023Mechanisms). DDX42 also acts as an intrinsic inhibitor of positive-strand RNA viruses, including SARS-CoV-2 and HIV-1, by interacting with viral RNAs and potentially inhibiting reverse transcription and genome stability (Bonaventure2020The).
+
+
+## References
+
+
+[1. (Ma2024Multifunctional) Jing Ma and Susan R. Ross. Multifunctional role of dead-box helicase 41 in innate immunity, hematopoiesis and disease. Frontiers in Immunology, August 2024. URL: http://dx.doi.org/10.3389/fimmu.2024.1451705, doi:10.3389/fimmu.2024.1451705. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2024.1451705)
+
+[2. (Dupas2021Predicting) Steven J. Dupas, Daniel Gussakovsky, Alvan Wai, Mira J.F. Brown, Georg Hausner, and Sean A. McKenna. Predicting human rna quadruplex helicases through comparative sequence approaches and helicase mrna interactome analyses. Biochemistry and Cell Biology, 99(5):536–553, October 2021. URL: http://dx.doi.org/10.1139/bcb-2020-0590, doi:10.1139/bcb-2020-0590. This article has 1 citations.](https://doi.org/10.1139/bcb-2020-0590)
+
+[3. (Rippey2013Formation) Caitlin Rippey, Tom Walsh, Suleyman Gulsuner, Matt Brodsky, Alex S. Nord, Molly Gasperini, Sarah Pierce, Cailyn Spurrell, Bradley P. Coe, Niklas Krumm, Ming K. Lee, Jonathan Sebat, Jon M. McClellan, and Mary-Claire King. Formation of chimeric genes by copy-number variation as a mutational mechanism in schizophrenia. The American Journal of Human Genetics, 93(4):697–710, October 2013. URL: http://dx.doi.org/10.1016/j.ajhg.2013.09.004, doi:10.1016/j.ajhg.2013.09.004. This article has 40 citations.](https://doi.org/10.1016/j.ajhg.2013.09.004)
+
+[4. (Yang2023Mechanisms) Fenghua Yang, Tong Bian, Xiechao Zhan, Zhe Chen, Zhihan Xing, Nicolas A. Larsen, Xiaofeng Zhang, and Yigong Shi. Mechanisms of the rna helicases ddx42 and ddx46 in human u2 snrnp assembly. Nature Communications, February 2023. URL: http://dx.doi.org/10.1038/s41467-023-36489-x, doi:10.1038/s41467-023-36489-x. This article has 15 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-36489-x)
+
+[5. (Sun2022Chimeric) Yunan Sun and Hui Li. Chimeric rnas discovered by rna sequencing and their roles in cancer and rare genetic diseases. Genes, 13(5):741, April 2022. URL: http://dx.doi.org/10.3390/genes13050741, doi:10.3390/genes13050741. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes13050741)
+
+[6. (Zyner2019Genetic) Katherine G Zyner, Darcie S Mulhearn, Santosh Adhikari, Sergio Martínez Cuesta, Marco Di Antonio, Nicolas Erard, Gregory J Hannon, David Tannahill, and Shankar Balasubramanian. Genetic interactions of g-quadruplexes in humans. eLife, July 2019. URL: http://dx.doi.org/10.7554/elife.46793, doi:10.7554/elife.46793. This article has 99 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.46793)
+
+[7. (Zheng2023Role) Bichun Zheng, Xudong Chen, Qiaoyun Ling, Quan Cheng, and Shaoshun Ye. Role and therapeutic potential of dead-box rna helicase family in colorectal cancer. Frontiers in Oncology, October 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1278282, doi:10.3389/fonc.2023.1278282. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1278282)
+
+8. (Bonaventure2020The) The DEAD box RNA helicase DDX42 is an intrinsic inhibitor of positive-strand RNA viruses. This article has 2 citations.
+
+[9. (Rao2022DEADly) Shringar Rao and Tokameh Mahmoudi. Dead-ly affairs: the roles of dead-box proteins on hiv-1 viral rna metabolism. Frontiers in Cell and Developmental Biology, June 2022. URL: http://dx.doi.org/10.3389/fcell.2022.917599, doi:10.3389/fcell.2022.917599. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.917599)

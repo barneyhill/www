@@ -1,0 +1,54 @@
+# RANGAP1
+
+## Overview
+RANGAP1 is a gene that encodes the protein Ran GTPase activating protein 1, which plays a pivotal role in the regulation of the Ran GTPase cycle, a critical process for nucleocytoplasmic transport. As a GTPase-activating protein, RanGAP1 facilitates the conversion of Ran-GTP to Ran-GDP, thereby maintaining the directionality of nuclear import and export (Matunis1996A; Mahajan1997A). Structurally, RanGAP1 is characterized by an N-terminal leucine-rich repeat (LRR) GAP domain and a C-terminal domain (CTD), separated by an acidic linker, and undergoes post-translational modifications such as sumoylation, which are essential for its function and interactions with other proteins (Baytshtok2024Structural; Reverter2005Insights). RanGAP1 is primarily localized at the cytoplasmic fibers of the nuclear pore complex and is involved in cell cycle progression and mitosis, highlighting its importance in cellular operations (Matunis1996A; Mahajan1997A).
+
+## Structure
+RanGAP1 is a protein involved in the regulation of the Ran GTPase cycle, crucial for nucleocytoplasmic transport. The protein consists of an N-terminal leucine-rich repeat (LRR) GAP domain and a C-terminal domain (CTD), which are separated by an acidic linker (Baytshtok2024Structural). The N-terminal helix of RanGAP1 functions as a nuclear export signal (NES) by occupying the hydrophobic Crm1 NES-binding pocket, aligning with the NES motif described for PKI-type NES signals (Baytshtok2024Structural). 
+
+RanGAP1 undergoes post-translational modifications, including sumoylation at the C-terminal domain, specifically at Lys524, which forms a covalent bond with SUMO Gly97 (Reverter2005Insights). This modification is crucial for its function and interaction with other proteins, such as Ubc9 and Nup358/RanBP2 (Reverter2005Insights). 
+
+The protein can exist in different forms, including a 65-kD and a 90-kD variant, with the latter possibly resulting from alternative splicing or post-translational modification (Matunis1996A). RanGAP1 forms a homodimer with an apparent molecular mass of roughly 150 kDa, as suggested by gel filtration studies (Bischoff1994RanGAP1).
+
+## Function
+RanGAP1 (Ran GTPase activating protein 1) is a critical component in the regulation of the Ran GTPase cycle, which is essential for nucleocytoplasmic transport. It facilitates the conversion of Ran-GTP to Ran-GDP, a process necessary for maintaining the directionality of nuclear import and export (Matunis1996A; Mahajan1997A). RanGAP1 is primarily localized at the cytoplasmic fibers of the nuclear pore complex (NPC), where it interacts with RanBP2, a protein that aids in the nuclear import process (Matunis1996A; Mahajan1997A). This interaction is enhanced by the posttranslational modification of RanGAP1 with SUMO-1, a small ubiquitin-related modifier, which converts RanGAP1 to a 90-kDa form that stably associates with RanBP2 (Mahajan1997A).
+
+RanGAP1 also plays a significant role in cell cycle progression and mitosis. It relocalizes to the mitotic spindle apparatus during cell division, implicating it in the regulation of nuclear structure and mitosis (Matunis1996A). By enhancing the GTPase activity of Ran, RanGAP1 ensures proper cell cycle progression and mitosis, highlighting its importance in cellular operations (Bischoff1994RanGAP1).
+
+## Clinical Significance
+RANGAP1 has significant clinical implications in various cancers due to its altered expression and interactions. In glioma, RANGAP1 is downregulated, which is associated with enhanced tumor cell growth, proliferation, invasion, and migration. This downregulation disrupts cell cycle distribution and reduces apoptosis, contributing to tumor progression and poor prognosis. RANGAP1's interaction with SUMO1 and its role in the TGF-β/Smad signaling pathway are crucial for glioma pathogenesis, making it a potential therapeutic target (Zhang2024Impact).
+
+In colorectal cancer (CRC), RANGAP1 is upregulated and promotes tumor progression through the MAPK signaling pathway. Its expression is regulated by m6A methylation, with METTL3 and YTHDF1 playing key roles in this process. High RANGAP1 levels correlate with poor recurrence-free survival, suggesting its potential as a biomarker for CRC diagnosis and a target for therapeutic intervention (Yang2024METTL3mediated).
+
+In gastric cancer, circ-RanGAP1, a circular RNA derived from RANGAP1, promotes tumor growth and metastasis by acting as a competing endogenous RNA for miR-877-3p, which targets VEGFA. This interaction contributes to the malignancy of gastric cancer and is linked to shorter overall survival in patients (Lu2020Circular).
+
+## Interactions
+RanGAP1 interacts with several proteins, playing a crucial role in nuclear transport processes. It forms a stable complex with RanBP2, a nucleoporin located at the nuclear pore complex (NPC), through a posttranslational modification by SUMO-1, a small ubiquitin-related modifier. This modification is essential for the stable interaction between RanGAP1 and RanBP2, facilitating nuclear import (Mahajan1997A).
+
+RanGAP1 also interacts with Ubc9, an E2 ubiquitin-conjugating enzyme, which is involved in its sumoylation. This interaction is crucial for the assembly of the RanBP2/RanGAP1-SUMO1/Ubc9 subcomplex, which is important for nuclear import processes (He2021TCR; Saitoh1997RanBP2). The phosphorylation of RanGAP1 by PKC-θ enhances its sumoylation, promoting the formation of this subcomplex (He2021TCR).
+
+Additionally, RanGAP1 interacts with other proteins such as NTF2, RanBP1, and p97, which are involved in nuclear transport. These interactions are nucleotide-specific, with Ran-GDP binding preferentially to NTF2 and Ran-GTP interacting with RanBP1 and RanBP2 (Mahajan1997A). RanGAP1's interaction with GMP1, another ubiquitin-like protein, modulates its partitioning between the cytosol and the NPC, affecting its localization and function (Matunis1996A).
+
+
+## References
+
+
+[1. (Matunis1996A) M J Matunis, E Coutavas, and G Blobel. A novel ubiquitin-like modification modulates the partitioning of the ran-gtpase-activating protein rangap1 between the cytosol and the nuclear pore complex. The Journal of cell biology, 135(6):1457–1470, December 1996. URL: http://dx.doi.org/10.1083/jcb.135.6.1457, doi:10.1083/jcb.135.6.1457. This article has 928 citations.](https://doi.org/10.1083/jcb.135.6.1457)
+
+[2. (Mahajan1997A) Rohit Mahajan, Christian Delphin, Tinglu Guan, Larry Gerace, and Frauke Melchior. A small ubiquitin-related polypeptide involved in targeting rangap1 to nuclear pore complex protein ranbp2. Cell, 88(1):97–107, January 1997. URL: http://dx.doi.org/10.1016/s0092-8674(00)81862-0, doi:10.1016/s0092-8674(00)81862-0. This article has 982 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0092-8674(00)81862-0)
+
+3. (Baytshtok2024Structural) Structural basis for a nucleoporin exportin complex between RanBP2, SUMO1-RanGAP1, the E2 Ubc9, Crm1 and the Ran GTPase. This article has 0 citations.
+
+[4. (Saitoh1997RanBP2) Hisato Saitoh, Robert Pu, Margaret Cavenagh, and Mary Dasso. Ranbp2 associates with ubc9p and a modified form of rangap1. Proceedings of the National Academy of Sciences, 94(8):3736–3741, April 1997. URL: http://dx.doi.org/10.1073/pnas.94.8.3736, doi:10.1073/pnas.94.8.3736. This article has 161 citations.](https://doi.org/10.1073/pnas.94.8.3736)
+
+5. (He2021TCR) TCR signaling promotes the assembly of RanBP2/RanGAP1-SUMO1/Ubc9 nuclear pore subcomplex via PKC-θ-mediated phosphorylation of RanGAP1. This article has 0 citations.
+
+[6. (Bischoff1994RanGAP1) F R Bischoff, C Klebe, J Kretschmer, A Wittinghofer, and H Ponstingl. Rangap1 induces gtpase activity of nuclear ras-related ran. Proceedings of the National Academy of Sciences, 91(7):2587–2591, March 1994. URL: http://dx.doi.org/10.1073/pnas.91.7.2587, doi:10.1073/pnas.91.7.2587. This article has 406 citations.](https://doi.org/10.1073/pnas.91.7.2587)
+
+[7. (Yang2024METTL3mediated) Rui Yang, Cheng Yang, Danjie Su, Yang Song, Jie Min, Zhixin Qian, Xiangjing Shen, Junqiang Li, and Haichuan Su. Mettl3-mediated rangap1 promotes colorectal cancer progression through the mapk pathway by recruiting ythdf1. Cancer Gene Therapy, 31(4):562–573, January 2024. URL: http://dx.doi.org/10.1038/s41417-024-00731-5, doi:10.1038/s41417-024-00731-5. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41417-024-00731-5)
+
+[8. (Reverter2005Insights) David Reverter and Christopher D. Lima. Insights into e3 ligase activity revealed by a sumo–rangap1–ubc9–nup358 complex. Nature, 435(7042):687–692, June 2005. URL: http://dx.doi.org/10.1038/nature03588, doi:10.1038/nature03588. This article has 401 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature03588)
+
+[9. (Zhang2024Impact) Feng Zhang, Jun Yang, and Yifei Cheng. Impact of &lt;i&gt;rangap1 &lt;/i&gt;sumoylation on smad4 nuclear export by bioinformatic analysis and cell assays. Biomolecules and Biomedicine, 24(6):1620–1636, October 2024. URL: http://dx.doi.org/10.17305/bb.2024.10443, doi:10.17305/bb.2024.10443. This article has 1 citations.](https://doi.org/10.17305/bb.2024.10443)
+
+[10. (Lu2020Circular) Jun Lu, Yao-hui Wang, Changhwan Yoon, Xiao-yan Huang, Yu Xu, Jian-wei Xie, Jia-bin Wang, Jian-xian Lin, Qi-yue Chen, Long-long Cao, Chao-hui Zheng, Ping Li, and Chang-ming Huang. Circular rna circ-rangap1 regulates vegfa expression by targeting mir-877–3p to facilitate gastric cancer invasion and metastasis. Cancer Letters, 471:38–48, February 2020. URL: http://dx.doi.org/10.1016/j.canlet.2019.11.038, doi:10.1016/j.canlet.2019.11.038. This article has 187 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2019.11.038)

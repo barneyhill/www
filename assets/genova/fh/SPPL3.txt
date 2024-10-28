@@ -1,0 +1,52 @@
+# SPPL3
+
+## Overview
+SPPL3, or signal peptide peptidase-like 3, is a gene that encodes an intramembrane aspartyl protease involved in various cellular processes, particularly in the regulation of protein glycosylation. The protein product of SPPL3 is characterized by its nine transmembrane domains and is primarily localized in the Golgi apparatus, where it functions as a non-canonical sheddase. Unlike other members of its protease family, SPPL3 can cleave type II transmembrane proteins with long extracellular domains without prior ectodomain shedding, which is crucial for the secretion and regulation of glycosidases and glycosyltransferases (Papadopoulou2022Helical; Mentrup2017Latest). The activity of SPPL3 influences the glycosylation status of proteins, impacting cellular homeostasis and physiological processes such as cell growth and immune response (Mentrup2017Latest; Mentrup2020Physiological). Dysregulation of SPPL3 has been implicated in pathological conditions, including cancer and immune system disorders, highlighting its clinical significance (Papadopoulou2020Signaling; Mentrup2020Physiological).
+
+## Structure
+SPPL3 is an intramembrane aspartyl protease characterized by nine transmembrane (TM) domains. Its active site contains two critical aspartic acids located within conserved motifs: a YD motif in TM domain 6 and a GxGD motif in TM domain 7, which are essential for its proteolytic activity (Papadopoulou2022Helical; Jongsma2020The). The protein also features a conserved PAL motif in TM domain 9, involved in substrate recognition and acting as a gatekeeper (Papadopoulou2022Helical). SPPL3 is unique among its family for its ability to cleave type II transmembrane proteins with long extracellular domains without prior ectodomain shedding, classifying it as a non-canonical sheddase (Papadopoulou2022Helical; Mentrup2017Latest).
+
+SPPL3 is the smallest member of the SPP/SPPL family and is localized in the Golgi apparatus (Papadopoulou2020Signaling; Mentrup2020Physiological). It is non-glycosylated, distinguishing it from other family members (Mentrup2017Latest). The protein's structure allows it to accommodate substrates with larger ectodomains due to its shorter N-terminal domain compared to other SPPL proteases (Mentrup2017Latest). In Drosophila, the homologous protein SppL has two isoforms derived from alternative splicing, consisting of 417 and 422 amino acids, suggesting potential splice variants in humans as well (Casso2012Expression).
+
+## Function
+SPPL3 (signal peptide peptidase-like 3) is an intramembrane protease that plays a crucial role in the regulation of protein glycosylation in human cells. It is primarily active in the Golgi apparatus, where it cleaves type II membrane proteins, including glycosidases and glycosyltransferases, facilitating their secretion. This cleavage results in the release of soluble domains of these enzymes, which are typically inactive outside the Golgi due to the absence of necessary substrates (Papadopoulou2020Signaling; Hobohm2022Nterminome).
+
+SPPL3's activity influences the glycosylation status of proteins, with increased expression leading to hypoglycosylation and reduced expression resulting in hyperglycosylation. This regulation is essential for maintaining cellular homeostasis and affects various physiological processes, including cell growth and immune response (Mentrup2017Latest; Mentrup2020Physiological). SPPL3 also plays a role in calcium-dependent signaling by enhancing store-operated calcium entry, which is crucial for T cell receptor signaling and immune function (Mentrup2020Physiological).
+
+The protease is ubiquitously expressed across various tissues, indicating its general role in cellular processes. Its dysregulation can contribute to pathological conditions, such as tumor development and immune system disorders (Papadopoulou2020Signaling; Mentrup2020Physiological).
+
+## Clinical Significance
+Alterations in SPPL3 expression or mutations can have significant clinical implications, particularly in cancer and immune system disorders. SPPL3 is involved in the regulation of protein glycosylation, and changes in its expression can lead to either hypoglycosylation or hyperglycosylation of proteins, affecting cellular growth and function. This dysregulation is linked to conditions such as growth retardation, hematologic abnormalities, and male sterility in SPPL3-deficient mice (Mentrup2017Latest).
+
+In cancer, SPPL3 plays a role in tumor surveillance and immune evasion. Single nucleotide polymorphisms (SNPs) in SPPL3 have been associated with an increased risk of breast cancer (Mentrup2017Latest). In gliomas, high expression of the glycosphingolipid synthesis enzyme B3GNT5, which is negatively regulated by SPPL3, correlates with decreased patient survival. Overexpression of SPPL3 in glioblastoma cells enhances HLA-I accessibility, improving the cells' ability to engage T cells, suggesting that tumors may exploit the SPPL3-B3GNT5 axis to escape immune detection (Jongsma2020The).
+
+SPPL3 is also crucial in melanoma progression, where it activates the protease ADAM10, a key step in the transformation of melanocytes. This process is influenced by BRAF V600E mutations and the tumor suppressor PTEN (Ostalecki2017Multiepitope).
+
+## Interactions
+SPPL3 interacts with several proteins, influencing various cellular processes. It binds to STIM1, a protein involved in calcium signaling, enhancing STIM1's interaction with and activation of the Orai calcium channel. This interaction is crucial for store-operated calcium entry (SOCE) and is independent of SPPL3's catalytic activity (Mentrup2020Physiological).
+
+SPPL3 also interacts with the enzyme B3GNT5, a glycosyltransferase involved in glycosphingolipid (GSL) synthesis. SPPL3 inhibits B3GNT5, thereby modulating the cellular GSL composition. This interaction affects immune responses by altering the accessibility of HLA class I molecules on the cell surface (Jongsma2020The). The interaction between SPPL3 and B3GNT5 is transient, as demonstrated by coimmunoprecipitation experiments (Jongsma2020The).
+
+In tumor cells, SPPL3 influences receptor-ligand interactions, affecting immune cell recognition and response. It modulates the expression of non-sialylated glycosphingolipids (nsGSLs), impacting interactions with immune receptors such as NKG2D and SIRPα (Verkerk2024Tumorexpressed). These interactions highlight SPPL3's role in regulating both adaptive and innate immune responses through its influence on glycosylation and membrane protein interactions.
+
+
+## References
+
+
+[1. (Papadopoulou2020Signaling) Alkmini A. Papadopoulou and Regina Fluhrer. Signaling functions of intramembrane aspartyl-proteases. Frontiers in Cardiovascular Medicine, December 2020. URL: http://dx.doi.org/10.3389/fcvm.2020.591787, doi:10.3389/fcvm.2020.591787. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcvm.2020.591787)
+
+[2. (Casso2012Expression) David J. Casso, Songmei Liu, Brian Biehs, and Thomas B. Kornberg. Expression and characterization of drosophila signal peptide peptidase-like (sppl), a gene that encodes an intramembrane protease. PLoS ONE, 7(3):e33827, March 2012. URL: http://dx.doi.org/10.1371/journal.pone.0033827, doi:10.1371/journal.pone.0033827. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0033827)
+
+[3. (Papadopoulou2022Helical) Alkmini A. Papadopoulou, Walter Stelzer, Mara Silber, Christine Schlosser, Charlotte Spitz, Martina Haug-Kröper, Tobias Straub, Stephan A. Müller, Stefan F. Lichtenthaler, Claudia Muhle-Goll, Dieter Langosch, and Regina Fluhrer. Helical stability of the gntv transmembrane domain impacts on sppl3 dependent cleavage. Scientific Reports, December 2022. URL: http://dx.doi.org/10.1038/s41598-022-24772-8, doi:10.1038/s41598-022-24772-8. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-022-24772-8)
+
+[4. (Mentrup2017Latest) Torben Mentrup, Regina Fluhrer, and Bernd Schröder. Latest emerging functions of spp/sppl intramembrane proteases. European Journal of Cell Biology, 96(5):372–382, August 2017. URL: http://dx.doi.org/10.1016/j.ejcb.2017.03.002, doi:10.1016/j.ejcb.2017.03.002. This article has 38 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ejcb.2017.03.002)
+
+[5. (Ostalecki2017Multiepitope) Christian Ostalecki, Jung-Hyun Lee, Jochen Dindorf, Lena Collenburg, Stephan Schierer, Beate Simon, Stefan Schliep, Elisabeth Kremmer, Gerold Schuler, and Andreas S. Baur. Multiepitope tissue analysis reveals sppl3-mediated adam10 activation as a key step in the transformation of melanocytes. Science Signaling, March 2017. URL: http://dx.doi.org/10.1126/scisignal.aai8288, doi:10.1126/scisignal.aai8288. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1126/scisignal.aai8288)
+
+[6. (Hobohm2022Nterminome) Laura Hobohm, Tomas Koudelka, Fenja H. Bahr, Jule Truberg, Sebastian Kapell, Sarah-Sophie Schacht, Daniel Meisinger, Marion Mengel, Alexander Jochimsen, Anna Hofmann, Lukas Heintz, Andreas Tholey, and Matthias Voss. N-terminome analyses underscore the prevalence of sppl3-mediated intramembrane proteolysis among golgi-resident enzymes and its role in golgi enzyme secretion. Cellular and Molecular Life Sciences, March 2022. URL: http://dx.doi.org/10.1007/s00018-022-04163-y, doi:10.1007/s00018-022-04163-y. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-022-04163-y)
+
+[7. (Mentrup2020Physiological) Torben Mentrup, Florencia Cabrera-Cabrera, Regina Fluhrer, and Bernd Schröder. Physiological functions of spp/sppl intramembrane proteases. Cellular and Molecular Life Sciences, 77(15):2959–2979, February 2020. URL: http://dx.doi.org/10.1007/s00018-020-03470-6, doi:10.1007/s00018-020-03470-6. This article has 27 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-020-03470-6)
+
+8. (Jongsma2020The) The SPPL3-defined glycosphingolipid repertoire regulates immune responses by improving HLA class I access. This article has 1 citations.
+
+9. (Verkerk2024Tumorexpressed) Tumor-expressed SPPL3 supports innate anti-tumor immune responses. This article has 0 citations.

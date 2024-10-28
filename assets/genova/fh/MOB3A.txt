@@ -1,0 +1,37 @@
+# MOB3A
+
+## Overview
+MOB3A is a gene that encodes the MOB kinase activator 3A protein, which is a member of the MOB family of proteins. This protein plays a significant role in the regulation of the Hippo signaling pathway, a critical pathway involved in controlling cell growth, proliferation, and apoptosis. Unlike other MOB proteins, MOB3A does not interact with NDR/LATS kinases but instead modulates the activity of MST1, a kinase involved in apoptotic signaling, by inhibiting its cleavage-based activation (Gundogdu2019MOB). MOB3A is primarily localized in the cytoplasm and nucleus, where it influences cellular processes related to tissue homeostasis and organ size (Elkholi2023Mapping). The protein's interactions and phosphorylation events suggest its involvement in critical cellular signaling pathways, highlighting its potential impact on various diseases, including cancer (tang2014expanding; Gundogdu2019MOB).
+
+## Function
+MOB3A (MOB kinase activator 3A) is a protein involved in the regulation of the Hippo signaling pathway, which is crucial for controlling cell growth, proliferation, and apoptosis. In healthy human cells, MOB3A interacts with MST1, a kinase involved in apoptotic signaling, and modulates its activity. This interaction is thought to inhibit the apoptotic cleavage of MST1, thereby negatively regulating apoptosis (tang2014expanding; Gundogdu2019MOB). 
+
+MOB3A is primarily active in the cytoplasm and nucleus, where it influences cellular processes related to tissue homeostasis and organ size (Elkholi2023Mapping). The protein's role in the Hippo pathway suggests it may act upstream of apoptotic MST1 signaling, potentially competing with other MOB proteins for binding to MST1/2 (Gundogdu2019MOB). 
+
+Phosphorylation events on MOB3A, such as those on Thr15, Thr26, and Ser38, are similar to those of other MOB proteins, indicating that MOB3A might be phosphorylated by MST1/2 in a similar manner, although the specific regulatory roles of these phosphorylation events remain unclear (Gundogdu2019MOB). These interactions and modifications highlight MOB3A's involvement in critical cellular signaling pathways.
+
+## Clinical Significance
+The MOB3A gene has been implicated in various diseases, particularly in cancer. In glioblastoma (GBM), MOB3A is overexpressed, and its high mRNA levels are associated with poor survival outcomes in glioma patients. This overexpression is linked to the gene's role in inhibiting the apoptotic cleavage of MST1, a kinase involved in apoptotic signaling, thereby promoting tumor growth and providing a survival advantage to tumor cells (tang2014expanding). The interaction between MOB3A and MST1 is crucial for the anti-apoptotic properties of MOB3A, which could impact the effectiveness of chemotherapeutic agents (tang2014expanding).
+
+In contrast, in the context of lung cancer, a specific variant of MOB3A, p.F69_I75del, has been identified as a protective allele. This variant is associated with a reduced risk of lung cancer, particularly among males and smokers, suggesting that certain alterations in MOB3A can have protective effects against cancer (Liu2021Rare). These findings highlight the dual role of MOB3A in cancer, acting as a proto-oncogene in some contexts while providing protective effects in others.
+
+## Interactions
+MOB3A, a member of the MOB protein family, participates in various protein interactions that influence cellular processes. It is known to interact with the MST1 kinase, a key component of the Hippo signaling pathway, where it negatively regulates MST1 signaling by inhibiting its cleavage-based activation (Gundogdu2019MOB). Unlike other MOB proteins, MOB3A does not bind to NDR/LATS kinases, highlighting its distinct interaction profile (Gundogdu2019MOB).
+
+In a study using BioID proximity labeling, MOB3A was found to share the protein IMMT, a subunit of the mitochondrial contact site and cristae organizing system (MICOS) complex, with MOB3B. It also shares the calcium transporter ATP2B1 with MOB2, although these interactions were captured at low abundance (Elkholi2023Mapping). MOB3A uniquely interacts with nuclear proteins NOP53 and COIL, which are involved in ribosomal biogenesis and mRNA splicing, respectively (Elkholi2023Mapping).
+
+MOB3A is also implicated in the regulation of the YAP signaling pathway, particularly in the context of osteogenesis in senescent bone marrow stromal cells. It inhibits the Hippo/MST/LATS signaling pathway, which elevates YAP expression, crucial for bypassing oncogene-induced senescence (Qi2023Young). These interactions underscore MOB3A's role in diverse cellular functions and signaling pathways.
+
+
+## References
+
+
+1. (Elkholi2023Mapping) Mapping the MOB proteins’ proximity network reveals a unique interaction between human MOB3C and the RNase P complex. This article has 0 citations.
+
+2. (tang2014expanding) Fengyuan Tang. Expanding the Hippo pathway: hMOB3 modulates apoptotic MST1 signaling and supports tumor growth in glioblastoma. PhD thesis, University_of_Basel, 2014. This article has 0 citations.
+
+3. (Qi2023Young) Young BMSC-derived extracellular vesicles containing lncRNA sponging miR-1843a-5p to regulate Mob3a/YAP axis promote osteogenesis of senescent BMSCs. This article has 0 citations.
+
+[4. (Liu2021Rare) Yanhong Liu, Jun Xia, James McKay, Spiridon Tsavachidis, Xiangjun Xiao, Margaret R. Spitz, Chao Cheng, Jinyoung Byun, Wei Hong, Yafang Li, Dakai Zhu, Zhuoyi Song, Susan M. Rosenberg, Michael E. Scheurer, Farrah Kheradmand, Claudio W. Pikielny, Christine M. Lusk, Ann G. Schwartz, Ignacio I. Wistuba, Michael H. Cho, Edwin K. Silverman, Joan Bailey-Wilson, Susan M. Pinney, Marshall Anderson, Elena Kupert, Colette Gaba, Diptasri Mandal, Ming You, Mariza de Andrade, Ping Yang, Triantafillos Liloglou, Michael P. A. Davies, Jolanta Lissowska, Beata Swiatkowska, David Zaridze, Anush Mukeria, Vladimir Janout, Ivana Holcatova, Dana Mates, Jelena Stojsic, Ghislaine Scelo, Paul Brennan, Geoffrey Liu, John K. Field, Rayjean J. Hung, David C. Christiani, and Christopher I. Amos. Rare deleterious germline variants and risk of lung cancer. npj Precision Oncology, February 2021. URL: http://dx.doi.org/10.1038/s41698-021-00146-7, doi:10.1038/s41698-021-00146-7. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41698-021-00146-7)
+
+[5. (Gundogdu2019MOB) Ramazan Gundogdu and Alexander Hergovich. Mob (mps one binder) proteins in the hippo pathway and cancer. Cells, 8(6):569, June 2019. URL: http://dx.doi.org/10.3390/cells8060569, doi:10.3390/cells8060569. This article has 41 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells8060569)

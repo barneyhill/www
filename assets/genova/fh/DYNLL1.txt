@@ -1,0 +1,60 @@
+# DYNLL1
+
+## Overview
+DYNLL1, or dynein light chain LC8-type 1, is a gene that encodes a small, highly conserved eukaryotic protein involved in a variety of cellular processes. The protein, categorized as a light chain component of the dynein motor complex, plays a critical role in intracellular transport by facilitating the movement of cargo along microtubules. Beyond its function in the dynein complex, DYNLL1 is a multifunctional hub protein that interacts with numerous partners, influencing processes such as DNA repair, cell signaling, and immune cell development. It is particularly significant in the context of DNA double-strand break repair, where it modulates the balance between nonhomologous end joining and homologous recombination pathways. DYNLL1's interactions and regulatory roles are crucial for maintaining genomic stability, and its dysregulation has been implicated in various cancers, highlighting its importance in both normal cellular function and disease (He2018DYNLL1; Berkel2022DYNLL1).
+
+## Structure
+DYNLL1, also known as dynein light chain LC8-type 1, is a small, highly conserved eukaryotic protein consisting of 89 amino acids. It forms a homodimer under physiological conditions, which is essential for its function in binding various protein partners (Rapali2011LC8). The primary structure of DYNLL1 includes motifs that are recognized by its binding partners, often involving a central glutamine residue flanked by threonines or hydrophobic residues (GarcíaMayoral2010Structural).
+
+The secondary structure of DYNLL1 is characterized by five β-strands that form two core β-sheets, flanked by two α-helices on one side. The β3-strand of one subunit pairs with the β2"-strand of the other subunit in an antiparallel mode, stabilized by hydrophobic interactions and side chain hydrogen bonds (Bodor2014DYNLL2).
+
+In terms of tertiary structure, DYNLL1 has a compact, folded dimeric form with parallel binding grooves at the dimerization interface. These grooves recognize short linear motifs in partner proteins, which adopt a β-strand conformation upon binding (Rapali2011LC8).
+
+The quaternary structure of DYNLL1 involves the formation of stable dimer-to-dimer complexes, which is a preferred interaction mode due to the bivalency of the ligands (Bodor2014DYNLL2). DYNLL1 is known to undergo post-translational modifications, such as phosphorylation, which can influence its dimerization and interaction with other proteins (He2018DYNLL1).
+
+## Function
+The DYNLL1 gene encodes the dynein light chain LC8-type 1 protein, which is involved in various cellular functions beyond its role in microtubule motor complexes. DYNLL1 is essential for the assembly of dyneins, motor proteins that facilitate movement along microtubules, and is crucial for the structural integrity of the dynein particle and cargo attachment (King2008DyneinIndependent). It functions as a dimer, with each monomer having specific structural features that allow it to bind target proteins, and its dimerization is regulated by factors such as pH and phosphorylation (King2008DyneinIndependent).
+
+DYNLL1 is also involved in DNA repair processes, particularly in the context of DNA double-strand break (DSB) repair. It influences the choice between error-prone nonhomologous end joining (NHEJ) and error-free homologous recombination (HR) repair pathways, promoting NHEJ and limiting HR (Berkel2022DYNLL1). In BRCA1-deficient cells, DYNLL1 binds to the MRE11 protein to limit DNA end resection, a critical step in HR repair, thus maintaining genomic stability (He2018DYNLL1).
+
+In the immune system, DYNLL1 plays a role in B cell development, particularly in the establishment of B-1a cells and the ongoing development of B-2 cells. It operates in a linear pathway with its transcriptional activator ASCIZ, and its loss leads to defects in B cell development (King2017Dynein).
+
+## Clinical Significance
+Mutations and alterations in the expression of the DYNLL1 gene have been implicated in various cancers, particularly in the context of DNA repair mechanisms. In BRCA1-deficient cells, DYNLL1 plays a crucial role in limiting DNA end resection, a process essential for homologous recombination (HR) repair. Loss of DYNLL1 in these cells can restore HR, leading to resistance to platinum drugs and poly(ADP-ribose) polymerase (PARP) inhibitors, which are used in treating high-grade serous ovarian carcinoma (HGSOC) (He2018DYNLL1; Becker2018The). 
+
+In esophageal squamous cell carcinoma (ESCC), DYNLL1 is involved in modulating apoptotic signaling. The DLEU1/DYNLL1 axis prevents DYNLL1 degradation, which is associated with increased levels of the antiapoptotic protein BCL2, contributing to cell survival and resistance to chemotherapy (Li2022DLEU1).
+
+DYNLL1 mis-splicing, associated with SF3B1 mutations, has been linked to genome instability in certain leukemia cell lines. This mis-splicing results in a longer DYNLL1 isoform, which may contribute to DNA damage observed in these cells (Tam2021DYNLL1). These findings highlight the clinical significance of DYNLL1 in cancer progression and treatment resistance.
+
+## Interactions
+DYNLL1, also known as dynein light chain LC8-type 1, is a hub protein that interacts with a variety of other proteins, influencing their functions and cellular processes. It is involved in DNA repair by interacting with DNA end resection factors such as MRE11, RAD50, NBN, DNA2, and BLM. These interactions are crucial for regulating DNA end resection, particularly in BRCA1-deficient cells, where DYNLL1 limits nucleolytic degradation of DNA ends, impacting the sensitivity of these cells to PARP inhibitors (He2018DYNLL1).
+
+DYNLL1 also interacts with the ATM-interacting protein (ATMIN), binding to its C-terminal domain. This interaction involves multiple SQ/TQ motifs and affects the subcellular localization of both proteins, potentially interfering with their functions following DNA damage (Rapali2011LC8).
+
+Additionally, DYNLL1 binds to the large myelin-associated glycoprotein (L-MAG), promoting the dimerization of its cytoplasmic domain. This interaction is significant for myelin-to-axon signaling and adhesion, with a high-affinity binding characterized by a 2:2 heterotetrameric stoichiometry (Myllykoski2018High‐affinity).
+
+
+## References
+
+
+[1. (He2018DYNLL1) Yizhou Joseph He, Khyati Meghani, Marie-Christine Caron, Chunyu Yang, Daryl A. Ronato, Jie Bian, Anchal Sharma, Jessica Moore, Joshi Niraj, Alexandre Detappe, John G. Doench, Gaelle Legube, David E. Root, Alan D. D’Andrea, Pascal Drané, Subhajyoti De, Panagiotis A. Konstantinopoulos, Jean-Yves Masson, and Dipanjan Chowdhury. Dynll1 binds to mre11 to limit dna end resection in brca1-deficient cells. Nature, 563(7732):522–526, October 2018. URL: http://dx.doi.org/10.1038/s41586-018-0670-5, doi:10.1038/s41586-018-0670-5. This article has 195 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-018-0670-5)
+
+[2. (Berkel2022DYNLL1) Caglar Berkel and Ercan Cacan. Dynll1 transcript abundance decreases during oocyte and follicular growth and is associated with fertility in mice. Genome Instability &amp; Disease, 4(1):38–45, December 2022. URL: http://dx.doi.org/10.1007/s42764-022-00096-9, doi:10.1007/s42764-022-00096-9. This article has 0 citations.](https://doi.org/10.1007/s42764-022-00096-9)
+
+3. (Tam2021DYNLL1) DYNLL1 mis-splicing is associated with replicative genome instability in SF3B1 mutant cells. This article has 1 citations.
+
+[4. (King2017Dynein) Ashleigh King, Lingli Li, David M. Wong, Rui Liu, Rebecca Bamford, Andreas Strasser, David M. Tarlinton, and Jörg Heierhorst. Dynein light chain regulates adaptive and innate b cell development by distinctive genetic mechanisms. PLOS Genetics, 13(9):e1007010, September 2017. URL: http://dx.doi.org/10.1371/journal.pgen.1007010, doi:10.1371/journal.pgen.1007010. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1007010)
+
+[5. (Becker2018The) Jordan R. Becker, Raquel Cuella-Martin, Marco Barazas, Rui Liu, Catarina Oliveira, Antony W. Oliver, Kirstin Bilham, Abbey B. Holt, Andrew N. Blackford, Jörg Heierhorst, Jos Jonkers, Sven Rottenberg, and J. Ross Chapman. The asciz-dynll1 axis promotes 53bp1-dependent non-homologous end joining and parp inhibitor sensitivity. Nature Communications, December 2018. URL: http://dx.doi.org/10.1038/s41467-018-07855-x, doi:10.1038/s41467-018-07855-x. This article has 72 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-07855-x)
+
+[6. (Li2022DLEU1) Qihang Li, Zhiyu Zhang, HongChao Jiang, Jun Hou, Yuhang Chai, Hongxing Nan, Feng Li, and Lianghai Wang. Dleu1 promotes cell survival by preventing dynll1 degradation in esophageal squamous cell carcinoma. Journal of Translational Medicine, May 2022. URL: http://dx.doi.org/10.1186/s12967-022-03449-w, doi:10.1186/s12967-022-03449-w. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-022-03449-w)
+
+[7. (Rapali2011LC8) Péter Rapali, María Flor García-Mayoral, Mónica Martínez-Moreno, Krisztián Tárnok, Katalin Schlett, Juan Pablo Albar, Marta Bruix, László Nyitray, and Ignacio Rodriguez-Crespo. Lc8 dynein light chain (dynll1) binds to the c-terminal domain of atm-interacting protein (atmin/asciz) and regulates its subcellular localization. Biochemical and Biophysical Research Communications, 414(3):493–498, October 2011. URL: http://dx.doi.org/10.1016/j.bbrc.2011.09.093, doi:10.1016/j.bbrc.2011.09.093. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2011.09.093)
+
+[8. (King2008DyneinIndependent) Stephen M. King. Dynein-independent functions of dynll1/lc8: redox state sensing and transcriptional control. Science Signaling, November 2008. URL: http://dx.doi.org/10.1126/scisignal.147pe51, doi:10.1126/scisignal.147pe51. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1126/scisignal.147pe51)
+
+[9. (Myllykoski2018High‐affinity) Matti Myllykoski, Maria A. Eichel, Ramona B. Jung, Sørge Kelm, Hauke B. Werner, and Petri Kursula. High‐affinity heterotetramer formation between the large myelin‐associated glycoprotein and the dynein light chain<scp>dynll</scp>1. Journal of Neurochemistry, 147(6):764–783, November 2018. URL: http://dx.doi.org/10.1111/jnc.14598, doi:10.1111/jnc.14598. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/jnc.14598)
+
+[10. (Bodor2014DYNLL2) Andrea Bodor, László Radnai, Csaba Hetényi, Péter Rapali, András Láng, Katalin E. Kövér, András Perczel, Weixiao Y. Wahlgren, Gergely Katona, and László Nyitray. Dynll2 dynein light chain binds to an extended linear motif of myosin 5a tail that has structural plasticity. Biochemistry, 53(45):7107–7122, November 2014. URL: http://dx.doi.org/10.1021/bi500574z, doi:10.1021/bi500574z. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/bi500574z)
+
+[11. (GarcíaMayoral2010Structural) María Flor García-Mayoral, I. Rodríguez-Crespo, and M. Bruix. Structural models of dynll1 with interacting partners: african swine fever virus protein p54 and postsynaptic scaffolding protein gephyrin. FEBS Letters, 585(1):53–57, November 2010. URL: http://dx.doi.org/10.1016/j.febslet.2010.11.027, doi:10.1016/j.febslet.2010.11.027. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.febslet.2010.11.027)

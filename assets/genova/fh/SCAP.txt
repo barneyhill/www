@@ -1,0 +1,58 @@
+# SCAP
+
+## Overview
+SCAP (SREBF chaperone) is a gene that encodes the SREBP cleavage-activating protein, a polytopic membrane protein integral to cholesterol homeostasis and lipid metabolism. The SCAP protein functions as a chaperone, facilitating the transport of sterol regulatory element-binding proteins (SREBPs) from the endoplasmic reticulum (ER) to the Golgi apparatus, where they undergo proteolytic activation. This process is essential for the regulation of genes involved in cholesterol and fatty acid synthesis. SCAP contains a sterol-sensing domain that allows it to respond to intracellular cholesterol levels, thereby playing a crucial role in maintaining cellular lipid balance. The protein's interactions with insulin-induced gene (INSIG) proteins and its regulation through post-translational modifications underscore its importance in metabolic pathways and its potential implications in various diseases, including cancer and liver disorders (Sun2005Insig; Chandrasekaran2024The; Lee2020The).
+
+## Structure
+SCAP (SREBF chaperone) is a polytopic membrane protein composed of 1276 amino acids with a molecular mass of approximately 140 kDa. It is divided into two main functional regions: the N-terminal transmembrane region and the soluble C-terminal domain. The N-terminal region contains eight transmembrane helices, organized into α-helices separated by hydrophilic loops, with two large loops in the ER lumen and one facing the cytosol (Chandrasekaran2024The; Lee2020The). This region includes a sterol-sensing domain (SSD) crucial for cholesterol interaction, located within transmembrane segments 2-6 (Yang2002Crucial).
+
+The C-terminal domain contains four WD40 repeats, which facilitate binding to SREBPs, forming a stable SCAP/SREBP complex (Chandrasekaran2024The). SCAP's interaction with COPII proteins is mediated by a hexapeptide sequence (MELADL) located in loop 6, which is essential for the transport of SREBPs from the ER to the Golgi apparatus (Sun2005Insig; Lee2020The).
+
+SCAP undergoes post-translational modifications, including glycosylation, which can influence its activity and stability (Nohturfft2000Regulated). The protein can form a homotetramer with its membrane region, contributing to its functional stability (Lee2020The).
+
+## Function
+SCAP (SREBP cleavage-activating protein) is integral to cholesterol homeostasis and lipid metabolism in human cells. It functions as a chaperone for sterol regulatory element-binding proteins (SREBPs), facilitating their transport from the endoplasmic reticulum (ER) to the Golgi apparatus. This transport is crucial for the activation of SREBPs, which are transcription factors that regulate genes involved in cholesterol and fatty acid synthesis (Sun2005Insig; Lee2020The).
+
+SCAP is a sterol-sensing protein that responds to intracellular cholesterol levels. Under low sterol conditions, SCAP undergoes a conformational change that allows the SCAP/SREBP complex to be packaged into COPII-coated vesicles for transport to the Golgi. In the Golgi, SREBPs are cleaved by site-1 and site-2 proteases, releasing their active forms that translocate to the nucleus to activate lipid biosynthesis genes (Shimano2017SREBP-regulated; Chandrasekaran2024The).
+
+When cholesterol levels are high, SCAP binds to insulin-induced gene (INSIG) proteins, retaining the SCAP/SREBP complex in the ER and preventing SREBP activation. This feedback mechanism helps maintain cholesterol balance within the cell (Sun2005Insig; Lee2020The).
+
+## Clinical Significance
+Mutations or alterations in the expression of the SCAP gene have significant clinical implications. In glioblastoma multiforme (GBM), SCAP is crucial for tumor growth as it facilitates the activation of SREBP-1, a transcription factor involved in lipid biosynthesis. Enhanced SCAP expression and glycosylation lead to increased SREBP-1 activation, promoting aggressive tumorigenesis. Knockdown of SCAP in GBM models reduces tumor growth, indicating its potential as a therapeutic target (Cheng2015Glucose-Mediated).
+
+In the context of nonalcoholic steatohepatitis (NASH), SCAP plays a protective role in liver health. Its deletion exacerbates liver injury, fibrosis, and carcinogenesis, suggesting that SCAP is essential for maintaining liver integrity. The SCAP/SREBP pathway is involved in regulating lipid metabolism, and its dysfunction can lead to significant liver pathology (Kawamura2022Inhibiting).
+
+In the brain, SCAP is vital for cholesterol metabolism and neuronal function. Homozygous deletion of SCAP in mice results in perinatal lethality, microcephaly, and gliosis, highlighting its importance in brain development. Reduced SCAP expression in diabetic mice is associated with impaired synaptic transmission and cognitive dysfunction, potentially contributing to neurological complications (Suzuki2013Reduction).
+
+## Interactions
+SCAP (SREBF chaperone) is involved in several critical protein interactions that regulate cholesterol homeostasis. SCAP interacts with SREBPs (Sterol Regulatory Element-Binding Proteins) to facilitate their transport from the endoplasmic reticulum (ER) to the Golgi apparatus. This transport is essential for the activation of genes involved in cholesterol and fatty acid synthesis (Weber2004Maintaining; Kober2021Scap).
+
+SCAP also interacts with Insig proteins, which are integral to its function in cholesterol sensing. When cholesterol levels are high, cholesterol binds to SCAP, causing a conformational change that promotes its interaction with Insig proteins. This interaction retains the SCAP/SREBP complex in the ER, preventing SREBP activation and thus reducing cholesterol synthesis (Kober2021Scap).
+
+Mutations in SCAP can affect its interaction with Insig, as demonstrated by the cScap D435V mutation, which allows SCAP to bind Insig even in the absence of sterols, blocking SREBP2 cleavage (Kober2021Scap). Additionally, glucose-mediated N-glycosylation of SCAP reduces its binding to Insig-1, facilitating SCAP/SREBP trafficking to the Golgi (Cheng2015Glucose-Mediated).
+
+
+## References
+
+
+[1. (Nohturfft2000Regulated) Axel Nohturfft, Daisuke Yabe, Joseph L Goldstein, Michael S Brown, and Peter J Espenshade. Regulated step in cholesterol feedback localized to budding of scap from er membranes. Cell, 102(3):315–323, August 2000. URL: http://dx.doi.org/10.1016/s0092-8674(00)00037-4, doi:10.1016/s0092-8674(00)00037-4. This article has 273 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0092-8674(00)00037-4)
+
+[2. (Kawamura2022Inhibiting) Satoshi Kawamura, Yuki Matsushita, Shigeyuki Kurosaki, Mizuki Tange, Naoto Fujiwara, Yuki Hayata, Yoku Hayakawa, Nobumi Suzuki, Masahiro Hata, Mayo Tsuboi, Takahiro Kishikawa, Hiroto Kinoshita, Takuma Nakatsuka, Masaya Sato, Yotaro Kudo, Yujin Hoshida, Atsushi Umemura, Akiko Eguchi, Tsuneo Ikenoue, Yoshihiro Hirata, Motonari Uesugi, Ryosuke Tateishi, Keisuke Tateishi, Mitsuhiro Fujishiro, Kazuhiko Koike, and Hayato Nakagawa. Inhibiting scap/srebp exacerbates liver injury and carcinogenesis in murine nonalcoholic steatohepatitis. Journal of Clinical Investigation, June 2022. URL: http://dx.doi.org/10.1172/jci151895, doi:10.1172/jci151895. This article has 48 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci151895)
+
+[3. (Lee2020The) Sun Hee Lee, Jae-Ho Lee, and Seung-Soon Im. The cellular function of scap in metabolic signaling. Experimental &amp; Molecular Medicine, 52(5):724–729, May 2020. URL: http://dx.doi.org/10.1038/s12276-020-0430-0, doi:10.1038/s12276-020-0430-0. This article has 53 citations.](https://doi.org/10.1038/s12276-020-0430-0)
+
+[4. (Cheng2015Glucose-Mediated) Chunming Cheng, Peng Ru, Feng Geng, Junfeng Liu, Ji Young Yoo, Xiaoning Wu, Xiang Cheng, Vanessa Euthine, Peng Hu, Jeffrey Yunhua Guo, Etienne Lefai, Balveen Kaur, Axel Nohturfft, Jianjie Ma, Arnab Chakravarti, and Deliang Guo. Glucose-mediated n-glycosylation of scap is essential for srebp-1 activation and tumor growth. Cancer Cell, 28(5):569–581, November 2015. URL: http://dx.doi.org/10.1016/j.ccell.2015.09.021, doi:10.1016/j.ccell.2015.09.021. This article has 247 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.ccell.2015.09.021)
+
+[5. (Sun2005Insig) Li-Ping Sun, Lu Li, Joseph L. Goldstein, and Michael S. Brown. Insig required for sterol-mediated inhibition of scap/srebp binding to copii proteins in vitro*♦. Journal of Biological Chemistry, 280(28):26483–26490, July 2005. URL: http://dx.doi.org/10.1074/jbc.m504041200, doi:10.1074/jbc.m504041200. This article has 306 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m504041200)
+
+[6. (Yang2002Crucial) Tong Yang, Peter J. Espenshade, Michael E. Wright, Daisuke Yabe, Yi Gong, Ruedi Aebersold, Joseph L. Goldstein, and Michael S. Brown. Crucial step in cholesterol homeostasis. Cell, 110(4):489–500, August 2002. URL: http://dx.doi.org/10.1016/s0092-8674(02)00872-3, doi:10.1016/s0092-8674(02)00872-3. This article has 776 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0092-8674(02)00872-3)
+
+[7. (Suzuki2013Reduction) Ryo Suzuki, Heather A. Ferris, Melissa J. Chee, Eleftheria Maratos-Flier, and C. Ronald Kahn. Reduction of the cholesterol sensor scap in the brains of mice causes impaired synaptic transmission and altered cognitive function. PLoS Biology, 11(4):e1001532, April 2013. URL: http://dx.doi.org/10.1371/journal.pbio.1001532, doi:10.1371/journal.pbio.1001532. This article has 56 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.1001532)
+
+[8. (Chandrasekaran2024The) Preethi Chandrasekaran and Ralf Weiskirchen. The role of scap/srebp as central regulators of lipid metabolism in hepatic steatosis. International Journal of Molecular Sciences, 25(2):1109, January 2024. URL: http://dx.doi.org/10.3390/ijms25021109, doi:10.3390/ijms25021109. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25021109)
+
+[9. (Shimano2017SREBP-regulated) Hitoshi Shimano and Ryuichiro Sato. Srebp-regulated lipid metabolism: convergent physiology — divergent pathophysiology. Nature Reviews Endocrinology, 13(12):710–730, August 2017. URL: http://dx.doi.org/10.1038/nrendo.2017.91, doi:10.1038/nrendo.2017.91. This article has 847 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrendo.2017.91)
+
+[10. (Kober2021Scap) Daniel L. Kober, Arun Radhakrishnan, Joseph L. Goldstein, Michael S. Brown, Lindsay D. Clark, Xiao-chen Bai, and Daniel M. Rosenbaum. Scap structures highlight key role for rotation of intertwined luminal loops in cholesterol sensing. Cell, 184(14):3689-3701.e22, July 2021. URL: http://dx.doi.org/10.1016/j.cell.2021.05.019, doi:10.1016/j.cell.2021.05.019. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2021.05.019)
+
+[11. (Weber2004Maintaining) Lutz W. Weber. Maintaining cholesterol homeostasis: sterol regulatory element-binding proteins. World Journal of Gastroenterology, 10(21):3081, 2004. URL: http://dx.doi.org/10.3748/wjg.v10.i21.3081, doi:10.3748/wjg.v10.i21.3081. This article has 216 citations and is from a poor quality or predatory journal.](https://doi.org/10.3748/wjg.v10.i21.3081)

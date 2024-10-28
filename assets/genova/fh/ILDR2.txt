@@ -1,0 +1,49 @@
+# ILDR2
+
+## Overview
+ILDR2, or immunoglobulin-like domain containing receptor 2, is a gene that encodes a transmembrane protein belonging to the immunoglobulin superfamily. This protein, also referred to as ILDR2, functions primarily as a negative regulator of T cell responses, playing a critical role in maintaining immune homeostasis by delivering inhibitory signals to T cells (Podojil2018ILDR2Fc; Hecht2018ILDR2). ILDR2 is expressed in various tissues, including immune-privileged sites and inflamed tissues, and is notably active in lymphoid tissues such as the spleen and tonsils (Huetter2020Characterization). Structurally, the ILDR2 protein comprises a V-type Ig domain, a transmembrane domain, and a long intracellular tail, which facilitate its interactions with T cell receptors and contribute to its function as a coinhibitory molecule (Hecht2018ILDR2). Beyond its immunological roles, ILDR2 is involved in epithelial barrier function by recruiting tricellulin to tricellular tight junctions, although its impact on barrier integrity is less pronounced compared to other members of the angulin family (Higashi2012Analysis).
+
+## Function
+ILDR2 encodes a B7-like protein that functions as a negative regulator of T cell responses, playing a crucial role in immune homeostasis. It is part of the immunoglobulin superfamily and is involved in modulating immune responses by delivering inhibitory signals to T cells. This regulation is essential for maintaining immune balance and preventing excessive immune activation (Podojil2018ILDR2Fc; Hecht2018ILDR2).
+
+ILDR2 is expressed in various tissues, including immune-privileged and inflamed tissues, and is particularly active in lymphoid tissues such as the spleen and tonsils. In these tissues, it is expressed by fibroblastic reticular cells and other stromal cell subsets, suggesting a role in T-cell priming and immune suppression (Huetter2020Characterization).
+
+The protein's structure includes a V-type Ig domain, a transmembrane domain, and a long intracellular tail, which are involved in its interactions with T cell receptors. ILDR2's IgV domain mediates these interactions, contributing to its function as a coinhibitory molecule (Hecht2018ILDR2).
+
+ILDR2 also plays a role in epithelial barrier function by recruiting tricellulin to tricellular tight junctions, although its contribution to barrier function is less significant compared to other angulin family members (Higashi2012Analysis).
+
+## Clinical Significance
+Alterations in the ILDR2 gene have been implicated in various diseases, particularly those affecting the kidneys and metabolic processes. In the context of glomerulopathies, ILDR2 is upregulated in several kidney diseases, including crescentic glomerulonephritis, hypertension-induced glomerular damage, and diabetes. Increased expression of ILDR2 has been observed in patients with minimal change disease (MCD) and focal segmental glomerulosclerosis (FSGS) (Siegerist2024The). Despite these associations, Ildr2 knockout mice do not develop significant proteinuria, suggesting a complex role in kidney disease pathology (Siegerist2024The).
+
+In metabolic disorders, ILDR2 has been identified as a candidate genetic modifier of diabetes susceptibility. Studies in mouse models have shown that alterations in ILDR2 expression can lead to diabetes-related phenotypes, such as hypoinsulinemic hyperglycemia and reduced beta cell mass (millings2017investigating). ILDR2 is also involved in hepatic lipid metabolism, with its knockdown leading to hepatic steatosis, although liver-specific knockout mice did not exhibit this condition, indicating potential off-target effects (millings2017investigating; Millings2018ILDR2). These findings suggest that ILDR2 plays a role in both diabetes and lipid metabolism, although the exact mechanisms remain to be fully elucidated.
+
+## Interactions
+ILDR2 interacts with several proteins, playing a significant role in various cellular processes. It physically binds to the endoplasmic reticulum (ER) chaperone proteins GRP78 and PDIA1. These interactions are crucial for ILDR2's stability and proper folding within the ER. GRP78, a member of the heat shock protein 70 family, helps stabilize ILDR2 by inhibiting its ubiquitin-proteasome degradation, while PDIA1 is involved in disulfide bond formation and isomerization, which are essential for correct protein folding (Watanabe2021ILDR2).
+
+ILDR2 also interacts with splicing factors TRA2A, TRA2B, and SRSF1, suggesting a role in regulating alternative pre-mRNA splicing. These interactions occur in the nucleus, where ILDR2 can influence the splicing of specific genes (Liu2017Angulin).
+
+In the context of immune function, ILDR2 binds to a receptor on T cells, modulating immune responses by suppressing T-cell receptor-stimulated IFNg secretion and T-cell proliferation. This interaction can be disrupted by the immune checkpoint inhibitor BAY 1905254, highlighting ILDR2's potential as a target for immune modulation (Huetter2020Characterization).
+
+ILDR2 also interacts with Claudin-5 in podocytes, indicating its involvement in maintaining tight junctions in kidney cells (Siegerist2024The).
+
+
+## References
+
+
+[1. (Millings2018ILDR2) Elizabeth J. Millings, Maria Caterina De Rosa, Sarah Fleet, Kazuhisa Watanabe, Richard Rausch, Dieter Egli, Gen Li, Charles A. Leduc, Yiying Zhang, Stuart G. Fischer, and Rudolph L. Leibel. Ildr2 has a negligible role in hepatic steatosis. PLOS ONE, 13(5):e0197548, May 2018. URL: http://dx.doi.org/10.1371/journal.pone.0197548, doi:10.1371/journal.pone.0197548. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0197548)
+
+[2. (Podojil2018ILDR2Fc) Joseph R. Podojil, Iris Hecht, Ming-Yi Chiang, Ilan Vaknin, Inbal Barbiro, Amit Novik, Eyal Neria, Galit Rotman, and Stephen D. Miller. Ildr2-fc is a novel regulator of immune homeostasis and inducer of antigen-specific immune tolerance. The Journal of Immunology, 200(6):2013–2024, March 2018. URL: http://dx.doi.org/10.4049/jimmunol.1700326, doi:10.4049/jimmunol.1700326. This article has 17 citations.](https://doi.org/10.4049/jimmunol.1700326)
+
+[3. (Hecht2018ILDR2) Iris Hecht, Amir Toporik, Joseph R. Podojil, Ilan Vaknin, Gady Cojocaru, Anat Oren, Elizabeta Aizman, Spencer C. Liang, Ling Leung, Yosef Dicken, Amit Novik, Nadav Marbach-Bar, Aziza Elmesmari, Clare Tange, Ashley Gilmour, Donna McIntyre, Mariola Kurowska-Stolarska, Kay McNamee, Judith Leitner, Shirley Greenwald, Liat Dassa, Zurit Levine, Peter Steinberger, Richard O. Williams, Stephen D. Miller, Iain B. McInnes, Eyal Neria, and Galit Rotman. Ildr2 is a novel b7-like protein that negatively regulates t cell responses. The Journal of Immunology, 200(6):2025–2037, March 2018. URL: http://dx.doi.org/10.4049/jimmunol.1700325, doi:10.4049/jimmunol.1700325. This article has 27 citations.](https://doi.org/10.4049/jimmunol.1700325)
+
+4. (millings2017investigating) Elizabeth J Millings. Investigating the Role of ILDR2 in Hepatic Lipid Metabolism and Pancreas Islet Function. Columbia University, 2017. This article has 0 citations.
+
+[5. (Liu2017Angulin) Yueyue Liu, Hongyun Nie, Chengcheng Liu, Xiaoyan Zhai, Qing Sang, Yanfei Wang, Deli Shi, Lei Wang, and Zhigang Xu. Angulin proteins ildr1 and ildr2 regulate alternative pre-mrna splicing through binding to splicing factors tra2a, tra2b, or srsf1. Scientific Reports, August 2017. URL: http://dx.doi.org/10.1038/s41598-017-07530-z, doi:10.1038/s41598-017-07530-z. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-07530-z)
+
+[6. (Huetter2020Characterization) Julia Huetter, Uwe Gritzan, Ilona Gutcher, Wolf-Dietrich Doecke, Merlin V. Luetke-Eversloh, Sven Golfier, Helge G. Roider, Anna-Lena Frisk, John Hunter, Andrew Pow, Andrew Drake, Zurit Levine, Ofer Levy, Meir Azulay, Inbal Barbiro, Gady Cojocaru, Ilan Vaknin, Bertolt Kreft, and Lars Roese. Characterization of bay 1905254, an immune checkpoint inhibitor targeting the immunoglobulin-like domain containing receptor 2 (ildr2). Cancer Immunology Research, 8(7):895–911, July 2020. URL: http://dx.doi.org/10.1158/2326-6066.CIR-19-0321, doi:10.1158/2326-6066.cir-19-0321. This article has 9 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1158/2326-6066.CIR-19-0321)
+
+[7. (Higashi2012Analysis) Tomohito Higashi, Shinsaku Tokuda, Shin-ichiro Kitajiri, Sayuri Masuda, Hiroki Nakamura, Yukako Oda, and Mikio Furuse. Analysis of the angulin family consisting of lsr, ildr1 and ildr2: tricellulin recruitment, epithelial barrier function and implication in deafness pathogenesis. Journal of Cell Science, January 2012. URL: http://dx.doi.org/10.1242/jcs.116442, doi:10.1242/jcs.116442. This article has 118 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.116442)
+
+8. (Siegerist2024The) The tricellular junction protein ILDR2 in glomerulopathies: insights and implications. This article has 0 citations.
+
+[9. (Watanabe2021ILDR2) Kazuhisa Watanabe, Kazuhiro Nakayama, Satoshi Ohta, Ayumi Matsumoto, Hidetoshi Tsuda, and Sadahiko Iwamoto. Ildr2 stabilization is regulated by its interaction with grp78. Scientific Reports, April 2021. URL: http://dx.doi.org/10.1038/s41598-021-87884-7, doi:10.1038/s41598-021-87884-7. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-021-87884-7)

@@ -1,0 +1,41 @@
+# TMEM215
+
+## Overview
+TMEM215 is a gene that encodes the transmembrane protein 215, which is involved in several critical cellular processes, particularly within endothelial cells and the nervous system. As a transmembrane protein, TMEM215 plays a significant role in endothelial cell survival and angiogenesis, contributing to the formation and stabilization of blood vessels (Liu2018Transmembrane). It is also expressed in specific subpopulations of bipolar interneurons in the retina, indicating its involvement in neural development and function (Park2017Gsg1). Beyond its physiological roles, TMEM215 has been implicated in various clinical conditions, including cancer and peripheral neuropathy, highlighting its potential as a biomarker and therapeutic target (Uittenboogaard2022Pharmacogenomics; Sarver2015Identification). Despite its recognized importance, the detailed mechanisms of TMEM215's interactions and functions remain an active area of research.
+
+## Function
+TMEM215 is a transmembrane protein involved in various cellular processes, particularly in the context of endothelial cells and angiogenesis. It plays a crucial role in maintaining endothelial cell survival, which is essential for angiogenesis, the process of forming new blood vessels. Knockdown of TMEM215 in endothelial cells leads to increased apoptosis and necrosis, indicating its importance in cell survival (Liu2018Transmembrane). TMEM215 is expressed in mature retinal vasculature and endothelial cells that have formed vessel lumens, suggesting its involvement in late-angiogenic stages such as vessel remodeling and stabilization (Liu2018Transmembrane).
+
+In the mouse retina, TMEM215 marks subpopulations of bipolar interneurons, specifically in cone bipolar cells, but not in rod bipolar cells. It is expressed in various subtypes of cone bipolar cells, including types 3a cone OFF and types 5, 6, and 7 cone ON bipolars (Park2017Gsg1). TMEM215 expression overlaps with several markers used to identify specific bipolar cell subtypes, indicating its role in marking or promoting bipolar cell development (Park2017Gsg1). The protein's expression in neural stem cells and other tissues suggests potential roles beyond angiogenesis, although its specific functions in healthy human cells remain less characterized (Liu2018Transmembrane).
+
+## Clinical Significance
+TMEM215 has been implicated in several clinical conditions through its altered expression or genetic variations. In epithelioid sarcoma, TMEM215 is significantly upregulated, suggesting a role in tumor progression through mechanisms such as increased cell migration, proliferation, and angiogenesis (Sarver2015Identification). This upregulation highlights its potential as a biomarker and therapeutic target in this sarcoma subtype.
+
+In the context of vincristine-induced peripheral neuropathy (VIPN) in pediatric cancer patients, single-nucleotide polymorphisms (SNPs) in TMEM215 have been associated with an increased risk of developing this condition. The SNP rs4463516 in TMEM215 showed a significant association with VIPN, indicating that genetic variations in this gene may contribute to susceptibility to nerve damage caused by vincristine treatment (Uittenboogaard2022Pharmacogenomics).
+
+TMEM215 is also upregulated in follicular variant papillary thyroid carcinoma (FVPTC), distinguishing it from normal tissues and suggesting a role in the less aggressive nature of FVPTC compared to conventional papillary thyroid carcinoma (Jing2020Identification). These findings underscore the gene's potential involvement in various pathological processes.
+
+## Interactions
+TMEM215 has been identified in several studies as a protein involved in various cellular processes, although specific physical interactions with other proteins or nucleic acids are not extensively detailed in the available literature. The MSCA (spectral comparison algorithm) study identified TMEM215 as interacting with human proteins MAGI1 and SCRIB, with a similarity measure greater than 0.7, suggesting potential protein-protein interactions (Arenas2015MSCA:). However, the exact nature of these interactions, whether they are direct or part of larger protein complexes, is not specified.
+
+In the context of cardiovascular diseases, TMEM215 is associated with mitochondria-associated endoplasmic reticulum membranes (MAMs), where it plays a role in inhibiting BIK-regulated ER-to-mitochondria Ca2+ inward flow, thus preventing endothelial cell apoptosis (Ding2024Mitochondriaassociated). This suggests a functional interaction with the BIK protein, although the physical interaction details are not provided.
+
+While TMEM215's role in endothelial cell survival and angiogenesis is highlighted, specific protein interactions are not detailed in the studies focusing on its function in these processes (Liu2018Transmembrane). Therefore, while TMEM215 is implicated in various cellular functions, detailed descriptions of its physical interactions remain limited.
+
+
+## References
+
+
+[1. (Uittenboogaard2022Pharmacogenomics) Aniek Uittenboogaard, Céline L. G. Neutel, Johannes C. F. Ket, Festus Njuguna, Alwin D. R. Huitema, Gertjan J. L. Kaspers, and Mirjam E. van de Velde. Pharmacogenomics of vincristine-induced peripheral neuropathy in children with cancer: a systematic review and meta-analysis. Cancers, 14(3):612, January 2022. URL: http://dx.doi.org/10.3390/cancers14030612, doi:10.3390/cancers14030612. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers14030612)
+
+[2. (Jing2020Identification) Lanyu Jing, Fada Xia, Xin Du, Bo Jiang, Yong Chen, and Xinying Li. Identification of key candidate genes and pathways in follicular variant papillary thyroid carcinoma by integrated bioinformatical analysis. Translational Cancer Research, 9(2):477–490, February 2020. URL: http://dx.doi.org/10.21037/tcr.2019.11.38, doi:10.21037/tcr.2019.11.38. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.21037/tcr.2019.11.38)
+
+[3. (Liu2018Transmembrane) Yuan Liu, Qijun Zheng, Guangbin He, Mei Zhang, Xianchun Yan, Ziyan Yang, Peiran Zhang, Lili Wang, Jiankang Liu, Liang Liang, and Hua Han. Transmembrane protein 215 promotes angiogenesis by maintaining endothelial cell survival. Journal of Cellular Physiology, 234(6):9525–9534, October 2018. URL: http://dx.doi.org/10.1002/jcp.27641, doi:10.1002/jcp.27641. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcp.27641)
+
+[4. (Arenas2015MSCA:) Ailan F Arenas, Gladys E Salcedo, Andrey M Montoya, and Jorge E Gomez-Marin. Msca: a spectral comparison algorithm between time series to identify protein-protein interactions. BMC Bioinformatics, May 2015. URL: http://dx.doi.org/10.1186/s12859-015-0599-8, doi:10.1186/s12859-015-0599-8. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12859-015-0599-8)
+
+[5. (Park2017Gsg1) Ko Uoon Park, Grace Randazzo, Kenneth L. Jones, and Joseph A. Brzezinski. Gsg1, trnp1, and tmem215 mark subpopulations of bipolar interneurons in the mouse retina. Investigative Opthalmology &amp; Visual Science, 58(2):1137, February 2017. URL: http://dx.doi.org/10.1167/iovs.16-19767, doi:10.1167/iovs.16-19767. This article has 13 citations.](https://doi.org/10.1167/iovs.16-19767)
+
+[6. (Sarver2015Identification) Anne E Sarver, Aaron L Sarver, Venugopal Thayanithy, and Subbaya Subramanian. Identification, by systematic rna sequencing, of novel candidate biomarkers and therapeutic targets in human soft tissue tumors. Laboratory Investigation, 95(9):1077–1088, September 2015. URL: http://dx.doi.org/10.1038/labinvest.2015.80, doi:10.1038/labinvest.2015.80. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/labinvest.2015.80)
+
+[7. (Ding2024Mitochondriaassociated) Yanqiu Ding, Nanyang Liu, Dawu Zhang, Lijun Guo, Qinghua Shang, Yicheng Liu, Gaocan Ren, and Xiaochang Ma. Mitochondria-associated endoplasmic reticulum membranes as a therapeutic target for cardiovascular diseases. Frontiers in Pharmacology, April 2024. URL: http://dx.doi.org/10.3389/fphar.2024.1398381, doi:10.3389/fphar.2024.1398381. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2024.1398381)

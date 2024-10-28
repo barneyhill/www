@@ -1,0 +1,39 @@
+# EDEM3
+
+## Overview
+EDEM3 is a gene that encodes the ER degradation enhancing alpha-mannosidase-like protein 3, a crucial enzyme in the endoplasmic reticulum-associated degradation (ERAD) pathway. This protein is categorized as an α1,2-mannosidase and is part of the glycosyl hydrolase 47 (GH47) family. It plays a significant role in protein quality control by trimming mannose residues from misfolded glycoproteins, thereby marking them for degradation. This process is essential for maintaining cellular homeostasis and preventing the accumulation of potentially harmful misfolded proteins. EDEM3's activity is characterized by its ability to convert M8B oligosaccharides to M7A, M6, and M5, a critical step in the degradation pathway. The protein's function is enhanced by interactions with other ERAD components, such as ERp46, which facilitates necessary disulfide bond formation (Scott2022Prosurvival; George2021Purified; Patel2020Oxidoreductases).
+
+## Structure
+EDEM3 is a glycoprotein involved in the ER-associated degradation (ERAD) pathway, characterized by its α1,2-mannosidase activity. It belongs to the glycosyl hydrolase 47 (GH47) family and contains a mannosidase homology domain (MHD) (George2021Purified; SłomińskaWojewódzka2015The). The protein is glycosylated at several asparagine residues, including Asn118, Asn195, Asn504, Asn511, Asn810, Asn814, and Asn900, which are common post-translational modifications that may influence its function and stability (SłomińskaWojewódzka2015The).
+
+The molecular structure of EDEM3 involves crucial disulfide bonds, particularly between C82 and C441, which are essential for its α1,2-mannosidase activity. These disulfide bonds are facilitated by coexpression with ERp46, although EDEM3 can exhibit its activity independently once correctly folded (George2021Purified). The protein's activity is significant in the mannose trimming process, converting M8B to M7A, M6, and M5, which is vital for signaling glycoproteins to the ERAD pathway (George2021Purified).
+
+EDEM3's interactions with other ERAD components, such as SEL1L, are weaker compared to EDEM1 and EDEM2, suggesting a distinct operational mechanism (SłomińskaWojewódzka2015The). The protein's structure and modifications are crucial for its role in glycoprotein processing and degradation.
+
+## Function
+EDEM3 (ER degradation enhancing alpha-mannosidase like protein 3) is a crucial component of the endoplasmic reticulum-associated degradation (ERAD) pathway, which is responsible for maintaining protein quality control within the endoplasmic reticulum (ER) of healthy human cells. EDEM3 functions as an α1,2-mannosidase, trimming mannose residues from misfolded glycoproteins, thereby marking them for degradation. This process is essential for the proper disposal of misfolded proteins, preventing their accumulation and potential cellular stress (Scott2022Prosurvival; George2021Purified).
+
+EDEM3 operates by converting M8B oligosaccharides to M7A, M6, and M5, a critical step in the degradation of misfolded glycoproteins. This activity does not require a partner protein, unlike EDEM2, which needs TXNDC11 for its function (George2021Purified). EDEM3's activity is enhanced by its interaction with ERp46, an oxidoreductase that facilitates disulfide bonding necessary for its function (Patel2020Oxidoreductases).
+
+In the ERAD pathway, EDEM3 plays a significant role in the unfolded protein response (UPR), a cellular mechanism that manages protein folding and degradation under stress conditions. This involvement helps maintain cellular homeostasis by ensuring that misfolded proteins are efficiently targeted for degradation (Scott2022Prosurvival).
+
+## Interactions
+EDEM3 is involved in the endoplasmic reticulum-associated degradation (ERAD) pathway, where it participates in several interactions with other proteins. EDEM3 interacts with the type I membrane glycoprotein SEL1L, which is part of a supramolecular membrane complex containing the E3 ubiquitin ligase HRD1. This complex is crucial for the dislocation and polyubiquitylation of ERAD substrates (Hebert2012Flagging). EDEM3 also associates with the thioredoxin domain-containing protein ERp46, which facilitates the formation of disulfide bonds necessary for EDEM3's proper folding and enzymatic activity (George2021Purified; Shenkman2018Mannosidase).
+
+While EDEM3's interaction with SEL1L is described as very weak, it is suggested that EDEM3 may operate differently from EDEM1 and EDEM2, which have stronger interactions with SEL1L (SłomińskaWojewódzka2015The). EDEM3 does not form a stable complex with TXNDC11, unlike EDEM2, which requires TXNDC11 for its activity (George2021Purified). The interactions of EDEM3 with other proteins in the ERAD pathway are not always mediated through glycan binding domains, indicating the presence of glycan-independent interactions (SłomińskaWojewódzka2015The). There is no evidence of EDEM3 interacting with nucleic acids.
+
+
+## References
+
+
+[1. (George2021Purified) Ginto George, Satoshi Ninagawa, Hirokazu Yagi, Jun-ichi Furukawa, Noritaka Hashii, Akiko Ishii-Watabe, Ying Deng, Kazutoshi Matsushita, Tokiro Ishikawa, Yugoviandi P Mamahit, Yuta Maki, Yasuhiro Kajihara, Koichi Kato, Tetsuya Okada, and Kazutoshi Mori. Purified edem3 or edem1 alone produces determinant oligosaccharide structures from m8b in mammalian glycoprotein erad. eLife, October 2021. URL: http://dx.doi.org/10.7554/elife.70357, doi:10.7554/elife.70357. This article has 13 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.70357)
+
+[2. (SłomińskaWojewódzka2015The) Monika Słomińska-Wojewódzka and Kirsten Sandvig. The role of lectin-carbohydrate interactions in the regulation of er-associated protein degradation. Molecules, 20(6):9816–9846, May 2015. URL: http://dx.doi.org/10.3390/molecules20069816, doi:10.3390/molecules20069816. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/molecules20069816)
+
+[3. (Patel2020Oxidoreductases) Chaitanya Patel, Haddas Saad, Marina Shenkman, and Gerardo Z. Lederkremer. Oxidoreductases in glycoprotein glycosylation, folding, and erad. Cells, 9(9):2138, September 2020. URL: http://dx.doi.org/10.3390/cells9092138, doi:10.3390/cells9092138. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells9092138)
+
+[4. (Shenkman2018Mannosidase) Marina Shenkman, Efrat Ron, Rivka Yehuda, Ron Benyair, Isam Khalaila, and Gerardo Z. Lederkremer. Mannosidase activity of edem1 and edem2 depends on an unfolded state of their glycoprotein substrates. Communications Biology, October 2018. URL: http://dx.doi.org/10.1038/s42003-018-0174-8, doi:10.1038/s42003-018-0174-8. This article has 44 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-018-0174-8)
+
+[5. (Hebert2012Flagging) Daniel N. Hebert and Maurizio Molinari. Flagging and docking: dual roles for n-glycans in protein quality control and cellular proteostasis. Trends in Biochemical Sciences, 37(10):404–410, October 2012. URL: http://dx.doi.org/10.1016/j.tibs.2012.07.005, doi:10.1016/j.tibs.2012.07.005. This article has 75 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tibs.2012.07.005)
+
+6. (Scott2022Prosurvival) Pro-survival factor EDEM3 confers therapy resistance in prostate cancer. This article has 0 citations.

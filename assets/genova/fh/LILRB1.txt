@@ -1,0 +1,54 @@
+# LILRB1
+
+## Overview
+LILRB1, or leukocyte immunoglobulin-like receptor B1, is a gene that encodes a transmembrane receptor protein involved in the regulation of immune responses. The LILRB1 protein is a member of the immunoglobulin superfamily and is primarily expressed on immune cells such as natural killer (NK) cells and certain T cells. It functions as an inhibitory receptor by interacting with major histocompatibility complex (MHC) class I molecules and viral proteins, such as the human cytomegalovirus (HCMV)-encoded UL18. These interactions play a critical role in modulating immune cell activity, particularly by inhibiting NK cell-mediated cytotoxicity. The receptor's structure includes four extracellular immunoglobulin-like domains and a cytoplasmic tail with immunoreceptor tyrosine-based inhibitory motifs (ITIMs), which are essential for its signaling function (Nam2013Crystal; Hu2024MHC1LILRB1). Variations in the LILRB1 gene have been associated with several diseases, including glioma, inflammatory bowel disease, and autoimmune disorders, highlighting its clinical significance in immune regulation and disease pathogenesis (Zou2023Elevated; Sinthuwiwat2022A; Jan2023Rare).
+
+## Structure
+The LILRB1 protein is a member of the immunoglobulin superfamily and is characterized by its complex molecular structure. It contains four extracellular immunoglobulin-like domains (D1-D4), which are crucial for its function as an immune inhibitory receptor. The D1 and D2 domains are primarily responsible for binding to MHC class I molecules, including HLA-A2 and the HCMV-encoded MHC-I homolog UL18, with the D1D2 domains forming a conserved docking orientation with the α3 and β2m domains of MHC-I (Nam2013Crystal; yu2020investigation). The D3 and D4 domains, while not directly involved in ligand binding, serve as a structural scaffold and are arranged at an acute angle (~60°), forming a bent structure similar to natural killer inhibitory receptors (Nam2013Crystal).
+
+The intracellular portion of LILRB1 includes a cytoplasmic tail with four immunoreceptor tyrosine-based inhibitory motifs (ITIMs), which are essential for its inhibitory signaling function (Hu2024MHC1LILRB1). Post-translational modifications, such as N-glycosylation, may influence the protein's binding interactions and stability (yu2020investigation). The structural features of LILRB1, including its domain organization and post-translational modifications, are critical for its role in immune regulation.
+
+## Function
+LILRB1, or leukocyte immunoglobulin-like receptor B1, is a receptor that plays a crucial role in modulating immune responses in healthy human cells. It is primarily expressed on immune cells such as natural killer (NK) cells and some T cells. LILRB1 interacts with various ligands, including classical and non-classical MHC class I molecules, as well as viral proteins like UL18 from human cytomegalovirus (HCMV) (brown2004lilr).
+
+The interaction between LILRB1 and its ligands inhibits the activity of NK cells, which are responsible for lysing cells deficient in MHC class I expression. This inhibition occurs because LILRB1 recognition of MHC class I on target cells prevents CD16-dependent lysis by NK cells, complementing the inhibitory effects of killer cell immunoglobulin-like receptors (KIR) on NK cell activity. LILRB1 may also inhibit the adhesion of NK cells to their targets during the initial recognition process (brown2004lilr).
+
+LILRB1's broad specificity for class I proteins suggests it might bind at conserved sites, although there are subtle differences in how LILRB1 and other receptors like LILRB2 engage MHC class I. The interaction involves specific contact residues, such as residue 184, which is crucial for binding with beta-2 microglobulin (b2m) (brown2004lilr).
+
+## Clinical Significance
+Mutations and alterations in the LILRB1 gene have been implicated in various diseases. In glioma, a type of brain tumor, LILRB1 is overexpressed and associated with poor prognosis. Its expression correlates with tumor immune infiltration and is linked to pathways such as JAK/STAT and chemokine signaling, which promote tumor growth and metastasis (Zou2023Elevated). Hypomethylation of LILRB1 is associated with increased expression and worse outcomes in glioma patients (Zou2023Elevated).
+
+In the context of inflammatory bowel disease (IBD), rare variants in LILRB1, including missense and frameshift mutations, have been identified. These variants may destabilize the protein, affecting immune regulation and contributing to IBD pathogenesis (Jan2023Rare).
+
+LILRB1 is also linked to autoimmune diseases. A specific variant, p.G160E, decreases the phosphorylation of SHP-1, leading to immune dysregulation and conditions such as Graves' disease, Hashimoto's thyroiditis, and systemic lupus erythematosus (Sinthuwiwat2022A). This variant affects the balance of macrophage phenotypes, promoting a pro-inflammatory state (Sinthuwiwat2022A).
+
+In Alzheimer's disease, LILRB1 variants are associated with altered immune responses, suggesting that its activation may increase disease risk (Reddy2022Polygenic).
+
+## Interactions
+LILRB1, a leukocyte immunoglobulin-like receptor, engages in various interactions with proteins, primarily involving major histocompatibility complex (MHC) class I molecules. It binds to classical MHC-I molecules and the human cytomegalovirus (HCMV)-encoded MHC-I homolog UL18, with UL18 exhibiting the highest binding affinity due to extensive contact residues and a larger buried surface area (yu2020investigation). LILRB1's interaction with UL18 is significant in the immune response of natural killer (NK) cells to HCMV, primarily serving an inhibitory role, although it can enhance NK cell killing in certain contexts (yu2020investigation).
+
+LILRB1 also interacts with non-MHC-I ligands such as S100A8 and S100A9, and directly with pathogens like the dengue virus, malaria, and bacteria, although the specific molecules involved are not fully understood (yu2020investigation). The receptor can bind in cis with MHC-I molecules on the same cell surface, potentially transducing inhibitory signals (yu2020investigation).
+
+Polymorphisms in LILRB1 influence its binding to various ligands, including HLA-Cw15, HLA-G, and UL18, affecting immune responses and potentially influencing post-transplant HCMV susceptibility (Yu2018LILRB1). The receptor's interaction with HLA-G is particularly noted for inhibiting NK cell cytotoxicity and contributing to fetal tolerance (yu2020investigation).
+
+
+## References
+
+
+[1. (Zou2023Elevated) Renheng Zou, Xunlong Zhong, Kairong Liang, Cheng Zhi, Danmin Chen, Zhichao Xu, Jingbai Zhang, Degui Liao, Miaoling Lai, Yuhao Weng, Huaidong Peng, Xiao Pang, Yunxiang Ji, Yanbin Ke, Hongri Zhang, Zhaotao Wang, and Yezhong Wang. Elevated lilrb1 expression predicts poor prognosis and is associated with tumor immune infiltration in patients with glioma. BMC Cancer, May 2023. URL: http://dx.doi.org/10.1186/s12885-023-10906-2, doi:10.1186/s12885-023-10906-2. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-023-10906-2)
+
+[2. (Nam2013Crystal) Gol Nam, Yi Shi, Myongchol Ryu, Qihui Wang, Hao Song, Jun Liu, Jinghua Yan, Jianxun Qi, and George F. Gao. Crystal structures of the two membrane-proximal ig-like domains (d3d4) of lilrb1/b2: alternative models for their involvement in peptide-hla binding. Protein &amp; Cell, 4(10):761–770, August 2013. URL: http://dx.doi.org/10.1007/s13238-013-3908-x, doi:10.1007/s13238-013-3908-x. This article has 14 citations.](https://doi.org/10.1007/s13238-013-3908-x)
+
+3. (yu2020investigation) Investigation of an enhancer-based regulation of LILRB1 gene and the differential functions of LILRB1 variants in natural killer cells. This article has 0 citations.
+
+[4. (Yu2018LILRB1) Kang Yu, Chelsea L. Davidson, Agnieszka Wójtowicz, Luiz Lisboa, Ting Wang, Adriana M. Airo, Jean Villard, Jeremie Buratto, Tatyana Sandalova, Adnane Achour, Atul Humar, Katia Boggian, Alexia Cusini, Christian van Delden, Adrian Egli, Oriol Manuel, Nicolas Mueller, Pierre-Yves Bochud, and Deborah N. Burshtyn. Lilrb1 polymorphisms influence posttransplant hcmv susceptibility and ligand interactions. Journal of Clinical Investigation, 128(4):1523–1537, March 2018. URL: http://dx.doi.org/10.1172/jci96174, doi:10.1172/jci96174. This article has 26 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci96174)
+
+[5. (Sinthuwiwat2022A) Thivaratana Sinthuwiwat, Supranee Buranapraditkun, Wuttichart Kamolvisit, Siraprapa Tongkobpetch, Wanna Chetruengchai, Chalurmpon Srichomthong, Adjima Assawapitaksakul, Chureerat Phokaew, Patipark Kueanjinda, Tanapat Palaga, Tadech Boonpiyathad, Kanya Suphapeetiporn, Nattiya Hirankarn, and Vorasuk Shotelersuk. A lilrb1 variant with a decreased ability to phosphorylate shp-1 leads to autoimmune diseases. Scientific Reports, September 2022. URL: http://dx.doi.org/10.1038/s41598-022-19334-x, doi:10.1038/s41598-022-19334-x. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-022-19334-x)
+
+6. (brown2004lilr) D Brown, John Trowsdale, and R Allen. The lilr family: modulators of innate and adaptive immune pathways in health and disease. Tissue antigens, 64(3):215–225, 2004. This article has 382 citations.
+
+7. (Reddy2022Polygenic) Polygenic risk score analysis identifies deleterious protein-coding variants in novel immune pathway genesATP8B4, FCGR1A, andLILRB1that associate with Alzheimer’s disease. This article has 0 citations.
+
+[8. (Hu2024MHC1LILRB1) Ziyi Hu, Qiaodong Zhang, Zehua He, Xiaojian Jia, Wencan Zhang, and Xu Cao. Mhc1/lilrb1 axis as an innate immune checkpoint for cancer therapy. Frontiers in Immunology, June 2024. URL: http://dx.doi.org/10.3389/fimmu.2024.1421092, doi:10.3389/fimmu.2024.1421092. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2024.1421092)
+
+[9. (Jan2023Rare) Rana Mohammed Jan, Huda Husain Al-Numan, Nada Hassan Al-Twaty, Nuha Alrayes, Hadeel A. Alsufyani, Meshari A. Alaifan, Bakr H. Alhussaini, Noor Ahmad Shaik, Zuhier Awan, Yousef Qari, Omar I. Saadah, Babajan Banaganapalli, Mahmoud Hisham Mosli, and Ramu Elango. Rare variant burden analysis from exomes of three consanguineous families reveals lilrb1 and prss3 as potential key proteins in inflammatory bowel disease pathogenesis. Frontiers in Medicine, May 2023. URL: http://dx.doi.org/10.3389/fmed.2023.1164305, doi:10.3389/fmed.2023.1164305. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmed.2023.1164305)

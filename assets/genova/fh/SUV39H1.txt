@@ -1,0 +1,62 @@
+# SUV39H1
+
+## Overview
+SUV39H1 is a gene that encodes the SUV39H1 histone lysine methyltransferase, a key enzyme involved in the epigenetic regulation of gene expression. This protein is categorized as a histone lysine methyltransferase and plays a pivotal role in chromatin organization by catalyzing the methylation of histone H3 at lysine 9 (H3K9), a modification crucial for the formation of heterochromatin and transcriptional repression (Robin2007Posttranslational; Maison2016The). The SUV39H1 protein contains a chromodomain and a SET domain, which are essential for its function in recognizing methylated histones and facilitating methyltransferase activity, respectively (Wang2012Crystal; Melcher2000StructureFunction). Through its interactions with other proteins, such as DNA methyltransferases and heterochromatin protein 1 (HP1), SUV39H1 integrates histone and DNA methylation processes, contributing to the maintenance of genomic stability and regulation of gene expression (Fuks2003The; Maison2016The). Alterations in SUV39H1 expression have been linked to various cancers, highlighting its significance in both normal cellular function and disease states (Chu2020SUV39H1; Saha2021Insight).
+
+## Structure
+The SUV39H1 protein is a histone lysine methyltransferase characterized by its modular structure, which includes a chromodomain at the N-terminus and a SET domain at the C-terminus. The chromodomain, spanning amino acids 44-106, is crucial for recognizing and binding to methylated lysine residues on histone H3, specifically H3K9me2/3. This domain features a conserved SH3-like β-barrel and a long C-terminal helix, forming a partial aromatic cage that is essential for its binding specificity (Wang2012Crystal).
+
+The SET domain, located between amino acids 249 and 412, is vital for the protein's methyltransferase activity, facilitating the di- and tri-methylation of lysine 9 on histone H3. This domain is involved in chromatin interactions and is necessary for the redistribution of chromatin-associated proteins like M31 (HP1β) (Chin2006Catalytic; Melcher2000StructureFunction).
+
+SUV39H1 is a phosphoprotein, with phosphorylation sites in the C-terminal tail, SET domain, and chromodomain, which may regulate its activity and interactions (Melcher2000StructureFunction). The protein functions as a monomer in solution, as indicated by structural studies (Wang2012Crystal).
+
+## Function
+SUV39H1 is a histone lysine methyltransferase that plays a critical role in chromatin organization and gene silencing through its methylation of histone H3 at lysine 9 (H3K9). This modification is essential for the formation of heterochromatin, a tightly packed form of DNA that is crucial for maintaining genomic stability and regulating gene expression (Robin2007Posttranslational; Maison2016The). SUV39H1 is active in the nucleus, where it influences chromatin structure and function, impacting processes such as transcriptional repression and DNA repair (Melcher2000StructureFunction).
+
+The protein contains a chromo domain and a SET domain, both of which are vital for its function. The chromo domain facilitates heterochromatin localization by interacting with HP1 proteins, while the SET domain is involved in modulating chromatin properties and phosphorylation patterns of histone H3 (Melcher2000StructureFunction). SUV39H1 also enhances the sumoylation of HP1α, linking the SUMO pathway to HP1α marking at pericentric heterochromatin, which is important for centromere function and genome stability (Maison2016The).
+
+In healthy human cells, SUV39H1's activity is crucial for proper chromosome segregation and mitotic progression, with its deregulation leading to growth defects and chromosomal instability (Melcher2000StructureFunction).
+
+## Clinical Significance
+Alterations in the expression of the SUV39H1 gene have been implicated in various cancers. In hepatocellular carcinoma (HCC), SUV39H1 is upregulated and associated with aggressive tumor characteristics, promoting cell migration and proliferation. Depletion of SUV39H1 in HCC cells leads to increased autophagy and apoptosis, indicating its role in cancer cell survival (Saha2021Insight). In acute myeloid leukemia (AML), SUV39H1 acts as a tumor suppressor, particularly in MLL-AF9-induced AML. Overexpression of SUV39H1 in these models decreases leukemia stem cell frequency and delays disease progression, while its suppression accelerates leukemia progression (Chu2020SUV39H1).
+
+In colorectal cancer, SUV39H1 mRNA levels are elevated in a subset of patients, although this elevation does not significantly correlate with clinicopathological characteristics or DNA methylation status of certain genes (Kang2007Association). In diffuse large B-cell lymphoma (DLBCL), high SUV39H1 expression is linked to poorer disease-free survival and is associated with immune cell infiltration, suggesting its potential as a target for epigenetic therapy (Zhang2022Clinical).
+
+SUV39H1 also plays a role in radiation-induced senescence, where its downregulation leads to genomic instability and increased expression of satellite transcripts, contributing to senescence-related chromatin changes (Sidler2014SUV39H1).
+
+## Interactions
+SUV39H1, a histone lysine methyltransferase, engages in various interactions with other proteins that are crucial for its role in chromatin modification and gene silencing. It interacts with DNA methyltransferases Dnmt1 and Dnmt3a, both in vitro and in vivo, forming a complex network that links histone and DNA methylation processes. These interactions are specific, as demonstrated by co-immunoprecipitation experiments (Fuks2003The).
+
+SUV39H1 also interacts with heterochromatin protein 1 (HP1), particularly HP1β, which binds to specific regions of Dnmt1 and the PHD-like motif of Dnmt3a. This interaction suggests a functional association that may contribute to epigenetic gene regulation (Fuks2003The). The protein also enhances the sumoylation of HP1α, interacting directly with Ubc9, a SUMO-conjugating enzyme, through a specific domain distinct from its methyltransferase domain (Maison2016The).
+
+In addition, SUV39H1 interacts with the EVI1 oncoprotein, forming a complex with histone methyltransferase activity that enhances transcriptional repression. This interaction occurs through the C-terminus of SUV39H1 and the proximal zinc finger domain of EVI1 (Cattaneo2008EVI1). SUV39H1 also interacts with the HTLV-1 Tax protein, repressing Tax transactivation of the HTLV-1 LTR promoter, which is dependent on SUV39H1's methyltransferase activity (Kamoi2006SUV39H1).
+
+
+## References
+
+
+[1. (Sidler2014SUV39H1) Corinne Sidler, Dongping Li, Bo Wang, Igor Kovalchuk, and Olga Kovalchuk. Suv39h1 downregulation induces deheterochromatinization of satellite regions and senescence after exposure to ionizing radiation. Frontiers in Genetics, November 2014. URL: http://dx.doi.org/10.3389/fgene.2014.00411, doi:10.3389/fgene.2014.00411. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2014.00411)
+
+[2. (Chin2006Catalytic) Hang Gyeong Chin, Debasis Patnaik, Pierre-Olivier Estève, Steven E. Jacobsen, and Sriharsa Pradhan. Catalytic properties and kinetic mechanism of human recombinant lys-9 histone h3 methyltransferase suv39h1: participation of the chromodomain in enzymatic catalysis. Biochemistry, 45(10):3272–3284, February 2006. URL: http://dx.doi.org/10.1021/bi051997r, doi:10.1021/bi051997r. This article has 63 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/bi051997r)
+
+[3. (Kang2007Association) Mi Yeon Kang, Bo Bin Lee, Young‐Ho Kim, Dong Kyoung Chang, Seo Kyu Park, Ho‐Kyung Chun, Sang Yong Song, Joobae Park, and Duk‐Hwan Kim. Association of the suv39h1 histone methyltransferase with the dna methyltransferase 1 at mrna expression level in primary colorectal cancer. International Journal of Cancer, 121(10):2192–2197, July 2007. URL: http://dx.doi.org/10.1002/ijc.22953, doi:10.1002/ijc.22953. This article has 43 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/ijc.22953)
+
+4. (Zhang2022Clinical) Clinical Expression, Prognosis and Immune Infiltration of SUV39H1 in Diffuse Large B-cell Lymphoma. This article has 0 citations.
+
+[5. (Fuks2003The) F. Fuks. The dna methyltransferases associate with hp1 and the suv39h1 histone methyltransferase. Nucleic Acids Research, 31(9):2305–2312, May 2003. URL: http://dx.doi.org/10.1093/nar/gkg332, doi:10.1093/nar/gkg332. This article has 575 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkg332)
+
+[6. (Saha2021Insight) Nirmalya Saha and Andrew G. Muntean. Insight into the multi-faceted role of the suv family of h3k9 methyltransferases in carcinogenesis and cancer progression. Biochimica et Biophysica Acta (BBA) - Reviews on Cancer, 1875(1):188498, January 2021. URL: http://dx.doi.org/10.1016/j.bbcan.2020.188498, doi:10.1016/j.bbcan.2020.188498. This article has 31 citations.](https://doi.org/10.1016/j.bbcan.2020.188498)
+
+[7. (Wang2012Crystal) Tao Wang, Chao Xu, Yanli Liu, Kai Fan, Zhihong Li, Xing Sun, Hui Ouyang, Xuecheng Zhang, Jiahai Zhang, Yanjun Li, Farrell MacKenzie, Jinrong Min, and Xiaoming Tu. Crystal structure of the human suv39h1 chromodomain and its recognition of histone h3k9me2/3. PLoS ONE, 7(12):e52977, December 2012. URL: http://dx.doi.org/10.1371/journal.pone.0052977, doi:10.1371/journal.pone.0052977. This article has 56 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0052977)
+
+[8. (Kamoi2006SUV39H1) Koju Kamoi, Keiyu Yamamoto, Aya Misawa, Ariko Miyake, Takaomi Ishida, Yuetsu Tanaka, Manabu Mochizuki, and Toshiki Watanabe. Suv39h1 interacts with htlv-1 tax and abrogates tax transactivation of htlv-1 ltr. Retrovirology, January 2006. URL: http://dx.doi.org/10.1186/1742-4690-3-5, doi:10.1186/1742-4690-3-5. This article has 31 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1742-4690-3-5)
+
+[9. (Robin2007Posttranslational) Philippe Robin, Lauriane Fritsch, Ophélie Philipot, Fedor Svinarchuk, and Slimane Ait-Si-Ali. Post-translational modifications of histones h3 and h4 associated with the histone methyltransferases suv39h1 and g9a. Genome Biology, December 2007. URL: http://dx.doi.org/10.1186/gb-2007-8-12-r270, doi:10.1186/gb-2007-8-12-r270. This article has 30 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/gb-2007-8-12-r270)
+
+[10. (Cattaneo2008EVI1) Francesca Cattaneo and Giuseppina Nucifora. Evi1 recruits the histone methyltransferase suv39h1 for transcription repression. Journal of Cellular Biochemistry, 105(2):344–352, July 2008. URL: http://dx.doi.org/10.1002/jcb.21869, doi:10.1002/jcb.21869. This article has 48 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcb.21869)
+
+[11. (Chu2020SUV39H1) Yajing Chu, Yangpeng Chen, Huidong Guo, Mengke Li, Bichen Wang, Deyang Shi, Xuelian Cheng, Jinxia Guan, Xiaomin Wang, Chenghai Xue, Tao Cheng, Jun Shi, and Weiping Yuan. Suv39h1 regulates the progression of mll-af9-induced acute myeloid leukemia. Oncogene, 39(50):7239–7252, October 2020. URL: http://dx.doi.org/10.1038/s41388-020-01495-6, doi:10.1038/s41388-020-01495-6. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-020-01495-6)
+
+[12. (Melcher2000StructureFunction) Martin Melcher, Manfred Schmid, Louise Aagaard, Philipp Selenko, Götz Laible, and Thomas Jenuwein. Structure-function analysis of suv39h1 reveals a dominant role in heterochromatin organization, chromosome segregation, and mitotic progression. Molecular and Cellular Biology, 20(10):3728–3741, May 2000. URL: http://dx.doi.org/10.1128/mcb.20.10.3728-3741.2000, doi:10.1128/mcb.20.10.3728-3741.2000. This article has 153 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.20.10.3728-3741.2000)
+
+[13. (Maison2016The) Christèle Maison, Delphine Bailly, Jean-Pierre Quivy, and Geneviève Almouzni. The methyltransferase suv39h1 links the sumo pathway to hp1α marking at pericentric heterochromatin. Nature Communications, July 2016. URL: http://dx.doi.org/10.1038/ncomms12224, doi:10.1038/ncomms12224. This article has 30 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms12224)

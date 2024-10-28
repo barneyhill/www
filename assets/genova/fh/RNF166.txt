@@ -1,0 +1,48 @@
+# RNF166
+
+## Overview
+RNF166 is a gene that encodes the ring finger protein 166, a member of the RING finger protein family characterized by the presence of a C3HC4-type RING domain. This domain is integral to the protein's function as an E3 ubiquitin ligase, facilitating the transfer of ubiquitin to substrate proteins, which is crucial for protein degradation and regulation (Oh2020RINGfinger). The protein also contains a zinc finger C2H2 domain and a C-terminal ubiquitin interaction motif (UIM), which are conserved across species and contribute to its role in ubiquitination processes (Oh2020RINGfinger). RNF166 is involved in various cellular processes, including immune response regulation, T cell activation, and antibacterial autophagy, by interacting with key signaling molecules and adaptor proteins (Chen2015Ring; Heath2016RNF166; Cai2022The). Its clinical significance is underscored by its roles in colorectal cancer progression and neurodegenerative diseases, where it influences pathways such as the Hippo signaling pathway and apoptosis (Oh2020RINGfinger; Li2024RNF166).
+
+## Structure
+The RNF166 protein is characterized by several distinct domains that contribute to its function. It contains an N-terminal C3HC4-type RING domain, which is crucial for its E3 ubiquitin ligase activity. This domain facilitates the transfer of ubiquitin to substrate proteins, a process essential for protein degradation and regulation (Oh2020RINGfinger). The RING domain's importance is highlighted by experiments showing that deletion mutants of this domain exhibit reduced polyubiquitination activity, and specific mutations within the domain can abolish this activity entirely (Oh2020RINGfinger).
+
+In addition to the RING domain, RNF166 includes a zinc finger C2H2 domain and a C-terminal ubiquitin interaction motif (UIM), which are conserved across different species (Oh2020RINGfinger). The UIM is involved in binding ubiquitin, which is critical for the protein's role in ubiquitination processes (Oh2020RINGfinger).
+
+RNF166 is subject to post-translational modifications, such as ubiquitination, which can influence its function and interactions with other proteins (Oh2020RINGfinger). The protein is expressed in various tissues and is found in both the cytoplasm and nucleus of cells, indicating its involvement in multiple cellular processes (Oh2020RINGfinger).
+
+## Function
+RNF166 is a RING finger protein that functions as an E3 ubiquitin ligase, playing a crucial role in various cellular processes, including immune response regulation and autophagy. In the context of immune responses, RNF166 enhances the ubiquitination of TRAF3 and TRAF6, which are key components in the signaling pathways that lead to the production of interferon-β (IFN-β) in response to RNA virus infections. This activity is essential for the activation of antiviral responses, highlighting RNF166's role in modulating immune signaling pathways (Chen2015Ring; Cai2022The).
+
+RNF166 is also involved in the regulation of T cell activation. It acts as a positive regulator by increasing the expression of CD69, a marker of T cell activation, suggesting its involvement in T cell receptor signaling pathways (Cai2022The; Yang2013Experimental).
+
+In antibacterial autophagy, RNF166 facilitates the recruitment of autophagy adaptor proteins such as p62, NDP52, and LC3 to bacteria like Salmonella. This process is crucial for the early stages of bacterial targeting and elimination through autophagy, indicating RNF166's role in cellular defense mechanisms against bacterial infections (Heath2016RNF166).
+
+## Clinical Significance
+RNF166 has been implicated in the progression of colorectal cancer (CRC) and neurodegenerative diseases. In colorectal cancer, RNF166 acts as a tumor promoter by destabilizing poly-ADP-ribosylated angiomotins (Motins), which are regulatory components of the Hippo pathway. This destabilization leads to the activation of the oncogene YAP, contributing to tumor progression. High expression levels of RNF166 in colon adenocarcinoma tissues correlate with poorer patient outcomes, suggesting its potential as a prognostic biomarker and therapeutic target in CRC (Li2024RNF166).
+
+In the context of neurodegeneration, RNF166 has a pro-apoptotic role, particularly in models of Parkinson's disease. It promotes apoptosis by ubiquitinating the X-linked inhibitor of apoptosis protein (XIAP), leading to its degradation and subsequent activation of caspases. This activity is enhanced by the interaction with XIAP-associated factor-1 (XAF-1), which further promotes XIAP ubiquitination. Overexpression of RNF166 accelerates neuronal cell death, while its knockdown reduces apoptosis, indicating its significant role in neurotoxin-induced neurodegeneration (Oh2020RINGfinger).
+
+These findings highlight RNF166's involvement in both cancer progression and neurodegenerative processes, making it a potential target for therapeutic intervention in these conditions.
+
+## Interactions
+RNF166, a RING finger protein, is involved in various protein interactions that play significant roles in immune response and cellular processes. It interacts with TRAF3 and TRAF6, enhancing RNA virus-induced interferon-β (IFN-β) production. These interactions are crucial for the ubiquitination of TRAF3 and TRAF6, which are essential for antiviral signaling pathways (Chen2015Ring).
+
+In the context of antibacterial autophagy, RNF166 interacts with the adaptor protein p62, mediating its ubiquitination. This interaction is specific, as replacing RNF166 with another E3 ligase, KCNRG, does not result in p62 ubiquitination. RNF166's role in this process is further supported by its ability to recruit LC3, p62, and ubiquitin to bacteria, highlighting its importance in autophagic targeting (Heath2016RNF166).
+
+RNF166 also interacts with poly-ADP-ribosylated angiomotins (Motins) in the Hippo signaling pathway, leading to their polyubiquitination and proteasomal degradation. This interaction is mediated through its C-terminal UIM motif, which binds to PARsylated Motins, affecting YAP activation and colorectal cancer progression (Li2024RNF166).
+
+
+## References
+
+
+[1. (Cai2022The) Chunmei Cai, Yan-Dong Tang, Jingbo Zhai, and Chunfu Zheng. The ring finger protein family in health and disease. Signal Transduction and Targeted Therapy, August 2022. URL: http://dx.doi.org/10.1038/s41392-022-01152-2, doi:10.1038/s41392-022-01152-2. This article has 56 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41392-022-01152-2)
+
+[2. (Yang2013Experimental) Ping Yang, Yilu Lu, Xue Jiang, Minhui Li, Chao Li, Huijuan Chen, Kun Zhang, Kejian Pan, Dachang Tao, Sizhong Zhang, and Yongxin Ma. Experimental immunology potential role of ring finger protein 166 (rnf166), a member of an ubiquitin ligase subfamily, involved in regulation of t cell activation. Central European Journal of Immunology, 1:15–22, 2013. URL: http://dx.doi.org/10.5114/ceji.2013.34353, doi:10.5114/ceji.2013.34353. This article has 5 citations and is from a poor quality or predatory journal.](https://doi.org/10.5114/ceji.2013.34353)
+
+[3. (Chen2015Ring) Hai-Wei Chen, Yong-Kang Yang, Hao Xu, Wei-Wei Yang, Zhong-He Zhai, and Dan-Ying Chen. Ring finger protein 166 potentiates rna virus-induced interferon-β production via enhancing the ubiquitination of traf3 and traf6. Scientific Reports, October 2015. URL: http://dx.doi.org/10.1038/srep14770, doi:10.1038/srep14770. This article has 36 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep14770)
+
+[4. (Li2024RNF166) Yun Li, Xiangqian Zhang, Na Liu, Ruijie Liu, Wuming Zhang, Lin Chen, and Yongheng Chen. Rnf166 promotes colorectal cancer progression by recognizing and destabilizing poly-adp-ribosylated angiomotins. Cell Death &amp; Disease, March 2024. URL: http://dx.doi.org/10.1038/s41419-024-06595-9, doi:10.1038/s41419-024-06595-9. This article has 1 citations.](https://doi.org/10.1038/s41419-024-06595-9)
+
+[5. (Oh2020RINGfinger) Chang-Ki Oh, Young Ki Choi, Ih-Yeon Hwang, Yeon Uk Ko, In Kwon Chung, Nuri Yun, and Young J. Oh. Ring-finger protein 166 plays a novel pro-apoptotic role in neurotoxin-induced neurodegeneration via ubiquitination of xiap. Cell Death &amp; Disease, October 2020. URL: http://dx.doi.org/10.1038/s41419-020-03145-x, doi:10.1038/s41419-020-03145-x. This article has 8 citations.](https://doi.org/10.1038/s41419-020-03145-x)
+
+[6. (Heath2016RNF166) Robert J. Heath, Gautam Goel, Leigh A. Baxt, Jason S. Rush, Vishnu Mohanan, Geraldine L.C. Paulus, Vijay Jani, Kara G. Lassen, and Ramnik J. Xavier. Rnf166 determines recruitment of adaptor proteins during antibacterial autophagy. Cell Reports, 17(9):2183–2194, November 2016. URL: http://dx.doi.org/10.1016/j.celrep.2016.11.005, doi:10.1016/j.celrep.2016.11.005. This article has 75 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2016.11.005)

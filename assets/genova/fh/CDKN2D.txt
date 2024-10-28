@@ -1,0 +1,44 @@
+# CDKN2D
+
+## Overview
+The CDKN2D gene, also known as p19INK4d, encodes a protein that functions as a cyclin-dependent kinase inhibitor, specifically targeting CDK4 and CDK6. This protein is a member of the INK4 family and plays a pivotal role in cell cycle regulation by inhibiting the transition from the G1 to S phase, thereby preventing uncontrolled cell proliferation (Wang2014Transcriptional; Zang2015MiR451). The CDKN2D protein is primarily localized in the nucleus, where it forms stable complexes with its target kinases, effectively modulating their activity (Ortega2002Cyclin). While CDKN2D is crucial for maintaining normal cellular functions and DNA repair, it is not classified as a tumor suppressor, as its absence does not inherently lead to tumorigenesis (Zindy2000INK4dDeficient). The gene's involvement in various cellular processes underscores its significance in both normal physiology and disease states, including its potential implications in cancer and neurodegenerative disorders.
+
+## Structure
+
+
+## Function
+The CDKN2D gene, also known as p19INK4d, encodes a protein that is a member of the INK4 family of cyclin-dependent kinase inhibitors. This protein plays a crucial role in regulating the cell cycle by inhibiting CDK4 and CDK6, which prevents the phosphorylation of the retinoblastoma protein (Rb) and halts cell cycle progression from the G1 to S phase (Wang2014Transcriptional; Zang2015MiR451). This regulation is essential for maintaining normal cell proliferation and preventing uncontrolled cell growth. CDKN2D is primarily active in the nucleus, where it interacts with its target kinases (Ortega2002Cyclin).
+
+In healthy human cells, CDKN2D is involved in cell cycle regulation and DNA repair. It competes with D-type cyclins for binding to CDK4/6, thereby controlling the G1/S transition (Kannan2014CDKN2DWDFY2). During genotoxic stress, CDKN2D levels increase, which is necessary for efficient DNA repair. The loss of functional CDKN2D can lead to diminished DNA repair capabilities, potentially resulting in increased gene mutations and chromosomal recombinations (Kannan2014CDKN2DWDFY2). Despite its role in cell cycle regulation, CDKN2D is not considered a tumor suppressor, as its absence does not lead to spontaneous tumor development in mice (Zindy2000INK4dDeficient).
+
+## Clinical Significance
+Mutations and alterations in the CDKN2D gene have been implicated in various diseases, particularly Alzheimer's disease (AD) and high-grade serous ovarian carcinoma (HG-SC). In the context of Alzheimer's disease, elevated expression of CDKN2D is associated with neurofibrillary tangles (NFTs), a hallmark of AD pathology. Neurons with increased CDKN2D expression often exhibit features of senescence and are linked to tau neuropathology, suggesting a role in the progression of AD (Dehkordi2021Profiling).
+
+In high-grade serous ovarian carcinoma, a specific fusion gene involving CDKN2D, known as CDKN2D-WDFY2, has been identified. This fusion gene is recurrent in approximately 20% of HG-SC tumors and is absent in non-cancerous tissues, indicating its specificity to this cancer type. The fusion results in the loss of CDKN2D protein expression and the production of a shortened WDFY2 protein, which may alter the PI3K/AKT signaling pathway, contributing to tumor progression. The presence of this fusion gene suggests its potential as a biomarker for HG-SC and a target for personalized treatment strategies (Kannan2014CDKN2DWDFY2). These findings highlight the clinical significance of CDKN2D alterations in both neurodegenerative and oncogenic processes.
+
+## Interactions
+CDKN2D, also known as p19INK4d, is a cyclin-dependent kinase inhibitor that primarily interacts with CDK4 and CDK6, forming stable complexes that inhibit their kinase activity. This interaction prevents the activation of these CDKs, thereby regulating the G1/S transition of the cell cycle (Engin2012A; Zang2015MiR451). The crystal structure of the CDK6-CDKN2D complex is available, highlighting the stable nature of this interaction (Engin2012A).
+
+CDKN2D also plays a role in DNA repair, with its levels increasing during genotoxic stress, which is necessary for efficient DNA repair processes (Kannan2014CDKN2DWDFY2). In the context of cancer, CDKN2D is involved in the regulation of cell proliferation and differentiation. For instance, in acute promyelocytic leukemia (APL), the PML/RARα fusion protein represses CDKN2D expression, contributing to altered cell proliferation and differentiation blocks. This repression is mediated through direct binding to the CDKN2D promoter (Wang2014Transcriptional).
+
+In pancreatic cancer, CDKN2D expression is regulated by the lncRNA CRNDE, which acts as a sponge for miR-451a, a microRNA that targets CDKN2D. This regulatory axis influences cancer cell proliferation and angiogenesis (Zhu2021LncRNA).
+
+
+## References
+
+
+[1. (Wang2014Transcriptional) Y Wang, W Jin, X Jia, R Luo, Y Tan, X Zhu, X Yang, X Wang, and K Wang. Transcriptional repression of cdkn2d by pml/rarα contributes to the altered proliferation and differentiation block of acute promyelocytic leukemia cells. Cell Death &amp; Disease, 5(10):e1431–e1431, October 2014. URL: http://dx.doi.org/10.1038/cddis.2014.388, doi:10.1038/cddis.2014.388. This article has 31 citations.](https://doi.org/10.1038/cddis.2014.388)
+
+[2. (Zindy2000INK4dDeficient) Frederique Zindy, Jan van Deursen, Gerard Grosveld, Charles J. Sherr, and Martine F. Roussel. Ink4d-deficient mice are fertile despite testicular atrophy. Molecular and Cellular Biology, 20(1):372–378, January 2000. URL: http://dx.doi.org/10.1128/mcb.20.1.372-378.2000, doi:10.1128/mcb.20.1.372-378.2000. This article has 101 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.20.1.372-378.2000)
+
+[3. (Zhu2021LncRNA) Hong-Yan Zhu, Yu-Jie Gao, Yong Wang, Chi Liang, Zi-Xiang Zhang, and Yu Chen. Lncrna crnde promotes the progression and angiogenesis of pancreatic cancer via mir-451a/cdkn2d axis. Translational Oncology, 14(7):101088, July 2021. URL: http://dx.doi.org/10.1016/j.tranon.2021.101088, doi:10.1016/j.tranon.2021.101088. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.tranon.2021.101088)
+
+[4. (Ortega2002Cyclin) Sagrario Ortega, Marcos Malumbres, and Mariano Barbacid. Cyclin d-dependent kinases, ink4 inhibitors and cancer. Biochimica et Biophysica Acta (BBA) - Reviews on Cancer, 1602(1):73–87, March 2002. URL: http://dx.doi.org/10.1016/s0304-419x(02)00037-9, doi:10.1016/s0304-419x(02)00037-9. This article has 202 citations.](https://doi.org/10.1016/s0304-419x(02)00037-9)
+
+[5. (Dehkordi2021Profiling) Shiva Kazempour Dehkordi, Jamie Walker, Eric Sah, Emma Bennett, Farzaneh Atrian, Bess Frost, Benjamin Woost, Rachel E. Bennett, Timothy C. Orr, Yingyue Zhou, Prabhakar S. Andhey, Marco Colonna, Peter H. Sudmant, Peng Xu, Minghui Wang, Bin Zhang, Habil Zare, and Miranda E. Orr. Profiling senescent cells in human brains reveals neurons with cdkn2d/p19 and tau neuropathology. Nature Aging, 1(12):1107–1116, December 2021. URL: http://dx.doi.org/10.1038/s43587-021-00142-3, doi:10.1038/s43587-021-00142-3. This article has 56 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s43587-021-00142-3)
+
+[6. (Kannan2014CDKN2DWDFY2) Kalpana Kannan, Cristian Coarfa, Kimal Rajapakshe, Shannon M. Hawkins, Martin M. Matzuk, Aleksandar Milosavljevic, and Laising Yen. Cdkn2d-wdfy2 is a cancer-specific fusion gene recurrent in high-grade serous ovarian carcinoma. PLoS Genetics, 10(3):e1004216, March 2014. URL: http://dx.doi.org/10.1371/journal.pgen.1004216, doi:10.1371/journal.pgen.1004216. This article has 36 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1004216)
+
+[7. (Zang2015MiR451) Wen-Qiao Zang, Xuan Yang, Tao Wang, Yuan-Yuan Wang, Yu-Wen Du, Xiao-Nan Chen, Min Li, and Guo-Qiang Zhao. Mir-451 inhibits proliferation of esophageal carcinoma cell line ec9706 by targeting cdkn2d and map3k1. World Journal of Gastroenterology, 21(19):5867–5876, May 2015. URL: http://dx.doi.org/10.3748/wjg.v21.i19.5867, doi:10.3748/wjg.v21.i19.5867. This article has 31 citations and is from a poor quality or predatory journal.](https://doi.org/10.3748/wjg.v21.i19.5867)
+
+[8. (Engin2012A) H. Billur Engin, Ozlem Keskin, Ruth Nussinov, and Attila Gursoy. A strategy based on protein–protein interface motifs may help in identifying drug off-targets. Journal of Chemical Information and Modeling, 52(8):2273–2286, July 2012. URL: http://dx.doi.org/10.1021/ci300072q, doi:10.1021/ci300072q. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/ci300072q)

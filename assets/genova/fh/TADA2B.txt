@@ -1,0 +1,41 @@
+# TADA2B
+
+## Overview
+TADA2B is a gene that encodes the protein transcriptional adaptor 2B, which is a vital component of the SAGA (Spt-Ada-Gcn5 acetyltransferase) complex. This protein is categorized as a transcriptional regulator due to its role in histone acetylation and chromatin remodeling, processes essential for transcriptional activation. TADA2B is particularly significant in human embryonic stem cells (hESCs), where it maintains pluripotency and facilitates differentiation into the three germ layers: endoderm, mesoderm, and ectoderm. The protein also plays a crucial role in hematopoiesis by regulating gene expression in hematopoietic stem cells and is involved in cellular responses to DNA damage. Mutations in the TADA2B gene have been linked to various clinical conditions, including hematopoietic deficiencies and potential contributions to oncogenic processes (Naxerova2021Integrated; Haney2022Largescale).
+
+## Function
+TADA2B is a critical component of the SAGA complex, a multi-subunit assembly involved in transcriptional regulation through histone acetylation and chromatin remodeling. In human embryonic stem cells (hESCs), TADA2B plays a dual role in maintaining pluripotency and facilitating differentiation. It is essential for the formation of all three germ layers—endoderm, mesoderm, and ectoderm—during differentiation processes. The loss of TADA2B results in defects in germ layer formation, particularly affecting the down-regulation of the epithelial-like hESC phenotype, as indicated by the failure to down-regulate EpCAM (Naxerova2021Integrated).
+
+TADA2B is also crucial for maintaining the pluripotent state of hESCs by regulating pluripotency markers such as OCT4, NANOG, and LEFTY1. Its loss leads to an accelerated loss of these markers, indicating its role in sustaining pluripotency (Naxerova2021Integrated). Additionally, TADA2B is involved in limiting proliferation and survival, ensuring that damaged cells undergo apoptosis efficiently during early embryonic development (Naxerova2021Integrated).
+
+In the context of hematopoiesis, TADA2B is a novel functional regulator required for normal hematopoiesis, playing a role in suppressing interferon response gene expression in hematopoietic stem cells (Haney2022Largescale).
+
+## Clinical Significance
+Mutations and alterations in the TADA2B gene have been implicated in various clinical conditions. In the context of hematopoiesis, the knockout of TADA2B has been shown to inhibit hematopoietic stem cell (HSC) differentiation, leading to hematopoietic deficiencies. This is associated with an increased expression of interferon response genes and changes in the cell cycle of HSCs, which can result in reduced white and red blood cell counts (Haney2022Largescale). 
+
+In cancer research, TADA2B has been identified as a key player in maintaining the balance between proliferation and differentiation in human embryonic stem cells (hESCs). Its role in controlling pluripotency and differentiation decisions suggests that alterations in TADA2B could contribute to oncogenic processes (Naxerova2021Integrated). 
+
+Additionally, a single nucleotide variant in TADA2B has been suggestively associated with small artery occlusion, a subtype of ischemic stroke, although this finding did not reach statistical significance after correction (Söderholm2016Exome). Changes in TADA2B expression, potentially due to methylation alterations, have also been linked to different subtypes of melanoma, indicating its role in cancer progression (Wang2023A).
+
+## Interactions
+TADA2B is a component of the SAGA (Spt-Ada-Gcn5 acetyltransferase) complex, which plays a crucial role in transcriptional regulation through histone acetylation. Within the SAGA complex, TADA2B interacts with other proteins such as GCN5, ADA3, and SGF29, forming part of the histone acetyltransferase (HAT) module. This module is responsible for acetylating histone H3, particularly at residues K9 and K14, which is essential for chromatin remodeling and transcriptional activation (Helmlinger2017Sharing; Spedale2012ATACking).
+
+TADA2B specifically stimulates the HAT activity of GCN5, enhancing its ability to acetylate nucleosomal templates. This interaction is crucial for the functional specificity of the SAGA complex, distinguishing it from the ATAC complex, where TADA2A replaces TADA2B (Spedale2012ATACking). TADA2B also interacts with the tumor suppressor p53 in response to DNA damage, being recruited to p53 response genes such as CDKN1A/p21, GADD45, and PUMA, indicating a role in stress-induced gene expression (Spedale2012ATACking).
+
+In human embryonic stem cells, TADA2B is part of a gene network involving the SAGA and Mediator complexes, as well as WNT pathway members, which is critical for cell survival and proliferation (Naxerova2021Integrated).
+
+
+## References
+
+
+[1. (Wang2023A) Liuying Wang, Liuchao Zhang, Shuang Li, Lei Cao, Kang Li, and Weiwei Zhao. A novel acetylation-immune subtyping for the identification of a bet inhibitor-sensitive subgroup in melanoma. Pharmaceuticals, 16(7):1037, July 2023. URL: http://dx.doi.org/10.3390/ph16071037, doi:10.3390/ph16071037. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ph16071037)
+
+[2. (Helmlinger2017Sharing) Dominique Helmlinger and László Tora. Sharing the saga. Trends in Biochemical Sciences, 42(11):850–861, November 2017. URL: http://dx.doi.org/10.1016/j.tibs.2017.09.001, doi:10.1016/j.tibs.2017.09.001. This article has 180 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tibs.2017.09.001)
+
+[3. (Söderholm2016Exome) M. Söderholm, P. Almgren, K. Jood, T. M. Stanne, M. Olsson, A. Ilinca, E. Lorentzen, B. Norrving, G. Engström, O. Melander, C. Jern, and A. Lindgren. Exome array analysis of ischaemic stroke: results from a southern swedish study. European Journal of Neurology, 23(12):1722–1728, July 2016. URL: http://dx.doi.org/10.1111/ene.13086, doi:10.1111/ene.13086. This article has 13 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/ene.13086)
+
+[4. (Naxerova2021Integrated) Kamila Naxerova, Bruno Di Stefano, Jessica L. Makofske, Emma V. Watson, Marit A. de Kort, Timothy D. Martin, Mohammed Dezfulian, Dominik Ricken, Eric C. Wooten, Mitzi I. Kuroda, Konrad Hochedlinger, and Stephen J. Elledge. Integrated loss- and gain-of-function screens define a core network governing human embryonic stem cell behavior. Genes &amp; Development, 35(21–22):1527–1547, October 2021. URL: http://dx.doi.org/10.1101/gad.349048.121, doi:10.1101/gad.349048.121. This article has 16 citations.](https://doi.org/10.1101/gad.349048.121)
+
+5. (Haney2022Largescale) Large-scale in vivo CRISPR screens identify SAGA complex members as a key regulators of HSC lineage commitment and aging. This article has 4 citations.
+
+[6. (Spedale2012ATACking) Gianpiero Spedale, H.Th. Marc Timmers, and W.W.M. Pim Pijnappel. Atac-king the complexity of saga during evolution. Genes &amp; Development, 26(6):527–541, March 2012. URL: http://dx.doi.org/10.1101/gad.184705.111, doi:10.1101/gad.184705.111. This article has 158 citations.](https://doi.org/10.1101/gad.184705.111)

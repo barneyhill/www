@@ -1,0 +1,48 @@
+# GPR21
+
+## Overview
+GPR21 is a gene that encodes the G protein-coupled receptor 21, a class-A orphan receptor characterized by its seven-transmembrane (7TM) domain structure. This receptor is notable for its constitutive activity, meaning it can signal in the absence of a known ligand, and it primarily interacts with Gs, Gq, and G15/16 proteins to activate downstream signaling pathways. GPR21 is predominantly expressed in the brain and spleen, suggesting its involvement in both central and peripheral physiological processes. The receptor's structure, including a flexible transmembrane helix 6 (TM6) and a conserved agonist-like motif in its extracellular loop 2 (ECL2), facilitates its high basal activity and interaction with G proteins. GPR21 has been implicated in metabolic disorders such as type 2 diabetes and obesity, where its overexpression is associated with insulin resistance and inflammation. Consequently, GPR21 is considered a potential therapeutic target for these conditions, with research focusing on inverse agonists to modulate its activity (Osborn2012G; Lin2023CryoEM; Leonard2016Regulating).
+
+## Structure
+The GPR21 protein is a class-A orphan G protein-coupled receptor (GPCR) characterized by a canonical seven-transmembrane (7TM) fold typical of this receptor class (Lin2023CryoEM). The protein's structure includes an extracellular loop 2 (ECL2) with a conserved agonist-like motif that contributes to its high basal activity and self-activation (Lin2023CryoEM). This motif occupies the orthosteric pocket, promoting receptor activation even in the absence of a known endogenous agonist or synthetic ligand (Lin2023CryoEM).
+
+GPR21's cytoplasmic end of transmembrane helix 6 (TM6) is noted for its flexibility, allowing the receptor to adopt multiple conformations and facilitating coupling with different G proteins (Lin2023CryoEM). Unlike typical class-A GPCRs, GPR21 does not exhibit significant outward movement of TM6 or repacking of the DRY and NPxxY microswitches when coupling to G proteins, suggesting a distinct active conformation (Lin2023CryoEM).
+
+The receptor's N-terminal region, particularly residue L16, is critical for ligand recognition in a side pocket, which is similar to but distinct from that of GPR52 (Lin2023CryoEM). The study of GPR21's structure provides insights into its self-activation and potential implications for drug discovery (Lin2023CryoEM).
+
+## Function
+GPR21 is a class-A orphan G protein-coupled receptor (GPCR) that is constitutively active, meaning it can signal without a known ligand. It primarily couples with Gs, Gq, and G15/16 proteins to activate adenylate cyclase and mitogen-activated protein kinases (MAPKs), respectively (Gardner2012Gproteincoupled; Lin2023CryoEM). This receptor is widely expressed in various tissues, with the highest levels in the brain and spleen, suggesting a role in both central and peripheral physiological processes (Gardner2012Gproteincoupled).
+
+In healthy cells, GPR21's activity is believed to be tightly regulated, potentially by an endogenous ligand present in serum, which could inhibit its activity and prevent negative effects associated with its overexpression (Leonard2016Regulating). The receptor's constitutive activity is linked to the activation of the Gαq pathway, which can lead to downstream effects such as increased phosphorylation of PKCδ and activation of MAPKs like Erk, p38, and JNK (Leonard2016Regulating). These pathways are involved in various cellular processes, including glucose metabolism and insulin signaling, which are crucial for maintaining energy balance and metabolic health (Kinsella2021GPR21; Leonard2016Regulating).
+
+## Clinical Significance
+Alterations in the expression or function of the GPR21 gene have been implicated in the pathogenesis of metabolic disorders, particularly type 2 diabetes and obesity. GPR21 is a constitutively active orphan G protein-coupled receptor that negatively impacts insulin signaling and glucose metabolism. Overexpression of GPR21 has been associated with increased insulin resistance, as it activates MAPKs such as Erk, p38, and JNK, which are involved in the development of insulin resistance (Leonard2016Regulating). 
+
+In obesity-related conditions, GPR21 expression is elevated, contributing to insulin resistance and inflammation. Studies have shown that GPR21 knockout mice exhibit improved insulin sensitivity and glucose tolerance, suggesting that GPR21 plays a significant role in these metabolic processes (Osborn2012G). The receptor is also involved in macrophage pro-inflammatory activity, which is linked to obesity-induced insulin resistance (GutiérrezRojas2022Glycine; Osborn2012G).
+
+Targeting GPR21 with inverse agonists, such as the compound GRA2, has been shown to improve insulin signaling and glucose uptake, indicating its potential as a therapeutic target for type 2 diabetes (Kinsella2021GPR21; Leonard2016Regulating).
+
+## Interactions
+GPR21 is a class-A orphan G protein-coupled receptor (GPCR) that exhibits high basal activity by coupling with multiple G proteins, including Gs, Gq, and G15/16, without the presence of a known endogenous agonist or synthetic ligand (Lin2023CryoEM). The receptor's interaction with G proteins is facilitated by a flexible cytoplasmic portion of transmembrane helix 6 (TM6), which allows for coupling without the typical outward movement seen in other class-A GPCRs (Lin2023CryoEM). 
+
+The receptor forms complexes with miniGs and miniG15 proteins, as revealed by cryo-electron microscopy (cryo-EM) studies (Lin2023CryoEM). These interactions are crucial for GPR21's ability to activate adenylate cyclase and mitogen-activated protein kinases (MAPKs), which are important for its role in regulating body weight and glucose metabolism (Lin2023CryoEM). 
+
+GPR21's extracellular loop 2 (ECL2) contains an agonist-like motif that occupies the orthosteric pocket, promoting receptor activation and facilitating its interactions with G proteins (Lin2023CryoEM). The receptor's side pocket has been identified as a potential new ligand binding site, which could influence its interaction dynamics (Lin2023CryoEM). 
+
+The receptor's interactions with G proteins are largely conserved, involving transmembrane helices TM3 and TM5-TM7, and resemble the conformation of TM5 in Gs-bound GPR52 and the Gs-bound β2 adrenergic receptor (Lin2023CryoEM). These structural insights into GPR21's interactions with G proteins provide a foundation for understanding its signaling mechanisms and potential as a therapeutic target.
+
+
+## References
+
+
+[1. (Kinsella2021GPR21) Gemma K. Kinsella, Stefania Cannito, Valentina Bordano, John C. Stephens, Arianna C. Rosa, Gianluca Miglio, Valeria Guaschino, Valeria Iannaccone, John B.C. Findlay, and Elisa Benetti. Gpr21 inhibition increases glucose-uptake in hepg2 cells. International Journal of Molecular Sciences, 22(19):10784, October 2021. URL: http://dx.doi.org/10.3390/ijms221910784, doi:10.3390/ijms221910784. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms221910784)
+
+[2. (Osborn2012G) Olivia Osborn, Da Young Oh, Joanne McNelis, Manuel Sanchez-Alavez, Saswata Talukdar, Min Lu, PingPing Li, Lucinda Thiede, Hidetaka Morinaga, Jane J. Kim, Jan Heinrichsdorff, Sarah Nalbandian, Jachelle M. Ofrecio, Miriam Scadeng, Simon Schenk, John Hadcock, Tamas Bartfai, and Jerrold M. Olefsky. G protein–coupled receptor 21 deletion improves insulin sensitivity in diet-induced obese mice. Journal of Clinical Investigation, 122(7):2444–2453, July 2012. URL: http://dx.doi.org/10.1172/jci61953, doi:10.1172/jci61953. This article has 45 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci61953)
+
+[3. (Gardner2012Gproteincoupled) Jonitha Gardner, Sue Wu, Lei Ling, Jean Danao, Yang Li, Wen-Chen Yeh, Hui Tian, and Hélène Baribault. G-protein-coupled receptor gpr21 knockout mice display improved glucose tolerance and increased insulin response. Biochemical and Biophysical Research Communications, 418(1):1–5, February 2012. URL: http://dx.doi.org/10.1016/j.bbrc.2011.11.117, doi:10.1016/j.bbrc.2011.11.117. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2011.11.117)
+
+[4. (GutiérrezRojas2022Glycine) Rocío Alejandra Gutiérrez-Rojas, Karla Aidee Aguayo-Cerón, Cruz Vargas-De-León, Sandra Edith Cabrera-Becerra, Julio Cesar Almanza-Pérez, Fengyang Huang, Santiago Villafaña, and Rodrigo Romero-Nava. Glycine effect on the expression profile of orphan receptors gpr21, gpr26, gpr39, gpr82 and gpr6 in a model of inflammation in 3t3-l1 cells. Life, 12(11):1687, October 2022. URL: http://dx.doi.org/10.3390/life12111687, doi:10.3390/life12111687. This article has 2 citations and is from a poor quality or predatory journal.](https://doi.org/10.3390/life12111687)
+
+[5. (Lin2023CryoEM) Xi Lin, Bo Chen, Yiran Wu, Yingqi Han, Ao Qi, Junyan Wang, Zhao Yang, Xiaohu Wei, Tingting Zhao, Lijie Wu, Xin Xie, Jinpeng Sun, Jie Zheng, Suwen Zhao, and Fei Xu. Cryo-em structures of orphan gpr21 signaling complexes. Nature Communications, January 2023. URL: http://dx.doi.org/10.1038/s41467-023-35882-w, doi:10.1038/s41467-023-35882-w. This article has 10 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-35882-w)
+
+[6. (Leonard2016Regulating) Siobhán Leonard, Gemma K. Kinsella, Elisa Benetti, and John B. C. Findlay. Regulating the effects of gpr21, a novel target for type 2 diabetes. Scientific Reports, May 2016. URL: http://dx.doi.org/10.1038/srep27002, doi:10.1038/srep27002. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep27002)

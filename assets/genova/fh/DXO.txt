@@ -1,0 +1,48 @@
+# DXO
+
+## Overview
+The DXO gene encodes the decapping exoribonuclease protein, a crucial component of RNA metabolism and quality control in human cells. This protein is a member of the DXO/Rai1 family and is characterized by its multifunctional enzymatic activities, including exonuclease, decapping, and pyrophosphohydrolase functions, which are essential for the degradation of improperly capped pre-mRNAs (Jurado2014Structure; Jiao2013A). The DXO protein is primarily active in the nucleus, where it ensures the integrity of the mRNA pool by preventing the accumulation of defective RNAs (Zhai2014mRNA). Structurally, DXO features a conserved active site that accommodates single-stranded RNA and facilitates its catalytic activities (Doamekpor2019A). The protein's unique ability to interact with NAD+-capped RNAs further underscores its specialized role in RNA decay pathways, distinguishing it from other decapping enzymes (Jiao20175′). Dysregulation of DXO has been implicated in various diseases, including cancer, highlighting its clinical significance in maintaining RNA stability and proper gene expression (Lu2019Upregulation).
+
+## Structure
+The DXO protein, a member of the DXO/Rai1 family, plays a crucial role in RNA processing and degradation. Its molecular structure includes a conserved active site that supports multiple catalytic activities, such as exonuclease, decapping, and pyrophosphohydrolase activities (Jurado2014Structure). The active site is located at the bottom of a deep pocket, suitable for accommodating single-stranded RNA (ssRNA) (Jurado2014Structure). DXO shares structural similarities with D-(D/E)XK nucleases, although there is little sequence conservation outside of two shared motifs (Jurado2014Structure).
+
+The protein's structure includes an RNA-binding domain and an exonuclease domain, with six conserved sequence motifs forming the active site (Doamekpor2019A). These motifs are crucial for binding divalent cations necessary for catalysis (Doamekpor2019A). The DXO protein can accommodate various orientations of the 5' modification, allowing it to perform multiple catalytic activities (Doamekpor2019A).
+
+Post-translational modifications, such as phosphorylation, may regulate DXO's activity, and the protein can exist in multiple isoforms due to alternative splicing (Jurado2014Structure). These structural features enable DXO to effectively participate in RNA turnover and regulation.
+
+## Function
+The DXO gene encodes the decapping exoribonuclease protein, which plays a critical role in RNA quality control in healthy human cells. DXO is involved in the surveillance of pre-mRNA 5' end capping, ensuring that only properly capped mRNAs are processed and exported for translation. It possesses multiple enzymatic activities, including pyrophosphohydrolase, decapping, and 5'-to-3' exoribonuclease activities, which allow it to degrade defectively capped pre-mRNAs (Jurado2014Structure; Jiao2013A).
+
+DXO preferentially targets incompletely capped pre-mRNAs, removing the cap structure and generating a 5' end monophosphate, which serves as a substrate for its exonuclease activity, leading to RNA degradation (Jiao2013A). This process prevents defective pre-mRNAs from entering normal RNA-processing pathways, such as splicing and polyadenylation, thereby maintaining mRNA integrity (Jiao2013A).
+
+In the cellular context, DXO is primarily active in the nucleus, where it contributes to the degradation of improperly capped RNAs, preventing their accumulation and ensuring the integrity of the mRNA pool (Zhai2014mRNA). This function is essential for maintaining RNA fidelity and proper gene expression in healthy human cells (Jurado2014Structure).
+
+## Clinical Significance
+The DXO gene, encoding the decapping exoribonuclease, plays a significant role in RNA processing and quality control. Alterations in DXO expression or function have been implicated in various diseases, particularly in cancer. In bladder cancer, DXO is downregulated, which correlates with poor prognosis and shorter survival in patients. This downregulation leads to increased stability of cyclin D1 mRNA, promoting cancer cell proliferation. The interaction between NPL4 and DXO is crucial, as NPL4 upregulation results in DXO degradation, further stabilizing cyclin D1 mRNA and enhancing tumor growth (Lu2019Upregulation).
+
+While specific diseases directly resulting from mutations in the DXO gene are not detailed, the gene's role in RNA metabolism suggests that its dysregulation could potentially contribute to other malignancies or disorders. The DXO gene is involved in degrading miscapped or uncapped RNA, ensuring mRNA 5'-end integrity, which is crucial for maintaining normal cellular functions (Zhou2019An). Disruptions in DXO activity could affect RNA stability and gene expression, potentially leading to cellular dysfunctions or diseases, although specific conditions are not explicitly mentioned in the available literature (Doamekpor2019A).
+
+## Interactions
+The human gene DXO encodes a protein involved in RNA metabolism, specifically in the removal of non-canonical caps from RNA molecules. DXO interacts with NAD+-capped RNAs, facilitating their decay through a process known as deNADding. This interaction is crucial for the stability and turnover of NAD+-capped RNAs, as DXO removes the NAD+ cap, converting the RNA into a form that is more susceptible to exonucleolytic decay (Jiao20175′). 
+
+DXO exhibits a specific interaction with NAD+-capped RNAs, which is not shared by other decapping enzymes like Dcp2, highlighting its unique role in RNA metabolism (Jiao20175′). The enzyme's activity is distinct from traditional decapping of m7G-capped RNAs, as it shows a higher efficiency in removing NAD+ caps (Jiao20175′). 
+
+The structural basis of DXO's interaction with NAD+-capped RNAs has been elucidated through crystal structures, revealing how DXO accommodates the NAD+ cap in its active site, facilitating the deNADding reaction (Jiao20175′). This interaction underscores the regulatory role of DXO in RNA decay pathways, ensuring the proper turnover of NAD+-capped RNAs in human cells.
+
+
+## References
+
+
+[1. (Jiao2013A) Xinfu Jiao, Jeong Ho Chang, Turgay Kilic, Liang Tong, and Megerditch Kiledjian. A mammalian pre-mrna 5′ end capping quality control mechanism and an unexpected link of capping to pre-mrna processing. Molecular Cell, 50(1):104–115, April 2013. URL: http://dx.doi.org/10.1016/j.molcel.2013.02.017, doi:10.1016/j.molcel.2013.02.017. This article has 133 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2013.02.017)
+
+[2. (Lu2019Upregulation) Bao-Sai Lu, Yue-Wei Yin, Yan-Ping Zhang, Ping-Ying Guo, Wei Li, and Kai-Long Liu. Upregulation of npl4 promotes bladder cancer cell proliferation by inhibiting dxo destabilization of cyclin d1 mrna. Cancer Cell International, May 2019. URL: http://dx.doi.org/10.1186/s12935-019-0874-2, doi:10.1186/s12935-019-0874-2. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-019-0874-2)
+
+[3. (Zhai2014mRNA) Li-ting Zhai and Song Xiang. Mrna quality control at the 5’ end. Journal of Zhejiang University SCIENCE B, 15(5):438–443, May 2014. URL: http://dx.doi.org/10.1631/jzus.B1400070, doi:10.1631/jzus.b1400070. This article has 28 citations.](https://doi.org/10.1631/jzus.B1400070)
+
+[4. (Doamekpor2019A) Selom K Doamekpor, Agnieszka Gozdek, Aleksandra Kwasnik, Joanna Kufel, and Liang Tong. A novel 5′-hydroxyl dinucleotide hydrolase activity for the dxo/rai1 family of enzymes. Nucleic Acids Research, 48(1):349–358, November 2019. URL: http://dx.doi.org/10.1093/nar/gkz1107, doi:10.1093/nar/gkz1107. This article has 21 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkz1107)
+
+[5. (Zhou2019An) Danlei Zhou, Michalea Lai, Aiqin Luo, and Chack-Yung Yu. An rna metabolism and surveillance quartet in the major histocompatibility complex. Cells, 8(9):1008, August 2019. URL: http://dx.doi.org/10.3390/cells8091008, doi:10.3390/cells8091008. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells8091008)
+
+[6. (Jurado2014Structure) Ashley R. Jurado, Dazhi Tan, Xinfu Jiao, Megerditch Kiledjian, and Liang Tong. Structure and function of pre-mrna 5′-end capping quality control and 3′-end processing. Biochemistry, 53(12):1882–1898, March 2014. URL: http://dx.doi.org/10.1021/bi401715v, doi:10.1021/bi401715v. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/bi401715v)
+
+[7. (Jiao20175′) Xinfu Jiao, Selom K. Doamekpor, Jeremy G. Bird, Bryce E. Nickels, Liang Tong, Ronald P. Hart, and Megerditch Kiledjian. 5′ end nicotinamide adenine dinucleotide cap in human cells promotes rna decay through dxo-mediated denadding. Cell, 168(6):1015-1027.e10, March 2017. URL: http://dx.doi.org/10.1016/j.cell.2017.02.019, doi:10.1016/j.cell.2017.02.019. This article has 189 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2017.02.019)

@@ -1,0 +1,43 @@
+# IPO4
+
+## Overview
+Importin 4 (IPO4) is a gene that encodes the protein importin-4, a nuclear transport receptor involved in the translocation of proteins into the nucleus. Importin-4 is categorized as a nuclear transport receptor and plays a pivotal role in various cellular processes by facilitating the nuclear import of key proteins, such as histones H3 and H4, which are essential for chromatin assembly during the S phase of the cell cycle (Xu2019Importin‐4). Additionally, importin-4 is involved in the nuclear import of DNA-repair proteins, such as FANCD2, and transition proteins during spermatogenesis, highlighting its importance in DNA repair and chromatin remodeling (Wang2010CCAATenhancer; Major2011Expression). The dysregulation of IPO4 expression has been implicated in various cancers, including cervical cancer and glioma, where it contributes to chemoresistance and tumor progression, respectively (Wu2023Assessing; Zhou2020Inhibiting). These findings underscore the potential of IPO4 as a therapeutic target in oncology.
+
+## Function
+Importin-4 (IPO4) is a nuclear transport receptor that plays a crucial role in the import of proteins into the nucleus, a process essential for various cellular functions. IPO4 is responsible for the nuclear translocation of histones H3 and H4, which are synthesized in the cytoplasm and require import into the nucleus for chromatin assembly. This process is particularly important during the S phase of the cell cycle, where the cell doubles its histone content to package newly replicated DNA (Xu2019Importin‐4).
+
+IPO4 also facilitates the nuclear import of the DNA-repair protein FANCD2, which is crucial for the FA DNA-repair pathway. This function is mediated through its interaction with the transcription factor C/EBPδ, which indirectly associates FANCD2 with IPO4, highlighting its role in the cellular response to DNA damage (Wang2010CCAATenhancer).
+
+In the context of spermatogenesis, IPO4 is involved in importing transition protein 2 (TNP2) into the spermatid nucleus, a critical step in chromatin remodeling during spermiogenesis. This process involves replacing histones with transition proteins and protamines to compact DNA in mature spermatozoa (Major2011Expression).
+
+## Clinical Significance
+Alterations in the expression of the IPO4 gene have been implicated in various cancers, notably cervical cancer and glioma. In cervical cancer, IPO4 is involved in mediating chemoresistance to cisplatin, a common chemotherapy drug. It facilitates the nuclear import of the transcription factor CEBPD, which upregulates PRKDC, a gene associated with DNA damage repair. This pathway contributes to resistance against cisplatin, and higher IPO4 expression is linked to larger tumors, reduced sensitivity to chemotherapy, and poorer prognosis in cervical cancer patients (Zhou2020Inhibiting).
+
+In glioma, IPO4 is overexpressed in tumor tissues compared to normal brain tissues. Silencing IPO4 in glioma cells leads to decreased cell viability and impaired migratory and invasive capacities, suggesting its role in tumor progression. The gene is part of a prognostic signature for glioma, where its high expression is associated with poor survival outcomes. This highlights IPO4 as a potential therapeutic target for glioma treatment (Wu2023Assessing; Wu2024A).
+
+Overall, the dysregulation of IPO4 expression and its interactions with other proteins play a significant role in the development and progression of certain cancers, making it a potential target for therapeutic interventions.
+
+## Interactions
+Importin 4 (IPO4) is involved in several protein interactions that facilitate nuclear import processes. IPO4 physically interacts with the transcription factor CEBPD, enhancing its nuclear transport and stability. This interaction is particularly significant in cervical cancer, where it contributes to chemoresistance by promoting the transcription of PRKDC, a gene involved in DNA damage repair (Zhou2020Inhibiting). The interaction between IPO4 and CEBPD is strengthened by cisplatin treatment, leading to increased nuclear translocation of CEBPD (Zhou2020Inhibiting).
+
+IPO4 also interacts with the DNA-repair protein FANCD2, mediated by CEBPD. This interaction is crucial for the nuclear import of FANCD2, which is essential for the DNA damage response (Wang2010CCAATenhancer). IPO4 does not directly bind to FANCD2 without CEBPD, indicating that CEBPD acts as an adaptor in this process (Wang2010CCAATenhancer).
+
+Additionally, IPO4 interacts with several other proteins, including RPS3A, HGS, HTT, and TCP11L1, through specific nuclear localization signal motifs. These interactions have been analyzed using crystal structures and molecular dynamics simulations to identify the binding sites and sequences involved (Panagiotopoulos2023Corrigendum).
+
+
+## References
+
+
+[1. (Wu2024A) HaoYuan Wu, ZhiHao Yang, ChenXi Chang, ZhiWei Wang, DeRan Zhang, QingGuo Guo, and Bing Zhao. A novel disulfide death-related genes prognostic signature identifies the role of ipo4 in glioma progression. Cancer Cell International, May 2024. URL: http://dx.doi.org/10.1186/s12935-024-03358-6, doi:10.1186/s12935-024-03358-6. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-024-03358-6)
+
+[2. (Major2011Expression) Andrew T. Major, Penny A.F. Whiley, and Kate L. Loveland. Expression of nucleocytoplasmic transport machinery: clues to regulation of spermatogenic development. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1813(9):1668–1688, September 2011. URL: http://dx.doi.org/10.1016/j.bbamcr.2011.03.008, doi:10.1016/j.bbamcr.2011.03.008. This article has 38 citations.](https://doi.org/10.1016/j.bbamcr.2011.03.008)
+
+[3. (Xu2019Importin‐4) Xia Xu, Xinchao Zhang, Huaixin Xing, Zhifang Liu, Jihui Jia, Chunyuan Jin, and Yingjie Zhang. Importin‐4 functions as a driving force in human primary gastric cancer. Journal of Cellular Biochemistry, 120(8):12638–12646, March 2019. URL: http://dx.doi.org/10.1002/jcb.28530, doi:10.1002/jcb.28530. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcb.28530)
+
+[4. (Wang2010CCAATenhancer) Jun Wang, Tapasree Roy Sarkar, Ming Zhou, Shikha Sharan, Daniel A. Ritt, Timothy D. Veenstra, Deborah K. Morrison, A-Mei Huang, and Esta Sterneck. Ccaat/enhancer binding protein delta (c/ebpδ, cebpd)-mediated nuclear import of fancd2 by ipo4 augments cellular response to dna damage. Proceedings of the National Academy of Sciences, 107(37):16131–16136, August 2010. URL: http://dx.doi.org/10.1073/pnas.1002603107, doi:10.1073/pnas.1002603107. This article has 34 citations.](https://doi.org/10.1073/pnas.1002603107)
+
+[5. (Panagiotopoulos2023Corrigendum) Athanasios A. Panagiotopoulos, Konstantina Kalyvianaki, Paraskevi K. Tsodoulou, Maria N. Darivianaki, Dimitris Dellis, George Notas, Vangelis Daskalakis, Panayiotis A. Theodoropoulos, Christos A. Panagiotidis, Elias Castanas, and Marilena Kampa. Corrigendum to “recognition motifs for importin 4 [(l)pprs(g/p)p] and importin 5 [kp(k/y)lv] binding, identified by bio-informatic simulation and experimental in vitro validation” [comput struct biotechnol j 20 (2022) 5952–5961]. Computational and Structural Biotechnology Journal, 22:1, 2023. URL: http://dx.doi.org/10.1016/j.csbj.2022.12.038, doi:10.1016/j.csbj.2022.12.038. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.csbj.2022.12.038)
+
+[6. (Zhou2020Inhibiting) Yang Zhou, Fei Liu, Qinyang Xu, Bikang Yang, Xiao Li, Shuheng Jiang, Lipeng Hu, Xueli Zhang, Lili Zhu, Qing Li, Xiaolu Zhu, Hongfang Shao, Miao Dai, Yifei Shen, Bo Ni, Shuai Wang, Zhigang Zhang, and Yincheng Teng. Inhibiting importin 4-mediated nuclear import of cebpd enhances chemosensitivity by repression of prkdc-driven dna damage repair in cervical cancer. Oncogene, 39(34):5633–5648, July 2020. URL: http://dx.doi.org/10.1038/s41388-020-1384-3, doi:10.1038/s41388-020-1384-3. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-020-1384-3)
+
+7. (Wu2023Assessing) Assessing the Value of Disulfide Death-Associated Genes in the Prognosis and Treatment of Glioma. This article has 0 citations.

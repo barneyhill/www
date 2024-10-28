@@ -1,0 +1,50 @@
+# LSM14A
+
+## Overview
+LSM14A is a gene that encodes the LSM14A mRNA processing body assembly factor, a protein integral to the formation and function of mRNA processing bodies (P-bodies) in human cells. These P-bodies are cytoplasmic organelles involved in mRNA silencing, storage, and decay, playing a crucial role in post-transcriptional regulation of gene expression. The LSM14A protein is characterized by a modular structure, including a conserved LSm domain and unique C-terminal extensions, which facilitate its interactions with other P-body components such as DDX6 and EDC4 (Bloch2023Assembly; Jonas2013The). Unlike canonical LSm proteins, LSM14A does not form ring structures, allowing it to acquire novel functionalities essential for mRNA decapping and translation repression (Jonas2013The). The protein's involvement in cellular stress responses, particularly in the context of genotoxic stress, underscores its role in maintaining mRNA homeostasis and regulating protein synthesis (Mohanan2022RGG). Additionally, alterations in LSM14A expression have been linked to various clinical outcomes, including cancer prognosis and chemoresistance, highlighting its potential as a biomarker in disease contexts (Ta2021Potential; Liu2023Identification).
+
+## Structure
+The LSM14A protein is characterized by a modular architecture that includes a conserved LSm domain and long C-terminal extensions. These extensions contain a central FDF motif within low-complexity regions rich in glycine and charged residues (Jonas2013The). Unlike canonical LSm proteins, which typically form ring structures and have RNA-binding properties, the LSm domains of LSM14A do not form such rings and have acquired novel functionalities (Jonas2013The). The protein's structure allows it to participate in the coordination of decapping with mRNA deadenylation and degradation, facilitated by its disordered regions that contain short linear motifs (SLiMs) for protein interactions (Jonas2013The).
+
+The LSm domain of LSM14A provides a binding surface for the DCP1 HLM motif, allowing specific interactions that are mutually exclusive with EDC3 (Jonas2013The). The protein competes with EDC3 for binding to common partners such as DCP1 and DDX6, assembling into complexes that can repress translation without decapping (Jonas2013The). The LSm14A protein in Japanese medaka shows high sequence conservation across vertebrates, indicating a conserved functional role (Murakami2019Molecular). However, specific details on the secondary, tertiary, or quaternary structures, as well as post-translational modifications, are not provided in the available context.
+
+## Function
+LSM14A is a protein involved in the assembly and regulation of mRNA processing bodies (P-bodies) in human cells. P-bodies are cytoplasmic organelles that play a critical role in mRNA silencing, storage, and decay, contributing to post-transcriptional regulation of gene expression. LSM14A interacts with other P-body components, such as DDX6 and EDC4, to facilitate the formation and stability of these structures (Bloch2023Assembly). The protein is functionally required for the recruitment of certain P-body components, including DCP1a, EDC3, and CCHCR1, to cytoplasmic dots, indicating its role in maintaining P-body integrity (Bloch2023Assembly).
+
+LSM14A is also involved in mRNA translation repression, which is crucial for mRNA silencing and storage. It contributes to the regulation of mRNA pools necessary for various cellular processes, including oocyte meiotic maturation (ZHANG2017RNAassociated). In response to genotoxic stress, LSM14A localizes to stress granules and affects the translation of specific mRNAs involved in DNA damage repair, highlighting its role in cellular stress responses (Mohanan2022RGG). Through these functions, LSM14A plays a significant role in maintaining mRNA homeostasis and regulating protein synthesis in healthy human cells.
+
+## Clinical Significance
+Alterations in the expression of the LSM14A gene have been associated with various clinical outcomes, particularly in cancer. In breast cancer, higher expression levels of LSM14A are linked to poorer survival outcomes, suggesting its potential as a prognostic marker (Ta2021Potential). Similarly, in gastric cancer, elevated LSM14A expression is associated with shorter overall survival in patients undergoing 5-FU chemotherapy, indicating its role in chemoresistance (Liu2023Identification).
+
+LSM14A is also implicated in the regulation of mRNA translation during genotoxic stress. Its knockdown leads to increased translation of mRNAs involved in DNA repair pathways, such as LIG4 and RTEL1, which may affect cellular responses to stress and contribute to disease mechanisms (Mohanan2022RGG).
+
+In the context of RNA metabolism, LSM14A is a core component of P-bodies, and its expression is affected by the depletion of the RNA-binding protein PURA. This depletion results in the downregulation of LSM14A, impacting P-body formation and potentially contributing to conditions like PURA Syndrome, a neurodevelopmental disorder (Molitor2022Depletion). These findings highlight the significance of LSM14A in various pathological conditions through its role in mRNA processing and stress response pathways.
+
+## Interactions
+LSM14A is involved in various protein interactions that are crucial for its role in mRNA processing. It interacts with the LSm domains of EDC3 and DDX6, forming part of the mRNA decapping complex. The LSm domains of EDC3 and LSM14A provide a binding surface for the DCP1 HLM motif, which binds either EDC3 or LSM14A in a mutually exclusive manner. This interaction is characterized by specific structural features, such as the monomeric nature of the LSm domains and the absence or shortening of the N-terminal helix (Jonas2013The).
+
+LSM14A also interacts with the fragile X mental retardation protein (FMRP), with this interaction being influenced by methylation of RGG/RG motifs. Mutations in the methyl-binding pockets of FMRP affect its interaction with LSM14A, suggesting that protein methylation plays a role in mediating this interaction (He2017The).
+
+In response to hydroxyurea-induced genotoxic stress, LSM14A localizes to cytoplasmic puncta in an RGG-motif-dependent manner and regulates the translation of specific mRNAs, such as those encoding DNA damage repair proteins. This regulation is linked to the DNA damage response, highlighting LSM14A's role in managing genotoxic stress (Mohanan2022RGG).
+
+
+## References
+
+
+[1. (ZHANG2017RNAassociated) Teng ZHANG, Yuanyuan LI, Hui LI, Xue-Shan MA, Ying-Chun OUYANG, Yi HOU, Heide SCHATTEN, and Qing-Yuan SUN. Rna-associated protein lsm family member 14 controls oocyte meiotic maturation through regulating mrna pools. Journal of Reproduction and Development, 63(4):383–388, 2017. URL: http://dx.doi.org/10.1262/jrd.2017-018, doi:10.1262/jrd.2017-018. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1262/jrd.2017-018)
+
+2. (Mohanan2022RGG) RGG motif-containing Scd6/LSM14A proteins regulate the translation of specific mRNAs in response to hydroxyurea-induced genotoxic stress. This article has 0 citations.
+
+[3. (Jonas2013The) Stefanie Jonas and Elisa Izaurralde. The role of disordered protein regions in the assembly of decapping complexes and rnp granules. Genes &amp; Development, 27(24):2628–2641, December 2013. URL: http://dx.doi.org/10.1101/gad.227843.113, doi:10.1101/gad.227843.113. This article has 172 citations.](https://doi.org/10.1101/gad.227843.113)
+
+[4. (Murakami2019Molecular) Shiori Murakami, Natsuki Morimoto, Tomoya Kono, Masahiro Sakai, and Jun-ichi Hikima. Molecular characterization and expression of the teleost cytosolic dna sensor genes cgas, lsm14a, dhx9, and dhx36 in japanese medaka, oryzias latipes. Developmental &amp; Comparative Immunology, 99:103402, October 2019. URL: http://dx.doi.org/10.1016/j.dci.2019.103402, doi:10.1016/j.dci.2019.103402. This article has 16 citations.](https://doi.org/10.1016/j.dci.2019.103402)
+
+5. (Molitor2022Depletion) Depletion of the RNA-binding protein PURA triggers changes in posttranscriptional gene regulation and loss of P-bodies. This article has 0 citations.
+
+[6. (Ta2021Potential) Hoang Dang Khoa Ta, Wei-Jan Wang, Nam Nhut Phan, Nu Thuy An Ton, Gangga Anuraga, Su-Chi Ku, Yung-Fu Wu, Chih-Yang Wang, and Kuen-Haur Lee. Potential therapeutic and prognostic values of lsm family genes in breast cancer. Cancers, 13(19):4902, September 2021. URL: http://dx.doi.org/10.3390/cancers13194902, doi:10.3390/cancers13194902. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13194902)
+
+[7. (Liu2023Identification) Qianhui Liu, Qinghai Lian, Yingqiu Song, Shangbin Yang, Changchang Jia, and Jiafeng Fang. Identification of lsm family members as potential chemoresistance predictive and therapeutic biomarkers for gastric cancer. Frontiers in Oncology, March 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1119945, doi:10.3389/fonc.2023.1119945. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1119945)
+
+[8. (He2017The) Qingzhong He and Wei Ge. The tandem agenet domain of fragile x mental retardation protein interacts with fus. Scientific Reports, April 2017. URL: http://dx.doi.org/10.1038/s41598-017-01175-8, doi:10.1038/s41598-017-01175-8. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-01175-8)
+
+[9. (Bloch2023Assembly) Donald B. Bloch, Claire O. Sinow, Andrew J. Sauer, and Benjamin H. P. Corman. Assembly and regulation of the mammalian mrna processing body. PLOS ONE, 18(3):e0282496, March 2023. URL: http://dx.doi.org/10.1371/journal.pone.0282496, doi:10.1371/journal.pone.0282496. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0282496)

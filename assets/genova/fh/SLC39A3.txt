@@ -1,0 +1,35 @@
+# SLC39A3
+
+## Overview
+The SLC39A3 gene encodes the protein solute carrier family 39 member 3, also known as ZIP3, which is a member of the ZRT/IRT-like protein (ZIP) family of metal ion transporters. This protein plays a pivotal role in maintaining zinc homeostasis by facilitating the transport of zinc ions across cell membranes into the cytoplasm, a process essential for numerous cellular functions, including enzyme activity, gene expression, and cell signaling (DufnerBeattie2005Generation). ZIP3 is characterized by its eight transmembrane domains, which are typical of ZIP transporters, and it can form homodimers, a structural feature that may be important for its function (Kambe2017Zinc). The protein is predominantly active at the plasma membrane but can relocate to intracellular compartments in response to zinc levels (Kambe2015The). ZIP3's activity is specific to zinc, as it is inhibited by other metals except iron, highlighting its role in zinc-specific transport (DufnerBeattie2005Generation).
+
+## Structure
+The SLC39A3 protein is a member of the solute carrier family 39, involved in zinc transport across cell membranes. It is predicted to contain eight transmembrane domains with extracellular amino and carboxyl termini, which are typical features of ZIP transporters (Kambe2017Zinc). The protein's structure includes transmembrane alpha-helices, which are crucial for its function in zinc transport (Smorodina2022Structural). 
+
+The study of SLC39A3 using AlphaFold2 has shown that the predicted structure closely matches experimentally determined structures, with a root mean square deviation (RMSD) of 1.567 Å between the native and QTY variant, indicating a high degree of structural similarity (Smorodina2022Structural). The QTY variants involve substituting hydrophobic amino acids in the transmembrane domains with hydrophilic ones, making the protein more water-soluble while maintaining its structural integrity (Smorodina2022Structural). 
+
+The protein can form homodimers, a common feature in ZIP transporters, which may be important for its function (Kambe2017Zinc). The isoelectric points of SLC39A3 remain unchanged despite QTY substitutions, due to the neutral charge of the substituted amino acids at neutral pH (Smorodina2022Structural).
+
+## Function
+The SLC39A3 gene encodes the ZIP3 protein, a member of the ZRT/IRT-like protein (ZIP) family of metal ion transporters, which plays a crucial role in zinc homeostasis by facilitating the transport of zinc into the cytoplasm from the extracellular space or intracellular compartments (DufnerBeattie2005Generation). ZIP3 is an eight-transmembrane-domain protein that is conserved across mammals and is involved in various cellular processes by maintaining zinc levels necessary for enzyme function, gene expression, and cell signaling (DufnerBeattie2005Generation).
+
+In healthy human cells, ZIP3 is primarily active at the plasma membrane, where it imports zinc, but its localization can shift to intracellular compartments following zinc treatment (Kambe2015The). This protein is particularly important in tissues such as the mammary glands during lactation, where it is localized to the apical membrane, suggesting a role in zinc reuptake from the alveolar lumen (Kambe2015The). ZIP3 expression is also regulated in response to physiological changes, such as increased expression during differentiation to a secretory phenotype in mammary epithelial cells in response to prolactin (Kambe2015The). ZIP3's function is specific to zinc, as its activity is inhibited by various metals except iron, indicating a preference for zinc as a substrate (DufnerBeattie2005Generation).
+
+## Clinical Significance
+Mutations and alterations in the expression of the SLC39A3 gene, which encodes a zinc transporter protein, have been implicated in various diseases. Dysregulation of SLC39A3 can lead to disruptions in zinc homeostasis, affecting cellular processes such as proliferation, apoptosis, and oxidative stress response. These disruptions are associated with several pathological conditions, including cancer, neurodegenerative diseases, and immune system dysfunctions.
+
+In cancer, altered SLC39A3 expression may contribute to tumorigenesis by affecting cell proliferation and survival. Zinc is a critical cofactor for numerous enzymes and transcription factors involved in cell growth and division, and its dysregulation can promote oncogenic pathways. Similarly, in neurodegenerative diseases, improper zinc transport due to SLC39A3 mutations or expression changes can exacerbate neuronal damage and oxidative stress, potentially accelerating disease progression.
+
+Immune system dysfunctions may also arise from SLC39A3 dysregulation, as zinc is essential for immune cell function and signaling. Altered zinc uptake can impair immune responses, increasing susceptibility to infections and inflammatory conditions. Understanding the clinical significance of SLC39A3 mutations and expression changes is crucial for developing targeted therapies for these conditions.
+
+
+## References
+
+
+[1. (Kambe2017Zinc) Taiho Kambe, Yukina Nishito, and Kazuhisa Fukue. Zinc Transporters in Health and Disease, pages 283–291. Elsevier, 2017. URL: http://dx.doi.org/10.1016/B978-0-12-802168-2.00023-3, doi:10.1016/b978-0-12-802168-2.00023-3. This article has 13 citations.](https://doi.org/10.1016/B978-0-12-802168-2.00023-3)
+
+[2. (DufnerBeattie2005Generation) Jodi Dufner-Beattie, Zhixin L. Huang, Jim Geiser, Wenhao Xu, and Glen K. Andrews. Generation and characterization of mice lacking the zinc uptake transporter zip3. Molecular and Cellular Biology, 25(13):5607–5615, July 2005. URL: http://dx.doi.org/10.1128/MCB.25.13.5607-5615.2005, doi:10.1128/mcb.25.13.5607-5615.2005. This article has 85 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.25.13.5607-5615.2005)
+
+[3. (Kambe2015The) Taiho Kambe, Tokuji Tsuji, Ayako Hashimoto, and Naoya Itsumura. The physiological, biochemical, and molecular roles of zinc transporters in zinc homeostasis and metabolism. Physiological Reviews, 95(3):749–784, July 2015. URL: http://dx.doi.org/10.1152/physrev.00035.2014, doi:10.1152/physrev.00035.2014. This article has 753 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1152/physrev.00035.2014)
+
+[4. (Smorodina2022Structural) Eva Smorodina, Igor Diankin, Fei Tao, Rui Qing, Steve Yang, and Shuguang Zhang. Structural informatic study of determined and alphafold2 predicted molecular structures of 13 human solute carrier transporters and their water-soluble qty variants. Scientific Reports, November 2022. URL: http://dx.doi.org/10.1038/s41598-022-23764-y, doi:10.1038/s41598-022-23764-y. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-022-23764-y)

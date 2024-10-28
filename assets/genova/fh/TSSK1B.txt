@@ -1,0 +1,42 @@
+# TSSK1B
+
+## Overview
+TSSK1B, or testis specific serine kinase 1B, is a gene that encodes a serine/threonine protein kinase predominantly expressed in the testes. The protein product, TSSK1B, plays a crucial role in spermatogenesis and is involved in the regulation of the Hippo-YAP signaling pathway, which is essential for controlling cell growth and apoptosis. As a kinase, TSSK1B phosphorylates specific serine residues on target proteins, such as YAP, thereby modulating their activity and cellular localization. This regulatory function is vital for maintaining cellular homeostasis and preventing uncontrolled cell proliferation. Mutations in the TSSK1B gene have been associated with male infertility, highlighting its significance in reproductive biology (Kim2024The; Kadiyska2022Role). Additionally, TSSK1B's involvement in the Hippo-YAP pathway suggests potential implications in cancer biology, making it a subject of interest for further research (Kim2024The).
+
+## Structure
+The TSSK1B protein is characterized by a conserved serine/threonine kinase catalytic domain, known as S_TKc, which spans positions 12 to 272 of the protein sequence (Li2021cDNA). This domain is highly conserved among serine/threonine kinases, indicating a similar spatial structure to other proteins in this family. The tertiary structure of TSSK1B was predicted using the protein kinase c4wnkA as a template, with a coverage rate of 72% and reliability of 100%, suggesting a robust structural model (Li2021cDNA).
+
+The protein consists of 359 amino acids and has a molecular weight of approximately 41,070.92 Da (Li2021cDNA). It is hydrophilic, with a grand average of hydropathicity (GRAVY) of -0.623, and lacks transmembrane structures and signal peptides, indicating it is not secreted and is located in the cytoplasm (Li2021cDNA). TSSK1B contains multiple phosphorylation sites, including 16 serine, 11 threonine, and 3 tyrosine sites, which are indicative of its role in phosphorylation processes (Li2021cDNA).
+
+The protein is classified as unstable, with an instability coefficient of 49.12, and does not form a transmembrane region despite a hydrophobic segment between amino acids 200 and 220 (Li2021cDNA).
+
+## Function
+TSSK1B (testis specific serine kinase 1B) is a protein kinase that plays a significant role in regulating the Hippo-YAP signaling pathway, which is crucial for controlling cell growth and apoptosis. In healthy human cells, TSSK1B functions as a negative regulator of YAP (Yes-associated protein), a transcriptional coactivator involved in cell proliferation and oncogenic transformation. TSSK1B phosphorylates YAP at specific serine residues, such as Ser94 and Ser127, which inhibits YAP's transcriptional activity by disrupting its interaction with the TEAD transcription factors and promoting its cytoplasmic localization (Kim2024The).
+
+The phosphorylation of YAP by TSSK1B is mediated through the LATS1/2 kinases and is dependent on upstream kinases like LKB1, which activates TSSK1B. This regulatory mechanism is essential for maintaining cellular homeostasis and preventing uncontrolled cell proliferation (Kim2024The). TSSK1B is primarily expressed in the testes, where it is involved in spermatogenesis, but it is also found in other cell types, suggesting a broader role in cellular regulation beyond its known function in male fertility (Kim2024The; Kadiyska2022Role).
+
+## Clinical Significance
+Mutations in the TSSK1B gene have been linked to undiagnosed male infertility, particularly affecting spermatogenesis. Studies have identified missense mutations in TSSK1B in approximately 10% of a cohort of Bulgarian males with unresolved infertility. These mutations are associated with sperm dysmorphology and conditions such as asthenoteratozoospermia, azoospermia, and teratozoospermia (Kadiyska2022Role). Structural analysis suggests that these mutations may cause misfolding of the TSSK1B protein, particularly within the kinase domain, potentially impairing its function (Kadiyska2022Role).
+
+Alterations in TSSK1B expression have also been implicated in male infertility in yaks and cattle-yak hybrids. In yaks, TSSK1B is highly expressed in the testes, whereas in cattle-yak hybrids, the gene's promoter region is hypermethylated, leading to reduced expression and contributing to infertility (Zhu2023The).
+
+Beyond its role in fertility, TSSK1B is involved in the regulation of the Hippo-YAP signaling pathway, which is crucial for cellular proliferation and oncogenic transformation. Alterations in TSSK1B expression or mutations affecting its phosphorylation sites could impact its ability to regulate YAP activity, potentially influencing cancer progression (Kim2024The).
+
+## Interactions
+TSSK1B interacts with several proteins, playing a significant role in both spermatogenesis and the regulation of the Hippo-YAP signaling pathway. In the context of spermatogenesis, TSSK1B, along with TSSK2 and TSKS, accumulates in the chromatoid body of spermatids, which is crucial for RNA regulation and sperm tail formation. TSSK1B interacts with the testis-specific phosphatase Ppp1cc2 through TSKS, a mediator protein, which is essential for the completion of spermatogenesis (MacLeod2014PPP1CC2; Kadiyska2022Role). This interaction is critical for mitochondrial sheath morphogenesis during sperm development (MacLeod2014PPP1CC2).
+
+In the regulation of the Hippo-YAP pathway, TSSK1B phosphorylates YAP, a transcriptional cofactor, at multiple sites, including Ser94 and Ser127. This phosphorylation inhibits YAP's interaction with TEAD, a transcription factor, thereby suppressing its transcriptional activity. TSSK1B's kinase activity is influenced by LKB1, which phosphorylates TSSK1B, affecting its cellular localization and activity (Kim2024The). TSSK1B also enhances the activity of LATS1/2 kinases, which further phosphorylate YAP, indicating its role as a negative regulator of the Hippo pathway (Kim2024The).
+
+
+## References
+
+
+[1. (Zhu2023The) Yanjin Zhu, Bangting Pan, Xixi Fei, Yulei Hu, Manzhen Yang, Hailing Yu, Jian Li, and Xianrong Xiong. The biological characteristics and differential expression patterns of tssk1b gene in yak and its infertile hybrid offspring. Animals, 13(2):320, January 2023. URL: http://dx.doi.org/10.3390/ani13020320, doi:10.3390/ani13020320. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ani13020320)
+
+[2. (Kadiyska2022Role) Tanya Kadiyska, Ivan Tourtourikov, Kristiyan Dabchev, Dilyana Madzharova, Savina Tincheva, Demetrios Spandidos, and Vassilis Zoumpourlis. Role of testis‑specific serine kinase 1b in undiagnosed male infertility. Molecular Medicine Reports, April 2022. URL: http://dx.doi.org/10.3892/mmr.2022.12720, doi:10.3892/mmr.2022.12720. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/mmr.2022.12720)
+
+[3. (Li2021cDNA) Xue Li, Yuanji Li, Wenfei Song, Daohao Xie, Fangfang Zhu, Minghua Yang, and Yahui Li. Cdna cloning, expression and bioinformatical analysis of tssk genes in tree shrews. Computational Biology and Chemistry, 92:107474, June 2021. URL: http://dx.doi.org/10.1016/j.compbiolchem.2021.107474, doi:10.1016/j.compbiolchem.2021.107474. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.compbiolchem.2021.107474)
+
+[4. (Kim2024The) Cho-Long Kim, Su-Bin Lim, Sue-Hee Choi, Dong Hyun Kim, Ye Eun Sim, Eun-Hye Jo, Keeeun Kim, Keesook Lee, Hee-Sae Park, Su Bin Lim, Li-Jung Kang, Han-Sol Jeong, Youngsoo Lee, Carsten G. Hansen, and Jung-Soon Mo. The lkb1–tssk1b axis controls yap phosphorylation to regulate the hippo–yap pathway. Cell Death &amp; Disease, January 2024. URL: http://dx.doi.org/10.1038/s41419-024-06465-4, doi:10.1038/s41419-024-06465-4. This article has 1 citations.](https://doi.org/10.1038/s41419-024-06465-4)
+
+[5. (MacLeod2014PPP1CC2) Graham MacLeod, Peng Shang, Gregory T Booth, Lucas A Mastropaolo, Niloufar Manafpoursakha, A Wayne Vogl, and Susannah Varmuza. Ppp1cc2 can form a kinase/phosphatase complex with the testis-specific proteins tssk1 and tsks in the mouse testis. REPRODUCTION, 147(1):1–12, January 2014. URL: http://dx.doi.org/10.1530/rep-13-0224, doi:10.1530/rep-13-0224. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1530/rep-13-0224)

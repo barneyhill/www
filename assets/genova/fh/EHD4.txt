@@ -1,0 +1,35 @@
+# EHD4
+
+## Overview
+EHD4, or EH domain containing 4, is a gene that encodes a protein involved in cellular membrane trafficking, particularly in endocytic recycling processes. The EHD4 protein is a member of the EHD protein family, characterized by its conserved domain architecture, which includes a C-terminal EH domain, a central coiled-coil region, and a nucleotide-binding region near the N-terminus. This protein plays a pivotal role in the regulation of endosomal fission and the maintenance of endosomal size and function. EHD4 interacts with various proteins, such as EHD1, Rabenosyn-5, and Syndapin2, to facilitate the recruitment of proteins to sorting endosomes and regulate the trafficking of molecules like transferrin. The protein's ability to oligomerize and form helical filaments on membranes is essential for its function in membrane remodeling, a process that is ATP-dependent and involves nucleotide hydrolysis (Melo2022Cryo-electron; Naslavsky2005Cterminal; Jones2020Eps15).
+
+## Structure
+EHD4, a member of the EHD protein family, is characterized by a conserved domain architecture that includes a C-terminal EH domain, a central coiled-coil region, and a nucleotide-binding region near the N-terminus (Naslavsky2005Cterminal). The EH domain is crucial for protein-protein interactions, often binding to NPF motifs in other proteins (Naslavsky2005Cterminal). The coiled-coil region facilitates oligomerization, which is essential for its function in membrane remodeling (Naslavsky2005Cterminal).
+
+EHD4 forms right-handed helical filaments around lipid tubes, with its EH domains located furthest from the membrane, G-domains at the center, and helical domains closest to the membrane (Melo2022Cryo-electron). The protein adopts a closed conformation similar to EHD2, with helices α8 and α9 engaging the membrane by inserting hydrophobic residues into the outer leaflet (Melo2022Cryo-electron). This interaction results in local bending of the outer membrane monolayer, contributing to its role in membrane remodeling (Melo2022Cryo-electron).
+
+EHD4 also features a P-loop motif, an ATP/GTP-binding site, and primarily binds ATP, which is hydrolyzed during its function (Naslavsky2005Cterminal). The protein can form homo-dimers and hetero-dimers, particularly with EHD1, which is important for its role in endosomal recruitment and fission (Jones2020Eps15).
+
+## Function
+EHD4 (EH domain containing 4) is a protein involved in endocytic recycling processes, playing a crucial role in cellular membrane trafficking. It is particularly important in the regulation of endosomal fission and the maintenance of endosomal size and function. EHD4 works in conjunction with EHD1 to facilitate the recruitment of proteins to sorting endosomes (SE) and is essential for the optimal recruitment of EHD1 to SE upon receptor-mediated internalization (Jones2020Eps15). 
+
+EHD4 is involved in the trafficking of transferrin, regulating its exit from the early endosome (EE) compartment, which is crucial for proper recycling in cells (George2007Shared). It also interacts with proteins such as Rabenosyn-5 and Syndapin2, which are involved in endosomal processes, indicating its role in the recruitment and fission of endosomes (Jones2020Eps15). 
+
+Structurally, EHD4 oligomerizes into a closed conformation on membrane tubes, which is essential for its function in membrane remodeling (Melo2022Cryo-electron). This oligomerization is ATP-dependent and involves the formation of ring-shaped and helical filaments on membranes, facilitating nucleotide hydrolysis necessary for its function (Melo2022Cryo-electron).
+
+## Interactions
+EHD4 interacts with several proteins, playing a crucial role in endosomal recruitment and fission. It forms heterodimers with EHD1, facilitating the recruitment of EHD1 to sorting endosomes (SE) and is essential for endosomal fission processes. This interaction is supported by co-immunoprecipitation studies and yeast two-hybrid assays, which demonstrate that EHD4 preferentially dimerizes with EHD1 rather than forming homodimers (Jones2020Eps15). EHD4 also interacts with EHD3 but not with EHD2, which has a lower sequence identity with EHD1 (Jones2020Eps15).
+
+EHD4 is involved in a complex network of interactions with proteins containing NPF motifs, such as Rabenosyn-5 and Syndapin2, which are important for the recruitment of EHD1 and EHD4 to SE. These interactions are crucial for maintaining the proper size and function of endosomes, as depletion of EHD4 or its binding partners leads to enlarged SE (Jones2020Eps15). EHD4 does not interact with MICAL-L1, even after specific mutations intended to mimic EHD1's binding capabilities, indicating selective binding preferences (Jones2020Eps15). These interactions highlight EHD4's role in coordinating endosomal dynamics and its involvement in cellular transport processes.
+
+
+## References
+
+
+[1. (Melo2022Cryo-electron) Arthur A. Melo, Thiemo Sprink, Jeffrey K. Noel, Elena Vázquez-Sarandeses, Chris van Hoorn, Saif Mohd, Justus Loerke, Christian M. T. Spahn, and Oliver Daumke. Cryo-electron tomography reveals structural insights into the membrane remodeling mode of dynamin-like ehd filaments. Nature Communications, December 2022. URL: http://dx.doi.org/10.1038/s41467-022-35164-x, doi:10.1038/s41467-022-35164-x. This article has 8 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-35164-x)
+
+[2. (Naslavsky2005Cterminal) Naava Naslavsky and Steve Caplan. C-terminal eh-domain-containing proteins: consensus for a role in endocytic trafficking, eh? Journal of Cell Science, 118(18):4093–4101, September 2005. URL: http://dx.doi.org/10.1242/jcs.02595, doi:10.1242/jcs.02595. This article has 89 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.02595)
+
+[3. (George2007Shared) Manju George, GuoGuang Ying, Mark A Rainey, Aharon Solomon, Pankit T Parikh, Qingshen Gao, Vimla Band, and Hamid Band. Shared as well as distinct roles of ehd proteins revealed by biochemical and functional comparisons in mammalian cells and c. elegans. BMC Cell Biology, January 2007. URL: http://dx.doi.org/10.1186/1471-2121-8-3, doi:10.1186/1471-2121-8-3. This article has 90 citations.](https://doi.org/10.1186/1471-2121-8-3)
+
+[4. (Jones2020Eps15) Tyler Jones, Naava Naslavsky, and Steve Caplan. Eps15 homology domain protein 4 (ehd4) is required for eps15 homology domain protein 1 (ehd1)-mediated endosomal recruitment and fission. PLOS ONE, 15(9):e0239657, September 2020. URL: http://dx.doi.org/10.1371/journal.pone.0239657, doi:10.1371/journal.pone.0239657. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0239657)

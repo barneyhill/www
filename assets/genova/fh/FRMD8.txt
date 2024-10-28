@@ -1,0 +1,37 @@
+# FRMD8
+
+## Overview
+FRMD8 is a gene that encodes the protein FERM domain containing 8, which is involved in various cellular processes, particularly in the regulation of signaling pathways. The FRMD8 protein is characterized by its FERM domain, a structural motif that facilitates interactions with other proteins and cellular membranes. It plays a critical role in stabilizing the iRhom/ADAM17 sheddase complex, which is essential for inflammatory and growth factor signaling. This stabilization is crucial for the proper functioning of the ADAM17 enzyme, which is involved in the shedding of key substrates such as TNFα and EGF family growth factors (Künzel2018FRMD8). Additionally, FRMD8 interacts with other proteins, including ERα and LRP6, influencing pathways related to cancer and immune response (Künzel2018FRMD8; Wu2024Loss). The gene's involvement in various diseases, such as breast cancer and COVID-19, underscores its clinical significance (Kong2024LINC01002; Wu2024Loss).
+
+## Function
+FRMD8 (FERM domain containing 8) is a protein that plays a crucial role in stabilizing the iRhom/ADAM17 sheddase complex, which is essential for inflammatory and growth factor signaling in healthy human cells. This protein binds to the cytoplasmic N-terminal region of iRhom2, a regulatory cofactor of ADAM17, preventing the lysosomal degradation of the iRhom2/ADAM17 complex. This stabilization ensures the availability of mature ADAM17 at the cell surface, which is necessary for the shedding of substrates like TNFα and EGF family growth factors (Künzel2018FRMD8).
+
+FRMD8 does not influence the ER-to-Golgi trafficking or maturation of ADAM17 but may enhance the delivery of the iRhom2/ADAM17 complex to the cell surface or prevent its internalization. The interaction between FRMD8 and iRhom2 is mutual, as overexpression of one stabilizes the other, indicating a post-translational mechanism (Künzel2018FRMD8).
+
+In the absence of FRMD8, there is a significant reduction in mature ADAM17 levels, leading to impaired TNFα shedding, which highlights its importance in maintaining normal cellular function and response to inflammatory stimuli (Künzel2018FRMD8).
+
+## Clinical Significance
+Alterations in the FRMD8 gene have been implicated in several diseases, particularly in cancer and viral infections. In breast cancer, FRMD8 acts as a tumor suppressor by regulating estrogen receptor alpha (ERα) levels. Loss of FRMD8 leads to decreased ERα levels, contributing to resistance to tamoxifen therapy, a common treatment for ERα-positive breast cancer. This resistance is associated with poor prognosis, as FRMD8 promoter hypermethylation and reduced expression are linked to lower overall survival and recurrence-free survival rates in patients (Wu2024Loss).
+
+In the context of COVID-19, FRMD8 is involved in the immune response. The LINC01002-miR-4324-FRMD8 axis plays a role in the regulation of interferon-beta (IFN-β) induction, which is suppressed by the SARS-CoV-2 N protein. This interaction suggests that FRMD8 may influence the pathogenesis of COVID-19 by affecting the immune response to the virus (Kong2024LINC01002).
+
+Additionally, FRMD8 is associated with the age at onset of amyotrophic lateral sclerosis (ALS). A genetic variant in the FRMD8 gene, rs10128627, is linked to an earlier onset of ALS, highlighting its potential role in neurodegenerative disease progression (Li2023Genomewide).
+
+## Interactions
+FRMD8 is involved in several protein-protein interactions that are crucial for its function in cellular signaling pathways. It forms a tripartite complex with iRhom2 and ADAM17, where it binds specifically to the N-terminus of iRhom2, between amino acids 201-300. This interaction is essential for the stability and function of the ADAM17 sheddase complex, promoting the cell surface localization of both iRhom2 and ADAM17, and preventing their degradation via the endolysosomal pathway (Künzel2018FRMD8).
+
+FRMD8 also interacts with ERα and UBE3A in human cells. It directly binds to ERα, inhibiting its degradation by blocking the interaction between ERα and the ubiquitin ligase UBE3A. This interaction is significant in maintaining ERα levels, which is crucial for the effectiveness of tamoxifen therapy in ERα-positive breast cancer patients (Wu2024Loss).
+
+Additionally, FRMD8 has been shown to bind to the Wnt accessory receptor LRP6, negatively regulating Wnt signaling by preventing axin recruitment. This suggests a broader role for FRMD8 in modulating signaling pathways through its interactions with transmembrane proteins (Künzel2018FRMD8).
+
+
+## References
+
+
+[1. (Kong2024LINC01002) Xinyi Kong, Qinjin Wang, Xumeng Wang, Kaming Yang, Shuping Nie, Yuetong Li, Wanwen Lao, Xin Yu, Yanping Zhang, Zhenlin Li, Yang Liu, Jie Ning, Yan Wang, Changlong Bi, Chao Wu, and Aixia Zhai. Linc01002 functions as a cerna to regulate frmd8 by sponging mir-4324 for the development of covid-19. Virology Journal, May 2024. URL: http://dx.doi.org/10.1186/s12985-024-02382-2, doi:10.1186/s12985-024-02382-2. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12985-024-02382-2)
+
+[2. (Künzel2018FRMD8) Ulrike Künzel, Adam Graham Grieve, Yao Meng, Boris Sieber, Sally A Cowley, and Matthew Freeman. Frmd8 promotes inflammatory and growth factor signalling by stabilising the irhom/adam17 sheddase complex. eLife, June 2018. URL: http://dx.doi.org/10.7554/elife.35012, doi:10.7554/elife.35012. This article has 57 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.35012)
+
+3. (Wu2024Loss) Loss function of tumor suppressor FRMD8 confers resistance to tamoxifen therapy via a dual mechanism. This article has 0 citations.
+
+[4. (Li2023Genomewide) Chunyu Li, Qianqian Wei, Yanbing Hou, Junyu Lin, Ruwei Ou, Lingyu Zhang, Qirui Jiang, Yi Xiao, Kuncheng Liu, Xueping Chen, TianMi Yang, Wei Song, Bi Zhao, Ying Wu, and Huifang Shang. Genome-wide analyses identify neat1 as genetic modifier of age at onset of amyotrophic lateral sclerosis. Molecular Neurodegeneration, October 2023. URL: http://dx.doi.org/10.1186/s13024-023-00669-6, doi:10.1186/s13024-023-00669-6. This article has 3 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13024-023-00669-6)

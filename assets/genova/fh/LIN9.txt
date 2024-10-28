@@ -1,0 +1,52 @@
+# LIN9
+
+## Overview
+LIN9 is a gene that encodes the lin-9 DREAM MuvB core complex component, a protein integral to the regulation of the cell cycle and transcriptional control. The lin-9 protein is a part of the MuvB and DREAM complexes, which are essential for the proper progression of the cell cycle, particularly during the G2/M phase. It functions as a transcriptional regulator by interacting with various proteins, including LIN37, LIN52, LIN54, and RBBP4, to form complexes that either activate or repress gene expression. The protein's structure, featuring domains such as the Domain in Rb-related Pathway (DIRP) and a coiled-coil domain, facilitates its interactions within these complexes, contributing to nucleosome remodeling and transcriptional regulation. LIN9's role extends to embryonic stem cells and male fertility, where it is involved in maintaining genome stability and facilitating meiotic progression, respectively. Clinically, LIN9 has been implicated in several cancers, including triple-negative breast cancer and hepatocellular carcinoma, where its expression and interactions influence tumor progression and drug resistance (Zhang2021Nuclear; Fischer2017Cell; Eckerdt2014LIN9).
+
+## Structure
+LIN9 is a component of the MuvB complex, playing a crucial role in its structural integrity and function. The protein contains several distinct domains that contribute to its interactions within the complex. The amino-terminal region of LIN9 includes the Domain in Rb-related Pathway (DIRP) and a tudor domain, which are involved in interactions with the RbBP4 subcomplex. These interactions are facilitated by the conserved RbBP4 amino-terminal helix α1, which serves as a hub for protein-protein interactions (Koliopoulos2022Structure).
+
+The LIN9 protein also features a coiled-coil domain at its C-terminus, which forms a complex with LIN52, known as LIN9:52CC. This domain is essential for the MMB core's ability to bind the nucleosome, interacting with the B-MYB C-terminal helix and clamping the entry DNA at the superhelical location (SHL) -8 (Koliopoulos2022Structure). The LIN9 C-terminal domain (CTD) forms a V-shaped channel with other proteins, clamping the entry DNA and interacting with the nucleosome's acidic patch (Koliopoulos2022Structure).
+
+LIN9 also interacts with LIN37, which stabilizes the MuvB complex. The LIN37 C-terminal proline-rich loop connects to LIN9 α4, further stabilizing the complex (Koliopoulos2022Structure). The LIN9 protein's structure is crucial for its role in nucleosome remodeling and transcriptional regulation.
+
+## Function
+LIN9 is a crucial component of the MuvB and DREAM complexes, which are involved in the regulation of the cell cycle in healthy human cells. It plays a significant role in the transcriptional regulation of genes expressed during the G2/M phase, essential for proper mitotic progression (Esterlechner2013LIN9; Fischer2017Cell). LIN9 is phosphorylated by the cyclin E/Cdk3 complex, a modification necessary for the activation of promoters of cell cycle genes such as cyclins A2 and B1, facilitating the transition from G1 to S-phase and promoting cell cycle progression (Eckerdt2014LIN9).
+
+In embryonic stem cells, LIN9 is part of the DREAM complex and is essential for normal cell cycle progression and genome stability. Its depletion leads to an accumulation of cells in the G2 and M phases and an increase in polyploid cells, indicating its role in maintaining proper cell cycle distribution (Esterlechner2013LIN9). LIN9 also directly regulates the expression of mitotic genes, contributing to cell proliferation and ensuring the structural integrity and function of the MuvB complexes (Esterlechner2013LIN9; Fischer2017Cell).
+
+## Clinical Significance
+LIN9 has been implicated in various cancers due to its role in cell cycle regulation. In triple-negative breast cancer (TNBC), LIN9 expression is upregulated in paclitaxel-resistant cells, correlating with poor clinical outcomes. Knockdown of LIN9 or treatment with BET inhibitors like JQ1 can restore sensitivity to paclitaxel, suggesting LIN9's involvement in drug resistance through regulation of the microtubule-binding protein CCSAP (Lai2019LIN9).
+
+In oesophageal adenocarcinoma (OAC), LIN9 is co-upregulated with FOXM1, contributing to the deregulation of FOXM1 target genes. This interaction is significant for the molecular pathology of OAC, as LIN9 depletion leads to downregulation of these target genes (Wiseman2015Deregulation).
+
+In hepatocellular carcinoma (HCC), the MYBL2-LIN9 complex is crucial for the transcriptional regulation of G2-M genes. This complex is particularly active in HCC with mutant p53, contributing to increased proliferation and genomic instability. Suppression of LIN9, along with MYBL2, affects cell viability and apoptosis, highlighting its potential as a therapeutic target (Calvisi2011Activation).
+
+LIN9 also plays a role in male fertility, where its interaction with MTL5 is essential for the nuclear translocation of MTL5, crucial for spermatogenesis. Disruption of this interaction leads to spermatogenic arrest and infertility (Zhang2021Nuclear).
+
+## Interactions
+LIN9 is a key component of the MuvB core complex, which includes LIN37, LIN52, LIN54, and RBBP4. It plays a central role in the formation of both repressor and activator MuvB complexes. LIN9 interacts with LIN52 through its C-terminus, and both its N- and C-termini interact with RBBP4, suggesting its structural importance within the complex (Fischer2017Cell). LIN9 also binds to FOXM1, likely through its DIRP domain, indicating its involvement in transcriptional activation during the cell cycle (Fischer2017Cell).
+
+In embryonic stem cells, LIN9 is part of the DREAM complex, interacting with B-MYB, LIN54, and LIN37, but not with pocket proteins like p130 or p107, due to their inactivation by hyperphosphorylation (Esterlechner2013LIN9). LIN9 is crucial for the activation of mitotic genes such as Plk1, Aurora A, and Cyclin B, directly binding to their promoters (Esterlechner2013LIN9).
+
+LIN9 also facilitates the nuclear translocation of MTL5, a testis-specific protein, by interacting with its C-terminal region. This interaction is essential for meiotic progression and male fertility, as demonstrated in studies involving spermatocytes (Zhang2021Nuclear).
+
+
+## References
+
+
+[1. (Fischer2017Cell) Martin Fischer and Gerd A. Müller. Cell cycle transcription control: dream/muvb and rb-e2f complexes. Critical Reviews in Biochemistry and Molecular Biology, 52(6):638–662, August 2017. URL: http://dx.doi.org/10.1080/10409238.2017.1360836, doi:10.1080/10409238.2017.1360836. This article has 171 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/10409238.2017.1360836)
+
+[2. (Esterlechner2013LIN9) Jasmina Esterlechner, Nina Reichert, Fabian Iltzsche, Michael Krause, Florian Finkernagel, and Stefan Gaubatz. Lin9, a subunit of the dream complex, regulates mitotic gene expression and proliferation of embryonic stem cells. PLoS ONE, 8(5):e62882, May 2013. URL: http://dx.doi.org/10.1371/journal.pone.0062882, doi:10.1371/journal.pone.0062882. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0062882)
+
+[3. (Zhang2021Nuclear) Xingxia Zhang, Ming Li, Xiaohua Jiang, Hui Ma, Suixing Fan, Yang Li, Changping Yu, Jianze Xu, Ranjha Khan, Hanwei Jiang, and Qinghua Shi. Nuclear translocation of mtl5 from cytoplasm requires its direct interaction with lin9 and is essential for male meiosis and fertility. PLOS Genetics, 17(8):e1009753, August 2021. URL: http://dx.doi.org/10.1371/journal.pgen.1009753, doi:10.1371/journal.pgen.1009753. This article has 5 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1009753)
+
+[4. (Eckerdt2014LIN9) Frank Eckerdt, Mathew Perez-Neut, and Oscar R Colamonici. Lin-9 phosphorylation on threonine-96 is required for transcriptional activation of lin-9 target genes and promotes cell cycle progression. PLoS ONE, 9(1):e87620, January 2014. URL: http://dx.doi.org/10.1371/journal.pone.0087620, doi:10.1371/journal.pone.0087620. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0087620)
+
+[5. (Calvisi2011Activation) Diego F. Calvisi, Maria M. Simile, Sara Ladu, Maddalena Frau, Matthias Evert, Maria L. Tomasi, Maria I. Demartis, Lucia Daino, Maria A. Seddaiu, Stefania Brozzetti, Francesco Feo, and Rosa M. Pascale. Activation of v-myb avian myeloblastosis viral oncogene homolog-like2 (mybl2)-lin9 complex contributes to human hepatocarcinogenesis and identifies a subset of hepatocellular carcinoma with mutant p53. Hepatology, 53(4):1226–1236, April 2011. URL: http://dx.doi.org/10.1002/hep.24174, doi:10.1002/hep.24174. This article has 48 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1002/hep.24174)
+
+[6. (Lai2019LIN9) Hongna Lai, Rui Wang, Shunying Li, Qianfeng Shi, Zijie Cai, Yudong Li, and Yujie Liu. Lin9 confers paclitaxel resistance in triple negative breast cancer cells by upregulating ccsap. Science China Life Sciences, 63(3):419–428, August 2019. URL: http://dx.doi.org/10.1007/s11427-019-9581-8, doi:10.1007/s11427-019-9581-8. This article has 14 citations.](https://doi.org/10.1007/s11427-019-9581-8)
+
+[7. (Koliopoulos2022Structure) Marios G. Koliopoulos, Reyhan Muhammad, Theodoros I. Roumeliotis, Fabienne Beuron, Jyoti S. Choudhary, and Claudio Alfieri. Structure of a nucleosome-bound muvb transcription factor complex reveals dna remodelling. Nature Communications, August 2022. URL: http://dx.doi.org/10.1038/s41467-022-32798-9, doi:10.1038/s41467-022-32798-9. This article has 10 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-32798-9)
+
+[8. (Wiseman2015Deregulation) Elizabeth F Wiseman, Xi Chen, Namshik Han, Aaron Webber, Zongling Ji, Andrew D Sharrocks, and Yeng S Ang. Deregulation of the foxm1 target gene network and its coregulatory partners in oesophageal adenocarcinoma. Molecular Cancer, March 2015. URL: http://dx.doi.org/10.1186/s12943-015-0339-8, doi:10.1186/s12943-015-0339-8. This article has 29 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s12943-015-0339-8)

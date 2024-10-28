@@ -1,0 +1,40 @@
+# CCDC69
+
+## Overview
+CCDC69 is a gene that encodes the coiled-coil domain-containing protein 69, which is integral to the regulation of microtubule dynamics during cell division. The protein is characterized by its coiled-coil domains, which facilitate its role as a scaffold protein, particularly in the assembly and stabilization of the central spindle during mitosis. CCDC69 interacts with key mitotic regulators, such as aurora B and Polo-like kinase 1 (Plk1), to ensure proper spindle formation and cytokinesis (Pal2010Role). The gene's expression levels have clinical significance, as alterations are associated with various cancers, including breast and ovarian cancer, where it influences tumor progression and chemotherapy sensitivity (Cui2019Overexpression; Yi2022CCDC69). Understanding the function and regulation of CCDC69 is crucial for elucidating its role in cell division and its potential as a therapeutic target in oncology.
+
+## Structure
+The CCDC69 protein is characterized by the presence of coiled-coil domains, which are structural motifs that typically form alpha-helical structures. The human CCDC69 protein consists of 296 amino acids and has a molecular mass of approximately 42 kDa (Pal2010Role). The COIL program predicts that CCDC69 contains four coiled-coil regions located at amino acids 49-109, 122-159, 172-233, and 237-269. These domains are crucial for the protein's function, particularly in its role in microtubule destabilization and interaction with other proteins (Pal2010Role).
+
+The C-terminal half of CCDC69, specifically amino acids 159-296, is critical for its microtubule-destabilizing activity, including the coiled-coil domains 172-233 and 237-269 (Pal2010Role). CCDC69 interacts with aurora B, a component of the chromosomal passenger complex, through its coiled-coil domain at the C-terminus, specifically involving amino acids 233-296 (Pal2010Role). The protein can be phosphorylated by Plk1, indicating a post-translational modification that may influence its function (Pal2010Role). The protein's structure and interactions suggest its role as a scaffold protein, providing physical interconnections among midzone components during cell division (Pal2010Role).
+
+## Function
+CCDC69 is a protein involved in the regulation of central spindle assembly during cell division in human cells. It plays a critical role in maintaining spindle integrity by regulating microtubule dynamics. During interphase, CCDC69 is predominantly localized in the nucleus, preventing it from affecting interphase microtubules. However, during mitosis, the breakdown of the nuclear envelope allows CCDC69 to interact with microtubules, where it acts as a microtubule-destabilizing factor, influencing the formation of bipolar mitotic spindles (Pal2010Role).
+
+CCDC69 functions as a scaffold at the central spindle, facilitating the localization and assembly of midzone components such as aurora B, PRC1, and MgcRacGAP/HsCYK-4. It interacts with aurora B through its coiled-coil domain, which is essential for the proper localization of the chromosomal passenger complex (CPC) at the central spindle (Pal2010Role). CCDC69 is also involved in the recruitment of Polo-like kinase 1 (Plk1) to the central spindle, which is crucial for the activation of RhoA and the assembly of the actomyosin contractile ring, essential for cytokinesis (Pal2010Role).
+
+## Clinical Significance
+Alterations in the expression of the CCDC69 gene have been implicated in various cancers, particularly breast and ovarian cancer. In breast cancer, CCDC69 expression is significantly lower in cancerous tissues compared to normal tissues, with even lower levels observed in highly invasive forms of the disease. This reduced expression is associated with poor prognosis and larger tumor size, as well as advanced pathological stages (Yi2022CCDC69). The downregulation of CCDC69 in breast cancer is thought to be due to hypermethylation of its promoter region (Yi2022CCDC69). High expression of CCDC69 is linked to better prognosis and improved responses to immunotherapy, as it is positively correlated with immune cell infiltration and immune checkpoint expression (Wang2023High).
+
+In ovarian cancer, CCDC69 plays a role in chemotherapy sensitivity. Overexpression of CCDC69 enhances sensitivity to cisplatin by activating the p14ARF/MDM2/p53 pathway, leading to increased apoptosis (Cui2019Overexpression). Conversely, CCDC69 expression is higher in cisplatin-resistant ovarian cancer cells, and its knockout increases sensitivity to the drug, suggesting its involvement in chemoresistance (Cui2017Inhibition).
+
+## Interactions
+CCDC69 is a coiled-coil domain-containing protein that plays a significant role in central spindle assembly during cell division. It physically interacts with aurora B, a component of the chromosomal passenger complex (CPC), through its coiled-coil domain at the C-terminus. This interaction is crucial for the proper localization of aurora B at the central spindle, as demonstrated by GST pull-down assays (Pal2010Role). CCDC69 does not interact with other CPC components such as survivin or borealin, and its interaction with INCENP remains unclear (Pal2010Role).
+
+CCDC69 is also involved in the recruitment of Polo-like kinase 1 (Plk1) to the central spindle. It is a substrate for Plk1, which phosphorylates midzone components essential for cytokinesis (Pal2010Role). The depletion of CCDC69 disrupts the localization of midzone components like PRC1 and MgcRacGAP, although it does not directly interact with these proteins (Pal2010Role).
+
+In the context of cancer, CCDC69 has been implicated in the p14ARF/MDM2/p53 signaling pathway, influencing protein stability and signaling during cisplatin exposure. Overexpression of CCDC69 leads to increased p53 protein levels and affects the ubiquitination of p14ARF, suggesting interactions with components of this pathway (Cui2019Overexpression).
+
+
+## References
+
+
+[1. (Yi2022CCDC69) Yi Yi, Tao Xu, Yufang Tan, Wenchang Lv, Chongru Zhao, Min Wu, Yiping Wu, and Qi Zhang. Ccdc69 is a prognostic marker of breast cancer and correlates with tumor immune cell infiltration. Frontiers in Surgery, July 2022. URL: http://dx.doi.org/10.3389/fsurg.2022.879921, doi:10.3389/fsurg.2022.879921. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fsurg.2022.879921)
+
+[2. (Cui2017Inhibition) Long Cui, Bo Liang, Yihua Yang, Minhui Zhu, Joseph Kwong, Hongliang Zheng, and Chi Chiu Wang. Inhibition of coiled coil domain containing protein 69 enhances platinum-induced apoptosis in ovarian cancer cells. Oncotarget, 8(60):101634–101648, September 2017. URL: http://dx.doi.org/10.18632/oncotarget.21356, doi:10.18632/oncotarget.21356. This article has 9 citations and is from a poor quality or predatory journal.](https://doi.org/10.18632/oncotarget.21356)
+
+[3. (Pal2010Role) Debjani Pal, Di Wu, Akiko Haruta, Fumio Matsumura, and Qize Wei. Role of a novel coiled-coil domain-containing protein ccdc69 in regulating central spindle assembly. Cell Cycle, 9(20):4117–4129, October 2010. URL: http://dx.doi.org/10.4161/cc.9.20.13387, doi:10.4161/cc.9.20.13387. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/cc.9.20.13387)
+
+[4. (Cui2019Overexpression) Long Cui, Fang Zhou, Cui Chen, and Chi Chiu Wang. Overexpression of ccdc69 activates p14arf/mdm2/p53 pathway and confers cisplatin sensitivity. Journal of Ovarian Research, January 2019. URL: http://dx.doi.org/10.1186/s13048-019-0479-3, doi:10.1186/s13048-019-0479-3. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13048-019-0479-3)
+
+[5. (Wang2023High) Zhen Wang, Huiyang Ren, Guolian Zhu, Lei Zhang, Hongyi Cao, and Bo Chen. High expression of ccdc69 is correlated with immunotherapy response and protective effects on breast cancer. BMC Cancer, October 2023. URL: http://dx.doi.org/10.1186/s12885-023-11411-2, doi:10.1186/s12885-023-11411-2. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-023-11411-2)

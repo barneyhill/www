@@ -1,0 +1,46 @@
+# AOC1
+
+## Overview
+The AOC1 gene encodes the enzyme amine oxidase, copper-containing 1 (also known as diamine oxidase or DAO1), which is a copper-containing amine oxidase. This enzyme is primarily involved in the oxidative deamination of primary amines, converting them into aldehydes, ammonia, and hydrogen peroxide, and plays a significant role in cellular processes such as detoxification, cell signaling, and the regulation of biogenic amines (p&gt; Xu2020&lt; Chang2021Amine; AOC1). AOC1 is predominantly active in the extracellular space and is expressed in various tissues, including the kidneys, placenta, intestine, and lungs, where it contributes to tissue homeostasis and modulates inflammatory responses (p&gt; Xu2020&lt; AOC1). The enzyme's structure is characterized by a homodimeric form with a copper ion and a 2,4,5-trihydroxyphenylalanine quinone (TPQ) cofactor, which are typical of copper/TPQ-containing amine oxidases (Finney2014Human; Xu2020&lt; AOC1; p&gt). AOC1's activity and expression levels have been implicated in various pathological conditions, including cancer and histamine intolerance, highlighting its clinical significance (BlascoFontecilla2024Prevalence; Ding2022SOX15).
+
+## Structure
+The AOC1 gene encodes the enzyme amine oxidase, copper-containing 1, also known as diamine oxidase (DAO1). The enzyme is a homodimer, consisting of two 85-kDa subunits, and its X-ray crystal structure has been resolved at 1.8 Å resolution (Finney2014Human). The structure features an intermolecular disulfide bridge linking Cys736 of the A and B subunits, a characteristic shared with AOC3 and plant CAOs but absent in bacterial and yeast CAOs (Finney2014Human). 
+
+AOC1 is N-glycosylated at Asn110, Asn538, and Asn745, which are post-translational modifications that can affect the enzyme's stability and activity (Finney2014Human). The enzyme's active site includes a conserved Asp residue, which is hypothesized to play a role in binding diamine substrates (Finney2014Human). The enzyme follows a classical ping-pong mechanism for oxidizing primary amines, involving covalent intermediates between the TPQ cofactor and amines (Finney2014Human). 
+
+The molecular structure of AOC1 includes a copper ion and a 2,4,5-trihydroxyphenylalanine quinone (TPQ) cofactor, which are characteristic of copper/TPQ-containing amine oxidases (p&gt; Xu2020&lt; AOC1). The enzyme's quaternary structure is stabilized by three arms protruding from one monomer to the other, with each monomer consisting of three domains: D2, D3, and D4, with the D4 domain forming the deeply buried catalytic site (Vakal2020Human).
+
+## Function
+The AOC1 gene encodes a copper-containing amine oxidase that plays a crucial role in the oxidative deamination of primary amines, converting them into aldehydes, ammonia, and hydrogen peroxide. This enzymatic activity is significant for various cellular processes, including detoxification and cell signaling, as well as the regulation of biogenic amines (p&gt; Xu2020&lt; AOC1). AOC1 is primarily active in the extracellular space, where it contributes to maintaining tissue homeostasis and modulating inflammatory responses (Chang2021Amine).
+
+In healthy human cells, AOC1 is involved in the oxidation of diamines to aldehydes, which is important for regulating processes such as tumor growth, inflammation, and neoplasm. It uses spermidine as a substrate, which is involved in cell proliferation, inhibition of stem cell senescence, and blood pressure regulation (Ding2022SOX15). The enzyme is highly expressed in organs such as the kidneys, placenta, intestine, and lungs, with lower levels in the brain (p&gt; Xu2020&lt; AOC1). AOC1's activity in these tissues suggests its involvement in embryonic kidney morphogenesis and other developmental processes (p&gt; Xu2020&lt; AOC1).
+
+## Clinical Significance
+Alterations in the expression of the AOC1 gene have been implicated in various diseases and conditions. In prostate cancer, AOC1 expression is significantly downregulated compared to normal tissues. This downregulation is associated with poor clinical outcomes, including larger tumor size, lymph node metastasis, and higher Gleason scores, which indicate more aggressive cancer. The low expression of AOC1 is linked to poor prognosis and increased metastatic potential, suggesting its role as a tumor suppressor in prostate cancer (Ding2022SOX15).
+
+Conversely, in gastric cancer, AOC1 is highly expressed and promotes tumor progression by activating the AKT and epithelial-mesenchymal transition (EMT) pathways. This overexpression is associated with increased cell proliferation, migration, and invasion, indicating that AOC1 acts as an oncogene in this context (p&gt; Xu2020&lt; AOC1).
+
+In the context of attention deficit hyperactivity disorder (ADHD), variants of the AOC1 gene are linked to diamine oxidase (DAO) deficiency, which can lead to histamine intolerance. This deficiency is associated with various comorbidities, including migraines and cognitive dysfunctions, particularly in working memory (BlascoFontecilla2024Prevalence).
+
+## Interactions
+AOC1, also known as amine oxidase copper containing 1, is involved in various interactions that influence its role in cancer progression. In gastric cancer, AOC1 is implicated in the activation of the AKT signaling pathway and the epithelial-mesenchymal transition (EMT) process. Knockdown of AOC1 results in the inactivation of the AKT pathway, evidenced by decreased phosphorylation of AKT and its downstream effectors, such as p70S6K and Cyclin D1. This suggests that AOC1 may interact with components of the AKT pathway to promote tumor progression (p&gt; Xu2020&lt; AOC1).
+
+In nasopharyngeal carcinoma, AOC1 is regulated by METTL14, an m6A-RNA methyltransferase. METTL14 enhances the stability of AOC1 mRNA through m6A methylation, indicating a regulatory interaction at the RNA level. This interaction is confirmed by RNA immunoprecipitation (RIP) and methylated RNA immunoprecipitation (MeRIP) assays, which show that METTL14 stabilizes AOC1 mRNA in an m6A-dependent manner (Hu2024METTL14).
+
+In prostate cancer, AOC1 is transcriptionally regulated by the transcription factor SOX15. SOX15 positively influences AOC1 expression, which in turn modulates ferroptosis, a form of programmed cell death. This interaction suggests a transcriptional regulatory mechanism where SOX15 binds to the AOC1 promoter, enhancing its expression (Ding2022SOX15).
+
+
+## References
+
+
+[1. (Finney2014Human) Joel Finney, Hee-Jung Moon, Trey Ronnebaum, Mason Lantz, and Minae Mure. Human copper-dependent amine oxidases. Archives of Biochemistry and Biophysics, 546:19–32, March 2014. URL: http://dx.doi.org/10.1016/j.abb.2013.12.022, doi:10.1016/j.abb.2013.12.022. This article has 102 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.abb.2013.12.022)
+
+[2. (Ding2022SOX15) Yinghui Ding, Yuankang Feng, Zhenlin Huang, Yu Zhang, Xiang Li, Ruoyang Liu, Hao Li, Tao Wang, Yafei Ding, Zhankui Jia, and Jinjian Yang. Sox15 transcriptionally increases the function of aoc1 to modulate ferroptosis and progression in prostate cancer. Cell Death &amp; Disease, August 2022. URL: http://dx.doi.org/10.1038/s41419-022-05108-w, doi:10.1038/s41419-022-05108-w. This article has 17 citations.](https://doi.org/10.1038/s41419-022-05108-w)
+
+[3. (Vakal2020Human) Serhii Vakal, Sirpa Jalkanen, Käthe M. Dahlström, and Tiina A. Salminen. Human copper-containing amine oxidases in drug design and development. Molecules, 25(6):1293, March 2020. URL: http://dx.doi.org/10.3390/molecules25061293, doi:10.3390/molecules25061293. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/molecules25061293)
+
+[4. (Hu2024METTL14) Changan Hu, Shengguan Song, Shanglong Zhao, Zhen Xue, and Xiwen Zhu. Mettl14 contributes to the progression of nasopharyngeal carcinoma through regulating the stability of aoc1 mrna. Hereditas, July 2024. URL: http://dx.doi.org/10.1186/s41065-024-00317-z, doi:10.1186/s41065-024-00317-z. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s41065-024-00317-z)
+
+[5. (BlascoFontecilla2024Prevalence) Hilario Blasco-Fontecilla, Marcos Bella-Fernández, Ping Wang, Marina Martin-Moratinos, and Chao Li. Prevalence and clinical picture of diamine oxidase gene variants in children and adolescents with attention deficit hyperactivity disorder: a pilot study. Journal of Clinical Medicine, 13(6):1659, March 2024. URL: http://dx.doi.org/10.3390/jcm13061659, doi:10.3390/jcm13061659. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/jcm13061659)
+
+[6. (Chang2021Amine) Chao-Yuan Chang, Kuan-Li Wu, Yung-Yun Chang, Pei-Hsun Tsai, Jen-Yu Hung, Wei-An Chang, Shu-Fang Jian, Yung-Chi Huang, Inn-Wen Chong, Ying-Ming Tsai, and Ya-Ling Hsu. Amine oxidase, copper containing 3 exerts anti‑mesenchymal transformation and enhances cd4+ t‑cell recruitment to prolong survival in lung cancer. Oncology Reports, July 2021. URL: http://dx.doi.org/10.3892/or.2021.8154, doi:10.3892/or.2021.8154. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.2021.8154)

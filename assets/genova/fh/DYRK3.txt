@@ -1,0 +1,48 @@
+# DYRK3
+
+## Overview
+DYRK3 is a gene that encodes the protein dual specificity tyrosine phosphorylation regulated kinase 3, a member of the CMGC family of serine/threonine kinases. This protein is characterized by its ability to phosphorylate both serine/threonine and tyrosine residues, playing a pivotal role in various cellular processes, including neuronal homeostasis, stress response, and erythroid maturation. The DYRK3 protein is involved in the regulation of axonal transport and neurotransmitter release in neurons, as well as in the modulation of mTORC1 signaling during cellular stress. It interacts with several proteins, such as PRAS40 and SNAPIN, and is implicated in the formation of stress granules, which are crucial for cellular stress responses. Clinically, DYRK3 has been associated with cancer, particularly oral squamous cell carcinoma, where its expression levels correlate with radioresistance and prognosis (Lee2022DYRK3; Wippich2013Dual; Huang2023PAICSDYRK3).
+
+## Structure
+The human DYRK3 protein is a member of the CMGC family of serine/threonine kinases, characterized by a conserved kinase domain. The primary structure of DYRK3 includes a sequence of amino acids that form the kinase domain, spanning residues 132-572, which is crucial for its enzymatic activity (Kim2018Crystal). The secondary structure of DYRK3 features a helix-loop-helix region in the C-lobe, analogous to the MAPK insert found in other CMGC family members (Kim2018Crystal). The N-terminal extension of the kinase domain includes the NAPA1 domain, the DH box, and NAPA2, which are important for protein stability and auto-phosphorylation (Kim2018Crystal).
+
+The tertiary structure of DYRK3 reveals that the NAPA domain masks the hydrophobic interface from the solvent in the N-lobe, contributing to protein stability (Kim2018Crystal). The protein undergoes auto-phosphorylation, with serine 350 being a key site for maintaining stability and functional activity (Kim2018Crystal). DYRK3 also phosphorylates PRAS40 at multiple sites, which overlaps with those of AKT1, indicating a regulatory role shared with other kinases (Kim2018Crystal). The protein's structure is more similar to DYRK2 than DYRK1A, with conserved kinase domains but differing substrate specificities (Kim2018Crystal).
+
+## Function
+DYRK3 is a dual-specificity protein kinase involved in several critical cellular processes, particularly in neurons. It phosphorylates SNAPIN at the threonine 14 (Thr-14) residue, enhancing SNAPIN's interaction with dynein and synaptotagmin-1, which are essential for axonal retrograde transport and neurotransmitter release. This phosphorylation is crucial for maintaining neuronal homeostasis by facilitating the retrograde transport of cellular products and synaptic vesicle exocytosis, processes vital for neuronal viability (Lee2022DYRK3).
+
+DYRK3 also plays a role in cellular stress responses. Under conditions of serum deprivation, DYRK3 levels decrease, mediated by the autophagy pathway, suggesting a cytoprotective role. This reduction affects mTORC1 signaling, which is crucial for cell growth and viability (Lee2022DYRK3). DYRK3's involvement in stress response mechanisms includes maintaining efficient axonal transport and reducing cellular toxicity, particularly under stress conditions (Lee2022DYRK3).
+
+In addition to its role in neurons, DYRK3 is expressed in erythroid cells and the testis, with potential roles in erythroid maturation and stress response. Its expression is regulated by transcription factors such as GATA1, indicating a role in erythroid differentiation (Zhang2005DYRK).
+
+## Clinical Significance
+DYRK3 has been implicated in various cancers, including oral squamous cell carcinoma (OSCC), where its overexpression is associated with increased radioresistance and poor prognosis. In OSCC, DYRK3 interacts with PAICS to influence purinosome formation, which is linked to radioresistance and metastasis. Targeting the DYRK3/PAICS axis has been proposed as a potential therapeutic strategy to overcome radioresistance in OSCC (Huang2023PAICSDYRK3). 
+
+DYRK3 expression is notably higher in cancer tissues compared to healthy ones, and its overexpression is associated with poor prognosis in OSCC patients. The gene's role in purinosome formation and its correlation with PAICS expression suggest that DYRK3 is crucial in directing OSCC radiotherapy resistance pathways (Huang2023PAICSDYRK3). 
+
+In other cancers, DYRK3 expression varies, being under-expressed in breast, kidney, lung, prostate, and thyroid cancers, but overexpressed in colon, head and neck, kidney, and stomach cancers. In non-small cell lung cancer, increased DYRK3 mRNA is linked to highly invasive cell lines, while in glioma, strong DYRK3 expression correlates with better survival. In hepatocellular carcinoma, reduced DYRK3 protein levels are associated with poor prognosis, suggesting a tumor-suppressor role (Boni2020The).
+
+## Interactions
+DYRK3 interacts with several proteins and plays a significant role in cellular processes through these interactions. It phosphorylates PRAS40 at Thr246, which decreases PRAS40's binding to mTORC1, facilitating mTORC1 activation (Wippich2013Dual). DYRK3 also interacts with stress granules (SGs), where it dynamically partitions between SGs and the cytosol, a process dependent on its kinase activity and N-terminal domain (Wippich2013Dual). This interaction is crucial for regulating mTORC1 signaling during stress and recovery (Wippich2013Dual).
+
+DYRK3 is involved in the phosphorylation of SNAPIN at Thr-14, enhancing SNAPIN's interaction with dynein, a motor protein involved in axonal retrograde transport, and synaptotagmin-1, a component of the SNARE complex involved in synaptic vesicle recycling (Lee2022DYRK3). This phosphorylation is critical for maintaining the recycling pool size of synaptic vesicles and facilitating neurotransmitter release (Lee2022DYRK3).
+
+DYRK3 is also part of the Hsp90-interacting kinase list, indicating its interaction with molecular chaperones such as Hsp90 and Cdc37, which are essential for protein quality control (Miyata2021Protein). These interactions suggest DYRK3's involvement in various cellular signaling pathways and stress responses.
+
+
+## References
+
+
+[1. (Lee2022DYRK3) Ye Hyung Lee, Bo Kyoung Suh, Unghwi Lee, Seung Hyun Ryu, Sung Ryong Shin, Sunghoe Chang, Sang Ki Park, and Kwang Chul Chung. Dyrk3 phosphorylates snapin to regulate axonal retrograde transport and neurotransmitter release. Cell Death Discovery, December 2022. URL: http://dx.doi.org/10.1038/s41420-022-01290-0, doi:10.1038/s41420-022-01290-0. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-022-01290-0)
+
+[2. (Huang2023PAICSDYRK3) Chin-Sheng Huang, Ming-Shou Hsieh, Vijesh Kumar Yadav, Yang-Che Wu, Shao-Cheng Liu, Chi-Tai Yeh, and Mao-Suan Huang. Paics/dyrk3 multienzyme interactions as coregulators of purinosome formation and metabolism on radioresistance in oral squamous cell carcinoma. International Journal of Molecular Sciences, 24(24):17346, December 2023. URL: http://dx.doi.org/10.3390/ijms242417346, doi:10.3390/ijms242417346. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms242417346)
+
+[3. (Boni2020The) Jacopo Boni, Carlota Rubio-Perez, Nuria López-Bigas, Cristina Fillat, and Susana de la Luna. The dyrk family of kinases in cancer: molecular functions and therapeutic opportunities. Cancers, 12(8):2106, July 2020. URL: http://dx.doi.org/10.3390/cancers12082106, doi:10.3390/cancers12082106. This article has 60 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers12082106)
+
+[4. (Wippich2013Dual) Frank Wippich, Bernd Bodenmiller, Maria Gustafsson Trajkovska, Stefanie Wanka, Ruedi Aebersold, and Lucas Pelkmans. Dual specificity kinase dyrk3 couples stress granule condensation/dissolution to mtorc1 signaling. Cell, 152(4):791–805, February 2013. URL: http://dx.doi.org/10.1016/j.cell.2013.01.033, doi:10.1016/j.cell.2013.01.033. This article has 494 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2013.01.033)
+
+[5. (Miyata2021Protein) Yoshihiko Miyata and Eisuke Nishida. Protein quality control of dyrk family protein kinases by the hsp90-cdc37 molecular chaperone. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1868(10):119081, September 2021. URL: http://dx.doi.org/10.1016/j.bbamcr.2021.119081, doi:10.1016/j.bbamcr.2021.119081. This article has 5 citations.](https://doi.org/10.1016/j.bbamcr.2021.119081)
+
+[6. (Zhang2005DYRK) Diya Zhang, Ke Li, Connie L. Erickson-Miller, Mitch Weiss, and Don M. Wojchowski. Dyrk gene structure and erythroid-restricted features of dyrk3 gene expression. Genomics, 85(1):117–130, January 2005. URL: http://dx.doi.org/10.1016/j.ygeno.2004.08.021, doi:10.1016/j.ygeno.2004.08.021. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ygeno.2004.08.021)
+
+[7. (Kim2018Crystal) Kuglae Kim, Jeong Seok Cha, Yong-Soon Cho, Hoyoung Kim, Nienping Chang, Hye-Jung Kim, and Hyun-Soo Cho. Crystal structure of human dual-specificity tyrosine-regulated kinase 3 reveals new structural features and insights into its auto-phosphorylation. Journal of Molecular Biology, 430(10):1521–1530, May 2018. URL: http://dx.doi.org/10.1016/j.jmb.2018.04.001, doi:10.1016/j.jmb.2018.04.001. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2018.04.001)

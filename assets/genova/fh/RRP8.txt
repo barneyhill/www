@@ -1,0 +1,37 @@
+# RRP8
+
+## Overview
+RRP8 is a gene that encodes the ribosomal RNA processing 8 protein, which plays a critical role in the biogenesis of ribosomal subunits. The protein is categorized as a methyltransferase, characterized by its methyltransferase domain that is essential for RNA modification processes (Peifer2012Yeast). RRP8 is involved in the processing of ribosomal RNA (rRNA), particularly affecting the cleavage of pre-rRNA at specific sites, which is crucial for the proper assembly of ribosomal subunits (BOUSQUETANTONELLI2000Rrp8p). In addition to its fundamental role in ribosome assembly, RRP8 has been implicated in various cellular processes, including interactions with nucleolar proteins and involvement in cancer pathogenesis, such as hepatocellular carcinoma (You2024RRP8). The gene's expression and functional dynamics make it a significant focus of study in both basic and clinical research contexts.
+
+## Structure
+The RRP8 protein in Saccharomyces cerevisiae, a homolog to the human RRP8, is characterized by a methyltransferase domain located in its C-terminal region, which is crucial for its function in RNA modification (Peifer2012Yeast). This domain exhibits a Rossmann-like fold, a common structural motif for enzymes that bind nucleotides (Peifer2012Yeast). The primary structure of RRP8 consists of 411 amino acids, as suggested by sequence analysis (BOUSQUETANTONELLI2000Rrp8p).
+
+The secondary structure of RRP8 includes motifs typical of S-adenosylmethionine-dependent methyltransferases, such as motifs I, post-I, II, and III, which are essential for its methyltransferase activity (BOUSQUETANTONELLI2000Rrp8p). These motifs form the binding site for S-adenosylmethionine, a critical cofactor for methylation reactions (Peifer2012Yeast).
+
+Mutations in the SAM-binding motif, such as G209R and G209A, significantly affect the protein's function, indicating the importance of this region for its activity (Peifer2012Yeast). The protein is involved in the biogenesis of ribosomal subunits, particularly affecting the processing of 21S rRNA at site A2 (Peifer2012Yeast). The tertiary and quaternary structures of RRP8 are not detailed in the available context. There is no information on post-translational modifications or splice variant isoforms for the human RRP8.
+
+## Clinical Significance
+RRP8 is implicated in hepatocellular carcinoma (HCC), where its overexpression is associated with poor prognosis. High levels of RRP8 expression correlate with unfavorable overall survival, progression-free interval, and disease-specific survival in HCC patients. This overexpression is linked to clinicopathological features such as vascular invasion, histological grade, and pathological T stage, making RRP8 a potential prognostic marker in HCC (You2024RRP8).
+
+Functional studies have demonstrated that knockdown or knockout of RRP8 inhibits liver cancer cell proliferation and migration, suggesting its role in promoting tumor growth. This effect is mediated through the MAPK and β-catenin signaling pathways, which are crucial for cancer cell proliferation and migration (You2024RRP8).
+
+RRP8 is also involved in immune cell infiltration in HCC, with its expression correlating with specific immune cell types, such as NK CD56bright and Th2 cells. This suggests that RRP8 may influence the tumor microenvironment and immune response in HCC (You2024RRP8).
+
+Overall, RRP8's role in HCC highlights its potential as a therapeutic target, given its involvement in tumor progression and immune interactions (You2024RRP8).
+
+## Interactions
+RRP8, a nucleolar protein, is involved in ribosomal RNA processing and interacts with various proteins and nucleic acids. It is functionally linked to Gar1p, an essential component of H/ACA snoRNPs, which are crucial for the chemical modifications and processing of ribosomal RNAs. Although RRP8 does not appear to be a core component of snoRNPs, it shares a sedimentation profile with Gar1p, suggesting a potential association with H/ACA snoRNPs (BOUSQUETANTONELLI2000Rrp8p). 
+
+RRP8 is also involved in pre-rRNA processing at site A2, and its absence leads to the accumulation of 35S and 32S pre-rRNAs, indicating impaired cleavage at this site (BOUSQUETANTONELLI2000Rrp8p). Despite these interactions, RRP8 does not coimmunoprecipitate with snoRNAs or copurify with snoRNP proteins, suggesting that its interactions may be transient or indirect (BOUSQUETANTONELLI2000Rrp8p).
+
+The protein's interaction with Gar1p is further supported by genetic studies, where a synthetic lethal interaction is observed between RRP8 and a gar1 mutant lacking glycine/arginine-rich domains (Peifer2012Yeast). This interaction suggests that RRP8 may play a role in ribosome assembly and rRNA processing, potentially involving the 60S subunit.
+
+
+## References
+
+
+[1. (You2024RRP8) Kai You, Xingxing Du, Yunzheng Zhao, Fukai Wen, Zhaoyang Lu, and Huitao Fan. Rrp8, associated with immune infiltration, is a prospective therapeutic target in hepatocellular carcinoma. Journal of Cancer Research and Clinical Oncology, May 2024. URL: http://dx.doi.org/10.1007/s00432-024-05756-9, doi:10.1007/s00432-024-05756-9. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00432-024-05756-9)
+
+[2. (BOUSQUETANTONELLI2000Rrp8p) CÉCILE BOUSQUET-ANTONELLI, EMMANUEL VANROBAYS, JEAN-PAUL GÉLUGNE, MICHÈLE CAIZERGUES-FERRER, and YVES HENRY. Rrp8p is a yeast nucleolar protein functionally linked to gar1p and involved in pre-rrna cleavage at site a2. RNA, 6(6):826–843, June 2000. URL: http://dx.doi.org/10.1017/s1355838200992288, doi:10.1017/s1355838200992288. This article has 42 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1017/s1355838200992288)
+
+[3. (Peifer2012Yeast) Christian Peifer, Sunny Sharma, Peter Watzinger, Stefanie Lamberth, Peter Kötter, and Karl-Dieter Entian. Yeast rrp8p, a novel methyltransferase responsible for m1a 645 base modification of 25s rrna. Nucleic Acids Research, 41(2):1151–1163, November 2012. URL: http://dx.doi.org/10.1093/nar/gks1102, doi:10.1093/nar/gks1102. This article has 95 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gks1102)

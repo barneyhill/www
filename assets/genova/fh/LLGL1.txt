@@ -1,0 +1,50 @@
+# LLGL1
+
+## Overview
+LLGL1, or Lethal giant larvae homolog 1, is a gene that encodes the protein LLGL scribble cell polarity complex component 1, commonly referred to as Lgl1. This protein is a crucial component of the Scribble complex, which is instrumental in establishing and maintaining cell polarity, particularly apical-basal polarity in epithelial cells. Lgl1 is characterized by its double beta-propeller structure and is involved in various cellular processes, including cell proliferation, differentiation, and migration. It plays a significant role in tissue organization and development, acting as a tumor suppressor and contributing to the regulation of asymmetric cell division and neurogenesis. The protein's interactions with other components, such as the Par6-aPKC complex, underscore its importance in maintaining cellular integrity and preventing neoplastic transformations (Earl2024Capture; Klezovitch2004Loss; Dash2018Diverging).
+
+## Structure
+The LLGL1 protein is characterized by a double beta-propeller structure, with significant interactions involving its second beta-propeller and the aPKCι kinase domain. This interaction is facilitated by both acidic and hydrophobic contacts, providing a large surface area for binding (Earl2024Capture). LLGL1 also contains a membrane-binding loop (10-11) that includes the P-site, crucial for phosphorylation (Earl2024Capture). 
+
+A notable feature of LLGL1 is its internal PDZ-binding motif (PBM), which binds to the Par6 PDZ domain. This motif is highly conserved and forms a short β-strand that completes the central Par6 PDZ domain β-sheet (Earl2024Capture). The loop (10-11) of LLGL1 is tethered to both aPKCι KD and Par6 PDZ, forming a molecular 'plug' domain around the phosphorylation site Llgl1 pS663, effectively blocking access to other phospho-acceptor sites (Earl2024Capture).
+
+Post-translational modifications of LLGL1 include phosphorylation, which is crucial for its function and interaction with other proteins in the complex (Earl2024Capture). The phosphorylation trajectory of LLGL1 involves progression from an unphosphorylated state to multiple phosphorylation states (Earl2024Capture).
+
+## Function
+The LLGL1 gene encodes a protein that plays a critical role in maintaining cell polarity and epithelial integrity. It is a component of the Scribble complex, which is essential for establishing apical-basal polarity in epithelial cells, influencing tissue organization and development. LLGL1 is involved in regulating cell proliferation, differentiation, and migration, contributing to the proper development and maintenance of tissues (Bii2023Lethal; Dash2018Diverging).
+
+In hematopoietic stem cells (HSCs), LLGL1 enhances self-renewal and increases the fitness of these cells, indicating its role in cell cycle regulation and cellular stress responses (Dash2018Diverging). LLGL1 interacts with the Par complex and is linked to actin assembly, which is crucial for maintaining cell structure and function (Dash2018Diverging).
+
+In the developing brain, LLGL1 is vital for maintaining cell polarity and regulating asymmetric cell division, which is necessary for proper neuronal differentiation and tissue organization. It localizes the Notch inhibitor Numb, ensuring correct cell cycle exit and differentiation (Klezovitch2004Loss). LLGL1's role in these processes underscores its importance in neurogenesis and preventing neoplastic transformations (Klezovitch2004Loss).
+
+## Clinical Significance
+Mutations or alterations in the expression of the LLGL1 gene have been implicated in various diseases, particularly in the context of cancer and cardiac development. In acute myeloid leukemia (AML), LLGL1 is crucial for maintaining the proliferative capacity and stemness of leukemic cells. Inactivation of LLGL1 in AML models leads to decreased proliferation and a shift towards a more differentiated cell phenotype, suggesting its potential as a therapeutic target in AML treatment (Eifert2023Cell).
+
+In the context of cardiac development, LLGL1 plays a significant role in maintaining ventricular wall integrity. Mutations in LLGL1 can lead to defects in heart morphogenesis, such as dysmorphic ventricles and reduced looping morphogenesis, which are similar to those observed in other mutants affecting apicobasal polarity. These defects are linked to conditions like Smith-Magenis syndrome, where LLGL1 is located within the microdeletion region on chromosome 17, potentially contributing to the cardiac defects observed in patients (Pollitt2023Llgl1).
+
+In mouse skin epidermis, LLGL1, along with LLGL2, functions as a tumor suppressor. Loss of LLGL1/2 leads to hyperproliferation of keratinocytes and activation of the NF-kB signaling pathway, which may contribute to tumor formation, particularly in the presence of Trp53 heterozygosity (Bii2023Lethal).
+
+## Interactions
+The LLGL1 gene encodes the protein Lgl1, which is a component of the Scribble cell polarity complex and plays a significant role in maintaining cell polarity and tumor suppression. Lgl1 interacts with several proteins, forming both stable and transitory complexes that are crucial for its function. One of the key interactions is with the Par6-aPKC complex, where Lgl1 is phosphorylated by atypical protein kinase C (aPKC) in a complex with Par6 and activated Rac. This phosphorylation is essential for regulating cell polarity and is involved in processes such as asymmetric cell division (Lavictoire2020Rac; Betschinger2003The).
+
+Lgl1 also forms a stable tripartite complex with aPKC and Par6, which involves a docking site on aPKCι and a PDZ contact on Par6. This complex regulates the phosphorylation state of Lgl1, affecting its interactions and function in cell polarity (Earl2024Capture). Additionally, Lgl1 interacts with nonmuscle myosin II, which is crucial for asymmetric cell division and proper protein localization, suggesting a role in regulating the actin/myosin cytoskeleton (Klezovitch2004Loss). These interactions highlight the multifaceted role of Lgl1 in cellular processes related to polarity and division.
+
+
+## References
+
+
+[1. (Eifert2023Cell) Theresa Eifert, Chen-Jen Hsu, Alicia L. Becker, Sarah Graessle, Arik Horne, Franziska Bemmann, Qirui Zhang, Michael Heuser, Valeri Vasioukhin, Sebastian Scholl, Andreas Hochhaus, Florian Siegerist, Nicole Endlich, Lars Bullinger, Steven W. Lane, Simon Haas, Tina M. Schnoeder, and Florian H. Heidel. Cell fate determinant llgl1 is required for propagation of acute myeloid leukemia. Leukemia, 37(10):2027–2035, August 2023. URL: http://dx.doi.org/10.1038/s41375-023-02005-9, doi:10.1038/s41375-023-02005-9. This article has 1 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41375-023-02005-9)
+
+2. (Bii2023Lethal) Lethal giant larvae gene family (Llgl1andLlgl2) functions as a tumor suppressor in mouse skin epidermis. This article has 1 citations.
+
+[3. (Dash2018Diverging) Banaja P. Dash, Tina M. Schnöder, Carolin Kathner, Juliane Mohr, Sönke Weinert, Carolin Herzog, Parimala Sonika Godavarthy, Costanza Zanetti, Florian Perner, Rüdiger Braun-Dullaeus, Björn Hartleben, Tobias B. Huber, Gerd Walz, Michael Naumann, Sarah Ellis, Valera Vasioukhin, Thilo Kähne, Daniela S. Krause, and Florian H. Heidel. Diverging impact of cell fate determinants scrib and llgl1 on adhesion and migration of hematopoietic stem cells. Journal of Cancer Research and Clinical Oncology, 144(10):1933–1944, August 2018. URL: http://dx.doi.org/10.1007/s00432-018-2724-3, doi:10.1007/s00432-018-2724-3. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00432-018-2724-3)
+
+4. (Earl2024Capture) Capture, mutual inhibition and release mechanism for aPKC-Par6 and its multi-site polarity substrate Lgl. This article has 0 citations.
+
+5. (Pollitt2023Llgl1) Llgl1 mediates timely epicardial emergence and establishment of an apical laminin sheath around the trabeculating cardiac ventricle. This article has 0 citations.
+
+[6. (Betschinger2003The) Jörg Betschinger, Karl Mechtler, and Juergen A. Knoblich. The par complex directs asymmetric cell division by phosphorylating the cytoskeletal protein lgl. Nature, 422(6929):326–330, March 2003. URL: http://dx.doi.org/10.1038/nature01486, doi:10.1038/nature01486. This article has 462 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature01486)
+
+7. (Lavictoire2020Rac) Rac guanine nucleotide exchange factors promoting Lgl1 phosphorylation in glioblastoma. This article has 0 citations.
+
+[8. (Klezovitch2004Loss) Olga Klezovitch, Tania E. Fernandez, Stephen J. Tapscott, and Valeri Vasioukhin. Loss of cell polarity causes severe brain dysplasia in lgl1 knockout mice. Genes &amp; Development, 18(5):559–571, March 2004. URL: http://dx.doi.org/10.1101/gad.1178004, doi:10.1101/gad.1178004. This article has 286 citations.](https://doi.org/10.1101/gad.1178004)

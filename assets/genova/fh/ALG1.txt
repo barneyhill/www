@@ -1,0 +1,52 @@
+# ALG1
+
+## Overview
+The ALG1 gene encodes the enzyme ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase, a crucial component in the N-glycosylation pathway. This enzyme is classified as a β-1,4 mannosyltransferase and is integral to the biosynthesis of dolichol-linked oligosaccharides, which are essential for proper protein folding and stability in eukaryotic cells. The ALG1 protein is characterized by its transmembrane domain, which anchors it to the endoplasmic reticulum (ER) membrane, and its ability to form oligomeric complexes with other mannosyltransferases, such as Alg2 and Alg11. These interactions facilitate the sequential addition of mannose residues, a critical step in the formation of mature lipid-linked oligosaccharides. Mutations in the ALG1 gene can lead to congenital disorders of glycosylation (CDG), specifically ALG1-CDG, underscoring its importance in maintaining normal cellular processes and organismal health (Gao2004Physical; Grubenmann2004Deficiency; Xu2018Structural).
+
+## Structure
+The ALG1 protein from Saccharomyces cerevisiae, a model for understanding the human ALG1 gene, is a β-1,4 mannosyltransferase involved in the biosynthesis of dolichol-linked oligosaccharides. The primary structure of ALG1 consists of 449 amino acids with a molecular weight of approximately 51.9 kDa (Albright1990The). The protein features a hydrophobic N-terminal region, predicted to function as a transmembrane domain (TMD), which is crucial for its orientation on the endoplasmic reticulum (ER) membrane (Albright1990The; Xu2018Structural).
+
+The secondary structure includes two distinct Rossmann-fold domains, typical of GT-B glycosyltransferases, spanning from R40 to H449 (Xu2018Structural). The tertiary structure of ALG1 shows high similarity to the E. coli UDP-GlcNAc transferase MurG, a member of the GT-B superfamily, with a conserved catalytic domain at the C-terminus (Xu2018Structural).
+
+In terms of quaternary structure, ALG1 forms oligomeric complexes and interacts with other mannosyltransferases, such as Alg2 and Alg11, indicating a higher-order structure essential for its function in glycosylation processes (Gao2004Physical). The protein's ability to homo-oligomerize is facilitated by a C-terminal domain crucial for its homodimerization (Gao2004Physical).
+
+## Function
+The ALG1 gene encodes a β-1,4 mannosyltransferase enzyme that plays a critical role in the N-glycosylation pathway, a process essential for proper protein folding and stability in eukaryotic cells. This enzyme is responsible for catalyzing the addition of the first mannose residue to the dolichol-linked oligosaccharide (DLO) precursor, GlcNAc2-PP-Dol, forming Man1GlcNAc2-PP-Dol. This step occurs on the cytosolic side of the endoplasmic reticulum (ER) membrane and is crucial for the synthesis of mature lipid-linked oligosaccharides (LLOs) (Li2017Quantitative; Grubenmann2004Deficiency).
+
+ALG1 functions as part of a multi-enzyme complex with Alg2 and Alg11, facilitating the sequential addition of mannose residues to form the Man5GlcNAc2-PP-Dol intermediate. This intermediate is then translocated into the ER lumen for further elongation and processing (Xu2018Structural). The enzyme's activity is highly dependent on its membrane topology, which ensures the correct orientation and interaction with substrates, maintaining the fidelity of the glycosylation process (Xu2018Structural).
+
+Mutations in the ALG1 gene can lead to congenital disorders of glycosylation (CDG), highlighting its importance in maintaining normal cellular processes and organismal health (Grubenmann2004Deficiency).
+
+## Clinical Significance
+Mutations in the ALG1 gene are associated with congenital disorders of glycosylation (CDG), specifically ALG1-CDG, also known as CDG-Ik. This rare multisystem disease is characterized by impaired synthesis, transfer, and processing of sugars, leading to hypoglycosylation of proteins. Clinical manifestations of ALG1-CDG include developmental delays, neurological symptoms such as seizures and intellectual disability, microcephaly, hypotonia, and multiorgan involvement (GonzálezDomínguez2021ALG1CDG; Harshman2016Congenital). 
+
+Patients with ALG1-CDG may also present with cortical-subcortical frontotemporal atrophy, hypoplasia of the frontal lobes, ventriculomegaly, and other neurological abnormalities (GonzálezDomínguez2021ALG1CDG). Additional symptoms can include abnormal fat distribution, strabismus, coagulation abnormalities, and in some cases, congenital nephrotic syndrome and renal failure (Harshman2016Congenital). 
+
+The disorder is caused by various mutations in the ALG1 gene, including missense, nonsense, and splicing mutations, which can lead to non-functional alternative splicing and reduced enzyme activity (GonzálezDomínguez2021ALG1CDG; Morava2012Defining). The presence of a pathognomonic N-linked mannose-deprived tetrasaccharide in serum glycoproteins is a biochemical marker for ALG1-CDG (GonzálezDomínguez2021ALG1CDG).
+
+## Interactions
+ALG1, a β-1,4 mannosyltransferase, is involved in the synthesis of lipid-linked oligosaccharides in the endoplasmic reticulum. It physically interacts with other mannosyltransferases, specifically ALG2 and ALG11, forming oligomeric complexes that are crucial for the biosynthetic pathway. These interactions facilitate the sequential addition of mannose residues, potentially enhancing the efficiency of the process by limiting substrate diffusion distance (Gao2004Physical).
+
+ALG1 can form homodimers, a property not shared by ALG2 and ALG11, which do not self-assemble. The C-terminal domain of ALG1 is essential for its homodimerization, as demonstrated by the alg1-1 mutation, which truncates the C-terminal 16 amino acids and abolishes this ability (Gao2004Physical). Despite this, ALG1 can still interact with ALG2 and ALG11, suggesting that different domains mediate these interactions (Gao2004Physical).
+
+The stoichiometry of the ALG1, ALG2, and ALG11 complex is 2:1:1, respectively, indicating that ALG1 is a central component in these complexes (Xu2018Structural). These interactions are specific, as shown by the lack of co-precipitation with other endoplasmic reticulum membrane proteins (Gao2004Physical).
+
+
+## References
+
+
+[1. (Li2017Quantitative) Sheng-Tao Li, Ning Wang, Sha Xu, Jian Yin, Hideki Nakanishi, Neta Dean, and Xiao-Dong Gao. Quantitative study of yeast alg1 beta-1, 4 mannosyltransferase activity, a key enzyme involved in protein n-glycosylation. Biochimica et Biophysica Acta (BBA) - General Subjects, 1861(1):2934–2941, January 2017. URL: http://dx.doi.org/10.1016/j.bbagen.2016.09.023, doi:10.1016/j.bbagen.2016.09.023. This article has 19 citations.](https://doi.org/10.1016/j.bbagen.2016.09.023)
+
+[2. (Xu2018Structural) Xin-Xin Xu, Sheng-Tao Li, Ning Wang, Toshihiko Kitajima, Takehiko Yoko-o, Morihisa Fujita, Hideki Nakanishi, and Xiao-Dong Gao. Structural and functional analysis of alg1 beta-1,4 mannosyltransferase reveals the physiological importance of its membrane topology. Glycobiology, 28(10):741–753, July 2018. URL: http://dx.doi.org/10.1093/glycob/cwy060, doi:10.1093/glycob/cwy060. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/glycob/cwy060)
+
+[3. (Gao2004Physical) X.-D. Gao. Physical interactions between the alg1, alg2, and alg11 mannosyltransferases of the endoplasmic reticulum. Glycobiology, 14(6):559–570, January 2004. URL: http://dx.doi.org/10.1093/glycob/cwh072, doi:10.1093/glycob/cwh072. This article has 67 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/glycob/cwh072)
+
+[4. (Grubenmann2004Deficiency) C. E. Grubenmann. Deficiency of the first mannosylation step in the n-glycosylation pathway causes congenital disorder of glycosylation type ik. Human Molecular Genetics, 13(5):535–542, January 2004. URL: http://dx.doi.org/10.1093/hmg/ddh050, doi:10.1093/hmg/ddh050. This article has 72 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddh050)
+
+[5. (Albright1990The) C F Albright and R W Robbins. The sequence and transcript heterogeneity of the yeast gene alg1, an essential mannosyltransferase involved in n-glycosylation. Journal of Biological Chemistry, 265(12):7042–7049, April 1990. URL: http://dx.doi.org/10.1016/s0021-9258(19)39256-7, doi:10.1016/s0021-9258(19)39256-7. This article has 54 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/s0021-9258(19)39256-7)
+
+[6. (Morava2012Defining) Eva Morava, Julia Vodopiutz, Dirk J. Lefeber, Andreas R. Janecke, Wolfgang M. Schmidt, Silvia Lechner, Chike B. Item, Jolanta Sykut-Cegielska, Maciej Adamowicz, Jolanta Wierzba, Zong H. Zhang, Ivana Mihalek, Sylvia Stockler, Olaf A. Bodamer, Ludwig Lehle, and Ron A. Wevers. Defining the phenotype in congenital disorder of glycosylation due to alg1 mutations. Pediatrics, 130(4):e1034–e1039, October 2012. URL: http://dx.doi.org/10.1542/peds.2011-2711, doi:10.1542/peds.2011-2711. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1542/peds.2011-2711)
+
+[7. (GonzálezDomínguez2021ALG1CDG) Carlos Alberto González-Domínguez, Moisés O. Fiesco-Roa, Samuel Gómez-Carmona, Anke Paula Ingrid Kleinert-Altamirano, Miao He, Earnest James Paul Daniel, Kimiyo M. Raymond, Melania Abreu-González, Sandra Manrique-Hernández, Ana González-Jaimes, Roberta Salinas-Marín, Carolina Molina-Garay, Karol Carrillo-Sánchez, Luis Leonardo Flores-Lagunes, Marco Jiménez-Olivares, Anallely Muñoz-Rivas, Mario E. Cruz-Muñoz, Matilde Ruíz-García, Hudson H. Freeze, Héctor M. Mora-Montes, Carmen Alaez-Verson, and Iván Martínez-Duncker. Alg1-cdg caused by non-functional alternative splicing involving a novel pathogenic complex allele. Frontiers in Genetics, September 2021. URL: http://dx.doi.org/10.3389/fgene.2021.744884, doi:10.3389/fgene.2021.744884. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2021.744884)
+
+[8. (Harshman2016Congenital) Lyndsay A Harshman, Bobby G Ng, Hudson H Freeze, Pamela Trapane, Anna Dolezal, Patrick D Brophy, and Jane E Brumbaugh. Congenital nephrotic syndrome in an infant with alg1‐congenital disorder of glycosylation. Pediatrics International, 58(8):785–788, June 2016. URL: http://dx.doi.org/10.1111/ped.12988, doi:10.1111/ped.12988. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/ped.12988)

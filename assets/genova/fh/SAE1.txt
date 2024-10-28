@@ -1,0 +1,62 @@
+# SAE1
+
+## Overview
+SAE1 is a gene that encodes the protein SUMO1 activating enzyme subunit 1, which is a crucial component of the SUMOylation pathway. This pathway involves the covalent attachment of small ubiquitin-like modifiers (SUMOs) to target proteins, thereby modulating their function, stability, and localization. The SAE1 protein forms a heterodimer with SAE2, creating an E1 enzyme complex that initiates the activation of SUMO proteins. This activation is essential for various cellular processes, including nuclear transport, transcription regulation, chromosome segregation, and DNA repair (Schulman2009Ubiquitin-like; Gareau2010The). As a part of the SUMO-activating enzyme complex, SAE1 plays a pivotal role in maintaining cellular homeostasis and viability through post-translational modifications. Its involvement in critical cellular functions underscores its significance in both normal physiology and pathological conditions, such as cancer, where its expression levels can influence disease progression and patient prognosis (Yang2019SAE1; Liu2022Bioinformaticsbased).
+
+## Structure
+The SAE1 protein is a component of the SUMO-activating enzyme complex, forming a heterodimer with SAE2. This complex is crucial for the activation of SUMO proteins, which are involved in various cellular processes. The primary structure of SAE1 includes specific amino acid sequences that contribute to its function in the SUMOylation pathway. The secondary structure likely involves alpha helices and beta sheets, although specific details are not provided in the context.
+
+In terms of tertiary structure, SAE1 contributes to the overall 3D shape of the heterodimeric complex with SAE2, which is essential for its enzymatic activity. The quaternary structure of the SAE1/SAE2 complex is characterized by a pseudosymmetric heterodimer, where SAE1 interacts with the adenylation domain of SAE2 (Lois2005Structures). This interaction is crucial for the formation of the E1 enzyme responsible for SUMO activation.
+
+The SAE1/SAE2 complex also contains a Ubiquitin-Fold Domain (UFD), which plays a significant role in binding the E2 enzyme, Ubc9, in the SUMO pathway (Liu2017Structural). Post-translational modifications, such as phosphorylation, may occur, although specific modifications are not detailed in the context.
+
+## Function
+SAE1 (SUMO1 activating enzyme subunit 1) is a critical component of the SUMO-activating enzyme complex, which plays a vital role in the SUMOylation process. This process involves the covalent attachment of small ubiquitin-like modifiers (SUMOs) to target proteins, influencing their function, stability, and localization. SAE1, in conjunction with SAE2, forms a heterodimeric E1 enzyme complex that initiates the activation of SUMO proteins. This activation involves the formation of a thioester bond between the E1 enzyme and SUMO, which is then transferred to the E2 conjugating enzyme, UBC9 (Schulman2009Ubiquitin-like; Johnson2004Protein).
+
+The SUMOylation pathway, facilitated by SAE1, is essential for various cellular processes, including nuclear transport, transcription regulation, chromosome segregation, and DNA repair (Gareau2010The). In healthy human cells, SAE1 is involved in the regulation of protein interactions and functions through post-translational modifications, impacting cellular homeostasis and viability (Schulman2009Ubiquitin-like). The activity of the SUMO E1 enzyme, which includes SAE1, can be regulated by factors such as transcriptional changes and interactions with other proteins, ensuring precise control over SUMOylation and its downstream effects (Gareau2010The).
+
+## Clinical Significance
+Alterations in the expression of the SAE1 gene have been implicated in various cancers, highlighting its clinical significance. In hepatocellular carcinoma (HCC), SAE1 is overexpressed in tumor tissues compared to normal liver tissues, correlating with increased cell proliferation and poor prognosis. Silencing SAE1 reduces cell proliferation, while its overexpression enhances it, suggesting its role in cancer progression (Liu2022Bioinformaticsbased).
+
+In gastric cancer (GC), SAE1 expression is significantly higher in tumor tissues and is associated with poorer patient prognosis. High SAE1 levels correlate with advanced Tumor Node Metastasis (TNM) staging and vascular invasion, indicating its role in tumor progression and as a potential prognostic biomarker (Shi2024ROSmediated).
+
+SAE1 is also upregulated in glioma, where it is linked to higher tumor grades and shorter overall survival. Its expression enhances cell proliferation and migration, suggesting its potential as a therapeutic target (Yang2019SAE1).
+
+In colorectal cancer (CRC), high SAE1 expression is associated with poor overall survival and tumor progression. Knockdown of SAE1 reduces cell viability and increases radiosensitivity, indicating its potential as a therapeutic target in CRC treatment (Wu2023SUMOActivating).
+
+In triple-negative breast cancer (TNBC), SAE1 expression is linked to shorter survival times, with coexpressed genes involved in cell cycle regulation and DNA repair (Wang2021The).
+
+## Interactions
+SAE1, a subunit of the SUMO-activating enzyme complex, plays a crucial role in the SUMOylation process by forming a heterodimer with UBA2. This complex catalyzes the first step of the SUMOylation cascade, which is essential for various cellular processes. SAE1 interacts with several proteins involved in SUMOylation, including UBE2I (UBC9) and SENP1, as well as other proteins like NEDD8, UBE2M, and RANGAP1 (Ong2021SUMOActivating).
+
+In the context of rheumatoid arthritis fibroblast-like synoviocytes (RA FLSs), SAE1/UBA2-mediated SUMOylation is critical for the phosphorylation and nuclear translocation of PKM2, a process that enhances glycolysis and pathogenic behaviors in these cells. The interaction between SUMO-1 and PKM2 is confirmed through coimmunoprecipitation, and this interaction is diminished by SAE1 or UBA2 knockdown (Wang2020Increased).
+
+In glioma, SAE1 enhances Akt SUMOylation and phosphorylation, which are critical pathways in cancer progression. High SAE1 expression correlates with increased SUMOylated and phosphorylated Akt in glioma tissues, and SAE1 knockdown reduces these modifications, leading to cell cycle arrest and apoptosis (Yang2019SAE1). These interactions highlight SAE1's role in modulating key signaling pathways through SUMOylation.
+
+
+## References
+
+
+[1. (Ong2021SUMOActivating) Jiann Ruey Ong, Oluwaseun Adebayo Bamodu, Nguyen Viet Khang, Yen-Kuang Lin, Chi-Tai Yeh, Wei-Hwa Lee, and Yih-Giun Cherng. Sumo-activating enzyme subunit 1 (sae1) is a promising diagnostic cancer metabolism biomarker of hepatocellular carcinoma. Cells, 10(1):178, January 2021. URL: http://dx.doi.org/10.3390/cells10010178, doi:10.3390/cells10010178. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells10010178)
+
+[2. (Shi2024ROSmediated) Liu Shi, Jianfang Shangguan, Ying Lu, Jianfang Rong, Qinyu Yang, Yihan Yang, Chuan Xie, and Xu Shu. Ros-mediated up-regulation of sae1 by helicobacter pylori promotes human gastric tumor genesis and progression. Journal of Translational Medicine, February 2024. URL: http://dx.doi.org/10.1186/s12967-024-04913-5, doi:10.1186/s12967-024-04913-5. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-024-04913-5)
+
+[3. (Liu2022Bioinformaticsbased) Yang Liu, Xiang Wang, Xingzhi Zeng, Yinghua Wu, Xinrong Liu, Juan Tan, and Xiaoyan Li. Bioinformatics-based analysis of sumoylation-related genes in hepatocellular carcinoma reveals a role of upregulated sae1 in promoting cell proliferation. Open Medicine, 17(1):1183–1202, January 2022. URL: http://dx.doi.org/10.1515/med-2022-0510, doi:10.1515/med-2022-0510. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/med-2022-0510)
+
+[4. (Schulman2009Ubiquitin-like) Brenda A. Schulman and J. Wade Harper. Ubiquitin-like protein activation by e1 enzymes: the apex for downstream signalling pathways. Nature Reviews Molecular Cell Biology, 10(5):319–331, April 2009. URL: http://dx.doi.org/10.1038/nrm2673, doi:10.1038/nrm2673. This article has 667 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrm2673)
+
+[5. (Liu2017Structural) Bing Liu, L. Maria Lois, and David Reverter. Structural analysis and evolution of specificity of the sumo ufd e1-e2 interactions. Scientific Reports, February 2017. URL: http://dx.doi.org/10.1038/srep41998, doi:10.1038/srep41998. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep41998)
+
+[6. (Wang2021The) Qingshui Wang, Wenting Zhong, Lin Deng, Qili Lin, Youyu Lin, Hongxia Liu, Luyun Xu, Lingfang Lu, Yajuan Chen, Jianping Huang, Meichen Jiang, Han Xiao, Jie Zhang, He Li, Yuxiang Lin, Chuangui Song, and Yao Lin. The expression and prognostic value of sumo1-activating enzyme subunit 1 and its potential mechanism in triple-negative breast cancer. Frontiers in Cell and Developmental Biology, September 2021. URL: http://dx.doi.org/10.3389/fcell.2021.729211, doi:10.3389/fcell.2021.729211. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.729211)
+
+[7. (Lois2005Structures) Luisa Maria Lois and Christopher D Lima. Structures of the sumo e1 provide mechanistic insights into sumo activation and e2 recruitment to e1. The EMBO Journal, 24(3):439–451, January 2005. URL: http://dx.doi.org/10.1038/sj.emboj.7600552, doi:10.1038/sj.emboj.7600552. This article has 353 citations.](https://doi.org/10.1038/sj.emboj.7600552)
+
+[8. (Johnson2004Protein) Erica S. Johnson. Protein modification by sumo. Annual Review of Biochemistry, 73(1):355–382, June 2004. URL: http://dx.doi.org/10.1146/annurev.biochem.73.011303.074118, doi:10.1146/annurev.biochem.73.011303.074118. This article has 1401 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1146/annurev.biochem.73.011303.074118)
+
+[9. (Wang2020Increased) Cuicui Wang, Youjun Xiao, Minxi Lao, Jingnan Wang, Siqi Xu, Ruiru Li, Xuanxian Xu, Yu Kuang, Maohua Shi, Yaoyao Zou, Qingwen Wang, Liuqin Liang, Song Guo Zheng, and Hanshi Xu. Increased sumo-activating enzyme sae1/uba2 promotes glycolysis and pathogenic behavior of rheumatoid fibroblast-like synoviocytes. JCI Insight, September 2020. URL: http://dx.doi.org/10.1172/jci.insight.135935, doi:10.1172/jci.insight.135935. This article has 31 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1172/jci.insight.135935)
+
+[10. (Wu2023SUMOActivating) Yueh-Jung Wu, Siang-Ting Huang, Ya-Hui Chang, Shih-Yi Lin, Weng-Ling Lin, Ying-Jung Chen, and Shang-Tao Chien. Sumo-activating enzyme subunit 1 is associated with poor prognosis, tumor progression, and radio-resistance in colorectal cancer. Current Issues in Molecular Biology, 45(10):8013–8026, September 2023. URL: http://dx.doi.org/10.3390/cimb45100506, doi:10.3390/cimb45100506. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cimb45100506)
+
+[11. (Gareau2010The) Jaclyn R. Gareau and Christopher D. Lima. The sumo pathway: emerging mechanisms that shape specificity, conjugation and recognition. Nature Reviews Molecular Cell Biology, 11(12):861–871, November 2010. URL: http://dx.doi.org/10.1038/nrm3011, doi:10.1038/nrm3011. This article has 910 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrm3011)
+
+[12. (Yang2019SAE1) Yanfang Yang, Ziwei Liang, Zijing Xia, Xixi Wang, Yanni Ma, Zenghua Sheng, Qingjia Gu, Guobo Shen, Liangxue Zhou, Hongxia Zhu, Ningzhi Xu, and Shufang Liang. Sae1 promotes human glioma progression through activating akt sumoylation-mediated signaling pathways. Cell Communication and Signaling, July 2019. URL: http://dx.doi.org/10.1186/s12964-019-0392-9, doi:10.1186/s12964-019-0392-9. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12964-019-0392-9)

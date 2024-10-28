@@ -1,0 +1,28 @@
+# CYREN
+
+## Overview
+CYREN is a gene that encodes the protein known as the cell cycle regulator of non-homologous end joining (NHEJ), also referred to as C7orf49. This protein plays a pivotal role in the regulation of DNA repair mechanisms, specifically during the S and G2 phases of the cell cycle. CYREN functions as an inhibitor of the classical non-homologous end joining (cNHEJ) pathway, thereby promoting homologous recombination (HR), which is a more precise DNA repair process. The protein achieves this by interacting with the Ku70/80 complex, a critical component of the cNHEJ pathway, through a specific domain in its N-terminus. This interaction sequesters the Ku heterodimer away from DNA double-strand breaks, thus favoring HR over cNHEJ during these cell cycle phases. The regulation of DNA repair pathway choice by CYREN is essential for maintaining genomic stability, particularly at telomeres, where it prevents inappropriate end joining and potential chromosomal translocations (Ghosh2021Nonhomologous; Arnoult2017Regulation).
+
+## Function
+The CYREN protein, also known as C7orf49, plays a critical role in regulating DNA repair pathway choice during the S and G2 phases of the cell cycle. It functions as an inhibitor of the classical non-homologous end joining (cNHEJ) pathway, particularly at DNA breaks with overhangs, thereby promoting homologous recombination (HR), which is a more accurate repair mechanism. This regulation is crucial for maintaining genomic stability, as HR uses sister chromatids as templates, which are available during these phases (Arnoult2017Regulation).
+
+CYREN achieves its inhibitory function by interacting with the Ku70/80 complex, a key component of the cNHEJ pathway, through a specific interaction domain in its N-terminus. This interaction sequesters the Ku heterodimer away from DNA double-strand breaks, favoring HR over cNHEJ during the S and G2 phases (Ghosh2021Nonhomologous; Arnoult2017Regulation). CYREN's activity is not regulated by its expression levels but is restricted to these cell cycle phases due to its interaction with Ku70/80 (Arnoult2017Regulation). This selective inhibition of cNHEJ by CYREN is particularly important at telomeres, where it prevents inappropriate end joining and potential chromosomal translocations (Arnoult2017Regulation).
+
+## Interactions
+CYREN, also known as the cell cycle regulator of non-homologous end joining (NHEJ), interacts with the Ku70/80 heterodimer, a key component of the NHEJ DNA repair pathway. This interaction is mediated through the Ku-binding motif (KBM) on CYREN, which includes the residues R11, P14, and W16. These residues are crucial for binding to Ku70/80, and mutations such as P14A and W16A disrupt this interaction (Frit2019Plugged; Arnoult2017Regulation).
+
+CYREN's interaction with Ku70/80 is specific to the S and G2 phases of the cell cycle. During these phases, CYREN inhibits classical NHEJ (cNHEJ) by diminishing the recruitment of Ku70/80 to DNA double-strand break (DSB) sites. This creates an environment that favors homologous recombination (HR) over cNHEJ, promoting error-free repair when sister chromatids are available (Arnoult2017Regulation; Jiang2021Microproteins:).
+
+CYREN does not form part of the cNHEJ machinery itself but acts as a regulator by binding to Ku70/80. This binding prevents cNHEJ from dominating over HR in the S and G2 phases, particularly at DNA breaks with overhangs (Arnoult2017Regulation).
+
+
+## References
+
+
+[1. (Ghosh2021Nonhomologous) Dipayan Ghosh and Sathees C. Raghavan. Nonhomologous end joining: new accessory factors fine tune the machinery. Trends in Genetics, 37(6):582–599, June 2021. URL: http://dx.doi.org/10.1016/j.tig.2021.03.001, doi:10.1016/j.tig.2021.03.001. This article has 52 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tig.2021.03.001)
+
+[2. (Frit2019Plugged) Philippe Frit, Virginie Ropars, Mauro Modesti, Jean Baptiste Charbonnier, and Patrick Calsou. Plugged into the ku-dna hub: the nhej network. Progress in Biophysics and Molecular Biology, 147:62–76, October 2019. URL: http://dx.doi.org/10.1016/j.pbiomolbio.2019.03.001, doi:10.1016/j.pbiomolbio.2019.03.001. This article has 68 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.pbiomolbio.2019.03.001)
+
+[3. (Arnoult2017Regulation) Nausica Arnoult, Adriana Correia, Jiao Ma, Anna Merlo, Sara Garcia-Gomez, Marija Maric, Marco Tognetti, Christopher W. Benner, Simon J. Boulton, Alan Saghatelian, and Jan Karlseder. Regulation of dna repair pathway choice in s and g2 phases by the nhej inhibitor cyren. Nature, 549(7673):548–552, September 2017. URL: http://dx.doi.org/10.1038/nature24023, doi:10.1038/nature24023. This article has 255 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature24023)
+
+[4. (Jiang2021Microproteins:) Meiqian Jiang, Huiqiang Lou, and Wenya Hou. Microproteins: from behind the scenes to the spotlight. Genome Instability &amp; Disease, 2(4):225–239, May 2021. URL: http://dx.doi.org/10.1007/s42764-021-00040-3, doi:10.1007/s42764-021-00040-3. This article has 6 citations.](https://doi.org/10.1007/s42764-021-00040-3)

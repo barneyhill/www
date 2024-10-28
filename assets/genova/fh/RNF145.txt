@@ -1,0 +1,48 @@
+# RNF145
+
+## Overview
+RNF145 is a gene that encodes the protein ring finger protein 145, which is categorized as an E3 ubiquitin ligase. This protein is integral to the endoplasmic reticulum (ER) membrane and plays a crucial role in cholesterol metabolism and homeostasis. The protein is characterized by a RING finger domain, essential for its ubiquitin ligase activity, and a sterol-sensing domain (SSD) that regulates cholesterol metabolism through interactions with Insig proteins (Jiang2018Ring; Cook2017Identification). RNF145 is involved in the ubiquitination of key proteins such as SCAP and HMG-CoA reductase, thereby modulating cholesterol biosynthesis pathways (Jiang2018Ring; Zhang2017Inhibition). Its activity is regulated by liver-X receptors and is responsive to sterol levels, underscoring its role in maintaining cholesterol homeostasis (Cook2017Identification). Additionally, RNF145 has been implicated in various cancers, including oral squamous cell carcinoma and hepatocellular carcinoma, where its expression influences tumor progression and cell proliferation (Rong2022CircZDBF2; Li2023Hypoxiabased).
+
+## Structure
+RNF145 is a protein characterized by the presence of a RING finger domain at its C-terminus, which is crucial for its E3 ubiquitin ligase activity (Jiang2018Ring; Zhang2017Inhibition). This domain facilitates the transfer of ubiquitin to substrate proteins, a key process in protein degradation and regulation. RNF145 also contains a sterol-sensing domain (SSD) within its N-terminal region, which is involved in the regulation of cholesterol metabolism (Jiang2018Ring; Cook2017Identification). The SSD includes a conserved YLYF tetrapeptide motif, essential for its interaction with Insig proteins and its function in sterol-induced degradation of HMG-CoA reductase (HMGCR) (Jiang2018Ring).
+
+The protein is predicted to have 14 transmembrane helices, with both the N- and C-termini facing the cytoplasm, indicating its localization to the endoplasmic reticulum (ER) (Cook2017Identification). Immunofluorescence studies confirm RNF145 as an integral ER membrane protein (Zhang2017Inhibition). RNF145 shares sequence homology with RNF139/TRC8, another ER-resident E3 ligase involved in sterol metabolism (Cook2017Identification). The protein may undergo post-translational modifications such as ubiquitination, which is central to its function as an E3 ligase (Jiang2018Ring).
+
+## Function
+RNF145 is an E3 ubiquitin ligase that plays a significant role in cholesterol metabolism and homeostasis in human cells. It is an endoplasmic reticulum (ER)-resident protein that contains a RING finger domain, which is crucial for its ubiquitin ligase activity (Jiang2018Ring; Cook2017Identification). RNF145 is involved in the regulation of cholesterol biosynthesis by modulating the degradation of key enzymes and proteins involved in this pathway.
+
+One of the primary functions of RNF145 is to mediate the ubiquitination of SCAP (SREBP cleavage-activating protein), which is essential for the transport and processing of SREBP-2, a key regulator of cholesterol biosynthesis. This ubiquitination inhibits the processing of SREBP-2, thereby reducing the expression of cholesterol biosynthetic genes and lowering serum cholesterol levels (Zhang2017Inhibition). RNF145 also interacts with Insig proteins to facilitate the sterol-induced degradation of HMG-CoA reductase (HMGCR), another critical enzyme in cholesterol biosynthesis (Menzies2018The; Jiang2018Ring).
+
+RNF145's activity is regulated by liver-X receptors (LXRs) and is responsive to sterol levels, indicating its role in maintaining cholesterol homeostasis (Cook2017Identification; Zhang2017Inhibition).
+
+## Clinical Significance
+Alterations in the expression of the RNF145 gene have been implicated in several diseases. In the context of oral squamous cell carcinoma (OSCC), RNF145 is overexpressed, promoting cell proliferation, migration, invasion, and the epithelial-mesenchymal transition (EMT) process. This overexpression activates the NFκB signaling pathway, which regulates the transcription of IL-8, a factor known to promote tumorigenesis in OSCC. The circZDBF2/RNF145 axis is a regulatory mechanism in OSCC progression, where circZDBF2 up-regulates RNF145, facilitating tumor growth (Rong2022CircZDBF2).
+
+In hepatocellular carcinoma (HCC), RNF145 is up-regulated under hypoxic conditions, contributing to increased cell proliferation and migration. Inhibiting RNF145 expression in HCC cells leads to decreased proliferation and migration, suggesting its potential as a therapeutic target (Li2023Hypoxiabased).
+
+RNF145 also plays a role in cholesterol metabolism. It is involved in the ubiquitination of SCAP, inhibiting the processing of SREBP-2, a key regulator of cholesterol biosynthesis. Alterations in RNF145 expression or mutations affecting its E3 ligase activity could impact cholesterol metabolism, potentially linking it to conditions related to cholesterol dysregulation (Zhang2017Inhibition).
+
+## Interactions
+RNF145 is an E3 ubiquitin ligase that interacts with several proteins involved in cholesterol biosynthesis and regulation. It physically interacts with Insig-1 and Insig-2 proteins, which are crucial for its function in ubiquitinating HMG-CoA reductase (HMGCR), a key enzyme in cholesterol biosynthesis. This interaction is necessary for the sterol-induced degradation of HMGCR, highlighting the role of RNF145 in cholesterol homeostasis (Menzies2018The; Jiang2018Ring).
+
+RNF145 also interacts with gp78, another E3 ubiquitin ligase, to mediate the degradation of HMGCR. While RNF145 and gp78 can independently regulate HMGCR degradation, their combined activity is essential for significant sterol-induced degradation, indicating a degree of functional redundancy (Menzies2018The; menzies2018ubiquitin).
+
+Additionally, RNF145 is involved in the ubiquitination of SCAP, a regulator of SREBP signaling, without leading to its degradation. This interaction affects SCAP's interactions with SREBP-1 and SREBP-2, influencing cholesterol biosynthesis (Zhang2017Inhibition). RNF145's interaction with Insigs and SCAP suggests its role in modulating cholesterol biosynthesis through multiple pathways (Jiang2018Ring; Zhang2017Inhibition).
+
+
+## References
+
+
+[1. (Rong2022CircZDBF2) Liang Rong, Bo Chen, Ke Liu, Bingyao Liu, Xinyao He, Juan Liu, Junxia Li, Maodian He, Lei Zhu, Ke Liu, Xiaolei Shi, Yi Shuai, and Lei Jin. Circzdbf2 up-regulates rnf145 by cerna model and recruits cebpb to accelerate oral squamous cell carcinoma progression via nfκb signaling pathway. Journal of Translational Medicine, April 2022. URL: http://dx.doi.org/10.1186/s12967-022-03347-1, doi:10.1186/s12967-022-03347-1. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-022-03347-1)
+
+2. (menzies2018ubiquitin) Ubiquitin E3 ligase mediated regulation of HMG-CoA Reductase. This article has 0 citations.
+
+[3. (Li2023Hypoxiabased) Ke Li, Yanfang Yang, Mingwei Ma, Suping Lu, and Junjie Li. Hypoxia-based classification and prognostic signature for clinical management of hepatocellular carcinoma. World Journal of Surgical Oncology, July 2023. URL: http://dx.doi.org/10.1186/s12957-023-03090-x, doi:10.1186/s12957-023-03090-x. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12957-023-03090-x)
+
+[4. (Menzies2018The) Sam A Menzies, Norbert Volkmar, Dick JH van den Boomen, Richard T Timms, Anna S Dickson, James A Nathan, and Paul J Lehner. The sterol-responsive rnf145 e3 ubiquitin ligase mediates the degradation of hmg-coa reductase together with gp78 and hrd1. eLife, December 2018. URL: http://dx.doi.org/10.7554/elife.40009, doi:10.7554/elife.40009. This article has 85 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.40009)
+
+[5. (Cook2017Identification) Emma C. L. Cook, Jessica K. Nelson, Vincenzo Sorrentino, Duco Koenis, Martina Moeton, Saskia Scheij, Roelof Ottenhoff, Boris Bleijlevens, Anke Loregger, and Noam Zelcer. Identification of the er-resident e3 ubiquitin ligase rnf145 as a novel lxr-regulated gene. PLOS ONE, 12(2):e0172721, February 2017. URL: http://dx.doi.org/10.1371/journal.pone.0172721, doi:10.1371/journal.pone.0172721. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0172721)
+
+[6. (Jiang2018Ring) Lu-Yi Jiang, Wei Jiang, Na Tian, Yan-Ni Xiong, Jie Liu, Jian Wei, Kai-Yue Wu, Jie Luo, Xiong-Jie Shi, and Bao-Liang Song. Ring finger protein 145 (rnf145) is a ubiquitin ligase for sterol-induced degradation of hmg-coa reductase. Journal of Biological Chemistry, 293(11):4047–4055, March 2018. URL: http://dx.doi.org/10.1074/jbc.ra117.001260, doi:10.1074/jbc.ra117.001260. This article has 74 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra117.001260)
+
+[7. (Zhang2017Inhibition) Li Zhang, Prashant Rajbhandari, Christina Priest, Jaspreet Sandhu, Xiaohui Wu, Ryan Temel, Antonio Castrillo, Thomas Q de Aguiar Vallim, Tamer Sallam, and Peter Tontonoz. Inhibition of cholesterol biosynthesis through rnf145-dependent ubiquitination of scap. eLife, October 2017. URL: http://dx.doi.org/10.7554/elife.28766, doi:10.7554/elife.28766. This article has 43 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.28766)

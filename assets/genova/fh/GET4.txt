@@ -1,0 +1,42 @@
+# GET4
+
+## Overview
+The GET4 gene encodes the protein known as guided entry of tail-anchored proteins factor 4, which plays a pivotal role in the transmembrane domain recognition complex (TRC) pathway. This pathway is essential for the post-translational targeting of tail-anchored (TA) proteins to the endoplasmic reticulum (ER) membrane. The GET4 protein functions as part of a complex with GET5 and BAG6, which is crucial for the stability and regulation of the TRC pathway components, including the ATPase activity of GET3. This regulation ensures the proper insertion of TA proteins into the ER membrane, which is vital for cellular function. Additionally, GET4 is involved in the DNA damage response network, indicating its broader role in cellular homeostasis and stress responses. The protein's interactions and structural features, such as its antiparallel α-helices, suggest evolutionary links to other proteins with helix-turn-helix motifs (Gristick2014Crystal; Chang2010Crystal; Tambe2020Mutations).
+
+## Structure
+
+
+## Function
+The GET4 gene encodes a protein that is a crucial component of the transmembrane domain recognition complex (TRC) pathway, which is responsible for the post-translational targeting of tail-anchored (TA) proteins to the endoplasmic reticulum (ER) membrane. In healthy human cells, GET4 functions as part of a stable complex with GET5 and BAG6, which regulates the stability of each component and interacts with other members of the TRC pathway (Tambe2020Mutations). This complex is essential for stabilizing GET3 in a conformation suitable for loading TA proteins, facilitating their insertion into the ER membrane (Tambe2020Mutations).
+
+GET4 also plays a role in the regulation of GET3 ATPase activity, which is critical for the efficient targeting of TA proteins. The Get4-Get5 complex binds to the ATP-bound state of Get3, inhibiting its ATP hydrolysis and stabilizing it for TA protein binding (Gristick2014Crystal). This regulation is vital for proper cellular function, as disruptions can lead to growth defects (Gristick2014Crystal).
+
+Additionally, GET4 is involved in the DNA damage response (DDR) network, where it translocates to the nucleus in a BAG6-dependent manner upon DNA damage, contributing to DDR signaling (Krenciute2013Nuclear).
+
+## Clinical Significance
+GET4 has been identified as having clinical significance in both cancer and neurodegenerative diseases. In clear cell renal cell carcinoma (ccRCC), GET4 is considered an independent prognostic factor for overall survival. Higher expression levels of GET4 are associated with poorer survival outcomes, suggesting that it may serve as a potential therapeutic target in ccRCC (Shi2021Characteristics). The study indicates that GET4's expression is moderately and broadly present in RCC tissues, and its protein structure includes a ligandable site, which could be exploited for therapeutic interventions (Shi2021Characteristics).
+
+In the context of neurodegenerative diseases, the loss of GET4 has been shown to increase mitochondria-endoplasmic reticulum contact sites (MERCS), which enhances mitochondrial calcium uptake and respiration. This alteration has neuroprotective effects, as demonstrated in a Drosophila model of Alzheimer's disease, where GET4 suppression improved motor performance, sleep patterns, and survival (Wilson2023Genomewide). These findings suggest that targeting GET4 could be beneficial in treating neurodegenerative conditions by enhancing mitochondrial function and providing neuroprotection (Wilson2023Genomewide).
+
+## Interactions
+GET4 is a crucial component of the transmembrane domain recognition complex (TRC) pathway, interacting with several proteins to facilitate the targeting of tail-anchored (TA) proteins to the endoplasmic reticulum (ER). GET4 forms a stable complex with GET5 and BAG6, which is essential for the stability and function of the TRC pathway. This complex regulates the stability of its components and interacts with other TRC pathway proteins (Tambe2020Mutations).
+
+GET4 interacts with the N-terminal domain of SGTA through the ubiquitin-like (UBL) domain of GET5, and with GET3 through its N-terminal region. These interactions are vital for stabilizing GET3 in a conformation suitable for loading TA proteins (Tambe2020Mutations). The interaction between GET3 and the GET4-GET5 complex is mediated by GET4, as deletion of GET4 abolishes this interaction (Chang2010Crystal).
+
+GET4 also interacts with the molecular chaperone YDJ1, suggesting a chaperone-dependent pathway for TA protein insertion (Chang2010Crystal). The structural features of GET4, such as its antiparallel α-helices, suggest an evolutionary relationship to proteins with helix-turn-helix repeats (Chang2010Crystal).
+
+
+## References
+
+
+[1. (Gristick2014Crystal) Harry B Gristick, Meera Rao, Justin W Chartron, Michael E Rome, Shu-ou Shan, and William M Clemons. Crystal structure of atp-bound get3–get4–get5 complex reveals regulation of get3 by get4. Nature Structural &amp; Molecular Biology, 21(5):437–442, April 2014. URL: http://dx.doi.org/10.1038/nsmb.2813, doi:10.1038/nsmb.2813. This article has 64 citations.](https://doi.org/10.1038/nsmb.2813)
+
+[2. (Tambe2020Mutations) Mitali A. Tambe, Bobby G. Ng, Shino Shimada, Lynne A. Wolfe, David R. Adams, William A. Gahl, Michael J. Bamshad, Deborah A. Nickerson, May C. V. Malicdan, and Hudson H. Freeze. Mutations in <scp>get4</scp> disrupt the transmembrane domain recognition complex pathway. Journal of Inherited Metabolic Disease, 43(5):1037–1045, June 2020. URL: http://dx.doi.org/10.1002/jimd.12249, doi:10.1002/jimd.12249. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jimd.12249)
+
+[3. (Krenciute2013Nuclear) Giedre Krenciute, Shangfeng Liu, Nur Yucer, Yi Shi, Priscilla Ortiz, Qiongming Liu, Beom-Jun Kim, Abiola Ore Odejimi, Mei Leng, Jun Qin, and Yi Wang. Nuclear bag6-ubl4a-get4 complex mediates dna damage signaling and cell death. Journal of Biological Chemistry, 288(28):20547–20557, July 2013. URL: http://dx.doi.org/10.1074/jbc.m112.443416, doi:10.1074/jbc.m112.443416. This article has 48 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m112.443416)
+
+4. (Wilson2023Genomewide) Genome-wide CRISPR/Cas9 screen shows that loss of GET4 increases mitochondria-endoplasmic reticulum contact sites and is neuroprotective. This article has 0 citations.
+
+[5. (Shi2021Characteristics) Bowen Shi, Jie Ding, Jun Qi, and Zhengqin Gu. Characteristics and prognostic value of potential dependency genes in clear cell renal cell carcinoma based on a large-scale crispr-cas9 and rnai screening database depmap. International Journal of Medical Sciences, 18(9):2063–2075, 2021. URL: http://dx.doi.org/10.7150/ijms.51703, doi:10.7150/ijms.51703. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/ijms.51703)
+
+[6. (Chang2010Crystal) Yi-Wei Chang, Yu-Chien Chuang, Yu-Chi Ho, Ming-Yuan Cheng, Yuh-Ju Sun, Chwan-Deng Hsiao, and Chung Wang. Crystal structure of get4-get5 complex and its interactions with sgt2, get3, and ydj1. Journal of Biological Chemistry, 285(13):9962–9970, March 2010. URL: http://dx.doi.org/10.1074/jbc.m109.087098, doi:10.1074/jbc.m109.087098. This article has 98 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m109.087098)

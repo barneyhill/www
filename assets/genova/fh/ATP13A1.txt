@@ -1,0 +1,41 @@
+# ATP13A1
+
+## Overview
+ATP13A1 is a gene that encodes the ATPase 13A1 protein, a member of the P5-type ATPase family, specifically within the P5A clade. This protein is characterized by its role as a transmembrane ATPase, primarily localized in the endoplasmic reticulum (ER), where it plays a crucial role in modulating antigen presentation and maintaining ion homeostasis. ATPase 13A1 is involved in the stabilization and surface expression of MR1, a molecule essential for the activation of mucosal-associated invariant T (MAIT) cells, thereby influencing immune responses (Kulicke2021The). The protein's interactions with other ER components, such as GET3 and the SEC61 translocon, highlight its importance in protein translocation and quality control processes within the ER (Yang2024ATP13A1). Despite its significant roles, the precise mechanisms of ATPase 13A1, particularly in ion transport, remain to be fully elucidated (Kulicke2021The).
+
+## Structure
+The ATP13A1 protein is a member of the P5-type ATPase family, specifically classified within the P5A clade. It is characterized by a membrane topology that includes 12 transmembrane helices, which are crucial for its role in substrate transport across the endoplasmic reticulum (ER) membrane (van2014Cellular; Sørensen2018Parkinson). The protein undergoes autophosphorylation, a common post-translational modification among P-type ATPases, which is essential for its function (Sørensen2018Parkinson).
+
+ATP13A1 contains a unique 67-amino acid sequence not found in other mammalian P-type ATPases, but present in yeast Cod1p and orthologs in other species, suggesting a conserved functional role (Schultheis2004Characterization). The protein's structure includes a central cytoplasmic domain with sequences important for catalytic activity, including the phosphorylation site and nucleotide-binding domain (Schultheis2004Characterization).
+
+While specific details on the primary, secondary, tertiary, and quaternary structures are not provided, the protein's evolutionary conservation and functional roles in the ER imply a significant structural complexity necessary for its involvement in protein folding, processing, and ER-related processes (Sørensen2018Parkinson; Huang2021New).
+
+## Function
+ATP13A1 is a P5-ATPase localized in the endoplasmic reticulum (ER) and is involved in modulating MR1-mediated antigen presentation. It functions as a positive regulator of MR1 surface expression, which is crucial for the activation of mucosal-associated invariant T (MAIT) cells. ATP13A1 stabilizes nascent MR1 polypeptides immediately after translation, influencing their synthesis and stability, and thereby affecting MR1 surface expression and antigen presentation (Kulicke2021The).
+
+ATP13A1 is suggested to have a transporter role, potentially affecting ion homeostasis within the ER, similar to its yeast homologue Spf1p, which is involved in ion homeostasis and ER stress (Kulicke2021The). Although ATP13A1 is associated with calcium homeostasis, direct calcium transport activity has not been demonstrated. The protein is implicated in various cellular functions, including protein processing, membrane insertion, and vesicular transport (Kulicke2021The).
+
+Loss of ATP13A1 results in decreased MR1 levels, impacting MR1-mediated antigen presentation without causing elevated ER stress or affecting glycoprotein processing, indicating a specific role in MR1 biogenesis rather than a general defect in protein folding or glycosylation (Kulicke2021The).
+
+## Interactions
+ATP13A1, a P5A-ATPase, is involved in several protein interactions crucial for its function in the endoplasmic reticulum (ER) translocation pathway. It interacts with the protein GET3 to facilitate the translocation of specific substrates to the ER. This interaction is essential for the correct localization and translocation of P5A-dependent signal sequences (SSs) such as LRP8SS. The interaction between ATP13A1 and GET3 is disrupted in ATP13A1 knockout cells, highlighting its importance in the translocation process (Yang2024ATP13A1).
+
+ATP13A1 also engages with the SEC61 translocon, a critical component of the ER translocation machinery. Mutations in ATP13A1, such as D533N, disrupt its interaction with SEC61, affecting the translocation efficiency of certain substrates (Yang2024ATP13A1). Additionally, ATP13A1 interacts with the SRP complex, specifically SRP54, which is crucial for the initial ER targeting of SSs (Yang2024ATP13A1).
+
+The protein's interaction with LRP8SS was confirmed through proximity tagging and crosslinking experiments, which identified specific residues within ATP13A1's substrate binding pocket involved in this interaction (Yang2024ATP13A1). These interactions underscore ATP13A1's role in maintaining the efficiency and fidelity of protein translocation and quality control in the ER.
+
+
+## References
+
+
+[1. (van2014Cellular) Sarah van Veen, Danny M. SÃ¸rensen, Tine Holemans, Henrik W. Holen, Michael G. Palmgren, and Peter Vangheluwe. Cellular function and pathological role of atp13a2 and related p-type transport atpases in parkinson’s disease and other neurological disorders. Frontiers in Molecular Neuroscience, May 2014. URL: http://dx.doi.org/10.3389/fnmol.2014.00048, doi:10.3389/fnmol.2014.00048. This article has 61 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fnmol.2014.00048)
+
+[2. (Sørensen2018Parkinson) Danny Mollerup Sørensen, Tine Holemans, Sarah van Veen, Shaun Martin, Tugce Arslan, Ida Winther Haagendahl, Henrik Waldal Holen, Norin Nabil Hamouda, Jan Eggermont, Michael Palmgren, and Peter Vangheluwe. Parkinson disease related atp13a2 evolved early in animal evolution. PLOS ONE, 13(3):e0193228, March 2018. URL: http://dx.doi.org/10.1371/journal.pone.0193228, doi:10.1371/journal.pone.0193228. This article has 44 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0193228)
+
+3. (Yang2024ATP13A1) ATP13A1 engages GET3 to facilitate substrate-specific translocation. This article has 0 citations.
+
+4. (Kulicke2021The) The P5-ATPase ATP13A1 modulates MR1-mediated antigen presentation. This article has 0 citations.
+
+[5. (Schultheis2004Characterization) Patrick J. Schultheis, Tamara T. Hagen, Kate K. O’Toole, Akiko Tachibana, Charles R. Burke, Diana L. McGill, Gbolahan W. Okunade, and Gary E. Shull. Characterization of the p5 subfamily of p-type transport atpases in mice. Biochemical and Biophysical Research Communications, 323(3):731–738, October 2004. URL: http://dx.doi.org/10.1016/j.bbrc.2004.08.156, doi:10.1016/j.bbrc.2004.08.156. This article has 95 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2004.08.156)
+
+[6. (Huang2021New) Zhiwen Huang, Zhigang Feng, and Yan Zou. New wine in old bottles: current progress on p5 atpases. The FEBS Journal, 289(23):7304–7313, September 2021. URL: http://dx.doi.org/10.1111/febs.16172, doi:10.1111/febs.16172. This article has 3 citations.](https://doi.org/10.1111/febs.16172)

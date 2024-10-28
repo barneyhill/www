@@ -1,0 +1,56 @@
+# PELO
+
+## Overview
+The PELO gene encodes the pelota mRNA surveillance and ribosome rescue factor, a protein that plays a pivotal role in maintaining cellular homeostasis through its involvement in ribosome recycling and mRNA surveillance. As a highly conserved protein, pelota is integral to the processes of ribosome rescue, particularly in cells with high protein synthesis demands, such as erythroid cells and platelets. It functions by facilitating the recycling of ribosomes and ensuring the fidelity of mRNA translation, thereby preventing the accumulation of defective mRNA and stalled ribosomes. Pelota's interactions with various proteins, including those associated with the actin cytoskeleton, underscore its multifaceted role in cellular organization and function. Additionally, pelota is implicated in critical cellular pathways, such as no-go decay and non-stop decay, which are essential for the degradation of aberrant mRNA, thus maintaining translational quality control (BurnickaTurek2010Pelota; O’Connell2019Mammalian; Mills2016Dynamic).
+
+## Structure
+The human PELO gene encodes a protein consisting of 385 amino acids with a predicted molecular weight of 43 kDa (Shamsadin2000Molecular). The protein includes a conserved nuclear localization signal (PRKRK), located at amino acids 168-172, which suggests a role in nuclear transport (Shamsadin2002Mouse; Shamsadin2000Molecular). The PELO protein is evolutionarily conserved and shares 70% homology with the Drosophila pelota protein, indicating a conserved function across species (Shamsadin2000Molecular).
+
+PELO interacts with several proteins, including HAX1, EIF3G, and SRPX, forming complexes associated with the actin cytoskeleton. These interactions are facilitated by specific domains within the PELO protein, such as the acidic tail domain (residues 271-285) for HAX1 binding and the C-terminal domain (residues 268-370) for EIF3G and SRPX binding (BurnickaTurek2010Pelota). The protein complexes localize to cytoskeletal filaments, suggesting a role in cytoskeletal organization and mRNA surveillance (BurnickaTurek2010Pelota).
+
+The PELO protein is predominantly found in the cytoskeletal and membrane fractions, with a higher proportion in the cytoskeletal fraction, indicating its association with actin microfilaments (BurnickaTurek2010Pelota).
+
+## Function
+The PELO gene encodes the pelota protein, which plays a crucial role in ribosome rescue and mRNA surveillance in healthy human cells. Pelota is involved in the recycling of ribosomes, particularly in erythroid cells and platelets, where it compensates for the reduced levels of the canonical ribosome recycling factor ABCE1. This function is essential for maintaining ribosome availability and ensuring efficient protein synthesis, such as hemoglobin production during cell differentiation (Mills2016Dynamic).
+
+Pelota also modulates translation start site choice and protein isoform levels of the transcription factor C/EBPα. It influences the balance between different isoforms by removing unrecycled ribosomes that could block translation initiation, thus promoting the expression of the longer isoform of C/EBPα. This regulation is important for normal hematopoiesis and has implications for cellular differentiation and function (Fernandez2023Ribosome).
+
+In addition, Pelota is involved in mRNA surveillance pathways, such as no-go decay and non-stop decay, which are critical for the degradation of aberrant mRNA and maintaining translational quality control. It works in conjunction with HBS1L to stabilize ribosomal function and ensure proper translation processes (O’Connell2019Mammalian).
+
+## Clinical Significance
+Mutations or alterations in the expression of the PELO gene, which encodes the pelota protein, have been linked to several clinical conditions. In the context of skin health, the selective deletion of PELO in mouse epidermal cells results in significant skin abnormalities, such as scaly skin, increased trans-epidermal water loss, hair and weight loss, and delayed wound healing. These phenotypes are associated with increased proliferation and abnormal differentiation of epidermal cells, as well as degeneration of sebaceous glands and hair follicles (LiakathAli2018An). 
+
+PELO also plays a critical role in immune responses. It is involved in the activation of NLR family proteins, which are crucial for innate immune responses. Alterations in PELO expression can impair the activation of inflammasomes, such as NLRP3 and NLRC4, leading to reduced inflammatory responses and impaired immune function (Wu2022Ribosomerescuer). 
+
+In the context of viral infections, PELO is implicated in the replication of the dengue virus in Aedes aegypti cells. While the transcript levels of PELO do not significantly change during infection, its protein levels increase, suggesting a role in the translation of viral genomic RNA and/or the assembly and release of virions (Asad2018Suppression).
+
+## Interactions
+The PELO protein, also known as pelota mRNA surveillance and ribosome rescue factor, participates in various interactions with other proteins, playing significant roles in cellular processes. PELO interacts with HAX1, EIF3G, and SRPX, forming complexes associated with the actin cytoskeleton. These interactions were identified using yeast two-hybrid screens and confirmed through GST pull-down assays and co-immunoprecipitation experiments in HeLa cells. The acidic tail domain of PELO is responsible for binding to HAX1, while the C-terminal domain is essential for binding to EIF3G and SRPX (BurnickaTurek2010Pelota).
+
+In the context of immune responses, PELO interacts with NLR family proteins, specifically activating their ATPase activity, which is crucial for the oligomerization and assembly of inflammasome complexes like NLRC4. This interaction is mediated through the NACHT and LRR domains of NLRs, and PELO acts as a catalyzer rather than a structural component of these complexes (Wu2022Ribosomerescuer).
+
+In prostate cancer, PELO interacts with PLK1 and Smad4, facilitating the ubiquitination and degradation of Smad4, which promotes cancer progression. The interaction between PELO and Smad4 is mediated by the 137-268 amino acid region of PELO (Gao2022PELO).
+
+
+## References
+
+
+[1. (BurnickaTurek2010Pelota) Ozanna Burnicka-Turek, Aleksandra Kata, Byambajav Buyandelger, Linda Ebermann, Nadine Kramann, Peter Burfeind, Sigrid Hoyer-Fender, Wolfgang Engel, and Ibrahim M Adham. Pelota interacts with hax1, eif3g and srpx and the resulting protein complexes are associated with the actin cytoskeleton. BMC Cell Biology, April 2010. URL: http://dx.doi.org/10.1186/1471-2121-11-28, doi:10.1186/1471-2121-11-28. This article has 24 citations.](https://doi.org/10.1186/1471-2121-11-28)
+
+[2. (Mills2016Dynamic) Eric W. Mills, Jamie Wangen, Rachel Green, and Nicholas T. Ingolia. Dynamic regulation of a ribosome rescue pathway in erythroid cells and platelets. Cell Reports, 17(1):1–10, September 2016. URL: http://dx.doi.org/10.1016/j.celrep.2016.08.088, doi:10.1016/j.celrep.2016.08.088. This article has 112 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2016.08.088)
+
+3. (Fernandez2023Ribosome) Ribosome rescue factor PELOTA modulates translation start site choice and protein isoform levels of transcription factor C/EBPα. This article has 1 citations.
+
+4. (Wu2022Ribosomerescuer) Ribosome-rescuer PELO catalyzes the oligomeric assembly of NLR family proteins via activating their ATPase. This article has 0 citations.
+
+[5. (LiakathAli2018An) Kifayathullah Liakath-Ali, Eric W. Mills, Inês Sequeira, Beate M. Lichtenberger, Angela Oliveira Pisco, Kalle H. Sipilä, Ajay Mishra, Harunori Yoshikawa, Colin Chih-Chien Wu, Tony Ly, Angus I. Lamond, Ibrahim M. Adham, Rachel Green, and Fiona M. Watt. An evolutionarily conserved ribosome-rescue pathway maintains epidermal homeostasis. Nature, 556(7701):376–380, April 2018. URL: http://dx.doi.org/10.1038/s41586-018-0032-3, doi:10.1038/s41586-018-0032-3. This article has 47 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-018-0032-3)
+
+[6. (Asad2018Suppression) Sultan Asad, Mazhar Hussain, Leon Hugo, Solomon Osei-Amo, Guangmei Zhang, Daniel Watterson, and Sassan Asgari. Suppression of the pelo protein by wolbachia and its effect on dengue virus in aedes aegypti. PLOS Neglected Tropical Diseases, 12(4):e0006405, April 2018. URL: http://dx.doi.org/10.1371/journal.pntd.0006405, doi:10.1371/journal.pntd.0006405. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pntd.0006405)
+
+[7. (Shamsadin2000Molecular) R. Shamsadin, I.M. Adham, G. von Beust, and W. Engel. Molecular cloning, expression and chromosome location of the human pelota gene pelo. Cytogenetic and Genome Research, 90(1–2):75–78, 2000. URL: http://dx.doi.org/10.1159/000015667, doi:10.1159/000015667. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1159/000015667)
+
+[8. (Gao2022PELO) Ping Gao, Jing-Lan Hao, Qian-Wen Xie, Gui-Qin Han, Bin-Bing Xu, Hang Hu, Na-Er Sa, Xiao-Wen Du, Hai-Long Tang, Jian Yan, and Xiao-Ming Dong. Pelo facilitates plk1-induced the ubiquitination and degradation of smad4 and promotes the progression of prostate cancer. Oncogene, 41(21):2945–2957, April 2022. URL: http://dx.doi.org/10.1038/s41388-022-02316-8, doi:10.1038/s41388-022-02316-8. This article has 8 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-022-02316-8)
+
+[9. (Shamsadin2002Mouse) R. Shamsadin, I.M. Adham, and W. Engel. Mouse pelota gene &lt;i&gt;(pelo):&lt;/i&gt; cdna cloning, genomic structure, and chromosomal localization. Cytogenetic and Genome Research, 97(1–2):95–99, 2002. URL: http://dx.doi.org/10.1159/000064059, doi:10.1159/000064059. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1159/000064059)
+
+[10. (O’Connell2019Mammalian) Amy E. O’Connell, Maxim V. Gerashchenko, Marie-Francoise O’Donohue, Samantha M. Rosen, Eric Huntzinger, Diane Gleeson, Antonella Galli, Edward Ryder, Siqi Cao, Quinn Murphy, Shideh Kazerounian, Sarah U. Morton, Klaus Schmitz-Abe, Vadim N. Gladyshev, Pierre-Emmanuel Gleizes, Bertrand Séraphin, and Pankaj B. Agrawal. Mammalian hbs1l deficiency causes congenital anomalies and developmental delay associated with pelota depletion and 80s monosome accumulation. PLOS Genetics, 15(2):e1007917, February 2019. URL: http://dx.doi.org/10.1371/journal.pgen.1007917, doi:10.1371/journal.pgen.1007917. This article has 19 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1007917)

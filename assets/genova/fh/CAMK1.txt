@@ -1,0 +1,50 @@
+# CAMK1
+
+## Overview
+CAMK1, or calcium/calmodulin-dependent protein kinase I, is a gene that encodes a serine/threonine kinase involved in a variety of cellular processes. The protein product of CAMK1 is activated by calcium-bound calmodulin, which facilitates its role in calcium signaling pathways. As a kinase, CAMK1 is integral to the regulation of gene transcription, cell cycle progression, and cellular differentiation. It is predominantly located in the cytoplasm or associated with cellular membranes, distinguishing it from other calmodulin kinases that are nuclear. CAMK1's interactions with proteins such as PINK1 and PARK2 highlight its involvement in mitophagy, while its role in phosphorylating transcription factors like CREB underscores its importance in neuronal function and development. Additionally, CAMK1 has been implicated in the progression of certain cancers, such as pancreatic cancer, where its expression levels correlate with tumor aggressiveness and patient prognosis (Lei2020Expression; Takemoto‐Kimura2017Calmodulin).
+
+## Structure
+CAMK1, or calcium/calmodulin-dependent protein kinase I, is a serine/threonine kinase activated by calcium-bound calmodulin. The primary structure of CAMK1 includes a catalytic domain typical of protein kinases, which is essential for its enzymatic activity. The secondary structure of CAMK1 features alpha helices and beta sheets, contributing to its stability and function. The tertiary structure involves a bilobed kinase domain, which is a common feature among protein kinases, allowing for the binding of substrates and regulatory proteins.
+
+CAMK1 functions as a monomer and therefore lacks a quaternary structure. It contains an ATP-binding site, crucial for its kinase activity, and a calmodulin-binding domain, which is necessary for its activation by calcium-bound calmodulin. Common post-translational modifications of CAMK1 include phosphorylation, which can regulate its activity and interactions with other proteins.
+
+Splice variants of CAMK1 may exist, potentially altering its regulatory and functional properties. These variants can influence the protein's interaction with calmodulin and its overall activity, although specific details on these variants are not extensively covered in the available literature (Clapperton2002Structure; Villalobo2019Proteins).
+
+## Function
+CAMK1, encoded by the CAMK1 gene, is a serine/threonine kinase that plays a significant role in various cellular processes in healthy human cells. It is activated by the binding of calcium-bound calmodulin, which releases its autoinhibitory domain and allows for phosphorylation by CaMKK, leading to its activation (Takemoto‐Kimura2017Calmodulin). CAMK1 is involved in regulating gene transcription, particularly through its interaction with targets such as extracellular signal-regulated kinase (ERK) and cAMP response element-binding protein (CREB). The activities of CaMKIα and CaMKIβ towards CREB are crucial for neuronal transcription and neurite outgrowth, highlighting its importance in brain function (Dunn2020Interplay).
+
+CAMK1 is typically found in the cytoplasm or membrane-anchored, distinguishing it from other calmodulin kinases like CaMKIV, which is nuclear (Takemoto‐Kimura2017Calmodulin). It is also implicated in cell cycle progression, where its activity is necessary to prevent stalling in the G1 phase, thus promoting cell growth, proliferation, and survival pathways (Dunn2020Interplay). These functions underscore CAMK1's role in calcium signaling pathways and its contribution to cellular differentiation and development.
+
+## Clinical Significance
+The CAMK1 gene, encoding calcium/calmodulin-dependent protein kinase I, has been implicated in the progression of pancreatic cancer (PC). Studies have shown that CAMK1 expression is significantly higher in PC tissues compared to normal tissues, suggesting its role in cancer development and progression (Lei2020Expression). The elevated expression of CAMK1 in PC is associated with advanced TNM stage and N stage, indicating its potential involvement in tumor aggressiveness and metastasis (Lei2020Expression). 
+
+Bioinformatic analyses using databases such as GEPIA 2 and Oncomine have confirmed increased CAMK1 mRNA levels in PC tissues, supporting its relevance as a biomarker for this cancer type (Lei2020Expression). The study also explored the prognostic value of CAMK1 expression, finding correlations with overall survival and disease-free survival in PC patients, which underscores its potential as a therapeutic target (Lei2020Expression).
+
+While the context does not provide specific information on other diseases directly caused by CAMK1 mutations, its dysregulation is linked to various cancer-related functions, highlighting its importance in oncogenic pathways and potential as a target for anti-cancer therapies (Lei2020Expression).
+
+## Interactions
+CAMK1, a calcium/calmodulin-dependent protein kinase, is involved in various protein interactions that influence cellular processes. In endothelial progenitor cells (EPCs), CAMK1 interacts with PINK1, a key protein in the mitophagy pathway. This interaction is crucial for the phosphorylation of PINK1, which is part of the mitophagy induction process under atherosclerotic conditions (Yang2022Pitavastatin). CAMK1 also phosphorylates PARK2, another protein involved in the PINK1-PARK2 pathway, contributing to mitophagy activation (Yang2022Pitavastatin).
+
+In the context of plant defense, CAMK1 interacts with the transcription factor CaWRKYa in Capsicum annuum. This interaction involves the phosphorylation of CaWRKYa, which regulates its DNA binding affinity and stability, playing a role in the plant's immune response (Huh2015Capsicum). The interaction between CAMK1 and CaWRKYa is confirmed through co-immunoprecipitation and bimolecular fluorescence complementation assays, indicating a physical association in the nucleus (Huh2015Capsicum).
+
+In fission yeast, Cmk1, a homolog of CAMK1, interacts with the Prz1 transcription factor. Cmk1 phosphorylates Prz1, affecting its subcellular localization and transcriptional activity, which is crucial for calcium resistance and cell cycle regulation (CisnerosBarroso2014Negative).
+
+
+## References
+
+
+[1. (Huh2015Capsicum) Sung Un Huh, Gil-Je Lee, Ji Hoon Jung, Yunsik Kim, Young Jin Kim, and Kyung-Hee Paek. Capsicum annuum transcription factor wrkya positively regulates defense response upon tmv infection and is a substrate of camk1 and camk2. Scientific Reports, January 2015. URL: http://dx.doi.org/10.1038/srep07981, doi:10.1038/srep07981. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep07981)
+
+[2. (Takemoto‐Kimura2017Calmodulin) Sayaka Takemoto‐Kimura, Kanzo Suzuki, Shin‐ichiro Horigane, Satoshi Kamijo, Masatoshi Inoue, Masayuki Sakamoto, Hajime Fujii, and Haruhiko Bito. Calmodulin kinases: essential regulators in health and disease. Journal of Neurochemistry, 141(6):808–818, April 2017. URL: http://dx.doi.org/10.1111/jnc.14020, doi:10.1111/jnc.14020. This article has 134 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/jnc.14020)
+
+[3. (CisnerosBarroso2014Negative) Eugenia Cisneros-Barroso, Tula Yance-Chávez, Ayako Kito, Reiko Sugiura, Alba Gómez-Hierro, David Giménez-Zaragoza, and Rosa Aligue. Negative feedback regulation of calcineurin-dependent prz1 transcription factor by the camkk-camk1 axis in fission yeast. Nucleic Acids Research, 42(15):9573–9587, July 2014. URL: http://dx.doi.org/10.1093/nar/gku684, doi:10.1093/nar/gku684. This article has 9 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gku684)
+
+[4. (Yang2022Pitavastatin) Jie Yang, Mengjia Sun, Ran Cheng, Hu Tan, Chuan Liu, Renzheng Chen, Jihang Zhang, Yuanqi Yang, Xubin Gao, and Lan Huang. Pitavastatin activates mitophagy to protect epc proliferation through a calcium-dependent camk1-pink1 pathway in atherosclerotic mice. Communications Biology, February 2022. URL: http://dx.doi.org/10.1038/s42003-022-03081-w, doi:10.1038/s42003-022-03081-w. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-022-03081-w)
+
+[5. (Villalobo2019Proteins) Antonio Villalobo, María González-Muñoz, and Martin W. Berchtold. Proteins with calmodulin-like domains: structures and functional roles. Cellular and Molecular Life Sciences, 76(12):2299–2328, March 2019. URL: http://dx.doi.org/10.1007/s00018-019-03062-z, doi:10.1007/s00018-019-03062-z. This article has 37 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-019-03062-z)
+
+[6. (Lei2020Expression) Yangyang Lei, Tianzhu Yu, Changyu Li, Jianke Li, Yicheng Liang, Xinyuan Wang, Yi Chen, and Xiaolin Wang. Expression of camk1 and its association with clinicopathologic characteristics in pancreatic cancer. Journal of Cellular and Molecular Medicine, 25(2):1198–1206, December 2020. URL: http://dx.doi.org/10.1111/jcmm.16188, doi:10.1111/jcmm.16188. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/jcmm.16188)
+
+[7. (Dunn2020Interplay) Diana M. Dunn and Joshua Munger. Interplay between calcium and ampk signaling in human cytomegalovirus infection. Frontiers in Cellular and Infection Microbiology, July 2020. URL: http://dx.doi.org/10.3389/fcimb.2020.00384, doi:10.3389/fcimb.2020.00384. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcimb.2020.00384)
+
+[8. (Clapperton2002Structure) Julie A. Clapperton, Stephen R. Martin, Stephen J. Smerdon, Steven J. Gamblin, and Peter M. Bayley. Structure of the complex of calmodulin with the target sequence of calmodulin-dependent protein kinase i: studies of the kinase activation mechanism. Biochemistry, 41(50):14669–14679, November 2002. URL: http://dx.doi.org/10.1021/bi026660t, doi:10.1021/bi026660t. This article has 80 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/bi026660t)

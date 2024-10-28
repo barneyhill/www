@@ -1,0 +1,39 @@
+# FOXN3
+
+## Overview
+FOXN3 is a gene that encodes the forkhead box N3 protein, a member of the forkhead box (FOX) family of transcription factors. This protein functions primarily as a transcriptional regulator, playing a significant role in various biological processes, including cell cycle regulation, DNA damage response, and glucose metabolism. FOXN3 is widely expressed across multiple human tissues, such as the liver, pancreas, and bone marrow, where it contributes to tissue development and homeostasis (Erickson2019FOXN3; Kong2019Recent). The protein is known for its transcriptional inhibitory activity, often interacting with complexes like SIN3A to modulate gene expression, particularly in the context of cancer progression and metastasis (Li2017The). Through its interactions and regulatory functions, FOXN3 is implicated in various cancers, acting as both a tumor suppressor and a potential prognostic marker, depending on the cancer type (Yu2022Bioinformatic; Kong2019Recent).
+
+## Function
+FOXN3, a member of the forkhead box (FOX) protein family, functions as a transcriptional regulator involved in various biological processes. It is widely expressed in many human organs, including the liver, pancreas, kidneys, lungs, and bone marrow, playing crucial roles in the development of these tissues (Kong2019Recent). FOXN3 is involved in the regulation of fasting blood glucose levels by inhibiting the Myc gene, which defines it as a pathomechanical regulator of glucose metabolism (Erickson2019FOXN3; Kong2019Recent).
+
+In cell biology, FOXN3 is active in the nucleus, where it binds to DNA to modulate the transcription of target genes. It displays transcriptional inhibitory activity and is involved in cell cycle regulation, particularly in the DNA damage response, where it induces S phase cell cycle arrest and can promote quiescence in damaged cells (Kong2019Recent). FOXN3 also interacts with the Sin3/Rpd3 HDAC complex to inhibit histone deacetylation, facilitating DNA damage repair and G2/M phase arrest (Kong2019Recent).
+
+FOXN3's bispecific recognition allows it to bind both FORKHEAD (FKH) and FORKHEAD-LIKE (FHL) sequences, which is crucial for its function, as it mostly binds DNA through interaction with a partner (Kong2019Recent).
+
+## Clinical Significance
+FOXN3 is implicated in various cancers due to alterations in its expression levels and interactions. In breast cancer, FOXN3 forms a complex with NEAT1 and SIN3A, which is involved in the progression of hormonally responsive breast cancer. This complex promotes epithelial-mesenchymal transition (EMT) and metastasis by repressing genes like GATA3, which are crucial for maintaining epithelial characteristics. High expression of FOXN3 and NEAT1 is associated with worse survival outcomes in ER+ breast cancer patients (Li2017The).
+
+In liver cancer, FOXN3 is significantly down-regulated, and its reduced expression is linked to increased proliferation of cancer cells. FOXN3 inhibits the expression of the E2F5 transcription factor, which is involved in cell cycle regulation, suggesting its role as a tumor suppressor (Kong2019Recent).
+
+FOXN3 is also down-regulated in colon cancer, where it inhibits cancer cell proliferation and invasion by blocking the β-catenin/TCF signaling pathway. This suggests that FOXN3 acts as a tumor suppressor in colon cancer as well (Kong2019Recent).
+
+In pancreatic ductal adenocarcinoma, FOXN3 is upregulated and associated with poor recurrence-free survival, indicating its potential as a prognostic marker (Yu2022Bioinformatic).
+
+## Interactions
+FOXN3, a member of the forkhead box (FOX) family of transcription factors, is known for its role as a transcriptional repressor. It interacts with the SIN3A repressor complex, a multiprotein assembly involved in transcriptional repression. This interaction is facilitated by the long non-coding RNA NEAT1, which is necessary for the formation of the FOXN3-SIN3A complex in estrogen receptor-positive (ER+) breast cancer cells. NEAT1 acts as a facultative component of the SIN3A complex, stabilizing the interaction and potentially influencing the genomic targets of the complex (Li2017The).
+
+The FOXN3-SIN3A complex targets genes involved in epithelial-to-mesenchymal transition (EMT), such as GATA3 and TJP1, repressing their transcription and promoting breast cancer cell invasion and metastasis (Li2017The). Coimmunoprecipitation experiments have confirmed the physical interactions of FOXN3 with components of the SIN3A complex, including SIN3A, SAP130, SAP180, HDAC1, HDAC2, and RbAp46/48 (Li2017The).
+
+FOXN3 also interacts with the SKIP protein, repressing SKIP-mediated TGF-β signaling, which is involved in tumor suppression (Kong2019Recent). These interactions highlight FOXN3's role in transcriptional regulation and its potential impact on cancer progression.
+
+
+## References
+
+
+[1. (Erickson2019FOXN3) Melissa L Erickson, Santhosh Karanth, Eric Ravussin, and Amnon Schlegel. Foxn3 hyperglycemic risk allele and insulin sensitivity in humans. BMJ Open Diabetes Research &amp; Care, 7(1):e000688, August 2019. URL: http://dx.doi.org/10.1136/bmjdrc-2019-000688, doi:10.1136/bmjdrc-2019-000688. This article has 5 citations.](https://doi.org/10.1136/bmjdrc-2019-000688)
+
+[2. (Li2017The) Wanjin Li, Zihan Zhang, Xinhua Liu, Xiao Cheng, Yi Zhang, Xiao Han, Yu Zhang, Shumeng Liu, Jianguo Yang, Bosen Xu, Lin He, Luyang Sun, Jing Liang, and Yongfeng Shang. The foxn3-neat1-sin3a repressor complex promotes progression of hormonally responsive breast cancer. Journal of Clinical Investigation, 127(9):3421–3440, August 2017. URL: http://dx.doi.org/10.1172/jci94233, doi:10.1172/jci94233. This article has 145 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci94233)
+
+[3. (Yu2022Bioinformatic) Wei Yu, Yongkang Diao, Yi Zhang, Ying Shi, Xiangkang Lv, Chengwu Zhang, Kangjun Zhang, Weifeng Yao, Dongsheng Huang, and Jungang Zhang. Bioinformatic analysis of foxn3 expression and prognostic value in pancreatic cancer. Frontiers in Oncology, October 2022. URL: http://dx.doi.org/10.3389/fonc.2022.1008100, doi:10.3389/fonc.2022.1008100. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.1008100)
+
+[4. (Kong2019Recent) Xiangyi Kong, Jie Zhai, Chengrui Yan, Yan Song, Jing Wang, Xiaofeng Bai, James A. L. Brown, and Yi Fang. Recent advances in understanding foxn3 in breast cancer, and other malignancies. Frontiers in Oncology, May 2019. URL: http://dx.doi.org/10.3389/fonc.2019.00234, doi:10.3389/fonc.2019.00234. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2019.00234)

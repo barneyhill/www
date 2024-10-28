@@ -1,0 +1,54 @@
+# MOCS1
+
+## Overview
+The MOCS1 gene is a critical component in the biosynthesis of the molybdenum cofactor (MoCo), a vital molecule required for the function of several molybdoenzymes in humans. This gene encodes two proteins, MOCS1A and MOCS1B, which are expressed from a single bicistronic transcript and play essential roles in the initial steps of MoCo biosynthesis. MOCS1A and MOCS1B are involved in the conversion of GTP to cyclic pyranopterin monophosphate (cPMP), a precursor in the MoCo biosynthesis pathway (Reiss1998Genomic; Mayr2018Alternative). The gene undergoes alternative splicing, resulting in different isoforms that localize to the mitochondria and cytosol, where they participate in the maturation and mitochondrial import of MOCS1 proteins (Mayr2018Alternative). Mutations in MOCS1 are associated with molybdenum cofactor deficiency, a rare autosomal recessive disorder that leads to severe neurological damage and developmental delays (Reiss1998Genomic; Reiss2003Mutations).
+
+## Structure
+The MOCS1 gene encodes two proteins, MOCS1A and MOCS1B, which are crucial for the biosynthesis of the molybdenum cofactor (MoCo) in humans. These proteins are produced from a single bicistronic transcript, with MOCS1A and MOCS1B being the first two enzymes in the MoCo biosynthesis pathway (Reiss1998Genomic). MOCS1A catalyzes the cyclization of GTP to (8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate, while MOCS1B converts this intermediate to cyclic pyranopterin monophosphate (cPMP) (Hamid2021Identification).
+
+The MOCS1 gene undergoes alternative splicing, resulting in different isoforms, including the 'Reiss variant' and the 'Larin variant,' which differ in their 5' sequences and lead to different N-terminal sequences for MOCS1A (GrossHardt2002The). The study identified three splice variants, including two mutually exclusive first exons and a facultative intron, which are present in a constant ratio across various human tissues (GrossHardt2002The).
+
+Computational modeling has been used to predict the 3D structure of MOCS1, as no crystallographic structure is available. Tools like i-TASSER, SWISS-MODEL, and RaptorX have been employed to predict the tertiary structure, with validation through ERRAT, Verify3D, and Ramachandran plots (Hamid2021Identification). Molecular dynamics simulations have been used to refine these models, indicating stability for both MOCS1A and MOCS1B (Hamid2021Identification).
+
+## Function
+The MOCS1 gene is integral to the biosynthesis of the molybdenum cofactor (MoCo), a vital component for the activity of several molybdoenzymes in humans, including sulfite oxidase, xanthine oxidoreductase, and aldehyde oxidase (Reiss2003Mutations; Reiss2010Molybdenum). These enzymes are involved in critical metabolic processes such as purine degradation and detoxification of sulfite (Reiss1998Genomic). MOCS1 encodes two proteins, MOCS1A and MOCS1B, which are expressed from a bicistronic transcript and are crucial for the initial steps of MoCo biosynthesis, specifically the conversion of GTP to cyclic pyranopterin monophosphate (cPMP) (Mayr2018Alternative; Reiss2003Mutations).
+
+The gene undergoes alternative splicing, resulting in different protein isoforms that localize to the mitochondria and cytosol, where they participate in the maturation and mitochondrial import of MOCS1 proteins (Mayr2018Alternative). MOCS1A is directed to the mitochondrial matrix, while MOCS1B is processed within the mitochondria, highlighting a complex interplay of splicing and cellular localization (Mayr2018Alternative). Proper function of MOCS1 ensures the synthesis of MoCo, maintaining the activity of MoCo-dependent enzymes and supporting metabolic homeostasis (Reiss1998Genomic; Reiss2010Molybdenum).
+
+## Clinical Significance
+Mutations in the MOCS1 gene are primarily associated with molybdenum cofactor deficiency (MoCo deficiency), a rare autosomal recessive disorder. This condition is characterized by a lack of functional molybdenum cofactor, which is essential for the activity of several enzymes, including sulfite oxidase, xanthine dehydrogenase, and aldehyde oxidase. The deficiency leads to severe neurological damage, developmental delays, and often results in early childhood death (Reiss1998Genomic; Reiss2003Mutations).
+
+The MOCS1 gene is unusual in that it encodes two enzymes, MOCS1A and MOCS1B, from a single transcript. Mutations can occur in both open reading frames of the gene, affecting the biosynthesis pathway of the molybdenum cofactor. Common mutations include R319Q, which is specific to English patients, and other mutations found in Danish, German, and Mediterranean populations (Reiss1998Genomic; Reiss2000Genetics).
+
+Clinical manifestations of MoCo deficiency include neonatal seizures and symptoms similar to isolated sulfite oxidase deficiency. The absence of effective therapy for this condition underscores the need for new diagnostic and therapeutic strategies (Reiss1998Genomic; Reiss2010Molybdenum). Some milder cases have been reported, suggesting variability in the clinical phenotype depending on the specific mutations present (Arenas2009An; Mayr2018A).
+
+## Interactions
+The MOCS1 gene encodes proteins involved in the biosynthesis of the molybdenum cofactor (Moco), specifically MOCS1A and MOCS1B. MOCS1A contains two iron-sulfur (FeS) clusters, which are crucial for its function in converting 5′GTP to cyclic pyranopterin monophosphate (cPMP). This process involves interactions with proteins responsible for FeS cluster biosynthesis, such as NFS1, ISD11, ISCU, and frataxin, which form a core complex in mitochondria. These interactions are essential for the synthesis and transfer of FeS clusters to mitochondrial acceptor proteins like MOCS1A (Leimkühler2017Shared).
+
+The transport of cPMP from mitochondria to the cytosol may involve interactions with transport proteins, potentially including ABCB7, which is suggested to transport essential molecules for FeS cluster biosynthesis to the cytosol (Leimkühler2017Shared). However, specific interactions of MOCS1 with other proteins or nucleic acids are not detailed in the available literature. The study of MOCS1 deficiencies has shown that these can lead to disruptions in mitochondrial bioenergetics and dynamics, but the exact physical interactions remain unspecified (Grings2019ETHE1).
+
+
+## References
+
+
+1. (Mayr2018Alternative) Alternative splicing of bicistronic MOCS1 defines a novel mitochondrial protein maturation mechanism. This article has 0 citations.
+
+2. (Hamid2021Identification) Identification and Computational Analysis of 3D-Structure Of MOCS1. This article has 0 citations.
+
+[3. (Leimkühler2017Shared) Silke Leimkühler. Shared function and moonlighting proteins in molybdenum cofactor biosynthesis. Biological Chemistry, 398(9):1009–1026, August 2017. URL: http://dx.doi.org/10.1515/hsz-2017-0110, doi:10.1515/hsz-2017-0110. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/hsz-2017-0110)
+
+[4. (Reiss2000Genetics) J. Reiss. Genetics of molybdenum cofactor deficiency. Human Genetics, 106(2):157–163, February 2000. URL: http://dx.doi.org/10.1007/s004399900223, doi:10.1007/s004399900223. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s004399900223)
+
+[5. (Arenas2009An) M. Arenas, L. D. Fairbanks, K. Vijayakumar, L. Carr, E. Escuredo, and A. M. Marinaki. An unusual genetic variant in the mocs1 gene leads to complete missplicing of an alternatively spliced exon in a patient with molybdenum cofactor deficiency. Journal of Inherited Metabolic Disease, 32(4):560–569, June 2009. URL: http://dx.doi.org/10.1007/s10545-009-1151-7, doi:10.1007/s10545-009-1151-7. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10545-009-1151-7)
+
+[6. (Mayr2018A) Simon Julius Mayr, Jörn Oliver Sass, Julia Vry, Janbernd Kirschner, Irina Mader, Jan‐Bernd Hövener, Jochen Reiss, José Angel Santamaria‐Araujo, Günter Schwarz, and Sarah Catharina Grünert. A mild case of molybdenum cofactor deficiency defines an alternative route of mocs1 protein maturation. Journal of Inherited Metabolic Disease, 41(2):187–196, January 2018. URL: http://dx.doi.org/10.1007/s10545-018-0138-7, doi:10.1007/s10545-018-0138-7. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10545-018-0138-7)
+
+[7. (Grings2019ETHE1) Mateus Grings, Bianca Seminotti, Anuradha Karunanidhi, Lina Ghaloul-Gonzalez, Al-Walid Mohsen, Peter Wipf, Johan Palmfeldt, Jerry Vockley, and Guilhian Leipnitz. Ethe1 and mocs1 deficiencies: disruption of mitochondrial bioenergetics, dynamics, redox homeostasis and endoplasmic reticulum-mitochondria crosstalk in patient fibroblasts. Scientific Reports, September 2019. URL: http://dx.doi.org/10.1038/s41598-019-49014-2, doi:10.1038/s41598-019-49014-2. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-019-49014-2)
+
+[8. (GrossHardt2002The) Sigrid Gross-Hardt and Jochen Reiss. The bicistronic mocs1 gene has alternative start codons on two mutually exclusive exons. Molecular Genetics and Metabolism, 76(4):340–343, August 2002. URL: http://dx.doi.org/10.1016/s1096-7192(02)00100-2, doi:10.1016/s1096-7192(02)00100-2. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s1096-7192(02)00100-2)
+
+[9. (Reiss2003Mutations) Jochen Reiss and Jean L. Johnson. Mutations in the molybdenum cofactor biosynthetic genesmocs1, mocs2, andgeph. Human Mutation, 21(6):569–576, May 2003. URL: http://dx.doi.org/10.1002/humu.10223, doi:10.1002/humu.10223. This article has 115 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.10223)
+
+[10. (Reiss1998Genomic) J. Reiss, Ernst Christensen, Gerhard Kurlemann, Marie-Therese Zabot, and Claude Dorche. Genomic structure and mutational spectrum of the bicistronic mocs1 gene defective in molybdenum cofactor deficiency type a. Human Genetics, 103(6):639–644, December 1998. URL: http://dx.doi.org/10.1007/s004390050884, doi:10.1007/s004390050884. This article has 52 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s004390050884)
+
+[11. (Reiss2010Molybdenum) Jochen Reiss and Rita Hahnewald. Molybdenum cofactor deficiency: mutations in gphn, mocs1, and mocs2. Human Mutation, 32(1):10–18, December 2010. URL: http://dx.doi.org/10.1002/humu.21390, doi:10.1002/humu.21390. This article has 127 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.21390)

@@ -1,0 +1,52 @@
+# CARD8
+
+## Overview
+CARD8 is a gene that encodes the protein caspase recruitment domain family member 8, which is a crucial component in the regulation of the innate immune response. The CARD8 protein is characterized by its caspase recruitment domain (CARD) and is involved in modulating inflammasome activity, particularly the NLRP3 inflammasome, which plays a significant role in inflammation and immune homeostasis. As a negative regulator, CARD8 interacts with components of the inflammasome to inhibit its activation, thereby controlling the secretion of pro-inflammatory cytokines such as IL-1β and IL-18. This regulatory function is essential for preventing excessive inflammatory responses that can lead to autoimmune and inflammatory diseases. Mutations in the CARD8 gene have been associated with conditions such as Crohn's disease and other inflammatory disorders, highlighting its clinical significance in immune regulation (Ito2014CARD8; Bai2014Regulation; Mao2018Lossoffunction).
+
+## Structure
+CARD8 is a protein characterized by its domain organization, including a FIIND domain composed of a ZU5-like domain and a UPA-like domain, followed by a CARD domain. The ZU5-like domain is situated between the UPA-like and CARD domains, and the FIIND domain undergoes autoproteolytic processing, which is crucial for its function (D’Osualdo2011CARD8). The CARD8 protein structure is refined using structural modeling tools, revealing a strong electrostatic potential and several salt bridges at the FIIND/CARD interface, which differs from the more hydrophobic interface of the UNC5b template structure (D’Osualdo2011CARD8).
+
+The cryo-EM structure of the CARD8-DPP9 complex shows a 2:2 stoichiometry, with CARD8 molecules interacting with DPP9. This complex highlights differences in the binding mode compared to similar proteins, such as NLRP1, due to sequence divergence (Sharif2021Structural). CARD8 can form filaments with a two-layered structure, consisting of an inner core of oligomerized CARD domains and an outer layer of FIIND UPA domains, which is essential for inflammasome activation (Qin2020Structural). The protein lacks cysteine residues in the FIIND and CARD domains, unlike some template structures, which affects its structural integrity (D’Osualdo2011CARD8).
+
+## Function
+CARD8, also known as caspase recruitment domain family member 8, is a protein that plays a significant role in the regulation of the NLRP3 inflammasome, a critical component of the innate immune response. In healthy human cells, CARD8 acts as a negative regulator of the NLRP3 inflammasome by binding to NLRP3 and preventing its activation. This interaction inhibits the assembly of the inflammasome complex, thereby reducing the secretion of pro-inflammatory cytokines such as IL-1β and IL-18, which are involved in inflammatory responses (Ito2014CARD8; Mao2018Lossoffunction).
+
+CARD8 achieves this regulatory function through its interaction with the NOD domain of NLRP3, and it is known to inhibit the formation of NLRP3-speck aggregates, which are essential for inflammasome assembly (Ito2014CARD8). The protein also interacts with caspase-1, inhibiting its activation and further controlling the inflammatory response (Ito2014CARD8). CARD8's role in maintaining immune homeostasis is crucial, as its loss of function can lead to excessive inflammasome activation and contribute to inflammatory diseases such as Crohn's disease (Mao2018Lossoffunction). CARD8 is primarily active in the cytoplasm of immune cells, where it modulates these critical immune processes.
+
+## Clinical Significance
+Mutations and alterations in the CARD8 gene have been implicated in several inflammatory and autoimmune diseases. A notable mutation, the V44I missense mutation, is associated with Crohn's disease (CD). This mutation impairs CARD8's ability to bind to the NLRP3 inflammasome, leading to increased inflammasome activity and elevated levels of the pro-inflammatory cytokine IL-1β. This overactivation contributes to the inflammatory processes observed in CD, and patients with this mutation may not respond well to anti-TNF-α treatments but could benefit from IL-1β inhibitors (Mao2018Lossoffunction).
+
+Another significant polymorphism, rs2043211 (p.C10X), introduces a stop codon in CARD8, reducing its expression and affecting its ability to inhibit nuclear factor κB, which influences inflammatory responses. This SNP has been linked to ischemic stroke, inflammatory bowel disease, and rheumatoid arthritis, suggesting a protective effect against ischemic stroke under a recessive model (Esih2021CARD8; Bai2014Regulation).
+
+CARD8 mutations also play a role in other conditions, such as periodic fever syndromes, where a frameshift variant leads to a truncated, likely non-functional protein (Taabazuing2020The). These findings highlight the gene's involvement in various inflammatory and autoimmune disorders.
+
+## Interactions
+CARD8, also known as caspase recruitment domain family member 8, is involved in several protein interactions that regulate inflammasome activity and inflammation. CARD8 interacts with the NLRP3 inflammasome, acting as a negative regulator. In resting cells, CARD8 binds to NLRP3, preventing its association with ASC, a key step in inflammasome activation. Upon stimulation with lipopolysaccharide (LPS) and ATP, NLRP3 dissociates from CARD8 and associates with ASC, leading to the activation of caspase-1 and secretion of IL-1β (Ito2014CARD8).
+
+CARD8 interacts with NLRP3 through its FIIND domain, and this interaction is inhibited by ASC in a dose-dependent manner, suggesting a competitive relationship between CARD8 and ASC for NLRP3 binding (Ito2014CARD8). CARD8 also interacts with caspase-1, inhibiting its activity and reducing IL-1β secretion (Karakaya2024CARD8:).
+
+In addition to NLRP3, CARD8 interacts with NLRP1, another inflammasome component. The T60 isoform of CARD8 negatively regulates NLRP1 by binding to its NACHT, LRR, and FIIND domains, inhibiting inflammasome assembly and activation (Xu2022The). These interactions highlight CARD8's role in modulating inflammasome activity and inflammatory responses.
+
+
+## References
+
+
+[1. (Bai2014Regulation) Ying Bai, Shaofang Nie, Guiqing Jiang, Yingchao Zhou, Mengchen Zhou, Yuanyuan Zhao, Sisi Li, Fan Wang, Qiulun Lv, Yufeng Huang, Qin Yang, Qingxian Li, Yue Li, Yunlong Xia, Ying Liu, Jinqiu Liu, Jin Qian, Bin Li, Gang Wu, Yanxia Wu, Binbin Wang, Xiang Cheng, Yanzong Yang, Tie Ke, Hui Li, Xiang Ren, Xu Ma, Yuhua Liao, Chengqi Xu, Xin Tu, and Qing K. Wang. Regulation of card8 expression by anril and association of card8 single nucleotide polymorphism rs2043211 (p.c10x) with ischemic stroke. Stroke, 45(2):383–388, February 2014. URL: http://dx.doi.org/10.1161/strokeaha.113.003393, doi:10.1161/strokeaha.113.003393. This article has 89 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1161/strokeaha.113.003393)
+
+[2. (D’Osualdo2011CARD8) Andrea D’Osualdo, Christian X. Weichenberger, Roland N. Wagner, Adam Godzik, John Wooley, and John C. Reed. Card8 and nlrp1 undergo autoproteolytic processing through a zu5-like domain. PLoS ONE, 6(11):e27396, November 2011. URL: http://dx.doi.org/10.1371/journal.pone.0027396, doi:10.1371/journal.pone.0027396. This article has 169 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0027396)
+
+3. (Sharif2021Structural) Structural mechanism of CARD8 regulation by DPP9. This article has 1 citations.
+
+[4. (Ito2014CARD8) Sayaka Ito, Yukichi Hara, and Tetsuo Kubota. Card8 is a negative regulator for nlrp3 inflammasome, but mutant nlrp3 in cryopyrin-associated periodic syndromes escapes the restriction. Arthritis Research &amp; Therapy, February 2014. URL: http://dx.doi.org/10.1186/ar4483, doi:10.1186/ar4483. This article has 80 citations.](https://doi.org/10.1186/ar4483)
+
+[5. (Taabazuing2020The) Cornelius Y. Taabazuing, Andrew R. Griswold, and Daniel A. Bachovchin. The nlrp1 and card8 inflammasomes. Immunological Reviews, 297(1):13–25, June 2020. URL: http://dx.doi.org/10.1111/imr.12884, doi:10.1111/imr.12884. This article has 121 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/imr.12884)
+
+[6. (Xu2022The) Zhihao Xu, Shasha Deng, Yuluo Huang, Yunru Yang, Liangqi Sun, Hanyuan Liu, Dan Zhao, Weihong Zeng, Xueying Yin, Peiyi Zheng, Yingying Wang, Muziying Liu, Weidong Zhao, Tsan Sam Xiao, Ying Zhou, and Tengchuan Jin. The card8 t60 variant associates with nlrp1 and negatively regulates its activation. Frontiers in Immunology, November 2022. URL: http://dx.doi.org/10.3389/fimmu.2022.1047922, doi:10.3389/fimmu.2022.1047922. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2022.1047922)
+
+7. (Qin2020Structural) Structural basis for distinct inflammasome complex assembly by human NLRP1 and CARD8. This article has 4 citations.
+
+[8. (Esih2021CARD8) Katarina Esih, Katja Goričar, Zvonka Rener-Primec, Vita Dolžan, and Aneta Soltirovska-Šalamon. Card8 and il1b polymorphisms influence mri brain patterns in newborns with hypoxic-ischemic encephalopathy treated with hypothermia. Antioxidants, 10(1):96, January 2021. URL: http://dx.doi.org/10.3390/antiox10010096, doi:10.3390/antiox10010096. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/antiox10010096)
+
+[9. (Mao2018Lossoffunction) Liming Mao, Atsushi Kitani, Morgan Similuk, Andrew J. Oler, Lindsey Albenberg, Judith Kelsen, Atiye Aktay, Martha Quezado, Michael Yao, Kim Montgomery-Recht, Ivan J. Fuss, and Warren Strober. Loss-of-function card8 mutation causes nlrp3 inflammasome activation and crohn’s disease. Journal of Clinical Investigation, 128(5):1793–1806, March 2018. URL: http://dx.doi.org/10.1172/jci98642, doi:10.1172/jci98642. This article has 79 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci98642)
+
+[10. (Karakaya2024CARD8:) Tugay Karakaya, Marta Slaufova, Michela Di Filippo, Paulina Hennig, Thomas Kündig, and Hans-Dietmar Beer. Card8: a novel inflammasome sensor with well-known anti-inflammatory and anti-apoptotic activity. Cells, 13(12):1032, June 2024. URL: http://dx.doi.org/10.3390/cells13121032, doi:10.3390/cells13121032. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells13121032)

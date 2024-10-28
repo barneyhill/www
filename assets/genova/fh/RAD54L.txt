@@ -1,0 +1,52 @@
+# RAD54L
+
+## Overview
+RAD54L is a gene that encodes the RAD54-like protein, a member of the SWI2/SNF2 family of DNA-dependent ATPases. This protein plays a pivotal role in the homologous recombination (HR) DNA repair pathway, which is essential for maintaining genomic stability and preventing tumorigenesis. RAD54-like protein is characterized by its ATP-dependent motor domain, which facilitates DNA translocation and chromatin remodeling, crucial for the repair of DNA double-strand breaks and interstrand cross-links. Unlike classical helicases, RAD54-like does not separate DNA strands but instead translocates along double-stranded DNA, introducing supercoils in an ATP-dependent manner. It interacts with RAD51, enhancing its DNA strand exchange activity, and is involved in the branch migration of Holliday junctions, a key step in HR. The protein's function is modulated by post-translational modifications and its interactions with other proteins, such as RAD51AP1, which are critical for its role in DNA repair and cellular response to DNA damage (Mazin2010Rad54; Selemenakis2022RAD51AP1).
+
+## Structure
+The RAD54L protein is a member of the SF2 superfamily of helicases and is characterized by seven conserved helicase motifs that form its ATP-dependent motor domain (Ceballos2011Functions). The protein structure includes two lobes, each with a RecA-like alpha/beta domain, which are typical of SF2 helicases (Heyer2006Rad54:). These lobes contain Snf2-specific insertions, known as HD1 and HD2, which are crucial for its function in DNA translocation and chromatin remodeling (Mazin2010Rad54).
+
+The N-terminal domain of RAD54L contains a Rad51 binding site, which is essential for its role in homologous recombination (Mazin2010Rad54). The C-terminal domain features a Zn-coordinating motif, contributing to the protein's structural stability (Mazin2010Rad54). RAD54L does not exhibit classical helicase activity, as it does not separate DNA strands, but it translocates along double-stranded DNA, introducing supercoils in an ATP-dependent manner (Mazin2010Rad54).
+
+RAD54L can oligomerize upon binding to DNA, forming dimers and larger oligomers, which is significant for its function in DNA repair (Mazin2010Rad54). The protein's activity is modulated by post-translational modifications, such as phosphorylation, which may influence its function and interactions (Ceballos2011Functions).
+
+## Function
+The RAD54L gene encodes a protein that plays a crucial role in the homologous recombination (HR) DNA repair pathway, which is essential for maintaining genome stability and tumor suppression. RAD54L is a RAD51-associated protein that cooperates with the RAD51 filament in capturing the DNA donor molecule and forming the displacement loop (D-loop) during HR. It belongs to the SWI2/SNF2 protein family of DNA-dependent ATPases and utilizes its ATPase activity to convert the synaptic complex into a D-loop, translocate along the DNA, remodel chromatin, and facilitate the turnover of RAD51 (Selemenakis2022RAD51AP1).
+
+In human cells, RAD54L is involved in the repair of DNA double-strand breaks and interstrand cross-links, processes critical for genomic stability. It acts as a motor protein that translocates along double-stranded DNA (dsDNA) in an ATP-dependent manner, promoting chromatin remodeling and protein displacement. RAD54L interacts with RAD51, enhancing its DNA strand exchange activity, and is involved in the branch migration of Holliday junctions, a key step in the late phase of HR (Mazin2010Rad54).
+
+RAD54L is active in the nucleus, where it ensures genomic stability and prevents mutations that could lead to cancer. Its function is crucial for maintaining HR capability, cell survival after treatment with chemotherapeutic agents, and alternative lengthening of telomeres (ALT) activity (Selemenakis2022RAD51AP1).
+
+## Clinical Significance
+Mutations and altered expression of the RAD54L gene have been implicated in various cancers. In pancreatic cancer, the RAD54L C157T single nucleotide polymorphism (SNP) is associated with significantly reduced overall survival, potentially due to its impact on DNA double-strand break repair, which may lead to a poorer clinical response to therapy (Li2006Single). In multiple myeloma, RAD54L is significantly up-regulated, and its silencing in cell studies results in decreased cell proliferation and increased apoptosis, suggesting its role in disease progression and as a potential therapeutic target (Bong2022Gene).
+
+In clear cell renal cell carcinoma (ccRCC), elevated RAD54L expression is linked to worse overall survival and is associated with immune cell infiltration and increased PD-L1 levels, indicating its role in the tumor microenvironment and as a prognostic biomarker (Wang2021Comprehensive). In bladder cancer, RAD54L expression is regulated by the transcription factor E2F1, with high levels correlating with shorter survival and cancer progression (Mun2020E2F1). Additionally, a polymorphism in RAD54L has been associated with an increased risk of meningiomas, suggesting its broader implications in cancer biology (Leone2003Implications).
+
+## Interactions
+RAD54L, a key player in the homologous recombination (HR) DNA repair pathway, interacts with several proteins to facilitate DNA repair processes. It is known to enhance the activity of the RAD51 filament, which is crucial for capturing the DNA donor molecule and forming a displacement loop (D-loop) (Selemenakis2022RAD51AP1). RAD54L belongs to the SWI2/SNF2 family of DNA-dependent ATPases, which assist in converting the synaptic complex into a D-loop and remodeling chromatin to facilitate RAD51 turnover (Selemenakis2022RAD51AP1).
+
+RAD54L also interacts with RAD51AP1, and their simultaneous deletion sensitizes human cancer cell lines to treatments like mitomycin C, hydroxyurea, and PARP inhibitors. This suggests that RAD51AP1 and RAD54L support two distinct RAD51-dependent routes of DNA damage repair via HR (Selemenakis2022RAD51AP1). RAD54L's function can be partially compensated by its paralog RAD54B, although RAD51AP1 provides a more significant compensatory effect (Selemenakis2022RAD51AP1).
+
+In the context of replication stress and treatment with olaparib, RAD54L interacts with RAD54B and RAD51AP1, forming complexes with RAD51. These interactions are enhanced upon olaparib treatment, indicating a role in maintaining HR capability and cell survival after chemotherapeutic treatment (Selemenakis2022RAD51AP1).
+
+
+## References
+
+
+[1. (Mazin2010Rad54) Alexander V. Mazin, Olga M. Mazina, Dmitry V. Bugreev, and Matthew J. Rossi. Rad54, the motor of homologous recombination. DNA Repair, 9(3):286–302, March 2010. URL: http://dx.doi.org/10.1016/j.dnarep.2009.12.006, doi:10.1016/j.dnarep.2009.12.006. This article has 250 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.dnarep.2009.12.006)
+
+[2. (Selemenakis2022RAD51AP1) Platon Selemenakis, Neelam Sharma, Mollie E. Uhrig, Jeffrey Katz, Youngho Kwon, Patrick Sung, and Claudia Wiese. Rad51ap1 and rad54l can underpin two distinct rad51-dependent routes of dna damage repair via homologous recombination. Frontiers in Cell and Developmental Biology, May 2022. URL: http://dx.doi.org/10.3389/fcell.2022.866601, doi:10.3389/fcell.2022.866601. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.866601)
+
+[3. (Li2006Single) Donghui Li, Marsha Frazier, Douglas B. Evans, Kenneth R. Hess, Christopher H. Crane, Li Jiao, and James L. Abbruzzese. Single nucleotide polymorphisms of recq1, rad54l, and atm genes are associated with reduced survival of pancreatic cancer. Journal of Clinical Oncology, 24(11):1720–1728, April 2006. URL: http://dx.doi.org/10.1200/jco.2005.04.4206, doi:10.1200/jco.2005.04.4206. This article has 166 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1200/jco.2005.04.4206)
+
+[4. (Ceballos2011Functions) Shannon J. Ceballos and Wolf-Dietrich Heyer. Functions of the snf2/swi2 family rad54 motor protein in homologous recombination. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1809(9):509–523, September 2011. URL: http://dx.doi.org/10.1016/j.bbagrm.2011.06.006, doi:10.1016/j.bbagrm.2011.06.006. This article has 160 citations.](https://doi.org/10.1016/j.bbagrm.2011.06.006)
+
+5. (Wang2021Comprehensive) Comprehensive Analysis of DNA Damage Repair Genes and Identification of RAD54L as an Immunological and Prognostic Biomarker in Clear Cell Renal Cell Carcinoma and Other Cancers. This article has 1 citations.
+
+[6. (Heyer2006Rad54:) Wolf-Dietrich Heyer, Xuan Li, Michael Rolfsmeier, and Xiao-Ping Zhang. Rad54: the swiss army knife of homologous recombination? Nucleic Acids Research, 34(15):4115–4125, August 2006. URL: http://dx.doi.org/10.1093/nar/gkl481, doi:10.1093/nar/gkl481. This article has 338 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkl481)
+
+[7. (Bong2022Gene) Ivyna Pau Ni Bong, Ching Ching Ng, Norodiyah Othman, and Ezalia Esa. Gene expression profiling and in vitro functional studies reveal rad54l as a potential therapeutic target in multiple myeloma. Genes &amp; Genomics, 44(8):957–966, June 2022. URL: http://dx.doi.org/10.1007/s13258-022-01272-7, doi:10.1007/s13258-022-01272-7. This article has 4 citations.](https://doi.org/10.1007/s13258-022-01272-7)
+
+[8. (Mun2020E2F1) Jeong-Yeon Mun, Seung-Woo Baek, Won Young Park, Won-Tae Kim, Seon-Kyu Kim, Yun-Gil Roh, Mi-So Jeong, Gi-Eun Yang, Jong-Ho Lee, Jin Woong Chung, Yung Hyun Choi, In-Sun Chu, and Sun-Hee Leem. E2f1 promotes progression of bladder cancer by modulating rad54l involved in homologous recombination repair. International Journal of Molecular Sciences, 21(23):9025, November 2020. URL: http://dx.doi.org/10.3390/ijms21239025, doi:10.3390/ijms21239025. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21239025)
+
+[9. (Leone2003Implications) Paola E Leone, Marta Mendiola, Javier Alonso, César Paz-y-Miño, and Angel Pestaña. Implications of a rad54l polymorphism (2290c/t) in human meningiomas as a risk factor and/or a genetic marker. BMC Cancer, March 2003. URL: http://dx.doi.org/10.1186/1471-2407-3-6, doi:10.1186/1471-2407-3-6. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2407-3-6)

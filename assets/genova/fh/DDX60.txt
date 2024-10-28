@@ -1,0 +1,50 @@
+# DDX60
+
+## Overview
+DDX60 is a gene that encodes the DExD/H-box helicase 60, a member of the DExD/H-box helicase family, which is involved in ATP-dependent RNA remodeling. This protein plays a pivotal role in the innate immune response, particularly in antiviral defense mechanisms. DExD/H-box helicase 60 is characterized by its two tandem helicase core domains, which are essential for its function in RNA binding and unwinding, as well as ATP binding and hydrolysis. The protein is crucial for the activation of the RIG-I-like receptor (RLR) signaling pathway, which leads to the induction of type I interferons and the expression of interferon-stimulated genes, thereby enhancing the immune response against viral infections (Sadic2022Antiviral; Chen2023Integrative). Additionally, DDX60 has been implicated in various diseases, including cancer and autoimmune conditions, due to its role in modulating immune responses and its expression levels in different pathological states (Geng2022Identification; Zhang2024cg05883128).
+
+## Structure
+DDX60 is a member of the DExD/H-box helicase family, characterized by its involvement in ATP-dependent RNA remodeling. The protein contains two tandem helicase core domains, which are typical of the superfamily-2 (SF2) DExD/H box RNA helicases. These domains are flanked by N and C-terminal extensions, which are crucial for its antiviral activity and protein-protein interactions (Sadic2022Antiviral). The helicase core domains include conserved motifs necessary for ATP binding and hydrolysis, as well as RNA binding and unwinding activities (Sadic2022Antiviral).
+
+The primary structure of DDX60 includes these helicase domains, but specific details on the secondary, tertiary, or quaternary structures are not provided in the available literature. The protein's helicase ATP binding type I domain and C-terminal helicase domain are highlighted, with putative functional motifs annotated (Sadic2022Antiviral). The SAT motif, however, is dispensable for its antiviral function (Sadic2022Antiviral).
+
+DDX60's role in antiviral defense is linked to its ability to inhibit translation from type II internal ribosome entry sites (IRESs) by reducing polysome binding on the mRNAs, without affecting mRNA abundance (Sadic2022Antiviral).
+
+## Function
+DDX60 is an ATP-dependent RNA helicase that plays a crucial role in the innate immune response, particularly in antiviral defense mechanisms. In healthy human cells, DDX60 functions as a sentinel for the cytoplasmic antiviral innate immune response. It localizes and binds to viral RNA, thereby activating the RIG-I-like receptor (RLR) signaling pathway. This activation promotes the recognition and binding of viral double-stranded RNA (dsRNA) by RIG-I, leading to the induction of type I interferons (IFN-I) and the expression of interferon-stimulated genes (ISGs) (Chen2023Integrative).
+
+DDX60 is highly expressed during various viral infections, where it enhances the immune response by positively regulating RIG-I-dependent IFN-I production. This regulation is crucial for maintaining effective antiviral immunity, as the knockout of DDX60 has been shown to weaken RIG-I signaling, reduce IFN levels, and increase viral titers (Chen2023Integrative). DDX60 also plays a role in demethylating m6A-modified antiviral gene mRNA through its helicase domain, which is important for the regulation of interferon production and antiviral innate immunity (Chen2023Integrative). These functions highlight DDX60's significant role in the cellular defense against viral pathogens.
+
+## Clinical Significance
+DDX60 has been implicated in various diseases due to alterations in its expression levels. In colorectal cancer (CRC), DDX60 is downregulated in cancerous tissues compared to normal colon tissues. Higher expression of DDX60 in CRC is associated with better survival probabilities and improved responses to immunotherapy, suggesting its role in enhancing immune recognition of cancer cells through the regulation of MHC-I class molecules (Geng2022Identification).
+
+In contrast, DDX60 is upregulated in gliomas, where its expression correlates with increased malignancy and poorer prognosis. It is particularly elevated in aggressive glioma subtypes, such as glioblastoma multiforme, and is associated with immune and inflammatory responses, potentially serving as a negative prognostic indicator and a biomarker for immunotherapy (Zhang2021DDX60).
+
+DDX60 is also involved in chronic hepatitis C virus (HCV) infection, where its expression is part of the interferon-stimulated gene response. Successful antiviral therapy reduces DDX60 expression, indicating its role in the immune response to viral infections (Hou2014Gene).
+
+Additionally, DDX60 has been identified as a potential genetic factor in systemic lupus erythematosus (SLE), with specific methylation sites linked to the disease, highlighting its significance in autoimmune conditions (Zhang2024cg05883128).
+
+## Interactions
+DDX60, a DExD/H-box helicase, is involved in various interactions with nucleic acids and proteins, playing a significant role in antiviral defense mechanisms. It binds to viral RNA, including both single-stranded RNA (ssRNA) and double-stranded RNA (dsRNA), promoting the activation of RIG-I-like receptors (RLRs) (Taschuk2020DEADBox). This interaction is crucial for the recognition and binding of viral RNA, leading to the production of type I interferons and the expression of interferon-stimulated genes (Chen2023Integrative).
+
+DDX60 also interacts with internal ribosome entry sites (IRESs) of viral mRNAs, particularly type II IRESs, where it inhibits translation initiation. This inhibition is achieved through its helicase activity, which remodels the IRES structure, thereby preventing ribosome accumulation and translation initiation (Sadic2022Antiviral). DDX60's interaction with IRES elements is non-specific, as it binds various RNA types indiscriminately, but it selectively inhibits translation from type II IRESs (Sadic2022Antiviral).
+
+The protein's interactions are not limited to nucleic acids; DDX60 may also interact with eukaryotic initiation factors (eIFs) or IRES trans-acting factors (ITAFs) that are involved in promoting type II IRES translation (Sadic2022Antiviral). These interactions highlight DDX60's role in modulating translation and antiviral responses.
+
+
+## References
+
+
+[1. (Chen2023Integrative) Wu Chen, Zhi-Yu Li, Lin Huang, Dong-Hai Zhou, Wen-Qing Luo, Xu-Feng Zhang, Lin Li, Cheng-Ping Wen, and Qiao Wang. Integrative bioinformatics analysis identifies ddx60 as a potential biomarker for systemic lupus erythematosus. Disease Markers, 2023:1–14, January 2023. URL: http://dx.doi.org/10.1155/2023/8564650, doi:10.1155/2023/8564650. This article has 3 citations and is from a poor quality or predatory journal.](https://doi.org/10.1155/2023/8564650)
+
+2. (Zhang2024cg05883128) cg05883128 (DDX60) and NR3C2 (CD4 T-cells and B-cells) to Be the Genetic Roots of Systemic Lupus Erythematosus. This article has 0 citations.
+
+[3. (Taschuk2020DEADBox) Frances Taschuk and Sara Cherry. Dead-box helicases: sensors, regulators, and effectors for antiviral defense. Viruses, 12(2):181, February 2020. URL: http://dx.doi.org/10.3390/v12020181, doi:10.3390/v12020181. This article has 83 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/v12020181)
+
+[4. (Geng2022Identification) Nina Geng, Tuo Hu, and Chunbo He. Identification of ddx60 as a regulator of mhc-i class molecules in colorectal cancer. Biomedicines, 10(12):3092, December 2022. URL: http://dx.doi.org/10.3390/biomedicines10123092, doi:10.3390/biomedicines10123092. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biomedicines10123092)
+
+[5. (Zhang2021DDX60) Jingwen Zhang, Minjie Fu, Mengli Zhang, Jinsen Zhang, Zunguo Du, Hongyi Zhang, Wei Hua, and Ying Mao. Ddx60 is associated with glioma malignancy and serves as a potential immunotherapy biomarker. Frontiers in Oncology, June 2021. URL: http://dx.doi.org/10.3389/fonc.2021.665360, doi:10.3389/fonc.2021.665360. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.665360)
+
+6. (Sadic2022Antiviral) Antiviral DExD/H-box helicase 60 selectively inhibits translation from type II internal ribosome entry sites. This article has 0 citations.
+
+[7. (Hou2014Gene) Jun Hou, Gertine van Oord, Zwier M. A. Groothuismink, Mark A. A. Claassen, Kim Kreefft, Fatiha Zaaraoui-Boutahar, Wilfred F. J. van IJcken, Albert D. M. E. Osterhaus, Harry L. A. Janssen, Arno C. Andeweg, Robert J. de Knegt, and Andre Boonstra. Gene expression profiling to predict and assess the consequences of therapy-induced virus eradication in chronic hepatitis c virus infection. Journal of Virology, 88(21):12254–12264, November 2014. URL: http://dx.doi.org/10.1128/jvi.00775-14, doi:10.1128/jvi.00775-14. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/jvi.00775-14)

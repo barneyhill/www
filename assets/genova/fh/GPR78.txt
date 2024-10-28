@@ -1,0 +1,24 @@
+# GPR78
+
+## Overview
+GPR78 is a gene that encodes the G protein-coupled receptor 78, a member of the G protein-coupled receptor (GPCR) family, which is characterized by its seven transmembrane domains. This receptor is classified as an orphan receptor due to the absence of a known endogenous ligand. GPR78 is constitutively active, meaning it can activate intracellular signaling pathways in the absence of a ligand, particularly influencing cAMP-mediated signaling. It is predominantly expressed in the human brain and placenta, with the highest expression levels observed in the placenta (JONES2007Tissue). The receptor's unique structural features, such as an atypical glutamine residue in the DRY box, contribute to its high basal activity, which is further modulated by an arginine residue at position 6.30 (JONES2007Tissue). While the physiological role of GPR78 remains to be fully elucidated, its involvement in cellular signaling pathways suggests potential implications in various biological processes and diseases (JONES2007Tissue).
+
+## Function
+GPR78 is a constitutively active orphan G protein-coupled receptor (GPCR) that is involved in the regulation of cAMP-mediated signaling pathways. It is expressed in the human brain and placenta, with the highest expression levels found in the placenta (JONES2007Tissue). GPR78 can activate signaling pathways without the presence of a ligand, leading to elevated basal levels of cAMP in cells, such as HEK293 cells, which suggests its role in cAMP signaling (JONES2007Tissue).
+
+The receptor is predicted to couple with Gs proteins, which are known to stimulate the production of cAMP, a second messenger involved in various cellular processes (JONES2007Tissue). Despite the presence of an atypical glutamine residue in the DRY box, which usually maintains GPCRs in an inactive state, GPR78 remains highly active. This is attributed to the presence of an arginine residue at position 6.30, which may destabilize the inactive state of the receptor (JONES2007Tissue).
+
+The exact physiological function of GPR78 in healthy human cells remains unclear, as the identification of its natural ligand is challenging due to limited sequence similarity with known receptors (JONES2007Tissue).
+
+## Interactions
+GPR78, a G protein-coupled receptor, is involved in several protein interactions that influence cellular processes. It is known to activate the Gαq-RhoA/Rac1 pathway, which plays a crucial role in promoting lung cancer cell migration and metastasis. This activation is mediated by the Gαq/11 protein, as demonstrated by experiments where blocking Gαq/11 inhibited the activation of RhoA and Rac1 (Dong2016GPR78). Knockdown of GPR78 in lung cancer cells results in suppressed cell migration and decreased formation of actin stress fibers, which are regulated by RhoA and Rac1. Overexpression of constitutively active RhoA or Rac1 in GPR78-knockdown cells partially restores cell migration, indicating a direct interaction with these pathways (Dong2016GPR78).
+
+GPR78 also exhibits constitutive activity, stimulating the cAMP pathway independently of ligand activation. This suggests a potential interaction with Gs proteins, although no direct coupling to other G proteins has been observed (JONES2007Tissue). Despite its atypical glutamine residue at position 3.50, GPR78 maintains high constitutive activity, which may involve unique mechanisms of G protein activation distinct from other GPCRs (JONES2007Tissue).
+
+
+## References
+
+
+[1. (Dong2016GPR78) Dan-Dan Dong, Hui Zhou, and Gao Li. Gpr78 promotes lung cancer cell migration and metastasis by activation of gαq-rho gtpase pathway. BMB Reports, 49(11):623–628, November 2016. URL: http://dx.doi.org/10.5483/bmbrep.2016.49.11.133, doi:10.5483/bmbrep.2016.49.11.133. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.5483/bmbrep.2016.49.11.133)
+
+[2. (JONES2007Tissue) P JONES, S NAWOSCHIK, K SREEKUMAR, A UVEGES, E TSENG, L ZHANG, J JOHNSON, L HE, J PAULSEN, and B BATES. Tissue distribution and functional analyses of the constitutively active orphan g protein coupled receptors, gpr26 and gpr78. Biochimica et Biophysica Acta (BBA) - General Subjects, 1770(6):890–901, June 2007. URL: http://dx.doi.org/10.1016/j.bbagen.2007.01.013, doi:10.1016/j.bbagen.2007.01.013. This article has 42 citations.](https://doi.org/10.1016/j.bbagen.2007.01.013)

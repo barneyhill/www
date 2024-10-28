@@ -1,0 +1,56 @@
+# SMUG1
+
+## Overview
+SMUG1 is a gene that encodes the protein single-strand-selective monofunctional uracil-DNA glycosylase 1, which is a crucial component of the base excision repair (BER) pathway. This protein is a monofunctional DNA glycosylase that belongs to the uracil-DNA glycosylases (UDGs) superfamily, and it is primarily responsible for excising uracil and its oxidized derivatives from DNA. The removal of these aberrant bases is essential for maintaining genomic stability and preventing mutations, as it repairs endogenous DNA damage caused by oxidative stress and UV radiation (An2021Ablation; Jobert2014Regulatory). Beyond its role in DNA repair, SMUG1 is also involved in RNA metabolism, particularly in rRNA quality control, by interacting with the pseudouridine synthase DKC1 to maintain rRNA integrity (Simms2016Quality; Jobert2014Regulatory). The protein's activity is critical in the nucleus, where it contributes to cell cycle regulation and transcriptional processes, and its absence can lead to increased DNA damage and apoptosis (An2021Ablation).
+
+## Structure
+The human SMUG1 protein is a monofunctional DNA glycosylase involved in the base excision repair pathway, primarily responsible for removing uracil from DNA. It belongs to the uracil-DNA glycosylases (UDGs) superfamily and is specialized in excising uracil and its oxidized forms, such as 5-hydroxymethyluracil, 5-formyluracil, and 5-hydroxyuracil (Kuznetsova2017Presteadystate).
+
+Structurally, SMUG1 is classified as a hybrid type in structural family 3, featuring a C-terminal motif with a conserved histidine residue from the UNG family and an N-terminal catalytic motif with an asparagine from the MUG family (Kuznetsova2017Presteadystate). The protein's molecular structure includes key residues such as Asn85 and His239, which are crucial for catalyzing the cleavage of the N-glycosidic bond, and Asn163 and Phe98, which help discriminate pyrimidine bases (Kuznetsova2017Presteadystate). The Gly87-Met91 region is involved in recognizing the C5 substituent through hydrogen bonds, and the 239-249 sequence forms an intercalating loop that acts as a 'wedge' penetrating the DNA double helix (Iakovlev2020Role).
+
+Although the X-ray structure of human SMUG1 is not available, homology modeling based on structures from other species has been used to predict its structure (Iakovlev2020Role). The protein contains four tryptophan residues, with Trp251 being sensitive to DNA binding due to its proximity to the intercalating loop (Kuznetsova2017Presteadystate).
+
+## Function
+The SMUG1 gene encodes a DNA glycosylase that is part of the uracil-DNA glycosylase (UDG) superfamily, playing a crucial role in DNA repair and RNA quality control. In healthy human cells, SMUG1 is involved in the base excision repair (BER) pathway, where it removes uracil and its oxidized derivatives from DNA, such as 5-hydroxyuracil, 5-hydroxymethyluracil, and 5-formyluracil. This activity is essential for repairing endogenous DNA damage, including damage caused by oxidative stress and UV radiation, thereby maintaining genomic stability and preventing mutations (An2021Ablation; Jobert2014Regulatory).
+
+SMUG1 also plays a role in RNA metabolism, particularly in rRNA quality control. It interacts with the pseudouridine synthase DKC1, which is crucial for rRNA functionality. This interaction suggests that SMUG1 is involved in maintaining rRNA integrity by excising uracil derivatives from RNA substrates, thus preventing the accumulation of aberrant rRNA targeted for degradation (Simms2016Quality; Jobert2014Regulatory).
+
+In the cellular context, SMUG1 is active in the nucleus, where it contributes to cell cycle regulation and transcriptional processes. Its absence can lead to increased DNA damage accumulation and apoptosis, particularly under conditions of UV-induced stress (An2021Ablation).
+
+## Clinical Significance
+Alterations in the expression or mutations of the SMUG1 gene have significant clinical implications, particularly in cancer. Low SMUG1 expression is associated with aggressive breast cancer phenotypes, including high histological grade, high mitotic index, and absence of hormonal receptors. It correlates with poor prognosis and is linked to the loss of DNA repair proteins such as BRCA1, ATM, and XRCC1. In triple-negative breast cancer, low SMUG1 levels are associated with poor survival and increased tumor grade (AbdelFatah2013Singlestrand; Raja2021The). In colon cancer, SMUG1 mutations are linked to lower survival rates (Raja2021The).
+
+SMUG1 also plays a role in age-related macular degeneration (AMD). The c.-31A.G polymorphism of SMUG1 is associated with AMD severity, with the A allele increasing risk and the G/G genotype providing a protective effect (Synowiec2014ASSOCIATION). Additionally, SMUG1 polymorphisms have been linked to esophageal squamous cell carcinoma and gastric cancer, suggesting a broader role in cancer susceptibility (D’Errico2017Single).
+
+These findings underscore the importance of SMUG1 in maintaining genomic stability and its potential impact on cancer development and progression when its function is compromised.
+
+## Interactions
+SMUG1, a DNA glycosylase, interacts with both nucleic acids and proteins as part of its role in the base excision repair (BER) pathway. It specifically recognizes and excises uracil and its derivatives from DNA, engaging in interactions with both single-stranded and double-stranded DNA. The enzyme's interaction with DNA involves the insertion of an intercalating loop, composed of residues 239-249, into the DNA helix, which is crucial for recognizing and binding to damaged bases (Iakovlev2020Role; Kuznetsova2017Presteadystate).
+
+SMUG1's activity is influenced by specific amino acid residues, such as His239 and Arg243, which play significant roles in the recognition and removal of damaged nucleotides. His239 is essential for catalytic activity, while Arg243 helps in occupying the space inside the DNA helix formed by uracil eversion (Iakovlev2020Role).
+
+In addition to its interactions with DNA, SMUG1 is involved in multiprotein complexes within the BER pathway. It may interact with other DNA repair proteins, such as APE1 and XRCC1, to facilitate the repair process, although specific interactions with these proteins are not detailed in the provided context (Hindi2021The).
+
+
+## References
+
+
+[1. (Hindi2021The) Nagham Nafiz Hindi, Noha Elsakrmy, and Dindial Ramotar. The base excision repair process: comparison between higher and lower eukaryotes. Cellular and Molecular Life Sciences, 78(24):7943–7965, November 2021. URL: http://dx.doi.org/10.1007/s00018-021-03990-9, doi:10.1007/s00018-021-03990-9. This article has 23 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-021-03990-9)
+
+[2. (Jobert2014Regulatory) Laure Jobert and Hilde Nilsen. Regulatory mechanisms of rna function: emerging roles of dna repair enzymes. Cellular and Molecular Life Sciences, 71(13):2451–2465, February 2014. URL: http://dx.doi.org/10.1007/s00018-014-1562-y, doi:10.1007/s00018-014-1562-y. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-014-1562-y)
+
+[3. (Simms2016Quality) Carrie L. Simms and Hani S. Zaher. Quality control of chemically damaged rna. Cellular and Molecular Life Sciences, 73(19):3639–3653, May 2016. URL: http://dx.doi.org/10.1007/s00018-016-2261-7, doi:10.1007/s00018-016-2261-7. This article has 79 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-016-2261-7)
+
+[4. (AbdelFatah2013Singlestrand) Tarek M. A. Abdel-Fatah, Nada Albarakati, Lara Bowell, Devika Agarwal, Paul Moseley, Claire Hawkes, Graham Ball, Stephen Chan, Ian O. Ellis, and Srinivasan Madhusudan. Single-strand selective monofunctional uracil-dna glycosylase (smug1) deficiency is linked to aggressive breast cancer and predicts response to adjuvant therapy. Breast Cancer Research and Treatment, 142(3):515–527, November 2013. URL: http://dx.doi.org/10.1007/s10549-013-2769-6, doi:10.1007/s10549-013-2769-6. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10549-013-2769-6)
+
+[5. (Synowiec2014ASSOCIATION) Ewelina Synowiec, Daniel Wysokinski, Malgorzata Zaras, Urszula Kolodziejska, Ewelina Stoczynska-Fidelus, Katarzyna Janik, Jerzy Szaflik, Janusz Blasiak, and Jacek P. Szaflik. Association between polymorphism of the dna repair smug1 and ung genes and age-related macular degeneration. Retina, 34(1):38–47, January 2014. URL: http://dx.doi.org/10.1097/iae.0b013e31829477d8, doi:10.1097/iae.0b013e31829477d8. This article has 6 citations.](https://doi.org/10.1097/iae.0b013e31829477d8)
+
+[6. (Kuznetsova2017Presteadystate) Alexandra A. Kuznetsova, Danila A. Iakovlev, Inna V. Misovets, Alexander A. Ishchenko, Murat K. Saparbaev, Nikita A. Kuznetsov, and Olga S. Fedorova. Pre-steady-state kinetic analysis of damage recognition by human single-strand selective monofunctional uracil-dna glycosylase smug1. Molecular BioSystems, 13(12):2638–2649, 2017. URL: http://dx.doi.org/10.1039/c7mb00457e, doi:10.1039/c7mb00457e. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1039/c7mb00457e)
+
+[7. (Iakovlev2020Role) D. A. Iakovlev, I. V. Alekseeva, N. A. Kuznetsov, and O. S. Fedorova. Role of arg243 and his239 residues in the recognition of damaged nucleotides by human uracil-dna glycosylase smug1. Biochemistry (Moscow), 85(5):594–603, May 2020. URL: http://dx.doi.org/10.1134/S0006297920050089, doi:10.1134/s0006297920050089. This article has 2 citations.](https://doi.org/10.1134/S0006297920050089)
+
+[8. (An2021Ablation) Mi-Jin An, Geun-Seup Shin, Hyun-Min Lee, and Jung-Woong Kim. Ablation of smug1 reduces cell viability and increases uvc-mediated apoptosis in hepatocarcinoma hepg2 cells. Genes, 12(2):201, January 2021. URL: http://dx.doi.org/10.3390/genes12020201, doi:10.3390/genes12020201. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes12020201)
+
+[9. (D’Errico2017Single) Mariarosaria D’Errico, Eleonora Parlanti, Barbara Pascucci, Paola Fortini, Sara Baccarini, Valeria Simonelli, and Eugenia Dogliotti. Single nucleotide polymorphisms in dna glycosylases: from function to disease. Free Radical Biology and Medicine, 107:278–291, June 2017. URL: http://dx.doi.org/10.1016/j.freeradbiomed.2016.12.002, doi:10.1016/j.freeradbiomed.2016.12.002. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.freeradbiomed.2016.12.002)
+
+[10. (Raja2021The) Sripriya Raja and Bennett Van Houten. The multiple cellular roles of smug1 in genome maintenance and cancer. International Journal of Molecular Sciences, 22(4):1981, February 2021. URL: http://dx.doi.org/10.3390/ijms22041981, doi:10.3390/ijms22041981. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms22041981)

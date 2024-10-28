@@ -1,0 +1,56 @@
+# RC3H1
+
+## Overview
+RC3H1 is a gene that encodes the Roquin-1 protein, a multifunctional regulator involved in post-transcriptional control of gene expression, particularly within the immune system. Roquin-1 is characterized by its distinct structural domains, including a ROQ domain for RNA binding, a CCCH-type zinc finger domain, and a RING finger domain, which suggests a potential role as an E3 ubiquitin ligase. These domains enable Roquin-1 to interact with specific RNA motifs and protein complexes, facilitating mRNA decay and translational repression. This regulatory activity is crucial for maintaining immune homeostasis by modulating the expression of key immunoregulatory proteins. Mutations in RC3H1 have been implicated in various immune dysregulation syndromes, highlighting its clinical significance in conditions such as systemic lupus erythematosus and rheumatoid arthritis (Raj2022Roquindependent; Tavernier2019A; Murakawa2015RC3H1).
+
+## Structure
+The RC3H1 protein, also known as Roquin-1, is characterized by a complex domain architecture that includes several key structural features. It contains a ROQ domain, which is crucial for RNA binding and spans amino acids 131-360. This domain is involved in recognizing RNA stem-loop motifs known as constitutive decay elements (CDEs) and features a winged helix-turn-helix (wHTH) motif (Schuetz2014Roquin; Zhang2015New). The ROQ domain has two distinct RNA binding sites: one for stem-loop RNA and another for double-stranded RNA (Tan2014The).
+
+RC3H1 also includes a CCCH-type zinc finger domain, which aids in RNA recognition, particularly binding to AU-rich elements (Murakawa2015RC3H1). The protein's RING finger domain suggests a potential E3 ubiquitin-ligase function, indicating its role in post-translational modifications such as ubiquitination (Li2024Bioinformatic).
+
+The protein may exist in different isoforms due to alternative splicing, contributing to its functional diversity (Li2024Bioinformatic). Structural studies have shown that the ROQ and HEPN domains can move independently, and the ZnF domain may form an auto-inhibited state with the ROQ domain, which is released upon RNA binding (Zhang2015New).
+
+## Function
+The RC3H1 gene encodes the Roquin-1 protein, which plays a critical role in post-transcriptional regulation of immune-related proteins. Roquin-1 is involved in promoting mRNA degradation and inhibiting protein translation, thereby controlling the expression of immunoregulatory proteins such as ICOS, OX40, CTLA4, REL, IκBδ, IκBζ, and TNF. It achieves this by recruiting RNA decapping and deadenylation complexes, although it does not possess intrinsic nuclease activity (Tavernier2019A).
+
+Roquin-1 contains a ROQ domain with two distinct RNA binding sites, which are essential for binding different RNA structures and facilitating the decay of target mRNAs. This process is crucial for regulating mRNA stability and maintaining cellular homeostasis (Tan2014The). Roquin-1 also interacts with constitutive decay elements (CDEs) in mRNAs, promoting their degradation and regulating gene expression, particularly those involved in immune responses (Leppek2013Roquin).
+
+In healthy human cells, Roquin-1 is essential for maintaining immune homeostasis by regulating the decay of mRNAs that encode proteins involved in immune responses, thus preventing excessive immune activation and inflammation (Tavernier2019A). Roquin-1 is active in cytoplasmic regions such as P-bodies, which are involved in mRNA storage and post-transcriptional regulation (Tavernier2019A).
+
+## Clinical Significance
+Mutations in the RC3H1 gene, which encodes the Roquin-1 protein, have been linked to several immune dysregulation syndromes. A notable mutation, R688*, results in a truncated Roquin-1 protein that fails to localize to P-bodies and interact with the CCR4-NOT deadenylation complex, leading to impaired mRNA decay and dysregulated cytokine production. This mutation is associated with severe hyperinflammatory conditions resembling hemophagocytic lymphohistiocytosis (HLH), characterized by excessive immune cell activation and cytokine release (Tavernier2019A).
+
+In humans, RC3H1 mutations can lead to autoimmune diseases such as systemic lupus erythematosus (SLE) and rheumatoid arthritis. The M199R mutation in mice, known as the sanroque mutation, causes a lupus-like disease and Sjögren's syndrome, characterized by symptoms like splenomegaly and lymphadenopathy (Raj2022Roquindependent). Additionally, RC3H1 is involved in regulating iron metabolism, with certain mutations leading to conditions like elevated serum ferritin and hepatomegaly, indicative of potential iron overload (Corral2021Roquin).
+
+The gene's role in modulating the IKK/NF-κB pathway and its interaction with mRNAs related to immune responses suggest its involvement in conditions with dysregulated immune responses (Murakawa2015RC3H1).
+
+## Interactions
+RC3H1, also known as Roquin-1, is involved in various interactions with proteins and nucleic acids, playing a significant role in post-transcriptional regulation. It binds to U-rich sequences in RNA stem-loop structures, particularly in the 3' UTRs of target transcripts, and interacts with the CCR4-CAF1-NOT deadenylase complex, which is involved in mRNA decay (Murakawa2015RC3H1). This interaction leads to the destabilization of target transcripts, such as A20 mRNA, which is a key regulator of the NF-kB pathway (Murakawa2015RC3H1).
+
+RC3H1 also interacts with proteins like CNOT1 and CNOT8, but not with the RNA-binding protein QKI, suggesting a specific role in recruiting the deadenylation complex for mRNA decay (Murakawa2015RC3H1). In the context of immune response, RC3H1 modulates the IKK/NF-kB pathway by influencing the expression of A20, affecting IKK activity and NF-kB DNA-binding activity (Murakawa2015RC3H1).
+
+Additionally, RC3H1 interacts with MNSFb in human macrophages, where MNSFb regulates TNFa production by interacting with RC3H1, potentially weakening its inhibitory effect on TNFa expression (Zhen2021MNSFβ). These interactions highlight RC3H1's role in regulating mRNA stability and its broader implications in immune response and inflammation.
+
+
+## References
+
+
+[1. (Raj2022Roquindependent) Timsse Raj, Arlinda Negraschus, and Vigo Heissmeyer. Roquin-dependent gene regulation in immune-mediated diseases and future therapies. International Immunology, 35(4):159–170, December 2022. URL: http://dx.doi.org/10.1093/intimm/dxac059, doi:10.1093/intimm/dxac059. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/intimm/dxac059)
+
+[2. (Li2024Bioinformatic) Xianpeng Li, Shuaiqi Yang, Xiangmin Zhang, Yi Zhang, Yu Zhang, and Hongyan Li. Bioinformatic analysis of roquin family reveals their potential role in immune system. International Journal of Molecular Sciences, 25(11):5859, May 2024. URL: http://dx.doi.org/10.3390/ijms25115859, doi:10.3390/ijms25115859. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25115859)
+
+[3. (Murakawa2015RC3H1) Yasuhiro Murakawa, Michael Hinz, Janina Mothes, Anja Schuetz, Michael Uhl, Emanuel Wyler, Tomoharu Yasuda, Guido Mastrobuoni, Caroline C. Friedel, Lars Dölken, Stefan Kempa, Marc Schmidt-Supprian, Nils Blüthgen, Rolf Backofen, Udo Heinemann, Jana Wolf, Claus Scheidereit, and Markus Landthaler. Rc3h1 post-transcriptionally regulates a20 mrna and modulates the activity of the ikk/nf-κb pathway. Nature Communications, July 2015. URL: http://dx.doi.org/10.1038/ncomms8367, doi:10.1038/ncomms8367. This article has 92 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms8367)
+
+[4. (Schuetz2014Roquin) Anja Schuetz, Yasuhiro Murakawa, Eva Rosenbaum, Markus Landthaler, and Udo Heinemann. Roquin binding to target mrnas involves a winged helix-turn-helix motif. Nature Communications, December 2014. URL: http://dx.doi.org/10.1038/ncomms6701, doi:10.1038/ncomms6701. This article has 32 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms6701)
+
+[5. (Leppek2013Roquin) Kathrin Leppek, Johanna Schott, Sonja Reitter, Fabian Poetz, Ming C. Hammond, and Georg Stoecklin. Roquin promotes constitutive mrna decay via a conserved class of stem-loop recognition motifs. Cell, 153(4):869–881, May 2013. URL: http://dx.doi.org/10.1016/j.cell.2013.04.016, doi:10.1016/j.cell.2013.04.016. This article has 264 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2013.04.016)
+
+[6. (Zhang2015New) Qi Zhang, Lixin Fan, Feng Hou, Aiping Dong, Yun-Xing Wang, and Yufeng Tong. New insights into the rna-binding and e3 ubiquitin ligase activities of roquins. Scientific Reports, October 2015. URL: http://dx.doi.org/10.1038/srep15660, doi:10.1038/srep15660. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep15660)
+
+[7. (Tavernier2019A) S. J. Tavernier, V. Athanasopoulos, P. Verloo, G. Behrens, J. Staal, D. J. Bogaert, L. Naesens, M. De Bruyne, S. Van Gassen, E. Parthoens, J. Ellyard, J. Cappello, L. X. Morris, H. Van Gorp, G. Van Isterdael, Y. Saeys, M. Lamkanfi, P. Schelstraete, J. Dehoorne, V. Bordon, R. Van Coster, B. N. Lambrecht, B. Menten, R. Beyaert, C. G. Vinuesa, V. Heissmeyer, M. Dullaers, and F. Haerynck. A human immune dysregulation syndrome characterized by severe hyperinflammation with a homozygous nonsense roquin-1 mutation. Nature Communications, October 2019. URL: http://dx.doi.org/10.1038/s41467-019-12704-6, doi:10.1038/s41467-019-12704-6. This article has 38 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-12704-6)
+
+[8. (Corral2021Roquin) Victor M. Corral, Eric R. Schultz, Richard S. Eisenstein, and Gregory J. Connell. Roquin is a major mediator of iron-regulated changes to transferrin receptor-1 mrna stability. iScience, 24(4):102360, April 2021. URL: http://dx.doi.org/10.1016/j.isci.2021.102360, doi:10.1016/j.isci.2021.102360. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.isci.2021.102360)
+
+[9. (Tan2014The) Dazhi Tan, Mi Zhou, Megerditch Kiledjian, and Liang Tong. The roq domain of roquin recognizes mrna constitutive-decay element and double-stranded rna. Nature Structural &amp; Molecular Biology, 21(8):679–685, July 2014. URL: http://dx.doi.org/10.1038/nsmb.2857, doi:10.1038/nsmb.2857. This article has 70 citations.](https://doi.org/10.1038/nsmb.2857)
+
+[10. (Zhen2021MNSFβ) Xing-Xing Zhen, Long Yang, Yan Gu, Qian Yang, Wen-Wen Gu, Ya-Ping He, Yan-Ling Wang, and Jian Wang. Mnsfβ regulates tnfα production by interacting with rc3h1 in human macrophages, and dysfunction of mnsfβ in decidual macrophages is associated with recurrent pregnancy loss. Frontiers in Immunology, September 2021. URL: http://dx.doi.org/10.3389/fimmu.2021.691908, doi:10.3389/fimmu.2021.691908. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2021.691908)

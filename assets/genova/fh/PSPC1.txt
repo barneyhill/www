@@ -1,0 +1,56 @@
+# PSPC1
+
+## Overview
+PSPC1 (paraspeckle component 1) is a gene that encodes a multifunctional protein involved in the formation and function of paraspeckles, which are subnuclear structures implicated in RNA processing and gene regulation. The PSPC1 protein is characterized by its RNA-binding capabilities, facilitated by two RNA recognition motifs (RRMs), and its involvement in protein-protein interactions through a NONA/paraspeckle (NOPS) domain and a coiled-coil domain (Lee2011Construct; Passon2012Structure). As a member of the Drosophila behavior/human splicing (DBHS) protein family, PSPC1 often forms heterodimers with other DBHS proteins, such as NONO, which are essential for the structural integrity and function of paraspeckles (Passon2012Structure). The protein plays a critical role in various cellular processes, including RNA splicing, polyadenylation, and the regulation of gene expression, and is involved in the nuclear export of specific RNAs during differentiation (Wang2017RNAbinding). PSPC1's interactions with other proteins and its involvement in cancer biology highlight its clinical significance, particularly in the context of tumor progression and metastasis (Lang2021PSPC1; Ghosh2023PSPC1).
+
+## Structure
+PSPC1 (paraspeckle component 1) is a protein that plays a crucial role in the formation of paraspeckles, subnuclear structures involved in RNA processing. The molecular structure of PSPC1 includes several key domains: two RNA recognition motifs (RRMs), a NONA/paraspeckle (NOPS) domain, and a coiled-coil domain. These domains are essential for its function in RNA binding and protein-protein interactions (Lee2011Construct; Passon2012Structure).
+
+The RRMs are involved in interactions with retained mRNAs and structural long non-coding RNAs, while the NOPS domain and coiled-coil domain facilitate protein-protein interactions. The coiled-coil domain is particularly important for the localization of PSPC1 to paraspeckles and forms a unique right-handed antiparallel coiled-coil structure, which is rare among proteins (Passon2012Structure).
+
+PSPC1 often forms heterodimers with other DBHS proteins, such as NONO, and these interactions are crucial for its function in subnuclear body formation. The heterodimerization involves an extensive interaction interface that includes all four domains, emphasizing the protein's role as an obligate dimer (Lee2011Construct; Passon2012Structure).
+
+## Function
+PSPC1 (paraspeckle component 1) is a multifunctional protein involved in various molecular processes within healthy human cells. It is a key component of paraspeckles, subnuclear structures that play a significant role in RNA processing and gene regulation. PSPC1 is involved in transcript splicing, polyadenylation, and stabilization, although it is not an essential component of the spliceosome. It participates in co-transcriptional and alternative splicing, regulating genes such as CD45 and neuronal cell-specific genes (Knott2016The).
+
+PSPC1 also facilitates pre-mRNA 3'-end processing by promoting polyadenylation and cleavage, contributing to transcript stability. It is part of RNA transport granules in neuronal cells and is involved in snRNA export, as well as internal ribosome entry site (IRES) regulation, affecting translation initiation (Knott2016The).
+
+In adipocyte differentiation, PSPC1 promotes the differentiation-dependent nuclear export of adipocyte RNAs, enhancing the export of adipogenic RNAs and playing a crucial role in posttranscriptional control of adipose development and function (Wang2017RNAbinding). PSPC1's interaction with DDX3X, an RNA helicase, is essential for the nuclear export of target transcripts during differentiation (Wang2017RNAbinding). This protein is active in both the nucleus and cytoplasm, translocating during adipocyte differentiation to facilitate these processes (Wang2017RNAbinding).
+
+## Clinical Significance
+PSPC1 (paraspeckle component 1) has significant clinical implications in cancer progression, particularly in breast, ovarian, and hepatocellular carcinoma (HCC). In breast and ovarian cancers, high PSPC1 expression is associated with a higher recurrence risk and shorter overall survival. Inhibition of PSPC1, especially in combination with the PARP inhibitor olaparib, has shown therapeutic potential in BRCA-mutated cancers by enhancing tumor regression and increasing apoptosis (Ghosh2023PSPC1).
+
+In HCC, PSPC1 acts as a pro-metastatic driver. Its interaction with PTK6, a tumor suppressor, is crucial; mutations such as PSPC1-Y523F disrupt this interaction, leading to enhanced cell migration and invasion. This mutation also promotes the cytoplasmic translocation of PTK6, switching its role from tumor suppression to tumor promotion, and facilitates oncogenic processes like epithelial-mesenchymal transition (EMT) and Wnt/β-catenin signaling (Lang2019PSPC1interchanged). High nuclear PTK6 and phosphorylated PSPC1 (p-Y523-PSPC1) expression correlate with better survival in early-stage HCC, suggesting their potential as prognostic markers (Lang2019PSPC1interchanged).
+
+PSPC1 also enhances IGF1R expression, which is critical for cell adhesion and motility, further contributing to cancer progression. This role is supported by its interactions with paraspeckle components like NONO, FUS, and lncRNA Neat1 (Jen2020PSPC1).
+
+## Interactions
+PSPC1 (paraspeckle component 1) is involved in various interactions with proteins and nucleic acids, playing a significant role in cellular processes. PSPC1 forms a heterodimer with NONO, another paraspeckle protein, involving four domains: RRM1, RRM2, NOPS, and coiled-coil. This interaction is crucial for the formation of paraspeckles, subnuclear structures associated with RNA processing (Passon2012Structure).
+
+In the context of Hepatitis C Virus (HCV) infection, PSPC1 interacts with the viral RNA. It specifically binds to the stem-loop IV (SLIV) region of the HCV internal ribosome entry site (IRES), competing with ribosomal protein S5 (RPS5) and inhibiting viral RNA translation (Tripathi2024PSPC1).
+
+PSPC1 also interacts with DDX3X, an RNA-binding protein, in a differentiation-dependent manner during adipocyte differentiation. This interaction is RNA-dependent and is crucial for the nuclear export of mRNA, facilitating adipocyte differentiation (Wang2017RNAbinding).
+
+In cancer biology, PSPC1 interacts with PTK6 and β-catenin, influencing tumor progression. It modulates the subcellular localization of PTK6, switching its function from tumor-suppressive in the nucleus to oncogenic in the cytoplasm, and enhances β-catenin's nuclear translocation, promoting oncogenic signaling (Lang2021PSPC1).
+
+
+## References
+
+
+[1. (Knott2016The) Gavin J. Knott, Charles S. Bond, and Archa H. Fox. The dbhs proteins sfpq, nono and pspc1: a multipurpose molecular scaffold. Nucleic Acids Research, 44(9):3989–4004, April 2016. URL: http://dx.doi.org/10.1093/nar/gkw271, doi:10.1093/nar/gkw271. This article has 218 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkw271)
+
+[2. (Passon2012Structure) Daniel M. Passon, Mihwa Lee, Oliver Rackham, Will A. Stanley, Agata Sadowska, Aleksandra Filipovska, Archa H. Fox, and Charles S. Bond. Structure of the heterodimer of human nono and paraspeckle protein component 1 and analysis of its role in subnuclear body formation. Proceedings of the National Academy of Sciences, 109(13):4846–4850, March 2012. URL: http://dx.doi.org/10.1073/pnas.1120792109, doi:10.1073/pnas.1120792109. This article has 129 citations.](https://doi.org/10.1073/pnas.1120792109)
+
+[3. (Lang2019PSPC1interchanged) Yaw-Dong Lang, Hsin-Yi Chen, Chun-Ming Ho, Jou-Ho Shih, En-Chi Hsu, Roger Shen, Yu-Ching Lee, Jyun-Wei Chen, Cheng-Yen Wu, Hsi-Wen Yeh, Ruey-Hwa Chen, and Yuh-Shan Jou. Pspc1-interchanged interactions with ptk6 and β-catenin synergize oncogenic subcellular translocations and tumor progression. Nature Communications, December 2019. URL: http://dx.doi.org/10.1038/s41467-019-13665-6, doi:10.1038/s41467-019-13665-6. This article has 25 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-13665-6)
+
+[4. (Wang2017RNAbinding) Jiexin Wang, Prashant Rajbhandari, Andrey Damianov, Areum Han, Tamer Sallam, Hironori Waki, Claudio J. Villanueva, Stephen D. Lee, Ronni Nielsen, Susanne Mandrup, Karen Reue, Stephen G. Young, Julian Whitelegge, Enrique Saez, Douglas L. Black, and Peter Tontonoz. Rna-binding protein pspc1 promotes the differentiation-dependent nuclear export of adipocyte rnas. Journal of Clinical Investigation, 127(3):987–1004, February 2017. URL: http://dx.doi.org/10.1172/jci89484, doi:10.1172/jci89484. This article has 36 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci89484)
+
+[5. (Tripathi2024PSPC1) Sachin Kumar Tripathi, Ashish Aneja, Teji Borgaonkar, and Saumitra Das. Pspc1 binds to hcv ires and prevents ribosomal protein s5 binding, inhibiting viral rna translation. Viruses, 16(5):738, May 2024. URL: http://dx.doi.org/10.3390/v16050738, doi:10.3390/v16050738. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/v16050738)
+
+[6. (Ghosh2023PSPC1) Mithun Ghosh, Min Sil Kang, Nar Bahadur Katuwal, Sa Deok Hong, Yeong Gyu Jeong, Seong Min Park, Seul-Gi Kim, and Yong Wha Moon. Pspc1 inhibition synergizes with poly(adp-ribose) polymerase inhibitors in a preclinical model of brca-mutated breast/ovarian cancer. International Journal of Molecular Sciences, 24(23):17086, December 2023. URL: http://dx.doi.org/10.3390/ijms242317086, doi:10.3390/ijms242317086. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms242317086)
+
+[7. (Lee2011Construct) Mihwa Lee, Daniel M. Passon, Sven Hennig, Archa H. Fox, and Charles S. Bond. Construct optimization for studying protein complexes: obtaining diffraction-quality crystals of the pseudosymmetric pspc1–nono heterodimer. Acta Crystallographica Section D Biological Crystallography, 67(11):981–987, October 2011. URL: http://dx.doi.org/10.1107/s0907444911039606, doi:10.1107/s0907444911039606. This article has 16 citations.](https://doi.org/10.1107/s0907444911039606)
+
+[8. (Jen2020PSPC1) Hsin-Wei Jen, De-Leung Gu, Yaw-Dong Lang, and Yuh-Shan Jou. Pspc1 potentiates igf1r expression to augment cell adhesion and motility. Cells, 9(6):1490, June 2020. URL: http://dx.doi.org/10.3390/cells9061490, doi:10.3390/cells9061490. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells9061490)
+
+[9. (Lang2021PSPC1) Yaw-Dong Lang and Yuh-Shan Jou. Pspc1 is a new contextual determinant of aberrant subcellular translocation of oncogenes in tumor progression. Journal of Biomedical Science, August 2021. URL: http://dx.doi.org/10.1186/s12929-021-00753-3, doi:10.1186/s12929-021-00753-3. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s12929-021-00753-3)

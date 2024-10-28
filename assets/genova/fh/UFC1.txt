@@ -1,0 +1,46 @@
+# UFC1
+
+## Overview
+UFC1, or ubiquitin-fold modifier conjugating enzyme 1, is a gene that encodes a protein involved in the ufmylation pathway, a post-translational modification process analogous to ubiquitination. The protein UFC1 functions as an E2 conjugating enzyme, playing a pivotal role in the transfer of the ubiquitin-like modifier UFM1 to target substrates, thereby regulating various cellular processes such as protein homeostasis, endoplasmic reticulum function, and cell cycle control (Zhou2024UFMylation:; Daniel2014The). Structurally, UFC1 is characterized by a canonical E2 domain with unique features that facilitate its interaction with other components of the ufmylation machinery, including the E1 enzyme UBA5 and the E3 ligase UFL1 (Mizushima2007Crystal; Kumar2021Structural). The gene's expression and the protein's function are critical for maintaining cellular integrity, and dysregulation of UFC1 has been linked to various diseases, including neurodegenerative disorders and cancer (Zhou2024UFMylation:).
+
+## Structure
+UFC1, or ubiquitin-fold modifier conjugating enzyme 1, is a protein involved in the ufmylation pathway, functioning as an E2 enzyme. The primary structure of UFC1 includes a sequence of amino acids that form a canonical E2 domain, with an additional N-terminal domain contributing to its thermal stability (Mizushima2007Crystal). The secondary structure of UFC1 is characterized by an alpha/beta fold, similar to other E2 enzymes, but with unique features such as an extra alpha-helix and loop at the N-terminus (Mizushima2007Crystal).
+
+The tertiary structure of UFC1 reveals a conserved catalytic core domain typical of E2-like enzymes, with the active site cysteine, Cys 116, located in a flexible, solvent-accessible loop (Liu2008NMR). This active site is crucial for forming a thioester bond with UFM1. UFC1's structure also includes a unique binding site for UBA5, which interacts with a specific pocket on UFC1, not present in other E2 enzymes (Kumar2021Structural).
+
+UFC1 does not have a ubiquitin fold domain like canonical E1 enzymes but interacts with UBA5 through a short sequence called UBS, which adopts a helical conformation and fits into a hydrophobic pocket in UFC1 (Kumar2021Structural). The protein's structure is distinct in that its helix 2 is longer and unbroken, which may influence its interaction with the E3 ligase UFL1 (Kumar2021Structural).
+
+## Function
+UFC1 (ubiquitin-fold modifier conjugating enzyme 1) is a crucial component of the UFMylation pathway, a ubiquitin-like modification process that regulates various cellular functions. UFC1 acts as an E2 conjugating enzyme, facilitating the transfer of UFM1, a ubiquitin-like protein, to target substrates. This process involves a cascade of enzymatic reactions, starting with the activation of UFM1 by the E1 enzyme UBA5, followed by its transfer to UFC1 through a trans-thioesterification reaction (Banerjee2020Decrypting; Zhou2024UFMylation:).
+
+UFC1 then collaborates with the E3 ligase UFL1 to mediate the ligation of UFM1 to lysine residues on target proteins, forming an ε-amid bond. This modification is essential for maintaining protein homeostasis, endoplasmic reticulum functions, and cell cycle control (Zhou2024UFMylation:; Daniel2014The). The UFMylation process is reversible, with specific cysteine proteases responsible for deUFMylation, highlighting its dynamic role in cellular regulation (Zhou2024UFMylation:).
+
+UFC1 is predominantly localized in the nucleus, with a smaller fraction in the cytoplasm, indicating its involvement in nuclear processes such as genome integrity maintenance and response to DNA damage (Zhou2024UFMylation:). The UFMylation machinery, including UFC1, is ubiquitously expressed in human cells, underscoring its essential role in development and cellular function (Zhou2024UFMylation:).
+
+## Clinical Significance
+Mutations or dysregulation of the UFC1 gene have been implicated in various diseases, particularly neurodegenerative disorders and cancer. UFC1 plays a critical role in the ubiquitin-like protein conjugation pathway, which is essential for maintaining protein homeostasis and managing cellular stress responses. Disruptions in these processes can lead to the accumulation of misfolded or damaged proteins, contributing to the pathogenesis of neurodegenerative diseases. In cancer, alterations in UFC1 expression or function can affect cell proliferation and survival, potentially leading to tumorigenesis. The precise mechanisms by which UFC1 mutations or dysregulation contribute to these diseases are still under investigation, but its involvement in critical cellular pathways underscores its clinical significance. Understanding the role of UFC1 in these conditions may offer insights into potential therapeutic targets for managing or treating related diseases.
+
+## Interactions
+UFC1 (ubiquitin-fold modifier conjugating enzyme 1) is involved in several key protein interactions essential for the ufmylation process, a post-translational modification pathway. UFC1 interacts with UFM1 (ubiquitin-fold modifier 1) to form a complex that facilitates the conjugation of UFM1 to target proteins. This interaction is modeled based on the structural similarity to the Ubc1-Ub complex, with the terminal Gly 83 of UFM1 positioned near the catalytic Cys 116 in UFC1, which is necessary for thio-ester formation (Liu2008NMR).
+
+UFC1 also interacts with UBA5, the E1 enzyme in the ufmylation pathway. The interaction involves a unique binding site on UFC1, distinct from other E2 enzymes, which is crucial for the transfer of UFM1. The UBA5 linker region aids in desolvating UFC1's active site, enhancing its nucleophilic activity (Kumar2021Structural). The a2-helix of UFC1 is important for binding to UBA5, and mutations in this region can affect the binding affinity (Mizushima2007Crystal).
+
+UFC1 also competes with UFL1, an E3 ligase, for binding to UBA5. UFL1 has a stronger affinity for UFC1, which is significant for the ufmylation process, as it displaces UBA5 to expose UFC1's active site (Banerjee2022Structural).
+
+
+## References
+
+
+1. (Banerjee2022Structural) Structural study of UFL1-UFC1 interaction uncovers the importance of UFL1 N-terminal helix for ufmylation. This article has 1 citations.
+
+[2. (Mizushima2007Crystal) Tsunehiro Mizushima, Kanako Tatsumi, Yoko Ozaki, Tatsukuni Kawakami, Atsuo Suzuki, Kyoko Ogasahara, Masaaki Komatsu, Eiki Kominami, Keiji Tanaka, and Takashi Yamane. Crystal structure of ufc1, the ufm1-conjugating enzyme. Biochemical and Biophysical Research Communications, 362(4):1079–1084, November 2007. URL: http://dx.doi.org/10.1016/j.bbrc.2007.08.129, doi:10.1016/j.bbrc.2007.08.129. This article has 41 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2007.08.129)
+
+[3. (Kumar2021Structural) Manoj Kumar, Prasanth Padala, Jamal Fahoum, Fouad Hassouna, Tomer Tsaban, Guy Zoltsman, Sayanika Banerjee, Einav Cohen-Kfir, Moshe Dessau, Rina Rosenzweig, Michail N. Isupov, Ora Schueler-Furman, and Reuven Wiener. Structural basis for ufm1 transfer from uba5 to ufc1. Nature Communications, September 2021. URL: http://dx.doi.org/10.1038/s41467-021-25994-6, doi:10.1038/s41467-021-25994-6. This article has 26 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-25994-6)
+
+[4. (Zhou2024UFMylation:) Xingchen Zhou, Sayyed J. Mahdizadeh, Matthieu Le Gallo, Leif A. Eriksson, Eric Chevet, and Elodie Lafont. Ufmylation: a ubiquitin-like modification. Trends in Biochemical Sciences, 49(1):52–67, January 2024. URL: http://dx.doi.org/10.1016/j.tibs.2023.10.004, doi:10.1016/j.tibs.2023.10.004. This article has 8 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tibs.2023.10.004)
+
+[5. (Banerjee2020Decrypting) Sayanika Banerjee, Manoj Kumar, and Reuven Wiener. Decrypting ufmylation: how proteins are modified with ufm1. Biomolecules, 10(10):1442, October 2020. URL: http://dx.doi.org/10.3390/biom10101442, doi:10.3390/biom10101442. This article has 46 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom10101442)
+
+[6. (Liu2008NMR) Gaohua Liu, Farhad Forouhar, Alexander Eletsky, Hanudatta S. Atreya, James M. Aramini, Rong Xiao, Yuanpeng J. Huang, Mariam Abashidze, Jayaraman Seetharaman, Jinfeng Liu, Burkhard Rost, Thomas Acton, Gaetano T. Montelione, John F. Hunt, and Thomas Szyperski. Nmr and x-ray structures of human e2-like ubiquitin-fold modifier conjugating enzyme 1 (ufc1) reveal structural and functional conservation in the metazoan ufm1-uba5-ufc1 ubiquination pathway. Journal of Structural and Functional Genomics, 10(2):127–136, December 2008. URL: http://dx.doi.org/10.1007/s10969-008-9054-7, doi:10.1007/s10969-008-9054-7. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10969-008-9054-7)
+
+[7. (Daniel2014The) Jens Daniel and Eva Liebau. The ufm1 cascade. Cells, 3(2):627–638, June 2014. URL: http://dx.doi.org/10.3390/cells3020627, doi:10.3390/cells3020627. This article has 79 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells3020627)

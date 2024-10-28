@@ -1,0 +1,32 @@
+# PCGF5
+
+## Overview
+PCGF5, or polycomb group ring finger 5, is a gene that encodes a protein of the same name, which is a member of the polycomb group (PcG) proteins. These proteins are critical components of the Polycomb Repressive Complex 1 (PRC1), a key player in chromatin remodeling and gene silencing. The PCGF5 protein is involved in the ubiquitylation of histone H2A at lysine 119, a modification that is associated with transcriptional repression, thereby influencing cell differentiation and development (cochrane2013biochemical). It is primarily active in the nucleus and interacts with other proteins to form a distinct PRC1 complex known as PRC1.5, which is essential for its role in gene regulation (Gao2012PCGF; cochrane2013biochemical). PCGF5 is notably expressed in T-lymphoid tissues and is regulated by the Notch signaling pathway, indicating its significant role in T cell development and hematopoietic processes (cochrane2013biochemical).
+
+## Function
+PCGF5 (polycomb group ring finger 5) is a component of the Polycomb Repressive Complex 1 (PRC1), which plays a crucial role in chromatin remodeling and gene silencing. In healthy human cells, PCGF5 is involved in the ubiquitylation of histone H2A at lysine 119 (H2AK119ub), a modification associated with transcriptional repression (cochrane2013biochemical). This activity is similar to that of Bmi1, another member of the Polycomb group proteins, although PCGF5 regulates a different subset of genes (cochrane2013biochemical).
+
+PCGF5 is primarily active in the nucleus, where it contributes to the maintenance of transcriptional repression of target genes, influencing cell differentiation and development (cochrane2013biochemical). It interacts with RING1B, a core component of PRC1, to form a complex capable of modifying histones, which is essential for its role in gene regulation (cochrane2013biochemical). The gene is highly expressed in T-lymphoid tissues, such as intrathymic T progenitors and cord blood CD4 T cells, suggesting a significant role in T cell development (cochrane2013biochemical).
+
+PCGF5 is also regulated by the Notch signaling pathway, which is important in T-cell acute lymphoblastic leukemia (T-ALL) and T cell development, indicating its involvement in hematopoietic processes (cochrane2013biochemical).
+
+## Interactions
+PCGF5 is a component of the Polycomb Repressive Complex 1 (PRC1) and interacts with several proteins to regulate gene expression. It forms a distinct PRC1 complex known as PRC1.5, which includes core components such as RING1B, RYBP, and YAF2. PCGF5 interacts with proteins like AUTS2, FBRS, and FBRSL1, which are unique to the PRC1.5 complex (Gao2012PCGF). In embryonic stem cells, PCGF5 is involved in transcriptional activation through interactions with the pluripotency factor Tex10 and the transcriptional coactivator P300, which are crucial for maintaining H3K27ac modifications and mRNA levels (Zhao2017Polycomb).
+
+PCGF5 also plays a role in neural differentiation by interacting with RING1B to stimulate histone H2AK119ub1, which is important for recruiting PRC2 and modifying H3K27me3 (Yao2018PCGF5). During Ehrlichia chaffeensis infection, the TRP120 protein interacts with PCGF5, leading to its ubiquitination and degradation, which affects host protein interactions and stability (Zhu2017Ehrlichia; Mitra2018Ehrlichia). These interactions highlight the diverse roles of PCGF5 in both transcriptional regulation and response to pathogenic infection.
+
+
+## References
+
+
+[1. (Gao2012PCGF) Zhonghua Gao, Jin Zhang, Roberto Bonasio, Francesco Strino, Ayana Sawai, Fabio Parisi, Yuval Kluger, and Danny Reinberg. Pcgf homologs, cbx proteins, and rybp define functionally distinct prc1 family complexes. Molecular Cell, 45(3):344–356, February 2012. URL: http://dx.doi.org/10.1016/j.molcel.2012.01.002, doi:10.1016/j.molcel.2012.01.002. This article has 715 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2012.01.002)
+
+[2. (Yao2018PCGF5) Mingze Yao, Xueke Zhou, Jiajian Zhou, Shixin Gong, Gongcheng Hu, Jiao Li, Kaimeng Huang, Ping Lai, Guang Shi, Andrew P. Hutchins, Hao Sun, Huating Wang, and Hongjie Yao. Pcgf5 is required for neural differentiation of embryonic stem cells. Nature Communications, May 2018. URL: http://dx.doi.org/10.1038/s41467-018-03781-0, doi:10.1038/s41467-018-03781-0. This article has 60 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-03781-0)
+
+[3. (Zhu2017Ehrlichia) Bing Zhu, Seema Das, Shubhajit Mitra, Tierra R. Farris, and Jere W. McBride. Ehrlichia chaffeensis trp120 moonlights as a hect e3 ligase involved in self- and host ubiquitination to influence protein interactions and stability for intracellular survival. Infection and Immunity, September 2017. URL: http://dx.doi.org/10.1128/iai.00290-17, doi:10.1128/iai.00290-17. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1128/iai.00290-17)
+
+[4. (Mitra2018Ehrlichia) Shubhajit Mitra, Paige S. Dunphy, Seema Das, Bing Zhu, Tian Luo, and Jere W. McBride. Ehrlichia chaffeensis trp120 effector targets and recruits host polycomb group proteins for degradation to promote intracellular infection. Infection and Immunity, April 2018. URL: http://dx.doi.org/10.1128/iai.00845-17, doi:10.1128/iai.00845-17. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1128/iai.00845-17)
+
+5. (cochrane2013biochemical) Christopher Larson Cochrane. Biochemical characterization and regulation of transcription of Polycomb Group RING Finger 5. PhD thesis, University of British Columbia, 2013. This article has 0 citations.
+
+[6. (Zhao2017Polycomb) Wukui Zhao, Yikai Huang, Jingzi Zhang, Mengjie Liu, Haijing Ji, Congcong Wang, Ning Cao, Chaojun Li, Yin Xia, Qing Jiang, and Jinzhong Qin. Polycomb group ring finger proteins 3/5 activate transcription via an interaction with the pluripotency factor tex10 in embryonic stem cells. Journal of Biological Chemistry, 292(52):21527–21537, December 2017. URL: http://dx.doi.org/10.1074/jbc.m117.804054, doi:10.1074/jbc.m117.804054. This article has 38 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m117.804054)

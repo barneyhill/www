@@ -1,0 +1,60 @@
+# DOT1L
+
+## Overview
+DOT1L is a gene that encodes the DOT1 like histone lysine methyltransferase, a crucial enzyme involved in the methylation of histone H3 at lysine 79 (H3K79). This enzyme is categorized as a histone methyltransferase and plays a significant role in regulating chromatin structure and gene expression. The DOT1L protein is essential for various cellular processes, including transcriptional regulation, DNA damage repair, and cell cycle progression. It is particularly important in hematopoiesis, where it supports the differentiation and maintenance of hematopoietic stem and progenitor cells. Additionally, DOT1L is involved in cartilage homeostasis by modulating the Wnt signaling pathway. Clinically, DOT1L is implicated in several cancers, including leukemias and solid tumors, making it a target for therapeutic interventions (Alexandrova2022Histone; Nguyen2011The; Monteagudo2017DOT1L).
+
+## Structure
+DOT1L, also known as disruptor of telomeric silencing or Kmt4, is a histone methyltransferase responsible for methylating histone H3 at lysine 79 (H3K79). The molecular structure of DOT1L is characterized by a conserved catalytic core region shared with its homologs across various species, including yeast, worm, fly, mouse, and human. This region contains four sequence motifs (I, post I, II, and III) typical of SAM-dependent methyltransferases (Nguyen2011The).
+
+The crystal structure of DOT1L reveals an open alpha/beta structure composed of a seven-stranded beta sheet, which is characteristic of class I SAM-dependent methyltransferases. Despite structural similarities to arginine methyltransferases, DOT1L specifically catalyzes lysine methylation. The tertiary structure is defined by the substrate-binding pocket, which is more similar to that of class I arginine methyltransferases than to lysine methyltransferases like hNSD1 (Nguyen2011The).
+
+DOT1L also contains three coiled-coil domains, which are central to its interaction with the AF10 protein. These domains are evolutionarily conserved and engage in binding with the OM-LZ region of AF10, forming a heterotetramer in solution with a V-shaped architecture (Zhang2018Structural). The interaction between DOT1L and AF10 is crucial for MLL-AF10-associated leukemogenesis (Zhang2018Structural).
+
+## Function
+DOT1L (DOT1 like histone lysine methyltransferase) is a crucial enzyme in healthy human cells, primarily responsible for the methylation of histone H3 at lysine 79 (H3K79). This methylation is essential for maintaining proper chromatin structure and regulating gene expression. DOT1L's activity is involved in several key cellular processes, including transcriptional regulation, DNA damage repair, and cell cycle progression (Vlaming2016The; Nguyen2011The).
+
+In the context of hematopoiesis, DOT1L is vital for the differentiation and maintenance of hematopoietic stem and progenitor cells. Its enzymatic activity supports the expression of genes necessary for hematopoietic stem cell development and function, and its loss can lead to severe hematological disorders such as anemia and bone marrow failure (Nguyen2011Essential; Arnold2022The).
+
+DOT1L also plays a significant role in cartilage homeostasis by modulating the Wnt signaling pathway. It acts as a negative regulator of Wnt target genes, thereby preventing excessive signaling that could lead to cartilage degradation and osteoarthritis (Monteagudo2017DOT1L).
+
+Overall, DOT1L's methyltransferase activity is crucial for maintaining normal cellular and developmental processes, influencing transcriptional activation and repression within the nucleus (Nguyen2011The).
+
+## Clinical Significance
+The DOT1L gene is clinically significant due to its role in various cancers, particularly leukemias and solid tumors. In leukemias, DOT1L is implicated in mixed lineage leukemia (MLL) rearrangements, where it is recruited to aberrant target sites by MLL fusion proteins, leading to increased H3K79 methylation and ectopic gene expression. This process is crucial for the upregulation of leukemia-relevant genes such as HOXA9 and MEIS1, contributing to leukemogenesis (Vlaming2016The; Stein2018The; Okada2005hDOT1L). Inhibitors like pinometostat have been developed to target DOT1L's methyltransferase activity, showing potential in treating MLL-rearranged leukemias (Stein2018The).
+
+Beyond hematologic malignancies, DOT1L is associated with several solid tumors, including breast, prostate, ovarian, and colorectal cancers. High DOT1L expression is linked to poor prognosis and increased tumor aggressiveness. In breast cancer, DOT1L promotes epithelial-to-mesenchymal transition and metastasis, particularly in triple-negative subtypes (Alexandrova2022Histone). In prostate cancer, DOT1L is involved in androgen receptor signaling and is associated with poor disease-free survival (Alexandrova2022Histone). These findings highlight DOT1L as a promising target for therapeutic intervention in both hematologic and solid tumors (Alexandrova2022Histone).
+
+## Interactions
+DOT1L, a histone methyltransferase, is involved in various protein interactions that regulate its recruitment and activity. It forms part of the DotCom complex, which includes proteins such as AF9, ENL, and AF10. These proteins are crucial for DOT1L's function, with AF9 and ENL being key partners that influence its recruitment to chromatin. AF9, in particular, is essential for recruiting DOT1L to sites where H3K9 is acetylated, such as transcription start sites (Vlaming2016The; Mohan2010Linking).
+
+Mutations in AF9, such as D546R, can disrupt DOT1L recruitment, affecting the methylation states of H3K79 (Vlaming2016The). DOT1L also interacts with MLL fusion proteins, like MLL-AF9, which recruit it to MLL target genes, leading to deregulated H3K79 methylation and enhanced expression of leukemogenic genes (Grigsby2021Elucidating).
+
+The interaction between DOT1L and AF10 is mediated through the OM-LZ region of AF10, which is crucial for MLL-AF10-mediated leukemogenesis (Okada2005hDOT1L). Additionally, DOT1L interacts with the E3 ligase RNF8, which ubiquitinates DOT1L, targeting it for degradation. Acetylation by CBP protects DOT1L from this degradation (Liu2020CBP).
+
+
+## References
+
+
+[1. (Liu2020CBP) Chaohua Liu, Qiaoyan Yang, Qian Zhu, Xiaopeng Lu, Meiting Li, Tianyun Hou, Zhiming Li, Ming Tang, Yinglu Li, Hui Wang, Yang Yang, Haiying Wang, Ying Zhao, He Wen, Xiangyu Liu, Zebin Mao, and Wei-Guo Zhu. Cbp mediated dot1l acetylation confers dot1l stability and promotes cancer metastasis. Theranostics, 10(4):1758–1776, 2020. URL: http://dx.doi.org/10.7150/thno.39013, doi:10.7150/thno.39013. This article has 33 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7150/thno.39013)
+
+[2. (Nguyen2011Essential) Anh T Nguyen, Jin He, Olena Taranova, and Yi Zhang. Essential role of dot1l in maintaining normal adult hematopoiesis. Cell Research, 21(9):1370–1373, July 2011. URL: http://dx.doi.org/10.1038/cr.2011.115, doi:10.1038/cr.2011.115. This article has 56 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/cr.2011.115)
+
+[3. (Okada2005hDOT1L) Yuki Okada, Qin Feng, Yihui Lin, Qi Jiang, Yaqiang Li, Vernon M. Coffield, Lishan Su, Guoliang Xu, and Yi Zhang. Hdot1l links histone methylation to leukemogenesis. Cell, 121(2):167–178, April 2005. URL: http://dx.doi.org/10.1016/j.cell.2005.02.020, doi:10.1016/j.cell.2005.02.020. This article has 677 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2005.02.020)
+
+[4. (Alexandrova2022Histone) Elena Alexandrova, Annamaria Salvati, Giovanni Pecoraro, Jessica Lamberti, Viola Melone, Assunta Sellitto, Francesca Rizzo, Giorgio Giurato, Roberta Tarallo, Giovanni Nassa, and Alessandro Weisz. Histone methyltransferase dot1l as a promising epigenetic target for treatment of solid tumors. Frontiers in Genetics, April 2022. URL: http://dx.doi.org/10.3389/fgene.2022.864612, doi:10.3389/fgene.2022.864612. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.864612)
+
+[5. (Grigsby2021Elucidating) Sierrah M. Grigsby, Ann Friedman, Jennifer Chase, Bridget Waas, James Ropa, Justin Serio, Chenxi Shen, Andrew G. Muntean, Ivan Maillard, and Zaneta Nikolovska-Coleska. Elucidating the importance of dot1l recruitment in mll-af9 leukemia and hematopoiesis. Cancers, 13(4):642, February 2021. URL: http://dx.doi.org/10.3390/cancers13040642, doi:10.3390/cancers13040642. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13040642)
+
+[6. (Nguyen2011The) Anh Tram Nguyen and Yi Zhang. The diverse functions of dot1 and h3k79 methylation. Genes &amp; Development, 25(13):1345–1358, July 2011. URL: http://dx.doi.org/10.1101/gad.2057811, doi:10.1101/gad.2057811. This article has 474 citations.](https://doi.org/10.1101/gad.2057811)
+
+[7. (Zhang2018Structural) Heng Zhang, Bo Zhou, Su Qin, Jing Xu, Rachel Harding, Wolfram Tempel, Vinod Nayak, Yanjun Li, Peter Loppnau, Yali Dou, and Jinrong Min. Structural and functional analysis of the dot1l–af10 complex reveals mechanistic insights into mll-af10-associated leukemogenesis. Genes &amp; Development, 32(5–6):341–346, March 2018. URL: http://dx.doi.org/10.1101/gad.311639.118, doi:10.1101/gad.311639.118. This article has 16 citations.](https://doi.org/10.1101/gad.311639.118)
+
+[8. (Vlaming2016The) Hanneke Vlaming and Fred van Leeuwen. The upstreams and downstreams of h3k79 methylation by dot1l. Chromosoma, 125(4):593–605, January 2016. URL: http://dx.doi.org/10.1007/s00412-015-0570-5, doi:10.1007/s00412-015-0570-5. This article has 80 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00412-015-0570-5)
+
+[9. (Mohan2010Linking) Man Mohan, Hans-Martin Herz, Yoh-Hei Takahashi, Chengqi Lin, Ka Chun Lai, Ying Zhang, Michael P. Washburn, Laurence Florens, and Ali Shilatifard. Linking h3k79 trimethylation to wnt signaling through a novel dot1-containing complex (dotcom). Genes &amp; Development, 24(6):574–589, March 2010. URL: http://dx.doi.org/10.1101/gad.1898410, doi:10.1101/gad.1898410. This article has 265 citations.](https://doi.org/10.1101/gad.1898410)
+
+[10. (Arnold2022The) Olivia Arnold, Karina Barbosa, Aniruddha J. Deshpande, and Nan Zhu. The role of dot1l in normal and malignant hematopoiesis. Frontiers in Cell and Developmental Biology, May 2022. URL: http://dx.doi.org/10.3389/fcell.2022.917125, doi:10.3389/fcell.2022.917125. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.917125)
+
+[11. (Monteagudo2017DOT1L) Silvia Monteagudo, Frederique M. F. Cornelis, Carolina Aznar-Lopez, Ploi Yibmantasiri, Laura-An Guns, Peter Carmeliet, Frédéric Cailotto, and Rik J. Lories. Dot1l safeguards cartilage homeostasis and protects against osteoarthritis. Nature Communications, June 2017. URL: http://dx.doi.org/10.1038/ncomms15889, doi:10.1038/ncomms15889. This article has 106 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms15889)
+
+[12. (Stein2018The) Eytan M. Stein, Guillermo Garcia-Manero, David A. Rizzieri, Raoul Tibes, Jesus G. Berdeja, Michael R. Savona, Mojca Jongen-Lavrenic, Jessica K. Altman, Blythe Thomson, Stephen J. Blakemore, Scott R. Daigle, Nigel J. Waters, A. Benjamin Suttle, Alicia Clawson, Roy Pollock, Andrei Krivtsov, Scott A. Armstrong, Jorge DiMartino, Eric Hedrick, Bob Löwenberg, and Martin S. Tallman. The dot1l inhibitor pinometostat reduces h3k79 methylation and has modest clinical activity in adult acute leukemia. Blood, 131(24):2661–2669, June 2018. URL: http://dx.doi.org/10.1182/blood-2017-12-818948, doi:10.1182/blood-2017-12-818948. This article has 313 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1182/blood-2017-12-818948)

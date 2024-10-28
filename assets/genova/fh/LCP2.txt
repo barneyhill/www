@@ -1,0 +1,56 @@
+# LCP2
+
+## Overview
+LCP2, also known as lymphocyte cytosolic protein 2 or SLP-76, is a gene that encodes a cytosolic adaptor protein crucial for T-cell receptor (TCR) signaling. The protein plays a pivotal role in the immune system by facilitating the assembly of signaling complexes necessary for T-cell development, activation, and differentiation. Structurally, the protein contains several domains, including an SH2 domain, which is essential for its interactions with other signaling proteins. Functionally, LCP2 is involved in the regulation of immunoreceptor signaling pathways, impacting immune responses such as cytokine production and cell proliferation. It is also implicated in the immune system's response to inflammation and the regulation of NK cell-mediated self-recognition. Clinically, alterations in LCP2 expression have been associated with various cancers, where it may serve as a prognostic biomarker due to its role in immune cell infiltration and tumor suppression (Wang2021A; Borowicz2020Adaptor; zou2023LCP2).
+
+## Structure
+LCP2, also known as SLP-76, is a cytosolic adaptor protein involved in T-cell receptor signaling. The primary structure of LCP2 includes multiple tyrosine residues that are phosphorylated upon activation, which is crucial for its function (Bounab2013Proteomic). The protein contains several distinct domains: an N-terminal leucine Zip motif, a tyrosine-rich domain, a proline-rich domain, and a C-terminal SH2 domain (Bounab2013Proteomic). The SH2 domain is essential for interactions with other proteins, such as the kinase HPK1 (Soini2020The).
+
+The secondary structure of LCP2 features SH2 and SH3 domains, which facilitate protein-protein interactions (Bounab2013Proteomic). The tertiary structure involves a modular arrangement that allows flexibility in signaling pathways. Although the quaternary structure details are less defined, LCP2 interacts with other proteins to form signaling complexes (Bounab2013Proteomic).
+
+Common post-translational modifications include phosphorylation, particularly at Ser376, which is critical for binding to 14-3-3 proteins and subsequent ubiquitination and degradation (Soini2020The). This phosphorylation event provides a negative feedback mechanism for T-cell receptor signaling (Soini2020The). Splice variants of LCP2 may exist, potentially altering its interaction capabilities (Bounab2013Proteomic).
+
+## Function
+LCP2, also known as SLP-76, is a critical adaptor protein involved in T-cell receptor (TCR) signaling. It plays a significant role in the assembly of signaling complexes that are essential for T-cell development, activation, and differentiation. In healthy human cells, LCP2 is primarily active in the cytoplasm, where it facilitates the transduction of signals from the TCR, impacting immune responses such as cytokine production and cell proliferation (Wang2021A; Voisinne2019Quantitative).
+
+LCP2 is involved in the regulation of immunoreceptor signaling, including TCR signaling in T cells and integrin signaling in neutrophils and platelets. This regulation is crucial for proper immune function and cellular responses (Wang2021A). The protein's activity is modulated by post-translational modifications, such as ubiquitination, which tags it for degradation, thereby influencing TCR signaling strength and duration (Borowicz2020Adaptor).
+
+LCP2 also plays a role in the immune system's response to inflammation, as it is involved in the activation of serine phosphorylation and the regulation of NK cell-mediated self-recognition (zou2023LCP2). Its expression and function are critical for maintaining immune homeostasis and effective immune responses.
+
+## Clinical Significance
+LCP2, also known as lymphocyte cytosolic protein 2, has been implicated in various cancers due to alterations in its expression levels. In metastatic skin cutaneous melanoma, high expression of LCP2 is associated with better progression-free and overall survival, particularly in patients undergoing anti-PD1 immunotherapy. This suggests its potential as a prognostic biomarker, as it correlates with increased infiltration of CD8+ T cells, which are crucial for anti-tumor immune responses (Wang2021A).
+
+In lung adenocarcinoma (LUAD), LCP2 expression is generally lower in tumor tissues compared to normal tissues. However, higher expression levels are linked to a better prognosis and are associated with reduced tumor cell proliferation, migration, and invasion, indicating a tumor-suppressive role. LCP2's involvement in immune-related pathways and its correlation with immune cell infiltration further highlight its significance in the tumor microenvironment (zou2023LCP2).
+
+In breast cancer, the methylation pattern of the LCP2 gene is associated with tumor malignancy. Lower methylation levels correlate with higher malignancy, suggesting that LCP2 methylation could serve as a biomarker for assessing tumor progression and malignancy (Hu2024Value).
+
+## Interactions
+LCP2, also known as SLP-76, is a cytosolic adaptor protein that plays a crucial role in T-cell receptor (TCR) signaling by interacting with various proteins. It forms complexes with proteins such as ZAP-70, VAV1, ITK, and PLCγ1, which are essential for T-cell activation and signal transduction (Soini2020The; Roncagalli2014Quantitative). LCP2 interacts with the transmembrane adaptor protein LAT upon TCR stimulation, facilitating the assembly of the LAT-SLP76 signalosome (Ruminski2023Mapping).
+
+The GRB2-family adaptors, including GADS, GRB2, and GRAP, are involved in the interactions of LCP2. GADS is constitutively associated with LCP2, while GRB2 and GRAP interact with LCP2 only upon TCR engagement (Ruminski2023Mapping). The absence of GADS significantly disrupts the formation of the SLP76 signalosome by preventing its association with LAT and CD6 (Ruminski2023Mapping).
+
+LCP2 also interacts with the CD6 surface receptor, which can recruit LCP2 independently of LAT, suggesting alternative pathways for TCR signal transduction (Roncagalli2014Quantitative). The interaction between LCP2 and CD6 is phosphorylation-dependent, involving the SH2 domain of LCP2 binding to phosphorylated sites on CD6 (Hassan2006CD6).
+
+
+## References
+
+
+[1. (Bounab2013Proteomic) Yacine Bounab, Anne-Marie- Hesse, Bruno Iannascoli, Luca Grieco, Yohann Couté, Anna Niarakis, Romain Roncagalli, Eunkyung Lie, Kong-Peng Lam, Caroline Demangel, Denis Thieffry, Jérôme Garin, Bernard Malissen, and Marc Daëron. Proteomic analysis of the sh2domain-containing leukocyte protein of 76 kda (slp76) interactome. Molecular &amp; Cellular Proteomics, 12(10):2874–2889, October 2013. URL: http://dx.doi.org/10.1074/mcp.m112.025908, doi:10.1074/mcp.m112.025908. This article has 10 citations.](https://doi.org/10.1074/mcp.m112.025908)
+
+2. (zou2023LCP2) LCP2 expression is correlated with an abundance of immune infiltrates and is a potential prognostic biomarker in lung adenocarcinoma. This article has 0 citations.
+
+[3. (Hu2024Value) Qin Hu, Yu Mao, Haomiao Lan, Yi Wei, Yuehua Chen, Qiang Ye, and Hongying Che. Value of altered methylation patterns of genes ranbp3, lcp2 and grap2 in cfdna in breast cancer diagnosis. Journal of Medical Biochemistry, 43(4):387–396, 2024. URL: http://dx.doi.org/10.5937/jomb0-47507, doi:10.5937/jomb0-47507. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.5937/jomb0-47507)
+
+[4. (Roncagalli2014Quantitative) Romain Roncagalli, Simon Hauri, Fréderic Fiore, Yinming Liang, Zhi Chen, Amandine Sansoni, Kartiek Kanduri, Rachel Joly, Aurélie Malzac, Harri Lähdesmäki, Riitta Lahesmaa, Sho Yamasaki, Takashi Saito, Marie Malissen, Ruedi Aebersold, Matthias Gstaiger, and Bernard Malissen. Quantitative proteomics analysis of signalosome dynamics in primary t cells identifies the surface receptor cd6 as a lat adaptor–independent tcr signaling hub. Nature Immunology, 15(4):384–392, March 2014. URL: http://dx.doi.org/10.1038/ni.2843, doi:10.1038/ni.2843. This article has 107 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ni.2843)
+
+[5. (Wang2021A) Zijun Wang and Mou Peng. A novel prognostic biomarker lcp2 correlates with metastatic melanoma-infiltrating cd8+ t cells. Scientific Reports, April 2021. URL: http://dx.doi.org/10.1038/s41598-021-88676-9, doi:10.1038/s41598-021-88676-9. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-021-88676-9)
+
+[6. (Borowicz2020Adaptor) Paweł Borowicz, Hanna Chan, Anette Hauge, and Anne Spurkland. Adaptor proteins: flexible and dynamic modulators of immune cell signalling. Scandinavian Journal of Immunology, October 2020. URL: http://dx.doi.org/10.1111/sji.12951, doi:10.1111/sji.12951. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/sji.12951)
+
+[7. (Voisinne2019Quantitative) Guillaume Voisinne, Kristof Kersse, Karima Chaoui, Liaoxun Lu, Julie Chaix, Lichen Zhang, Marisa Goncalves Menoita, Laura Girard, Youcef Ounoughene, Hui Wang, Odile Burlet-Schiltz, Hervé Luche, Frédéric Fiore, Marie Malissen, Anne Gonzalez de Peredo, Yinming Liang, Romain Roncagalli, and Bernard Malissen. Quantitative interactomics in primary t cells unveils tcr signal diversification extent and dynamics. Nature Immunology, 20(11):1530–1541, October 2019. URL: http://dx.doi.org/10.1038/s41590-019-0489-8, doi:10.1038/s41590-019-0489-8. This article has 73 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41590-019-0489-8)
+
+[8. (Ruminski2023Mapping) Kilian Ruminski, Javier Celis-Gutierrez, Nicolas Jarmuzynski, Emilie Maturin, Stephane Audebert, Marie Malissen, Luc Camoin, Guillaume Voisinne, Bernard Malissen, and Romain Roncagalli. Mapping the slp76 interactome in t cells lacking each of the grb2-family adaptors reveals molecular plasticity of the tcr signaling pathway. Frontiers in Immunology, March 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1139123, doi:10.3389/fimmu.2023.1139123. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1139123)
+
+[9. (Hassan2006CD6) Namir J. Hassan, Stephen J. Simmonds, Nicholas G. Clarkson, Sarah Hanrahan, Michael J. Puklavec, Martine Bomb, A. Neil Barclay, and Marion H. Brown. Cd6 regulates t-cell responses through activation-dependent recruitment of the positive regulator slp-76. Molecular and Cellular Biology, 26(17):6727–6738, September 2006. URL: http://dx.doi.org/10.1128/MCB.00688-06, doi:10.1128/mcb.00688-06. This article has 118 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.00688-06)
+
+[10. (Soini2020The) Lorenzo Soini, Seppe Leysen, Jeremy Davis, Marta Westwood, and Christian Ottmann. The 14‐3‐3/slp76 protein–protein interaction in t‐cell receptor signalling: a structural and biophysical characterization. FEBS Letters, 595(3):404–414, November 2020. URL: http://dx.doi.org/10.1002/1873-3468.13993, doi:10.1002/1873-3468.13993. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/1873-3468.13993)

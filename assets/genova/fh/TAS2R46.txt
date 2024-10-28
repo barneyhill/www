@@ -1,0 +1,39 @@
+# TAS2R46
+
+## Overview
+TAS2R46 is a gene that encodes the protein taste 2 receptor member 46, which is part of the G protein-coupled receptor (GPCR) superfamily. This receptor is primarily involved in the perception of bitter taste and is characterized by its seven transmembrane domains, which facilitate its role in signal transduction. TAS2R46 is broadly tuned to recognize a wide array of bitter substances, making it a key player in the detection of bitter flavors (Behrens2020StructureFunction). Beyond its role in taste, TAS2R46 is expressed in various non-gustatory tissues, such as skeletal and airway smooth muscle cells, where it modulates calcium dynamics and muscle contraction (Talmon2023Bitter). The receptor's ability to interact with diverse bitter compounds, including those found in traditional Chinese medicine, highlights its potential therapeutic applications in conditions like hypertension and gastrointestinal motility disorders (Luo2019Toward).
+
+## Structure
+TAS2R46 is a member of the G protein-coupled receptor (GPCR) superfamily, characterized by seven transmembrane domains, three intracellular loops, three extracellular loops, an extracellular amino terminus, and an intracellular carboxyl terminus (Behrens2020StructureFunction). The ligand binding pocket of TAS2R46 is located at the extracellular side of transmembrane domains III, V, VI, and VII, with potential involvement of TM II due to the spacious shape of the pocket (Behrens2020StructureFunction). This receptor is broadly tuned, recognizing a wide range of bitter substances (Behrens2020StructureFunction).
+
+The structure of TAS2R46 is challenging to model due to its low sequence homology with other GPCRs, resulting in low-resolution models (Behrens2020StructureFunction). Despite these challenges, studies have identified specific residues in TAS2R46 that affect the binding of agonists like strychnine, suggesting a single binding pocket that accommodates diverse compounds through different subsets of residues (Behrens2020StructureFunction). TAS2R46 also has a conserved glycosylation site, although this feature has not yet been incorporated into modeling efforts (Behrens2020StructureFunction). The receptor can form oligomers, but no functional changes due to heteromerization have been observed (Behrens2020StructureFunction).
+
+## Function
+TAS2R46, a bitter taste receptor, is expressed in various non-gustatory tissues, including human skeletal muscle cells. In these cells, TAS2R46 is involved in modulating calcium dynamics, which is crucial for muscle contraction. Activation of TAS2R46 by the bitter compound absinthin counteracts acetylcholine-induced increases in cytosolic calcium by promoting mitochondrial calcium uptake through a cAMP/EPAC-dependent mechanism. This modulation affects muscle contraction, as absinthin slows down acetylcholine-induced contraction in skeletal muscle cells (Talmon2023Bitter).
+
+The receptor is highly expressed in skeletal muscle tissues, with its expression increasing during the differentiation of myoblasts into myotubes. TAS2R46 is primarily located in the perinuclear area in myoblasts and on the cell surface in myotubes (Talmon2023Bitter). The receptor's activity is modulated by specific agonists, such as absinthin, which does not significantly increase cytosolic calcium at low concentrations but does so in a dose-dependent manner at higher concentrations (Talmon2023Bitter).
+
+In airway smooth muscle cells, TAS2R46 activation by absinthin enhances mitochondrial calcium uptake, reducing histamine-induced cytosolic calcium increases. This mechanism is dependent on TAS2R46 and involves a redirection of calcium from the cytosol to the mitochondria, mediated by EPAC (Talmon2019Absinthin).
+
+## Interactions
+TAS2R46, a member of the taste 2 receptor family, is a G protein-coupled receptor (GPCR) involved in bitter taste perception. It interacts with G proteins to transduce signals, particularly in taste signal pathways. One of the key interactions is with gustducin, a G protein subunit, which is crucial for the signal transduction process in taste perception (Luo2019Toward). 
+
+TAS2R46 is known to be activated by a variety of bitter compounds, including those found in traditional Chinese medicine, which suggests its broad agonist diversity. This receptor can detect more than 20 bitter components, indicating its potential as a primary functional target for bitter flavors (Luo2019Toward). 
+
+The receptor is expressed in various muscle cells, including vascular smooth muscle cells, where its activation can lead to muscle relaxation. This suggests potential therapeutic applications for conditions such as hypertension and gastrointestinal motility disorders (Luo2019Toward). 
+
+The VirtuousPocketome tool has been used to identify proteins with similar binding sites to TAS2R46, suggesting that strychnine, a known activator of TAS2R46, might also interact with other proteins involved in metabolic processes (Pallante2024VirtuousPocketome:).
+
+
+## References
+
+
+[1. (Talmon2019Absinthin) Maria Talmon, Silvia Rossi, Dmitry Lim, Federica Pollastro, Gioele Palattella, Federico A. Ruffinatti, Patrizia Marotta, Renzo Boldorini, Armando A. Genazzani, and Luigia G. Fresu. Absinthin, an agonist of the bitter taste receptor htas2r46, uncovers an er-to-mitochondria ca2+–shuttling event. Journal of Biological Chemistry, 294(33):12472–12482, August 2019. URL: http://dx.doi.org/10.1074/jbc.ra119.007763, doi:10.1074/jbc.ra119.007763. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra119.007763)
+
+[2. (Luo2019Toward) Mingzhi Luo, Kai Ni, Yang Jin, Zifan Yu, and Linhong Deng. Toward the identification of extra-oral tas2r agonists as drug agents for muscle relaxation therapies via bioinformatics-aided screening of bitter compounds in traditional chinese medicine. Frontiers in Physiology, July 2019. URL: http://dx.doi.org/10.3389/fphys.2019.00861, doi:10.3389/fphys.2019.00861. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphys.2019.00861)
+
+[3. (Pallante2024VirtuousPocketome:) Lorenzo Pallante, Marco Cannariato, Lampros Androutsos, Eric A. Zizzi, Agorakis Bompotas, Xhesika Hada, Gianvito Grasso, Athanasios Kalogeras, Seferina Mavroudi, Giacomo Di Benedetto, Konstantinos Theofilatos, and Marco A. Deriu. Virtuouspocketome: a computational tool for screening protein–ligand complexes to identify similar binding sites. Scientific Reports, March 2024. URL: http://dx.doi.org/10.1038/s41598-024-56893-7, doi:10.1038/s41598-024-56893-7. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-56893-7)
+
+[4. (Behrens2020StructureFunction) Maik Behrens and Florian Ziegler. Structure-function analyses of human bitter taste receptors—where do we stand? Molecules, 25(19):4423, September 2020. URL: http://dx.doi.org/10.3390/molecules25194423, doi:10.3390/molecules25194423. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/molecules25194423)
+
+[5. (Talmon2023Bitter) Maria Talmon, Erika Massara, Martina Quaregna, Marta De Battisti, Francesca Boccafoschi, Giulia Lecchi, Federico Puppo, Michele A. Bettega Cajandab, Stefano Salamone, Enrica Bovio, Renzo Boldorini, Beatrice Riva, Federica Pollastro, and Luigia G. Fresu. Bitter taste receptor (tas2r) 46 in human skeletal muscle: expression and activity. Frontiers in Pharmacology, September 2023. URL: http://dx.doi.org/10.3389/fphar.2023.1205651, doi:10.3389/fphar.2023.1205651. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2023.1205651)

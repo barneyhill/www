@@ -1,0 +1,54 @@
+# TMED9
+
+## Overview
+TMED9 is a gene that encodes the transmembrane p24 trafficking protein 9, a member of the p24 family of proteins. This protein is characterized by its role as a transmembrane protein involved in the secretory pathway, particularly in the Rapid ER Stress-Induced Export (RESET) pathway, which is crucial for maintaining protein homeostasis by facilitating the transport of misfolded glycosylphosphatidylinositol-anchored proteins from the endoplasmic reticulum to the Golgi apparatus (Ronzier2024The). TMED9 also plays a significant role in autophagosome biogenesis by mediating membrane contact sites between the ER-Golgi intermediate compartment and ER exit sites (Li2021A). Beyond its cellular functions, TMED9 has been implicated in various cancers, including hepatocellular carcinoma, colon cancer, glioma, and epithelial ovarian cancer, where its expression levels correlate with disease progression and prognosis, highlighting its potential as a biomarker and therapeutic target (Yang2021Proteomicsbased; HAN2022TMED9Expression).
+
+## Structure
+TMED9 is a member of the p24 family of proteins, characterized by a common structural organization that includes a luminal Golgi-dynamics (GOLD) domain, a luminal coiled-coil domain, a transmembrane domain, and a short cytosolic tail (Aber2019Transmembrane). The GOLD domain is involved in protein-protein interactions, specifically mediating dimerization between TMED proteins (Aber2019Transmembrane). The transmembrane domain interacts with lipids, aiding in vesicle budding, while the cytoplasmic tail contains conserved COP binding motifs that facilitate interactions with coatomer (COP) protein complexes, crucial for cargo selection and vesicle formation (Aber2019Transmembrane).
+
+TMED9 can exist in different molecular weight forms, which are hypothesized to reflect changes in glycosylation states as it moves through the secretory pathway (Ronzier2024The). These forms are identified as low molecular weight (LMW) and high molecular weight (HMW), with the shift from LMW to HMW suggesting a conversion process as TMED9 traffics towards degradation (Ronzier2024The). Glycosylation does not impact TMED9's ability to support the Rapid ER Stress-Induced Export (RESET) pathway, indicating that its presence, rather than its glycosylation state, is crucial for function (Ronzier2024The). TMED9 is also involved in processing N-glycans to complex and high mannose/complex forms (Fiedler2016The).
+
+## Function
+TMED9, a member of the p24 family, plays a crucial role in several cellular processes, particularly in the secretory pathway. It is involved in the Rapid ER Stress-Induced Export (RESET) pathway, which is essential for clearing misfolded glycosylphosphatidylinositol-anchored proteins (GPI-APs) from the endoplasmic reticulum (ER) to the Golgi apparatus. This function is vital for maintaining protein homeostasis and preventing the accumulation of potentially toxic misfolded proteins within cells (Ronzier2024The).
+
+TMED9 specifically associates with misfolded GPI-APs after they dissociate from the ER chaperone calnexin, facilitating their transport to the Golgi. This selective association ensures that only misfolded proteins are targeted for degradation, while properly folded proteins are unaffected (Ronzier2024The). TMED9's role in the RESET pathway highlights its importance in protein quality control within the secretory pathway (Ronzier2024The).
+
+In addition to its role in protein quality control, TMED9 is involved in autophagosome biogenesis. It mediates ERGIC-ERES membrane contact sites, which are necessary for the formation of autophagosomes, a key component in the cellular process of autophagy (Li2021A). TMED9's interaction with SEC12 is crucial for these membrane contacts, underscoring its role in cellular homeostasis and response to stress (Li2021A).
+
+## Clinical Significance
+TMED9 has been implicated in several cancers due to its altered expression levels and interactions. In hepatocellular carcinoma (HCC), TMED9 is identified as a prognostic biomarker, with its overexpression correlating with poor prognosis, advanced disease stages, and increased vascular invasion. High TMED9 levels are associated with worse overall and disease-free survival, suggesting its role in HCC progression (Yang2021Proteomicsbased).
+
+In colon cancer, TMED9 promotes metastasis by influencing the secretion of TGFα, a mediator of its pro-metastatic activity. It operates in a feedback loop involving CNIH4, TGFα, and GLI1, opposing TMED3-WNT-TCF signaling (Mishra2019The).
+
+TMED9 is also upregulated in glioma, particularly glioblastoma multiforme (GBM), where its expression is linked to poor overall survival. Its expression correlates with immune cell infiltration patterns, suggesting a role in the tumor microenvironment (Ullah2022Expression).
+
+In epithelial ovarian cancer (EOC), TMED9 expression is associated with advanced stages and poor prognosis. Knockdown studies show reduced cell proliferation, migration, and invasion, indicating its role in EOC progression (HAN2022TMED9Expression).
+
+TMED9's involvement in these cancers highlights its potential as a therapeutic target and biomarker for disease progression and prognosis.
+
+## Interactions
+TMED9, a member of the p24 family, is involved in various protein interactions that are crucial for its function in cellular processes. It interacts with SEC12, a protein localized at the ER exit sites (ERES), to mediate ERGIC-ERES membrane contacts essential for autophagosome biogenesis. This interaction facilitates the transactivation of SAR1, a GTPase, which is critical for COPII assembly and autophagosome formation (Li2021A).
+
+TMED9 also plays a role in the Rapid ER Stress-Induced Export (RESET) pathway, where it associates with misfolded GPI-anchored proteins (GPI-APs) and other proteins like calnexin and TMP21. During the RESET process, TMED9 helps in the export of these misfolded proteins from the ER to the Golgi apparatus (Ronzier2024The).
+
+In the context of colon cancer metastasis, TMED9 is involved in a signaling loop with TGFα, CNIH4, and GLI1, which promotes metastasis by opposing the TMED3-WNT-TCF loop. TMED9 interacts with CNIH4 in COPII vesicles, facilitating the export of TGFα, a ligand for EGFR, which is crucial for cancer cell dispersion (Mishra2019The).
+
+
+## References
+
+
+[1. (Mishra2019The) Sonakshi Mishra, Carolina Bernal, Marianna Silvano, Santosh Anand, and Ariel Ruiz i Altaba. The protein secretion modulator tmed9 drives cnih4/tgfα/gli signaling opposing tmed3-wnt-tcf to promote colon cancer metastases. Oncogene, 38(29):5817–5837, June 2019. URL: http://dx.doi.org/10.1038/s41388-019-0845-z, doi:10.1038/s41388-019-0845-z. This article has 34 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-019-0845-z)
+
+2. (Li2021A) A new type of ERGIC-ERES membrane contact mediated by TMED9 and SEC12 is required for autophagosome biogenesis. This article has 1 citations.
+
+3. (Ronzier2024The) The p24-family member, TMED9, clears misfolded GPI-anchored proteins from the ER to the Golgi via the Rapid ER Stress-Induced Export pathway. This article has 0 citations.
+
+[4. (Aber2019Transmembrane) Rachel Aber, Wesley Chan, Sevane Mugisha, and Loydie A. Jerome-Majewska. Transmembrane emp24 domain proteins in development and disease. Genetics Research, 2019. URL: http://dx.doi.org/10.1017/s0016672319000090, doi:10.1017/s0016672319000090. This article has 39 citations and is from a peer-reviewed journal.](https://doi.org/10.1017/s0016672319000090)
+
+[5. (Ullah2022Expression) Md. Asad Ullah, Tahani Tabassum, Maisha Farzana, Abu Tayab Moin, Umme Salma Zohora, and Mohammad Shahedur Rahman. Expression analysis, molecular characterization and prognostic evaluation on tmed4 and tmed9 gene expression in glioma. Biomedical Signal Processing and Control, 78:103922, September 2022. URL: http://dx.doi.org/10.1016/j.bspc.2022.103922, doi:10.1016/j.bspc.2022.103922. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bspc.2022.103922)
+
+[6. (Yang2021Proteomicsbased) Yi-Chieh Yang, Ming-Hsien Chien, Tsung-Ching Lai, Min-Che Tung, Yi-Hua Jan, Wei-Ming Chang, Shih-Ming Jung, Ming-Huang Chen, Chun-Nan Yeh, and Michael Hsiao. Proteomics-based identification of tmed9 is linked to vascular invasion and poor prognoses in patients with hepatocellular carcinoma. Journal of Biomedical Science, April 2021. URL: http://dx.doi.org/10.1186/s12929-021-00727-5, doi:10.1186/s12929-021-00727-5. This article has 10 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s12929-021-00727-5)
+
+7. (Fiedler2016The) The Wnt segment polarity pathway and TMED2 protein may interact via a lectin- and decoy-type mechanism. This article has 1 citations.
+
+[8. (HAN2022TMED9Expression) GWAN HEE HAN, HEE YUN, JOON-YONG CHUNG, JAE-HOON KIM, and HANBYOUL CHO. Tmed9expression level as a biomarker of epithelial ovarian cancer progression and prognosis. Cancer Genomics - Proteomics, 19(6):692–702, 2022. URL: http://dx.doi.org/10.21873/cgp.20352, doi:10.21873/cgp.20352. This article has 2 citations.](https://doi.org/10.21873/cgp.20352)

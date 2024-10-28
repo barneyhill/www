@@ -1,0 +1,33 @@
+# MVB12A
+
+## Overview
+MVB12A is a gene that encodes the multivesicular body subunit 12A protein, a crucial component of the endosomal sorting complex required for transport I (ESCRT-I) in humans. This protein plays a significant role in the sorting of ubiquitinated membrane proteins into multivesicular bodies (MVBs), which are essential for lysosomal degradation, receptor downregulation, viral budding, and cytokinesis (Audhya2007MVB12; Boura2012Structural). The MVB12A protein contains a MVB12-associated β-prism (MABP) domain, which functions as a membrane-targeting module, allowing the ESCRT-I complex to operate at specific cellular locations such as endosomes and the plasma membrane (Boura2012Structural). Through its interactions with other ESCRT-I components, such as TSG101 and VPS37B, MVB12A is integral to the stability and function of the complex, impacting cellular signaling and homeostasis (Audhya2007MVB12; Morita2007Identification).
+
+## Structure
+The MVB12A protein is a component of the human ESCRT-I complex, which is involved in endosomal sorting and membrane functions. The protein contains a MVB12-associated β-prism (MABP) domain, which is crucial for its role in membrane targeting. This domain exhibits a β-prism fold, characterized by three β-sheet subdomains arranged around a pseudothreefold axis, similar to the β-prism fragment of the Photorhabdus luminescens MACPF protein (Boura2012Structural). The MABP domain binds to liposomes containing acidic lipids, with a preference for phosphatidylserine, although this preference is marginal (Boura2012Structural). The domain's membrane-binding site is electropositive and lacks stereoselectivity, which allows it to sense negative charge density on membranes (Boura2012Structural).
+
+The MABP domain also features a hydrophobic membrane-anchoring loop, with hyperexposed residues that may serve as a membrane anchor (Boura2012Structural). The protein's ability to bind to membranes is moderate, requiring additional factors for specific subcellular localization, fitting the paradigm of a coincidence detector (Boura2012Structural). The MVB12A protein may also undergo post-translational modifications such as phosphorylation, which could regulate its function. Splice variant isoforms may exist, contributing to its functional diversity.
+
+## Function
+MVB12A is a component of the human ESCRT-I complex, which is essential for various cellular processes, including the sorting of ubiquitinated membrane proteins into multivesicular bodies (MVBs) for lysosomal degradation. This process is crucial for receptor downregulation, viral budding, and cytokinesis (Audhya2007MVB12; Boura2012Structural). The MVB12A protein contains a MVB12-associated β-prism (MABP) domain, which acts as a membrane-targeting module. This domain binds to acidic lipids, particularly phosphatidylserine, allowing the ESCRT-I complex to function at both endosomes and the plasma membrane (Boura2012Structural).
+
+MVB12A's role in the ESCRT-I complex involves acting as a coincidence detector, ensuring that the complex is active only at specific subcellular locations, such as late endosomes and the plasma membrane. This prevents inappropriate binding to internal membranes and ensures precise cellular trafficking (Boura2012Structural). MVB12A also interacts with other ESCRT-I components, such as TSG101, indicating its integral role in the complex's function and stability (Audhya2007MVB12). These interactions are vital for the proper sorting and trafficking of proteins within the cell, impacting cellular signaling and homeostasis.
+
+## Interactions
+MVB12A is a component of the human ESCRT-I complex and interacts with several other proteins within this complex. It forms stable quaternary complexes with TSG101, VPS28, and VPS37B, indicating its role as a binding partner or subunit of ESCRT-I (Morita2007Identification). MVB12A specifically binds to the TSG101-VPS37B binary complex through its conserved C-terminal region, which contains two essential binding sites, termed ESCRT-I-binding boxes 1 and 2 (EBB1 and EBB2) (Morita2007Identification). These interactions are crucial for the stable formation of the ESCRT-I complex.
+
+MVB12A also interacts with ubiquitin, as demonstrated by its ability to bind ubiquitin-agarose, suggesting a specific ubiquitin-binding region within the protein (Tsunematsu2010Distinct). This interaction is important for its function in downregulating the EGF receptor. MVB12A can also associate with CD2AP and CIN85, facilitated by tyrosine phosphorylation at Tyr204 (Tsunematsu2010Distinct).
+
+In the context of HIV-1 budding, MVB12A's interactions within the ESCRT-I complex are essential for the proper formation and release of viral particles. Both depletion and overexpression of MVB12A can inhibit HIV-1 infectivity, highlighting its regulatory role in viral assembly (Morita2007Identification).
+
+
+## References
+
+
+[1. (Audhya2007MVB12) Anjon Audhya, Ian X. McLeod, John R. Yates, and Karen Oegema. Mvb-12, a fourth subunit of metazoan escrt-i, functions in receptor downregulation. PLoS ONE, 2(9):e956, September 2007. URL: http://dx.doi.org/10.1371/journal.pone.0000956, doi:10.1371/journal.pone.0000956. This article has 48 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0000956)
+
+[2. (Boura2012Structural) Evzen Boura and James H. Hurley. Structural basis for membrane targeting by the mvb12-associated β-prism domain of the human escrt-i mvb12 subunit. Proceedings of the National Academy of Sciences, 109(6):1901–1906, January 2012. URL: http://dx.doi.org/10.1073/pnas.1117597109, doi:10.1073/pnas.1117597109. This article has 46 citations.](https://doi.org/10.1073/pnas.1117597109)
+
+[3. (Tsunematsu2010Distinct) Takumi Tsunematsu, Emiko Yamauchi, Hideki Shibata, Masatoshi Maki, Takeshi Ohta, and Hiroaki Konishi. Distinct functions of human mvb12a and mvb12b in the escrt-i dependent on their posttranslational modifications. Biochemical and Biophysical Research Communications, 399(2):232–237, August 2010. URL: http://dx.doi.org/10.1016/j.bbrc.2010.07.060, doi:10.1016/j.bbrc.2010.07.060. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2010.07.060)
+
+[4. (Morita2007Identification) Eiji Morita, Virginie Sandrin, Steven L. Alam, Debra M. Eckert, Steven P. Gygi, and Wesley I. Sundquist. Identification of human mvb12 proteins as escrt-i subunits that function in hiv budding. Cell Host &amp; Microbe, 2(1):41–53, July 2007. URL: http://dx.doi.org/10.1016/j.chom.2007.06.003, doi:10.1016/j.chom.2007.06.003. This article has 96 citations.](https://doi.org/10.1016/j.chom.2007.06.003)

@@ -1,0 +1,54 @@
+# GPD2
+
+## Overview
+GPD2, or glycerol-3-phosphate dehydrogenase 2, is a gene that encodes a mitochondrial enzyme involved in the glycerol phosphate shuttle, a critical component of cellular energy metabolism. The enzyme, categorized as a dehydrogenase, facilitates the conversion of glycerol-3-phosphate to dihydroxyacetone phosphate, playing a pivotal role in the reoxidation of cytosolic NADH to sustain ATP production during glycolysis. Structurally, the GPD2 protein includes an FAD-binding domain and a catalytic domain, forming homodimers essential for its function within the mitochondrial inner membrane. The enzyme's activity is regulated by calcium and other bivalent cations and is inhibited by certain phosphoderivatives and free fatty acids. Beyond its metabolic functions, GPD2 is a significant source of reactive oxygen species (ROS) and interacts with other proteins in glycolytic pathways, influencing processes such as gluconeogenesis and lipid metabolism. Clinically, mutations in GPD2 have been associated with intellectual disabilities and developmental delays, and its expression is linked to cancer progression, making it a potential therapeutic target (Zhao2021Taraxasterol; Mráček2013The; Barge‐Schaapveld2013Intellectual).
+
+## Structure
+GPD2 (glycerol-3-phosphate dehydrogenase 2) is a mitochondrial enzyme involved in the glycerol phosphate shuttle, facilitating the conversion of glycerol-3-phosphate to dihydroxyacetone phosphate. The protein structure includes an FAD-binding domain and a catalytic domain, which are essential for its enzymatic activity (Clarke2024Immp2l). GPD2 can form homodimers, indicating a quaternary structure, which is crucial for its function within the mitochondrial inner membrane (Clarke2024Immp2l). 
+
+In Immp2l knockdown (KD) mice, the GPD2 enzyme exhibits structural changes due to the failure to cleave its signal transit peptide. This results in an increase in inter-subunit connections within the homodimer, potentially affecting its role in electron transfer from NADH to FAD and onto Complex II of the electron transport chain (Clarke2024Immp2l). The uncleaved GPD2 enzyme's signal transit peptides protrude further into the inner mitochondrial membrane, which may interfere with its function (Clarke2024Immp2l). 
+
+Post-translational modifications such as phosphorylation may occur, although specific details are not provided in the context. The structural integrity and function of GPD2 are critical for maintaining efficient mitochondrial respiration and energy production.
+
+## Function
+GPD2 encodes the mitochondrial glycerol-3-phosphate dehydrogenase enzyme, which plays a crucial role in the glycerol phosphate shuttle. This enzyme is involved in the oxidation of glycerol-3-phosphate to dihydroxyacetone phosphate, transferring electrons to flavin adenine dinucleotide (FAD) to form FADH2, and subsequently to coenzyme Q (CoQ), forming ubiquinol. This process is essential for cellular energy metabolism, as it facilitates the reoxidation of cytosolic NADH produced during glycolysis, allowing for sustained ATP production without lactic acid accumulation (Mráček2013The).
+
+GPD2 is associated with the inner mitochondrial membrane and is likely a peripheral protein. It is involved in maintaining redox balance across the cytoplasm and mitochondria, influencing processes such as glycolysis, gluconeogenesis, and lipid metabolism (Singh2014Mitochondrial; Mráček2013The). The enzyme's activity is regulated by calcium and other bivalent cations, and it is inhibited by phosphoderivatives of glycerol and free fatty acids (Mráček2013The).
+
+In addition to its metabolic roles, GPD2 is a significant source of reactive oxygen species (ROS), comparable to complex III of the respiratory chain, and is involved in electron transfer pathways that may lead to ROS production (Mráček2013The).
+
+## Clinical Significance
+Mutations and altered expression of the GPD2 gene have been linked to several clinical conditions. In gastric cancer, GPD2 is associated with tumor progression and prognosis. The expression of GPD2 is increased in gastric cancer cell lines, and its inhibition by compounds like taraxasterol can suppress cell proliferation and enhance apoptosis, suggesting its potential as a therapeutic target (Zhao2021Taraxasterol).
+
+GPD2 mutations have also been implicated in intellectual disabilities. A study identified a hemizygous mutation in GPD2 (c.614C > T, p.Pro205Leu) associated with intellectual disability, where the mutation affected enzyme activity and stability, leading to reduced GPD2 activity (Barge‐Schaapveld2013Intellectual). This mutation was found in a family with intellectual disability, suggesting a potential link between GPD2 mutations and cognitive impairments (Barge‐Schaapveld2013Intellectual).
+
+Additionally, GPD2 has been implicated in developmental delays associated with 2q23q24 microdeletion syndrome. Deletions involving GPD2, along with other genes, have been linked to more severe developmental delays, indicating its role in neurodevelopmental disorders (MALBIN2016Cryptic; Shimojima2017Possible).
+
+## Interactions
+GPD2, or glycerol-3-phosphate dehydrogenase 2, is involved in several interactions with other proteins, particularly within the glycolysis pathway. It has been shown to bind strongly to glucose-6-phosphate isomerase (GPI), indicating a direct interaction that is significant for glycolytic processes in cancer cells. This interaction suggests that targeting GPD2 and GPI could disrupt glycolysis, potentially inhibiting tumor growth (Wu2020Esculetin).
+
+In the context of cancer cell metabolism, GPD2 also interacts with phosphoglycerate kinase 2 (PGK2). Esculetin, a compound studied for its anticancer properties, binds to GPD2, GPI, and PGK2, inhibiting their activity and thus affecting the glycolysis pathway. This binding leads to a conformational change in these proteins, reducing glucose consumption and lactate production in cancer cells (Wu2020Esculetin).
+
+While the specific physical interactions of GPD2 with other proteins or nucleic acids in different contexts, such as under salinity stress in Chlamydomonas reinhardtii, are not detailed, the regulation of GPD2 activity through post-translational modifications like phosphorylation is suggested (CruzPowell2024PostTranslational).
+
+
+## References
+
+
+[1. (Clarke2024Immp2l) Raymond A. Clarke, Hemna Govindaraju, Martina Beretta, Ellen Olzomer, Adam J. Lawther, Adam K. Walker, Zhiming Fang, Valsamma Eapen, Tzipi Cohen Hyams, Murray Killingsworth, Wallace Bridge, Nigel Turner, and Khawar Sohail Siddiqui. Immp2l enhances the structure and function of mitochondrial gpd2 dehydrogenase. International Journal of Molecular Sciences, 25(2):990, January 2024. URL: http://dx.doi.org/10.3390/ijms25020990, doi:10.3390/ijms25020990. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25020990)
+
+[2. (Wu2020Esculetin) Song-Tao Wu, Bo Liu, Zhong-Zhu Ai, Zong-Chao Hong, Peng-Tao You, He-Zhen Wu, and Yan-Fang Yang. Esculetin inhibits cancer cell glycolysis by binding tumor pgk2, gpd2, and gpi. Frontiers in Pharmacology, March 2020. URL: http://dx.doi.org/10.3389/fphar.2020.00379, doi:10.3389/fphar.2020.00379. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2020.00379)
+
+[3. (Singh2014Mitochondrial) Gurmit Singh. Mitochondrial fad-linked glycerol-3-phosphate dehydrogenase: a target for cancer therapeutics. Pharmaceuticals, 7(2):192–206, February 2014. URL: http://dx.doi.org/10.3390/ph7020192, doi:10.3390/ph7020192. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ph7020192)
+
+[4. (MALBIN2016Cryptic) JAMILEH MALBIN, MOHAMMAD-SADEGH FALLAH, ZOHREH SHARIFI, MAHSA SHAFAEI, HAMIDEH BAGHERIAN, TAHEREH POUR MOSTAFAEI, RAMIZ ALIEV, and SIROUS ZAINALI. Cryptic de novo deletion at 2q23.3-q24.1 in a patient with intellectual disability. Journal of Genetics, 95(2):441–445, May 2016. URL: http://dx.doi.org/10.1007/s12041-016-0630-5, doi:10.1007/s12041-016-0630-5. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12041-016-0630-5)
+
+[5. (Zhao2021Taraxasterol) Yang Zhao, Li Zhang, Min Guo, and Haixia Yang. Taraxasterol suppresses cell proliferation and boosts cell apoptosis via inhibiting gpd2-mediated glycolysis in gastric cancer. Cytotechnology, 73(6):815–825, October 2021. URL: http://dx.doi.org/10.1007/s10616-021-00499-8, doi:10.1007/s10616-021-00499-8. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10616-021-00499-8)
+
+[6. (Mráček2013The) Tomáš Mráček, Zdeněk Drahota, and Josef Houštěk. The function and the role of the mitochondrial glycerol-3-phosphate dehydrogenase in mammalian tissues. Biochimica et Biophysica Acta (BBA) - Bioenergetics, 1827(3):401–410, March 2013. URL: http://dx.doi.org/10.1016/j.bbabio.2012.11.014, doi:10.1016/j.bbabio.2012.11.014. This article has 305 citations.](https://doi.org/10.1016/j.bbabio.2012.11.014)
+
+[7. (CruzPowell2024PostTranslational) Itzela Cruz-Powell, Binita Subedi, Yeongho Kim, Daniela Morales-Sánchez, and Heriberto Cerutti. Post-translational regulation of a bidomain glycerol-3-phosphate dehydrogenase catalyzing glycerol synthesis under salinity stress in chlamydomonas reinhardtii. Phycology, 4(2):213–234, April 2024. URL: http://dx.doi.org/10.3390/phycology4020012, doi:10.3390/phycology4020012. This article has 0 citations.](https://doi.org/10.3390/phycology4020012)
+
+[8. (Barge‐Schaapveld2013Intellectual) Daniela Q.C.M. Barge‐Schaapveld, Rob Ofman, Alida C. Knegt, Mariëlle Alders, Wolfgang Höhne, Stephan Kemp, and Raoul C.M. Hennekam. Intellectual disability and hemizygous <scp>gpd</scp>2 mutation. American Journal of Medical Genetics Part A, 161(5):1044–1050, March 2013. URL: http://dx.doi.org/10.1002/ajmg.a.35873, doi:10.1002/ajmg.a.35873. This article has 16 citations.](https://doi.org/10.1002/ajmg.a.35873)
+
+[9. (Shimojima2017Possible) Keiko Shimojima, Nobuhiko Okamoto, and Toshiyuki Yamamoto. Possible genes responsible for developmental delay observed in patients with rare 2q23q24 microdeletion syndrome: literature review and description of an additional patient. Congenital Anomalies, 57(4):109–113, March 2017. URL: http://dx.doi.org/10.1111/cga.12205, doi:10.1111/cga.12205. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/cga.12205)

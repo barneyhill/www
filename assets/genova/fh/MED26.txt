@@ -1,0 +1,26 @@
+# MED26
+
+## Overview
+MED26 is a gene that encodes the protein mediator complex subunit 26, which is a critical component of the Mediator complex involved in transcription regulation. The Mediator complex serves as a bridge between gene-specific transcription factors and the RNA polymerase II (Pol II) machinery, facilitating the transcription of various genes, including small nuclear RNA (snRNA) genes (Takahashi2015MED26). MED26 plays a pivotal role in the transition from transcription initiation to elongation by interacting with components of the Little Elongation Complex (LEC) and the super elongation complex (SEC), thereby influencing gene expression dynamics (Takahashi2015MED26). Additionally, MED26 is involved in the repression of neuronal gene expression in nonneuronal cells through its association with REST and G9a (Borggrefe2011Interactions). Its function is further highlighted in erythropoiesis, where it interacts with pausing-related factors to regulate transcription during erythroid differentiation (Zhu2024MED26enriched).
+
+## Function
+MED26 is a subunit of the Mediator complex, which plays a crucial role in the transcription of small nuclear RNA (snRNA) genes in human cells. It is essential for the recruitment of the Little Elongation Complex (LEC) to a subset of snRNA genes, including U1-1, U4-1, U5A, and U5B. This recruitment is necessary for the transcription of these genes by RNA polymerase II (Pol II) (Takahashi2015MED26). MED26 facilitates the transition from transcription initiation to elongation by acting as a molecular switch that exchanges TAF7 for LEC, thereby promoting transcription elongation (Takahashi2015MED26).
+
+The N-terminal domain (NTD) of MED26 is critical for its interaction with LEC components such as ICE1, ELL, and EAF1, which are involved in transcription regulation (Takahashi2015MED26). MED26 is also involved in the recruitment and Ser7 phosphorylation of Pol II at snRNA genes, which is essential for their transcription (Takahashi2015MED26). In addition to its role in snRNA gene transcription, MED26 is part of a trimeric complex with REST and G9a, contributing to the repression of neuronal gene expression in nonneuronal cells (Borggrefe2011Interactions).
+
+## Interactions
+MED26, a subunit of the Mediator complex, is involved in various protein interactions that are crucial for transcription regulation. It interacts with TAF7, a component of TFIID, through its N-terminal domain (NTD). This interaction is essential for the regulation of snRNA gene transcription, as TAF7 can inhibit the recruitment of the Little Elongation Complex (LEC) to these genes. Specific amino acids in TAF7 are critical for binding to MED26-NTD, and mutations in these residues can disrupt the interaction (Takahashi2015MED26).
+
+MED26 also interacts with EAF1, a component of the super elongation complex (SEC), through its NTD. This interaction is important for the transition from transcription initiation to elongation. The C-terminal region of EAF1 is necessary for its binding to MED26-NTD (Takahashi2015MED26).
+
+In the context of erythropoiesis, MED26 interacts with pausing-related factors such as NELF, DSIF, and PAF complexes. These interactions are crucial for transcription regulation during erythroid differentiation, as MED26's enrichment leads to increased transcription pausing, which accelerates erythroid development (Zhu2024MED26enriched).
+
+
+## References
+
+
+1. (Zhu2024MED26enriched) MED26-enriched condensates drive erythropoiesis through modulating transcription pausing. This article has 0 citations.
+
+[2. (Takahashi2015MED26) Hidehisa Takahashi, Ichigaku Takigawa, Masashi Watanabe, Delnur Anwar, Mio Shibata, Chieri Tomomori-Sato, Shigeo Sato, Amol Ranjan, Chris W. Seidel, Tadasuke Tsukiyama, Wataru Mizushima, Masayasu Hayashi, Yasuyuki Ohkawa, Joan W. Conaway, Ronald C. Conaway, and Shigetsugu Hatakeyama. Med26 regulates the transcription of snrna genes through the recruitment of little elongation complex. Nature Communications, January 2015. URL: http://dx.doi.org/10.1038/ncomms6941, doi:10.1038/ncomms6941. This article has 42 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms6941)
+
+[3. (Borggrefe2011Interactions) Tilman Borggrefe and Xiaojing Yue. Interactions between subunits of the mediator complex with gene-specific transcription factors. Seminars in Cell &amp; Developmental Biology, 22(7):759–768, September 2011. URL: http://dx.doi.org/10.1016/j.semcdb.2011.07.022, doi:10.1016/j.semcdb.2011.07.022. This article has 103 citations.](https://doi.org/10.1016/j.semcdb.2011.07.022)

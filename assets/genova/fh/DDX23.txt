@@ -1,0 +1,52 @@
+# DDX23
+
+## Overview
+DDX23 is a gene that encodes the protein DEAD-box helicase 23, a member of the DEAD-box family of RNA helicases. This family is characterized by the conserved motif Asp-Glu-Ala-Asp (DEAD), which is integral to the protein's function in RNA metabolism. DEAD-box helicase 23 plays a pivotal role in pre-mRNA splicing as part of the spliceosome complex, facilitating the precise removal of introns from pre-mRNA to ensure accurate mRNA processing and protein synthesis (Bourgeois2016The). Beyond its splicing function, DDX23 is involved in the regulation of gene expression and miRNA maturation, contributing to cellular differentiation and proliferation control (Doi2022A; Bourgeois2016The). The protein's interactions with various components of the RNA processing machinery and its involvement in antiviral responses underscore its multifaceted role in cellular homeostasis (Ruan2019DDX23). Alterations in DDX23 expression have been linked to several cancers, highlighting its clinical significance as a potential therapeutic target (Lin2023METTL3; Wood2021The).
+
+## Structure
+The DDX23 protein is a member of the DEAD-box helicase family, characterized by the conserved motif Asp-Glu-Ala-Asp (DEAD). It contains a helicase core with two RecA-like domains, which are crucial for its function in RNA binding and unwinding (Burns2021Syndromic). These domains are connected by a binding domain that serves as the ATP-binding site when the protein is in its active conformation (Burns2021Syndromic). The DDX23 protein is involved in the formation of the mature spliceosome and plays a role in maintaining genomic stability (Burns2021Syndromic).
+
+The primary structure of DDX23 includes a RecA-like domain and a DEAD box sequence, which are essential for its helicase activity (Burns2021Syndromic). The protein also contains highly conserved DEXDc and HELICc domains, typical of the DExD/H-box helicase family, which are involved in its helicase function and RNA binding (Ruan2019DDX23).
+
+Post-translational modifications, such as phosphorylation, may regulate the activity of DDX23, although specific details on these modifications are not provided in the context (Schneider2024Structure). The protein's structure and function are evolutionarily conserved across species, highlighting its importance in RNA metabolism and antiviral responses (Ruan2019DDX23).
+
+## Function
+DDX23, also known as PRP28, is a DEAD-box helicase that plays a crucial role in pre-mRNA splicing, a fundamental process in gene expression. It is a component of the spliceosome, the complex responsible for removing introns from pre-mRNA. DDX23 facilitates the release of U1 snRNP from the 5' splice site, allowing U6 snRNA to base pair with both the 5' splice site and U2 snRNA, which is essential for spliceosome assembly and function (Bourgeois2016The). This activity ensures the specificity and fidelity of splicing, contributing to the accurate processing of mRNA and subsequent protein synthesis (Bourgeois2016The).
+
+In addition to its role in splicing, DDX23 is involved in the regulation of gene expression by facilitating the formation of transcriptional condensates. It promotes the condensation of MAB-10 (NAB) proteins into nuclear foci, which represses the expression of genes involved in cell proliferation and differentiation, including Hedgehog-related genes (Doi2022A). This function is vital for maintaining normal cell differentiation and preventing abnormal cell proliferation, highlighting its role as a tumor suppressor (Doi2022A). DDX23 is also implicated in miRNA maturation, further underscoring its multifaceted role in RNA metabolism (Bourgeois2016The).
+
+## Clinical Significance
+DDX23, a DEAD-box RNA helicase, has been implicated in various cancers due to its altered expression and interactions. In gliomas, DDX23 is overexpressed and correlates with poor patient survival. Its knockdown suppresses glioma cell proliferation and invasion, and it is involved in the biogenesis of microRNA miR-21, which is linked to glioma cell proliferation and radiation resistance. Inhibiting DDX23 with ivermectin reduces miR-21 levels and glioma growth (Wood2021The).
+
+In pancreatic ductal adenocarcinoma (PDAC), DDX23 mRNA is significantly upregulated in tumor tissues, correlating with worse survival outcomes. Knockdown of DDX23 in PDAC cell lines suppresses cell proliferation and increases apoptosis. DDX23 is associated with the PI3K/Akt signaling pathway, promoting tumor growth and metastasis, and its knockdown increases sensitivity to gemcitabine, a chemotherapy drug (Lin2023METTL3).
+
+In ovarian cancer, DDX23 is overexpressed and linked to poor clinical outcomes. It promotes cancer progression by regulating the expression of the oncogene FOXM1. DDX23 knockdown results in reduced cell proliferation and migration, and it is transcriptionally activated by the transcription factor E2F1 (Zhao2021Splicing).
+
+## Interactions
+DDX23, a member of the DEAD-box helicase family, is involved in various protein interactions crucial for its role in antiviral responses and RNA processing. It specifically binds to double-stranded RNA (dsRNA) through its N-terminal region, demonstrating a preference for low molecular weight poly(I:C), a synthetic analog of dsRNA (Ruan2019DDX23). This binding capability is conserved across species, including humans and Drosophila (Ruan2019DDX23).
+
+In antiviral signaling, DDX23 interacts with the adaptor proteins TRIF and MAVS, but not with STING. The interaction with TRIF involves the N-terminal and DExD/H regions of DDX23, while the interaction with MAVS is mediated through the DExD/H box (Ruan2019DDX23). These interactions are crucial for activating NF-κB and IFN-response signal transduction pathways upon stimulation with poly(I:C) (Ruan2019DDX23).
+
+DDX23 also plays a role in RNA splicing, where it is involved in the assembly of the spliceosome. It interacts with components of the U5 small nuclear ribonucleoprotein (snRNP) complex, such as EFTUD2, and its expression levels affect the composition of this complex (Cloutier2017R2TPPrefoldinlike).
+
+
+## References
+
+
+[1. (Cloutier2017R2TPPrefoldinlike) Philippe Cloutier, Christian Poitras, Mathieu Durand, Omid Hekmat, Émilie Fiola-Masson, Annie Bouchard, Denis Faubert, Benoit Chabot, and Benoit Coulombe. R2tp/prefoldin-like component ruvbl1/ruvbl2 directly interacts with znhit2 to regulate assembly of u5 small nuclear ribonucleoprotein. Nature Communications, May 2017. URL: http://dx.doi.org/10.1038/ncomms15615, doi:10.1038/ncomms15615. This article has 84 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms15615)
+
+2. (Doi2022A) A DEAD-box helicase drives the partitioning of a pro-differentiation NAB protein into nuclear foci. This article has 0 citations.
+
+[3. (Zhao2021Splicing) Chen Zhao, Yingwei Li, Chunping Qiu, Jingying Chen, Huan Wu, Qiuman Wang, Xinyue Ma, Kun Song, and Beihua Kong. Splicing factor ddx23, transcriptionally activated by e2f1, promotes ovarian cancer progression by regulating foxm1. Frontiers in Oncology, December 2021. URL: http://dx.doi.org/10.3389/fonc.2021.749144, doi:10.3389/fonc.2021.749144. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.749144)
+
+[4. (Ruan2019DDX23) Jie Ruan, Yange Cao, Tao Ling, Peiyi Li, Shengpeng Wu, Dezhi Peng, Yao Wang, Xin Jia, Shangwu Chen, Anlong Xu, and Shaochun Yuan. Ddx23, an evolutionary conserved dsrna sensor, participates in innate antiviral responses by pairing with trif or mavs. Frontiers in Immunology, September 2019. URL: http://dx.doi.org/10.3389/fimmu.2019.02202, doi:10.3389/fimmu.2019.02202. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2019.02202)
+
+[5. (Schneider2024Structure) Sarah Schneider, Irina Brandina, Daniel Peter, Sonal Lagad, Angelique Fraudeau, Júlia Portell-Montserrat, Jonas Tholen, Jiangfeng Zhao, and Wojciech P. Galej. Structure of the human 20s u5 snrnp. Nature Structural &amp; Molecular Biology, 31(5):752–756, March 2024. URL: http://dx.doi.org/10.1038/s41594-024-01250-5, doi:10.1038/s41594-024-01250-5. This article has 2 citations.](https://doi.org/10.1038/s41594-024-01250-5)
+
+[6. (Burns2021Syndromic) William Burns, Lynne M. Bird, Delphine Heron, Boris Keren, Divya Ramachandra, Isabelle Thiffault, Florencia Del Viso, Shivarajan Amudhavalli, Kendra Engleman, Ilaria Parenti, Frank J. Kaiser, Jolanta Wierzba, Korbinian M. Riedhammer, Susanne Liptay, Neda Zadeh, Joseph Porrmann, Andrea Fischer, Sophie Gößwein, Heather M. McLaughlin, Aida Telegrafi, Katherine G. Langley, Richard Steet, Raymond J. Louie, and Michael J. Lyons. Syndromic neurodevelopmental disorder associated with de novo variants in <scp>ddx23</scp>. American Journal of Medical Genetics Part A, 185(10):2863–2872, May 2021. URL: http://dx.doi.org/10.1002/ajmg.a.62359, doi:10.1002/ajmg.a.62359. This article has 10 citations.](https://doi.org/10.1002/ajmg.a.62359)
+
+[7. (Bourgeois2016The) Cyril F. Bourgeois, Franck Mortreux, and Didier Auboeuf. The multiple functions of rna helicases as drivers and regulators of gene expression. Nature Reviews Molecular Cell Biology, 17(7):426–438, June 2016. URL: http://dx.doi.org/10.1038/nrm.2016.50, doi:10.1038/nrm.2016.50. This article has 275 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrm.2016.50)
+
+[8. (Lin2023METTL3) Chengjie Lin, Ting Li, Yan Wang, Shihui Lai, Yue Huang, Zhenyun Guo, Xiang Zhang, and Shangeng Weng. Mettl3 enhances pancreatic ductal adenocarcinoma progression and gemcitabine resistance through modifying ddx23 mrna n6 adenosine methylation. Cell Death &amp; Disease, March 2023. URL: http://dx.doi.org/10.1038/s41419-023-05715-1, doi:10.1038/s41419-023-05715-1. This article has 12 citations.](https://doi.org/10.1038/s41419-023-05715-1)
+
+[9. (Wood2021The) Katherine A. Wood, Megan A. Eadsforth, William G. Newman, and Raymond T. O’Keefe. The role of the u5 snrnp in genetic disorders and cancer. Frontiers in Genetics, January 2021. URL: http://dx.doi.org/10.3389/fgene.2021.636620, doi:10.3389/fgene.2021.636620. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2021.636620)

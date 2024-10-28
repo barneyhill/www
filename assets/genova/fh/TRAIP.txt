@@ -1,0 +1,56 @@
+# TRAIP
+
+## Overview
+The TRAIP gene encodes the TRAF Interacting Protein, a crucial E3 ubiquitin ligase involved in maintaining genomic stability and regulating the cell cycle. The protein is characterized by its RING finger domain, coiled-coil domain, and leucine zipper domain, which facilitate its interactions with various proteins and its role in DNA damage response (Bhat2021In; Bhat2020Molecular). TRAIP is essential for processes such as the dissociation of PCNA from chromatin during mitosis and the resolution of DNA replication-transcription conflicts during the S-phase, thereby preventing genomic instability (Shiomi2023TRAIP; Scaramuzza2023TRAIP). Its interactions with proteins like RAP80 and the RNF20-RNF40 complex underscore its role in DNA repair pathways (Soo2016TRAIPRNF206). Clinically, mutations or altered expression of TRAIP are linked to conditions such as microcephalic primordial dwarfism and cancer, highlighting its importance in genomic integrity and cellular viability (Soo2016TRAIPRNF206; Scaramuzza2023TRAIP).
+
+## Structure
+The TRAIP protein, encoded by the human TRAIP gene, is composed of 469 amino acids and has a molecular weight of approximately 53 kDa. Its structure includes several key domains: an N-terminal RING finger domain, a coiled-coil (CC) domain, and a leucine zipper (LZ) domain (Bhat2021In; Bhat2020Molecular). The RING domain is associated with E3 ubiquitin ligase activity, which is crucial for ubiquitin ligation processes (Bhat2021In). 
+
+The coiled-coil domain, spanning amino acids 66-164, forms a trimeric structure in solution, as confirmed by size exclusion chromatography and multi-angle light scattering (Bhat2021In). This domain is significant for its interaction with the RAP80 protein, which contains a zinc finger motif, facilitating RAP80's translocation to DNA damage sites (Bhat2021In). The leucine zipper domain, located at the C-terminal, is involved in the protein's trimerization and has been successfully cloned and purified for biochemical characterization (Bhat2020Molecular).
+
+TRAIP undergoes autoubiquitination, although its in vivo substrates remain unidentified (Bhat2020Molecular). The protein is primarily localized in the nucleolus of interphase mammalian cells and is expressed at low levels across most tissues (Bhat2020Molecular).
+
+## Function
+The TRAIP gene encodes an E3 ubiquitin ligase that plays a crucial role in maintaining genomic stability during the cell cycle. In healthy human cells, TRAIP is essential for the dissociation of PCNA (Proliferating Cell Nuclear Antigen) from chromatin during mitosis, which is necessary for precise DNA replication initiation and cell cycle progression (Shiomi2023TRAIP). TRAIP also resolves DNA replication-transcription conflicts during the S-phase, ensuring proper cell cycle progression and preventing DNA damage (Scaramuzza2023TRAIP). 
+
+TRAIP's activity is critical for the unloading of CMG helicases from chromatin, a process vital for preventing genomic instability during mitosis (Wu2021The). It interacts with replication forks and nascent DNA, facilitating the proper progression of replication and mitosis (Scaramuzza2023TRAIP). TRAIP's role extends to the regulation of DNA damage repair pathways, where it is involved in the repair of DNA interstrand crosslinks and other DNA-damaging agents (Wu2021The). 
+
+TRAIP's functions are vital for cell viability, and its depletion can lead to cell cycle arrest, DNA damage accumulation, and cellular senescence, highlighting its importance in maintaining genomic integrity and preventing conditions such as cancer (Scaramuzza2023TRAIP).
+
+## Clinical Significance
+Mutations or altered expression of the TRAIP gene have significant clinical implications. TRAIP is crucial for maintaining genomic stability, and its dysfunction can lead to various diseases. In particular, TRAIP mutations are associated with microcephalic primordial dwarfism, a condition characterized by reduced brain size and growth retardation. This is due to TRAIP's essential role in resolving DNA replication-transcription conflicts during the S-phase of the cell cycle, which is critical for cell proliferation and viability (Scaramuzza2023TRAIP).
+
+TRAIP's reduced expression is linked to increased genomic instability, a hallmark of cancer. In human lung adenocarcinoma tissues, TRAIP expression is significantly lower compared to normal tissues, correlating with increased DNA damage markers such as γH2AX foci. This suggests that low levels of TRAIP may contribute to the progression of cancer by impairing DNA repair mechanisms (Soo2016TRAIPRNF206).
+
+TRAIP dysfunction also leads to impaired responses to replication stress, resulting in increased chromosomal instability and reduced cell survival. This highlights its protective role against genome instability, which is a precursor to various diseases, including cancer (Hoffmann2015TRAIP).
+
+## Interactions
+TRAIP (TRAF Interacting Protein) is involved in several protein interactions that are crucial for its role in cellular processes. TRAIP interacts with the TRAF2 TRAF-N domain, a key interaction that inhibits TRAF2-mediated NF-κB activation. This interaction requires the RING-CC domain of TRAIP, as the coiled-coil domain alone is insufficient for binding (Bhat2018In; Sajjad2019Recognition). 
+
+TRAIP also plays a significant role in the DNA damage response by interacting with RAP80. This interaction is essential for the recruitment of RAP80 to DNA damage sites, facilitating DNA repair processes such as homologous recombination. The coiled-coil domain of TRAIP is critical for its interaction with RAP80, while the C-terminal region of TRAIP is necessary for its localization to DNA damage sites (Soo2016TRAIPRNF206).
+
+Additionally, TRAIP interacts with the RNF20-RNF40 complex, which is involved in chromatin relaxation and DNA damage response. This interaction is crucial for the recruitment of RAP80 and the BRCA1 complex to DNA damage sites, enhancing DNA repair (Soo2016TRAIPRNF206). 
+
+TRAIP's interactions with these proteins underscore its role in maintaining genomic stability and regulating cellular signaling pathways.
+
+
+## References
+
+
+[1. (Wu2021The) R. Alex Wu, David S. Pellman, and Johannes C. Walter. The ubiquitin ligase traip: double-edged sword at the replisome. Trends in Cell Biology, 31(2):75–85, February 2021. URL: http://dx.doi.org/10.1016/j.tcb.2020.11.007, doi:10.1016/j.tcb.2020.11.007. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tcb.2020.11.007)
+
+[2. (Hoffmann2015TRAIP) Saskia Hoffmann, Stine Smedegaard, Kyosuke Nakamura, Gulnahar B. Mortuza, Markus Räschle, Alain Ibañez de Opakua, Yasuyoshi Oka, Yunpeng Feng, Francisco J. Blanco, Matthias Mann, Guillermo Montoya, Anja Groth, Simon Bekker-Jensen, and Niels Mailand. Traip is a pcna-binding ubiquitin ligase that protects genome stability after replication stress. Journal of Cell Biology, 212(1):63–75, December 2015. URL: http://dx.doi.org/10.1083/jcb.201506071, doi:10.1083/jcb.201506071. This article has 67 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201506071)
+
+[3. (Bhat2021In) Eijaz Ahmed Bhat, Nasreena Sajjad, Irfan A. Rather, Jamal S.M. Sabir, and Yan-Yan Hor. In vitro assembly complex formation of traip cc and rap 80 zinc finger motif revealed by our study. Saudi Journal of Biological Sciences, 28(12):7511–7516, December 2021. URL: http://dx.doi.org/10.1016/j.sjbs.2021.08.083, doi:10.1016/j.sjbs.2021.08.083. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.sjbs.2021.08.083)
+
+[4. (Soo2016TRAIPRNF206) Nam Soo Lee, Hee Jin Chung, Hyoung-June Kim, Seo Yun Lee, Jae-Hoon Ji, Yoojeong Seo, Seung Hun Han, Minji Choi, Miyong Yun, Seok-Geun Lee, Kyungjae Myung, Yonghwan Kim, Ho Chul Kang, and Hongtae Kim. Traip/rnf206 is required for recruitment of rap80 to sites of dna damage. Nature Communications, January 2016. URL: http://dx.doi.org/10.1038/ncomms10463, doi:10.1038/ncomms10463. This article has 44 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms10463)
+
+[5. (Bhat2020Molecular) Eijaz Ahmed Bhat, Nasreena Sajjad, Jamal S.M. Sabir, Majid Rasool Kamli, Khalid Rehman Hakeem, Irfan A. Rather, and Ahmed Bahieldin. Molecular cloning, expression, overproduction and characterization of human traip leucine zipper protein. Saudi Journal of Biological Sciences, 27(6):1562–1565, June 2020. URL: http://dx.doi.org/10.1016/j.sjbs.2020.03.011, doi:10.1016/j.sjbs.2020.03.011. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.sjbs.2020.03.011)
+
+[6. (Bhat2018In) Eijaz Ahmed Bhat, Chang Min Kim, Sunghwan Kim, and Hyun Ho Park. In vitro inhibitory mechanism effect of traip on the function of traf2 revealed by characterization of interaction domains. International Journal of Molecular Sciences, 19(8):2457, August 2018. URL: http://dx.doi.org/10.3390/ijms19082457, doi:10.3390/ijms19082457. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms19082457)
+
+[7. (Scaramuzza2023TRAIP) Shaun Scaramuzza, Rebecca M. Jones, Martina Muste Sadurni, Alicja Reynolds-Winczura, Divyasree Poovathumkadavil, Abigail Farrell, Toyoaki Natsume, Patricia Rojas, Cyntia Fernandez Cuesta, Masato T. Kanemaki, Marco Saponaro, and Agnieszka Gambus. Traip resolves dna replication-transcription conflicts during the s-phase of unperturbed cells. Nature Communications, August 2023. URL: http://dx.doi.org/10.1038/s41467-023-40695-y, doi:10.1038/s41467-023-40695-y. This article has 7 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-40695-y)
+
+[8. (Sajjad2019Recognition) Nasreena Sajjad, Mohammad Muzaffar Mir, Johra Khan, Irfan A Rather, and Eijaz Ahmed Bhat. Recognition of traip with trafs: current understanding and associated diseases. The International Journal of Biochemistry &amp; Cell Biology, 115:105589, October 2019. URL: http://dx.doi.org/10.1016/j.biocel.2019.105589, doi:10.1016/j.biocel.2019.105589. This article has 11 citations.](https://doi.org/10.1016/j.biocel.2019.105589)
+
+9. (Shiomi2023TRAIP) TRAIP plays an essential role in the dissociation of PCNA from chromatin during mitosis, required to precise DNA replication initiation. This article has 0 citations.

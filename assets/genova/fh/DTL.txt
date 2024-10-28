@@ -1,0 +1,42 @@
+# DTL
+
+## Overview
+The DTL gene encodes the denticleless E3 ubiquitin protein ligase homolog, a crucial component of the CRL4 E3 ubiquitin ligase complex. This protein is characterized by its WD40 domains, which facilitate interactions with various substrates, playing a pivotal role in maintaining genomic stability. As an E3 ubiquitin ligase, DTL is involved in the regulation of DNA replication, cell cycle progression, and the DNA damage response by targeting specific proteins for ubiquitin-mediated degradation. The protein's activity is essential for preventing uncontrolled DNA replication and ensuring proper cell cycle transitions, thereby safeguarding genomic integrity. Dysregulation of DTL has been implicated in cancer progression, as its overexpression is associated with poor prognosis in several cancer types, highlighting its potential as a biomarker for cancer diagnosis and treatment (Tang2023Pancancer; Li2022Role).
+
+## Structure
+The DTL protein contains repeated WD40 domains from amino acids 35 to 398, which are crucial for its interaction with the tumor suppressor PDCD4. These WD40 domains are involved in the binding of DTL to PDCD4, as demonstrated by co-immunoprecipitation assays (Cui2019DTL). The three-dimensional structure prediction of DTL indicates that it contains two β propellers, one of which is formed by the WD40 domain located in the N-terminal region (Cui2019DTL). The interaction between DTL and PDCD4 is facilitated by these WD40 domains, which are essential for the protein's function in promoting the ubiquitin-proteasomal degradation of PDCD4 (Cui2019DTL). 
+
+Phosphorylation of PDCD4 at Ser67 is important for its binding with DTL, as a mutant form of PDCD4 (S67A) did not interact with DTL, indicating that post-translational modifications, such as phosphorylation, play a role in the interaction between DTL and its substrates (Cui2019DTL). The DTL protein is a component of the CRL4A ubiquitin ligase complex, where it acts as a substrate recognizer through its seven WD40 domains (Cui2019DTL).
+
+## Function
+DTL, also known as denticleless E3 ubiquitin protein ligase homolog, plays a critical role in maintaining genomic stability in healthy human cells. It functions as a substrate recognition factor within the CRL4 E3 ubiquitin ligase complex, which is essential for regulating DNA replication, the cell cycle, and the DNA damage response (Tang2023Pancancer). DTL achieves these functions by recognizing and degrading various substrates, including the DNA replication licensing factor CDT1, the cell cycle inhibitor P21, and the histone methyltransferase SET8, particularly during the S phase and after DNA damage (Tang2023Pancancer). This degradation process is crucial for preventing uncontrolled DNA replication and ensuring proper cell cycle progression, thereby maintaining genomic integrity (Tang2023Pancancer).
+
+In the absence or dysfunction of DTL, there is an accumulation of DNA damage, which can lead to genomic instability and potentially result in cell death or tumorigenesis (Tang2023Pancancer). DTL is also involved in the regulation of mitosis, response to UV damage, and cell protein metabolic pathways, highlighting its multifaceted role in cellular homeostasis (Tang2023Pancancer). The protein is active in the nucleus, where it influences DNA repair and cell proliferation processes (Li2022Role).
+
+## Clinical Significance
+The DTL gene, also known as denticleless E3 ubiquitin protein ligase homolog, plays a significant role in cancer progression due to its involvement in cell cycle regulation and DNA damage response. Overexpression of DTL is linked to poor prognosis in various cancers, including liver hepatocellular carcinoma (LIHC), gastric cancer, bladder urothelial carcinoma (BLCA), melanoma, nasopharyngeal carcinoma, and breast cancer (Tang2023Pancancer). High DTL expression is associated with increased tumor cell proliferation, migration, and invasion, contributing to cancer progression and treatment challenges (Tang2023Pancancer). 
+
+In hepatocellular carcinoma (HCC), DTL overexpression correlates with advanced clinical stages and a higher rate of somatic mutations, such as TP53, leading to poor overall survival and disease-free survival (Li2022Role). DTL's overexpression is also linked to immune cell infiltration, suggesting a role in modulating the immune response in the tumor microenvironment (Li2022Role). 
+
+DTL expression is positively correlated with tumor mutation burden (TMB) and microsatellite instability (MSI), which are indicators of better immunotherapy outcomes, particularly in cancers like urothelial carcinoma (Tang2023Pancancer). These findings suggest that DTL could serve as a biomarker for diagnosis, prognosis, and treatment prediction in various cancers (Tang2023Pancancer).
+
+## Interactions
+DTL, also known as denticleless E3 ubiquitin protein ligase homolog, is involved in several protein interactions that play crucial roles in cellular processes. DTL interacts with the tumor suppressor protein PDCD4, facilitating its ubiquitin-proteasomal degradation. This interaction is mediated by the WD40 domains of DTL and is essential for the binding of CUL4A to PDCD4, which is part of the CRL4A E3 ligase complex. The interaction between DTL and PDCD4 is significant in cancer progression, as it promotes the degradation of PDCD4, enhancing cancer cell proliferation and invasion (Cui2019DTL).
+
+DTL is also a component of the CUL4A-DDB1 E3 ubiquitin ligase complex, where it plays a role in the degradation of CDT1, a protein involved in DNA replication. This interaction is crucial for maintaining genomic stability and proper cell cycle progression, particularly after DNA damage (Sansam2006DTLCDT2).
+
+In breast cancer, DTL interacts with RUVBL1, promoting its K63 ubiquitination. This modification enhances the formation of a RUVBL1/2-β-catenin transcription complex, which is involved in the regulation of the non-homologous end joining (NHEJ) DNA repair pathway, contributing to radiation resistance (Tian2024RUVBL1).
+
+
+## References
+
+
+[1. (Sansam2006DTLCDT2) Christopher L. Sansam, Jennifer L. Shepard, Kevin Lai, Alessandra Ianari, Paul S. Danielian, Adam Amsterdam, Nancy Hopkins, and Jacqueline A. Lees. Dtl/cdt2 is essential for both cdt1 regulation and the early g2/m checkpoint. Genes &amp; Development, 20(22):3117–3129, November 2006. URL: http://dx.doi.org/10.1101/gad.1482106, doi:10.1101/gad.1482106. This article has 125 citations.](https://doi.org/10.1101/gad.1482106)
+
+[2. (Li2022Role) Zuyin Li, Rangrang Wang, Chen Qiu, Can Cao, Jianming Zhang, Jun Ge, and Yuanping Shi. Role of dtl in hepatocellular carcinoma and its impact on the tumor microenvironment. Frontiers in Immunology, March 2022. URL: http://dx.doi.org/10.3389/fimmu.2022.834606, doi:10.3389/fimmu.2022.834606. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2022.834606)
+
+[3. (Cui2019DTL) Haoran Cui, Qin Wang, Zhenchuan Lei, Maoxiao Feng, Zhongxi Zhao, Yunshan Wang, and Guangwei Wei. Dtl promotes cancer progression by pdcd4 ubiquitin-dependent degradation. Journal of Experimental &amp; Clinical Cancer Research, August 2019. URL: http://dx.doi.org/10.1186/s13046-019-1358-x, doi:10.1186/s13046-019-1358-x. This article has 73 citations.](https://doi.org/10.1186/s13046-019-1358-x)
+
+[4. (Tian2024RUVBL1) Jie Tian, Mingxin Wen, Peng Gao, Maoxiao Feng, and Guangwei Wei. Ruvbl1 ubiquitination by dtl promotes ruvbl1/2-β-catenin-mediated transcriptional regulation of nhej pathway and enhances radiation resistance in breast cancer. Cell Death &amp; Disease, April 2024. URL: http://dx.doi.org/10.1038/s41419-024-06651-4, doi:10.1038/s41419-024-06651-4. This article has 1 citations.](https://doi.org/10.1038/s41419-024-06651-4)
+
+[5. (Tang2023Pancancer) Yumei Tang, Ye Lei, Peng Gao, Junting Jia, Huijun Du, Qitong Wang, Zhixin Yan, Chen Zhang, Guojun Liang, Yanfeng Wang, Weijun Ma, Nianzeng Xing, Le Cheng, and Laifeng Ren. Pan-cancer analysis and experimental validation of dtl as a potential diagnosis, prognosis and immunotherapy biomarker. BMC Cancer, April 2023. URL: http://dx.doi.org/10.1186/s12885-023-10755-z, doi:10.1186/s12885-023-10755-z. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-023-10755-z)

@@ -1,0 +1,50 @@
+# PGBD5
+
+## Overview
+PGBD5 is a gene that encodes the protein piggyBac transposable element derived 5, which is a member of the piggyBac transposase superfamily. This protein is characterized by its DNA transposase-like activity, facilitating genomic DNA transposition through a cut-and-paste mechanism. Unlike typical piggyBac transposases, PGBD5 lacks the conserved DDD catalytic motif, instead relying on specific aspartic acid residues for its function (Bouallègue2017Molecular; Henssen2015Genomic). The protein is expressed in both the nucleus and cytoplasm, suggesting diverse roles in cellular processes, particularly during embryogenesis and neurogenesis (Pavelitz2013PGBD5:; Henssen2015Genomic). PGBD5 has been implicated in genomic rearrangements and is associated with various cancers, where it influences tumor progression and cellular differentiation. Its activity in cancer cells creates a dependency on DNA repair mechanisms, making it a potential target for therapeutic interventions (Luo2024Knockdown; Henssen2017Therapeutic).
+
+## Structure
+The PGBD5 protein is a member of the piggyBac transposase superfamily and is highly conserved across species from cephalochordates to humans (Pavelitz2013PGBD5:). The primary structure of PGBD5 includes a sequence of amino acids encoded by seven exons, with the transposase domain spanning exons 2-7 (Pavelitz2013PGBD5:). The protein is approximately 59 kDa in size and is found in both the nucleus and cytoplasm, suggesting potential roles in both compartments (Pavelitz2013PGBD5:).
+
+PGBD5 contains a C-terminal RNase H-like domain, which shares sequence similarity with active transposases from other piggyBac family members (Henssen2015Genomic). The protein lacks the conserved DDD catalytic motif typical of piggyBac transposases, indicating a divergence in its enzymatic activity (Bouallègue2017Molecular). Instead, specific aspartic acid residues, such as D168, D194, and D386, are crucial for its transposition activity (Henssen2015Genomic).
+
+The PGBD5 protein also features a nuclear localization signal (NLS) located within the conserved transposase core, which is atypical as NLSs are usually found at the C-terminal end in other transposases (Pavelitz2013PGBD5:). The protein does not bind to chromatin or DNA in the mouse brain, which is unusual for domesticated transposases (Pavelitz2013PGBD5:). Specific details on the secondary, tertiary, or quaternary structures of PGBD5 are not provided in the available context.
+
+## Function
+PGBD5 is a DNA transposase-like protein that plays a role in genomic DNA transposition in human cells. It is capable of mobilizing transposons by integrating them into specific TTAA sequences within the genome, a process known as cut-and-paste DNA transposition. This activity involves the precise excision and insertion of transposons, facilitated by the protein's C-terminal RNase H-like domain, which is similar to other transposases like piggyBac (Henssen2015Genomic).
+
+PGBD5's transposase activity is dependent on specific inverted terminal repeat sequences and requires certain aspartate residues for efficient DNA transposition. Mutations in these residues can significantly reduce its activity, indicating their critical role in the transposition process (Henssen2015Genomic). The protein is primarily active in the cell nucleus and is expressed during embryogenesis and neurogenesis, suggesting a role in developmental processes (Henssen2015Genomic).
+
+In the context of healthy human cells, PGBD5's activity may be involved in genomic rearrangements and cellular differentiation, potentially influencing genomic stability and contributing to developmental processes (Henssen2015Genomic). Its precise physiological function remains an area of ongoing research.
+
+## Clinical Significance
+PGBD5 has been implicated in various cancers due to its role in mediating genomic rearrangements. In gliomas, a type of aggressive brain tumor, PGBD5 expression is elevated, contributing to tumor progression by promoting cell migration, invasion, and proliferation. Knockdown of PGBD5 in glioma cells reduces these malignant behaviors and induces apoptosis, suggesting its potential as a therapeutic target (Luo2024Knockdown).
+
+In pediatric solid tumors, such as neuroblastoma and medulloblastoma, PGBD5 expression is associated with increased DNA damage and a dependency on DNA repair mechanisms. This dependency can be exploited therapeutically using DNA damage signaling inhibitors like AZD6738, which induce apoptosis in PGBD5-expressing tumor cells (Henssen2017Therapeutic). The combination of AZD6738 with cisplatin has shown enhanced antitumor efficacy, particularly in tumors with high PGBD5 expression (Henssen2017Therapeutic).
+
+In SMARCB1-deficient sarcomas, PGBD5 expression is upregulated in response to certain treatments, leading to increased DNA damage. This can be targeted through a combination of EZH2 and ATR inhibitors, which show synergistic effects in reducing tumor growth (Kazansky2024Epigenetic). These findings highlight the clinical significance of PGBD5 in cancer therapy, particularly in tumors with specific genetic and epigenetic profiles.
+
+## Interactions
+PGBD5, a piggyBac-derived protein, interacts with transposon elements such as Ifp2 and Tcr-pble, facilitating their integration into host genomes. This interaction occurs through both canonical transposition and PGBD5-dependent recombination mechanisms. The protein's ability to bind these elements is thought to be influenced by conserved motifs like inner inverted repeats (IIR) within their terminal regions, despite limited sequence identity between the terminal motifs of Ifp2 and Tcr-pble (Helou2021The).
+
+In the context of pediatric solid tumors, PGBD5 is involved in promoting site-specific genomic rearrangements. Its activity creates a dependency on DNA repair mechanisms, particularly nonhomologous end joining (NHEJ). PGBD5-expressing tumor cells show a functional dependence on the KU complexes (XRCC5/XRCC6 and KU70/KU80) that bind DNA double-strand breaks (DSBs), as well as on the ATR and ATM kinases that control DNA damage repair signaling. This dependency makes PGBD5-expressing cells susceptible to DNA damage repair signaling inhibitors, such as AZD6738, which can induce apoptosis and tumor regression (Henssen2017Therapeutic).
+
+PGBD5 may also interact with chromatin cofactors, potentially regulating genes required for tumor cell survival, although the specific protein-protein interactions and detailed mechanisms remain to be fully elucidated (Henssen2017Therapeutic).
+
+
+## References
+
+
+[1. (Henssen2015Genomic) Anton G Henssen, Elizabeth Henaff, Eileen Jiang, Amy R Eisenberg, Julianne R Carson, Camila M Villasante, Mondira Ray, Eric Still, Melissa Burns, Jorge Gandara, Cedric Feschotte, Christopher E Mason, and Alex Kentsis. Genomic dna transposition induced by human pgbd5. eLife, September 2015. URL: http://dx.doi.org/10.7554/elife.10565, doi:10.7554/elife.10565. This article has 66 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.10565)
+
+2. (Kazansky2024Epigenetic) Epigenetic targeting of PGBD5-dependent DNA damage in SMARCB1-deficient sarcomas. This article has 0 citations.
+
+[3. (Bouallègue2017Molecular) Maryem Bouallègue, Jacques-Deric Rouault, Aurélie Hua-Van, Mohamed Makni, and Pierre Capy. Molecular evolution of piggybac superfamily: from selfishness to domestication. Genome Biology and Evolution, pages evw292, January 2017. URL: http://dx.doi.org/10.1093/gbe/evw292, doi:10.1093/gbe/evw292. This article has 6 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/gbe/evw292)
+
+[4. (Luo2024Knockdown) Pengren Luo, Jinhong Yang, Lipeng Jian, Jigen Dong, Shi Yin, Chao Luo, and Shuai Zhou. Knockdown of pgbd5 inhibits the malignant progression of glioma through upregulation of the ppar pathway. International Journal of Oncology, April 2024. URL: http://dx.doi.org/10.3892/ijo.2024.5643, doi:10.3892/ijo.2024.5643. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2024.5643)
+
+[5. (Henssen2017Therapeutic) Anton G. Henssen, Casie Reed, Eileen Jiang, Heathcliff Dorado Garcia, Jennifer von Stebut, Ian C. MacArthur, Patrick Hundsdoerfer, Jun Hyun Kim, Elisa de Stanchina, Yasumichi Kuwahara, Hajime Hosoi, Neil J. Ganem, Filemon Dela Cruz, Andrew L. Kung, Johannes H. Schulte, John H. Petrini, and Alex Kentsis. Therapeutic targeting of pgbd5-induced dna repair dependency in pediatric solid tumors. Science Translational Medicine, November 2017. URL: http://dx.doi.org/10.1126/scitranslmed.aam9078, doi:10.1126/scitranslmed.aam9078. This article has 50 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/scitranslmed.aam9078)
+
+[6. (Helou2021The) Laura Helou, Linda Beauclair, Hugues Dardente, Benoît Piégu, Louis Tsakou-Ngouafo, Thierry Lecomte, Alex Kentsis, Pierre Pontarotti, and Yves Bigot. The piggybac-derived protein 5 (pgbd5) transposes both the closely and the distantly related piggybac-like elements tcr-pble and ifp2. Journal of Molecular Biology, 433(7):166839, April 2021. URL: http://dx.doi.org/10.1016/j.jmb.2021.166839, doi:10.1016/j.jmb.2021.166839. This article has 9 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2021.166839)
+
+[7. (Pavelitz2013PGBD5:) Thomas Pavelitz, Lucas T Gray, Stephanie L Padilla, Arnold D Bailey, and Alan M Weiner. Pgbd5: a neural-specific intron-containing piggybac transposase domesticated over 500 million years ago and conserved from cephalochordates to humans. Mobile DNA, November 2013. URL: http://dx.doi.org/10.1186/1759-8753-4-23, doi:10.1186/1759-8753-4-23. This article has 33 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1759-8753-4-23)

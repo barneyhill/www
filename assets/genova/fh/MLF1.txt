@@ -1,0 +1,44 @@
+# MLF1
+
+## Overview
+The MLF1 gene encodes the myeloid leukemia factor 1 protein, which plays a crucial role in regulating cell cycle progression and apoptosis, particularly within hematopoietic cells. As a nucleocytoplasmic shuttling protein, MLF1 is characterized by its ability to move between the nucleus and cytoplasm, facilitated by its nuclear export and localization signals. It is involved in maintaining hematopoietic stem cells in a quiescent state and is a negative regulator of cell cycle progression through its interactions with the COP9 signalosome and the tumor suppressor p53. MLF1 also interacts with various proteins, including the RUNX transcription factor and Bcl-XL, influencing hematopoiesis and apoptosis, respectively. Clinically, MLF1 is significant in hematological malignancies such as myelodysplastic syndromes and acute myeloid leukemia, where it is implicated in chromosomal translocations and overexpression, contributing to leukemogenesis (Sun2015Myeloid; Bras2012Myeloid; YonedaKato2005Myeloid).
+
+## Structure
+The Myeloid Leukemia Factor 1 (MLF1) protein is a small nucleocytoplasmic shuttling protein consisting of 268 amino acids. It contains a functional N-terminal nuclear export signal (NES) and two C-terminal nuclear localization signals (NLS), which facilitate its movement between the nucleus and the cytoplasm (Li2023Myeloid). MLF1 has a central domain preserved within the MLF family, featuring motifs that bind to the 14-3-3 protein and the COP9 signalosome, specifically at Ser34 and subunit 3 (CNS3) (Li2023Myeloid). The protein also includes a SAM domain, known for its involvement in various biological processes and RNA binding properties (Li2023Myeloid).
+
+The interaction between MLF1 and 14-3-3 proteins is mediated by a sequence surrounding Ser34, which is crucial for its binding (Molzan2012Structural). The crystal structure of the MLF1(29-42)pSer34 binding motif in complex with 14-3-3e has been resolved, revealing a W-like shape of the 14-3-3 dimer, with each monomer forming a ligand-binding cleft that accommodates the MLF1 peptide (Molzan2012Structural). This interaction involves both polar and hydrophobic contacts, highlighting the importance of specific residues in maintaining the protein-protein interface (Molzan2012Structural).
+
+## Function
+Myeloid leukemia factor 1 (MLF1) is a protein involved in regulating cell cycle progression and maintaining normal hematopoiesis. In healthy human cells, MLF1 functions as a negative regulator of cell cycle progression by inducing p53-dependent cell cycle arrest. This process requires interaction with subunit 3 of the COP9 signalosome (CSN3), which is crucial for the stability and activation of the tumor suppressor p53 (YonedaKato2005Myeloid). MLF1 is preferentially expressed in primitive hematopoietic cells and decreases as cells differentiate, playing a role in maintaining hematopoietic stem cells (HSCs) in a quiescent state to prevent premature exhaustion (YonedaKato2005Myeloid).
+
+MLF1 also interacts with the RUNX transcription factor, stabilizing it and influencing hematopoiesis. This interaction is important for the development and maintenance of blood cells (Bras2012Myeloid). In terms of subcellular localization, MLF1 is active in both the nucleus and cytoplasm, where it influences transcriptional regulation and cellular stress responses (Molzan2013Subcellular). The protein's role in apoptosis is mediated through its interaction with Bcl-XL, promoting apoptosis by facilitating the release of Bax and activation of the intrinsic apoptotic pathway (Sun2015Myeloid).
+
+## Clinical Significance
+Myeloid leukemia factor 1 (MLF1) is implicated in several hematological malignancies, particularly myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML). MLF1 is involved in the t(3;5)(q25.1;q34) chromosomal translocation, which results in the formation of a fusion protein with nucleophosmin (NPM). This fusion protein disrupts normal hematopoietic control and contributes to leukemogenesis (YonedaKato2005Myeloid). MLF1 is overexpressed in over 25% of patients with MDS-associated AML and during the malignant transformation phase of MDS (YonedaKato2005Myeloid). 
+
+MLF1's role in apoptosis is significant, as it interacts with Bcl-XL to promote apoptosis, a process negatively regulated by 14-3-3 proteins. This interaction is crucial for its pro-apoptotic function, and alterations in MLF1 expression can influence apoptotic processes, potentially impacting conditions related to cell death regulation, such as cancer (Sun2015Myeloid). 
+
+MLF1 also functions as a negative regulator of cell cycle progression by activating the p53/p21 pathway through a CSN3-COP1-mediated mechanism. This pathway is critical for p53 activation and cell cycle arrest, and its deregulation affects hematopoietic dysplasia, contributing to leukemia development (YonedaKato2005Myeloid).
+
+## Interactions
+Myeloid Leukemia Factor 1 (MLF1) is involved in several protein interactions that influence its role in cellular processes. MLF1 interacts with COP9 signalosome subunit 3 (CSN3), which is crucial for its ability to induce cell cycle arrest and activate the p53 pathway. This interaction leads to the suppression of COP1, a ubiquitin ligase for p53, resulting in the accumulation of p53 and its target proteins, such as p21, thereby promoting cell cycle arrest (YonedaKato2005Myeloid).
+
+MLF1 also interacts with Bcl-XL, a member of the Bcl-2 family, to promote apoptosis. This interaction is mediated by the BH3 domain of MLF1, which is essential for its pro-apoptotic function. The binding of MLF1 to Bcl-XL reduces the availability of Bcl-XL to associate with Bax, facilitating the activation of the intrinsic apoptotic pathway (Sun2015Myeloid).
+
+The 14-3-3 proteins regulate MLF1's pro-apoptotic function by binding to it in a phosphorylation-dependent manner, blocking the BH3 domain and preventing its interaction with Bcl-XL (Sun2015Myeloid). MLF1's interaction with these proteins highlights its complex role in apoptosis and cell cycle regulation.
+
+
+## References
+
+
+[1. (Molzan2012Structural) Manuela Molzan, Michael Weyand, Rolf Rose, and Christian Ottmann. Structural insights of the mlf1/14‐3‐3 interaction. The FEBS Journal, 279(4):563–571, January 2012. URL: http://dx.doi.org/10.1111/j.1742-4658.2011.08445.x, doi:10.1111/j.1742-4658.2011.08445.x. This article has 37 citations.](https://doi.org/10.1111/j.1742-4658.2011.08445.x)
+
+[2. (Sun2015Myeloid) Yi Sun, Amina Fu, Wu Xu, Jyh-Rong Chao, Simon Moshiach, and Stephan W Morris. Myeloid leukemia factor 1 interfered with bcl-xl to promote apoptosis and its function was regulated by 14-3-3. Journal of Physiology and Biochemistry, 71(4):807–821, November 2015. URL: http://dx.doi.org/10.1007/s13105-015-0445-5, doi:10.1007/s13105-015-0445-5. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s13105-015-0445-5)
+
+[3. (Li2023Myeloid) Zixuan Li, Yuanyuan Yang, Kun Wu, Yuntao Li, and Mingxia Shi. Myeloid leukemia factor 1: a “double-edged sword” in health and disease. Frontiers in Oncology, February 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1124978, doi:10.3389/fonc.2023.1124978. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1124978)
+
+[4. (Bras2012Myeloid) Stéphanie Bras, Séverine Martin-Lannerée, Vanessa Gobert, Benoît Augé, Osman Breig, Matthieu Sanial, Masamitsu Yamaguchi, Marc Haenlin, Anne Plessis, and Lucas Waltzer. Myeloid leukemia factor is a conserved regulator of runx transcription factor activity involved in hematopoiesis. Proceedings of the National Academy of Sciences, 109(13):4986–4991, March 2012. URL: http://dx.doi.org/10.1073/pnas.1117317109, doi:10.1073/pnas.1117317109. This article has 25 citations.](https://doi.org/10.1073/pnas.1117317109)
+
+[5. (Molzan2013Subcellular) Manuela Molzan and Christian Ottmann. Subcellular localization of full-length human myeloid leukemia factor 1 (mlf1) is independent of 14-3-3 proteins. Cellular and Molecular Biology Letters, January 2013. URL: http://dx.doi.org/10.2478/s11658-012-0044-1, doi:10.2478/s11658-012-0044-1. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.2478/s11658-012-0044-1)
+
+[6. (YonedaKato2005Myeloid) Noriko Yoneda-Kato, Kiichiro Tomoda, Mari Umehara, Yukinobu Arata, and Jun-ya Kato. Myeloid leukemia factor 1 regulates p53 by suppressing cop1 via cop9 signalosome subunit 3. The EMBO Journal, 24(9):1739–1749, April 2005. URL: http://dx.doi.org/10.1038/sj.emboj.7600656, doi:10.1038/sj.emboj.7600656. This article has 83 citations.](https://doi.org/10.1038/sj.emboj.7600656)

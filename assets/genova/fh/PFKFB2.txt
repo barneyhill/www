@@ -1,0 +1,52 @@
+# PFKFB2
+
+## Overview
+PFKFB2 is a gene that encodes the bifunctional enzyme 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2, which plays a pivotal role in the regulation of glycolysis. This enzyme is categorized as both a kinase and a phosphatase due to its dual functional domains, which are responsible for the synthesis and degradation of fructose-2,6-bisphosphate (Fru-2,6-BP), a key regulator of phosphofructokinase-1 (PFK-1) activity. PFKFB2 is predominantly expressed in tissues with high energy demands, such as the heart and brain, where it modulates glycolytic flux in response to various physiological and environmental stimuli, including hypoxia and hormonal signals (Houddane2017Role; Minchenko2003Hypoxic). The enzyme's activity is finely tuned through phosphorylation by several kinases, which can alter its balance between kinase and phosphatase functions, thereby impacting cellular metabolism and energy homeostasis (Kotowski2021Role). PFKFB2's involvement in metabolic regulation has also been linked to various pathological conditions, making it a potential target for therapeutic intervention (Sha2021Shikonin; Camargo2019PFKFB2).
+
+## Structure
+The PFKFB2 protein is a bifunctional enzyme with distinct kinase and phosphatase domains, playing a crucial role in regulating glycolysis through the synthesis and degradation of fructose-2,6-bisphosphate. The primary structure of PFKFB2 consists of a single polypeptide chain, with the human orthologue revealing residues 31-450 and the bovine orthologue showing residues 28-450, though some N- and C-terminal residues are disordered (Crochet2016Crystal). 
+
+The secondary structure includes typical alpha-helices and beta-sheets, forming a head-to-head homodimer arrangement in its quaternary structure (Crochet2016Crystal). Each monomer is divided into four regions: the 6-phosphofructo-2-kinase (2-Kase) domain, the fructose-2,6-bisphosphatase (2-Pase) domain, and two regulatory domains (Crochet2016Crystal). The catalytic domains are highly conserved across different tissue isoforms, with sequence identity ranging from 76-83% (Crochet2016Crystal).
+
+Citrate acts as an inhibitor by binding to the fructose-6-phosphate pocket of the 2-Kase domain, influencing ATP binding and altering the binding mode of ATP analogues (Crochet2016Crystal). The presence of phosphorylated histidine suggests a stable phosphor-histidine state, indicating a common post-translational modification (Crochet2016Crystal).
+
+## Function
+The PFKFB2 gene encodes an enzyme that plays a critical role in regulating glycolysis in healthy human cells by controlling the levels of fructose-2,6-bisphosphate (Fru-2,6-BP), a potent activator of phosphofructokinase-1 (PFK-1) (Houddane2017Role). This regulation is crucial for maintaining cellular energy metabolism, particularly in tissues such as the heart and brain, where PFKFB2 is predominantly expressed (Minchenko2003Hypoxic). 
+
+In the heart, PFKFB2 is activated by phosphorylation through various kinases, including protein kinase B (PKB/Akt), which enhances its activity and promotes glycolysis by increasing Fru-2,6-BP levels (Houddane2017Role). This process is essential for meeting the energy demands of cardiac cells, especially under conditions of increased workload or stress (Houddane2017Role). 
+
+PFKFB2 also responds to hypoxic conditions, where its expression is modulated to adapt to reduced oxygen availability, although this response varies across different tissues (Minchenko2003Hypoxic). The enzyme's dual kinase and phosphatase activities allow it to balance the synthesis and degradation of Fru-2,6-BP, thus finely tuning glycolytic flux in response to cellular and environmental cues (Houddane2017Role).
+
+## Clinical Significance
+PFKFB2 has been implicated in various diseases and conditions due to its role in regulating glycolysis. In well-differentiated thyroid carcinomas (WDTC), hypomethylation of the PFKFB2 promoter is associated with a higher risk of recurrence and poor prognosis. This hypomethylation serves as an independent marker for relapse risk, with a hazard ratio of 3.2, indicating its potential as a prognostic marker in thyroid cancer (Camargo2019PFKFB2).
+
+In lung cancer, particularly non-small cell lung cancer (NSCLC), PFKFB2 expression is upregulated, contributing to increased cell proliferation, migration, and the Warburg effect, which is characterized by enhanced glycolysis. Shikonin, a compound with anti-cancer properties, has been shown to downregulate PFKFB2 expression, leading to reduced glycolysis and cancer cell proliferation, suggesting PFKFB2 as a potential therapeutic target (Sha2021Shikonin).
+
+In renal fibrosis, mutations at the regulatory phosphorylation sites of PFKFB2 have been studied. These mutations result in reduced glycolysis and are associated with increased renal fibrosis in certain models. However, the anti-fibrotic effects of metformin are not affected by these mutations, indicating that PFKFB2's role in glycolysis regulation may not be critical for metformin's action in reducing fibrosis (Lee2020Mutation; Harley2023Mutation).
+
+## Interactions
+PFKFB2 interacts with various proteins that modulate its activity, influencing glycolytic flux and cellular metabolism. It can be phosphorylated by several protein kinases, including 3-phosphoinositide-dependent kinase-1 (PDPK-1), AMP-activated protein kinase (AMPK), protein kinase A (PKA), protein kinase B (PKB/Akt), mitogen-activated protein kinase 1 (MAPK-1), and p90 ribosomal S6 kinase (RSK) (Kotowski2021Role). These phosphorylation events can alter the enzyme's activity, affecting the balance between its kinase and phosphatase functions.
+
+In the heart, insulin activates PFKFB2 through a pathway involving phosphatidylinositol-3-kinase (PI3K) and PKBα, leading to increased glycolysis. This activation is mediated by the binding of 14-3-3 proteins to phosphorylated Ser483 in response to insulin or IGF-1 (Houddane2017Role). Adrenaline also activates PFKFB2 in the heart by phosphorylating Ser466 and Ser483 via PKA (Houddane2017Role).
+
+Citrate, a TCA cycle intermediate, binds to the fructose-6-phosphate pocket of the 2-Kase domain of PFKFB2, inhibiting ATP binding and thus affecting its kinase activity. This binding is competitive for fructose-6-phosphate and noncompetitive for ATP, suggesting a unique inhibition mechanism (Crochet2016Crystal).
+
+
+## References
+
+
+[1. (Crochet2016Crystal) Robert B. Crochet, Jeong‐Do Kim, Herie Lee, Young‐Sun Yim, Song‐Gun Kim, David Neau, and Yong‐Hwan Lee. Crystal structure of heart 6‐phosphofructo‐2‐kinase/fructose‐2,6‐bisphosphatase (pfkfb2) and the inhibitory influence of citrate on substrate binding. Proteins: Structure, Function, and Bioinformatics, 85(1):117–124, November 2016. URL: http://dx.doi.org/10.1002/prot.25204, doi:10.1002/prot.25204. This article has 20 citations.](https://doi.org/10.1002/prot.25204)
+
+[2. (Harley2023Mutation) Geoff Harley, Marina Katerelos, Kurt Gleich, Mardiana Lee, Peter F. Mount, and David A. Power. Mutation of regulatory phosphorylation sites in pfkfb2 does not affect the anti-fibrotic effect of metformin in the kidney. PLOS ONE, 18(2):e0280792, February 2023. URL: http://dx.doi.org/10.1371/journal.pone.0280792, doi:10.1371/journal.pone.0280792. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0280792)
+
+[3. (Sha2021Shikonin) Liying Sha, Zhiqiang Lv, Yujun Liu, Yun Zhang, Xin Sui, Teng Wang, and Hui Zhang. Shikonin inhibits the warburg effect, cell proliferation, invasion and migration by downregulating pfkfb2 expression in lung cancer. Molecular Medicine Reports, June 2021. URL: http://dx.doi.org/10.3892/mmr.2021.12199, doi:10.3892/mmr.2021.12199. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/mmr.2021.12199)
+
+[4. (Lee2020Mutation) Mardiana Lee, Geoff Harley, Marina Katerelos, Kurt Gleich, Mitchell A. Sullivan, Adrienne Laskowski, Melinda Coughlan, Scott A. Fraser, Peter F. Mount, and David A. Power. Mutation of regulatory phosphorylation sites in pfkfb2 worsens renal fibrosis. Scientific Reports, September 2020. URL: http://dx.doi.org/10.1038/s41598-020-71475-z, doi:10.1038/s41598-020-71475-z. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-020-71475-z)
+
+[5. (Camargo2019PFKFB2) Mateus Camargo Barros-Filho, Larissa Barreto Menezes de Lima, Mariana Bisarro dos Reis, Julia Bette Homem de Mello, Caroline Moraes Beltrami, Clóvis Antonio Lopes Pinto, Luiz Paulo Kowalski, and Silvia Regina Rogatto. Pfkfb2 promoter hypomethylation as recurrence predictive marker in well-differentiated thyroid carcinomas. International Journal of Molecular Sciences, 20(6):1334, March 2019. URL: http://dx.doi.org/10.3390/ijms20061334, doi:10.3390/ijms20061334. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms20061334)
+
+[6. (Kotowski2021Role) Krzysztof Kotowski, Jakub Rosik, Filip Machaj, Stanisław Supplitt, Daniel Wiczew, Karolina Jabłońska, Emilia Wiechec, Saeid Ghavami, and Piotr Dzięgiel. Role of pfkfb3 and pfkfb4 in cancer: genetic basis, impact on disease development/progression, and potential as therapeutic targets. Cancers, 13(4):909, February 2021. URL: http://dx.doi.org/10.3390/cancers13040909, doi:10.3390/cancers13040909. This article has 80 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13040909)
+
+[7. (Houddane2017Role) Amina Houddane, Laurent Bultot, Laura Novellasdemunt, Manuel Johanns, Marie-Agnès Gueuning, Didier Vertommen, Pierre G. Coulie, Ramon Bartrons, Louis Hue, and Mark H. Rider. Role of akt/pkb and pfkfb isoenzymes in the control of glycolysis, cell proliferation and protein synthesis in mitogen-stimulated thymocytes. Cellular Signalling, 34:23–37, June 2017. URL: http://dx.doi.org/10.1016/j.cellsig.2017.02.019, doi:10.1016/j.cellsig.2017.02.019. This article has 53 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2017.02.019)
+
+[8. (Minchenko2003Hypoxic) Oleksandr Minchenko, Iryna Opentanova, and Jaime Caro. Hypoxic regulation of the 6‐phosphofructo‐2‐kinase/fructose‐2,6‐bisphosphatase gene family (pfkfb‐1–4) expression in vivo. FEBS Letters, 554(3):264–270, October 2003. URL: http://dx.doi.org/10.1016/s0014-5793(03)01179-7, doi:10.1016/s0014-5793(03)01179-7. This article has 169 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0014-5793(03)01179-7)

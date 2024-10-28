@@ -1,0 +1,43 @@
+# CHMP4C
+
+## Overview
+CHMP4C is a gene that encodes the protein charged multivesicular body protein 4C, a critical component of the endosomal sorting complex required for transport III (ESCRT-III). This protein plays a pivotal role in cellular processes such as cytokinesis and the mitotic spindle checkpoint, ensuring proper cell division and genomic stability. As a part of the ESCRT-III complex, CHMP4C is involved in the regulation of abscission timing during cell division, particularly through its interaction with the Chromosomal Passenger Complex and the Aurora B kinase, which is essential for the abscission checkpoint (Carlton2012ESCRTIII). Additionally, CHMP4C's interactions with proteins such as ALIX highlight its role in membrane dynamics and division control (McCullough2008ALIXCHMP4). Alterations in the expression or function of CHMP4C have been linked to various cancers, where it influences tumor progression and patient prognosis (Sadler2018A; Zhang2023CHMP4C).
+
+## Function
+CHMP4C is a component of the ESCRT-III complex, playing a crucial role in cytokinesis, particularly in the regulation of abscission timing during cell division. It is involved in the Aurora B-dependent abscission checkpoint, which prevents premature cytokinesis and potential genetic damage by coordinating the resolution of intercellular chromatin bridges (Carlton2012ESCRTIII). CHMP4C localizes to the midbody during late cytokinesis and is directed to the central Flemming body, where it interacts with the Chromosomal Passenger Complex via Borealin. This interaction is regulated by phosphorylation at serine 210 by Aurora B, which is essential for its function in the abscission checkpoint (Carlton2012ESCRTIII).
+
+In addition to its role in cytokinesis, CHMP4C is involved in the mitotic spindle checkpoint. It localizes to kinetochores during prometaphase, promoting stable kinetochore-microtubule attachments and ensuring accurate chromosome alignment and segregation. CHMP4C acts as a loading factor for the RZZ and Mad1-Mad2 complexes, preventing their premature removal and maintaining spindle checkpoint integrity (Petsalaki2018The). This function is crucial for preventing aneuploidy and maintaining genomic stability in human cells (Petsalaki2018The).
+
+## Clinical Significance
+Mutations and altered expression of the CHMP4C gene have been implicated in various cancers. A polymorphism in CHMP4C, specifically the T232 allele, is associated with increased susceptibility to ovarian cancer and other cancers. This variant disrupts the abscission checkpoint, leading to genomic instability and aneuploidy, particularly when combined with p53 loss, contributing to tumorigenesis (Sadler2018A).
+
+In prostate cancer, CHMP4C is overexpressed and correlates with poor prognosis, including reduced disease-free and progression-free survival. Its expression is linked to cell cycle regulation and immune function, affecting responses to immunotherapy and certain chemotherapeutic agents (Zhang2023CHMP4C).
+
+CHMP4C is also upregulated in lung adenocarcinoma, where it promotes cell proliferation and migration, and is associated with poor clinical outcomes. Its expression influences drug sensitivity, making it a potential target for precision medicine (Xu2024The).
+
+In cervical cancer, CHMP4C facilitates malignant progression by activating the epithelial-mesenchymal transition pathway, enhancing cell invasion and migration. Its high expression is linked to poor survival rates (Lin2020Chromatin).
+
+## Interactions
+CHMP4C, a component of the ESCRT-III complex, is involved in several critical protein interactions that regulate cell division and maintain genomic stability. It interacts with Borealin, a component of the Chromosomal Passenger Complex (CPC), through its C-terminus, and this interaction is crucial for the Aurora B-dependent NoCut abscission checkpoint (Carlton2012ESCRTIII). CHMP4C also co-precipitates with Aurora B, indicating a direct physical interaction, and is phosphorylated by Aurora B at the S210 residue, which is essential for its localization to the Flemming body and regulation of abscission timing (Capalbo2012The; Carlton2012ESCRTIII).
+
+CHMP4C interacts with the ALIX protein, a key player in the ESCRT pathway, through its C-terminal region. This interaction is mediated by the Bro1 domain of ALIX, which binds to the amphipathic C-terminal helices of CHMP4C, involving critical hydrophobic residues (McCullough2008ALIXCHMP4). These interactions are vital for processes such as cytokinesis and viral budding, where ALIX recruits CHMP4C to facilitate membrane remodeling and fission. CHMP4C's interactions with these proteins underscore its role in cellular processes that require precise membrane dynamics and division control.
+
+
+## References
+
+
+[1. (Lin2020Chromatin) Shu‐Li Lin, Mei Wang, Qing‐Qing Cao, and Qing Li. Chromatin modified protein 4c (chmp4c) facilitates the malignant development of cervical cancer cells. FEBS Open Bio, 10(7):1295–1303, May 2020. URL: http://dx.doi.org/10.1002/2211-5463.12880, doi:10.1002/2211-5463.12880. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/2211-5463.12880)
+
+[2. (Zhang2023CHMP4C) Hongtuan Zhang, Dongze Liu, Zheng Qin, Bocun Yi, Liang Zhu, Shengxian Xu, Kaibin Wang, Shaobo Yang, Ranlu Liu, Kuo Yang, and Yong Xu. Chmp4c as a novel marker regulates prostate cancer progression through cycle pathways and contributes to immunotherapy. Frontiers in Oncology, June 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1170397, doi:10.3389/fonc.2023.1170397. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1170397)
+
+[3. (Petsalaki2018The) Eleni Petsalaki, Maria Dandoulaki, and George Zachos. The escrt protein chmp4c regulates mitotic spindle checkpoint signaling. Journal of Cell Biology, 217(3):861–876, January 2018. URL: http://dx.doi.org/10.1083/jcb.201709005, doi:10.1083/jcb.201709005. This article has 23 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201709005)
+
+[4. (McCullough2008ALIXCHMP4) John McCullough, Robert D. Fisher, Frank G. Whitby, Wesley I. Sundquist, and Christopher P. Hill. Alix-chmp4 interactions in the human escrt pathway. Proceedings of the National Academy of Sciences, 105(22):7687–7691, June 2008. URL: http://dx.doi.org/10.1073/pnas.0801567105, doi:10.1073/pnas.0801567105. This article has 198 citations.](https://doi.org/10.1073/pnas.0801567105)
+
+[5. (Capalbo2012The) Luisa Capalbo, Emilie Montembault, Tetsuya Takeda, Zuni I. Bassi, David M. Glover, and Pier Paolo D’Avino. The chromosomal passenger complex controls the function of endosomal sorting complex required for transport-iii snf7 proteins during cytokinesis. Open Biology, 2(5):120070, May 2012. URL: http://dx.doi.org/10.1098/rsob.120070, doi:10.1098/rsob.120070. This article has 112 citations and is from a peer-reviewed journal.](https://doi.org/10.1098/rsob.120070)
+
+[6. (Sadler2018A) Jessica B. A. Sadler, Dawn M. Wenzel, Lauren K. Strohacker, Marta Guindo-Martínez, Steven L. Alam, Josep M. Mercader, David Torrents, Katharine S. Ullman, Wesley I. Sundquist, and Juan Martin-Serrano. A cancer-associated polymorphism in escrt-iii disrupts the abscission checkpoint and promotes genome instability. Proceedings of the National Academy of Sciences, September 2018. URL: http://dx.doi.org/10.1073/pnas.1805504115, doi:10.1073/pnas.1805504115. This article has 53 citations.](https://doi.org/10.1073/pnas.1805504115)
+
+7. (Xu2024The) The role and mechanism of CHMP4C in poor prognosis and drug sensitivity of lung adenocarcinoma. This article has 0 citations.
+
+[8. (Carlton2012ESCRTIII) Jeremy G. Carlton, Anna Caballe, Monica Agromayor, Magdalena Kloc, and Juan Martin-Serrano. Escrt-iii governs the aurora b–mediated abscission checkpoint through chmp4c. Science, 336(6078):220–225, April 2012. URL: http://dx.doi.org/10.1126/science.1217180, doi:10.1126/science.1217180. This article has 255 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1217180)

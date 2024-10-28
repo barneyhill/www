@@ -1,0 +1,41 @@
+# CASC3
+
+## Overview
+CASC3, also known as MLN51, is a gene that encodes a protein component of the exon junction complex (EJC), which is integral to post-transcriptional gene expression regulation in metazoans. The CASC3 protein is primarily involved in nonsense-mediated mRNA decay (NMD), a critical quality control mechanism that targets and degrades mRNAs containing premature termination codons. Unlike other EJC components, CASC3 is not essential for EJC assembly or splicing regulation within the nucleus but functions predominantly in the cytoplasm to enhance NMD efficiency. It achieves this by maintaining NMD-competent EJCs and facilitating the SMG6-dependent turnover of NMD targets. CASC3 interacts with various proteins, including EIF4A3 and components of the SURF complex, to promote UPF1-dependent degradation pathways, thereby influencing mRNA stability and degradation. Its role in NMD and interactions with other proteins underscore its importance in maintaining cellular mRNA quality control (Schlautmann2020A; Gerbracht2020CASC3).
+
+## Function
+The CASC3 gene encodes a protein that is a component of the exon junction complex (EJC), which plays a crucial role in post-transcriptional gene expression processes in metazoans. CASC3 is primarily involved in nonsense-mediated decay (NMD), a quality control mechanism that degrades mRNAs containing premature termination codons (PTCs). It promotes the degradation of EJC-dependent NMD substrates by maintaining NMD-competent EJCs in the cytoplasm and stimulating SMG6-dependent turnover of NMD targets (Gerbracht2020CASC3).
+
+CASC3 is not required for EJC assembly or EJC-regulated splicing in the nucleus but functions in the cytoplasm to enhance the efficiency of NMD by promoting the degradation of transcripts that have evaded initial NMD activation (Gerbracht2020CASC3). It interacts with the SURF complex and facilitates UPF1-dependent degradation pathways, contributing to the stability and degradation of NMD-sensitive transcripts (Gerbracht2020CASC3).
+
+In CASC3 knockout cells, there is an accumulation of mRNA isoforms targeted by NMD, indicating its critical role in this decay pathway (Gerbracht2020CASC3). CASC3's function in NMD is further supported by its ability to stimulate SMG6-dependent endonucleolytic cleavage, a key step in the NMD pathway (Gerbracht2020CASC3).
+
+## Clinical Significance
+Alterations in the expression of the CASC3 gene, a component of the exon junction complex, have been implicated in various diseases, particularly cancer. In hepatocellular carcinoma (HCC), CASC3 is upregulated and plays a significant role in promoting cancer progression. The circular RNA circ_0091579 interacts with microRNA-490-5p to regulate CASC3 expression, leading to increased cell proliferation, migration, invasion, and glycolysis in HCC cells. Silencing CASC3 has been shown to suppress these cancerous behaviors, indicating its potential as a therapeutic target in HCC (Liu2021Circular).
+
+In the context of neurodevelopmental disorders, CASC3 is part of the exon junction complex, which is crucial for mRNA metabolism. Although specific diseases directly linked to CASC3 mutations are not detailed, the gene's involvement in mRNA processing suggests that its dysregulation could contribute to neurodevelopmental issues. The exon junction complex, including CASC3, is implicated in neurodevelopmental disorders, highlighting the importance of proper dosage and function of these components for neuronal development (Nguyen2013Contribution; McMahon2016The).
+
+Overall, CASC3's role in cancer and potential involvement in neurodevelopmental disorders underscore its clinical significance.
+
+## Interactions
+CASC3, also known as MLN51, is a component of the exon junction complex (EJC) and participates in various interactions with proteins and nucleic acids. CASC3 interacts stably with EIF4A3, a main RNA-binding component of the EJC, and is involved in a compositional switch of the EJC during mRNA export to the cytoplasm, forming CASC3-containing monomeric EJCs (Schlautmann2020A). It also interacts with the initiation factor eIF3 via its SELOR domain, suggesting a role in recruiting eIF3 to spliced mRNAs to enhance their translation (Schlautmann2020A).
+
+CASC3 is involved in nonsense-mediated mRNA decay (NMD) by recruiting NMD factors such as UPF1, UPF2, and SMG6, which are crucial for mRNA decay (Schlautmann2020A). It stimulates SMG6-dependent endonucleolytic cleavage, a critical step in NMD, and its absence results in reduced NMD efficiency (Gerbracht2020CASC3). CASC3 also influences the stability and composition of EJCs, particularly affecting the presence of UPF3B, a factor linking the EJC to the NMD machinery (Gerbracht2020CASC3).
+
+CASC3 forms structurally distinct complexes compared to RNPS1, another EJC component, and primarily interacts with the EJC core proteins EIF4A3 and MAGOH (Mabin2018The). It is mainly detected in lower molecular weight complexes, likely EJC monomers, and binds to RNA via the EJC core at the canonical EJC binding site 24 nucleotides upstream of exon junctions (Mabin2018The).
+
+
+## References
+
+
+[1. (Schlautmann2020A) Lena P. Schlautmann and Niels H. Gehring. A day in the life of the exon junction complex. Biomolecules, 10(6):866, June 2020. URL: http://dx.doi.org/10.3390/biom10060866, doi:10.3390/biom10060866. This article has 64 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom10060866)
+
+[2. (Nguyen2013Contribution) Lam S. Nguyen, Hyung-Goo Kim, Jill A. Rosenfeld, Yiping Shen, James F. Gusella, Yves Lacassie, Lawrence C. Layman, Lisa G. Shaffer, and Jozef Gécz. Contribution of copy number variants involving nonsense-mediated mrna decay pathway genes to neuro-developmental disorders. Human Molecular Genetics, 22(9):1816–1825, January 2013. URL: http://dx.doi.org/10.1093/hmg/ddt035, doi:10.1093/hmg/ddt035. This article has 121 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddt035)
+
+[3. (Gerbracht2020CASC3) Jennifer V Gerbracht, Volker Boehm, Thiago Britto-Borges, Sebastian Kallabis, Janica L Wiederstein, Simona Ciriello, Dominik U Aschemeier, Marcus Krüger, Christian K Frese, Janine Altmüller, Christoph Dieterich, and Niels H Gehring. Casc3 promotes transcriptome-wide activation of nonsense-mediated decay by the exon junction complex. Nucleic Acids Research, 48(15):8626–8644, July 2020. URL: http://dx.doi.org/10.1093/nar/gkaa564, doi:10.1093/nar/gkaa564. This article has 34 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkaa564)
+
+4. (Mabin2018The) The exon junction complex undergoes a compositional switch that alters mRNP structure and nonsense-mediated mRNA decay activity. This article has 0 citations.
+
+[5. (Liu2021Circular) Wei Liu, Changbin Yin, and Yue Liu. Circular rna circ_0091579 promotes hepatocellular carcinoma proliferation, migration, invasion, and glycolysis through mir-490-5p/casc3 axis. Cancer Biotherapy and Radiopharmaceuticals, 36(10):863–878, December 2021. URL: http://dx.doi.org/10.1089/cbr.2019.3472, doi:10.1089/cbr.2019.3472. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1089/cbr.2019.3472)
+
+[6. (McMahon2016The) J.J. McMahon, E.E. Miller, and D.L. Silver. The exon junction complex in neural development and neurodevelopmental disease. International Journal of Developmental Neuroscience, 55(1):117–123, April 2016. URL: http://dx.doi.org/10.1016/j.ijdevneu.2016.03.006, doi:10.1016/j.ijdevneu.2016.03.006. This article has 49 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ijdevneu.2016.03.006)

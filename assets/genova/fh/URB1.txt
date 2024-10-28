@@ -1,0 +1,37 @@
+# URB1
+
+## Overview
+URB1 is a gene that encodes the URB1 ribosome biogenesis homolog, a protein integral to the process of ribosome assembly, specifically the formation of the 60S ribosomal subunit. This protein is categorized as a ribosome biogenesis factor and is predominantly active in the nucleolus, where it collaborates with other assembly factors to ensure the proper maturation and function of ribosomal subunits. The URB1 protein plays a critical role in maintaining cellular homeostasis by facilitating efficient protein synthesis, which is essential for cell growth, division, and response to stress. Dysregulation of URB1 has been linked to various pathological conditions, including colorectal cancer, where it is implicated in tumor progression through its involvement in the mTORC1 signaling pathway and transcriptional regulation networks (Wang2020Ribosome; Wang2019RAPTOR).
+
+## Function
+The URB1 gene encodes a protein that plays a crucial role in ribosome biogenesis, a fundamental process for protein synthesis in cells. In healthy human cells, URB1 functions as a ribosome assembly factor, primarily active in the nucleolus, where it is involved in the assembly of the 60S ribosomal subunit. This subunit is essential for the synthesis of proteins, as it catalyzes peptide bond formation during translation (Wang2020Ribosome).
+
+URB1 is part of a complex network of ribosome biogenesis factors that ensure the proper assembly and maturation of ribosomal subunits. It associates with other ribosome assembly factors to facilitate the early steps of 60S subunit assembly, which is critical for maintaining normal cellular functions and supporting cell growth (Wang2020Ribosome). The protein's activity in the nucleolus underscores its importance in regulating protein synthesis, which is necessary for various cellular processes, including cell cycle progression and response to cellular stress (Wang2020Ribosome).
+
+By ensuring efficient ribosome assembly, URB1 helps maintain cellular homeostasis and prevents uncontrolled cell proliferation, highlighting its essential role in normal cell growth and function (Wang2020Ribosome).
+
+## Clinical Significance
+Alterations in the expression of the URB1 gene have been implicated in the progression of colorectal cancer (CRC). URB1 is overexpressed in CRC tissues compared to normal tissues, and its high expression is associated with poor tumor differentiation and advanced cancer stages (Wang2020Ribosome). The gene contributes to CRC proliferation through the transcriptional activation of activating transcription factor 4 (ATF4), a process that is mediated by the transcription factor XBP1, suggesting a URB1-XBP1-ATF4 regulatory axis (Wang2020Ribosome). Silencing URB1 in CRC cells reduces carcinogenesis by inhibiting proliferation and inducing apoptosis, indicating its role as an oncogenic driver (Wang2020Ribosome).
+
+URB1 is also involved in the mTORC1/RAPTOR signaling pathway, which is crucial for CRC cell proliferation. RAPTOR overexpression leads to increased URB1 levels, promoting CRC progression, while RAPTOR silencing results in decreased URB1 expression and reduced tumor growth (Wang2019RAPTOR). This suggests that the mTORC1/RAPTOR-URB1 axis plays a significant role in CRC tumorigenesis and could be a potential target for therapeutic interventions (Wang2019RAPTOR).
+
+In zebrafish, mutations in the URB1 gene result in hypoplastic digestive organs due to impaired cell proliferation, highlighting its importance in organ development (He2017Ribosome). These findings suggest that URB1 mutations or dysregulation can lead to developmental defects and contribute to cancer progression.
+
+## Interactions
+URB1, a ribosome biogenesis protein, is involved in various interactions essential for ribosomal subunit assembly. In Saccharomyces cerevisiae, URB1, also known as Npa1p, is part of a low-molecular-mass complex that includes Dbp6p, Nop8p, and Rsa3p. This complex is involved in the early steps of 60S ribosomal subunit biogenesis and is independent of RNA, as it remains intact after RNase treatment (Rosado2007Characterization). The complex is released from pre-60S ribosomal particles, indicating a role in the early assembly of these subunits (Rosado2007Characterization).
+
+In zebrafish, URB1 acts downstream of the mTORC1 signaling pathway, interacting with components such as mTOR and raptor. Knockdown of mTOR or raptor decreases URB1 expression, but overexpression of URB1 can rescue the resulting phenotypes, suggesting a regulatory interaction in digestive organ development (He2017Ribosome). This interaction highlights URB1's role in modulating protein synthesis and ribosomal subunit assembly, crucial for organogenesis (He2017Ribosome).
+
+In colorectal cancer, URB1 is implicated in the transcriptional activation of ATF4, mediated by the transcription factor XBP1, which binds to the ATF4 promoter. This interaction forms part of the URB1-XBP1-ATF4 axis, contributing to cancer cell proliferation (Wang2020Ribosome).
+
+
+## References
+
+
+[1. (He2017Ribosome) Jia He, Yun Yang, Junren Zhang, Jinzi Chen, Xiangyong Wei, Jianbo He, and Lingfei Luo. Ribosome biogenesis protein urb1 acts downstream of mtor complex 1 to modulate digestive organ development in zebrafish. Journal of Genetics and Genomics, 44(12):567–576, December 2017. URL: http://dx.doi.org/10.1016/j.jgg.2017.09.013, doi:10.1016/j.jgg.2017.09.013. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jgg.2017.09.013)
+
+[2. (Wang2020Ribosome) Tao Wang, Lai‐Yuan Li, Yi‐Feng Chen, Si‐Wu Fu, Zhi‐Wei Wu, Bin‐Bin Du, Xiong‐Fei Yang, Wei‐Sheng Zhang, Xiang‐Yong Hao, and Tian‐Kang Guo. Ribosome assembly factor urb1 contributes to colorectal cancer proliferation through transcriptional activation of atf4. Cancer Science, 112(1):101–116, December 2020. URL: http://dx.doi.org/10.1111/cas.14643, doi:10.1111/cas.14643. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/cas.14643)
+
+[3. (Wang2019RAPTOR) Tao Wang, Wei‐Sheng Zhang, Zheng‐Xia Wang, Zhi‐Wei Wu, Bin‐Bin Du, Lai‐Yuan Li, Yi‐Feng Chen, Xiong‐Fei Yang, Xiang‐Yong Hao, and Tian‐Kang Guo. Raptor promotes colorectal cancer proliferation by inducing mtorc1 and upregulating ribosome assembly factor urb1. Cancer Medicine, 9(4):1529–1543, December 2019. URL: http://dx.doi.org/10.1002/cam4.2810, doi:10.1002/cam4.2810. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/cam4.2810)
+
+[4. (Rosado2007Characterization) Iván V. Rosado, Christophe Dez, Simon Lebaron, Michèle Caizergues-Ferrer, Yves Henry, and Jesús de la Cruz. Characterization of saccharomyces cerevisiae npa2p (urb2p) reveals a low-molecular-mass complex containing dbp6p, npa1p (urb1p), nop8p, and rsa3p involved in early steps of 60s ribosomal subunit biogenesis. Molecular and Cellular Biology, 27(4):1207–1221, February 2007. URL: http://dx.doi.org/10.1128/MCB.01523-06, doi:10.1128/mcb.01523-06. This article has 84 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.01523-06)

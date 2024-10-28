@@ -1,0 +1,31 @@
+# ZNF280D
+
+## Overview
+ZNF280D is a gene that encodes the zinc finger protein 280D, which is a member of the zinc finger protein family known for their role in DNA binding and transcriptional regulation. Zinc finger proteins are characterized by the presence of zinc finger motifs, which facilitate interactions with DNA, RNA, or other proteins. ZNF280D has been identified as a chromatin-associated protein, specifically interacting with chromatin marked by the histone modification H3K9me3, suggesting its involvement in chromatin remodeling and gene expression regulation (Villaseñor2020ChromID). The protein's association with various diseases, including familial dysautonomia, head and neck squamous cell carcinoma, and glioblastoma, underscores its potential clinical significance as a biomarker and its role in disease progression (Yadav2024Exosomal; Boone2012Genomewide; Li2021Genomewide). Further research is needed to fully elucidate the functional mechanisms and interactions of ZNF280D in cellular processes.
+
+## Function
+
+
+## Clinical Significance
+ZNF280D has been implicated in several diseases due to alterations in its expression levels and splicing events. In familial dysautonomia (FD), kinetin treatment affects the expression of ZNF280D by modulating mRNA splicing. This leads to downregulation of ZNF280D, potentially through nonsense-mediated mRNA decay, as kinetin enhances the recognition of specific 5' splice sites (Boone2012Genomewide).
+
+In head and neck squamous cell carcinoma (HNSCC), high levels of ZNF280D transcript are associated with poor patient survival, suggesting its potential role as a prognostic biomarker (Yadav2024Exosomal). ZNF280D is also abundant in exosomes derived from both HPV-positive and HPV-negative HNSCC cells, indicating its involvement in the tumor microenvironment, although its specific role in cancer progression remains unclear (Yadav2024Exosomal).
+
+In glioblastoma (GBM), ZNF280D is involved in significant alternative splicing events, particularly alternate promoter events, which correlate with patient survival. These splicing events may contribute to the development and progression of GBM, highlighting the clinical importance of ZNF280D in this context (Li2021Genomewide).
+
+## Interactions
+ZNF280D, a zinc finger protein, has been identified as interacting with chromatin marked by the histone modification H3K9me3. This interaction was discovered using ChromID, a method that employs engineered chromatin readers fused to promiscuous biotin ligases to identify proteins associated with specific chromatin marks. ZNF280D was among the 58 high-confidence proteins associated with H3K9me3, alongside known factors such as SETDB1, EHMT1, and EHMT2. The localization of ZNF280D to H3K9me3-marked chromatin was validated through endogenous tagging in mouse embryonic stem cells and subsequent biotin ChIP-seq analysis, which confirmed its strong preference for these sites (Villaseñor2020ChromID).
+
+The study did not provide detailed information on ZNF280D's interactions with other proteins or nucleic acids beyond its association with H3K9me3-marked chromatin. However, the identification of ZNF280D in this context suggests it may play a role in chromatin-related processes, potentially influencing gene expression through its interactions with chromatin marks (Villaseñor2020ChromID). Further research would be necessary to elucidate the specific protein-protein or protein-nucleic acid interactions involving ZNF280D.
+
+
+## References
+
+
+[1. (Yadav2024Exosomal) Joni Yadav, Apoorva Chaudhary, Tanya Tripathi, Divya Janjua, Udit Joshi, Nikita Aggarwal, Arun Chhokar, Chetkar Chandra Keshavam, Anna Senrung, and Alok Chandra Bharti. Exosomal transcript cargo and functional correlation with hnscc patients’ survival. BMC Cancer, September 2024. URL: http://dx.doi.org/10.1186/s12885-024-12759-9, doi:10.1186/s12885-024-12759-9. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-024-12759-9)
+
+[2. (Villaseñor2020ChromID) Rodrigo Villaseñor, Ramon Pfaendler, Christina Ambrosi, Stefan Butz, Sara Giuliani, Elana Bryan, Thomas W. Sheahan, Annika L. Gable, Nina Schmolka, Massimiliano Manzo, Joël Wirz, Christian Feller, Christian von Mering, Ruedi Aebersold, Philipp Voigt, and Tuncay Baubec. Chromid identifies the protein interactome at chromatin marks. Nature Biotechnology, 38(6):728–736, March 2020. URL: http://dx.doi.org/10.1038/s41587-020-0434-2, doi:10.1038/s41587-020-0434-2. This article has 101 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41587-020-0434-2)
+
+[3. (Boone2012Genomewide) Nathalie Boone, Aurélie Bergon, Béatrice Loriod, Arnaud Devèze, Catherine Nguyen, Felicia B Axelrod, and El Chérif Ibrahim. Genome-wide analysis of familial dysautonomia and kinetin target genes with patient olfactory ecto-mesenchymal stem cells. Human Mutation, 33(3):530–540, January 2012. URL: http://dx.doi.org/10.1002/humu.22010, doi:10.1002/humu.22010. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.22010)
+
+[4. (Li2021Genomewide) Youwei Li and Dongsheng Guo. Genome-wide profiling of alternative splicing in glioblastoma and their clinical value. BMC Cancer, August 2021. URL: http://dx.doi.org/10.1186/s12885-021-08681-z, doi:10.1186/s12885-021-08681-z. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-021-08681-z)

@@ -1,0 +1,42 @@
+# MRNIP
+
+## Overview
+The MRNIP gene encodes the MRN complex interacting protein, a critical component in the cellular DNA damage response and replication fork protection mechanisms. This protein is characterized by a zinc finger-like N-terminal domain and a C-terminal region with intrinsically disordered sequences, which facilitate its interaction with the MRN complex, comprising MRE11, RAD50, and NBS1 (Bennett2020MRNIP). MRNIP plays a pivotal role in maintaining genomic stability by modulating the exonuclease activity of MRE11, thereby protecting nascent DNA at replication forks and enhancing the MRN complex's ability to bind damaged DNA and activate ATM kinase (Wang2022MRNIP; Bennett2020MRNIP). The protein's function is crucial for the repair of DNA double-strand breaks through homologous recombination, an error-free repair pathway, and its absence leads to increased DNA damage and sensitivity to replication stress (Bennett2020MRNIP). MRNIP's clinical significance is underscored by its altered expression in various cancers, where it may influence tumor progression and response to therapies (Staples2016MRNIPC5orf45).
+
+## Structure
+The MRNIP protein is a 37-kDa protein characterized by a zinc finger-like N-terminal domain and a C-terminal region with intrinsically disordered sequences (Bennett2020MRNIP). The zinc finger-like domain is predicted to coordinate a metal ion, although this coordination is not essential for MRNIP's function in replication fork protection (Bennett2020MRNIP). The C-terminal disordered region may become more ordered upon binding to a partner protein (Bennett2020MRNIP). 
+
+MRNIP interacts with the MRE11:RAD50 complex, specifically repressing the exonuclease activity of MRE11, which is crucial for protecting nascent DNA at replication forks (Bennett2020MRNIP). The interaction between MRNIP and MRE11 involves multiple binding surfaces, as neither the deletion of the N-terminal nor the C-terminal region completely abolishes the interaction (Bennett2020MRNIP). 
+
+Despite its structural features, the interaction between MRNIP and MRE11 is largely independent of PARP function, as demonstrated by experiments with alanine substitution of metal ion-coordinating cysteine residues and olaparib treatment (Bennett2020MRNIP). The exact molecular structure of MRNIP bound to the MR complex remains to be elucidated (Bennett2020MRNIP).
+
+## Function
+The MRNIP gene encodes a protein that plays a crucial role in the DNA damage response and replication fork protection in healthy human cells. MRNIP interacts with the MRN complex, which consists of MRE11, RAD50, and NBS1, facilitating the repair of DNA double-strand breaks (DSBs) through homologous recombination, an error-free repair pathway. MRNIP forms liquid-like condensates that enhance the MRN complex's ability to bind to damaged DNA and activate the ATM kinase, a key player in DNA damage response signaling (Wang2022MRNIP).
+
+MRNIP also plays a significant role in protecting replication forks by directly interacting with the MRE11 component of the MRN complex. It specifically suppresses MRE11's exonuclease activity, preventing the degradation of nascent DNA at replication forks, which is crucial for maintaining genome stability during DNA replication (Bennett2020MRNIP). MRNIP's function in replication fork protection is independent of its zinc finger motif, indicating that its protective role involves multiple binding surfaces (Bennett2020MRNIP).
+
+In the absence of MRNIP, cells exhibit increased DNA damage, impaired replication fork progression, and heightened sensitivity to replication stress agents, underscoring its essential role in maintaining genomic integrity (Bennett2020MRNIP).
+
+## Clinical Significance
+Alterations in the expression or function of the MRNIP gene have been implicated in various clinical conditions, particularly in the context of cancer. MRNIP is downregulated in several cancers, including head and neck squamous cell carcinoma, and is amplified in renal clear cell carcinomas. This suggests that changes in MRNIP expression may contribute to cancer development and progression (Staples2016MRNIPC5orf45).
+
+In colorectal cancer, high MRNIP expression is associated with poor response to neoadjuvant radiotherapy, indicating a potential role in radioresistance. Targeting MRNIP condensates could enhance the effectiveness of radiotherapy, as knocking out MRNIP or disrupting its phase separation capacity sensitizes tumor cells to radiotherapy (Wang2022MRNIP).
+
+MRNIP-null mice exhibit male infertility due to high DNA damage in the testis, highlighting its role in maintaining genome stability (Staples2016MRNIPC5orf45). Loss of MRNIP function leads to increased DNA damage and sensitivity to chemotherapeutic agents like Olaparib and cisplatin, suggesting its involvement in chemosensitivity and DNA damage response in cancer therapy (Bennett2024MRNIP). These findings underscore the potential clinical significance of MRNIP in diseases related to DNA damage response deficiencies.
+
+## Interactions
+The MRNIP protein, also known as C5orf45, interacts with the MRN complex, which includes MRE11, RAD50, and NBS1, playing a significant role in the DNA damage response. MRNIP facilitates the association of the MRN complex with chromatin, promoting efficient ATM-mediated DNA damage response signaling (Staples2016MRNIPC5orf45). It interacts constitutively with the MRN complex members, as shown by co-purification with MRE11, RAD50, and NBS1, and this interaction is not enhanced by ionizing radiation (Staples2016MRNIPC5orf45). MRNIP also interacts with phosphorylated NBS1 in a dose-dependent manner following ionizing radiation (Staples2016MRNIPC5orf45).
+
+MRNIP contains a specific amino acid sequence (KELWS) homologous to a domain in CtIP, which is suggested to be a common MRN interaction motif. Deletion of this sequence results in significantly reduced binding to the MRN complex (Staples2016MRNIPC5orf45). MRNIP also undergoes liquid-liquid phase separation to form condensates that incorporate the MRN complex and relocalize to damaged DNA sites, enhancing DNA double-strand break sensing and repair (Wang2022MRNIP). Additionally, MRNIP directly binds to MRE11, suppressing its exonuclease activity, which is crucial for protecting nascent DNA at reversed replication forks (Bennett2020MRNIP).
+
+
+## References
+
+
+[1. (Wang2022MRNIP) Yun-Long Wang, Wan-Wen Zhao, Shao-Mei Bai, Li-Li Feng, Shu-Ying Bie, Li Gong, Fang Wang, Ming-Biao Wei, Wei-Xing Feng, Xiao-Lin Pang, Cao-Litao Qin, Xin-Ke Yin, Ying-Nai Wang, Weihua Zhou, Daniel R. Wahl, Quentin Liu, Ming Chen, Mien-Chie Hung, and Xiang-Bo Wan. Mrnip condensates promote dna double-strand break sensing and end resection. Nature Communications, May 2022. URL: http://dx.doi.org/10.1038/s41467-022-30303-w, doi:10.1038/s41467-022-30303-w. This article has 22 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-30303-w)
+
+[2. (Bennett2024MRNIP) Laura G Bennett, Ellen G Vernon, Vithursha Thanendran, Caryl M Jones, Amelia Gamble, and Christopher J Staples. Mrnip limits ssdna gaps during replication stress. Nucleic Acids Research, 52(14):8320–8331, June 2024. URL: http://dx.doi.org/10.1093/nar/gkae546, doi:10.1093/nar/gkae546. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkae546)
+
+[3. (Bennett2020MRNIP) L. G. Bennett, A. M. Wilkie, E. Antonopoulou, I. Ceppi, A. Sanchez, E. G. Vernon, A. Gamble, K. N. Myers, S. J. Collis, P. Cejka, and C. J. Staples. Mrnip is a replication fork protection factor. Science Advances, July 2020. URL: http://dx.doi.org/10.1126/sciadv.aba5974, doi:10.1126/sciadv.aba5974. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.aba5974)
+
+[4. (Staples2016MRNIPC5orf45) Christopher J. Staples, Giancarlo Barone, Katie N. Myers, Anil Ganesh, Ian Gibbs-Seymour, Abhijit A. Patil, Ryan D. Beveridge, Caroline Daye, Richard Beniston, Sarah Maslen, Ivan Ahel, J. Mark Skehel, and Spencer J. Collis. Mrnip/c5orf45 interacts with the mrn complex and contributes to the dna damage response. Cell Reports, 16(10):2565–2575, September 2016. URL: http://dx.doi.org/10.1016/j.celrep.2016.07.087, doi:10.1016/j.celrep.2016.07.087. This article has 19 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2016.07.087)

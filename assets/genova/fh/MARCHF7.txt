@@ -1,0 +1,37 @@
+# MARCHF7
+
+## Overview
+MARCHF7, or membrane associated ring-CH-type finger 7, is a gene that encodes an E3 ubiquitin ligase protein involved in the ubiquitination process, which is critical for protein degradation and functional modification. The MARCHF7 protein is categorized as an E3 ubiquitin ligase and is primarily associated with cellular membranes, particularly on the cytoplasmic side of the endoplasmic reticulum (ER). It plays a pivotal role in regulating protein turnover, cellular signaling, and membrane protein trafficking, thereby influencing immune responses and maintaining cellular homeostasis. MARCHF7 is implicated in various biological processes, including T cell proliferation, neuronal development, and tumor progression, and has been studied for its role in viral protein regulation, notably in the context of SARS-CoV-2 infection (Tian2024SARSCoV2).
+
+## Function
+MARCHF7, also known as membrane associated ring-CH-type finger 7, is an E3 ubiquitin ligase involved in the ubiquitination process, which tags proteins for degradation or functional modification. This protein plays a significant role in regulating protein turnover, cellular signaling, and membrane protein trafficking. MARCHF7 is active in cellular membranes, where it influences immune responses and cellular homeostasis (Tian2024SARSCoV2).
+
+In healthy human cells, MARCHF7 is known to regulate T cell proliferation, neuronal development, inflammasomes, and tumor progression. Its activity is primarily located on the cytoplasmic side of the endoplasmic reticulum (ER), where it interacts with various proteins to mediate their ubiquitination and subsequent degradation (Tian2024SARSCoV2). This regulation is crucial for maintaining cellular homeostasis and proper immune function.
+
+MARCHF7's role in ubiquitination involves the induction of specific ubiquitin linkages, such as K27-linked ubiquitination, which can lead to the degradation of target proteins. This activity is part of the broader ubiquitin-proteasome system (UPS), which is essential for controlling protein levels and ensuring the proper functioning of cellular processes (Tian2024SARSCoV2).
+
+## Clinical Significance
+MARCHF7 has been implicated in various diseases and conditions due to its role in protein degradation. In the context of SARS-CoV-2 infection, MARCHF7 is involved in the degradation of the viral nsp16 protein, which is crucial for viral replication. The knockdown of MARCHF7 leads to increased stability of nsp16, enhancing viral replication, while its overexpression reduces viral load and disease symptoms, indicating a protective role against SARS-CoV-2 (Tian2024SARSCoV2). This suggests that alterations in MARCHF7 expression could impact the severity of COVID-19.
+
+In muscle disorders such as desminopathy and titinopathy, MARCHF7 is significantly upregulated in desminopathy compared to titinopathy, with a log2 fold change of 1.870884 and a p-value of 0.002466. This upregulation may be relevant for understanding the clinical significance of MARCHF7 in muscle pathology (Li2024Common).
+
+MARCHF7 is also involved in alternative splicing events in the hippocampus during spatial learning. In MeCP2 knockdown mice, alterations in MARCHF7 splicing were observed, suggesting that changes in its expression or splicing could affect cognitive functions (Brito2020MeCP2). These findings highlight the potential clinical significance of MARCHF7 in various conditions.
+
+## Interactions
+MARCHF7, a member of the MARCH family of E3 ubiquitin ligases, is involved in the ubiquitination and degradation of proteins, playing a significant role in cellular processes. One of its key interactions is with the SARS-CoV-2 non-structural protein nsp16. MARCHF7 mediates the ubiquitination of nsp16, primarily through K27-linked ubiquitination, leading to its degradation via the ubiquitin-proteasome system. This interaction is crucial for inhibiting SARS-CoV-2 replication, as the degradation of nsp16 reduces viral mRNA levels and viral titers (Tian2024SARSCoV2).
+
+MARCHF7 operates independently of another E3 ligase, UBR5, in targeting nsp16. Both ligases can induce nsp16 degradation without requiring each other for binding, indicating distinct pathways of action. Immunofluorescence studies have shown that MARCHF7 colocalizes with nsp16 in the cytoplasm and nucleus, and interacts within the endoplasmic reticulum, as evidenced by colocalization with the ER marker PDI (Tian2024SARSCoV2).
+
+In addition to its role in viral protein regulation, MARCHF7 has been implicated in the ubiquitination of ATP7A, a protein involved in cellular copper transport. MARCHF7 is one of the predicted E3 ligases for ATP7A, suggesting its potential role in promoting ATP7A ubiquitination (Zhao2022Quantitative).
+
+
+## References
+
+
+1. (Tian2024SARSCoV2) SARS-CoV-2 nsp16 is regulated by host E3 ubiquitin ligases, UBR5 and MARCHF7. This article has 0 citations.
+
+[2. (Li2024Common) Qiuxiang Li, Liqun Xu, Huiqian Duan, Huan Yang, and Yue-Bei Luo. Common and key differential pathogenic pathways in desminopathy and titinopathy. International Journal of Medical Sciences, 21(11):2040–2051, 2024. URL: http://dx.doi.org/10.7150/ijms.97797, doi:10.7150/ijms.97797. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/ijms.97797)
+
+[3. (Zhao2022Quantitative) Sida Zhao, Yue He, Hongyun Wang, Dan Li, Lei Gong, Yazhuo Zhang, and Chuzhong Li. Quantitative ubiquitinomics revealed abnormal ubiquitinated atp7a involved in down-regulation of acth in silent corticotroph adenomas. Frontiers in Endocrinology, May 2022. URL: http://dx.doi.org/10.3389/fendo.2022.863017, doi:10.3389/fendo.2022.863017. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fendo.2022.863017)
+
+[4. (Brito2020MeCP2) David V. C. Brito, Kubra Gulmez Karaca, Janina Kupke, Lukas Frank, and Ana M. M. Oliveira. Mecp2 gates spatial learning-induced alternative splicing events in the mouse hippocampus. Molecular Brain, November 2020. URL: http://dx.doi.org/10.1186/s13041-020-00695-1, doi:10.1186/s13041-020-00695-1. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13041-020-00695-1)

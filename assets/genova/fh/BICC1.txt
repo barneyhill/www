@@ -1,0 +1,58 @@
+# BICC1
+
+## Overview
+BICC1 is a gene that encodes the BicC family RNA binding protein 1, a crucial player in post-transcriptional regulation of gene expression. This protein is characterized by its RNA-binding capabilities, primarily facilitated by its three K-homology (KH) domains, and its ability to form higher-order structures through a sterile alpha motif (SAM) domain. BICC1 is involved in various cellular processes, including mRNA stability and translation, and plays a significant role in maintaining normal epithelial cell function, particularly in the kidneys. It interacts with several protein complexes, such as the Ccr4-Not deadenylase complex, to mediate mRNA repression and is implicated in the regulation of gluconeogenesis and organ laterality. Mutations in the BICC1 gene are linked to renal conditions like polycystic kidney disease and have broader implications in pancreatic development and cancer (Fu2010Loss; Dowdle2022BicaudalC; Rothé2020Role).
+
+## Structure
+The BICC1 protein is characterized by several structural domains that contribute to its function in RNA binding and regulation. It contains three tandem K-homology (KH) domains near the N-terminus, which are crucial for RNA binding. The KH2 domain is identified as the main determinant of RNA-binding activity, while KH1 and KH3 contribute minimally (Dolma2020Defining). These domains feature a GXXG motif, integral for RNA binding, though it does not confer target specificity (Dolma2020Defining).
+
+The C-terminal region of BICC1 includes a sterile alpha motif (SAM) domain, which is essential for self-polymerization and the formation of higher-order structures. This polymerization is crucial for the localization of BICC1 in cytoplasmic foci and the silencing of bound mRNAs (Rothé2015Bicc1). The SAM domain forms a helical structure with six SAM units per turn, stabilized by electrostatic and hydrophobic interactions (Rothé2015Bicc1). The polymerization of the SAM domain is not necessary for RNA binding but is essential for mRNA silencing (Rothé2015Bicc1).
+
+BICC1 may undergo post-translational modifications such as phosphorylation and exists in multiple splice variant isoforms, which may affect its function and interactions. The protein's ability to form homo- or heterooligomers is mediated by its SAM domain, impacting its localization and function (Rothé2015Bicc1).
+
+## Function
+The BICC1 gene encodes an RNA-binding protein that plays a crucial role in post-transcriptional regulation of gene expression in healthy human cells. BICC1 is involved in mRNA recognition and regulation, primarily through its three KH domains and two KH-like domains, which are essential for RNA binding. The KH2 domain, with its GKGG motif, is particularly important for this function (Dowdle2022BicaudalC). BICC1 interacts with the Ccr4-Not deadenylase complex to mediate mRNA repression by removing poly(A) tails, a process independent of the SAM domain or RNA presence (Dowdle2022BicaudalC).
+
+In the kidneys, BICC1 is involved in maintaining normal epithelial cell function by regulating mRNA stability and translation, impacting processes such as cell-cell adhesion and cytoskeleton organization. This regulation is crucial for preventing cyst formation, as seen in polycystic kidney disease (Fu2010Loss). BICC1 also plays a role in renal gluconeogenesis by interacting with the CTLH complex to regulate the expression of gluconeogenic enzymes like FBP1 and PEPCK (Leal-Esteban2018Role).
+
+BICC1 is active in the cytoplasm, where it forms regulatory networks that help cells adapt to changing conditions and modify functions during development (Dowdle2022BicaudalC).
+
+## Clinical Significance
+Mutations in the BICC1 gene are associated with several renal conditions, particularly polycystic kidney disease (PKD). In humans, mutations such as a heterozygous premature stop codon and an E932G mutation in the SAM domain have been linked to unilateral cystic renal dysplasia (Rothé2020Role). In mice, mutations in Bicc1, such as those in the jcpk and bpk alleles, result in renal cysts and serve as models for autosomal dominant and recessive polycystic kidney disease (ADPKD and ARPKD) (Rothé2015Bicc1). These mutations lead to defective silencing of target mRNAs, contributing to cyst formation (Piazzon2012Bicc1).
+
+BICC1 mutations also affect the Wnt/β-catenin signaling pathway, leading to hyperactivity that is associated with cystic renal dysplasia (Kraus2011Two). The gene's role in regulating cAMP signaling and miRNA-induced gene silencing is crucial for maintaining normal kidney function, and its disruption can result in cystic growth (Tran2010The).
+
+Beyond renal implications, BICC1 is implicated in pancreatic development and cancer. In pancreatic cancer, BICC1 is associated with lymph node metastasis and immune infiltration, correlating with poorer prognosis (Meng2023Lymph). The gene's dysregulation is also linked to other cancers, including gastric and oral cancers (Meng2023Lymph).
+
+## Interactions
+BICC1 interacts with various proteins and nucleic acids, playing a significant role in RNA processing and regulation. It forms ribonucleoprotein (RNP) complexes that are crucial for specifying organ laterality. BICC1 interacts with ANKS3 and ANKS6 proteins, which modulate its ability to bind mRNA. ANKS3 competes with mRNA for binding to BICC1's KH domains, while ANKS6 can destabilize this inhibitory interaction, allowing BICC1 to bind mRNA (Rothé2023Bicc1).
+
+BICC1 also interacts with the CTLH complex, which is involved in the degradation of gluconeogenic enzymes. This interaction is mediated by the SAM domain of BICC1, which can bind to the CTLH complex independently through ARMC8 and through polymerization surfaces that can be blocked by ANKS3 (Leal-Esteban2018Role).
+
+In addition, BICC1 is known to interact with the CCR4-NOT deadenylase complex, influencing mRNA translation and decay. It specifically binds to the Drosophila homolog of the CNOT3 subunit (Rothé2020Role). These interactions highlight BICC1's role in regulating mRNA stability and translation, as well as its involvement in cellular processes related to organ development and metabolism.
+
+
+## References
+
+
+[1. (Dowdle2022BicaudalC) Megan E. Dowdle, Charlotte R. Kanzler, Cole R. K. Harder, Samuel Moffet, Maya N. Walker, and Michael D. Sheets. Bicaudal-c post-transcriptional regulator of cell fates and functions. Frontiers in Cell and Developmental Biology, September 2022. URL: http://dx.doi.org/10.3389/fcell.2022.981696, doi:10.3389/fcell.2022.981696. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.981696)
+
+[2. (Meng2023Lymph) Feilong Meng, Shuai Hua, Xuedong Chen, Nanfeng Meng, and Ting Lan. Lymph node metastasis related gene bicc1 promotes tumor progression by promoting emt and immune infiltration in pancreatic cancer. BMC Medical Genomics, October 2023. URL: http://dx.doi.org/10.1186/s12920-023-01696-4, doi:10.1186/s12920-023-01696-4. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12920-023-01696-4)
+
+[3. (Piazzon2012Bicc1) Nathalie Piazzon, Charlotte Maisonneuve, Isabelle Guilleret, Samuel Rotman, and Daniel B. Constam. Bicc1 links the regulation of camp signaling in polycystic kidneys to microrna-induced gene silencing. Journal of Molecular Cell Biology, 4(6):398–408, May 2012. URL: http://dx.doi.org/10.1093/jmcb/mjs027, doi:10.1093/jmcb/mjs027. This article has 54 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/jmcb/mjs027)
+
+[4. (Rothé2020Role) Benjamin Rothé, Céline Gagnieux, Lucia Carolina Leal-Esteban, and Daniel B. Constam. Role of the rna-binding protein bicaudal-c1 and interacting factors in cystic kidney diseases. Cellular Signalling, 68:109499, April 2020. URL: http://dx.doi.org/10.1016/j.cellsig.2019.109499, doi:10.1016/j.cellsig.2019.109499. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2019.109499)
+
+[5. (Dolma2020Defining) Sonam Dolma, Tomasso Tonelli, Megan Dowdle, and Michael Sheets. Defining the molecular determinants required for rna binding functions of the bicaudal‐c (bicc1) translational repressor protein. The FASEB Journal, 34(S1):1–1, April 2020. URL: http://dx.doi.org/10.1096/fasebj.2020.34.s1.04385, doi:10.1096/fasebj.2020.34.s1.04385. This article has 0 citations.](https://doi.org/10.1096/fasebj.2020.34.s1.04385)
+
+[6. (Tran2010The) Uyen Tran, Lise Zakin, Axel Schweickert, Raman Agrawal, Remziye Döger, Martin Blum, E. M. De Robertis, and Oliver Wessely. The rna-binding protein bicaudal c regulates polycystin 2 in the kidney by antagonizing mir-17 activity. Development, 137(7):1107–1116, April 2010. URL: http://dx.doi.org/10.1242/dev.046045, doi:10.1242/dev.046045. This article has 124 citations and is from a peer-reviewed journal.](https://doi.org/10.1242/dev.046045)
+
+[7. (Rothé2023Bicc1) Benjamin Rothé, Yayoi Ikawa, Zhidian Zhang, Takanobu A. Katoh, Eriko Kajikawa, Katsura Minegishi, Sai Xiaorei, Simon Fortier, Matteo Dal Peraro, Hiroshi Hamada, and Daniel B. Constam. Bicc1 ribonucleoprotein complexes specifying organ laterality are licensed by anks6-induced structural remodeling of associated anks3. PLOS Biology, 21(9):e3002302, September 2023. URL: http://dx.doi.org/10.1371/journal.pbio.3002302, doi:10.1371/journal.pbio.3002302. This article has 1 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.3002302)
+
+[8. (Rothé2015Bicc1) Benjamin Rothé, Lucia Leal-Esteban, Florian Bernet, Séverine Urfer, Nicholas Doerr, Thomas Weimbs, Justyna Iwaszkiewicz, and Daniel B. Constam. Bicc1 polymerization regulates the localization and silencing of bound mrna. Molecular and Cellular Biology, 35(19):3339–3353, October 2015. URL: http://dx.doi.org/10.1128/MCB.00341-15, doi:10.1128/mcb.00341-15. This article has 38 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.00341-15)
+
+[9. (Fu2010Loss) Yulong Fu, Ingyu Kim, Peiwen Lian, Ao Li, Liang Zhou, Cunxi Li, Dan Liang, Robert J. Coffey, Jie Ma, Ping Zhao, Qimin Zhan, and Guanqing Wu. Loss of bicc1 impairs tubulomorphogenesis of cultured imcd cells by disrupting e-cadherin-based cell-cell adhesion. European Journal of Cell Biology, 89(6):428–436, June 2010. URL: http://dx.doi.org/10.1016/j.ejcb.2010.01.002, doi:10.1016/j.ejcb.2010.01.002. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ejcb.2010.01.002)
+
+[10. (Leal-Esteban2018Role) Lucia Carolina Leal-Esteban, Benjamin Rothé, Simon Fortier, Manuela Isenschmid, and Daniel B. Constam. Role of bicaudal c1 in renal gluconeogenesis and its novel interaction with the ctlh complex. PLOS Genetics, 14(7):e1007487, July 2018. URL: http://dx.doi.org/10.1371/journal.pgen.1007487, doi:10.1371/journal.pgen.1007487. This article has 27 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1007487)
+
+[11. (Kraus2011Two) Marine R.-C. Kraus, Séverine Clauin, Yvan Pfister, Massimo Di Maïo, Tim Ulinski, Daniel Constam, Christine Bellanné-Chantelot, and Anne Grapin-Botton. Two mutations in human bicc1 resulting in wnt pathway hyperactivity associated with cystic renal dysplasia. Human Mutation, 33(1):86–90, October 2011. URL: http://dx.doi.org/10.1002/humu.21610, doi:10.1002/humu.21610. This article has 66 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.21610)

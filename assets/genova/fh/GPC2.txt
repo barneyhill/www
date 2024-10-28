@@ -1,0 +1,54 @@
+# GPC2
+
+## Overview
+GPC2 (glypican 2) is a gene that encodes the glypican-2 protein, a member of the glypican family of heparan sulfate proteoglycans. These proteins are characterized by their attachment to the cell surface via a glycosylphosphatidylinositol (GPI) anchor, which facilitates their role in modulating cell signaling pathways (De2020Heparan; Fransson2004Novel). Glypican-2 is predominantly expressed in the central nervous system, where it plays a crucial role in neural development and synapse formation by interacting with various growth factors and signaling molecules (Lugert2017Glypican2). The protein's involvement in key signaling pathways, such as those mediated by Fibroblast Growth Factor 2 (FGF2), underscores its importance in regulating neural progenitor cell proliferation and differentiation (Lugert2017Glypican2). Additionally, GPC2 has been implicated in several cancers, including neuroblastoma and prostate cancer, where its expression levels and interactions with signaling pathways contribute to tumor progression, making it a potential biomarker and therapeutic target (Li2021Advances; Chen2024GPC2).
+
+## Structure
+GPC2 (glypican 2) is a member of the glypican family of heparan sulfate proteoglycans, characterized by a core protein attached to the cell surface via a glycosylphosphatidylinositol (GPI) anchor (De2020Heparan; Fransson2004Novel). The primary structure of GPC2 includes a 579-amino-acid core protein with five predicted heparan sulfate (HS) chains attached at specific serine residues: S55, S92, S155, S500, and S502 (Li2020The). These HS chains are crucial for the protein's interactions with various ligands and signaling molecules (Kaur2019Role).
+
+The secondary and tertiary structures of glypicans, including GPC2, are influenced by the presence of 14 conserved cysteine residues that form disulfide bonds, contributing to the protein's stability and conformation (Fransson2004Novel). Glypicans typically function as monomers and do not exhibit a quaternary structure (Kaur2019Role).
+
+Post-translational modifications of GPC2 include glycosylation and the attachment of the GPI anchor, which are essential for its localization and function on the cell surface (Fransson2004Novel). These modifications play a significant role in the protein's ability to interact with growth factors and other components of the extracellular matrix (Kaur2019Role).
+
+## Function
+Glypican-2 (GPC2) is a heparan sulfate proteoglycan that plays a significant role in the nervous system, particularly in neural development and synapse formation. It is a membrane-bound protein that can be released into the extracellular matrix, where it modulates the availability of ligands for major signaling pathways, such as those involving Fibroblast Growth Factor 2 (FGF2) (Lugert2017Glypican2). GPC2 is involved in the regulation of neural progenitor cell proliferation by binding to FGF2 and its receptor, thereby antagonizing FGF2's mitotic effects (Lugert2017Glypican2). This interaction suggests that GPC2 plays a regulatory role in controlling the proliferation and differentiation of newborn precursor cells within the stem cell niche (Lugert2017Glypican2).
+
+GPC2 is exclusively expressed in the central nervous system and is enriched in neurogenic regions of the adult brain, such as the subgranular zone of the dentate gyrus and the subventricular zone (Lugert2017Glypican2). Its expression is influenced by physiological stimuli that affect neurogenesis, and it is detectable in cerebrospinal fluid, where its levels correlate with neurogenic activity (Lugert2017Glypican2). GPC2's role in neurogenesis and its potential as a biomarker for monitoring neurogenesis in health and disease highlight its importance in the central nervous system (Lugert2017Glypican2).
+
+## Clinical Significance
+GPC2 (glypican 2) is implicated in various cancers due to its altered expression levels and interactions. In neuroblastoma, GPC2 is highly expressed and associated with poor prognosis, particularly in cases with MYCN amplification, a genetic factor linked to adverse outcomes. The gene's expression is regulated by N-myc, which binds to an E-box motif in the GPC2 promoter, suggesting a direct upregulation mechanism (Li2021Advances). GPC2 is also involved in the Wnt/β-catenin signaling pathway, which plays a role in neuroblastoma pathogenesis (Li2021Advances).
+
+In colon adenocarcinoma (COAD), GPC2 is significantly upregulated, correlating with poor overall survival and disease-free intervals, especially in advanced TNM stages. High GPC2 expression is linked to increased cell proliferation, migration, and invasion, indicating its role in cancer progression (Lin2022GPC2).
+
+In prostate cancer, GPC2 overexpression promotes malignant behaviors such as cell proliferation and invasion through the PI3K/AKT signaling pathway. Silencing GPC2 results in reduced tumor cell aggressiveness, highlighting its potential as a therapeutic target (Chen2024GPC2).
+
+GPC2's differential expression in tumors versus normal tissues and its involvement in key signaling pathways underscore its clinical significance as a biomarker and potential therapeutic target in various cancers (Chen2022GPC2).
+
+## Interactions
+GPC2 (glypican 2) is known to participate in several protein interactions that influence various signaling pathways. In prostate cancer, GPC2 interacts with midkine (MDK), a growth factor that activates the PI3K/AKT signaling pathway. This interaction is confirmed through immunoprecipitation assays, and GPC2's role in this pathway is evidenced by its ability to increase the phosphorylation of PI3K and AKT, promoting cancer progression (Chen2024GPC2).
+
+In the context of neurogenesis, GPC2 interacts with Fibroblast Growth Factor 2 (FGF2) and its receptor, GSLG1, within the FGF signaling cascade. This interaction was identified using immunocompetitive capture mass spectrometry (ICC-MS) and confirmed through reverse pull-down experiments. GPC2 is suggested to sequester FGF2, thereby modulating progenitor cell proliferation by reducing the availability of FGF2 (Lugert2017Glypican2).
+
+In colon adenocarcinoma, GPC2 is involved in the Notch and Hedgehog signaling pathways, as revealed by Gene Set Enrichment Analysis (GSEA). Coexpression analysis identified potential interactions with proteins such as LRP10, HPSE, B3GAT2, PVRIG, and WNT11, suggesting a role in tumor progression (Lin2022GPC2).
+
+
+## References
+
+
+[1. (Lin2022GPC2) Lumin Lin, Yanbin He, Zhuona Ni, Min Zhang, Jie Liu, Qianqian Mao, Bin Huang, and Jiumao Lin. Gpc2 deficiency inhibits cell growth and metastasis in colon adenocarcinoma. Open Medicine, 17(1):304–316, January 2022. URL: http://dx.doi.org/10.1515/med-2022-0421, doi:10.1515/med-2022-0421. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/med-2022-0421)
+
+[2. (Chen2024GPC2) Sijin Chen, Jiaxing Liao, Juhua Li, and Saihui Wang. Gpc2 promotes prostate cancer progression via mdk-mediated activation of pi3k/akt signaling pathway. Functional &amp; Integrative Genomics, July 2024. URL: http://dx.doi.org/10.1007/s10142-024-01406-y, doi:10.1007/s10142-024-01406-y. This article has 0 citations.](https://doi.org/10.1007/s10142-024-01406-y)
+
+[3. (Kaur2019Role) Sukhneeraj P. Kaur and Brian S. Cummings. Role of glypicans in regulation of the tumor microenvironment and cancer progression. Biochemical Pharmacology, 168:108–118, October 2019. URL: http://dx.doi.org/10.1016/j.bcp.2019.06.020, doi:10.1016/j.bcp.2019.06.020. This article has 32 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.bcp.2019.06.020)
+
+[4. (Fransson2004Novel) L.-�. Fransson, M. Belting, F. Cheng, M. J�nsson, K. Mani, and S. Sandgren. Novel aspects of glypican glycobiology. Cellular and Molecular Life Sciences (CMLS), 61(9):1016–1024, April 2004. URL: http://dx.doi.org/10.1007/s00018-004-3445-0, doi:10.1007/s00018-004-3445-0. This article has 98 citations.](https://doi.org/10.1007/s00018-004-3445-0)
+
+[5. (Chen2022GPC2) Guoming Chen, Dongqiang Luo, Nan Zhong, Danyun Li, Jiyuan Zheng, Hui Liao, Zhuoyao Li, Xiaoxiao Lin, Qiqi Chen, Cheng Zhang, Yuanjun Lu, Yau-Tuen Chan, Qing Ren, Ning Wang, and Yibin Feng. Gpc2 is a potential diagnostic, immunological, and prognostic biomarker in pan-cancer. Frontiers in Immunology, March 2022. URL: http://dx.doi.org/10.3389/fimmu.2022.857308, doi:10.3389/fimmu.2022.857308. This article has 38 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2022.857308)
+
+[6. (Li2021Advances) Nan Li, Madeline R. Spetz, Dan Li, and Mitchell Ho. Advances in immunotherapeutic targets for childhood cancers: a focus on glypican-2 and b7-h3. Pharmacology &amp; Therapeutics, 223:107892, July 2021. URL: http://dx.doi.org/10.1016/j.pharmthera.2021.107892, doi:10.1016/j.pharmthera.2021.107892. This article has 12 citations.](https://doi.org/10.1016/j.pharmthera.2021.107892)
+
+[7. (Lugert2017Glypican2) S. Lugert, T. Kremer, R. Jagasia, A. Herrmann, S. Aigner, C. Giachino, I. Mendez-David, A. M. Gardier, J. P. Carralot, H. Meistermann, A. Augustin, M. D. Saxe, J. Lamerz, G. Duran-Pacheco, A. Ducret, V. Taylor, D. J. David, and C. Czech. Glypican-2 levels in cerebrospinal fluid predict the status of adult hippocampal neurogenesis. Scientific Reports, April 2017. URL: http://dx.doi.org/10.1038/srep46543, doi:10.1038/srep46543. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep46543)
+
+[8. (De2020Heparan) Valeria De Pasquale and Luigi Michele Pavone. Heparan sulfate proteoglycan signaling in tumor microenvironment. International Journal of Molecular Sciences, 21(18):6588, September 2020. URL: http://dx.doi.org/10.3390/ijms21186588, doi:10.3390/ijms21186588. This article has 56 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21186588)
+
+[9. (Li2020The) Nan Li, Madeline R. Spetz, and Mitchell Ho. The role of glypicans in cancer progression and therapy. Journal of Histochemistry &amp; Cytochemistry, 68(12):841–862, July 2020. URL: http://dx.doi.org/10.1369/0022155420933709, doi:10.1369/0022155420933709. This article has 47 citations.](https://doi.org/10.1369/0022155420933709)

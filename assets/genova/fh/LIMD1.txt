@@ -1,0 +1,58 @@
+# LIMD1
+
+## Overview
+LIMD1 is a gene that encodes the LIM domain containing 1 protein, which is characterized by the presence of three LIM domains, specialized zinc finger motifs that facilitate protein-protein interactions. This protein functions primarily as a molecular scaffold, playing a pivotal role in various cellular processes, including the regulation of focal adhesion dynamics, cellular mechanics, and the hypoxic response. LIMD1 is involved in critical signaling pathways such as the Hippo/YAP pathway and acts as a tumor suppressor, particularly in lung cancer. Its interactions with proteins like prolyl hydroxylases and the von Hippel-Lindau tumor suppressor are essential for the regulation of hypoxia-inducible factors, impacting cellular oxygen homeostasis and transcriptional activity. The gene's clinical significance is underscored by its frequent downregulation in several cancers, often due to promoter methylation, which is associated with poor prognosis (Foxler2012The; Davidson2021Targeted; Wang2019LIMD1).
+
+## Structure
+LIMD1 is a protein characterized by the presence of three LIM domains at its C-terminus, which are specialized zinc finger motifs involved in protein-protein interactions (Davidson2021Targeted). These LIM domains require Zn2+ ion coordination for proper folding and stability, with each domain containing four cysteine residues that coordinate the zinc ions, forming a zinc finger topology (Siddiqui2020Bioinformatic). The LIM domains are approximately 55-65 amino acids long, with each zinc finger consisting of about 30 amino acids (Siddiqui2021Bioinformatic).
+
+The protein also features an internal disordered region (IDR) at the N-terminus, which, along with the LIM domains, contributes to its ability to undergo phase separation, a process important for cellular mechanics and durotaxis (Wang2019LIMD1). The phase separation property is influenced by mechanical forces and is crucial for the recruitment of specific focal adhesion proteins (Wang2019LIMD1).
+
+LIMD1 is involved in various cellular processes, including acting as a molecular scaffold in the microRNA-induced silencing complex (miRISC) and regulating the hypoxic response (Davidson2021Targeted). Post-translational modifications, particularly phosphorylation, play a significant role in regulating its function and distribution within cells (Siddiqui2021Bioinformatic).
+
+## Function
+The LIMD1 gene encodes a protein that plays a crucial role in various cellular processes, including cellular mechanics, durotaxis, and the regulation of focal adhesion dynamics in response to mechanical force. LIMD1 is involved in the maturation of focal adhesions, which are essential for force transmission from the extracellular environment to the cell interior, impacting cell survival and motility. It regulates the Hippo/YAP signaling pathway by binding and suppressing LATS1/2 in a tension-dependent manner, which is significant for cellular mechano-transduction and directional migration on stiffness gradients (Wang2019LIMD1).
+
+LIMD1 also acts as a molecular scaffold, facilitating the formation of a complex with prolyl hydroxylases (PHDs) and the von Hippel-Lindau (VHL) tumor suppressor. This complex is crucial for the regulation of hypoxia-inducible factors (HIFs), particularly HIF-1α, by promoting its degradation under normoxic conditions. This process is vital for maintaining cellular oxygen homeostasis and regulating the transcriptional activity of HIF-1α, which affects genes involved in angiogenesis and metastasis (Foxler2012The).
+
+In healthy cells, LIMD1 functions as a scaffold for protein-protein interactions, facilitating signaling between cytoplasmic components and the nucleus. It inhibits E2F-mediated transcription, thus regulating cell proliferation and is involved in osteoclastogenesis and osteoblast differentiation (Wong2012LIMD1).
+
+## Clinical Significance
+The LIMD1 gene is clinically significant due to its role as a tumor suppressor, with alterations in its expression or mutations contributing to various cancers. In non-small-cell lung carcinoma (NSCLC), particularly lung adenocarcinoma (LUAD) and lung squamous cell carcinoma (LUSC), LIMD1 expression is significantly downregulated, primarily due to promoter methylation rather than mutations. This downregulation is associated with poor prognosis in LUAD patients (Wang2021AlgorithmBased; Davidson2021Targeted). LIMD1 deficiency in NSCLC is linked to disruptions in key regulatory pathways, contributing to cancer progression, and is observed in approximately 45% of cases (Davidson2021Targeted).
+
+In head and neck squamous cell carcinoma (HNSCC), LIMD1 alterations, including deletions, methylation, and mutations, are frequent and associated with poor prognosis, particularly in tobacco-addicted patients without HPV infection (Ghosh2010LIMD1). LIMD1 is also downregulated in non-Hodgkin's lymphoma (NHL), where its silencing promotes cell proliferation and drug resistance (Tang2019Silencing).
+
+Beyond lung and head and neck cancers, LIMD1 loss is observed in breast, cervical, gastric, and renal cancers, suggesting a broader impact on cancer development and progression (Davidson2021Targeted). The gene's downregulation is linked to epigenetic factors and is not significantly influenced by patient demographics (Wang2021AlgorithmBased).
+
+## Interactions
+LIMD1 (LIM domain containing 1) is involved in several critical protein interactions that influence cellular processes. It forms a complex with prolyl hydroxylase domain-containing protein 2 (PHD2) and von Hippel-Lindau (VHL) protein, which is essential for the regulation of hypoxia-inducible factor 1-alpha (HIF-1α) activity. This complex facilitates the hydroxylation and degradation of HIF-1α, thereby repressing its activity (Foxler2012The). LIMD1 acts as a molecular scaffold, enhancing the interaction between PHD2 and VHL, which is crucial for the efficient degradation of HIF-1α (Foxler2012The).
+
+LIMD1 also interacts with the retinoblastoma protein (pRb) to inhibit E2F-mediated transcription, playing a role in cell cycle regulation (Zhou2019LIMD1). It is involved in the Hippo signaling pathway by binding to and inhibiting LATS1/2, a kinase in the pathway, in a tension-dependent manner (Ray2023The). LIMD1's interaction with vinculin, a protein that responds to mechanical force, suggests its role in focal adhesion dynamics and cellular mechanics (Wang2019LIMD1).
+
+These interactions highlight LIMD1's role as a tumor suppressor, particularly in lung cancer, where it regulates cell proliferation, migration, and invasion (Zhou2019LIMD1).
+
+
+## References
+
+
+1. (Ray2023The) The ability of the LIMD1 and TRIP6 LIM domains to bind to f-actin under strain is critical for their tension dependent localization to adherens junctions and association with the Hippo pathway kinase LATS1. This article has 0 citations.
+
+[2. (Foxler2012The) Daniel E. Foxler, Katherine S. Bridge, Victoria James, Thomas M. Webb, Maureen Mee, Sybil C. K. Wong, Yunfeng Feng, Dumitru Constantin-Teodosiu, Thorgunnur Eyfjord Petursdottir, Johannes Bjornsson, Sigurdur Ingvarsson, Peter J. Ratcliffe, Gregory D. Longmore, and Tyson V. Sharp. The limd1 protein bridges an association between the prolyl hydroxylases and vhl to repress hif-1 activity. Nature Cell Biology, 14(2):201–208, January 2012. URL: http://dx.doi.org/10.1038/ncb2424, doi:10.1038/ncb2424. This article has 75 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncb2424)
+
+3. (Wang2019LIMD1) LIMD1 phase separation contributes to cellular mechanics and durotaxis by regulating focal adhesion dynamics in response to force. This article has 0 citations.
+
+[4. (Zhou2019LIMD1) Jiuli Zhou, Lin Zhang, Wei Zhou, Yuanhong Chen, Yufeng Cheng, and Jixin Dong. <scp>limd</scp>1 phosphorylation in mitosis is required for mitotic progression and its tumor‐suppressing activity. The FEBS Journal, 286(5):963–974, January 2019. URL: http://dx.doi.org/10.1111/febs.14743, doi:10.1111/febs.14743. This article has 10 citations.](https://doi.org/10.1111/febs.14743)
+
+5. (Siddiqui2020Bioinformatic) Bioinformatic Analysis of Structure and Function of LIM Domains of Human Zyxin Family Proteins. This article has 0 citations.
+
+[6. (Tang2019Silencing) Jie Tang, Liqun Zhu, Yuejiao Huang, Bing Shi, Shuqing Zhang, Lingli Gu, Jie Zhao, Minghao Deng, Jiahao Zhu, He Xun, Yuchan Wang, and Chun Wang. Silencing of limd1 promotes proliferation and reverses cell adhesion‑mediated drug resistance in non‑hodgkin’s lymphoma. Oncology Letters, January 2019. URL: http://dx.doi.org/10.3892/ol.2019.9921, doi:10.3892/ol.2019.9921. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2019.9921)
+
+[7. (Ghosh2010LIMD1) Susmita Ghosh, Amlan Ghosh, Guru P Maiti, Nupur Mukherjee, Sankhadeep Dutta, Anup Roy, Susanta Roychoudhury, and Chinmay K Panda. Limd1 is more frequently altered than rb1 in head and neck squamous cell carcinoma: clinical and prognostic implications. Molecular Cancer, March 2010. URL: http://dx.doi.org/10.1186/1476-4598-9-58, doi:10.1186/1476-4598-9-58. This article has 22 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/1476-4598-9-58)
+
+[8. (Davidson2021Targeted) Kathryn Davidson, Paul Grevitt, Maria F. Contreras-Gerenas, Katherine S. Bridge, Miguel Hermida, Kunal M. Shah, Faraz K. Mardakheh, Mark Stubbs, Rosemary Burke, Pedro Casado, Pedro R. Cutillas, Sarah A. Martin, and Tyson V. Sharp. Targeted therapy for limd1-deficient non-small cell lung cancer subtypes. Cell Death &amp; Disease, November 2021. URL: http://dx.doi.org/10.1038/s41419-021-04355-7, doi:10.1038/s41419-021-04355-7. This article has 3 citations.](https://doi.org/10.1038/s41419-021-04355-7)
+
+[9. (Wang2021AlgorithmBased) Ling Wang, Ayrianna Sparks-Wallace, Jared L. Casteel, Mary E. A. Howell, and Shunbin Ning. Algorithm-based meta-analysis reveals the mechanistic interaction of the tumor suppressor limd1 with non-small-cell lung carcinoma. Frontiers in Oncology, March 2021. URL: http://dx.doi.org/10.3389/fonc.2021.632638, doi:10.3389/fonc.2021.632638. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.632638)
+
+[10. (Siddiqui2021Bioinformatic) M. Siddiqui, Maulik Badmalia, and Trushar Patel. Bioinformatic analysis of structure and function of lim domains of human zyxin family proteins. International Journal of Molecular Sciences, 22(5):2647, March 2021. URL: http://dx.doi.org/10.3390/ijms22052647, doi:10.3390/ijms22052647. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms22052647)
+
+[11. (Wong2012LIMD1) SCK Wong, GD Longmore, and TV Sharp. Limd1 (lim domains containing 1). Atlas of Genetics and Cytogenetics in Oncology and Haematology, March 2012. URL: http://dx.doi.org/10.4267/2042/46049, doi:10.4267/2042/46049. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.4267/2042/46049)

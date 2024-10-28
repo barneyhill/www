@@ -1,0 +1,46 @@
+# CCDC124
+
+## Overview
+CCDC124 is a gene that encodes the coiled-coil domain containing 124 protein, which is involved in several essential cellular processes, including cytokinesis and translation regulation. The protein is characterized by its coiled-coil domains, which facilitate protein-protein interactions, and it plays a critical role in the final stages of cell division by localizing to the centrosomes and midbody (Telkoparan2013CoiledCoil). CCDC124 also interacts with ribosomal components, stabilizing the ribosome during stress conditions to ensure efficient resumption of protein synthesis (Hacibeyoğlu2024Live; Wells2020Structure). Clinically, CCDC124 is implicated in various cancers, where its altered expression is associated with tumor progression and poor prognosis, making it a potential biomarker for cancer diagnosis and treatment response (Chen2022Clinical; Sun2023Hepatocellular).
+
+## Structure
+The CCDC124 protein is characterized by the presence of coiled-coil domains, which are structural motifs commonly involved in protein-protein interactions. The protein is approximately 32 kDa in size and consists of 223 amino acids. It contains two putative coiled-coil domains located between residues 18-82 in the N-terminal half (Telkoparan2013CoiledCoil). The primary sequence of CCDC124 was obtained from UniProt (UniProtKB-Q96CT7) and used for tertiary structure prediction, revealing a highly disordered protein with low complexity regions at the N-terminus and an aggregation sequence (151-IAVLSV-156) in the middle region (Tuzlakoğlu2021Dimerization).
+
+The tertiary structure of CCDC124 was modeled using computational tools, showing a low error estimation for all residues. The structure was refined using Prime and ModRefiner tools, and its integrity was confirmed by Ramachandran plot analysis, which showed 94.2% of residues in the favored region (Tuzlakoğlu2021Dimerization). CCDC124 is highly mutation-sensitive, with mutations potentially leading to severe stability issues (Tuzlakoğlu2021Dimerization).
+
+Dimerization of CCDC124 has been confirmed, suggesting potential interactions between specific residues, such as V153 and S155, which may serve as a nucleation step for oligomerization (Tuzlakoğlu2021Dimerization). The protein's dimerization and aggregation propensity are significant features of its quaternary structure (Tuzlakoğlu2021Dimerization).
+
+## Function
+CCDC124 is a protein involved in several critical cellular processes, primarily in cytokinesis, the final stage of cell division where the cytoplasm of a parental cell is divided into two daughter cells. It is a novel centrosome and midbody protein that interacts with the ras-guanine nucleotide exchange factor 1b (RasGEF1B), suggesting a role in signaling pathways related to cell division (Telkoparan2013CoiledCoil). During the cell cycle, CCDC124 localizes to the centrosomes and relocates to the midbody during telophase and cytokinesis, indicating its involvement in the physical separation of daughter cells (Telkoparan2013CoiledCoil).
+
+Beyond its role in cell division, CCDC124 is also involved in the regulation of translation. It localizes in the ribosome, interacting with ribosomal RNA and subunits, and stabilizes the non-rotated conformation of the 80S ribosome during starvation stress, allowing for quick resumption of protein synthesis once stress conditions are reversed (Hacibeyoğlu2024Live; Wells2020Structure). CCDC124 is also implicated in the progression and invasiveness of certain cancers, such as endometrial, ovarian, and bladder cancers (Hacibeyoğlu2024Live).
+
+## Clinical Significance
+CCDC124 has been implicated in various cancers due to its altered expression levels. It is significantly overexpressed in endometrial, ovarian, bladder, and hepatocellular carcinomas, where it is associated with tumor progression, invasiveness, and poor survival outcomes (Hacibeyoğlu2024Live; Chen2022Clinical; Sun2023Hepatocellular). In hepatocellular carcinoma (HCC), CCDC124 is identified as a hub gene linked to stress granules, which are involved in cancer progression and therapy resistance. Its expression correlates with shorter survival times, making it a potential prognostic biomarker (Sun2023Hepatocellular).
+
+In colorectal cancer, CCDC124 expression is upregulated in patients responding to FOLFOX chemotherapy, suggesting its role as a predictive marker for treatment response (Lu2020FOLFOX). Additionally, CCDC124 is involved in cytokinesis, and its depletion leads to cytokinesis failure, resulting in multinucleation, which may contribute to tumorigenesis (Telkoparan2013CoiledCoil). The protein's interaction with RasGEF1B suggests a role in cellular signaling pathways, potentially affecting cell division and stability (Telkoparan2013CoiledCoil).
+
+## Interactions
+CCDC124 is involved in various protein-protein and protein-nucleic acid interactions that are crucial for its cellular functions. It interacts with the ribosome, specifically binding to the large subunit ribosomal protein uL5, the 25S rRNA backbone, and the tRNA-binding P/A-site major groove, playing a role in ribosomal hibernation and translational recovery (Tuzlakoğlu2021Dimerization; Wells2020Structure). CCDC124 also binds to ribosomal 25S RNA near the A site and occupies the P-site position of the 40S subunit, stabilizing the nonrotated conformation of the 80S ribosome during stress (Hacibeyoğlu2024Live).
+
+CCDC124 interacts with RasGEF1B, a guanine nucleotide exchange factor, at the midbody during cytokinesis, suggesting a role in linking cytokinesis to RasGEF1B-dependent signaling (Telkoparan2013CoiledCoil). This interaction is significant for the protein's function in cytokinesis, as depletion of CCDC124 leads to cytokinesis failure (Telkoparan2013CoiledCoil). CCDC124 also binds to mRNA and interacts with proteins such as ADARB1, PRKRA, and EFTUD2, indicating its involvement in RNA processing and splicing (Nefedova2022Domesticated). These interactions highlight CCDC124's multifaceted role in cellular processes, including translation regulation, cytokinesis, and stress response.
+
+
+## References
+
+
+[1. (Telkoparan2013CoiledCoil) Pelin Telkoparan, Serap Erkek, Elif Yaman, Hani Alotaibi, Defne Bayık, and Uygar H. Tazebay. Coiled-coil domain containing protein 124 is a novel centrosome and midbody protein that interacts with the ras-guanine nucleotide exchange factor 1b and is involved in cytokinesis. PLoS ONE, 8(7):e69289, July 2013. URL: http://dx.doi.org/10.1371/journal.pone.0069289, doi:10.1371/journal.pone.0069289. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0069289)
+
+[2. (Chen2022Clinical) Liang Chen, Yun-hua Lin, Guo-qing Liu, Jing-en Huang, Wei Wei, Zhong-hua Yang, Yi-ming Hu, Jia-heng Xie, and Hong-zhu Yu. Clinical significance and potential role of lsm4 overexpression in hepatocellular carcinoma: an integrated analysis based on multiple databases. Frontiers in Genetics, January 2022. URL: http://dx.doi.org/10.3389/fgene.2021.804916, doi:10.3389/fgene.2021.804916. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2021.804916)
+
+[3. (Tuzlakoğlu2021Dimerization) Merve Tuzlakoğlu Öztürk and Ömer Güllülü. Dimerization underlies the aggregation propensity of intrinsically disordered coiled‐coil domain‐containing 124. Proteins: Structure, Function, and Bioinformatics, 90(1):218–228, August 2021. URL: http://dx.doi.org/10.1002/prot.26210, doi:10.1002/prot.26210. This article has 3 citations.](https://doi.org/10.1002/prot.26210)
+
+4. (Wells2020Structure) Structure and function of yeast Lso2 and human CCDC124 bound to hibernating ribosomes. This article has 70 citations.
+
+[5. (Lu2020FOLFOX) Wei Lu, Dongliang Fu, Xiangxing Kong, Zhiheng Huang, Maxwell Hwang, Yingshuang Zhu, Liubo Chen, Kai Jiang, Xinlin Li, Yihua Wu, Jun Li, Ying Yuan, and Kefeng Ding. Folfox treatment response prediction in metastatic or recurrent colorectal cancer patients via machine learning algorithms. Cancer Medicine, 9(4):1419–1429, January 2020. URL: http://dx.doi.org/10.1002/cam4.2786, doi:10.1002/cam4.2786. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/cam4.2786)
+
+[6. (Hacibeyoğlu2024Live) Kübra Hacibeyoğlu, Merve Tuzlakoğlu Öztürk, Özge Arslan, and Uygar Halis Tazebay. Live cell protein imaging of tandem complemented-gfp11-tagged coiled-coil domain-containing protein-124 identifies this factor in g3bp1-induced stress-granules. The Protein Journal, 43(4):834–841, July 2024. URL: http://dx.doi.org/10.1007/s10930-024-10216-x, doi:10.1007/s10930-024-10216-x. This article has 0 citations.](https://doi.org/10.1007/s10930-024-10216-x)
+
+7. (Sun2023Hepatocellular) Hepatocellular Carcinoma: An Analysis of the Expression Status of Stress Granules. This article has 0 citations.
+
+[8. (Nefedova2022Domesticated) Lidia Nefedova, Alexey Gigin, and Alexander Kim. Domesticated ltr-retrotransposon gag-related gene (gagr) as a member of the stress response network in drosophila. Life, 12(3):364, March 2022. URL: http://dx.doi.org/10.3390/life12030364, doi:10.3390/life12030364. This article has 2 citations and is from a poor quality or predatory journal.](https://doi.org/10.3390/life12030364)

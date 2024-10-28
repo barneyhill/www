@@ -1,0 +1,37 @@
+# PLCD4
+
+## Overview
+Phospholipase C delta 4 (PLCD4) is a gene that encodes the enzyme phospholipase C delta 4, a member of the phospholipase C family of enzymes. This enzyme plays a pivotal role in the phosphoinositide signaling pathway by hydrolyzing phosphatidylinositol 4,5-bisphosphate (PIP2) to produce inositol 1,4,5-trisphosphate (IP3) and diacylglycerol (DAG), which are crucial second messengers in cellular signaling (Corradini2023Endoplasmic; Kaewman2022Differential). The protein is characterized by its multidomain structure, including a pleckstrin homology (PH) domain, EF-hand region, catalytic center, and C2 domain, which facilitate its function and membrane association (Ochocka2003Isozymes). PLCD4 is notably involved in reproductive biology, particularly in spermatogenesis, and is essential for normal sperm function and fertility (Kaewman2022Differential). Additionally, it participates in calcium-related pathways in various cell types, contributing to processes such as bone remodeling (Corradini2023Endoplasmic).
+
+## Structure
+Phospholipase C delta 4 (PLCδ4) is a multidomain protein with a molecular mass ranging from 83 to 87 kDa. Its structure includes a pleckstrin homology (PH) domain, an EF-hand region, a catalytic center with an X/Y linker region, and a C2 domain (Ochocka2003Isozymes). The PH domain is located at the NH2-terminal part and is thought to tether the enzyme to the membrane surface during PIP2 hydrolysis. The EF-hand motif is believed to bind calcium or magnesium ions, although its precise role is not fully understood. The catalytic center is formed by the X and Y regions, separated by a linker rich in acidic amino acids. The C2 domain, located at the COOH-terminus, is involved in calcium-dependent binding to the phospholipid membrane (Ochocka2003Isozymes).
+
+PLCδ4 is known to have several splice variants, including PLCδ4/ATL-I, PLCδ4/ATL-II, and PLCδ4/ATL-III, with PLCδ4/ATL-II being the predominant isoform in sperm (Fukami2003Phospholipase). The splice variant PLCδ4/ATL-III lacks PLC activity due to substitutions in the COOH-terminal region of the X domain and the linker region (Fukami2003Phospholipase). Unlike PLC d1 and d3, PLC d4 does not possess a putative nuclear export sequence (NES) (Ochocka2003Isozymes).
+
+## Function
+Phospholipase C delta 4 (PLCD4) is an enzyme involved in the phosphoinositide signaling pathway, where it plays a critical role in hydrolyzing phosphatidylinositol 4,5-bisphosphate (PIP2) to generate inositol 1,4,5-trisphosphate (IP3) and diacylglycerol (DAG). These molecules act as second messengers in various cellular processes, including the regulation of intracellular calcium levels, which is essential for numerous cellular functions such as cell growth, differentiation, and motility (Corradini2023Endoplasmic; Kaewman2022Differential).
+
+PLCD4 is active in the cytoplasm and is associated with the plasma membrane, where it contributes to intracellular signaling pathways. In the context of reproductive biology, PLCD4 is abundantly expressed in spermatogenic cells, particularly in spermatogonia and round spermatids, and is crucial for the formation and function of the acrosome in mature sperm. This role is vital for normal sperm function and fertility, as evidenced by impaired fertility in PLCD4 knockout male mice (Kaewman2022Differential).
+
+In addition to its role in reproductive biology, PLCD4 is also involved in calcium-related pathways in other cell types, such as osteoblasts, where it contributes to bone remodeling processes (Corradini2023Endoplasmic).
+
+## Interactions
+PLCD4, specifically its isoform PLCδ4b, interacts with the G protein Gαi3 through its GBA motif. This interaction is characterized by a high binding affinity, with a dissociation constant (K_d) of approximately 0.25 µM, indicating a strong interaction compared to other GBA motif-containing proteins (Maziarz2018A). The GBA motif of PLCδ4b acts as a guanine nucleotide exchange factor (GEF), facilitating the exchange of GDP for GTP on Gαi3, which is crucial for G protein activation (Maziarz2018A). This interaction is specific to the GDP-bound form of Gαi3, as PLCδ4b shows a preference for binding to this inactive state (Maziarz2018A).
+
+The interaction between PLCδ4b and Gαi3 is mediated by key hydrophobic residues within the GBA motif, such as phenylalanine (F227) and leucine (L224, L228), which are essential for binding (Maziarz2018A). Structural modeling suggests that the GBA motif of PLCδ4b docks onto the cleft formed by the Switch II region and α3 helix of Gαi3, similar to other GBA motifs (Maziarz2018A).
+
+In cellular contexts, the recruitment of the GBA motif of PLCδ4b to the plasma membrane results in the activation of G protein signaling pathways, as evidenced by changes in cAMP levels and bioluminescence resonance energy transfer (BRET) assays (Maziarz2018A). This suggests that PLCδ4b functions as a non-receptor activator of heterotrimeric G proteins, influencing downstream signaling events.
+
+
+## References
+
+
+[1. (Fukami2003Phospholipase) Kiyoko Fukami, Manabu Yoshida, Takafumi Inoue, Manabu Kurokawa, Rafael A. Fissore, Nobuaki Yoshida, Katsuhiko Mikoshiba, and Tadaomi Takenawa. Phospholipase cδ4 is required for ca2+ mobilization essential for acrosome reaction in sperm. The Journal of Cell Biology, 161(1):79–88, April 2003. URL: http://dx.doi.org/10.1083/jcb.200210057, doi:10.1083/jcb.200210057. This article has 131 citations.](https://doi.org/10.1083/jcb.200210057)
+
+[2. (Maziarz2018A) Marcin Maziarz, Stefan Broselid, Vincent DiGiacomo, Jong-Chan Park, Alex Luebbers, Lucia Garcia-Navarrete, Juan B. Blanco-Canosa, George S. Baillie, and Mikel Garcia-Marcos. A biochemical and genetic discovery pipeline identifies plcδ4b as a nonreceptor activator of heterotrimeric g-proteins. Journal of Biological Chemistry, 293(44):16964–16983, November 2018. URL: http://dx.doi.org/10.1074/jbc.ra118.003580, doi:10.1074/jbc.ra118.003580. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra118.003580)
+
+[3. (Ochocka2003Isozymes) Anna-Maria Ochocka and Tadeusz Pawelczyk. Isozymes delta of phosphoinositide-specific phospholipase c and their role in signal transduction in the cell. Acta Biochimica Polonica, 50(4):1097–1110, December 2003. URL: http://dx.doi.org/10.18388/abp.2003_3634, doi:10.18388/abp.2003_3634. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.18388/abp.2003_3634)
+
+4. (Kaewman2022Differential) Differential protein expression of GABA A receptor alpha 1 subunit in rat spermatozoa associated with proteomic analysis in testis following methamphetamine administration. This article has 0 citations.
+
+[5. (Corradini2023Endoplasmic) Matteo Corradini, Marta Checchi, Marzia Ferretti, Francesco Cavani, Carla Palumbo, and Vincenza Rita Lo Vasco. Endoplasmic reticulum localization of phosphoinositide specific phospholipase c enzymes in u73122 cultured human osteoblasts. AIMS Biophysics, 10(1):25–49, 2023. URL: http://dx.doi.org/10.3934/biophy.2023004, doi:10.3934/biophy.2023004. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3934/biophy.2023004)

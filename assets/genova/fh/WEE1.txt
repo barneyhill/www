@@ -1,0 +1,60 @@
+# WEE1
+
+## Overview
+WEE1 is a gene that encodes the WEE1 G2 checkpoint kinase, a critical regulator of the cell cycle. This kinase is primarily involved in controlling the G2/M transition by phosphorylating cyclin-dependent kinases, particularly CDK1, thereby inhibiting their activity and delaying mitotic entry. As a serine/threonine kinase, WEE1 plays a pivotal role in maintaining genomic integrity by ensuring that cells do not prematurely enter mitosis, allowing time for DNA repair processes to occur. The regulation of WEE1 is complex, involving interactions with various proteins and post-translational modifications that influence its stability and activity. Due to its essential function in cell cycle control, WEE1 has garnered significant interest in cancer research, where its dysregulation is associated with tumorigenesis and poor clinical outcomes (Bukhari2022Targeting; Elbæk2020WEE1).
+
+## Structure
+The WEE1 protein kinase is a crucial regulator of the G2/M checkpoint in the cell cycle. Its molecular structure includes a kinase domain characterized by two lobes: an N-terminal lobe with β-sheets and a C-terminal lobe with α-helical structures, connected by a hinge region that binds ATP (Schmidt2017Regulation). The N-terminal lobe contains a glycine-rich loop, also known as the P-loop, which forms the top surface of the ATP-binding pocket (Schmidt2017Regulation). The C-terminal lobe includes the catalytic segment and the activation segment, with a conserved Asp-Phe-Gly (DFG) motif crucial for kinase regulation (Schmidt2017Regulation; Du2020Structureactivity).
+
+WEE1 is known for its unique DLG motif at the binding site, which distinguishes it from other kinases and offers a target for selective inhibitor design (Du2020Structureactivity). Post-translational modifications, such as phosphorylation, play a significant role in regulating WEE1 activity, particularly in its function of phosphorylating CDK1 at Tyr15 (Schmidt2017Regulation). The protein does not have a quaternary structure involving multiple subunits, as no information on such assembly is provided in the context.
+
+## Function
+WEE1 is a crucial regulator of the cell cycle, particularly during the G2/M transition and S phase in healthy human cells. It functions by phosphorylating cyclin-dependent kinases (CDKs), specifically CDK1 and CDK2, on tyrosine 15, which inhibits their activity and delays mitotic onset. This regulation ensures proper cell cycle progression and maintains genomic integrity by preventing premature mitotic entry and allowing time for DNA repair (Bukhari2022Targeting; Elbæk2020WEE1). WEE1's activity is essential for the G2 checkpoint, where it prevents the accumulation of active CDC2/cyclin B in the nucleus, thereby blocking the initiation of mitosis until conditions are appropriate (McGowan1995Cell).
+
+WEE1 is primarily active in the nucleus, where it protects CDK1 from premature activation by CDC25 phosphatase during interphase (Baldin1995Subcellular). Its activity is regulated through mRNA levels and protein stability, rather than phosphorylation, with interactions involving 14-3-3 proteins, MIG6, and HSP90 enhancing its stability and catalytic activity (Elbæk2020WEE1). This regulation is vital for maintaining cellular homeostasis and preventing genomic instability, highlighting WEE1's importance in safeguarding DNA replication and mitotic entry (Elbæk2020WEE1).
+
+## Clinical Significance
+Alterations in the expression of the WEE1 gene have significant clinical implications, particularly in cancer. High WEE1 expression is associated with poor survival outcomes in multiple myeloma (MM) and malignant melanoma. In MM, elevated WEE1 levels correlate with poor progression-free survival, independent of other known markers, suggesting its role as an independent prognostic factor (Simhal2024High). In melanoma, high WEE1 expression is linked to increased tumor thickness, ulceration, and decreased disease-free survival, indicating its potential as a therapeutic target (Magnussen2012High).
+
+WEE1's role in cancer is further underscored by its involvement in cell cycle regulation and DNA damage response. Overexpression of WEE1 supports high proliferation rates in cancer cells and compensates for the loss of p53 function, acting as an oncogene in various cancers (Ghelli2020A). Inhibition of WEE1, particularly with agents like AZD1775, has shown promise in clinical trials by inducing DNA damage and apoptosis in cancer cells, highlighting its potential as a therapeutic target (Elbæk2020WEE1).
+
+The clinical significance of WEE1 is also evident in its interactions with other proteins, such as 14-3-3 proteins and HSP90, which stabilize WEE1 and contribute to its tumor-suppressive effects (Elbæk2020WEE1). These interactions and expression changes underscore WEE1's role in cancer progression and its potential as a target for therapy.
+
+## Interactions
+WEE1 kinase interacts with several proteins that regulate its activity and stability, playing a crucial role in cell cycle progression. WEE1 directly interacts with the Mus81-Eme1 endonuclease complex, which is involved in processing stalled replication forks. This interaction is significant for maintaining genomic stability during DNA replication, as WEE1 depletion leads to replication fork problems and a DNA damage response, which is exacerbated by Mus81 activity (DomínguezKelly2011Wee1).
+
+WEE1 is also regulated by the SCF β-TrCP1/2 complex, an E3 ubiquitin ligase that targets WEE1 for ubiquitination and degradation. This process is phosphorylation-dependent, with serine residues S53 and S123 being crucial for recognition by β-TrCP, facilitated by phosphorylation from M-phase kinases Plk1 and Cdc2 (Watanabe2004Mphase).
+
+The regulatory β-subunit of protein kinase CK2 (CK2β) interacts with WEE1, forming high molecular weight complexes. This interaction does not alter WEE1's kinase activity but modulates CDK1 activity by reversing WEE1-mediated phosphorylation (Guerra2010Mapping).
+
+WEE1 also interacts with Cdr1 kinase, which phosphorylates WEE1 to inhibit its activity, promoting mitotic entry (Opalko2019A). These interactions highlight WEE1's role in coordinating cell cycle checkpoints and maintaining genomic integrity.
+
+
+## References
+
+
+[1. (Ghelli2020A) Andrea Ghelli Luserna di Rorà, Claudio Cerchione, Giovanni Martinelli, and Giorgia Simonetti. A wee1 family business: regulation of mitosis, cancer progression, and therapeutic target. Journal of Hematology &amp; Oncology, September 2020. URL: http://dx.doi.org/10.1186/s13045-020-00959-2, doi:10.1186/s13045-020-00959-2. This article has 159 citations.](https://doi.org/10.1186/s13045-020-00959-2)
+
+[2. (Guerra2010Mapping) Guerra. Mapping of the interaction sites between wee1 kinase and the regulatory β-subunit of protein kinase ck2. International Journal of Oncology, March 2010. URL: http://dx.doi.org/10.3892/ijo_00000600, doi:10.3892/ijo_00000600. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo_00000600)
+
+[3. (Du2020Structureactivity) Xingkai Du, Jian Li, Xiaojiao Luo, Rong Li, Feng Li, Yiwen Zhang, Jianyou Shi, and Jun He. Structure-activity relationships of wee1 inhibitors: a review. European Journal of Medicinal Chemistry, 203:112524, October 2020. URL: http://dx.doi.org/10.1016/j.ejmech.2020.112524, doi:10.1016/j.ejmech.2020.112524. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.ejmech.2020.112524)
+
+[4. (Bukhari2022Targeting) Amirali B. Bukhari, Gordon K. Chan, and Armin M. Gamper. Targeting the dna damage response for cancer therapy by inhibiting the kinase wee1. Frontiers in Oncology, February 2022. URL: http://dx.doi.org/10.3389/fonc.2022.828684, doi:10.3389/fonc.2022.828684. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.828684)
+
+[5. (Elbæk2020WEE1) Camilla R. Elbæk, Valdemaras Petrosius, and Claus S. Sørensen. Wee1 kinase limits cdk activities to safeguard dna replication and mitotic entry. Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis, 819–820:111694, January 2020. URL: http://dx.doi.org/10.1016/j.mrfmmm.2020.111694, doi:10.1016/j.mrfmmm.2020.111694. This article has 45 citations.](https://doi.org/10.1016/j.mrfmmm.2020.111694)
+
+[6. (Schmidt2017Regulation) Matthias Schmidt, Alexander Rohe, Charlott Platzer, Abdulkarim Najjar, Frank Erdmann, and Wolfgang Sippl. Regulation of g2/m transition by inhibition of wee1 and pkmyt1 kinases. Molecules, 22(12):2045, November 2017. URL: http://dx.doi.org/10.3390/molecules22122045, doi:10.3390/molecules22122045. This article has 126 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/molecules22122045)
+
+[7. (Watanabe2004Mphase) Nobumoto Watanabe, Harumi Arai, Yoshifumi Nishihara, Makoto Taniguchi, Naoko Watanabe, Tony Hunter, and Hiroyuki Osada. M-phase kinases induce phospho-dependent ubiquitination of somatic wee1 by scf β-trcp. Proceedings of the National Academy of Sciences, 101(13):4419–4424, March 2004. URL: http://dx.doi.org/10.1073/pnas.0307700101, doi:10.1073/pnas.0307700101. This article has 364 citations.](https://doi.org/10.1073/pnas.0307700101)
+
+8. (Simhal2024High) High WEE1 expression is independently linked to poor survival in multiple myeloma. This article has 0 citations.
+
+[9. (Opalko2019A) Hannah E. Opalko, Isha Nasa, Arminja N. Kettenbach, and James B. Moseley. A mechanism for how cdr1/nim1 kinase promotes mitotic entry by inhibiting wee1. Molecular Biology of the Cell, 30(25):3015–3023, December 2019. URL: http://dx.doi.org/10.1091/mbc.E19-08-0430, doi:10.1091/mbc.e19-08-0430. This article has 16 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.E19-08-0430)
+
+[10. (Magnussen2012High) Gry Irene Magnussen, Ruth Holm, Elisabeth Emilsen, Anne Katrine Ree Rosnes, Ana Slipicevic, and Vivi Ann Flørenes. High expression of wee1 is associated with poor disease-free survival in malignant melanoma: potential for targeted therapy. PLoS ONE, 7(6):e38254, June 2012. URL: http://dx.doi.org/10.1371/journal.pone.0038254, doi:10.1371/journal.pone.0038254. This article has 114 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0038254)
+
+[11. (DomínguezKelly2011Wee1) Raquel Domínguez-Kelly, Yusé Martín, Stephane Koundrioukoff, Marvin E. Tanenbaum, Veronique A.J. Smits, René H. Medema, Michelle Debatisse, and Raimundo Freire. Wee1 controls genomic stability during replication by regulating the mus81-eme1 endonuclease. Journal of Cell Biology, 194(4):567–579, August 2011. URL: http://dx.doi.org/10.1083/jcb.201101047, doi:10.1083/jcb.201101047. This article has 155 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201101047)
+
+[12. (Baldin1995Subcellular) Véronique Baldin and Bernard Ducommun. Subcellular localisation of human wee1 kinase is regulated during the cell cycle. Journal of Cell Science, 108(6):2425–2432, June 1995. URL: http://dx.doi.org/10.1242/jcs.108.6.2425, doi:10.1242/jcs.108.6.2425. This article has 55 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.108.6.2425)
+
+[13. (McGowan1995Cell) C.H. McGowan and P. Russell. Cell cycle regulation of human wee1. The EMBO Journal, 14(10):2166–2175, May 1995. URL: http://dx.doi.org/10.1002/j.1460-2075.1995.tb07210.x, doi:10.1002/j.1460-2075.1995.tb07210.x. This article has 211 citations.](https://doi.org/10.1002/j.1460-2075.1995.tb07210.x)

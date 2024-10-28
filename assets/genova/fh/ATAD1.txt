@@ -1,0 +1,52 @@
+# ATAD1
+
+## Overview
+The ATAD1 gene encodes the ATPase family AAA domain containing 1 protein, a crucial component in cellular protein quality control mechanisms. This protein is categorized as a mitochondrial AAA ATPase, which plays a significant role in the extraction and proper localization of mislocalized membrane proteins, particularly within the mitochondria. ATAD1 is involved in maintaining mitochondrial homeostasis by removing mislocalized tail-anchored proteins from the outer mitochondrial membrane and facilitating the clearance of stalled precursor proteins from the translocase of the outer membrane complex. Beyond its mitochondrial functions, ATAD1, also known as Thorase, is implicated in synaptic plasticity through its role in neurotransmitter receptor endocytosis. Mutations in the ATAD1 gene have been linked to severe neurological disorders, underscoring its importance in both mitochondrial and synaptic functions (Kim2023ATAD1; Wang2020Msp1ATAD1; Piard2018A).
+
+## Structure
+The ATAD1 protein is a mitochondrial AAA protein involved in the extraction of mislocalized membrane proteins. Structurally, ATAD1 forms a helical hexamer with a hydrophobic central pore lined with aromatic amino acids, which enhance substrate grip and are crucial for extracting hydrophobic membrane proteins from the lipid bilayer (Wang2021Conserved). The protein's hexameric assembly is composed of six subunits, each with a large and a small subdomain, and nucleotide binding occurs at the interface of these subdomains (Wang2021Conserved). A unique structural feature of ATAD1 is the a11 helix at the C-terminus, which mediates intersubunit interactions and is longer compared to other AAA proteins like katanin and spastin (Wang2021Conserved).
+
+The central pore of ATAD1 is highly aromatic, with pore-loops containing conserved motifs such as KX1X2G, where X1 is tryptophan and X2 is tyrosine, which intercalate with the substrate (Wang2021Conserved). The protein's structure has been studied using cryo-electron microscopy, revealing two distinct hexameric conformations: an open state and a closed state (Wang2021Conserved). The absence of a12 in ATAD1 suggests a different mechanism for hexamer assembly compared to other AAA proteins (Wang2021Conserved).
+
+## Function
+The ATAD1 gene encodes an ATPase that plays a crucial role in maintaining mitochondrial protein quality control in healthy human cells. It functions by extracting mislocalized tail-anchored (TA) proteins from the outer mitochondrial membrane (OMM) in an ATP-dependent manner, ensuring proper protein localization and preventing the accumulation of mislocalized proteins (Wang2020Msp1ATAD1). ATAD1 is also involved in the removal of stalled precursor proteins from the translocase of the outer membrane (TOM) complex, preventing clogging and allowing efficient protein import into mitochondria (Kim2023ATAD1).
+
+ATAD1's activity is essential for maintaining mitochondrial homeostasis and cellular health, particularly under conditions of mitochondrial protein import stress. It helps clear mistargeted proteins and facilitates the re-insertion of these proteins into their correct organelles, thus supporting proper mitochondrial function (Wang2021Conserved). The protein's ATPase activity is crucial for its function, as demonstrated by the inability of a catalytically inactive mutant to restore normal precursor levels (Kim2023ATAD1).
+
+In addition to its mitochondrial roles, ATAD1 is implicated in synaptic plasticity regulation by mediating the endocytosis of neurotransmitter receptors, highlighting its importance in both mitochondrial and synaptic functions (Wang2020Msp1ATAD1).
+
+## Clinical Significance
+Mutations in the ATAD1 gene, also known as Thorase, are linked to several severe neurological disorders. A homozygous frameshift mutation, p.(His357Argfs*15), has been identified as causing a lethal encephalopathy characterized by stiffness and arthrogryposis. This mutation affects AMPA receptor trafficking, leading to decreased excitatory postsynaptic AMPA receptors, although mitochondrial function remains unaffected (Piard2018A). Another mutation, p.E276X, is associated with a disorder characterized by hypertonia, seizures, and early death. This mutation results in impaired AMPA receptor recycling, leading to increased excitatory signaling (AhrensNicklas2017Precision).
+
+Alterations in ATAD1 expression levels are also implicated in Zellweger Spectrum Disease (ZSD), a peroxisome biogenesis disorder. Overexpression of ATAD1 can restore mitochondrial function by correcting the mislocalization of peroxins to mitochondria, which is a hallmark of ZSD (Nuebel2020Msp1ATAD1). In neurological contexts, ATAD1 is neuroprotective, with its overexpression increasing neuronal survival rates during oxygen-glucose deprivation and excitotoxic exposure, while its knockdown results in decreased survival (Wang2020Msp1ATAD1). These findings highlight the critical role of ATAD1 in maintaining neurological health and its potential as a therapeutic target.
+
+## Interactions
+ATAD1, also known as Thorase, is involved in various protein interactions that play crucial roles in cellular processes. It interacts with components of the mitochondrial divisome, including Dnm1, Fis1, and Mdv1, to regulate mitochondrial fission. ATAD1 inhibits the interaction between Mdv1 and Dnm1, affecting Dnm1's GTPase activity and assembly into higher-order structures, which are essential for mitochondrial fission (He2023The). 
+
+ATAD1 also associates with the translocase of the outer membrane (TOM) complex during protein import stress, interacting with subunits TOMM20 and TOMM40. This interaction is crucial for maintaining protein import levels by preventing the accumulation of mitochondrial precursors (Kim2023ATAD1). 
+
+In addition, ATAD1 specifically extracts the BIM protein from membranes in an ATP-dependent manner, highlighting its role in regulating BIM's cellular localization and post-translational modifications (Winter2022Collateral). 
+
+ATAD1's interactions extend to the peroxisomal import receptor PEX5, where it facilitates PEX5 degradation in cells deficient in PEX1, contributing to protein homeostasis and preventing pexophagy (Ott2022Peroxisomal). These interactions underscore ATAD1's multifaceted role in cellular dynamics and protein quality control.
+
+
+## References
+
+
+[1. (AhrensNicklas2017Precision) Rebecca C. Ahrens-Nicklas, George K.E. Umanah, Neal Sondheimer, Matthew A. Deardorff, Alisha B. Wilkens, Laura K. Conlin, Avni B. Santani, Addie Nesbitt, Jane Juulsola, Erica Ma, Ted M. Dawson, Valina L. Dawson, and Eric D. Marsh. Precision therapy for a new disorder of ampa receptor recycling due to mutations in atad1. Neurology Genetics, February 2017. URL: http://dx.doi.org/10.1212/nxg.0000000000000130, doi:10.1212/nxg.0000000000000130. This article has 40 citations.](https://doi.org/10.1212/nxg.0000000000000130)
+
+2. (Wang2021Conserved) Conserved structural elements specialize ATAD1 as a membrane protein extraction machine. This article has 0 citations.
+
+3. (Ott2022Peroxisomal) Peroxisomal ATPase ATAD1 acts in quality control of the protein import machinery. This article has 2 citations.
+
+[4. (Piard2018A) Juliette Piard, George K Essien Umanah, Frederike L Harms, Leire Abalde-Atristain, Daniel Amram, Melissa Chang, Rong Chen, Malik Alawi, Vincenzo Salpietro, Mark I Rees, Seo-Kyung Chung, Henry Houlden, Alain Verloes, Ted M Dawson, Valina L Dawson, Lionel Van Maldergem, and Kerstin Kutsche. A homozygous atad1 mutation impairs postsynaptic ampa receptor trafficking and causes a lethal encephalopathy. Brain, 141(3):651–661, January 2018. URL: http://dx.doi.org/10.1093/brain/awx377, doi:10.1093/brain/awx377. This article has 52 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/brain/awx377)
+
+5. (Kim2023ATAD1) ATAD1 and the integrated stress response prevent clogging of TOM and damage caused by un-imported mitochondrial proteins. This article has 1 citations.
+
+[6. (Wang2020Msp1ATAD1) Lan Wang and Peter Walter. Msp1/atad1 in protein quality control and regulation of synaptic activities. Annual Review of Cell and Developmental Biology, 36(1):141–164, October 2020. URL: http://dx.doi.org/10.1146/annurev-cellbio-031220-015840, doi:10.1146/annurev-cellbio-031220-015840. This article has 27 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1146/annurev-cellbio-031220-015840)
+
+7. (Nuebel2020Msp1ATAD1) Msp1/ATAD1 restores mitochondrial function in Zellweger Spectrum Disease. This article has 2 citations.
+
+[8. (He2023The) Jiajia He, Ke Liu, Yifan Wu, Chenhui Zhao, Shuaijie Yan, Jia-Hui Chen, Lizhu Hu, Dongmei Wang, Fan Zheng, Wenfan Wei, Chao Xu, Chengdong Huang, Xing Liu, Xuebiao Yao, Lijun Ding, Zhiyou Fang, Ai-Hui Tang, and Chuanhai Fu. The aaa-atpase yta4/atad1 interacts with the mitochondrial divisome to inhibit mitochondrial fission. PLOS Biology, 21(8):e3002247, August 2023. URL: http://dx.doi.org/10.1371/journal.pbio.3002247, doi:10.1371/journal.pbio.3002247. This article has 4 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.3002247)
+
+[9. (Winter2022Collateral) Jacob M Winter, Heidi L Fresenius, Corey N Cunningham, Peng Wei, Heather R Keys, Jordan Berg, Alex Bott, Tarun Yadav, Jeremy Ryan, Deepika Sirohi, Sheryl R Tripp, Paige Barta, Neeraj Agarwal, Anthony Letai, David M Sabatini, Matthew L Wohlever, and Jared Rutter. Collateral deletion of the mitochondrial aaa+ atpase atad1 sensitizes cancer cells to proteasome dysfunction. eLife, November 2022. URL: http://dx.doi.org/10.7554/elife.82860, doi:10.7554/elife.82860. This article has 8 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.82860)

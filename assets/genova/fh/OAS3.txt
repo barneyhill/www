@@ -1,0 +1,60 @@
+# OAS3
+
+## Overview
+The OAS3 gene encodes the protein 2'-5'-oligoadenylate synthetase 3, which is a crucial component of the innate immune system. This enzyme is part of the oligoadenylate synthetase (OAS) family and is primarily involved in antiviral defense mechanisms. Upon binding to double-stranded RNA (dsRNA), a common byproduct of viral replication, OAS3 catalyzes the formation of 2'-5'-linked oligoadenylates. These oligoadenylates act as secondary messengers to activate RNase L, an endoribonuclease that degrades viral and cellular RNA, thereby inhibiting viral replication (Ibsen2014The; Wang2020Length). OAS3 is unique among its family members due to its ability to be activated by lower concentrations of dsRNA and its capacity to produce longer oligoadenylates, enhancing its antiviral efficacy (Ibsen2014The). The protein's structure includes three domains, with the DIII domain being catalytically active, while DI and DII are involved in RNA binding (Schwartz2019RNA). Beyond its antiviral role, OAS3 is implicated in apoptosis and various diseases, including certain cancers and immune disorders, highlighting its multifaceted role in cellular defense and regulation (Li2022OAS3; Hovanessian2007The).
+
+## Structure
+The OAS3 protein is composed of three tandem OAS1-like domains: DI, DII, and DIII. Domain DI is catalytically inactive but plays a crucial role in binding double-stranded RNA (dsRNA), which is essential for the protein's function in antiviral defense (Donovan2015Structural). Domain DIII, located at the C-terminus, is the only catalytically active domain and is responsible for the synthesis of 2'-5'-linked oligoadenylates, which activate RNase L (Ibsen2014The; Donovan2015Structural). The structure of OAS3 is elongated, with a radius of gyration of approximately 47 Å and a maximum dimension of 155 Å, indicating a nonspherical, elongated shape (Ibsen2014The).
+
+The protein's tertiary structure includes a unique conformation in domain DI that prevents catalysis but enhances dsRNA binding, suggesting an evolutionary adaptation for dsRNA surveillance (Donovan2015Structural). The presence of tryptophan residues in DI limits the motion of certain helices, contributing to its hybrid conformation (Donovan2015Structural). OAS3 may also exhibit interdomain flexibility, as suggested by ensemble optimization method analysis (Ibsen2014The). The protein's structure and function are influenced by specific amino acids, such as the catalytic triad of aspartic acids in the active site of domain DIII (Ibsen2014The).
+
+## Function
+OAS3 (2'-5'-oligoadenylate synthetase 3) is an enzyme that plays a critical role in the innate immune response by detecting viral infections. It is activated by binding to long double-stranded RNA (dsRNA), which is often a byproduct of viral replication. Upon activation, OAS3 catalyzes the synthesis of 2'-5'-linked oligoadenylates (2-5A), which serve as secondary messengers to activate RNase L, an endoribonuclease that degrades both viral and cellular RNA, thereby inhibiting viral replication (Ibsen2014The; Wang2020Length).
+
+OAS3 is unique among the OAS family due to its ability to be activated at lower concentrations of dsRNA and its capacity to synthesize longer 2-5A oligomers, which are more effective in activating RNase L (Ibsen2014The). Structurally, OAS3 consists of three domains, with the DIII domain being catalytically active, while DI and DII are involved in RNA binding (Schwartz2019RNA). This structural arrangement allows OAS3 to bind and sense long dsRNA molecules, distinguishing viral RNA from self RNA (Wang2020Length; Schwartz2019RNA).
+
+In addition to its antiviral functions, OAS3 is implicated in apoptosis, as it can trigger cell death through caspase activation, independent of traditional apoptosis pathways (Hovanessian2007The). This multifaceted role highlights OAS3's importance in cellular defense and regulation.
+
+## Clinical Significance
+Mutations and alterations in the expression of the OAS3 gene have been implicated in various diseases and conditions. In chronic lymphocytic leukemia (CLL), a single nucleotide polymorphism (SNP) within the OAS3 gene, rs10735079, is significantly associated with increased risk. This SNP is linked to reduced OAS3 mRNA levels, suggesting that altered expression may contribute to CLL pathogenesis (Sava2014Common).
+
+In disorders of sex development (DSDs), mutations in OAS3, along with DMRT3, have been identified in a family with 46,XY DSD, leading to increased expression of estrogen receptor 1 (ESR1). This is due to disrupted interactions that normally promote ESR1 mRNA degradation, highlighting a novel role for OAS3 in sexual differentiation (Tsai2020Genetic).
+
+OAS3 expression is also linked to various cancers, where it is associated with tumor progression and prognosis. High OAS3 expression correlates with worse outcomes in cancers such as pancreatic adenocarcinoma and lung adenocarcinoma, while it is protective in melanoma. Its expression is related to immune cell infiltration and the tumor microenvironment, suggesting a role in cancer immunotherapy (Li2022OAS3; Wang2022Prognosis).
+
+In juvenile dermatomyositis, OAS3 expression is significantly upregulated, indicating its involvement in the immune response to viral infections, which may contribute to the disease's pathogenesis (Musumeci2018Expression).
+
+## Interactions
+OAS3 (2'-5'-oligoadenylate synthetase 3) is involved in several interactions critical to its role in the antiviral response. It binds strongly to double-stranded RNA (dsRNA), a key feature that distinguishes it from other OAS family members. This binding is facilitated by its noncatalytic domain, which enhances its affinity for dsRNA, particularly long dsRNA, and is crucial for its activation (Donovan2015Structural).
+
+OAS3 interacts with RNase L, a protein essential for antiviral defense. Upon activation by dsRNA, OAS3 synthesizes 2'-5'-linked oligoadenylates, which activate RNase L. This interaction leads to the degradation of viral and cellular RNA, a critical step in the antiviral response (Li2016Activation). OAS3 and RNase L co-localize in double-stranded RNA-induced foci (dRIFs) in the cytoplasm, where they form higher-order structures that concentrate antiviral proteins (Cusic2023OAS3).
+
+During viral infections, such as those caused by Zika and Dengue viruses, OAS3 and RNase L integrate into these dRIFs near viral replication sites, highlighting their role in antiviral signaling (Cusic2023OAS3). These interactions underscore the importance of OAS3 in the innate immune response against viral pathogens.
+
+
+## References
+
+
+[1. (Li2016Activation) Yize Li, Shuvojit Banerjee, Yuyan Wang, Stephen A. Goldstein, Beihua Dong, Christina Gaughan, Robert H. Silverman, and Susan R. Weiss. Activation of rnase l is dependent on oas3 expression during infection with diverse human viruses. Proceedings of the National Academy of Sciences, 113(8):2241–2246, February 2016. URL: http://dx.doi.org/10.1073/pnas.1519657113, doi:10.1073/pnas.1519657113. This article has 211 citations.](https://doi.org/10.1073/pnas.1519657113)
+
+[2. (Tsai2020Genetic) Chia-Lung Tsai, Chi-Neu Tsai, Yun-Shien Lee, Hsin-Shih Wang, Li-Yu Lee, Chiao-Yun Lin, Shu Yuan Yang, and Angel Chao. Genetic analysis of a taiwanese family identifies a dmrt3-oas3 interaction that is involved in human sexual differentiation through the regulation of esr1 expression. Fertility and Sterility, 114(1):133–143, July 2020. URL: http://dx.doi.org/10.1016/j.fertnstert.2020.03.008, doi:10.1016/j.fertnstert.2020.03.008. This article has 12 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.fertnstert.2020.03.008)
+
+[3. (Donovan2015Structural) Jesse Donovan, Gena Whitney, Sneha Rath, and Alexei Korennykh. Structural mechanism of sensing long dsrna via a noncatalytic domain in human oligoadenylate synthetase 3. Proceedings of the National Academy of Sciences, 112(13):3949–3954, March 2015. URL: http://dx.doi.org/10.1073/pnas.1419409112, doi:10.1073/pnas.1419409112. This article has 67 citations.](https://doi.org/10.1073/pnas.1419409112)
+
+[4. (Sava2014Common) G P Sava, H E Speedy, M C Di Bernardo, M J S Dyer, A Holroyd, N J Sunter, H Marr, L Mansouri, S Deaglio, L Karabon, I Frydecka, K Jamroziak, D Woszczyk, G Juliusson, K E Smedby, S Jayne, A Majid, Y Wang, C Dearden, A G Hall, T Mainou-Fowler, G H Jackson, G Summerfield, R J Harris, A R Pettitt, D J Allsup, J R Bailey, G Pratt, C Pepper, C Fegan, R Rosenquist, D Catovsky, J M Allan, and R S Houlston. Common variation at 12q24.13 (oas3) influences chronic lymphocytic leukemia risk. Leukemia, 29(3):748–751, November 2014. URL: http://dx.doi.org/10.1038/leu.2014.311, doi:10.1038/leu.2014.311. This article has 23 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/leu.2014.311)
+
+[5. (Li2022OAS3) Xin-yu Li, Lei Hou, Lu-yu Zhang, Liming Zhang, Deming Wang, Zhenfeng Wang, Ming-Zhe Wen, and Xi-tao Yang. Oas3 is a co-immune biomarker associated with tumour microenvironment, disease staging, prognosis, and treatment response in multiple cancer types. Frontiers in Cell and Developmental Biology, May 2022. URL: http://dx.doi.org/10.3389/fcell.2022.815480, doi:10.3389/fcell.2022.815480. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.815480)
+
+6. (Cusic2023OAS3) OAS3 and RNase L integrate into higher-order antiviral condensates. This article has 2 citations.
+
+[7. (Wang2020Length) Yinbiao Wang, Andreas Holleufer, Hans Henrik Gad, and Rune Hartmann. Length dependent activation of oas proteins by dsrna. Cytokine, 126:154867, February 2020. URL: http://dx.doi.org/10.1016/j.cyto.2019.154867, doi:10.1016/j.cyto.2019.154867. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cyto.2019.154867)
+
+[8. (Musumeci2018Expression) Giuseppe Musumeci, Paola Castrogiovanni, Ignazio Barbagallo, Daniele Tibullo, Cristina Sanfilippo, Giuseppe Nunnari, Giovanni Francesco Pellicanò, Piero Pavone, Rosario Caltabiano, Roberto Di Marco, Rosa Imbesi, and Michelino Di Rosa. Expression of the oas gene family is highly modulated in subjects affected by juvenile dermatomyositis, resembling an immune response to a dsrna virus infection. International Journal of Molecular Sciences, 19(9):2786, September 2018. URL: http://dx.doi.org/10.3390/ijms19092786, doi:10.3390/ijms19092786. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms19092786)
+
+[9. (Ibsen2014The) Mikkel Søes Ibsen, Hans Henrik Gad, Karthiga Thavachelvam, Thomas Boesen, Philippe Desprès, and Rune Hartmann. The 2′-5′-oligoadenylate synthetase 3 enzyme potently synthesizes the 2′-5′-oligoadenylates required for rnase l activation. Journal of Virology, 88(24):14222–14231, December 2014. URL: http://dx.doi.org/10.1128/jvi.01763-14, doi:10.1128/jvi.01763-14. This article has 63 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/jvi.01763-14)
+
+[10. (Hovanessian2007The) Ara G. Hovanessian and Just Justesen. The human 2′-5′oligoadenylate synthetase family: unique interferon-inducible enzymes catalyzing 2′-5′ instead of 3′-5′ phosphodiester bond formation. Biochimie, 89(6–7):779–788, June 2007. URL: http://dx.doi.org/10.1016/j.biochi.2007.02.003, doi:10.1016/j.biochi.2007.02.003. This article has 155 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.biochi.2007.02.003)
+
+[11. (Schwartz2019RNA) Samantha L. Schwartz and Graeme L. Conn. Rna regulation of the antiviral protein 2′‐5′‐oligoadenylate synthetase. WIREs RNA, April 2019. URL: http://dx.doi.org/10.1002/wrna.1534, doi:10.1002/wrna.1534. This article has 72 citations.](https://doi.org/10.1002/wrna.1534)
+
+12. (Wang2022Prognosis) Prognosis and Immune Cell Infiltration Analysis of OAS Family Genes in Pan-Cancer. This article has 0 citations.

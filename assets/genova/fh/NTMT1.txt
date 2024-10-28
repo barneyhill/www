@@ -1,0 +1,58 @@
+# NTMT1
+
+## Overview
+NTMT1, or N-terminal Xaa-Pro-Lys N-methyltransferase 1, is a gene that encodes an enzyme of the same name, which is a member of the methyltransferase family. This enzyme is responsible for the methylation of proteins at their N-terminal amino acids, specifically targeting the X-Pro-Lys motif. As an α-N-terminal methyltransferase, NTMT1 plays a critical role in post-translational modifications, influencing protein stability, localization, and interactions. The enzyme is active in both the nucleus and cytoplasm, where it participates in essential cellular processes such as DNA repair, cell cycle progression, and gene expression. NTMT1's activity is crucial for maintaining normal cellular functions, and its dysregulation has been implicated in various cancers, highlighting its potential as a therapeutic target (Mackie2020Selective; Varland2015N‐terminal; Chang2023Impact).
+
+## Structure
+The NTMT1 protein is an α-N-terminal methyltransferase that is highly conserved from yeast to humans. It specifically methylates substrates with an N-terminal consensus sequence XPK, where X can be various amino acids (Dong2015Structural). The primary structure of NTMT1 includes a sequence that allows it to recognize and bind to this specific motif. 
+
+In terms of secondary structure, NTMT1 folds as a single domain with a typical methyltransferase Rossmann fold, consisting of a seven-strand β sheet and five α helices (Dong2015Structural). Unique to NTMT1 are a β hairpin and an N-terminal extension that are involved in substrate binding, contributing to substrate specificity (Dong2015Structural).
+
+The tertiary structure of NTMT1 reveals that the cofactor S-adenosyl-L-homocysteine (SAH) is bound in an extended conformation, similar to other Rossmann fold methyltransferases, and is completely buried inside the NTMT1 ternary complex (Dong2015Structural). The substrate peptide binds to a negatively charged channel in NTMT1, with the α-N-amino group positioned to accept a methyl group from SAM (Dong2015Structural).
+
+NTMT1's structure also includes key residues such as Asp180 and His140, which are crucial for its catalytic activity, facilitating the deprotonation of the α-amino group and mediating the methyl transfer from S-adenosylmethionine (SAM) (Dong2015Structural).
+
+## Function
+NTMT1 (N-terminal Xaa-Pro-Lys N-methyltransferase 1) is an enzyme that plays a crucial role in the methylation of the N-terminal amino acids of proteins, specifically targeting the X-Pro-Lys motif. This post-translational modification is essential for regulating protein-protein interactions, stability, and localization. NTMT1 is active in both the nucleus and cytoplasm, influencing key cellular processes such as DNA repair, cell cycle progression, and gene expression (Varland2015N‐terminal).
+
+In healthy human cells, NTMT1 is involved in the regulation of cell mitosis and DNA damage repair. It enhances the binding of chromatin with centromere protein A (CENPA) and regulator of chromosome condensation 1 (RCC1), as well as DNA damage-binding protein 2 (DDB2) with DNA damage foci (Mackie2020Selective). NTMT1 also methylates proteins such as RCC1, which is essential for chromatin association and cell mitosis, and CENP-A/B, which are important for chromosome segregation and centromere formation (mao2016substrate).
+
+The enzyme's activity is crucial for maintaining normal cellular functions and preventing premature aging, as evidenced by NTMT1-knockout mice exhibiting premature aging phenotypes (Jia2019In). NTMT1's broad substrate specificity suggests its significant role in modifying a wide range of proteins, potentially affecting their function and interactions (mao2016substrate).
+
+## Clinical Significance
+NTMT1 has been implicated in the pathogenesis of various cancers due to its role in protein methylation. Alterations in NTMT1 expression or function are associated with several cancer types, including breast, colorectal, pancreatic, and lung cancers (Diaz2021Past; Chang2023Impact). In lung adenocarcinoma, high NTMT1 expression correlates with poor disease prognosis and progression-free survival, suggesting its role as an oncogene (Campeanu2021Bioinformatic; Campeanu2021Multiomics).
+
+NTMT1 can function as either a tumor suppressor or an oncogene, depending on the cancer type and pathways involved. For instance, in breast cancer, loss of NTMT1 is linked to increased oncogenic markers and heightened sensitivity to DNA damage, indicating a potential tumor suppressive role (Demetriadou2020Histone). Conversely, NTMT1 is often upregulated in other cancers, promoting cell proliferation (Demetriadou2020Histone).
+
+Mutations affecting NTMT1's enzymatic activity, such as the N209I mutation in endometrial cancer and the P211S mutation in lung cancer, have been identified, altering its methylation activity and contributing to carcinogenesis (Demetriadou2020Histone). These findings highlight the complex role of NTMT1 in cancer and its potential as a therapeutic target.
+
+## Interactions
+NTMT1, also known as N-terminal Xaa-Pro-Lys N-methyltransferase 1, is involved in various protein interactions that are crucial for cellular processes. It specifically methylates the N-terminal amines of proteins with the X-P-K/R motif, influencing protein-protein and protein-DNA interactions. One of its well-documented interactions is with RCC1 (Regulator of Chromosome Condensation 1), where NTMT1-mediated methylation is essential for RCC1's chromatin association, impacting cell mitosis (Dong2022Improved; mao2016substrate). NTMT1 also interacts with the retinoblastoma protein (Rb), a tumor suppressor, highlighting its role in cell cycle regulation (mao2016substrate).
+
+NTMT1's interaction with the SET protein and 60S ribosomal protein L23a (RL23A) has been identified, with methylation affecting their functions in cellular processes (Jia2019In). The enzyme also methylates OLA1, a member of the P-loop GTPases, which is involved in regulating critical cellular functions and cancer (Jia2019In). Additionally, NTMT1 interacts with CENP-A and CENP-B, proteins involved in chromosome segregation and centromere formation, through specific N-terminal motifs (mao2016substrate). These interactions underscore NTMT1's significant role in regulating mitosis, DNA damage repair, and other cellular functions.
+
+
+## References
+
+
+[1. (Diaz2021Past) Krystal Diaz, Ying Meng, and Rong Huang. Past, present, and perspectives of protein n-terminal methylation. Current Opinion in Chemical Biology, 63:115–122, August 2021. URL: http://dx.doi.org/10.1016/j.cbpa.2021.02.017, doi:10.1016/j.cbpa.2021.02.017. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cbpa.2021.02.017)
+
+[2. (Campeanu2021Multiomics) Ion John Campeanu, Yuanyuan Jiang, Lanxin Liu, Maksymilian Pilecki, Alvina Najor, Era Cobani, Morenci Manning, Xiaohong Mary Zhang, and Zeng-Quan Yang. Multi-omics integration of methyltransferase-like protein family reveals clinical outcomes and functional signatures in human cancer. Scientific Reports, July 2021. URL: http://dx.doi.org/10.1038/s41598-021-94019-5, doi:10.1038/s41598-021-94019-5. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-021-94019-5)
+
+3. (mao2016substrate) Substrate Recognition and Mechanistic Studies of Protein N-Terminal Methyltransferase 1. This article has 0 citations.
+
+[4. (Chang2023Impact) Yie-Hwa Chang. Impact of protein nα-modifications on cellular functions and human health. Life, 13(7):1613, July 2023. URL: http://dx.doi.org/10.3390/life13071613, doi:10.3390/life13071613. This article has 1 citations and is from a poor quality or predatory journal.](https://doi.org/10.3390/life13071613)
+
+[5. (Dong2022Improved) Guangping Dong, Iredia D. Iyamu, Jonah Z. Vilseck, Dongxing Chen, and Rong Huang. Improved cell-potent and selective peptidomimetic inhibitors of protein n-terminal methyltransferase 1. Molecules, 27(4):1381, February 2022. URL: http://dx.doi.org/10.3390/molecules27041381, doi:10.3390/molecules27041381. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/molecules27041381)
+
+6. (Campeanu2021Bioinformatic) Bioinformatic analysis of methyltransferase-like protein family reveals clinical and functional outcomes in human cancer. This article has 0 citations.
+
+[7. (Varland2015N‐terminal) Sylvia Varland, Camilla Osberg, and Thomas Arnesen. N‐terminal modifications of cellular proteins: the enzymes involved, their substrate specificities and biological effects. PROTEOMICS, 15(14):2385–2401, June 2015. URL: http://dx.doi.org/10.1002/pmic.201400619, doi:10.1002/pmic.201400619. This article has 208 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pmic.201400619)
+
+[8. (Dong2015Structural) Cheng Dong, Yunfei Mao, Wolfram Tempel, Su Qin, Li Li, Peter Loppnau, Rong Huang, and Jinrong Min. Structural basis for substrate recognition by the human n-terminal methyltransferase 1. Genes &amp; Development, 29(22):2343–2348, November 2015. URL: http://dx.doi.org/10.1101/gad.270611.115, doi:10.1101/gad.270611.115. This article has 43 citations.](https://doi.org/10.1101/gad.270611.115)
+
+[9. (Jia2019In) Kaimin Jia, Gaochao Huang, Wei Wu, Ruben Shrestha, Bingbing Wu, Yulan Xiong, and Ping Li. In vivomethylation of ola1 revealed by activity-based target profiling of ntmt1. Chemical Science, 10(35):8094–8099, 2019. URL: http://dx.doi.org/10.1039/c9sc02550b, doi:10.1039/c9sc02550b. This article has 12 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1039/c9sc02550b)
+
+[10. (Mackie2020Selective) Brianna D. Mackie, Dongxing Chen, Guangping Dong, Cheng Dong, Haley Parker, Christine E. Schaner Tooley, Nicholas Noinaj, Jinrong Min, and Rong Huang. Selective peptidomimetic inhibitors of ntmt1/2: rational design, synthesis, characterization, and crystallographic studies. Journal of Medicinal Chemistry, 63(17):9512–9522, July 2020. URL: http://dx.doi.org/10.1021/acs.jmedchem.0c00689, doi:10.1021/acs.jmedchem.0c00689. This article has 11 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1021/acs.jmedchem.0c00689)
+
+[11. (Demetriadou2020Histone) Christina Demetriadou, Costas Koufaris, and Antonis Kirmizis. Histone n-alpha terminal modifications: genome regulation at the tip of the tail. Epigenetics &amp; Chromatin, July 2020. URL: http://dx.doi.org/10.1186/s13072-020-00352-w, doi:10.1186/s13072-020-00352-w. This article has 46 citations.](https://doi.org/10.1186/s13072-020-00352-w)

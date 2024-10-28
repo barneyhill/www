@@ -1,0 +1,46 @@
+# SHLD2
+
+## Overview
+SHLD2 is a gene that encodes the protein shieldin complex subunit 2, a crucial component of the shieldin complex involved in DNA double-strand break (DSB) repair. The SHLD2 protein functions primarily as a scaffold within the complex, facilitating the non-homologous end joining (NHEJ) pathway by stabilizing interactions with other subunits such as SHLD1, SHLD3, and REV7. This stabilization is essential for protecting DNA ends from excessive resection, thereby maintaining genomic stability (Susvirkar2022Molecular; Setiaputra2019Shieldin). The protein contains oligosaccharide/oligonucleotide binding (OB) folds that enable it to bind single-stranded DNA, playing a pivotal role in suppressing homologous recombination (HR) (Setiaputra2019Shieldin). SHLD2's activity is critical in the context of cancer, where its expression levels can influence treatment outcomes, particularly in BRCA1-deficient cancers (Jachimowicz2019DNA).
+
+## Structure
+The SHLD2 protein is a 904-amino-acid component of the shieldin complex, which plays a crucial role in DNA double-strand break (DSB) repair. The molecular structure of SHLD2 includes several domains that contribute to its function. The N-terminal domain is critical for recruitment to DSBs, as deletion of the first 60 amino acids completely abrogates its accumulation at these sites (Findlay2018SHLD). This region also contains a REV7 interacting motif (RIM), which is essential for the assembly of the shieldin complex (Liang2020Molecular).
+
+The C-terminal region of SHLD2 contains putative oligonucleotide/oligosaccharide-binding (OB) folds, which are important for DNA binding, particularly to single-stranded DNA (Susvirkar2022Molecular). These OB folds resemble those found in RPA70 and are connected by a predicted disordered linker (Liang2020Molecular). SHLD2 can bind both single-stranded and double-stranded DNA in vitro, although this capacity is significantly impaired when a large portion of the C-terminus is deleted (Findlay2018SHLD).
+
+SHLD2 is involved in the quaternary structure of the shieldin complex, interacting with SHLD3 and REV7 to form a ternary complex. This interaction is crucial for the efficiency of non-homologous end joining (NHEJ) (Liang2020Molecular). The protein acts as a scaffold within the complex, stabilizing interactions between other subunits (Susvirkar2022Molecular).
+
+## Function
+SHLD2, a subunit of the shieldin complex, plays a critical role in DNA double-strand break (DSB) repair, particularly in the non-homologous end joining (NHEJ) pathway. It functions as a scaffold protein within the shieldin complex, which includes SHLD1, SHLD3, and REV7, and is essential for maintaining genomic stability by protecting DNA ends from excessive resection (Susvirkar2022Molecular; Setiaputra2019Shieldin). SHLD2 contains three tandem oligosaccharide/oligonucleotide binding (OB) folds, which are crucial for its ability to bind single-stranded DNA (ssDNA) and suppress homologous recombination (HR) (Setiaputra2019Shieldin).
+
+The shieldin complex is recruited to DSB sites downstream of 53BP1 and RIF1, where SHLD2's interaction with other proteins, such as SHLD3 and REV7, stabilizes the complex and facilitates its function in DNA repair (Liang2020Molecular). This recruitment is essential for inhibiting long-range resection by nucleases like EXO1 and DNA2/BLM, thereby promoting NHEJ over HR (Setiaputra2019Shieldin). SHLD2's activity in the nucleus is vital for maintaining genomic integrity and preventing genomic anomalies that could lead to various disorders (Susvirkar2022Molecular).
+
+## Clinical Significance
+Alterations in the SHLD2 gene, also known as FAM35A, have significant clinical implications, particularly in the context of cancer. Overexpression of SHLD2 is associated with poor prognosis in breast cancer patients, especially those with triple-negative breast cancer (TNBC) and basal-like breast cancer. High levels of SHLD2 correlate with lower relapse-free survival, suggesting its potential role as a biomarker for these cancer subtypes (Findlay2018SHLD). 
+
+In BRCA1-deficient cells, SHLD2 plays a critical role in DNA repair pathway choice. Its depletion can lead to resistance to PARP inhibitors, a class of drugs used in cancer treatment, by restoring homologous recombination (HR) (Jachimowicz2019DNA; Setiaputra2019Shieldin). This resistance highlights the potential impact of SHLD2 expression levels on treatment outcomes in BRCA1-related cancers. 
+
+SHLD2 is also deleted in a significant percentage of prostate cancers and some BRCA1-defective TNBC cell lines, indicating its broader relevance in cancer pathogenesis (Fackrell2020FAM35ASHLD2RINN2:). These findings underscore the importance of SHLD2 in cancer biology and its potential as a target for therapeutic intervention.
+
+## Interactions
+SHLD2, a component of the shieldin complex, interacts with several proteins and nucleic acids to facilitate DNA double-strand break repair through non-homologous end joining (NHEJ). It forms a complex with SHLD1, SHLD3, and REV7, which is crucial for its function in DNA repair. SHLD2 interacts specifically with the open conformation of REV7 (O-REV7) and the N-terminus of SHLD3, forming a β sheet sandwich that is essential for the assembly of the shieldin complex and the suppression of DNA termini nucleolytic resection during NHEJ (Liang2020Molecular).
+
+SHLD2 is recruited to sites of DNA damage in a manner dependent on 53BP1, RIF1, and REV7, but not BRCA1, indicating its specific role in NHEJ over homologous recombination (HR) (Findlay2018SHLD). The N-terminal domain of SHLD2 is critical for its recruitment to DNA damage sites, while its C-terminal domain is important for DNA-binding capacity, allowing it to bind both single-stranded and double-stranded DNA (Findlay2018SHLD).
+
+SHLD2 also interacts with other proteins such as HNRNPA1 and TRIM25, and is associated with the COP9 signalosome and the Cullin-RING E3 Ubiquitin ligase family, although no common complex relevant for DNA repair was identified between REV7 and SHLD2 datasets (Findlay2018SHLD).
+
+
+## References
+
+
+[1. (Fackrell2020FAM35ASHLD2RINN2:) Kylie Fackrell, LoriAnn Bobins, Parul, and Junya Tomida. <scp>fam35a</scp>/<scp>shld2</scp>/<scp>rinn2</scp>: a novel determinant of <scp>double strand break</scp> repair pathway choice and genome stability in cancer. Environmental and Molecular Mutagenesis, 61(7):709–715, July 2020. URL: http://dx.doi.org/10.1002/em.22379, doi:10.1002/em.22379. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/em.22379)
+
+[2. (Jachimowicz2019DNA) Ron D. Jachimowicz, Jonas Goergens, and H. Christian Reinhardt. Dna double-strand break repair pathway choice - from basic biology to clinical exploitation. Cell Cycle, 18(13):1423–1434, May 2019. URL: http://dx.doi.org/10.1080/15384101.2019.1618542, doi:10.1080/15384101.2019.1618542. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/15384101.2019.1618542)
+
+3. (Susvirkar2022Molecular) Molecular insights into human Shieldin complex assembly and recruitment to DSBs. This article has 3 citations.
+
+[4. (Liang2020Molecular) Ling Liang, Jiawen Feng, Peng Zuo, Juan Yang, Yishuo Lu, and Yuxin Yin. Molecular basis for assembly of the shieldin complex and its implications for nhej. Nature Communications, April 2020. URL: http://dx.doi.org/10.1038/s41467-020-15879-5, doi:10.1038/s41467-020-15879-5. This article has 38 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-020-15879-5)
+
+[5. (Setiaputra2019Shieldin) Dheva Setiaputra and Daniel Durocher. Shieldin – the protector of <scp>dna</scp> ends. EMBO reports, April 2019. URL: http://dx.doi.org/10.15252/embr.201847560, doi:10.15252/embr.201847560. This article has 177 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.15252/embr.201847560)
+
+[6. (Findlay2018SHLD) Steven Findlay, John Heath, Vincent M Luo, Abba Malina, Théo Morin, Yan Coulombe, Billel Djerir, Zhigang Li, Arash Samiei, Estelle Simo‐Cheyou, Martin Karam, Halil Bagci, Dolev Rahat, Damien Grapton, Elise G Lavoie, Christian Dove, Husam Khaled, Hellen Kuasne, Koren K Mann, Kathleen Oros Klein, Celia M Greenwood, Yuval Tabach, Morag Park, Jean‐Francois Côté, Jean‐Yves Masson, Alexandre Maréchal, and Alexandre Orthwein. <scp>shld</scp> 2/ <scp>fam</scp> 35a co‐operates with <scp>rev</scp> 7 to coordinate <scp>dna</scp> double‐strand break repair pathway choice. The EMBO Journal, August 2018. URL: http://dx.doi.org/10.15252/embj.2018100158, doi:10.15252/embj.2018100158. This article has 136 citations.](https://doi.org/10.15252/embj.2018100158)

@@ -1,0 +1,40 @@
+# COX18
+
+## Overview
+The COX18 gene encodes the cytochrome c oxidase assembly factor COX18, a transmembrane protein that plays a crucial role in the assembly of cytochrome c oxidase, a key component of the mitochondrial respiratory chain. This protein is localized to the mitochondrial inner membrane and is a member of the Alb3/Oxa1/YidC family, which is involved in the membrane insertion of transmembrane proteins (Sacconi2005hCOX18). COX18 is specifically responsible for the translocation of the C-terminal domain of the Cox2 protein across the mitochondrial inner membrane, a process essential for the proper assembly and function of cytochrome c oxidase (Bonnefoy2009Roles). Mutations in the COX18 gene have been linked to mitochondrial disorders, including a form of Charcot-Marie-Tooth disease, highlighting its clinical significance in mitochondrial function and peripheral neuropathy (ArmirolaRicaurte2024Biallelic).
+
+## Structure
+The COX18 protein, encoded by the human COX18 gene, is involved in the assembly of cytochrome c oxidase and is localized to the mitochondrial inner membrane. It consists of 333 amino acids with a predicted molecular weight of 37,105 Da (Sacconi2005hCOX18). The protein is a member of the Alb3/Oxa1/YidC family, which is known for its role in the membrane insertion of transmembrane proteins (Sacconi2005hCOX18). 
+
+The COX18 protein is predicted to have a five-helix membrane topology, similar to Oxa1p, with the first three transmembrane domains consistently predicted across various models. The fourth and fifth domains are less certain, with some models suggesting they may be identified as a single domain (Sacconi2005hCOX18). The protein's structure is characterized by the 'positive inside rule' typical of mitochondrial inner membrane proteins, and it lacks the hydrophilic C-terminal domain found in other Oxa1 proteins (Sacconi2005hCOX18).
+
+The I-TASSER model of COX18 suggests a reliable structural prediction for residues 50-300, consistent with its transmembrane topology, where hydrophobic amino acids are exposed in the transmembrane region, and aromatic and positively charged residues flank the transmembrane segments (Abriata2017Structural).
+
+## Function
+
+
+## Clinical Significance
+Mutations in the COX18 gene are associated with a mitochondrial disorder primarily manifesting as peripheral neuropathy, specifically a form of Charcot-Marie-Tooth (CMT) disease. This condition is characterized by sensory-motor axonal polyneuropathy, muscle weakness, atrophy, and foot deformities, with significant motor impairment affecting ambulation. Electrophysiological studies reveal axonal degeneration of motor and sensory nerves (ArmirolaRicaurte2024Biallelic). The clinical presentation of COX18-related neuropathy varies, with disease onset ranging from late childhood to middle adulthood, and symptoms include muscle weakness, sensory loss, and decreased deep tendon reflexes (ArmirolaRicaurte2024Biallelic).
+
+Specific biallelic variants, such as missense and splice variants, have been identified in COX18, which disrupt its structure and function, affecting mitochondrial protein translocation. For instance, the splice variant c.435-6A>G reduces the expression of the canonical transcript and generates an aberrant transcript, leading to a partially functional mutant protein. This affects the translocation and stability of MTCO2, a core subunit of cytochrome c oxidase (CIV), resulting in decreased CIV enzymatic activity and impaired mitochondrial membrane potential (ArmirolaRicaurte2024Biallelic). These findings highlight the role of COX18 mutations in mitochondrial dysfunction and their contribution to peripheral neuropathy and potentially central nervous system involvement (ArmirolaRicaurte2024Biallelic).
+
+## Interactions
+COX18 is involved in the assembly of cytochrome c oxidase in Saccharomyces cerevisiae, specifically facilitating the translocation of the Cox2 C-terminal domain across the mitochondrial inner membrane. COX18 interacts with the Cox2 and Cox3 proteins in a stable manner, differing from the transient interactions observed with Oxa1 (Bonnefoy2009Roles). It functions in conjunction with Mss2, a peripheral inner membrane protein, and Pnt1, an integral membrane protein, both of which are involved in the membrane insertion process. These proteins co-immune precipitate with newly synthesized Cox2, indicating a physical interaction (Bonnefoy2009Roles; Fiumera2009Translocation).
+
+COX18 does not interact with other respiratory complexes' assembly, unlike Oxa1, and is specifically required for the post-translational export of the Cox2 C-tail domain (Fiumera2009Translocation). The absence of COX18 disrupts the interaction between COX11 and COX2, which is necessary for the proper assembly of cytochrome c oxidase (Nývltová2022Coordination). COX18's role is distinct from Oxa1, as it lacks the C-terminal ribosome-binding domain present in Oxa1, which contributes to their functional differences (Fiumera2009Translocation).
+
+
+## References
+
+
+[1. (Bonnefoy2009Roles) Nathalie Bonnefoy, Heather L. Fiumera, Geneviève Dujardin, and Thomas D. Fox. Roles of oxa1-related inner-membrane translocases in assembly of respiratory chain complexes. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1793(1):60–70, January 2009. URL: http://dx.doi.org/10.1016/j.bbamcr.2008.05.004, doi:10.1016/j.bbamcr.2008.05.004. This article has 71 citations.](https://doi.org/10.1016/j.bbamcr.2008.05.004)
+
+2. (Abriata2017Structural) Structural models and considerations on the COA6, COX18 and COX20 factors that assist assembly of human cytochrome c oxidase subunit II. This article has 2 citations.
+
+[3. (Sacconi2005hCOX18) Sabrina Sacconi, Eva Trevisson, Francesca Pistollato, Maria Cristina Baldoin, Roger Rezzonico, Isabelle Bourget, Claude Desnuelle, Romano Tenconi, Giuseppe Basso, Salvatore DiMauro, and Leonardo Salviati. Hcox18 and hcox19: two human genes involved in cytochrome c oxidase assembly. Biochemical and Biophysical Research Communications, 337(3):832–839, November 2005. URL: http://dx.doi.org/10.1016/j.bbrc.2005.09.127, doi:10.1016/j.bbrc.2005.09.127. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2005.09.127)
+
+[4. (Fiumera2009Translocation) Heather L Fiumera, Maitreya J Dunham, Scott A Saracco, Christine A Butler, Jessica A Kelly, and Thomas D Fox. Translocation and assembly of mitochondrially coded saccharomyces cerevisiae cytochrome c oxidase subunit cox2 by oxa1 and yme1 in the absence of cox18. Genetics, 182(2):519–528, June 2009. URL: http://dx.doi.org/10.1534/genetics.109.101196, doi:10.1534/genetics.109.101196. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1534/genetics.109.101196)
+
+[5. (Nývltová2022Coordination) Eva Nývltová, Jonathan V. Dietz, Javier Seravalli, Oleh Khalimonchuk, and Antoni Barrientos. Coordination of metal center biogenesis in human cytochrome c oxidase. Nature Communications, June 2022. URL: http://dx.doi.org/10.1038/s41467-022-31413-1, doi:10.1038/s41467-022-31413-1. This article has 42 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-31413-1)
+
+6. (ArmirolaRicaurte2024Biallelic) Biallelic variants inCOX18cause a mitochondrial disorder primarily manifesting as peripheral neuropathy. This article has 0 citations.

@@ -1,0 +1,35 @@
+# SHLD1
+
+## Overview
+SHLD1 is a gene that encodes the protein shieldin complex subunit 1, a critical component of the Shieldin complex involved in DNA repair mechanisms. The Shieldin complex, which includes SHLD1, plays a pivotal role in the non-homologous end joining (NHEJ) pathway, a major DNA repair process that maintains genomic stability by repairing double-strand breaks (DSBs) (Susvirkar2024Biochemical; Setiaputra2019Shieldin). SHLD1 is characterized by its small size, consisting of 205 amino acids, and contains a winged helix domain in its C-terminus, which is associated with DNA binding and stabilization (Susvirkar2024Biochemical; Setiaputra2019Shieldin). This protein interacts with other components of the Shieldin complex, such as SHLD2 and REV7, to form a multi-protein assembly that promotes NHEJ and limits homologous recombination (HR) (Findlay2018SHLD). Through these interactions, SHLD1 contributes to the protection of DNA ends from nucleolytic resection, thereby facilitating efficient DNA repair and playing a role in processes like class-switch recombination (CSR) and V(D)J recombination, which are essential for immune system function (King2023Shieldin).
+
+## Structure
+The SHLD1 protein, a component of the Shieldin complex, is the smallest member, consisting of 205 amino acids (Susvirkar2024Biochemical). It is suggested to contain a winged helix domain in its C-terminus, similar to the STN1 subunit of the CST complex (Setiaputra2019Shieldin). This domain is associated with DNA binding and stabilization, indicating its role in the ssDNA-binding module of the Shieldin complex (Setiaputra2019Shieldin).
+
+SHLD1 interacts with the C-terminus of SHLD2, enhancing SHLD2's DNA binding activity, potentially by increasing its stability within cells (Susvirkar2024Biochemical). This interaction is crucial for the formation of the ssDNA-binding module, which includes SHLD1 and the C-terminal OB-folds of SHLD2 (Setiaputra2019Shieldin). The presence of tandem OB-folds in SHLD2 suggests a direct mechanism of action for Shieldin through ssDNA binding (Setiaputra2019Shieldin).
+
+The molecular structure of SHLD1 beyond these details is not well characterized in the available literature, and specific information on its secondary, tertiary, and quaternary structures, as well as post-translational modifications or splice variants, is not provided in the context.
+
+## Function
+SHLD1, also known as shieldin complex subunit 1, is a crucial component of the shieldin complex, which plays a significant role in DNA repair processes, particularly in non-homologous end joining (NHEJ). This complex is part of the 53BP1-RIF1 pathway and is involved in protecting DNA ends from nucleolytic resection, thereby promoting NHEJ over homologous recombination (HR) (Susvirkar2024Biochemical; Setiaputra2019Shieldin). SHLD1 interacts with the C-terminus of SHLD2, enhancing SHLD2's DNA binding activity and potentially increasing its stability in cells (Susvirkar2024Biochemical).
+
+In healthy human cells, SHLD1 is active in the nucleus, where it contributes to maintaining genomic stability by facilitating the repair of double-strand breaks (DSBs) (Susvirkar2022Molecular). It is involved in the 'resection rescue' model, where it recruits the CST-Polα complex to DSBs and dysfunctional telomeres, facilitating fill-in synthesis to convert single-stranded DNA back to double-stranded DNA (Susvirkar2024Biochemical). This activity helps minimize DNA alterations and supports repair by NHEJ, which is crucial for processes like class-switch recombination (CSR) and V(D)J recombination, essential for the diversification of immune antigen receptors (King2023Shieldin).
+
+## Interactions
+SHLD1, a component of the Shieldin complex, participates in several critical interactions essential for DNA repair processes. It forms a multi-protein complex with SHLD2, SHLD3, and REV7, which is crucial for promoting non-homologous end joining (NHEJ) and limiting homologous recombination (HR) (Findlay2018SHLD). SHLD1 interacts directly with SHLD2 and REV7, as demonstrated by co-immunoprecipitation studies, although these interactions do not increase upon ionizing radiation treatment (Findlay2018SHLD).
+
+The recruitment of SHLD1 to sites of DNA damage is part of a hierarchical process, where SHLD3 is recruited first, followed by REV7, SHLD2, and finally SHLD1 (Susvirkar2024Biochemical). SHLD1, along with SHLD2, forms the ssDNA-binding module of the Shieldin complex, which blocks exonuclease access to single-stranded DNA ends, thereby inhibiting resection (Susvirkar2022Molecular; Setiaputra2019Shieldin). This interaction is crucial for the complex's role in DNA repair and its potential impact on cancer therapies, particularly in BRCA1-defective cells where Shieldin levels correlate with sensitivity to PARP inhibitors (Susvirkar2024Biochemical).
+
+
+## References
+
+
+1. (King2023Shieldin) Shieldin and CST co-orchestrate DNA polymerase-dependent tailed-end joining reactions independently of 53BP1-governed repair pathway choice. This article has 1 citations.
+
+2. (Susvirkar2022Molecular) Molecular insights into human Shieldin complex assembly and recruitment to DSBs. This article has 3 citations.
+
+3. (Susvirkar2024Biochemical) Biochemical characterization of human shieldin complex. This article has 0 citations.
+
+[4. (Setiaputra2019Shieldin) Dheva Setiaputra and Daniel Durocher. Shieldin – the protector of <scp>dna</scp> ends. EMBO reports, April 2019. URL: http://dx.doi.org/10.15252/embr.201847560, doi:10.15252/embr.201847560. This article has 177 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.15252/embr.201847560)
+
+[5. (Findlay2018SHLD) Steven Findlay, John Heath, Vincent M Luo, Abba Malina, Théo Morin, Yan Coulombe, Billel Djerir, Zhigang Li, Arash Samiei, Estelle Simo‐Cheyou, Martin Karam, Halil Bagci, Dolev Rahat, Damien Grapton, Elise G Lavoie, Christian Dove, Husam Khaled, Hellen Kuasne, Koren K Mann, Kathleen Oros Klein, Celia M Greenwood, Yuval Tabach, Morag Park, Jean‐Francois Côté, Jean‐Yves Masson, Alexandre Maréchal, and Alexandre Orthwein. <scp>shld</scp> 2/ <scp>fam</scp> 35a co‐operates with <scp>rev</scp> 7 to coordinate <scp>dna</scp> double‐strand break repair pathway choice. The EMBO Journal, August 2018. URL: http://dx.doi.org/10.15252/embj.2018100158, doi:10.15252/embj.2018100158. This article has 136 citations.](https://doi.org/10.15252/embj.2018100158)

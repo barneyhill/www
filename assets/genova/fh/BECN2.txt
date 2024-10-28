@@ -1,0 +1,44 @@
+# BECN2
+
+## Overview
+BECN2 is a gene that encodes the protein beclin 2, which is a key player in autophagy and lysosomal degradation pathways. Beclin 2 is a member of the Beclin family of proteins and shares structural similarities with beclin 1, another well-studied autophagy-related protein. It is characterized by several distinct domains, including an intrinsically disordered region, a flexible helical domain, a coiled-coil domain, and a β-α repeat autophagy-specific domain, which facilitate its interactions with various proteins involved in autophagy and cellular trafficking (Su2017BECN2). Unlike beclin 1, beclin 2 has unique functions, such as the lysosomal degradation of G protein-coupled receptors (GPCRs), which is crucial for regulating metabolic processes and maintaining cellular homeostasis (He2013Beclin). Beclin 2 also plays a role in modulating inflammasome activation, thereby influencing immune responses (Deng2021BECN2). The gene's involvement in these pathways underscores its significance in both normal cellular function and disease states, including its potential implications in drug tolerance and addiction (Kuramoto2016Autophagy; Kim2021An).
+
+## Structure
+BECN2 (beclin 2) is a protein involved in autophagy and endolysosomal degradation, sharing structural similarities with BECN1 (beclin 1). The primary structure of BECN2 includes several distinct domains: an intrinsically disordered region (IDR) from residues 1-121, a flexible helical domain (FHD) from residues 122-152, a coiled-coil domain (CCD) from residues 158-250, and a β-α repeat autophagy-specific domain (BARAD) from residues 251-431 (Su2017BECN2).
+
+The IDR is the most variable region and includes residues equivalent to the BECN1 BH3 domain, although a critical residue for BCL2 binding is not conserved in BECN2 (Su2017BECN2). The CCD forms a curved, anti-parallel homodimer with a left-handed twist, characterized by non-ideal packing interactions and a weak self-association, with a dissociation constant (K_d) of 138.3 µM (Su2017BECN2). This weak homodimerization facilitates the formation of a stronger heterodimer with ATG14, which is crucial for autophagy (Su2017BECN2).
+
+The BECN2:ATG14 heterodimer is stabilized by inter-chain polar interactions and involves a parallel arrangement of CCDs, with a buried surface area of 1814 Å² (Su2017BECN2). The structural flexibility and interaction dynamics of BECN2 are essential for its role in autophagy and cellular trafficking.
+
+## Function
+Beclin 2, encoded by the BECN2 gene, is a protein involved in autophagy and lysosomal degradation pathways in human cells. It plays a crucial role in the formation of autophagosomes, which are essential for the degradation and recycling of cellular components. Beclin 2 interacts with components of the class III PI3K complex and Bcl-2, contributing to autophagy, although it has distinct functions compared to Beclin 1, another member of the Beclin family (He2013Beclin).
+
+In addition to its role in autophagy, Beclin 2 is involved in the lysosomal degradation of G protein-coupled receptors (GPCRs), particularly through its interaction with GASP1. This function is unique to Beclin 2 and does not involve the Beclin 1/VPS34/ATG14 complex (He2013Beclin). Beclin 2's involvement in GPCR degradation is significant for regulating metabolic processes, as evidenced by its role in controlling cannabinoid receptor signaling and its association with obesity and insulin resistance in knockout mice (He2013Beclin).
+
+Beclin 2 also plays a role in regulating inflammasome activation through a non-canonical autophagic pathway. It targets inflammasome sensors for degradation, thereby inhibiting excessive inflammatory responses and maintaining immune homeostasis (Deng2021BECN2).
+
+## Clinical Significance
+Mutations and alterations in the expression of the BECN2 gene have been implicated in various conditions related to drug tolerance and addiction. BECN2 plays a significant role in mediating cannabinoid tolerance by promoting the degradation of the CNR1 receptor. Loss of BECN2 function increases CNR1 availability, which can prevent the development of tolerance to cannabinoids, potentially enhancing their efficacy in pain management (Kuramoto2016Autophagy). 
+
+In the context of cocaine addiction, BECN2 is involved in the regulation of dopamine receptor D2R degradation. Alterations in BECN2 expression can affect dopamine signaling and cocaine reward behaviors. BECN2 haploinsufficiency has been shown to reduce cocaine-induced dopamine release and related behaviors, suggesting its potential as a therapeutic target for addiction (Kim2021An). Specific mutations in BECN2, such as Becn2 S97L, disrupt its interaction with GASP1, affecting D2R degradation and cocaine-stimulated behaviors (Kim2021An). These findings highlight the importance of BECN2 in drug tolerance and addiction, indicating that its modulation could have therapeutic implications for these conditions.
+
+## Interactions
+BECN2 (beclin 2) is involved in various protein interactions that play significant roles in autophagy and cellular processes. It interacts with several components of the class III PI3K complex, including ATG14, AMBRA1, and VPS34, which are crucial for autophagosome formation, as well as UVRAG, which is involved in autophagosome maturation (Su2017BECN2; He2013Beclin). BECN2 forms a strong heterodimer with ATG14 through its coiled-coil domain (CCD), which is more stable than its homodimerization, facilitating autophagy (Su2017BECN2).
+
+BECN2 also interacts with inflammasome sensors such as NLRP3, AIM2, NLRC4, and NLRP1, mediating their degradation through a ULK1- and ATG9A-dependent pathway, independent of other autophagy-related proteins like ATG16L1 and LC3 (Deng2021BECN2). It recruits these sensors onto ATG9A+ vesicles, forming a complex upon ULK1 activation (Deng2021BECN2).
+
+Additionally, BECN2 interacts with SNARE proteins such as SEC22A, STX5, and STX6, which are involved in the degradation of inflammasome sensors through vesicle membrane fusion processes (Deng2021BECN2). These interactions highlight BECN2's role in regulating inflammation and cellular homeostasis.
+
+
+## References
+
+
+[1. (Su2017BECN2) Minfei Su, Yue Li, Shane Wyborny, David Neau, Srinivas Chakravarthy, Beth Levine, Christopher L. Colbert, and Sangita C. Sinha. Becn2 interacts with atg14 through a metastable coiled‐coil to mediate autophagy. Protein Science, 26(5):972–984, March 2017. URL: http://dx.doi.org/10.1002/pro.3140, doi:10.1002/pro.3140. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pro.3140)
+
+[2. (Deng2021BECN2) Guangtong Deng, Chaoran Li, Lang Chen, Changsheng Xing, Chuntang Fu, Chen Qian, Xin Liu, Helen Y. Wang, Motao Zhu, and Rong-Fu Wang. Becn2 (beclin 2) negatively regulates inflammasome sensors through atg9a-dependent but atg16l1- and lc3-independent non-canonical autophagy. Autophagy, 18(2):340–356, June 2021. URL: http://dx.doi.org/10.1080/15548627.2021.1934270, doi:10.1080/15548627.2021.1934270. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2021.1934270)
+
+[3. (Kim2021An) Yoon-Jin Kim, Qingyao Kong, Soh Yamamoto, Kenta Kuramoto, Mei Huang, Nan Wang, Jung Hwa Hong, Tong Xiao, Beth Levine, Xianxiu Qiu, Yanxiang Zhao, Richard J. Miller, Hongxin Dong, Herbert Y. Meltzer, Ming Xu, and Congcong He. An autophagy-related protein becn2 regulates cocaine reward behaviors in the dopaminergic system. Science Advances, February 2021. URL: http://dx.doi.org/10.1126/sciadv.abc8310, doi:10.1126/sciadv.abc8310. This article has 9 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.abc8310)
+
+[4. (Kuramoto2016Autophagy) Kenta Kuramoto, Nan Wang, Yuying Fan, Weiran Zhang, Frank J. Schoenen, Kevin J. Frankowski, Juan Marugan, Yifa Zhou, Sui Huang, and Congcong He. Autophagy activation by novel inducers prevents becn2-mediated drug tolerance to cannabinoids. Autophagy, 12(9):1460–1471, July 2016. URL: http://dx.doi.org/10.1080/15548627.2016.1187367, doi:10.1080/15548627.2016.1187367. This article has 10 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2016.1187367)
+
+[5. (He2013Beclin) Congcong He, Yongjie Wei, Kai Sun, Binghua Li, Xiaonan Dong, Zhongju Zou, Yang Liu, Lisa N. Kinch, Shaheen Khan, Sangita Sinha, Ramnik J. Xavier, Nick V. Grishin, Guanghua Xiao, Eeva-Liisa Eskelinen, Philipp E. Scherer, Jennifer L. Whistler, and Beth Levine. Beclin 2 functions in autophagy, degradation of g protein-coupled receptors, and metabolism. Cell, 154(5):1085–1099, August 2013. URL: http://dx.doi.org/10.1016/j.cell.2013.07.035, doi:10.1016/j.cell.2013.07.035. This article has 126 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2013.07.035)

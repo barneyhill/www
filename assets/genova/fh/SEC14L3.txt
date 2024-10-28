@@ -1,0 +1,44 @@
+# SEC14L3
+
+## Overview
+SEC14L3 is a gene that encodes the SEC14-like lipid-binding protein 3, which is a member of the SEC14-like protein family. This protein is characterized by its SEC14 domain, known for lipid-binding capabilities, and a C-terminal Golgi dynamics (GOLD) domain, which is involved in protein-protein interactions. SEC14L3 functions as a phosphatidylinositol transfer protein and plays a crucial role in the Wnt/Ca2+ signaling pathway, which is essential for various developmental processes, including embryonic development and cell movement. The protein is involved in lipid metabolism and signaling pathways, interacting with key proteins such as Frizzled, Dishevelled, and phospholipase C (PLC) to facilitate calcium release and cellular signaling. SEC14L3's interactions and functions are significant in both normal cellular processes and pathological conditions, such as clear cell renal cell carcinoma and asthma, where its expression levels are altered (Gong2017The; Bartel2017Pulmonary; Jiang2024SEC14L3).
+
+## Structure
+The SEC14L3 protein is characterized by the presence of a SEC14 domain and a C-terminal Golgi dynamics (GOLD) domain. The SEC14 domain is known for its lipid-binding capabilities, particularly binding to phosphatidylinositol (PtdIns) and phosphatidylcholine (PtdCho), and is essential for the secretion of TAP2, indicating a role in lipid transport out of the cell (Saito2007The). The GOLD domain, consisting of eight β strands organized as a jelly-roll barrel, is presumed to act as a protein-protein interaction module involved in Golgi function or trafficking (Saito2007The). 
+
+The SEC14L3 protein can oligomerize through its CRAL-TRIO and GOLD domains, suggesting a potential quaternary structure involving oligomerization (Gong2017The). The protein is involved in Wnt/Ca2+ signaling and is necessary for the recruitment of Plcd4a to the plasma membrane, with the TRIO-CARL and GOLD domains playing critical roles in this process (Gong2017The). 
+
+While specific details on the primary, secondary, and tertiary structures of SEC14L3 are not provided, the protein's functional domains and their roles in cellular processes are well-documented, highlighting its importance in lipid metabolism and signaling pathways.
+
+## Function
+The SEC14L3 gene encodes a phosphatidylinositol transfer protein that functions as a GTPase, playing a crucial role in the Wnt/Ca2+ signaling pathway. This pathway is essential for various developmental processes, including embryonic development and cell movement. SEC14L3 transduces Wnt signals from the Frizzled receptor to phospholipase C (PLC), which is vital for calcium release. Upon Wnt ligand binding, SEC14L3 translocates to the plasma membrane, activating PLC and leading to the cleavage of phosphatidylinositol-4,5-bisphosphate (PIP2), which is necessary for calcium release and subsequent cellular processes (Gong2017The).
+
+SEC14L3 is involved in forming complexes with proteins such as Frizzled, Dishevelled, and PLC, which are implicated in Wnt-induced calcium release. These interactions suggest a complex regulatory mechanism in calcium signaling pathways, essential for normal cellular function and development (Gong2017The). The protein's GOLD and Ga domains are critical for its function in activating PLC, as truncated forms lacking these domains lead to PIP2 accumulation and developmental defects (Gong2017The).
+
+In human cells, SEC14L3 is involved in phosphoinositide signaling pathways, responding to extracellular cues and modulating intracellular signaling, which is crucial for maintaining cellular homeostasis and function (Jiang2024SEC14L3).
+
+## Clinical Significance
+Alterations in the expression of the SEC14L3 gene have been implicated in several diseases, particularly clear cell renal cell carcinoma (ccRCC) and asthma. In ccRCC, SEC14L3 is overexpressed in tumor tissues compared to normal kidney tissues, with higher expression levels correlating with advanced tumor grades and poorer patient prognosis. High SEC14L3 expression is associated with shorter overall survival and increased resistance to the cancer drug sunitinib. Knockdown of SEC14L3 in ccRCC cell lines reduces cell proliferation, migration, and invasion, suggesting its role in tumor progression. SEC14L3 knockdown also inhibits the NFκB signaling pathway, which is crucial for cancer progression, indicating that SEC14L3 could be a potential therapeutic target for ccRCC (Jiang2024SEC14L3).
+
+In asthma, SEC14L3 expression is decreased in models of allergic airway inflammation, which is linked to increased airway hyperreactivity and inflammation. SEC14L3 is downregulated in ciliated cells during allergic inflammation and upon exposure to the Th2 cytokine IL13, which induces goblet cell metaplasia. This suggests that SEC14L3 may play a role in maintaining airway epithelial cell homeostasis and its altered expression could contribute to asthma pathophysiology (Bartel2017Pulmonary).
+
+## Interactions
+SEC14L3, a member of the SEC14-like lipid-binding protein family, is involved in various protein interactions that influence cellular signaling pathways. In clear cell renal cell carcinoma (ccRCC), SEC14L3 interacts with ribosomal protein S3 (RPS3), a non-Rel subunit of the NFκB pathway. This interaction is crucial for NFκB pathway activation, as SEC14L3 knockdown leads to increased ubiquitination and degradation of RPS3, thereby inhibiting NFκB signaling (Jiang2024SEC14L3).
+
+In zebrafish, SEC14L3 is involved in vasculogenesis by interacting with VEGFR2, a receptor crucial for vascular development. SEC14L3 binds to VEGFR2, preventing its dephosphorylation by the phosphatase PTP1B, thus enhancing VEGFR2 signaling (Gong2019Sec14l3). SEC14L3 also interacts with RAB5A/4A, facilitating their GTP-bound states, which is important for VEGFR2 endocytic trafficking (Gong2019Sec14l3).
+
+In the Wnt/Ca2+ signaling pathway, SEC14L3 forms complexes with Frizzled (Fz) and Dishevelled (Dvl) proteins, which are essential for phospholipase C (PLC) activation and subsequent calcium release. SEC14L3's interaction with these proteins is critical for proper embryonic development in zebrafish (Gong2017The).
+
+
+## References
+
+
+[1. (Gong2017The) Bo Gong, Weimin Shen, Wanghua Xiao, Yaping Meng, Anming Meng, and Shunji Jia. The sec14-like phosphatidylinositol transfer proteins sec14l3/sec14l2 act as gtpase proteins to mediate wnt/ca2+ signaling. eLife, May 2017. URL: http://dx.doi.org/10.7554/elife.26362, doi:10.7554/elife.26362. This article has 23 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.26362)
+
+[2. (Gong2019Sec14l3) Bo Gong, Zhihao Li, Wanghua Xiao, Guangyuan Li, Shihui Ding, Anming Meng, and Shunji Jia. Sec14l3 potentiates vegfr2 signaling to regulate zebrafish vasculogenesis. Nature Communications, April 2019. URL: http://dx.doi.org/10.1038/s41467-019-09604-0, doi:10.1038/s41467-019-09604-0. This article has 10 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-09604-0)
+
+[3. (Bartel2017Pulmonary) Sabine Bartel, Nikola Schulz, Francesca Alessandrini, Andrea C. Schamberger, Philipp Pagel, Fabian J. Theis, Katrin Milger, Elfriede Noessner, Stephen M. Stick, Anthony Kicic, Oliver Eickelberg, Robert J. Freishtat, and Susanne Krauss-Etschmann. Pulmonary microrna profiles identify involvement of creb1 and sec14l3 in bronchial epithelial changes in allergic asthma. Scientific Reports, April 2017. URL: http://dx.doi.org/10.1038/srep46026, doi:10.1038/srep46026. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep46026)
+
+[4. (Saito2007The) Kan Saito, Lutz Tautz, and Tomas Mustelin. The lipid-binding sec14 domain. Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids, 1771(6):719–726, June 2007. URL: http://dx.doi.org/10.1016/j.bbalip.2007.02.010, doi:10.1016/j.bbalip.2007.02.010. This article has 97 citations.](https://doi.org/10.1016/j.bbalip.2007.02.010)
+
+[5. (Jiang2024SEC14L3) Ziming Jiang, Guangcan Yang, Guangchun Wang, Jiayi Wan, Yifan Zhang, Wei Song, Houliang Zhang, Jinliang Ni, Haipeng Zhang, Ming Luo, Keyi Wang, and Bo Peng. Sec14l3 knockdown inhibited clear cell renal cell carcinoma proliferation, metastasis and sunitinib resistance through an sec14l3/rps3/nfκb positive feedback loop. Journal of Experimental &amp; Clinical Cancer Research, October 2024. URL: http://dx.doi.org/10.1186/s13046-024-03206-5, doi:10.1186/s13046-024-03206-5. This article has 0 citations.](https://doi.org/10.1186/s13046-024-03206-5)

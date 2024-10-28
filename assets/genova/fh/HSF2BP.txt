@@ -1,0 +1,52 @@
+# HSF2BP
+
+## Overview
+HSF2BP, or heat shock transcription factor 2 binding protein, is a gene that encodes a protein involved in critical cellular processes, particularly in DNA repair mechanisms. The protein encoded by HSF2BP is categorized as a DNA repair protein, playing a significant role in homologous recombination (HR) by interacting with BRCA2, a key protein in this pathway. This interaction is crucial for the regulation of DNA interstrand crosslink (ICL) repair, where HSF2BP acts as a negative regulator by inhibiting the loading of RAD51, a protein essential for HR (Brandsma2018HSF2BP; Sato2020HSF2BP). HSF2BP is predominantly expressed in germline and embryonic stem cells, contributing to genomic stability. Its dysregulation is associated with reproductive disorders such as primary ovarian insufficiency and male infertility, as well as potential implications in cancer biology due to its role in maintaining genomic integrity (FelipeMedina2020A; Sato2020HSF2BP).
+
+## Structure
+HSF2BP is a protein encoded by the HSF2BP gene, consisting of 334 amino acids with a molecular weight of approximately 37,644 Da (Yoshima1998Novel). The primary structure includes an N-terminal hydrophilic region predicted to form an alpha-helical structure with two leucine-zipper motifs, and a C-terminal region that is largely hydrophobic, forming beta-sheets (Wu2013HSF2BP; Yoshima1998Novel). 
+
+The tertiary structure of HSF2BP includes an armadillo repeat region starting at residues 100-140, which is predicted with high confidence (Brandsma2019HSF2BP). This region is involved in the interaction with BRCA2, a critical partner in meiotic homologous recombination (Ghouil2020A). The armadillo domain of HSF2BP binds with high affinity to a specific peptide region of BRCA2, leading to tetramerization of the ARM domain (Ghouil2020A).
+
+HSF2BP exists in oligomeric and/or elongated forms, as suggested by its hydrodynamic volume (Brandsma2019HSF2BP). The protein's quaternary structure involves the formation of complexes with BRCA2, where the ARM domains form dimers and tetramers upon binding (Ghouil2020A). The interaction with BRCA2 is characterized by a large interface and nanomolar affinity (Ghouil2020A).
+
+## Function
+HSF2BP (heat shock transcription factor 2 binding protein) is involved in DNA repair processes, particularly in homologous recombination (HR) during DNA interstrand crosslink (ICL) repair. It interacts directly with BRCA2, a key protein in HR, and negatively regulates this process by inhibiting the loading of RAD51 onto ICLs, which is crucial for HR (Brandsma2018HSF2BP; Sato2020HSF2BP). This interaction is evolutionarily conserved and is essential for the proper functioning of the Fanconi Anemia (FA) pathway, a critical mechanism for repairing ICLs (Brandsma2018HSF2BP; Sato2020HSF2BP).
+
+In healthy human cells, HSF2BP is primarily expressed in germline and embryonic stem cells, where it plays a role in maintaining genomic stability. Its ectopic expression in non-germline cells can lead to increased sensitivity to ICL-inducing agents and PARP inhibitors, mimicking a Fanconi anemia-like phenotype (Sato2020HSF2BP). HSF2BP's interaction with BRCA2 is crucial for its role in DNA repair, as it affects the stability and accumulation of BRCA2 at sites of DNA damage, leading to its degradation and preventing effective HR (Sato2020HSF2BP). This function highlights its importance in cellular defense mechanisms against DNA damage and its potential implications in cancer biology.
+
+## Clinical Significance
+Mutations in the HSF2BP gene are associated with several reproductive disorders, most notably primary ovarian insufficiency (POI) and male infertility. The S167L missense mutation in HSF2BP is linked to POI, affecting protein expression and stability, which leads to reduced fertility in both males and females. This mutation impairs meiotic recombination by disrupting the interaction between HSF2BP and its novel interactor, BRME1, essential for proper DNA repair during meiosis (FelipeMedina2020A). 
+
+In a study of a consanguineous family, the S167L variant was found to segregate with POI, with affected individuals being homozygous for the mutation. This variant is predicted to be pathogenic and is associated with early secondary amenorrhea and irregular menstruations (FelipeMedina2020A). 
+
+Other mutations, such as C128R and L186P, have been identified in sporadic POI patients. These mutations impair the nuclear localization of HSF2BP, crucial for its role in DNA repair, leading to increased DNA damage and meiotic defects (Li2022Pathogenic). 
+
+Alterations in HSF2BP expression have also been observed in cancer, where its overproduction can lead to genomic instability, potentially contributing to tumor evolution (Sato2020HSF2BP).
+
+## Interactions
+HSF2BP interacts with several proteins, playing a significant role in DNA repair and meiotic recombination. It directly interacts with BRCA2, a crucial protein in homologous recombination and DNA repair processes. The interaction between HSF2BP and BRCA2 is mediated by a specific 68-amino acid region on BRCA2, known as the HSF2BP-binding domain (HBD), which is located between the eighth BRC repeat and the DNA binding domain. This interaction is essential for the proper functioning of homologous recombination and is conserved across species (Brandsma2019HSF2BP; Brandsma2018HSF2BP).
+
+HSF2BP also forms a complex with BRME1, which is crucial for meiotic recombination. This complex is necessary for the expression and stability of both HSF2BP and BRME1, and it co-immunoprecipitates with BRCA2, RAD51, RPA, and PALB2, indicating its involvement in DNA double-strand break repair during meiosis (FelipeMedina2020A).
+
+The interaction of HSF2BP with BRCA2 negatively regulates homologous recombination in DNA interstrand crosslink repair, affecting the loading of RAD51 and BRCA2 to interstrand crosslinks, thereby inhibiting homologous recombination (Brandsma2018HSF2BP). These interactions highlight HSF2BP's role in maintaining genomic stability and its potential impact on genomic instability syndromes.
+
+
+## References
+
+
+1. (Brandsma2018HSF2BP) HSF2BP Negatively Regulates Homologous Recombination in DNA Interstrand Crosslink Repair in Human Cells by Direct Interaction With BRCA2. This article has 1 citations.
+
+[2. (FelipeMedina2020A) Natalia Felipe-Medina, Sandrine Caburet, Fernando Sánchez-Sáez, Yazmine B Condezo, Dirk G de Rooij, Laura Gómez-H, Rodrigo Garcia-Valiente, Anne Laure Todeschini, Paloma Duque, Manuel Adolfo Sánchez-Martin, Stavit A Shalev, Elena Llano, Reiner A Veitia, and Alberto M Pendás. A missense in hsf2bp causing primary ovarian insufficiency affects meiotic recombination by its novel interactor c19orf57/brme1. eLife, August 2020. URL: http://dx.doi.org/10.7554/elife.56996, doi:10.7554/elife.56996. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.56996)
+
+[3. (Brandsma2019HSF2BP) Inger Brandsma, Koichi Sato, Sari E. van Rossum-Fikkert, Nicole van Vliet, Esther Sleddens, Marcel Reuter, Hanny Odijk, Nathalie van den Tempel, Dick H.W. Dekkers, Karel Bezstarosti, Jeroen A.A. Demmers, Alex Maas, Joyce Lebbink, Claire Wyman, Jeroen Essers, Dik C. van Gent, Willy M. Baarends, Puck Knipscheer, Roland Kanaar, and Alex N. Zelensky. Hsf2bp interacts with a conserved domain of brca2 and is required for mouse spermatogenesis. Cell Reports, 27(13):3790-3798.e7, June 2019. URL: http://dx.doi.org/10.1016/j.celrep.2019.05.096, doi:10.1016/j.celrep.2019.05.096. This article has 52 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2019.05.096)
+
+[4. (Yoshima1998Novel) Tadahiko Yoshima, Takashi Yura, and Hideki Yanagi. Novel testis-specific protein that interacts with heat shock factor 2. Gene, 214(1–2):139–146, July 1998. URL: http://dx.doi.org/10.1016/s0378-1119(98)00208-x, doi:10.1016/s0378-1119(98)00208-x. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0378-1119(98)00208-x)
+
+[5. (Li2022Pathogenic) Shan Li, Weiwei Xu, Bingying Xu, Shuchang Gao, Qian Zhang, Yingying Qin, and Ting Guo. Pathogenic variations of homologous recombination gene hsf2bp identified in sporadic patients with premature ovarian insufficiency. Frontiers in Cell and Developmental Biology, January 2022. URL: http://dx.doi.org/10.3389/fcell.2021.768123, doi:10.3389/fcell.2021.768123. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.768123)
+
+[6. (Wu2013HSF2BP) Yujian Wu, Shangying Liao, Xiuxia Wang, Si Wang, Min Wang, and Chunsheng Han. Hsf2bp represses bnc1 transcriptional activity by sequestering bnc1 to the cytoplasm. FEBS Letters, 587(14):2099–2104, May 2013. URL: http://dx.doi.org/10.1016/j.febslet.2013.04.049, doi:10.1016/j.febslet.2013.04.049. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.febslet.2013.04.049)
+
+7. (Ghouil2020A) A cryptic BRCA2 repeated motif binds to HSF2BP oligomers with no impact on meiotic recombination. This article has 3 citations.
+
+[8. (Sato2020HSF2BP) Koichi Sato, Inger Brandsma, Sari E van Rossum-Fikkert, Nicole Verkaik, Anneke B Oostra, Josephine C Dorsman, Dik C van Gent, Puck Knipscheer, Roland Kanaar, and Alex N Zelensky. Hsf2bp negatively regulates homologous recombination in dna interstrand crosslink repair. Nucleic Acids Research, 48(5):2442–2456, January 2020. URL: http://dx.doi.org/10.1093/nar/gkz1219, doi:10.1093/nar/gkz1219. This article has 22 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkz1219)

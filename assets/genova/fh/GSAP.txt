@@ -1,0 +1,50 @@
+# GSAP
+
+## Overview
+Gamma-secretase activating protein (GSAP) is a protein encoded by the PION gene, playing a pivotal role in the regulation of amyloid-beta (Aβ) production, a key factor in Alzheimer's disease (AD) pathology. GSAP is an intrinsic membrane-bound protein that enhances the activity of the γ-secretase complex, specifically facilitating the cleavage of the amyloid precursor protein (APP) to increase Aβ peptide production (Deatherage2012Purification; Angira2019Tracing). Unlike other substrates of γ-secretase, such as Notch, GSAP selectively modulates APP processing, making it a potential target for therapeutic interventions aimed at reducing Aβ levels in AD (Chu2015Degradation). The protein is primarily active in the endoplasmic reticulum and Golgi apparatus, where it influences APP trafficking and processing through lipid raft-dependent pathways (Chang2020GSAP). GSAP's interactions and regulatory functions underscore its significance in neurodegenerative disease mechanisms and its potential as a therapeutic target.
+
+## Structure
+The gamma-secretase activating protein (GSAP) is a 98 kDa protein encoded by the PION gene, consisting of 854 amino acids, with a functional 16 kDa fragment comprising 121 amino acids at the C-terminal (Angira2019Tracing). The primary structure of GSAP includes a cysteine residue, which may facilitate dimer formation through disulfide linkages (Angira2019Tracing). The secondary structure of the MBP-GSAP fusion protein, analyzed using circular dichroism, reveals 12.5% α-helix and 31.1% β-sheet content (Angira2019Tracing).
+
+In terms of tertiary structure, a homology model of GSAP was constructed using the ROBETTA protein structure prediction server, refined through molecular dynamics simulation. This model suggests a structure with two sets of α-helices and a groove region identified as a potential ligand-binding site (Angira2019Tracing). The GSAP protein is suggested to be localized toward the intrinsic side of the lipid bilayer membrane, indicating it may be an intrinsic membrane-bound protein (Angira2019Tracing).
+
+No specific information on quaternary structure, post-translational modifications, or splice variant isoforms is provided in the available context.
+
+## Function
+Gamma-secretase activating protein (GSAP) plays a crucial role in the regulation of amyloid-beta (Aβ) production by modulating the activity of the γ-secretase complex. GSAP enhances the cleavage of the amyloid precursor protein (APP) by γ-secretase, leading to increased production of Aβ peptides, which are implicated in Alzheimer's disease (AD) pathology (Deatherage2012Purification; Chu2015Degradation). GSAP interacts specifically with the γ-secretase complex without affecting the cleavage of other substrates like Notch, making it a potential target for therapeutic strategies aimed at reducing Aβ levels (Chu2015Degradation).
+
+In healthy human cells, GSAP is involved in the trafficking of APP vesicles, influencing their mobility and confinement within cellular microenvironments. GSAP knockdown has been shown to increase the diffusivity of APP vesicles, suggesting its role in maintaining vesicle stability and promoting amyloidogenic processing (Chang2020GSAP). GSAP is also involved in the regulation of APP trafficking through lipid raft-dependent pathways, which are critical for Aβ generation (Chang2020GSAP). The protein is primarily active in the endoplasmic reticulum and Golgi apparatus, where it modulates γ-secretase activity and APP processing (Chu2015Degradation).
+
+## Clinical Significance
+Alterations in the expression or function of the gamma-secretase activating protein (GSAP) have been implicated in Alzheimer's disease (AD). GSAP is known to promote the production of amyloid-beta (Aβ) peptides by interacting with the γ-secretase complex and the amyloid precursor protein (APP), leading to increased Aβ levels, a hallmark of AD (Deatherage2012Purification; He2010Gammasecretase). Knockdown of GSAP has been shown to reduce Aβ levels and plaque formation in AD models without affecting Notch signaling, suggesting its potential as a therapeutic target (Chu2014Pharmacological; He2010Gammasecretase).
+
+In Alzheimer's patients, GSAP levels are dysregulated, with increased levels of the full-length form observed in the frontal cortex, correlating with cognitive decline (Perez2017Frontal). GSAP's role in APP trafficking and its accumulation in lipid rafts further contribute to amyloidogenic processing, highlighting its involvement in AD pathogenesis (Chang2020GSAP).
+
+Additionally, GSAP is implicated in Down syndrome, where its increased expression, regulated by the GATA1 transcription factor, contributes to elevated Aβ levels and early-onset AD-like symptoms (Chu2015GATA1‐mediated). These findings underscore GSAP's clinical significance in neurodegenerative diseases.
+
+## Interactions
+Gamma-secretase activating protein (GSAP) is involved in several interactions that are crucial for its role in the β-amyloid pathway associated with Alzheimer's disease. GSAP forms a ternary complex with γ-secretase and the APP C-99 fragment, facilitating the cleavage of APP C-99 by γ-secretase, which leads to the production of amyloid-beta peptides (Hur2022γSecretase; Angira2019Tracing). The interaction between GSAP and the APP C-99 fragment is specific, with the 719 TT 743 peptide region of APP C-99 showing selective binding to GSAP. This interaction is characterized by a dissociation constant of 0.136 μM, indicating a strong affinity (Angira2019Tracing).
+
+GSAP also interacts with ubiquitin, which targets it for degradation via the ubiquitin-proteasome pathway. This interaction is evidenced by co-localization studies and co-immunoprecipitation assays, which demonstrate that GSAP is ubiquitinated before its degradation (Chu2015Degradation). The degradation of GSAP through this pathway affects amyloid-beta production, as proteasome inhibition leads to increased levels of amyloid-beta peptides (Chu2015Degradation). These interactions highlight GSAP's role in modulating amyloid-beta production and its potential as a therapeutic target in Alzheimer's disease.
+
+
+## References
+
+
+[1. (Deatherage2012Purification) Catherine L. Deatherage, Arina Hadziselimovic, and Charles R. Sanders. Purification and characterization of the human γ-secretase activating protein. Biochemistry, 51(25):5153–5159, June 2012. URL: http://dx.doi.org/10.1021/bi300605u, doi:10.1021/bi300605u. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/bi300605u)
+
+[2. (He2010Gammasecretase) Gen He, Wenjie Luo, Peng Li, Christine Remmers, William J. Netzer, Joseph Hendrick, Karima Bettayeb, Marc Flajolet, Fred Gorelick, Lawrence P. Wennogle, and Paul Greengard. Gamma-secretase activating protein is a therapeutic target for alzheimer’s disease. Nature, 467(7311):95–98, September 2010. URL: http://dx.doi.org/10.1038/nature09325, doi:10.1038/nature09325. This article has 252 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature09325)
+
+[3. (Hur2022γSecretase) Ji-Yeun Hur. Γ-secretase in alzheimer’s disease. Experimental &amp; Molecular Medicine, 54(4):433–446, April 2022. URL: http://dx.doi.org/10.1038/s12276-022-00754-8, doi:10.1038/s12276-022-00754-8. This article has 104 citations.](https://doi.org/10.1038/s12276-022-00754-8)
+
+[4. (Chu2015Degradation) Jin Chu, Jian‐Guo Li, Nicholas E. Hoffman, Muniswamy Madesh, and Domenico Praticò. Degradation of gamma secretase activating protein by the ubiquitin–proteasome pathway. Journal of Neurochemistry, 133(3):432–439, February 2015. URL: http://dx.doi.org/10.1111/jnc.13011, doi:10.1111/jnc.13011. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/jnc.13011)
+
+5. (Chang2020GSAP) GSAP Regulates Amyloid Beta Production through Modulation of Amyloid Precursor Protein Trafficking. This article has 3 citations.
+
+[6. (Perez2017Frontal) Sylvia E. Perez, Muhammad Nadeem, Michael H. Malek-Ahmadi, Bin He, and Elliott J. Mufson. Frontal cortex and hippocampal &amp;#x03b3;-secretase activating protein levels in prodromal alzheimer disease. Neurodegenerative Diseases, 17(6):235–241, 2017. URL: http://dx.doi.org/10.1159/000477937, doi:10.1159/000477937. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1159/000477937)
+
+[7. (Chu2014Pharmacological) Jin Chu, Elisabetta Lauretti, Caryne P. Craige, and Domenico Praticò. Pharmacological modulation of gsap reduces amyloid-β levels and tau phosphorylation in a mouse model of alzheimer’s disease with plaques and tangles. Journal of Alzheimer’s Disease, 41(3):729–737, July 2014. URL: http://dx.doi.org/10.3233/JAD-140105, doi:10.3233/jad-140105. This article has 46 citations.](https://doi.org/10.3233/JAD-140105)
+
+[8. (Angira2019Tracing) Deekshi Angira, Rupesh Chikhale, Kapilkumar Mehta, Richard A. Bryce, and Vijay Thiruvenkatam. Tracing the gsap–app c-99 interaction site in the β-amyloid pathway leading to alzheimer’s disease. ACS Chemical Neuroscience, 10(8):3868–3879, July 2019. URL: http://dx.doi.org/10.1021/acschemneuro.9b00332, doi:10.1021/acschemneuro.9b00332. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acschemneuro.9b00332)
+
+[9. (Chu2015GATA1‐mediated) Jin Chu, Thomas Wisniewski, and Domenico Praticò. <scp>gata</scp>1‐mediated transcriptional regulation of the γ‐secretase activating protein increases <scp>a</scp>β formation in <scp>d</scp>own syndrome. Annals of Neurology, 79(1):138–143, October 2015. URL: http://dx.doi.org/10.1002/ana.24540, doi:10.1002/ana.24540. This article has 15 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1002/ana.24540)

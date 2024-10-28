@@ -1,0 +1,56 @@
+# USP40
+
+## Overview
+USP40 is a gene that encodes the protein ubiquitin specific peptidase 40, a member of the ubiquitin-specific protease (USP) family. This family of proteins is involved in the deubiquitination process, which is critical for regulating protein stability, localization, and activity within the cell. Although USP40 shares structural features with other active USPs, it does not exhibit significant deubiquitylating activity under standard assay conditions, suggesting it may require specific cofactors or conditions to function effectively (Quesada2004Cloning). The protein is expressed in various human tissues and is primarily active in the cytoplasm and nucleus, indicating a potential role in modulating signal transduction pathways and cellular processes (Campos-Iglesias2020Ubiquitin-specific). Despite its unclear specific function in healthy cells, USP40 has been implicated in several pathological conditions, including Parkinson's disease and hepatocellular carcinoma, highlighting its potential clinical significance (Wu2024USP40; Li2006Genetic).
+
+## Structure
+USP40 is a member of the ubiquitin-specific protease family, characterized by a conserved catalytic domain that includes a Cys box, an Asp-containing motif, and a His box, which are typical features of this enzyme family (Quesada2004Cloning). Despite possessing these conserved catalytic residues, USP40 does not exhibit significant deubiquitylating activity in standard assays, possibly due to structural or conformational differences (Quesada2004Cloning).
+
+The catalytic mechanism of USP40 relies more on the fourth critical residue, often an aspartate, which is crucial for its catalytic activity. Mutation of this residue, such as D453A, results in a significant decrease in catalytic efficiency (Keijzer2024Variety; Keijzer2023Surprising). The third critical residue is less essential for USP40's activity, indicating variability in the catalytic mechanisms among different USPs (Keijzer2024Variety).
+
+USP40's structure has not been solved, but AlphaFold predictions do not suggest major changes in its catalytic domain (Keijzer2024Variety). The protein is expressed in various human tissues, suggesting a role in general deubiquitylating reactions (Quesada2004Cloning). The presence of ancillary domains, such as the Zn-finger ZnF-UBP domain, is noted in some USPs, although it is not specified if USP40 contains these domains (Quesada2004Cloning).
+
+## Function
+USP40, or ubiquitin specific peptidase 40, is a member of the ubiquitin-specific protease (USP) family, which plays a role in the deubiquitination process. This process involves the removal of ubiquitin from target proteins, influencing their stability, localization, and activity, and is crucial for maintaining cellular homeostasis and regulating various cellular processes (Campos-Iglesias2020Ubiquitin-specific; Quesada2004Cloning).
+
+Despite possessing the structural features typical of active USPs, USP40 did not exhibit significant deubiquitylating activity in the assays conducted, suggesting it may not function as a protease under the tested conditions or may require specific cofactors or conditions not present in the assay (Quesada2004Cloning). The enzyme is widely expressed across various human tissues, indicating a potential role in general deubiquitylating reactions at basal levels, although its specific function in healthy human cells remains unclear (Quesada2004Cloning).
+
+USP40 is primarily active in the cytoplasm and nucleus, contributing to various cellular processes. Its activity in these cellular compartments suggests a role in modulating signal transduction pathways and potentially affecting organismal development and function (Campos-Iglesias2020Ubiquitin-specific).
+
+## Clinical Significance
+Mutations and alterations in the expression of the USP40 gene have been implicated in several diseases. In the context of Parkinson's disease (PD), genetic studies have identified single nucleotide polymorphisms (SNPs) in USP40 that are associated with the risk of late-onset PD. These include nonconservative missense variants and predicted transcription factor binding site variants, suggesting that USP40 may influence PD susceptibility through its role in the ubiquitin-proteasome system, which is crucial for protein degradation and cellular stress responses (Li2006Genetic).
+
+In hepatocellular carcinoma (HCC), USP40 is found to be overexpressed, correlating with poor prognosis. Its overexpression promotes cancer cell proliferation, migration, and stemness by stabilizing the protein Claudin1, which is involved in maintaining cell-cell junctions. This suggests that USP40 contributes to HCC progression by enhancing the stability of proteins that support tumor growth and metastasis (Wu2024USP40).
+
+USP40 also plays a role in maintaining endothelial integrity. Its deficiency is linked to increased inflammation and endothelial dysfunction, which can exacerbate conditions like acute lung injury. This is due to its regulatory effects on the NF-κB pathway and endothelial cell permeability (Miao2024The).
+
+## Interactions
+USP40, a deubiquitinase, is involved in several protein interactions that are crucial for its function in various cellular processes. In glomerular cells, USP40 interacts with the intermediate filament protein nestin. This interaction is significant for maintaining the structural integrity of glomerular cells, as demonstrated by immunoprecipitation assays in cultured glomerular endothelial cells (Takagi2017USP40).
+
+In endothelial cells, USP40 interacts with heat shock protein 90β (HSP90β). This interaction is essential for preserving endothelial integrity by deubiquitinating and inactivating HSP90β, which reduces its role in activating RhoA and NF-κB, thereby decreasing endothelial cell permeability and inflammation (Miao2024The).
+
+USP40 also plays a role in cancer biology. In non-small cell lung cancer (NSCLC) cells, USP40 interacts with GMEB1 and CFLAR L, stabilizing CFLAR L and inhibiting apoptosis. This interaction highlights USP40's role in modulating the ubiquitination and degradation of CFLAR L, which is crucial for inhibiting apoptosis in these cells (An2019Glucocorticoid).
+
+In hepatocellular carcinoma (HCC), USP40 interacts with Claudin1, a protein involved in cell tight junctions. USP40 stabilizes Claudin1 by reducing its polyubiquitination, promoting HCC cell proliferation, migration, and stemness (Wu2024USP40).
+
+
+## References
+
+
+[1. (Li2006Genetic) Yonghong Li, Steven Schrodi, Charles Rowland, Kristina Tacey, Joseph Catanese, and Andrew Grupe. Genetic evidence for ubiquitin-specific proteasesusp24andusp40as candidate genes for late-onset parkinson disease. Human Mutation, 27(10):1017–1023, October 2006. URL: http://dx.doi.org/10.1002/humu.20382, doi:10.1002/humu.20382. This article has 47 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/humu.20382)
+
+[2. (Takagi2017USP40) Hisashi Takagi, Yukino Nishibori, Kan Katayama, Tomohisa Katada, Shohei Takahashi, Zentaro Kiuchi, Shin-Ichiro Takahashi, Hiroyasu Kamei, Hayato Kawakami, Yoshihiro Akimoto, Akihiko Kudo, Katsuhiko Asanuma, Hiromu Takematsu, and Kunimasa Yan. Usp40 gene knockdown disrupts glomerular permeability in zebrafish. American Journal of Physiology-Renal Physiology, 312(4):F702–F715, April 2017. URL: http://dx.doi.org/10.1152/ajprenal.00197.2016, doi:10.1152/ajprenal.00197.2016. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1152/ajprenal.00197.2016)
+
+[3. (Quesada2004Cloning) Vı́ctor Quesada, Araceli Dı́az-Perales, Ana Gutiérrez-Fernández, Cecilia Garabaya, Santiago Cal, and Carlos López-Otı́n. Cloning and enzymatic analysis of 22 novel human ubiquitin-specific proteases. Biochemical and Biophysical Research Communications, 314(1):54–62, January 2004. URL: http://dx.doi.org/10.1016/j.bbrc.2003.12.050, doi:10.1016/j.bbrc.2003.12.050. This article has 186 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2003.12.050)
+
+[4. (Campos-Iglesias2020Ubiquitin-specific) Diana Campos-Iglesias, Carlos López-Otín, and José M.P. Freije. Ubiquitin-specific proteases as targets for anticancer drug therapies, pages 73–120. Elsevier, 2020. URL: http://dx.doi.org/10.1016/b978-0-12-818168-3.00004-8, doi:10.1016/b978-0-12-818168-3.00004-8. This article has 3 citations.](https://doi.org/10.1016/b978-0-12-818168-3.00004-8)
+
+[5. (Miao2024The) Jiaxing Miao, Lian Li, Nargis Shaheen, Jianxin Wei, Anastasia M. Jacko, Prithu Sundd, Sarah J. Taleb, Rama K. Mallampalli, Yutong Zhao, and Jing Zhao. The deubiquitinase usp40 preserves endothelial integrity by targeting the heat shock protein hsp90β. Experimental &amp; Molecular Medicine, 56(2):395–407, February 2024. URL: http://dx.doi.org/10.1038/s12276-024-01160-y, doi:10.1038/s12276-024-01160-y. This article has 2 citations.](https://doi.org/10.1038/s12276-024-01160-y)
+
+[6. (Keijzer2024Variety) Niels Keijzer, Anu Priyanka, Yvette Stijf-Bultsma, Alexander Fish, Malte Gersch, and Titia K Sixma. Variety in the usp deubiquitinase catalytic mechanism. Life Science Alliance, 7(4):e202302533, February 2024. URL: http://dx.doi.org/10.26508/lsa.202302533, doi:10.26508/lsa.202302533. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202302533)
+
+[7. (Wu2024USP40) Qingsong Wu, Yuanyuan Qiu, Jinhui Guo, Zibo Yuan, Yingnan Yang, Qingwei Zhu, Zhe Zhang, Junwei Guo, Yanfang Wu, Junyu Zhang, Dongsheng Huang, Kangsheng Tu, and Xiaoge Hu. Usp40 promotes hepatocellular carcinoma cell proliferation, migration and stemness by deubiquitinating and stabilizing claudin1. Biology Direct, February 2024. URL: http://dx.doi.org/10.1186/s13062-024-00456-3, doi:10.1186/s13062-024-00456-3. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13062-024-00456-3)
+
+[8. (An2019Glucocorticoid) Wentao An, Shun Yao, Xiaoyang Sun, Zhaoyuan Hou, Yidan Lin, Ling Su, and Xiangguo Liu. Glucocorticoid modulatory element-binding protein 1 (gmeb1) interacts with the de-ubiquitinase usp40 to stabilize cflarl and inhibit apoptosis in human non-small cell lung cancer cells. Journal of Experimental &amp; Clinical Cancer Research, May 2019. URL: http://dx.doi.org/10.1186/s13046-019-1182-3, doi:10.1186/s13046-019-1182-3. This article has 22 citations.](https://doi.org/10.1186/s13046-019-1182-3)
+
+9. (Keijzer2023Surprising) Surprising variety in the USP deubiquitinase catalytic mechanism. This article has 1 citations.

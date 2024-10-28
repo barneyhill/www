@@ -1,0 +1,62 @@
+# MCM2
+
+## Overview
+The MCM2 gene encodes the minichromosome maintenance complex component 2, a protein that is integral to the MCM2-7 complex, which functions as a replicative DNA helicase in eukaryotic cells. This complex is essential for the initiation and elongation phases of DNA replication, as it unwinds the DNA duplex to facilitate replication fork progression (Ishimi2018Regulation; Neves2017In). MCM2, as part of the MCM2-7 complex, plays a pivotal role in the formation of the pre-replication complex at replication origins, ensuring that DNA replication occurs only once per cell cycle (Neves2017In). The protein also contributes to chromatin assembly by transferring parental histone H3/H4 to newly replicated DNA, which is crucial for nucleosome assembly and chromatin structure maintenance (Ishimi2018Regulation). Additionally, MCM2 is involved in the cellular response to replicative stress, helping to maintain genomic stability by licensing backup origins of replication (Ibarra2008Excess; Ge2007Dormant).
+
+## Structure
+The MCM2 protein is a component of the MCM2-7 complex, which plays a crucial role in the initiation of eukaryotic DNA replication. Structurally, MCM2 is part of a hexameric ring formed by six homologous subunits, each containing an N-terminal DNA-interacting and assembly domain and a C-terminal motor domain belonging to the AAA+ superfamily (Costa2011The). The MCM2-7 complex can form open-ring hexamers with a discontinuity between MCM2 and MCM5, which is bridged by GINS and Cdc45 to form a closed assembly (Costa2011The).
+
+The MCM2-7 complex is known to form a double hexamer, a cylindrical structure that is 21.5 nm long and 14 nm wide, with two hexamers slightly offset and twisted relative to each other (Sun2014Structural). This double hexamer is crucial for DNA replication initiation, as it encircles double-stranded DNA during the G1 phase and transitions to encircle single-stranded DNA during the S phase (Sun2014Structural).
+
+Post-translational modifications, such as phosphorylation, play a significant role in regulating the activity of the MCM2-7 complex. Phosphorylation by DDK is essential for helicase activation, promoting the binding of GINS and Cdc45, which leads to the separation of the double hexamer into two active helicases (Sun2014Structural).
+
+## Function
+The MCM2 gene encodes a protein that is a critical component of the minichromosome maintenance (MCM) complex, specifically the MCM2-7 complex, which functions as a replicative DNA helicase in eukaryotic cells. This complex is essential for the initiation and elongation phases of DNA replication, as it unwinds the DNA duplex to allow replication fork progression (Ishimi2018Regulation; Neves2017In). MCM2, along with other MCM proteins, is involved in the formation of the pre-replication complex (pre-RC) at replication origins during the G1 phase of the cell cycle, ensuring that DNA replication occurs only once per cell cycle during the S-phase (Neves2017In).
+
+MCM2 also plays a specific role in chromatin assembly during DNA replication by transferring parental histone H3/H4 to newly replicated DNA, which is crucial for nucleosome assembly and chromatin structure maintenance (Ishimi2018Regulation). The amino-terminal region of MCM2 contains a histone-binding domain that facilitates this process (Ishimi2018Regulation). Additionally, MCM2 is involved in the cellular response to replicative stress by licensing backup origins of replication, which helps maintain genomic stability (Ibarra2008Excess; Ge2007Dormant).
+
+## Clinical Significance
+Mutations and altered expression of the MCM2 gene have significant clinical implications in various diseases, particularly cancers. MCM2 is overexpressed in multiple cancer types, including colorectal, breast, esophageal squamous cell carcinoma, and hepatocellular carcinoma (HCC), where it serves as a sensitive biomarker for cancer cell proliferation and prognosis. In lung cancer, high MCM2 levels are associated with shorter survival times, making it an independent prognostic marker (Sun2022MCM2). In HCC, MCM2 is hypomethylated and highly expressed, correlating with poor differentiation and malignant progression, and predicting shorter overall survival (Tang2022Demethylation; Sun2022MCM2). 
+
+In cervical cancer, MCM2 expression is linked to HPV infection and is used to improve screening efficiency. High MCM2 levels in cervical cancer are associated with longer survival, possibly due to different intracellular locations (Sun2022MCM2). MCM2 is also implicated in chemoresistance and recurrence due to its association with cancer stem cells (Sun2022MCM2).
+
+Beyond cancer, mutations in MCM2 can lead to autosomal dominant nonsyndromic hearing loss (DFNA70), as demonstrated by a novel missense variant causing sensorineural hearing loss in an Iranian family (Zeraatpisheh2022MCM2).
+
+## Interactions
+MCM2, a component of the minichromosome maintenance complex, is involved in several protein interactions crucial for DNA replication. It interacts with the histone acetyltransferase HBO1, a relationship that is conserved across species and is essential for chromatin dynamics. This interaction is dependent on the zinc finger motif of HBO1 and the N-terminal domain of MCM2, specifically amino acids 72-223, which overlap with the histone H3-binding domain (Burke2001Replication).
+
+MCM2 also interacts with AKAP95, a protein kinase A-anchoring protein, through its first 195 residues. This interaction is vital for DNA replication, as it facilitates the initiation and elongation phases. Disruption of this interaction inhibits replication, highlighting its functional significance (Eide2003Protein).
+
+Additionally, MCM2 associates with prohibitin, particularly in chromatin-bound fractions, suggesting a role in modulating replication through regulatory subunits of the MCM complex. This interaction is cell cycle-dependent, with prohibitin levels higher in quiescent and early G1 phase cells (Rizwani2009Prohibitin).
+
+MCM2 also interacts with the RNA polymerase II holoenzyme, specifically through amino acids 169-212, which are distinct from its histone H3/H4 binding site. This interaction is crucial for transcriptional regulation (Holland2002Distinct).
+
+
+## References
+
+
+[1. (Ge2007Dormant) Xin Quan Ge, Dean A. Jackson, and J. Julian Blow. Dormant origins licensed by excess mcm2–7 are required for human cells to survive replicative stress. Genes &amp; Development, 21(24):3331–3341, December 2007. URL: http://dx.doi.org/10.1101/gad.457807, doi:10.1101/gad.457807. This article has 480 citations.](https://doi.org/10.1101/gad.457807)
+
+[2. (Sun2022MCM2) Yaoqi Sun, Zhongping Cheng, and Shupeng Liu. Mcm2 in human cancer: functions, mechanisms, and clinical significance. Molecular Medicine, October 2022. URL: http://dx.doi.org/10.1186/s10020-022-00555-9, doi:10.1186/s10020-022-00555-9. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s10020-022-00555-9)
+
+[3. (Eide2003Protein) Turid Eide, Kristin A. Taskén, Cathrine Carlson, Gareth Williams, Tore Jahnsen, Kjetil Taskén, and Philippe Collas. Protein kinase a-anchoring protein akap95 interacts with mcm2, a regulator of dna replication. Journal of Biological Chemistry, 278(29):26750–26756, July 2003. URL: http://dx.doi.org/10.1074/jbc.m300765200, doi:10.1074/jbc.m300765200. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m300765200)
+
+[4. (Costa2011The) Alessandro Costa, Ivar Ilves, Nele Tamberg, Tatjana Petojevic, Eva Nogales, Michael R Botchan, and James M Berger. The structural basis for mcm2–7 helicase activation by gins and cdc45. Nature Structural &amp; Molecular Biology, 18(4):471–477, March 2011. URL: http://dx.doi.org/10.1038/nsmb.2004, doi:10.1038/nsmb.2004. This article has 277 citations.](https://doi.org/10.1038/nsmb.2004)
+
+[5. (Rizwani2009Prohibitin) Wasia Rizwani, Mark G. Alexandrow, and Srikumar P. Chellappan. Prohibitin physically interacts with mcm proteins and inhibits mammalian dna replication. Cell Cycle, 8(10):1621–1629, May 2009. URL: http://dx.doi.org/10.4161/cc.8.10.8578, doi:10.4161/cc.8.10.8578. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/cc.8.10.8578)
+
+[6. (Holland2002Distinct) Linda Holland, Michael Downey, Xiaomin Song, Laura Gauthier, Patricia Bell‐Rogers, and Krassimir Yankulov. Distinct parts of minichromosome maintenance protein 2 associate with histone h3/h4 and rna polymerase ii holoenzyme. European Journal of Biochemistry, 269(21):5192–5202, October 2002. URL: http://dx.doi.org/10.1046/j.1432-1033.2002.03224.x, doi:10.1046/j.1432-1033.2002.03224.x. This article has 27 citations.](https://doi.org/10.1046/j.1432-1033.2002.03224.x)
+
+[7. (Ishimi2018Regulation) Yukio Ishimi. Regulation of mcm2-7 function. Genes &amp; Genetic Systems, 93(4):125–133, August 2018. URL: http://dx.doi.org/10.1266/ggs.18-00026, doi:10.1266/ggs.18-00026. This article has 52 citations.](https://doi.org/10.1266/ggs.18-00026)
+
+[8. (Sun2014Structural) Jingchuan Sun, Alejandra Fernandez-Cid, Alberto Riera, Silvia Tognetti, Zuanning Yuan, Bruce Stillman, Christian Speck, and Huilin Li. Structural and mechanistic insights into mcm2–7 double-hexamer assembly and function. Genes &amp; Development, 28(20):2291–2303, October 2014. URL: http://dx.doi.org/10.1101/gad.242313.114, doi:10.1101/gad.242313.114. This article has 123 citations.](https://doi.org/10.1101/gad.242313.114)
+
+[9. (Tang2022Demethylation) Zengwei Tang, Yuan Yang, Wen Chen, Enliang Li, and Tingbo Liang. Demethylation at enhancer upregulates mcm2 and nup37 expression predicting poor survival in hepatocellular carcinoma patients. Journal of Translational Medicine, January 2022. URL: http://dx.doi.org/10.1186/s12967-022-03249-2, doi:10.1186/s12967-022-03249-2. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-022-03249-2)
+
+[10. (Zeraatpisheh2022MCM2) Zahra Zeraatpisheh, Ali Saber Sichani, Neda Kamal, Hossein Jafari Khamirani, Sina Zoghi, Elham Ehsani, Sanaz Mohammadi, Seyed Sajjad Tabei, Seyed Alireza Dastgheib, Seyed Mohammad Bagher Tabei, and Mehdi Dianatpour. Mcm2 mutation causes autosomal dominant nonsyndromic hearing loss (dfna70): novel variant in the second family. Journal of Genetics, April 2022. URL: http://dx.doi.org/10.1007/s12041-022-01364-z, doi:10.1007/s12041-022-01364-z. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12041-022-01364-z)
+
+[11. (Ibarra2008Excess) Arkaitz Ibarra, Etienne Schwob, and Juan Méndez. Excess mcm proteins protect human cells from replicative stress by licensing backup origins of replication. Proceedings of the National Academy of Sciences, 105(26):8956–8961, July 2008. URL: http://dx.doi.org/10.1073/pnas.0803978105, doi:10.1073/pnas.0803978105. This article has 406 citations.](https://doi.org/10.1073/pnas.0803978105)
+
+[12. (Neves2017In) Henrique Neves and Hang Fai Kwok. In sickness and in health: the many roles of the minichromosome maintenance proteins. Biochimica et Biophysica Acta (BBA) - Reviews on Cancer, 1868(1):295–308, August 2017. URL: http://dx.doi.org/10.1016/j.bbcan.2017.06.001, doi:10.1016/j.bbcan.2017.06.001. This article has 37 citations.](https://doi.org/10.1016/j.bbcan.2017.06.001)
+
+[13. (Burke2001Replication) Thomas W. Burke, Jeanette Gowen Cook, Maki Asano, and Joseph R. Nevins. Replication factors mcm2 and orc1 interact with the histone acetyltransferase hbo1. Journal of Biological Chemistry, 276(18):15397–15408, January 2001. URL: http://dx.doi.org/10.1074/jbc.m011556200, doi:10.1074/jbc.m011556200. This article has 253 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m011556200)

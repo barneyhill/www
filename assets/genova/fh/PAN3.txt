@@ -1,0 +1,48 @@
+# PAN3
+
+## Overview
+The PAN3 gene encodes the poly(A) specific ribonuclease subunit PAN3, a crucial component of the PAN2-PAN3 deadenylase complex involved in mRNA degradation. This protein is characterized by a pseudokinase domain, which, despite lacking catalytic activity, retains ATP-binding capacity essential for its function, and a highly conserved C-terminal domain necessary for interaction with PAN2 and self-dimerization (Christie2013Structure). PAN3 plays a pivotal role in the regulation of mRNA stability and decay, influencing gene expression and cellular responses. It interacts with various proteins, including the poly(A)-binding protein and GW182 proteins, to modulate mRNA degradation pathways, including those mediated by microRNAs (Uchida2004Identification; Christie2013Structure). The gene's expression and function have significant implications in clinical contexts, particularly in cancer and cardiac conditions, where its dysregulation can contribute to disease progression and drug resistance (Shang2019CircPAN3; Fang2024Circular).
+
+## Structure
+The PAN3 protein is a component of the PAN2-PAN3 deadenylase complex, playing a crucial role in mRNA degradation. Structurally, PAN3 is characterized by three main regions: an unstructured N-terminal region, a central pseudokinase (PK) domain, and a highly conserved C-terminal domain (Christie2013Structure). The pseudokinase domain adopts a divergent kinase fold with a canonical bilobal structure, although it lacks typical catalytic activity due to substitutions in conserved motifs (Christie2013Structure). Despite this, it retains ATP-binding capacity, which is essential for its function (Christie2013Structure).
+
+The C-terminal domain is crucial for binding with PAN2, and both the PK and C-terminal domains are necessary for PAN3 self-interaction, forming asymmetric homodimers mediated by a central coiled coil (Christie2013Structure). This dimerization is characterized by an extensive interface involving hydrophobic interactions, salt bridges, and hydrogen bonds (Christie2013Structure).
+
+PAN3 also features a tryptophan-binding pocket at the dimer interface, facilitating interactions with TNRC6 proteins, which are important for recruiting the PAN2-PAN3 complex to miRNA targets (Christie2013Structure). The protein's structure is conserved across species, from yeast to humans, indicating its fundamental role in mRNA regulation (Christie2013Structure).
+
+## Function
+The PAN3 gene encodes a regulatory subunit of the PAN2-PAN3 deadenylase complex, which plays a crucial role in mRNA turnover in eukaryotic cells. This complex is involved in the deadenylation process, the initial step in mRNA decay, which involves the shortening of the poly(A) tail of mRNA molecules. PAN3 interacts with the poly(A)-binding protein (PABP) to stimulate the deadenylase activity of PAN2, enhancing the complex's substrate specificity for poly(A) RNA (Uchida2004Identification; Wolf2014Structural). 
+
+PAN3 exists in two isoforms, Pan3L and Pan3S, which have opposing roles in regulating mRNA deadenylation. Pan3S enhances the deadenylase activity of Pan2, promoting rapid poly(A) shortening, while Pan3L acts as a negative regulator, preventing Pan2 from progressing into the second phase of deadenylation (Chen2017Antagonistic). These isoforms also influence mRNA stability and decay pathways differently, with Pan3S contributing to mRNA stabilization and Pan3L promoting decay of certain mRNAs (Chen2017Antagonistic).
+
+The PAN3 protein is primarily active in the cytoplasm, where it interacts with other proteins to modulate mRNA stability and degradation, impacting gene expression and cellular responses (Uchida2004Identification; Christie2013Structure).
+
+## Clinical Significance
+The PAN3 gene, encoding a subunit of the poly(A) specific ribonuclease complex, is implicated in various diseases through its role in mRNA decay and regulation. Alterations in PAN3 expression or function can contribute to disease progression, particularly in cancer. In acute myeloid leukemia (AML), the circular RNA circPAN3, derived from the PAN3 gene, is associated with drug resistance. CircPAN3 is highly expressed in drug-resistant AML cells and promotes autophagy via the AMPK/mTOR pathway, enhancing drug resistance. This suggests that circPAN3, rather than PAN3 itself, plays a significant role in AML drug resistance through alternative splicing mechanisms (Shang2019CircPAN3).
+
+In cardiac conditions, circPAN3 is involved in cardiac hypertrophy. It acts as a miRNA sponge, particularly for miR-320-3p, and regulates the expression of HSP20, a protein involved in cardiomyocyte protection. Downregulation of circPAN3 is observed in cardiac hypertrophy, and its overexpression can attenuate this condition, indicating its protective role in cardiac health (Fang2024Circular).
+
+These findings highlight the clinical significance of PAN3 and its derived circRNAs in disease contexts, particularly in cancer and cardiac conditions.
+
+## Interactions
+The PAN3 protein is a subunit of the PAN2-PAN3 deadenylase complex, which plays a crucial role in mRNA degradation by shortening poly(A) tails. PAN3 interacts with PAN2 through its C-terminal domain, forming a complex that is essential for mRNA deadenylation. This interaction is conserved across species, including humans and Drosophila melanogaster (Christie2013Structure). PAN3 also forms homodimers through a coiled coil structure, which is important for its function in the complex (Christie2013Structure).
+
+PAN3 interacts with the poly(A)-binding protein (PABP) via its N-terminal PAM2 motif. This interaction is crucial for recruiting the PAN2-PAN3 complex to polyadenylated mRNAs, enhancing the substrate specificity of the complex for poly(A) RNA (Uchida2004Identification; Wolf2014Structural). PAN3 also binds directly to RNA through its zinc finger domain, which preferentially binds polyA RNA, and its pseudokinase/C-terminal domain, which binds RNA in a non-specific manner (Wolf2014Structural).
+
+Additionally, PAN3 interacts with GW182 proteins, which are involved in miRNA-mediated mRNA degradation. This interaction is facilitated by a tryptophan-binding pocket at the dimer interface of PAN3, which accommodates tryptophan residues from GW182 proteins (Christie2013Structure). These interactions highlight PAN3's role in both general and miRNA-mediated mRNA degradation.
+
+
+## References
+
+
+[1. (Shang2019CircPAN3) Jin Shang, Wei-Min Chen, Shan Liu, Zhi-Hong Wang, Tian-Nan Wei, Zhi-Zhong Chen, and Wen-Bing Wu. Circpan3 contributes to drug resistance in acute myeloid leukemia through regulation of autophagy. Leukemia Research, 85:106198, October 2019. URL: http://dx.doi.org/10.1016/j.leukres.2019.106198, doi:10.1016/j.leukres.2019.106198. This article has 77 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.leukres.2019.106198)
+
+[2. (Fang2024Circular) Xinyu Fang, Xiang Ao, Dandan Xiao, Yu Wang, Yi Jia, Peiyan Wang, Mengyang Li, and Jianxun Wang. Circular rna-circpan3 attenuates cardiac hypertrophy via mir-320-3p/hsp20 axis. Cellular &amp; Molecular Biology Letters, January 2024. URL: http://dx.doi.org/10.1186/s11658-023-00520-2, doi:10.1186/s11658-023-00520-2. This article has 3 citations.](https://doi.org/10.1186/s11658-023-00520-2)
+
+[3. (Chen2017Antagonistic) Chyi-Ying A. Chen, Yueqiang Zhang, Yu Xiang, Leng Han, and Ann-Bin Shyu. Antagonistic actions of two human pan3 isoforms on global mrna turnover. RNA, 23(9):1404–1418, May 2017. URL: http://dx.doi.org/10.1261/rna.061556.117, doi:10.1261/rna.061556.117. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.061556.117)
+
+[4. (Wolf2014Structural) Jana Wolf, Eugene Valkov, Mark D Allen, Birthe Meineke, Yuliya Gordiyenko, Stephen H McLaughlin, Tayla M Olsen, Carol V Robinson, Mark Bycroft, Murray Stewart, and Lori A Passmore. Structural basis for <scp>p</scp>an3 binding to <scp>p</scp>an2 and its function in <scp>mrna</scp> recruitment and deadenylation. The EMBO Journal, 33(14):1514–1526, May 2014. URL: http://dx.doi.org/10.15252/embj.201488373, doi:10.15252/embj.201488373. This article has 51 citations.](https://doi.org/10.15252/embj.201488373)
+
+[5. (Uchida2004Identification) Naoyuki Uchida, Shin-ichi Hoshino, and Toshiaki Katada. Identification of a human cytoplasmic poly(a) nuclease complex stimulated by poly(a)-binding protein. Journal of Biological Chemistry, 279(2):1383–1391, January 2004. URL: http://dx.doi.org/10.1074/jbc.m309125200, doi:10.1074/jbc.m309125200. This article has 104 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m309125200)
+
+[6. (Christie2013Structure) Mary Christie, Andreas Boland, Eric Huntzinger, Oliver Weichenrieder, and Elisa Izaurralde. Structure of the pan3 pseudokinase reveals the basis for interactions with the pan2 deadenylase and the gw182 proteins. Molecular Cell, 51(3):360–373, August 2013. URL: http://dx.doi.org/10.1016/j.molcel.2013.07.011, doi:10.1016/j.molcel.2013.07.011. This article has 95 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2013.07.011)

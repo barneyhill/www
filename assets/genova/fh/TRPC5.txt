@@ -1,0 +1,52 @@
+# TRPC5
+
+## Overview
+The TRPC5 gene encodes the transient receptor potential cation channel subfamily C member 5, a protein that functions as a non-selective cation channel primarily facilitating calcium ion (Ca²⁺) influx into cells. As a member of the transient receptor potential (TRP) channel family, specifically the TRPC subfamily, TRPC5 plays a pivotal role in various physiological processes, including neuronal development, mechanotransduction, and cellular signaling. Structurally, the TRPC5 protein is characterized by a tetrameric assembly with a transmembrane domain and intracellular regions featuring ankyrin repeats and a TRP domain (Duan2019CryoEM; Wright2020CryoEM). Functionally, it is involved in dendrite patterning in the brain and mechanosensitive Ca²⁺ influx, impacting neuronal connectivity and cell motility (Puram2011A; Shen2015Plasma). Clinically, TRPC5 has been implicated in various conditions, including reproductive disorders and cancer, highlighting its potential as a therapeutic target (Blum2019Trpc5; Chen2017TrpC5).
+
+## Structure
+The TRPC5 protein is a tetrameric ion channel, with each monomer comprising a large intracellular domain and a transmembrane domain (TMD) consisting of six α-helices (S1-S6) (Duan2019CryoEM; Wright2020CryoEM). The intracellular domain includes ankyrin repeats and a helix-loop-helix region, while the TMD forms the channel pore (Duan2019CryoEM). The TRPC5 structure also features a TRP domain and a coiled-coil domain at the C-terminus (Wright2020CryoEM).
+
+A notable structural feature is the presence of a disulfide bond between Cys553 and Cys558, which is crucial for channel gating (Duan2019CryoEM; Duan2018CryoEM). The protein also contains a conserved LFW motif in the pore domain, stabilized by a π-π interaction between Phe576 and Trp577 (Duan2018CryoEM). The extracellular region includes a unique 'TRAIDEPNN' motif, which forms a loop that may enhance cation conduction (Duan2019CryoEM).
+
+TRPC5 interacts with lipids, with lipid molecules such as cholesteryl hemisuccinates and phospholipids identified in its structure, suggesting that membrane lipid composition may regulate its ion conduction (Duan2018CryoEM). The protein may also undergo post-translational modifications like phosphorylation, affecting its function and regulation (Duan2018CryoEM).
+
+## Function
+TRPC5 is a member of the transient receptor potential (TRP) channel family, specifically the TRPC subfamily, and functions as a non-selective cation channel that primarily facilitates the influx of calcium ions (Ca²⁺) into cells. This channel plays a crucial role in regulating dendrite patterning in the mammalian brain. In neurons, TRPC5 restricts dendrite growth and branching, contributing to the development of mature dendrite arbors. This regulation is essential for maintaining proper neuronal connectivity and function, as evidenced by TRPC5 knockout mice, which exhibit longer and more highly branched dendrites (Puram2011A).
+
+TRPC5 is involved in a calcium signaling pathway that includes the protein kinase CaMKIIb. This pathway is critical for dendrite morphogenesis and connectivity, influencing motor coordination and gait in mice. TRPC5 forms a complex with CaMKIIb, leading to the phosphorylation and inhibition of the ubiquitin ligase Cdc20-APC at the centrosome, which restricts dendrite growth (Puram2011A).
+
+TRPC5 also plays a role in mechanotransduction, as it is activated by mechanical stress on the plasma membrane. This activation is crucial for mechanosensitive Ca²⁺ influx, which is important for various cellular processes, including cell motility and mechanosensitivity (Shen2015Plasma).
+
+## Clinical Significance
+Mutations or alterations in the expression of the TRPC5 gene have been implicated in several diseases and conditions. In the context of reproductive health, TRPC5 deficiency in mice leads to hypoprolactinemia, characterized by low prolactin levels, which results in irregular reproductive cycles and impaired reproductive performance. This suggests that similar alterations in humans could potentially be linked to reproductive disorders and prolactin regulation issues (Blum2019Trpc5).
+
+In cancer research, TRPC5 has been associated with colorectal cancer (CRC). High expression levels of TRPC5 correlate with increased cancer cell stemness and tumorigenicity, contributing to poorer overall and disease-free survival in CRC patients. TRPC5 influences cancer progression through the Ca2+/Wnt5a signaling pathway, making it a potential therapeutic target in CRC (Chen2017TrpC5).
+
+TRPC5 is also involved in glioma, a type of brain tumor. Its expression is higher in low-grade gliomas, which is associated with better prognosis, suggesting a complex role in tumor biology and potential as a prognostic marker (Fang2022TRP). These findings highlight the clinical significance of TRPC5 in various pathological conditions.
+
+## Interactions
+TRPC5 interacts with the alpha subunit of inhibitory G-protein (Gαi3), forming a complex that enhances the channel's sensitivity to phosphatidylinositol 4,5-bisphosphate (PIP2), facilitating its opening in the cell membrane. This interaction occurs at the ankyrin repeat edge of TRPC5, approximately 50 Å away from the cell membrane, and involves a 4:4 stoichiometry in lipid nanodiscs (Won2023Molecular). The binding interface includes the ankyrin repeat domain (ARD) of TRPC5 and the α2 and α3 helices of Gαi3, with key residues in TRPC5, specifically the IYY motif (Ile57, Tyr58, and Tyr59), playing a significant role in this interaction (Won2023Molecular). 
+
+TRPC5 also interacts with xanthine-based inhibitors, such as Pico145, which bind to a conserved lipid binding site, displacing phospholipids typically found in this site. This interaction involves several key residues, including W577 and F576, which are crucial for the binding and gating of TRPC5 by these inhibitors (Wright2020CryoEM). These interactions highlight the role of TRPC5 in cellular signaling and its potential as a therapeutic target.
+
+
+## References
+
+
+[1. (Fang2022TRP) Chaoyou Fang, Houshi Xu, Yibo Liu, Chenkai Huang, Xiaoyu Wang, Zeyu Zhang, Yuanzhi Xu, Ling Yuan, Anke Zhang, Anwen Shao, and Meiqing Lou. Trp family genes are differently expressed and correlated with immune response in glioma. Brain Sciences, 12(5):662, May 2022. URL: http://dx.doi.org/10.3390/brainsci12050662, doi:10.3390/brainsci12050662. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/brainsci12050662)
+
+[2. (Duan2019CryoEM) Jingjing Duan, Jian Li, Gui-Lan Chen, Yan Ge, Jieyu Liu, Kechen Xie, Xiaogang Peng, Wei Zhou, Jianing Zhong, Yixing Zhang, Jie Xu, Changhu Xue, Bo Liang, Lan Zhu, Wei Liu, Cheng Zhang, Xiao-Li Tian, Jianbin Wang, David E. Clapham, Bo Zeng, Zongli Li, and Jin Zhang. Cryo-em structure of trpc5 at 2.8-å resolution reveals unique and conserved structural elements essential for channel function. Science Advances, July 2019. URL: http://dx.doi.org/10.1126/sciadv.aaw7935, doi:10.1126/sciadv.aaw7935. This article has 78 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.aaw7935)
+
+3. (Duan2018CryoEM) Cryo-EM structure of the receptor-activated TRPC5 ion channel at 2.9 angstrom resolution. This article has 4 citations.
+
+[4. (Blum2019Trpc5) Thomas Blum, Ana Moreno-Pérez, Martina Pyrski, Bernd Bufe, Anela Arifovic, Petra Weissgerber, Marc Freichel, Frank Zufall, and Trese Leinders-Zufall. Trpc5 deficiency causes hypoprolactinemia and altered function of oscillatory dopamine neurons in the arcuate nucleus. Proceedings of the National Academy of Sciences, 116(30):15236–15243, July 2019. URL: http://dx.doi.org/10.1073/pnas.1905705116, doi:10.1073/pnas.1905705116. This article has 33 citations.](https://doi.org/10.1073/pnas.1905705116)
+
+[5. (Puram2011A) Sidharth V. Puram, Antonio Riccio, Samir Koirala, Yoshiho Ikeuchi, Albert H. Kim, Gabriel Corfas, and Azad Bonni. A trpc5-regulated calcium signaling pathway controls dendrite patterning in the mammalian brain. Genes &amp; Development, 25(24):2659–2673, December 2011. URL: http://dx.doi.org/10.1101/gad.174060.111, doi:10.1101/gad.174060.111. This article has 57 citations.](https://doi.org/10.1101/gad.174060.111)
+
+[6. (Won2023Molecular) Jongdae Won, Jinsung Kim, Hyeongseop Jeong, Jinhyeong Kim, Shasha Feng, Byeongseok Jeong, Misun Kwak, Juyeon Ko, Wonpil Im, Insuk So, and Hyung Ho Lee. Molecular architecture of the gαi-bound trpc5 ion channel. Nature Communications, May 2023. URL: http://dx.doi.org/10.1038/s41467-023-38281-3, doi:10.1038/s41467-023-38281-3. This article has 13 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-38281-3)
+
+7. (Wright2020CryoEM) Cryo-EM structures of human TRPC5 reveal interaction of a xanthine-based TRPC1/4/5 inhibitor with a conserved lipid binding site. This article has 3 citations.
+
+[8. (Shen2015Plasma) Bing Shen, Ching-On Wong, On-Chai Lau, Theodosia Woo, Suwen Bai, Yu Huang, and Xiaoqiang Yao. Plasma membrane mechanical stress activates trpc5 channels. PLOS ONE, 10(4):e0122227, April 2015. URL: http://dx.doi.org/10.1371/journal.pone.0122227, doi:10.1371/journal.pone.0122227. This article has 38 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0122227)
+
+[9. (Chen2017TrpC5) Zhen Chen, Chunlei Tang, Yaodan Zhu, Mingxu Xie, Dongxu He, Qiongxi Pan, Peng Zhang, Dong Hua, Teng Wang, Linfang Jin, Xiaowei Qi, Yifei Zhu, Xiaoqiang Yao, Jian Jin, and Xin Ma. Trpc5 regulates differentiation through the ca2+/wnt5a signalling pathway in colorectal cancer. Clinical Science, 131(3):227–237, January 2017. URL: http://dx.doi.org/10.1042/cs20160759, doi:10.1042/cs20160759. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1042/cs20160759)

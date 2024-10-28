@@ -1,0 +1,27 @@
+# UFSP1
+
+## Overview
+UFSP1 is a gene that encodes the protein UFM1 specific peptidase 1 (inactive), which is a cysteine protease involved in the UFM1 pathway. This pathway is essential for protein homeostasis and ribosome quality control in human cells. The UFSP1 protein, despite its name suggesting inactivity, is active in its long isoform and plays a critical role in the maturation of UFM1, a ubiquitin-like protein, by cleaving it from substrates and disassembling polyUFM1 chains. This activity regulates UFMylation, a post-translational modification process, and is crucial for various cellular processes, including DNA damage response and ER-phagy. The structural characteristics of UFSP1, including a catalytic triad and an oxyanion hole, are similar to those of other cysteine proteases, indicating a conserved mechanism of action (Ha2008Structural; Millrine2022Human).
+
+## Structure
+The molecular structure of the UFSP1 protein from mice has been determined, revealing an α/β-fold with a seven-stranded antiparallel β-sheet flanked by α-helices. The active site of UFSP1 includes catalytic residues Cys 53, His 177, and Asp 175, which are positioned similarly to those in the papain family of cysteine proteases, despite low sequence homology. A conserved tyrosine (Tyr 41) participates in forming the oxyanion hole, crucial for catalysis (Ha2008Structural). The overall structure of UFSP1 mimics the papain fold, and structural comparisons using the DALI algorithm identified Atg4B and M48 USP as significant homologues, although they exhibit local structural differences (Ha2008Structural).
+
+In humans, UFSP1 was previously thought to be inactive due to missing catalytic residues. However, it is now identified as an active protease in its long isoform, which includes the catalytic cysteine residue necessary for its protease activity. This longer isoform is approximately 24 kDa, compared to the incorrectly annotated 15 kDa form (Millrine2022Human). The human UFSP1 protein is involved in the UFM1 pathway, regulating UFM1 maturation and UFMylation (Millrine2022Human).
+
+## Function
+UFSP1 is an active protease involved in the UFM1 pathway, which is crucial for protein homeostasis and ribosome quality control in human cells. It plays a significant role in the maturation of UFM1, a ubiquitin-like protein, by cleaving it from various substrates and disassembling polyUFM1 chains, thus regulating UFMylation, a post-translational modification process (Millrine2022Human). UFSP1 is localized in the cytosol and is responsible for maintaining a pool of mature UFM1, indirectly influencing ribosome UFMylation by facilitating UFM1 maturation and cleaving UFM1 from UFMylated UFC1 (Millrine2022Human).
+
+Structurally, UFSP1 is characterized by a catalytic triad composed of Cys 53, Asp 175, and His 177, with Tyr 41 forming an oxyanion hole crucial for its enzymatic activity (Ha2008Structural). This structural arrangement is similar to other cysteine proteases, indicating a conserved mechanism of action (Ha2008Structural). UFSP1's activity is essential for the proper functioning of the UFM1 pathway, impacting processes such as DNA damage response and ER-phagy, and is linked to various neurodevelopmental disorders and tissue development (Millrine2022Human).
+
+## Interactions
+UFSP1 is an active protease involved in the UFM1 pathway, where it plays a crucial role in UFM1 maturation and UFMylation. UFSP1 interacts with UFM1, a ubiquitin-like protein, to process it for conjugation to target proteins. This interaction is characterized by a strong binding affinity, with a dissociation constant (K_D) of 1.6 µM, indicating a significant interaction between UFSP1 and UFM1 (Ha2008Structural). The interaction involves specific regions of UFM1, particularly the loop between β3 and α2 and the C-terminal region, which are important for binding to UFSP1 (Ha2008Structural).
+
+UFSP1 also interacts with UFC1, another component of the UFM1 pathway. In UFSP1 knockout cells, there is an increased UFMylation of UFC1 at lysine 122, suggesting that UFSP1 regulates UFM1 maturation and cleaves UFM1 from UFMylated UFC1 (Millrine2022Human). Unlike UFSP2, UFSP1 does not interact with the transmembrane protein ODR4, indicating that UFSP1 likely resides in the cytosol and is primarily responsible for UFM1 maturation (Millrine2022Human). These interactions highlight UFSP1's role in maintaining a pool of mature UFM1 and regulating UFMylation processes.
+
+
+## References
+
+
+[1. (Ha2008Structural) Byung Hak Ha, Hee-Chul Ahn, Sung Hwan Kang, Keiji Tanaka, Chin Ha Chung, and Eunice EunKyeong Kim. Structural basis for ufm1 processing by ufsp1. Journal of Biological Chemistry, 283(21):14893–14900, May 2008. URL: http://dx.doi.org/10.1074/jbc.M708756200, doi:10.1074/jbc.m708756200. This article has 55 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M708756200)
+
+2. (Millrine2022Human) Human UFSP1 is an active protease that regulates UFM1 maturation and UFMylation. This article has 26 citations.

@@ -1,0 +1,42 @@
+# KHNYN
+
+## Overview
+KHNYN is a gene that encodes the KH and NYN domain-containing protein, which plays a significant role in antiviral defense mechanisms. The protein is characterized by the presence of a KH-like domain and a NYN endonuclease domain, both of which are essential for its function in RNA metabolism and antiviral activity. The KH-like domain is unique due to its metal chelating module, which may alter RNA binding, while the NYN domain belongs to the PIN nuclease domain superfamily and is crucial for cleaving viral RNA. KHNYN interacts with the zinc finger antiviral protein (ZAP) to restrict the replication of HIV-1, particularly in viruses with clustered CpG dinucleotides, by facilitating the degradation of viral RNA. Additionally, KHNYN's C-terminal CUBAN domain is involved in protein-protein interactions, showing a preference for binding NEDD8 over ubiquitin. The gene's expression has been linked to various clinical conditions, including its potential role as a prognostic marker in lower-grade glioma (Xu2021Identification; Castagnoli2019Selectivity; Ficarelli2019KHNYN).
+
+## Structure
+The KHNYN protein contains two key domains: a KH-like domain and a NYN domain. The KH-like domain is distinct from canonical KH domains due to a small metal chelating module with two cysteines and a histidine, which may disrupt RNA binding, suggesting a different function. Deletion of this domain reduces KHNYN's antiviral activity, indicating its importance (Ficarelli2019KHNYNa). The NYN domain, part of the PIN nuclease domain superfamily, exhibits endonuclease activity with a negatively charged active site coordinated by four aspartic acid residues and a magnesium ion. Mutations in these residues significantly decrease or eliminate KHNYN's antiviral activity against HIV-1 (Ficarelli2019KHNYNa).
+
+The C-terminal region of KHNYN includes a CUBAN domain, which is a three-helix bundle structure that shows a preference for binding NEDD8 over ubiquitin. This domain is crucial for KHNYN's interaction with neddylated substrates (Castagnoli2019Selectivity). The CUBAN domain's structure and binding characteristics are supported by NMR spectroscopy and molecular dynamics simulations, highlighting its role in protein-protein interactions (Castagnoli2019Selectivity). KHNYN has two isoforms, KHNYN-1 and KHNYN-2, which contain these domains and are involved in interactions with the zinc finger antiviral protein (ZAP) (Ficarelli2019KHNYNa).
+
+## Function
+The KHNYN protein plays a crucial role in antiviral defense mechanisms, particularly through its interaction with the zinc finger antiviral protein (ZAP) to restrict HIV-1 replication. KHNYN is essential for the ZAP-mediated restriction of HIV-1 containing clustered CpG dinucleotides, a process that involves the degradation of viral RNA. This protein contains a KH-like domain and a NYN endonuclease domain, both necessary for its antiviral activity. The KH-like domain may disrupt RNA binding, while the NYN domain, part of the PIN nuclease domain superfamily, is crucial for KHNYN's function in cleaving viral RNA (Ficarelli2019KHNYNa; Ficarelli2019KHNYN).
+
+KHNYN interacts with ZAP and requires TRIM25 to inhibit HIV-1, although TRIM25 is not necessary for the interaction between ZAP and KHNYN. The protein's antiviral activity is dependent on its ability to target CpG-rich regions in viral RNA, facilitating their degradation (Ficarelli2019KHNYNa; Ficarelli2019KHNYN). KHNYN is active in the cytoplasm, where it influences RNA stability and degradation, impacting gene expression regulation and cellular response to stress (Ficarelli2019KHNYNa).
+
+## Clinical Significance
+The KHNYN gene has been implicated in various diseases and conditions due to its role in RNA metabolism and antiviral immunity. Alterations in KHNYN expression levels have been associated with the prognosis of lower-grade glioma (LGG). A study identified KHNYN as one of the genes whose expression negatively correlates with overall survival in LGG patients, suggesting its potential as a prognostic marker (Xu2021Identification).
+
+In the context of viral infections, KHNYN is crucial for the restriction of HIV-1 replication, particularly in viruses containing clustered CpG dinucleotides. It acts as a cofactor for the zinc finger antiviral protein (ZAP), facilitating the degradation of viral RNA. Mutations or depletion of KHNYN can lead to increased HIV-1 production, indicating its essential role in the antiviral response (Ficarelli2019KHNYN).
+
+KHNYN is also involved in immune regulation, similar to other endoribonucleases like Regnase-1. Its interaction with ZAP suggests a role in inhibiting the replication of retroviruses rich in CG dinucleotides, contributing to antiviral immunity (Mino2021Regnase‐1–related). However, specific clinical implications of KHNYN gene mutations remain to be fully elucidated.
+
+## Interactions
+KHNYN is known to interact with the zinc finger antiviral protein (ZAP), playing a crucial role in the restriction of HIV-1 containing clustered CpG dinucleotides. This interaction is essential for the antiviral activity of ZAP, as ZAP alone lacks enzymatic activity and requires cofactors like KHNYN to degrade viral RNA. The interaction between KHNYN and ZAP has been confirmed through yeast two-hybrid screens and co-immunoprecipitation assays, demonstrating a strong and specific interaction that is RNase insensitive (Ficarelli2019KHNYNa; Ficarelli2019KHNYN).
+
+KHNYN also interacts with TRIM25, another cofactor necessary for its antiviral function, although TRIM25 is not required for the direct interaction between KHNYN and ZAP. The presence of TRIM25 enhances the antiviral activity of KHNYN, suggesting a complex interplay between these proteins in the antiviral response (Ficarelli2019KHNYNa; Ficarelli2019KHNYN).
+
+The KHNYN protein contains a KH-like domain and a NYN endonuclease domain, both of which are critical for its function. The NYN domain is part of the PIN nuclease domain superfamily and is crucial for the cleavage of viral RNA, which is then degraded by exonucleic pathways (Ficarelli2019KHNYNa).
+
+
+## References
+
+
+[1. (Castagnoli2019Selectivity) Luisa Castagnoli, Walter Mandaliti, Ridvan Nepravishta, Eleonora Valentini, Anna Mattioni, Radha Procopio, Marta Iannuccelli, Simona Polo, Maurizio Paci, Gianni Cesareni, and Elena Santonico. Selectivity of the cuban domain in the recognition of ubiquitin and nedd8. The FEBS Journal, 286(4):653–677, February 2019. URL: http://dx.doi.org/10.1111/febs.14752, doi:10.1111/febs.14752. This article has 24 citations.](https://doi.org/10.1111/febs.14752)
+
+[2. (Ficarelli2019KHNYNa) Mattia Ficarelli, Harry Wilson, Rui Pedro Galão, Michela Mazzon, Irati Antzin-Anduetza, Mark Marsh, Stuart JD Neil, and Chad M Swanson. Khnyn is essential for the zinc finger antiviral protein (zap) to restrict hiv-1 containing clustered cpg dinucleotides. eLife, July 2019. URL: http://dx.doi.org/10.7554/elife.46767, doi:10.7554/elife.46767. This article has 101 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.46767)
+
+3. (Ficarelli2019KHNYN) KHNYN is essential for ZAP-mediated restriction of HIV-1 containing clustered CpG dinucleotides. This article has 2 citations.
+
+[4. (Mino2021Regnase‐1–related) Takashi Mino and Osamu Takeuchi. Regnase‐1–related endoribonucleases in health and immunological diseases. Immunological Reviews, 304(1):97–110, September 2021. URL: http://dx.doi.org/10.1111/imr.13023, doi:10.1111/imr.13023. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/imr.13023)
+
+[5. (Xu2021Identification) Shenbin Xu, Zefeng Wang, Juan Ye, Shuhao Mei, and Jianmin Zhang. Identification of iron metabolism-related genes as prognostic indicators for lower-grade glioma. Frontiers in Oncology, September 2021. URL: http://dx.doi.org/10.3389/fonc.2021.729103, doi:10.3389/fonc.2021.729103. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.729103)

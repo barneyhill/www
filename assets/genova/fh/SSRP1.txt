@@ -1,0 +1,50 @@
+# SSRP1
+
+## Overview
+The SSRP1 gene encodes the Structure Specific Recognition Protein 1, a pivotal component of the FACT (Facilitates Chromatin Transcription) complex, which is integral to chromatin remodeling and transcriptional regulation. The SSRP1 protein is characterized by its three distinct domains: an N-terminal/dimerization domain, a middle domain with tandem pleckstrin homology domains, and a C-terminal high-mobility group domain. This protein is primarily located in the nucleus, where it plays a crucial role in modulating chromatin structure to facilitate transcription, DNA replication, and repair processes. SSRP1's involvement in DNA repair is particularly significant, as it interacts with key proteins such as Rad54 and XRCC1 to maintain genomic stability. The gene's expression is highly conserved across eukaryotes, underscoring its evolutionary importance. Clinically, alterations in SSRP1 expression have been linked to various cancers, making it a potential target for therapeutic interventions (Gao2017SSRP1; Kumari2009A; Zhang2015Crystal).
+
+## Structure
+The SSRP1 protein is a component of the FACT complex and is composed of three well-defined domains: an N-terminal/dimerization domain (SSRP1-N), a middle domain (SSRP1-M), and a C-terminal high-mobility group (HMG)-1 domain (SSRP1-C) (Zhang2015Crystal). The middle domain, SSRP1-M, has been structurally characterized and consists of tandem pleckstrin homology (PH) domains. The PH1 domain contains an extra conserved βαβ topology, while the PH2 domain resembles a typical PH domain with a seven-stranded antiparallel β-barrel capped by a C-terminal helix (Zhang2015Crystal). These domains are associated with each other through hydrophobic interactions, burying a solvent-accessible surface area of approximately 680 Å² (Zhang2015Crystal).
+
+SSRP1-M is involved in DNA binding, facilitated by a positively charged patch on its surface, but it does not bind to histones (Zhang2015Crystal). The protein's structure is compact, with a unique intrinsically disordered domain (IDD) at its C-terminal, which may influence its binding capabilities (Zhang2015Crystal). The SSRP1 protein is highly conserved across eukaryotes, indicating evolutionary conservation and potential functional significance (Zhang2015Crystal).
+
+## Function
+SSRP1 (Structure Specific Recognition Protein 1) is a crucial component of the FACT (Facilitates Chromatin Transcription) complex, which plays a significant role in chromatin remodeling, transcription elongation, DNA replication, and repair processes in healthy human cells. SSRP1 is involved in modulating chromatin structure to facilitate transcription by RNA polymerase II, particularly by alleviating the nucleosomal block to transcription elongation (Yarnell2001Interaction). 
+
+In the context of DNA repair, SSRP1 is essential for maintaining genomic stability. It interacts with Rad54, a key protein in the homologous recombination (HR) repair pathway, to inhibit Rad54-mediated branch migration of Holliday junctions, thereby regulating HR repair processes (Kumari2009A). SSRP1 also cooperates with XRCC1 to facilitate single-strand DNA break repair by promoting chromatin decondensation and histone exchange, which is crucial for efficient repair (Gao2017SSRP1). 
+
+SSRP1's activity is primarily located in the nucleus, where it binds to DNA and interacts with other proteins to modulate chromatin dynamics and facilitate access to damaged DNA sites, thus playing a vital role in cellular recovery following DNA damage (Gao2017SSRP1; Kumari2009A).
+
+## Clinical Significance
+Alterations in the expression of the SSRP1 gene have been implicated in various cancers, highlighting its clinical significance. In hepatocellular carcinoma (HCC), SSRP1 is part of the FACT complex, which is upregulated and associated with higher histological grades and poor survival outcomes. Targeting the FACT complex with drugs like Curaxin, alone or in combination with sorafenib, has been suggested as a potential treatment strategy for HCC (Shen2019Histone).
+
+In lung cancer, SSRP1 is overexpressed in lung squamous cell carcinoma and lung adenocarcinoma, correlating with lower overall survival rates. Silencing SSRP1 in lung cancer cells reduces proliferation and invasion, suggesting its role in cancer progression. SSRP1 is negatively regulated by miRNA-28-5p, which acts as a tumor suppressor (Jia2021SSRP1).
+
+In B-cell non-Hodgkin's lymphoma (B-NHL), SSRP1 is significantly overexpressed, and targeting it with the drug CBL0137, especially in combination with rituximab, has shown potential in inhibiting tumor growth by disrupting DNA repair and promoting apoptosis (Lv2023The). These findings underscore the potential of SSRP1 as a therapeutic target in cancer treatment.
+
+## Interactions
+SSRP1, a component of the FACT complex, interacts with various proteins and nucleic acids, playing a significant role in transcriptional regulation and DNA repair. SSRP1 forms a heterodimer with Spt16, creating the FACT complex, which is crucial for chromatin transcription and replication (Landais2006Coupling). During apoptosis, SSRP1 is cleaved by caspases 3 and 7, resulting in a truncated form that remains associated with Spt16 and chromatin, suggesting a tighter chromatin association than the intact FACT complex (Landais2006Coupling).
+
+SSRP1 also interacts with Rad54, a key protein in homologous recombination (HR) repair. This interaction inhibits Rad54-mediated branch migration of Holliday junctions, highlighting SSRP1's role as a negative regulator of HR activity (Kumari2009A). The interaction between SSRP1 and Rad54 is enhanced in cells treated with hydroxyurea, indicating its importance in replication-induced DNA damage repair (Kumari2009A).
+
+In terms of nucleic acid interactions, SSRP1 binds to DNA non-specifically through its middle domain (SSRP1-M), facilitated by positively charged regions on its surface. This binding does not extend to histones, distinguishing SSRP1 from other proteins with similar structures (Zhang2015Crystal).
+
+
+## References
+
+
+[1. (Lv2023The) Yan Lv, Yuxin Du, Kening Li, Xiao Ma, Juan Wang, Tongde Du, Yuxin Ma, Yue Teng, Weiyan Tang, Rong Ma, Jianqiu Wu, Jianzhong Wu, and Jifeng Feng. The fact-targeted drug cbl0137 enhances the effects of rituximab to inhibit b-cell non-hodgkin’s lymphoma tumor growth by promoting apoptosis and autophagy. Cell Communication and Signaling, January 2023. URL: http://dx.doi.org/10.1186/s12964-022-01031-x, doi:10.1186/s12964-022-01031-x. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12964-022-01031-x)
+
+[2. (Shen2019Histone) Jialing Shen, Mengnuo Chen, Derek Lee, Cheuk-Ting Law, Lai Wei, Felice Ho-Ching Tsang, Don Wai-Ching Chin, Carol Lai-Hung Cheng, Joyce Man-Fong Lee, Irene Oi-Lin Ng, Carmen Chak-Lui Wong, and Chun-Ming Wong. Histone chaperone fact complex mediates oxidative stress response to promote liver cancer progression. Gut, 69(2):329–342, August 2019. URL: http://dx.doi.org/10.1136/gutjnl-2019-318668, doi:10.1136/gutjnl-2019-318668. This article has 41 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1136/gutjnl-2019-318668)
+
+3. (Jia2021SSRP1) SSRP1 Promotes Lung Cancer Progression by Blocking the WNT Pathway and is Negatively Regulated by miRNA-28-5p. This article has 0 citations.
+
+[4. (Gao2017SSRP1) Ying Gao, Changling Li, Leizhen Wei, Yaqun Teng, Satoshi Nakajima, Xiukai Chen, Jianquan Xu, Brittany Leger, Hongqiang Ma, Stephen T. Spagnol, Yong Wan, Kris Noel Dahl, Yang Liu, Arthur S. Levine, and Li Lan. Ssrp1 cooperates with parp and xrcc1 to facilitate single-strand dna break repair by chromatin priming. Cancer Research, 77(10):2674–2685, May 2017. URL: http://dx.doi.org/10.1158/0008-5472.can-16-3128, doi:10.1158/0008-5472.can-16-3128. This article has 35 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-16-3128)
+
+[5. (Kumari2009A) Anuradha Kumari, Olga M. Mazina, Ujwal Shinde, Alexander V. Mazin, and Hua Lu. A role for ssrp1 in recombination‐mediated dna damage response. Journal of Cellular Biochemistry, 108(2):508–518, July 2009. URL: http://dx.doi.org/10.1002/jcb.22280, doi:10.1002/jcb.22280. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcb.22280)
+
+[6. (Zhang2015Crystal) Wenjuan Zhang, Fuxing Zeng, Yiwei Liu, Chen Shao, Sai Li, Hui Lv, Yunyu Shi, Liwen Niu, Maikun Teng, and Xu Li. Crystal structure of human ssrp1 middle domain reveals a role in dna binding. Scientific Reports, December 2015. URL: http://dx.doi.org/10.1038/srep18688, doi:10.1038/srep18688. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep18688)
+
+[7. (Yarnell2001Interaction) Amanda T. Yarnell, Sangtaek Oh, Danny Reinberg, and Stephen J. Lippard. Interaction of fact, ssrp1, and the high mobility group (hmg) domain of ssrp1 with dna damaged by the anticancer drug cisplatin. Journal of Biological Chemistry, 276(28):25736–25741, July 2001. URL: http://dx.doi.org/10.1074/jbc.m101208200, doi:10.1074/jbc.m101208200. This article has 78 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m101208200)
+
+[8. (Landais2006Coupling) I Landais, H Lee, and H Lu. Coupling caspase cleavage and ubiquitin–proteasome-dependent degradation of ssrp1 during apoptosis. Cell Death &amp; Differentiation, 13(11):1866–1878, February 2006. URL: http://dx.doi.org/10.1038/sj.cdd.4401878, doi:10.1038/sj.cdd.4401878. This article has 10 citations.](https://doi.org/10.1038/sj.cdd.4401878)

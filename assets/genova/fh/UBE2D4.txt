@@ -1,0 +1,48 @@
+# UBE2D4
+
+## Overview
+UBE2D4 is a gene that encodes the ubiquitin-conjugating enzyme E2 D4 (putative), a member of the ubiquitin-conjugating enzyme family involved in the ubiquitin-proteasome system. This enzyme plays a pivotal role in protein homeostasis by facilitating the transfer of ubiquitin from E1 enzymes to E3 ligases, which subsequently tag proteins for degradation. The UBE2D4 protein is characterized by a conserved ubiquitin-conjugating (UBC) domain, essential for its enzymatic activity, and is involved in various cellular processes, including the regulation of receptor protein tyrosine kinases (RTKs) and cyclin-dependent kinases. These functions are crucial for cellular regulation and have implications in cancer and other diseases (RomanTrufero2022The; Ramatenki2016Targeting). UBE2D4's activity in both the cytoplasm and nucleus underscores its importance in maintaining cellular function and influencing diverse cellular pathways (Hosseini2019E2).
+
+## Structure
+The UBE2D4 protein is a ubiquitin-conjugating enzyme that plays a role in the ubiquitination process, which is crucial for protein degradation and regulation within the cell. The protein consists of 147 amino acids and features a conserved ubiquitin-conjugating (UBC) domain, which is essential for its enzymatic activity (Ramatenki2016Targeting). The secondary structure of UBE2D4 includes several α-helices and β-strands, contributing to its overall 3D conformation (Ramatenki2016Targeting). 
+
+The tertiary structure of UBE2D4 was modeled using homology modeling techniques, with a high sequence similarity of 95% to its template, 2OXQ_A. The model was validated using various computational tools, ensuring its stereochemical quality and overall accuracy (Ramatenki2016Targeting). The active site of UBE2D4, crucial for its function, includes residues such as ILE 54, VAL 67, CYS 85, and others, located in the ubiquitin binding domain (Ramatenki2016Targeting).
+
+Post-translational modifications, such as phosphorylation, may occur, affecting the protein's function and interactions. The protein's structure and active site are key to its role in catalysis and interaction with ubiquitin ligase CHIP, making it a potential target for cancer drug discovery (Ramatenki2016Targeting).
+
+## Function
+UBE2D4 is a ubiquitin-conjugating enzyme that plays a critical role in the ubiquitin-proteasome system, which is essential for protein homeostasis and cellular regulation. It functions as an E2 enzyme, transferring ubiquitin from E1 enzymes to E3 ligases, which then attach ubiquitin to target proteins. This process is crucial for tagging proteins for degradation by the proteasome, thereby regulating protein levels within the cell (van2009A; Ramatenki2016Targeting).
+
+UBE2D4 is involved in various cellular processes, including the regulation of receptor protein tyrosine kinases (RTKs), which are important for mammalian development and implicated in cancer. It acts as a ubiquitin donor for E3 ligases like CBL, facilitating the ubiquitination and downregulation of RTKs, leading to their degradation in the lysosome (RomanTrufero2022The). UBE2D4 also interacts with the ubiquitin ligase CHIP, playing a role in the negative regulation of cyclin-dependent kinases during the G-phase of the cell cycle, which is crucial for preventing tumor formation (Ramatenki2016Targeting).
+
+UBE2D4 is active in both the cytoplasm and nucleus, influencing various cellular pathways and maintaining cellular function (Hosseini2019E2).
+
+## Clinical Significance
+UBE2D4, a member of the UBE2D family of ubiquitin-conjugating enzymes, plays a significant role in various cellular processes, and alterations in its expression or function can have clinical implications. In colon cancer, UBE2D4 is notably upregulated in tumor samples, suggesting its potential involvement in cancer progression. However, the study found that copy number variations of UBE2D4 were below 10%, indicating that while its expression is altered, it may not be a major driver in the biology of colon cancer (Huang2022Development).
+
+UBE2D4 is also involved in the regulation of receptor protein tyrosine kinases (RTKs), which are crucial for mammalian development and cancer. Alterations in UBE2D4 expression or function could impact the ubiquitination and downregulation of RTKs, potentially affecting cellular signaling pathways and contributing to cancer and developmental disorders (RomanTrufero2022The).
+
+Furthermore, UBE2D4's role in the ubiquitination and degradation of the LDL receptor (LDLR) suggests that disruptions in its function could influence cholesterol metabolism, potentially contributing to conditions like atherosclerosis (Zhang2011The). These findings highlight the importance of UBE2D4 in maintaining cellular homeostasis and its potential impact on disease processes.
+
+## Interactions
+UBE2D4, a member of the ubiquitin-conjugating enzyme family, participates in several protein interactions crucial for its function in ubiquitination processes. It interacts with the ubiquitin ligase CHIP (C-terminal of Hsp 70 interacting protein), facilitating polyubiquitination reactions essential for cell cycle progression and cancer cell proliferation (Ramatenki2016Targeting). The active site residues of UBE2D4, which are critical for its interaction with CHIP, are located in the ubiquitin binding domain (Ramatenki2016Targeting).
+
+UBE2D4 is also involved in the regulation of receptor protein tyrosine kinases (RTKs) such as EGFR, PDGFR, and FGFRs. The E3 ligase CBL utilizes UBE2D enzymes, including UBE2D4, for the monoubiquitination and polyubiquitination of these RTKs, leading to their degradation in lysosomes and attenuation of signaling (RomanTrufero2022The).
+
+Additionally, UBE2D4 interacts with the deubiquitinase OTUB1, which regulates its activity. OTUB1 enhances its deubiquitinase activity by binding to unconjugated UBE2D4 and sequesters conjugated UBE2D4, preventing it from acting as a ubiquitin donor, thereby blocking RING E3 ligases from accessing the E2-Ub conjugate (RomanTrufero2022The).
+
+
+## References
+
+
+[1. (Hosseini2019E2) Seyed Mohammad Hosseini, Isobel Okoye, Mitra Ghasemi Chaleshtari, Bita Hazhirkarzar, Javad Mohamadnejad, Gholamreza Azizi, Mohammad Hojjat-Farsangi, Hamed Mohammadi, Siamak Sandoghchian Shotorbani, and Farhad Jadidi-Niaragh. E2 ubiquitin-conjugating enzymes in cancer: implications for immunotherapeutic interventions. Clinica Chimica Acta, 498:126–134, November 2019. URL: http://dx.doi.org/10.1016/j.cca.2019.08.020, doi:10.1016/j.cca.2019.08.020. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cca.2019.08.020)
+
+[2. (van2009A) Sjoerd J L van Wijk, Sjoerd J de Vries, Patrick Kemmeren, Anding Huang, Rolf Boelens, Alexandre M J J Bonvin, and H Th Marc Timmers. A comprehensive framework of e2–ring e3 interactions of the human ubiquitin–proteasome system. Molecular Systems Biology, January 2009. URL: http://dx.doi.org/10.1038/msb.2009.55, doi:10.1038/msb.2009.55. This article has 116 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/msb.2009.55)
+
+[3. (Ramatenki2016Targeting) Vishwanath Ramatenki, Ramakrishna Dumpati, Rajender Vadija, Santhiprada Vellanki, Sarita Rajender Potlapally, Rohini Rondla, and Uma Vuruputuri. Targeting the ubiquitin-conjugating enzyme e2d4 for cancer drug discovery–a structure-based approach. Journal of Chemical Biology, 10(2):51–67, December 2016. URL: http://dx.doi.org/10.1007/s12154-016-0164-6, doi:10.1007/s12154-016-0164-6. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12154-016-0164-6)
+
+[4. (Huang2022Development) Baoyi Huang, Weiping Deng, Pengfei Chen, Qiuxian Mao, Hao Chen, Zewei Zhuo, Zena Huang, Kequan Chen, Jiayu Huang, and Yujun Luo. Development and validation of a novel ubiquitination-related gene prognostic signature based on tumor microenvironment for colon cancer. Translational Cancer Research, 11(10):3724–3740, October 2022. URL: http://dx.doi.org/10.21037/tcr-22-607, doi:10.21037/tcr-22-607. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.21037/tcr-22-607)
+
+[5. (RomanTrufero2022The) Monica Roman-Trufero and Niall Dillon. The ube2d ubiquitin conjugating enzymes: potential regulatory hubs in development, disease and evolution. Frontiers in Cell and Developmental Biology, December 2022. URL: http://dx.doi.org/10.3389/fcell.2022.1058751, doi:10.3389/fcell.2022.1058751. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.1058751)
+
+[6. (Zhang2011The) Li Zhang, Louise Fairall, Benjamin T. Goult, Anna C. Calkin, Cynthia Hong, Christopher J. Millard, Peter Tontonoz, and John W.R. Schwabe. The idol–ube2d complex mediates sterol-dependent degradation of the ldl receptor. Genes &amp; Development, 25(12):1262–1274, June 2011. URL: http://dx.doi.org/10.1101/gad.2056211, doi:10.1101/gad.2056211. This article has 72 citations.](https://doi.org/10.1101/gad.2056211)

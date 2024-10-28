@@ -1,0 +1,48 @@
+# EMC6
+
+## Overview
+EMC6 is a gene that encodes the ER membrane protein complex subunit 6, a crucial component of the endoplasmic reticulum (ER) membrane protein complex (EMC). This protein is categorized as a transmembrane protein and plays a significant role in the biogenesis and insertion of membrane proteins. EMC6, as part of the EMC3-EMC6 subcomplex, is involved in the insertion of transmembrane domains (TMDs) into the ER membrane, facilitating the proper folding and assembly of membrane proteins essential for cellular functions such as signaling and transport (Chitwood2019The; Hegde2022The). The EMC, including EMC6, functions as a membrane insertase, crucial for maintaining ER homeostasis and preventing protein misfolding (Chitwood2019The). Beyond its structural and functional roles, alterations in EMC6 expression have been linked to various cancers, where it often acts as a tumor suppressor, highlighting its potential as a therapeutic target (Wang2017ER; Shen2016EMC6TMEM93).
+
+## Structure
+The molecular structure of EMC6, a subunit of the ER membrane protein complex, is characterized by its integration into the membrane through transmembrane domains. EMC6 is part of a stable subdomain within the EMC, forming a large horseshoe-shaped hydrophobic groove that spans the membrane, in conjunction with the EMC3-EMC6 subcomplex (Hegde2022The). This subcomplex is centrally located within the EMC membrane domain, with other subunits such as EMC5 and EMC1 positioned on the back side, and EMC4, EMC7, and possibly EMC10 on the front side (Hegde2022The).
+
+EMC6 was initially predicted to have two transmembrane domains based on hydrophobicity profiles, but further analysis using trRosetta suggested a three-helix bundle structure, indicating a more complex topology (O’Donnell2020The). The N-terminal tail of EMC6 is highly conserved, suggesting its importance in the structure or function of the complex (O’Donnell2020The). The transmembrane domain of EMC6 was modeled with clear side-chain resolution, highlighting its integration into the membrane domain encircled by nanodiscs (MillerVedam2020Structural). Specific post-translational modifications or splice variants of EMC6 were not detailed in the available excerpts (MillerVedam2020Structural).
+
+## Function
+EMC6 is a subunit of the endoplasmic reticulum (ER) membrane protein complex (EMC), which plays a critical role in the biogenesis of membrane proteins. EMC6 is part of the EMC3-EMC6 subcomplex, which is involved in the insertion of transmembrane domains (TMDs) into the ER membrane. This process is essential for the proper folding and assembly of membrane proteins, which are crucial for various cellular functions, including signaling and transport (Hegde2022The).
+
+The EMC, including EMC6, functions as a membrane insertase, facilitating the insertion of tail-anchored (TA) proteins and N-terminal TMDs into the membrane. This activity is vital for maintaining ER homeostasis and protein folding, as disruptions in EMC can lead to misfolded proteins and an activated unfolded protein response (Chitwood2019The).
+
+EMC6, as part of the EMC3-EMC6 subcomplex, forms a hydrophobic groove that spans the membrane, aiding in the translocation of polypeptides by thinning and distorting the lipid bilayer. This structural role is crucial for the insertion of TMDs with moderate to low hydrophobicity, which might otherwise be inefficiently inserted into the membrane (Hegde2022The).
+
+## Clinical Significance
+Alterations in the expression of the EMC6 gene have been implicated in various cancers, including glioblastoma, gastric cancer, and pancreatic cancer. In glioblastoma, EMC6 overexpression suppresses cell proliferation by enhancing autophagic flux, which is mediated through the PIK3CA/AKT/mTOR signaling pathway. This modulation of autophagy is crucial for inhibiting tumor growth and enhancing the sensitivity of glioblastoma cells to chemotherapy, such as temozolomide (Shen2016EMC6TMEM93).
+
+In gastric cancer, EMC6 acts as a tumor suppressor. Its expression is often reduced or absent in gastric adenocarcinoma cells, and its overexpression inhibits cell growth, migration, and invasion while inducing apoptosis and cell cycle arrest. This suggests that EMC6 could serve as a favorable prognostic marker and a potential therapeutic target in gastric cancer (Wang2017ER).
+
+In pancreatic cancer, EMC6 functions as a tumor suppressor, with higher expression levels associated with better survival outcomes. Its overexpression reduces cell viability and invasion, indicating its potential as a therapeutic target. The regulation of EMC6 expression could offer a novel direction for pancreatic cancer treatment (Xiao2022Roles).
+
+## Interactions
+EMC6 is a component of the endoplasmic reticulum membrane protein complex (EMC), which is involved in the insertion and folding of membrane proteins. EMC6 forms part of a stable subdomain within the EMC, specifically the EMC3-EMC6 subcomplex, which includes six transmembrane domains (TMDs) and is centrally located within the membrane domain of the EMC. This subcomplex is associated with EMC5, and together with EMC3, they form a hydrophobic groove that spans the membrane, facilitating polypeptide translocation (Hegde2022The).
+
+EMC6 interacts tightly with other EMC subunits, including EMC1, EMC2, EMC3, EMC4, EMC5, and EMC7, forming a core that is crucial for the stability and function of the EMC complex (Chitwood2019The). The interactions within the EMC3-EMC6 subcomplex are essential for the insertion of transmembrane domains into the membrane, with EMC3 initially engaging the TMD and allowing it to egress laterally into the membrane (Hegde2022The).
+
+While specific interactions of EMC6 with nucleic acids or proteins outside the EMC complex are not detailed, its role within the EMC suggests it may participate in broader cellular processes, such as ER-associated degradation pathways (Chitwood2019The).
+
+
+## References
+
+
+[1. (Chitwood2019The) Patrick J. Chitwood and Ramanujan S. Hegde. The role of emc during membrane protein biogenesis. Trends in Cell Biology, 29(5):371–384, May 2019. URL: http://dx.doi.org/10.1016/j.tcb.2019.01.007, doi:10.1016/j.tcb.2019.01.007. This article has 61 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tcb.2019.01.007)
+
+[2. (Hegde2022The) Ramanujan S. Hegde. The function, structure, and origins of the er membrane protein complex. Annual Review of Biochemistry, 91(1):651–678, June 2022. URL: http://dx.doi.org/10.1146/annurev-biochem-032620-104553, doi:10.1146/annurev-biochem-032620-104553. This article has 31 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1146/annurev-biochem-032620-104553)
+
+[3. (Wang2017ER) Xiaokun Wang, Yan Xia, Chentong Xu, Xin Lin, Peng Xue, Shijie Zhu, Yun Bai, and Yingyu Chen. Er membrane protein complex subunit 6 (emc6) is a novel tumor suppressor in gastric cancer. BMB Reports, 50(8):411–416, August 2017. URL: http://dx.doi.org/10.5483/bmbrep.2017.50.8.065, doi:10.5483/bmbrep.2017.50.8.065. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.5483/bmbrep.2017.50.8.065)
+
+[4. (MillerVedam2020Structural) Lakshmi E Miller-Vedam, Bastian Bräuning, Katerina D Popova, Nicole T Schirle Oakdale, Jessica L Bonnar, Jesuraj R Prabu, Elizabeth A Boydston, Natalia Sevillano, Matthew J Shurtleff, Robert M Stroud, Charles S Craik, Brenda A Schulman, Adam Frost, and Jonathan S Weissman. Structural and mechanistic basis of the emc-dependent biogenesis of distinct transmembrane clients. eLife, November 2020. URL: http://dx.doi.org/10.7554/elife.62611, doi:10.7554/elife.62611. This article has 71 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.62611)
+
+5. (O’Donnell2020The) The architecture of EMC reveals a path for membrane protein insertion. This article has 0 citations.
+
+[6. (Xiao2022Roles) Wang Xiao, Rong-Chang Cao, Wan-Jun Yang, Jie-Hui Tan, Ruo-Qi Liu, He-Ping Kan, Lei Zhou, Na Zhang, Zhi-Ye Chen, Xue-Mei Chen, Jia Xu, Guo-Wei Zhang, and Peng Shen. Roles and clinical significances of atf6, emc6, and apaf1 in prognosis of pancreatic cancer. Frontiers in Genetics, February 2022. URL: http://dx.doi.org/10.3389/fgene.2021.730847, doi:10.3389/fgene.2021.730847. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2021.730847)
+
+[7. (Shen2016EMC6TMEM93) X Shen, S Kan, J Hu, M Li, G Lu, M Zhang, S Zhang, Y Hou, Y Chen, and Y Bai. Emc6/tmem93 suppresses glioblastoma proliferation by modulating autophagy. Cell Death &amp; Disease, 7(1):e2043–e2043, January 2016. URL: http://dx.doi.org/10.1038/cddis.2015.408, doi:10.1038/cddis.2015.408. This article has 37 citations.](https://doi.org/10.1038/cddis.2015.408)

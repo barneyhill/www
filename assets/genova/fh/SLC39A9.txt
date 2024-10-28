@@ -1,0 +1,33 @@
+# SLC39A9
+
+## Overview
+SLC39A9 is a gene that encodes the protein solute carrier family 39 member 9, also known as ZIP9, which is part of the ZIP family of zinc transporters. This protein plays a critical role in maintaining zinc homeostasis within cells by facilitating the transport of zinc ions into the cytosol from extracellular spaces or intracellular compartments (Bafaro2017The). ZIP9 is predominantly localized in the Golgi apparatus and is involved in the regulation of glycan biosynthesis, impacting the synthesis of both O-glycans and N-glycans (Yamaji2019A). Beyond its role in zinc transport, ZIP9 also functions as a membrane androgen receptor, influencing cellular processes such as apoptosis in cancer cells through its interaction with specific compounds (Thomas2021). The gene's involvement in glycan biosynthesis and zinc transport underscores its significance in various physiological and pathological contexts, including viral infections and cancer progression (Gong2024Genomewide; Qu2021PanCancer).
+
+## Function
+SLC39A9, a member of the solute carrier family 39, functions as a zinc transporter and plays a crucial role in maintaining cellular zinc homeostasis. It is active in the Golgi apparatus and is involved in the regulation of glycan biosynthesis, particularly influencing the synthesis of core 1 O-glycans and N-glycans. In SLC39A9 knockout cells, there is a significant reduction in core 1 O-glycans, such as T, sialyl T, and di-sialyl T antigens, due to decreased expression of the enzyme C1GalT1, which is essential for their biosynthesis (Yamaji2019A). The gene also affects the biosynthesis of N-glycans, with knockout cells showing altered patterns of high-mannose, hybrid, and complex-type N-glycans (Yamaji2019A).
+
+SLC39A9 is part of the ZIP family of proteins, which are known to transport zinc and other metal ions into the cytosol from extracellular spaces or intracellular compartments (Bafaro2017The). The protein's role in zinc transport is linked to its influence on glycan-related enzymes, suggesting that SLC39A9's regulation of zinc homeostasis could impact glycan biosynthesis (Yamaji2019A). This regulation is crucial for various cellular functions, including enzyme activity and cellular signaling.
+
+## Clinical Significance
+The SLC39A9 gene is implicated in various clinical conditions due to its role in glycan biosynthesis and zinc transport. Alterations in SLC39A9 expression can affect glycan structures, leading to changes in cellular sensitivity to toxins. Specifically, the loss of SLC39A9 results in decreased expression of C1GalT1, a key enzyme in O-glycan synthesis, which can alter glycan structures and reduce binding of certain toxins like SubAB (Yamaji2019A). This alteration in glycan biosynthesis may have broader implications for cellular processes dependent on these glycans.
+
+In the context of cancer, the SLC39A family, including SLC39A9, is associated with zinc ion transport and homeostasis, which are crucial for various physiological processes. Although specific diseases linked to SLC39A9 mutations are not detailed, the gene's interactions with other SLC39A family members suggest a potential role in cancer progression and immune response modulation (Qu2021PanCancer). The SLC39A family genes are also involved in immune cell infiltration in tumors, which may influence cancer progression and therapeutic responses (Qu2021PanCancer). Further research is needed to clarify the specific clinical implications of SLC39A9 dysregulation.
+
+## Interactions
+SLC39A9, also known as ZIP9, is involved in several protein interactions that influence its function as a zinc transporter and its role in cellular processes. It interacts with the NPC1 protein and the Ebola virus glycoprotein (GP), facilitating Ebola virus (EBOV) infection. SLC39A9 colocalizes with NPC1 in lysosome and Golgi compartments, and co-immunoprecipitation assays confirm their interaction. This interaction enhances the binding between EBOV GP and NPC1, suggesting that SLC39A9 acts as a mediator in the viral entry process (Gong2024Genomewide).
+
+In cancer cells, SLC39A9 functions as a membrane androgen receptor, interacting with compounds like (-)-epicatechin and (+)-catechin. (-)-Epicatechin acts as a potent agonist of SLC39A9, promoting apoptosis in breast and prostate cancer cells by increasing free zinc levels and the expression of pro-apoptotic proteins. This interaction is mediated through ZIP9-dependent signaling pathways, including coupling with the inhibitory G protein (Gi) (Thomas2021)Epicatechin page 4 of 6; Thomas2021()Epicatechin page 2 of 6).
+
+SLC39A9 also plays a role in glycan biosynthesis, potentially through its zinc transport function. It regulates the activity of enzymes like C1GalT1, which is crucial for O-glycan synthesis, although the exact mechanism remains unclear (Yamaji2019A).
+
+
+## References
+
+
+[1. (Qu2021PanCancer) Yi-Yuan Qu, Rong-Yan Guo, Meng-Ling Luo, and Quan Zhou. Pan-cancer analysis of the solute carrier family 39 genes in relation to oncogenic, immune infiltrating, and therapeutic targets. Frontiers in Genetics, December 2021. URL: http://dx.doi.org/10.3389/fgene.2021.757582, doi:10.3389/fgene.2021.757582. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2021.757582)
+
+[2. (Yamaji2019A) Toshiyuki Yamaji, Hisatoshi Hanamatsu, Tsuyoshi Sekizuka, Makoto Kuroda, Norimasa Iwasaki, Makoto Ohnishi, Jun-ichi Furukawa, Kinnosuke Yahiro, and Kentaro Hanada. A crispr screen using subtilase cytotoxin identifies slc39a9 as a glycan-regulating factor. iScience, 15:407–420, May 2019. URL: http://dx.doi.org/10.1016/j.isci.2019.05.005, doi:10.1016/j.isci.2019.05.005. This article has 40 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.isci.2019.05.005)
+
+[3. (Gong2024Genomewide) Mingli Gong, Cheng Peng, Chen Yang, Zhenhua Wang, Hongwu Qian, Xue Hu, Peng Zhou, Chao Shan, and Qiang Ding. Genome-wide crispr/cas9 screen identifies slc39a9 and pik3c3 as crucial entry factors for ebola virus infection. PLOS Pathogens, 20(8):e1012444, August 2024. URL: http://dx.doi.org/10.1371/journal.ppat.1012444, doi:10.1371/journal.ppat.1012444. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.ppat.1012444)
+
+[4. (Bafaro2017The) Elizabeth Bafaro, Yuting Liu, Yan Xu, and Robert E Dempski. The emerging role of zinc transporters in cellular homeostasis and cancer. Signal Transduction and Targeted Therapy, July 2017. URL: http://dx.doi.org/10.1038/sigtrans.2017.29, doi:10.1038/sigtrans.2017.29. This article has 173 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/sigtrans.2017.29)

@@ -1,0 +1,44 @@
+# NAA80
+
+## Overview
+NAA80 is a gene that encodes the protein N-alpha-acetyltransferase 80, also known as the NatH catalytic subunit. This protein is a member of the GNAT (Gcn5-related N-acetyltransferase) superfamily, which is characterized by its role in catalyzing the acetylation of the N-terminus of proteins. NAA80 is specifically involved in the post-translational modification of actin, a critical component of the cytoskeleton, by acetylating its N-terminus. This modification is essential for regulating actin polymerization dynamics and maintaining cellular functions such as motility and structural integrity. The protein's unique structure, including a proline-rich loop, facilitates its interaction with other proteins, notably Profilin-2 (PFN2), enhancing its catalytic activity. Mutations in the NAA80 gene have been linked to various clinical symptoms, underscoring its significance in maintaining normal cytoskeletal dynamics and cellular processes (Muffels2021NAA80; Aksnes2019Cotranslational; Ree2020PFN2).
+
+## Structure
+The NAA80 protein, also known as N-alpha-acetyltransferase 80, is a member of the GNAT (Gcn5-related N-acetyltransferase) superfamily, characterized by a conserved acetyltransferase domain. This domain typically features a central beta-sheet flanked by alpha-helices (Rebowski2020Mechanism). NAA80 has a unique structure that includes a 77-amino acid N-terminal extension and a 70-amino acid proline-rich loop inserted before the last β-strand of the catalytic domain (Rebowski2020Mechanism). The catalytic domain of NAA80 spans residues 78-220 and includes a proline-rich loop, which is crucial for its interaction with other proteins (Muffels2021NAA80).
+
+The protein's structure is specifically adapted to recognize actin, with a wide open and positively charged substrate-binding cleft that accommodates the negatively charged N termini of actin isoforms (Rebowski2020Mechanism). The β6-β7 loop of NAA80 is highlighted as a key structural element mediating interactions, particularly with PFN2, although it does not contribute to inhibitor binding (Myklebust2023Optimized; Ree2020PFN2).
+
+NAA80 can exist in multiple splice variant isoforms, which may influence its function and interactions (Rebowski2020Mechanism). The protein is predominantly soluble in its wild-type form, but certain genetic variants can lead to defective folding and insolubility (Muffels2021NAA80).
+
+## Function
+NAA80, also known as N-alpha-acetyltransferase 80 or NatH, is a highly selective N-terminal acetyltransferase that plays a crucial role in the post-translational modification of actin, one of the most abundant proteins in the cytosol. This enzyme specifically acetylates the N-terminus of actin, which is essential for maintaining proper actin polymerization dynamics and cell motility (Aksnes2019Cotranslational). The acetylation process involves a unique animal-specific stepwise N-terminal processing, where actin is initially acetylated by NatB and then further modified by NAA80, ensuring the removal of the positive charge on the alpha-amino group (Aksnes2019Cotranslational).
+
+NAA80's activity is vital for maintaining the structural integrity of the Golgi apparatus. In the absence of NAA80, cells exhibit increased F-actin levels and Golgi fragmentation, indicating that NAA80 is essential for balancing F-actin content and Golgi structure (Beigl2020Nterminal). The enzyme's function in actin modification is also linked to cellular processes such as cell shape, migration, and the organization of cellular organelles (Beigl2020Nterminal). NAA80's role in regulating cellular migration and maintaining normal actin dynamics suggests it may act as a tumor suppressor by preventing excessive cell movement (Aksnes2019Cotranslational).
+
+## Clinical Significance
+Mutations in the NAA80 gene are associated with a range of clinical symptoms, including high-frequency hearing loss, muscle weakness, and developmental delay. These symptoms are linked to the gene's role in actin N-terminal acetylation, a process crucial for maintaining normal cytoskeletal dynamics. In humans, bi-allelic missense variants such as c.389T>C, p.(Leu130Pro) lead to decreased NAA80 protein levels and reduced acetylation activity, resulting in increased polymerized actin and altered cellular migration (Muffels2021NAA80). The clinical manifestations of NAA80 mutations show significant overlap with those of pathogenic variants in actin genes like ACTB and ACTG1, which are associated with Baraitser-Winter syndrome (Muffels2021NAA80).
+
+In zebrafish, NAA80 knockout models exhibit hearing impairments due to reduced actin acetylation, highlighting the gene's importance in auditory function (Ree2024Naa80). The interaction between NAA80 and PFN2 is also crucial for efficient actin acetylation, and disruptions in this interaction can impact cellular functions where actin dynamics are critical (Ree2020PFN2). These findings underscore the clinical significance of NAA80 in actin-related disorders and its potential impact on human health.
+
+## Interactions
+NAA80, also known as N-alpha-acetyltransferase 80, is involved in the acetylation of the N-terminus of actin, a critical component of the cytoskeleton. NAA80 specifically interacts with Profilin-2 (PFN2), forming a complex that enhances its catalytic activity towards actin. This interaction is facilitated by a polyproline stretch in NAA80, which is crucial for binding PFN2. The absence of this stretch significantly reduces the ability of NAA80 to bind PFN2 and subsequently decreases its activity in acetylating actin (Ree2020PFN2).
+
+NAA80 preferentially binds to monomeric actin (G-actin) rather than filamentous actin (F-actin), with profilin acting as a chaperone to enhance this interaction. The enzyme forms a ternary complex with PFN2 and actin, although the interaction between NAA80 and PFN2 is independent of actin (Rebowski2020Mechanism; Ree2020PFN2). The structural dynamics of NAA80, including its β6-β7 loop, are involved in these interactions, allowing for efficient acetylation of actin (Rebowski2020Mechanism; Ree2020PFN2). These interactions are essential for maintaining proper cytoskeletal organization and cell motility.
+
+
+## References
+
+
+1. (Ree2024Naa80) Naa80 is required for actin N-terminal acetylation and normal hearing in zebrafish. This article has 0 citations.
+
+[2. (Muffels2021NAA80) Irena J J Muffels, Elsa Wiame, Sabine A Fuchs, Maarten P G Massink, Holger Rehmann, Jiska L I Musch, Gijs Van Haaften, Didier Vertommen, Emile van Schaftingen, and Peter M van Hasselt. Naa80 bi-allelic missense variants result in high-frequency hearing loss, muscle weakness and developmental delay. Brain Communications, October 2021. URL: http://dx.doi.org/10.1093/braincomms/fcab256, doi:10.1093/braincomms/fcab256. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/braincomms/fcab256)
+
+[3. (Aksnes2019Cotranslational) Henriette Aksnes, Rasmus Ree, and Thomas Arnesen. Co-translational, post-translational, and non-catalytic roles of n-terminal acetyltransferases. Molecular Cell, 73(6):1097–1114, March 2019. URL: http://dx.doi.org/10.1016/j.molcel.2019.02.007, doi:10.1016/j.molcel.2019.02.007. This article has 184 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2019.02.007)
+
+[4. (Rebowski2020Mechanism) Grzegorz Rebowski, Malgorzata Boczkowska, Adrian Drazic, Rasmus Ree, Marianne Goris, Thomas Arnesen, and Roberto Dominguez. Mechanism of actin n-terminal acetylation. Science Advances, April 2020. URL: http://dx.doi.org/10.1126/sciadv.aay8793, doi:10.1126/sciadv.aay8793. This article has 51 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.aay8793)
+
+[5. (Beigl2020Nterminal) Tobias B. Beigl, Monica Hellesvik, Jaakko Saraste, Thomas Arnesen, and Henriette Aksnes. N-terminal acetylation of actin by naa80 is essential for structural integrity of the golgi apparatus. Experimental Cell Research, 390(2):111961, May 2020. URL: http://dx.doi.org/10.1016/j.yexcr.2020.111961, doi:10.1016/j.yexcr.2020.111961. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.yexcr.2020.111961)
+
+[6. (Myklebust2023Optimized) Line M. Myklebust, Markus Baumann, Svein I. Støve, Håvard Foyn, Thomas Arnesen, and Bengt Erik Haug. Optimized bisubstrate inhibitors for the actin n-terminal acetyltransferase naa80. Frontiers in Chemistry, June 2023. URL: http://dx.doi.org/10.3389/fchem.2023.1202501, doi:10.3389/fchem.2023.1202501. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fchem.2023.1202501)
+
+7. (Ree2020PFN2) PFN2 and NAA80 cooperate to efficiently acetylate the N-terminus of actin. This article has 23 citations.

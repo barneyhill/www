@@ -1,0 +1,39 @@
+# SHISA3
+
+## Overview
+SHISA3 is a gene that encodes the protein shisa family member 3, which is part of the Shisa family of proteins. This family is characterized by a signal peptide, a cysteine-rich domain, a transmembrane segment, and a proline-rich C-terminal region. The SHISA3 protein plays a significant role as a tumor suppressor and is involved in various cellular processes, including protein stabilization and signaling pathway modulation. It interacts with proteins such as SGSM1 and FGFR1/3, influencing pathways like AKT/mTOR and MAPK, which are critical in cancer progression and drug resistance (Si2019Shisa3; Pei2012Unexpected). SHISA3's expression is regulated by factors such as KLF15 and Wnt signaling, and its dysregulation through mechanisms like hypermethylation is implicated in several cancers, including nasopharyngeal carcinoma and lung adenocarcinoma (Zhang2019Hypermethylation; Noack2019KLF15Wnt–Dependent).
+
+## Structure
+SHISA3 is a member of the Shisa family of proteins, characterized by a signal peptide, an N-terminal cysteine-rich domain with a specific cysteine pattern ('C*C*CC*C*CC*C'), a predicted transmembrane segment, and a proline-rich C-terminal region (Pei2012Unexpected). The cysteine-rich domain is crucial for disulfide bond formation, with a pattern that suggests potential for diverse 3D structural folds (Pei2012Unexpected). The Shisa3 protein, part of the Shisa1-3 subfamily, features longer insertions between conserved cysteines and a 'PxxxP' signature at the beginning of their predicted transmembrane segments. The cysteine pattern at the end of the predicted transmembrane segment for Shisa3 is 'YCCTC', serving as a subfamily-specific signature (Pei2012Unexpected).
+
+In zebrafish, Shisa3 contains PY motifs in the C-terminal region, which may interact with NEDD4 family proteins to regulate ubiquitination and degradation of target proteins (Liu2023Characteristics). SHISA3 is also involved in stabilizing the SGSM1 protein through deubiquitination, which is relevant to nasopharyngeal carcinoma metastasis (Zhang2019Hypermethylation). The expression of SHISA3 is regulated by KLF15 and Wnt signaling, indicating its role in cardiac remodeling (Noack2019KLF15Wnt–Dependent).
+
+## Clinical Significance
+SHISA3 is implicated in several cancers due to its role as a tumor suppressor gene. In nasopharyngeal carcinoma (NPC), SHISA3 is frequently hypermethylated, leading to its downregulation. This epigenetic alteration contributes to cancer progression by promoting metastasis through the activation of the MAPK pathway and destabilization of SGSM1, a process mediated by TRIM21 (Zhang2019Hypermethylation). 
+
+In breast cancer, SHISA3 is also epigenetically silenced via promoter hypermethylation, which results in the activation of the Wnt/β-catenin signaling pathway. This silencing is associated with increased tumorigenesis, invasion, and metastasis. Restoring SHISA3 expression through demethylating agents has been shown to inhibit these cancerous processes, suggesting its potential as a therapeutic target (Shahzad2020SHISA3).
+
+In lung adenocarcinoma, SHISA3 expression is linked to resistance to epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). Low SHISA3 levels are associated with increased resistance and enhanced cancer stem cell properties. Overexpression of SHISA3 can reverse these effects, indicating its role in modulating drug resistance and cancer stem cell characteristics (Si2019Shisa3).
+
+## Interactions
+SHISA3 is involved in several protein interactions that influence its role as a tumor suppressor. In nasopharyngeal carcinoma (NPC), SHISA3 interacts with small G protein signaling modulator 1 (SGSM1) and the E3 ubiquitin ligase TRIM21. SHISA3 stabilizes SGSM1 by preventing TRIM21-mediated ubiquitination, which would otherwise lead to SGSM1 degradation. This interaction is crucial for SHISA3's tumor-suppressive effects, as it helps maintain SGSM1 protein levels, thereby inhibiting NPC cell migration and invasion (Zhang2019Hypermethylation).
+
+In lung adenocarcinoma, SHISA3 interacts with fibroblast growth factor receptors FGFR1 and FGFR3. This interaction inhibits the maturation and phosphorylation of these receptors, which is associated with overcoming resistance to epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs). By modulating FGFR1/3, SHISA3 affects the AKT/mTOR signaling pathway, which is critical for controlling cancer stem cell properties and drug resistance (Si2019Shisa3).
+
+These interactions highlight SHISA3's role in modulating key signaling pathways, contributing to its function as a tumor suppressor in different cancer types.
+
+
+## References
+
+
+[1. (Noack2019KLF15Wnt–Dependent) Claudia Noack, Lavanya M. Iyer, Norman Y. Liaw, Eric Schoger, Sara Khadjeh, Eva Wagner, Monique Woelfer, Maria-Patapia Zafiriou, Hendrik Milting, Samuel Sossalla, Katrin Streckfuss-Boemeke, Gerd Hasenfuß, Wolfram-Hubertus Zimmermann, and Laura C. Zelarayán. Klf15-wnt–dependent cardiac reprogramming up-regulates shisa3 in the mammalian heart. Journal of the American College of Cardiology, 74(14):1804–1819, October 2019. URL: http://dx.doi.org/10.1016/j.jacc.2019.07.076, doi:10.1016/j.jacc.2019.07.076. This article has 20 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.jacc.2019.07.076)
+
+[2. (Liu2023Characteristics) Yansong Liu, Na Du, Beibei Qian, Congcong Zou, Zhouxin Yu, Fei Xu, Lijuan Wang, Sishi Qin, Feng You, and Xungang Tan. Characteristics of shisa family genes in zebrafish. International Journal of Molecular Sciences, 24(18):14062, September 2023. URL: http://dx.doi.org/10.3390/ijms241814062, doi:10.3390/ijms241814062. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms241814062)
+
+[3. (Shahzad2020SHISA3) Naveed Shahzad, Tehreem Munir, Mariam Javed, Fareeda Tasneem, Bilal Aslam, Moazzam Ali, Zeeshan Mutahir, Muhammad Akhtar Ali, Muhammad Umer, Munir Ahmad, Kokab Farooq, Umair Hassan, Tanveer Mustafa, Rana Salman Anjum, and Abdul Rauf Shakoori. Shisa3, an antagonist of the wnt/β-catenin signaling, is epigenetically silenced and its ectopic expression suppresses growth in breast cancer. PLOS ONE, 15(7):e0236192, July 2020. URL: http://dx.doi.org/10.1371/journal.pone.0236192, doi:10.1371/journal.pone.0236192. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0236192)
+
+[4. (Si2019Shisa3) Jiahui Si, Yuanyuan Ma, Ji Wang Bi, Ying Xiong, Chao Lv, Shaolei Li, Nan Wu, and Yue Yang. Shisa3 brakes resistance to egfr-tkis in lung adenocarcinoma by suppressing cancer stem cell properties. Journal of Experimental &amp; Clinical Cancer Research, December 2019. URL: http://dx.doi.org/10.1186/s13046-019-1486-3, doi:10.1186/s13046-019-1486-3. This article has 25 citations.](https://doi.org/10.1186/s13046-019-1486-3)
+
+[5. (Pei2012Unexpected) Jimin Pei and Nick V. Grishin. Unexpected diversity in shisa-like proteins suggests the importance of their roles as transmembrane adaptors. Cellular Signalling, 24(3):758–769, March 2012. URL: http://dx.doi.org/10.1016/j.cellsig.2011.11.011, doi:10.1016/j.cellsig.2011.11.011. This article has 56 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2011.11.011)
+
+[6. (Zhang2019Hypermethylation) Jian Zhang, Ying-Qin Li, Rui Guo, Ya-Qin Wang, Pan-Pan Zhang, Xin-Ran Tang, Xin Wen, Xiao-Hong Hong, Yuan Lei, Qing-Mei He, Xiao-Jing Yang, Ying Sun, Jun Ma, and Na Liu. Hypermethylation of shisa3 promotes nasopharyngeal carcinoma metastasis by reducing sgsm1 stability. Cancer Research, 79(4):747–759, February 2019. URL: http://dx.doi.org/10.1158/0008-5472.can-18-1754, doi:10.1158/0008-5472.can-18-1754. This article has 32 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-18-1754)

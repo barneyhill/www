@@ -1,0 +1,50 @@
+# WDR24
+
+## Overview
+WDR24 is a gene that encodes the WD repeat domain 24 protein, a crucial component of the GATOR2 complex involved in the regulation of the mechanistic target of rapamycin complex 1 (mTORC1) signaling pathway. This pathway is essential for cellular processes such as growth, metabolism, and autophagy. The WDR24 protein is characterized by its structural domains, including a β-propeller, a three-stranded β-blade, and a C-terminal zinc-binding domain, which facilitate its interactions within the GATOR2 complex and with other proteins like Sestrin2 (Valenstein2022Structure). These interactions are vital for the transduction of amino acid availability signals to mTORC1, thereby influencing cellular homeostasis and survival (Kim2015Sestrin2). Mutations in the WDR24 gene have been linked to various clinical conditions, including metabolic disorders and sporadic focal epilepsies, underscoring its significance in human health (Napolitano2021Novel; Pippucci2019Contribution).
+
+## Structure
+The WDR24 protein is a component of the GATOR2 complex, which plays a crucial role in amino acid sensing and mTORC1 activation. Structurally, WDR24 is characterized by a β-propeller domain at its N-terminus, followed by a three-stranded β-blade and an α-helical solenoid, culminating in a C-terminal zinc-binding domain (CTD) that includes a zinc finger and a RING domain (Valenstein2022Structure). The β-propeller of WDR24 forms lateral propeller pairs with SEH1L, projecting away from the scaffold of the GATOR2 complex (Valenstein2022Structure). 
+
+The CTD of WDR24 is involved in forming heterodimeric interactions with MIOS, which are essential for the assembly and function of the GATOR2 complex (Valenstein2022Structure). These interactions are crucial for the structural integrity of the GATOR2 scaffold and its ability to bind with other complexes like GATOR1 and KICSTOR, which are necessary for mTORC1 signaling (Valenstein2022Structure). 
+
+WDR24's β-propeller is essential for mTORC1 activation and interacts with proteins such as Sestrin2, indicating its role in transducing amino acid availability signals to mTORC1 (Valenstein2022Structure). The protein's structure is further stabilized by interactions with SEH1L and SEC13 β-propellers (Valenstein2022Structure).
+
+## Function
+WDR24 is a component of the GATOR2 complex, which plays a crucial role in the regulation of mTORC1 signaling, a key pathway involved in cell growth and metabolism. WDR24 interacts with Sestrin2, a protein that modulates the activity of the GATOR complexes. This interaction is important for the regulation of mTORC1, as Sestrin2 binding to GATOR2 inhibits the formation of the GATOR1-GATOR2 supercomplex, thereby affecting mTORC1 activity (Kim2015Sestrin2).
+
+WDR24 is also involved in autophagy, a cellular process that degrades and recycles cellular components. In zebrafish, WDR24 localizes to lysosomes and autolysosomes, suggesting a role in lysosomal function and autophagic flux. This function is conserved across species, indicating a similar role in humans (Kim2018Regulatory). The protein's involvement in these processes highlights its importance in maintaining cellular homeostasis and survival.
+
+In the context of CRISPR/Cas9-mediated studies, WDR24 has been tagged to study its expression and interactions within the mTORC1 pathway, further emphasizing its role in cellular signaling and protein complex assembly (Thöne2019CRISPRCas9mediated).
+
+## Clinical Significance
+Mutations and alterations in the expression of the WDR24 gene have been implicated in several clinical conditions. WDR24 is involved in the lysosomal-autophagic pathway, and its dysfunction has been associated with limb girdle-like muscle weakness and glycogen accumulation. This is due to its role in lysosomal acidification and autophagic flux, where increased pH levels in Wdr24 -/- lysosomes lead to impaired autophagic flux and accumulation of autophagy-related proteins such as p62, LC3II, and cathepsin D (Napolitano2021Novel).
+
+WDR24 is also a component of the GATOR2 complex, which is crucial for Sestrin2-induced AKT activation. Alterations in WDR24 expression or mutations can impact insulin resistance and metabolic disorders, as WDR24 is essential for the interaction between Sestrin2 and the GATOR2 complex, affecting the mTORC2/AKT pathway (Kowalsky2020The). In high-fat diet-induced obesity models, the absence of WDR24 eliminates Sestrin2-induced AKT activation, highlighting its role in metabolic regulation (Kowalsky2020The).
+
+Additionally, ultrarare variants in WDR24 have been studied in the context of sporadic focal epilepsies, suggesting a potential contribution to the development of these conditions through the mTOR pathway (Pippucci2019Contribution).
+
+## Interactions
+WDR24 is a component of the GATOR2 complex, which plays a crucial role in nutrient sensing and mTORC1 signaling. Within GATOR2, WDR24 interacts with other core subunits such as MIOS and WDR59 through conserved C-terminal domains (CTDs) that include zinc finger and RING domains. These interactions are essential for the structural integrity of the GATOR2 scaffold, forming heterodimeric CTD-CTD junctions that are stabilized by RING domain interactions (Valenstein2022Structure).
+
+WDR24 also contributes a β-blade to complete the β-propeller structure of SEH1L, which is necessary for the interaction with Sestrin2. This interaction is critical for the function of GATOR2 in amino acid signaling to mTORC1 (Valenstein2022Structure). The WDR24 β-propeller is specifically involved in binding Sestrin2, which is essential for mTORC1 activation. However, it is not required for the association between GATOR2 and other complexes like GATOR1 or KICSTOR (Valenstein2022Structure).
+
+WDR24's interaction with Sestrin2 is significant as Sestrin2 can modulate the interactions between GATOR complexes, affecting mTORC1 signaling. Sestrin2 overexpression reduces the association between GATOR1 and GATOR2 components, particularly impacting the interaction between NPRL2 and WDR24 (Kim2015Sestrin2).
+
+
+## References
+
+
+[1. (Kim2018Regulatory) Yong-Il Kim, In-Koo Nam, Jae-Young Um, and Seong-Kyu Choe. Regulatory role of wdr24 in autophagy activity during zebrafish embryogenesis. Molecular &amp; Cellular Toxicology, 15(1):85–92, December 2018. URL: http://dx.doi.org/10.1007/s13273-019-0010-3, doi:10.1007/s13273-019-0010-3. This article has 3 citations.](https://doi.org/10.1007/s13273-019-0010-3)
+
+[2. (Pippucci2019Contribution) Tommaso Pippucci, Laura Licchetta, Sara Baldassari, Caterina Marconi, Monica De Luise, Candace Myers, Elena Nardi, Federica Provini, Cinzia Cameli, Raffaella Minardi, Elena Bacchelli, Lucio Giordano, Giovanni Crichiutti, Giuseppe d’Orsi, Marco Seri, Giuseppe Gasparre, Heather C. Mefford, Paolo Tinuper, and Francesca Bisulli. Contribution of ultrarare variants in mtor pathway genes to sporadic focal epilepsies. Annals of Clinical and Translational Neurology, 6(3):475–485, February 2019. URL: http://dx.doi.org/10.1002/acn3.722, doi:10.1002/acn3.722. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/acn3.722)
+
+[3. (Napolitano2021Novel) Filomena Napolitano, Chiara Terracciano, Giorgia Bruno, Paolo De Blasiis, Luca Lombardi, Alessandro Gialluisi, Fernando Gianfrancesco, Donatella De Giovanni, Albina Tummolo, Giuseppe Di Iorio, Giuseppe Limongelli, Teresa Esposito, Mariarosa Anna Beatrice Melone, and Simone Sampaolo. Novel autophagic vacuolar myopathies: phenotype and genotype features. Neuropathology and Applied Neurobiology, 47(5):664–678, February 2021. URL: http://dx.doi.org/10.1111/nan.12690, doi:10.1111/nan.12690. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/nan.12690)
+
+[4. (Kim2015Sestrin2) Jeong Sig Kim, Seung-Hyun Ro, Myungjin Kim, Hwan-Woo Park, Ian A. Semple, Haeli Park, Uhn-Soo Cho, Wei Wang, Kun-Liang Guan, Michael Karin, and Jun Hee Lee. Sestrin2 inhibits mtorc1 through modulation of gator complexes. Scientific Reports, March 2015. URL: http://dx.doi.org/10.1038/srep09502, doi:10.1038/srep09502. This article has 127 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep09502)
+
+[5. (Thöne2019CRISPRCas9mediated) Fabian M.B. Thöne, Nina S. Kurrle, Harald von Melchner, and Frank Schnütgen. Crispr/cas9-mediated generic protein tagging in mammalian cells. Methods, 164–165:59–66, July 2019. URL: http://dx.doi.org/10.1016/j.ymeth.2019.02.018, doi:10.1016/j.ymeth.2019.02.018. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ymeth.2019.02.018)
+
+[6. (Kowalsky2020The) Allison Ho Kowalsky, Sim Namkoong, Eric Mettetal, Hwan-Woo Park, Dubek Kazyken, Diane C. Fingar, and Jun Hee Lee. The gator2–mtorc2 axis mediates sestrin2-induced akt ser/thr kinase activation. Journal of Biological Chemistry, 295(7):1769–1780, February 2020. URL: http://dx.doi.org/10.1074/jbc.ra119.010857, doi:10.1074/jbc.ra119.010857. This article has 44 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra119.010857)
+
+[7. (Valenstein2022Structure) Max L. Valenstein, Kacper B. Rogala, Pranav V. Lalgudi, Edward J. Brignole, Xin Gu, Robert A. Saxton, Lynne Chantranupong, Jonas Kolibius, Jan-Philipp Quast, and David M. Sabatini. Structure of the nutrient-sensing hub gator2. Nature, 607(7919):610–616, July 2022. URL: http://dx.doi.org/10.1038/s41586-022-04939-z, doi:10.1038/s41586-022-04939-z. This article has 43 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-022-04939-z)

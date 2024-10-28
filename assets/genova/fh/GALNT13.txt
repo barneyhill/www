@@ -1,0 +1,41 @@
+# GALNT13
+
+## Overview
+GALNT13 is a gene that encodes the enzyme polypeptide N-acetylgalactosaminyltransferase 13, which belongs to the family of glycosyltransferases. This enzyme is primarily involved in the initial step of mucin-type O-glycosylation, a critical post-translational modification process that adds N-acetylgalactosamine (GalNAc) to serine or threonine residues on proteins. This modification is essential for protein stability, activity, and interactions (Ten2002All). GALNT13 is predominantly expressed in the brain and functions within the Golgi apparatus, contributing to the biosynthesis of O-glycans (Ten2002All; Hussain2016Nacetylgalactosaminyltransferases). The enzyme plays a significant role in neural and neuronal cell differentiation and is involved in forming specific glycan structures on cell-surface proteins, which are crucial for normal neuronal function (Hussain2016Nacetylgalactosaminyltransferases; Nurminen2024Previously). Despite its importance, the full spectrum of GALNT13's functions in healthy human cells remains partially understood, with ongoing research exploring its potential roles in brain development and disease (Kato2021Polypeptide).
+
+## Function
+GALNT13 encodes the enzyme polypeptide N-acetylgalactosaminyltransferase 13, which is involved in the initial step of mucin-type O-glycosylation. This process involves the transfer of N-acetylgalactosamine (GalNAc) to serine or threonine residues on proteins, a modification crucial for protein stability, activity, and interactions (Ten2002All). GALNT13 is specifically expressed in the brain and is active in the Golgi apparatus, where it plays a role in the biosynthesis of O-glycans (Ten2002All; Hussain2016Nacetylgalactosaminyltransferases).
+
+In healthy human cells, GALNT13 contributes to neural and neuronal cell differentiation, although it is not expressed in mature astrocytes (Nurminen2024Previously). The enzyme is involved in forming a triplet Tn epitope on cell-surface transmembrane heparan sulfate proteoglycans, such as syndecan-3, in neurons and Schwann cells, which is important for normal neuronal function (Hussain2016Nacetylgalactosaminyltransferases). Despite its significant role in glycosylation, the exact functions of GALNT13 in healthy human cells remain partially understood, with some studies suggesting its involvement in brain development and function (Kato2021Polypeptide).
+
+## Clinical Significance
+Mutations and altered expression of the GALNT13 gene have been implicated in various diseases, particularly cancers. In familial glioma, rare variants in GALNT13, such as c.553C>T (R185C) and c.1214T>A (L405Q), have been identified in Finnish families. These variants are associated with glioma cases within families, suggesting a genetic predisposition to the disease. The R185C variant is located in a glycosyltransferase region and is predicted to be damaging, while the L405Q variant is at a conserved position and is predicted to be pathogenic (Nurminen2024Previously).
+
+In lung cancer, increased expression levels of GALNT13, also known as ppGalNAc-T13, are associated with a worse prognosis. High GALNT13 expression correlates with shorter recurrence-free survival and is linked to the presence of trimeric Tn antigen, which is associated with poor survival outcomes. This suggests that GALNT13 may play a role in cancer metastasis and could serve as a tumor marker (Nogimori2016Increased).
+
+Additionally, GALNT13 variants such as D313N and R476Q have been predicted to be highly damaging, potentially affecting glycosylation processes and contributing to disease mechanisms (Hussain2013Clinically).
+
+## Interactions
+GALNT13, or polypeptide N-acetylgalactosaminyltransferase 13, is involved in protein interactions that influence its function in glycosylation processes. The STRING database indicates that GALNT13 has weak interactions with proteins such as SDC3, SGCB, and XIRP2, which are involved in various cellular functions (Hussain2013Clinically). These interactions are part of the broader network of protein-protein interactions that GALNT13 participates in, as determined by computational tools and databases (Hussain2013Clinically).
+
+Mutations in GALNT13 can alter its binding interactions with other proteins, such as MUC7. For instance, the D313N mutation changes the docking site of the GalNAc residue, affecting its interaction with MUC7 (Hussain2013Clinically). The R476Q mutation also modifies the interaction, with MUC7 fitting into a cavity formed by specific residues of GALNT13 (Hussain2013Clinically).
+
+While GALNT13 is listed among GALNT1 interactions in the BioPlex and BioGrid databases, specific details about its physical interactions with other proteins or nucleic acids are limited (Saei2022Mapping). Overall, GALNT13's interactions are crucial for its role in glycosylation and may have implications in disease mechanisms.
+
+
+## References
+
+
+[1. (Ten2002All) K. G. Ten Hagen. All in the family: the udp-galnac:polypeptide n-acetylgalactosaminyltransferases. Glycobiology, 13(1):1R – 16, November 2002. URL: http://dx.doi.org/10.1093/glycob/cwg007, doi:10.1093/glycob/cwg007. This article has 410 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/glycob/cwg007)
+
+2. (Saei2022Mapping) Mapping the GALNT1 substrate landscape with versatile proteomics tools. This article has 6 citations.
+
+[3. (Nurminen2024Previously) Riikka Nurminen, Ebrahim Afyounian, Niina Paunu, Riku Katainen, Mari Isomäki, Anssi Nurminen, Mauro Scaravilli, Jenni Tolppanen, Vidal Fey, Anni Kivinen, Pauli Helén, Niko Välimäki, Juha Kesseli, Lauri A. Aaltonen, Hannu Haapasalo, Matti Nykter, and Kirsi J. Rautajoki. Previously reported ccdc26 risk variant and novel germline variants in galnt13, ar, and myo10 associated with familial glioma in finland. Scientific Reports, May 2024. URL: http://dx.doi.org/10.1038/s41598-024-62296-5, doi:10.1038/s41598-024-62296-5. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-62296-5)
+
+[4. (Hussain2013Clinically) Muhammad Ramzan M. Hussain, Jamal Nasir, and Jumana Yousuf Al‐Aama. Clinically significant missense variants in human <scp>galnt</scp>3, <scp>galnt</scp>8, <scp>galnt</scp>12, and <scp>galnt</scp>13 genes: intriguing in silico findings. Journal of Cellular Biochemistry, 115(2):313–327, December 2013. URL: http://dx.doi.org/10.1002/jcb.24666, doi:10.1002/jcb.24666. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcb.24666)
+
+[5. (Kato2021Polypeptide) Kentaro Kato, Lars Hansen, and Henrik Clausen. Polypeptide n-acetylgalactosaminyltransferase-associated phenotypes in mammals. Molecules, 26(18):5504, September 2021. URL: http://dx.doi.org/10.3390/molecules26185504, doi:10.3390/molecules26185504. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/molecules26185504)
+
+[6. (Hussain2016Nacetylgalactosaminyltransferases) Muhammad Ramzan Manwar Hussain, Daniel C. Hoessli, and Min Fang. N-acetylgalactosaminyltransferases in cancer. Oncotarget, 7(33):54067–54081, June 2016. URL: http://dx.doi.org/10.18632/oncotarget.10042, doi:10.18632/oncotarget.10042. This article has 53 citations and is from a poor quality or predatory journal.](https://doi.org/10.18632/oncotarget.10042)
+
+[7. (Nogimori2016Increased) Kenichi Nogimori, Tomoko Hori, Koji Kawaguchi, Takayuki Fukui, Shinji Mii, Hiroshi Nakada, Yasuyuki Matsumoto, Yoshio Yamauchi, Masahide Takahashi, Keiko Furukawa, Okajima Tetsuya, Kohei Yokoi, Yoshinori Hasegawa, and Koichi Furukawa. Increased expression levels of ppgalnac-t13 in lung cancers: significance in the prognostic diagnosis. International Journal of Oncology, 49(4):1369–1376, July 2016. URL: http://dx.doi.org/10.3892/ijo.2016.3638, doi:10.3892/ijo.2016.3638. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2016.3638)

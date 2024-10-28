@@ -1,0 +1,64 @@
+# KSR1
+
+## Overview
+KSR1 (kinase suppressor of ras 1) is a gene that encodes a scaffold protein involved in the Ras/MAPK signaling pathway, which is pivotal for regulating cell proliferation, differentiation, and survival. The KSR1 protein, characterized as a pseudokinase due to its limited catalytic activity, plays a crucial role in facilitating the assembly and activation of the MAPK cascade by interacting with key signaling molecules such as B-Raf, C-Raf, MEK, and ERK. This interaction is essential for the spatiotemporal regulation of ERK signaling, particularly in response to external stimuli like epidermal growth factor (EGF). KSR1's function extends beyond signal transduction, as it is involved in maintaining cellular homeostasis and influencing various cellular processes, including growth and stress responses. The protein's activity is modulated by post-translational modifications and interactions with other proteins, such as calmodulin and caveolin-1, which are critical for its membrane localization and function. KSR1's role in cancer is context-dependent, acting as a tumor suppressor in some cancers while promoting tumorigenesis in others, making it a potential target for therapeutic interventions (Stebbing2014KSR1; Parvathaneni2021Calmodulin; Neilsen2017KSR).
+
+## Structure
+KSR1 is a scaffolding protein involved in the Ras/MAPK signaling pathway, characterized by several distinct domains that contribute to its function. The protein contains a kinase domain, which is considered a pseudokinase due to its limited catalytic activity. This domain includes a small N-lobe and a larger C-lobe, connected by a short hinge, and features an ATP-binding pocket (Maloney2022The).
+
+The CC-SAM domain of KSR1 is crucial for its membrane targeting. This domain is composed of a coiled coil (CC) region and a sterile α motif (SAM), forming a single structural unit stabilized by hydrophobic and polar interactions. The CC region spans residues 25 to 95 and includes helices α1 to α4, while the SAM domain spans residues 96 to 170, adopting a SAM fold (Koveal2012A). Helix α3 within the CC-SAM domain is critical for membrane binding, with specific residues like Ile 71 and Leu 78 playing key roles in this interaction (Koveal2012A).
+
+The CA3 domain, an atypical cysteine-rich C1 domain, is essential for KSR1's membrane localization. It coordinates two zinc ions, maintaining structural integrity, and features a ligand-binding pocket formed by hydrophobic residues (Zhou2002Solution). The C1 domain's structure is distinct from typical C1 domains, lacking high-affinity binding to phorbol esters (Zhou2002Solution). 
+
+KSR1 undergoes post-translational modifications, such as phosphorylation, which regulate its activity (Maloney2022The). The protein also has multiple splice variant isoforms, which may differ in their functional roles.
+
+## Function
+KSR1 (kinase suppressor of ras 1) functions primarily as a scaffold protein in the MAPK signaling pathway, which is crucial for regulating cell fate decisions in response to external stimuli. In healthy human cells, KSR1 facilitates the spatiotemporal activation of ERK signaling by binding to key components of the MAPK cascade, including B-Raf, C-Raf, MEK, and ERK. This interaction is essential for the assembly of Raf-MEK-ERK complexes, which are necessary for maximal ERK activation (Parvathaneni2021Calmodulin).
+
+KSR1 is typically inactive in normal conditions, becoming active only under specific stimuli, such as epidermal growth factor (EGF) stimulation. Upon such stimulation, KSR1 translocates from the cytosol to the plasma membrane, where it assembles the active signaling complex (Kolesnick2004Inflammatory). This translocation is influenced by calmodulin, a calcium-binding messenger protein, which modulates KSR1's interaction with ERK and pERK, essential for MAPK activation (Parvathaneni2021Calmodulin).
+
+KSR1's role extends to maintaining cellular homeostasis by preventing unnecessary apoptosis and regulating cell proliferation and differentiation. It acts as a molecular switch, providing essential survival signals and influencing various cellular processes, including growth, proliferation, and stress responses (Kolesnick2004Inflammatory; Yu1998Regulation).
+
+## Clinical Significance
+KSR1 (kinase suppressor of ras 1) plays a significant role in various cancers due to its involvement in the Ras/MAPK signaling pathway. In breast cancer, high expression of KSR1 is associated with longer disease-free and overall survival. It acts as a tumor suppressor by stabilizing BRCA1 protein levels and reducing p53 acetylation, which is crucial for tumor suppression (Stebbing2014KSR1). In contrast, in Ras-driven cancers such as colorectal and pancreatic cancers, KSR1 enhances Ras signaling, promoting tumorigenesis. Its depletion in these cancers reduces oncogenic potential, suggesting its role as a therapeutic target (Neilsen2017KSR).
+
+KSR1 is also implicated in small-cell lung cancer, particularly the NeuroD1 subtype, where it is essential for tumor initiation and resistance to chemotherapy (Chatterjee2024KSR1). In schwannomas, KSR1 is overexpressed and promotes tumor development by affecting cell morphology and survival, making it a potential therapeutic target for Merlin-deficient tumors (Zhou2015The). These findings highlight the dual role of KSR1 in cancer, acting as both a tumor suppressor and promoter depending on the context.
+
+## Interactions
+KSR1 (kinase suppressor of ras 1) is a scaffold protein that plays a crucial role in the Ras/MAPK signaling pathway by facilitating interactions among various signaling components. KSR1 interacts with the Kinase Suppressor of Ras (KSR1) and casein kinase 2 (CK2), where CK2 is identified as a novel binding partner essential for the maximal facilitation of ERK cascade signaling. This interaction is constitutive and does not change with growth-factor treatment, with the binding site localized to the basic surface region of the KSR1 atypical C1 domain (Ritt2007CK2).
+
+KSR1 also interacts with caveolin-1, a component of caveolae in the plasma membrane, which is crucial for the assembly and activation of the KSR1/MEK/ERK complex. This interaction is necessary for efficient growth factor-induced ERK activation and is mediated by a caveolin binding motif (CBM) present in KSR1 (Kortum2014Caveolin1).
+
+Additionally, KSR1 is phosphorylated by C-TAK1 at serine 392, which mediates binding to 14-3-3 proteins, crucial for the cytoplasmic retention of KSR1 in quiescent cells (Müller2001CTAK1). KSR1 also forms a complex with praja2, an E3 ubiquitin ligase, which ubiquitylates KSR1, leading to its degradation (Rinaldi2016praja2).
+
+
+## References
+
+
+[1. (Kolesnick2004Inflammatory) Richard Kolesnick and H. Rosie Xing. Inflammatory bowel disease reveals the kinase activity of ksr1. Journal of Clinical Investigation, 114(9):1233–1237, November 2004. URL: http://dx.doi.org/10.1172/jci23441, doi:10.1172/jci23441. This article has 23 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci23441)
+
+[2. (Zhou2015The) L Zhou, J Lyons-Rimmer, S Ammoun, J Müller, E Lasonder, V Sharma, E Ercolano, D Hilton, I Taiwo, M Barczyk, and C O Hanemann. The scaffold protein ksr1, a novel therapeutic target for the treatment of merlin-deficient tumors. Oncogene, 35(26):3443–3453, November 2015. URL: http://dx.doi.org/10.1038/onc.2015.404, doi:10.1038/onc.2015.404. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2015.404)
+
+[3. (Kortum2014Caveolin1) Robert L. Kortum, Mario R. Fernandez, Diane L. Costanzo-Garvey, Heidi J. Johnson, Kurt W. Fisher, Deanna J. Volle, and Robert E. Lewis. Caveolin-1 is required for kinase suppressor of ras 1 (ksr1)-mediated extracellular signal-regulated kinase 1/2 activation, h-rasv12-induced senescence, and transformation. Molecular and Cellular Biology, 34(18):3461–3472, September 2014. URL: http://dx.doi.org/10.1128/MCB.01633-13, doi:10.1128/mcb.01633-13. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.01633-13)
+
+[4. (Maloney2022The) Ryan C. Maloney, Mingzhen Zhang, Yonglan Liu, Hyunbum Jang, and Ruth Nussinov. The mechanism of activation of mek1 by b-raf and ksr1. Cellular and Molecular Life Sciences, May 2022. URL: http://dx.doi.org/10.1007/s00018-022-04296-0, doi:10.1007/s00018-022-04296-0. This article has 8 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-022-04296-0)
+
+[5. (Rinaldi2016praja2) L Rinaldi, R Delle Donne, M Sepe, M Porpora, C Garbi, F Chiuso, A Gallo, S Parisi, L Russo, V Bachmann, R G Huber, E Stefan, T Russo, and A Feliciello. Praja2 regulates ksr1 stability and mitogenic signaling. Cell Death &amp; Disease, 7(5):e2230–e2230, May 2016. URL: http://dx.doi.org/10.1038/cddis.2016.109, doi:10.1038/cddis.2016.109. This article has 24 citations.](https://doi.org/10.1038/cddis.2016.109)
+
+[6. (Neilsen2017KSR) Beth K. Neilsen, Danielle E. Frodyma, Robert E. Lewis, and Kurt W. Fisher. Ksr as a therapeutic target for ras-dependent cancers. Expert Opinion on Therapeutic Targets, 21(5):499–509, April 2017. URL: http://dx.doi.org/10.1080/14728222.2017.1311325, doi:10.1080/14728222.2017.1311325. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/14728222.2017.1311325)
+
+[7. (Stebbing2014KSR1) J Stebbing, H Zhang, Y Xu, L C Lit, A R Green, A Grothey, Y Lombardo, M Periyasamy, K Blighe, W Zhang, J A Shaw, I O Ellis, H J Lenz, and G Giamas. Ksr1 regulates brca1 degradation and inhibits breast cancer growth. Oncogene, 34(16):2103–2114, June 2014. URL: http://dx.doi.org/10.1038/onc.2014.129, doi:10.1038/onc.2014.129. This article has 16 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2014.129)
+
+[8. (Parvathaneni2021Calmodulin) Swetha Parvathaneni, Zhigang Li, and David B. Sacks. Calmodulin influences mapk signaling by binding ksr1. Journal of Biological Chemistry, 296:100577, January 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.100577, doi:10.1016/j.jbc.2021.100577. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.100577)
+
+9. (Chatterjee2024KSR1) KSR1 regulates small-cell lung carcinoma tumor initiation and cisplatin resistance. This article has 1 citations.
+
+[10. (Müller2001CTAK1) Jürgen Müller, Stéphane Ory, Terry Copeland, Helen Piwnica-Worms, and Deborah K. Morrison. C-tak1 regulates ras signaling by phosphorylating the mapk scaffold, ksr1. Molecular Cell, 8(5):983–993, November 2001. URL: http://dx.doi.org/10.1016/S1097-2765(01)00383-5, doi:10.1016/s1097-2765(01)00383-5. This article has 375 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/S1097-2765(01)00383-5)
+
+[11. (Koveal2012A) Dorothy Koveal, Natasha Schuh-Nuhfer, Daniel Ritt, Rebecca Page, Deborah K. Morrison, and Wolfgang Peti. A cc-sam, for coiled coil–sterile α motif, domain targets the scaffold ksr-1 to specific sites in the plasma membrane. Science Signaling, December 2012. URL: http://dx.doi.org/10.1126/scisignal.2003289, doi:10.1126/scisignal.2003289. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1126/scisignal.2003289)
+
+[12. (Zhou2002Solution) Ming Zhou, David A Horita, David S Waugh, R.Andrew Byrd, and Deborah K Morrison. Solution structure and functional analysis of the cysteine-rich c1 domain of kinase suppressor of ras (ksr). Journal of Molecular Biology, 315(3):435–446, January 2002. URL: http://dx.doi.org/10.1006/jmbi.2001.5263, doi:10.1006/jmbi.2001.5263. This article has 70 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1006/jmbi.2001.5263)
+
+[13. (Ritt2007CK2) Daniel A. Ritt, Ming Zhou, Thomas P. Conrads, Timothy D. Veenstra, Terry D. Copeland, and Deborah K. Morrison. Ck2 is a component of the ksr1 scaffold complex that contributes to raf kinase activation. Current Biology, 17(2):179–184, January 2007. URL: http://dx.doi.org/10.1016/j.cub.2006.11.061, doi:10.1016/j.cub.2006.11.061. This article has 77 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cub.2006.11.061)
+
+[14. (Yu1998Regulation) Wei Yu, Wendy J. Fantl, Greg Harrowe, and Lewis T. Williams. Regulation of the map kinase pathway by mammalian ksr through direct interaction with mek and erk. Current Biology, 8(1):56–64, January 1998. URL: http://dx.doi.org/10.1016/s0960-9822(98)70020-x, doi:10.1016/s0960-9822(98)70020-x. This article has 154 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0960-9822(98)70020-x)

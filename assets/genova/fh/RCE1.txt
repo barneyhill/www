@@ -1,0 +1,41 @@
+# RCE1
+
+## Overview
+RCE1 (Ras converting CAAX endopeptidase 1) is a gene that encodes an integral membrane endoprotease involved in the post-translational modification of CAAX motif proteins, including members of the Ras family of small GTPases. The protein product of RCE1 is categorized as an endoprotease and is localized to the endoplasmic reticulum membrane, where it plays a pivotal role in cleaving the carboxyl-terminal three amino acids from the CAAX motif. This enzymatic activity is crucial for the subsequent carboxymethylation of the farnesylated cysteine residue, facilitating the proper localization and function of prenylated proteins within cellular membranes (Hampton2018Rce1:; Simanshu2017RAS). RCE1's function is significant in various biological processes, including cell signaling pathways that regulate growth and differentiation, and it is being explored as a therapeutic target in cancer and other diseases (Kim1999Disruption; Shi2017Reduced).
+
+## Function
+RCE1 (Ras converting CAAX endopeptidase 1) is an integral membrane endoprotease located in the endoplasmic reticulum, playing a crucial role in the post-translational modification of CAAX proteins, including the Ras family of small GTPases. This enzyme is responsible for cleaving the carboxyl-terminal three amino acids from the CAAX motif, a process essential for the proper localization and function of these proteins within the cell (Xiang2017Activation; Hampton2018Rce1:).
+
+The activity of RCE1 is critical for the subsequent carboxymethylation of the farnesylated cysteine residue by isoprenylcysteine carboxyl methyltransferase (ICMT), which enhances the hydrophobicity and membrane affinity of prenylated proteins. This modification allows Ras proteins to associate with cell membranes, a necessary step for their involvement in signaling pathways that regulate cell growth and differentiation (Kim1999Disruption; Simanshu2017RAS).
+
+RCE1's function is not only significant in cancer biology, where it is explored as a therapeutic target, but also in other diseases. It is essential for the growth of certain parasites and regulates the modification of bacterial effector proteins, indicating its broader biological significance (Hampton2018Rce1:).
+
+## Clinical Significance
+Reduced expression of the RCE1 gene has been associated with poor prognosis in colorectal carcinoma (CRC). Studies have shown that low RCE1 expression correlates with shorter overall survival and disease-free survival in CRC patients. This reduced expression is linked to a higher risk of local treatment failure and distant metastasis, suggesting that RCE1 may play a role in inhibiting tumor invasion (Shi2017Reduced). Despite its known involvement in Ras activation, RCE1 appears to function independently of the Ras oncogene in CRC, potentially acting as a tumor suppressor. Knockdown of RCE1 in CRC cells has been shown to decrease p38 phosphorylation and increase cell invasion, indicating that RCE1 may suppress tumor progression through the p38 pathway (Shi2017Reduced).
+
+In the context of ZMPSTE24 deficiency, which is associated with progeroid disorders, RCE1 has been identified as a potential therapeutic target. Knockout of RCE1 in ZMPSTE24-deficient fibroblasts delayed senescence and increased proliferation, suggesting that RCE1 activity is rate-limiting in these conditions. This finding highlights the potential of targeting RCE1 to treat disorders like Hutchinson-Gilford progeria syndrome, although the study does not address diseases caused by mutations in the RCE1 gene itself (Yao2020Targeting).
+
+## Interactions
+RCE1 (Ras converting CAAX endopeptidase 1) is involved in the post-translational modification of CAAX motif proteins, including Ras proteins. In Arabidopsis, RCE1 interacts directly with the RING protein RBX1, forming a stable complex with the SCF (Skp, Cullin, F-box containing complex) ubiquitin ligases. This interaction is crucial for the RUB modification of CUL1, a process significantly reduced in rce1-1 mutants (Dharmasiri2003The). RCE1 also interacts with F-box proteins such as TIR1-Myc and LRF1-Myc, indicating its role in complete SCF complexes (Dharmasiri2003The).
+
+In yeast, Rce1p is a membrane-associated endoprotease localized to the endoplasmic reticulum (ER) membrane. It is involved in the proteolytic processing of CAAX proteins, working alongside Ste24p, another ER-associated protease. These proteases are semiredundant and are involved in the processing of isoprenylated proteins, which includes the removal of the aaX portion of the CaaX motif (Schmidt1998Endoplasmic). Rce1p's activity is essential for the proper localization and function of Ras proteins, and it is considered a potential target for cancer therapy due to its role in Ras biosynthesis (Hampton2018Rce1:).
+
+
+## References
+
+
+[1. (Xiang2017Activation) S. Xiang, W. Bai, G. Bepler, and X. Zhang. Activation of Ras by Post-Translational Modifications, pages 97–118. Elsevier, 2017. URL: http://dx.doi.org/10.1016/B978-0-12-803505-4.00006-0, doi:10.1016/b978-0-12-803505-4.00006-0. This article has 8 citations.](https://doi.org/10.1016/B978-0-12-803505-4.00006-0)
+
+[2. (Yao2020Targeting) Haidong Yao, Xue Chen, Muhammad Kashif, Ting Wang, Mohamed X. Ibrahim, Elin Tüksammel, Gwladys Revêchon, Maria Eriksson, Clotilde Wiel, and Martin O. Bergo. Targeting ras‐converting enzyme 1 overcomes senescence and improves progeria‐like phenotypes of zmpste24 deficiency. Aging Cell, July 2020. URL: http://dx.doi.org/10.1111/acel.13200, doi:10.1111/acel.13200. This article has 6 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/acel.13200)
+
+[3. (Hampton2018Rce1:) Shahienaz E. Hampton, Timothy M. Dore, and Walter K. Schmidt. Rce1: mechanism and inhibition. Critical Reviews in Biochemistry and Molecular Biology, 53(2):157–174, February 2018. URL: http://dx.doi.org/10.1080/10409238.2018.1431606, doi:10.1080/10409238.2018.1431606. This article has 58 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/10409238.2018.1431606)
+
+[4. (Simanshu2017RAS) Dhirendra K. Simanshu, Dwight V. Nissley, and Frank McCormick. Ras proteins and their regulators in human disease. Cell, 170(1):17–33, June 2017. URL: http://dx.doi.org/10.1016/j.cell.2017.06.009, doi:10.1016/j.cell.2017.06.009. This article has 1237 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2017.06.009)
+
+[5. (Schmidt1998Endoplasmic) Walter K. Schmidt, Amy Tam, Konomi Fujimura-Kamada, and Susan Michaelis. Endoplasmic reticulum membrane localization of rce1p and ste24p, yeast proteases involved in carboxyl-terminal caax protein processing and amino-terminal a-factor cleavage. Proceedings of the National Academy of Sciences, 95(19):11175–11180, September 1998. URL: http://dx.doi.org/10.1073/pnas.95.19.11175, doi:10.1073/pnas.95.19.11175. This article has 160 citations.](https://doi.org/10.1073/pnas.95.19.11175)
+
+[6. (Kim1999Disruption) Edward Kim, Patricia Ambroziak, James C. Otto, Brigit Taylor, Matthew Ashby, Kevin Shannon, Patrick J. Casey, and Stephen G. Young. Disruption of the mouse rce1 gene results in defective ras processing and mislocalization of ras within cells. Journal of Biological Chemistry, 274(13):8383–8390, March 1999. URL: http://dx.doi.org/10.1074/jbc.274.13.8383, doi:10.1074/jbc.274.13.8383. This article has 150 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.274.13.8383)
+
+[7. (Shi2017Reduced) Boyun Shi, Xinke Zhou, Lu He, Min Liang, Yuanwei Luo, and Peng Jiang. Reduced rce1 expression predicts poor prognosis of colorectal carcinoma. BMC Cancer, June 2017. URL: http://dx.doi.org/10.1186/s12885-017-3393-3, doi:10.1186/s12885-017-3393-3. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-017-3393-3)
+
+[8. (Dharmasiri2003The) S. Dharmasiri. The rub/nedd8 conjugation pathway is required for early development in arabidopsis. The EMBO Journal, 22(8):1762–1770, April 2003. URL: http://dx.doi.org/10.1093/emboj/cdg190, doi:10.1093/emboj/cdg190. This article has 118 citations.](https://doi.org/10.1093/emboj/cdg190)

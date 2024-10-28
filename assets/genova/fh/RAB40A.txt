@@ -1,0 +1,31 @@
+# RAB40A
+
+## Overview
+RAB40A is a gene that encodes a member of the Rab GTPase family, specifically the RAB40A protein, which is involved in various cellular processes, including intracellular vesicle trafficking and cellular organization. The RAB40A protein is distinguished by its unique C-terminal suppressor of cytokine signaling (SOCS) box domain, which facilitates its interaction with the Cullin-RING E3 ubiquitin ligase complex. This interaction is crucial for the ubiquitination and subsequent regulation of target proteins, impacting their degradation, localization, and activation. The protein plays a significant role in modulating the actin cytoskeleton and cell migration by influencing the turnover of focal adhesions. Additionally, RAB40A is implicated in lipid mobilization and Golgi organization, highlighting its importance in maintaining cellular integrity and function (Duncan2021Methods; Duan2021Regulation; Neumann2023A).
+
+## Structure
+The RAB40A protein is a member of the Rab GTPase family, characterized by its unique structural features. It contains a conserved globular domain with two switch regions, Switch-I and Switch-II, which stabilize the protein in an active conformation when bound to GTP (Neumann2023A). Unlike other Rab proteins, RAB40A has a C-terminal suppressor of cytokine signaling (SOCS) box domain. This domain includes a BC-box for binding Elongin B and C, and a Cul-box for binding Cullin proteins, with an LPLP motif that specifies Cullin5 binding (Duncan2021Methods; Neumann2023A). The SOCS box domain is crucial for forming a Cullin-RING E3 ubiquitin ligase complex, which is involved in ubiquitinating client proteins (Neumann2023A).
+
+RAB40A and its paralog Rab40AL, located on the X chromosome, are nearly identical, with RAB40A having a deletion of an arginine residue at its C-terminal end (Neumann2023A). A serine residue upstream of Switch-I in RAB40A, as opposed to a glycine in Rab40B and Rab40C, suggests unique GTPase properties (Neumann2023A). The protein's structure is further characterized by post-translational modifications, such as prenylation, which affect its membrane association.
+
+## Function
+RAB40A is a member of the Rab GTPase family, which plays a crucial role in intracellular vesicle trafficking and cellular organization. It is unique among Rab proteins due to its C-terminal suppressor of cytokine signaling (SOCS) box, which allows it to interact with the Cullin-RING E3 Ligase complex. This interaction facilitates the ubiquitination of target proteins, influencing their degradation, localization, and activation (Duncan2021Methods; Neumann2023A). RAB40A is involved in regulating the actin cytoskeleton and cell migration by modulating the turnover of focal adhesions, which are essential for cell movement. It achieves this by binding to Cullin5, leading to the ubiquitination and degradation of the small GTPase RhoU, thereby affecting actin structures and enhancing cell migration (Neumann2023A).
+
+RAB40A is also implicated in lipid mobilization and Golgi organization. It is enriched on the Golgi apparatus and plays a role in lipophagy, a process crucial for lipid mobilization. In HeLa cells, reduced expression of RAB40A leads to fragmentation of Golgi structures, particularly under starvation conditions, indicating its importance in maintaining Golgi integrity and proper lipid metabolism (Duan2021Regulation).
+
+## Interactions
+RAB40A is a member of the Rab GTPase family, characterized by its unique C-terminal SOCS box domain, which facilitates interactions with the Cullin-RING E3 Ligase complex. This interaction is crucial for the ubiquitination of client proteins, playing a significant role in regulating the actin cytoskeleton and cell migration (Neumann2023A). RAB40A specifically binds to Cullin5, forming a Cullin-RING E3 ubiquitin ligase complex, which is essential for its function in cellular processes (Neumann2023A).
+
+RAB40A is involved in the ubiquitination and degradation of the small GTPase RhoU. This process is regulated by P21 activated kinase 4 (PAK4), which can block the ubiquitination, allowing RhoU to promote phosphorylation of paxillin, facilitating focal adhesion disassembly and efficient cell migration (Neumann2023A). The interaction with Cullin5 is mediated through a conserved LPLP motif within the SOCS box domain, which is essential for binding (Neumann2023A).
+
+The Rab40 family, including RAB40A, has evolved noncanonical amino acids at critical sites for GTPase activity, suggesting unique GTPase functions and interactions that are distinct from other Rab proteins (Duncan2021Methods). These interactions highlight the complex regulatory roles of RAB40A in cellular dynamics.
+
+
+## References
+
+
+[1. (Duan2021Regulation) Xiuying Duan, Lingna Xu, Yawen Li, Lijun Jia, Wei Liu, Wenxia Shao, Vafa Bayat, Weina Shang, Liquan Wang, Jun-Ping Liu, and Chao Tong. Regulation of lipid homeostasis by the tbc protein dtbc1d22 via modulation of the small gtpase rab40 to facilitate lipophagy. Cell Reports, 36(9):109541, August 2021. URL: http://dx.doi.org/10.1016/j.celrep.2021.109541, doi:10.1016/j.celrep.2021.109541. This article has 8 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2021.109541)
+
+[2. (Neumann2023A) Andrew J. Neumann and Rytis Prekeris. A rab-bit hole: rab40 gtpases as new regulators of the actin cytoskeleton and cell migration. Frontiers in Cell and Developmental Biology, September 2023. URL: http://dx.doi.org/10.3389/fcell.2023.1268922, doi:10.3389/fcell.2023.1268922. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2023.1268922)
+
+[3. (Duncan2021Methods) Emily D. Duncan, Ezra Lencer, Erik Linklater, and Rytis Prekeris. Methods to Study the Unique SOCS Box Domain of the Rab40 Small GTPase Subfamily, pages 163–179. Springer US, 2021. URL: http://dx.doi.org/10.1007/978-1-0716-1346-7_11, doi:10.1007/978-1-0716-1346-7_11. This article has 5 citations.](https://doi.org/10.1007/978-1-0716-1346-7_11)

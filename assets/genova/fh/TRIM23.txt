@@ -1,0 +1,50 @@
+# TRIM23
+
+## Overview
+TRIM23 is a gene that encodes the protein tripartite motif containing 23, which is a member of the tripartite motif (TRIM) protein family. This protein is characterized by its E3 ubiquitin ligase activity, facilitated by a tripartite motif comprising a RING finger domain, B-box domains, and a coiled-coil region (Hatakeyama2017TRIM). Additionally, TRIM23 contains a unique C-terminal ARF domain with GTPase activity, distinguishing it from other TRIM proteins and playing a crucial role in autophagy and antiviral defense (Sparrer2017TRIM23). Functionally, TRIM23 is involved in various cellular processes, including protein stabilization, autophagy, and immune signaling, and it interacts with several proteins to mediate these roles (Sparrer2017TRIM23; Cao2021Opposing). Clinically, alterations in TRIM23 expression have been linked to cancer progression and prognosis, as well as its role in antiviral responses (Yao2018Elevated; Sparrer2017TRIM23).
+
+## Structure
+TRIM23 is a member of the TRIM protein family, characterized by a tripartite motif that includes a RING finger domain, one or two B-box domains, and a coiled-coil region, which contribute to its E3 ubiquitin ligase activity (Hatakeyama2017TRIM). The protein also contains a unique C-terminal ARF domain, which possesses GTPase activity, distinguishing it from other TRIM proteins (Sparrer2017TRIM23). The ARF domain is homologous to ARF protein family members and is crucial for TRIM23's function in autophagy (Sparrer2017TRIM23).
+
+TRIM23 undergoes K27-linked auto-polyubiquitination, primarily at lysine residues K402, K425, K446, K458, and K460 in the ARF domain, which is essential for its autophagy-promoting activity (Sparrer2017TRIM23). This polyubiquitination is necessary for the GTP hydrolysis activity of the ARF domain, which is critical for TRIM23's recruitment to autophagosomal membranes and its role in virus-induced autophagy (Sparrer2017TRIM23).
+
+The protein forms homodimers and interacts with other TRIM proteins, indicating a quaternary structure that facilitates its functional roles in cellular processes (Hatakeyama2017TRIM). The structural integrity and post-translational modifications of TRIM23 are critical for its role in autophagy and antiviral defense (Sparrer2017TRIM23).
+
+## Function
+TRIM23 is an E3 ubiquitin ligase involved in various cellular processes, including protein stabilization and degradation. In healthy human cells, TRIM23 plays a crucial role in stabilizing the ion channel protein ANO1 by mediating non-proteolytic ubiquitination, which prevents its lysosomal degradation. This stabilization is essential for maintaining ANO1 protein levels, impacting physiological functions such as epithelial secretion and muscle contraction (Cao2021Opposing). TRIM23 also interacts with the adipogenic activator PPARγ, stabilizing it through atypical polyubiquitin conjugation, which is vital for adipocyte differentiation. This process is crucial for the transition from early to late adipogenic stages, necessary for the terminal differentiation of preadipocytes into mature adipocytes (Watanabe2015The).
+
+TRIM23 is involved in autophagy, particularly in response to viral infections, by inducing GFP-LC3B puncta formation, indicating its role in autophagy induction (Sparrer2017TRIM23). It also participates in immune signaling pathways, interacting with TRAF6 in TLR-mediated signaling, which is required for specific NFkB activation (Hatakeyama2017TRIM). These functions highlight TRIM23's importance in maintaining cellular homeostasis and response to stress.
+
+## Clinical Significance
+Alterations in the expression of the TRIM23 gene have been implicated in various cancers. In gastric cancer (GC), elevated TRIM23 expression is associated with poor overall survival and is linked to several aggressive tumor characteristics, such as larger tumor size, deeper invasion, and lymph node metastasis. Although TRIM23 is not an independent prognostic factor, its expression is inversely related to survival rates, particularly in HER2-positive patients, suggesting potential benefits from therapies targeting TRIM23 (Yao2018Elevated).
+
+In colorectal cancer (CRC), TRIM23 overexpression is associated with poor prognosis and is considered an independent prognostic factor. It promotes CRC cell proliferation and is involved in the p53-cell cycle signaling pathway, enhancing the ubiquitination of p53 and contributing to tumor progression (Han2020TRIM23).
+
+TRIM23 also plays a role in stabilizing the ANO1 protein, which is associated with poor prognosis in cancers such as head and neck squamous cell carcinoma. Alterations in TRIM23 expression can impact ANO1 levels, potentially influencing cancer progression (Cao2021Opposing).
+
+Additionally, TRIM23 is crucial for autophagy in response to viral infections, and its deficiency can lead to increased viral replication, highlighting its role in antiviral defense mechanisms (Sparrer2017TRIM23).
+
+## Interactions
+TRIM23 interacts with several proteins, playing a significant role in both adipocyte differentiation and autophagy. In the context of adipocyte differentiation, TRIM23 forms a protein complex with PPARγ2, an adipogenic activator. This interaction is crucial for the stabilization of PPARγ2, as TRIM23 facilitates its ubiquitination, which prevents its degradation by the proteasome, thereby promoting adipocyte differentiation (Watanabe2015The).
+
+In the realm of autophagy, TRIM23 interacts with TBK1 and p62, forming a signaling complex that is essential for virus-induced autophagy. TRIM23's E3 ligase and GTPase activities are critical for this process, as they promote TBK1-mediated phosphorylation of p62, which is necessary for autophagy. The interaction with TBK1 also involves non-degradative ubiquitination, which is important for TBK1 activation in the IFN induction pathway (Sparrer2017TRIM23).
+
+TRIM23's interaction with the US11 protein of herpes simplex virus 1 (HSV-1) disrupts the TRIM23-TBK1 complex, impairing autophagy and facilitating viral replication. US11 binds to the ARF domain of TRIM23, excluding TBK1 from the complex and reducing TRIM23's protein levels, which highlights TRIM23's role in limiting HSV-1 replication (Liu2019Disassembly).
+
+
+## References
+
+
+[1. (Yao2018Elevated) Yangyang Yao, Zhen Liu, Hui Guo, Shanshan Huang, Min Zhong, Jun Deng, and Jianping Xiong. Elevated trim23 expression predicts poor prognosis in chinese gastric cancer. Pathology - Research and Practice, 214(12):2062–2068, December 2018. URL: http://dx.doi.org/10.1016/j.prp.2018.10.010, doi:10.1016/j.prp.2018.10.010. This article has 16 citations.](https://doi.org/10.1016/j.prp.2018.10.010)
+
+[2. (Cao2021Opposing) Xu Cao, Zijing Zhou, Ye Tian, Zhengzhao Liu, Kar On Cheng, Xibing Chen, Wenbao Hu, Yuk Ming Wong, Xiaofen Li, Hailin Zhang, Ronggui Hu, and Pingbo Huang. Opposing roles of e3 ligases trim23 and trim21 in regulation of ion channel ano1 protein levels. Journal of Biological Chemistry, 296:100738, January 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.100738, doi:10.1016/j.jbc.2021.100738. This article has 3 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.100738)
+
+[3. (Liu2019Disassembly) Xing Liu, Rachel Matrenec, Michaela U. Gack, and Bin He. Disassembly of the trim23-tbk1 complex by the us11 protein of herpes simplex virus 1 impairs autophagy. Journal of Virology, September 2019. URL: http://dx.doi.org/10.1128/jvi.00497-19, doi:10.1128/jvi.00497-19. This article has 27 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/jvi.00497-19)
+
+[4. (Han2020TRIM23) Yudong Han, Ye Tan, Yuanyuan Zhao, Yongchun Zhang, Xinjia He, Li Yu, Haiping Jiang, Haijun Lu, and Haiying Tian. Trim23 overexpression is a poor prognostic factor and contributes to carcinogenesis in colorectal cancer. Journal of Cellular and Molecular Medicine, 24(10):5491–5500, March 2020. URL: http://dx.doi.org/10.1111/jcmm.15203, doi:10.1111/jcmm.15203. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/jcmm.15203)
+
+[5. (Hatakeyama2017TRIM) Shigetsugu Hatakeyama. Trim family proteins: roles in autophagy, immunity, and carcinogenesis. Trends in Biochemical Sciences, 42(4):297–311, April 2017. URL: http://dx.doi.org/10.1016/j.tibs.2017.01.002, doi:10.1016/j.tibs.2017.01.002. This article has 577 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tibs.2017.01.002)
+
+[6. (Watanabe2015The) Masashi Watanabe, Hidehisa Takahashi, Yasushi Saeki, Takashi Ozaki, Shihori Itoh, Masanobu Suzuki, Wataru Mizushima, Keiji Tanaka, and Shigetsugu Hatakeyama. The e3 ubiquitin ligase trim23 regulates adipocyte differentiation via stabilization of the adipogenic activator pparγ. eLife, April 2015. URL: http://dx.doi.org/10.7554/elife.05615, doi:10.7554/elife.05615. This article has 63 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.05615)
+
+[7. (Sparrer2017TRIM23) Konstantin M. J. Sparrer, Sebastian Gableske, Matthew A. Zurenski, Zachary M. Parker, Florian Full, Gavin J. Baumgart, Jiro Kato, Gustavo Pacheco-Rodriguez, Chengyu Liang, Owen Pornillos, Joel Moss, Martha Vaughan, and Michaela U. Gack. Trim23 mediates virus-induced autophagy via activation of tbk1. Nature Microbiology, 2(11):1543–1557, September 2017. URL: http://dx.doi.org/10.1038/s41564-017-0017-2, doi:10.1038/s41564-017-0017-2. This article has 151 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41564-017-0017-2)

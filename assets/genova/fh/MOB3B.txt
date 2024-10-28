@@ -1,0 +1,35 @@
+# MOB3B
+
+## Overview
+MOB3B is a gene that encodes the MOB kinase activator 3B protein, which is a member of the MOB family of proteins. These proteins are highly conserved across eukaryotic species and play crucial roles in intracellular signaling pathways, particularly those involved in cell growth and division (Gundogdu2019MOB). The MOB kinase activator 3B protein is primarily located in the cytoplasm and is known for its interaction with the MST1 kinase, a component of the Hippo signaling pathway, which is essential for regulating tissue growth and apoptosis (Gundogdu2019MOB). Unlike other MOB proteins, MOB3B does not interact with NDR or LATS kinases, highlighting its unique role within the MOB protein family (Gundogdu2019MOB). The specific functions and interactions of MOB3B remain an active area of research, with implications for understanding its role in cancer and other diseases (Hergovich2011MOB).
+
+## Function
+MOB3B (MOB kinase activator 3B) is a protein involved in regulating key cellular signaling pathways, particularly those associated with cell growth and division. It is part of the MOB family of proteins, which are highly conserved across eukaryotes and act as signal transducers in essential intracellular pathways (Gundogdu2019MOB). MOB3B is primarily cytoplasmic and is known to bind to MST1 kinase, although it does not interact with NDR/LATS kinases, which distinguishes it from other MOB proteins like hMOB1 (Gundogdu2019MOB).
+
+MOB3B's interaction with MST1 suggests a role in apoptotic signaling, potentially acting upstream of MST1 signaling pathways (Gundogdu2019MOB). It may compete with other MOB proteins for binding to MST1/2, which could influence the regulation of the Hippo signaling pathway, a critical pathway for tissue growth control and regeneration (Gundogdu2019MOB). Despite its sequence similarity to other MOB proteins, the specific biological roles and binding partners of MOB3B in healthy human cells remain largely unknown, indicating a need for further research to fully understand its functions and interactions (Hergovich2011MOB).
+
+## Clinical Significance
+The MOB3B gene has significant clinical implications, particularly in the context of prostate cancer. Studies have shown that hMOB3B mRNA expression is significantly lower in prostate cancer tissues compared to benign prostatic hyperplasia (BPH) tissues. This reduced expression is associated with higher prostate-specific antigen (PSA) levels, higher Gleason scores, and metastatic disease, suggesting that hMOB3B may act as a tumor suppressor in prostate cancer (Kim2015Lower). The sensitivity and specificity of hMOB3B expression for diagnosing prostate cancer are 84.7% and 86%, respectively, indicating its potential as a diagnostic and prognostic biomarker (Kim2015Lower).
+
+In addition to prostate cancer, alterations in hMOB3B expression have been implicated in other cancers. The promoter region of hMOB3B is often hypermethylated in cancer samples, which may contribute to cancer development or progression (Gundogdu2019MOB). Furthermore, the KDM5A/miR-495/YTHDF2/MOB3B axis has been identified as a pathway that facilitates prostate cancer progression by downregulating MOB3B expression, thereby promoting cell proliferation, migration, and invasion (Du2020Activation). These findings highlight the potential of targeting MOB3B-related pathways for therapeutic interventions in cancer.
+
+## Interactions
+MOB3B, a member of the MOB protein family, is primarily known for its interactions with the MST1 kinase, a component of the Hippo signaling pathway. Despite its sequence similarity to hMOB1, MOB3B does not bind to NDR or LATS kinases, which are typically associated with hMOB1 (kohler2012functional; Gundogdu2019MOB). Large-scale interactome studies have identified several other proteins that interact with MOB3B. These include IMMT, a subunit of the mitochondrial contact site and cristae organizing system (MICOS) complex, and the calcium transporter ATP2B1, which MOB3B shares with MOB2 (Elkholi2023Mapping).
+
+MOB3B also shares interactions with MINK1, DOCK11, and RPP14, which are exclusive to MOB3B and MOB3C, and DOCK7, which is shared with MOB1A/B. MINK1 is involved in signaling networks such as mTORC2 and STRIPAK, while DOCK7 and DOCK11 are guanine nucleotide exchange factors that regulate cytoskeletal dynamics. RPP14 is a component of the RNase P complex (Elkholi2023Mapping). In the context of prostate cancer, MOB3B mRNA is targeted for degradation by YTHDF2, an m6A reader protein, as part of the KDM5A/miR-495/YTHDF2 axis, which influences cancer progression (Du2020Activation).
+
+
+## References
+
+
+1. (Elkholi2023Mapping) Mapping the MOB proteins’ proximity network reveals a unique interaction between human MOB3C and the RNase P complex. This article has 0 citations.
+
+[2. (Hergovich2011MOB) Alexander Hergovich. Mob control: reviewing a conserved family of kinase regulators. Cellular Signalling, 23(9):1433–1440, September 2011. URL: http://dx.doi.org/10.1016/j.cellsig.2011.04.007, doi:10.1016/j.cellsig.2011.04.007. This article has 95 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2011.04.007)
+
+[3. (Du2020Activation) Chen Du, Caihong Lv, Yue Feng, and Siwen Yu. Activation of the kdm5a/mirna-495/ythdf2/m6a-mob3b axis facilitates prostate cancer progression. Journal of Experimental &amp; Clinical Cancer Research, October 2020. URL: http://dx.doi.org/10.1186/s13046-020-01735-3, doi:10.1186/s13046-020-01735-3. This article has 65 citations.](https://doi.org/10.1186/s13046-020-01735-3)
+
+[4. (Kim2015Lower) Eun-Ah Kim, Ye-Hwan Kim, Ho Won Kang, Hyung-Yoon Yoon, Won Tae Kim, Yong-June Kim, Seok-Joong Yun, Sung-Kwon Moon, Yung Hyun Choi, Isaac Yi Kim, Sang-Cheol Lee, and Wun-Jae Kim. Lower levels of human mob3b are associated with prostate cancer susceptibility and aggressive clinicopathological characteristics. Journal of Korean Medical Science, 30(7):937, 2015. URL: http://dx.doi.org/10.3346/jkms.2015.30.7.937, doi:10.3346/jkms.2015.30.7.937. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3346/jkms.2015.30.7.937)
+
+5. (kohler2012functional) Reto Kohler. Functional characterization of human NDR kinases: novel regulatory mechanisms and a path towards direct substrates. PhD thesis, University_of_Basel, 2012. This article has 0 citations.
+
+[6. (Gundogdu2019MOB) Ramazan Gundogdu and Alexander Hergovich. Mob (mps one binder) proteins in the hippo pathway and cancer. Cells, 8(6):569, June 2019. URL: http://dx.doi.org/10.3390/cells8060569, doi:10.3390/cells8060569. This article has 41 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells8060569)

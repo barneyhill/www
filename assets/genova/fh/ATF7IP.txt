@@ -1,0 +1,52 @@
+# ATF7IP
+
+## Overview
+ATF7IP, or Activating Transcription Factor 7 Interacting Protein, is a gene that encodes a multifunctional protein involved in transcriptional regulation and chromatin remodeling. The protein, also known as MCAF1, is characterized by its fibronectin type-III (FNIII) domain, which facilitates interactions with various proteins, including histone methyltransferases and chromodomain proteins, to regulate gene expression and maintain chromatin architecture. ATF7IP plays a pivotal role in stabilizing the histone methyltransferase SETDB1, thereby influencing heterochromatin formation and transcriptional silencing through the trimethylation of histone H3 at lysine 9 (H3K9me3) (Tsusaka2020The; Timms2016ATF7IPMediated). Additionally, ATF7IP is implicated in cellular processes such as senescence and immune regulation, and its dysregulation is associated with various diseases, including cancer and autoimmune disorders (Turnbull2010Variants; Sin2019The). Through its diverse interactions and regulatory functions, ATF7IP is integral to maintaining cellular homeostasis and gene expression fidelity.
+
+## Structure
+ATF7IP is a protein that contains a fibronectin type-III (FNIII) domain, which serves as a binding hub for various interacting molecules. This domain is crucial for the efficient silencing of certain genes and retroelements, although it is not essential for the initial interaction with SETDB1, a histone methyltransferase (Tsusaka2020The). The FNIII domain interacts with proteins such as MBD1, ZMYM2, and MGA, and is involved in transcriptional silencing processes (Tsusaka2020The).
+
+ATF7IP is also a substrate for the methyltransferases G9a and GLP, which tri-methylate the protein at lysine 16 (K16), a modification crucial for its interaction with the chromodomain protein MPP8. This methylation is important for the protein's role in gene regulation and transgene silencing (Tsusaka2018Tri-methylation). The methylation status of ATF7IP affects its binding affinity with G9a/GLP, with unmethylated ATF7IP showing higher affinity (Tsusaka2018Tri-methylation).
+
+The protein may have splice variant isoforms, which could alter its structure and activity, although specific details on these isoforms are not provided in the context. The primary, secondary, tertiary, and quaternary structures of ATF7IP are not detailed in the available sources.
+
+## Function
+ATF7IP, also known as MCAF1, is a transcriptional cofactor involved in chromatin remodeling and gene expression regulation in healthy human cells. It plays a crucial role in stabilizing the histone methyltransferase SETDB1, which is responsible for the trimethylation of lysine 9 on histone H3 (H3K9me3), a modification associated with transcriptional silencing and heterochromatin formation. ATF7IP protects SETDB1 from proteasomal degradation, ensuring its stability and function within the nucleus (Timms2016ATF7IPMediated).
+
+ATF7IP is also involved in cellular senescence, a process characterized by permanent cell cycle arrest and chromatin remodeling. In healthy fibroblasts, ATF7IP localizes to PML nuclear bodies, and its depletion leads to premature senescence, marked by cell cycle arrest and the formation of senescence-associated heterochromatic foci (Sasai2013The).
+
+Additionally, ATF7IP interacts with the methyl-CpG binding protein MBD1 and SETDB1 to maintain X chromosome inactivation (XCI) in somatic cells, contributing to the repression of Xi-linked genes (Minkovsky2014The). Through these interactions, ATF7IP plays a significant role in maintaining chromatin architecture and regulating gene expression, impacting cellular proliferation and differentiation.
+
+## Clinical Significance
+Alterations in the expression or function of the ATF7IP gene have been implicated in several diseases and conditions. In the context of autoimmune diseases, ATF7IP plays a crucial role in regulating Th17 cell differentiation by inhibiting IL-2 expression. Mice with T cell-specific deletion of Atf7ip exhibit increased IL-2 production, leading to impaired Th17 differentiation and resistance to Th17-mediated colitis, suggesting a potential therapeutic target for autoimmune disorders (Sin2019The).
+
+ATF7IP is also associated with cancer. It is frequently overexpressed in various cancers, including testicular germ cell cancer (TGCT), where genetic variants near the ATF7IP gene have been linked to increased susceptibility. This overexpression is thought to influence telomerase regulation, contributing to cancer development (Turnbull2010Variants). Additionally, ATF7IP's role in stabilizing the histone methyltransferase SETDB1 is crucial for heterochromatin formation, and its dysregulation may impact tumorigenesis (Timms2016ATF7IPMediated).
+
+In cellular senescence, depletion of ATF7IP leads to premature senescence, characterized by cell cycle arrest and increased senescence-associated markers. This suggests that ATF7IP is essential for regulating cell proliferation and senescence, with potential implications for cancer biology (Sasai2013The).
+
+## Interactions
+ATF7IP, also known as MCAF1, is a protein that engages in various interactions with other proteins, playing a significant role in transcriptional silencing and chromatin remodeling. It is a binding partner of the histone methyltransferase SETDB1, which is crucial for transcriptional silencing through the deposition of H3K9me3 marks. ATF7IP regulates the nuclear localization and enzymatic activities of SETDB1, and its interaction with SETDB1 is essential for the silencing function (Tsusaka2020The; Timms2016ATF7IPMediated).
+
+The fibronectin type-III (FNIII) domain of ATF7IP acts as a binding hub for several proteins, including ZMYM2, MGA, and ZFP518A, which are involved in transcriptional silencing processes. The FNIII domain interacts with the MAX/MGA complex, targeting and silencing germ cell-related genes (Tsusaka2020The). ATF7IP also interacts with the chromodomain protein MPP8, part of the HUSH complex, which is involved in the silencing of transgenes. This interaction is facilitated by the tri-methylation of ATF7IP by the G9a/GLP complex (Tsusaka2018Tri-methylation).
+
+Additionally, ATF7IP forms a complex with MBD1, which is co-opted by the transcriptional regulator Aire for the induction of immunotolerance, highlighting its role in immune regulation (Waterfield2014The).
+
+
+## References
+
+
+[1. (Turnbull2010Variants) Clare Turnbull, Elizabeth A Rapley, Sheila Seal, David Pernet, Anthony Renwick, Deborah Hughes, Michelle Ricketts, Rachel Linger, Jeremie Nsengimana, Panagiotis Deloukas, Robert A Huddart, D Timothy Bishop, Douglas F Easton, Michael R Stratton, and Nazneen Rahman. Variants near dmrt1, tert and atf7ip are associated with testicular germ cell cancer. Nature Genetics, 42(7):604–607, June 2010. URL: http://dx.doi.org/10.1038/ng.607, doi:10.1038/ng.607. This article has 284 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ng.607)
+
+[2. (Tsusaka2020The) Takeshi Tsusaka, Kei Fukuda, Chikako Shimura, Masaki Kato, and Yoichi Shinkai. The fibronectin type-iii (fniii) domain of atf7ip contributes to efficient transcriptional silencing mediated by the setdb1 complex. Epigenetics &amp; Chromatin, November 2020. URL: http://dx.doi.org/10.1186/s13072-020-00374-4, doi:10.1186/s13072-020-00374-4. This article has 14 citations.](https://doi.org/10.1186/s13072-020-00374-4)
+
+[3. (Tsusaka2018Tri-methylation) Takeshi Tsusaka, Masaki Kikuchi, Tadahiro Shimazu, Takehiro Suzuki, Yoshihiro Sohtome, Mai Akakabe, Mikiko Sodeoka, Naoshi Dohmae, Takashi Umehara, and Yoichi Shinkai. Tri-methylation of atf7ip by g9a/glp recruits the chromodomain protein mpp8. Epigenetics &amp; Chromatin, October 2018. URL: http://dx.doi.org/10.1186/s13072-018-0231-z, doi:10.1186/s13072-018-0231-z. This article has 41 citations.](https://doi.org/10.1186/s13072-018-0231-z)
+
+[4. (Sasai2013The) Nobuhiro Sasai, Noriko Saitoh, Hisato Saitoh, and Mitsuyoshi Nakao. The transcriptional cofactor mcaf1/atf7ip is involved in histone gene expression and cellular senescence. PLoS ONE, 8(7):e68478, July 2013. URL: http://dx.doi.org/10.1371/journal.pone.0068478, doi:10.1371/journal.pone.0068478. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0068478)
+
+[5. (Minkovsky2014The) Alissa Minkovsky, Anna Sahakyan, Elyse Rankin-Gee, Giancarlo Bonora, Sanjeet Patel, and Kathrin Plath. The mbd1-atf7ip-setdb1 pathway contributes to the maintenance of x chromosome inactivation. Epigenetics &amp; Chromatin, June 2014. URL: http://dx.doi.org/10.1186/1756-8935-7-12, doi:10.1186/1756-8935-7-12. This article has 61 citations.](https://doi.org/10.1186/1756-8935-7-12)
+
+[6. (Waterfield2014The) Michael Waterfield, Imran S Khan, Jessica T Cortez, Una Fan, Todd Metzger, Alexandra Greer, Kayla Fasano, Marc Martinez-Llordella, Joshua L Pollack, David J Erle, Maureen Su, and Mark S Anderson. The transcriptional regulator aire coopts the repressive atf7ip-mbd1 complex for the induction of immunotolerance. Nature Immunology, 15(3):258–265, January 2014. URL: http://dx.doi.org/10.1038/ni.2820, doi:10.1038/ni.2820. This article has 75 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ni.2820)
+
+[7. (Timms2016ATF7IPMediated) Richard T. Timms, Iva A. Tchasovnikarova, Robin Antrobus, Gordon Dougan, and Paul J. Lehner. Atf7ip-mediated stabilization of the histone methyltransferase setdb1 is essential for heterochromatin formation by the hush complex. Cell Reports, 17(3):653–659, October 2016. URL: http://dx.doi.org/10.1016/j.celrep.2016.09.050, doi:10.1016/j.celrep.2016.09.050. This article has 100 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2016.09.050)
+
+[8. (Sin2019The) Jun Hyung Sin, Cassandra Zuckerman, Jessica T. Cortez, Walter L. Eckalbar, David J. Erle, Mark S. Anderson, and Michael R. Waterfield. The epigenetic regulator atf7ip inhibits il2 expression, regulating th17 responses. Journal of Experimental Medicine, 216(9):2024–2037, June 2019. URL: http://dx.doi.org/10.1084/jem.20182316, doi:10.1084/jem.20182316. This article has 8 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1084/jem.20182316)

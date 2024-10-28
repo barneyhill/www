@@ -1,0 +1,50 @@
+# SGO2
+
+## Overview
+SGO2 is a gene that encodes the protein shugoshin 2, which plays a pivotal role in ensuring proper chromosome segregation during cell division. Shugoshin 2 is categorized as a centromeric cohesion protector, primarily functioning during meiosis and mitosis. It is characterized by a coiled-coil domain that facilitates its interaction with protein phosphatase 2A (PP2A), a critical component in maintaining centromeric cohesion. The protein undergoes phosphorylation by Aurora B kinase, which is essential for its recruitment of PP2A and mitotic centromere-associated kinesin (MCAK) to centromeres, thereby ensuring accurate chromosome alignment and segregation. Beyond its role in cell division, shugoshin 2 is also involved in the cellular heat shock response, interacting with heat shock factor 1 (HSF1) and RNA polymerase II to regulate transcription under stress conditions. Alterations in SGO2 expression have been linked to various cancers, including gliomas and hepatocellular carcinoma, highlighting its potential as a biomarker and therapeutic target (Kao2021Shugoshin; Takii2019The; Tanno2010Phosphorylation).
+
+## Structure
+SGO2 (shugoshin 2) is a protein characterized by a coiled-coil domain, which is essential for its function in centromeric cohesion protection during meiosis. The coiled-coil domain of SGO2 is longer than that of its homolog Sgo1, facilitating its dimerization and interaction with the protein phosphatase 2A (PP2A) complex. This interaction is crucial for SGO2's role in centromeric cohesion protection (Xu2009Structure). The N-terminal coiled-coil region of SGO2 is sufficient for binding to PP2A, and the protein forms stable homodimers that interact with PP2A, although heterodimers with Sgo1 can also bind PP2A, albeit less efficiently (Xu2009Structure).
+
+SGO2 undergoes post-translational modifications, including phosphorylation by Aurora B kinase. This phosphorylation occurs primarily in the N and middle regions of the protein, with specific sites identified as T537 and T620. These modifications are important for the recruitment of PP2A and MCAK to centromeres, which are critical for chromosome congression and cohesion retention (Tanno2010Phosphorylation).
+
+SGO2 also plays a role in the heat shock response, interacting with phosphorylated heat shock factor 1 (HSF1) and RNA polymerase II, which is important for transcription regulation during heat shock (Takii2019The).
+
+## Function
+SGO2 (shugoshin 2) is a protein that plays a critical role in chromosome segregation during cell division, particularly in the processes of centromeric protection and chromosome alignment. In healthy human cells, SGO2 is phosphorylated by Aurora B kinase, which is essential for its function. This phosphorylation allows SGO2 to recruit protein phosphatase 2A (PP2A) and mitotic centromere-associated kinesin (MCAK) to the centromeres. PP2A is involved in protecting centromeric cohesion, while MCAK is important for chromosome congression, ensuring proper chromosome alignment and centromeric protection during mitosis (Tanno2010Phosphorylation).
+
+SGO2's phosphorylation occurs at specific regions, with the N-terminal region being crucial for PP2A recruitment and the middle region for MCAK recruitment. These interactions are vital for maintaining genomic stability by ensuring accurate chromosome segregation (Tanno2010Phosphorylation). SGO2 also plays a role in meiosis, where it is suggested to directly recognize meiotic cohesin, highlighting its importance in centromeric protection during this process (Tanno2010Phosphorylation).
+
+Beyond its role in mitosis, SGO2 is involved in the heat shock response by interacting with heat shock factor 1 (HSF1) and RNA polymerase II, supporting cell survival and proteostasis under stress conditions (Takii2019The).
+
+## Clinical Significance
+Alterations in the expression of the SGO2 gene have significant clinical implications, particularly in the context of gliomas, a type of brain tumor. Elevated SGO2 expression is positively correlated with higher-grade gliomas, such as Grade III and IV, and is associated with poor survival outcomes in these patients. This suggests that SGO2 could serve as a biomarker for pathological grading and survival prediction in glioma patients (Kao2021Shugoshin). Knockdown of SGO2 in glioma cell lines results in decreased cell proliferation and migration, indicating its role in tumorigenesis (Kao2021Shugoshin).
+
+In hepatocellular carcinoma (HCC), SGOL2, a gene closely related to SGO2, is overexpressed and promotes tumor growth through a MAD2-mediated pathway. This overexpression is linked to poor prognosis and increased tumor proliferation, making SGOL2 a potential therapeutic target in HCC (Hu2022SGOL2). SGOL2's interaction with MAD2 is crucial for its role in promoting HCC progression, as it dysregulates the cell cycle and enhances tumor growth (Hu2022SGOL2).
+
+In mice, SGOL2 is essential for meiosis, and its deficiency leads to infertility due to improper chromatid cohesion and segregation during meiosis, resulting in aneuploid gametes (Llano2008Shugoshin2).
+
+## Interactions
+SGO2 (shugoshin 2) is involved in several critical interactions with other proteins, primarily during cell division processes. It interacts with protein phosphatase 2A (PP2A), forming a complex that is essential for protecting centromeric cohesin during meiosis. This interaction is distinct from that of SGO1, another shugoshin protein, and involves all three types of PP2A holoenzymes as well as the core PP2A AC complex (Xu2009Structure). SGO2's interaction with PP2A is crucial for its function in meiosis, particularly in protecting centromeric cohesin from separase at meiosis I (Rattani2013Sgol2).
+
+SGO2 is phosphorylated by Aurora B kinase, which is necessary for recruiting PP2A and MCAK (mitotic centromere-associated kinesin) to centromeres. This phosphorylation is crucial for the centromeric localization of PP2A, although it does not alter the association of MCAK with SGO2 (Tanno2010Phosphorylation). In HeLa cells, SGO2's phosphorylation by Aurora B is essential for its interactions with PP2A and MCAK, affecting their recruitment and function at centromeres (Tanno2010Phosphorylation).
+
+SGO2 also interacts with HSF1 (heat shock factor 1) during the heat shock response, enhancing the expression of heat shock proteins such as HSP70. This interaction is crucial for the transcriptional activation of HSPs during proteotoxic stresses (Takii2019The).
+
+
+## References
+
+
+[1. (Kao2021Shugoshin) Ying Kao, Wen-Chiuan Tsai, Ssu-Han Chen, Shao-Yuan Hsu, Li-Chun Huang, Chih-Ju Chang, Shih-Ming Huang, and Dueng-Yuan Hueng. Shugoshin 2 is a biomarker for pathological grading and survival prediction in patients with gliomas. Scientific Reports, September 2021. URL: http://dx.doi.org/10.1038/s41598-021-97119-4, doi:10.1038/s41598-021-97119-4. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-021-97119-4)
+
+[2. (Xu2009Structure) Zheng Xu, Bulent Cetin, Martin Anger, Uhn Soo Cho, Wolfgang Helmhart, Kim Nasmyth, and Wenqing Xu. Structure and function of the pp2a-shugoshin interaction. Molecular Cell, 35(4):426–441, August 2009. URL: http://dx.doi.org/10.1016/j.molcel.2009.06.031, doi:10.1016/j.molcel.2009.06.031. This article has 172 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2009.06.031)
+
+[3. (Takii2019The) Ryosuke Takii, Mitsuaki Fujimoto, Masaki Matsumoto, Pratibha Srivastava, Arpit Katiyar, Keiich I Nakayama, and Akira Nakai. The pericentromeric protein shugoshin 2 cooperates with <scp>hsf</scp> 1 in heat shock response and <scp>rna</scp> pol <scp>ii</scp> recruitment. The EMBO Journal, October 2019. URL: http://dx.doi.org/10.15252/embj.2019102566, doi:10.15252/embj.2019102566. This article has 22 citations.](https://doi.org/10.15252/embj.2019102566)
+
+[4. (Llano2008Shugoshin2) Elena Llano, Rocío Gómez, Cristina Gutiérrez-Caballero, Yurema Herrán, Manuel Sánchez-Martín, Luis Vázquez-Quiñones, Teresa Hernández, Enrique de Álava, Ana Cuadrado, José Luis Barbero, José A. Suja, and Alberto M. Pendás. Shugoshin-2 is essential for the completion of meiosis but not for mitotic cell division in mice. Genes &amp; Development, 22(17):2400–2413, September 2008. URL: http://dx.doi.org/10.1101/gad.475308, doi:10.1101/gad.475308. This article has 138 citations.](https://doi.org/10.1101/gad.475308)
+
+[5. (Hu2022SGOL2) Qingqing Hu, Qiuhong Liu, Yalei Zhao, Lingjian Zhang, and Lanjuan Li. Sgol2 is a novel prognostic marker and fosters disease progression via a mad2-mediated pathway in hepatocellular carcinoma. Biomarker Research, November 2022. URL: http://dx.doi.org/10.1186/s40364-022-00422-z, doi:10.1186/s40364-022-00422-z. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40364-022-00422-z)
+
+[6. (Tanno2010Phosphorylation) Yuji Tanno, Tomoya S. Kitajima, Takashi Honda, Yasuto Ando, Kei-ichiro Ishiguro, and Yoshinori Watanabe. Phosphorylation of mammalian sgo2 by aurora b recruits pp2a and mcak to centromeres. Genes &amp; Development, 24(19):2169–2179, October 2010. URL: http://dx.doi.org/10.1101/gad.1945310, doi:10.1101/gad.1945310. This article has 112 citations.](https://doi.org/10.1101/gad.1945310)
+
+[7. (Rattani2013Sgol2) Ahmed Rattani, Magda Wolna, Mickael Ploquin, Wolfgang Helmhart, Seamus Morrone, Bernd Mayer, Jonathan Godwin, Wenqing Xu, Olaf Stemmann, Alberto Pendas, and Kim Nasmyth. Sgol2 provides a regulatory platform that coordinates essential cell cycle processes during meiosis i in oocytes. eLife, November 2013. URL: http://dx.doi.org/10.7554/elife.01133, doi:10.7554/elife.01133. This article has 62 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.01133)

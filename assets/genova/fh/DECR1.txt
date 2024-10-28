@@ -1,0 +1,42 @@
+# DECR1
+
+## Overview
+DECR1, or 2,4-dienoyl-CoA reductase 1, is a gene that encodes a mitochondrial enzyme involved in the beta-oxidation of polyunsaturated fatty acids (PUFAs). This enzyme is crucial for the reduction of 2,4-dienoyl-CoA to trans-3-enoyl-CoA, a key step in the metabolic pathway that breaks down unsaturated fatty acyl-CoAs, thereby facilitating energy production and lipid metabolism within cells (Hoy2021Tumour). The protein encoded by DECR1 is essential for maintaining lipid homeostasis, which is vital for cellular functions such as membrane fluidity and the prevention of lipid peroxidation, a process that can lead to ferroptosis, a form of cell death (Blomme20202; Hoy2021Tumour). DECR1's role in these metabolic processes highlights its importance in cellular energy balance and protection against oxidative stress, underscoring its significance in both normal physiology and disease states.
+
+## Structure
+
+
+## Function
+DECR1 (2,4-dienoyl-CoA reductase 1) is a mitochondrial enzyme that plays a crucial role in the beta-oxidation of polyunsaturated fatty acids (PUFAs). It catalyzes the reduction of 2,4-dienoyl-CoA to trans-3-enoyl-CoA, facilitating the breakdown of unsaturated fatty acyl-CoAs, which is essential for energy production and lipid metabolism in cells (Hoy2021Tumour). This process contributes to the production of acetyl-CoA, which enters the tricarboxylic acid cycle, and generates FADH2 and NADH, fueling the electron transport chain (Hoy2021Tumour).
+
+In healthy human cells, DECR1 is involved in maintaining lipid homeostasis by regulating the balance between saturated and unsaturated phospholipids. This balance is critical for cellular functions, including membrane fluidity and the prevention of lipid peroxidation, which can lead to ferroptosis, a form of cell death characterized by iron-dependent lipid peroxidation (Blomme20202; Hoy2021Tumour). The enzyme's activity in the mitochondria is vital for the catabolism of PUFAs, protecting cells from oxidative stress and maintaining cellular energy balance (Hoy2021Tumour). DECR1's role in these processes underscores its importance in cellular metabolism and overall organismal health.
+
+## Clinical Significance
+Mutations and alterations in the DECR1 gene have been linked to several diseases and conditions. A deficiency in DECR1 is associated with metabolic dysfunction-associated steatotic liver disease (MASLD). This condition was observed in two siblings with a homozygous DECR1 splice-site variant, c.330+3A>T, leading to transcript decay and absence of DECR1 protein in the liver. The deficiency is suggested to be a monogenic cause of MASLD, presenting as an autosomal-recessive entity within the disease spectrum (Kohlmaier2024Steatotic).
+
+In prostate cancer, DECR1 is overexpressed and associated with poor prognosis. High DECR1 expression is linked to reduced disease-free survival and is prevalent in metastatic tumors. It plays a role in maintaining lipid homeostasis in cancer cells, and its deletion impairs cellular proliferation and alters metabolomic profiles (Blomme20202; Nassar2020Human). DECR1 is also identified as an androgen-repressed survival factor that regulates polyunsaturated fatty acid oxidation, protecting prostate tumor cells from ferroptosis, a form of cell death (Nassar2020Human).
+
+In mice, DECR1 deficiency leads to severe hypoglycemia and stress intolerance, particularly under fasting conditions, due to impaired gluconeogenesis and glycogen depletion (Miinalainen2009Mitochondrial).
+
+## Interactions
+DECR1 (2,4-dienoyl-CoA reductase 1) is known to interact with 2′-5′ oligoadenylates (2′-5′ OA), forming a stable protein-RNA complex in mouse cells. This interaction is species-specific and occurs in the NADPH co-factor binding pocket of the enzyme. The binding of 2′-5′ OA to DECR1 may occlude the NADPH binding site, potentially affecting the enzyme's activity and leading to cellular stress and ferroptosis (Govande2023RNase; Govande2023RNasea). The interaction is characterized by a high-affinity complex formation in mouse cells, but not in human or Drosophila cells, due to a single amino acid difference (N92 in mouse DECR1 vs. K92 in human DECR1) that is crucial for species-specific binding (Govande2023RNase; Govande2023RNasea).
+
+The study of DECR1 interactions also involved various experimental techniques, such as affinity purification and mass spectrometry, to identify proteins that interact with 2′-5′ OA. These methods provided insights into the physical interactions between DECR1 and 2′-5′ OA, highlighting the protein's role in binding these oligoadenylates (Govande2023RNasea). Despite these interactions, significant antiviral functions or 2′-5′ OA-dependent regulation of cellular translation rates associated with DECR1 were not observed (Govande2023RNasea).
+
+
+## References
+
+
+[1. (Miinalainen2009Mitochondrial) Ilkka J. Miinalainen, Werner Schmitz, Anne Huotari, Kaija J. Autio, Raija Soininen, Emiel Ver Loren van Themaat, Myriam Baes, Karl-Heinz Herzig, Ernst Conzelmann, and J. Kalervo Hiltunen. Mitochondrial 2,4-dienoyl-coa reductase deficiency in mice results in severe hypoglycemia with stress intolerance and unimpaired ketogenesis. PLoS Genetics, 5(7):e1000543, July 2009. URL: http://dx.doi.org/10.1371/journal.pgen.1000543, doi:10.1371/journal.pgen.1000543. This article has 48 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1000543)
+
+[2. (Kohlmaier2024Steatotic) Benno Kohlmaier, Kristijan Skok, Carolin Lackner, Greta Haselrieder, Thomas Müller, Sabrina Sailer, Johannes Zschocke, Markus A. Keller, A. S. Knisely, and Andreas R. Janecke. Steatotic liver disease associated with 2,4-dienoyl-coa reductase 1 deficiency. International Journal of Obesity, September 2024. URL: http://dx.doi.org/10.1038/s41366-024-01634-z, doi:10.1038/s41366-024-01634-z. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41366-024-01634-z)
+
+[3. (Nassar2020Human) Zeyad D Nassar, Chui Yan Mah, Jonas Dehairs, Ingrid JG Burvenich, Swati Irani, Margaret M Centenera, Madison Helm, Raj K Shrestha, Max Moldovan, Anthony S Don, Jeff Holst, Andrew M Scott, Lisa G Horvath, David J Lynn, Luke A Selth, Andrew J Hoy, Johannes V Swinnen, and Lisa M Butler. Human decr1 is an androgen-repressed survival factor that regulates pufa oxidation to protect prostate tumor cells from ferroptosis. eLife, July 2020. URL: http://dx.doi.org/10.7554/elife.54166, doi:10.7554/elife.54166. This article has 109 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.54166)
+
+4. (Blomme20202) Ref Blomme20202. This article has 117 citations and is from a highest quality peer-reviewed journal.
+
+[5. (Hoy2021Tumour) Andrew J. Hoy, Shilpa R. Nagarajan, and Lisa M. Butler. Tumour fatty acid metabolism in the context of therapy resistance and obesity. Nature Reviews Cancer, 21(12):753–766, August 2021. URL: http://dx.doi.org/10.1038/s41568-021-00388-4, doi:10.1038/s41568-021-00388-4. This article has 204 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41568-021-00388-4)
+
+6. (Govande2023RNase) RNase L activating 2′–5′ oligoadenylates bind ABCF1, -3 and Decr-1. This article has 0 citations.
+
+[7. (Govande2023RNasea) Apurva A. Govande, Aleksandra W. Babnis, Christian Urban, Matthias Habjan, Rune Hartmann, Philip J. Kranzusch, and Andreas Pichlmair. Rnase l-activating 2′–5′ oligoadenylates bind abcf1, abcf3 and decr-1. Journal of General Virology, September 2023. URL: http://dx.doi.org/10.1099/jgv.0.001890, doi:10.1099/jgv.0.001890. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1099/jgv.0.001890)

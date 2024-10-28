@@ -1,0 +1,40 @@
+# ELOA
+
+## Overview
+The ELOA gene encodes the protein elongin A, a critical component of the Elongin complex, which functions as a transcription elongation factor. Elongin A plays a pivotal role in enhancing the catalytic rate of RNA polymerase II (RNAPII) by mitigating transcriptional pauses, thereby facilitating efficient transcription elongation and DNA repair processes. Structurally, elongin A is characterized by a TFIIS N-terminal domain, an Elongin A superfamily domain, and several unstructured regions, forming a heterotrimeric complex with Elongin B and Elongin C. This complex is essential for the ubiquitination and degradation of stalled RNAPII, maintaining transcriptional integrity. Elongin A's interactions with RNAPII and its involvement in the regulation of transcription elongation underscore its significance in cellular stress responses and gene expression. Clinically, alterations in ELOA expression are implicated in various cancers, including colorectal and esophageal cancer, where it may act as a tumor suppressor or be part of diagnostic signatures, highlighting its potential as a therapeutic target (Chen2023Structure; Wang2022Long; Sanchez2020PAF1).
+
+## Structure
+The ELOA protein, a component of the Elongin complex, plays a crucial role in transcription elongation by RNA polymerase II (Pol II). Its primary structure includes a TFIIS N-terminal domain (TND), an unstructured middle region, a predicted Elongin A superfamily domain, and an unstructured C-terminal region (Chen2023Structure). The secondary structure of ELOA is characterized by five α-helices and four loops, with Loop1-α1 forming the BC-box motif that interacts with ELOC (Chen2023Structure). The tertiary structure involves the ELOA superfamily homology domain, which contacts the RPB9 C-terminal domain of Pol II (Chen2023Structure).
+
+In terms of quaternary structure, ELOA forms a heterotrimeric complex with ELOB and ELOC, which is essential for its function in stimulating RNA synthesis (Chen2023Structure). The ELOA latch and C-terminal linker are critical for inducing conformational changes in Pol II, necessary for its elongation-stimulatory activity (Chen2023Structure). The ELOA protein also shares structural similarities with the pVHL-ELOC interaction interface, indicating a conserved mechanism of interaction (Chen2023Structure).
+
+## Function
+Elongin A (ELOA) is a component of the Elongin complex, which plays a crucial role in transcription elongation by RNA polymerase II (RNAPII) in healthy human cells. It functions as a transcription elongation factor, enhancing the catalytic rate of RNAPII by suppressing transient pausing during transcription. This activity is essential for managing transcriptional pauses and ensuring the removal of irreversibly arrested RNAPII, thereby facilitating DNA repair and continued transcription (Sanchez2020PAF1).
+
+ELOA is part of a cullin-RING ligase complex that targets stalled RNAPII for ubiquitination and degradation. This process involves a two-step ubiquitination mechanism, where RNAPII is initially monoubiquitinated by NEDD4/Rsp5, followed by polyubiquitination by the Elongin A ubiquitin ligase. The ubiquitination of RNAPII is crucial for its degradation by the proteasome, maintaining transcriptional integrity by removing stalled polymerase complexes (Sanchez2020PAF1).
+
+The Elongin A complex interacts with the phosphorylated form of RNAPII's C-terminal domain and is involved in the regulation of transcription elongation and mRNA processing. It is active in the nucleus, where it plays a significant role in gene expression and cellular response to stress (Sanchez2020PAF1).
+
+## Clinical Significance
+The ELOA gene, also known as elongin A, plays a significant role in the progression of certain cancers due to alterations in its expression levels and interactions. In colorectal cancer (CRC), ELOA acts as a tumor suppressor. Its expression inhibits CRC growth and metastasis, while knockdown of ELOA promotes cell proliferation and colony formation. Ectopic expression of ELOA suppresses the migratory and invasive abilities of CRC cells. Low ELOA expression is associated with poor overall survival and correlates with tumor differentiation, lymph node metastasis, and tumor stage (Wang2022Long). ELOA is also involved in a signaling axis with DLGAP1-AS2 and LHPP, affecting the PI3K/AKT pathway, a key cancer-related pathway. Overexpression of ELOA increases LHPP expression and suppresses AKT pathway activity, further inhibiting CRC progression (Wang2022Long).
+
+In esophageal cancer (EC), ELOA is part of a diagnostic signature for molecular subtypes. It is highly expressed in the aggressive S2 subtype, which is linked to worse overall survival and disease-free survival outcomes (Liu2021Largescale). This suggests that ELOA's expression levels and interactions can significantly impact cancer prognosis and may serve as a potential therapeutic target.
+
+## Interactions
+ELOA, a subunit of the Elongin complex, interacts with RNA polymerase II (Pol II) through multiple interfaces. It binds to the RPB2 domains of Pol II, specifically the external 2 and protrusion domains, and approaches the RPB9 C-terminal domain. The interaction with RPB2 external 2 is mediated by ELOA's helix α5, which engages in hydrophobic interactions. The C-terminal linker of ELOA forms hydrogen bonds with the Pol II protrusion. ELOA also uses a latch element to form a third interface with Pol II, contacting the RPB1 bridge helix and funnel helices, involving both hydrophobic and hydrophilic interactions (Chen2023Structure).
+
+ELOA is part of a heterotrimeric complex with Elongin B (ELOB) and Elongin C (ELOC), forming a structure that includes five α-helices and four loops. The Loop1-α1 region of ELOA forms the BC-box motif, which interacts with ELOC (Chen2023Structure). ELOA also interacts with the ELOB-ELOC subcomplex via a ten-residue BC-box motif (Chen2023Structure).
+
+In the context of colorectal cancer, ELOA interacts with the E3 ligase Trim21, which promotes its ubiquitin-mediated proteasome degradation. This interaction is enhanced by the long noncoding RNA DLGAP1-AS2, which facilitates the association between ELOA and Trim21 (Wang2022Long).
+
+
+## References
+
+
+[1. (Chen2023Structure) Ying Chen, Goran Kokic, Christian Dienemann, Olexandr Dybkov, Henning Urlaub, and Patrick Cramer. Structure of the transcribing rna polymerase ii–elongin complex. Nature Structural &amp; Molecular Biology, 30(12):1925–1935, November 2023. URL: http://dx.doi.org/10.1038/s41594-023-01138-w, doi:10.1038/s41594-023-01138-w. This article has 8 citations.](https://doi.org/10.1038/s41594-023-01138-w)
+
+[2. (Liu2021Largescale) Wei Liu, Lei Xie, Yao-Hui He, Zhi-Yong Wu, Lu-Xin Liu, Xue-Feng Bai, Dan-Xia Deng, Xiu-E Xu, Lian-Di Liao, Wan Lin, Jing-Hua Heng, Xin Xu, Liu Peng, Qing-Feng Huang, Cheng-Yu Li, Zhi-Da Zhang, Wei Wang, Guo-Rui Zhang, Xiang Gao, Shao-Hong Wang, Chun-Quan Li, Li-Yan Xu, Wen Liu, and En-Min Li. Large-scale and high-resolution mass spectrometry-based proteomics profiling defines molecular subtypes of esophageal cancer for therapeutic targeting. Nature Communications, August 2021. URL: http://dx.doi.org/10.1038/s41467-021-25202-5, doi:10.1038/s41467-021-25202-5. This article has 75 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-25202-5)
+
+3. (Sanchez2020PAF1) PAF1 facilitates RNA polymerase II ubiquitination by the Elongin A complex through phosphorylation by CDK12. This article has 1 citations.
+
+4. (Wang2022Long) Long Noncoding RNA DLGAP1-AS2 Promotes Tumorigenesis and Metastasis by Regulating the Trim21/ELOA/LHPP Signaling Axis in Colorectal Cancer. This article has 0 citations.

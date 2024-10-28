@@ -1,0 +1,40 @@
+# ARHGAP30
+
+## Overview
+ARHGAP30 is a gene that encodes the Rho GTPase activating protein 30, a member of the RhoGAP family of proteins. This protein plays a crucial role in the regulation of the Rho family of GTPases, which are involved in various cellular processes, including actin cytoskeleton dynamics, cell adhesion, and migration. ARHGAP30 exists in two splice variants, L-ARHGAP30 and S-ARHGAP30, which differ in their amino acid composition and functional capabilities. The protein is characterized by the presence of an N-terminal GAP domain, proline-rich motifs, and a glutamic acid-rich motif in the longer variant. ARHGAP30 is involved in promoting p53 acetylation, independent of its RhoGAP activity, and has been implicated in the regulation of tumor suppressor pathways, particularly in lung, colorectal, and ovarian cancers (Wang2014ArhGAP30; Mao2018ARHGAP30; Chu2023Knockdown).
+
+## Structure
+ARHGAP30 is a Rho GTPase activating protein with two major splice variants: L-ARHGAP30 and S-ARHGAP30. The full-length L-ARHGAP30 variant encodes a 1,101-amino acid protein, while the shorter S-ARHGAP30 variant encodes an 890-amino acid protein. The primary difference between these variants is the presence of a glutamic acid-rich motif in L-ARHGAP30, which is absent in S-ARHGAP30 (Wang2014ArhGAP30).
+
+The protein contains an N-terminal GAP domain, a proline-rich motif, a glutamic acid-rich motif, and another proline-rich motif near the C-terminus (Wang2014ArhGAP30). The interaction domain for Wrch1 is located in the C-terminal part of ARHGAP30, distinct from the GAP domain, indicating that ARHGAP30 is not a GAP for Wrch1 (Naji2011ARHGAP30).
+
+ARHGAP30 is involved in promoting p53 acetylation, particularly at the K382 residue, through interaction with the p300 acetyltransferase. This function is independent of its RhoGAP activity, as demonstrated by the R55A mutant, which lacks Rho GTPase regulation ability but still promotes p53 target gene transactivation (Wang2014ArhGAP30). The full-length variant is necessary for these effects, as the shorter variant does not promote p53 acetylation (Wang2014ArhGAP30).
+
+## Function
+ARHGAP30 encodes a RhoGAP domain-containing protein that plays a significant role in regulating actin dynamics and cell adhesion in healthy human cells. It interacts with the atypical Rho GTPase Wrch-1, also known as RhoU, which is involved in processes such as cell migration, focal adhesion dissolution, and stress fiber breakdown. ARHGAP30 acts as a GTPase activator, converting active GTP-bound Rho proteins to their inactive GDP-bound state, specifically targeting Rac1 and RhoA GTPases. This activity influences cytoskeletal dynamics and cell morphology by promoting the dissolution of stress fibers and focal adhesions, leading to membrane blebbing and loss of cell attachment (Naji2011ARHGAP30).
+
+The protein is expressed in various cell types, including hematopoietic, endocrine, connective tissue, muscle, and lung cells. It localizes in a vesicular pattern in the cytoplasm, often coinciding with Wrch-1, and its interaction with Wrch-1 is not strictly GTP-dependent. This suggests that ARHGAP30 may influence actomyosin contractions and Rho GTPase activity, particularly RhoA, thereby impacting cellular motility and adhesion (Naji2011ARHGAP30).
+
+## Clinical Significance
+ARHGAP30 has been implicated in various cancers due to alterations in its expression levels. In lung cancer, ARHGAP30 is significantly downregulated, which is associated with larger tumor sizes. Its overexpression inhibits lung cancer cell proliferation, migration, and invasion by suppressing the Wnt/β-catenin signaling pathway. This suggests that ARHGAP30 acts as a tumor suppressor in lung cancer (Mao2018ARHGAP30).
+
+In colorectal cancer (CRC), ARHGAP30 is also downregulated, correlating with larger tumor size, advanced pathological stages, and shorter overall survival. It promotes p53 acetylation and activation, which is crucial for cell cycle arrest and apoptosis. This function is independent of its traditional role as a RhoGAP, highlighting its unique role in CRC. Low ARHGAP30 expression is linked to poor survival outcomes, suggesting its potential as a prognostic marker (Wang2014ArhGAP30).
+
+In ovarian cancer, ARHGAP30 is overexpressed, and its knockdown reduces cell proliferation, migration, and invasiveness by suppressing the PI3K/AKT/mTOR signaling pathway. This indicates that ARHGAP30 may contribute to ovarian cancer progression, making it a potential therapeutic target (Chu2023Knockdown).
+
+## Interactions
+ARHGAP30, a Rho GTPase activating protein, interacts with the atypical Rho GTPase Wrch-1. This interaction was identified using a yeast two-hybrid screen, which revealed ARHGAP30 as a binding partner for a constitutively active mutant of Wrch-1 (Wrch1/Q107L) (Naji2011ARHGAP30). The interaction between ARHGAP30 and Wrch-1 was confirmed through co-immunoprecipitation assays, demonstrating that ARHGAP30 binds to both the wild-type and GTP-bound mutant forms of Wrch-1 with equal affinity. This binding is not strictly dependent on the GTP-bound state, as the GDP-bound, inactive conformation of Wrch-1 also binds ARHGAP30 (Naji2011ARHGAP30).
+
+ARHGAP30 exists in two splice variants, L-ARHGAP30 and S-ARHGAP30, with S-ARHGAP30 shown to bind Wrch-1. The interaction requires an intact GTP-bound Wrch-1 protein, as a mutant lacking the N-terminal extension does not bind S-ARHGAP30. ARHGAP30 binds to the C-terminal part of Wrch-1, suggesting it does not act as a GAP for Wrch-1 but may serve as a downstream effector, influencing actin dynamics and cell adhesion (Naji2011ARHGAP30).
+
+
+## References
+
+
+[1. (Wang2014ArhGAP30) Jilin Wang, Jin Qian, Ye Hu, Xuan Kong, Haoyan Chen, Qinghua Shi, Long Jiang, Chenming Wu, Weiping Zou, Yingxuan Chen, Jie Xu, and Jing-Yuan Fang. Arhgap30 promotes p53 acetylation and function in colorectal cancer. Nature Communications, August 2014. URL: http://dx.doi.org/10.1038/ncomms5735, doi:10.1038/ncomms5735. This article has 49 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms5735)
+
+[2. (Mao2018ARHGAP30) Xiaoliang Mao and Jichun Tong. Arhgap30 suppressed lung cancer cell proliferation, migration, and invasion through inhibition of the wnt/&amp;beta;-catenin signaling pathway. OncoTargets and Therapy, Volume 11:7447–7457, October 2018. URL: http://dx.doi.org/10.2147/OTT.S175255, doi:10.2147/ott.s175255. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.2147/OTT.S175255)
+
+[3. (Naji2011ARHGAP30) Latifa Naji, Dirk Pacholsky, and Pontus Aspenström. Arhgap30 is a wrch-1-interacting protein involved in actin dynamics and cell adhesion. Biochemical and Biophysical Research Communications, 409(1):96–102, May 2011. URL: http://dx.doi.org/10.1016/j.bbrc.2011.04.116, doi:10.1016/j.bbrc.2011.04.116. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2011.04.116)
+
+[4. (Chu2023Knockdown) Xiaoyan Chu, Jun Lou, Yun Yi, Linlin Zhong, and Ouping Huang. Knockdown of arhgap30 inhibits ovarian cancer cell proliferation, migration, and invasiveness by suppressing the pi3k/akt/mtor signaling pathway. European Journal of Histochemistry, May 2023. URL: http://dx.doi.org/10.4081/ejh.2023.3653, doi:10.4081/ejh.2023.3653. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.4081/ejh.2023.3653)

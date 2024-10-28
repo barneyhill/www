@@ -1,0 +1,48 @@
+# UBR2
+
+## Overview
+UBR2 is a gene that encodes the protein ubiquitin protein ligase E3 component n-recognin 2, which is a member of the E3 ubiquitin ligase family. This protein plays a pivotal role in the N-end Rule pathway, a proteolytic system that targets proteins for degradation based on their N-terminal residues. UBR2 is characterized by several structural domains, including a UBR box and a RING domain, which are essential for its function in recognizing and ubiquitinating target proteins. The protein is involved in critical cellular processes such as DNA repair, chromosome stability, and transcriptional regulation, particularly through the ubiquitylation of histones. UBR2's activity is crucial in both meiotic and somatic cells, where it contributes to genome integrity and cellular responses to DNA damage. Dysregulation of UBR2 has been associated with various clinical conditions, including cancer, male infertility, and autoimmune diseases, highlighting its importance in maintaining cellular homeostasis (Shih2024The; An2012UBR2).
+
+## Structure
+UBR2 is an E3 ubiquitin ligase characterized by several structural domains essential for its function in the N-end Rule pathway. The protein contains a UBR box, a conserved 70-residue zinc-finger-like motif, which is crucial for recognizing destabilizing N-terminal residues known as N-degrons. This domain is responsible for binding Type I (arginine-containing) and Type II (phenylalanine-containing) peptides, with the N-domain enhancing the binding of Type II substrates (raymond2020uncovering; Kim2021Signaling).
+
+The RING domain of UBR2 is vital for its ubiquitin ligase activity, facilitating the interaction with E2 ubiquitin-conjugating enzymes such as UBE2A/B and USE1. This domain contains conserved cysteine and histidine residues that coordinate zinc ions, maintaining its structural integrity and enabling the transfer of ubiquitin to target proteins (raymond2020uncovering; Kim2021Signaling).
+
+UBR2 also includes an auto-inhibitory domain (UAIN), which regulates substrate binding by preventing it in certain contexts (raymond2020uncovering). The protein's structure allows for dynamic interactions with multiple E2 enzymes, contributing to its role in various cellular processes (raymond2020uncovering). The presence of splice variants may result in different isoforms, potentially influencing UBR2's functional roles. However, specific post-translational modifications of UBR2, such as phosphorylation or ubiquitination, are not detailed in the provided context.
+
+## Function
+UBR2 is an E3 ubiquitin ligase that plays a critical role in maintaining chromosome stability and DNA repair processes in both spermatocytes and somatic cells. In spermatocytes, UBR2 is essential for the repair of double-strand breaks (DSBs) during meiosis, particularly at the pachytene stage. Deficiency in UBR2 leads to defective DSB repair, resulting in meiotic arrest and apoptosis, which is linked to insufficient histone ubiquitylation rather than a failure to initiate homologous recombination (An2012UBR2). UBR2 is involved in the ubiquitylation of histones, particularly H2A and H2B, which is crucial for chromosome stability and transcriptional silencing of sex chromosome-linked genes during meiosis (An2012UBR2).
+
+In somatic cells, UBR2 is associated with chromatin, particularly in transcriptionally active euchromatin, and is recruited in response to DNA damage. UBR2-knockdown cells exhibit impaired histone ubiquitylation and hypersensitivity to DNA damage, indicating its role in the DNA damage response (An2012UBR2). UBR2 acts as a scaffold promoting E2-mediated ubiquitylation of histones, which is essential for maintaining genome integrity (An2012UBR2). UBR2's function in the DNA damage response may involve mediating histone ubiquitylation upon DNA damage, although its exact recruitment to DNA damage sites remains unclear (An2012UBR2).
+
+## Clinical Significance
+Mutations and alterations in the UBR2 gene have been linked to several clinical conditions. UBR2 is crucial for chromosome stability and DNA repair, and its deficiency can lead to chromosomal abnormalities and hypersensitivity to DNA damage in somatic cells. This instability is associated with hyperproliferation and defective G2/M arrest, contributing to cancer progression, particularly in breast cancer, where UBR2 overexpression correlates with poor survival outcomes (Villa2020The; An2012UBR2).
+
+In the context of male infertility, UBR2 mutations are associated with meiotic arrest and azoospermia. Studies have identified specific single nucleotide polymorphisms (SNPs) in UBR2 that increase susceptibility to idiopathic oligospermia and azoospermia, highlighting its role in meiosis and spermatogenesis (Miyamoto2011Single; Ma2016Association).
+
+UBR2 is also implicated in immune responses, where its dysregulation can lead to altered T-cell activation and proinflammatory cytokine production. This has been linked to autoimmune conditions such as systemic lupus erythematosus (SLE), suggesting that UBR2 plays a role in inflammatory diseases (Shih2024The). These findings underscore the gene's significance in maintaining cellular homeostasis and its potential involvement in various pathologies.
+
+## Interactions
+UBR2, an E3 ubiquitin ligase, is involved in several protein interactions that are crucial for its function. It interacts with TEX19.1, a germ cell-specific protein, forming a stable complex in mouse testes. This interaction is significant for meiotic progression and chromosomal synapsis (An2012UBR2). UBR2 also interacts with histones H2A and H2B, promoting their ubiquitylation, which is essential for chromosome stability during meiosis (An2012UBR2). 
+
+In addition to its role in histone modification, UBR2 is involved in the regulation of the cohesin complex, particularly the acetylated subunit SMC3, in both mitotic and meiotic cells. This regulation is facilitated through its interaction with TEX19.1, which helps protect AcSMC3 (raymond2020uncovering). UBR2's interaction with TEX19.1 is also implicated in placental development, where TEX19.1 may act as a cofactor or regulatory protein (raymond2020uncovering).
+
+UBR2's interactions extend to various E2 enzymes, such as UBE2A/B and USE1, through its RING domain, which is crucial for its ubiquitin ligase activity (raymond2020uncovering). These interactions highlight UBR2's diverse roles in cellular processes beyond the canonical N-end Rule pathway.
+
+
+## References
+
+
+[1. (Shih2024The) Ying-Chun Shih, Hsueh-Fen Chen, Chia-Ying Wu, Yi-Ru Ciou, Chia-Wen Wang, Huai-Chia Chuang, and Tse-Hua Tan. The phosphatase dusp22 inhibits ubr2-mediated k63-ubiquitination and activation of lck downstream of tcr signalling. Nature Communications, January 2024. URL: http://dx.doi.org/10.1038/s41467-024-44843-w, doi:10.1038/s41467-024-44843-w. This article has 2 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-44843-w)
+
+[2. (Villa2020The) Elodie Villa, Rachel Paul, Ophélie Meynet, Sophie Volturo, Guillaume Pinna, and Jean-Ehrland Ricci. The e3 ligase ubr2 regulates cell death under caspase deficiency via erk/mapk pathway. Cell Death &amp; Disease, December 2020. URL: http://dx.doi.org/10.1038/s41419-020-03258-3, doi:10.1038/s41419-020-03258-3. This article has 8 citations.](https://doi.org/10.1038/s41419-020-03258-3)
+
+[3. (An2012UBR2) Jee Young An, Euna Kim, Adriana Zakrzewska, Young Dong Yoo, Jun Min Jang, Dong Hoon Han, Min Jae Lee, Jai Wha Seo, Yong Jun Lee, Tae-You Kim, Dirk G. de Rooij, Bo Yeon Kim, and Yong Tae Kwon. Ubr2 of the n-end rule pathway is required for chromosome stability via histone ubiquitylation in spermatocytes and somatic cells. PLoS ONE, 7(5):e37414, May 2012. URL: http://dx.doi.org/10.1371/journal.pone.0037414, doi:10.1371/journal.pone.0037414. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0037414)
+
+[4. (Kim2021Signaling) Jung Gi Kim, Ho-Chul Shin, Taewook Seo, Laxman Nawale, Goeun Han, Bo Yeon Kim, Seung Jun Kim, and Hyunjoo Cha-Molstad. Signaling pathways regulated by ubr box-containing e3 ligases. International Journal of Molecular Sciences, 22(15):8323, August 2021. URL: http://dx.doi.org/10.3390/ijms22158323, doi:10.3390/ijms22158323. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms22158323)
+
+5. (raymond2020uncovering) Uncovering non-canonical functions for the E3 ubiquitin ligase UBR2 in the mouse. This article has 1 citations.
+
+[6. (Miyamoto2011Single) Toshinobu Miyamoto, Akira Tsujimura, Yasushi Miyagawa, Eitetsu Koh, Mikio Namiki, Michiharu Horikawa, Yasuaki Saijo, and Kazuo Sengoku. Single nucleotide polymorphism in the ubr2 gene may be a genetic risk factor for japanese patients with azoospermia by meiotic arrest. Journal of Assisted Reproduction and Genetics, 28(8):743–746, May 2011. URL: http://dx.doi.org/10.1007/s10815-011-9576-y, doi:10.1007/s10815-011-9576-y. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10815-011-9576-y)
+
+[7. (Ma2016Association) T. -J. Ma, X. -J. Zhang, X. -P. Ding, H. -H. Chen, Y. -W. Zhang, and M. Ding. Association of single nucleotide polymorphisms inubr2gene with idiopathic aspermia or oligospermia in sichuan, china. Andrologia, 48(10):1253–1260, March 2016. URL: http://dx.doi.org/10.1111/and.12569, doi:10.1111/and.12569. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/and.12569)

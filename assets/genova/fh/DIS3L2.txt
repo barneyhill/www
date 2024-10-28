@@ -1,0 +1,56 @@
+# DIS3L2
+
+## Overview
+DIS3L2 is a gene that encodes the protein DIS3 like 3'-5' exoribonuclease 2, a member of the RNase II/R family of exoribonucleases. This protein is primarily involved in RNA processing and degradation, functioning independently of the exosome complex due to its lack of a PIN domain (Ustianenko2013Mammalian). DIS3L2 plays a critical role in maintaining RNA homeostasis by degrading uridylated RNA substrates, including various non-coding RNAs and miRNA precursors, thereby influencing cellular proliferation and genome stability (Towler2019Dis3L2; Łabno2016Perlman). The protein's activity is essential for processes such as calcium ion homeostasis and endoplasmic reticulum-targeted mRNA translation (Pirouz2020The). Mutations in the DIS3L2 gene are linked to disorders like Perlman syndrome and Wilms' tumor, highlighting its significance in human health and disease (Saramago2019The; Pashler2016The).
+
+## Structure
+The DIS3L2 protein is a 3'-5' exoribonuclease involved in RNA processing and degradation. It is part of the RNase II/R family and is characterized by several domains, including two cold shock domains (CSDs), an S1 domain, and an RNB ribonuclease domain, which is crucial for its exonuclease activity (Ustianenko2013Mammalian; Meze2023A). The protein lacks a PIN domain, which distinguishes it from other exosome-associated nucleases, indicating its functional independence from the exosome complex (Ustianenko2013Mammalian).
+
+Structurally, DIS3L2 exhibits a vase-like conformation in its RNA-free state, with a positively charged surface that likely serves as a landing pad for RNA. Upon binding to structured RNA substrates, it undergoes a significant conformational change to a prong-like structure, facilitating RNA degradation (Meze2023A). The CSDs play a critical role in stabilizing the RNA double helix and are essential for the initial substrate association and degradation process (Meze2023A). The trihelix linker acts as a wedge to separate RNA strands, which is crucial for processing double-stranded RNA (Meze2023A).
+
+DIS3L2 is expressed in multiple isoforms, with at least two identified in mice, and is localized in the cytoplasm of various cell types, including mouse embryonic stem cells and human cell lines (Ustianenko2013Mammalian). The protein's activity is dependent on divalent metal ions, and it binds uridylated RNA substrates with high affinity (Ustianenko2013Mammalian).
+
+## Function
+DIS3L2 is a cytoplasmic 3'-5' exoribonuclease that plays a crucial role in RNA metabolism by degrading uridylated RNA substrates. It is involved in the degradation of various non-coding RNAs, including vault RNAs, Y RNAs, and replication-dependent histone mRNAs, which are important for maintaining RNA homeostasis and genome stability in healthy human cells (Łabno2016Perlman). DIS3L2 also targets the 3'-uridylated precursors of let-7 miRNA, playing a role in miRNA processing (Ustianenko2013Mammalian).
+
+In addition to its role in RNA degradation, DIS3L2 is involved in regulating cellular proliferation through the PI3-Kinase/AKT signaling pathway. Loss of DIS3L2 function leads to increased cell proliferation, which is associated with increased AKT/mTORC1 activity, indicating that DIS3L2 acts as a negative regulator of this pathway (Towler2019Dis3L2; Towler2020Dis3L2).
+
+DIS3L2 is also essential for maintaining calcium ion homeostasis and proper endoplasmic reticulum-targeted mRNA translation. Its dysfunction can lead to impaired intracellular calcium storage and increased calcium leakage, affecting processes such as insulin secretion and stem cell differentiation (Pirouz2020The). Overall, DIS3L2 is vital for maintaining normal cellular functions and preventing pathological conditions.
+
+## Clinical Significance
+Mutations in the DIS3L2 gene are associated with several human disorders, most notably Perlman syndrome and Wilms' tumor. Perlman syndrome is a rare congenital overgrowth disorder characterized by macrocephaly, facial abnormalities, neurodevelopmental delay, fetal gigantism, kidney enlargement, and high neonatal mortality. Patients with Perlman syndrome often exhibit nephroblastomatosis, a precursor to Wilms' tumor, a type of kidney cancer (Saramago2019The; Towler2020Dis3L2; Pashler2016The). Germline mutations in DIS3L2, such as deletions of exon 6, 9, and/or 19, are consistent with a loss of function and are linked to Wilms' tumor susceptibility (Pashler2016The).
+
+DIS3L2 mutations are also associated with a Marfan-like syndrome, characterized by skeletal overgrowth and malformations such as scoliosis, arachnodactyly, and mild syndactyly (Saramago2019The; Pashler2016The). The gene plays a role in regulating cell proliferation and tissue growth, with its loss leading to increased cell proliferation, partly due to the upregulation of growth factors and signaling pathways like PI3-Kinase/AKT (Towler2020Dis3L2).
+
+DIS3L2 is involved in the degradation of certain non-coding RNAs, and its dysfunction can lead to the accumulation of aberrant RNAs, affecting processes like endoplasmic reticulum-targeted mRNA translation and calcium ion homeostasis, which are crucial for normal cellular function and development (Pirouz2020The).
+
+## Interactions
+DIS3L2 is a cytoplasmic 3'-5' exoribonuclease that primarily interacts with RNA molecules rather than forming stable complexes with other proteins. Unlike its homologs DIS3 and DIS3L, DIS3L2 does not associate with the core exosome complex due to the absence of the PIN domain, as demonstrated by immunoprecipitation experiments showing no coimmunoprecipitation with core exosome subunits RRP40 and RRP41 (bilen2014development).
+
+DIS3L2 exhibits a strong affinity for tRNA molecules, particularly binding to the 5' ends of tRNA-derived fragments (tRFs). This interaction was confirmed through RNA Immunoprecipitation (RIP) and semi-quantitative PCR, as well as stem-loop RT-PCR and DNA sequencing (bilen2014development). DIS3L2 also binds to uridylated RNA substrates, facilitated by interactions with terminal uridyltransferases TUT4 and TUT7, which add uridine tails to RNA substrates, enhancing their degradation by DIS3L2 (Łabno2016Perlman).
+
+In the context of cancer, DIS3L2 interacts with the RNA-binding protein LIN28 in the LIN28/let-7 pathway. LIN28 recruits TUT4/7 to uridylate pre-let-7 miRNA, which is then recognized and degraded by DIS3L2, affecting let-7 miRNA levels and oncogene expression (GarcíaMoreno2023DIS3L2:).
+
+
+## References
+
+
+1. (Towler2019Dis3L2) Dis3L2 regulates cellular proliferation through a PI3-Kinase dependent signalling pathway. This article has 1 citations.
+
+[2. (Pirouz2020The) Mehdi Pirouz, Chih-Hao Wang, Qi Liu, Aref G. Ebrahimi, Farnaz Shamsi, Yu-Hua Tseng, and Richard I. Gregory. The perlman syndrome dis3l2 exoribonuclease safeguards endoplasmic reticulum-targeted mrna translation and calcium ion homeostasis. Nature Communications, May 2020. URL: http://dx.doi.org/10.1038/s41467-020-16418-y, doi:10.1038/s41467-020-16418-y. This article has 9 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-020-16418-y)
+
+[3. (Saramago2019The) Margarida Saramago, Paulo J. da Costa, Sandra C. Viegas, and Cecília M. Arraiano. The Implication of mRNA Degradation Disorders on Human DISease: Focus on DIS3 and DIS3-Like Enzymes, pages 85–98. Springer International Publishing, 2019. URL: http://dx.doi.org/10.1007/978-3-030-19966-1_4, doi:10.1007/978-3-030-19966-1_4. This article has 14 citations.](https://doi.org/10.1007/978-3-030-19966-1_4)
+
+[4. (Pashler2016The) Amy L. Pashler, Benjamin P. Towler, Christopher I. Jones, and Sarah F. Newbury. The roles of the exoribonucleases dis3l2 and xrn1 in human disease. Biochemical Society Transactions, 44(5):1377–1384, October 2016. URL: http://dx.doi.org/10.1042/bst20160107, doi:10.1042/bst20160107. This article has 33 citations and is from a peer-reviewed journal.](https://doi.org/10.1042/bst20160107)
+
+[5. (Towler2020Dis3L2) Benjamin P. Towler, Amy L. Pashler, Hope J. Haime, Katarzyna M. Przybyl, Sandra C. Viegas, Rute G. Matos, Simon J. Morley, Cecilia M. Arraiano, and Sarah F. Newbury. Dis3l2 regulates cell proliferation and tissue growth through a conserved mechanism. PLOS Genetics, 16(12):e1009297, December 2020. URL: http://dx.doi.org/10.1371/journal.pgen.1009297, doi:10.1371/journal.pgen.1009297. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1009297)
+
+[6. (Ustianenko2013Mammalian) Dmytro Ustianenko, Dominika Hrossova, David Potesil, Katerina Chalupnikova, Kristyna Hrazdilova, Jiri Pachernik, Katerina Cetkovska, Stjepan Uldrijan, Zbynek Zdrahal, and Stepanka Vanacova. Mammalian dis3l2 exoribonuclease targets the uridylated precursors of let-7 mirnas. RNA, 19(12):1632–1638, October 2013. URL: http://dx.doi.org/10.1261/rna.040055.113, doi:10.1261/rna.040055.113. This article has 155 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.040055.113)
+
+[7. (Łabno2016Perlman) Anna Łabno, Zbigniew Warkocki, Tomasz Kuliński, Paweł Szczepan Krawczyk, Krystian Bijata, Rafał Tomecki, and Andrzej Dziembowski. Perlman syndrome nuclease dis3l2 controls cytoplasmic non-coding rnas and provides surveillance pathway for maturing snrnas. Nucleic Acids Research, pages gkw649, July 2016. URL: http://dx.doi.org/10.1093/nar/gkw649, doi:10.1093/nar/gkw649. This article has 41 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkw649)
+
+[8. (Meze2023A) Katarina Meze, Armend Axhemi, Dennis R. Thomas, Ahmet Doymaz, and Leemor Joshua-Tor. A shape-shifting nuclease unravels structured rna. Nature Structural &amp; Molecular Biology, 30(3):339–347, February 2023. URL: http://dx.doi.org/10.1038/s41594-023-00923-x, doi:10.1038/s41594-023-00923-x. This article has 5 citations.](https://doi.org/10.1038/s41594-023-00923-x)
+
+9. (bilen2014development) Biter Bilen. Development of methods for the analysis of deep sequencing data; applications to the discovery of functions of RNA-binding proteins. PhD thesis, University_of_Basel, 2014. This article has 0 citations.
+
+[10. (GarcíaMoreno2023DIS3L2:) Juan F. García-Moreno, Paulo Matos, and Luísa Romão. Dis3l2: unveiling a new player in tumorigenesis, with a key role in colorectal cancer. Journal of Cellular Signaling, 4(4):169–177, October 2023. URL: http://dx.doi.org/10.33696/signaling.4.104, doi:10.33696/signaling.4.104. This article has 0 citations.](https://doi.org/10.33696/signaling.4.104)

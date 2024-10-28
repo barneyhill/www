@@ -1,0 +1,62 @@
+# RNGTT
+
+## Overview
+The RNGTT gene encodes the RNA guanylyltransferase and 5'-phosphatase, a bifunctional enzyme crucial for the mRNA capping process in eukaryotic cells. This enzyme is categorized as a nucleotidyltransferase and phosphatase, with distinct domains responsible for its dual functions. The N-terminal domain exhibits RNA triphosphatase activity, while the C-terminal domain functions as a guanylyltransferase, facilitating the formation of the 5' cap structure on nascent mRNA. This capping is essential for mRNA stability, splicing, nuclear export, and translation initiation, thereby playing a significant role in gene expression regulation (Ramanathan2016mRNA; Galloway2019mRNA). RNGTT's interaction with RNA polymerase II ensures that capping occurs co-transcriptionally, highlighting its importance in cellular processes and its potential implications in various diseases, including cancer (Li2022Identification; Bage2021A).
+
+## Structure
+The RNA guanylyltransferase and 5'-phosphatase (RNGTT) protein is a bifunctional enzyme involved in mRNA capping, featuring distinct structural domains that facilitate its function. The protein comprises an N-terminal triphosphatase (TPase) domain and a C-terminal guanylyltransferase (GTase) domain. The TPase domain is responsible for removing the γ-phosphate from 5'-triphosphate RNA, while the GTase domain adds a GMP moiety to the 5'-diphosphate RNA, forming the cap structure (Garg2024Structural; Li2024Structures).
+
+The GTase domain of RNGTT is characterized by a GTase/DNA ligase fold, consisting of seven α-helices and fifteen β-strands, forming an overall structure that is evolutionarily conserved across species (Chu2011Structure; Garg2024Structural). The N-terminal nucleotidyltransferase (NTase) domain within the GTase has an ATP grasp fold, with an active site lysine (Lys294) located in a positive cleft formed by the interface of the sub-domains (Garg2024Structural).
+
+RNGTT interacts with RNA polymerase II, with its OB-fold domain inserting into the Pol II stalk, positioning the TPase domain near the RNA exit tunnel. This arrangement facilitates the enzyme's catalytic activities during transcription (Li2024Structures). The protein's structure and interactions are crucial for its role in the capping process, which is essential for mRNA stability and translation.
+
+## Function
+The RNGTT gene encodes the RNA guanylyltransferase and 5'-phosphatase enzyme, which plays a critical role in the mRNA capping process in eukaryotic cells. This enzyme is bifunctional, with its N-terminal domain exhibiting RNA triphosphatase activity and its C-terminal domain functioning as a guanylyltransferase (Ramanathan2016mRNA). The RNA triphosphatase activity removes the gamma-phosphate from the 5' triphosphate end of the nascent RNA, creating a diphosphate 5' end. Subsequently, the guanylyltransferase transfers a guanosine monophosphate (GMP) to this diphosphate end, forming a 5'-5' triphosphate linkage, which is a crucial step in forming the mRNA cap structure (Ramanathan2016mRNA; Galloway2019mRNA).
+
+The mRNA cap is essential for mRNA stability, efficient splicing, nuclear export, and translation initiation, impacting overall gene expression and cellular function (Ramanathan2016mRNA). RNGTT is recruited to the transcription site by the phosphorylated C-terminal domain of RNA polymerase II, ensuring that capping occurs co-transcriptionally as the RNA emerges (Yue1997Mammalian; Bage2021A). This process is vital for the proper processing and function of mRNA in healthy human cells, influencing cell proliferation and other biological processes (del2023METTL3).
+
+## Clinical Significance
+Mutations and alterations in the expression of the RNGTT gene have been implicated in various diseases, particularly cancer. In gastric cancer, copy number variations (CNVs) in RNGTT are associated with poor prognosis, suggesting that changes in its expression levels may influence disease outcomes (Li2022Identification). In prostate cancer, CNAs involving RNGTT were identified, although no significant correlation was found between RNGTT expression and deletions at the MAP3K7 locus (Ross-Adams2015Integration). 
+
+In chronic lymphocytic leukemia (CLL), RNGTT is one of the differentially expressed genes in cases with TP53 mutations, which are linked to worse survival outcomes. This suggests that RNGTT may play a role in the transcriptional regulation affected by TP53 mutations (Chiaretti2011Evaluation). 
+
+The structural studies of RNA polymerase II complexes have highlighted the importance of RNGTT in mRNA capping, a process crucial for mRNA stability and translation. Dysregulation in this process due to RNGTT mutations or altered interactions could potentially contribute to diseases by affecting mRNA processing (Garg2024Structural). These findings underscore the clinical significance of RNGTT in various pathological conditions.
+
+## Interactions
+RNGTT, or RNA guanylyltransferase and 5'-phosphatase, is a key enzyme involved in the mRNA capping process, interacting with several proteins and nucleic acids to facilitate this function. It binds to the RNA polymerase II (Pol II) complex, specifically interacting with the carboxyl-terminal domain (CTD) of Pol II when it is phosphorylated at Serine-5. This interaction is crucial for recruiting RNGTT to the transcription site and activating its capping activity (Bage2021A; Bage2020Identification).
+
+RNGTT also interacts with the transcription factor DSIF, which enhances its binding to Pol II. This interaction positions RNGTT near the RNA exit tunnel, allowing it to efficiently catalyze the addition of a GMP moiety to the 5' end of the emerging pre-mRNA (Garg2024Structural; Li2024Structures). The enzyme's TPase domain is stabilized at the RNA exit tunnel, facilitating the removal of the 5' gamma-phosphate from nascent RNA, a critical step in the capping process (Garg2024Structural).
+
+In the cytoplasm, RNGTT is part of a complex with the adapter protein NCK1, which helps assemble the cytoplasmic capping complex. This interaction involves the proline-rich C-terminus of RNGTT binding to the SH3 domains of NCK1, highlighting its role in mRNA recapping (Trotman2018A; Schoenberg2021Cytoplasmic).
+
+
+## References
+
+
+[1. (Ramanathan2016mRNA) Anand Ramanathan, G. Brett Robb, and Siu-Hong Chan. Mrna capping: biological functions and applications. Nucleic Acids Research, 44(16):7511–7526, June 2016. URL: http://dx.doi.org/10.1093/nar/gkw551, doi:10.1093/nar/gkw551. This article has 570 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkw551)
+
+[2. (Li2022Identification) Xiaoxiao Li, Hao Dong, Ling Chen, Yujie Wang, Zhibin Hao, Yingyi Zhang, Yuan Jiao, Zhiyue Zhao, Xiaobo Peng, and Xianbao Zhan. Identification of n7-methylguanosine related subtypes and construction of prognostic model in gastric cancer. Frontiers in Immunology, October 2022. URL: http://dx.doi.org/10.3389/fimmu.2022.984149, doi:10.3389/fimmu.2022.984149. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2022.984149)
+
+[3. (Trotman2018A) Jackson B. Trotman and Daniel R. Schoenberg. A recap of rna recapping. WIREs RNA, September 2018. URL: http://dx.doi.org/10.1002/wrna.1504, doi:10.1002/wrna.1504. This article has 55 citations.](https://doi.org/10.1002/wrna.1504)
+
+[4. (Bage2021A) Marcus G Bage, Rajaei Almohammed, Victoria H Cowling, and Andrei V Pisliakov. A novel rna pol ii ctd interaction site on the mrna capping enzyme is essential for its allosteric activation. Nucleic Acids Research, 49(6):3109–3126, March 2021. URL: http://dx.doi.org/10.1093/nar/gkab130, doi:10.1093/nar/gkab130. This article has 3 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkab130)
+
+[5. (Galloway2019mRNA) Alison Galloway and Victoria H. Cowling. Mrna cap regulation in mammalian cell function and fate. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1862(3):270–279, March 2019. URL: http://dx.doi.org/10.1016/j.bbagrm.2018.09.011, doi:10.1016/j.bbagrm.2018.09.011. This article has 150 citations.](https://doi.org/10.1016/j.bbagrm.2018.09.011)
+
+[6. (Ross-Adams2015Integration) H. Ross-Adams, A.D. Lamb, M.J. Dunning, S. Halim, J. Lindberg, C.M. Massie, L.A. Egevad, R. Russell, A. Ramos-Montoya, S.L. Vowler, N.L. Sharma, J. Kay, H. Whitaker, J. Clark, R. Hurst, V.J. Gnanapragasam, N.C. Shah, A.Y. Warren, C.S. Cooper, A.G. Lynch, R. Stark, I.G. Mills, H. Grönberg, and D.E. Neal. Integration of copy number and transcriptomics provides risk stratification in prostate cancer: a discovery and validation cohort study. EBioMedicine, 2(9):1133–1144, September 2015. URL: http://dx.doi.org/10.1016/j.ebiom.2015.07.017, doi:10.1016/j.ebiom.2015.07.017. This article has 287 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ebiom.2015.07.017)
+
+[7. (Chiaretti2011Evaluation) Sabina Chiaretti, Simona Tavolaro, Marilisa Marinelli, Monica Messina, Ilaria Del Giudice, Francesca Romana Mauro, Simona Santangelo, Alfonso Piciocchi, Nadia Peragine, Sim Truong, Nancy Patten, Emanuela Maria Ghia, Isabella Torrente, Maria Stefania De Propris, Mauro Nanni, Jeff Lawrence, Anna Guarini, and Robin Foà. Evaluation of tp53 mutations with the amplichip p53 research test in chronic lymphocytic leukemia: correlation with clinical outcome and gene expression profiling. Genes, Chromosomes and Cancer, 50(4):263–274, January 2011. URL: http://dx.doi.org/10.1002/gcc.20852, doi:10.1002/gcc.20852. This article has 19 citations.](https://doi.org/10.1002/gcc.20852)
+
+8. (Garg2024Structural) Structural studies of RNA polymerase II complexes with human TFIIS and capping enzymes. This article has 0 citations.
+
+[9. (Li2024Structures) Yan Li, Qianmin Wang, Yanhui Xu, and Ze Li. Structures of co-transcriptional rna capping enzymes on paused transcription complex. Nature Communications, May 2024. URL: http://dx.doi.org/10.1038/s41467-024-48963-1, doi:10.1038/s41467-024-48963-1. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-48963-1)
+
+10. (del2023METTL3) METTL3 alters capping enzyme expression and its activity on ribosomal proteins. This article has 0 citations.
+
+[11. (Yue1997Mammalian) Zhenyu Yue, Edio Maldonado, Renuka Pillutla, Helen Cho, Danny Reinberg, and Aaron J. Shatkin. Mammalian capping enzyme complements mutant saccharomyces cerevisiae lacking mrna guanylyltransferase and selectively binds the elongating form of rna polymerase ii. Proceedings of the National Academy of Sciences, 94(24):12898–12903, November 1997. URL: http://dx.doi.org/10.1073/pnas.94.24.12898, doi:10.1073/pnas.94.24.12898. This article has 193 citations.](https://doi.org/10.1073/pnas.94.24.12898)
+
+[12. (Schoenberg2021Cytoplasmic) Daniel R. Schoenberg. Cytoplasmic mRNA Recapping: An Unexpected Form of RNA Repair, pages 109–130. Springer International Publishing, 2021. URL: http://dx.doi.org/10.1007/978-3-030-76571-2_6, doi:10.1007/978-3-030-76571-2_6. This article has 1 citations.](https://doi.org/10.1007/978-3-030-76571-2_6)
+
+[13. (Chu2011Structure) Chun Chu, Kalyan Das, James R. Tyminski, Joseph D. Bauman, Rongjin Guan, Weihua Qiu, Gaetano T. Montelione, Eddy Arnold, and Aaron J. Shatkin. Structure of the guanylyltransferase domain of human mrna capping enzyme. Proceedings of the National Academy of Sciences, 108(25):10104–10108, June 2011. URL: http://dx.doi.org/10.1073/pnas.1106610108, doi:10.1073/pnas.1106610108. This article has 42 citations.](https://doi.org/10.1073/pnas.1106610108)
+
+14. (Bage2020Identification) Identification of novel RNA Polymerase II CTD interaction sites on the mRNA Capping Enzyme. This article has 0 citations.

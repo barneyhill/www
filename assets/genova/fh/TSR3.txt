@@ -1,0 +1,42 @@
+# TSR3
+
+## Overview
+The TSR3 gene encodes the TSR3 ribosome maturation factor, a protein integral to the biogenesis of the 40S ribosomal subunit. This protein is categorized as an aminocarboxypropyl transferase, a type of enzyme involved in RNA modification. TSR3 is essential for the hypermodification of 18S ribosomal RNA (rRNA), specifically catalyzing the final step in the biosynthesis of the hypermodified nucleotide m1acp3, which is crucial for the maturation of the small ribosomal subunit (Meyer2016Ribosome). The protein's structure is characterized by a deep trefoil knot, a distinctive feature of its tertiary structure, and it functions as a monomer (Meyer2016Ribosome). TSR3's activity is localized in the nucleolus, where it plays a pivotal role in the hierarchical binding of Rio kinases, ensuring the correct sequence of events during ribosome assembly (Huang2022The; Burroughs2014Analysis). Despite its critical role, deletion of TSR3 does not result in significant growth defects, suggesting compensatory mechanisms may exist in healthy cells (Huang2022The). TSR3's dysfunction has been implicated in ribosome-related diseases, including cancer, due to its role in maintaining ribosomal RNA modifications essential for proper ribosome function (Babaian2019Loss).
+
+## Structure
+The TSR3 protein is involved in ribosome biogenesis and is characterized by a structure similar to SPOUT-class RNA methyltransferases. It is monomeric and does not contain an RLI domain, contrary to some predictions (Meyer2016Ribosome). The protein's structure includes an N-terminal domain with a mixed α/β-structure and a C-terminal domain with an all α-helical structure. These domains are connected in a unique manner, forming a deep trefoil knot, which is a distinctive feature of its tertiary structure (Meyer2016Ribosome).
+
+The SAM-binding site of TSR3 is located in a deep crevice between its N- and C-terminal domains, typical for SPOUT-class RNA methyltransferases. This site is crucial for its function as an aminocarboxypropyl transferase, responsible for the acp modification of 18S rRNA (Meyer2016Ribosome). The protein's structure is highly conserved between yeast and humans, with a 50% identity, indicating its evolutionary importance (Meyer2016Ribosome).
+
+TSR3 does not have a quaternary structure as it functions as a monomer. The protein's interaction with other ribosomal components, such as the carboxy-terminal tail of Rps15, is essential for its recruitment to pre-ribosomes (Huang2022The).
+
+## Function
+The TSR3 gene encodes a ribosome maturation factor that plays a critical role in the maturation of 18S ribosomal RNA (rRNA) in both yeast and human cells. TSR3 functions as an aminocarboxypropyl transferase, responsible for the hypermodification of 18S rRNA by catalyzing the final step in the biosynthesis of the hypermodified nucleotide m1acp3. This modification is crucial for the proper processing and maturation of the small ribosomal subunit, which is essential for efficient protein synthesis (Meyer2016Ribosome).
+
+In the context of ribosome assembly, TSR3 is involved in the hierarchical binding of Rio kinases, specifically regulating the timing of Rio1 binding to the 40S ribosomal subunit. This regulation ensures the correct sequence of events during ribosome assembly, preventing premature binding of Rio1 and ensuring the release of mature ribosomes into the translating pool (Huang2022The). TSR3's activity is localized in the nucleolus, where ribosome assembly occurs, highlighting its importance in cellular growth and protein synthesis (Burroughs2014Analysis). Despite its critical role in ribosome maturation, deletion of TSR3 does not result in significant growth defects, suggesting potential compensatory mechanisms in healthy cells (Huang2022The).
+
+## Clinical Significance
+Mutations or alterations in the TSR3 gene, which encodes a ribosome maturation factor, have been implicated in various clinical conditions, particularly those related to ribosome dysfunction. The loss of the m1acp3Ψ ribosomal RNA modification, for which TSR3 is responsible, is a significant feature in cancer. This modification is crucial for the stability of the ribosomal P-site, and its absence can lead to deregulated translation and the formation of 'onco-ribosomes,' which are associated with cancer development, including colorectal cancer (Babaian2019Loss). 
+
+In the context of ribosome assembly, TSR3 plays a critical role in the proper sequence of events involving Rio kinases. Disruption in TSR3 function can lead to premature or improper binding of these kinases, resulting in the release of immature ribosomes into the translating pool. This disruption can have significant cellular consequences, potentially contributing to diseases related to ribosome dysfunction (Huang2022The). 
+
+While specific diseases directly caused by TSR3 mutations are not detailed, the gene's role in ribosome biogenesis suggests that its dysfunction could be linked to developmental abnormalities or cancer predisposition (Meyer2016Ribosome).
+
+## Interactions
+TSR3 is a ribosome maturation factor that plays a crucial role in the biogenesis of the 40S ribosomal subunit. It interacts with pre-rRNA and is responsible for the aminocarboxypropyl (acp) modification of 18S rRNA, which is essential for proper ribosome function (Meyer2016Ribosome). TSR3's activity is critical for the release of Rio2 kinase from nascent 40S subunits, preventing its reassociation and ensuring the correct order of kinase activity during ribosome assembly (Huang2022The). 
+
+TSR3 binds to the same site as Rio2 and Rio1 on the ribosome, functioning after Rio2 is released but before Rio1 binds, thus coordinating the sequential binding of these kinases (Huang2022The). This interaction is crucial for preventing premature translation initiation by immature ribosomal subunits (Huang2022The). TSR3's modification activity is necessary for its release from pre-40S intermediates, which is required for Rio1 binding (Huang2022The). 
+
+Mutations in TSR3, such as Tsr3_W114A, impair its rRNA modification activity and lead to the accumulation of 80S-like ribosomes, highlighting its role in ribosome maturation (Huang2022The). TSR3 also interacts with the carboxy-terminal tail of the Rps15 protein, which is crucial for its recruitment to pre-ribosomes (Huang2022The).
+
+
+## References
+
+
+[1. (Huang2022The) Haina Huang, Melissa Parker, and Katrin Karbstein. The modifying enzyme tsr3 establishes the hierarchy of rio kinase binding in 40s ribosome assembly. RNA, 28(4):568–582, January 2022. URL: http://dx.doi.org/10.1261/rna.078994.121, doi:10.1261/rna.078994.121. This article has 7 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.078994.121)
+
+2. (Babaian2019Loss) Loss of m1acp3Ψ ribosomal RNA modification is a major feature of cancer. This article has 0 citations.
+
+[3. (Meyer2016Ribosome) Britta Meyer, Jan Philip Wurm, Sunny Sharma, Carina Immer, Denys Pogoryelov, Peter Kötter, Denis L. J. Lafontaine, Jens Wöhnert, and Karl-Dieter Entian. Ribosome biogenesis factor tsr3 is the aminocarboxypropyl transferase responsible for 18s rrna hypermodification in yeast and humans. Nucleic Acids Research, 44(9):4304–4316, April 2016. URL: http://dx.doi.org/10.1093/nar/gkw244, doi:10.1093/nar/gkw244. This article has 71 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkw244)
+
+[4. (Burroughs2014Analysis) A. Maxwell Burroughs and L. Aravind. Analysis of two domains with novel rna-processing activities throws light on the complex evolution of ribosomal rna biogenesis. Frontiers in Genetics, December 2014. URL: http://dx.doi.org/10.3389/fgene.2014.00424, doi:10.3389/fgene.2014.00424. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2014.00424)

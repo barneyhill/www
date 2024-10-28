@@ -1,0 +1,48 @@
+# SHLD3
+
+## Overview
+SHLD3 is a gene that encodes the protein shieldin complex subunit 3, a crucial component of the Shieldin complex involved in DNA repair processes. The SHLD3 protein is characterized by its role in the non-homologous end joining (NHEJ) pathway, where it contributes to the repair of DNA double-strand breaks (DSBs) by protecting DNA ends from excessive resection, thereby favoring NHEJ over homologous recombination (HR) (Setiaputra2019Shieldin). Structurally, SHLD3 contains an EIF4E-like domain and a DNA binding domain, facilitating interactions with other proteins such as REV7 and RIF1, which are essential for its recruitment to sites of DNA damage (Susvirkar2022Molecular; Sifri2023An). The protein's interactions and functions are critical for maintaining genomic stability and are implicated in processes such as class switch recombination in B cells (Sifri2023An). Alterations in SHLD3 expression or function can have significant clinical implications, particularly in the context of cancer, where it influences sensitivity to DNA-damaging agents and poly(ADP-ribose) polymerase inhibitors (PARPi) (Jachimowicz2019DNA; Setiaputra2019Shieldin).
+
+## Structure
+The SHLD3 protein is a 250-amino-acid polypeptide that plays a crucial role in DNA repair as part of the Shieldin complex. It contains an EIF4E-like domain at its C-terminus, which is structurally homologous to the translation elongation factor eIF4E, forming a globular domain essential for interactions with other proteins such as RIF1 (Susvirkar2022Molecular; Sifri2023An). The C-terminal region of SHLD3, spanning residues 140-250, is highly conserved and functions as a DNA binding domain, capable of binding both single-stranded and double-stranded DNA (Susvirkar2023Shieldin; Susvirkar2022Molecular).
+
+The N-terminal region of SHLD3 contains two presumptive REV7-binding motifs (RBM), with the second RBM (residues 29-83) being crucial for binding to the checkpoint protein REV7. This interaction is characterized by a ladle-shaped structure formed by SHLD3 upon binding, with the N-terminal loop and αC-helix forming the 'stem' and 'base' of the ladle, respectively (Dai2020Structural). The interaction with REV7 is stabilized by hydrophobic and van der Waals interactions involving specific residues in both proteins (Dai2020Structural).
+
+SHLD3 can exist in different isoforms due to alternative splicing, and it may undergo post-translational modifications such as phosphorylation, which could influence its function in DNA damage response.
+
+## Function
+SHLD3 is a critical component of the Shieldin complex, which plays a significant role in DNA repair, particularly through the non-homologous end joining (NHEJ) pathway. This complex is essential for maintaining genomic stability by protecting DNA ends from excessive resection, thereby promoting NHEJ over homologous recombination (HR) in the repair of DNA double-strand breaks (DSBs) (Setiaputra2019Shieldin). SHLD3 interacts with other components of the Shieldin complex, including SHLD1, SHLD2, and REV7, to facilitate the recruitment of the complex to sites of DNA damage (Susvirkar2023Shieldin).
+
+SHLD3 is recruited to DSBs in a 53BP1-RIF1-dependent manner, where it binds to single-stranded DNA (ssDNA) to prevent resection and commit the repair to NHEJ (Susvirkar2023Shieldin). The interaction between SHLD3 and RIF1 is crucial for the recruitment of the Shieldin complex to DNA damage sites, which is vital for the proper localization of other Shieldin subunits (Sifri2023An). This interaction is facilitated by a charged interface, and mutations in SHLD3 that disrupt this interaction can impair DNA repair processes (Sifri2023An).
+
+In healthy human cells, SHLD3's function is critical for processes such as class switch recombination (CSR) in B cells, which is essential for antibody diversification (Sifri2023An). By mediating the choice between NHEJ and HR, SHLD3 helps maintain genomic integrity and cellular response to DNA damage (Setiaputra2019Shieldin).
+
+## Clinical Significance
+Mutations or altered expression of the SHLD3 gene, a component of the Shieldin complex, have significant clinical implications, particularly in the context of cancer. SHLD3 is crucial for DNA double-strand break repair through non-homologous end joining (NHEJ), and its dysfunction can lead to genomic instability. In BRCA1-deficient cancers, such as certain breast and ovarian cancers, SHLD3 plays a role in modulating sensitivity to poly(ADP-ribose) polymerase inhibitors (PARPi). Loss of SHLD3 can lead to increased DNA resection and restoration of homologous recombination (HR), resulting in resistance to PARPi treatment (Jachimowicz2019DNA; Setiaputra2019Shieldin).
+
+The Shieldin complex, including SHLD3, is also implicated in the pathological role of the 53BP1 pathway in BRCA1-deficient cells, where it promotes NHEJ and contributes to chromosomal instability. This can exacerbate DNA repair defects and increase sensitivity to DNA-damaging agents (King2023Shieldin). Additionally, SHLD3's interaction with REV7 and its role in the 53BP1-RIF1-REV7 axis are critical for its function in DNA repair, and disruptions in these interactions can impact cancer treatment outcomes (Dai2020Structural; Setiaputra2019Shieldin).
+
+## Interactions
+SHLD3 is a component of the shieldin complex, which plays a critical role in DNA repair processes, particularly in non-homologous end joining (NHEJ). SHLD3 interacts with several proteins, including REV7, SHLD2, and SHLD1, forming a multiprotein complex that is essential for its function. The interaction between SHLD3 and REV7 is particularly significant, as SHLD3 mediates the formation of a conformational dimer of REV7, which is crucial for recruiting SHLD2 and other proteins like REV3 (Liang2020Molecular). SHLD3 contains a REV7-binding motif (RBM) that is necessary for this interaction, and it acts as a bridge linking the C-REV7 and O-REV7 conformations (Liang2020Molecular; Setiaputra2019Shieldin).
+
+SHLD3 also has a DNA binding domain at its C-terminus, which allows it to bind both single-stranded and double-stranded DNA, facilitating the recruitment of the shieldin complex to DNA double-strand breaks (Susvirkar2023Shieldin; Susvirkar2022Molecular). The interaction between SHLD3 and REV7 is a rate-limiting step in the assembly of the shieldin complex, with the 'closed' conformation of REV7 being necessary for binding to SHLD3 (Susvirkar2023Shieldin). SHLD3's interactions are crucial for the stability and function of the shieldin complex in DNA repair.
+
+
+## References
+
+
+[1. (Dai2020Structural) Yaxin Dai, Fan Zhang, Longge Wang, Shan Shan, Zihua Gong, and Zheng Zhou. Structural basis for shieldin complex subunit 3–mediated recruitment of the checkpoint protein rev7 during dna double-strand break repair. Journal of Biological Chemistry, 295(1):250–262, January 2020. URL: http://dx.doi.org/10.1074/jbc.ra119.011464, doi:10.1074/jbc.ra119.011464. This article has 25 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra119.011464)
+
+[2. (Jachimowicz2019DNA) Ron D. Jachimowicz, Jonas Goergens, and H. Christian Reinhardt. Dna double-strand break repair pathway choice - from basic biology to clinical exploitation. Cell Cycle, 18(13):1423–1434, May 2019. URL: http://dx.doi.org/10.1080/15384101.2019.1618542, doi:10.1080/15384101.2019.1618542. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/15384101.2019.1618542)
+
+3. (King2023Shieldin) Shieldin and CST co-orchestrate DNA polymerase-dependent tailed-end joining reactions independently of 53BP1-governed repair pathway choice. This article has 1 citations.
+
+4. (Susvirkar2022Molecular) Molecular insights into human Shieldin complex assembly and recruitment to DSBs. This article has 3 citations.
+
+[5. (Liang2020Molecular) Ling Liang, Jiawen Feng, Peng Zuo, Juan Yang, Yishuo Lu, and Yuxin Yin. Molecular basis for assembly of the shieldin complex and its implications for nhej. Nature Communications, April 2020. URL: http://dx.doi.org/10.1038/s41467-020-15879-5, doi:10.1038/s41467-020-15879-5. This article has 38 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-020-15879-5)
+
+[6. (Setiaputra2019Shieldin) Dheva Setiaputra and Daniel Durocher. Shieldin – the protector of <scp>dna</scp> ends. EMBO reports, April 2019. URL: http://dx.doi.org/10.15252/embr.201847560, doi:10.15252/embr.201847560. This article has 177 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.15252/embr.201847560)
+
+[7. (Susvirkar2023Shieldin) Vivek Susvirkar and Alex C. Faesen. Shieldin complex assembly kinetics and dna binding by shld3. Communications Biology, April 2023. URL: http://dx.doi.org/10.1038/s42003-023-04757-7, doi:10.1038/s42003-023-04757-7. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-023-04757-7)
+
+8. (Sifri2023An) An AlphaFold2 map of the 53BP1 pathway identifies a direct SHLD3-RIF1 interaction critical for DNA repair activity. This article has 2 citations.

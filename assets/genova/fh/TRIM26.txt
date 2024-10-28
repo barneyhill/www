@@ -1,0 +1,48 @@
+# TRIM26
+
+## Overview
+TRIM26 is a gene that encodes the protein tripartite motif containing 26, which is a member of the tripartite motif (TRIM) family. This family is characterized by the presence of a RING finger domain, B-box domains, and a coiled-coil region, which collectively contribute to the protein's function as an E3 ubiquitin ligase. The TRIM26 protein plays a significant role in various cellular processes, including protein ubiquitination, which is crucial for regulating protein stability and degradation. It is involved in maintaining cellular homeostasis, modulating immune responses, and influencing inflammatory pathways. TRIM26 has been implicated in several pathological conditions, including cancer, where its expression levels can affect tumor progression and patient prognosis (Wang2015TRIM26; Konis2022TRIM26; Zhao2021TRIM26).
+
+## Structure
+TRIM26 is a member of the tripartite motif (TRIM) family, characterized by a specific set of domains that contribute to its function as an E3 ubiquitin ligase. The protein structure of TRIM26 includes a RING finger domain, which is crucial for its ubiquitin ligase activity. This domain is typically involved in mediating protein-protein interactions and facilitating the transfer of ubiquitin to substrate proteins. In addition to the RING finger domain, TRIM26 contains one or two B-box domains. These domains are often involved in protein-protein interactions and may play a role in the stabilization of the protein structure. The coiled-coil region of TRIM26 is another significant structural feature, contributing to the formation of higher-order oligomeric structures, which are important for its functional activity.
+
+TRIM proteins, including TRIM26, frequently undergo post-translational modifications such as ubiquitination and phosphorylation. These modifications can influence the protein's function, stability, and interactions with other cellular components. The specific arrangement and combination of these domains and modifications enable TRIM26 to participate in various cellular processes, particularly those involving protein degradation and signal transduction. The structural features of TRIM26 are integral to its role in cellular homeostasis and response to environmental cues.
+
+## Function
+TRIM26 is an E3 ubiquitin ligase involved in various cellular processes, primarily through its role in protein ubiquitination, which regulates protein stability and degradation. In healthy human cells, TRIM26 plays a crucial role in maintaining cell survival under oxidative stress by regulating the stability of DNA glycosylases, such as NEIL1 and NTH1, which are essential for the base excision repair (BER) pathway. This pathway is vital for repairing oxidative DNA base lesions and maintaining genome integrity (Konis2022TRIM26).
+
+TRIM26 also functions as a negative regulator of the immune response to viral infections. It achieves this by promoting the polyubiquitination and degradation of the transcription factor IRF3 in the nucleus, thereby attenuating interferon-β (IFN-β) production and the antiviral response. This regulation is crucial for preventing excessive IFN-β production, which can lead to autoimmune diseases (Wang2015TRIM26).
+
+Additionally, TRIM26 is involved in the inflammatory immune response by promoting K11-linked polyubiquitination of TAB1, which is essential for the activation of TAK1 and subsequent NF-κB and MAPK signaling pathways. This activity enhances the production of proinflammatory cytokines, playing a significant role in the body's response to inflammation (Zhao2021TRIM26).
+
+## Clinical Significance
+Alterations in the expression of the TRIM26 gene have been implicated in various cancers. In clear cell renal cell carcinoma (ccRCC), TRIM26 is downregulated, which correlates with poor overall and disease-free survival. The gene acts as a tumor suppressor by inhibiting cell proliferation, migration, invasion, and epithelial-mesenchymal transition (EMT) through the destabilization of ETK, leading to the inactivation of the AKT/mTOR signaling pathway. This suggests that TRIM26 could serve as a predictive biomarker and a potential therapeutic target in ccRCC (Zheng2024TRIM26).
+
+In bladder cancer, TRIM26 is upregulated and promotes cancer progression by enhancing cell proliferation, migration, and invasion via the Akt/GSK3β/β-catenin signaling pathway. Knockdown of TRIM26 in bladder cancer cells results in decreased activity of this pathway, suggesting its oncogenic role in this context (Xie2021Knockdown).
+
+In glioma, TRIM26 interacts with GPX4 to suppress ferroptosis, a form of cell death, by catalyzing K63-linked ubiquitination of GPX4. This interaction is crucial for maintaining GPX4 stability, and high expression levels of TRIM26 are associated with poor survival outcomes in glioma patients, indicating its pro-oncogenic role (Wang2023The).
+
+## Interactions
+TRIM26 is an E3 ubiquitin ligase that participates in various protein interactions, influencing multiple cellular pathways. It interacts with TAB1, promoting its K11-linked polyubiquitination, which is crucial for the activation of TAK1 and subsequent NF-κB and MAPK signaling pathways. This interaction is specific, as TRIM26 does not affect the polyubiquitination of other molecules in the TLR signaling pathway, such as TAK1 or TAB2 (Zhao2021TRIM26).
+
+TRIM26 also interacts with IRF3, a transcription factor involved in the antiviral response. It promotes the K48-linked polyubiquitination and degradation of nuclear IRF3, thereby negatively regulating interferon-β production and the antiviral response. This interaction is dependent on the RING-finger domain of TRIM26, which is essential for its E3 ligase activity (Wang2015TRIM26).
+
+In glioblastoma stem cells, TRIM26 interacts with the pluripotency transcription factor SOX2, stabilizing it by preventing its polyubiquitination and proteasomal degradation. This occurs through competitive binding with another E3 ligase, WWP2, highlighting TRIM26's role in maintaining SOX2 protein stability (Mahlokozera2021Competitive).
+
+
+## References
+
+
+[1. (Konis2022TRIM26) Sifaddin M. R. Konis, Jonathan R. Hughes, and Jason L. Parsons. Trim26 maintains cell survival in response to oxidative stress through regulating dna glycosylase stability. International Journal of Molecular Sciences, 23(19):11613, October 2022. URL: http://dx.doi.org/10.3390/ijms231911613, doi:10.3390/ijms231911613. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms231911613)
+
+[2. (Mahlokozera2021Competitive) Tatenda Mahlokozera, Bhuvic Patel, Hao Chen, Patrick Desouza, Xuan Qu, Diane D. Mao, Daniel Hafez, Wei Yang, Rukayat Taiwo, Mounica Paturu, Afshin Salehi, Amit D. Gujar, Gavin P. Dunn, Nima Mosammaparast, Allegra A. Petti, Hiroko Yano, and Albert H. Kim. Competitive binding of e3 ligases trim26 and wwp2 controls sox2 in glioblastoma. Nature Communications, November 2021. URL: http://dx.doi.org/10.1038/s41467-021-26653-6, doi:10.1038/s41467-021-26653-6. This article has 24 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-26653-6)
+
+[3. (Zheng2024TRIM26) Di Zheng, Jinzhuo Ning, Hao Deng, Yuan Ruan, and Fan Cheng. Trim26 inhibits clear cell renal cell carcinoma progression through destabilizing etk and thus inactivation of akt/mtor signaling. Journal of Translational Medicine, May 2024. URL: http://dx.doi.org/10.1186/s12967-024-05273-w, doi:10.1186/s12967-024-05273-w. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-024-05273-w)
+
+[4. (Zhao2021TRIM26) Jian Zhao, Baoshan Cai, Zhugui Shao, Lei Zhang, Yi Zheng, Chunhong Ma, Fan Yi, Bingyu Liu, and Chengjiang Gao. Trim26 positively regulates the inflammatory immune response through k11-linked ubiquitination of tab1. Cell Death &amp; Differentiation, 28(11):3077–3091, May 2021. URL: http://dx.doi.org/10.1038/s41418-021-00803-1, doi:10.1038/s41418-021-00803-1. This article has 39 citations.](https://doi.org/10.1038/s41418-021-00803-1)
+
+[5. (Xie2021Knockdown) XiaoJuan Xie, HuiJin Li, JingJing Pan, and Xi Han. Knockdown of trim26 inhibits the proliferation, migration and invasion of bladder cancer cells through the akt/gsk3β/β-catenin pathway. Chemico-Biological Interactions, 337:109366, March 2021. URL: http://dx.doi.org/10.1016/j.cbi.2021.109366, doi:10.1016/j.cbi.2021.109366. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cbi.2021.109366)
+
+[6. (Wang2023The) Zhangjie Wang, Yuan Xia, Yang Wang, Ruiqiu Zhu, Hongbo Li, Yu Liu, and Na Shen. The e3 ligase trim26 suppresses ferroptosis through catalyzing k63-linked ubiquitination of gpx4 in glioma. Cell Death &amp; Disease, October 2023. URL: http://dx.doi.org/10.1038/s41419-023-06222-z, doi:10.1038/s41419-023-06222-z. This article has 16 citations.](https://doi.org/10.1038/s41419-023-06222-z)
+
+[7. (Wang2015TRIM26) Peng Wang, Wei Zhao, Kai Zhao, Lei Zhang, and Chengjiang Gao. Trim26 negatively regulates interferon-β production and antiviral response through polyubiquitination and degradation of nuclear irf3. PLOS Pathogens, 11(3):e1004726, March 2015. URL: http://dx.doi.org/10.1371/journal.ppat.1004726, doi:10.1371/journal.ppat.1004726. This article has 149 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.ppat.1004726)

@@ -1,0 +1,60 @@
+# USP24
+
+## Overview
+USP24 (ubiquitin specific peptidase 24) is a gene that encodes a deubiquitinating enzyme, which plays a pivotal role in cellular homeostasis by regulating protein degradation. The enzyme, ubiquitin specific peptidase 24, is categorized as a deubiquitinating enzyme and is involved in the removal of ubiquitin from target proteins, thereby preventing their degradation and influencing various cellular processes. It is composed of 2620 amino acids and features a ubiquitin-associated domain and a ubiquitin C-terminal hydrolase domain, which is crucial for its catalytic activity (Wang2021USP24). USP24 is implicated in several biological functions, including the stabilization of proteins essential for mitosis, regulation of autophagy, and modulation of immune responses. Its interactions with proteins such as CRMP2, DDB2, and p53 underscore its significance in maintaining genomic stability and responding to DNA damage (Zhang2015The; Zhang2012The; Bedekovics2021USP24). Additionally, USP24's role in disease contexts, such as Parkinson's disease and various cancers, highlights its potential as a therapeutic target (Wang2018USP24; Thayer2019The).
+
+## Structure
+USP24 is a deubiquitinating enzyme that plays a role in stabilizing proteins by removing ubiquitin, thus preventing their degradation. The protein is composed of 2620 amino acids and includes a ubiquitin-associated domain (UBA) and a ubiquitin C-terminal hydrolase domain, which serves as its catalytic domain (Wang2021USP24). The catalytic domain of USP24 has been modeled based on the structure of USP7, a homologous protein, to explore its interactions with other proteins, such as the second bromodomain of BRD2 (Wang2020USP24). 
+
+The structural model of USP24's catalytic domain was created using homology modeling techniques, employing the SWISS-MODEL server and the ZDOCK server to visualize interactions with BRD2 (Wang2020USP24). Specific lysine residues, Lys391 and Lys400, in the bromodomain are targeted by USP24 for deubiquitination (Wang2020USP24). 
+
+Post-translational modifications of USP24 include phosphorylation at residues Ser1616, Ser2047, and Ser2604, which are crucial for its regulation during mitosis and tumorigenesis (Wang2016EGFmediated). These modifications are regulated by CDK1/cyclin B and potentially Erk1/2 (Wang2016EGFmediated).
+
+## Function
+USP24 (ubiquitin specific peptidase 24) is a deubiquitinating enzyme that plays a crucial role in maintaining cellular homeostasis by regulating protein degradation. In healthy human cells, USP24 is involved in several key molecular processes. It stabilizes CRMP2, a protein essential for spindle microtubule assembly during mitosis, thereby ensuring accurate chromosome segregation and preventing aneuploidy (Bedekovics2021USP24). USP24's role in stabilizing CRMP2 is critical for maintaining the structural integrity of the mitotic spindle, which is vital for normal cell division and genomic stability (Bedekovics2021USP24).
+
+USP24 also acts as a negative regulator of autophagy, a process important for cellular turnover and protection against diseases. It modulates autophagy by regulating the stability of the ULK1 protein, a key initiator of autophagy, through the class III PtdIns3K pathway. Knockdown of USP24 leads to increased ULK1 levels and enhanced autophagy flux, indicating its role in maintaining a balance in autophagy processes (Thayer2019The). This regulation is particularly significant in dopaminergic neurons, which are affected in neurodegenerative conditions like Parkinson's disease (Thayer2019The).
+
+## Clinical Significance
+Alterations in the expression and function of the USP24 gene have been implicated in several diseases, notably Parkinson's disease (PD) and various cancers. In the context of PD, USP24 is identified as a negative regulator of autophagy, a process crucial for cellular maintenance and survival. Elevated levels of USP24 have been observed in the substantia nigra of some idiopathic PD patients, suggesting that increased USP24 expression may contribute to the disease by negatively regulating autophagy and affecting neuronal health (Thayer2019The).
+
+In cancer, USP24 plays a significant role in promoting malignancy and drug resistance. It is highly expressed in tumor-associated macrophages and cancer cells, where it stabilizes proteins such as p300 and β-TrCP, leading to increased expression of pro-inflammatory cytokines like IL-6, which are associated with cancer progression and metastasis (Wang2018USP24). USP24 also contributes to drug resistance by stabilizing ABC transporters, which pump chemotherapy drugs out of cancer cells, thereby reducing their efficacy (Wang2021USP24).
+
+In hepatocellular carcinoma (HCC), USP24 is significantly downregulated, and its low expression correlates with poor prognosis. USP24 is involved in regulating autophagy-dependent ferroptosis, a type of cell death, by decreasing Beclin1 ubiquitination, suggesting its potential as a therapeutic target in HCC (Cao2024USP24).
+
+## Interactions
+USP24, a deubiquitinating enzyme, interacts with several proteins, influencing various cellular processes. It interacts with DDB2, a DNA damage-binding protein, regulating its stability by removing ubiquitin, which is crucial for DNA repair processes (Zhang2012The). USP24 also interacts with the tumor suppressor protein p53, stabilizing it by deubiquitination, which is essential for the DNA damage response and tumor suppression (Zhang2015The).
+
+In the context of viral infection, USP24 interacts with the human cytomegalovirus (HCMV) protein pUL38. This interaction is vital for preventing premature cell death during HCMV infection by regulating iron metabolism and ferritinophagy, a process involving the degradation of ferritin in lysosomes (Sun2018Human).
+
+USP24 is also involved in the innate immune response by interacting with ISG15, a ubiquitin-like protein. It acts as an ISG15 cross-reactive deubiquitinase, modulating the ISGylation status of the RNA helicase MOV10, which is crucial for regulating IFN-β secretion (Mukhopadhyay2024USP24).
+
+In cancer, particularly neuroblastoma, USP24 stabilizes CRMP2, a protein important for spindle integrity and accurate mitosis, highlighting its role as a tumor suppressor (Bedekovics2021USP24). Additionally, in bladder cancer, USP24 interacts with GSDMB, stabilizing it and promoting the phosphorylation of STAT3, which enhances glycolysis and cancer cell proliferation (He2021USP24GSDMB).
+
+
+## References
+
+
+[1. (Zhang2015The) Ling Zhang, Leah Nemzow, Hua Chen, Abigail Lubin, Xi Rong, Zhongyi Sun, Thomas K. Harris, and Feng Gong. The deubiquitinating enzyme usp24 is a regulator of the uv damage response. Cell Reports, 10(2):140–147, January 2015. URL: http://dx.doi.org/10.1016/j.celrep.2014.12.024, doi:10.1016/j.celrep.2014.12.024. This article has 46 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2014.12.024)
+
+2. (Mukhopadhyay2024USP24) USP24 is an ISG15 cross-reactive deubiquitinase that mediates IFN-I production by de-ISGylating the RNA helicase MOV10. This article has 0 citations.
+
+[3. (Wang2016EGFmediated) S-A Wang, Y-C Wang, Y-P Chuang, Y-H Huang, W-C Su, W-C Chang, and J-J Hung. Egf-mediated inhibition of ubiquitin-specific peptidase 24 expression has a crucial role in tumorigenesis. Oncogene, 36(21):2930–2945, December 2016. URL: http://dx.doi.org/10.1038/onc.2016.445, doi:10.1038/onc.2016.445. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2016.445)
+
+[4. (Bedekovics2021USP24) Tibor Bedekovics, Sajjad Hussain, Ying Zhang, Asma Ali, Young J. Jeon, and Paul J. Galardy. Usp24 is a cancer-associated ubiquitin hydrolase, novel tumor suppressor, and chromosome instability gene deleted in neuroblastoma. Cancer Research, 81(5):1321–1331, March 2021. URL: http://dx.doi.org/10.1158/0008-5472.can-20-1777, doi:10.1158/0008-5472.can-20-1777. This article has 12 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-20-1777)
+
+[5. (Wang2020USP24) Shao-An Wang, Ming-Jer Young, Wen-Yih Jeng, Chia-Yu Liu, and Jan-Jong Hung. Usp24 stabilizes bromodomain containing proteins to promote lung cancer malignancy. Scientific Reports, November 2020. URL: http://dx.doi.org/10.1038/s41598-020-78000-2, doi:10.1038/s41598-020-78000-2. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-020-78000-2)
+
+[6. (Wang2021USP24) Shao-An Wang, Ming-Jer Young, Yi-Chang Wang, Shu-Hui Chen, Chia-Yu Liu, Yao-An Lo, Hung-Hsiang Jen, Kai-Cheng Hsu, and Jan-Jong Hung. Usp24 promotes drug resistance during cancer therapy. Cell Death &amp; Differentiation, 28(9):2690–2707, April 2021. URL: http://dx.doi.org/10.1038/s41418-021-00778-z, doi:10.1038/s41418-021-00778-z. This article has 13 citations.](https://doi.org/10.1038/s41418-021-00778-z)
+
+[7. (Zhang2012The) Ling Zhang, Abigail Lubin, Hua Chen, Zhongyi Sun, and Feng Gong. The deubiquitinating protein usp24 interacts with ddb2 and regulates ddb2 stability. Cell Cycle, 11(23):4378–4384, December 2012. URL: http://dx.doi.org/10.4161/cc.22688, doi:10.4161/cc.22688. This article has 43 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/cc.22688)
+
+[8. (Sun2018Human) Yamei Sun, Qunchao Bao, Baoqin Xuan, Wenjia Xu, Deng Pan, Qi Li, and Zhikang Qian. Human cytomegalovirus protein pul38 prevents premature cell death by binding to ubiquitin-specific protease 24 and regulating iron metabolism. Journal of Virology, July 2018. URL: http://dx.doi.org/10.1128/jvi.00191-18, doi:10.1128/jvi.00191-18. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/jvi.00191-18)
+
+[9. (Wang2018USP24) Yi-Chang Wang, Yu-Syuan Wu, Chia-Yang Hung, Shao-An Wang, Ming-Jer Young, Tsung-I Hsu, and Jan-Jong Hung. Usp24 induces il-6 in tumor-associated microenvironment by stabilizing p300 and β-trcp and promotes cancer malignancy. Nature Communications, September 2018. URL: http://dx.doi.org/10.1038/s41467-018-06178-1, doi:10.1038/s41467-018-06178-1. This article has 69 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-06178-1)
+
+[10. (Thayer2019The) Julia A. Thayer, Ola Awad, Nivedita Hegdekar, Chinmoy Sarkar, Henok Tesfay, Cameran Burt, Xianmin Zeng, Ricardo A. Feldman, and Marta M. Lipinski. The park10 gene usp24 is a negative regulator of autophagy and ulk1 protein stability. Autophagy, 16(1):140–153, April 2019. URL: http://dx.doi.org/10.1080/15548627.2019.1598754, doi:10.1080/15548627.2019.1598754. This article has 32 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2019.1598754)
+
+[11. (He2021USP24GSDMB) Haiqing He, Lu Yi, Bin Zhang, Bin Yan, Ming Xiao, Jiannan Ren, Dong Zi, Liang Zhu, Zhaohui Zhong, Xiaokun Zhao, Xin Jin, and Wei Xiong. Usp24-gsdmb complex promotes bladder cancer proliferation via activation of the stat3 pathway. International Journal of Biological Sciences, 17(10):2417–2429, 2021. URL: http://dx.doi.org/10.7150/ijbs.54442, doi:10.7150/ijbs.54442. This article has 69 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/ijbs.54442)
+
+[12. (Cao2024USP24) Jiahui Cao, Shitao Wu, Senfeng Zhao, Libo Wang, Yahui Wu, Liming Song, Chenguang Sun, Yin Liu, Zhipu Liu, Rongtao Zhu, Ruopeng Liang, Weijie Wang, and Yuling Sun. Usp24 promotes autophagy-dependent ferroptosis in hepatocellular carcinoma by reducing the k48-linked ubiquitination of beclin1. Communications Biology, October 2024. URL: http://dx.doi.org/10.1038/s42003-024-06999-5, doi:10.1038/s42003-024-06999-5. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-024-06999-5)

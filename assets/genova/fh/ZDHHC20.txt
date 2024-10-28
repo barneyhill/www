@@ -1,0 +1,54 @@
+# ZDHHC20
+
+## Overview
+ZDHHC20 is a gene that encodes the protein zinc finger DHHC-type palmitoyltransferase 20, which is a member of the DHHC family of palmitoyltransferases. This enzyme is characterized by its zinc finger Asp-His-His-Cys (DHHC) motif, which is essential for its enzymatic activity in catalyzing the post-translational modification of proteins through S-acylation, specifically palmitoylation (Zmuda2020Regulatory; Liao2024The). The protein typically contains four transmembrane domains that form a structure facilitating the binding of acyl chains, crucial for its function in various cellular membranes, including the Golgi apparatus (Zmuda2020Regulatory; Lan2021Inhibitors). ZDHHC20 plays a significant role in cellular processes such as calcium signaling and immune responses by modulating the localization and function of target proteins like ORAI1 channels (CarrerasSureda2021Sacylation). Additionally, ZDHHC20 has been implicated in the progression of several cancers, including pancreatic ductal adenocarcinoma and triple-negative breast cancer, making it a potential target for therapeutic interventions (Lobo2019Protein; Tomić2023Palmitoyl).
+
+## Structure
+ZDHHC20 is a human protein characterized by a zinc finger Asp-His-His-Cys (DHHC) motif, which is crucial for its palmitoyltransferase activity. The protein typically contains four transmembrane domains (TMDs) that form a tepee-like structure, creating a cavity essential for acyl chain binding (Zmuda2020Regulatory; Lan2021Inhibitors). The DHHC motif is located at the membrane-cytosol interface and includes a catalytic triad-like arrangement of Asp153, His154, and Cys156, which is vital for the enzyme's catalytic function (Liao2024The). This motif facilitates the autoacylation process, where the cysteine residue acts as a nucleophile (Zmuda2020Regulatory).
+
+The protein's structure also includes a cysteine-rich domain (CRD) that coordinates two zinc ions, providing structural stability (Gadalla2019Toward). This domain is located between the second and third transmembrane domains, limiting S-acylation to cysteines at the membrane-cytosol interface (Gadalla2019Toward). The transmembrane regions form a hydrophobic cavity that accommodates the fatty acid chain, with specific residues interacting with the acyl chain (Gadalla2019Toward). The presence of non-conserved amino acids at the end of this cavity influences lipid binding specificity, affecting the protein's preference for different fatty acids (Gadalla2019Toward).
+
+## Function
+ZDHHC20 is a palmitoyltransferase enzyme that plays a crucial role in the post-translational modification of proteins through S-acylation, specifically palmitoylation. This process involves the addition of palmitate, a fatty acid, to cysteine residues on target proteins, influencing their localization, stability, and function within the cell (Zmuda2020Regulatory). ZDHHC20 is active in various cellular membranes, including the Golgi apparatus, where it facilitates the attachment of fatty acids to proteins, thereby affecting their membrane attachment and intracellular sorting (Zmuda2020Regulatory).
+
+In healthy human cells, ZDHHC20 is involved in the regulation of calcium signaling pathways, particularly through the S-acylation of ORAI1 channels. This modification is essential for the proper localization and function of ORAI1 channels at the immune synapse, which is critical for efficient T cell activation and immune responses (CarrerasSureda2021Sacylation). ZDHHC20-mediated S-acylation targets ORAI1 to cholesterol-rich lipid rafts, enhancing its function and ensuring effective calcium influx during T cell receptor activation (CarrerasSureda2021Sacylation). This enzyme also plays a role in modulating immune cell signaling by regulating the distribution of ORAI1 channels in the plasma membrane (CarrerasSureda2021Sacylation).
+
+## Clinical Significance
+ZDHHC20 has been implicated in various cancers due to its role in protein palmitoylation, which affects cellular signaling and membrane dynamics. In pancreatic ductal adenocarcinoma (PDAC), ZDHHC20 is critical for metastasis, particularly influencing interactions with the immune system and natural killer (NK) cell-mediated cytotoxicity. Knockout studies in mice have shown that loss of ZDHHC20 reduces metastatic potential without affecting primary tumor growth, suggesting its role in facilitating metastatic spread rather than tumor initiation (Tomić2023Palmitoyl).
+
+In breast cancer, particularly triple-negative breast cancer (TNBC), ZDHHC20 has been identified as an oncogene. Its inactivation increases cancer cell responsiveness to epidermal growth factor receptor (EGFR) inhibitor therapy, indicating that targeting ZDHHC20 could be a therapeutic strategy for TNBC resistant to EGFR-targeted treatments (Lobo2019Protein).
+
+In kidney renal clear cell carcinoma (KIRC), ZDHHC20 expression is upregulated and associated with poor prognosis. Its expression correlates with immune cell infiltration, suggesting a role in modulating the immune microenvironment and contributing to tumor progression (Liu2020Bioinformatics).
+
+These findings highlight ZDHHC20 as a potential therapeutic target in various cancers, with its expression and activity influencing cancer progression and treatment responses.
+
+## Interactions
+ZDHHC20 is involved in the palmitoylation of various proteins, influencing their interactions and functions. It interacts with zDHHC5, enhancing the palmitoylation of the zDHHC5 C-tail and its association with the Na-pump in HEK cells. This interaction is crucial for regulating PLM palmitoylation (Plain2020Control). ZDHHC20 also forms a stable complex with the Tat protein of HIV and cyclophilin A, a prolyl-isomerase, facilitating the palmitoylation of Tat at the plasma membrane of uninfected cells (Gadalla2019Toward). 
+
+ZDHHC20 is involved in the palmitoylation of the M2 protein of Influenza A virus, recognizing structural features like the amphiphilic helix for acylation (Gadalla2019Toward). It colocalizes with IFITM3 at lysosomes, a key interaction for IFITM3's antiviral activity (Yi2020The). 
+
+The enzyme's structure, including a conserved DHHC motif and transmembrane helices, facilitates its interactions with substrates. The active-site cysteine is essential for its S-acyltransferase activity, and mutations can disrupt this function (Lan2021Inhibitors). ZDHHC20's interactions are influenced by its electrostatic surface potential, characterized by negatively charged residues, which may aid in substrate recognition (Gadalla2019Toward).
+
+
+## References
+
+
+[1. (Zmuda2020Regulatory) Filip Zmuda and Luke H. Chamberlain. Regulatory effects of post-translational modifications on zdhhc s-acyltransferases. Journal of Biological Chemistry, 295(43):14640–14652, October 2020. URL: http://dx.doi.org/10.1074/jbc.rev120.014717, doi:10.1074/jbc.rev120.014717. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.rev120.014717)
+
+[2. (Plain2020Control) Fiona Plain, Jacqueline Howie, Jennifer Kennedy, Elaine Brown, Michael J. Shattock, Niall J. Fraser, and William Fuller. Control of protein palmitoylation by regulating substrate recruitment to a zdhhc-protein acyltransferase. Communications Biology, July 2020. URL: http://dx.doi.org/10.1038/s42003-020-01145-3, doi:10.1038/s42003-020-01145-3. This article has 56 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-020-01145-3)
+
+3. (Tomić2023Palmitoyl) Palmitoyl transferase ZDHHC20 promotes pancreatic cancer metastasis. This article has 2 citations.
+
+[4. (Lan2021Inhibitors) Tong Lan, Clémence Delalande, and Bryan C. Dickinson. Inhibitors of dhhc family proteins. Current Opinion in Chemical Biology, 65:118–125, December 2021. URL: http://dx.doi.org/10.1016/j.cbpa.2021.07.002, doi:10.1016/j.cbpa.2021.07.002. This article has 31 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cbpa.2021.07.002)
+
+[5. (CarrerasSureda2021Sacylation) Amado Carreras-Sureda, Laurence Abrami, Kim Ji-Hee, Wen-An Wang, Christopher Henry, Maud Frieden, Monica Didier, F Gisou van der Goot, and Nicolas Demaurex. S-acylation by zdhhc20 targets orai1 channels to lipid rafts for efficient ca2+ signaling by jurkat t cell receptors at the immune synapse. eLife, December 2021. URL: http://dx.doi.org/10.7554/elife.72051, doi:10.7554/elife.72051. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.72051)
+
+[6. (Gadalla2019Toward) Mohamed Rasheed Gadalla and Michael Veit. Toward the identification of zdhhc enzymes required for palmitoylation of viral protein as potential drug targets. Expert Opinion on Drug Discovery, 15(2):159–177, December 2019. URL: http://dx.doi.org/10.1080/17460441.2020.1696306, doi:10.1080/17460441.2020.1696306. This article has 44 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/17460441.2020.1696306)
+
+[7. (Lobo2019Protein) Sonia Lobo. Protein Palmitoylation in Cancer, pages 51–87. Springer Singapore, 2019. URL: http://dx.doi.org/10.1007/978-981-32-9816-3_3, doi:10.1007/978-981-32-9816-3_3. This article has 2 citations.](https://doi.org/10.1007/978-981-32-9816-3_3)
+
+[8. (Yi2020The) Li Yi and Chunfu Zheng. The emerging roles of zdhhcs-mediated protein palmitoylation in the antiviral innate immune responses. Critical Reviews in Microbiology, 47(1):34–43, October 2020. URL: http://dx.doi.org/10.1080/1040841X.2020.1835821, doi:10.1080/1040841x.2020.1835821. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/1040841X.2020.1835821)
+
+[9. (Liao2024The) Dan Liao, Yutao Huang, Dan Liu, Haofuzi Zhang, Xinyu Shi, Xin Li, and Peng Luo. The role of s-palmitoylation in neurological diseases: implication for zdhhc family. Frontiers in Pharmacology, January 2024. URL: http://dx.doi.org/10.3389/fphar.2023.1342830, doi:10.3389/fphar.2023.1342830. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2023.1342830)
+
+[10. (Liu2020Bioinformatics) Zhuang Liu, Chang Liu, Mingming Xiao, Yamei Han, Siyue Zhang, and Bo Xu. Bioinformatics analysis of the prognostic and biological significance of zdhhc-protein acyltransferases in kidney renal clear cell carcinoma. Frontiers in Oncology, December 2020. URL: http://dx.doi.org/10.3389/fonc.2020.565414, doi:10.3389/fonc.2020.565414. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2020.565414)

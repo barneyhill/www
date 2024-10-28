@@ -1,0 +1,44 @@
+# MIS18A
+
+## Overview
+MIS18A is a gene that encodes the MIS18 kinetochore protein A, a crucial component of the Mis18 complex involved in centromere assembly and function. The protein is characterized by its role in the recruitment and deposition of CENP-A, a centromere-specific histone variant, which is essential for maintaining centromere identity and ensuring accurate chromosome segregation during cell division. MIS18A interacts with other proteins such as MIS18B and MIS18BP1 to form a complex that facilitates the loading of CENP-A at centromeres, a process regulated by phosphorylation events mediated by kinases like PLK1 and CDK1 (Pan2017CDKregulated; Parashara2024PLK1mediated). The gene's expression and function have significant implications in cancer biology, where its dysregulation is associated with chromosomal instability and poor prognosis in various cancers, including lung adenocarcinoma (Zhu2024MIS18A).
+
+## Structure
+The MIS18A protein is characterized by a distinct molecular structure that includes several domains crucial for its function in centromere assembly. It contains a globular MeDiY domain and a C-terminal alpha-helical domain. The MeDiY domain is essential for dimerization and interaction with Mis18BP1, a key component of the Mis18 complex (Spiller2017Molecular). The C-terminal alpha-helical domain contributes to the formation of a hetero-hexameric complex with Mis18b, consisting of four Mis18a and two Mis18b subunits (Spiller2017Molecular; Pan2017CDKregulated).
+
+MIS18A's tertiary structure involves the formation of hetero-trimers and hetero-dimers, which are critical for the assembly of the Mis18 complex (Spiller2017Molecular). The quaternary structure is defined by its interaction with Mis18b and Mis18BP1, forming a hetero-octameric complex necessary for centromere function (Spiller2017Molecular; Pan2017CDKregulated).
+
+Post-translational modifications, such as phosphorylation by CDK1, regulate the timing of Mis18 complex assembly and CENP-A deposition, highlighting the importance of these modifications in centromere maintenance (Spiller2017Molecular). The protein's structure and interactions are crucial for its role in centromere inheritance and function.
+
+## Function
+MIS18A is a critical component of the Mis18 complex, which plays a vital role in centromere function and maintenance in healthy human cells. This complex is essential for the recruitment and loading of CENP-A, a centromere-specific histone variant, at centromeres, which is crucial for maintaining centromere identity and ensuring proper chromosome segregation during cell division (Parashara2024PLK1mediated). 
+
+The activity of MIS18A is regulated by PLK1-mediated phosphorylation, which activates the Mis18 complex. This phosphorylation relieves intramolecular inhibition within the Mis18α subunit, allowing the complex to interact with HJURP, a chaperone necessary for CENP-A deposition (Parashara2024PLK1mediated). Specifically, phosphorylation at the S54 site of Mis18α is crucial for this activation process (Parashara2024PLK1mediated).
+
+MIS18A is active in the nucleus, particularly at centromeres, where it facilitates the precise timing and localization of CENP-A deposition. This process is essential for centromere inheritance and genomic stability, highlighting the importance of MIS18A in maintaining centromere function and ensuring accurate chromosome segregation during cell division (Parashara2024PLK1mediated).
+
+## Clinical Significance
+Alterations in the expression and function of the MIS18A gene have significant clinical implications, particularly in the context of cancer. MIS18A is frequently upregulated in various cancers, including lung adenocarcinoma (LUAD), where its elevated expression is associated with advanced clinical features and poor prognosis. This upregulation promotes cell viability, migration, and tumor immune evasion, contributing to tumor progression and metastasis in LUAD (Zhu2024MIS18A). High MIS18A expression is linked to increased tumor purity and altered immune cell infiltration, which may affect the tumor microenvironment and immune response (Zhu2024MIS18A). 
+
+In addition to its role in LUAD, MIS18A is implicated in chromosomal instability, a hallmark of cancer, due to its involvement in centromere function and inheritance. Disruption of its normal interactions, such as those mediated by PLK1 phosphorylation, can lead to chromosome missegregation and instability, potentially contributing to cancer development (Parashara2024PLK1mediated). The misregulation of MIS18A and other centromere and kinetochore genes has been observed in various human cancers, suggesting its potential as a biomarker for cancer prognosis and response to therapies (Zhang2016Centromere).
+
+## Interactions
+MIS18A is a component of the Mis18 complex, which plays a crucial role in centromere assembly and function. It interacts with other proteins such as MIS18B and MIS18BP1 (also known as KNL2) to recruit CENP-A, a centromere-specific histone H3 variant, to centromeres. These interactions are essential for proper chromosome segregation during cell division.
+
+MIS18A forms a complex with MIS18B and MIS18BP1, which is crucial for the recruitment of the CENP-A-specific chaperone HJURP to the centromere. This recruitment ensures the proper loading of CENP-A nucleosomes during the G1 phase of the cell cycle (Parashara2024PLK1mediated). The interaction between MIS18A and MIS18BP1 is regulated by phosphorylation events mediated by PLK1, which phosphorylates specific residues on MIS18BP1 (T78 and S93) and MIS18A (S54). These phosphorylations act as docking sites for PLK1, facilitating the interaction between the Mis18 complex and HJURP, a key step in CENP-A loading (Parashara2024PLK1mediated).
+
+The Mis18 complex, including MIS18A, also interacts with CDK1, which phosphorylates M18BP1 at Thr40 and Ser110. This phosphorylation prevents the formation of the Mis18 complex, thereby regulating CENP-A loading (Pan2017CDKregulated). The interaction between MIS18A and MIS18BP1 is crucial for the centromere localization of the complex, and the dimerization of M18BP1 on a Mis18 hexamer is necessary for CENP-A loading (Pan2017CDKregulated).
+
+
+## References
+
+
+[1. (Spiller2017Molecular) Frances Spiller, Bethan Medina‐Pritchard, Maria Alba Abad, Martin A Wear, Oscar Molina, William C Earnshaw, and A Arockia Jeyaprakash. Molecular basis for cdk1‐regulated timing of mis18 complex assembly and cenp‐a deposition. EMBO reports, 18(6):894–905, April 2017. URL: http://dx.doi.org/10.15252/embr.201643564, doi:10.15252/embr.201643564. This article has 56 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.15252/embr.201643564)
+
+[2. (Pan2017CDKregulated) Dongqing Pan, Kerstin Klare, Arsen Petrovic, Annika Take, Kai Walstein, Priyanka Singh, Arnaud Rondelet, Alexander W Bird, and Andrea Musacchio. Cdk-regulated dimerization of m18bp1 on a mis18 hexamer is necessary for cenp-a loading. eLife, January 2017. URL: http://dx.doi.org/10.7554/elife.23352, doi:10.7554/elife.23352. This article has 68 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.23352)
+
+[3. (Zhang2016Centromere) Weiguo Zhang, Jian-Hua Mao, Wei Zhu, Anshu K. Jain, Ke Liu, James B. Brown, and Gary H. Karpen. Centromere and kinetochore gene misexpression predicts cancer patient survival and response to radiotherapy and chemotherapy. Nature Communications, August 2016. URL: http://dx.doi.org/10.1038/ncomms12619, doi:10.1038/ncomms12619. This article has 146 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms12619)
+
+[4. (Parashara2024PLK1mediated) Pragya Parashara, Bethan Medina-Pritchard, Maria Alba Abad, Paula Sotelo-Parrilla, Reshma Thamkachy, David Grundei, Juan Zou, Christos Spanos, Chandni Natalia Kumar, Claire Basquin, Vimal Das, Zhaoyue Yan, Asma Abdullah Al-Murtadha, David A. Kelly, Toni McHugh, Axel Imhof, Juri Rappsilber, and A. Arockia Jeyaprakash. Plk1-mediated phosphorylation cascade activates mis18 complex to ensure centromere inheritance. Science, 385(6713):1098–1104, September 2024. URL: http://dx.doi.org/10.1126/science.ado8270, doi:10.1126/science.ado8270. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.ado8270)
+
+[5. (Zhu2024MIS18A) Yongjie Zhu, Zihao Li, Zuotao Wu, Ting Zhuo, Lei Dai, Guanbiao Liang, Huajian Peng, Honglin Lu, and Yongyong Wang. Mis18a upregulation promotes cell viability, migration and tumor immune evasion in lung adenocarcinoma. Oncology Letters, June 2024. URL: http://dx.doi.org/10.3892/ol.2024.14509, doi:10.3892/ol.2024.14509. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2024.14509)

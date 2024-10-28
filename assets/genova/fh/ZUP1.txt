@@ -1,0 +1,42 @@
+# ZUP1
+
+## Overview
+ZUP1 is a gene that encodes the protein zinc finger containing ubiquitin peptidase 1, a member of the ZUFSP family of deubiquitinases. This protein is characterized by its ability to specifically target K63-linked polyubiquitin chains, playing a pivotal role in the regulation of ubiquitin signaling and maintenance of genome stability. The ZUP1 protein is predominantly located in the nucleus, where it is involved in DNA replication and repair processes. It features a modular architecture with a core catalytic domain and several ubiquitin-binding domains, including a novel zUBD domain and a MIU domain, which contribute to its specificity and function. The interaction of ZUP1 with the Replication Protein A (RPA) complex enhances its deubiquitinating activity, linking it to the cellular response to DNA damage and replication stress (Kwasna2018Discovery; Foster2023The; Hermanns2022A).
+
+## Structure
+The ZUP1 protein, a member of the ZUFSP deubiquitinase family, exhibits a modular architecture with a core catalytic domain that is highly active against the ubiquitin-derived peptide RLRGG but not against ubiquitin itself (Hermanns2022A). The protein structure includes several ubiquitin-binding domains, such as a novel zUBD domain for positioning the outgoing ubiquitin and a MIU domain for binding the upstream ubiquitin in a K63 linkage (Hermanns2022A). The N-terminal part of ZUP1 contains several zinc fingers resembling the ubiquitin-binding (UBZ) consensus, which are expected to recognize ubiquitin units further distal of the cleavage site (Hermanns2022A).
+
+ZUP1's catalytic core is characterized by a papain-fold structure with a Cys-His-Asp triad, essential for its enzymatic activity (Hermanns2022A). The α2/3 helix-turn-helix motif is located at the expected binding site for the proximal ubiquitin, contributing to the protein's specificity for K63-linked chains (Hermanns2022A). The interplay of the zUBD domain with the α2/3 helices is crucial for the K63 linkage specificity, while more distal ubiquitin-binding domains contribute to avidity and long-chain preference (Hermanns2022A). Human ZUP1 operates at sub-optimal speed due to an unfavorable oxyanion hole, which can be improved by a single point mutation identified from the insect ZUP1 structure (Hermanns2022A).
+
+## Function
+ZUP1, a member of the ZUFSP family of deubiquitinases, plays a crucial role in maintaining genome stability and regulating ubiquitin signaling in human cells. It specifically targets K63-linked polyubiquitin chains, which are important for various cellular processes, including DNA repair and the DNA damage response (Kwasna2018Discovery; Haahr2018ZUFSP). ZUP1 is involved in the cellular response to replication stress and is rapidly recruited to DNA damage sites, where it interacts with proteins that regulate DNA replication and repair (Kwasna2018Discovery). 
+
+The enzyme's activity is enhanced by its interaction with the RPA complex, a single-stranded DNA binding protein, which significantly stimulates ZUP1's deubiquitinating activity, linking the sensing of single-stranded DNA to the activation of K63-linked deubiquitination (Foster2023The). ZUP1's specificity for K63-linked chains is mediated by several ubiquitin-binding domains, including a novel zUBD domain and a MIU domain, which help position ubiquitin for cleavage (Hermanns2022A). 
+
+ZUP1 is predominantly located in the nucleus, where it contributes to DNA replication and repair, promoting genome stability by regulating ubiquitin signaling in these processes (Kwasna2018Discovery).
+
+## Clinical Significance
+Mutations and alterations in the ZUP1 gene have been implicated in various diseases, particularly those related to genetic instability and cancer. The ZUP1 gene encodes a deubiquitinase that is crucial for maintaining genome stability by cleaving K63-linked polyubiquitin chains, which are important in DNA repair processes. Alterations in ZUP1 expression or function can lead to increased DNA damage and sensitivity to DNA-damaging agents, contributing to tumor progression (Kwasna2018Discovery).
+
+Research has identified several non-synonymous single nucleotide polymorphisms (nsSNPs) in the ZUP1 gene that are potentially pathogenic. These nsSNPs can decrease the stability of the ZUP1 protein and disrupt its interaction with ubiquitin, affecting protein regulation and homeostasis. Such disruptions may contribute to carcinogenesis and other diseases related to ZUP1 structural aberrations (Ajadi2021Functional).
+
+The interaction of ZUP1 with the RPA complex is also significant, as it enhances ZUP1's deubiquitination activity. This interaction is crucial for DNA repair, and alterations in this pathway could influence the sensitivity of cancer cells to treatments like PARP inhibitors, especially in BRCA1/BRCA2-mutated cells (Foster2023The).
+
+## Interactions
+ZUP1, also known as ZUFSP, is a deubiquitinase that interacts with the Replication Protein A (RPA) complex, a major single-stranded DNA (ssDNA) binding protein in eukaryotes. This interaction is crucial for stimulating ZUP1's deubiquitinase activity against K63-linked polyubiquitin chains, enhancing its ability to cleave these chains efficiently. The interaction between ZUP1 and RPA is constitutive and occurs both in vitro and in cells, suggesting a role in DNA repair pathways. The RPA complex consists of subunits RPA70, RPA32, and RPA14, with ZUP1 directly binding to RPA70 and RPA32, but not RPA14. The binding is partially dependent on the RPA70 OB-F and RPA32 WH domains (Foster2023The).
+
+ZUP1's interaction with RPA is independent of DNA and ubiquitination, as demonstrated by experiments using benzonase nuclease and a ubiquitin E1 inhibitor, TAK-243. The ZUP1 a-2/3 region is identified as crucial for RPA binding and is involved in the formation of the ZUP1-RPA complex. This interaction is evolutionarily conserved and specific to RPA, as other replication factors like PCNA do not stimulate ZUP1 (Foster2023The).
+
+
+## References
+
+
+1. (Foster2023The) The RPA complex orchestrates K63-linked deubiquitination via ZUP1. This article has 0 citations.
+
+[2. (Hermanns2022A) Thomas Hermanns, Christian Pichlo, Ulrich Baumann, and Kay Hofmann. A structural basis for the diverse linkage specificities within the zufsp deubiquitinase family. Nature Communications, January 2022. URL: http://dx.doi.org/10.1038/s41467-022-28049-6, doi:10.1038/s41467-022-28049-6. This article has 11 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-28049-6)
+
+[3. (Kwasna2018Discovery) Dominika Kwasna, Syed Arif Abdul Rehman, Jayaprakash Natarajan, Stephen Matthews, Ross Madden, Virginia De Cesare, Simone Weidlich, Satpal Virdee, Ivan Ahel, Ian Gibbs-Seymour, and Yogesh Kulathu. Discovery and characterization of zufsp/zup1, a distinct deubiquitinase class important for genome stability. Molecular Cell, 70(1):150-164.e6, April 2018. URL: http://dx.doi.org/10.1016/j.molcel.2018.02.023, doi:10.1016/j.molcel.2018.02.023. This article has 146 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2018.02.023)
+
+[4. (Ajadi2021Functional) Mary B. Ajadi, Opeyemi S. Soremekun, Adeniyi T. Adewumi, Hezekiel M. Kumalo, and Mahmoud E. S. Soliman. Functional analysis of single nucleotide polymorphism in zufsp protein and implication in pathogenesis. The Protein Journal, 40(1):28–40, January 2021. URL: http://dx.doi.org/10.1007/s10930-021-09962-z, doi:10.1007/s10930-021-09962-z. This article has 1 citations.](https://doi.org/10.1007/s10930-021-09962-z)
+
+[5. (Haahr2018ZUFSP) Peter Haahr, Nikoline Borgermann, Xiaohu Guo, Dimitris Typas, Divya Achuthankutty, Saskia Hoffmann, Robert Shearer, Titia K. Sixma, and Niels Mailand. Zufsp deubiquitylates k63-linked polyubiquitin chains to promote genome stability. Molecular Cell, 70(1):165-174.e6, April 2018. URL: http://dx.doi.org/10.1016/j.molcel.2018.02.024, doi:10.1016/j.molcel.2018.02.024. This article has 74 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2018.02.024)

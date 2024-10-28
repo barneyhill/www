@@ -1,0 +1,52 @@
+# SRSF7
+
+## Overview
+The SRSF7 gene encodes the serine and arginine-rich splicing factor 7, a member of the SR protein family, which is integral to the regulation of gene expression at the post-transcriptional level. This protein is characterized by its RNA recognition motif (RRM), a serine/arginine-rich (RS) domain, and a zinc knuckle domain, which collectively facilitate its role in RNA processing, including alternative splicing, mRNA export, and translation regulation (Königs2020SRSF7; Fu2018SRSF7). SRSF7 is distinguished by its ability to modulate proximal polyadenylation sites independently of splicing, a function enhanced by its unique zinc knuckle domain (Schwich2021SRSF3). The protein's interactions with various components of the cleavage and polyadenylation machinery underscore its importance in mRNA stability and translation efficiency (Schwich2021SRSF3). SRSF7's regulatory functions are critical in cellular processes such as stem-cell self-renewal and stress responses, and its dysregulation has been implicated in several cancers, highlighting its clinical significance (Cun2021Serineargininerich; Schwich2021SRSF3).
+
+## Structure
+The SRSF7 protein, a member of the SR protein family, is characterized by its distinct molecular structure, which includes an RNA recognition motif (RRM) at the N-terminus, a serine/arginine-rich (RS) domain at the C-terminus, and a zinc knuckle domain. The RRM facilitates RNA binding, while the RS domain is crucial for protein-protein interactions and is subject to phosphorylation, which influences the protein's splicing activity and interactions (Königs2020SRSF7; Fu2018SRSF7).
+
+SRSF7's RS domain is longer than that of its closely related protein, SRSF3, and contains a unique 27 amino acid hydrophobic stretch that is significant for its interaction with cleavage and polyadenylation (CPA) factors (Schwich2021SRSF3). The zinc knuckle domain enhances RNA-binding specificity and contributes to the protein's ability to form nuclear bodies (Königs2020SRSF7).
+
+SRSF7 exists in multiple splice variant isoforms, including SRSF7_RRM, which lacks the RS domain and acts as a dominant-negative by inhibiting splicing (Königs2020SRSF7). This variant localizes to the nucleus but does not accumulate in nuclear speckles, indicating a unique nuclear localization signal (Königs2020SRSF7). The protein's ability to oligomerize and form higher-order assemblies is crucial for its function in RNA processing and nuclear body assembly (Königs2020SRSF7).
+
+## Function
+SRSF7, a member of the serine and arginine-rich (SR) protein family, plays a crucial role in post-transcriptional regulation of gene expression in mammalian cells. It is involved in several molecular processes, including alternative splicing, alternative polyadenylation, mRNA export, and translation of unspliced viral transcripts (Königs2020SRSF7). SRSF7 is unique among SR proteins due to its zinc knuckle domain, which enhances RNA-binding specificity, and its ability to modulate the usage of proximal polyadenylation sites (pPASs) in a splicing-independent manner (Schwich2021SRSF3).
+
+In healthy human cells, SRSF7 regulates its own expression through an auto-regulatory feedback loop. It binds to its pre-mRNA, influencing exon inclusion or skipping, which is crucial for maintaining protein homeostasis (Königs2020SRSF7). SRSF7 also interacts with components of the cleavage and polyadenylation machinery, such as FIP1, to regulate 3′ untranslated region (3′UTR) length, impacting mRNA stability and translation efficiency (Schwich2021SRSF3).
+
+SRSF7 is active in the nucleus, where it forms nuclear bodies that sequester its mRNAs, allowing for rapid adjustment of protein levels in response to cellular conditions (Königs2020SRSF7). This regulatory mechanism is essential for processes like stem-cell self-renewal and cellular stress responses (Schwich2021SRSF3).
+
+## Clinical Significance
+Alterations in the expression of the SRSF7 gene have been implicated in various cancers, including glioblastoma, colon cancer, and non-small cell lung cancer (NSCLC). In glioblastoma, high expression of SRSF7 is associated with poor prognosis, as it regulates m6A RNA modification, influencing cancer cell proliferation and migration (Cun2021Serineargininerich). SRSF7 interacts with the m6A methyltransferase complex, promoting m6A modification on oncogenic genes, which contributes to tumor progression (Cun2021Serineargininerich).
+
+In colon cancer, SRSF7 is overexpressed and its knockdown leads to growth arrest by upregulating p21, a cyclin-dependent kinase inhibitor, in a p53-independent manner. This suggests a role in cell cycle regulation and potential as a therapeutic target (Saijo2016Serineargininerich). Similarly, in NSCLC, SRSF7 expression is regulated by MALAT1 and miR-374b-5p, affecting cell proliferation and apoptosis. MALAT1 acts as a competing endogenous RNA to upregulate SRSF7, promoting tumor growth (song2020long).
+
+SRSF7's role in cancer is further supported by its involvement in regulating the splicing of apoptosis-related genes, such as Fas, which may help cancer cells evade apoptosis (Fu2018SRSF7). These findings highlight the clinical significance of SRSF7 in cancer development and progression.
+
+## Interactions
+SRSF7, a serine and arginine-rich splicing factor, participates in various interactions with proteins and nucleic acids, playing a significant role in RNA processing. It interacts with cleavage factors such as FIP1 and components of the CFIm complex, including CPSF5 and CPSF6, in an RNA-independent manner. These interactions suggest that SRSF7 facilitates the usage of proximal polyadenylation sites (pPASs) it binds to, with its phosphorylation state influencing these interactions (Schwich2024Same).
+
+SRSF7 contains two crucial domains, the CCHC-Zn-knuckle and a 27 amino acid hydrophobic stretch, which are essential for its interactions with CPSF5, CPSF6, and FIP1. The Zn-knuckle is necessary for interaction with these factors, while the hydrophobic stretch is sufficient for interaction with FIP1 (Schwich2024Same). SRSF7 can recruit FIP1 independently of CFIm subunit interactions, enhancing the usage of SRSF7-bound pPASs (Schwich2024Same).
+
+SRSF7 also plays a role in miRNA biogenesis by interacting with the microprocessor complex, particularly with DROSHA, to regulate pri-miRNA cleavage. It binds to CNNC motifs in pri-miRNAs, enhancing the interaction between DROSHA and the basal junction of pri-miRNAs, which is crucial for efficient cleavage (Le2023SRSF7).
+
+
+## References
+
+
+[1. (Königs2020SRSF7) Vanessa Königs, Camila de Oliveira Freitas Machado, Benjamin Arnold, Nicole Blümel, Anfisa Solovyeva, Sinah Löbbert, Michal Schafranek, Igor Ruiz De Los Mozos, Ilka Wittig, Francois McNicoll, Marcel H. Schulz, and Michaela Müller-McNicoll. Srsf7 maintains its homeostasis through the expression of split-orfs and nuclear body assembly. Nature Structural &amp; Molecular Biology, 27(3):260–273, March 2020. URL: http://dx.doi.org/10.1038/s41594-020-0385-9, doi:10.1038/s41594-020-0385-9. This article has 59 citations.](https://doi.org/10.1038/s41594-020-0385-9)
+
+2. (Cun2021Serineargininerich) Serine/arginine-rich splicing factor 7 plays oncogenic roles through specific regulation of m6A RNA modification. This article has 0 citations.
+
+3. (song2020long) J Song, Z-Z Su, and Q-M Shen. Long non-coding rna malat1 regulates proliferation, apoptosis, migration and invasion via mir-374b-5p/srsf7 axis in non-small cell lung cancer. European Review for Medical & Pharmacological Sciences, 2020. This article has 49 citations.
+
+[4. (Le2023SRSF7) Minh Ngoc Le, Trung Duc Nguyen, and Tuan Anh Nguyen. Srsf7 and srsf3 depend on rna sequencing motifs and secondary structures to regulate microprocessor. Life Science Alliance, 6(4):e202201779, February 2023. URL: http://dx.doi.org/10.26508/lsa.202201779, doi:10.26508/lsa.202201779. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202201779)
+
+[5. (Schwich2021SRSF3) Oliver Daniel Schwich, Nicole Blümel, Mario Keller, Marius Wegener, Samarth Thonta Setty, Melinda Elaine Brunstein, Ina Poser, Igor Ruiz De Los Mozos, Beatrix Suess, Christian Münch, François McNicoll, Kathi Zarnack, and Michaela Müller-McNicoll. Srsf3 and srsf7 modulate 3′utr length through suppression or activation of proximal polyadenylation sites and regulation of cfim levels. Genome Biology, March 2021. URL: http://dx.doi.org/10.1186/s13059-021-02298-y, doi:10.1186/s13059-021-02298-y. This article has 39 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13059-021-02298-y)
+
+[6. (Fu2018SRSF7) Yu Fu and Yingze Wang. Srsf7 knockdown promotes apoptosis of colon and lung cancer cells. Oncology Letters, February 2018. URL: http://dx.doi.org/10.3892/ol.2018.8072, doi:10.3892/ol.2018.8072. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2018.8072)
+
+[7. (Saijo2016Serineargininerich) Saki Saijo, Yuki Kuwano, Kiyoshi Masuda, Tatsuya Nishikawa, Kazuhito Rokutan, and Kensei Nishida. Serine/arginine-rich splicing factor 7 regulates p21-dependent growth arrest in colon cancer cells. The Journal of Medical Investigation, 63(3.4):219–226, 2016. URL: http://dx.doi.org/10.2152/jmi.63.219, doi:10.2152/jmi.63.219. This article has 28 citations.](https://doi.org/10.2152/jmi.63.219)
+
+8. (Schwich2024Same) Same same but different : a comprehensive functional analysis of SRSF3 and SRSF7 in the regulation of alternative polyadenylation within the 3’ untranslated region. This article has 0 citations.

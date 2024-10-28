@@ -1,0 +1,45 @@
+# GALNT6
+
+## Overview
+GALNT6 is a gene that encodes the enzyme polypeptide N-acetylgalactosaminyltransferase 6, which is a member of the glycosyltransferase family. This enzyme is primarily involved in the initial step of O-linked glycosylation, a critical post-translational modification process where N-acetylgalactosamine is transferred to serine or threonine residues on target proteins. The activity of GALNT6 is essential for the biosynthesis of mucin-type glycoproteins, which play significant roles in protein stability, cellular signaling, and cell-cell interactions (Kato2021Polypeptide). The enzyme is predominantly active in the Golgi apparatus and exhibits tissue-specific expression patterns, being notably present in the placenta and trachea, with lower levels in the brain and pancreas (Kato2021Polypeptide). GALNT6's involvement in glycosylation processes has implications for various physiological and pathological conditions, including its potential role in Alzheimer's disease and several cancers, where its expression levels can influence disease progression and prognosis (Jiang2023Low; Kimura2019The).
+
+## Function
+GALNT6 encodes an enzyme involved in the initial step of O-linked glycosylation, a process where N-acetylgalactosamine is transferred to serine or threonine residues on proteins. This modification is crucial for protein stability, signaling, and cell-cell interactions. GALNT6 is active in the Golgi apparatus, where it plays a significant role in mucin-type glycoprotein biosynthesis (Kato2021Polypeptide).
+
+In healthy human cells, GALNT6 is expressed in the placenta and trachea, with weaker expression in the brain and pancreas. It specifically glycosylates fibronectin in vivo, a function not shared by its homolog GalNAc-T3, which is not expressed in fibroblasts (Kato2021Polypeptide). GALNT6 is also involved in the O-glycosylation of the amyloid precursor protein (APP), which inhibits APP cleavage and reduces the production of β-amyloid (Aβ1-40 and Aβ1-42). This activity may have implications for Alzheimer's disease progression, as altered expression of GALNT6 is observed in sporadic Alzheimer's disease (Kato2021Polypeptide).
+
+GALNT6 is not expressed in human spermatozoa, indicating tissue-specific roles in glycosylation processes (Kato2021Polypeptide). Its involvement in these molecular processes highlights its importance in maintaining normal cellular and physiological functions.
+
+## Clinical Significance
+Alterations in the expression of the GALNT6 gene have been implicated in various cancers. In gliomas, low expression of GALNT6 is associated with improved prognosis and increased immune infiltration, suggesting its potential as a therapeutic target for enhancing immune response in these tumors (Jiang2023Low). In contrast, high GALNT6 expression is linked to poor prognosis in breast cancer, where it promotes cell proliferation through the GALNT6-LGALS3BP axis, making it a potential target for therapeutic intervention (Kimura2019The).
+
+In pancreatic cancer, GALNT6 is highly expressed and contributes to cancer cell proliferation and survival by O-glycosylating Mucin 4, a process crucial for maintaining oncogenic signaling pathways. Knockdown of GALNT6 reduces Mucin 4 levels and decreases cell viability, indicating its role in cancer progression and as a potential drug target (Tarhan2016Morphological).
+
+In high-grade serous ovarian cancer, GALNT6 is overexpressed and associated with poor progression-free survival, highlighting its potential as a prognostic biomarker. Its expression correlates with disease progression, suggesting a role in tumorigenesis (Sheta2017Altered).
+
+## Interactions
+GALNT6 interacts with several proteins, playing a significant role in various cellular processes. One of its key interactions is with GRP78, a chaperone protein involved in stress response. GALNT6 O-glycosylates GRP78, stabilizing it and enhancing its anti-apoptotic function under stress conditions. This interaction is crucial for GRP78's proper subcellular localization and function within the endoplasmic reticulum (ER). The binding affinity of GALNT6 to GRP78 is stronger in its wild-type form compared to a mutated form (H271D), and the ATPase domain of GRP78 is essential for this interaction (Lin2017GALNT6; Song2020GALNT6).
+
+GALNT6 also interacts with LGALS3BP, a heavily glycosylated protein in tumor tissues. GALNT6 O-glycosylates LGALS3BP, influencing its glycosylation patterns in breast cancer cells. This interaction is confirmed through coimmunoprecipitation experiments, highlighting GALNT6's role in modifying LGALS3BP and potentially affecting cancer progression (Kimura2019The).
+
+In breast cancer, GALNT6 interacts with CCDC88C, maintaining its stability through O-GalNAc glycosylation. This interaction supports breast cancer cell motility and metastasis, as GALNT6 overexpression enhances migration and invasion abilities, which are impaired by CCDC88C knockdown (Deng2024CCDC88C).
+
+
+## References
+
+
+[1. (Tarhan2016Morphological) Yunus Emre Tarhan, Taigo Kato, Miran Jang, Yoshimi Haga, Koji Ueda, Yusuke Nakamura, and Jae-Hyun Park. Morphological changes, cadherin switching, and growth suppression in pancreatic cancer by galnt6 knockdown. Neoplasia, 18(5):265–272, May 2016. URL: http://dx.doi.org/10.1016/j.neo.2016.03.005, doi:10.1016/j.neo.2016.03.005. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.neo.2016.03.005)
+
+[2. (Kimura2019The) Ryuichiro Kimura, Tetsuro Yoshimaru, Yosuke Matsushita, Taisuke Matsuo, Masaya Ono, Jae‑Hyun Park, Mitsunori Sasa, Yasuo Miyoshi, Yusuke Nakamura, and Toyomasa Katagiri. The galnt6‑lgals3bp axis promotes breast cancer cell growth. International Journal of Oncology, December 2019. URL: http://dx.doi.org/10.3892/ijo.2019.4941, doi:10.3892/ijo.2019.4941. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2019.4941)
+
+[3. (Deng2024CCDC88C) Boya Deng, Siyang Zhang, Yingying Zhou, Ting Sun, Ying Zhu, Jing Fei, Ailin Li, and Yuan Miao. Ccdc88c, an o-galnac glycosylation substrate of galnt6, drives breast cancer metastasis by promoting c-jun-mediated cemip transcription. Cancer Cell International, July 2024. URL: http://dx.doi.org/10.1186/s12935-024-03413-2, doi:10.1186/s12935-024-03413-2. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-024-03413-2)
+
+[4. (Sheta2017Altered) Razan Sheta, Magdalena Bachvarova, Marie Plante, Jean Gregoire, Marie-Claude Renaud, Alexandra Sebastianelli, Ion Popa, and Dimcho Bachvarov. Altered expression of different galnac-transferases is associated with disease progression and poor prognosis in women with high-grade serous ovarian cancer. International Journal of Oncology, 51(6):1887–1897, October 2017. URL: http://dx.doi.org/10.3892/ijo.2017.4147, doi:10.3892/ijo.2017.4147. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2017.4147)
+
+[5. (Song2020GALNT6) Jing Song, Wenwen Liu, Jianzhen Wang, Junxia Hao, Yingyan Wang, Xin You, Xiaohui Du, Yang Zhou, Jing Ben, Xinri Zhang, Mingliang Ye, and Qi Wang. Galnt6 promotes invasion and metastasis of human lung adenocarcinoma cells through o-glycosylating chaperone protein grp78. Cell Death &amp; Disease, May 2020. URL: http://dx.doi.org/10.1038/s41419-020-2537-6, doi:10.1038/s41419-020-2537-6. This article has 18 citations.](https://doi.org/10.1038/s41419-020-2537-6)
+
+[6. (Lin2017GALNT6) Jiaying Lin, Suyoun Chung, Koji Ueda, Koichi Matsuda, Yusuke Nakamura, and Jae-Hyun Park. Galnt6 stabilizes grp78 protein by o-glycosylation and enhances its activity to suppress apoptosis under stress condition. Neoplasia, 19(1):43–53, January 2017. URL: http://dx.doi.org/10.1016/j.neo.2016.11.007, doi:10.1016/j.neo.2016.11.007. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.neo.2016.11.007)
+
+[7. (Kato2021Polypeptide) Kentaro Kato, Lars Hansen, and Henrik Clausen. Polypeptide n-acetylgalactosaminyltransferase-associated phenotypes in mammals. Molecules, 26(18):5504, September 2021. URL: http://dx.doi.org/10.3390/molecules26185504, doi:10.3390/molecules26185504. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/molecules26185504)
+
+8. (Jiang2023Low) Low expression of GALNT6 gene in gliomas promotes immune infiltration and improves tumor prognosis using bioinformatics analysis. This article has 0 citations.

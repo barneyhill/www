@@ -1,0 +1,30 @@
+# KCTD14
+
+## Overview
+KCTD14 is a gene that encodes the protein potassium channel tetramerization domain containing 14, which is a member of the KCTD protein family. This family is characterized by the presence of a BTB (Broad-Complex, Tramtrack, and Bric-à-brac) domain, which is essential for protein-protein interactions and oligomerization. The KCTD14 protein is notable for its unique structural features, including a pentameric C-terminal domain that forms a circle-like organization with a large central cavity, distinct from other KCTD family members (Esposito2022Alphafold). While the specific biological functions and interaction partners of KCTD14 remain to be fully elucidated, its structural characteristics suggest potential roles in cellular processes that require protein oligomerization and complex formation (Esposito2021AlphaFoldPredicted). Further research is needed to explore the functional implications of KCTD14 and its potential involvement in physiological and pathological contexts.
+
+## Structure
+KCTD14 is a member of the potassium channel tetramerization domain-containing family, characterized by the presence of a BTB (Broad-Complex, Tramtrack, and Bric-à-brac) domain, which is crucial for protein-protein interactions and oligomerization. The BTB domain is located in the N-terminal region of the protein and is typically composed of a single β-sheet surrounded by helices (Esposito2021AlphaFoldPredicted). 
+
+The C-terminal domain (CTD) of KCTD14, despite lacking sequence similarity with other KCTD proteins, shares structural similarities and forms a pentameric structure with a circle-like organization and a large central cavity. This structure is distinct from other KCTD family members and resembles a Greek krater, with the CTD pentamer forming the top (Esposito2022Alphafold). 
+
+KCTD14 is part of sub-Cluster 5B, along with KCTD7, and these proteins form assemblies with reliable inter- and intra-domain contacts, as predicted by AlphaFold (Esposito2022Alphafold). The structural integrity of these pentamers is supported by molecular dynamics simulations, indicating a stable and rigid conformation (Esposito2022Alphafold). 
+
+The protein's structure may be influenced by post-translational modifications such as phosphorylation, which can affect its function and interactions. Splice variants of KCTD14 could result in different isoforms with distinct structural and functional properties.
+
+## Interactions
+KCTD14 is a member of the KCTD protein family, which is characterized by the presence of a BTB/POZ domain that facilitates protein oligomerization. Despite the structural predictions and potential functional roles suggested by its structure, specific interaction partners for KCTD14 are not well-documented. The protein is predicted to form pentameric structures with a unique organization of the C-terminal domain, forming a circle-like structure with a large cavity, which may suggest potential functional roles and interactions (Esposito2022Alphafold).
+
+KCTD14 does not form a stable complex with Cullin 3 (Cul3), a common interaction partner for many KCTD proteins, due to the presence of secondary structure elements within the α2β3 loop that make it too rigid for interaction (Balasco2024A). Although KCTD14 shares 40% identity with KCTD7, it was detected in co-immunoprecipitation assays with KCTD5, suggesting a potential interaction, although the significance of this interaction is not explicitly stated (Liao2023KCTD5). Despite these findings, further experimental validation is needed to confirm these interactions and elucidate the functional roles of KCTD14 in cellular processes.
+
+
+## References
+
+
+[1. (Liao2023KCTD5) Yini Liao, Douglas C. Sloan, Josephine H. Widjaja, and Brian S. Muntean. Kctd5 forms hetero-oligomeric complexes with various members of the kctd protein family. International Journal of Molecular Sciences, 24(18):14317, September 2023. URL: http://dx.doi.org/10.3390/ijms241814317, doi:10.3390/ijms241814317. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms241814317)
+
+[2. (Esposito2021AlphaFoldPredicted) Luciana Esposito, Nicole Balasco, Giovanni Smaldone, Rita Berisio, Alessia Ruggiero, and Luigi Vitagliano. Alphafold-predicted structures of kctd proteins unravel previously undetected relationships among the members of the family. Biomolecules, 11(12):1862, December 2021. URL: http://dx.doi.org/10.3390/biom11121862, doi:10.3390/biom11121862. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom11121862)
+
+[3. (Esposito2022Alphafold) Luciana Esposito, Nicole Balasco, and Luigi Vitagliano. Alphafold predictions provide insights into the structural features of the functional oligomers of all members of the kctd family. International Journal of Molecular Sciences, 23(21):13346, November 2022. URL: http://dx.doi.org/10.3390/ijms232113346, doi:10.3390/ijms232113346. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms232113346)
+
+[4. (Balasco2024A) Nicole Balasco, Luciana Esposito, Giovanni Smaldone, Marco Salvatore, and Luigi Vitagliano. A comprehensive analysis of the structural recognition between kctd proteins and cullin 3. International Journal of Molecular Sciences, 25(3):1881, February 2024. URL: http://dx.doi.org/10.3390/ijms25031881, doi:10.3390/ijms25031881. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25031881)

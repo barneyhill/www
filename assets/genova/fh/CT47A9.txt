@@ -1,0 +1,21 @@
+# CT47A9
+
+## Overview
+CT47A9 is a gene that encodes the protein cancer/testis antigen family 47 member A9, which is part of a group of proteins known as cancer/testis antigens. These proteins are typically expressed in germ cells within the testis and are aberrantly reactivated in various cancer types, making them of particular interest in cancer research and immunotherapy (Pertea2018CHESS:; Pertea2018Thousands). The CT47A9 protein is not expressed in normal somatic tissues, which underscores its potential as a biomarker for cancer diagnosis and as a target for therapeutic interventions. The gene's expression is associated with tumorigenesis, and it is involved in specific cancer pathways, as evidenced by its co-expression with other genes in the CT47A family (Ye2020Detecting).
+
+## Clinical Significance
+CT47A9 is a member of the cancer/testis antigen family, which is typically expressed in germ cells and reactivated in certain tumors. Its expression pattern makes it a potential target for cancer immunotherapy, as these antigens are often restricted to cancerous tissues and the testis, minimizing the risk of off-target effects in other healthy tissues (Pertea2018CHESS:; Pertea2018Thousands). 
+
+Alterations in the expression of CT47A9 have been associated with tumorigenesis. The gene is not expressed in normal somatic tissues, as evidenced by its absence in GTEx samples, which do not include germ cells or tumor tissues (Pertea2018CHESS:; Pertea2018Thousands). This restricted expression pattern suggests that CT47A9 could serve as a biomarker for certain cancers, particularly those where it is reactivated. 
+
+In cancer subtype 3, CT47A9 is part of a dense subgraph of co-expressed genes, indicating a close relationship with other genes in the CT47A family. This suggests that CT47A9 may play a role in specific cancer pathways or processes, although the exact clinical significance of these interactions remains to be fully elucidated (Ye2020Detecting).
+
+
+## References
+
+
+[1. (Pertea2018CHESS:) Mihaela Pertea, Alaina Shumate, Geo Pertea, Ales Varabyou, Florian P. Breitwieser, Yu-Chi Chang, Anil K. Madugundu, Akhilesh Pandey, and Steven L. Salzberg. Chess: a new human gene catalog curated from thousands of large-scale rna sequencing experiments reveals extensive transcriptional noise. Genome Biology, November 2018. URL: http://dx.doi.org/10.1186/s13059-018-1590-2, doi:10.1186/s13059-018-1590-2. This article has 225 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13059-018-1590-2)
+
+2. (Pertea2018Thousands) Thousands of large-scale RNA sequencing experiments yield a comprehensive new human gene list and reveal extensive transcriptional noise. This article has 26 citations.
+
+[3. (Ye2020Detecting) Xiucai Ye, Weihang Zhang, Yasunori Futamura, and Tetsuya Sakurai. Detecting interactive gene groups for single-cell rna-seq data based on co-expression network analysis and subgraph learning. Cells, 9(9):1938, August 2020. URL: http://dx.doi.org/10.3390/cells9091938, doi:10.3390/cells9091938. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells9091938)

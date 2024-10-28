@@ -1,0 +1,46 @@
+# ARFGAP3
+
+## Overview
+ARFGAP3 is a gene that encodes the protein ADP ribosylation factor GTPase activating protein 3, which is a member of the ArfGAP family. This protein plays a pivotal role in intracellular vesicle trafficking and receptor sorting, particularly within the Golgi apparatus and endosomal systems. As a GTPase-activating protein, ARFGAP3 is involved in the regulation of coat protein complex I (COPI) vesicles, facilitating the uncoating process essential for efficient cargo transport (Weimer2008Differential). The protein is characterized by a GTPase-activating domain, a zinc finger motif, and a central basic stretch that are crucial for its function and localization (Liu2001Functional; Kliouchnikov2009Discrete). ARFGAP3's interactions with other proteins, such as RIBEYE and paxillin, highlight its involvement in cellular processes like synaptic ribbon complex regulation and prostate cancer cell proliferation (Dembla2014ArfGAP3; Obinata2011ARFGAP3). The gene's expression and activity are significant in the context of cancer biology, making it a potential target for therapeutic interventions (Obinata2011ARFGAP3).
+
+## Structure
+The ARFGAP3 protein is composed of 516 amino acids and features a GTPase-activating protein (GAP) domain essential for its catalytic activity (Liu2001Functional). This domain includes a distinctive GATA-1-type zinc finger motif (CX2CX16CX2C), which is crucial for its function (Liu2001Functional). The protein also contains a central basic stretch (residues 215-242) that is important for coatomer binding and Golgi localization (Kliouchnikov2009Discrete). 
+
+The C-terminal region of ARFGAP3, specifically residues 485-510, can form an amphipathic helix, which is significant for Golgi localization (Kliouchnikov2009Discrete). This amphipathic motif is conserved in related proteins and is involved in interactions with lipid membranes (Kliouchnikov2009Discrete). 
+
+ARFGAP3 interacts with RIBEYE in the photoreceptor synaptic ribbon complex, where it forms a redox-sensitive complex regulated by NAD(H) levels (Dembla2014ArfGAP3). The interaction is mediated by the ArfGAP-domain, which binds to the NADH-binding subdomain of RIBEYE(B) (Dembla2014ArfGAP3). The protein's C terminus is involved in membrane and cargo binding, similar to its function at the Golgi apparatus (Dembla2014ArfGAP3).
+
+## Function
+ARFGAP3 is a member of the ArfGAP family of proteins, which play a crucial role in receptor sorting and intracellular vesicle trafficking in mammalian cells. It is specifically involved in the transport of the Mannose 6-phosphate receptor (MPR) from early to late endosomes, a function not shared by other ArfGAPs like ArfGAP1 or ArfGAP2 (Unknownauthors2014ArfGAPs:keyregulatorsforreceptorsorting). ARFGAP3 also regulates the transport of the Epidermal Growth Factor Receptor (EGFR) while not affecting pathways such as transferrin receptor recycling (Unknownauthors2014ArfGAPs:keyregulatorsforreceptorsorting).
+
+In the context of COPI vesicle trafficking, ARFGAP3 is involved in the regulation of coat protein complex I (COPI) vesicles, essential for transport processes within the Golgi apparatus. It is recruited to the Golgi membrane via interactions with coatomer, a component of COPI vesicles, and is more efficient in uncoating than ArfGAP1 (Weimer2008Differential). ARFGAP3's activity is crucial for the uncoating of vesicles and the efficient uptake of cargo molecules, playing a role in the assembly-disassembly cycle of the COPI coat (Weimer2008Differential).
+
+## Clinical Significance
+ARFGAP3 has been implicated in the progression of prostate cancer, particularly in its role as an androgen-regulated gene that promotes cell proliferation and migration. Overexpression of ARFGAP3 in prostate cancer cells, such as LNCaP cells, enhances cell proliferation and migration, suggesting its involvement in tumor aggressiveness (Obinata2011ARFGAP3). The gene is upregulated by dihydrotestosterone (DHT), indicating its regulation by androgens, which are critical in prostate cancer progression (Obinata2011ARFGAP3).
+
+ARFGAP3 interacts with paxillin, a focal adhesion adaptor protein, influencing focal adhesion dynamics and cell motility. This interaction is crucial for androgen receptor (AR) activation, a key driver of prostate cancer cell growth. ARFGAP3 may contribute to AR hypersensitivity, allowing prostate cancer cells to grow even under androgen-depleted conditions, characteristic of castration-resistant prostate cancer (Obinata2011ARFGAP3).
+
+Knockdown of ARFGAP3 using siRNA reduces cell growth, supporting its role in cancer cell proliferation and suggesting that alterations in ARFGAP3 expression could serve as a therapeutic target or diagnostic marker for tumor aggressiveness (Obinata2011ARFGAP3). The exact mechanisms by which ARFGAP3 influences paxillin and AR activity require further investigation (Obinata2011ARFGAP3).
+
+## Interactions
+ARFGAP3 interacts with several proteins, playing a significant role in various cellular processes. In prostate cancer cells, ARFGAP3 interacts with paxillin, a focal adhesion adaptor protein. This interaction is crucial for cell mobility and migration, as it regulates paxillin-dependent activation of the androgen receptor (AR), enhancing AR coactivation and promoting prostate cancer cell proliferation and migration (Obinata2011ARFGAP3).
+
+In the context of the photoreceptor synaptic ribbon complex, ARFGAP3 forms a redox-sensitive complex with RIBEYE, a major component of the synaptic ribbon. This interaction is regulated by NAD(H) and is important for endocytic membrane retrieval at the synaptic ribbon. The ArfGAP-domain of ARFGAP3 is responsible for binding to RIBEYE, although the initial interaction does not require the catalytic activity of the ArfGAP-domain (Dembla2014ArfGAP3).
+
+ARFGAP3 also interacts with Arf1, a protein involved in vesicle trafficking. The binding of RIBEYE to ARFGAP3 can prevent the inactivation of Arf1, thus controlling Arf1 function at the synaptic ribbon complex. This interaction is competitive, as increasing concentrations of Arf1 inhibit the binding of RIBEYE to ARFGAP3 and vice versa (Dembla2014ArfGAP3).
+
+
+## References
+
+
+[1. (Liu2001Functional) Xiaoqin Liu, Chenggang Zhang, Guichun Xing, Qingtang Chen, and Fuchu He. Functional characterization of novel human arfgap3. FEBS Letters, 490(1–2):79–83, February 2001. URL: http://dx.doi.org/10.1016/s0014-5793(01)02134-2, doi:10.1016/s0014-5793(01)02134-2. This article has 30 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0014-5793(01)02134-2)
+
+[2. (Kliouchnikov2009Discrete) Lena Kliouchnikov, Joëlle Bigay, Bruno Mesmin, Anna Parnis, Moran Rawet, Noga Goldfeder, Bruno Antonny, and Dan Cassel. Discrete determinants in arfgap2/3 conferring golgi localization and regulation by the copi coat. Molecular Biology of the Cell, 20(3):859–869, February 2009. URL: http://dx.doi.org/10.1091/mbc.e08-10-1010, doi:10.1091/mbc.e08-10-1010. This article has 38 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e08-10-1010)
+
+[3. (Unknownauthors2014ArfGAPs:keyregulatorsforreceptorsorting) Unknown authors. Arfgaps: key regulators for receptor sorting. Receptors &amp; Clinical Investigation, June 2014. URL: http://dx.doi.org/10.14800/RCI.158, doi:10.14800/rci.158. This article has 7 citations.](https://doi.org/10.14800/RCI.158)
+
+[4. (Weimer2008Differential) Carolin Weimer, Rainer Beck, Priska Eckert, Ingeborg Reckmann, Jörg Moelleken, Britta Brügger, and Felix Wieland. Differential roles of arfgap1, arfgap2, and arfgap3 in copi trafficking. The Journal of Cell Biology, 183(4):725–735, November 2008. URL: http://dx.doi.org/10.1083/jcb.200806140, doi:10.1083/jcb.200806140. This article has 57 citations.](https://doi.org/10.1083/jcb.200806140)
+
+[5. (Dembla2014ArfGAP3) Mayur Dembla, Silke Wahl, Rashmi Katiyar, and Frank Schmitz. Arfgap3 is a component of the photoreceptor synaptic ribbon complex and forms an nad(h)-regulated, redox-sensitive complex with ribeye that is important for endocytosis. The Journal of Neuroscience, 34(15):5245–5260, April 2014. URL: http://dx.doi.org/10.1523/JNEUROSCI.3837-13.2014, doi:10.1523/jneurosci.3837-13.2014. This article has 38 citations.](https://doi.org/10.1523/JNEUROSCI.3837-13.2014)
+
+[6. (Obinata2011ARFGAP3) Daisuke Obinata, Ken‐ichi Takayama, Tomohiko Urano, Taro Murata, Kazuhiro Ikeda, Kuniko Horie‐Inoue, Yasuyoshi Ouchi, Satoru Takahashi, and Satoshi Inoue. Arfgap3, an androgen target gene, promotes prostate cancer cell proliferation and migration. International Journal of Cancer, 130(10):2240–2248, September 2011. URL: http://dx.doi.org/10.1002/ijc.26224, doi:10.1002/ijc.26224. This article has 18 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/ijc.26224)

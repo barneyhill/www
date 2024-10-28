@@ -1,0 +1,35 @@
+# GPR137B
+
+## Overview
+GPR137B is a gene that encodes the G protein-coupled receptor 137B, a lysosome-localized receptor-like protein involved in critical cellular processes such as cell growth, autophagy, and metabolism. As a member of the G protein-coupled receptor (GPCR) family, GPR137B plays a pivotal role in the regulation of the mechanistic target of rapamycin complex 1 (mTORC1) signaling pathway by interacting with Rag small GTPases and other components of the mTORC1 regulatory machinery (Gan2019The). This interaction facilitates the recruitment and activation of mTORC1 at lysosomes, even in the absence of amino acids, thereby influencing protein synthesis and cell size regulation (Gan2019The). The protein's involvement in lysosomal signaling and its impact on autophagy and lysosomal morphology underscore its significance in maintaining cellular homeostasis and its potential implications in various diseases, including cancer and bone disorders (Gan2019The; Urso2019A).
+
+## Function
+GPR137B is a lysosome-localized G-protein coupled receptor-like protein that plays a crucial role in regulating cell growth, autophagy, and metabolism in healthy human cells. It interacts with Rag small GTPases, enhancing their localization and activity at lysosomes, which in turn regulates the translocation and activity of the mTORC1 kinase, a key protein complex involved in cell growth and protein synthesis (Gan2019The). GPR137B can recruit and activate mTORC1 even in the absence of amino acids, and it regulates the dissociation of activated Rag from lysosomes (Gan2019The). Knockdown of GPR137B reduces mTORC1 activity, as evidenced by decreased phosphorylation of mTORC1 substrates such as S6K and 4E-BP1, which are critical for protein synthesis and cell size regulation (Gan2019The).
+
+GPR137B also affects autophagy, as its knockdown leads to increased autophagosome formation and accumulation of autophagy markers, indicating defects in autophagy flux (Gan2019The). In zebrafish, GPR137B mutants exhibit upregulated TFEB target gene expression and an expanded lysosome compartment, similar to RagA mutants, highlighting its role in lysosomal morphology and function (Gan2019The).
+
+## Clinical Significance
+GPR137B has been implicated in several diseases due to its role in cellular signaling pathways. Alterations in GPR137B expression have been associated with cancer, particularly in the context of mTORC1 signaling, which is crucial for cell growth and metabolism. The protein can activate mTORC1 even in amino acid-starved conditions, suggesting its involvement in cancer cell survival and growth pathways (Gan2019The). High expression of GPR137B has been linked to drug resistance mechanisms in breast cancer, where it is one of the genes overexpressed and potentially involved in resistance pathways (Kaya2024MicroRNAs).
+
+In bone remodeling, GPR137B acts as a negative regulator of osteoclast activity. Its deficiency leads to increased osteoclast differentiation and bone resorption, which could contribute to conditions like osteoporosis (Urso2019A). In zebrafish, loss of GPR137B function results in increased osteoclast activity, suggesting a conserved role in skeletal homeostasis (Urso2019A).
+
+GPR137B's interaction with mTORC1 and Rag GTPases also suggests its potential involvement in lysosomal storage disorders, as its dysregulation affects lysosomal morphology and autophagy (Gan2019The). These findings highlight GPR137B as a potential therapeutic target in diseases where these pathways are disrupted.
+
+## Interactions
+GPR137B, a lysosomal GPCR-like protein, is involved in several key interactions with proteins that regulate cellular signaling pathways. It physically interacts with components of the mTORC1 regulatory machinery, including mTOR, raptor, and RagA, as demonstrated by coimmunoprecipitation studies in HEK293T cells (Gan2019The). GPR137B also forms an amino acid-stimulated interaction with itself, which is dependent on the presence of Rags, suggesting its role in an amino acid-regulated lysosomal signaling complex (Gan2019The).
+
+GPR137B increases the lysosomal localization of RagA and mTOR, a process that is independent of sestrins but dependent on the Ragulator complex (Gan2019The). Knockdown of GPR137B results in reduced lysosomal localization of RagA and RagC, indicating its role in regulating Rag localization (Gan2019The). The protein also enhances RagA GTP loading, which is crucial for mTORC1 recruitment to lysosomes, even in the absence of amino acids (Gan2019The).
+
+In addition to its interactions with mTORC1 components, GPR137B has been identified in new interactions with BRAF, suggesting previously unrecognized pathways in protein interaction networks (Nguyen2024Contrastive). These interactions highlight GPR137B's significant role in regulating mTORC1 activity and lysosomal signaling.
+
+
+## References
+
+
+[1. (Gan2019The) Lin Gan, Akiko Seki, Kimberle Shen, Harini Iyer, Kyuho Han, Arnold Hayer, Roy Wollman, Xuecai Ge, Jerry R. Lin, Gautam Dey, William S. Talbot, and Tobias Meyer. The lysosomal gpcr-like protein gpr137b regulates rag and mtorc1 localization and activity. Nature Cell Biology, 21(5):614–626, April 2019. URL: http://dx.doi.org/10.1038/s41556-019-0321-6, doi:10.1038/s41556-019-0321-6. This article has 36 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41556-019-0321-6)
+
+[2. (Urso2019A) K. Urso, J. Caetano-Lopes, P.Y. Lee, J. Yan, K. Henke, M. Sury, H. Liu, M. Zgoda, C. Jacome-Galarza, P.A. Nigrovic, J. Duryea, M.P. Harris, and J.F. Charles. A role for g protein-coupled receptor 137b in bone remodeling in mouse and zebrafish. Bone, 127:104–113, October 2019. URL: http://dx.doi.org/10.1016/j.bone.2019.06.002, doi:10.1016/j.bone.2019.06.002. This article has 7 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.bone.2019.06.002)
+
+[3. (Kaya2024MicroRNAs) Murat Kaya. Micrornas and their targets could have a crucial role in breast cancer drug resistance: a bioinformatics research. Genel Tıp Dergisi, 34(4):458–464, August 2024. URL: http://dx.doi.org/10.54005/geneltip.1431670, doi:10.54005/geneltip.1431670. This article has 0 citations.](https://doi.org/10.54005/geneltip.1431670)
+
+4. (Nguyen2024Contrastive) Contrastive Learning for Graph-Based Biological Interaction Discovery: Insights from Oncologic Pathways. This article has 0 citations.

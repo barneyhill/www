@@ -1,0 +1,41 @@
+# RASAL2
+
+## Overview
+RASAL2, or RAS protein activator like 2, is a gene that encodes a member of the GAP1 family of GTPase-activating proteins. The protein product of RASAL2 functions primarily as a GTPase-activating protein (GAP) for RAS, a small GTPase involved in various cellular processes, including cell proliferation, differentiation, and survival. RASAL2 is involved in the negative regulation of RAS signaling pathways, thereby influencing cellular dynamics and oncogenic processes. The protein has been implicated in several types of cancer, where it can act either as a tumor suppressor or an oncogene, depending on the cellular context. Its interactions with other proteins, such as PRKAA, ARHGAP24, and IPO5, underscore its multifaceted role in cellular signaling and cancer progression (Feng2014RASAL2; Zhang2019IPO5; Hui2017RASAL2).
+
+## Function
+
+
+## Clinical Significance
+RASAL2 has been implicated in various cancers, with its role differing depending on the cancer type. In colorectal cancer (CRC), RASAL2 is generally downregulated, and this reduction is associated with increased tumor proliferation, epithelial-mesenchymal transition (EMT), and metastasis. The downregulation of RASAL2 in CRC is linked to poor clinical outcomes and advanced disease stages (Jia2017Downregulation). Conversely, in breast cancer, particularly triple-negative breast cancer (TNBC), RASAL2 acts as an oncogene. It is overexpressed in TNBC, promoting invasion and metastasis through RAC1 activation, independent of its RAS-GAP activity (Feng2014RASAL2). High RASAL2 expression in TNBC is associated with poor prognosis and chemoresistance, although it may increase sensitivity to MEK and EGFR inhibitors (Koh2021RASAL2).
+
+In prostate cancer, RASAL2 functions as an oncogene, enhancing tumor growth via the PI3K/AKT/cyclin D1 pathway (Wang2022RASAL2). In bladder cancer, RASAL2 acts as a tumor suppressor, with its downregulation linked to increased cancer stemness and EMT through the MAPK/SOX2 pathway (Hui2017RASAL2). These findings highlight the context-dependent role of RASAL2 in cancer progression and its potential as a therapeutic target.
+
+## Interactions
+RASAL2 interacts with several proteins, playing a significant role in various cellular processes. It physically interacts with PRKAA, a key regulator in autophagy, as confirmed by co-immunoprecipitation assays in 293 T and MCF7 cells. This interaction is crucial for regulating PRKAA phosphorylation, although RASAL2 itself is not a phosphatase. Instead, it interacts with PPM1B, a metal-dependent protein phosphatase, enhancing the interaction between PPM1B and PRKAA, leading to decreased phosphorylation of PRKAA (Bao2021PRKAAAMPKα).
+
+In triple-negative breast cancer (TNBC) cells, RASAL2 interacts with ARHGAP24, a RAC1 GTPase-activating protein. This interaction, which requires the GAP domain of RASAL2 but not its GAP activity, negatively regulates ARHGAP24's activity, enhancing RAC1 activity and promoting cell invasiveness (Feng2014RASAL2).
+
+RASAL2 also interacts with IPO5 in colorectal cancer cells, where it acts as a cargo protein for IPO5, facilitating its nuclear transport. This interaction is dependent on a nuclear localization signal within RASAL2, and mutations in this signal prevent its nuclear translocation, impacting RAS signaling activation (Zhang2019IPO5).
+
+In renal cell carcinoma, RASAL2 interacts with GSK3β, potentially activating it and affecting the phosphorylation of GSK3β on Ser9, which is linked to the regulation of c-FOS and VEGFA expression involved in tumor angiogenesis (Hui2018The).
+
+
+## References
+
+
+[1. (Jia2017Downregulation) Zeming Jia, Weidong Liu, Liansheng Gong, and Zhongfu Xiao. Downregulation of rasal2 promotes the proliferation, epithelial-mesenchymal transition and metastasis of colorectal cancer cells. Oncology Letters, 13(3):1379–1385, January 2017. URL: http://dx.doi.org/10.3892/ol.2017.5581, doi:10.3892/ol.2017.5581. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2017.5581)
+
+[2. (Bao2021PRKAAAMPKα) Yong Bao, Christopher Qian, Meng-Yue Liu, Fei Jiang, Xiaoxiao Jiang, Huijuan Liu, Zhuqing Zhang, Fanghui Sun, Ningwei Fu, Zhaoyuan Hou, Ya Ke, Yan Li, and Zhong-Ming Qian. Prkaa/ampkα phosphorylation switches the role of rasal2 from a suppressor to an activator of autophagy. Autophagy, 17(11):3607–3621, February 2021. URL: http://dx.doi.org/10.1080/15548627.2021.1886767, doi:10.1080/15548627.2021.1886767. This article has 10 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2021.1886767)
+
+[3. (Hui2017RASAL2) Ke Hui, Yang Gao, Jun Huang, Shan Xu, Bin Wang, Jin Zeng, Jinhai Fan, Xinyang Wang, Yangyang Yue, Shiqi Wu, Jer-Tsong Hsieh, Dalin He, and Kaijie Wu. Rasal2, a ras gtpase-activating protein, inhibits stemness and epithelial–mesenchymal transition via mapk/sox2 pathway in bladder cancer. Cell Death &amp; Disease, 8(2):e2600–e2600, February 2017. URL: http://dx.doi.org/10.1038/cddis.2017.9, doi:10.1038/cddis.2017.9. This article has 33 citations.](https://doi.org/10.1038/cddis.2017.9)
+
+[4. (Hui2018The) Ke Hui, Yangyang Yue, Shiqi Wu, Yanan Gu, Bing Guan, Xinyang Wang, Jer-Tsong Hsieh, Luke S. Chang, Dalin He, and Kaijie Wu. The expression and function of rasal2 in renal cell carcinoma angiogenesis. Cell Death &amp; Disease, August 2018. URL: http://dx.doi.org/10.1038/s41419-018-0898-x, doi:10.1038/s41419-018-0898-x. This article has 17 citations.](https://doi.org/10.1038/s41419-018-0898-x)
+
+[5. (Zhang2019IPO5) Wenjuan Zhang, Yanxia Lu, Xiaomin Li, Jianming Zhang, Weihao Lin, Wei Zhang, Lin Zheng, and Xuenong Li. Ipo5 promotes the proliferation and tumourigenicity of colorectal cancer cells by mediating rasal2 nuclear transportation. Journal of Experimental &amp; Clinical Cancer Research, July 2019. URL: http://dx.doi.org/10.1186/s13046-019-1290-0, doi:10.1186/s13046-019-1290-0. This article has 30 citations.](https://doi.org/10.1186/s13046-019-1290-0)
+
+[6. (Koh2021RASAL2) Siang-Boon Koh, Kenneth Ross, Steven J. Isakoff, Nsan Melkonjan, Lei He, Karina J. Matissek, Andrew Schultz, Erica L. Mayer, Tiffany A. Traina, Lisa A. Carey, Hope S. Rugo, Minetta C. Liu, Vered Stearns, Adam Langenbucher, Srinivas Vinod Saladi, Sridhar Ramaswamy, Michael S. Lawrence, and Leif W. Ellisen. Rasal2 confers collateral mek/egfr dependency in chemoresistant triple-negative breast cancer. Clinical Cancer Research, 27(17):4883–4897, June 2021. URL: http://dx.doi.org/10.1158/1078-0432.CCR-21-0714, doi:10.1158/1078-0432.ccr-21-0714. This article has 13 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/1078-0432.CCR-21-0714)
+
+[7. (Feng2014RASAL2) Min Feng, Yi Bao, Zhimei Li, Juntao Li, Min Gong, Stella Lam, Jinhua Wang, Diego M. Marzese, Nicholas Donovan, Ern Yu Tan, Dave S.B. Hoon, and Qiang Yu. Rasal2 activates rac1 to promote triple-negative breast cancer progression. Journal of Clinical Investigation, 124(12):5291–5304, November 2014. URL: http://dx.doi.org/10.1172/jci76711, doi:10.1172/jci76711. This article has 65 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci76711)
+
+[8. (Wang2022RASAL2) Qi Wang, Shiqi Wu, Yanan Gu, Hua Liang, Fei He, Xinyang Wang, Dalin He, and Kaijie Wu. Rasal2 regulates the cell cycle and cyclin d1 expression through pi3k/akt signalling in prostate tumorigenesis. Cell Death Discovery, June 2022. URL: http://dx.doi.org/10.1038/s41420-022-01069-3, doi:10.1038/s41420-022-01069-3. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-022-01069-3)

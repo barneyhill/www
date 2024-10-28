@@ -1,0 +1,52 @@
+# SHKBP1
+
+## Overview
+SHKBP1 is a gene that encodes the SH3KBP1 binding protein 1, a protein involved in various cellular processes, particularly in protein-protein interactions and ubiquitination pathways. The protein is characterized by its BTB domain, which facilitates interactions with other proteins, such as Cullin 3, and plays a role in forming stable complexes that are crucial for its function (Balasco2024A). SH3KBP1 binding protein 1 acts as an adaptor protein for Cullin E3 ligases, contributing to protein degradation pathways (Skoblov2013Protein). Functionally, it is involved in the regulation of epidermal growth factor receptor (EGFR) degradation by interacting with CIN85, thereby influencing cellular signaling pathways related to growth and proliferation (Feng2011SH3KBP1‐binding). The gene's expression and the protein's interactions have significant implications in cancer biology, where alterations in SHKBP1 are linked to drug resistance and tumor progression, highlighting its potential as a therapeutic target (Xie2020Exosomal; Wang2019The).
+
+## Structure
+The SHKBP1 protein, also known as SH3KBP1 binding protein 1, is characterized by its involvement in protein-protein interactions, primarily through its BTB domain. This domain is crucial for the protein's structural stability and function, allowing it to interact with other proteins such as Cullin 3 (Cul3) (Balasco2024A). Molecular dynamics simulations have shown that the BTB domain of SHKBP1 is stable in a monomeric state, with well-preserved secondary structure elements (Balasco2019The). 
+
+Despite being stable as a monomer, SHKBP1 can form stable pentameric complexes with Cul3, indicating a versatile quaternary structure that adapts depending on its binding partners (Balasco2024A). The protein's structure is influenced by local features such as the α2β3 loop, which can affect its ability to bind Cul3 (Balasco2024A). 
+
+SHKBP1 is also involved in ubiquitination processes, functioning as an adaptor protein for Cullin E3 ligases, which are essential for protein degradation pathways (Skoblov2013Protein). The presence of splice variant isoforms may contribute to its functional diversity in different cellular contexts, although specific details on these isoforms are not provided in the available context.
+
+## Function
+SHKBP1 (SH3KBP1 binding protein 1) plays a crucial role in regulating the degradation of the epidermal growth factor receptor (EGFR) in healthy human cells. It achieves this by interacting with CIN85, a protein involved in EGFR endocytosis and degradation. SHKBP1 contains two PXXXPR motifs that are essential for binding to the SH3 domains of CIN85. This interaction is constitutive and not affected by EGF stimulation, indicating a stable role for SHKBP1 in modulating EGFR degradation (Feng2011SH3KBP1‐binding).
+
+By binding to CIN85, SHKBP1 competes with c-Cbl, a ubiquitin ligase that promotes EGFR degradation. This competition prevents the formation of the c-Cbl-CIN85 complex, thereby inhibiting the translocation of CIN85 to EGFR-containing vesicles. As a result, EGFR degradation is reduced, which enhances EGF-induced serum response element transcription activity (Feng2011SH3KBP1‐binding). This mechanism is important for maintaining tissue homeostasis and preventing aberrations in EGFR activity that could lead to cancer development (Feng2011SH3KBP1‐binding).
+
+SHKBP1's role in modulating EGFR signaling pathways suggests its involvement in cellular processes related to growth and proliferation, highlighting its potential impact on cell biology and organismal outcomes (Feng2011SH3KBP1‐binding).
+
+## Clinical Significance
+Alterations in the expression of the SHKBP1 gene have been implicated in various cancers. In osteosarcoma, elevated SHKBP1 expression is associated with resistance to epidermal growth factor receptor (EGFR) inhibitors, such as erlotinib. This resistance is mediated through the TGFβ-miR-499a-SHKBP1 pathway, which induces epithelial-mesenchymal transition (EMT) and activates the PI3K-AKT pathway independently of EGFR (Wang2019The). 
+
+In gastric cancer, circSHKBP1, a circular RNA derived from the SHKBP1 gene, is overexpressed and correlates with advanced disease stages and poor prognosis. It promotes cancer progression by enhancing VEGF translation and stabilizing HSP90, which supports tumor growth and metastasis (Xie2020Exosomal). 
+
+SHKBP1 also plays a role in immune regulation. Knockout studies in mice have shown that the absence of SHKBP1 enhances CD8+ T-cell function, leading to increased antitumor immunity and reduced tumor growth. This suggests that SHKBP1 may be a potential target for cancer immunotherapy (Guo2023CD8). 
+
+These findings highlight the clinical significance of SHKBP1 in cancer development and treatment resistance, suggesting its potential as a biomarker and therapeutic target.
+
+## Interactions
+SHKBP1, also known as SH3KBP1 binding protein 1, is involved in several protein-protein interactions that play crucial roles in cellular processes. SHKBP1 interacts with the CIN85 protein through its PXXXPR motifs, specifically PSPSPR and PTPAPR. This interaction is mediated by the SH3 domains of CIN85 and is constitutive, not affected by EGF stimulation. SHKBP1 competes with c-Cbl for binding to CIN85, suggesting that it can interfere with the c-Cbl-CIN85 complex formation by sequestering CIN85. This interaction is specific to the PXXXPR motifs of SHKBP1, as mutations in these motifs abolish the interaction with CIN85 (Feng2011SH3KBP1‐binding).
+
+SHKBP1 also plays a role in modulating EGFR signaling by disrupting the c-Cbl-CIN85 complex, which is essential for the negative feedback regulation of EGFR signaling. By binding to CIN85, SHKBP1 inhibits the translocation of CIN85 to EGFR-containing vesicles, thereby reducing EGFR degradation and enhancing EGF-induced serum response element transcription activity (Feng2011SH3KBP1‐binding).
+
+These interactions highlight SHKBP1's role in cellular signaling pathways, particularly in the context of receptor endocytosis and degradation, by modulating the interactions between key signaling proteins.
+
+
+## References
+
+
+[1. (Feng2011SH3KBP1‐binding) Lifeng Feng, Jin‐Tao Wang, Hongchuan Jin, Kaixian Qian, and Jian‐Guo Geng. Sh3kbp1‐binding protein 1 prevents epidermal growth factor receptor degradation by the interruption of c‐cbl‐cin85 complex. Cell Biochemistry and Function, 29(7):589–596, August 2011. URL: http://dx.doi.org/10.1002/cbf.1792, doi:10.1002/cbf.1792. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/cbf.1792)
+
+[2. (Balasco2024A) Nicole Balasco, Luciana Esposito, Giovanni Smaldone, Marco Salvatore, and Luigi Vitagliano. A comprehensive analysis of the structural recognition between kctd proteins and cullin 3. International Journal of Molecular Sciences, 25(3):1881, February 2024. URL: http://dx.doi.org/10.3390/ijms25031881, doi:10.3390/ijms25031881. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25031881)
+
+[3. (Guo2023CD8) Xiaolan Guo, Haobin Li, Xiuqiong Meng, ZhiBin Zhao, Rongxin Zhang, Lijing Wang, and Jiangchao Li. Cd8 + t-cell number and function are altered by shkbp1 knockout mediated suppression of tumor growth in mice. Molecular Immunology, 160:32–43, August 2023. URL: http://dx.doi.org/10.1016/j.molimm.2023.06.004, doi:10.1016/j.molimm.2023.06.004. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.molimm.2023.06.004)
+
+[4. (Skoblov2013Protein) Mikhail Skoblov, Andrey Marakhonov, Ekaterina Marakasova, Anna Guskova, Vikas Chandhoke, Aybike Birerdinc, and Ancha Baranova. Protein partners of <scp>kctd</scp> proteins provide insights about their functional roles in cell differentiation and vertebrate development. BioEssays, 35(7):586–596, April 2013. URL: http://dx.doi.org/10.1002/bies.201300002, doi:10.1002/bies.201300002. This article has 72 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/bies.201300002)
+
+[5. (Xie2020Exosomal) Mengyan Xie, Tao Yu, Xinming Jing, Ling Ma, Yu Fan, Fengming Yang, Pei Ma, Huning Jiang, Xi Wu, Yongqian Shu, and Tongpeng Xu. Exosomal circshkbp1 promotes gastric cancer progression via regulating the mir-582-3p/hur/vegf axis and suppressing hsp90 degradation. Molecular Cancer, June 2020. URL: http://dx.doi.org/10.1186/s12943-020-01208-3, doi:10.1186/s12943-020-01208-3. This article has 263 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s12943-020-01208-3)
+
+[6. (Balasco2019The) Nicole Balasco, Giovanni Smaldone, and Luigi Vitagliano. The structural versatility of the btb domains of kctd proteins and their recognition of the gabab receptor. Biomolecules, 9(8):323, July 2019. URL: http://dx.doi.org/10.3390/biom9080323, doi:10.3390/biom9080323. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom9080323)
+
+[7. (Wang2019The) Tian Wang, Dexing Wang, Lian Zhang, Ping Yang, Jing Wang, Qi Liu, Fei Yan, and Feng Lin. The tgfβ-mir-499a-shkbp1 pathway induces resistance to egfr inhibitors in osteosarcoma cancer stem cell-like cells. Journal of Experimental &amp; Clinical Cancer Research, May 2019. URL: http://dx.doi.org/10.1186/s13046-019-1195-y, doi:10.1186/s13046-019-1195-y. This article has 39 citations.](https://doi.org/10.1186/s13046-019-1195-y)

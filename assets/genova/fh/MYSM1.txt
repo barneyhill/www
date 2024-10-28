@@ -1,0 +1,56 @@
+# MYSM1
+
+## Overview
+MYSM1 is a gene that encodes the protein Myb like, SWIRM and MPN domains 1, which functions as a deubiquitinase. This protein is primarily localized in the nucleus, where it plays a pivotal role in chromatin remodeling and gene expression regulation by deubiquitinating histone H2A at lysine 119, a modification crucial for transcriptional activation (Förster2015Deubiquitinase). MYSM1 is integral to hematopoiesis and immune cell development, influencing the expression of ribosomal protein genes and modulating immune response pathways through interactions with proteins such as TRAF3 and TRAF6 (Fiore2020Deubiquitinase; Belle2020MYSM1). Additionally, MYSM1's involvement in various signaling pathways underscores its importance in maintaining cellular homeostasis and its potential implications in clinical conditions such as bone marrow failure and colorectal cancer (Bahrami2017Myblike; Chen2021MYSM1).
+
+## Structure
+The MYSM1 protein is a nuclear chromatin-binding protein that plays a critical role in hematopoiesis and immune cell development. It contains several distinct domains that contribute to its function. The Myb-like SANT domain is involved in DNA binding, while the SWIRM domain mediates interactions with histones and other proteins, facilitating chromatin remodeling (Liang2023Deubiquitinase). The MPN domain, characterized by a JAB1-MPN-MOV34 (JAMM) motif, provides deubiquitinase (DUB) catalytic activity, essential for hydrolyzing ubiquitin-linked isopeptide bonds. This motif is crucial for coordinating Zn2+ ions necessary for its catalytic function (Liang2023Deubiquitinase).
+
+The protein's structure is integral to its role in histone deubiquitination, a post-translational modification that influences gene regulation. While specific details on the primary, secondary, tertiary, and quaternary structures are not provided, the presence of these domains suggests a complex folding pattern that supports its enzymatic and binding activities. The MYSM1 protein's ability to interact with chromatin and other proteins is likely facilitated by these structural features, which are critical for its function in maintaining hematopoietic and immune cell development (Liang2023Deubiquitinase).
+
+## Function
+MYSM1 is a deubiquitinase that plays a critical role in regulating gene expression and maintaining cellular functions in healthy human cells. It primarily localizes to the nucleus, where it interacts with chromatin to deubiquitinate histone H2A at lysine 119 (H2AK119ub), a repressive epigenetic mark. This activity is essential for activating gene expression, as the removal of this ubiquitin mark facilitates transcriptional activation (Fiore2020Deubiquitinase; Förster2015Deubiquitinase).
+
+MYSM1 is crucial for the function of hematopoietic stem cells (HSCs) and the normal progression of hematopoiesis. It regulates the expression of ribosomal protein genes, which are vital for ribosome function and protein synthesis in HSCs. MYSM1 deficiency leads to hematopoietic dysfunction, characterized by anemia and leukopenia, due to dysregulation of these genes and subsequent activation of the p53 stress response pathway (Belle2020MYSM1).
+
+In addition to its nuclear functions, MYSM1 also exists in a cytosolic form, where it regulates innate immunity signal transduction by deubiquitinating proteins such as TRAF3, TRAF6, and RIP2, which are involved in immune response pathways (Fiore2020Deubiquitinase). This dual localization underscores MYSM1's multifaceted role in maintaining cellular homeostasis and immune function.
+
+## Clinical Significance
+Mutations in the MYSM1 gene are associated with several clinical conditions, primarily affecting the hematopoietic and immune systems. MYSM1 deficiency can lead to progressive bone marrow failure (BMF), characterized by myelodysplastic features, immunodeficiency, and developmental aberrations. Patients with MYSM1 mutations often present with anemia, thrombocytopenia, lymphopenia, and neutropenia, along with skeletal anomalies and neurocognitive developmental delays (Bahrami2017Myblike). 
+
+MYSM1 deficiency also results in increased sensitivity to genotoxic stress, leading to genomic instability and elevated reactive oxygen species production. This condition is linked to prolonged G1-phase arrest and increased apoptosis rates in affected cells (Bahrami2017Myblike). 
+
+In addition to hematopoietic disorders, MYSM1 mutations have been implicated in colorectal cancer (CRC) tumorigenesis. MYSM1 plays a role in inhibiting the epithelial-mesenchymal transition (EMT) and suppressing the PI3K/AKT signaling pathway, which are crucial for CRC progression. Alterations in MYSM1 expression can lead to increased CRC cell migration and metastasis (Chen2021MYSM1). 
+
+Overall, MYSM1 is essential for maintaining normal hematopoietic and immune functions, and its deficiency or altered expression can lead to severe clinical manifestations.
+
+## Interactions
+MYSM1 is involved in various protein interactions that play significant roles in immune regulation and gene transcription. In the context of innate immunity, MYSM1 interacts with TRAF3 and TRAF6 complexes, where it specifically removes K63-linked polyubiquitin chains, thereby modulating pro-inflammatory and type I IFN responses (Panda2015Deubiquitinase). MYSM1's interaction with these complexes is facilitated by its SWIRM and MPN domains, which are crucial for its deubiquitinase activity (Panda2015Deubiquitinase).
+
+In breast cancer, MYSM1 acts as a co-activator of estrogen receptor alpha (ERα), enhancing its transcriptional activity through histone and non-histone deubiquitination. This interaction is particularly significant in the context of antiestrogen resistance, where MYSM1 associates with the ERα-AF2 fragment (Luan2022MYSM1).
+
+MYSM1 also interacts with the NOD2:RIP2 signaling complex, where it removes K63, K27, and M1-linked polyubiquitin chains from RIP2, thereby attenuating NOD2-mediated inflammatory responses (Panda2018The). Additionally, MYSM1 interacts with NFIL3, which is crucial for the recruitment to the ID2 locus, a key site in natural killer cell development (Nandakumar2013Epigenetic).
+
+
+## References
+
+
+[1. (Nandakumar2013Epigenetic) Vijayalakshmi Nandakumar, YuChia Chou, Linda Zang, Xue F. Huang, and Si-Yi Chen. Epigenetic control of natural killer cell maturation by histone h2a deubiquitinase, mysm1. Proceedings of the National Academy of Sciences, September 2013. URL: http://dx.doi.org/10.1073/pnas.1308888110, doi:10.1073/pnas.1308888110. This article has 60 citations.](https://doi.org/10.1073/pnas.1308888110)
+
+[2. (Förster2015Deubiquitinase) Michael Förster, Jad I. Belle, Jessica C. Petrov, Edward J. Ryder, Simon Clare, and Anastasia Nijnik. Deubiquitinase mysm1 is essential for normal fetal liver hematopoiesis and for the maintenance of hematopoietic stem cells in adult bone marrow. Stem Cells and Development, 24(16):1865–1877, August 2015. URL: http://dx.doi.org/10.1089/scd.2015.0058, doi:10.1089/scd.2015.0058. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1089/scd.2015.0058)
+
+[3. (Liang2023Deubiquitinase) Yue Liang, Garvit Bhatt, Lin Tze Tung, HanChen Wang, Joo Eun Kim, Marwah Mousa, Viktoria Plackoska, Katalin Illes, Anna A. Georges, Philippe Gros, Linda Henneman, Ivo J. Huijbers, Bhushan Nagar, and Anastasia Nijnik. Deubiquitinase catalytic activity of mysm1 is essential in vivo for hematopoiesis and immune cell development. Scientific Reports, January 2023. URL: http://dx.doi.org/10.1038/s41598-023-27486-7, doi:10.1038/s41598-023-27486-7. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-023-27486-7)
+
+[4. (Panda2018The) Swarupa Panda and Nelson O. Gekara. The deubiquitinase mysm1 dampens nod2-mediated inflammation and tissue damage by inactivating the rip2 complex. Nature Communications, November 2018. URL: http://dx.doi.org/10.1038/s41467-018-07016-0, doi:10.1038/s41467-018-07016-0. This article has 39 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-07016-0)
+
+[5. (Belle2020MYSM1) Jad I. Belle, HanChen Wang, Amanda Fiore, Jessica C. Petrov, Yun Hsiao Lin, Chu-Han Feng, Thi Tuyet Mai Nguyen, Jacky Tung, Philippe M. Campeau, Uta Behrends, Theresa Brunet, Gloria Sarah Leszinski, Philippe Gros, David Langlais, and Anastasia Nijnik. Mysm1 maintains ribosomal protein gene expression in hematopoietic stem cells to prevent hematopoietic dysfunction. JCI Insight, July 2020. URL: http://dx.doi.org/10.1172/jci.insight.125690, doi:10.1172/jci.insight.125690. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1172/jci.insight.125690)
+
+6. (Luan2022MYSM1) MYSM1 co-activates ERα action via histone and non-histone deubiquitination to confer antiestrogen resistance in breast cancer. This article has 0 citations.
+
+[7. (Panda2015Deubiquitinase) Swarupa Panda, Jonas A. Nilsson, and Nelson O. Gekara. Deubiquitinase mysm1 regulates innate immunity through inactivation of traf3 and traf6 complexes. Immunity, 43(4):647–659, October 2015. URL: http://dx.doi.org/10.1016/j.immuni.2015.09.010, doi:10.1016/j.immuni.2015.09.010. This article has 70 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.immuni.2015.09.010)
+
+[8. (Chen2021MYSM1) Xu Chen, Wei Wang, Yufang Li, Yi Huo, Han Zhang, Fan Feng, Wenjin Xi, Tianze Zhang, Jinjian Gao, Fan Yang, Siyi Chen, Angang Yang, and Tao Wang. Mysm1 inhibits human colorectal cancer tumorigenesis by activating mir-200 family members/cdh1 and blocking pi3k/akt signaling. Journal of Experimental &amp; Clinical Cancer Research, October 2021. URL: http://dx.doi.org/10.1186/s13046-021-02106-2, doi:10.1186/s13046-021-02106-2. This article has 8 citations.](https://doi.org/10.1186/s13046-021-02106-2)
+
+[9. (Fiore2020Deubiquitinase) Amanda Fiore, Yue Liang, Yun Hsiao Lin, Jacky Tung, HanChen Wang, David Langlais, and Anastasia Nijnik. Deubiquitinase mysm1 in the hematopoietic system and beyond: a current review. International Journal of Molecular Sciences, 21(8):3007, April 2020. URL: http://dx.doi.org/10.3390/ijms21083007, doi:10.3390/ijms21083007. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21083007)
+
+[10. (Bahrami2017Myblike) Ehsan Bahrami, Maximilian Witzel, Tomas Racek, Jacek Puchałka, Sebastian Hollizeck, Naschla Greif-Kohistani, Daniel Kotlarz, Hans-Peter Horny, Regina Feederle, Heinrich Schmidt, Roya Sherkat, Doris Steinemann, Gudrun Göhring, Brigitte Schlegelbeger, Michael H. Albert, Waleed Al-Herz, and Christoph Klein. Myb-like, swirm, and mpn domains 1 (mysm1) deficiency: genotoxic stress-associated bone marrow failure and developmental aberrations. Journal of Allergy and Clinical Immunology, 140(4):1112–1119, October 2017. URL: http://dx.doi.org/10.1016/j.jaci.2016.10.053, doi:10.1016/j.jaci.2016.10.053. This article has 40 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.jaci.2016.10.053)

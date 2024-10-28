@@ -1,0 +1,48 @@
+# STYX
+
+## Overview
+STYX is a gene that encodes a pseudophosphatase protein known as serine/threonine/tyrosine interacting protein. Unlike typical phosphatases, the STYX protein is catalytically inactive due to a substitution of a critical cysteine residue with glycine, rendering it unable to dephosphorylate substrates. Despite this, STYX plays a significant role in cellular signaling, particularly within the MAPK/ERK pathway, by acting as a regulatory anchor for ERK1/2. It influences the localization and activity of ERK proteins, thereby affecting various cellular processes such as cell migration and cell-fate decisions. STYX also interacts with the F-box protein FBXW7, suggesting a role in the regulation of protein degradation pathways. These interactions highlight its importance in maintaining cellular function and its potential implications in diseases such as cancer and neurodevelopmental disorders (Reiterer2013Pseudophosphatase; Reiterer2016The; Hepworth2021Pseudophosphatases).
+
+## Structure
+STYX (serine/threonine/tyrosine interacting protein) is a pseudophosphatase characterized by its dual-specificity phosphatase-like domain, which is crucial for its protein-protein interactions. The protein is catalytically inactive due to a glycine residue at position 120, replacing the critical cysteine necessary for phosphatase activity (Reiterer2013Pseudophosphatase). This mutation renders STYX unable to perform typical phosphatase functions, but it still plays significant roles in cellular signaling pathways, particularly in the MAPK/ERK pathway (Reiterer2013Pseudophosphatase).
+
+STYX interacts with the F-box protein FBXW7 through specific motifs, notably the FQQ motif, which is under strong purifying selection, indicating its importance in this interaction (Qi2022Evolutionary). The interaction with FBXW7 is competitive with SKP1, suggesting a regulatory role in the SCF ubiquitin ligase complex (Reiterer2016The). The protein also competes with DUSP4 for ERK binding, influencing ERK's localization and activity (Murphy2017Live).
+
+STYX may undergo post-translational modifications, such as phosphorylation, and exists in multiple splice variant isoforms, which could affect its function and interactions. The protein's structure and interactions are integral to its role as a signaling regulator, despite its lack of catalytic activity.
+
+## Function
+The STYX gene encodes a pseudophosphatase that plays a crucial role in regulating cellular signaling pathways, particularly the MAPK/ERK pathway. Although STYX lacks catalytic activity due to the absence of a critical cysteine residue, it functions as a regulatory anchor for ERK1/2, influencing its localization and activity within the cell (Reiterer2013Pseudophosphatase; Hepworth2021Pseudophosphatases). STYX predominantly localizes to the nucleus, where it competes with DUSP4 for binding to ERK2, thereby modulating ERK nuclear export and maintaining the balance of ERK activity between the nucleus and cytosol (Reiterer2013Pseudophosphatase).
+
+STYX also interacts with the F-box protein FBXW7, a component of the SCF ubiquitin ligase complex, which is involved in targeting proteins for degradation. This interaction suggests a regulatory role for STYX in protein degradation pathways, potentially influencing cell proliferation and survival (Reiterer2016The). In healthy human cells, STYX's modulation of ERK signaling is involved in processes such as cell-fate decisions, cell migration, and Golgi apparatus orientation, which are essential for proper cellular function and development (Reiterer2013Pseudophosphatase).
+
+## Clinical Significance
+The STYX gene, encoding a pseudophosphatase, is implicated in various diseases due to alterations in its expression and interactions. In cancer, STYX plays a significant role by interacting with the F-box protein FBXW7, a tumor suppressor. This interaction inhibits FBXW7's function, leading to the accumulation of oncogenic proteins and promoting cancer progression. In breast cancer, high STYX expression correlates with poor survival outcomes, as it is upregulated in cancerous tissues while FBXW7 is downregulated (Reiterer2016The). In colorectal cancer, STYX contributes to oncogenesis by inhibiting the degradation of cyclin E and c-Jun, promoting cell proliferation and epithelial to mesenchymal transition (Mattei2021The).
+
+In gastric cancer, STYX is highly expressed and associated with poor prognosis. It promotes cancer progression by inhibiting FBXO31, affecting the degradation of CyclinD1 and Snail1, which are involved in cell cycle regulation and epithelial-mesenchymal transition. Helicobacter pylori infection can induce STYX expression, further contributing to gastric cancer progression (Liu2022Pseudophosphatase).
+
+STYX is also linked to neurodevelopmental disorders and autoimmune diseases, although these associations are less well understood. Its role in these conditions may be related to its regulatory functions in cellular signaling pathways (Hepworth2021Pseudophosphatases).
+
+## Interactions
+STYX, a pseudophosphatase, is known for its interactions with various proteins, influencing several cellular processes. One of its significant interactions is with the F-box protein FBXW7. STYX binds to the F-box domain of FBXW7, inhibiting its assembly into the SCF complex, which is crucial for the degradation of oncogenic substrates. This interaction is competitive with SKP1, as STYX binds to FBXW7 in a manner mutually exclusive with SKP1, thereby affecting the stability of FBXW7 substrates like c-myc and cyclin E (Reiterer2016The).
+
+STYX also interacts with ERK proteins, particularly ERK2, acting as a nuclear anchor and modulator of ERK signaling. It binds both phosphorylated and unphosphorylated forms of ERK, influencing ERK's distribution between the nucleus and cytosol, which affects cell migration and cell-fate decisions (Reiterer2013Pseudophosphatase).
+
+In gastric cancer, STYX interacts with FBXO31, inhibiting its function and disrupting the degradation of proteins like CyclinD1 and Snail1, which are involved in cell cycle regulation and epithelial-mesenchymal transition (Liu2022Pseudophosphatase). These interactions highlight STYX's role in modulating key signaling pathways and its potential impact on cancer progression.
+
+
+## References
+
+
+[1. (Liu2022Pseudophosphatase) Jiansong Liu, Yichen Zang, Cunying Ma, Dandan Wang, Zhuangfei Tian, Xia Xu, Wenjuan Li, Jihui Jia, and Zhifang Liu. Pseudophosphatase styx is induced by helicobacter pylori and promotes gastric cancer progression by inhibiting fbxo31 function. Cell Death &amp; Disease, March 2022. URL: http://dx.doi.org/10.1038/s41419-022-04696-x, doi:10.1038/s41419-022-04696-x. This article has 3 citations.](https://doi.org/10.1038/s41419-022-04696-x)
+
+[2. (Hepworth2021Pseudophosphatases) Emma Marie Wilber Hepworth and Shantá D. Hinton. Pseudophosphatases as regulators of mapk signaling. International Journal of Molecular Sciences, 22(22):12595, November 2021. URL: http://dx.doi.org/10.3390/ijms222212595, doi:10.3390/ijms222212595. This article has 34 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms222212595)
+
+[3. (Reiterer2013Pseudophosphatase) Veronika Reiterer, Dirk Fey, Walter Kolch, Boris N. Kholodenko, and Hesso Farhan. Pseudophosphatase styx modulates cell-fate decisions and cell migration by spatiotemporal regulation of erk1/2. Proceedings of the National Academy of Sciences, July 2013. URL: http://dx.doi.org/10.1073/pnas.1301985110, doi:10.1073/pnas.1301985110. This article has 51 citations.](https://doi.org/10.1073/pnas.1301985110)
+
+[4. (Reiterer2016The) Veronika Reiterer, Cristina Figueras‐Puig, Francois Le Guerroue, Stefano Confalonieri, Manuela Vecchi, Dasaradha Jalapothu, Sandip M Kanse, Raymond J Deshaies, Pier Paolo Di Fiore, Christian Behrends, and Hesso Farhan. The pseudophosphatase <scp>styx</scp> targets the f‐box of <scp>fbxw</scp>7 and inhibits <scp>scf</scp>fbxw7 function. The EMBO Journal, 36(3):260–273, December 2016. URL: http://dx.doi.org/10.15252/embj.201694795, doi:10.15252/embj.201694795. This article has 24 citations.](https://doi.org/10.15252/embj.201694795)
+
+[5. (Mattei2021The) Andrew M. Mattei, Jonathan D. Smailys, Emma Marie Wilber Hepworth, and Shantá D. Hinton. The roles of pseudophosphatases in disease. International Journal of Molecular Sciences, 22(13):6924, June 2021. URL: http://dx.doi.org/10.3390/ijms22136924, doi:10.3390/ijms22136924. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms22136924)
+
+[6. (Murphy2017Live) James M Murphy, Peter D Mace, and Patrick A Eyers. Live and let die: insights into pseudoenzyme mechanisms from structure. Current Opinion in Structural Biology, 47:95–104, December 2017. URL: http://dx.doi.org/10.1016/j.sbi.2017.07.004, doi:10.1016/j.sbi.2017.07.004. This article has 90 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.sbi.2017.07.004)
+
+[7. (Qi2022Evolutionary) Yi Qi, Di Kuang, Kylan Kelley, William J. Buchser, and Shantá D. Hinton. Evolutionary genomic relationships and coupling in mk-styx and styx pseudophosphatases. Scientific Reports, March 2022. URL: http://dx.doi.org/10.1038/s41598-022-07943-5, doi:10.1038/s41598-022-07943-5. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-022-07943-5)

@@ -1,0 +1,52 @@
+# OXSR1
+
+## Overview
+The OXSR1 gene encodes the protein oxidative stress responsive kinase 1, a serine/threonine kinase that plays a pivotal role in cellular responses to oxidative stress and ion transport regulation. As a member of the kinase family, OXSR1 is involved in various signaling pathways that maintain cellular homeostasis and protect against oxidative damage. The protein is characterized by its classic bi-lobal kinase fold and is known to interact with WNK kinases and other proteins, such as SPAK and Cab39, to regulate ion transporters like the Na-K-2Cl cotransporter. OXSR1's activity is crucial for sodium transport regulation in the kidney and is modulated by factors such as SGLT2 inhibitors. Clinically, alterations in OXSR1 expression and function have been linked to conditions such as asthma, epilepsy, and mycobacterial infections, highlighting its significance in both physiological and pathological contexts (Kim2022Association; Nakamura2023Oxidativestressresponsive; Gagnon2012Molecular).
+
+## Structure
+The OXSR1 protein, also known as oxidative stress responsive kinase 1, is a serine/threonine kinase with a classic bi-lobal kinase fold. Its structure includes an amino-terminal lobe with five-stranded antiparallel β sheets and a carboxyl-terminal lobe composed mainly of α helices and additional β sheets (Gagnon2012Molecular). A conserved lysine residue at the end of the β3 sheet is essential for ATP binding, while the DFG sequence between β8 and αAL binds Mg2+ and positions ATP for phosphotransfer. The activation loop, marked by the DFG sequence, contains a primary phospho-threonine residue targeted by WNK kinases (Gagnon2012Molecular).
+
+The protein's catalytic domain features a substrate pocket formed by hydrophobic residues in the P+1 loop and αG helix. Crystallographic studies have shown that OXSR1's catalytic domains can dimerize and swap activation segments, a process important for SPAK function (Gagnon2012Molecular). The PF2 domain, located in the carboxyl-terminal, interacts with WNK4 peptides, forming a negatively charged primary pocket and a secondary hydrophobic pocket (Gagnon2012Molecular). Mutations in this binding pocket can disrupt WNK4-SPAK activation of NKCC1 (Gagnon2012Molecular). The protein may undergo post-translational modifications such as phosphorylation, which could regulate kinase-substrate interactions (Gagnon2012Molecular).
+
+## Function
+OXSR1, or oxidative stress responsive kinase 1, is a serine/threonine kinase that plays a crucial role in regulating ion transport and maintaining cellular homeostasis. In healthy human cells, OXSR1 is involved in the WNK1/Oxsr1 signaling pathway, which is essential for sodium transport regulation in the proximal tubules (PT) of the kidney. This pathway mediates the effects of insulin, PPARγ agonists, and angiotensin II on sodium reabsorption, highlighting OXSR1's role as a master regulator of sodium transport in PTs (Nakamura2023Oxidativestressresponsive).
+
+OXSR1 is active in the cytoplasm and is implicated in signaling pathways that protect cells from oxidative damage, contributing to cellular survival and homeostasis. It phosphorylates downstream targets, such as the sodium-glucose cotransporter (SGLT)2, which is involved in sodium transport stimulation in the PT (Nakamura2023Oxidativestressresponsive). The kinase's activity is modulated by various agents, including SGLT2 inhibitors like canagliflozin, which inhibit OXSR1 phosphorylation and thus affect sodium reabsorption (Nakamura2023Oxidativestressresponsive).
+
+OXSR1's function is critical for maintaining proper ion transport and electrolyte balance, which is essential for normal physiological function and blood pressure regulation (Gagnon2012Molecular).
+
+## Clinical Significance
+Mutations and alterations in the expression of the OXSR1 gene have been implicated in several diseases and conditions. In asthma, particularly among non-smoking individuals, genetic variants of OXSR1, such as the rs1384006 C > T single nucleotide polymorphism, are associated with increased asthma exacerbations. Individuals carrying the common allele of this SNP experience higher exacerbation rates, suggesting a genetic predisposition linked to OXSR1 that may influence asthma management strategies (Kim2022Association).
+
+In the context of epilepsy, the OXSR1 gene is targeted by microRNA-25-3p, which suppresses epileptiform discharges by reducing oxidative stress and apoptosis in neurons. Lower levels of miR-25-3p and increased OXSR1 expression are observed in epileptic conditions, indicating that OXSR1 plays a role in promoting oxidative stress and neuronal apoptosis, contributing to epileptic activity (Li2020MicroRNA253p).
+
+OXSR1 is also involved in mycobacterial infections, where it inhibits inflammasome activation by limiting potassium efflux. This suppression of the inflammasome response aids in the survival of pathogenic mycobacteria, suggesting that targeting OXSR1 could enhance host immunity and serve as a therapeutic strategy against such infections (Hortle2022OXSR1).
+
+## Interactions
+OXSR1, also known as oxidative stress responsive kinase 1, is involved in various protein interactions that are crucial for its role in cellular stress responses and ion transport regulation. OXSR1 interacts with WNK kinases, particularly WNK1 and WNK4, which phosphorylate and activate OXSR1. This activation is essential for the regulation of ion transporters such as the Na-K-2Cl cotransporter (NKCC1) (Moriguchi2005WNK1; Vitari2005The). 
+
+OXSR1 also forms complexes with SPAK, another Ste20-related kinase, sharing similar binding motifs and regulatory functions. These interactions are mediated through the C-terminal domains of OXSR1, which recognize specific sequence motifs like R-x-F-x-V/I, found in several inward rectifier potassium channels (IRKs) (Taylor2018OSR1; Gagnon2012Molecular). 
+
+Additionally, OXSR1 interacts with Cab39, a scaffolding protein that enhances its kinase activity, and with various proteins identified through genome-wide analyses, which contain the SPAK/OSR1 binding motif (Delpire2007Genomewide; Gagnon2012Molecular). These interactions highlight the role of OXSR1 in regulating ion transport and cellular responses to oxidative stress.
+
+
+## References
+
+
+[1. (Gagnon2012Molecular) Kenneth B. Gagnon and Eric Delpire. Molecular physiology of spak and osr1: two ste20-related protein kinases regulating ion transport. Physiological Reviews, 92(4):1577–1617, October 2012. URL: http://dx.doi.org/10.1152/physrev.00009.2012, doi:10.1152/physrev.00009.2012. This article has 103 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1152/physrev.00009.2012)
+
+2. (Nakamura2023Oxidativestressresponsive) Oxidative-stress-responsive kinase 1 is the master regulator of proximal tubular sodium transport. This article has 0 citations.
+
+[3. (Kim2022Association) Min-Hye Kim, Hun Soo Chang, Jong-Uk Lee, Ji-Su Shim, Jong-Sook Park, Young-Joo Cho, and Choon-Sik Park. Association of genetic variants of oxidative stress responsive kinase 1 (oxsr1) with asthma exacerbations in non-smoking asthmatics. BMC Pulmonary Medicine, January 2022. URL: http://dx.doi.org/10.1186/s12890-021-01741-x, doi:10.1186/s12890-021-01741-x. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12890-021-01741-x)
+
+[4. (Moriguchi2005WNK1) Tetsuo Moriguchi, Seiichi Urushiyama, Naoki Hisamoto, Shun-ichiro Iemura, Shinichi Uchida, Tohru Natsume, Kunihiro Matsumoto, and Hiroshi Shibuya. Wnk1 regulates phosphorylation of cation-chloride-coupled cotransporters via the ste20-related kinases, spak and osr1. Journal of Biological Chemistry, 280(52):42685–42693, December 2005. URL: http://dx.doi.org/10.1074/jbc.m510042200, doi:10.1074/jbc.m510042200. This article has 390 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m510042200)
+
+[5. (Hortle2022OXSR1) Elinor Hortle, Vi LT Tran, Kathryn Wright, Angela RM Fontaine, Natalia Pinello, Matthew B O’Rourke, Justin J-L Wong, Philip M Hansbro, Warwick J Britton, and Stefan H Oehlers. Oxsr1 inhibits inflammasome activation by limiting potassium efflux during mycobacterial infection. Life Science Alliance, 5(9):e202201476, May 2022. URL: http://dx.doi.org/10.26508/lsa.202201476, doi:10.26508/lsa.202201476. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202201476)
+
+[6. (Taylor2018OSR1) Clinton A. Taylor, Sung-Wan An, Sachith Gallolu Kankanamalage, Steve Stippec, Svetlana Earnest, Ashesh T. Trivedi, Jonathan Zijiang Yang, Hamid Mirzaei, Chou-Long Huang, and Melanie H. Cobb. Osr1 regulates a subset of inward rectifier potassium channels via a binding motif variant. Proceedings of the National Academy of Sciences, 115(15):3840–3845, March 2018. URL: http://dx.doi.org/10.1073/pnas.1802339115, doi:10.1073/pnas.1802339115. This article has 26 citations.](https://doi.org/10.1073/pnas.1802339115)
+
+[7. (Delpire2007Genomewide) Eric Delpire and Kenneth B. E. Gagnon. Genome-wide analysis of spak/osr1 binding motifs. Physiological Genomics, 28(2):223–231, January 2007. URL: http://dx.doi.org/10.1152/physiolgenomics.00173.2006, doi:10.1152/physiolgenomics.00173.2006. This article has 58 citations and is from a peer-reviewed journal.](https://doi.org/10.1152/physiolgenomics.00173.2006)
+
+[8. (Li2020MicroRNA253p) Rong Li, Yuetao Wen, Bing Wu, Miaoqing He, Peng Zhang, Qinbin Zhang, and Yangmei Chen. Microrna-25-3p suppresses epileptiform discharges through inhibiting oxidative stress and apoptosis via targeting oxsr1 in neurons. Biochemical and Biophysical Research Communications, 523(4):859–866, March 2020. URL: http://dx.doi.org/10.1016/j.bbrc.2020.01.050, doi:10.1016/j.bbrc.2020.01.050. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2020.01.050)
+
+[9. (Vitari2005The) Alberto C. Vitari, Maria Deak, Nick A. Morrice, and Dario R. Alessi. The wnk1 and wnk4 protein kinases that are mutated in gordon’s hypertension syndrome phosphorylate and activate spak and osr1 protein kinases. Biochemical Journal, 391(1):17–24, September 2005. URL: http://dx.doi.org/10.1042/bj20051180, doi:10.1042/bj20051180. This article has 433 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20051180)

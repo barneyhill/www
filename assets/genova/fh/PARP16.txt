@@ -1,0 +1,46 @@
+# PARP16
+
+## Overview
+PARP16, or poly(ADP-ribose) polymerase family member 16, is a gene that encodes a mono-ADP-ribosyltransferase enzyme associated with the endoplasmic reticulum (ER) in human cells. The protein product of PARP16, also known as ARTD15, is characterized by its unique structure, which includes an N-terminal cytosolic catalytic domain, a hydrophobic transmembrane domain, and a C-terminal ER-luminal domain. This structural configuration allows PARP16 to play a pivotal role in the unfolded protein response (UPR), a critical cellular stress response mechanism. The protein is involved in the ADP-ribosylation of key UPR sensors, such as PERK and IRE1α, and participates in nucleocytoplasmic transport by modifying karyopherin-β1. These functions underscore its significance in maintaining protein homeostasis and cellular stress responses, making it a potential therapeutic target in various pathological conditions, including cardiac hypertrophy, vascular diseases, and certain cancers (Di2012PARP16ARTD15; Long2021SMYD3–PARP16; Bejan2022Structureguided).
+
+## Structure
+PARP16 is an ER membrane-associated protein that plays a role in the unfolded protein response (UPR) through ADP-ribosylation. It has a distinct structure comprising an N-terminal cytosolic PARP catalytic domain, a hydrophobic transmembrane domain, and a C-terminal ER-luminal domain (Centko2020Combination). The catalytic domain is typical of PARP family proteins, facilitating its enzymatic activity. 
+
+A unique feature of PARP16 is the presence of a non-conserved cysteine residue, Cys169, within its NAD+ binding site, which has been targeted for selective inhibitor design (Bejan2022Structureguided). This cysteine allows for the development of covalent inhibitors that can selectively bind to PARP16 over other PARP family members. Additionally, PARP16 contains a unique tyrosine residue, Tyr254, in a gatekeeper position, which provides access to a hydrophobic cavity adjacent to the nicotinamide sub-pocket, further contributing to its selectivity for certain inhibitors (Bejan2022Structureguided).
+
+The protein's involvement in the UPR and ER stress signaling is significant, although its catalytic activity is not required for the UPR in all cell types, indicating potential cell-line specific roles (Bejan2022Structureguided). The structural features of PARP16, including its domains and unique residues, are crucial for its function and interaction with inhibitors.
+
+## Function
+PARP16, also known as ARTD15, is a mono-ADP-ribosyltransferase enzyme associated with the endoplasmic reticulum (ER) in human cells. It is unique among the PARP family due to its C-terminal transmembrane domain, which anchors it to the ER membrane, with its catalytic domain facing the cytoplasm (Di2012PARP16ARTD15; Bejan2022Structureguided). PARP16 plays a crucial role in the unfolded protein response (UPR), a cellular stress response related to the ER. During ER stress, PARP16 mono-ADP-ribosylates two key UPR sensors, PKR-like ER kinase (PERK) and inositol-requiring enzyme 1a (IRE1a), leading to the suppression of protein synthesis, which is essential for maintaining protein homeostasis (Centko2020Combination; Bejan2022Structureguided).
+
+PARP16 is also involved in nucleocytoplasmic transport by modifying karyopherin-β1, a protein responsible for shuttling proteins between the cytosol and the nucleus. This modification may affect the nuclear import of proteins, although the exact impact remains to be fully understood (Di2012PARP16ARTD15; Grimaldi2019ADPribosylation). Additionally, PARP16 is implicated in cellular responses to nutrient stress, where its activity influences its stability and aggregation, potentially regulating its own levels during stress conditions (Bejan2022Structureguided).
+
+## Clinical Significance
+PARP16 has been implicated in several pathological conditions due to its role in cellular stress responses and protein modification. Alterations in PARP16 expression are associated with pathological cardiac hypertrophy, a condition characterized by the enlargement of heart muscle cells, which can lead to heart failure. PARP16 activates the IRE1α-sXBP1-GATA4 pathway, crucial for mediating hypertrophic responses. Studies have shown that PARP16 deficiency can rescue cardiac dysfunction and reduce hypertrophy and fibrosis, while its overexpression exacerbates these conditions (Su2023Poly).
+
+In vascular diseases, PARP16 is involved in neointima formation, a process contributing to vascular proliferative diseases such as restenosis and atherosclerosis. PARP16 expression is upregulated in response to PDGF in vascular smooth muscle cells, promoting proliferation and migration through the unfolded protein response (UPR) pathways. Inhibition or knockdown of PARP16 reduces these effects, suggesting its role in regulating UPR balance and neointima formation (Long2021SMYD3–PARP16).
+
+PARP16 is also gaining attention as a potential therapeutic target in cancer, particularly in small cell lung cancer and ovarian cancer. Its involvement in the UPR pathway and protein synthesis regulation suggests that targeting PARP16 could impact cancer cell survival and proteostasis (Bejan2022Structureguided).
+
+## Interactions
+PARP16, also known as ARTD15, is involved in several protein interactions, particularly in the context of the endoplasmic reticulum (ER) and the unfolded protein response (UPR). It interacts with karyopherin-β1 (Kapβ1), a protein involved in nuclear transport. PARP16 catalyzes the mono-ADP-ribosylation of Kapβ1, which may play a role in regulating nuclear transport processes (Di2012PARP16ARTD15). This interaction is confirmed through co-immunoprecipitation and pull-down assays, indicating a direct physical interaction (Di2012PARP16ARTD15).
+
+PARP16 also interacts with ER stress sensors PERK and IRE1α, activating them through ADP-ribosylation. This activation is crucial for the UPR, leading to increased proliferation and migration of vascular smooth muscle cells (VSMCs) (Long2021SMYD3–PARP16). The interaction with these sensors enhances their kinase and endonuclease activities, which are essential for managing ER stress (Long2021SMYD3–PARP16).
+
+PARP16's role in these interactions highlights its importance in cellular stress responses and its potential as a therapeutic target in conditions involving ER stress and related pathologies.
+
+
+## References
+
+
+[1. (Long2021SMYD3–PARP16) Fen Long, Di Yang, Jinghua Wang, Qing Wang, Ting Ni, Gang Wei, Yizhun Zhu, and Xinhua Liu. Smyd3–parp16 axis accelerates unfolded protein response and mediates neointima formation. Acta Pharmaceutica Sinica B, 11(5):1261–1273, May 2021. URL: http://dx.doi.org/10.1016/j.apsb.2020.12.010, doi:10.1016/j.apsb.2020.12.010. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.apsb.2020.12.010)
+
+[2. (Su2023Poly) Haibi Su, Jie Xu, Zhenghua Su, Chenxi Xiao, Jinghuan Wang, Wen Zhong, Chen Meng, Di Yang, and Yizhun Zhu. Poly (adp-ribose) polymerases 16 triggers pathological cardiac hypertrophy via activating ire1α–sxbp1–gata4 pathway. Cellular and Molecular Life Sciences, May 2023. URL: http://dx.doi.org/10.1007/s00018-023-04805-9, doi:10.1007/s00018-023-04805-9. This article has 1 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-023-04805-9)
+
+[3. (Bejan2022Structureguided) Daniel S. Bejan, Sunil Sundalam, Haihong Jin, Rory K. Morgan, Ilsa T. Kirby, Ivan R. Siordia, Barr Tivon, Nir London, and Michael S. Cohen. Structure-guided design and characterization of a clickable, covalent parp16 inhibitor. Chemical Science, 13(46):13898–13906, 2022. URL: http://dx.doi.org/10.1039/d2sc04820e, doi:10.1039/d2sc04820e. This article has 8 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1039/d2sc04820e)
+
+[4. (Centko2020Combination) Ryan M. Centko, Graeme W. Carlile, Isabel Barne, Brian O. Patrick, Polina Blagojevic, David Y. Thomas, and Raymond J. Andersen. Combination of selective parp3 and parp16 inhibitory analogues of latonduine a corrects f508del-cftr trafficking. ACS Omega, 5(40):25593–25604, September 2020. URL: http://dx.doi.org/10.1021/acsomega.0c02467, doi:10.1021/acsomega.0c02467. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acsomega.0c02467)
+
+[5. (Di2012PARP16ARTD15) Simone Di Paola, Massimo Micaroni, Giuseppe Di Tullio, Roberto Buccione, and Maria Di Girolamo. Parp16/artd15 is a novel endoplasmic-reticulum-associated mono-adp-ribosyltransferase that interacts with, and modifies karyopherin-ß1. PLoS ONE, 7(6):e37352, June 2012. URL: http://dx.doi.org/10.1371/journal.pone.0037352, doi:10.1371/journal.pone.0037352. This article has 70 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0037352)
+
+[6. (Grimaldi2019ADPribosylation) Giovanna Grimaldi and Daniela Corda. Adp-ribosylation and intracellular traffic: an emerging role for parp enzymes. Biochemical Society Transactions, 47(1):357–370, February 2019. URL: http://dx.doi.org/10.1042/bst20180416, doi:10.1042/bst20180416. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1042/bst20180416)

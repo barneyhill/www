@@ -1,0 +1,39 @@
+# RNF180
+
+## Overview
+RNF180 is a gene that encodes the ring finger protein 180, a member of the E3 ubiquitin ligase family. This protein plays a pivotal role in the ubiquitin-proteasome pathway, where it facilitates the ubiquitination and subsequent degradation of target proteins, thereby maintaining cellular homeostasis. The RING domain of RNF180 is crucial for its E3 ligase activity, enabling the transfer of ubiquitin molecules to specific substrates. RNF180 is involved in regulating DNA methylation and gene expression by targeting DNA methyltransferases for degradation, which is essential for suppressing cell proliferation and metastasis. Its function as a tumor suppressor is particularly significant in various cancers, including gastric and colorectal cancer, where its expression is often downregulated due to promoter hypermethylation. This downregulation contributes to tumor progression, highlighting RNF180's potential as a biomarker for cancer prognosis and a target for therapeutic intervention (Zhang2023E3; Wei2021RNF180; Cheung2011Characterization).
+
+## Function
+RNF180, a member of the E3 ubiquitin ligase family, plays a crucial role in maintaining cellular homeostasis through its involvement in the ubiquitin-proteasome pathway. This protein is responsible for tagging specific proteins with ubiquitin molecules, marking them for degradation. In healthy human cells, RNF180 is involved in regulating DNA methylation and maintaining normal gene expression patterns by targeting DNA methyltransferase 1 (DNMT1) for degradation. This process prevents excessive methylation of genes such as PCDH10, which is important for suppressing cell proliferation and metastasis (Zhang2023E3).
+
+RNF180's function is dependent on its RING domain, which is essential for its E3 ligase activity. This domain facilitates the transfer of ubiquitin molecules to target proteins, thereby regulating their stability and turnover (Zhang2023E3). Although the specific functions of RNF180 in healthy cells are not extensively detailed, it is suggested that RNF180 maintains certain expression levels crucial for normal physiological functions. Under abnormal conditions, such as exposure to stressors, the expression or function of RNF180 may decline, potentially leading to diseases, including malignant tumors (Wu2020RNF180).
+
+## Clinical Significance
+RNF180 is implicated in various cancers, primarily gastric cancer, where it functions as a tumor suppressor. Its expression is frequently downregulated in gastric cancer due to promoter hypermethylation, a common event in 76% of gastric cancer tissues and 55% of intestinal metaplasia cases, a precancerous condition (Cheung2011Characterization). This methylation leads to the silencing of RNF180, contributing to tumor progression by reducing its ability to regulate downstream targets involved in antiproliferation and proapoptotic pathways, such as MTSS1, CDKN2A, and TIMP3 (Cheung2011Characterization). The loss of RNF180 expression is associated with advanced tumor stages and poorer survival outcomes in gastric cancer patients (Cheung2011Characterization).
+
+In colorectal cancer, RNF180 is also downregulated, promoting cell proliferation and reducing apoptosis. Its overexpression inhibits tumor growth and induces apoptosis, suggesting a tumor-suppressive role (Wei2021RNF180). RNF180's interaction with other proteins, such as DNMT1, further underscores its clinical significance. It promotes the degradation of DNMT1, preventing excessive methylation of tumor suppressor genes like PCDH10, which is crucial for inhibiting tumorigenesis and metastasis in gastric cancer (Zhang2023E3). These findings highlight RNF180's potential as a biomarker for cancer prognosis and a target for therapeutic intervention.
+
+## Interactions
+RNF180, a ring finger protein, functions as an E3 ubiquitin ligase and is involved in several protein interactions that influence cancer progression. In colorectal cancer, RNF180 interacts with the WISP1 protein, promoting its ubiquitination and degradation, which leads to decreased WISP1 stability and increased apoptosis in cancer cells (Wei2021RNF180).
+
+In gastric cancer, RNF180 interacts with the STAT3 signaling pathway by targeting the RhoC protein for ubiquitination and degradation. This interaction results in reduced phosphorylation of STAT3, inhibiting cancer cell proliferation and invasion (Wu2020RNF180). RNF180 also interacts with DNA methyltransferases, such as DNMT1 and DNMT3A, promoting their degradation. This action prevents excessive methylation of tumor suppressor genes like PCDH10 and ADAMTS9, thereby restoring their expression and inhibiting cancer cell proliferation and metastasis (Zhang2023E3; Sun2020RNF180; Sun2021DNMT3Amediated).
+
+In non-small cell lung cancer, RNF180 enhances the ubiquitination of the c-Myc protein, leading to its decreased expression and reduced tumorigenicity, glycolysis, and cell proliferation (Ding2022Ring). These interactions highlight RNF180's role as a tumor suppressor through its ubiquitin ligase activity.
+
+
+## References
+
+
+[1. (Zhang2023E3) Nannan Zhang, Xiaoliang Gao, Qiangqiang Yuan, Xin Fu, Pengliang Wang, Fenglin Cai, Hui Liu, Jing Zhang, Han Liang, Yongzhan Nie, and Jingyu Deng. E3 ubiquitin ligase rnf180 prevents excessive pcdh10 methylation to suppress the proliferation and metastasis of gastric cancer cells by promoting ubiquitination of dnmt1. Clinical Epigenetics, May 2023. URL: http://dx.doi.org/10.1186/s13148-023-01492-y, doi:10.1186/s13148-023-01492-y. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13148-023-01492-y)
+
+[2. (Ding2022Ring) Yi Ding, Yi Lu, Xinjie Xie, Lei Cao, and Shiying Zheng. Ring finger protein 180 suppresses cell proliferation and energy metabolism of non-small cell lung cancer through downregulating c-myc. World Journal of Surgical Oncology, May 2022. URL: http://dx.doi.org/10.1186/s12957-022-02599-x, doi:10.1186/s12957-022-02599-x. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12957-022-02599-x)
+
+3. (Wu2020RNF180) RNF180 mediates STAT3 activity by regulating the expression of RhoC via the proteasomal pathway in gastric cancer cells. This article has 2 citations.
+
+[4. (Sun2021DNMT3Amediated) Weilin Sun, Gang Ma, Li Zhang, Pengliang Wang, Nannan Zhang, Zizhen Wu, Yinping Dong, Fenglin Cai, Liqiao Chen, Huifang Liu, Han liang, and Jingyu Deng. Dnmt3a-mediated silence in adamts9 expression is restored by rnf180 to inhibit viability and motility in gastric cancer cells. Cell Death &amp; Disease, April 2021. URL: http://dx.doi.org/10.1038/s41419-021-03628-5, doi:10.1038/s41419-021-03628-5. This article has 22 citations.](https://doi.org/10.1038/s41419-021-03628-5)
+
+[5. (Wei2021RNF180) Feng Wei, Sang Ba, Mei Jin, Ren Ci, Xuelian Wang, Fusheng E, and Ziwen Long. Rnf180 inhibits proliferation and promotes apoptosis of colorectal cancer through ubiquitination of wisp1. Frontiers in Cell and Developmental Biology, January 2021. URL: http://dx.doi.org/10.3389/fcell.2020.623455, doi:10.3389/fcell.2020.623455. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2020.623455)
+
+[6. (Cheung2011Characterization) Kin‐Fai Cheung, Cleo N. Y. Lam, Kaichun Wu, Enders K. O. Ng, Wilson W. S. Chong, Alfred S. L. Cheng, Ka‐Fai To, Daiming Fan, Joseph J. Y. Sung, and Jun Yu. Characterization of the gene structure, functional significance, and clinical application of rnf180, a novel gene in gastric cancer. Cancer, 118(4):947–959, June 2011. URL: http://dx.doi.org/10.1002/cncr.26189, doi:10.1002/cncr.26189. This article has 59 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/cncr.26189)
+
+7. (Sun2020RNF180) RNF180 Suppresses Methylation of ADAMTS9 DNA Promotor by Ubiquitinating DNMT3A Inhibiting Metastasis in Gastric Cancer. This article has 0 citations.

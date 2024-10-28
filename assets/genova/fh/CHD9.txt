@@ -1,0 +1,42 @@
+# CHD9
+
+## Overview
+CHD9, or chromodomain helicase DNA binding protein 9, is a gene that encodes a member of the chromodomain helicase DNA-binding (CHD) family of proteins, which are integral to chromatin remodeling and transcription regulation. The CHD9 protein is characterized by its multiple functional domains, including chromodomains, helicase domains, and DNA-binding motifs, which facilitate its role in modifying chromatin structure and influencing gene expression. As a chromatin remodeler, CHD9 is involved in the ATP-dependent repositioning of nucleosomes, interacting with specific histone modifications such as H3K4me2/3, H3K9me2/3, and H3K27me3. This protein is predominantly active in the nucleus and is implicated in various biological processes, including neuronal function and stem cell biology. Despite its widespread expression and involvement in critical cellular functions, CHD9 is not essential for murine development, suggesting potential redundancy with other CHD family members (Alendar2020Gene; Salomon‐Kent2015New).
+
+## Structure
+CHD9 is a member of the chromodomain helicase DNA-binding (CHD) family, characterized by its involvement in chromatin remodeling and transcription regulation. The protein contains multiple domains, including chromodomains, helicase domains, and DNA-binding motifs such as the A/T hook. CHD9 is part of the third subfamily of CHD proteins, which includes SANT and BRK domains. The SANT domain is crucial for chromatin interaction, while the BRK motif is shared with other chromatin remodelers like BRG1 and BRM (Salomon‐Kent2015New).
+
+CHD9 has two highly conserved chromodomains that interact with methylated histone H3 tails, showing high affinity for K9me2/3 and K27me3 peptides. This interaction is essential for its role in chromatin remodeling (Salomon‐Kent2015New). The protein also contains a long stretch of serine residues near the C-terminus, which are potential phosphorylation sites, indicating post-translational modifications that may influence its function and localization (Salomon‐Kent2015New).
+
+The protein exists in different forms based on its phosphorylation status, with one form, n-CHD9, localizing to the nucleoli and associating with active ribosomal DNA transcription (Salomon‐Kent2015New). The structural details of CHD9, such as its primary, secondary, tertiary, and quaternary structures, are not fully detailed in the available literature.
+
+## Function
+CHD9 (chromodomain helicase DNA binding protein 9) is a member of the CHD family of chromatin remodelers, which are involved in regulating transcription and DNA repair by controlling nucleosomal structure and phasing. In healthy human cells, CHD9 functions as a transcriptional regulator, interacting with modified histones such as H3K4me2/3, H3K9me2/3, and H3K27me3, and can reposition nucleosomes in an ATP-dependent manner (Alendar2020Gene). This protein is primarily active in the nucleus, where it associates with nuclear receptors and contributes to glucocorticoid receptor-mediated gene expression regulation (Alendar2020Gene).
+
+CHD9 is ubiquitously expressed in murine tissues, with the highest levels observed in the brain, suggesting a potential role in neuronal processes (Alendar2020Gene). Despite its involvement in various biological processes, including stem cell biology and osteogenesis, CHD9 is dispensable for murine development, as knockout mice are viable and fertile without developmental defects (Alendar2020Gene). This indicates that CHD9's role as a chromatin regulator may be highly context-dependent, with potential compensatory mechanisms or functional redundancy with other CHD proteins (Alendar2020Gene).
+
+## Clinical Significance
+Alterations in the expression of the CHD9 gene have been implicated in various cancers. In gastric cancer, CHD9 is upregulated and plays a role in promoting cancer progression. This is mediated through the circPDZD8/miR-197-5p/CHD9 axis, where circPDZD8 acts as a competing endogenous RNA, sponging miR-197-5p and thereby regulating CHD9 expression. The overexpression of CHD9 can counteract the inhibitory effects of miR-197-5p on cell growth and migration, suggesting its oncogenic potential in gastric cancer (Xia2020CircPDZD8).
+
+In breast cancer, a heterozygous loss of CHD9 is observed in 55% of patients, and low expression levels of CHD9 are associated with poor prognosis in colorectal cancer (Alendar2020Gene). Despite these associations, genome-wide CRISPR-Cas9 screens have not identified CHD9 as essential in a variety of human cancer cell lines, indicating that its role may be context-dependent (Alendar2020Gene).
+
+CHD9 has also been suggested as an oncogenic driver in lymphomagenesis, although knockout studies in mice have shown that its deletion does not affect the onset or progression of EμMyc-driven B-cell lymphoma (Alendar2020Gene). These findings highlight the complex role of CHD9 in cancer biology.
+
+## Interactions
+CHD9, a chromodomain helicase DNA-binding protein, is involved in various interactions with proteins and nucleic acids, playing a significant role in chromatin remodeling and transcription regulation. It interacts with methylated histone H3 tails, specifically binding to K27me3, K9me2/3, and K4me2 peptides, which suggests its role in chromatin remodeling (Salomon‐Kent2015New). CHD9 also associates with RNA Polymerase I in the nucleoli, indicating its involvement in ribosomal RNA biogenesis (Salomon‐Kent2015New). 
+
+In embryonic stem cells, CHD9 binds to DNA motifs associated with cell cycle-related transcription factors, such as CHR, LIN54, and Arid5a, which are crucial for regulating cell cycle progression (Yoo2020ATPDependent). CHD9's interaction with the DREAM complex, which includes dimerization partner (DP), RB-like, and E2F4, highlights its role in cell cycle regulation (Yoo2020ATPDependent). 
+
+CHD9 is also known to interact with nuclear receptors and transcription factors, including the glucocorticoid receptor, ERalpha, RXR, and PPARs, through its LXXLL signature motifs, contributing to tissue-specific gene expression (Salomon‐Kent2015New). These interactions underscore CHD9's multifaceted role in transcriptional regulation and chromatin dynamics.
+
+
+## References
+
+
+[1. (Alendar2020Gene) Andrej Alendar, Jan-Paul Lambooij, Rajith Bhaskaran, Cesare Lancini, Ji-Ying Song, Huub van Vugt, Margriet Snoek, and Anton Berns. Gene expression regulation by the chromodomain helicase dna-binding protein 9 (chd9) chromatin remodeler is dispensable for murine development. PLOS ONE, 15(5):e0233394, May 2020. URL: http://dx.doi.org/10.1371/journal.pone.0233394, doi:10.1371/journal.pone.0233394. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0233394)
+
+[2. (Xia2020CircPDZD8) Tianfang Xia, Zhenguo Pan, and Jie Zhang. Circpdzd8 promotes gastric cancer progression by regulating chd9 via sponging mir-197-5p. Aging, 12(19):19352–19364, October 2020. URL: http://dx.doi.org/10.18632/aging.103805, doi:10.18632/aging.103805. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.18632/aging.103805)
+
+[3. (Yoo2020ATPDependent) Hyunjin Yoo, Hyeonwoo La, Eun Joo Lee, Hee-Jin Choi, Jeongheon Oh, Nguyen Xuan Thang, and Kwonho Hong. Atp-dependent chromatin remodeler chd9 controls the proliferation of embryonic stem cells in a cell culture condition-dependent manner. Biology, 9(12):428, November 2020. URL: http://dx.doi.org/10.3390/biology9120428, doi:10.3390/biology9120428. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biology9120428)
+
+[4. (Salomon‐Kent2015New) Ronit Salomon‐Kent, Ronit Marom, Sam John, Miroslav Dundr, Louis R. Schiltz, Jose Gutierrez, Jerry Workman, Dafna Benayahu, and Gordon L. Hager. New face for chromatin‐related mesenchymal modulator: n‐chd9 localizes to nucleoli and interacts with ribosomal genes. Journal of Cellular Physiology, 230(9):2270–2280, May 2015. URL: http://dx.doi.org/10.1002/jcp.24960, doi:10.1002/jcp.24960. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcp.24960)

@@ -1,0 +1,29 @@
+# LTO1
+
+## Overview
+LTO1 is a gene that encodes the LTO1 maturation factor of ABCE1, a protein integral to the cytosolic iron-sulfur (Fe-S) protein assembly (CIA) machinery. This protein functions as an adaptor, facilitating the insertion of Fe-S clusters into the ABC protein Rli1, the yeast homolog of human ABCE1, which is crucial for ribosome biogenesis and translation termination (Paul2015The). The LTO1 protein is characterized by a thioredoxin (TRX)-like domain and a vitamin K epoxide reductase (VKOR) domain, which are involved in redox interactions and electron transfer processes, respectively (Wu2021Functional). These structural features enable LTO1 to participate in essential protein interactions, such as with the Yae1 protein and the CIA targeting complex, highlighting its role in maintaining cellular function under oxidative conditions (Paul2015The). The conservation of LTO1's function across species, including its human homolog ORAOV1, underscores its evolutionary significance in cellular processes (Paul2015The).
+
+## Structure
+The LTO1 protein is characterized by several structural features that contribute to its function. It contains a unique deca-GX3 motif of 40 residues, which is crucial for its interaction with the Yae1 protein and the cytosolic iron-sulfur protein assembly (CIA) targeting complex. This motif is not found in any other eukaryotic protein and is essential for the maturation of the Rli1 protein (Paul2015The). LTO1 also has a conserved C-terminal tryptophan residue, which is vital for its interaction with the CIA targeting complex (Paul2015The).
+
+In terms of domain structure, LTO1 includes a thioredoxin (TRX)-like domain and a vitamin K epoxide reductase (VKOR) domain. The TRX-like domain is involved in redox interactions, particularly with the serine/threonine-protein kinase STN7, where it oxidizes conserved cysteines in STN7's lumenal domain (Wu2021Functional). The VKOR domain is functionally similar to bacterial DsbB, participating in electron transfer processes (Wu2021Functional).
+
+The protein's structure facilitates its role in redox regulation and protein interactions, with the TRX-like domain maintaining STN7 in an oxidized active state, crucial for its kinase activity (Wu2021Functional). The presence of conserved cysteines forming CxxC motifs is essential for LTO1's function in these redox processes (Wu2021Functional).
+
+## Function
+The LTO1 gene encodes a protein that plays a crucial role in the maturation of the ABCE1 protein, which is essential for ribosome biogenesis and translation termination in human cells. LTO1 functions as part of the cytosolic iron-sulfur (Fe-S) protein assembly (CIA) machinery, specifically acting as an adaptor that facilitates the insertion of Fe-S clusters into the ABC protein Rli1, the yeast homolog of human ABCE1 (Paul2015The). This process is vital for the proper assembly and stability of ribosomal complexes, thereby influencing protein synthesis and cellular growth (Paul2015The).
+
+LTO1 interacts with the CIA targeting complex and the protein YAE1D1, forming a complex that recruits Rli1 for Fe-S cluster insertion. This interaction is crucial for the maturation of Rli1, which is sensitive to oxidative conditions, highlighting the importance of LTO1 in maintaining cellular function under varying environmental conditions (Paul2015The). The human homologs of yeast Yae1 and Lto1, YAE1D1 and ORAOV1, respectively, can functionally replace their yeast counterparts, indicating a conserved role in Fe-S cluster assembly across species (Paul2015The).
+
+## Interactions
+LTO1, also known as the LTO1 maturation factor of ABCE1, is involved in several critical protein interactions. In yeast, LTO1 forms a complex with Yae1, functioning as an adaptor in the cytosolic iron-sulfur (Fe-S) protein assembly (CIA) machinery. This complex specifically recruits the ABC protein Rli1 for Fe-S cluster insertion, which is essential for ribosomal subunit export and protein translation (Paul2015The). The interaction between LTO1 and Yae1 is facilitated by a unique deca-GX3 motif and a conserved C-terminal tryptophan residue, which are crucial for the complex's formation and function (Paul2015The).
+
+In Arabidopsis thaliana, LTO1 interacts with the serine/threonine-protein kinase STN7. LTO1's thioredoxin-like domain oxidizes the conserved cysteines in STN7, forming disulfide bonds necessary for STN7's activation. This interaction is important for state transitions in photosynthesis, although it is not entirely essential for STN7's function, as partial activity is observed in lto1 mutants (Wu2021Functional). These interactions highlight LTO1's role in both Fe-S protein maturation and redox regulation processes across different species.
+
+
+## References
+
+
+[1. (Wu2021Functional) Jianghao Wu, Liwei Rong, Weijun Lin, Lingxi Kong, Dengjie Wei, Lixin Zhang, Jean-David Rochaix, and Xiumei Xu. Functional redox links between lumen thiol oxidoreductase1 and serine/threonine-protein kinase stn7. Plant Physiology, 186(2):964–976, February 2021. URL: http://dx.doi.org/10.1093/plphys/kiab091, doi:10.1093/plphys/kiab091. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/plphys/kiab091)
+
+[2. (Paul2015The) Viktoria Désirée Paul, Ulrich Mühlenhoff, Martin Stümpfig, Jan Seebacher, Karl G Kugler, Christian Renicke, Christof Taxis, Anne-Claude Gavin, Antonio J Pierik, and Roland Lill. The deca-gx3 proteins yae1-lto1 function as adaptors recruiting the abc protein rli1 for iron-sulfur cluster insertion. eLife, July 2015. URL: http://dx.doi.org/10.7554/elife.08231, doi:10.7554/elife.08231. This article has 56 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.08231)

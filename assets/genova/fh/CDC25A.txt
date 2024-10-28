@@ -1,0 +1,70 @@
+# CDC25A
+
+## Overview
+CDC25A is a gene that encodes the cell division cycle 25A protein, a dual-specificity phosphatase integral to cell cycle regulation. The CDC25A protein is primarily involved in the activation of cyclin-dependent kinases (CDKs) by dephosphorylating inhibitory phosphates, thereby facilitating transitions between critical phases of the cell cycle, such as the G1 to S phase and the G2 to M phase (Sadeghi2018CDC25A; Shen2012The). This phosphatase is characterized by a unique tertiary structure that allows it to interact with various cell cycle regulators, including CDK2 and cyclin A, forming complexes essential for cell cycle progression (Rowland2023CryoEM). CDC25A's activity is tightly regulated through multiple mechanisms, including phosphorylation and interactions with proteins such as 14-3-3, which modulate its function and localization (Chen2003Chk1; Conklin19951433). The gene's dysregulation is implicated in several cancers, where its overexpression is associated with poor prognosis and aggressive disease, highlighting its significance as a potential therapeutic target (Ray2008CDC25A; Nishioka2001Clinical).
+
+## Structure
+The CDC25A protein is a phosphatase involved in cell cycle regulation, characterized by a catalytic domain that spans residues 336-523. This domain features a small α/β fold with a central five-stranded parallel β-sheet surrounded by helices (Fauman1998Crystal). The primary structure includes a sequence of amino acids forming the protein chain, with specific motifs such as the Cys-(X)5-Arg motif, which is crucial for its catalytic activity (Fauman1998Crystal). The secondary structure consists of alpha helices and beta sheets, with the catalytic domain containing a central twisted four-stranded, parallel beta-sheet flanked by alpha-helices (Hofmann1998A).
+
+The tertiary structure of CDC25A is unique, sharing similarities with rhodanese, a sulfur transfer protein, but distinct from other phosphatases (Fauman1998Crystal). The active site is shallow, allowing the protein to hydrolyze phosphorylated serine, threonine, or tyrosine residues, which explains its dual specificity (Hofmann1998A). The quaternary structure involves interactions with CDK2 and cyclin A, forming a trimeric complex where CDC25A bridges the bi-lobal structure of CDK2 (Rowland2023CryoEM).
+
+Post-translational modifications, such as phosphorylation, regulate CDC25A's activity and interaction with other proteins, including 14-3-3 proteins (Rowland2023CryoEM). The protein may also exist in splice variant isoforms, although specific details are not provided in the context.
+
+## Function
+CDC25A is a dual-specificity phosphatase that plays a crucial role in cell cycle regulation by activating cyclin-dependent kinases (CDKs) through dephosphorylation. In healthy human cells, CDC25A is primarily involved in the transition from the G1 to S phase and the G2 to M phase of the cell cycle. It achieves this by removing inhibitory phosphates from CDKs such as CDK2, CDK4, and CDK6, which are essential for cell cycle progression (Sadeghi2018CDC25A; Shen2012The).
+
+CDC25A is particularly important for the activation of the CDK2-cyclin E and CDK2-cyclin A complexes during the G1-S transition, as well as the CDK1-cyclin B complex during the G2-M transition, facilitating chromosome condensation and mitotic entry (Boutros2007CDC25; Shen2012The). The phosphatase activity of CDC25A is tightly regulated through various mechanisms, including transcriptional, translational, and post-translational modifications, to ensure proper cell cycle progression and genomic stability (Boutros2007CDC25; Shen2012The).
+
+CDC25A is active primarily in the nucleus, where it interacts with CDK-cyclin complexes to promote DNA replication and cell division. Its regulation is crucial for maintaining normal cell proliferation and preventing uncontrolled cell growth, highlighting its importance in cell biology (LaraChica2021A; Cangi2000Role).
+
+## Clinical Significance
+CDC25A is implicated in various cancers due to its role in cell cycle regulation. Overexpression of CDC25A is frequently observed in cancers such as breast, liver, esophageal, endometrial, and colorectal cancers, as well as non-Hodgkin lymphomas. This overexpression is often associated with aggressive disease and poor prognosis (Ray2008CDC25A). In esophageal squamous cell carcinoma, CDC25A overexpression correlates with advanced clinical stages and poor patient outcomes, serving as an independent prognostic factor for postoperative survival (Nishioka2001Clinical).
+
+CDC25A's overexpression can lead to deregulation of the G1/S and G2/M checkpoints, contributing to genomic instability and cancer development. It is considered an oncogene, and its overexpression is linked to the development of mammary tumors in conjunction with oncogenic pathways like HER2/neu and RAS (Ray2008CDC25A; Sur2016Phosphatases). In hepatocellular carcinoma, CDC25A is stabilized by SRSF10-mediated exon 6 skipping, which promotes tumorigenesis by enhancing cell proliferation and invasion (Liu2022SRSF10).
+
+CDC25A is also a key determinant of sensitivity to ATR inhibitors, with its deficiency conferring resistance to these inhibitors in various cancer cell lines (Ruiz2016A).
+
+## Interactions
+CDC25A interacts with several proteins that regulate its activity and function in the cell cycle. One of the key interactions is with 14-3-3 proteins, which bind to CDC25A when it is phosphorylated at specific sites, such as S178 and T507. This binding negatively regulates CDC25A by preventing its interaction with the cyclin B1/Cdk1 complex, thus controlling mitotic entry (Chen2003Chk1). The interaction with 14-3-3 proteins is crucial for maintaining proper cell cycle progression and preventing premature mitosis (Chen2003Chk1; Conklin19951433).
+
+CDC25A also forms complexes with Raf1 kinase, which links mitogenic signaling to cell cycle activation. This interaction is mediated through the carboxy-terminal kinase domain of Raf1 and is stronger with CDC25A compared to other CDC25 isoforms (Galaktionov1995Raf1). Additionally, CDC25A interacts with FOXM1, enhancing its transcriptional activity through the CDK1 pathway. This interaction is dependent on the phosphatase activity of CDC25A and specific phosphorylation sites on FOXM1 (Sullivan2012Novel).
+
+These interactions highlight the role of CDC25A in integrating cell cycle regulation with signaling pathways, ensuring accurate cell cycle transitions and responses to cellular signals.
+
+
+## References
+
+
+[1. (Chen2003Chk1) Mei-Shya Chen, Christine E. Ryan, and Helen Piwnica-Worms. Chk1 kinase negatively regulates mitotic function of cdc25a phosphatase through 14-3-3 binding. Molecular and Cellular Biology, 23(21):7488–7497, November 2003. URL: http://dx.doi.org/10.1128/mcb.23.21.7488-7497.2003, doi:10.1128/mcb.23.21.7488-7497.2003. This article has 171 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.23.21.7488-7497.2003)
+
+2. (Rowland2023CryoEM) Cryo-EM structure of the CDK2-cyclin A-CDC25A Complex. This article has 1 citations.
+
+[3. (LaraChica2021A) Maribel Lara-Chica, Alejandro Correa-Sáez, Rafael Jiménez-Izquierdo, Martín Garrido-Rodríguez, Francisco J. Ponce, Rita Moreno, Kimberley Morrison, Chiara Di Vona, Krisztina Arató, Carla Jiménez-Jiménez, Rosario Morrugares, M. Lienhard Schmitz, Susana de la Luna, Laureano de la Vega, and Marco A. Calzado. A novel cdc25a/dyrk2 regulatory switch modulates cell cycle and survival. Cell Death &amp; Differentiation, 29(1):105–117, August 2021. URL: http://dx.doi.org/10.1038/s41418-021-00845-5, doi:10.1038/s41418-021-00845-5. This article has 16 citations.](https://doi.org/10.1038/s41418-021-00845-5)
+
+[4. (Sullivan2012Novel) Con Sullivan, Youhong Liu, Jingjing Shen, Adam Curtis, Christina Newman, Janet M. Hock, and Xiong Li. Novel interactions between foxm1 and cdc25a regulate the cell cycle. PLoS ONE, 7(12):e51277, December 2012. URL: http://dx.doi.org/10.1371/journal.pone.0051277, doi:10.1371/journal.pone.0051277. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0051277)
+
+[5. (Nishioka2001Clinical) K Nishioka, Y Doki, H Shiozaki, H Yamamoto, S Tamura, T Yasuda, Y Fujiwara, M Yano, H Miyata, K Kishi, H Nakagawa, A Shamma, and M Monden. Clinical significance of cdc25a and cdc25b expression in squamous cell carcinomas of the oesophagus. British Journal of Cancer, 85(3):412–421, July 2001. URL: http://dx.doi.org/10.1054/bjoc.2001.1934, doi:10.1054/bjoc.2001.1934. This article has 51 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1054/bjoc.2001.1934)
+
+[6. (Sur2016Phosphatases) Swastika Sur and Devendra K. Agrawal. Phosphatases and kinases regulating cdc25 activity in the cell cycle: clinical implications of cdc25 overexpression and potential treatment strategies. Molecular and Cellular Biochemistry, 416(1–2):33–46, April 2016. URL: http://dx.doi.org/10.1007/s11010-016-2693-2, doi:10.1007/s11010-016-2693-2. This article has 134 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11010-016-2693-2)
+
+[7. (Ruiz2016A) Sergio Ruiz, Cristina Mayor-Ruiz, Vanesa Lafarga, Matilde Murga, Maria Vega-Sendino, Sagrario Ortega, and Oscar Fernandez-Capetillo. A genome-wide crispr screen identifies cdc25a as a determinant of sensitivity to atr inhibitors. Molecular Cell, 62(2):307–313, April 2016. URL: http://dx.doi.org/10.1016/j.molcel.2016.03.006, doi:10.1016/j.molcel.2016.03.006. This article has 157 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2016.03.006)
+
+[8. (Sadeghi2018CDC25A) Hossein Sadeghi, Masoud Golalipour, Ahad Yamchi, Touraj Farazmandfar, and Majid Shahbazi. Cdc25a pathway toward tumorigenesis: molecular targets of cdc25a in cell‐cycle regulation. Journal of Cellular Biochemistry, 120(3):2919–2928, November 2018. URL: http://dx.doi.org/10.1002/jcb.26838, doi:10.1002/jcb.26838. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcb.26838)
+
+[9. (Hofmann1998A) Kay Hofmann, Philipp Bucher, and Andrey V Kajava. A model of cdc25 phosphatase catalytic domain and cdk-interaction surface based on the presence of a rhodanese homology domain. Journal of Molecular Biology, 282(1):195–208, September 1998. URL: http://dx.doi.org/10.1006/jmbi.1998.1998, doi:10.1006/jmbi.1998.1998. This article has 69 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1006/jmbi.1998.1998)
+
+[10. (Boutros2007CDC25) Rose Boutros, Valérie Lobjois, and Bernard Ducommun. Cdc25 phosphatases in cancer cells: key players? good targets? Nature Reviews Cancer, 7(7):495–507, July 2007. URL: http://dx.doi.org/10.1038/nrc2169, doi:10.1038/nrc2169. This article has 546 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrc2169)
+
+[11. (Conklin19951433) D S Conklin, K Galaktionov, and D Beach. 14-3-3 proteins associate with cdc25 phosphatases. Proceedings of the National Academy of Sciences, 92(17):7892–7896, August 1995. URL: http://dx.doi.org/10.1073/pnas.92.17.7892, doi:10.1073/pnas.92.17.7892. This article has 196 citations.](https://doi.org/10.1073/pnas.92.17.7892)
+
+[12. (Cangi2000Role) M. Giulia Cangi, Barry Cukor, Peggy Soung, Sabina Signoretti, Gilberto Moreira, Moksha Ranashinge, Blake Cady, Michele Pagano, and Massimo Loda. Role of the cdc25a phosphatase in human breast cancer. Journal of Clinical Investigation, 106(6):753–761, September 2000. URL: http://dx.doi.org/10.1172/jci9174, doi:10.1172/jci9174. This article has 171 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci9174)
+
+[13. (Galaktionov1995Raf1) K Galaktionov, C Jessus, and D Beach. Raf1 interaction with cdc25 phosphatase ties mitogenic signal transduction to cell cycle activation. Genes &amp; Development, 9(9):1046–1058, May 1995. URL: http://dx.doi.org/10.1101/gad.9.9.1046, doi:10.1101/gad.9.9.1046. This article has 182 citations.](https://doi.org/10.1101/gad.9.9.1046)
+
+[14. (Ray2008CDC25A) Dipankar Ray and Hiroaki Kiyokawa. Cdc25a phosphatase: a rate-limiting oncogene that determines genomic stability. Cancer Research, 68(5):1251–1253, March 2008. URL: http://dx.doi.org/10.1158/0008-5472.can-07-5983, doi:10.1158/0008-5472.can-07-5983. This article has 60 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-07-5983)
+
+[15. (Shen2012The) Tao Shen and Shile Huang. The role of cdc25a in the regulation of cell proliferation and apoptosis. Anti-Cancer Agents in Medicinal Chemistry, 12(6):631–639, May 2012. URL: http://dx.doi.org/10.2174/187152012800617678, doi:10.2174/187152012800617678. This article has 150 citations and is from a peer-reviewed journal.](https://doi.org/10.2174/187152012800617678)
+
+[16. (Fauman1998Crystal) Eric B. Fauman, John P. Cogswell, Brett Lovejoy, Warren J. Rocque, William Holmes, Valerie G. Montana, Helen Piwnica-Worms, Martin J. Rink, and Mark A. Saper. Crystal structure of the catalytic domain of the human cell cycle control phosphatase, cdc25a. Cell, 93(4):617–625, May 1998. URL: http://dx.doi.org/10.1016/S0092-8674(00)81190-3, doi:10.1016/s0092-8674(00)81190-3. This article has 388 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/S0092-8674(00)81190-3)
+
+[17. (Liu2022SRSF10) Xiaoming Liu, Yongqiang Zheng, Mengqing Xiao, Xingyu Chen, Yuxing Zhu, Canxia Xu, Fen Wang, Zexian Liu, and Ke Cao. Srsf10 stabilizes cdc25a by triggering exon 6 skipping to promote hepatocarcinogenesis. Journal of Experimental &amp; Clinical Cancer Research, December 2022. URL: http://dx.doi.org/10.1186/s13046-022-02558-0, doi:10.1186/s13046-022-02558-0. This article has 14 citations.](https://doi.org/10.1186/s13046-022-02558-0)

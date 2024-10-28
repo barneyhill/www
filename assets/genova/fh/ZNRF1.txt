@@ -1,0 +1,46 @@
+# ZNRF1
+
+## Overview
+ZNRF1, or zinc and ring finger 1, is a gene that encodes an E3 ubiquitin ligase protein characterized by the presence of a RING finger domain and a zinc finger domain. The protein plays a pivotal role in the ubiquitin-proteasome pathway, facilitating the ubiquitination and subsequent degradation of target proteins. This function is crucial for regulating various cellular processes, including epidermal growth factor receptor (EGFR) signaling, synaptic transmission, and immune responses. ZNRF1 is particularly significant in the nervous system, where it is involved in synaptic vesicle recycling and neuronal apoptosis, and in the immune system, where it modulates inflammation through interactions with caveolin-1. Alterations in ZNRF1 expression or function have been linked to neurodegenerative diseases and inflammatory disorders, highlighting its clinical significance (Shen2021ZNRF1; Araki2003ZNRF; Lee2017The).
+
+## Structure
+ZNRF1 is a protein characterized by the presence of a RING finger domain and a zinc finger domain, both located in its C-terminal half. The RING finger domain is crucial for its E3 ubiquitin ligase activity, which is essential for protein-protein interactions and ubiquitination processes (Yoshida2009ZNRF1). The RING domain of ZNRF1 binds to the E2 enzyme Ube2N with high affinity, primarily through electrostatic and hydrophobic interactions, as revealed by crystallographic studies (Behera2018Structural). The crystal structure of the ZNRF1 C-terminal domain in complex with Ube2N was determined at a resolution of 1.47 Å, highlighting a ~520 Å² interface area (Behera2018Structural).
+
+The zinc finger domain contributes minimally to the interaction with Ube2N but may stabilize the protein's conformation, as the RING domain alone is prone to aggregation (Behera2018Structural). ZNRF1 also contains a putative myristoylation sequence at the amino terminus, which is important for its localization to the endosome-lysosome compartment (Yoshida2009ZNRF1). The protein interacts with tubulin, specifically Tubb2, through its amino-terminal region, indicating a role in cell morphology regulation (Yoshida2009ZNRF1).
+
+## Function
+ZNRF1 is an E3 ubiquitin ligase that plays a critical role in various cellular processes through its involvement in the ubiquitin-proteasome pathway. In healthy human cells, ZNRF1 is essential for the regulation of epidermal growth factor receptor (EGFR) signaling. It mediates the ubiquitination of EGFR, facilitating its endocytic trafficking and lysosomal degradation, which is crucial for terminating EGFR signaling involved in cell growth, proliferation, and differentiation (Shen2021ZNRF1). ZNRF1 also interacts with the ESCRT machinery to ensure proper lysosomal sorting of EGFR, maintaining cellular homeostasis (Shen2021ZNRF1).
+
+In the nervous system, ZNRF1 is highly expressed and associated with synaptic vesicle membranes, playing a role in synaptic transmission and plasticity. It is involved in the regulation of proteins necessary for presynaptic exocytosis and synaptic vesicle recycling, which are important for synaptic signal transmission and potentially long-term memory formation (Araki2003ZNRF).
+
+ZNRF1 also influences inflammation by promoting the ubiquitination and degradation of caveolin-1 (CAV1), modulating TLR4-dependent immune responses and cytokine production (Lee2017The). This regulation is crucial for controlling inflammation and maintaining immune homeostasis (Lee2017The).
+
+## Clinical Significance
+Mutations or alterations in the expression of the ZNRF1 gene have been implicated in various diseases, particularly those involving inflammation and neurodegeneration. ZNRF1 plays a significant role in modulating inflammation through its interaction with caveolin-1 (CAV1). Deficiency in ZNRF1 leads to decreased ubiquitination of CAV1, which inhibits TLR4-initiated inflammatory responses. This alteration can result in decreased production of pro-inflammatory cytokines and increased levels of the anti-inflammatory cytokine IL-10, affecting the body's immune response (Lee2017The).
+
+In the context of neurodegenerative diseases, ZNRF1 is involved in oxidative stress-induced neuronal apoptosis and axonal degeneration. The phosphorylation of ZNRF1 enhances its activity, leading to the degradation of AKT, which is associated with neuronal apoptosis. This process is significant in conditions like Alzheimer's and Parkinson's diseases, where oxidative stress plays a critical role (Wakatsuki2015Oxidative).
+
+ZNRF1 also regulates epidermal growth factor receptor (EGFR) signaling, which is crucial for receptor degradation. Alterations in ZNRF1 expression can lead to prolonged EGFR signaling, contributing to increased susceptibility to infections and potentially impacting cancer progression (Shen2021ZNRF1).
+
+## Interactions
+ZNRF1 interacts with the E2 enzyme Ube2N, forming a stable 1:1 complex with high affinity, as demonstrated by size-exclusion chromatography and crystallization studies. This interaction is characterized by a dissociation constant (K_d) of approximately 50 nM, which is significantly higher than the typical affinities observed in other RING E3 ligases. The high affinity is attributed to specific electrostatic and hydrophobic interactions, including key salt-bridges and hydrogen bonds involving residues such as Glu183 of ZNRF1 and Arg14/Lys10 of Ube2N (Behera2018Structural).
+
+ZNRF1's interaction with Ube2N is facilitated exclusively through its RING domain, while the ZnF domain contributes to the protein's stability. This interaction enhances Ube2N/Ube2V1-mediated Lys63-linked ubiquitin chain synthesis, similar to other E3 ligases like RNF8 and Rad5 (Behera2018Structural).
+
+In the context of oxidative stress, ZNRF1 is activated by phosphorylation at tyrosine 103, which enhances its ubiquitin ligase activity. This activation leads to the degradation of AKT, a process mediated by the epidermal growth factor receptor (EGFR), and is involved in neuronal apoptosis and axonal degeneration (Wakatsuki2015Oxidative).
+
+
+## References
+
+
+[1. (Yoshida2009ZNRF1) Koichi Yoshida, Masashi Watanabe, and Shigetsugu Hatakeyama. Znrf1 interacts with tubulin and regulates cell morphogenesis. Biochemical and Biophysical Research Communications, 389(3):506–511, November 2009. URL: http://dx.doi.org/10.1016/j.bbrc.2009.09.011, doi:10.1016/j.bbrc.2009.09.011. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2009.09.011)
+
+[2. (Lee2017The) Chih-Yuan Lee, Ting-Yu Lai, Meng-Kun Tsai, Yung-Chi Chang, Yu-Hsin Ho, I-Shing Yu, Tzu-Wen Yeh, Chih-Chang Chou, You-Sheng Lin, Toby Lawrence, and Li-Chung Hsu. The ubiquitin ligase znrf1 promotes caveolin-1 ubiquitination and degradation to modulate inflammation. Nature Communications, June 2017. URL: http://dx.doi.org/10.1038/ncomms15502, doi:10.1038/ncomms15502. This article has 40 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms15502)
+
+[3. (Araki2003ZNRF) Toshiyuki Araki and Jeffrey Milbrandt. Znrf proteins constitute a family of presynaptic e3 ubiquitin ligases. The Journal of Neuroscience, 23(28):9385–9394, October 2003. URL: http://dx.doi.org/10.1523/JNEUROSCI.23-28-09385.2003, doi:10.1523/jneurosci.23-28-09385.2003. This article has 80 citations.](https://doi.org/10.1523/JNEUROSCI.23-28-09385.2003)
+
+[4. (Wakatsuki2015Oxidative) Shuji Wakatsuki, Akiko Furuno, Makiko Ohshima, and Toshiyuki Araki. Oxidative stress–dependent phosphorylation activates znrf1 to induce neuronal/axonal degeneration. Journal of Cell Biology, 211(4):881–896, November 2015. URL: http://dx.doi.org/10.1083/jcb.201506102, doi:10.1083/jcb.201506102. This article has 45 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201506102)
+
+[5. (Behera2018Structural) Adaitya Prasad Behera, Pritam Naskar, Shubhangi Agarwal, Prerana Agarwal Banka, Asim Poddar, and Ajit B. Datta. Structural insights into the nanomolar affinity of ring e3 ligase znrf1 for ube2n and its functional implications. Biochemical Journal, 475(9):1569–1582, May 2018. URL: http://dx.doi.org/10.1042/bcj20170909, doi:10.1042/bcj20170909. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bcj20170909)
+
+[6. (Shen2021ZNRF1) Chia-Hsing Shen, Chih-Chang Chou, Ting-Yu Lai, Jer-En Hsu, You-Sheng Lin, Huai-Yu Liu, Yan-Kai Chen, I-Lin Ho, Pang-Hung Hsu, Tsung-Hsien Chuang, Chih-Yuan Lee, and Li-Chung Hsu. Znrf1 mediates epidermal growth factor receptor ubiquitination to control receptor lysosomal trafficking and degradation. Frontiers in Cell and Developmental Biology, April 2021. URL: http://dx.doi.org/10.3389/fcell.2021.642625, doi:10.3389/fcell.2021.642625. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.642625)

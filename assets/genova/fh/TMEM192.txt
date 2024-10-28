@@ -1,0 +1,44 @@
+# TMEM192
+
+## Overview
+TMEM192 is a gene that encodes the transmembrane protein 192, a lysosomal membrane protein characterized by its four transmembrane segments and cytosolic N- and C-termini. This protein plays a pivotal role in lysosomal function and integrity, primarily through its involvement in the targeting and localization of proteins to late endosomal and lysosomal compartments. The protein's structure includes critical dileucine motifs that facilitate its proper intracellular localization, and it forms disulfide-dependent homodimers, which are essential for its stability and function within the lysosomal membrane (Behnke2011Two). TMEM192 also interacts with other proteins, such as STK11IP, forming complexes that are significant for lysosomal homeostasis and mTORC1 signaling (Angarola2021LyTS:). Additionally, TMEM192 has clinical significance in cancer biology, where its expression levels and functional roles are linked to tumor cell proliferation and stress responses (Sharma2020Antioxidant; LIU2012Lysosomal).
+
+## Structure
+TMEM192 is a transmembrane protein characterized by four transmembrane segments, with both the N- and C-termini located in the cytosol (Behnke2011Two). The protein contains several lysosomal targeting signals, including two dileucine motifs in the N-terminal section: 19 EDDPLL 24 and 25 DAQLL 29. These motifs are crucial for the late endosomal/lysosomal targeting of TMEM192 (Behnke2011Two). The proximal dileucine motif fits the [DE]XXXL[LI] or DXXLL pattern, while the distal motif aligns with the DXXLL consensus (Behnke2011Two).
+
+A critical cysteine residue, C266, near the C-terminus, is responsible for disulfide-dependent dimerization of TMEM192, although this residue is not conserved across species, suggesting it may not be essential for dimerization or function (Behnke2011Two). The presence of disulfide bonds in the cytosolic environment, which is typically reducing, challenges the current understanding of TMEM192's topology (Behnke2011Two). The protein's structure and targeting are influenced by these motifs and residues, which are essential for its proper localization and function within the lysosomal membrane (Behnke2011Two).
+
+## Function
+TMEM192 is a transmembrane protein primarily localized in the lysosomal membrane, where it plays a crucial role in maintaining lysosomal function and integrity. It is involved in the targeting of proteins to late endosomal and lysosomal compartments, facilitated by two dileucine motifs that are essential for its proper localization. These motifs are critical for directing TMEM192 to its intracellular destinations, and their disruption leads to mislocalization of the protein to the cell surface (Behnke2011Two).
+
+TMEM192 also forms homodimers stabilized by disulfide bonds, with a C-terminal cysteine residue (C266) playing a key role in this dimerization process. This structural feature is important for the protein's stability and function within the lysosomal membrane (Behnke2011Two).
+
+In addition to its structural role, TMEM192 interacts with STK11IP, forming a complex known as LyTS, which is significant for lysosomal localization and stability of STK11IP. This interaction is crucial for maintaining lysosome homeostasis and is implicated in mTORC1 signaling, a pathway sensitive to lysosomal function (Angarola2021LyTS:).
+
+## Clinical Significance
+TMEM192 is a lysosomal membrane protein with significant implications in cancer biology. It is highly expressed in tumor cell lines compared to normal cell lines, suggesting a role in tumor cell proliferation and growth. Deficiency of TMEM192 in HepG2 hepatoma cells, induced by siRNA, leads to growth inhibition and increased apoptosis, indicating its potential involvement in cancer progression (LIU2012Lysosomal). The deficiency also triggers autophagy and apoptosis through pathways involving Bax, caspase-3, and p38 MAPK, highlighting a crosstalk between these cellular processes (LIU2012Lysosomal).
+
+TMEM192 is also associated with oxidative stress sensitivity. Alterations in its palmitoylation and subcellular distribution, due to DHHC3 ablation, suggest a role in cellular stress responses and cancer drug resistance (Sharma2020Antioxidant). This altered distribution may enhance the potency of anti-cancer drugs by increasing oxidative stress (Sharma2020Antioxidant).
+
+In the context of lysosomal storage disorders, TMEM192 is utilized in the tagless LysoIP method to study lysosomal content in diseases like CLN3, a neurodegenerative disorder. This method helps in understanding disease pathology and biomarker discovery (Saarela2024Tagless). However, specific diseases or conditions directly linked to TMEM192 gene mutations or expression alterations are not detailed in the available literature.
+
+## Interactions
+TMEM192, a lysosomal membrane protein, interacts with STK11IP, forming a lysosome-localized complex known as LyTS. This interaction is crucial for the stability and lysosomal localization of STK11IP. The C-terminus of TMEM192 is essential for its interaction with STK11IP, as deletions in this region abolish the interaction, while the N-terminus deletion only weakens it. Structural predictions suggest that an alpha helix in the C-terminus may be important for this interaction (Angarola2021LyTS:). The first 600 amino acids of STK11IP are critical for its lysosomal localization and interaction with TMEM192 (Angarola2021LyTS:).
+
+TMEM192 is also involved in lysosomal membrane regeneration. Although it does not directly interact with ATG8 proteins, TMEM192 may be part of a multi-protein complex that includes LIMP2, contributing to lysosomal regeneration. The depletion of both TMEM192 and LIMP2 results in a greater decrease in lysosomal regeneration than the depletion of LIMP2 alone, suggesting a collaborative role in this process (Bhattacharya2022TBC1D15). TMEM192 interacts with GABARAPL2 and LC3B as part of a larger protein complex during lysosomal damage, although it does not directly bind to these proteins (Bhattacharya2022TBC1D15).
+
+
+## References
+
+
+[1. (Behnke2011Two) Jörg Behnke, Eeva-Liisa Eskelinen, Paul Saftig, and Bernd Schröder. Two dileucine motifs mediate late endosomal/lysosomal targeting of transmembrane protein 192 (tmem192) and a c-terminal cysteine residue is responsible for disulfide bond formation in tmem192 homodimers. Biochemical Journal, 434(2):219–231, February 2011. URL: http://dx.doi.org/10.1042/bj20101396, doi:10.1042/bj20101396. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20101396)
+
+2. (Saarela2024Tagless) Tagless LysoIP method for molecular profiling of lysosomal content in clinical samples. This article has 1 citations.
+
+3. (Bhattacharya2022TBC1D15) TBC1D15 potentiates lysosomal regeneration from damaged membranes. This article has 0 citations.
+
+[4. (Sharma2020Antioxidant) Chandan Sharma, Wei Yang, Hanno Steen, Michael R. Freeman, and Martin E. Hemler. Antioxidant functions of dhhc3 suppress anti-cancer drug activities. Cellular and Molecular Life Sciences, 78(5):2341–2353, September 2020. URL: http://dx.doi.org/10.1007/s00018-020-03635-3, doi:10.1007/s00018-020-03635-3. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-020-03635-3)
+
+5. (Angarola2021LyTS:) LyTS: A Lysosome Localized Complex of TMEM192 and STK11IP. This article has 0 citations.
+
+[6. (LIU2012Lysosomal) ZHEN LIU, YA JUAN LV, YI PENG SONG, XIAO HONG LI, YUAN NA DU, CUI HONG WANG, and LI KUAN HU. Lysosomal membrane protein tmem192 deficiency triggers crosstalk between autophagy and apoptosis in hepg2 hepatoma cells. Oncology Reports, 28(3):985–991, June 2012. URL: http://dx.doi.org/10.3892/or.2012.1881, doi:10.3892/or.2012.1881. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.2012.1881)

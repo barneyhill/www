@@ -1,0 +1,54 @@
+# SHPRH
+
+## Overview
+The SHPRH gene encodes the SNF2 histone linker PHD RING helicase, a multifunctional protein that plays a pivotal role in DNA repair and chromatin remodeling. As a member of the SWI/SNF family of chromatin remodelers, the protein is characterized by its ATPase activity and its function as an E3 ubiquitin ligase. It is involved in the polyubiquitylation of proliferating cell nuclear antigen (PCNA), a critical process for error-free lesion bypass during DNA replication, thereby maintaining genomic stability (Motegi2008Polyubiquitination; Unk2006Human). SHPRH's enzymatic activities are essential for post-replication repair and the prevention of mutations, underscoring its role in cellular homeostasis and protection against carcinogenesis (Motegi2006Human; Brühl2019The). The gene is also implicated in tumor suppression, with mutations and alterations linked to various cancers, highlighting its clinical significance (Nagelberg2024Integrative; Zhang2018A).
+
+## Structure
+The SHPRH protein is characterized by several distinct domains that contribute to its function in DNA repair and chromatin remodeling. It contains a SNF2_N-terminal domain, a linker Histone (H1/H5)-like fold, a PHD zinc finger, a RING finger, and a helicase_C-terminal domain. These domains suggest its involvement in chromatin remodeling and DNA repair processes (Brühl2019The). The SNF2 domain is associated with ATPase activity, which is stimulated by nucleosomes, although SHPRH does not exhibit conventional nucleosome remodeling activity (Brühl2019The).
+
+SHPRH also functions as a nucleosome-E3 ubiquitin ligase, interacting with various E2-conjugating enzymes to ubiquitinate histones, particularly H3 and H4, in the presence of nucleosomes (Brühl2019The). This ubiquitination activity is crucial for DNA repair and proteasomal degradation pathways (Brühl2019The). The protein's enzymatic functions are primarily studied in the context of PCNA ubiquitination, and it acts as a nucleosome E3 ubiquitin ligase capable of functioning with multiple E2-conjugating enzymes (Brühl2019The).
+
+SHPRH is also linked to cancer, as it is located in a chromosomal region associated with tumor suppressor functions and is involved in the degradation of β-catenin, a coactivator of oncogenic genes (Brühl2019The).
+
+## Function
+The SHPRH gene encodes a protein that functions as a ubiquitin ligase, playing a critical role in DNA repair processes in healthy human cells. SHPRH is involved in the polyubiquitylation of proliferating cell nuclear antigen (PCNA), a process essential for error-free lesion bypass during DNA replication. This activity is crucial for maintaining genomic stability by promoting post-replication repair (PRR) and preventing mutations (Motegi2008Polyubiquitination; Unk2006Human).
+
+SHPRH operates in conjunction with the Mms2-Ubc13 complex to facilitate the polyubiquitylation of PCNA, which is necessary for the error-free template switching (TS) pathway. This pathway helps bypass DNA lesions without introducing errors, thereby reducing reliance on the error-prone translesion synthesis (TLS) pathway (Motegi2008Polyubiquitination; Unk2006Human). The protein is active in the nucleus, where it interacts with various E2-conjugating enzymes to mediate histone and nucleosome ubiquitination, further contributing to DNA repair and chromatin remodeling (Brühl2019The).
+
+SHPRH's function as a nucleosome-stimulated ATPase and E3 ubiquitin ligase underscores its role in maintaining genomic integrity and preventing chromosomal abnormalities, which is vital for cellular homeostasis and protection against carcinogenesis (Motegi2006Human; Brühl2019The).
+
+## Clinical Significance
+Mutations and alterations in the SHPRH gene have significant clinical implications, particularly in cancer. SHPRH is identified as a tumor suppressor gene in various cancers, including glioblastoma, lung adenocarcinoma (LUAD), ovarian cancer, and colorectal cancer. In glioblastoma, the circular RNA form of SHPRH, known as circ-SHPRH, encodes a protein, SHPRH-146aa, which is down-regulated in tumor cells. This down-regulation is associated with increased tumorigenicity, suggesting a protective role against tumor progression (Zhang2018A).
+
+In LUAD, SHPRH mutations and reduced expression are linked to poorer survival outcomes. The gene is often subject to copy number loss, contributing to tumor development. Re-expression of SHPRH in LUAD cell lines with inactivating mutations reduces tumorigenic potential, highlighting its role in DNA damage response and tumor suppression (Nagelberg2024Integrative).
+
+SHPRH also plays a role in DNA repair pathways, and its inactivation can lead to genomic instability. This instability is a hallmark of various cancers, including melanoma and ovarian cancer, where SHPRH mutations and loss of heterozygosity have been observed (Motegi2008Polyubiquitination; Miller2022Rad5).
+
+## Interactions
+SHPRH interacts with several proteins and nucleic acids, playing a crucial role in DNA repair and chromatin remodeling. It physically interacts with proliferating cell nuclear antigen (PCNA) through an APIM motif, which is essential for its nuclear localization and function in DNA damage tolerance (Seelinger2020HelicaseLike). SHPRH also forms complexes with the Rad6-Rad18 and Mms2-Ubc13 enzyme complexes, facilitating the polyubiquitylation of PCNA, which is critical for error-free lesion bypass during DNA replication (Unk2006Human).
+
+SHPRH interacts with histones H3 and H4, catalyzing their ubiquitination in conjunction with certain E2 enzymes, such as the UBE2D and UBE2E families (Brühl2019The). It also binds to the nucleosome acidic patch, interacting with the H2A-H2B dimer in a unique conformation, distinct from other chromatin remodelers (James2024In).
+
+In the context of the cell cycle, SHPRH interacts with MLH1 during the S phase, particularly under conditions of DNA damage, suggesting a role in DNA repair processes (Miller2022Rad5). These interactions highlight SHPRH's multifaceted role in maintaining genomic stability.
+
+
+## References
+
+
+[1. (Motegi2006Human) Akira Motegi, Raman Sood, Helen Moinova, Sanford D. Markowitz, Pu Paul Liu, and Kyungjae Myung. Human shprh suppresses genomic instability through proliferating cell nuclear antigen polyubiquitination. The Journal of Cell Biology, 175(5):703–708, November 2006. URL: http://dx.doi.org/10.1083/jcb.200606145, doi:10.1083/jcb.200606145. This article has 154 citations.](https://doi.org/10.1083/jcb.200606145)
+
+[2. (Brühl2019The) Joanna Brühl, Jonathan Trautwein, Agnes Schäfer, Uwe Linne, and Karim Bouazoune. The dna repair protein shprh is a nucleosome-stimulated atpase and a nucleosome-e3 ubiquitin ligase. Epigenetics &amp; Chromatin, August 2019. URL: http://dx.doi.org/10.1186/s13072-019-0294-5, doi:10.1186/s13072-019-0294-5. This article has 22 citations.](https://doi.org/10.1186/s13072-019-0294-5)
+
+[3. (Nagelberg2024Integrative) Amy L. Nagelberg, Tianna S. Sihota, Yu-Chi Chuang, Rocky Shi, Justine L. M. Chow, John English, Calum MacAulay, Stephen Lam, Wan L. Lam, and William W. Lockwood. Integrative genomics identifies shprh as a tumor suppressor gene in lung adenocarcinoma that regulates dna damage response. British Journal of Cancer, 131(3):534–550, June 2024. URL: http://dx.doi.org/10.1038/s41416-024-02755-y, doi:10.1038/s41416-024-02755-y. This article has 0 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41416-024-02755-y)
+
+[4. (Zhang2018A) Maolei Zhang, Nunu Huang, Xuesong Yang, Jingyan Luo, Sheng Yan, Feizhe Xiao, Wenping Chen, Xinya Gao, Kun Zhao, Huangkai Zhou, Ziqiang Li, Liu Ming, Bo Xie, and Nu Zhang. A novel protein encoded by the circular form of the shprh gene suppresses glioma tumorigenesis. Oncogene, 37(13):1805–1814, January 2018. URL: http://dx.doi.org/10.1038/s41388-017-0019-9, doi:10.1038/s41388-017-0019-9. This article has 532 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-017-0019-9)
+
+[5. (Seelinger2020HelicaseLike) Mareike Seelinger and Marit Otterlei. Helicase-like transcription factor hltf and e3 ubiquitin ligase shprh confer dna damage tolerance through direct interactions with proliferating cell nuclear antigen (pcna). International Journal of Molecular Sciences, 21(3):693, January 2020. URL: http://dx.doi.org/10.3390/ijms21030693, doi:10.3390/ijms21030693. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21030693)
+
+[6. (Unk2006Human) Ildiko Unk, Ildikó Hajdú, Károly Fátyol, Barnabás Szakál, András Blastyák, Vladimir Bermudez, Jerard Hurwitz, Louise Prakash, Satya Prakash, and Lajos Haracska. Human shprh is a ubiquitin ligase for mms2–ubc13-dependent polyubiquitylation of proliferating cell nuclear antigen. Proceedings of the National Academy of Sciences, 103(48):18107–18112, November 2006. URL: http://dx.doi.org/10.1073/pnas.0608595103, doi:10.1073/pnas.0608595103. This article has 184 citations.](https://doi.org/10.1073/pnas.0608595103)
+
+[7. (Motegi2008Polyubiquitination) Akira Motegi, Hung-Jiun Liaw, Kyoo-Young Lee, Henk P. Roest, Alex Maas, Xiaoli Wu, Helen Moinova, Sanford D. Markowitz, Hao Ding, Jan H. J. Hoeijmakers, and Kyungjae Myung. Polyubiquitination of proliferating cell nuclear antigen by hltf and shprh prevents genomic instability from stalled replication forks. Proceedings of the National Academy of Sciences, 105(34):12411–12416, August 2008. URL: http://dx.doi.org/10.1073/pnas.0805685105, doi:10.1073/pnas.0805685105. This article has 218 citations.](https://doi.org/10.1073/pnas.0805685105)
+
+[8. (Miller2022Rad5) Anna K. Miller, Guogen Mao, Breanna G. Knicely, Hannah G. Daniels, Christine Rahal, Christopher D. Putnam, Richard D. Kolodner, and Eva M. Goellner. Rad5 and its human homologs, hltf and shprh, are novel interactors of mismatch repair. Frontiers in Cell and Developmental Biology, June 2022. URL: http://dx.doi.org/10.3389/fcell.2022.843121, doi:10.3389/fcell.2022.843121. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.843121)
+
+9. (James2024In) In silicoscreening identifies SHPRH as a novel nucleosome acidic patch interactor. This article has 0 citations.

@@ -1,0 +1,52 @@
+# AGO4
+
+## Overview
+AGO4 (argonaute RISC component 4) is a gene that encodes a member of the Argonaute protein family, which plays a pivotal role in RNA-induced silencing complex (RISC) pathways. The protein encoded by AGO4 is involved in the regulation of gene expression through interactions with small regulatory RNAs, such as microRNAs (miRNAs) and small interfering RNAs (siRNAs). These interactions facilitate the targeting and subsequent degradation or translational repression of specific mRNAs. Structurally, AGO4 is characterized by a bilobal architecture, comprising distinct domains that contribute to its function in nucleic acid binding and interaction with other proteins. Despite being slicing-deficient, AGO4 is integral to processes such as chromatin remodeling and DNA methylation, which are essential for transcriptional regulation and genomic stability. Its involvement in these pathways underscores its significance in cellular homeostasis and development, as well as its potential implications in various diseases, including cancer and viral infections (Nakanishi2022Anatomy; Park2019Multidomain; Wu2020Argonaute).
+
+## Structure
+AGO4 (argonaute RISC component 4) is a member of the Argonaute protein family, characterized by its involvement in RNA-induced silencing complexes (RISCs). The protein exhibits a bilobal architecture, consisting of an N-terminal lobe and a C-terminal lobe. The N-terminal lobe includes the N, L1, PAZ, and L2 domains, while the C-terminal lobe comprises the MID and PIWI domains (Park2019Multidomain). The PIWI domain is notable for its role in nucleic acid binding and includes a specific insertion, 4SI, which protrudes into the nucleic acid-binding channel and interacts with guide and target strands (Nakanishi2022Anatomy).
+
+AGO4 is structurally distinct from other Argonaute proteins due to its unique features, such as the presence of internal water molecules that contribute to its structural stability and facilitate conformational changes necessary for its function (Park2019Multidomain). These water molecules are located in regions called LAKEs and are crucial for the assembly and disassembly of RISCs (Park2019Multidomain). AGO4 is slicing-deficient, forming a pseudo-catalytic DEGR tetrad, with E639 identified as the glutamate finger (Park2019Multidomain).
+
+Post-translational modifications, such as phosphorylation, regulate AGO4's activity, particularly in the serine-rich region of Loop 5, which affects RISC's affinity for mRNAs (Nakanishi2022Anatomy). AGO4 also interacts with de novo DNA methyltransferase 3 (DNMT3A), suggesting a role in DNA methylation processes (Nakanishi2022Anatomy).
+
+## Function
+AGO4, a member of the Argonaute protein family, plays a significant role in RNA-induced silencing complex (RISC) pathways, which are crucial for gene regulation in human cells. It is involved in the biogenesis and function of small regulatory RNAs, such as microRNAs (miRNAs) and small interfering RNAs (siRNAs), which guide AGO4 to target mRNAs, leading to their degradation or translational repression (Höck2008The; Wu2020Argonaute). 
+
+AGO4 is primarily active in both the cytoplasm and nucleus, where it contributes to maintaining genomic stability and regulating developmental processes (Meister2013Argonaute). In the nucleus, AGO4 is implicated in chromatin remodeling and DNA methylation, processes that are essential for transcriptional regulation and maintaining cellular homeostasis (Meister2013Argonaute; Wu2020Argonaute). 
+
+Although AGO4 lacks catalytic activity due to divergence in its catalytic motifs, it still plays a crucial role in small RNA-mediated gene regulation, often through interactions with other protein complexes (Hutvagner2008Argonaute). These interactions are vital for RNA processing, maturation, and the regulation of RNA stability and translation, highlighting AGO4's importance in cellular and organismal biology (Hutvagner2008Argonaute).
+
+## Clinical Significance
+AGO4 has been implicated in several diseases due to its role in gene expression regulation and epigenetic modifications. Mutations affecting the IRES-driven translation of CACNA1A mRNA, where AGO4 is involved, can lead to spinocerebellar ataxia type 6, a condition affecting neuron and Purkinje cell growth (Nakanishi2022Anatomy). In the context of cancer, AGO4's interaction with DNMT3A in the de novo methylation of DNA is associated with poor prognosis in glioblastoma multiforme, suggesting its involvement in tumor progression through epigenetic modifications (Nakanishi2022Anatomy).
+
+AGO4 also plays a significant role in viral infections, particularly with the respiratory syncytial virus (RSV). It is crucial for the replication of RSV, as its deficiency leads to a reduction in viral yield. This highlights AGO4's potential as a target for antiviral strategies (Choi2020The). The interaction between AGO4 and tRNA-derived RNA fragments, such as tRF5-GluCTC, further underscores its role in regulating gene expression during viral infections, which could be leveraged for therapeutic interventions (Choi2020The).
+
+## Interactions
+AGO4, a member of the Argonaute protein family, is involved in various interactions with proteins and nucleic acids that are crucial for its role in RNA silencing and DNA methylation processes. AGO4 interacts with de novo DNA methyltransferase 3 (DNMT3A), forming a complex that modifies miRNAs by adding 5-methylcytosine, which is linked to poor prognosis in glioblastoma multiforme. This interaction occurs within the first 164 residues of AGO4, which includes a significant portion of AGO4-specific residues (Nakanishi2022Anatomy).
+
+AGO4 is also a key component in RNA-directed DNA methylation (RdDM) in human cells. It binds to specific genomic sequences, such as Alu and LINE-1 elements, and induces DNA methylation at these sites. This process is facilitated by AGO4's ability to form complexes with small RNAs, such as siRNAs, which guide the methylation machinery to target loci (Chalertpet2019Argonaute).
+
+In the context of miRNA silencing, AGO4 is part of the RNA-induced silencing complex (RISC) and interacts with proteins like TNRC6A, TNRC6B, and TNRC6C. These interactions are mediated by tryptophan residues in TNRC6 proteins, which bind to AGO4's PIWI domain, facilitating the silencing of target mRNAs (Nakanishi2022Anatomy; Landthaler2008Molecular).
+
+
+## References
+
+
+[1. (Park2019Multidomain) Mi Seul Park, Raul Araya-Secchi, James A. Brackbill, Hong-Duc Phan, Audrey C. Kehling, Ekram W. Abd El-Wahab, Daniel M. Dayeh, Marcos Sotomayor, and Kotaro Nakanishi. Multidomain convergence of argonaute during risc assembly correlates with the formation of internal water clusters. Molecular Cell, 75(4):725-740.e6, August 2019. URL: http://dx.doi.org/10.1016/j.molcel.2019.06.011, doi:10.1016/j.molcel.2019.06.011. This article has 32 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2019.06.011)
+
+[2. (Chalertpet2019Argonaute) Kanwalat Chalertpet, Piyapat Pin-on, Chatchawit Aporntewan, Maturada Patchsung, Praewphan Ingrungruanglert, Nipan Israsena, and Apiwat Mutirangura. Argonaute 4 as an effector protein in rna-directed dna methylation in human cells. Frontiers in Genetics, July 2019. URL: http://dx.doi.org/10.3389/fgene.2019.00645, doi:10.3389/fgene.2019.00645. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2019.00645)
+
+[3. (Choi2020The) Eun-Jin Choi, Junping Ren, Ke Zhang, Wenzhe Wu, Yong Sun Lee, Inhan Lee, and Xiaoyong Bao. The importance of ago 1 and 4 in post-transcriptional gene regulatory function of trf5-gluctc, an respiratory syncytial virus-induced trna-derived rna fragment. International Journal of Molecular Sciences, 21(22):8766, November 2020. URL: http://dx.doi.org/10.3390/ijms21228766, doi:10.3390/ijms21228766. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21228766)
+
+[4. (Höck2008The) Julia Höck and Gunter Meister. The argonaute protein family. Genome Biology, 9(2):210, 2008. URL: http://dx.doi.org/10.1186/gb-2008-9-2-210, doi:10.1186/gb-2008-9-2-210. This article has 410 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/gb-2008-9-2-210)
+
+[5. (Wu2020Argonaute) Jin’en Wu, Jing Yang, William C. Cho, and Yadong Zheng. Argonaute proteins: structural features, functions and emerging roles. Journal of Advanced Research, 24:317–324, July 2020. URL: http://dx.doi.org/10.1016/j.jare.2020.04.017, doi:10.1016/j.jare.2020.04.017. This article has 80 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jare.2020.04.017)
+
+[6. (Landthaler2008Molecular) Markus Landthaler, Dimos Gaidatzis, Andrea Rothballer, Po Yu Chen, Steven Joseph Soll, Lana Dinic, Tolulope Ojo, Markus Hafner, Mihaela Zavolan, and Thomas Tuschl. Molecular characterization of human argonaute-containing ribonucleoprotein complexes and their bound target mrnas. RNA, 14(12):2580–2596, October 2008. URL: http://dx.doi.org/10.1261/rna.1351608, doi:10.1261/rna.1351608. This article has 315 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.1351608)
+
+[7. (Hutvagner2008Argonaute) Gyorgy Hutvagner and Martin J. Simard. Argonaute proteins: key players in rna silencing. Nature Reviews Molecular Cell Biology, 9(1):22–32, January 2008. URL: http://dx.doi.org/10.1038/nrm2321, doi:10.1038/nrm2321. This article has 1028 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrm2321)
+
+[8. (Meister2013Argonaute) Gunter Meister. Argonaute proteins: functional insights and emerging roles. Nature Reviews Genetics, 14(7):447–459, June 2013. URL: http://dx.doi.org/10.1038/nrg3462, doi:10.1038/nrg3462. This article has 833 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/nrg3462)
+
+[9. (Nakanishi2022Anatomy) Kotaro Nakanishi. Anatomy of four human argonaute proteins. Nucleic Acids Research, 50(12):6618–6638, June 2022. URL: http://dx.doi.org/10.1093/nar/gkac519, doi:10.1093/nar/gkac519. This article has 57 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkac519)

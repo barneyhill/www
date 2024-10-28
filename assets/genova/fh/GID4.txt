@@ -1,0 +1,44 @@
+# GID4
+
+## Overview
+GID4 is a gene that encodes the protein GID complex subunit 4 homolog, which is a critical component of the human CTLH (C-terminal to LisH) E3 ubiquitin ligase complex. This protein functions as a substrate receptor within the complex, specifically recognizing substrates with Pro/N-degrons, which are N-terminal degrons containing unmodified proline residues. The GID4 protein is characterized by a unique β-barrel fold that facilitates substrate binding and is essential for its role in ubiquitination processes. Through its interactions with various proteins, GID4 is involved in regulating a wide range of cellular activities, including cell cycle progression, cell migration, and metabolic regulation. Its function in targeting proteins for degradation underscores its importance in maintaining cellular homeostasis and its potential implications in cancer when dysregulated (Owens2023A; Bagci2023The; Maitland2022Structural).
+
+## Structure
+The GID4 protein, a subunit of the human CTLH degradation complex, features a novel β-barrel fold composed of eight closed antiparallel strands with an internal helical bundle insertion. This structure forms a central channel where substrates bind for ubiquitination, a feature conserved between yeast and humans (Yazdi2023Chemical). The β-barrel structure of GID4 is crucial for recognizing substrates with an N-terminal proline degron, such as the metabolic enzyme Fructose-1,6-bisphosphatase 1 (Fbp1) (Yazdi2023Chemical; Maitland2022Structural). 
+
+GID4 interacts with other components of the GID complex, forming a quaternary structure that includes a clamp-like assembly with Gid4 at one end and the Gid2-Gid9 RING dimer at the other, connected by a core scaffolding unit of Gid1, Gid8, and Gid5 (Maitland2022Structural). The human complex can oligomerize into ring or oval-like shapes, with WDR26 mediating dimerization interfaces necessary for higher-order assemblies (Maitland2022Structural). 
+
+GID4's interaction with Gid12 modulates its substrate-binding tunnel, affecting substrate ubiquitylation by reshaping the degron binding site (Qiao2022CryoEM). This interaction suggests a steric blockade mechanism that inhibits substrate ubiquitylation by partially occupying the space between Gid4 and the RING domains (Qiao2022CryoEM).
+
+## Function
+The GID4 gene encodes a substrate receptor that is part of the human CTLH/GID (hGID) E3 ubiquitin ligase complex, which plays a significant role in regulating various cellular processes, including cell cycle progression, cell migration, and metabolic activity. GID4 functions by targeting specific proteins for ubiquitination and subsequent degradation, thereby controlling their abundance and activity within the cell (Owens2023A; Bagci2023The).
+
+One of the primary targets of GID4 is ARHGAP11A, a RhoA-specific GTPase-activating protein. The degradation of ARHGAP11A by GID4 is crucial for maintaining proper RhoA activity levels, which are essential for cell motility and migration. This process prevents the accumulation of ARHGAP11A at the cell periphery, ensuring active RhoA at the cell's leading edge, which is vital for organizing polarized actin structures and membrane protrusions (Bagci2023The).
+
+GID4 also interacts with proteins involved in chromatin organization, cell division, and RNA processing, indicating its involvement in nuclear processes. It recognizes substrates with Pro/N-degrons, although not all interactions lead to degradation, suggesting both degradative and non-degradative roles in cellular regulation (Owens2023A).
+
+## Clinical Significance
+Mutations and alterations in the expression of the GID4 gene have been implicated in various cancers. Specifically, mutations in the substrate binding pocket of GID4 have been reported in glioma, breast, and pancreatic carcinoma samples, suggesting a potential link between these mutations and cancer development (Owens2023A). The CTLH complex, which includes GID4, is associated with protumorigenic effects, with increased expression linked to cancer cell plasticity, advanced disease, and therapy resistance. However, mutations in CTLH genes, including GID4, are not frequent, occurring in about 5% of cases, mostly as missense mutations with unknown significance (Huffman2019The).
+
+Alterations in GID4 expression levels can also impact cell migration and proliferation, which are critical processes in cancer metastasis. The GID4 E3 ubiquitin ligase complex targets ARHGAP11A for degradation, a process crucial for regulating cell migration by controlling RhoA activity. Loss of GID4 can lead to increased stability of ARHGAP11A, contributing to tumor progression by affecting cell motility (Bagci2023The). Elevated ARHGAP11A expression is associated with poor survival in cancers such as hepatocellular and clear cell renal carcinoma, and gastric cancer (Bagci2023The).
+
+## Interactions
+The human gene GID4 encodes a protein that is a part of the CTLH complex, a multi-subunit ubiquitin ligase complex. GID4 acts as a substrate receptor within this complex, recognizing substrates with Pro/N-degrons, which are N-terminal degrons containing unmodified proline residues (Owens2023A). GID4 interacts with a variety of proteins associated with RNA binding, transcription, splicing, and chromatin. It has been shown to interact with members of the CTLH complex, such as RANBP9 and MKLN1, and other proteins like DDX50, which are involved in ribonucleoprotein complex biogenesis and chromatin binding (Owens2023A).
+
+GID4 also interacts with RNA helicases, including DDX21 and DDX50, through the Pro/N-degron pathway. These interactions can be disrupted by the chemical probe PFI-7, which blocks the binding of these proteins to GID4 without affecting their localization (Owens2023A). The protein is involved in both degradative and non-degradative functions, as evidenced by its interactions with proteins like ARHGAP11A, which it targets for ubiquitination and degradation, affecting cell motility (Bagci2023The). GID4's interactions are crucial for regulating various cellular processes, including RNA metabolism and cell migration (Owens2023A; Bagci2023The).
+
+
+## References
+
+
+1. (Owens2023A) A chemical probe to modulate human GID4 Pro/N-degron interactions. This article has 7 citations.
+
+2. (Bagci2023The) The hGIDGID4E3 ubiquitin ligase complex targets ARHGAP11A to regulate cell migration. This article has 1 citations.
+
+[3. (Maitland2022Structural) Matthew E. R. Maitland, Gilles A. Lajoie, Gary S. Shaw, and Caroline Schild-Poulter. Structural and functional insights into gid/ctlh e3 ligase complexes. International Journal of Molecular Sciences, 23(11):5863, May 2022. URL: http://dx.doi.org/10.3390/ijms23115863, doi:10.3390/ijms23115863. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms23115863)
+
+[4. (Huffman2019The) Nickelas Huffman, Dario Palmieri, and Vincenzo Coppola. The ctlh complex in cancer cell plasticity. Journal of Oncology, 2019:1–13, November 2019. URL: http://dx.doi.org/10.1155/2019/4216750, doi:10.1155/2019/4216750. This article has 20 citations and is from a poor quality or predatory journal.](https://doi.org/10.1155/2019/4216750)
+
+5. (Yazdi2023Chemical) Chemical Tools for the Gid4 Subunit of the Human E3 Ligase C-terminal to LisH (CTLH) Degradation Complex. This article has 3 citations.
+
+[6. (Qiao2022CryoEM) Shuai Qiao, Chia-Wei Lee, Dawafuti Sherpa, Jakub Chrustowicz, Jingdong Cheng, Maximilian Duennebacke, Barbara Steigenberger, Ozge Karayel, Duc Tung Vu, Susanne von Gronau, Matthias Mann, Florian Wilfling, and Brenda A. Schulman. Cryo-em structures of gid12-bound gid e3 reveal steric blockade as a mechanism inhibiting substrate ubiquitylation. Nature Communications, June 2022. URL: http://dx.doi.org/10.1038/s41467-022-30803-9, doi:10.1038/s41467-022-30803-9. This article has 8 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-30803-9)

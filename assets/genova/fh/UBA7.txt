@@ -1,0 +1,44 @@
+# UBA7
+
+## Overview
+UBA7 is a gene that encodes the ubiquitin-like modifier activating enzyme 7, a crucial E1 enzyme involved in the ISGylation process. This enzyme plays a significant role in the innate immune response by activating interferon-stimulated gene 15 (ISG15), a ubiquitin-like protein, through adenylation and thioester bond formation. The activated ISG15 is then transferred to the E2 enzyme UBE2L6, facilitating its conjugation to target proteins, a process essential for antiviral defense mechanisms (Afsar2023CryoEM). UBA7 is primarily active in the cytoplasm and nucleus, influencing various cellular processes such as cell cycle regulation, immune response, and apoptosis. The enzyme's structural specificity ensures the fidelity of the ISG15 activation pathway, preventing noncognate interactions and ensuring efficient ISGylation (Afsar2023CryoEM). UBA7's role in cellular homeostasis and stress response underscores its importance in maintaining immune function and its potential implications in disease states.
+
+## Structure
+The UBA7 protein, also known as ubiquitin-like modifier activating enzyme 7, is involved in the activation of ISG15, a ubiquitin-like protein. The molecular structure of UBA7 has been elucidated using cryo-electron microscopy, revealing its complex with UBE2L6 and ISG15. UBA7 contains several distinct domains, including the adenylation domain (AAD), the inactive adenylation domain (IAD), the first catalytic cysteine half-domain (FCCH), the second catalytic cysteine half-domain (SCCH), and the ubiquitin-fold domain (UFD) (Afsar2023CryoEM).
+
+The SCCH domain of UBA7 is noted for its dynamic nature, adopting an open conformation that facilitates thioester transfer (Afsar2023CryoEM). The UFD domain plays a crucial role in the specificity of UBA7 for its partners, particularly through unique interactions with UBE2L6 (Afsar2023CryoEM). The structure of UBA7 in complex with ISG15 reveals specific interaction networks that contribute to its specificity, with distinct interfaces involving the C-terminal domain of ISG15 and the AAD of UBA7 (Afsar2023CryoEM).
+
+The cryo-EM structures highlight the unique positioning of ISG15 during thioester transfer, which is essential for the function of the UBA7-UBE2L6-ISG15 complex (Afsar2023CryoEM). These structural insights provide a detailed understanding of UBA7's role in ISG15 activation and E1-E2 thioester transfer.
+
+## Function
+UBA7, also known as ubiquitin-like modifier activating enzyme 7, is a specific E1 enzyme involved in the ISGylation process, which is the conjugation of interferon-stimulated gene 15 (ISG15) to target proteins. This process is crucial for the innate immune response, particularly in antiviral activities. UBA7 activates ISG15 through adenylation and thioester bond formation, facilitating its transfer to the E2 enzyme UBE2L6, and subsequently to substrate proteins via E3 ligases, a process known as ISGylation (Afsar2023CryoEM). 
+
+The UBA7 enzyme is primarily active in the cytoplasm and nucleus, where it influences processes such as cell cycle regulation, immune response, and apoptosis. It plays a critical role in the host's defense against viral infections by ensuring proper antiviral defense mechanisms are in place (Afsar2023CryoEM). The structural specificity of UBA7 for ISG15 and UBE2L6 is crucial for the fidelity of the ISG15 activation pathway, preventing interactions with noncognate E1s and E2s, and ensuring efficient ISGylation (Afsar2023CryoEM). UBA7's function in healthy human cells involves regulating ISG15-mediated immune responses, contributing to cellular homeostasis and stress response (Afsar2023CryoEM).
+
+## Clinical Significance
+UBA7, also known as ubiquitin-like modifier-activating enzyme 7, has been implicated in various diseases due to alterations in its expression levels and interactions. In breast cancer, UBA7 expression is significantly decreased in cancerous tissues compared to normal tissues. This reduction is associated with poor prognosis, particularly in estrogen receptor (ER)-positive and progesterone receptor (PR)-positive breast cancer patients. Low UBA7 expression correlates with poor overall survival and relapse-free survival, especially in luminal A and B subtypes of breast cancer (Lin2020Ubiquitin‑like).
+
+In lung cancer, UBA7 is located in the chromosomal region 3p21.3, a site frequently associated with tumor suppressor genes. Although UBA7 expression is reduced in many lung cancer cell lines, studies using Ube1L-deficient mice suggest that its deficiency does not significantly impact lung cancer progression in certain models, indicating a complex role in tumor suppression (Yin2009Deficiency; Kok1993A).
+
+Additionally, UBA7 has been linked to autosomal recessive intellectual disability (ARID) through loss of function mutations, highlighting its potential role in neurodevelopmental disorders (Mir2019Advances). These findings underscore the importance of UBA7 in maintaining cellular homeostasis and its potential as a therapeutic target.
+
+## Interactions
+UBA7, also known as ubiquitin-like modifier activating enzyme 7, is involved in the activation and transfer of ISG15, a ubiquitin-like protein, to the E2 enzyme UBE2L6. This interaction is crucial for the ISGylation process, which plays a significant role in antiviral responses. UBA7 forms a complex with ISG15 and UBE2L6, facilitating the E1-E2 thioester transfer necessary for ISG15 conjugation to target proteins (Afsar2023CryoEM).
+
+The UBA7-UBE2L6-ISG15 complex is characterized by specific interactions at various interfaces. Key residues such as Arg92, Asn89, Thr125, and Asn151 on ISG15, and Glu890 and Tyr892 on UBA7, are essential for ISGylation. The interaction between UBA7 and UBE2L6 involves the UFD and SCCH domains of UBA7, with UBE2L6 residues Lys9 and Glu12 playing a critical role in the process (Afsar2023CryoEM).
+
+The structural dynamics of UBA7, including its SCCH domain, are crucial for its function. The SCCH domain adopts an open conformation, which is necessary for efficient thioester transfer. This structural arrangement is facilitated by interactions with UBE2L6 and ISG15, enhancing the efficiency of the E1-E2-Ubl thioester transfer (Afsar2023CryoEM).
+
+
+## References
+
+
+[1. (Kok1993A) K Kok, R Hofstra, A Pilz, A van den Berg, P Terpstra, C H Buys, and B Carritt. A gene in the chromosomal region 3p21 with greatly reduced expression in lung cancer is similar to the gene for ubiquitin-activating enzyme. Proceedings of the National Academy of Sciences, 90(13):6071–6075, July 1993. URL: http://dx.doi.org/10.1073/pnas.90.13.6071, doi:10.1073/pnas.90.13.6071. This article has 74 citations.](https://doi.org/10.1073/pnas.90.13.6071)
+
+[2. (Yin2009Deficiency) Xiaoyan Yin, Xiuli Cong, Ming Yan, and Dong-Er Zhang. Deficiency of a potential 3p21.3 tumor suppressor gene ube1l (uba7) does not accelerate lung cancer development in k-rasla2 mice. Lung Cancer, 63(2):194–200, February 2009. URL: http://dx.doi.org/10.1016/j.lungcan.2008.05.009, doi:10.1016/j.lungcan.2008.05.009. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.lungcan.2008.05.009)
+
+[3. (Lin2020Ubiquitin‑like) Meng Lin, Yanqing Li, Shanshan Qin, Yan Jiao, and Fang Hua. Ubiquitin‑like modifier‑activating enzyme 7 as a marker for the diagnosis and prognosis of breast cancer. Oncology Letters, February 2020. URL: http://dx.doi.org/10.3892/ol.2020.11406, doi:10.3892/ol.2020.11406. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2020.11406)
+
+[4. (Mir2019Advances) Yaser Rafiq Mir and Raja Amir Hassan Kuchay. Advances in identification of genes involved in autosomal recessive intellectual disability: a brief review. Journal of Medical Genetics, 56(9):567–573, March 2019. URL: http://dx.doi.org/10.1136/jmedgenet-2018-105821, doi:10.1136/jmedgenet-2018-105821. This article has 16 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1136/jmedgenet-2018-105821)
+
+[5. (Afsar2023CryoEM) Mohammad Afsar, GuanQun Liu, Lijia Jia, Eliza A. Ruben, Digant Nayak, Zuberwasim Sayyad, Priscila dos Santos Bury, Kristin E. Cano, Anindita Nayak, Xiang Ru Zhao, Ankita Shukla, Patrick Sung, Elizabeth V. Wasmuth, Michaela U. Gack, and Shaun K. Olsen. Cryo-em structures of uba7 reveal the molecular basis for isg15 activation and e1-e2 thioester transfer. Nature Communications, August 2023. URL: http://dx.doi.org/10.1038/s41467-023-39780-z, doi:10.1038/s41467-023-39780-z. This article has 5 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-39780-z)

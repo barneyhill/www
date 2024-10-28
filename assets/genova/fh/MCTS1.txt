@@ -1,0 +1,50 @@
+# MCTS1
+
+## Overview
+MCTS1 (Malignant T Cell Amplified Sequence 1) is a gene that encodes a protein involved in the regulation of translation re-initiation, a critical process in protein synthesis. The MCTS1 protein, characterized by its PUA domain, functions as a translation re-initiation and release factor, facilitating the recycling of ribosomal subunits and promoting the translation of mRNAs with upstream open reading frames (uORFs) (Ahmed2018DENR–MCTS1; Lomakin2018Crystal). It forms a heterodimer with the density-regulated protein (DENR), a partnership essential for its role in translation re-initiation and ribosome recycling (Lomakin2018Crystal). MCTS1 is notably implicated in oncogenesis, being overexpressed in various cancers, where it influences cell cycle progression and proliferation through interactions with proteins such as cyclin D1 and E2F1 (Skabkin2010Activities; Gao2021MCTS1). Its oncogenic properties and involvement in critical signaling pathways make it a potential target for cancer therapy and a biomarker for tumor progression (Tseng2017Oncogenic; Wu2014MCT1).
+
+## Structure
+The MCTS1 protein, also known as Malignant T Cell Amplified Sequence 1, plays a crucial role in translation reinitiation. Its structure includes a PUA domain, which is typically found in RNA-binding proteins and is involved in tRNA binding, a function essential for translation reinitiation (Ahmed2018DENR–MCTS1). The PUA domain provides an interface for the binding of initiator tRNA, which is critical for the protein's function in translation (Lomakin2018Crystal).
+
+The MCTS1 protein forms a heterodimer with the density-regulated protein (DENR), and this interaction is stabilized by a zinc ion-binding site formed by conserved cysteine residues in DENR (Lomakin2018Crystal). The binding interface between MCTS1 and DENR involves a significant burial of surface area and a network of hydrogen bonds, indicating a strong interaction necessary for their function in translation reinitiation (Ahmed2018DENR–MCTS1).
+
+MCTS1 is also known for its oncogenic properties, being overexpressed in various cancers, and has been identified as a gene amplified in T-cell leukemias (Ahmed2018DENR–MCTS1). The protein's structure and interactions are crucial for its role in noncanonical translation initiation and ribosome recycling (Lomakin2018Crystal).
+
+## Function
+MCTS1 (Malignant T Cell Amplified Sequence 1) is a protein involved in the regulation of translation re-initiation in human cells. It forms a complex with the Density-Regulated Protein (DENR) to facilitate the recycling of post-termination 40S ribosomal subunits and promote translation re-initiation on mRNAs containing upstream Open Reading Frames (uORFs) (Clemm2022Cyclin; Schleich2017Identification). This process is crucial for the efficient translation of specific transcripts, particularly those with short uORFs, which are often involved in neurobiology and cell proliferation (Schleich2017Identification).
+
+MCTS1 is active in the cytoplasm, where it enhances the translation of a subset of cellular mRNAs, including those coding for proteins like cyclin D1 and E2F1, which are important for cell cycle progression and proliferation (Skabkin2010Activities). The protein's role in translation initiation is particularly significant during mitosis, where it helps ensure proper cell division by stabilizing the DENR•MCTS1 complex through phosphorylation, thus preventing mitotic failure and apoptosis (Clemm2022Cyclin). MCTS1's activity is essential for maintaining normal cellular functions and organismal development, influencing processes such as cell growth and proliferation.
+
+## Clinical Significance
+Alterations in the expression of the MCTS1 gene have significant clinical implications, particularly in cancer progression. Overexpression of MCTS1 is associated with tumor progression in various cancers, including breast and lung cancer. In breast cancer, MCTS1 overexpression is linked to PTEN deficiency, leading to enhanced Src/p190B signaling, which promotes neoplastic multinucleation and chromosomal instability. This interaction contributes to tumorigenesis by destabilizing PTEN and activating the PI3K/AKT signaling pathway, which is crucial for cell survival and malignancy (Wu2014MCT1).
+
+In lung cancer, MCTS1 overexpression is correlated with increased tumor aggressiveness and a malignant microenvironment. It enhances the YY1-EGFR-MnSOD signaling pathway, leading to increased reactive oxygen species (ROS) production, which promotes tumor progression and metastasis. High MCTS1 expression is associated with poor overall survival and low recurrence-free survival, particularly in patients with EGFR mutations (Tseng2017Oncogenic).
+
+MCTS1's role in promoting mitotic catastrophe and genomic instability suggests its potential as a biomarker for early tumor diagnosis. Targeting MCTS1 could suppress oncogenic signaling pathways, offering a therapeutic strategy for managing cancers with Src hyperactivation and/or PTEN deficiency (Tseng2017Oncogenic; Wu2014MCT1).
+
+## Interactions
+MCTS1 interacts with the density-regulated protein (DENR) to form a heterodimer that plays a crucial role in translation reinitiation and ribosome recycling. This interaction is essential for the complex's function in promoting translation reinitiation by binding tRNA, a process necessary for resuming scanning and translating a second open reading frame on the same mRNA (Ahmed2018DENR–MCTS1). The DENR-MCTS1 complex can bind tRNA independently of the ribosome, suggesting it recruits tRNA to the ribosome during reinitiation, similar to the eIF2 complex in canonical initiation (Ahmed2018DENR–MCTS1).
+
+The interaction between MCTS1 and DENR involves specific residues, with DENR residues Glu42, Tyr43, and Tyr46 being crucial for MCTS1 binding. MCTS1 contains a PUA domain, commonly found in tRNA binding proteins, and binds tRNA with similar affinity to related proteins like eIF2D (Ahmed2018DENR–MCTS1). The stability of DENR and MCTS1 is interdependent, as knocking down one protein reduces the abundance of the other (Ahmed2018DENR–MCTS1).
+
+MCTS1 also interacts with the E2F1 protein in lung adenocarcinoma cells, where its knockdown leads to reduced cell proliferation and migration, suggesting a role in promoting malignant behaviors through the c-Myc pathway (Gao2021MCTS1).
+
+
+## References
+
+
+[1. (Tseng2017Oncogenic) H-Y Tseng, Y-A Chen, J Jen, P-C Shen, L-M Chen, T-D Lin, Y-C Wang, and H-L Hsu. Oncogenic mct-1 activation promotes yy1-egfr-mnsod signaling and tumor progression. Oncogenesis, 6(4):e313–e313, April 2017. URL: http://dx.doi.org/10.1038/oncsis.2017.13, doi:10.1038/oncsis.2017.13. This article has 23 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/oncsis.2017.13)
+
+[2. (Ahmed2018DENR–MCTS1) Yasar Luqman Ahmed, Sibylle Schleich, Jonathan Bohlen, Nicolas Mandel, Bernd Simon, Irmgard Sinning, and Aurelio A. Teleman. Denr–mcts1 heterodimerization and trna recruitment are required for translation reinitiation. PLOS Biology, 16(6):e2005160, June 2018. URL: http://dx.doi.org/10.1371/journal.pbio.2005160, doi:10.1371/journal.pbio.2005160. This article has 30 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.2005160)
+
+[3. (Lomakin2018Crystal) Ivan B. Lomakin, Sergey E. Dmitriev, and Thomas A. Steitz. Crystal structure of the denr-mct-1 complex revealed zinc-binding site essential for heterodimer formation. Proceedings of the National Academy of Sciences, 116(2):528–533, December 2018. URL: http://dx.doi.org/10.1073/pnas.1809688116, doi:10.1073/pnas.1809688116. This article has 20 citations.](https://doi.org/10.1073/pnas.1809688116)
+
+[4. (Wu2014MCT1) M-H Wu, Y-A Chen, H-H Chen, K-W Chang, I-S Chang, L-H Wang, and H-L Hsu. Mct-1 expression and pten deficiency synergistically promote neoplastic multinucleation through the src/p190b signaling activation. Oncogene, 33(43):5109–5120, May 2014. URL: http://dx.doi.org/10.1038/onc.2014.125, doi:10.1038/onc.2014.125. This article has 18 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2014.125)
+
+[5. (Skabkin2010Activities) Maxim A. Skabkin, Olga V. Skabkina, Vidya Dhote, Anton A. Komar, Christopher U.T. Hellen, and Tatyana V. Pestova. Activities of ligatin and mct-1/denr in eukaryotic translation initiation and ribosomal recycling. Genes &amp; Development, 24(16):1787–1801, August 2010. URL: http://dx.doi.org/10.1101/gad.1957510, doi:10.1101/gad.1957510. This article has 201 citations.](https://doi.org/10.1101/gad.1957510)
+
+[6. (Gao2021MCTS1) Cun Gao, Rui Dong, Yongmeng Li, Jinghui Liang, and Hui Tian. Mcts1 promotes the development of lung adenocarcinoma by regulating e2f1 expression. Oncology Letters, May 2021. URL: http://dx.doi.org/10.3892/ol.2021.12792, doi:10.3892/ol.2021.12792. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2021.12792)
+
+[7. (Clemm2022Cyclin) Katharina Clemm von Hohenberg, Sandra Müller, Sibylle Schleich, Matthias Meister, Jonathan Bohlen, Thomas G. Hofmann, and Aurelio A. Teleman. Cyclin b/cdk1 and cyclin a/cdk2 phosphorylate denr to promote mitotic protein translation and faithful cell division. Nature Communications, February 2022. URL: http://dx.doi.org/10.1038/s41467-022-28265-0, doi:10.1038/s41467-022-28265-0. This article has 22 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-28265-0)
+
+[8. (Schleich2017Identification) Sibylle Schleich, Julieta M. Acevedo, Katharina Clemm von Hohenberg, and Aurelio A. Teleman. Identification of transcripts with short stuorfs as targets for denr•mcts1-dependent translation in human cells. Scientific Reports, June 2017. URL: http://dx.doi.org/10.1038/s41598-017-03949-6, doi:10.1038/s41598-017-03949-6. This article has 46 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-03949-6)

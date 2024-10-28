@@ -1,0 +1,37 @@
+# SHFL
+
+## Overview
+The SHFL gene, also known as C19orf66, encodes the protein shiftless, which functions as an antiviral inhibitor of ribosomal frameshifting. This protein is categorized as an RNA-binding protein and plays a crucial role in the innate immune response against viral infections. As an interferon-stimulated gene, SHFL is upregulated in response to viral infections and interferon treatments, contributing to broad-spectrum antiviral defense mechanisms. The protein is characterized by a zinc-ribbon domain and a coiled-coil motif, which are essential for its function in regulating viral RNA stability and translation. SHFL inhibits the -1 programmed ribosomal frameshift, a strategy employed by many viruses to control protein expression, thereby maintaining translational fidelity. Additionally, SHFL interacts with various RNA-binding proteins and viral proteins, modulating RNA granule dynamics and impacting viral replication processes (Rodriguez2022Shiftless; Suzuki2022Restriction; Wang2023Functional).
+
+## Structure
+The SHFL protein, encoded by the SHFL gene, is a 291-amino-acid protein with a molecular weight of approximately 33 kDa (Rodriguez2022Shiftless). Its primary structure includes a zinc-ribbon domain (amino acids 112-135) and a coiled-coil motif at the C-terminus (amino acids 261-285) (Wang2023Functional). The secondary structure of SHFL is composed of eight α-helices and seven β-strands (Rodriguez2022Shiftless). The zinc-ribbon domain is characterized by a sequence of cysteine residues that coordinate a zinc ion, forming a structure similar to the ribosomal protein L36 of Thermus thermophilus (Suzuki2022Restriction).
+
+The tertiary structure of SHFL, predicted by AlphaFold2, reveals a helix-rich domain formed by seven N-terminal α-helices and a glutamate-rich domain in the C-terminus forming an elongated α-helix (Suzuki2022Restriction). SHFL also contains a flexible domain composed of nine β-strands and loops, creating a large flexible cavity accessible to co-factors (Suzuki2022Restriction). The protein includes a nuclear localization signal (NLS) and a nuclear export signal (NES), indicating its role as a nucleocytoplasmic shuttling protein (Rodriguez2022Shiftless).
+
+SHFL exists in two isoforms due to alternative splicing. Isoform-1 is 291 amino acids long, while isoform-2 is 255 amino acids, lacking residues 164-199 (Wang2023Functional). The zinc-finger domain is crucial for SHFL's antiviral activity, particularly in binding and regulating viral proteins (Wang2023Functional).
+
+## Function
+The SHFL gene, also known as C19orf66, encodes a protein that plays a significant role in the innate immune response to viral infections. It is an interferon-stimulated gene (ISG) that is upregulated in response to viral infections and interferon treatments, contributing to broad-spectrum antiviral defense (Rodriguez2022Shiftless; Wang2023Functional). SHFL is involved in several molecular processes, including the regulation of viral RNA stability and translation, and the manipulation of RNA granule formation (Rodriguez2022Shiftless). It is known to inhibit the -1 programmed ribosomal frameshift, a mechanism used by many viruses to control protein expression, thereby maintaining translational fidelity (Rodriguez2022Shiftless).
+
+In healthy human cells, SHFL is active in the cytoplasm, where it interacts with RNA-binding proteins and influences RNA granule dynamics, such as P-bodies and stress granules, which are involved in RNA storage, degradation, and translational arrest (Rodriguez2022Shiftless). SHFL's ability to modulate RNA granule dynamics suggests a role in regulating cytokine mRNA stability and translation, potentially impacting inflammatory responses (Hatfield2023The). However, the specific functions of SHFL in healthy cells outside the context of viral infection remain less clear (Rodriguez2022Shiftless).
+
+## Interactions
+The SHFL protein, also known as Shiftless, engages in various interactions with both viral and host proteins, playing a significant role in antiviral defense. SHFL interacts with several RNA-binding proteins, including Polyadenylate-Binding Protein Cytoplasmic 1 (PABPC1), La-related protein 1 (LARP1), and the RNA helicase MOV10. These interactions are crucial for regulating mRNA stability and translation, particularly during viral infections such as Dengue virus (DENV) and Kaposi's sarcoma-associated herpesvirus (KSHV) (Rodriguez2022Shiftless; Suzuki2022Restriction).
+
+SHFL also interacts with viral proteins, such as KSHV ORF57, in an RNA-dependent manner, affecting their expression at the protein level (Rodriguez2022Shiftless). It binds to the 3' UTR of DENV genomic RNA, restricting its translation and potentially triggering viral RNA degradation (Rodriguez2022Shiftlessa). SHFL's interaction with ribosomal proteins and the -1 programmed ribosomal frameshift (-1PRF) signal-carrying RNA is critical for inhibiting the -1PRF of viruses like HIV-1, impacting the Gag to Gag-Pol ratio (Wang2023Functional).
+
+The zinc-finger motif within SHFL is essential for its RNA-binding activity and interactions with other proteins, contributing to its antiviral functions (Suzuki2022Restriction). These interactions highlight SHFL's role in modulating both viral and host cellular processes to inhibit viral replication.
+
+
+## References
+
+
+[1. (Suzuki2022Restriction) Youichi Suzuki and Takeshi Murakawa. Restriction of flaviviruses by an interferon-stimulated gene shfl/c19orf66. International Journal of Molecular Sciences, 23(20):12619, October 2022. URL: http://dx.doi.org/10.3390/ijms232012619, doi:10.3390/ijms232012619. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms232012619)
+
+[2. (Rodriguez2022Shiftlessa) William Rodriguez and Mandy Muller. Shiftless, a critical piece of the innate immune response to viral infection. Viruses, 14(6):1338, June 2022. URL: http://dx.doi.org/10.3390/v14061338, doi:10.3390/v14061338. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/v14061338)
+
+3. (Hatfield2023The) The antiviral protein Shiftless blocks p-body formation during KSHV infection. This article has 0 citations.
+
+4. (Rodriguez2022Shiftless) Shiftless Restricts Viral Gene Expression and Influences RNA Granule Formation during KSHV lytic replication. This article has 2 citations.
+
+[5. (Wang2023Functional) Xingzheng Wang and A-Mei Zhang. Functional features of a novel interferon-stimulated gene shfl: a comprehensive review. Frontiers in Microbiology, December 2023. URL: http://dx.doi.org/10.3389/fmicb.2023.1323231, doi:10.3389/fmicb.2023.1323231. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmicb.2023.1323231)

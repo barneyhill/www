@@ -1,0 +1,52 @@
+# ARL15
+
+## Overview
+ARL15 is a gene that encodes the protein ADP ribosylation factor-like GTPase 15, a member of the Arf-like GTPases family. This protein is primarily involved in cellular processes such as membrane trafficking, cytoskeletal organization, and signal transduction. ARL15 is predominantly localized in the Golgi apparatus and the plasma membrane, where it plays a critical role in cargo transport and cell adhesion (Sharma2022Golgi). The protein is characterized by its globular structure, comprising alpha-helices and beta-sheets, and is involved in several signaling pathways, including insulin and TGFβ signaling (Sharma2020Computational; Zhao2017ADPribosylation; Shi2022Arl15). ARL15's interactions with other proteins, such as ASAP2 and Smad4, further underscore its role in vesicular trafficking and signal transduction (Zhao2017ADPribosylation; Shi2022Arl15). Variants in the ARL15 gene have been associated with metabolic disorders, including type 2 diabetes and coronary heart disease, highlighting its clinical significance (Richards2009A).
+
+## Structure
+The ARL15 protein is characterized as a globular protein with a combination of alpha-helices and beta-sheets, interspersed with coils and turns (Sharma2020Computational). The N-terminal alpha-helix is amphipathic, containing both polar and hydrophobic amino acids, which may provide membrane anchoring support, a feature typical of the Arf family of small G proteins (Sharma2020Computational). The protein is 204 amino acids long and has a molecular weight of 22.88 kDa (Sharma2020Computational).
+
+The tertiary structure of ARL15 was predicted using computational methods, with the QUARK model (Qmod5) showing better overall packing quality and more ordered N-terminal helices compared to the I-TASSER models, which displayed significant variability and instability in the N-terminal region (Sharma2020Computational). The protein is predicted to localize predominantly in the Golgi apparatus (Sharma2020Computational).
+
+The study identified a putative GTP-binding site, inferred from a homologous protein, ARF6, suggesting a shallow but appropriately sized cavity for GTP binding (Sharma2020Computational). The exact details of post-translational modifications, specific domains, and splice variant isoforms of ARL15 are not provided in the available context.
+
+## Function
+The ARL15 gene encodes a protein that is part of the Arf-like GTPases family, which are involved in various cellular processes, including membrane trafficking and cytoskeletal organization. ARL15 is primarily localized to the Golgi apparatus and the plasma membrane, where it plays a crucial role in cargo transport, cell adhesion, and motility (Sharma2022Golgi). It is involved in the organization of the plasma membrane and the sorting of proteins like caveolin-2 and STX6 into vesicles, which are then targeted to the plasma membrane. This process is essential for cell spreading, adhesion, and filopodial formation (Sharma2022Golgi).
+
+ARL15 also plays a significant role in the insulin signaling pathway, particularly in the IR/IRS1/AKT pathway. It enhances the phosphorylation of key molecules such as IR, IRS1, and AKT, acting as an insulin-sensitizing effector molecule (Zhao2017ADPribosylation). Additionally, ARL15 is involved in the TGFβ and BMP signaling pathways, where it promotes the assembly of the Smad-complex, necessary for efficient signaling and transcriptional activity (Shi2022Arl15). These functions highlight ARL15's role in regulating important cellular and metabolic processes.
+
+## Clinical Significance
+Mutations and alterations in the ARL15 gene have been linked to several metabolic disorders. Variants in ARL15 are associated with decreased adiponectin levels, which are inversely related to the risk of type 2 diabetes (T2D) and coronary heart disease (CHD) (Richards2009A). Specifically, the rs4311394-G allele in ARL15 is linked to an increased risk of CHD and T2D, as well as higher glycated hemoglobin and fasting insulin levels (Richards2009A). 
+
+ARL15 is also implicated in adipocyte differentiation and adiponectin secretion. Knockdown studies in murine models have shown that reduced ARL15 expression impairs adiponectin secretion, which is crucial for metabolic regulation (Rocha2017The). Patients with ARL15 haploinsufficiency exhibit conditions such as lipodystrophy, metabolic dyslipidemia, and severe insulin resistance, highlighting its role in adipose tissue function (Rocha2017The).
+
+In cancer, ARL15 is involved in the TGFβ signaling pathway, promoting the assembly of the Smad-complex. This pathway is crucial for cancer metastasis, and mutations in ARL15 can affect its interaction with Smad4, potentially influencing tumorigenesis (Shi2022Arl15). These findings suggest that ARL15 plays a significant role in various metabolic and pathological conditions.
+
+## Interactions
+ARL15, a small GTPase, is involved in several protein interactions that influence various cellular pathways. It interacts with ASAP2, a protein with ARF-GAP activity, in mouse skeletal muscle, as confirmed by co-immunoprecipitation and western blot analyses. This interaction is upregulated by insulin signals and suggests a role in vesicular trafficking, particularly in the Golgi apparatus (Zhao2017ADPribosylation).
+
+ARL15 also interacts with Smad4 in the TGFβ signaling pathway. This interaction is specific to the GTP-bound form of ARL15 and is enhanced by TGFβ1, promoting the assembly of the Smad-complex. The interaction occurs at the endolysosomal membrane and involves the MH2 domain of Smad4 (Shi2022Arl15).
+
+In the context of divalent cation transport, ARL15 interacts with CNNM proteins and the TRPM7 channel. It inhibits Zn2+ influx through TRPM7 by binding to CNNM, specifically involving the CBS-pair domains of CNNM. The ARL15 R95A mutant, which is defective in CNNM binding, does not inhibit TRPM7 channel activity, highlighting the importance of this interaction (Mahbub2023Structural).
+
+ARL15 is also implicated in the regulation of CNNM glycosylation, affecting their activity at the plasma membrane. This interaction occurs in the endoplasmic reticulum and Golgi system, influencing the complex N-glycosylation of CNNMs (Zolotarov2020ARL15).
+
+
+## References
+
+
+[1. (Rocha2017The) Nuno Rocha, Felicity Payne, Isabel Huang-Doran, Alison Sleigh, Katherine Fawcett, Claire Adams, Anna Stears, Vladimir Saudek, Stephen O’Rahilly, Inês Barroso, and Robert K. Semple. The metabolic syndrome- associated small g protein arl15 plays a role in adipocyte differentiation and adiponectin secretion. Scientific Reports, December 2017. URL: http://dx.doi.org/10.1038/s41598-017-17746-8, doi:10.1038/s41598-017-17746-8. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-17746-8)
+
+2. (Zolotarov2020ARL15) ARL15 modulates magnesium homeostasis through N-glycosylation of CNNMs. This article has 1 citations.
+
+[3. (Sharma2020Computational) Aditya Sharma, Manisha Saini, Suman Kundu, and B. K. Thelma. Computational insight into the three-dimensional structure of adp ribosylation factor like protein 15, a novel susceptibility gene for rheumatoid arthritis. Journal of Biomolecular Structure and Dynamics, 40(10):4626–4641, December 2020. URL: http://dx.doi.org/10.1080/07391102.2020.1860826, doi:10.1080/07391102.2020.1860826. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/07391102.2020.1860826)
+
+[4. (Richards2009A) J. Brent Richards, Dawn Waterworth, Stephen O’Rahilly, Marie-France Hivert, Ruth J. F. Loos, John R. B. Perry, Toshiko Tanaka, Nicholas John Timpson, Robert K. Semple, Nicole Soranzo, Kijoung Song, Nuno Rocha, Elin Grundberg, Josée Dupuis, Jose C. Florez, Claudia Langenberg, Inga Prokopenko, Richa Saxena, Robert Sladek, Yurii Aulchenko, David Evans, Gerard Waeber, Jeanette Erdmann, Mary-Susan Burnett, Naveed Sattar, Joseph Devaney, Christina Willenborg, Aroon Hingorani, Jaquelin C. M. Witteman, Peter Vollenweider, Beate Glaser, Christian Hengstenberg, Luigi Ferrucci, David Melzer, Klaus Stark, John Deanfield, Janina Winogradow, Martina Grassl, Alistair S. Hall, Josephine M. Egan, John R. Thompson, Sally L. Ricketts, Inke R. König, Wibke Reinhard, Scott Grundy, H-Erich Wichmann, Phil Barter, Robert Mahley, Y. Antero Kesaniemi, Daniel J. Rader, Muredach P. Reilly, Stephen E. Epstein, Alexandre F. R. Stewart, Cornelia M. Van Duijn, Heribert Schunkert, Keith Burling, Panos Deloukas, Tomi Pastinen, Nilesh J. Samani, Ruth McPherson, George Davey Smith, Timothy M. Frayling, Nicholas J. Wareham, James B. Meigs, Vincent Mooser, and Tim D. Spector. A genome-wide association study reveals variants in arl15 that influence adiponectin levels. PLoS Genetics, 5(12):e1000768, December 2009. URL: http://dx.doi.org/10.1371/journal.pgen.1000768, doi:10.1371/journal.pgen.1000768. This article has 138 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1000768)
+
+[5. (Zhao2017ADPribosylation) Jie Zhao, Min Wang, Wuquan Deng, Daping Zhong, Youzhao Jiang, Yong Liao, Bing Chen, and Xiaoli Zhang. Adp-ribosylation factor-like gtpase 15 enhances insulin-induced akt phosphorylation in the ir/irs1/akt pathway by interacting with asap2 and regulating pdpk1 activity. Biochemical and Biophysical Research Communications, 486(4):865–871, May 2017. URL: http://dx.doi.org/10.1016/j.bbrc.2017.03.079, doi:10.1016/j.bbrc.2017.03.079. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2017.03.079)
+
+6. (Mahbub2023Structural) Structural insights into regulation of TRPM7 divalent cation uptake by the small GTPase ARL15. This article has 0 citations.
+
+7. (Sharma2022Golgi) Golgi localized Arl15 regulates cargo transport, cell adhesion and motility. This article has 1 citations.
+
+[8. (Shi2022Arl15) Meng Shi, Hieng Chiong Tie, Mahajan Divyanshu, Xiuping Sun, Yan Zhou, Boon Kim Boh, Leah A Vardy, and Lei Lu. Arl15 upregulates the tgfβ family signaling by promoting the assembly of the smad-complex. eLife, July 2022. URL: http://dx.doi.org/10.7554/elife.76146, doi:10.7554/elife.76146. This article has 9 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.76146)

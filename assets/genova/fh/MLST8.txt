@@ -1,0 +1,52 @@
+# MLST8
+
+## Overview
+The MLST8 gene encodes the mTOR-associated protein LST8 homolog, commonly referred to as mLST8 or GβL, which is a crucial component of the mechanistic target of rapamycin (mTOR) signaling pathway. This protein is characterized by a seven-bladed β-propeller structure, facilitating its role in stabilizing and enhancing the activity of mTOR complexes, specifically mTORC1 and mTORC2 (Cuéllar2019Structural; Sapam2017Identifying). As a part of these complexes, mLST8 is integral to cellular processes such as growth, proliferation, and survival, by influencing kinase activity and protein-protein interactions (Guertin2006Ablation). The protein's involvement in these pathways underscores its significance in both normal cellular function and pathological conditions, including cancer, where it has been implicated in tumor progression and survival (Kakumoto2015mLST8).
+
+## Structure
+The MLST8 protein, also known as mLST8 or GβL, is characterized by a seven-bladed β-propeller structure, which is a common fold in proteins involved in signal transduction (Sapam2017Identifying). Each blade of the β-propeller consists of 40-60 residues, forming a WD40 domain that is conserved across various eukaryotes (Sapam2017Identifying). This structure facilitates the protein's interaction with the mTOR complexes, contributing to their stability and activity (Cuéllar2019Structural).
+
+In the context of mTORC2, mLST8 interacts with the SIN1 subunit, where its structure is altered by SIN1's integration, involving β-strand complementation and displacement of a loop compared to its structure in mTORC1 (Scaiola2020The). The interaction of mLST8 with the kinase domain of mTOR stabilizes its active site and enhances the interaction stability between raptor and mTOR, stimulating the kinase activity of mTOR towards its effector proteins (Sapam2017Identifying).
+
+mLST8 is also involved in the assembly of mTOR complexes, where it is folded by the chaperonin CCT, achieving a near-native state while bound to CCT, indicating its role as a late folding intermediate ready to bind mTOR upon release (Cuéllar2019Structural). This folding process is crucial for the assembly and function of mTOR complexes (Cuéllar2019Structural).
+
+## Function
+MLST8, also known as mTOR-associated protein LST8 homolog, is a critical component of the mTOR signaling pathway, which regulates cell growth, proliferation, and survival. It is a part of both mTORC1 and mTORC2 complexes, but its role is particularly crucial in mTORC2 functions. In mTORC2, MLST8 is essential for maintaining the interaction between rictor and mTOR, which is necessary for the phosphorylation of Akt/PKB at S473, a modification vital for Akt/PKB's catalytic activity and subsequent cellular processes such as growth and survival (Guertin2006Ablation).
+
+In mTORC1, MLST8 is not required for the phosphorylation of S6K1 and 4E-BP1, indicating that its role in mTORC1 is less critical compared to mTORC2 (Oh2011mTOR; Guertin2006Ablation). Structurally, MLST8 contains a WD40 domain, which facilitates protein-protein interactions, stabilizing the mTOR complexes and influencing their kinase activity (Sapam2017Identifying). MLST8's involvement in these complexes underscores its importance in cellular signaling pathways that regulate key processes such as metabolism and cell cycle control, contributing to organismal outcomes like vascular development and cellular growth (Guertin2006Ablation).
+
+## Clinical Significance
+Alterations in the expression and function of the MLST8 gene have significant clinical implications, particularly in the context of cancer. In acute myeloid leukemia (AML), the downregulation of MLST8 through bioactive peptide treatment has been shown to inhibit cell proliferation and promote apoptosis. This effect is mediated by the suppression of the mTOR pathway, which is often overactivated in cancers, contributing to malignant cell proliferation and chemotherapy resistance (Zhang2022Bioactive). Targeting the mTOR pathway, specifically through MLST8 downregulation, is suggested as a potential therapeutic strategy for AML (Zhang2022Bioactive).
+
+In glioblastoma, MLST8 is part of a critical pathway involving YB-1 and CCT4 that promotes tumor growth. The YB-1/CCT4/mLST8/mTOR pathway is upregulated in glioblastoma, and its components are associated with poor survival outcomes. Targeting this pathway, particularly YB-1, could offer therapeutic benefits by inhibiting mTOR signaling and reducing tumor growth (Wang2022Upregulated).
+
+Additionally, MLST8 plays a role in mitochondrial integrity and calcium ion homeostasis. Disruption of MLST8 can lead to mitochondrial defects, oxidative stress, and cell death, indicating its importance in maintaining cellular homeostasis (Anjum2023Wat1mLst8).
+
+## Interactions
+MLST8, also known as mLST8, is a critical component of the mTOR complexes, mTORC1 and mTORC2, where it plays a significant role in stabilizing these complexes and facilitating their interactions with other proteins. In mTORC2, MLST8 is essential for maintaining the interaction between RICTOR and mTOR, which is crucial for the phosphorylation of Akt/PKB at S473, a key step in mTORC2 signaling (Guertin2006Ablation). 
+
+MLST8 also interacts with the chaperonin CCT complex, which assists in its folding and stabilization. This interaction is ATP-dependent, indicating that MLST8 is a substrate for CCT-mediated folding (Cuéllar2019Structural). The CCT complex is crucial for the proper incorporation of MLST8 into mTORC2, affecting the expression of other mTORC2 subunits (Cuéllar2019Structural).
+
+In cancer cells, MLST8 is involved in mTOR-mediated tumor progression. Its knockdown leads to reduced tumor growth and invasiveness, highlighting its role in cancer cell proliferation and survival (Kakumoto2015mLST8). MLST8's interactions with mTOR complexes and the CCT chaperonin underscore its importance in cellular growth and cancer progression.
+
+
+## References
+
+
+1. (Anjum2023Wat1mLst8) Wat1/mLst8, a TOR complex protein regulates mitochondrial integrity and calcium ion homeostasis in fission yeastS. pombe. This article has 0 citations.
+
+[2. (Scaiola2020The) Alain Scaiola, Francesca Mangia, Stefan Imseng, Daniel Boehringer, Karolin Berneiser, Mitsugu Shimobayashi, Edward Stuttfeld, Michael N. Hall, Nenad Ban, and Timm Maier. The 3.2-å resolution structure of human mtorc2. Science Advances, November 2020. URL: http://dx.doi.org/10.1126/sciadv.abc1251, doi:10.1126/sciadv.abc1251. This article has 64 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.abc1251)
+
+[3. (Guertin2006Ablation) David A. Guertin, Deanna M. Stevens, Carson C. Thoreen, Aurora A. Burds, Nada Y. Kalaany, Jason Moffat, Michael Brown, Kevin J. Fitzgerald, and David M. Sabatini. Ablation in mice of the mtorc components raptor, rictor, or mlst8 reveals that mtorc2 is required for signaling to akt-foxo and pkcα, but not s6k1. Developmental Cell, 11(6):859–871, December 2006. URL: http://dx.doi.org/10.1016/J.DEVCEL.2006.10.007, doi:10.1016/j.devcel.2006.10.007. This article has 1958 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/J.DEVCEL.2006.10.007)
+
+[4. (Kakumoto2015mLST8) Kyoko Kakumoto, Jun-ichiro Ikeda, Masato Okada, Eiichi Morii, and Chitose Oneyama. Mlst8 promotes mtor-mediated tumor progression. PLOS ONE, 10(4):e0119015, April 2015. URL: http://dx.doi.org/10.1371/journal.pone.0119015, doi:10.1371/journal.pone.0119015. This article has 46 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0119015)
+
+[5. (Wang2022Upregulated) Jin-Zhu Wang, Hong Zhu, Pu You, Hui Liu, Wei-Kang Wang, Xiaojuan Fan, Yun Yang, Keren Xu, Yingfeng Zhu, Qunyi Li, Ping Wu, Chao Peng, Catherine C.L. Wong, Kaicheng Li, Yufeng Shi, Nu Zhang, Xiuxing Wang, Rong Zeng, Ying Huang, Liusong Yang, Zefeng Wang, and Jingyi Hui. Upregulated yb-1 protein promotes glioblastoma growth through a yb-1/cct4/mlst8/mtor pathway. Journal of Clinical Investigation, April 2022. URL: http://dx.doi.org/10.1172/jci146536, doi:10.1172/jci146536. This article has 29 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci146536)
+
+[6. (Cuéllar2019Structural) Jorge Cuéllar, W. Grant Ludlam, Nicole C. Tensmeyer, Takuma Aoba, Madhura Dhavale, César Santiago, M. Teresa Bueno-Carrasco, Michael J. Mann, Rebecca L. Plimpton, Aman Makaju, Sarah Franklin, Barry M. Willardson, and José M. Valpuesta. Structural and functional analysis of the role of the chaperonin cct in mtor complex assembly. Nature Communications, June 2019. URL: http://dx.doi.org/10.1038/s41467-019-10781-1, doi:10.1038/s41467-019-10781-1. This article has 57 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-10781-1)
+
+[7. (Sapam2017Identifying) Tuleshwori Devi Sapam, Anbumani Velmurugan Ilavarasi, Bhagath Kumar Palaka, Elakkiya Elumalai, Nirmala Devi Kanika, and Dinakara Rao Ampasala. Identifying novel small molecule antagonists for mlst8 protein using computational approaches. Journal of Receptors and Signal Transduction, 38(1):1–11, October 2017. URL: http://dx.doi.org/10.1080/10799893.2017.1387920, doi:10.1080/10799893.2017.1387920. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/10799893.2017.1387920)
+
+[8. (Zhang2022Bioactive) Le Zhang and Xiulan Su. Bioactive peptide inhibits acute myeloid leukemia cell proliferation by downregulating alkbh5-mediated m6a demethylation of eif4ebp1 and mlst8 mrna. Cellular Oncology, 45(3):355–365, May 2022. URL: http://dx.doi.org/10.1007/s13402-022-00666-9, doi:10.1007/s13402-022-00666-9. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s13402-022-00666-9)
+
+[9. (Oh2011mTOR) Won Jun Oh and Estela Jacinto. Mtor complex 2 signaling and functions. Cell Cycle, 10(14):2305–2316, July 2011. URL: http://dx.doi.org/10.4161/cc.10.14.16586, doi:10.4161/cc.10.14.16586. This article has 447 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/cc.10.14.16586)

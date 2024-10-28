@@ -1,0 +1,44 @@
+# CTU1
+
+## Overview
+The CTU1 gene encodes the protein cytosolic thiouridylase subunit 1, which plays a critical role in the post-transcriptional modification of tRNA molecules. This protein is a member of the [Fe-S]-dependent TtuA subfamily and is characterized by its involvement in the thiolation of uridine at the wobble position of tRNAs, a modification essential for accurate mRNA decoding and protein synthesis (Bimai2020Structurebased; Dewez2008The). CTU1 forms a functional heterodimer with CTU2, and this complex is conserved across eukaryotic species, highlighting its evolutionary importance (Bimai2023The). The protein's activity is crucial for maintaining genome integrity and cellular functions such as viability, migration, and angiogenesis (Yu2023The). Disruptions in CTU1 function have been linked to various diseases, including cancer and mitochondrial disorders, underscoring its clinical significance (Dewez2008The; Cui2023tRNA).
+
+## Structure
+The CTU1 protein, also known as cytosolic thiouridylase subunit 1, is involved in the thiolation of uridine at the wobble position of tRNAs. It is part of a conserved family of proteins among eukaryotes and contains a phosphate-binding loop motif known as the 'PP-loop', which is a specific ATP binding motif (Dewez2008The). The CTU1 protein is characterized by its involvement in forming a heterodimer with CTU2, similar to the archaeal NcsA homodimer, which is crucial for its function in tRNA thiolation (Bimai2023The; Gervason2024[4Fe4S]dependent).
+
+The CTU1 protein is part of the [Fe-S]-dependent TtuA subfamily, which is characterized by two additional Zn finger domains at the N-termini and C-termini (Bimai2020Structurebased). Spectroscopic data indicate that human Ctu1, when purified under anoxic conditions, contains a [3Fe-4S] cluster, but after anaerobic reconstitution, it contains a [4Fe-4S] cluster, which is essential for its catalytic activity (Bimai2020Structurebased). The [4Fe-4S] cluster is coordinated by three conserved cysteines, which are crucial for the protein's function in tRNA thiolation (Bimai2023The).
+
+## Function
+The CTU1 gene encodes a conserved wobble uridine tRNA thiolase, which is essential for the thiolation of uridine at the wobble position (U34) of cytosolic tRNAs. This modification is crucial for accurate mRNA decoding by the ribosome, as it restricts wobble in the corresponding split codon box and facilitates efficient codon-anticodon interaction. The thiolation process is particularly important for the proper decoding of codons for lysine, glutamine, and glutamate, ensuring the fidelity of protein translation and preventing misreading and frame shifting (Dewez2008The).
+
+In human cells, CTU1 is involved in maintaining genome integrity by ensuring accurate translation through proper tRNA modification. The absence of CTU1-mediated thiolation can lead to impaired protein synthesis and is associated with genome instability, which is a hallmark of many human cancers (Dewez2008The). CTU1 also plays a significant role in cell viability, migration, and angiogenesis, as demonstrated in human microvascular endothelial cells, where its expression affects cell activity and the formation of capillary-like structures (Yu2023The).
+
+## Clinical Significance
+Mutations or alterations in the expression of the CTU1 gene have been associated with several diseases and conditions. CTU1 is involved in the thiolation of tRNA, a modification crucial for accurate protein synthesis. Disruptions in this process can lead to impaired mitochondrial protein synthesis, which is linked to mitochondrial encephalomyopathies such as MERFF (myoclonus epilepsy associated with ragged-red fibers) (Dewez2008The).
+
+In cancer, CTU1 has been identified as a cancer-associated gene (cag-1) and is located in a genomic region frequently rearranged in solid tumors. Its differential expression has been observed in some cancers, suggesting a potential role in cancer etiology (Dewez2008The). Specifically, high expression levels of CTU1 have been associated with skin and breast cancers (Chujo2021Human). CTU1, along with CTU2, is also essential for the invasiveness and metastasis of breast cancer, as it is involved in the translation of oncogenic proteins (Cui2023tRNA).
+
+Additionally, CTU1 is implicated in drug resistance in melanoma, where it supports the translation of proteins that enhance glycolysis and confer resistance to targeted therapies (Cui2023tRNA). These findings highlight the clinical significance of CTU1 in various pathological conditions.
+
+## Interactions
+The CTU1 protein, also known as cytosolic thiouridylase subunit 1, is involved in the thiolation of tRNA and forms a conserved protein complex with CTU2. This interaction is crucial for the thiolation of uridine at the wobble position of tRNAs, which is essential for proper mRNA decoding and maintaining genome integrity (Dewez2008The). In fission yeast, CTU1, known as SPBC2G5.03, physically associates with the product of the SPBC19c2.13c gene, suggesting the formation of a Ctu1-Ctu2 complex (Dewez2008The). This complex is conserved across species, including C. elegans and yeast, and is required for the thiolation of uridine-34 in tRNAs, specifically tRNA LYS (Dewez2008The).
+
+CTU1 also interacts with Nfs1, a cysteine desulfurase, to facilitate tRNA thiolation. This interaction was demonstrated through in vitro assays that showed successful, albeit low-efficiency, thiolation of tRNA LYS UUU (Dewez2008The). The absence of thiolation in CTU1 mutants leads to reduced protein expression and increased sensitivity to translational inhibitors, highlighting the functional importance of these interactions (Dewez2008The).
+
+
+## References
+
+
+[1. (Bimai2023The) Ornella Bimai, Pierre Legrand, Jean-Luc Ravanat, Nadia Touati, Jingjing Zhou, Nisha He, Marine Lénon, Frédéric Barras, Marc Fontecave, and Béatrice Golinelli-Pimpaneau. The thiolation of uridine 34 in trna, which controls protein translation, depends on a [4fe-4s] cluster in the archaeum methanococcus maripaludis. Scientific Reports, April 2023. URL: http://dx.doi.org/10.1038/s41598-023-32423-9, doi:10.1038/s41598-023-32423-9. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-023-32423-9)
+
+[2. (Bimai2020Structurebased) Ornella Bimai, Simon Arragain, and Béatrice Golinelli-Pimpaneau. Structure-based mechanistic insights into catalysis by trna thiolation enzymes. Current Opinion in Structural Biology, 65:69–78, December 2020. URL: http://dx.doi.org/10.1016/j.sbi.2020.06.002, doi:10.1016/j.sbi.2020.06.002. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.sbi.2020.06.002)
+
+[3. (Gervason2024[4Fe4S]dependent) Sylvain Gervason, Sambuddha Sen, Marc Fontecave, and Béatrice Golinelli-Pimpaneau. [4fe-4s]-dependent enzymes in non-redox trna thiolation. Biochimica et Biophysica Acta (BBA) - Molecular Cell Research, 1871(7):119807, October 2024. URL: http://dx.doi.org/10.1016/j.bbamcr.2024.119807, doi:10.1016/j.bbamcr.2024.119807. This article has 0 citations.](https://doi.org/10.1016/j.bbamcr.2024.119807)
+
+4. (Yu2023The) The conserved wobble uridine tRNA thiolase Ctu1 is required to sustain development and differentiation. This article has 0 citations.
+
+[5. (Dewez2008The) Monique Dewez, Fanélie Bauer, Marc Dieu, Martine Raes, Jean Vandenhaute, and Damien Hermand. The conserved wobble uridine trna thiolase ctu1–ctu2 is required to maintain genome integrity. Proceedings of the National Academy of Sciences, 105(14):5459–5464, April 2008. URL: http://dx.doi.org/10.1073/pnas.0709404105, doi:10.1073/pnas.0709404105. This article has 125 citations.](https://doi.org/10.1073/pnas.0709404105)
+
+[6. (Cui2023tRNA) Weifang Cui, Deze Zhao, Junjie Jiang, Faqing Tang, Chunfang Zhang, and Chaojun Duan. Trna modifications and modifying enzymes in disease, the potential therapeutic targets. International Journal of Biological Sciences, 19(4):1146–1162, 2023. URL: http://dx.doi.org/10.7150/ijbs.80233, doi:10.7150/ijbs.80233. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/ijbs.80233)
+
+[7. (Chujo2021Human) Takeshi Chujo and Kazuhito Tomizawa. Human transfer rna modopathies: diseases caused by aberrations in transfer rna modifications. The FEBS Journal, 288(24):7096–7122, February 2021. URL: http://dx.doi.org/10.1111/febs.15736, doi:10.1111/febs.15736. This article has 71 citations.](https://doi.org/10.1111/febs.15736)

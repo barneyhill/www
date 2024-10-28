@@ -1,0 +1,62 @@
+# MTBP
+
+## Overview
+The MTBP gene encodes the MDM2 binding protein, a multifunctional protein involved in various cellular processes, including cell cycle regulation, DNA replication, and tumorigenesis. As a nuclear protein, MTBP plays a critical role in the mitotic checkpoint, ensuring proper chromosome alignment and segregation. It interacts with MDM2, influencing the p53 tumor suppressor pathway, and is involved in Myc-induced B-cell proliferation, independent of the MDM2/p53 pathway. MTBP's interactions with proteins such as Treslin and MYC, as well as its binding to DNA, underscore its importance in DNA replication and transcription regulation. Clinically, MTBP is implicated in cancer progression, with its expression levels serving as a prognostic marker in various cancers. Its dual role as both a metastasis suppressor and a promoter of cell proliferation highlights its complex involvement in cancer biology (Agarwal2011MTBP; Grieb2014Oncogenic; Brady2005Regulation; Iwakuma2012MDM2).
+
+## Structure
+The MTBP (MDM2 binding protein) gene encodes a protein consisting of 904 amino acids with a predicted molecular mass of 104 kDa. The protein contains a specific 380-amino acid region at the C-terminal that interacts with the central domain of MDM2, which spans codons 167 to 304 (Iwakuma2012MDM2). MTBP has a nuclear localization signal (NLS) in exon 19 at the C-terminal region (Iwakuma2012MDM2).
+
+MTBP includes an N-terminal Sld7-homologous domain (S7M-N) and a C-terminal Sld7-homologous domain (S7M-C), which are involved in binding Treslin/TICRR and potentially mediate origin firing through homodimerization (Ferreira2021MTBP; Zaffar2022The). The S7M-N domain is part of a beta-barrel fold similar to those in Ku70 and Ku80, facilitating dimerization (Zaffar2022The). The CTM domain, located in the C-terminal region, is crucial for DNA replication and binds to both double-stranded DNA and G-quadruplex DNA (Kumagai2017MTBP).
+
+MTBP undergoes post-translational modifications, including phosphorylation by cell cycle cyclin-dependent kinases (CDK), Cdk8/19-cyclin C, and DNA damage checkpoint kinases, which regulate DNA replication origin firing (Ferreira2021MTBP). Phosphorylation at CDK consensus sites promotes origin firing, while phosphorylation at DNA damage checkpoint sites inhibits it (Ferreira2021MTBP).
+
+## Function
+MTBP (MDM2 binding protein) plays a crucial role in cell cycle regulation, particularly during mitosis. It is involved in the mitotic checkpoint, ensuring proper chromosome alignment and segregation by delaying the metaphase-anaphase transition until all chromosomes are correctly attached to the mitotic spindle. MTBP is rapidly degraded during mitosis and is localized at the kinetochores during prometaphase, where it recruits and retains the Mad1/Mad2 complex, essential for the mitotic checkpoint (Agarwal2011MTBP).
+
+In addition to its role in mitosis, MTBP is involved in the regulation of the p53 tumor suppressor pathway. It interacts with MDM2, stabilizing it by inhibiting its autoubiquitination, which enhances MDM2's ability to ubiquitinate and degrade p53. This regulation is crucial for maintaining p53 homeostasis in unstressed cells, affecting cell growth and stress responses (Brady2005Regulation).
+
+MTBP is also implicated in Myc-induced B-cell proliferation and lymphomagenesis. It acts as a limiting factor for Myc-induced proliferation, independent of the MDM2/p53 pathway, by regulating the expression of Myc target genes necessary for cell growth (Odvody2010A).
+
+## Clinical Significance
+Alterations in the expression of the MTBP gene have significant clinical implications in various cancers. Overexpression of MTBP is associated with poor prognosis in several cancers, including glioblastoma, kidney cancer, lung cancer, soft tissue sarcoma, bladder cancer, and breast cancer. In breast cancer, particularly, MTBP overexpression alongside MYC is linked to worse 10-year survival rates (Mao2018Hyper). MTBP is frequently co-amplified with MYC in many human cancers, suggesting a role in promoting malignancy (Grieb2014Oncogenic).
+
+MTBP also plays a dual role in cancer progression. It acts as a metastasis suppressor, with reduced expression linked to increased metastasis and poor survival in head and neck squamous cell carcinoma (Iwakuma2012MDM2). Conversely, MTBP overexpression can enhance cell proliferation and migration through interactions with oncogenes like Myc and Ets-1, indicating potential oncogenic roles (Ranjan2023Characterization).
+
+In triple-negative breast cancer (TNBC), MTBP knockdown reduces proliferation and induces apoptosis, suggesting its potential as a therapeutic target. Similar effects have been observed in lung cancer, gastric adenocarcinoma, and glioblastoma (Grieb2022MTBP). These findings underscore MTBP's complex role in cancer biology, where its expression levels and interactions significantly impact tumor progression and patient outcomes.
+
+## Interactions
+MTBP (MDM2 binding protein) is involved in several critical interactions with proteins and nucleic acids. It forms a complex with Treslin, which is essential for DNA replication. This interaction is crucial for the incorporation of Cdc45 into the replicative helicase, and the depletion of MTBP leads to defective DNA replication, which can be rescued by the recombinant Treslin-MTBP complex (Kumagai2017MTBP). The C-terminal region of MTBP, known as the CTM domain, binds to double-stranded DNA and G-quadruplex DNA, playing a vital role in DNA replication initiation (Kumagai2017MTBP).
+
+MTBP also interacts with the MYC oncogene and its transcriptional cofactors TIP48 and TIP49. These interactions enhance MYC-mediated transcription and tumorigenesis, with MTBP being present at MYC-regulated promoters (Grieb2014Oncogenic). The C-terminal domain of MTBP is particularly important for its interaction with MYC and TIP48/TIP49, impacting MYC-mediated transcription and cellular proliferation (Grieb2014Oncogenic).
+
+In the context of cancer, MTBP interacts with MDM2, promoting the degradation of E-cadherin, which is crucial for epithelial-mesenchymal transition and tumor invasion (Lu2015MTBP). Additionally, MTBP inhibits ACTN4-mediated cell migration, suggesting a role in suppressing tumor metastasis (Agarwal2012MTBP).
+
+
+## References
+
+
+[1. (Ranjan2023Characterization) Atul Ranjan, Elizabeth A. Thoenen, Atsushi Kaida, Stephanie Wood, Terry Van Dyke, and Tomoo Iwakuma. Characterization of an mtbp hypomorphic allele in a diethylnitrosamine-induced liver carcinogenesis model. Cancers, 15(18):4596, September 2023. URL: http://dx.doi.org/10.3390/cancers15184596, doi:10.3390/cancers15184596. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers15184596)
+
+[2. (Lu2015MTBP) Shan Lu, Wei Zhou, Haiyun Wei, Leifeng He, and Liang Li. Mtbp promotes the invasion and metastasis of hepatocellular carcinoma by enhancing the mdm2-mediated degradation of e-cadherin. Digestive Diseases and Sciences, 60(12):3681–3690, August 2015. URL: http://dx.doi.org/10.1007/s10620-015-3824-4, doi:10.1007/s10620-015-3824-4. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10620-015-3824-4)
+
+[3. (Agarwal2012MTBP) N Agarwal, A S Adhikari, S V Iyer, K Hekmatdoost, D R Welch, and T Iwakuma. Mtbp suppresses cell migration and filopodia formation by inhibiting actn4. Oncogene, 32(4):462–470, February 2012. URL: http://dx.doi.org/10.1038/onc.2012.69, doi:10.1038/onc.2012.69. This article has 48 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2012.69)
+
+[4. (Agarwal2011MTBP) N Agarwal, Y Tochigi, A S Adhikari, S Cui, Y Cui, and T Iwakuma. Mtbp plays a crucial role in mitotic progression and chromosome segregation. Cell Death &amp; Differentiation, 18(7):1208–1219, January 2011. URL: http://dx.doi.org/10.1038/cdd.2010.189, doi:10.1038/cdd.2010.189. This article has 18 citations.](https://doi.org/10.1038/cdd.2010.189)
+
+[5. (Grieb2022MTBP) Brian C. Grieb and Christine M. Eischen. Mtbp and myc: a dynamic duo in proliferation, cancer, and aging. Biology, 11(6):881, June 2022. URL: http://dx.doi.org/10.3390/biology11060881, doi:10.3390/biology11060881. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biology11060881)
+
+[6. (Kumagai2017MTBP) Akiko Kumagai and William G. Dunphy. Mtbp, the partner of treslin, contains a novel dna-binding domain that is essential for proper initiation of dna replication. Molecular Biology of the Cell, 28(22):2998–3012, November 2017. URL: http://dx.doi.org/10.1091/mbc.e17-07-0448, doi:10.1091/mbc.e17-07-0448. This article has 35 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e17-07-0448)
+
+[7. (Brady2005Regulation) Mark Brady, Nikolina Vlatković, and Mark T. Boyd. Regulation of p53 and mdm2 activity by mtbp. Molecular and Cellular Biology, 25(2):545–553, January 2005. URL: http://dx.doi.org/10.1128/mcb.25.2.545-553.2005, doi:10.1128/mcb.25.2.545-553.2005. This article has 55 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.25.2.545-553.2005)
+
+[8. (Zaffar2022The) Eman Zaffar, Pedro Ferreira, Luis Sanchez-Pulido, and Dominik Boos. The role of mtbp as a replication origin firing factor. Biology, 11(6):827, May 2022. URL: http://dx.doi.org/10.3390/biology11060827, doi:10.3390/biology11060827. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biology11060827)
+
+[9. (Mao2018Hyper) Yantao Mao, Mei Tian, Bo Pan, Qingshan Zhu, Paiyun Li, Hongmei Liu, Weipeng Liu, Ningtao Dai, Lili Yu, and Yuan Tian. Hyper expression of mtbp may be an adverse signal for the survival of some malignant tumors: a data-based analysis and clinical observation. Medicine, 97(35):e12021, August 2018. URL: http://dx.doi.org/10.1097/md.0000000000012021, doi:10.1097/md.0000000000012021. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1097/md.0000000000012021)
+
+[10. (Ferreira2021MTBP) Pedro Ferreira, Verena Höfer, Nora Kronshage, Anika Marko, Karl-Uwe Reusswig, Bilal Tetik, Christoph Dießel, Kerstin Köhler, Nikolai Tschernoster, Janine Altmüller, Nina Schulze, Boris Pfander, and Dominik Boos. Mtbp phosphorylation controls dna replication origin firing. Scientific Reports, February 2021. URL: http://dx.doi.org/10.1038/s41598-021-83287-w, doi:10.1038/s41598-021-83287-w. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-021-83287-w)
+
+[11. (Grieb2014Oncogenic) Brian C. Grieb, Mark W. Gramling, Maria Pia Arrate, Xi Chen, Stephen L. Beauparlant, Dale S. Haines, Hua Xiao, and Christine M. Eischen. Oncogenic protein mtbp interacts with myc to promote tumorigenesis. Cancer Research, 74(13):3591–3602, June 2014. URL: http://dx.doi.org/10.1158/0008-5472.CAN-13-2149, doi:10.1158/0008-5472.can-13-2149. This article has 46 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.CAN-13-2149)
+
+[12. (Odvody2010A) J Odvody, T Vincent, M P Arrate, B Grieb, S Wang, J Garriga, G Lozano, T Iwakuma, D S Haines, and C M Eischen. A deficiency in mdm2 binding protein inhibits myc-induced b-cell proliferation and lymphomagenesis. Oncogene, 29(22):3287–3296, March 2010. URL: http://dx.doi.org/10.1038/onc.2010.82, doi:10.1038/onc.2010.82. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2010.82)
+
+[13. (Iwakuma2012MDM2) Tomoo Iwakuma and Neeraj Agarwal. Mdm2 binding protein, a novel metastasis suppressor. Cancer and Metastasis Reviews, 31(3–4):633–640, June 2012. URL: http://dx.doi.org/10.1007/s10555-012-9364-x, doi:10.1007/s10555-012-9364-x. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10555-012-9364-x)

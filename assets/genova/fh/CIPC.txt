@@ -1,0 +1,45 @@
+# CIPC
+
+## Overview
+CIPC (CLOCK interacting pacemaker) is a gene that encodes a protein involved in the regulation of circadian rhythms in mammals. The CIPC protein functions as a negative feedback regulator within the circadian clock system by interacting with the CLOCK protein, a core component of the circadian rhythm machinery. This interaction modulates the activity of the CLOCK-BMAL1 transcriptional complex, influencing the transcription of genes that govern circadian rhythms. CIPC is primarily localized in the nucleus and is expressed in both the central circadian clock located in the suprachiasmatic nucleus (SCN) and in peripheral tissues, indicating its role in both central and peripheral circadian regulation. The protein is involved in the phosphorylation and degradation of CLOCK, thereby affecting the stability and activity of the CLOCK-BMAL1 complex (Lee2016Pacemaker-neuron–dependent; Zhao2007CIPC; Yoshitane2009Roles).
+
+## Function
+CIPC (CLOCK interacting pacemaker) is a protein that plays a crucial role in the regulation of the mammalian circadian clock system. It functions as a negative feedback regulator by interacting with CLOCK proteins, which are essential components of the circadian rhythm machinery. CIPC modulates the activity of the CLOCK-BMAL1 transcriptional complex, influencing the transcription of genes involved in circadian rhythms (Zhao2007CIPC; Yoshitane2009Roles).
+
+CIPC is involved in the phosphorylation and degradation of CLOCK, a process that is vital for the suppression of E-box-dependent transcription. This regulation is achieved by stimulating BMAL1-dependent phosphorylation of CLOCK, leading to its degradation. A mutant CLOCK lacking the CIPC-binding domain is less phosphorylated and more stable, highlighting CIPC's role in promoting CLOCK phosphorylation and degradation (Yoshitane2009Roles).
+
+CIPC is expressed in the suprachiasmatic nucleus (SCN) and peripheral tissues, suggesting its involvement in both central and peripheral circadian clocks. The differential regulation of CIPC between these areas may contribute to phenotypic differences in circadian rhythms (Zhao2007CIPC). CIPC's activity is primarily nuclear, where it impacts gene expression related to circadian regulation (Lee2016Pacemaker-neuron–dependent).
+
+## Clinical Significance
+CIPC (CLOCK interacting pacemaker) has been implicated in various clinical contexts due to its role in circadian rhythm regulation. In muscle stem cells, CIPC acts as a negative regulator, inhibiting Bmal1/CLOCK transcriptional activity and repressing Pax7, a marker for satellite cells. This repression can impair muscle regeneration, as overexpression of CIPC downregulates Pax7, inhibiting regenerative myogenesis. Conversely, deletion of CIPC in satellite cells enhances myogenic progenitor populations and muscle regeneration, indicating its potential impact on muscle repair processes (Kiperman2024Circadian).
+
+In cancer, particularly melanoma, CIPC expression levels have been associated with the response to immunotherapy. It is lowly expressed in non-responders to Pembrolizumab (anti-PD1 therapy) in melanoma patients, suggesting that CIPC expression may have predictive value for the efficacy of such treatments (Zhou2020The). Additionally, mutations in CIPC have been identified in cutaneous melanoma, accounting for 3% of cases, highlighting its potential role in cancer progression and as a target for therapeutic strategies (Lesicka2023Disruptions).
+
+Despite its involvement in these conditions, studies in mice have shown that CIPC is not essential for maintaining basic circadian rhythms, suggesting its role may be more context-dependent (Qu2015Inactivation).
+
+## Interactions
+CIPC (CLOCK interacting pacemaker) is a protein that interacts with the CLOCK protein, a key component of the circadian rhythm machinery. CIPC forms complexes with CLOCK, detectable at both the peak and trough of CIPC protein oscillation in tissues such as the liver and heart. These interactions suggest a role for CIPC as a negative feedback regulator in the circadian clock system (Zhao2007CIPC).
+
+CIPC directly interacts with the CLOCK:BMAL1 complex, influencing its phosphorylation state and activity. The interaction involves a coiled-coil dimer of CLOCK, formed by the 51 amino acids encoded by exon 19, which binds to a helix from CIPC. This interaction is crucial for the inhibition of CLOCK:BMAL1 by the CLOCK paralog PASD1, which uses a similar sequence to suppress clock cycling in cancer cells (Partch2020Orchestration).
+
+CIPC also stimulates the phosphorylation of CLOCK, promoting its degradation and contributing to the suppression of CLOCK-BMAL1-mediated transactivation. This regulatory role is significant primarily when CLOCK is part of the CLOCK-BMAL1 complex, as CIPC's effect on CLOCK phosphorylation is marginal when CLOCK is expressed alone (Yoshitane2009Roles).
+
+
+## References
+
+
+[1. (Zhao2007CIPC) Wen-Ning Zhao, Nikolay Malinin, Fu-Chia Yang, David Staknis, Nicholas Gekakis, Bert Maier, Silke Reischl, Achim Kramer, and Charles J. Weitz. Cipc is a mammalian circadian clock protein without invertebrate homologues. Nature Cell Biology, 9(3):268–275, February 2007. URL: http://dx.doi.org/10.1038/ncb1539, doi:10.1038/ncb1539. This article has 74 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncb1539)
+
+[2. (Partch2020Orchestration) Carrie L. Partch. Orchestration of circadian timing by macromolecular protein assemblies. Journal of Molecular Biology, 432(12):3426–3448, May 2020. URL: http://dx.doi.org/10.1016/j.jmb.2019.12.046, doi:10.1016/j.jmb.2019.12.046. This article has 53 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2019.12.046)
+
+[3. (Yoshitane2009Roles) Hikari Yoshitane, Toshifumi Takao, Yoshinori Satomi, Ngoc-Hien Du, Toshiyuki Okano, and Yoshitaka Fukada. Roles of clock phosphorylation in suppression of e-box-dependent transcription. Molecular and Cellular Biology, 29(13):3675–3686, July 2009. URL: http://dx.doi.org/10.1128/MCB.01864-08, doi:10.1128/mcb.01864-08. This article has 156 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.01864-08)
+
+[4. (Zhou2020The) Jian Zhou, Xinhui Li, Minghui Zhang, Ji’nan Gong, Qi Li, Baocong Shan, Tianzhen Wang, Lei Zhang, Tongsen Zheng, and Xiaobo Li. The aberrant expression of rhythm genes affects the genome instability and regulates the cancer immunity in pan‐cancer. Cancer Medicine, 9(5):1818–1829, January 2020. URL: http://dx.doi.org/10.1002/cam4.2834, doi:10.1002/cam4.2834. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/cam4.2834)
+
+[5. (Qu2015Inactivation) ZhiPeng Qu, XiaoHan Wang, DongChuan Liu, Xiang Gao, and Ying Xu. Inactivation of cipc alters the expression of per1 but not circadian rhythms in mice. Science China Life Sciences, 58(4):368–372, April 2015. URL: http://dx.doi.org/10.1007/s11427-015-4828-1, doi:10.1007/s11427-015-4828-1. This article has 5 citations.](https://doi.org/10.1007/s11427-015-4828-1)
+
+[6. (Lee2016Pacemaker-neuron–dependent) Euna Lee, Eunjoo Cho, Doo Hyun Kang, Eun Hee Jeong, Zheng Chen, Seung-Hee Yoo, and Eun Young Kim. Pacemaker-neuron–dependent disturbance of the molecular clockwork by a drosophila clock mutant homologous to the mouse clock mutation. Proceedings of the National Academy of Sciences, August 2016. URL: http://dx.doi.org/10.1073/pnas.1523494113, doi:10.1073/pnas.1523494113. This article has 17 citations.](https://doi.org/10.1073/pnas.1523494113)
+
+[7. (Kiperman2024Circadian) Tali Kiperman and Ke Ma. Circadian clock in muscle disease etiology and therapeutic potential for duchenne muscular dystrophy. International Journal of Molecular Sciences, 25(9):4767, April 2024. URL: http://dx.doi.org/10.3390/ijms25094767, doi:10.3390/ijms25094767. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25094767)
+
+[8. (Lesicka2023Disruptions) Monika Lesicka, Bogusław Nedoszytko, and Edyta Reszka. Disruptions of circadian genes in cutaneous melanoma—an in silico analysis of transcriptome databases. International Journal of Molecular Sciences, 24(12):10140, June 2023. URL: http://dx.doi.org/10.3390/ijms241210140, doi:10.3390/ijms241210140. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms241210140)

@@ -1,0 +1,56 @@
+# SLC25A4
+
+## Overview
+The SLC25A4 gene encodes the mitochondrial ADP/ATP carrier protein, also known as adenine nucleotide translocator 1 (ANT1), which is a member of the solute carrier family 25. This transmembrane protein is integral to the inner mitochondrial membrane and plays a pivotal role in cellular energy metabolism by facilitating the exchange of ADP and ATP between the mitochondrial matrix and the cytoplasm. ANT1 operates as a homodimer, forming a channel that is essential for maintaining energy homeostasis and regulating mitochondrial-mediated apoptosis. The protein's function is modulated by specific structural motifs and interactions with other mitochondrial components, such as cardiolipin and members of the Bcl-2 family, which are crucial for its stability and activity. Mutations in SLC25A4 are linked to various mitochondrial diseases, highlighting its clinical significance in conditions such as progressive external ophthalmoplegia and severe early-onset mitochondrial disorders (Thompson2016Recurrent; Palmieri2013The; Palmieri2004The).
+
+## Structure
+The SLC25A4 gene encodes the mitochondrial ADP/ATP carrier protein, also known as AAC1, which is a member of the solute carrier family 25 (SLC25). This protein is crucial for the exchange of ADP and ATP across the inner mitochondrial membrane. Structurally, the protein consists of three homologous sequence repeats, each approximately 100 amino acids long, contributing to its primary structure (Palmieri2004The). Each repeat forms two transmembrane α-helices, resulting in a total of six transmembrane helices that create a barrel-like structure, forming a central cavity for substrate translocation (Palmieri2020Diseases; PebayPeyroula2003Structure).
+
+The secondary structure is characterized by these α-helices, which are linked by short helices on the matrix side, forming a funnel-shaped structure (Pasquadibisceglie2021Computational). The protein operates as a homodimer, representing its quaternary structure, with each monomer contributing to the formation of a central channel (Palmieri2004The).
+
+The protein's function is modulated by conserved motifs, such as the PX(D/E)XX(K/R) sequence, which includes proline residues acting as hinges for conformational changes during transport (PebayPeyroula2003Structure). These structural features are essential for the protein's role in mitochondrial energy metabolism.
+
+## Function
+The SLC25A4 gene encodes the adenine nucleotide translocator 1 (ANT1), a protein located in the inner mitochondrial membrane. ANT1 is crucial for the exchange of ADP and ATP between the mitochondrial matrix and the cytoplasm, a process essential for maintaining cellular energy homeostasis. This exchange allows ATP produced in the mitochondria to be exported to the cytosol, where it is used for various cellular processes, while ADP is imported back into the mitochondria for re-phosphorylation (Palmieri2013The; Palmieri2004The).
+
+ANT1 functions as a homodimer forming a gated channel, facilitating the regulation of adenine nucleotide concentrations and mediating energy consumption signals to the mitochondrial respiratory chain (Kaukonen2000Role). It also plays a role in mitochondrial-mediated apoptosis and is a core structural element of the mitochondrial permeability transition pore (MPTP), which is involved in regulating programmed cell death (Zhang2024Comprehensive).
+
+In healthy human cells, ANT1 is highly expressed in tissues with high energy demands, such as the heart and skeletal muscles, underscoring its importance in energy metabolism and normal mitochondrial function (Palmieri2013The; Zhang2024Comprehensive).
+
+## Clinical Significance
+Mutations in the SLC25A4 gene, which encodes the mitochondrial ADP/ATP carrier AAC1, are associated with several mitochondrial diseases. These include adult-onset autosomal-dominant progressive external ophthalmoplegia (adPEO), characterized by weakness of the external eye muscles, ptosis, and mild descending myopathy (Palmieri2020Diseases; Palmieri2013The). Recessive mutations such as A123D and c.111 + 1G > A lead to AAC1 deficiency, resulting in exercise intolerance, muscle pain, progressive hypertrophic cardiomyopathy, mild myopathy, and lactic acidosis (Palmieri2013The). 
+
+Severe early-onset mitochondrial diseases are linked to recurrent de novo dominant mutations in SLC25A4, such as p.Arg80His and p.Arg235Gly. These mutations cause a significant loss of mitochondrial DNA copy number and impair ADP/ATP transport, leading to an energy crisis in cells. Affected individuals present with symptoms at birth, including ventilator dependency and severe combined mitochondrial respiratory chain deficiencies (Thompson2016Recurrent). 
+
+The severity of these conditions often correlates with the type and position of mutations within the AAC1 structure, affecting its transport activity and expression levels (Palmieri2020Diseases; Thompson2016Recurrent).
+
+## Interactions
+The SLC25A4 gene encodes the adenine nucleotide translocator 1 (ANT1), a mitochondrial protein that plays a crucial role in the exchange of ADP and ATP across the inner mitochondrial membrane. ANT1 is involved in several protein-protein interactions that are essential for its function and stability. It interacts with cardiolipin (CL), a lipid that stabilizes its structure and supports its transport activity. Disruptions in CL binding, due to mutations, can impair ANT1's function and lead to mitochondrial dysfunction (Senoo2023Conserved).
+
+ANT1 is also part of the mitochondrial permeability transition pore complex, where it interacts with various proteins, including members of the Bcl-2 family, which are involved in the regulation of apoptosis. These interactions are crucial for maintaining mitochondrial integrity and function (Ruprecht2020The). In the context of osteosarcoma, SLC25A4 has been identified as a key molecule involved in tumorigenesis, suggesting its interactions may have implications for cancer prognosis and treatment strategies (Zhang2024Comprehensive). Additionally, SLC25A4 forms a complex with ATP, facilitating adenine transmembrane transporter activity, which is vital for cellular metabolism (Rai2021Mapping).
+
+
+## References
+
+
+[1. (Thompson2016Recurrent) Kyle Thompson, Homa Majd, Cristina Dallabona, Karit Reinson, Martin S. King, Charlotte L. Alston, Langping He, Tiziana Lodi, Simon A. Jones, Aviva Fattal-Valevski, Nitay D. Fraenkel, Ann Saada, Alon Haham, Pirjo Isohanni, Roshni Vara, Inês A. Barbosa, Michael A. Simpson, Charu Deshpande, Sanna Puusepp, Penelope E. Bonnen, Richard J. Rodenburg, Anu Suomalainen, Katrin Õunap, Orly Elpeleg, Ileana Ferrero, Robert McFarland, Edmund R.S. Kunji, and Robert W. Taylor. Recurrent de novo dominant mutations in slc25a4 cause severe early-onset mitochondrial disease and loss of mitochondrial dna copy number. The American Journal of Human Genetics, 99(4):860–876, October 2016. URL: http://dx.doi.org/10.1016/j.ajhg.2016.08.014, doi:10.1016/j.ajhg.2016.08.014. This article has 80 citations.](https://doi.org/10.1016/j.ajhg.2016.08.014)
+
+[2. (Palmieri2020Diseases) Ferdinando Palmieri, Pasquale Scarcia, and Magnus Monné. Diseases caused by mutations in mitochondrial carrier genes slc25: a review. Biomolecules, 10(4):655, April 2020. URL: http://dx.doi.org/10.3390/biom10040655, doi:10.3390/biom10040655. This article has 75 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom10040655)
+
+[3. (PebayPeyroula2003Structure) Eva Pebay-Peyroula, Cécile Dahout-Gonzalez, Richard Kahn, Véronique Trézéguet, Guy J.-M. Lauquin, and Gérard Brandolin. Structure of mitochondrial adp/atp carrier in complex with carboxyatractyloside. Nature, 426(6962):39–44, November 2003. URL: http://dx.doi.org/10.1038/nature02056, doi:10.1038/nature02056. This article has 837 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature02056)
+
+[4. (Ruprecht2020The) Jonathan J. Ruprecht and Edmund R.S. Kunji. The slc25 mitochondrial carrier family: structure and mechanism. Trends in Biochemical Sciences, 45(3):244–258, March 2020. URL: http://dx.doi.org/10.1016/j.tibs.2019.11.001, doi:10.1016/j.tibs.2019.11.001. This article has 225 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tibs.2019.11.001)
+
+[5. (Palmieri2013The) Ferdinando Palmieri. The mitochondrial transporter family slc25: identification, properties and physiopathology. Molecular Aspects of Medicine, 34(2–3):465–484, April 2013. URL: http://dx.doi.org/10.1016/j.mam.2012.05.005, doi:10.1016/j.mam.2012.05.005. This article has 612 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.mam.2012.05.005)
+
+6. (Senoo2023Conserved) Conserved cardiolipin-mitochondrial ADP/ATP carrier interactions assume distinct structural and functional roles that are clinically relevant. This article has 3 citations.
+
+[7. (Palmieri2004The) Ferdinando Palmieri. The mitochondrial transporter family (slc25): physiological and pathological implications. Pfl�gers Archiv European Journal of Physiology, 447(5):689–709, February 2004. URL: http://dx.doi.org/10.1007/s00424-003-1099-7, doi:10.1007/s00424-003-1099-7. This article has 624 citations.](https://doi.org/10.1007/s00424-003-1099-7)
+
+[8. (Rai2021Mapping) Aparna Rai, Vikas Kumar, Gaurav Jerath, C. C. Kartha, and Vibin Ramakrishnan. Mapping drug-target interactions and synergy in multi-molecular therapeutics for pressure-overload cardiac hypertrophy. npj Systems Biology and Applications, February 2021. URL: http://dx.doi.org/10.1038/s41540-021-00171-z, doi:10.1038/s41540-021-00171-z. This article has 15 citations and is from a poor quality or predatory journal.](https://doi.org/10.1038/s41540-021-00171-z)
+
+[9. (Kaukonen2000Role) Jyrki Kaukonen, Jukka K. Juselius, Valeria Tiranti, Aija Kyttälä, Massimo Zeviani, Giacomo P. Comi, Sirkka Keränen, Leena Peltonen, and Anu Suomalainen. Role of adenine nucleotide translocator 1 in mtdna maintenance. Science, 289(5480):782–785, August 2000. URL: http://dx.doi.org/10.1126/science.289.5480.782, doi:10.1126/science.289.5480.782. This article has 485 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.289.5480.782)
+
+[10. (Zhang2024Comprehensive) Ying Zhang, Yinghui Wang, Wenyan Zhang, Shaojie Feng, Yuanxin Xing, Tianjiao Wang, Nana Huang, Ka Li, and Aijun Zhang. Comprehensive transcriptomic analysis identifies slc25a4 as a key predictor of prognosis in osteosarcoma. Frontiers in Genetics, June 2024. URL: http://dx.doi.org/10.3389/fgene.2024.1410145, doi:10.3389/fgene.2024.1410145. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2024.1410145)
+
+[11. (Pasquadibisceglie2021Computational) Andrea Pasquadibisceglie and Fabio Polticelli. Computational studies of the mitochondrial carrier family slc25. present status and future perspectives. Bio-Algorithms and Med-Systems, 17(2):65–78, April 2021. URL: http://dx.doi.org/10.1515/bams-2021-0018, doi:10.1515/bams-2021-0018. This article has 2 citations.](https://doi.org/10.1515/bams-2021-0018)

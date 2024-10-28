@@ -1,0 +1,44 @@
+# LSM3
+
+## Overview
+LSM3 is a gene that encodes a protein belonging to the LSm protein family, which is characterized by its role in RNA processing and degradation. The LSM3 protein, known as the LSM3 homolog, is integral to the formation of heptameric ring structures that are essential for its function in RNA binding and processing. These structures are involved in various cellular processes, including mRNA decay and the splicing of U6 small nuclear RNA (snRNA). In the cytoplasm, LSM3 is part of the Lsm1-7 complex, which facilitates mRNA degradation, while in the nucleus, it is a component of the Lsm2-8 complex, contributing to snRNA splicing. The protein's interactions with other Lsm proteins and its involvement in RNA stability underscore its importance in maintaining proper gene expression and cellular function (Montemayor2020Molecular; Wu2012Crystal). Additionally, LSM3 has been implicated in various diseases, including cancer and neurodegenerative disorders, highlighting its potential as a biomarker and therapeutic target (Ta2021Potential).
+
+## Structure
+The LSM3 protein, part of the LSm protein family, exhibits a conserved Sm fold characterized by an N-terminal alpha helix followed by a highly curved five-stranded beta sheet (Wu2012Crystal). This structural motif is common among LSm proteins and is crucial for their function in RNA processing. The LSM3 protein forms a heptameric ring structure, which is essential for its role in RNA binding and processing (Wu2012Crystal). In Schizosaccharomyces pombe, the Lsm3 protein assembles into a heptameric ring with an outer diameter of 61.5 Å, an inner diameter of 20.7 Å, and a thickness of 31.0 Å, creating a doughnut-shaped structure (Wu2012Crystal).
+
+The heptameric assembly is stabilized by interactions between beta strands in adjacent subunits, involving main-chain hydrogen bonds and hydrophobic interactions (Wu2012Crystal). The electrostatic potential mapping of the Lsm3 heptamer reveals a predominantly negatively charged helix face and a positively charged loop face, influencing its RNA binding properties (Wu2012Crystal). The Lsm3 protein does not bind U-rich RNA oligos independently, but it can form complexes with other Lsm proteins, such as Lsm2, to facilitate RNA binding (Wu2012Crystal).
+
+## Function
+LSM3 is a component of the Lsm1-7 and Lsm2-8 protein complexes, which play crucial roles in RNA processing and degradation in human cells. In the cytoplasm, LSM3 is part of the Lsm1-7 complex, which is involved in mRNA decay. This complex localizes in cytoplasmic foci and interacts with mRNA-degrading enzymes such as the decapping enzyme hDcp and the exonuclease hXrn1, facilitating the degradation of mRNA (INGELFINGER2002The). The Lsm1-7 complex preferentially binds to deadenylated mRNAs with a U-tract at their 3' terminal, stabilizing these mRNAs and promoting their decay (Wu2012Crystal).
+
+In the nucleus, LSM3 is part of the Lsm2-8 complex, which is involved in the splicing of U6 small nuclear RNA (snRNA). This complex binds tightly to RNA with a 2′,3′ cyclic phosphate, a feature crucial for recognizing post-transcriptionally modified U6 snRNA (Montemayor2020Molecular). The Lsm2-8 complex also plays a role in binding telomerase RNA and other RNA sequences, indicating its involvement in diverse RNA processing activities (Montemayor2020Molecular). These functions of LSM3 in RNA stability and turnover are essential for proper gene expression and cellular function.
+
+## Clinical Significance
+LSM3 is significantly overexpressed in breast cancer tissues compared to healthy controls, suggesting its potential role in cancer progression. Its expression levels are correlated with tumor stages in breast cancer patients, indicating that higher LSM3 expression is associated with poorer survival outcomes (Ta2021Potential). The study found that LSM3 has a hazard ratio of 1.49, with a 95% confidence interval of 1.34-1.66, and a p-value for trend of 3.4 × 10^-13, highlighting its significance as a prognostic marker in breast cancer (Ta2021Potential).
+
+In contrast, LSM3 is downregulated in cervical cancer and is associated with poor progression-free survival outcomes, suggesting variability in its role across different cancer types (Ta2021Potential). The gene is also linked to Alzheimer's disease, indicating a potential connection between LSM3 expression alterations and neurodegenerative conditions (Ta2021Potential). These findings underscore the importance of understanding LSM3's expression profiles across various diseases to elucidate its clinical significance and potential as a therapeutic target. Further research is needed to clarify the role of LSM3 in different cancer phenotypes and other diseases (Ta2021Potential).
+
+## Interactions
+LSM3 is a component of the Lsm1-7 complex, which plays a crucial role in mRNA decapping, a key step in mRNA degradation. Within this complex, LSM3 interacts with other Lsm proteins, including Lsm1, Lsm2, Lsm4, Lsm5, Lsm6, and Lsm7, forming a heptameric ring structure. This structure is stabilized by hydrogen bonds and van der Waals contacts, particularly between Lsm3 and its neighboring proteins, Lsm1 and Lsm6 (Zhou2014Crystal).
+
+LSM3, along with Lsm2, is essential for bridging the interaction between the Lsm1-7 complex and Pat1, a protein that activates mRNA decapping. This interaction is facilitated by the binding of the C-terminal domain of Pat1 (Pat1C) to the Lsm2-3 subcomplex, forming an asymmetric complex that is critical for decapping activation in vivo (Wu2013Lsm2). The interaction involves helix-helix contacts and is supported by hydrogen bonding and hydrophobic interactions (Wu2013Lsm2).
+
+LSM3 also participates in the Lsm2-8 complex, which is associated with U6 snRNA and involved in spliceosome assembly. In this context, LSM3 plays a role in RNA binding, with specific residues like Arg27 and Asp83 being crucial for its interaction with RNA (Montemayor2020Moleculara).
+
+
+## References
+
+
+1. (Montemayor2020Molecular) Molecular basis for the distinct cellular functions of the Lsm1-7 and Lsm2-8 complexes. This article has 1 citations.
+
+[2. (Montemayor2020Moleculara) Eric J. Montemayor, Johanna M. Virta, Samuel M. Hayes, Yuichiro Nomura, David A. Brow, and Samuel E. Butcher. Molecular basis for the distinct cellular functions of the lsm1–7 and lsm2–8 complexes. RNA, 26(10):1400–1413, June 2020. URL: http://dx.doi.org/10.1261/rna.075879.120, doi:10.1261/rna.075879.120. This article has 22 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.075879.120)
+
+[3. (Wu2013Lsm2) Donghui Wu, Denise Muhlrad, Matthew W Bowler, Shimin Jiang, Zhou Liu, Roy Parker, and Haiwei Song. Lsm2 and lsm3 bridge the interaction of the lsm1-7 complex with pat1 for decapping activation. Cell Research, 24(2):233–246, November 2013. URL: http://dx.doi.org/10.1038/cr.2013.152, doi:10.1038/cr.2013.152. This article has 43 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/cr.2013.152)
+
+[4. (INGELFINGER2002The) DIERK INGELFINGER, DONNA J. ARNDT-JOVIN, REINHARD LÜHRMANN, and TILMANN ACHSEL. The human lsm1-7 proteins colocalize with the mrna-degrading enzymes dcp1/2 and xrn1 in distinct cytoplasmic foci. RNA, 8(12):1489–1501, December 2002. URL: http://dx.doi.org/10.1017/s1355838202021726, doi:10.1017/s1355838202021726. This article has 298 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1017/s1355838202021726)
+
+[5. (Wu2012Crystal) Donghui Wu, Shimin Jiang, Matthew W. Bowler, and Haiwei Song. Crystal structures of lsm3, lsm4 and lsm5/6/7 from schizosaccharomyces pombe. PLoS ONE, 7(5):e36768, May 2012. URL: http://dx.doi.org/10.1371/journal.pone.0036768, doi:10.1371/journal.pone.0036768. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0036768)
+
+[6. (Ta2021Potential) Hoang Dang Khoa Ta, Wei-Jan Wang, Nam Nhut Phan, Nu Thuy An Ton, Gangga Anuraga, Su-Chi Ku, Yung-Fu Wu, Chih-Yang Wang, and Kuen-Haur Lee. Potential therapeutic and prognostic values of lsm family genes in breast cancer. Cancers, 13(19):4902, September 2021. URL: http://dx.doi.org/10.3390/cancers13194902, doi:10.3390/cancers13194902. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13194902)
+
+[7. (Zhou2014Crystal) Lijun Zhou, Yulin Zhou, Jing Hang, Ruixue Wan, Guifeng Lu, Chuangye Yan, and Yigong Shi. Crystal structure and biochemical analysis of the heptameric lsm1-7 complex. Cell Research, 24(4):497–500, February 2014. URL: http://dx.doi.org/10.1038/cr.2014.18, doi:10.1038/cr.2014.18. This article has 19 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/cr.2014.18)

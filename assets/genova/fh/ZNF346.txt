@@ -1,0 +1,32 @@
+# ZNF346
+
+## Overview
+ZNF346 is a gene that encodes the zinc finger protein 346, also known as JAZ, which is a member of the zinc finger protein family. This protein is characterized by its Cys2His2 zinc finger motifs, which enable it to bind nucleic acids, particularly double-stranded RNA, in a sequence-independent manner (Burge2014Structural). ZNF346 is involved in various cellular processes, including interactions with other proteins such as SIRT1, which suggests a role in neuronal protection and regulation of cell cycle and apoptosis (Wu2018MicroRNA1247; Mallick2014JAZ). Clinically, ZNF346 has been implicated in the progression of several cancers, including neuroblastoma and hepatocellular carcinoma, where its expression levels are associated with tumor proliferation and poor prognosis (Peng2023ZNF385A; Wu2018MicroRNA1247). As such, ZNF346 is considered a potential biomarker and therapeutic target in oncology.
+
+## Clinical Significance
+ZNF346 has been implicated in various diseases, particularly in cancer. In neuroblastoma, a common childhood malignancy, ZNF346 is upregulated, and its expression is associated with increased cell proliferation and invasion. Studies have shown that miR-1247 and miR-542-3p can suppress neuroblastoma cell proliferation by targeting ZNF346, suggesting that alterations in ZNF346 expression contribute to the oncogenic processes in this cancer (Wu2018MicroRNA1247; Wei2020MiR5423p).
+
+In hepatocellular carcinoma (HCC), ZNF346 is significantly overexpressed and is associated with poor prognosis. High levels of ZNF346 correlate with worse overall survival and disease-specific survival in HCC patients. The gene is linked to oncogenic pathways, including the p53 signaling pathway, and is associated with an inflamed and immunosuppressive tumor microenvironment, which may contribute to resistance to immunotherapy (Peng2023ZNF385A).
+
+These findings suggest that ZNF346 plays a role in promoting tumor progression and may serve as a potential biomarker for diagnosis and prognosis in certain cancers. Targeting ZNF346 expression or its interactions could offer new therapeutic strategies for treating these malignancies.
+
+## Interactions
+ZNF346, also known as JAZ, is a zinc finger protein that participates in various interactions with proteins and nucleic acids. It is identified as a SIRT1-interacting protein, where it has been shown to interact more efficiently with SIRT1 than with HDAC1, another known SIRT1-interacting protein. This interaction was confirmed through co-immunoprecipitation analysis in HEK293T cells and rat brain extracts, suggesting a role in neuronal protection by stimulating p21 protein expression (Mallick2014JAZ).
+
+ZNF346 also interacts with nucleic acids, showing a preference for binding to double-stranded RNA (dsRNA) over DNA or single-stranded RNA. This interaction is sequence-independent and relies on the shape of the A-form RNA helix. The protein contains four Cys2His2 zinc fingers, with the full-length JAZ having the highest affinity for dsRNA. Models of JAZ-RNA complexes indicate that single zinc fingers bind to the RNA backbone without sequence specificity (Burge2014Structural).
+
+Additionally, ZNF346 is targeted by microRNA-1247 in neuroblastoma cells, where miR-1247 binds to the 3'UTR of ZNF346, reducing its expression and leading to cell cycle arrest and apoptosis (Wu2018MicroRNA1247).
+
+
+## References
+
+
+[1. (Wei2020MiR5423p) Qiang Wei, Zhao Guo, Dong Chen, and Xinjian Jia. Mir-542-3p suppresses neuroblastoma cell proliferation and invasion by downregulation of kdm1a and znf346. Open Life Sciences, 15(1):173–184, April 2020. URL: http://dx.doi.org/10.1515/biol-2020-0018, doi:10.1515/biol-2020-0018. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/biol-2020-0018)
+
+[2. (Wu2018MicroRNA1247) Tingting Wu, Yun Lin, and Zhongguo Xie. Microrna-1247 inhibits cell proliferation by directly targeting znf346 in childhood neuroblastoma. Biological Research, May 2018. URL: http://dx.doi.org/10.1186/s40659-018-0162-y, doi:10.1186/s40659-018-0162-y. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40659-018-0162-y)
+
+[3. (Burge2014Structural) Russell G. Burge, Maria A. Martinez-Yamout, H. Jane Dyson, and Peter E. Wright. Structural characterization of interactions between the double-stranded rna-binding zinc finger protein jaz and nucleic acids. Biochemistry, 53(9):1495–1510, February 2014. URL: http://dx.doi.org/10.1021/bi401675h, doi:10.1021/bi401675h. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/bi401675h)
+
+[4. (Mallick2014JAZ) Sathi Mallick and Santosh R. D’Mello. Jaz (znf346), a sirt1-interacting protein, protects neurons by stimulating p21 (waf/cip1) protein expression. Journal of Biological Chemistry, 289(51):35409–35420, December 2014. URL: http://dx.doi.org/10.1074/jbc.m114.597575, doi:10.1074/jbc.m114.597575. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m114.597575)
+
+[5. (Peng2023ZNF385A) Qihang Peng, Jin Li, Qian Wu, Pei Wang, Zhongcui Kang, Yiting Deng, Yu Xiao, Peng Zheng, Feng Ge, and Ying Chen. Znf385a and znf346 serve as prognostic biomarkers associated with an inflamed immunosuppressive tumor microenvironment in hepatocellular carcinoma. International Journal of Molecular Sciences, 24(4):3155, February 2023. URL: http://dx.doi.org/10.3390/ijms24043155, doi:10.3390/ijms24043155. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms24043155)

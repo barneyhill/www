@@ -1,0 +1,37 @@
+# TRIM43
+
+## Overview
+TRIM43 is a gene that encodes the tripartite motif containing 43 protein, a member of the tripartite motif (TRIM) protein family. This family is characterized by a conserved structural motif that includes a RING domain, B-box motifs, and a coiled-coil region, which are essential for its function as an E3 ubiquitin ligase (Meroni2005TRIMRBCC). The TRIM43 protein plays a critical role in maintaining centrosomal integrity and regulating nuclear lamina integrity, particularly in the context of antiviral defense mechanisms against herpesvirus infections (Full2018Centrosomal). It achieves this by interacting with and mediating the degradation of the centrosomal protein Pericentrin (PCNT) through its E3 ligase activity (Full2018Centrosomal). Additionally, TRIM43 has been implicated in cancer biology, with mutations in its structural domains potentially contributing to oncogenesis (Gao2022Pancancer). The gene's expression is notably upregulated during herpesvirus infections, highlighting its specific role in the host's immune response (Full2018Centrosomal).
+
+## Structure
+TRIM43 is a member of the tripartite motif (TRIM) protein family, characterized by a conserved structural motif that includes a RING domain, one or two B-box motifs, and a coiled-coil region. This structure is crucial for its function as an E3 ubiquitin ligase, facilitating the transfer of ubiquitin to target proteins (Meroni2005TRIMRBCC). The RING domain is essential for its E3 ligase activity, interacting with E2-conjugating enzymes to mediate ubiquitination (Meroni2005TRIMRBCC). 
+
+TRIM43 also contains a SPRY domain, which is part of its C-terminal region, contributing to its structural and functional diversity (Sardiello2008Genomic). The protein's secondary structure includes coiled-coil regions that facilitate protein-protein interactions and complex formation (Meroni2005TRIMRBCC). 
+
+TRIM43 is involved in the regulation of centrosomal integrity, interacting with the centrosomal protein Pericentrin (PCNT) and mediating its degradation through ubiquitination, a process dependent on its RING E3 ligase activity (Full2018Centrosomal). This activity is crucial for its role in restricting herpesvirus infections by maintaining nuclear lamina integrity (Full2018Centrosomal).
+
+## Clinical Significance
+TRIM43 has been implicated in the host's antiviral defense mechanisms, particularly against herpesvirus infections. Its expression is significantly upregulated during herpesvirus infections, such as those caused by Kaposi's sarcoma-associated herpesvirus (KSHV), Epstein-Barr virus (EBV), and human cytomegalovirus (HCMV), but not by unrelated viruses like adenovirus or RNA viruses such as vesicular stomatitis virus (VSV) and dengue virus (DV) (Hage2019To; Full2018Centrosomal). This upregulation is mediated by the transcription factor DUX4 and is not induced by type I interferons, indicating a specific response to herpesvirus infection (Full2018Centrosomal).
+
+TRIM43's role in cancer has also been explored, with studies identifying it as a potential driver gene due to enriched somatic mutations in specific domains, such as the SPRY, coiled coil, and RING domains, which are crucial for protein function (Gao2022Pancancer). These mutations may have deleterious effects, contributing to cancer progression. However, specific clinical outcomes or treatment implications related to TRIM43 mutations or expression alterations in cancer are not detailed in the available studies (Gao2022Pancancer). The broader significance of TRIM43 in other DUX4-regulated processes and diseases, such as facioscapulohumeral muscular dystrophy (FSHD), is also noted, suggesting its involvement in various pathological conditions (Full2018Centrosomal).
+
+## Interactions
+TRIM43 is known to interact with the centrosomal protein Pericentrin (PCNT). This interaction is crucial for TRIM43's role in restricting herpesvirus infections. TRIM43 mediates the ubiquitination and subsequent proteasomal degradation of PCNT, which is essential for maintaining centrosomal integrity and regulating nuclear lamina integrity. This process is significant in controlling herpesvirus replication by altering the nuclear lamina, thereby inhibiting viral chromatin activity (Hage2019To; Full2018Centrosomal).
+
+The interaction between TRIM43 and PCNT was confirmed through co-immunoprecipitation experiments and super-resolution microscopy, indicating that they form a complex at the centrosome. The E3 ligase activity of TRIM43 is necessary for the degradation of PCNT, as demonstrated by the inability of a catalytically inactive TRIM43 mutant to induce PCNT degradation (Full2018Centrosomal).
+
+TRIM43's interaction with PCNT leads to changes in the nuclear lamina, such as invaginations and ruffling, which may influence viral chromatin transcriptional activity. These changes are not due to the degradation of lamin proteins but are dependent on TRIM43's E3 ligase activity (Full2018Centrosomal).
+
+
+## References
+
+
+[1. (Hage2019To) Adam Hage and Ricardo Rajsbaum. To trim or not to trim: the balance of host–virus interactions mediated by the ubiquitin system. Journal of General Virology, 100(12):1641–1662, December 2019. URL: http://dx.doi.org/10.1099/jgv.0.001341, doi:10.1099/jgv.0.001341. This article has 56 citations and is from a peer-reviewed journal.](https://doi.org/10.1099/jgv.0.001341)
+
+[2. (Sardiello2008Genomic) Marco Sardiello, Stefano Cairo, Bianca Fontanella, Andrea Ballabio, and Germana Meroni. Genomic analysis of the trim family reveals two groups of genes with distinct evolutionary properties. BMC Evolutionary Biology, August 2008. URL: http://dx.doi.org/10.1186/1471-2148-8-225, doi:10.1186/1471-2148-8-225. This article has 220 citations.](https://doi.org/10.1186/1471-2148-8-225)
+
+[3. (Full2018Centrosomal) Florian Full, Michiel van Gent, Konstantin M. J. Sparrer, Cindy Chiang, Matthew A. Zurenski, Myriam Scherer, Norbert H. Brockmeyer, Lucie Heinzerling, Michael Stürzl, Klaus Korn, Thomas Stamminger, Armin Ensser, and Michaela U. Gack. Centrosomal protein trim43 restricts herpesvirus infection by regulating nuclear lamina integrity. Nature Microbiology, 4(1):164–176, November 2018. URL: http://dx.doi.org/10.1038/s41564-018-0285-5, doi:10.1038/s41564-018-0285-5. This article has 37 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41564-018-0285-5)
+
+[4. (Meroni2005TRIMRBCC) Germana Meroni and Graciana Diez‐Roux. Trim/rbcc, a novel class of ‘single protein ring finger’ e3 ubiquitin ligases. BioEssays, 27(11):1147–1157, October 2005. URL: http://dx.doi.org/10.1002/bies.20304, doi:10.1002/bies.20304. This article has 555 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/bies.20304)
+
+[5. (Gao2022Pancancer) Yueying Gao, Tao Pan, Gang Xu, Si Li, Jing Guo, Ya Zhang, Qi Xu, Jiwei Pan, Yanlin Ma, Juan Xu, and Yongsheng Li. Pan-cancer illumination of trim gene family reveals immunology regulation and potential therapeutic implications. Human Genomics, December 2022. URL: http://dx.doi.org/10.1186/s40246-022-00441-9, doi:10.1186/s40246-022-00441-9. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40246-022-00441-9)

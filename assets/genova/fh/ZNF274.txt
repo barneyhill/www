@@ -1,0 +1,35 @@
+# ZNF274
+
+## Overview
+ZNF274 is a gene that encodes the zinc finger protein 274, a transcriptional repressor involved in chromatin organization and gene expression regulation. This protein is categorized as a zinc finger protein due to its characteristic zinc finger domains, which facilitate DNA binding and protein-protein interactions. Zinc finger protein 274 plays a pivotal role in maintaining genomic stability by recruiting histone methyltransferases, such as SETDB1, to specific genomic sites, leading to the establishment of repressive chromatin marks like H3K9me3. These actions are crucial for the silencing of specific gene clusters and the prevention of unintended gene activation, thereby ensuring proper genome compartmentalization and stability (Frietze2010ZNF274; Begnis2024Clusters). Additionally, ZNF274 is implicated in the epigenetic regulation of genes associated with neurodevelopmental disorders, including Prader-Willi Syndrome, highlighting its clinical significance (Langouët2017Zinc; Langouët2020Specific).
+
+## Function
+ZNF274 is a transcriptional repressor that plays a crucial role in the organization of chromatin and the regulation of gene expression in healthy human cells. It is involved in the formation of repressive chromosomal compartments within the nucleolus, where it anchors clusters of lineage-specific genes in repressive perinucleolar compartments. This positioning prevents the unintended activation of these gene clusters, thereby maintaining genome compartmentalization and stability (Begnis2024Clusters).
+
+ZNF274 functions by recruiting the histone methyltransferase SETDB1 to the 3' ends of zinc finger genes, leading to the trimethylation of histone H3 on lysine 9 (H3K9me3), a mark associated with transcriptional repression. This recruitment is facilitated through interactions with the corepressor TRIM28 (KAP1) (Frietze2010ZNF274). The protein's SCAN domain is essential for its nucleolar localization and the formation of repressive compartments, promoting the nucleation and spreading of the H3K9me3 histone mark over target DNA (Begnis2024Clusters).
+
+ZNF274 is also involved in maintaining genomic stability by recruiting ATRX to specific chromatin regions, which helps preserve H3K9me3 levels and prevent DNA damage (ValleGarcía2016ATRX). Its activity is crucial for the selective and combinatorial expression of tandemly arrayed genes, such as protocadherin isoforms, which are important for neuronal self-avoidance (Begnis2024Clusters).
+
+## Clinical Significance
+ZNF274 has been implicated in several genetic disorders, most notably Prader-Willi Syndrome (PWS). PWS is a neurogenetic disorder caused by the absence of paternally-expressed gene products from chromosome 15q11-q13. ZNF274 plays a critical role in the repression of maternal alleles within this region. Knockout studies have shown that disrupting ZNF274 binding can activate maternal transcripts, such as SNORD116, SNRPN, and SNHG14, which are typically silenced in PWS neurons. This suggests that ZNF274 is directly involved in the epigenetic silencing mechanisms that contribute to the PWS phenotype (Langouët2017Zinc; Langouët2020Specific).
+
+Alterations in ZNF274 expression or function may also be linked to intellectual impairments and conditions like schizophrenia. The gene's role in organizing repressive chromatin hubs near nucleoli is crucial for maintaining proper gene expression patterns, and its dysregulation could lead to developmental abnormalities (Begnis2024Clusters). Additionally, ZNF274 is intolerant to loss-of-function mutations, with homozygous mutants in mice resulting in embryonic lethality, indicating its essential role in development (Begnis2024Clusters). These findings highlight the potential of targeting ZNF274 for therapeutic strategies in PWS and possibly other neurodevelopmental disorders.
+
+## Interactions
+ZNF274 is known to interact with several proteins and nucleic acids, playing a significant role in gene regulation and chromatin modification. It forms complexes with KAP1 (KRAB-associated protein 1) and SETDB1 (SET domain bifurcated 1), which are crucial for its function in gene silencing. ZNF274 recruits the histone methyltransferase SETDB1 to specific genomic sites, particularly the 3' ends of zinc finger (ZNF) genes, facilitating the deposition of the repressive histone mark H3K9me3 (Frietze2010ZNF274). This interaction is selective, as ZNF274 does not recruit SETDB1 to all potential binding sites, indicating specificity in its binding patterns (Frietze2010ZNF274).
+
+ZNF274 also interacts with nucleolar proteins through its SCAN domain, which is essential for its nucleolar localization and the formation of homodimers. These interactions are important for stabilizing chromosomal contacts and maintaining repressive chromatin environments (Begnis2024Clusters). In the context of Prader-Willi syndrome, ZNF274, in complex with SETDB1, silences maternal transcripts by depositing H3K9me3 at the PWS locus, highlighting its role in epigenetic regulation (Langouët2017Zinc). These interactions underscore ZNF274's involvement in organizing chromatin structure and regulating gene expression.
+
+
+## References
+
+
+1. (Langouët2020Specific) Specific ZNF274 binding interference at SNORD116 activates the maternal transcripts in Prader-Willi syndrome neurons. This article has 0 citations.
+
+[2. (ValleGarcía2016ATRX) David Valle-García, Zulekha A. Qadeer, Domhnall S. McHugh, Flávia G. Ghiraldini, Asif H. Chowdhury, Dan Hasson, Michael A. Dyer, Félix Recillas-Targa, and Emily Bernstein. Atrx binds to atypical chromatin domains at the 3′ exons of zinc finger genes to preserve h3k9me3 enrichment. Epigenetics, 11(6):398–414, May 2016. URL: http://dx.doi.org/10.1080/15592294.2016.1169351, doi:10.1080/15592294.2016.1169351. This article has 60 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/15592294.2016.1169351)
+
+[3. (Frietze2010ZNF274) Seth Frietze, Henriette O’Geen, Kimberly R. Blahnik, Victor X. Jin, and Peggy J. Farnham. Znf274 recruits the histone methyltransferase setdb1 to the 3′ ends of znf genes. PLoS ONE, 5(12):e15082, December 2010. URL: http://dx.doi.org/10.1371/journal.pone.0015082, doi:10.1371/journal.pone.0015082. This article has 141 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0015082)
+
+4. (Begnis2024Clusters) Clusters of lineage-specific genes are anchored by ZNF274 in repressive perinucleolar compartments. This article has 0 citations.
+
+[5. (Langouët2017Zinc) Maéva Langouët, Heather R Glatt-Deeley, Michael S Chung, Clémence M Dupont-Thibert, Elodie Mathieux, Erin C Banda, Christopher E Stoddard, Leann Crandall, and Marc Lalande. Zinc finger protein 274 regulates imprinted expression of transcripts in prader-willi syndrome neurons. Human Molecular Genetics, 27(3):505–515, December 2017. URL: http://dx.doi.org/10.1093/hmg/ddx420, doi:10.1093/hmg/ddx420. This article has 34 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddx420)

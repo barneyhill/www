@@ -1,0 +1,48 @@
+# FAM3B
+
+## Overview
+FAM3B, also known as PANDER (pancreatic-derived factor), is a gene that encodes a cytokine-like protein involved in various metabolic and cellular processes. The FAM3B protein is primarily expressed in the endocrine pancreas, particularly in the β-cells of the islets, where it plays a crucial role in glucose metabolism and insulin regulation. As a secretory protein, FAM3B is involved in the regulation of glucose homeostasis by influencing insulin secretion and resistance, as well as hepatic gluconeogenic gene expression. It is implicated in several signaling pathways, including those involving Ca2+ protein kinase A (PKA), protein kinase C (PKC), and phosphoinositide 3-kinase (PI3K), which are essential for its function in maintaining glucose levels (Dong2022FAM3; Zhang2017FAM3B). Beyond its metabolic roles, FAM3B is also associated with apoptosis regulation, particularly in cancer contexts, and has been linked to various diseases, including type 2 diabetes mellitus and certain cancers, highlighting its potential as a therapeutic target (Lanka2019Structurebased; MacielSilva2018FAM3BPANDER).
+
+## Structure
+The FAM3B protein, also known as PANDER, is a cytokine-like protein primarily expressed in the endocrine pancreas. Its molecular structure has been studied through homology modeling, using the MODELLER9.9 software with the 2YOQ A chain as a template. The primary structure of FAM3B consists of 235 amino acids (Zhang2017FAM3B; Lanka2019Structurebased). The secondary structure of FAM3B includes two alpha-helices and seven beta-strands, which are stabilized by disulfide bridges (Lanka2019Structurebased). 
+
+The tertiary structure was refined through energy minimization using the NAMD-VMD module, resulting in an averaged RMSD value of 0.77 Å, indicating minimized constraints and good stereochemical quality (Lanka2019Structurebased). The protein is secreted and contains a typical secretory signal peptide, which is crucial for its function as a secretory protein (Zhang2017FAM3B). 
+
+While specific details on the quaternary structure, post-translational modifications, and splice variant isoforms are not provided, the protein's role in various cellular processes suggests it may undergo such modifications to influence its stability and function.
+
+## Function
+The FAM3B gene, also known as PANDER, encodes a protein that plays a significant role in glucose metabolism and insulin regulation. It is primarily expressed in the endocrine pancreas, particularly in the β-cells of islets, where it is co-secreted with insulin in response to glucose stimulation. This secretion is crucial for maintaining glucose homeostasis in the body (Zhang2017FAM3B). FAM3B is involved in regulating glucose homeostasis by influencing insulin secretion and resistance, and it also plays a role in hepatic gluconeogenic gene expression and glucose output during starvation (Zhang2017FAM3B).
+
+In healthy cells, FAM3B is expressed in various tissues and is involved in normal metabolic processes. It is regulated by glucose through multiple signaling pathways, including Ca2+ protein kinase A (PKA), Ca2+ protein kinase C (PKC), ERK1/2, and cAMP-responsive element-binding protein (CREB) mechanisms, as well as phosphoinositide 3-kinase (PI3K) and ROS-related pathways (Zhang2017FAM3B). The protein is localized in secretory vesicles within β-cells, indicating its role in the regulation of blood glucose levels through interactions with the endocrine pancreas and liver (Dong2022FAM3).
+
+## Clinical Significance
+FAM3B, also known as PANDER, has been implicated in various diseases due to alterations in its expression levels. In thyroid cancer, particularly papillary thyroid carcinoma (PTC), FAM3B mRNA expression is significantly downregulated compared to normal tissues. This downregulation is associated with more advanced stages of thyroid cancer and is linked to favorable overall survival, although higher mRNA levels correlate with shorter disease-free survival (Ma2020Identification).
+
+In triple-negative breast cancer (TNBC), FAM3B is identified as a key differentially expressed gene. High expression levels of FAM3B are associated with poor prognosis, including lower overall survival and disease-free survival rates. This suggests a potential carcinogenic role for FAM3B in TNBC (Huang2023A).
+
+FAM3B is also involved in the pathogenesis of type 2 diabetes mellitus (T2DM). It negatively affects pancreatic beta-cell function and insulin sensitivity, contributing to insulin resistance and glucose intolerance. Overexpression of FAM3B under inflammatory and hyperglycemic conditions can lead to beta-cell dysfunction and liver insulin resistance, making it a promising therapeutic target for T2DM (Lanka2019Structurebased).
+
+In Behcet's disease, FAM3B is downregulated and may play a role in regulating the tumor immune microenvironment, although its specific function in this context requires further exploration (Liu2023Identification).
+
+## Interactions
+FAM3B, also known as PANDER, is involved in several interactions that influence apoptosis and cell survival, particularly in the context of prostate cancer. FAM3B overexpression in DU145 prostate cancer cells leads to increased expression of anti-apoptotic proteins Bcl-2 and Bcl-XL, while decreasing the expression of the pro-apoptotic protein Bax. This modulation of protein expression suggests that FAM3B interacts with the intrinsic apoptotic pathway, promoting cell survival by inhibiting caspase activation, specifically caspase-3, -8, and -9, upon TNF-α stimulation (MacielSilva2018FAM3BPANDER).
+
+The anti-apoptotic effects of FAM3B are diminished by antagonists of Bcl-2 family proteins, such as Obatoclax Mesylate and ABT-737, indicating a direct or indirect interaction between FAM3B and these proteins (MacielSilva2018FAM3BPANDER). FAM3B's role in inhibiting apoptosis is further supported by its ability to reduce caspase-3 cleavage, a key step in the apoptosis pathway, suggesting potential interactions with caspase inhibitors like survivin (MacielSilva2018FAM3BPANDER). These interactions highlight FAM3B's involvement in modulating apoptosis pathways, contributing to its role in promoting tumor growth in prostate cancer. However, specific physical interactions with other proteins or nucleic acids are not detailed in the available context.
+
+
+## References
+
+
+[1. (Zhang2017FAM3B) Wenxiang Zhang, Siyu Chen, Zhao Zhang, Chen Wang, and Chang Liu. Fam3b mediates high glucose-induced vascular smooth muscle cell proliferation and migration via inhibition of mir-322-5p. Scientific Reports, May 2017. URL: http://dx.doi.org/10.1038/s41598-017-02683-3, doi:10.1038/s41598-017-02683-3. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-02683-3)
+
+[2. (Liu2023Identification) Huan Liu, Panpan Zhang, Fuzhen Li, Xiao Xiao, Yinan Zhang, Na Li, Liping Du, and Peizeng Yang. Identification of the immune-related biomarkers in behcet’s disease by plasma proteomic analysis. Arthritis Research &amp; Therapy, June 2023. URL: http://dx.doi.org/10.1186/s13075-023-03074-y, doi:10.1186/s13075-023-03074-y. This article has 5 citations.](https://doi.org/10.1186/s13075-023-03074-y)
+
+[3. (MacielSilva2018FAM3BPANDER) Paula Maciel-Silva, Izabela Caldeira, Icaro de Assis Santos, Ana Claudia Oliveira Carreira, Flavia Ramos Siqueira, Eliane Antonioli, Anna Carla Goldberg, José Ernesto Belizário, and Humberto Miguel Garay-Malpartida. Fam3b/pander inhibits cell death and increases prostate tumor growth by modulating the expression of bcl-2 and bcl-xl cell survival genes. BMC Cancer, January 2018. URL: http://dx.doi.org/10.1186/s12885-017-3950-9, doi:10.1186/s12885-017-3950-9. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-017-3950-9)
+
+[4. (Lanka2019Structurebased) Goverdhan Lanka, Revanth Bathula, Mahendar Dasari, Sravanthi Nakkala, Manan Bhargavi, Gururaj Somadi, and Sarita Rajender Potlapally. Structure-based identification of potential novel inhibitors targeting fam3b (pander) causing type 2 diabetes mellitus through virtual screening. Journal of Receptors and Signal Transduction, 39(3):253–263, May 2019. URL: http://dx.doi.org/10.1080/10799893.2019.1660897, doi:10.1080/10799893.2019.1660897. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/10799893.2019.1660897)
+
+[5. (Huang2023A) Renhong Huang, Han Wang, Jin Hong, Zheng Wang, Jiayi Wu, Ou Huang, Jianrong He, Weiguo Chen, Yafen Li, Xiaosong Chen, and Kunwei Shen. A senescence-associated signature refines the classification of different modification patterns and characterization of tumor immune microenvironment infiltration in triple-negative breast cancer. Frontiers in Pharmacology, May 2023. URL: http://dx.doi.org/10.3389/fphar.2023.1191910, doi:10.3389/fphar.2023.1191910. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2023.1191910)
+
+[6. (Ma2020Identification) Yuting Ma, Junfeng Shi, Yongping Liu, Ruiyan Pan, Hongyan Qiu, Fang Han, Ningning Hou, and Xiaodong Sun. Identification of potential indicators for survival in patients with thyroid cancer based on mrna expression levels of family with sequence similarity 3 members. SSRN Electronic Journal, 2020. URL: http://dx.doi.org/10.2139/ssrn.3681494, doi:10.2139/ssrn.3681494. This article has 0 citations.](https://doi.org/10.2139/ssrn.3681494)
+
+7. (Dong2022FAM3) FAM3 family genes are associated with prognostic value of human cancer: a pan-cancer analysis. This article has 0 citations.

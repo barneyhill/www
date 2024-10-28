@@ -1,0 +1,37 @@
+# INKA2
+
+## Overview
+INKA2 is a gene that encodes the protein inka box actin regulator 2, which functions as a regulatory protein primarily involved in the modulation of actin dynamics. This protein is categorized as an inhibitor of the serine/threonine-protein kinase Pak4, playing a crucial role in cellular processes such as actin depolymerization, cell morphology, and neuronal development. The INKA2 protein contains a specific inhibitory domain known as the iBox, which directly interacts with Pak4 to inhibit its activity, thereby influencing the Pak4-LIMK-Cofilin signaling pathway (Yamada2022Inka2a). Predominantly expressed in the nervous system, INKA2 is essential for synapse formation and dendritic spine morphology, impacting synaptic strength and signal transmission (Yamada2022Inka2a). Additionally, INKA2 interacts with protein phosphatase-2A (PP2A), affecting focal adhesion dynamics and cell migration (Akiyama2020Control). The gene's expression and interactions have significant implications in various diseases, including cancer and neurodevelopmental disorders, highlighting its potential as a therapeutic target (Liu2019INKA2; Yamada2022Inka2).
+
+## Function
+INKA2 encodes a protein that functions as a specific inhibitor of the serine/threonine-protein kinase Pak4, which is crucial for regulating actin dynamics in cells. The protein contains a 38 amino-acid inhibitory domain known as the iBox, which directly binds to the catalytic domain of Pak4, inhibiting its activity. This inhibition affects the Pak4-LIMK-Cofilin signaling pathway, essential for actin depolymerization, thereby influencing cell morphology and neuronal development (Yamada2022Inka2a).
+
+INKA2 is predominantly expressed in the nervous system, where it plays a significant role in synapse formation and dendritic spine morphology by modulating the Rac1-Pak pathway. This regulation is vital for maintaining proper dendritic spine density, which is important for synaptic strength and signal transmission in neurons (Yamada2022Inka2a). Inka2's cytoplasmic localization is necessary for its interaction with Pak4, and it primarily colocalizes with F-actin in the cytosol (Yamada2022Inka2a).
+
+INKA2 also interacts with protein phosphatase-2A (PP2A), affecting focal adhesion dynamics and cell migration. It inhibits PP2A activity by binding to its C subunit, which is crucial for focal adhesion turnover, thereby influencing cell movement (Akiyama2020Control).
+
+## Clinical Significance
+INKA2, also known as FAM212B, is implicated in various diseases and conditions due to alterations in its expression or interactions. In cancer, INKA2 functions as a tumor suppressor and is directly regulated by the p53 protein. Its expression is often reduced in tumor samples, which is associated with higher DNA methylation in its promoter region and p53 mutations. This downregulation is observed across multiple cancer types, including breast cancer, colon adenocarcinoma, and lung adenocarcinoma, suggesting that INKA2 may act as a cancer cell growth inhibitor (Liu2019INKA2).
+
+In the context of neurodevelopmental disorders, INKA2 is involved in regulating actin dynamics crucial for dendritic spine formation. Its deficiency leads to impaired spinogenesis and abnormal dendritic spine morphology, which are linked to conditions such as Fragile X Syndrome (FXS). FXS is characterized by increased immature dendritic spines and cognitive deficits, with INKA2 potentially playing a role in decreased Pak signaling and aberrant spine formation in FXS patients (Yamada2022Inka2a; Yamada2022Inka2).
+
+INKA2's role in synaptic pathology and its association with RNA-binding proteins like FMR1 and TDP-43 suggest potential involvement in neurodegenerative diseases, although direct associations with specific conditions are not fully established (Yamada2022Inka2a).
+
+## Interactions
+INKA2 interacts with the serine/threonine kinase PAK4 through its iBox domain, a conserved sequence that contains a PAK4-inhibitory motif, NRQPLVLG. This interaction inhibits PAK4's kinase activity, affecting the phosphorylation of β-catenin at Ser675, which leads to β-catenin degradation and potentially inhibits cancer cell growth (Liu2019INKA2; Yamada2022Inka2). The binding of INKA2 to PAK4 is crucial for its role in regulating actin dynamics, as demonstrated by the disruption of this interaction when specific residues in the iBox domain are deleted (Liu2019INKA2).
+
+INKA2 also interacts with protein phosphatase 2A (PP2A), specifically associating with its C subunit. This interaction prevents the formation of the PP2A A-C heterodimer, inhibiting PP2A's function and affecting focal adhesion dynamics by reducing the association between focal adhesion kinase (FAK) and paxillin. This regulation of PP2A activity by INKA2 influences cell migration (Akiyama2020Control).
+
+In the nervous system, INKA2 mRNA is subject to translational repression by RNA-binding proteins such as FMR1 and TDP-43, which bind to specific sequences in the mRNA, suggesting a complex regulatory mechanism at the mRNA level (Yamada2022Inka2).
+
+
+## References
+
+
+[1. (Yamada2022Inka2a) Seiya Yamada, Tomoya Mizukoshi, Akinori Tokunaga, and Shin-ichi Sakakibara. Inka2, a novel pak4 inhibitor, regulates actin dynamics in neuronal development. PLOS Genetics, 18(10):e1010438, October 2022. URL: http://dx.doi.org/10.1371/journal.pgen.1010438, doi:10.1371/journal.pgen.1010438. This article has 3 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1010438)
+
+[2. (Akiyama2020Control) Hiroki Akiyama, Yumi Iwasaki, Seiya Yamada, Hiroyuki Kamiguchi, and Shin-ichi Sakakibara. Control of cell migration by the novel protein phosphatase-2a interacting protein inka2. Cell and Tissue Research, 380(3):527–537, January 2020. URL: http://dx.doi.org/10.1007/s00441-020-03169-x, doi:10.1007/s00441-020-03169-x. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00441-020-03169-x)
+
+[3. (Liu2019INKA2) Yu‑Yu Liu, Chizu Tanikawa, Koji Ueda, and Koichi Matsuda. Inka2, a novel p53 target that interacts with the serine/threonine kinase pak4. International Journal of Oncology, April 2019. URL: http://dx.doi.org/10.3892/ijo.2019.4786, doi:10.3892/ijo.2019.4786. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2019.4786)
+
+4. (Yamada2022Inka2) Inka2, a novel Pak4 inhibitor, regulates actin dynamics in neuronal development. This article has 0 citations.

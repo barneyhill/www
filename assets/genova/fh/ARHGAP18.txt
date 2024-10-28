@@ -1,0 +1,56 @@
+# ARHGAP18
+
+## Overview
+ARHGAP18 is a gene that encodes the Rho GTPase activating protein 18, a critical regulator of cytoskeletal dynamics and cellular morphology. This protein functions as a Rho GTPase-activating protein (RhoGAP), which inactivates RhoA, a member of the Rho family of GTPases, thereby influencing cell shape, motility, and stability. ARHGAP18 is involved in various cellular processes, including the regulation of actin and microtubule structures, and plays a significant role in endothelial cell function and response to mechanical stimuli. The protein's interactions with other cellular components, such as ezrin and Protein kinase N3 (PKN3), enhance its activity and contribute to its regulatory functions. Clinically, ARHGAP18 has been implicated in several conditions, including cancer, β-thalassemia, and schizophrenia, highlighting its importance in both normal physiology and disease states (Lovelace2017The; Maeda2011ARHGAP18; He2017ARHGAP18; Guo2017Association).
+
+## Structure
+ARHGAP18 is a Rho GTPase-activating protein that plays a significant role in cytoskeletal dynamics. The protein contains a C-terminal RhoGAP domain, which is crucial for its GTPase-activating function, allowing it to regulate RhoA activity (Maeda2011ARHGAP18). The interaction between ARHGAP18 and ezrin enhances its RhoGAP activity, which is essential for maintaining microvilli structure by reducing active RhoA levels (Lombardo2024ARHGAP18ezrin).
+
+The primary structure of ARHGAP18 includes specific regions that facilitate its interactions with other proteins. For instance, the N-terminal part of ARHGAP18, particularly the first 25 amino acids, is crucial for binding to PKN3, a kinase that phosphorylates ARHGAP18, leading to the activation of its GAP domain (Dibus2020A). Phosphorylation at specific sites, such as Thr154, Ser156, and Thr158, induces structural changes that enhance its GAP activity (Dibus2020A).
+
+ARHGAP18 also contains an ezrin-binding region identified as residues V10 to S17, which interacts with the FERM domain of ezrin, further enhancing its GAP activity (Lombardo2024ARHGAP18ezrin). This interaction is vital for its localization to microvilli and the regulation of actin-based structures.
+
+## Function
+ARHGAP18, a Rho GTPase-activating protein, plays a crucial role in regulating cell shape, spreading, and motility by inactivating RhoA, a member of the Rho family of GTPases. This inactivation is essential for the dynamic remodeling of the actin cytoskeleton, which is necessary for processes such as cell migration and spreading. ARHGAP18 localizes to the leading edge of cells during these processes, promoting membrane protrusion and reducing cellular contraction, thereby facilitating cell spreading and migration (Maeda2011ARHGAP18).
+
+In endothelial cells, ARHGAP18 is involved in maintaining microtubule stability, which is critical for cell shape regulation and various cellular functions, including the transport of Weibel-Palade bodies and neutrophil transmigration. It localizes to microtubules and regulates their stability through the Rho-ROCK pathway and the deacetylase HDAC6 (Lovelace2017The). ARHGAP18 also plays a role in endothelial cell alignment in response to flow conditions, protecting against atherosclerosis by maintaining cell junction stability and reducing inflammation (Lay2019ARHGAP18:). Overall, ARHGAP18 is vital for maintaining cellular morphology and function in various tissues.
+
+## Clinical Significance
+ARHGAP18 has been implicated in several diseases due to its role in cellular processes. In β-thalassemia, a specific SNP in the ARHGAP18 gene is associated with higher fetal hemoglobin (HbF) levels, suggesting a potential therapeutic target for managing the disease (He2017ARHGAP18). In gastric cancer, ARHGAP18 acts as a tumor suppressor, with its overexpression leading to reduced cell proliferation, migration, and invasion by inhibiting the MAPK signaling pathways (Li2018Overexpression). 
+
+In leukemia, ARHGAP18 is involved in glucocorticoid resistance. The long noncoding RNA HOTAIRM1 suppresses ARHGAP18, affecting the RHOA/ROCK1 signaling pathway and promoting glucocorticoid resistance. Targeting the HOTAIRM1-ARHGAP18 axis could modulate this resistance (Liang2021The). 
+
+ARHGAP18 is also associated with schizophrenia in the Chinese Han population, where specific polymorphisms in the gene are linked to the disorder, highlighting its role in neurodevelopmental processes (Guo2017Association). In endothelial cells, ARHGAP18 regulates YAP activity, and its depletion can lead to increased YAP activation, potentially impacting vascular health and contributing to atherosclerosis (Coleman2020YAP).
+
+## Interactions
+ARHGAP18 interacts with several proteins, playing a crucial role in cellular processes. It specifically interacts with ezrin, a protein that links the plasma membrane to the actin cytoskeleton. This interaction is mediated through the FERM domain of ezrin, which becomes accessible when ezrin is in an active, open conformation. The interaction is enhanced by phosphorylation at the T567 site of ezrin, facilitated by the kinases LOK and SLK. This binding enhances ARHGAP18's GAP activity, reducing active RhoA levels and influencing the organization of actin-based structures like microvilli (Lombardo2022ARHGAP18ezrin).
+
+ARHGAP18 also interacts with microtubules in endothelial cells, where it stabilizes them through interactions with the Rho-ROCK pathway and the deacetylase HDAC6. The localization of ARHGAP18 to microtubules requires its functional RhoGAP domain, and its GAP activity is necessary for maintaining microtubule stability (Lovelace2017The).
+
+Additionally, ARHGAP18 interacts with Protein kinase N3 (PKN3), a serine/threonine kinase. This interaction is mediated via the N-terminal region of ARHGAP18, and phosphorylation by PKN3 enhances ARHGAP18's GAP domain activity, contributing to the negative regulation of active RhoA (Dibus2020A).
+
+
+## References
+
+
+[1. (Coleman2020YAP) Paul R. Coleman, Angelina J. Lay, Ka Ka Ting, Yang Zhao, Jia Li, Sorour Jarrah, Mathew A. Vadas, and Jennifer R. Gamble. Yap and the rhoc regulator arhgap18, are required to mediate flow-dependent endothelial cell alignment. Cell Communication and Signaling, February 2020. URL: http://dx.doi.org/10.1186/s12964-020-0511-7, doi:10.1186/s12964-020-0511-7. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12964-020-0511-7)
+
+2. (Lombardo2022ARHGAP18ezrin) ARHGAP18-ezrin functions as an autoregulatory module for RhoA in the assembly of distinct actin-based structures. This article has 0 citations.
+
+[3. (He2017ARHGAP18) Yunyan He, Jianming Luo, Yang Chen, Xiaoheng Zhou, Shanjuan Yu, Ling Jin, Xuan Xiao, Siyuan Jia, and Qiang Liu. Arhgap18 is a novel gene under positive natural selection that influences hbf levels in β-thalassaemia. Molecular Genetics and Genomics, 293(1):207–216, October 2017. URL: http://dx.doi.org/10.1007/s00438-017-1377-2, doi:10.1007/s00438-017-1377-2. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00438-017-1377-2)
+
+[4. (Maeda2011ARHGAP18) Masao Maeda, Hitoki Hasegawa, Toshinori Hyodo, Satoko Ito, Eri Asano, Hong Yuang, Kohei Funasaka, Kaoru Shimokata, Yoshinori Hasegawa, Michinari Hamaguchi, and Takeshi Senga. Arhgap18, a gtpase-activating protein for rhoa, controls cell shape, spreading, and motility. Molecular Biology of the Cell, 22(20):3840–3852, October 2011. URL: http://dx.doi.org/10.1091/mbc.E11-04-0364, doi:10.1091/mbc.e11-04-0364. This article has 109 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.E11-04-0364)
+
+[5. (Liang2021The) Liang Liang, Wenbin Gu, Meng Li, Ran Gao, Xin Zhang, Chongye Guo, and Shuangli Mi. The long noncoding rna hotairm1 controlled by aml1 enhances glucocorticoid resistance by activating rhoa/rock1 pathway through suppressing arhgap18. Cell Death &amp; Disease, July 2021. URL: http://dx.doi.org/10.1038/s41419-021-03982-4, doi:10.1038/s41419-021-03982-4. This article has 9 citations.](https://doi.org/10.1038/s41419-021-03982-4)
+
+[6. (Lombardo2024ARHGAP18ezrin) Andrew T Lombardo, Cameron AR Mitchell, Riasat Zaman, David J McDermitt, and Anthony Bretscher. Arhgap18-ezrin functions as an autoregulatory module for rhoa in the assembly of distinct actin-based structures. eLife, January 2024. URL: http://dx.doi.org/10.7554/elife.83526, doi:10.7554/elife.83526. This article has 5 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.83526)
+
+[7. (Lovelace2017The) Michael D. Lovelace, Elizabeth E. Powter, Paul R. Coleman, Yang Zhao, Amelia Parker, Garry H. Chang, Angelina J. Lay, Julie Hunter, Aaron P. McGrath, Mika Jormakka, Patrick Bertolino, Geoffrey McCaughan, Maria Kavallaris, Mathew A. Vadas, and Jennifer R. Gamble. The rhogap protein arhgap18/senex localizes to microtubules and regulates their stability in endothelial cells. Molecular Biology of the Cell, 28(8):1066–1078, April 2017. URL: http://dx.doi.org/10.1091/mbc.e16-05-0285, doi:10.1091/mbc.e16-05-0285. This article has 19 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e16-05-0285)
+
+[8. (Lay2019ARHGAP18:) Angelina J. Lay, Paul R. Coleman, Ann Formaz‐Preston, Ka Ka Ting, Ben Roediger, Wolfgang Weninger, Martin A. Schwartz, Mathew A. Vadas, and Jennifer R. Gamble. Arhgap18: a flow‐responsive gene that regulates endothelial cell alignment and protects against atherosclerosis. Journal of the American Heart Association, January 2019. URL: http://dx.doi.org/10.1161/JAHA.118.010057, doi:10.1161/jaha.118.010057. This article has 23 citations.](https://doi.org/10.1161/JAHA.118.010057)
+
+[9. (Guo2017Association) Weiyun Guo, Yaqi Cai, Hongxing Zhang, Yongfeng Yang, Ge Yang, Xiujuan Wang, Jingyuan Zhao, Juntang Lin, Jinfu Zhu, Wenqiang Li, and Luxian Lv. Association of arhgap18 polymorphisms with schizophrenia in the chinese-han population. PLOS ONE, 12(4):e0175209, April 2017. URL: http://dx.doi.org/10.1371/journal.pone.0175209, doi:10.1371/journal.pone.0175209. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0175209)
+
+[10. (Dibus2020A) Michal Dibus, Jan Brábek, and Daniel Rösel. A screen for pkn3 substrates reveals an activating phosphorylation of arhgap18. International Journal of Molecular Sciences, 21(20):7769, October 2020. URL: http://dx.doi.org/10.3390/ijms21207769, doi:10.3390/ijms21207769. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21207769)
+
+[11. (Li2018Overexpression) Yan Li, Shan Ji, Liye Fu, Tao Jiang, Di Wu, and Fandong Meng. Over-expression of &lt;em&gt;arhgap18&lt;/em&gt; suppressed cell proliferation, migration, invasion, and tumor growth in gastric cancer by restraining over-activation of mapk signaling pathways. OncoTargets and Therapy, Volume 11:279–290, January 2018. URL: http://dx.doi.org/10.2147/ott.s130255, doi:10.2147/ott.s130255. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.2147/ott.s130255)

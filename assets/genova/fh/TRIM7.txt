@@ -1,0 +1,52 @@
+# TRIM7
+
+## Overview
+TRIM7 is a gene that encodes the tripartite motif containing 7 protein, a member of the TRIM family characterized by a RING domain, B-box domains, a coiled-coil region, and a C-terminal B30.2 domain. This protein functions primarily as an E3 ubiquitin ligase, playing a crucial role in protein ubiquitination, which regulates protein degradation and various signaling pathways (Liang2022A). TRIM7 is predominantly expressed in skeletal muscle and the brain, where it is involved in glycogen metabolism and protein homeostasis (Luptak2022TRIM7). The protein is implicated in antiviral immunity, interacting with viral proteins to restrict infections, and has significant roles in cancer biology, acting as either a tumor suppressor or oncogene depending on the context (Zhou2020N6Methyladenosine; Luptak2022TRIM7a). Its diverse functions and interactions underscore its potential as a therapeutic target in various diseases.
+
+## Structure
+The TRIM7 protein is characterized by a conserved domain structure typical of the tripartite motif (TRIM) family, which includes a RING domain, a B-box domain, a coiled-coil region, and a C-terminal B30.2 domain, also known as the PRY-SPRY domain (Muñoz2021Crystal; Liang2022A). The RING domain is involved in ubiquitin conjugation, contributing to TRIM7's function as an E3 ubiquitin ligase (Liang2022A).
+
+The B30.2 domain of TRIM7 has been structurally characterized using X-ray crystallography, revealing a typical fold with two antiparallel β-sheets forming a distorted β-sandwich. This domain is a fusion of two subdomains, PRY and SPRY, forming a single structural module (Muñoz2021Crystal). The B30.2 domain includes a positively charged cavity formed by two long loops covering the concave face of the β-sandwich, which is crucial for substrate recognition and specificity (Muñoz2021Crystal).
+
+TRIM7's PRY-SPRY domain is involved in substrate specificity, recognizing substrates through a C-terminal glutamine-specific interaction, a mechanism conserved across different targets (Liang2022A). The protein's structure and interactions suggest potential therapeutic implications, particularly in viral pathogenesis and cancer development (Muñoz2021Crystal).
+
+## Function
+TRIM7 is a member of the tripartite motif (TRIM) family, characterized by a RING domain, B-box domains, and a coiled-coil region, which functions as an E3 ubiquitin ligase. In healthy human cells, TRIM7 is involved in various cellular processes, including protein ubiquitination, which regulates protein degradation and signaling pathways. It plays a role in glycogen biosynthesis and oncogenic signaling pathways, such as c-Jun/AP1 activation and the DUSP6/p38 pathway (Liang2022A). TRIM7 mediates different types of ubiquitination modifications, leading to either degradation or stabilization of substrates. For instance, it induces K48-linked ubiquitination and degradation of DUSP6, while promoting K63-linked ubiquitination and stabilization of the RACO-1 protein (Chakraborty2015The; Liang2022A).
+
+TRIM7 is expressed mainly in skeletal muscle and the brain, aligning with glycogenin expression, suggesting a role in glycogen metabolism (Luptak2022TRIM7). It interacts with cellular proteins like glycogenin and RWDD2B, indicating its involvement in maintaining protein homeostasis (Luptak2022TRIM7; Liang2022A). The protein is active in both the cytoplasm and nucleus, impacting various cellular and organismal functions (Liang2022A).
+
+## Clinical Significance
+TRIM7 has been implicated in various cancers due to alterations in its expression and interactions. In non-small cell lung cancer (NSCLC), TRIM7 expression is decreased in tumor tissues compared to adjacent normal tissues. This reduction is associated with advanced clinical stages, suggesting TRIM7's role as a tumor suppressor. It negatively regulates the NF-kappa B signaling pathway by promoting the degradation of the p65 protein, inhibiting tumor cell proliferation and migration while promoting apoptosis (Jin2020E3).
+
+In hepatocellular carcinoma (HCC), TRIM7 acts as a tumor suppressor by targeting the Src protein for degradation, thereby inhibiting the Src-mTORC1-S6K1 signaling pathway. TRIM7 expression is downregulated in HCC tissues, correlating with increased Src activity and tumor progression (Zhu2019The).
+
+Conversely, in osteosarcoma, TRIM7 is overexpressed and associated with poor prognosis. It promotes metastasis and chemoresistance by ubiquitinating BRMS1, a metastasis suppressor. This overexpression is linked to increased tumor size and metastasis, highlighting TRIM7's role as an oncogene in this context (Zhou2020N6Methyladenosine).
+
+In lung adenocarcinoma, TRIM7 is involved in the Ras signaling pathway, stabilizing RACO-1 and promoting tumorigenesis. Alterations in TRIM7 are mutually exclusive with K-Ras mutations, indicating its significant role in this cancer type (Chakraborty2015The).
+
+## Interactions
+TRIM7, a member of the TRIM protein family, is involved in various protein interactions, primarily through its B30.2 domain and PRY-SPRY domain. It interacts with glycogenin-1 (GN1), a protein that initiates glycogen biosynthesis. The interaction is mediated by specific residues in the TRIM7 B30.2 domain, such as Leu423, Arg354, and Cys501, and the C-terminal 33 amino acids of GN1 (Muñoz2021Crystal). TRIM7 also interacts with the c-Jun co-activator RACO-1, stabilizing it by preventing proteasome-mediated degradation through K63-linked ubiquitination (Chakraborty2015The).
+
+TRIM7 plays a role in antiviral immunity by recognizing and binding to viral proteins with a C-terminal glutamine motif. It restricts infections by viruses such as Coxsackievirus and norovirus by detecting the C-terminal glutamine generated by 3C protease processing, leading to the degradation of viral proteins like the 2C protein of CVB3 (Liang2022A; Luptak2022TRIM7a). TRIM7 also interacts with SARS-CoV-2 non-structural proteins NSP5 and NSP8, restoring IFN-β expression and inhibiting viral infection (Liang2022A; Liang2022Structural). These interactions highlight TRIM7's role in both cellular and viral protein regulation.
+
+
+## References
+
+
+[1. (Zhu2019The) Lihui Zhu, Chengyong Qin, Tao Li, Xiaomin Ma, Yumin Qiu, Yueke Lin, Dapeng Ma, Zhenzhi Qin, Caiyu Sun, Xuecheng Shen, Yunxue Zhao, and Lihui Han. The e3 ubiquitin ligase trim7 suppressed hepatocellular carcinoma progression by directly targeting src protein. Cell Death &amp; Differentiation, 27(6):1819–1831, December 2019. URL: http://dx.doi.org/10.1038/s41418-019-0464-9, doi:10.1038/s41418-019-0464-9. This article has 45 citations.](https://doi.org/10.1038/s41418-019-0464-9)
+
+[2. (Luptak2022TRIM7) Jakub Luptak, Donna L. Mallery, Aminu S. Jahun, Anna Albecka, Dean Clift, Osaid Ather, Greg Slodkowicz, Ian Goodfellow, and Leo C. James. Trim7 restricts coxsackievirus and norovirus infection by detecting the c-terminal glutamine generated by 3c protease processing. Viruses, 14(8):1610, July 2022. URL: http://dx.doi.org/10.3390/v14081610, doi:10.3390/v14081610. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/v14081610)
+
+[3. (Liang2022A) Xiao Liang, Jun Xiao, Xuzichao Li, Yujie Liu, Yao Lu, Yanan Wen, Zexing Li, Xing Che, Yongjian Ma, Xingyan Zhang, Yi Zhang, Deng Jian, Peihui Wang, Chenghao Xuan, Guimei Yu, Long Li, and Heng Zhang. A c-terminal glutamine recognition mechanism revealed by e3 ligase trim7 structures. Nature Chemical Biology, 18(11):1214–1223, August 2022. URL: http://dx.doi.org/10.1038/s41589-022-01128-x, doi:10.1038/s41589-022-01128-x. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41589-022-01128-x)
+
+[4. (Chakraborty2015The) Atanu Chakraborty, Markus E. Diefenbacher, Anastasia Mylona, Olivier Kassel, and Axel Behrens. The e3 ubiquitin ligase trim7 mediates c-jun/ap-1 activation by ras signalling. Nature Communications, April 2015. URL: http://dx.doi.org/10.1038/ncomms7782, doi:10.1038/ncomms7782. This article has 71 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms7782)
+
+5. (Luptak2022TRIM7a) TRIM7 restricts Coxsackievirus and norovirus infection by detecting the C-terminal glutamine generated by 3C protease processing. This article has 2 citations.
+
+[6. (Jin2020E3) Jiangbo Jin, Zhuo Lu, Xiaomei Wang, Yufeng Liu, Tianyu Han, Yanan Wang, Tao Wang, Mingxi Gan, Caifeng Xie, Jianbin Wang, and Bentong Yu. E3 ubiquitin ligase trim7 negatively regulates nf-kappa b signaling pathway by degrading p65 in lung cancer. Cellular Signalling, 69:109543, May 2020. URL: http://dx.doi.org/10.1016/j.cellsig.2020.109543, doi:10.1016/j.cellsig.2020.109543. This article has 30 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2020.109543)
+
+[7. (Zhou2020N6Methyladenosine) Chenliang Zhou, Zhichang Zhang, Xiaoshi Zhu, Guowei Qian, Yan Zhou, Yong Sun, Wenxi Yu, Jiahui Wang, Haiyang Lu, Feng Lin, Zan Shen, and Shuier Zheng. N6-methyladenosine modification of the trim7 positively regulates tumorigenesis and chemoresistance in osteosarcoma through ubiquitination of brms1. eBioMedicine, 59:102955, September 2020. URL: http://dx.doi.org/10.1016/j.ebiom.2020.102955, doi:10.1016/j.ebiom.2020.102955. This article has 66 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ebiom.2020.102955)
+
+[8. (Muñoz2021Crystal) Christian J. Muñoz Sosa, Federico M. Issoglio, and María E. Carrizo. Crystal structure and mutational analysis of the human trim7 b30.2 domain provide insights into the molecular basis of its binding to glycogenin-1. Journal of Biological Chemistry, 296:100772, January 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.100772, doi:10.1016/j.jbc.2021.100772. This article has 8 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.100772)
+
+9. (Liang2022Structural) Structural insights into the viral proteins binding by TRIM7 reveal a general C-terminal glutamine recognition mechanism. This article has 2 citations.

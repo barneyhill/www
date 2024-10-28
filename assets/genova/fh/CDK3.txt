@@ -1,0 +1,50 @@
+# CDK3
+
+## Overview
+Cyclin-dependent kinase 3 (CDK3) is a gene that encodes the protein cyclin-dependent kinase 3, a serine/threonine kinase involved in the regulation of the cell cycle. This kinase is particularly significant in the transition from the G0/G1 phase to the S phase, where it interacts with cyclin C to facilitate cell cycle progression. CDK3 shares structural similarities with other cyclin-dependent kinases, such as CDK2, and features a bilobal fold typical of protein kinases, with a hydrophobic ATP-binding pocket crucial for its function (Saraiva2011Structural; Cardoso2009Molecular). The protein plays a pivotal role in cell proliferation, DNA damage repair, and transcriptional regulation, making it a potential target for cancer therapy due to its involvement in various oncogenic processes (Xiao2016Phosphorylation; Shah2020CDKs).
+
+## Structure
+Cyclin-dependent kinase 3 (CDK3) is a serine/threonine protein kinase composed of 305 amino acids, with a molecular weight of 35,045.74 Da and a theoretical isoelectric point (pI) of 8.86 (Cardoso2009Molecular). The protein exhibits a bilobal fold typical of protein kinases, featuring a smaller N-terminal lobe primarily composed of beta-sheets and a larger C-terminal lobe that is mostly alpha-helical. The N-terminal lobe includes a sheet of five antiparallel beta-strands and a single large alpha-helix, while the C-terminal domain contains a pseudo-4-helical bundle, a small beta-ribbon, and additional alpha-helices (Saraiva2011Structural; Cardoso2009Molecular).
+
+The ATP-binding pocket of CDK3 is located in the cleft between the two lobes and is primarily hydrophobic, with some conserved residues across CDK sequences (Cardoso2009Molecular). CDK3 shares several conserved structural features with CDK2, including the PSTAIRE or cyclin recognition box and the T-loop, which contains the activating phosphorylation site (Cardoso2009Molecular). The protein's structure is crucial for its interaction with inhibitors, which often bind more strongly to CDK3 than to CDK1, as indicated by binding affinity studies (Saraiva2011Structural).
+
+## Function
+CDK3 (cyclin-dependent kinase 3) is a serine/threonine kinase that plays a crucial role in cell cycle regulation, particularly in the transition from the G0/G1 phase to the S phase. It is closely related to CDK2 and is involved in the regulation of the cell cycle by binding with cyclin C to regulate the Rb-dependent G0/G1 transition (Shah2020CDKs; Cardoso2009Molecular). CDK3 enhances the transactivation and transcriptional activities of transcription factor 1 (TF1) through phosphorylation, indicating its involvement in cell proliferation and growth (Shah2020CDKs).
+
+CDK3 is active in the early G1 phase, with its activity peaking in mid G1, and is necessary for progression through the G1 phase. Experiments using a dominant-negative CDK3 mutant have shown that CDK3 is essential for overcoming G1 arrest, suggesting its specific function in G1 progression (van1993Distinct; Saraiva2011Structural). CDK3 also associates with E2F-containing complexes through DP-1, contributing to the activation of E2F transcription factors, which are crucial for S-phase entry (Hofmann1996Differential). This kinase is involved in non-homologous end joining (NHEJ)-mediated DNA damage repair, maintaining genomic integrity in healthy cells (Shah2020CDKs).
+
+## Clinical Significance
+Alterations in the expression and interactions of CDK3 have been implicated in various cancers. In skin cancer, CDK3 is highly expressed and plays a critical role in cell transformation and tumor growth. It phosphorylates NFAT3 at Ser259, enhancing its transcriptional activity, which is crucial for oncogenic functions. High levels of CDK3 and phosphorylated NFAT3 are associated with skin cancer progression, suggesting that targeting the CDK3-NFAT3 axis could be significant for treatment (Xiao2016Phosphorylation).
+
+In breast cancer, CDK3 expression is higher in non-metastatic tumors compared to metastatic ones. It acts as a suppressor of metastasis by inhibiting the Wnt/β-catenin signaling pathway. Overexpression of CDK3 reduces cell migration and invasion, while its downregulation is associated with increased motility. CDK3 is negatively regulated by miR-4469, which enhances cancer cell motility by targeting CDK3 (Cao2017CDK3).
+
+In lung cancer, CDK3 is involved in maintaining cancer stemness. The RNA-binding protein HuR stabilizes CDK3 mRNA, promoting its expression and contributing to cancer progression. This interaction is modulated by microRNAs such as miR-873 and miR-125a-3p, which can decrease CDK3 expression and affect cancer stemness (Zhang2018HuR).
+
+## Interactions
+CDK3 interacts with several proteins and plays a significant role in cell cycle regulation and cancer development. It directly interacts with NFAT3, a transcription factor, and phosphorylates it at serine 259 (Ser259). This phosphorylation enhances NFAT3's transactivation and transcriptional activity, which is crucial for cell transformation and tumor growth in skin cancer (Xiao2016Phosphorylation).
+
+CDK3 is also involved in the regulation of the E2F transcription factor family. It associates with the E2F-1/DP-1 complex, contributing to the activation of E2F and licensing events necessary for S-phase entry. This interaction is relatively specific to CDK3, as it coimmunoprecipitates with E2F-1 and DP-1, but not with dominant-negative CDK2 (Hofmann1996Differential).
+
+Additionally, CDK3 activity is regulated by proteasome-mediated proteolysis and requires de novo protein synthesis, suggesting the involvement of a cyclin partner, although the specific cyclin is not identified (Keezer2002Evidence). These interactions highlight CDK3's role in cell cycle progression and its potential as a target for cancer therapy.
+
+
+## References
+
+
+[1. (Keezer2002Evidence) Susan M. Keezer and David M. Gilbert. Evidence for a pre‐restriction point cdk3 activity. Journal of Cellular Biochemistry, 85(3):545–552, January 2002. URL: http://dx.doi.org/10.1002/jcb.10162, doi:10.1002/jcb.10162. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcb.10162)
+
+[2. (van1993Distinct) Sander van den Heuvel and Ed Harlow. Distinct roles for cyclin-dependent kinases in cell cycle control. Science, 262(5142):2050–2054, December 1993. URL: http://dx.doi.org/10.1126/science.8266103, doi:10.1126/science.8266103. This article has 840 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.8266103)
+
+[3. (Xiao2016Phosphorylation) T Xiao, J J Zhu, S Huang, C Peng, S He, J Du, R Hong, X Chen, A M Bode, W Jiang, Z Dong, and D Zheng. Phosphorylation of nfat3 by cdk3 induces cell transformation and promotes tumor growth in skin cancer. Oncogene, 36(20):2835–2845, November 2016. URL: http://dx.doi.org/10.1038/onc.2016.434, doi:10.1038/onc.2016.434. This article has 28 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2016.434)
+
+[4. (Saraiva2011Structural) Lucas A. Saraiva, Marcia P. Veloso, I. Camps, and Nelson J. F. da Silveira. Structural bioinformatics approach of cyclin‐dependent kinases 1 and 3 complexed with inhibitors. Molecular Informatics, 30(2–3):219–231, March 2011. URL: http://dx.doi.org/10.1002/minf.201000143, doi:10.1002/minf.201000143. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/minf.201000143)
+
+[5. (Hofmann1996Differential) F Hofmann and D M Livingston. Differential effects of cdk2 and cdk3 on the control of prb and e2f function during g1 exit. Genes &amp; Development, 10(7):851–861, April 1996. URL: http://dx.doi.org/10.1101/gad.10.7.851, doi:10.1101/gad.10.7.851. This article has 90 citations.](https://doi.org/10.1101/gad.10.7.851)
+
+[6. (Zhang2018HuR) Yu Zhang, Limin Yang, Chunhua Ling, and Wei Heng. Hur facilitates cancer stemness of lung cancer cells via regulating mir-873/cdk3 and mir-125a-3p/cdk3 axis. Biotechnology Letters, 40(4):623–631, January 2018. URL: http://dx.doi.org/10.1007/s10529-018-2512-9, doi:10.1007/s10529-018-2512-9. This article has 26 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10529-018-2512-9)
+
+[7. (Shah2020CDKs) Muzna Shah, Muhammad Fazal Hussain Qureshi, Danish Mohammad, Mahira Lakhani, Tabinda Urooj, and Shamim Mushtaq. Cdks family -a glimpse into the past and present: from cell cycle control to current biological functions. Asian Pacific Journal of Cancer Biology, 5(1):1–9, February 2020. URL: http://dx.doi.org/10.31557/apjcb.2020.5.1.1-9, doi:10.31557/apjcb.2020.5.1.1-9. This article has 2 citations.](https://doi.org/10.31557/apjcb.2020.5.1.1-9)
+
+[8. (Cardoso2009Molecular) Patrícia Cardoso Perez, Rafael A. Caceres, Fernanda Canduri, and Walter Filgueira de Azevedo. Molecular modeling and dynamics simulation of human cyclin-dependent kinase 3 complexed with inhibitors. Computers in Biology and Medicine, 39(2):130–140, February 2009. URL: http://dx.doi.org/10.1016/j.compbiomed.2008.11.004, doi:10.1016/j.compbiomed.2008.11.004. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.compbiomed.2008.11.004)
+
+[9. (Cao2017CDK3) Ting Cao, Tian Xiao, Guanqun Huang, Yafei Xu, Joe Jiang Zhu, Kaixin Wang, Wencai Ye, Hong Guan, Jinsong He, and Duo Zheng. Cdk3, target of mir-4469, suppresses breast cancer metastasis via inhibiting wnt/β-catenin pathway. Oncotarget, 8(49):84917–84927, May 2017. URL: http://dx.doi.org/10.18632/oncotarget.18171, doi:10.18632/oncotarget.18171. This article has 21 citations and is from a poor quality or predatory journal.](https://doi.org/10.18632/oncotarget.18171)

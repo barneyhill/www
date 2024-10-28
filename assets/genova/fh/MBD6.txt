@@ -1,0 +1,42 @@
+# MBD6
+
+## Overview
+MBD6 is a gene that encodes the methyl-CpG binding domain protein 6, a member of the methyl-CpG-binding domain (MBD) protein family. Unlike other MBD proteins, MBD6 does not bind to methylated DNA but instead functions primarily through protein-protein interactions. The protein is characterized by its unique methyl-CpG-binding domain, which facilitates its interaction with the Polycomb repressive complex PR-DUB and the BAP1 complex, both of which are involved in chromatin remodeling and transcriptional regulation (Baymaz2014MBD5; Tsuboyama2022MBD5). MBD6 plays a significant role in the DNA damage response and is implicated in various cellular processes, including gene expression regulation and chromatin stability. It is also associated with several diseases, including cancer and neurodegenerative disorders, highlighting its potential as a therapeutic target (Laget2010The; Tsuboyama2022MBD5).
+
+## Structure
+MBD6 is a protein encoded by the human MBD6 gene, characterized by a methyl-CpG-binding domain (MBD). This domain is crucial for its interaction with the PR-DUB complex, although MBD6 does not bind methylated DNA like other MBD family members (Baymaz2014MBD5). The MBD of MBD6 is unique, containing a deletion and an insertion that do not disrupt its overall architecture, which is similar to MBD1 and MeCP2 (Laget2010The). 
+
+The protein consists of 1003 amino acids and features a central proline-rich region (Laget2010The). MBD6 lacks additional annotated domains beyond the MBD, distinguishing it from other family members like MBD5, which has a PWWP domain (Baymaz2014MBD5). The MBD is essential for its recruitment to chromocenters, as deletion of this domain results in a diffuse nuclear pattern (Laget2010The).
+
+MBD6 is involved in stabilizing the BAP1 complex through interactions with ASXL proteins, mediated by the C-terminal PHD fingers of ASXL subunits (Tsuboyama2022MBD5). This interaction is critical for maintaining the stability of the BAP1 complex and is conserved across ASXL1, ASXL2, and ASXL3 (Tsuboyama2022MBD5).
+
+## Function
+MBD6 is a member of the methyl-CpG-binding domain (MBD) family, but unlike other MBD proteins, it does not bind to methylated DNA. Instead, MBD6 interacts with the human Polycomb repressive complex PR-DUB, which is involved in the deubiquitination of histone H2A. This interaction is mediated by the MBD of MBD6, which functions as a protein-protein interaction domain (Baymaz2014MBD5). MBD6 is also a stable subunit within the BAP1 complex, a chromatin-bound multi-protein complex that acts as a general transcriptional cofactor. It forms distinct complexes with BAP1 and is localized at active chromatin regions, as indicated by the enrichment of histone marks such as H3K4me1, H3K4me3, and H3K27Ac (Tsuboyama2022MBD5).
+
+MBD6 is recruited to sites of DNA damage independently of PR-DUB, suggesting a unique role in DNA damage response and chromatin remodeling (Baymaz2014MBD5). It is expressed in the human brain and may be involved in neurodegenerative diseases, interacting with ATXN1L, a protein related to spinocerebellar ataxia type 1 (Laget2010The). MBD6's role in stabilizing the BAP1 complex is crucial for maintaining the stability and function of this complex, which may be important for cellular processes in healthy human cells (Tsuboyama2022MBD5).
+
+## Clinical Significance
+MBD6 has been implicated in various diseases due to its altered expression or mutations. In uterine leiomyomas, MBD6 protein expression is significantly downregulated compared to adjacent myometrial tissues. This downregulation correlates with larger tumor sizes, suggesting a role in tumor growth and potential clinical significance in uterine leiomyomas (Liang2019The).
+
+In the context of cancer, MBD6 is crucial for the stability of the BAP1 complex, which is involved in tumor growth. In small cell lung cancer (SCLC), MBD6 is necessary for maintaining BAP1-dependent gene expression and tumor cell viability. Depletion of MBD6 leads to reduced tumor growth, indicating its potential as a therapeutic target in SCLC (Tsuboyama2022MBD5).
+
+MBD6 is also associated with neurodegenerative diseases. It interacts with ATXN1L, a protein related to spinocerebellar ataxia type 1, suggesting a possible role in modulating neurotoxic effects (Laget2010The). Additionally, mutations in MBD6 have been reported in gastric and colorectal cancers, although the specific implications of these mutations require further investigation (Mahmood2019DNA).
+
+## Interactions
+MBD6 is a stable subunit of the BAP1 complex, a chromatin-bound multi-protein complex that functions as a transcriptional cofactor. It interacts with the BAP1 complex through the ASXL subunits, specifically via the C-terminal PHD fingers of ASXL proteins. This interaction is crucial for the stability of the BAP1 complex, as the PHD fingers serve as a scaffold linking MBD6 to BAP1 (Tsuboyama2022MBD5). MBD6 does not directly interact with BAP1 but is connected through ASXL proteins, which act as scaffold proteins. The interaction between MBD6 and ASXL proteins is essential, as knocking out all three ASXL genes abolishes the interaction between MBD6 and BAP1 (Tsuboyama2022MBD5).
+
+MBD6 is also involved in the regulation of gene expression in small cell lung cancer (SCLC) cells. It co-regulates genes with BAP1, and its depletion leads to reduced BAP1 protein levels and affects BAP1's function in transcriptional regulation (Tsuboyama2022MBD5). MBD6 is associated with histone marks involved in active promoter and enhancer chromatin regions, indicating its role in chromatin remodeling and transcription regulation (Tsuboyama2022MBD5).
+
+
+## References
+
+
+[1. (Liang2019The) Mei-Rong Liang, Yang Zeng, Si-Yuan Zeng, Jun-Wen Zhang, Bi-Cheng Yang, Zi-Yu Zhang, Fa-Ying Liu, Yong Luo, Yang Zou, Feng Wang, and Ou-Ping Huang. The expression of mbd6 is associated with tumor size in uterine leiomyomas. Genetic Testing and Molecular Biomarkers, 23(8):523–532, August 2019. URL: http://dx.doi.org/10.1089/gtmb.2019.0070, doi:10.1089/gtmb.2019.0070. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1089/gtmb.2019.0070)
+
+[2. (Mahmood2019DNA) Niaz Mahmood and Shafaat A. Rabbani. Dna methylation readers and cancer: mechanistic and therapeutic applications. Frontiers in Oncology, June 2019. URL: http://dx.doi.org/10.3389/fonc.2019.00489, doi:10.3389/fonc.2019.00489. This article has 91 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2019.00489)
+
+[3. (Baymaz2014MBD5) H. Irem Baymaz, Alexandra Fournier, Sophie Laget, Zongling Ji, Pascal W. T. C. Jansen, Arne H. Smits, Laure Ferry, Anneloes Mensinga, Ina Poser, Andrew Sharrocks, Pierre‐Antoine Defossez, and Michiel Vermeulen. Mbd5 and mbd6 interact with the human pr‐dub complex through their methyl‐cpg‐binding domain. PROTEOMICS, 14(19):2179–2189, April 2014. URL: http://dx.doi.org/10.1002/pmic.201400013, doi:10.1002/pmic.201400013. This article has 82 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pmic.201400013)
+
+[4. (Laget2010The) Sophie Laget, Michael Joulie, Florent Le Masson, Nobuhiro Sasai, Elisabeth Christians, Sriharsa Pradhan, Richard J. Roberts, and Pierre-Antoine Defossez. The human proteins mbd5 and mbd6 associate with heterochromatin but they do not bind methylated dna. PLoS ONE, 5(8):e11982, August 2010. URL: http://dx.doi.org/10.1371/journal.pone.0011982, doi:10.1371/journal.pone.0011982. This article has 85 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0011982)
+
+[5. (Tsuboyama2022MBD5) Natsumi Tsuboyama, Aileen Patricia Szczepanski, Zibo Zhao, and Lu Wang. Mbd5 and mbd6 stabilize the bap1 complex and promote bap1-dependent cancer. Genome Biology, September 2022. URL: http://dx.doi.org/10.1186/s13059-022-02776-x, doi:10.1186/s13059-022-02776-x. This article has 4 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13059-022-02776-x)

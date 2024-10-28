@@ -1,0 +1,52 @@
+# ELAC2
+
+## Overview
+The ELAC2 gene encodes the elaC ribonuclease Z 2 protein, a crucial enzyme involved in the maturation of transfer RNA (tRNA) within both the mitochondria and nucleus. This protein is categorized as a metallo-β-lactamase, characterized by its dual metallo-β-lactamase domains, which facilitate its role in cleaving the 3' ends of tRNA molecules, a critical step in tRNA processing. The elaC ribonuclease Z 2 protein is integral to mitochondrial function, as it ensures the proper maturation of mitochondrial tRNA precursors, which is essential for mitochondrial translation and the synthesis of proteins involved in oxidative phosphorylation. ELAC2's dual localization to the nucleus and mitochondria is achieved through alternative translation initiation, allowing it to participate in RNA processing in both cellular compartments. Mutations in the ELAC2 gene have been linked to various mitochondrial disorders, including hypertrophic cardiomyopathy and complex I deficiency, highlighting its clinical significance (Rossmanith2011Localization; Haack2013ELAC2; Gesé2024Structural).
+
+## Structure
+The ELAC2 protein is a component of the human mitochondrial RNase Z complex, involved in tRNA maturation. It consists of two metallo-β-lactamase domains: the N-terminal domain (NTD) and the C-terminal domain (CTD). Both domains share a similar fold, with an RMSD of 2.1 Å for 212 Cα atoms, but only the CTD contains the key Zn-bound catalytic site necessary for hydrolytic activity (Gesé2024Structural). The NTD includes an exosite, a compact globular domain that facilitates interactions with the TRMT10C N-terminal domain, forming a hydrophobic zipper that links ELAC2 to the tRNA-processing platform (Gesé2024Structural).
+
+The ELAC2 protein is involved in recognizing structural features of mt-tRNAs through indirect readout, using conserved lysines and arginine in the 99-KLKVAR-104 motif to establish sequence-independent electrostatic interactions (Gesé2024Structural). The protein's structure is further stabilized by interactions with the TRMT10C/SDR5C1 platform, which enhances catalytic efficiency by pre-organizing tRNA substrates (Gesé2024Structural).
+
+ELAC2 is subject to dual localization, targeting both the nucleus and mitochondria through alternative translation initiation, which affects the presence of its mitochondrial targeting sequence (Rossmanith2011Localization). This dual targeting is facilitated by the presence of a nuclear localization signal and a mitochondrial targeting sequence, which can be selectively included or excluded based on translation initiation context (Rossmanith2011Localization).
+
+## Function
+The ELAC2 gene encodes a protein known as RNase Z L, which plays a critical role in the maturation of mitochondrial and nuclear tRNA molecules by cleaving their 3' ends. This processing is essential for the proper maturation of mitochondrial tRNA precursors, which in turn is crucial for the maturation of adjacent mitochondrial mRNAs and rRNAs. These mature RNA components are necessary for mitochondrial translation and the production of proteins that form part of the mitochondrial respiratory chain complexes (Haack2013ELAC2).
+
+In healthy human cells, ELAC2 ensures efficient synthesis of mtDNA-encoded proteins and maintains proper steady-state levels of structural components of the oxidative phosphorylation (OXPHOS) system, which is vital for cellular energy metabolism (Haack2013ELAC2). The protein is active in both the mitochondria and nucleus, facilitated by alternative translation initiation that allows dual targeting (Rossmanith2011Localization).
+
+Mutations in ELAC2 can impair RNase Z activity, leading to defects in mitochondrial RNA processing, which can result in conditions such as hypertrophic cardiomyopathy and complex I deficiency (Haack2013ELAC2).
+
+## Clinical Significance
+Mutations in the ELAC2 gene are associated with several clinical conditions, primarily affecting mitochondrial function and leading to a range of disorders. ELAC2 mutations have been linked to infantile hypertrophic cardiomyopathy and complex I deficiency, conditions characterized by impaired mitochondrial RNA processing and translation. These mutations result in the accumulation of unprocessed mitochondrial RNA precursors, which disrupts mitochondrial protein synthesis and oxidative phosphorylation, leading to severe cardiac and metabolic symptoms (Haack2013ELAC2).
+
+In addition to cardiomyopathy, ELAC2 mutations are implicated in a broader spectrum of mitochondrial disorders, including Combined Oxidative Phosphorylation Deficiency-17 (COXPD-17). This condition is marked by encephalopathy, epilepsy, and developmental delays, often with elevated lactic acid levels, indicating mitochondrial dysfunction (Kim2017The).
+
+ELAC2 gene variants have also been studied in the context of prostate cancer susceptibility. Specific missense variants, such as Ser217Leu and Ala541Thr, have been associated with an increased risk of prostate cancer and prostate intraepithelial neoplasia (PIN), although findings across studies have been inconsistent (Adler2003HPC2ELAC2).
+
+The phenotypic variability of ELAC2-related disorders is notable, with some mutations leading to intellectual disability and minimal cardiac involvement, expanding the clinical spectrum of ELAC2-associated conditions (Akawi2016A).
+
+## Interactions
+ELAC2 is involved in the 3'-end processing of both nuclear and mitochondrial tRNAs. It interacts with mitochondrial tRNA (mt-tRNA) by clamping the acceptor arm-T-arm 'minihelix' between its N-terminal and endonuclease domains, primarily through electrostatic interactions with the ribose-phosphate backbone of the tRNA. A hydrophobic patch in ELAC2's flexible arm interacts with the conserved G19-C56 tertiary base-pair of the tRNA elbow, which is crucial for recognition (Bhatta2024Molecular). ELAC2 also interacts with the TRMT10C protein via two interfaces, although these interactions are not essential for processing pre-mt-tRNA Gln. The first interface involves hydrophobic interactions between the ELAC2 flexible arm and the TRMT10C-NTD, while the second involves the ELAC2-CTH and the TRMT10C methyltransferase domain (Bhatta2024Molecular).
+
+In the context of respiratory syncytial virus (RSV) infection, ELAC2 interacts with RSV proteins N and NS1, forming a complex that is independent of RSV replication. This interaction is involved in the induction of tRNA-derived RNA fragments, specifically tRF5-GlnCTG, which promotes RSV replication (Choi2021ELAC2). ELAC2's role in mitochondrial RNA processing is crucial for mitochondrial translation and oxidative phosphorylation, with mutations in ELAC2 linked to mitochondrial RNA processing defects (Haack2013ELAC2).
+
+
+## References
+
+
+[1. (Rossmanith2011Localization) Walter Rossmanith. Localization of human rnase z isoforms: dual nuclear/mitochondrial targeting of the elac2 gene product by alternative translation initiation. PLoS ONE, 6(4):e19152, April 2011. URL: http://dx.doi.org/10.1371/journal.pone.0019152, doi:10.1371/journal.pone.0019152. This article has 78 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0019152)
+
+[2. (Haack2013ELAC2) Tobias B. Haack, Robert Kopajtich, Peter Freisinger, Thomas Wieland, Joanna Rorbach, Thomas J. Nicholls, Enrico Baruffini, Anett Walther, Katharina Danhauser, Franz A. Zimmermann, Ralf A. Husain, Jessica Schum, Helen Mundy, Ileana Ferrero, Tim M. Strom, Thomas Meitinger, Robert W. Taylor, Michal Minczuk, Johannes A. Mayr, and Holger Prokisch. Elac2 mutations cause a mitochondrial rna processing defect associated with hypertrophic cardiomyopathy. The American Journal of Human Genetics, 93(2):211–223, August 2013. URL: http://dx.doi.org/10.1016/j.ajhg.2013.06.006, doi:10.1016/j.ajhg.2013.06.006. This article has 116 citations.](https://doi.org/10.1016/j.ajhg.2013.06.006)
+
+[3. (Kim2017The) Young A Kim, Yoo-Mi Kim, Yun-Jin Lee, and Chong Kun Cheon. The first korean case of combined oxidative phosphorylation deficiency-17 diagnosed by clinical and molecular investigation. Korean Journal of Pediatrics, 60(12):408, 2017. URL: http://dx.doi.org/10.3345/kjp.2017.60.12.408, doi:10.3345/kjp.2017.60.12.408. This article has 5 citations.](https://doi.org/10.3345/kjp.2017.60.12.408)
+
+[4. (Adler2003HPC2ELAC2) David Adler, Nimira Kanji, Kiril Trpkov, Gordon Fick, and Rhiannon M. Hughes. Hpc2/elac2 gene variants associated with incident prostate cancer. Journal of Human Genetics, 48(12):634–638, November 2003. URL: http://dx.doi.org/10.1007/s10038-003-0091-6, doi:10.1007/s10038-003-0091-6. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10038-003-0091-6)
+
+5. (Gesé2024Structural) Structural basis of 3′-tRNA maturation by the human mitochondrial RNAse Z complex. This article has 1 citations.
+
+[6. (Choi2021ELAC2) Eun-Jin Choi, Wenzhe Wu, Ke Zhang, Inhan Lee, In-Hoo Kim, Yong Sun Lee, and Xiaoyong Bao. Elac2, an enzyme for trna maturation, plays a role in the cleavage of a mature trna to produce a trna-derived rna fragment during respiratory syncytial virus infection. Frontiers in Molecular Biosciences, February 2021. URL: http://dx.doi.org/10.3389/fmolb.2020.609732, doi:10.3389/fmolb.2020.609732. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmolb.2020.609732)
+
+[7. (Akawi2016A) Nadia A. Akawi, Salma Ben-Salem, Jozef Hertecant, Anne John, Thachillath Pramathan, Praseetha Kizhakkedath, Bassam R. Ali, and Lihadh Al-Gazali. A homozygous splicing mutation in elac2 suggests phenotypic variability including intellectual disability with minimal cardiac involvement. Orphanet Journal of Rare Diseases, October 2016. URL: http://dx.doi.org/10.1186/s13023-016-0526-8, doi:10.1186/s13023-016-0526-8. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13023-016-0526-8)
+
+8. (Bhatta2024Molecular) Molecular basis of human nuclear and mitochondrial tRNA 3’-processing. This article has 2 citations.

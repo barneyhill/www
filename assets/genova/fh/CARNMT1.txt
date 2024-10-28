@@ -1,0 +1,44 @@
+# CARNMT1
+
+## Overview
+CARNMT1 is a gene that encodes the enzyme carnosine N-methyltransferase 1, a histidine N1-position-specific methyltransferase. This enzyme is involved in the methylation of histidine residues within C3H zinc finger proteins, which are crucial for RNA metabolism, including mRNA stability, processing, and translation. CARNMT1 plays a significant role in the regulation of alternative splicing events and is active in the cytoplasm, where it contributes to the methylation of carnosine, a dipeptide important for cellular antioxidant defense and pH buffering. The enzyme's activity is particularly relevant in tissues such as skeletal muscle and the brain, influencing muscle contractility and brain function (Caruso2019Pivotal; Shimazu2023Histidine). CARNMT1's involvement in RNA metabolism and mRNA splicing has implications for various diseases, including myelodysplastic syndromes and certain cancers, highlighting its potential as a therapeutic target (Wang2024Metabolic; Shimazu2023Histidine).
+
+## Structure
+The CARNMT1 protein, also known as carnosine N-methyltransferase 1, is characterized by a canonical SAM-dependent methyltransferase (SAM-MTase) core fold. This core structure consists of a seven-stranded β-sheet flanked by six α-helices, forming a central cleft where the SAM cofactor binds, marked by a 'GxGxG' nucleotide-binding motif (Cao2018Molecular). The enzyme functions as a symmetric dimer, stabilized by anti-parallel β-sheet formation and helix bundle contacts. Its active site is formed by loops and helices that create a pocket for carnosine binding, with specific residues contributing to hydrophobic contacts and hydrogen bonding (Cao2018Molecular).
+
+The enzyme undergoes conformational changes upon substrate binding, particularly involving the side-chain of His347, which plays a role in substrate binding and product release (Cao2018Molecular; Deng2024On). The active site geometry supports an SN2-like methyl transfer reaction (Cao2018Molecular). The crystal structures of the apo enzyme and enzyme-substrate complex are highly similar, with an RMSD of 0.3Å, except for His347, which has an RMSD of 3.2Å (Deng2024On). The study does not mention post-translational modifications or splice variant isoforms of CARNMT1 (Cao2018Molecular).
+
+## Function
+CARNMT1 (carnosine N-methyltransferase 1) is a histidine N1-position-specific methyltransferase that plays a crucial role in RNA metabolism by targeting C3H zinc finger proteins. This enzyme is involved in the methylation of histidine residues within these proteins, which are essential for RNA binding and regulation of RNA-related functions such as mRNA stability, processing, and translation (Shimazu2023Histidine). CARNMT1 modulates the RNA-binding activities of proteins like tristetraprolin (TTP) and Roquin, impacting the stability of mRNAs such as TNF-α by reducing their RNA-binding activities, thereby influencing mRNA decay and stability (Shimazu2023Histidine).
+
+In addition to its role in RNA metabolism, CARNMT1 is involved in the regulation of alternative splicing events, particularly cassette exon events, by affecting the 3′ splice site mRNA-binding activity of U2AF1, a protein essential for the splicing reaction (Shimazu2023Histidine). The enzyme's activity is crucial for proper splicing regulation, as its depletion leads to increased skipped exons and changes in splicing patterns (Shimazu2023Histidine).
+
+CARNMT1 is also active in the cytoplasm, where it contributes to the methylation of carnosine, a dipeptide involved in cellular antioxidant defense, pH buffering, and metal ion chelation (Caruso2019Pivotal). This activity is particularly important in tissues such as skeletal muscle and the brain, where it influences muscle contractility and brain function (Shimazu2023Histidine).
+
+## Clinical Significance
+CARNMT1 is implicated in several diseases and conditions due to its role in histidine methylation, which affects RNA metabolism and mRNA splicing. Alterations in CARNMT1 expression or function can lead to embryonic lethality in mice, indicating its critical role in development (Shimazu2023Histidine). The methylation of U2AF1 by CARNMT1 is crucial for proper mRNA splicing, and disruptions in this process are linked to myelodysplastic syndromes (MDS) and MDS-related acute myeloid leukemia (AML) (Shimazu2023Histidine). 
+
+In cancer, lower mRNA levels of CARNMT1 are observed in kidney renal clear cell carcinoma (KIRC) and kidney renal papillary cell carcinoma (KIRP), with reduced expression correlating with shorter patient survival, suggesting a potential role in cancer progression and as a therapeutic target (Wang2024Metabolic). 
+
+CARNMT1 also influences mRNA stability by modulating interactions with proteins like TTP and Roquin, which are involved in mRNA decay. This regulation is significant for cytokine mRNA stability, such as TNF-α, implicating CARNMT1 in inflammatory responses (Shimazu2023Histidine). These findings suggest that CARNMT1's role in RNA processing and stability has broader implications for diseases related to these processes.
+
+## Interactions
+CARNMT1, a histidine N1-position-specific methyltransferase, is known to interact with C3H zinc finger proteins, which are involved in RNA metabolism. It specifically targets proteins such as U2AF1, tristetraprolin (TTP), and Roquin, influencing their RNA-binding activities through histidine methylation (Shimazu2023Histidine). CARNMT1-mediated methylation of U2AF1 affects its binding affinity to 3' splice sites, impacting pre-mRNA splicing events (Wang2024Metabolic; Shimazu2023Histidine). This interaction is crucial for the regulation of alternative splicing, particularly cassette exon events, by modulating the recognition of splice sites (Shimazu2023Histidine).
+
+CARNMT1 also interacts with RNA-binding proteins involved in mRNA stability, such as TTP and Roquin, by methylating their histidine residues. This methylation reduces their binding to TNF-α mRNA, thereby affecting mRNA decay rates (Shimazu2023Histidine). The enzyme's role in histidine methylation is essential for maintaining the stability of mRNAs and regulating RNA metabolism (Shimazu2023Histidine).
+
+In addition to protein interactions, CARNMT1's activity influences RNA-protein interactions, as demonstrated by its effect on the RNA-binding landscape of U2AF1 in knockout and wild-type cells (Wang2024Metabolic).
+
+
+## References
+
+
+[1. (Caruso2019Pivotal) Giuseppe Caruso, Filippo Caraci, and Renaud B. Jolivet. Pivotal role of carnosine in the modulation of brain cells activity: multimodal mechanism of action and therapeutic potential in neurodegenerative disorders. Progress in Neurobiology, 175:35–53, April 2019. URL: http://dx.doi.org/10.1016/j.pneurobio.2018.12.004, doi:10.1016/j.pneurobio.2018.12.004. This article has 78 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.pneurobio.2018.12.004)
+
+[2. (Cao2018Molecular) Ruili Cao, Xingrun Zhang, Xiaohui Liu, Yuanyuan Li, and Haitao Li. Molecular basis for histidine n1 position-specific methylation by carnmt1. Cell Research, 28(4):494–496, February 2018. URL: http://dx.doi.org/10.1038/s41422-018-0003-0, doi:10.1038/s41422-018-0003-0. This article has 16 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41422-018-0003-0)
+
+[3. (Shimazu2023Histidine) Tadahiro Shimazu, Rei Yoshimoto, Kaoru Kotoshiba, Takehiro Suzuki, Shogo Matoba, Michiko Hirose, Mai Akakabe, Yoshihiro Sohtome, Mikiko Sodeoka, Atsuo Ogura, Naoshi Dohmae, and Yoichi Shinkai. Histidine n1-position-specific methyltransferase carnmt1 targets c3h zinc finger proteins and modulates rna metabolism. Genes &amp; Development, 37(15–16):724–742, August 2023. URL: http://dx.doi.org/10.1101/gad.350755.123, doi:10.1101/gad.350755.123. This article has 4 citations.](https://doi.org/10.1101/gad.350755.123)
+
+[4. (Wang2024Metabolic) Keyun Wang, Li Zhang, Sirui Zhang, Ye Liu, Jiawei Mao, Zhen Liu, Lin Xu, Kejia Li, Jianshu Wang, Yanni Ma, Jiayi Wang, Haitao Li, Zefeng Wang, Guohui Li, Hong Cheng, and Mingliang Ye. Metabolic labeling based methylome profiling enables functional dissection of histidine methylation in c3h1 zinc fingers. Nature Communications, August 2024. URL: http://dx.doi.org/10.1038/s41467-024-51979-2, doi:10.1038/s41467-024-51979-2. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-51979-2)
+
+5. (Deng2024On) On the Importance of Preserving Active Induced-Fit Conformations during Enzyme-Catalyzed Reactions: a Case Study of CARNMT1. This article has 0 citations.

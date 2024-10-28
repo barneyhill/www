@@ -1,0 +1,48 @@
+# TAF1A
+
+## Overview
+TAF1A is a gene that encodes the TATA-box binding protein associated factor, RNA polymerase I subunit A, a crucial component of the transcription machinery involved in ribosomal RNA (rRNA) synthesis. This protein is a part of the Selectivity Factor 1 (SL1) complex, which is essential for the recruitment of RNA polymerase I to ribosomal DNA promoters, thereby initiating the transcription process necessary for ribosome biogenesis. The TAF1A protein is characterized by its association with tetratricopeptide repeats, facilitating protein-protein interactions within the SL1 complex (Knutson2013TFIIBrelated). Its structural features, including a globular shape and specific interaction domains, enable it to form complexes with other transcription factors and proteins, such as ZBTB41, influencing cellular processes like cancer progression and cardiac function (Wang2020TAF1A; Long2017Recessive). Disruptions in TAF1A function can lead to nucleolar stress and are implicated in various diseases, including ribosomopathies and dilated cardiomyopathy, highlighting its critical role in maintaining cellular homeostasis (Hannan2013Dysregulation; Long2017Recessive).
+
+## Structure
+TAF1A is a protein involved in the transcription machinery of RNA polymerase I. It is a component of the Selectivity Factor 1 (SL1) complex, which is crucial for the recruitment of RNA polymerase I to ribosomal DNA promoters (Knutson2013TFIIBrelated). The protein is associated with tetratricopeptide repeats, a structural motif known for facilitating protein-protein interactions (Knutson2013TFIIBrelated). 
+
+The secondary structure of TAF1A is characterized by spirals and random curls, as indicated by molecular modeling studies (Wang2020TAF1A). These structural features contribute to its globular shape, which is important for its interaction with other proteins. The tertiary structure has been modeled using the I-TASSER server, resulting in a reliable model for molecular docking studies, as evidenced by a Ramachandran plot with an allowable range of 97.6% (Wang2020TAF1A).
+
+TAF1A forms a complex with ZBTB41, interacting through hydrophobic, Van der Waals, hydrogen bonding, and electrostatic interactions. This interaction is significant for its role in cervical cancer, as it potentially signals protein activation (Wang2020TAF1A). The protein's involvement in the SL1 complex suggests a quaternary structure where it interacts with other TAFs and the TATA-box binding protein (Okuda2015AF4).
+
+## Function
+The TAF1A gene encodes a protein that is a critical component of the RNA polymerase I complex, which is essential for ribosomal RNA (rRNA) synthesis in healthy human cells. TAF1A plays a pivotal role in the recruitment of RNA polymerase I to ribosomal DNA promoters, marking the initial step in ribosome biogenesis. This process occurs within the nucleolus, where TAF1A is active and integral to the proper synthesis and processing of the rRNA 45S precursor (Wang2020TAF1A; Long2017Recessive).
+
+TAF1A is part of the SL1/TIF-IB transcription factor complex, which is involved in the assembly of the RNA polymerase I preinitiation complex. This complex is crucial for maintaining nucleolar structure by preventing the segregation of nucleolar components, thereby ensuring efficient rRNA synthesis necessary for protein synthesis and cell growth (Wang2020TAF1A). The gene's function is particularly important in tissues with high metabolic demands, such as the heart, where a balance between protein synthesis and degradation is crucial (Long2017Recessive).
+
+Disruption of TAF1A can lead to nucleolar stress and ribosomopathies, which are genetic disorders resulting from defects in ribosome biogenesis, potentially causing specific organ phenotypes like dilated cardiomyopathy (Long2017Recessive).
+
+## Clinical Significance
+Mutations and alterations in the expression of the TAF1A gene have been implicated in several diseases. In cervical cancer, TAF1A is identified as a key gene, with its overexpression linked to tumor cell proliferation and migration. The gene's interaction with ZBTB41 and involvement in the p53 signaling pathway suggest its role in cancer progression, making it a potential therapeutic target (Wang2020TAF1A).
+
+In pediatric dilated cardiomyopathy (DCM), TAF1A mutations have been associated with severe cardiac conditions. A study identified compound heterozygous missense variants in TAF1A in siblings with end-stage DCM, leading to increased myocardial mass and severe interstitial fibrosis. These mutations disrupt ribosomal RNA synthesis, causing nucleolar stress and contributing to heart failure (Long2017Recessive). A zebrafish model further supported these findings, where knockout of the taf1a gene resulted in heart failure phenotypes (Bowley2021Zebrafish).
+
+TAF1A's role in ribosome biogenesis and its dysregulation are linked to ribosomopathies, disorders arising from defects in ribosome synthesis. This connection highlights the gene's importance in maintaining normal cellular function and its potential impact when altered (Hannan2013Dysregulation).
+
+## Interactions
+TAF1A is a component of the SL1 complex, which is essential for the initiation of transcription by RNA polymerase I. It interacts with other subunits such as TAF1B, TAF1C, and the TATA-binding protein (TBP) to form this complex, facilitating the recruitment of RNA polymerase I to rDNA promoter regions (Okuda2015AF4). TAF1A also interacts with RRN3, a factor that affects nucleolar structure and is crucial for ribosomal biogenesis (Long2017Recessive).
+
+In cervical cancer, TAF1A has been shown to interact with ZBTB41, with their interaction being influenced by the p53 signaling pathway. This interaction is potentially modulated by Pifithrinα (PFTα), an inhibitor of the p53 pathway, which can weaken the TAF1A-ZBTB41 interaction (Wang2020TAF1A). Molecular docking analysis suggests that TAF1A docks with high affinity to the BTB domain of ZBTB41, forming a complex through various interactions, including hydrogen bonds (Wang2020TAF1A).
+
+TAF1A's role in transcription regulation is further highlighted by its involvement in the SL1 complex, which associates with the pSER domain of AF4 in a chromatin-specific and DNA-independent manner, facilitating RNAP2-dependent transcription at MLL target promoters (Okuda2015AF4).
+
+
+## References
+
+
+[1. (Long2017Recessive) Pamela A. Long, Jeanne L. Theis, Yu-Huan Shih, Joseph J. Maleszewski, Patrice C. Abell Aleff, Jared M. Evans, Xiaolei Xu, and Timothy M. Olson. Recessive taf1a mutations reveal ribosomopathy in siblings with end-stage pediatric dilated cardiomyopathy. Human Molecular Genetics, 26(15):2874–2881, May 2017. URL: http://dx.doi.org/10.1093/hmg/ddx169, doi:10.1093/hmg/ddx169. This article has 24 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddx169)
+
+[2. (Knutson2013TFIIBrelated) Bruce A. Knutson and Steven Hahn. Tfiib-related factors in rna polymerase i transcription. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1829(3–4):265–273, March 2013. URL: http://dx.doi.org/10.1016/j.bbagrm.2012.08.003, doi:10.1016/j.bbagrm.2012.08.003. This article has 27 citations.](https://doi.org/10.1016/j.bbagrm.2012.08.003)
+
+[3. (Bowley2021Zebrafish) George Bowley, Elizabeth Kugler, Rob Wilkinson, Allan Lawrie, Freek van Eeden, Tim J. A. Chico, Paul C. Evans, Emily S. Noël, and Jovana Serbanovic‐Canic. Zebrafish as a tractable model of human cardiovascular disease. British Journal of Pharmacology, 179(5):900–917, May 2021. URL: http://dx.doi.org/10.1111/bph.15473, doi:10.1111/bph.15473. This article has 77 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1111/bph.15473)
+
+[4. (Hannan2013Dysregulation) K.M. Hannan, E. Sanij, L.I. Rothblum, R.D. Hannan, and R.B. Pearson. Dysregulation of rna polymerase i transcription during disease. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1829(3–4):342–360, March 2013. URL: http://dx.doi.org/10.1016/j.bbagrm.2012.10.014, doi:10.1016/j.bbagrm.2012.10.014. This article has 108 citations.](https://doi.org/10.1016/j.bbagrm.2012.10.014)
+
+[5. (Wang2020TAF1A) Mingyuan Wang, Jingnan Liao, Jinjin Wang, Mingming Qi, Kangkai Wang, and Wei Wu. Taf1a and zbtb41 serve as novel key genes in cervical cancer identified by integrated approaches. Cancer Gene Therapy, 28(12):1298–1311, December 2020. URL: http://dx.doi.org/10.1038/s41417-020-00278-1, doi:10.1038/s41417-020-00278-1. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41417-020-00278-1)
+
+[6. (Okuda2015AF4) Hiroshi Okuda, Akinori Kanai, Shinji Ito, Hirotaka Matsui, and Akihiko Yokoyama. Af4 uses the sl1 components of rnap1 machinery to initiate mll fusion- and aep-dependent transcription. Nature Communications, November 2015. URL: http://dx.doi.org/10.1038/ncomms9869, doi:10.1038/ncomms9869. This article has 42 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms9869)

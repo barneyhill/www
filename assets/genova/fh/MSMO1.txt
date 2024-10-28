@@ -1,0 +1,39 @@
+# MSMO1
+
+## Overview
+MSMO1, or methylsterol monooxygenase 1, is a gene that encodes a crucial enzyme involved in the cholesterol biosynthesis pathway. The protein product of MSMO1 is a transmembrane enzyme located in the endoplasmic reticulum, where it facilitates the demethylation of C4-methylsterols, an essential step in the conversion of lanosterol to cholesterol. This enzymatic activity is vital for maintaining cholesterol homeostasis and cellular membrane integrity, impacting various physiological processes such as adipogenesis and cellular development (Yamauchi2018Sterol; Xin2019RNASeq). MSMO1's role extends to pathological contexts, including its involvement in certain cancers and metabolic disorders, highlighting its significance in both health and disease (Frisso2017A; Zheng2021The).
+
+## Function
+MSMO1 (methylsterol monooxygenase 1) is an enzyme that plays a crucial role in cholesterol biosynthesis by catalyzing the demethylation of C4-methylsterols, a key step in converting lanosterol to cholesterol. This enzyme is located on the endoplasmic reticulum membranes, where it is involved in the sequential trimming of methyl groups from sterol intermediates, which are essential for maintaining cholesterol homeostasis and cellular membrane integrity (Yamauchi2018Sterol; Xin2019RNASeq).
+
+In healthy human cells, MSMO1 is integral to cholesterol metabolism, impacting cellular function and development. It is involved in distal cholesterol metabolism, and its activity is crucial for normal cellular processes, including maintaining membrane fluidity and integrity (Wang2024Identifying). The enzyme's function is also linked to adipogenesis, where it negatively regulates fat cell differentiation by inhibiting lipid accumulation and the expression of adipogenic markers (Xin2019RNASeq).
+
+MSMO1's activity is essential for normal physiological functions, and its expression is modulated during various cellular processes, such as adipogenesis, where it interacts with other enzymes like NSDHL to regulate cholesterol biosynthesis and fat cell differentiation (Xin2019RNASeq).
+
+## Clinical Significance
+Mutations in the MSMO1 gene, also known as SC4MOL, are linked to a rare autosomal recessive disorder called C4 methyloxidase-like deficiency. This condition is characterized by the accumulation of C4 sterol intermediates, leading to multi-organ and tissue anomalies, including congenital cataracts, growth delay, and learning disabilities (Frisso2017A). The disorder is marked by the accumulation of C4-monomethyl and C4-dimethyl sterols due to a deficiency in the SC4MOL enzyme, which is crucial for cholesterol biosynthesis (Frisso2017A).
+
+Altered expression of MSMO1 has been implicated in various cancers. In cervical squamous cell carcinoma (CESC), high MSMO1 expression is associated with lower survival rates and poor prognosis, suggesting its role as an independent prognostic factor (Zheng2021The). MSMO1 expression is also linked to immune cell infiltration levels, indicating its involvement in the immune response in CESC (Zheng2021The). In esophageal cancer, MSMO1 expression is upregulated by MAGEA6, suggesting a role in tumor biology (Liu2022MAGEA6).
+
+In Parkinson's disease, MSMO1 expression is downregulated, potentially affecting cholesterol homeostasis and contributing to disease progression (Wang2024Identifying). This downregulation may lead to increased brain cholesterol levels, exacerbating the condition (Wang2024Identifying).
+
+## Interactions
+MSMO1, a key enzyme in cholesterol biosynthesis, is involved in several protein-protein interactions that influence cellular processes. Notably, MSMO1 interacts closely with NSDHL, another enzyme in the cholesterol biosynthesis pathway. This interaction is significant in the regulation of adipogenesis, as the expression of NSDHL is influenced by MSMO1 levels. Overexpression of MSMO1 leads to upregulation of NSDHL, while knockdown of MSMO1 results in NSDHL downregulation, suggesting a synergistic relationship between these two proteins (Xin2019RNASeq).
+
+In the context of cancer, MSMO1 is part of a protein interaction network that includes IDI1, with which it has a strong co-expression and interaction profile. This network is relevant in cervical squamous cell carcinoma, where MSMO1 is considered an independent prognostic factor (Zheng2021The). Additionally, MSMO1 is central in a network of pathway proteins affected by MAGEA6 overexpression in esophageal cancer cells, indicating its role in pathways related to lipid biosynthesis and energy metabolism (Liu2022MAGEA6). These interactions highlight MSMO1's involvement in both metabolic and oncogenic processes.
+
+
+## References
+
+
+[1. (Xin2019RNASeq) Youzhi Xin, Chengping Li, Yan Guo, Rong Xiao, Haiyan Zhang, and Guoli Zhou. Rna-seq analysis reveals a negative role of msmo1 with a synergized nsdhl expression during adipogenesis of 3t3-l1. Bioscience, Biotechnology, and Biochemistry, 83(4):641–652, April 2019. URL: http://dx.doi.org/10.1080/09168451.2018.1559719, doi:10.1080/09168451.2018.1559719. This article has 20 citations.](https://doi.org/10.1080/09168451.2018.1559719)
+
+[2. (Wang2024Identifying) Huiqing Wang, Mingpei Zhao, Guorong Chen, Yuanxiang Lin, Dezhi Kang, and Lianghong Yu. Identifying msmo1, elovl6, aacs, and cers2 related to lipid metabolism as biomarkers of parkinson’s disease. Scientific Reports, July 2024. URL: http://dx.doi.org/10.1038/s41598-024-68585-3, doi:10.1038/s41598-024-68585-3. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-68585-3)
+
+[3. (Zheng2021The) Guangfei Zheng, Zhuan Wang, Yuchun Fan, Tian Wang, Linli Zhang, Mengling Wang, Su Chen, and Lihe Jiang. The clinical significance and immunization of msmo1 in cervical squamous cell carcinoma based on bioinformatics analysis. Frontiers in Genetics, October 2021. URL: http://dx.doi.org/10.3389/fgene.2021.705851, doi:10.3389/fgene.2021.705851. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2021.705851)
+
+[4. (Frisso2017A) Giulia Frisso, Monica Gelzo, Elena Procopio, Concetta Sica, Maria Pia Lenza, Antonio Dello Russo, Maria Alice Donati, Francesco Salvatore, and Gaetano Corso. A rare case of sterol-c4-methyl oxidase deficiency in a young italian male: biochemical and molecular characterization. Molecular Genetics and Metabolism, 121(4):329–335, August 2017. URL: http://dx.doi.org/10.1016/j.ymgme.2017.06.013, doi:10.1016/j.ymgme.2017.06.013. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ymgme.2017.06.013)
+
+[5. (Liu2022MAGEA6) Manyu Liu, Jintao Li, Yangjunqi Wang, Maliha Ghaffar, Yishu Yang, Minglian Wang, and Changshuo Li. Magea6 positively regulates msmo1 and promotes the migration and invasion of oesophageal cancer cells. Experimental and Therapeutic Medicine, January 2022. URL: http://dx.doi.org/10.3892/etm.2022.11127, doi:10.3892/etm.2022.11127. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/etm.2022.11127)
+
+[6. (Yamauchi2018Sterol) Yoshio Yamauchi and Maximillian A. Rogers. Sterol metabolism and transport in atherosclerosis and cancer. Frontiers in Endocrinology, September 2018. URL: http://dx.doi.org/10.3389/fendo.2018.00509, doi:10.3389/fendo.2018.00509. This article has 59 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fendo.2018.00509)

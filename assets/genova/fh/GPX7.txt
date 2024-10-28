@@ -1,0 +1,50 @@
+# GPX7
+
+## Overview
+The GPX7 gene encodes the protein glutathione peroxidase 7, a non-selenocysteine antioxidant enzyme that plays a crucial role in maintaining cellular redox homeostasis within the endoplasmic reticulum. Unlike other members of the glutathione peroxidase family, GPX7 does not utilize glutathione as a substrate, distinguishing it by its unique mechanism of action. Instead, it interacts with proteins such as protein disulfide isomerase (PDI) and GRP78 to facilitate oxidative protein folding and stress signal transduction. GPX7 is involved in the cellular response to oxidative stress, contributing to the formation of disulfide bonds and enhancing the efficiency of protein folding processes. Its expression and activity have significant implications in various diseases, including cancer, where it can act as either a tumor suppressor or promoter depending on the context (Pei2023Research; Kanemura2020Biochemical; Nguyen2011Two).
+
+## Structure
+Glutathione peroxidase 7 (GPX7) is a non-selenocysteine antioxidant enzyme characterized by its unique structure and function within the endoplasmic reticulum. The GPX7 gene encodes a protein consisting of 187 amino acids, with a predicted molecular weight of 22 kDa (Pei2023Research). The primary structure of GPX7 includes cysteine residues at positions 57 and 86, which are crucial for its catalytic activity. These cysteines can form reversible intramolecular disulfide bonds under reactive oxygen species (ROS) stimulation, contributing to the enzyme's function in oxidative stress response (Pei2023Research).
+
+GPX7's secondary and tertiary structures are not detailed in the available sources, but it is known to have a catalytic tetrad at its active site, including Cys57, Trp142, Asn143, and Gln92. This configuration is essential for its high reactivity with hydrogen peroxide (H2O2) (Kanemura2020Biochemical). The presence of Gln92 is particularly important for stabilizing the thiolated or sulfenylated Cys57 through hydrogen bonding (Kanemura2020Biochemical).
+
+GPX7 does not contain a GSH-binding domain, distinguishing it from other GPX family members, and it cannot participate in redox reactions with glutathione (GSH) as a substrate (Pei2023Research). Instead, it interacts with proteins like GRP78 and protein disulfide isomerase (PDI) to facilitate protein folding and stress signal transduction in the endoplasmic reticulum (Pei2023Research). The quaternary structure of GPX7, including potential dimerization, is not specified in the provided context.
+
+## Function
+
+
+## Clinical Significance
+GPX7 (glutathione peroxidase 7) is implicated in several diseases, primarily through alterations in its expression levels and promoter methylation. In gastric cancer, GPX7 is frequently downregulated due to promoter hypermethylation, which is associated with a dysfunctional antioxidant system, leading to oxidative DNA damage and mutations critical in gastric carcinogenesis (Chen2017Glutathione). Reconstitution of GPX7 in gastric cancer cells has been shown to suppress tumor growth by reducing cell proliferation and inducing apoptosis (Chen2017Glutathione).
+
+In esophageal adenocarcinoma (OAC), GPX7 acts as a tumor suppressor gene, with its expression downregulated due to location-specific promoter DNA methylation. This downregulation is linked to the progression from Barrett's esophagus to OAC, as GPX7 protects against oxidative DNA damage (Peng2013Glutathione). Loss of GPX7 expression is also associated with increased TNF-α-induced NF-κB activation, contributing to inflammation and cancer development in Barrett's esophagus (Peng2014Loss).
+
+In gliomas, GPX7 is upregulated and associated with tumor-promoting functions, correlating with worse outcomes. Its expression increases with pathological grade and is linked to chemotherapy resistance (Ferreira2022Comprehensive). GPX7 knockdown enhances sensitivity to ferroptosis, a form of cell death, in glioma cells (Zhou2022GPX7).
+
+## Interactions
+GPX7 interacts with several proteins within the endoplasmic reticulum (ER) to facilitate oxidative protein folding and maintain cellular redox balance. It has a notable interaction with protein disulfide isomerase (PDI), where it acts as a PDI peroxidase, enhancing the efficiency of peroxide use during disulfide bond formation (Nguyen2011Two). GPX7 primarily employs a 2-Cys mechanism for PDI oxidation, although this process is slower compared to its C86A variant (Kanemura2020Biochemical). GPX7 also preferentially oxidizes specific PDI family members, such as ERp46 and ERp72, in vitro (Kanemura2020Biochemical).
+
+GPX7 interacts with endoplasmic reticulum oxidoreductase 1 (ERO1α), enhancing its oxidase activity and increasing the rate of oxygen consumption, which suggests a functional interaction that improves the efficiency of oxidative protein folding (Nguyen2011Two). This interaction is supported by bimolecular fluorescence complementation experiments, indicating a specific association between GPX7 and ERO1α (Nguyen2011Two).
+
+Additionally, GPX7 can form a disulfide-linked complex with GRP78, also known as heat shock protein family A (Hsp70) member 5, enhancing GRP78's ability to bind misfolded or unfolded proteins, thereby promoting protein refolding and reducing ER stress (Buday2020Emerging).
+
+
+## References
+
+
+[1. (Zhou2022GPX7) Yan Zhou, Haiyang Wu, Fanchen Wang, Lixia Xu, Yan Yan, Xiaoguang Tong, and Hua Yan. Gpx7 is targeted by mir-29b and gpx7 knockdown enhances ferroptosis induced by erastin in glioma. Frontiers in Oncology, January 2022. URL: http://dx.doi.org/10.3389/fonc.2021.802124, doi:10.3389/fonc.2021.802124. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.802124)
+
+[2. (Nguyen2011Two) Van Dat Nguyen, Mirva J. Saaranen, Anna-Riikka Karala, Anna-Kaisa Lappi, Lei Wang, Irina B. Raykhel, Heli I. Alanen, Kirsi E.H. Salo, Chih-chen Wang, and Lloyd W. Ruddock. Two endoplasmic reticulum pdi peroxidases increase the efficiency of the use of peroxide during disulfide bond formation. Journal of Molecular Biology, 406(3):503–515, February 2011. URL: http://dx.doi.org/10.1016/j.jmb.2010.12.039, doi:10.1016/j.jmb.2010.12.039. This article has 215 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2010.12.039)
+
+[3. (Peng2014Loss) Dun-Fa Peng, Tian-Ling Hu, Mohammed Soutto, Abbes Belkhiri, and Wael El-Rifai. Loss of glutathione peroxidase 7 promotes tnf-α-induced nf-κb activation in barrett’s carcinogenesis. Carcinogenesis, 35(7):1620–1628, April 2014. URL: http://dx.doi.org/10.1093/carcin/bgu083, doi:10.1093/carcin/bgu083. This article has 30 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/carcin/bgu083)
+
+[4. (Peng2013Glutathione) DunFa Peng, TianLing Hu, Mohammed Soutto, Abbes Belkhiri, Alexander Zaika, and Wael El-Rifai. Glutathione peroxidase 7 has potential tumour suppressor functions that are silenced by location-specific methylation in oesophageal adenocarcinoma. Gut, 63(4):540–551, April 2013. URL: http://dx.doi.org/10.1136/gutjnl-2013-304612, doi:10.1136/gutjnl-2013-304612. This article has 35 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1136/gutjnl-2013-304612)
+
+[5. (Ferreira2022Comprehensive) Wallax Augusto Silva Ferreira, Glauco Akelinghton Freire Vitiello, Tiago da Silva Medina, and Edivaldo Herculano Correa de Oliveira. Comprehensive analysis of epigenetics regulation, prognostic and the correlation with immune infiltrates of gpx7 in adult gliomas. Scientific Reports, April 2022. URL: http://dx.doi.org/10.1038/s41598-022-10114-1, doi:10.1038/s41598-022-10114-1. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-022-10114-1)
+
+[6. (Pei2023Research) Jun Pei, Xingyu Pan, Guanghui Wei, and Yi Hua. Research progress of glutathione peroxidase family (gpx) in redoxidation. Frontiers in Pharmacology, March 2023. URL: http://dx.doi.org/10.3389/fphar.2023.1147414, doi:10.3389/fphar.2023.1147414. This article has 132 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2023.1147414)
+
+[7. (Buday2020Emerging) Katalin Buday and Marcus Conrad. Emerging roles for non-selenium containing er-resident glutathione peroxidases in cell signaling and disease. Biological Chemistry, 402(3):271–287, October 2020. URL: http://dx.doi.org/10.1515/hsz-2020-0286, doi:10.1515/hsz-2020-0286. This article has 31 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/hsz-2020-0286)
+
+[8. (Chen2017Glutathione) Zheng Chen, Tianling Hu, Shoumin Zhu, Kenichi Mukaisho, Wael El-Rifai, and Dun-Fa Peng. Glutathione peroxidase 7 suppresses cancer cell growth and is hypermethylated in gastric cancer. Oncotarget, 8(33):54345–54356, April 2017. URL: http://dx.doi.org/10.18632/oncotarget.17527, doi:10.18632/oncotarget.17527. This article has 35 citations and is from a poor quality or predatory journal.](https://doi.org/10.18632/oncotarget.17527)
+
+9. (Kanemura2020Biochemical) Biochemical characterizations of ER-resident peroxidases, GPx7 and GPx8, reveal their distinct and regulated oxidative activities. This article has 0 citations.

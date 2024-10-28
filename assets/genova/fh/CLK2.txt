@@ -1,0 +1,52 @@
+# CLK2
+
+## Overview
+CLK2 (CDC like kinase 2) is a gene that encodes a serine/threonine protein kinase, which is a member of the Cdc2-like kinase (CLK) family. The CLK2 protein plays a pivotal role in the regulation of RNA splicing and cell cycle progression, primarily through its activity in the nucleus where it phosphorylates serine/arginine-rich (SR) proteins. This phosphorylation is essential for the assembly of the spliceosome and the modulation of pre-mRNA splicing, thereby influencing gene expression and protein diversity (Song2023Cdc2like; Araki2015Inhibitors). Beyond its splicing functions, CLK2 is involved in various cellular processes, including the regulation of metabolic pathways and circadian rhythms, acting as a molecular thermometer that integrates temperature changes into gene expression programs (haltenhof2020cdc2). The protein's interactions with other cellular components, such as the Akt signaling pathway, further underscore its significance in maintaining cellular homeostasis and its potential implications in diseases like Alzheimer's, cancer, and neurodevelopmental disorders (Rodgers2011Clk2; Bidinosti2016CLK2).
+
+## Structure
+The human CLK2 protein is part of the Cdc2-like kinases (CLKs) family, characterized by a conserved kinase domain and a flexible, unstructured N-terminal region. The N-terminal region resembles RS (arginine/serine) domains found in target SR protein substrates, facilitating interactions between the kinase domain and the RS domain of SR proteins (Song2023Cdc2like). The catalytic domain of CLK2 displays a typical kinase fold with an N-lobe and a C-lobe connected by a hinge region forming a conserved ATP binding pocket. The N-lobe consists of three β-strands, an α-helix, and two additional β-strands, while the C-lobe contains three conserved structural insertions: a β-hairpin insertion, a LAMMER domain, and a MAPK-like insertion. These motifs are crucial for substrate recognition and binding specificity (Song2023Cdc2like).
+
+CLK2 is known to undergo post-translational modifications such as phosphorylation, which is essential for its function in splicing regulation and other cellular processes (Song2023Cdc2like). CLK2 can exist in full-length catalytically active forms and alternatively-spliced truncated inactive forms, indicating the presence of splice variant isoforms (Murár2017Novel).
+
+## Function
+CLK2 (CDC like kinase 2) is a serine/threonine protein kinase that plays a crucial role in regulating RNA splicing and cell cycle progression in healthy human cells. It is primarily active in the nucleus, where it phosphorylates serine/arginine-rich (SR) proteins, which are essential for the assembly of the spliceosome and the modulation of pre-mRNA splicing. This phosphorylation is critical for the proper selection of exons during splicing, thereby influencing the generation of multiple mRNA isoforms from a single precursor, which expands protein diversity and adds a layer of gene expression regulation (Song2023Cdc2like; Araki2015Inhibitors).
+
+CLK2 is also involved in non-splicing processes, such as the phosphorylation of protein-tyrosine phosphatase (PTP-1B) and PGC-1α, affecting their enzymatic activities and transcriptional functions. For instance, CLK2 phosphorylates PGC-1α, leading to the repression of its transcriptional activity on gluconeogenic genes, which is significant for metabolic regulation (Song2023Cdc2like).
+
+Additionally, CLK2 is implicated in the regulation of circadian rhythms, acting as a molecular thermometer that integrates temperature changes into gene expression programs, which is crucial for maintaining cellular and organismal homeostasis (haltenhof2020cdc2).
+
+## Clinical Significance
+CLK2 (CDC like kinase 2) is implicated in several diseases due to its role in alternative splicing and gene expression regulation. In Alzheimer's disease (AD), CLK2 is involved in the splicing of tau exon 10, which affects the balance of tau isoforms. Alterations in CLK2 splicing have been observed in AD, with a decrease in the inclusion of CLK2 exon 4 in the temporal cortex, leading to reduced active CLK2 protein levels. This change is associated with the pathogenesis of AD, as it influences the 3R/4R tau isoform ratio, contributing to neurofibrillary tangle formation and neurodegeneration (glatz2006alternative).
+
+In cancer, CLK2 is a potential therapeutic target, particularly in MYC-driven breast tumors. Inhibition of CLK2 affects alternative splicing, cell cycle, and apoptosis pathways, reducing cancer cell growth. High CLK2 expression correlates with sensitivity to CLK2 inhibitors, suggesting its role as an oncogenic kinase (Salvador2018CLK).
+
+CLK2 is also linked to neurodevelopmental disorders. In Phelan-McDermid syndrome, associated with SHANK3 deficiency, increased CLK2 levels lead to impaired neuronal functions. Inhibition of CLK2 has shown potential in ameliorating autistic features in mouse models (Bidinosti2016CLK2).
+
+## Interactions
+CLK2 (CDC-like kinase 2) is involved in several protein interactions, particularly in the regulation of the Akt signaling pathway. CLK2 mediates the assembly of the PP2A phosphatase holoenzyme complex on Akt by phosphorylating the B56β regulatory subunit of PP2A. This phosphorylation is crucial for the interaction between B56β and the PP2A core enzyme, facilitating the dephosphorylation of Akt at specific sites, such as S473 and T308 (Rodgers2011Clk2). The interaction between CLK2 and B56β is specific, as CLK2 does not phosphorylate the closely related B56α subunit (Rodgers2011Clk2).
+
+In the context of SHANK3 deficiency, which is associated with autism spectrum disorder, increased levels of CLK2 lead to enhanced phosphorylation and activation of B56β, resulting in the down-regulation of the Akt-mTORC1 signaling pathway. Inhibition of CLK2 can restore Akt activity and ameliorate synaptic deficits in Shank3-deficient neurons (Bidinosti2016CLK2).
+
+In Leishmania, CLK2 is involved in kinetochore function and cell cycle progression, associating transiently with kinetochores during the cell cycle. It plays a role in kinetochore phosphorylation, affecting cytokinesis and cell cycle dynamics (Geoghegan2022CLK1CLK2driven).
+
+
+## References
+
+
+[1. (Song2023Cdc2like) Mengqiu Song, Luping Pang, Mengmeng Zhang, Yingzi Qu, Kyle Vaughn Laster, and Zigang Dong. Cdc2-like kinases: structure, biological function and therapeutic targets for diseases. Signal Transduction and Targeted Therapy, April 2023. URL: http://dx.doi.org/10.1038/s41392-023-01409-4, doi:10.1038/s41392-023-01409-4. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41392-023-01409-4)
+
+[2. (Rodgers2011Clk2) Joseph T. Rodgers, Rutger O. Vogel, and Pere Puigserver. Clk2 and b56β mediate insulin-regulated assembly of the pp2a phosphatase holoenzyme complex on akt. Molecular Cell, 41(4):471–479, February 2011. URL: http://dx.doi.org/10.1016/j.molcel.2011.02.007, doi:10.1016/j.molcel.2011.02.007. This article has 76 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2011.02.007)
+
+[3. (Murár2017Novel) Miroslav Murár, Juraj Dobiaš, Peter Šramel, Gabriela Addová, Gilles Hanquet, and Andrej Boháč. Novel clk1 inhibitors based on n-aryloxazol-2-amine skeleton - a possible way to dual vegfr2 tk/clk ligands. European Journal of Medicinal Chemistry, 126:754–761, January 2017. URL: http://dx.doi.org/10.1016/j.ejmech.2016.11.003, doi:10.1016/j.ejmech.2016.11.003. This article has 21 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.ejmech.2016.11.003)
+
+[4. (Bidinosti2016CLK2) Michael Bidinosti, Paolo Botta, Sebastian Krüttner, Catia C. Proenca, Natacha Stoehr, Mario Bernhard, Isabelle Fruh, Matthias Mueller, Debora Bonenfant, Hans Voshol, Walter Carbone, Sarah J. Neal, Stephanie M. McTighe, Guglielmo Roma, Ricardo E. Dolmetsch, Jeffrey A. Porter, Pico Caroni, Tewis Bouwmeester, Andreas Lüthi, and Ivan Galimberti. Clk2 inhibition ameliorates autistic features associated with shank3 deficiency. Science, 351(6278):1199–1203, March 2016. URL: http://dx.doi.org/10.1126/science.aad5487, doi:10.1126/science.aad5487. This article has 134 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.aad5487)
+
+[5. (Geoghegan2022CLK1CLK2driven) Vincent Geoghegan, Juliana B. T. Carnielli, Nathaniel G. Jones, Manuel Saldivia, Sergios Antoniou, Charlotte Hughes, Rachel Neish, Adam Dowle, and Jeremy C. Mottram. Clk1/clk2-driven signalling at the leishmania kinetochore is captured by spatially referenced proximity phosphoproteomics. Communications Biology, November 2022. URL: http://dx.doi.org/10.1038/s42003-022-04280-1, doi:10.1038/s42003-022-04280-1. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-022-04280-1)
+
+6. (haltenhof2020cdc2) Cdc2-like kinases represent evolutionarily adapted temperature-sensors, which globally control alternative splicing and gene expression. This article has 0 citations.
+
+[7. (Araki2015Inhibitors) Shinsuke Araki, Ryo Dairiki, Yusuke Nakayama, Aiko Murai, Risa Miyashita, Misa Iwatani, Toshiyuki Nomura, and Osamu Nakanishi. Inhibitors of clk protein kinases suppress cell growth and induce apoptosis by modulating pre-mrna splicing. PLOS ONE, 10(1):e0116929, January 2015. URL: http://dx.doi.org/10.1371/journal.pone.0116929, doi:10.1371/journal.pone.0116929. This article has 103 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0116929)
+
+[8. (Salvador2018CLK) Fernando Salvador and Roger R Gomis. <scp>clk</scp> 2 blockade modulates alternative splicing compromising <scp>myc</scp> ‐driven breast tumors. EMBO Molecular Medicine, May 2018. URL: http://dx.doi.org/10.15252/emmm.201809213, doi:10.15252/emmm.201809213. This article has 21 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.15252/emmm.201809213)
+
+9. (glatz2006alternative) Daniela C Glatz, Dan Rujescu, Yesheng Tang, Frank J Berendt, Annette M Hartmann, Frank Faltraco, Carlyn Rosenberg, Christine Hulette, Kurt Jellinger, Harald Hampel, and others. The alternative splicing of tau exon 10 and its regulatory proteins clk2 and tra2-beta1 changes in sporadic alzheimer's disease. Journal of neurochemistry, 96(3):635–644, 2006. This article has 171 citations and is from a domain leading peer-reviewed journal.

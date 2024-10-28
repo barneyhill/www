@@ -1,0 +1,46 @@
+# DCAF15
+
+## Overview
+DCAF15, or DDB1 and CUL4 associated factor 15, is a gene that encodes a protein functioning as a substrate receptor within the CRL4 E3 ubiquitin ligase complex. This protein is integral to the regulation of protein homeostasis through the targeted ubiquitination and degradation of specific proteins. Structurally, DCAF15 is characterized by a unique fold comprising β-sheets and α-helices, which facilitate its interactions with other proteins such as DDB1, DDA1, and RBM39. These interactions are crucial for its role in cellular processes, including chromosomal segregation, DNA replication, and immune response modulation. DCAF15's involvement in the degradation of cohesin-bound proteins underscores its importance in maintaining genome integrity and proper cell cycle progression. Clinically, DCAF15 is significant in the context of acute myeloid leukemia (AML), where its expression levels correlate with patient prognosis, and it presents a potential target for therapeutic intervention (Pech2019Systematic; Grothusen2024DCAF15).
+
+## Structure
+The DCAF15 protein is part of a multiprotein complex that includes DDB1, DDA1, and RBM39. Its structure has been elucidated using X-ray crystallography and cryo-electron microscopy, revealing a novel fold distinct from the typical WD40 β-propeller structure. DCAF15 consists of two predominantly β-sheet containing domains: the N-terminal domain (NTD, residues 30-264) and the C-terminal domain (CTD, residues 383-600), which are interwoven into five stacks of antiparallel β-sheets in an open solenoid arrangement (Bussiere2019The; Faust2019Structural).
+
+The protein's N-terminus features a helix-loop-helix motif that interacts with DDB1, a common feature among CRL4 E3 ligase substrate receptors (Bussiere2019The). DCAF15 also contains a zinc finger motif and a shallow, non-conserved pocket that binds aryl-sulfonamides like E7820, facilitating the recruitment and degradation of RBM39 (Du2019Structural; Faust2019Structural).
+
+DDA1 stabilizes the DCAF15-DDB1 complex, enhancing the interaction with RBM39. The interaction between DCAF15 and RBM39 is characterized by extensive protein-protein contacts, particularly involving the RBM39RRM2 domain (Faust2019Structural). The structure of DCAF15 is further characterized by unique features in its β-sheets and the presence of α-helices that stabilize its structure and interactions (Faust2019Structural).
+
+## Function
+DCAF15 (DDB1 and CUL4 associated factor 15) is a crucial component of the CRL4 E3 ubiquitin ligase complex, acting as a substrate adaptor that targets specific proteins for ubiquitination and subsequent proteasomal degradation. This function is essential for maintaining protein homeostasis within cells (Pech2019Systematic). DCAF15 is involved in the regulation of cohesin dynamics, which is vital for proper chromosomal segregation during cell division. It promotes the ubiquitination and degradation of cohesin-bound proteins such as PDS5A and CDCA5, facilitating the recycling and re-acetylation of cohesin complexes necessary for sister chromatid cohesion from S phase until mitosis (Grothusen2024DCAF15).
+
+DCAF15 also plays a role in maintaining genome architecture and DNA replication fork integrity. Its loss leads to defects in cohesin acetylation, resulting in enlarged chromatin loops and compromised DNA replication, which can cause DNA damage (Grothusen2024DCAF15). In the context of immune modulation, DCAF15 disruption enhances natural killer (NK) cell-mediated immune surveillance by increasing the expression of co-stimulatory molecules, thereby promoting NK cell activation (Pech2019Systematic). These functions highlight DCAF15's critical role in cellular processes such as cell cycle progression, DNA repair, and immune response regulation.
+
+## Clinical Significance
+DCAF15 plays a significant role in the pathogenesis of acute myeloid leukemia (AML). High expression levels of DCAF15 are associated with poorer overall survival in AML patients, indicating its potential as a prognostic marker (Grothusen2024DCAF15). The gene is crucial for maintaining genome architecture and DNA replication fork integrity, and its loss leads to DNA damage and replication stress, which can activate p53-dependent apoptosis (Grothusen2024DCAF15). This makes AML cells more sensitive to DNA-damaging agents, suggesting that targeting DCAF15 could enhance the efficacy of such treatments (Grothusen2024DCAF15).
+
+DCAF15 is also involved in the regulation of the cohesin complex, which is essential for proper chromatin loop extrusion and DNA replication. Alterations in DCAF15 expression or its interactions with cohesin components can lead to dysregulated DNA processes, contributing to AML progression (Grothusen2024DCAF15).
+
+In addition to its role in AML, DCAF15 influences immune surveillance in cancer. Its disruption enhances the susceptibility of leukemia cells to natural killer (NK) cell-mediated clearance, suggesting a potential therapeutic angle for enhancing immune response against cancer cells (Pech2019Systematic).
+
+## Interactions
+DCAF15 is a substrate receptor for the CUL4-DDB1 E3 ubiquitin ligase complex, playing a crucial role in the degradation of specific proteins. It interacts with DDB1 and DDA1, forming a stable complex that facilitates the ubiquitination and degradation of target proteins such as RBM39. The interaction between DCAF15 and RBM39 is mediated by the presence of anticancer sulfonamides like indisulam, which enhance the binding of RBM39 to DCAF15, leading to its degradation (Bussiere2019The; Han2017Anticancer).
+
+DCAF15 also interacts with components of the cohesin complex, including SMC1A and SMC3. It binds to the head domain of SMC1A, mimicking the action of RAD21, and destabilizes cohesin regulatory factors like PDS5A and CDCA5. This interaction is crucial for maintaining cohesin dynamics, particularly in the context of acute myeloid leukemia (AML) (Grothusen2024DCAF15).
+
+The structural basis of these interactions involves a novel fold of DCAF15, which includes α-helices and β-sheets that facilitate binding with DDB1 and other proteins. These interactions are characterized by hydrophobic and polar contacts, contributing to the specificity and stability of the complex (Bussiere2019The; Faust2019Structural).
+
+
+## References
+
+
+1. (Faust2019Structural) Structural complementarity facilitates E7820-mediated degradation of RBM39 by DCAF15. This article has 1 citations.
+
+[2. (Grothusen2024DCAF15) Grant P. Grothusen, Renxu Chang, Zhendong Cao, Nan Zhou, Monika Mittal, Arindam Datta, Phillip Wulfridge, Thomas Beer, Baiyun Wang, Ning Zheng, Hsin-Yao Tang, Kavitha Sarma, Roger A. Greenberg, Junwei Shi, and Luca Busino. Dcaf15 control of cohesin dynamics sustains acute myeloid leukemia. Nature Communications, July 2024. URL: http://dx.doi.org/10.1038/s41467-024-49882-x, doi:10.1038/s41467-024-49882-x. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-49882-x)
+
+[3. (Han2017Anticancer) Ting Han, Maria Goralski, Nicholas Gaskill, Emanuela Capota, Jiwoong Kim, Tabitha C. Ting, Yang Xie, Noelle S. Williams, and Deepak Nijhawan. Anticancer sulfonamides target splicing by inducing rbm39 degradation via recruitment to dcaf15. Science, April 2017. URL: http://dx.doi.org/10.1126/science.aal3755, doi:10.1126/science.aal3755. This article has 463 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.aal3755)
+
+4. (Bussiere2019The) The structural basis of Indisulam-mediated recruitment of RBM39 to the DCAF15-DDB1-DDA1 E3 ligase complex. This article has 0 citations.
+
+5. (Du2019Structural) Structural basis of recruitment of RBM39 to DCAF15 by a sulfonamide molecular glue E7820. This article has 1 citations.
+
+[6. (Pech2019Systematic) Matthew F Pech, Linda E Fong, Jacqueline E Villalta, Leanne JG Chan, Samir Kharbanda, Jonathon J O’Brien, Fiona E McAllister, Ari J Firestone, Calvin H Jan, and Jeffrey Settleman. Systematic identification of cancer cell vulnerabilities to natural killer cell-mediated immune surveillance. eLife, August 2019. URL: http://dx.doi.org/10.7554/elife.47362, doi:10.7554/elife.47362. This article has 67 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.47362)

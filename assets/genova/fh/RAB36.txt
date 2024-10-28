@@ -1,0 +1,46 @@
+# RAB36
+
+## Overview
+RAB36 is a gene that encodes a protein belonging to the RAS oncogene family, specifically classified as a small GTPase. This protein plays a pivotal role in intracellular vesicle trafficking, acting as a molecular switch that cycles between active and inactive states to regulate the transport and distribution of vesicles and organelles within cells. The RAB36 protein is particularly involved in processes occurring in the Golgi apparatus and is essential for maintaining cellular homeostasis. It is characterized by a core fold typical of Rab GTPases, which includes structural features that facilitate guanine nucleotide binding. RAB36's interactions with other proteins, such as the Rab interacting lysosomal protein (RILP), underscore its significance in specific cellular pathways, including retrograde melanosome transport in melanocytes. Additionally, RAB36 has been implicated in oncogenic pathways, with its expression and interactions influencing cancer progression and metastasis (Ji2022Two; Matsui2012The; Homma2020Rab; Barnekow2009Chapter).
+
+## Structure
+The RAB36 protein is a small GTPase that is part of the Ras superfamily, which includes proteins involved in intracellular vesicle trafficking. The primary structure of RAB36 consists of a sequence of amino acids that form a core fold typical of Rab GTPases, including six beta-sheets and five alpha-helices (Barnekow2009Chapter). This structure facilitates the binding of guanine nucleotides, which is crucial for its function as a molecular switch in cellular processes.
+
+RAB36 contains a hypervariable carboxyterminal domain that influences its targeting to specific cellular compartments. This domain ends with a prenylation site, which includes cysteine residues that undergo post-translational modifications, such as prenylation, to anchor the protein to membranes (Barnekow2009Chapter). The switch I and switch II regions of RAB36 undergo conformational changes upon GTP binding and hydrolysis, which are essential for its active or inactive state (Barnekow2009Chapter).
+
+The RAB36 protein interacts with the Rab interacting lysosomal protein (RILP) through specific residues, Lys-120 and Cys-121, in its switch II region, which are critical for binding and function in retrograde melanosome transport (Matsui2012The). The RILP homology domain (RHD) serves as a novel effector domain for RAB36, highlighting its role in specific membrane trafficking pathways (Matsui2012The).
+
+## Function
+Rab36 is a small GTPase involved in intracellular membrane trafficking, functioning as a molecular switch by cycling between an active GTP-bound state and an inactive GDP-bound state. This cycling is crucial for its role in regulating the transport and distribution of vesicles and organelles within cells (Homma2020Rab). Rab36 is particularly active in the Golgi apparatus, where it influences processes such as protein sorting and transport, essential for maintaining cellular homeostasis (Homma2020Rab).
+
+In melanocytes, Rab36 plays a significant role in retrograde melanosome transport, a process critical for the proper distribution of melanosomes within cells. This transport is mediated through Rab36's interaction with the Rab interacting lysosomal protein (RILP) and other RILP family members, which contain a conserved RILP homology domain (RHD) that serves as a binding site for Rab36 (Matsui2012The). Rab36's interaction with RILP is essential for maintaining perinuclear melanosome aggregation, and its knockdown leads to melanosome dispersion (Matsui2012The). Rab36 is also suggested to function as an alternate cargo receptor for retrograde melanosome transport, potentially working alongside other proteins like melanoregulin (Mreg) (Matsui2012The).
+
+## Clinical Significance
+RAB36, a member of the RAS oncogene family, has been implicated in various cancers due to alterations in its expression levels and interactions. In bladder cancer, RAB36 is overexpressed, and its downregulation is associated with reduced cell proliferation and invasion. This suggests that RAB36 plays a role in promoting tumor growth and invasiveness in bladder cancer, potentially through mechanisms involving the PI3K/AKT signaling pathways (Zhu2018Inhibition).
+
+In colorectal cancer, particularly in the context of liver metastasis, RAB36 expression is regulated by the RNA-binding protein HuR and circular RNAs derived from the PPFIA1 gene. These circRNAs act as molecular sponges, sequestering HuR and thereby reducing RAB36 expression. This regulation is crucial for the metastatic potential of colon cancer cells, indicating that RAB36 may facilitate cancer cell invasion and migration (Ji2022Two).
+
+RAB36 is also located within a chromosomal region that is homozygously deleted in malignant rhabdoid tumors, although its specific oncogenic role in this context remains unclear (Yong2021Cancerdriving). These findings highlight the potential of targeting RAB36 in therapeutic strategies for certain cancers.
+
+## Interactions
+RAB36, a member of the RAS oncogene family, is involved in intracellular vesicle trafficking and interacts with various proteins to influence cellular processes. It is part of a network of Rab GTPases that are recruited to specific cellular compartments to coordinate trafficking events. RAB36 is recruited to Arf6-positive endosomes by MICAL-L1, a protein that mediates the recruitment of downstream Rabs, including RAB36, RAB8, and RAB13, which are involved in neurite outgrowth (Sheehan2017Coordination).
+
+In the context of cancer, RAB36 is regulated by the RNA-binding protein HuR, which stabilizes RAB36 mRNA by binding to its 3'UTR regions. This interaction is crucial for maintaining RAB36 expression levels, particularly in the regulation of metastatic potential in colon cancer. The knockdown of HuR decreases the expression of RAB36 protein and mRNA, indicating that RAB36 is a novel target of HuR. The interaction between HuR and RAB36 mRNA is enhanced when circPPFIA1s are knocked down, allowing HuR to stabilize RAB36 mRNA (Ji2022Two). These interactions highlight the role of RAB36 in cellular dynamics and its potential involvement in oncogenic pathways.
+
+
+## References
+
+
+[1. (Sheehan2017Coordination) Patricia Sheehan and Clarissa L. Waites. Coordination of synaptic vesicle trafficking and turnover by the rab35 signaling network. Small GTPases, 10(1):54–63, January 2017. URL: http://dx.doi.org/10.1080/21541248.2016.1270392, doi:10.1080/21541248.2016.1270392. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/21541248.2016.1270392)
+
+[2. (Ji2022Two) Haein Ji, Tae Won Kim, Woo Joo Lee, Seong Dong Jeong, Yong Beom Cho, and Hyeon Ho Kim. Two circppfia1s negatively regulate liver metastasis of colon cancer via mir-155-5p/cdx1 and hur/rab36. Molecular Cancer, October 2022. URL: http://dx.doi.org/10.1186/s12943-022-01667-w, doi:10.1186/s12943-022-01667-w. This article has 23 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s12943-022-01667-w)
+
+[3. (Yong2021Cancerdriving) Cheryl Qian Ying Yong and Bor Luen Tang. Cancer-driving mutations and variants of components of the membrane trafficking core machinery. Life Sciences, 264:118662, January 2021. URL: http://dx.doi.org/10.1016/j.lfs.2020.118662, doi:10.1016/j.lfs.2020.118662. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.lfs.2020.118662)
+
+[4. (Homma2020Rab) Yuta Homma, Shu Hiragi, and Mitsunori Fukuda. Rab family of small gtpases: an updated view on their regulation and functions. The FEBS Journal, 288(1):36–55, July 2020. URL: http://dx.doi.org/10.1111/febs.15453, doi:10.1111/febs.15453. This article has 266 citations.](https://doi.org/10.1111/febs.15453)
+
+[5. (Matsui2012The) Takahide Matsui, Norihiko Ohbayashi, and Mitsunori Fukuda. The rab interacting lysosomal protein (rilp) homology domain functions as a novel effector domain for small gtpase rab36. Journal of Biological Chemistry, 287(34):28619–28631, August 2012. URL: http://dx.doi.org/10.1074/jbc.M112.370544, doi:10.1074/jbc.m112.370544. This article has 92 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M112.370544)
+
+[6. (Zhu2018Inhibition) Yudi Zhu, Shaosi Liang, Huafeng Pan, Zhongliang Cheng, and Xin Rui. Inhibition of mir-1247 on cell proliferation and invasion in bladder cancer through its downstream target of rab36. Journal of Biosciences, 43(2):365–373, April 2018. URL: http://dx.doi.org/10.1007/s12038-018-9755-4, doi:10.1007/s12038-018-9755-4. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12038-018-9755-4)
+
+[7. (Barnekow2009Chapter) Angelika Barnekow, Anika Thyrock, and Daniel Kessler. Chapter 5 Rab Proteins and Their Interaction Partners, pages 235–274. Elsevier, 2009. URL: http://dx.doi.org/10.1016/S1937-6448(08)02005-4, doi:10.1016/s1937-6448(08)02005-4. This article has 32 citations.](https://doi.org/10.1016/S1937-6448(08)02005-4)

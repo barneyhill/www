@@ -1,0 +1,40 @@
+# TENT5B
+
+## Overview
+TENT5B is a gene that encodes the protein terminal nucleotidyltransferase 5B, which is a member of the TENT5 family of non-canonical poly(A) polymerases (ncPAPs). This protein is characterized by its cytoplasmic activity and is primarily involved in the post-transcriptional modification of RNA through polyadenylation, a process crucial for mRNA stability and translation regulation. TENT5B is particularly active in human embryonic stem cells and plays a vital role in early embryogenesis and cell viability. The protein is enriched at the endoplasmic reticulum, where it preferentially polyadenylates mRNAs associated with secreted proteins, indicating its involvement in gametogenesis and reproductive health. Additionally, TENT5B has been implicated in various clinical conditions, including cancer and infertility, highlighting its significance as a potential therapeutic target and biomarker (Brouze2023Polyadenylation; Brouze2024TENT5mediated; Liudkovska2020Functions).
+
+## Structure
+TENT5B is a member of the TENT5 family of proteins, which are conserved in metazoa and function as cytoplasmic non-canonical poly(A) polymerases (ncPAPs). The molecular structure of TENT5B includes a two-domain architecture, consisting of an N-terminal nucleotidyltransferase (NTase) domain and a C-terminal helical domain. This structure is similar to other TENT proteins and resembles the fold of prokaryotic poly(A) polymerase/CCA-adding enzymes, although TENT5B lacks CCA-adding activity (Liudkovska2020Functions).
+
+The NTase domain is distantly related to known NTase domains of other poly(A) polymerases and terminal uridyl transferases (TUTases), while the C-terminal domain is involved in substrate RNA binding and stabilization during poly(A) tail formation (Warkocki2018Terminal). TENT5B has the largest catalytic domain among known poly(A) polymerases, which contributes to its unique functional properties (Liudkovska2020Functions).
+
+Human TENT5B shows a preference for ATP incorporation and acts on adenosine-rich RNAs near the 3' end, suggesting a role in the polyadenylation of already polyadenylated mRNAs (Liudkovska2020Functions). The functional relevance of TENT5B's cytoplasmic polyadenylation is still being explored, with potential implications in early human embryogenesis (Liudkovska2020Functions).
+
+## Function
+TENT5B, a member of the TENT5 family of proteins, functions as a cytoplasmic non-canonical poly(A) polymerase (ncPAP) involved in the post-transcriptional modification of RNA. It preferentially incorporates ATP and targets adenosine-rich RNAs, suggesting its role in the polyadenylation of already polyadenylated mRNAs. This activity is crucial for mRNA stability and translation regulation, particularly in human embryonic stem cells (hESCs), where TENT5B expression is essential for maintaining cell viability and protein synthesis during early embryogenesis (Liudkovska2020Functions).
+
+In healthy human cells, TENT5B is specifically expressed in hESCs and is sharply downregulated during differentiation. Its knockout in these cells is lethal, indicating its critical role in early development. TENT5B is also involved in regulating cell proliferation, as its expression is downregulated in prostate cancer, and its overexpression inhibits cancer cell proliferation and tumor growth (Liudkovska2020Functions).
+
+TENT5B is active in the cytoplasm and is enriched at the endoplasmic reticulum (ER), where it preferentially polyadenylates mRNAs translated there. This localization suggests a mechanism for substrate recognition, potentially involving interactions with membrane-bound proteins (Brouze2024TENT5mediated).
+
+## Clinical Significance
+TENT5B has been implicated in several clinical conditions due to its role in RNA processing and stability. In prostate cancer, TENT5B expression is notably downregulated, and its overexpression has been shown to inhibit cancer cell proliferation and tumor growth, suggesting its potential as a therapeutic target or biomarker (Liudkovska2020Functions). TENT5B is also proposed as a molecular marker for the diagnosis and prognosis of refractory lupus nephritis, although the mechanisms are not fully understood (Liudkovska2020Functions).
+
+In the context of reproductive health, TENT5B plays a critical role in gametogenesis, particularly in oogenesis. Alterations in TENT5B expression or function can lead to reproductive issues, such as infertility, due to its involvement in the polyadenylation of mRNAs encoding secreted proteins essential for oocyte development (Brouze2023Polyadenylation; Brouze2024TENT5mediated). Double knockout models of TENT5B and TENT5C result in complete infertility in females, highlighting its importance in reproductive processes (Brouze2023Polyadenylation). The presence of a GFP tag at the C-terminus of TENT5B also leads to infertility, indicating that genetic modifications can significantly impact its function (Brouze2024TENT5mediated). These findings underscore the potential implications of TENT5B dysfunction in reproductive health.
+
+## Interactions
+TENT5B, a member of the TENT5 family of non-canonical poly(A) polymerases, is involved in the polyadenylation of mRNAs, particularly those encoding secreted proteins, which is crucial for gametogenesis in mice. TENT5B is enriched at the endoplasmic reticulum (ER) and preferentially polyadenylates mRNAs translated there. The mechanism of substrate recognition by TENT5B is not fully understood, but it is suggested that TENT5 proteins interact with FNDC3A/B, membrane-bound proteins on the cytoplasmic side of the ER, which may explain their preference for ER-associated mRNAs (Brouze2024TENT5mediated).
+
+TENT5B has a preference for ATP incorporation and acts on adenosine-rich RNAs, suggesting it targets already polyadenylated mRNAs (Liudkovska2020Functions). The presence of an endoplasmic reticulum-targeting signal peptide in mRNAs is identified as a potential factor for TENT5-mediated regulation, indicating that mRNAs encoding proteins with ER-targeting signals are primary targets of TENT5B (Brouze2024TENT5mediated). These interactions highlight TENT5B's role in regulating mRNA stability and protein synthesis during gametogenesis, contrasting with its role in somatic cells (Brouze2023Polyadenylation).
+
+
+## References
+
+
+[1. (Warkocki2018Terminal) Zbigniew Warkocki, Vladyslava Liudkovska, Olga Gewartowska, Seweryn Mroczek, and Andrzej Dziembowski. Terminal nucleotidyl transferases (tents) in mammalian rna metabolism. Philosophical Transactions of the Royal Society B: Biological Sciences, 373(1762):20180162, November 2018. URL: http://dx.doi.org/10.1098/rstb.2018.0162, doi:10.1098/rstb.2018.0162. This article has 51 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1098/rstb.2018.0162)
+
+[2. (Brouze2024TENT5mediated) Michał Brouze, Agnieszka Czarnocka-Cieciura, Olga Gewartowska, Monika Kusio-Kobiałka, Kamil Jachacy, Marcin Szpila, Bartosz Tarkowski, Jakub Gruchota, Paweł Krawczyk, Seweryn Mroczek, Ewa Borsuk, and Andrzej Dziembowski. Tent5-mediated polyadenylation of mrnas encoding secreted proteins is essential for gametogenesis in mice. Nature Communications, June 2024. URL: http://dx.doi.org/10.1038/s41467-024-49479-4, doi:10.1038/s41467-024-49479-4. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-49479-4)
+
+3. (Brouze2023Polyadenylation) Polyadenylation of mRNAs encoding secreted proteins by TENT5 family of enzymes is essential for gametogenesis in mice. This article has 1 citations.
+
+[4. (Liudkovska2020Functions) Vladyslava Liudkovska and Andrzej Dziembowski. Functions and mechanisms of <scp>rna</scp> tailing by metazoan terminal nucleotidyltransferases. WIREs RNA, July 2020. URL: http://dx.doi.org/10.1002/WRNA.1622, doi:10.1002/wrna.1622. This article has 34 citations.](https://doi.org/10.1002/WRNA.1622)

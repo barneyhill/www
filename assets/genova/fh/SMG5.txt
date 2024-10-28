@@ -1,0 +1,50 @@
+# SMG5
+
+## Overview
+SMG5 is a gene that encodes the SMG5 nonsense mediated mRNA decay factor, a protein integral to the nonsense-mediated mRNA decay (NMD) pathway. This pathway is crucial for the degradation of mRNAs containing premature termination codons, thereby preventing the synthesis of potentially deleterious truncated proteins. The SMG5 protein is characterized by a PilT N-terminus (PIN) domain, which, although structurally similar to catalytic domains, is inactive and instead facilitates interactions with other proteins in the NMD pathway (Glavan2006Structures; Boehm2021SMG5-SMG7). Additionally, SMG5 contains a 14-3-3-like domain that is essential for binding phosphorylated UPF1, a key NMD factor, and forming a heterodimer with SMG7 to recruit decay factors to target mRNAs (Jonas2013An; Chakrabarti2014Phosphodependent). Through these interactions, SMG5 plays a pivotal role in regulating mRNA stability and quality control, impacting gene expression and cellular homeostasis (Ohnishi2003Phosphorylation).
+
+## Structure
+The SMG5 protein is a component of the nonsense-mediated mRNA decay (NMD) pathway and is characterized by several distinct structural features. It contains a PilT N-terminus (PIN) domain, which is structurally similar to the functional PIN domain of SMG6 but lacks two of the three catalytic residues, rendering it catalytically inactive (Glavan2006Structures; Boehm2021SMG5-SMG7). The PIN domain of SMG5 is involved in the dephosphorylation of UPF1 by recruiting the protein phosphatase 2A (PP2A) complex, which is essential for maintaining NMD activity (Boehm2021SMG5-SMG7).
+
+SMG5 also features a 14-3-3-like domain within its N-terminal region, composed of nine antiparallel alpha helices, which is crucial for its interaction with phosphorylated UPF1, a central NMD effector (Jonas2013An; Chakrabarti2014Phosphodependent). This domain forms a heterodimer with SMG7, characterized by a unique perpendicular back-to-back orientation, enhancing the binding affinity to phosphorylated UPF1 (Jonas2013An).
+
+The SMG5-SMG7 complex plays a significant role in NMD by binding to phosphorylated UPF1 and recruiting decay factors to mRNA targets (Jonas2013An). The interaction between SMG5 and SMG7 is facilitated by a network of hydrogen bonds, salt bridges, and hydrophobic interactions, with specific glycine residues allowing close packing (Jonas2013An).
+
+## Function
+SMG5 is a critical component of the nonsense-mediated mRNA decay (NMD) pathway, a cellular mechanism that degrades mRNAs containing premature termination codons to prevent the production of potentially harmful proteins. In healthy human cells, SMG5 functions by forming a heterodimer with SMG7, which is essential for the activation of SMG6, an endonuclease involved in NMD. This interaction is crucial for the endonucleolytic cleavage of target mRNAs, highlighting the interdependence of these proteins in maintaining NMD activity (Boehm2021SMG5-SMG7).
+
+SMG5 interacts with phosphorylated UPF1, a central NMD factor, to recruit the CCR4-NOT deadenylation complex, promoting the deadenylation, decapping, and subsequent exonucleolytic degradation of target mRNAs (Boehm2021SMG5-SMG7). The protein is primarily active in the cytoplasm, where it helps maintain mRNA quality control and influences gene expression and cellular homeostasis (Ohnishi2003Phosphorylation).
+
+SMG5 also plays a role in regulating the phosphorylation state of UPF1, facilitating its dephosphorylation by recruiting phosphatases like PP2A, although SMG5 itself is not a phosphatase (Ohnishi2003Phosphorylation). This regulation is essential for the proper functioning of the NMD pathway, ensuring the balance between effective mRNA degradation and preventing unnecessary NMD activation (Boehm2021SMG5-SMG7).
+
+## Clinical Significance
+Alterations in the expression of the SMG5 gene have been implicated in various cancers, including hepatocellular carcinoma (HCC). In HCC, high SMG5 expression is associated with poor prognosis and shorter overall survival. This is due to its role in promoting tumor cell proliferation and growth, as well as its involvement in immune cell infiltration within the tumor microenvironment (Wang2023Overexpression). SMG5 expression is significantly correlated with higher tumor grade and stage, indicating its potential impact on tumor progression and metastasis (Wang2023Overexpression).
+
+SMG5 is also involved in nonsense-mediated mRNA decay (NMD), a critical cellular process for degrading mRNAs with premature termination codons. Disruptions in SMG5 function can lead to impaired NMD, resulting in the accumulation of faulty mRNAs and widespread changes in gene expression. This can affect up to 40% of the expressed genome, potentially contributing to various diseases (Boehm2021SMG5-SMG7). The SMG5-SMG7 complex is essential for NMD, and its dysfunction can lead to significant transcriptomic alterations, impacting cellular health and viability (Boehm2021SMG5-SMG7).
+
+## Interactions
+SMG5 is a key component of the nonsense-mediated mRNA decay (NMD) pathway and interacts with several proteins to facilitate this process. It forms a heterodimer with SMG7, which is crucial for its function in NMD. This interaction enhances the binding affinity of the SMG5-SMG7 complex to phosphorylated UPF1, a central effector in NMD, and is necessary for efficient mRNA degradation (Jonas2013An). The SMG5-SMG7 complex also recruits protein phosphatase 2A (PP2A) to promote UPF1 dephosphorylation, a critical step in the NMD process (Jonas2013An).
+
+SMG5 interacts with the PR65 subunit of PP2A, suggesting a role in the assembly or regulation of the PP2A complex, which is involved in the dephosphorylation of SMG-2, another protein in the NMD pathway (Anders2003SMG5). SMG5 also interacts with PNRC2, which is suggested to be functionally dominant over the SMG5-SMG7 interaction in mammalian cells, indicating a preference for PNRC2 in certain contexts (Cho2012SMG5–PNRC2).
+
+These interactions highlight the multifaceted role of SMG5 in NMD, involving both stable complex formations and more transient interactions to regulate mRNA surveillance and decay.
+
+
+## References
+
+
+[1. (Ohnishi2003Phosphorylation) Tetsuo Ohnishi, Akio Yamashita, Isao Kashima, Thomas Schell, Kirk R. Anders, Andrew Grimson, Takahisa Hachiya, Matthias W. Hentze, Philip Anderson, and Shigeo Ohno. Phosphorylation of hupf1 induces formation of mrna surveillance complexes containing hsmg-5 and hsmg-7. Molecular Cell, 12(5):1187–1200, November 2003. URL: http://dx.doi.org/10.1016/s1097-2765(03)00443-x, doi:10.1016/s1097-2765(03)00443-x. This article has 278 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s1097-2765(03)00443-x)
+
+[2. (Cho2012SMG5–PNRC2) Hana Cho, Sisu Han, Junho Choe, Seung Gu Park, Sun Shim Choi, and Yoon Ki Kim. Smg5–pnrc2 is functionally dominant compared with smg5–smg7 in mammalian nonsense-mediated mrna decay. Nucleic Acids Research, 41(2):1319–1328, December 2012. URL: http://dx.doi.org/10.1093/nar/gks1222, doi:10.1093/nar/gks1222. This article has 73 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gks1222)
+
+[3. (Wang2023Overexpression) Yu Wang, Qin Jin, Shu Zhang, and Yan Wang. Overexpression of tmem79 combined with smg5 is related to prognosis, tumor immune infiltration and drug sensitivity in hepatocellular carcinoma. European Journal of Medical Research, November 2023. URL: http://dx.doi.org/10.1186/s40001-023-01388-w, doi:10.1186/s40001-023-01388-w. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40001-023-01388-w)
+
+[4. (Chakrabarti2014Phosphodependent) Sutapa Chakrabarti, Fabien Bonneau, Steffen Schüssler, Elfriede Eppinger, and Elena Conti. Phospho-dependent and phospho-independent interactions of the helicase upf1 with the nmd factors smg5–smg7 and smg6. Nucleic Acids Research, 42(14):9447–9460, July 2014. URL: http://dx.doi.org/10.1093/nar/gku578, doi:10.1093/nar/gku578. This article has 95 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gku578)
+
+[5. (Boehm2021SMG5-SMG7) Volker Boehm, Sabrina Kueckelmann, Jennifer V. Gerbracht, Sebastian Kallabis, Thiago Britto-Borges, Janine Altmüller, Marcus Krüger, Christoph Dieterich, and Niels H. Gehring. Smg5-smg7 authorize nonsense-mediated mrna decay by enabling smg6 endonucleolytic activity. Nature Communications, June 2021. URL: http://dx.doi.org/10.1038/s41467-021-24046-3, doi:10.1038/s41467-021-24046-3. This article has 61 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-24046-3)
+
+[6. (Jonas2013An) Stefanie Jonas, Oliver Weichenrieder, and Elisa Izaurralde. An unusual arrangement of two 14-3-3-like domains in the smg5–smg7 heterodimer is required for efficient nonsense-mediated mrna decay. Genes &amp; Development, 27(2):211–225, January 2013. URL: http://dx.doi.org/10.1101/gad.206672.112, doi:10.1101/gad.206672.112. This article has 76 citations.](https://doi.org/10.1101/gad.206672.112)
+
+[7. (Glavan2006Structures) Filip Glavan, Isabelle Behm-Ansmant, Elisa Izaurralde, and Elena Conti. Structures of the pin domains of smg6 and smg5 reveal a nuclease within the mrna surveillance complex. The EMBO Journal, 25(21):5117–5125, October 2006. URL: http://dx.doi.org/10.1038/sj.emboj.7601377, doi:10.1038/sj.emboj.7601377. This article has 161 citations.](https://doi.org/10.1038/sj.emboj.7601377)
+
+[8. (Anders2003SMG5) K. R. Anders. Smg-5, required for c.elegans nonsense-mediated mrna decay, associates with smg-2 and protein phosphatase 2a. The EMBO Journal, 22(3):641–650, February 2003. URL: http://dx.doi.org/10.1093/emboj/cdg056, doi:10.1093/emboj/cdg056. This article has 112 citations.](https://doi.org/10.1093/emboj/cdg056)

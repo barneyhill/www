@@ -1,0 +1,46 @@
+# DNAJB14
+
+## Overview
+DNAJB14 is a gene that encodes the protein DnaJ heat shock protein family (Hsp40) member B14, which is a type II transmembrane protein primarily located in the endoplasmic reticulum (ER). This protein is a member of the Hsp40 family and plays a crucial role in the ER-associated degradation (ERAD) pathway, facilitating the degradation of misfolded proteins by interacting with Hsc70, a cytosolic Hsp70 family member (Sopha2012A). The protein's J-domain is essential for its interaction with Hsc70, which is critical for maintaining protein homeostasis and preventing protein aggregation (Rozales2022Differential). DNAJB14 is also involved in the formation of DJANGOS, complex intranuclear structures associated with nuclear pore complexes, indicating a potential role in nuclear organization (Goodwin2014Expression). The gene has been implicated in various neurodegenerative diseases, including amyotrophic lateral sclerosis (ALS) and Huntington's disease, as well as in autism spectrum disorder (ASD), highlighting its significance in both cellular function and disease pathology (Rozales2022Differential; Li2023Integrated; Christodoulou2020Investigating).
+
+## Structure
+DNAJB14 is a type II transmembrane protein located in the endoplasmic reticulum (ER), with its J-domain facing the cytosol (Sopha2012A). The full-length isoform of DNAJB14 includes a J-domain, a domain of unknown function (DUF), and a transmembrane domain (TD) (Rozales2022Differential). The J-domain is crucial for interaction with HSP70 proteins, specifically through the HPD motif, which is essential for binding and function (Rozales2022Differential; Sopha2012A). Mutations in the HPD motif reduce the binding to HSP70 and affect the formation of nuclear structures called DJANGOs (Goodwin2014Expression).
+
+DNAJB14 has a short isoform that lacks the J-domain, DUF, and TD, which results in a loss of function in modulating protein aggregation (Rozales2022Differential). The protein is involved in ER-associated degradation (ERAD) of misfolded proteins, similar to DNAJB12, and can promote the degradation of the CFTRΔF508 mutant (Sopha2012A). The interaction with Hsc70, a cytosolic Hsp70 family member, is mediated by the J-domain and is crucial for its function (Sopha2012A). Specific details on the primary, secondary, tertiary, and quaternary structures of DNAJB14 are not provided in the available context.
+
+## Function
+DNAJB14 is a mammalian ER-located J-protein that plays a significant role in the endoplasmic reticulum-associated degradation (ERAD) of misfolded membrane proteins. It is a type II transmembrane protein with its J-domain located in the cytosol, allowing it to interact with Hsc70, a cytosolic Hsp70 family member, which is crucial for its function (Sopha2012A). This interaction facilitates the recruitment of Hsc70 to the ER membrane, accelerating the degradation of misfolded proteins such as the mutant cystic fibrosis transmembrane conductance regulator (CFTRΔF508) through the ubiquitin-proteasome system (Sopha2012A).
+
+DNAJB14 is involved in maintaining protein homeostasis by promoting the degradation of misfolded transmembrane proteins in the ER, thus ensuring proper protein quality control (Sopha2012A). It is also implicated in the formation of DJANGOS, complex intranuclear membrane structures associated with nuclear pore complexes, suggesting a role in nuclear organization and potentially in the nuclear entry of viral genomes (Goodwin2014Expression). DNAJB14's activity is not significantly affected by heat or ER stress, indicating its consistent role in cellular processes under normal conditions (Sopha2012A).
+
+## Clinical Significance
+DNAJB14 has been implicated in several neurodegenerative diseases due to its role in modulating protein aggregation. In amyotrophic lateral sclerosis (ALS), DNAJB14, particularly its full-length isoform (DNAJB14-FL), interacts with HSP70 to prevent the aggregation of mutant FUS proteins, such as R521H, R521C, and R495X, which are associated with the disease. This interaction is crucial for maintaining proteostasis and preventing the pathological aggregation characteristic of ALS (Rozales2022Differential; Kinger2023Molecular).
+
+In the context of autism spectrum disorder (ASD), DNAJB14 has been identified as a hub gene involved in endoplasmic reticulum (ER) stress regulation. Alterations in its expression have been associated with distinct subtypes of ASD, suggesting a role in the disorder's development and progression (Li2023Integrated).
+
+DNAJB14 is also involved in Huntington's disease (HD), where it is one of the common genes identified between pre-symptomatic and symptomatic stages. Its expression changes are linked to the transition between these stages, indicating its potential role in the disease's progression (Christodoulou2020Investigating).
+
+## Interactions
+DNAJB14, a member of the Hsp40 family, is involved in several protein interactions that are crucial for its function in cellular processes. It interacts specifically with the cytosolic Hsp70 family member Hsc70 via its J-domain, recruiting this chaperone to the endoplasmic reticulum (ER) membrane. This interaction is essential for the ER-associated degradation (ERAD) of misfolded membrane proteins, such as the mutant cystic fibrosis transmembrane conductance regulator (CFTRΔF508) (Sopha2012A).
+
+DNAJB14 also forms a complex with DNAJB12 and HSP70, which is critical for modulating protein aggregation, particularly in the context of mutant FUS (mutFUS) aggregation. The interaction with HSP70 is dependent on the J-domain of DNAJB14, and the DUF domain is important for its interaction with DNAJB12. This complex is involved in rescuing FUS-R521H-YFP aggregation and restoring proteostasis disrupted by mutFUS aggregation (Rozales2022Differential; Rozales2021Differential).
+
+DNAJB14, along with DNAJB12, is also implicated in the formation of DJANGOS, a novel nuclear pore structure. This process requires the co-chaperone activity of DNAJB14 and its interaction with Hsc70, indicating a role in the remodeling of membranes associated with nuclear pores (Goodwin2014Expression).
+
+
+## References
+
+
+1. (Rozales2021Differential) Differential roles for DNAJ isoforms in HTT-polyQ and mutant FUS aggregation modulation revealed by chaperone network screens. This article has 0 citations.
+
+[2. (Goodwin2014Expression) Edward C. Goodwin, Nasim Motamedi, Alex Lipovsky, Rubén Fernández-Busnadiego, and Daniel DiMaio. Expression of dnajb12 or dnajb14 causes coordinate invasion of the nucleus by membranes associated with a novel nuclear pore structure. PLoS ONE, 9(4):e94322, April 2014. URL: http://dx.doi.org/10.1371/journal.pone.0094322, doi:10.1371/journal.pone.0094322. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0094322)
+
+[3. (Kinger2023Molecular) Sumit Kinger, Ankur Rakesh Dubey, Prashant Kumar, Yuvraj Anandrao Jagtap, Akash Choudhary, Amit Kumar, Vijay Kumar Prajapati, Rohan Dhiman, and Amit Mishra. Molecular chaperones’ potential against defective proteostasis of amyotrophic lateral sclerosis. Cells, 12(9):1302, May 2023. URL: http://dx.doi.org/10.3390/cells12091302, doi:10.3390/cells12091302. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells12091302)
+
+[4. (Christodoulou2020Investigating) Christiana C. Christodoulou, Margarita Zachariou, Marios Tomazou, Evangelos Karatzas, Christiana A. Demetriou, Eleni Zamba-Papanicolaou, and George M. Spyrou. Investigating the transition of pre-symptomatic to symptomatic huntington’s disease status based on omics data. International Journal of Molecular Sciences, 21(19):7414, October 2020. URL: http://dx.doi.org/10.3390/ijms21197414, doi:10.3390/ijms21197414. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21197414)
+
+[5. (Sopha2012A) Pattarawut Sopha, Hiroshi Kadokura, Yo-hei Yamamoto, Masato Takeuchi, Michiko Saito, Akio Tsuru, and Kenji Kohno. A novel mammalian er-located j-protein, dnajb14, can accelerate erad of misfolded membrane proteins. Cell Structure and Function, 37(2):177–187, 2012. URL: http://dx.doi.org/10.1247/CSF.12017, doi:10.1247/csf.12017. This article has 41 citations and is from a peer-reviewed journal.](https://doi.org/10.1247/CSF.12017)
+
+[6. (Rozales2022Differential) Kinneret Rozales, Amal Younis, Naseeb Saida, Anatoly Meller, Hodaya Goldman, Lior Kellerman, Ronit Heinrich, Shai Berlin, and Reut Shalgi. Differential roles for dnaj isoforms in htt-polyq and fus aggregation modulation revealed by chaperone screens. Nature Communications, January 2022. URL: http://dx.doi.org/10.1038/s41467-022-27982-w, doi:10.1038/s41467-022-27982-w. This article has 19 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-27982-w)
+
+[7. (Li2023Integrated) Yanjun Li, Songyin Gao, and Yuelan Meng. Integrated analysis of endoplasmic reticulum stress regulators’ expression identifies distinct subtypes of autism spectrum disorder. Frontiers in Psychiatry, April 2023. URL: http://dx.doi.org/10.3389/fpsyt.2023.1136154, doi:10.3389/fpsyt.2023.1136154. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fpsyt.2023.1136154)

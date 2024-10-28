@@ -1,0 +1,54 @@
+# SLC25A3
+
+## Overview
+The SLC25A3 gene encodes the mitochondrial phosphate carrier protein, a member of the solute carrier family 25. This protein is integral to the inner mitochondrial membrane and plays a critical role in cellular energy metabolism by facilitating the transport of inorganic phosphate into the mitochondrial matrix, a process essential for ATP synthesis during oxidative phosphorylation (Gutiérrez-Aguilar2013Physiological; Palmieri2004The). The SLC25A3 protein is characterized by its structure of six transmembrane alpha-helices and functions as a homodimer, forming a channel that is vital for its transport activity (Palmieri2013The). The gene undergoes alternative splicing, resulting in isoforms with distinct tissue distributions and kinetic properties, which are crucial for meeting the varying energy demands of different tissues (Palmieri2004The). Mutations in SLC25A3 are associated with severe clinical conditions, including mitochondrial phosphate carrier deficiency, highlighting its importance in maintaining cellular and organismal health (Palmieri2020Diseases).
+
+## Structure
+The SLC25A3 gene encodes a mitochondrial phosphate carrier protein that is integral to the inner mitochondrial membrane. The protein is characterized by six transmembrane alpha-helices, which form a channel-like structure essential for its function in transporting phosphate ions into the mitochondrial matrix (Palmieri2020Diseases; Palmieri2004The). The primary structure of SLC25A3 includes a conserved signature motif, PX[D/E]XX[K/R]X[K/R], which is crucial for its transport activity (Calvello2018Unusual).
+
+The gene exhibits alternative splicing, resulting in different isoforms, notably PiC-A and PiC-B. PiC-A is muscle-specific, while PiC-B is ubiquitously expressed. These isoforms differ in their kinetic properties, with PiC-A having a higher Km for phosphate and a lower maximum transport rate compared to PiC-B (Palmieri2004The). The splicing involves the alternative use of duplicated exons, which affects the first transmembrane helix of the protein (Calvello2018Unusual).
+
+The SLC25A3 protein functions as a homodimer, with each monomer contributing to the formation of a central channel that facilitates phosphate transport. This structural arrangement is typical of the mitochondrial carrier family, which includes a tripartite sequence structure with repeated domains (Palmieri2013The).
+
+## Function
+The SLC25A3 gene encodes a mitochondrial phosphate carrier protein, which is essential for transporting inorganic phosphate (Pi) into the mitochondrial matrix. This transport is crucial for the oxidative phosphorylation process, where ADP is converted to ATP, the primary energy currency of the cell (Palmieri2013The; Gutiérrez-Aguilar2013Physiological). The protein operates in the inner mitochondrial membrane and is involved in maintaining energy metabolism and cellular respiration, thereby influencing overall cellular energy homeostasis (Zhang2023SLC25).
+
+SLC25A3 produces two isoforms, PiC-A and PiC-B, through alternative splicing. PiC-A is predominantly expressed in heart and muscle tissues, while PiC-B is expressed ubiquitously across various tissues (Palmieri2013The; Palmieri2004The). These isoforms differ in their kinetic properties, reflecting the varying energy demands of different tissues. PiC-A, for instance, has a higher K_m for phosphate, which may make it more active during periods of high energy demand, such as muscle contraction (Palmieri2004The).
+
+The SLC25A3 protein also plays a role in mitochondria-dependent cell death pathways. Overexpression can trigger apoptosis, and its interaction with viral proteins can inhibit phosphate transport, affecting ATP synthesis and leading to cell death (Gutiérrez-Aguilar2013Physiological).
+
+## Clinical Significance
+Mutations in the SLC25A3 gene, which encodes the mitochondrial phosphate carrier (PiC), are linked to several severe clinical conditions. These mutations can lead to mitochondrial phosphate carrier deficiency, characterized by hypertrophic cardiomyopathy, muscular hypotonia, elevated plasma lactate levels, and lactic acidosis. In some cases, affected individuals may not survive past the first year of life, while others may experience skeletal myopathy and exercise intolerance (Palmieri2020Diseases; Palmieri2013The). 
+
+Specific mutations, such as c.215G > A and c.158-9A > G, have been identified. The c.215G > A mutation results in the substitution of glycine 72 with glutamic acid, affecting the heart-/muscle-specific isoform PiC-A, while the c.158-9A > G mutation creates a novel splice acceptor site, leading to a significant reduction in PiC-A expression (Palmieri2014Mitochondrial; Palmieri2013The). 
+
+Research using mouse models with cardiac-specific deletion of SLC25A3 has shown that the absence of PiC leads to severe cardiomyopathy, characterized by hypertrophy, ventricular dilation, and decreased cardiac function. These findings suggest that PiC plays a crucial role in maintaining cardiac health and energy metabolism (Kwong2014Genetic).
+
+## Interactions
+SLC25A3, also known as the mitochondrial copper transporter PiC2, is involved in several protein interactions crucial for its function in copper transport and skeletal muscle development. PiC2 interacts with mitochondrial cuproproteins, including cytochrome c oxidase (COX), facilitating copper transfer essential for COX activity. This interaction is enhanced by the presence of copper, as demonstrated by co-localization and reciprocal immunoprecipitation experiments, which confirmed the interaction between PiC2 and COX, as well as with other mitochondrial cuproproteins like Sco1 and Sco2 (McCann2022The).
+
+PiC2 is also a target of the metal-regulatory transcription factor MTF1, which binds to the PiC2 promoter region during myoblast differentiation. The presence of copper enhances MTF1 binding, indicating a regulatory mechanism that influences PiC2 expression (McCann2022The). The protein can exist in different oligomeric states, such as monomers, dimers, or trimers, which may affect its copper-binding and transport capabilities (McCann2022The).
+
+In yeast and mice, inactivation of PiC2 disrupts COX activity and reduces mitochondrial copper content, underscoring its role in copper homeostasis and interaction with mitochondrial proteins (McCann2022The).
+
+
+## References
+
+
+[1. (Palmieri2020Diseases) Ferdinando Palmieri, Pasquale Scarcia, and Magnus Monné. Diseases caused by mutations in mitochondrial carrier genes slc25: a review. Biomolecules, 10(4):655, April 2020. URL: http://dx.doi.org/10.3390/biom10040655, doi:10.3390/biom10040655. This article has 75 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom10040655)
+
+[2. (Zhang2023SLC25) Guiqian Zhang, Ning Wang, Shixun Ma, Zhenhong Wei, Pengxian Tao, and Hui Cai. Slc25 family with energy metabolism and immunity in malignant tumors. Oncologie, 26(1):65–77, December 2023. URL: http://dx.doi.org/10.1515/oncologie-2023-0280, doi:10.1515/oncologie-2023-0280. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/oncologie-2023-0280)
+
+[3. (Gutiérrez-Aguilar2013Physiological) Manuel Gutiérrez-Aguilar and Christopher P. Baines. Physiological and pathological roles of mitochondrial slc25 carriers. Biochemical Journal, 454(3):371–386, August 2013. URL: http://dx.doi.org/10.1042/bj20121753, doi:10.1042/bj20121753. This article has 98 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20121753)
+
+[4. (Kwong2014Genetic) J Q Kwong, J Davis, C P Baines, M A Sargent, J Karch, X Wang, T Huang, and J D Molkentin. Genetic deletion of the mitochondrial phosphate carrier desensitizes the mitochondrial permeability transition pore and causes cardiomyopathy. Cell Death &amp; Differentiation, 21(8):1209–1217, March 2014. URL: http://dx.doi.org/10.1038/cdd.2014.36, doi:10.1038/cdd.2014.36. This article has 138 citations.](https://doi.org/10.1038/cdd.2014.36)
+
+[5. (Palmieri2014Mitochondrial) Ferdinando Palmieri. Mitochondrial transporters of the slc25 family and associated diseases: a review. Journal of Inherited Metabolic Disease, 37(4):565–575, May 2014. URL: http://dx.doi.org/10.1007/s10545-014-9708-5, doi:10.1007/s10545-014-9708-5. This article has 202 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10545-014-9708-5)
+
+[6. (Palmieri2013The) Ferdinando Palmieri. The mitochondrial transporter family slc25: identification, properties and physiopathology. Molecular Aspects of Medicine, 34(2–3):465–484, April 2013. URL: http://dx.doi.org/10.1016/j.mam.2012.05.005, doi:10.1016/j.mam.2012.05.005. This article has 612 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.mam.2012.05.005)
+
+[7. (McCann2022The) Cat McCann, Michael Quinteros, Ifeoluwa Adelugba, Marcos N. Morgada, Aida R. Castelblanco, Emily J. Davis, Antonio Lanzirotti, Sarah J. Hainer, Alejandro J. Vila, Juan G. Navea, and Teresita Padilla-Benavides. The mitochondrial cu+ transporter pic2 (slc25a3) is a target of mtf1 and contributes to the development of skeletal muscle in vitro. Frontiers in Molecular Biosciences, November 2022. URL: http://dx.doi.org/10.3389/fmolb.2022.1037941, doi:10.3389/fmolb.2022.1037941. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmolb.2022.1037941)
+
+[8. (Palmieri2004The) Ferdinando Palmieri. The mitochondrial transporter family (slc25): physiological and pathological implications. Pfl�gers Archiv European Journal of Physiology, 447(5):689–709, February 2004. URL: http://dx.doi.org/10.1007/s00424-003-1099-7, doi:10.1007/s00424-003-1099-7. This article has 624 citations.](https://doi.org/10.1007/s00424-003-1099-7)
+
+[9. (Calvello2018Unusual) Rosa Calvello, Antonia Cianciulli, and Maria A. Panaro. Unusual structure and splicing pattern of the vertebrate mitochondrial solute carrier slc25a3 gene. Journal of Genetics, 97(1):225–233, March 2018. URL: http://dx.doi.org/10.1007/s12041-018-0906-z, doi:10.1007/s12041-018-0906-z. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12041-018-0906-z)

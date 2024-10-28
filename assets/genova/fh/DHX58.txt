@@ -1,0 +1,30 @@
+# DHX58
+
+## Overview
+DHX58 is a gene that encodes the protein DExH-box helicase 58, also known as LGP2. This protein is a member of the DExD/H-box helicase family, which is characterized by its role in RNA metabolism and immune response regulation. DExH-box helicase 58 is primarily involved in the unwinding of RNA structures and modulation of protein interactions, processes that are essential for RNA splicing, transport, and translation. In the context of the immune system, DExH-box helicase 58 plays a critical role in antiviral defense by interacting with RIG-I-like receptors to regulate the production of type I interferons and other cytokines. Additionally, it has been implicated in cellular stress responses, such as preventing ferroptosis by promoting the translation of Gpx4 mRNA in liver cells (Umate2011Genome-wide; Jia2024Interferonα; Shih2014Human).
+
+## Function
+DHX58, also known as LGP2, is a DExH-box helicase involved in various cellular processes, primarily in the context of RNA metabolism and immune response. In healthy human cells, DHX58 is part of the DExD/H-box protein family, which utilizes ATP hydrolysis to facilitate RNA-RNA unwinding, RNA-protein dissociation, and protein-protein interactions. These activities are crucial for rearranging RNA secondary structures, which play significant roles in RNA metabolism, including splicing, transport, and translation (Umate2011Genome-wide).
+
+DHX58 is also involved in the innate immune response, functioning as a regulator of antiviral signaling pathways. It interacts with RIG-I-like receptors, modulating the detection of viral RNA and influencing the production of type I interferons and other cytokines, which are essential for antiviral defense (Shih2014Human). DHX58 is primarily active in the cytoplasm, where it participates in RNA sensing and signaling processes (Shih2014Human).
+
+In addition to its role in immune response, DHX58 has been implicated in preventing ferroptosis, a form of regulated cell death, by promoting the translation of Gpx4 mRNA in liver cells. This function highlights its protective role in cellular stress conditions (Jia2024Interferonα).
+
+## Interactions
+DHX58, also known as LGP2, is involved in several key interactions with proteins and nucleic acids that modulate immune responses. One significant interaction is with TRIM25, an E3 ubiquitin ligase. DHX58 negatively regulates RIG-I signaling by inhibiting TRIM25-mediated K63-ubiquitination of the RIG-I N-terminal CARDs, which is essential for RIG-I activation. This interaction occurs upstream of the mitochondrial antiviral signaling protein (MAVS) and is independent of DHX58's RNA binding and ATP hydrolysis functions (Quicke2019RNA).
+
+DHX58 also interacts with YTHDC2, an m6A reader, to enhance the translation of m6A-modified Gpx4 mRNA. This interaction is crucial for increasing GPX4 protein levels, which plays a role in preventing ferroptosis in hepatocytes. The recruitment of YTHDC2 by DHX58 facilitates the translation of Gpx4 mRNA, highlighting DHX58's role in cellular stress responses (Jia2024Interferonα).
+
+These interactions underscore DHX58's dual role in modulating antiviral signaling and protecting against cellular stress, illustrating its complex involvement in immune and stress response pathways.
+
+
+## References
+
+
+[1. (Umate2011Genome-wide) Pavan Umate, Narendra Tuteja, and Renu Tuteja. Genome-wide comprehensive analysis of human helicases. Communicative &amp; Integrative Biology, 4(1):118–137, January 2011. URL: http://dx.doi.org/10.4161/cib.13844, doi:10.4161/cib.13844. This article has 150 citations.](https://doi.org/10.4161/cib.13844)
+
+[2. (Jia2024Interferonα) Kai-Wei Jia, Ren-Qi Yao, Yi-Wen Fan, Ding-Ji Zhang, Ye Zhou, Min-Jun Wang, Li-Yuan Zhang, Yue Dong, Zhi-Xuan Li, Su-Yuan Wang, Mu Wang, Yun-Hui Li, Lu-Xin Zhang, Ting Lei, Liang-Chen Gui, Shan Lu, Ying-Yun Yang, Si-Xian Wang, Yi-Zhi Yu, Yong-Ming Yao, and Jin Hou. Interferon-α stimulates dexh-box helicase 58 to prevent hepatocyte ferroptosis. Military Medical Research, April 2024. URL: http://dx.doi.org/10.1186/s40779-024-00524-9, doi:10.1186/s40779-024-00524-9. This article has 0 citations.](https://doi.org/10.1186/s40779-024-00524-9)
+
+[3. (Quicke2019RNA) Kendra M. Quicke, Kristin Y. Kim, Curt M. Horvath, and Mehul S. Suthar. Rna helicase lgp2 negatively regulates rig-i signaling by preventing trim25-mediated caspase activation and recruitment domain ubiquitination. Journal of Interferon &amp; Cytokine Research, 39(11):669–683, November 2019. URL: http://dx.doi.org/10.1089/jir.2019.0059, doi:10.1089/jir.2019.0059. This article has 31 citations.](https://doi.org/10.1089/jir.2019.0059)
+
+[4. (Shih2014Human) Jing-Wen Shih and Yan-Hwa Wu Lee. Human dexd/h rna helicases: emerging roles in stress survival regulation. Clinica Chimica Acta, 436:45–58, September 2014. URL: http://dx.doi.org/10.1016/j.cca.2014.05.003, doi:10.1016/j.cca.2014.05.003. This article has 42 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cca.2014.05.003)

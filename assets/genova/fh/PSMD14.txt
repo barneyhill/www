@@ -1,0 +1,58 @@
+# PSMD14
+
+## Overview
+PSMD14 is a gene that encodes the protein proteasome 26S subunit, non-ATPase 14, which is a critical component of the 26S proteasome complex. This protein is a zinc-dependent deubiquitinating enzyme (DUB) and is part of the JAB1/MPN/MOV34 (JAMM) family, characterized by its metalloprotease activity. It plays a vital role in the ubiquitin-proteasome system by removing ubiquitin chains from substrates, thereby facilitating their degradation and maintaining protein homeostasis (Mao2020Structure; Koulich2008Relative). PSMD14 is involved in various cellular processes, including protein trafficking, macroautophagy, and cell cycle regulation. Its interactions with other proteins have significant implications in cancer progression, making it a potential target for therapeutic intervention (Yang2023PSMD14; Lv2020Deubiquitinase).
+
+## Structure
+PSMD14, also known as RPN11, is a critical component of the 26S proteasome's regulatory particle (RP), specifically within the lid subcomplex. It is a zinc-dependent deubiquitinating enzyme (DUB) belonging to the JAB1/MPN/MOV34 (JAMM) family, characterized by its metalloprotease activity (Mao2020Structure). The protein contains a catalytic active site with a zinc ion, essential for its function in removing ubiquitin chains from substrates as they are processed by the proteasome (Mao2020Structure).
+
+Structurally, PSMD14 forms a heterodimer with RPN8, another subunit of the lid complex. This interaction is crucial for its integration and function within the proteasome (Mao2020Structure). The protein's structure includes a metal-binding motif and three regulatory regions: Insertion 1 (Ins-1), Insertion 2 (Ins-2), and a catalytic loop. These regions are involved in regulating its activity, with Ins-1 blocking the catalytic site in its inactive state (Mao2020Structure).
+
+PSMD14's quaternary structure is integral to the proteasome's function, as it is positioned at the entrance of the central substrate-translocation channel, facilitating the deubiquitylation process necessary for substrate degradation (Mao2020Structure).
+
+## Function
+PSMD14, also known as the proteasomal deubiquitinating enzyme, is a critical component of the 26S proteasome, specifically part of the 19S regulatory particle. It plays a vital role in the ubiquitin-proteasome system by removing ubiquitin chains from substrates, facilitating their degradation and maintaining protein homeostasis (Koulich2008Relative). This deubiquitinating activity is essential for several cellular processes, including protein trafficking, macroautophagy, and cell cycle regulation.
+
+In healthy human cells, PSMD14 is involved in regulating Golgi-to-endoplasmic reticulum (ER) retrograde transport, which is crucial for maintaining Golgi apparatus morphology and function. Inhibition of PSMD14 disrupts this transport, leading to the accumulation of proteins like ATG9A and RAB1A at the Golgi, which are essential for autophagosome formation and macroautophagy (Bustamante2020The). PSMD14's activity is also necessary for the proper formation of autophagosomes, as its inhibition prevents their formation under nutrient starvation conditions (Bustamante2020The).
+
+PSMD14 is also involved in cell cycle regulation. Its knockdown leads to cell cycle arrest in the G0-G1 phase and increased senescence, highlighting its role in regulating the expression of cell cycle regulators such as cyclin B1, CDK1, and CDC25C (Byrne2010Knockdown). This regulation is crucial for normal cell cycle progression and proteasome-mediated protein turnover.
+
+## Clinical Significance
+Alterations in the expression of the PSMD14 gene have been implicated in various cancers. In breast cancer, PSMD14 is overexpressed, particularly in estrogen receptor alpha (ERα) positive samples, and is associated with poor survival outcomes in luminal type breast cancer. Its role in stabilizing ERα signaling contributes to breast cancer progression and resistance to endocrine therapies like tamoxifen (Yang2023PSMD14). In hepatocellular carcinoma (HCC), PSMD14 is highly expressed in a significant portion of tumor samples and correlates with shorter overall survival, promoting cell proliferation, migration, and invasion (Lv2020Deubiquitinase). 
+
+In osteosarcoma, PSMD14 is significantly upregulated and linked to poor prognosis, younger patient age, and higher tumor grades. Its expression correlates with immune cell infiltration and is associated with shorter survival times (Gong2021Identification). In melanoma, PSMD14 knockdown reduces cell growth and migration by stabilizing SMAD3, a protein involved in TGF-β signaling, suggesting its potential as a therapeutic target (Yokoyama2020Targeting). 
+
+PSMD14 also plays a role in esophageal squamous cell carcinoma by stabilizing the EMT transcription factor SNAIL, promoting tumor metastasis and correlating with poor prognosis (Zhu2018Deubiquitinating). These findings highlight PSMD14 as a potential target for therapeutic intervention across multiple cancer types.
+
+## Interactions
+PSMD14, a deubiquitinase, is involved in several critical protein interactions that influence cancer progression. In breast cancer, PSMD14 interacts with estrogen receptor alpha (ERα), stabilizing it by inhibiting its polyubiquitination and proteasome-dependent degradation. This interaction primarily occurs through the AF1 domain of ERα and the ubiquitin-binding domain (UBD) of PSMD14, enhancing ERα signaling crucial for breast cancer progression (Yang2023PSMD14).
+
+In hepatocellular carcinoma, PSMD14 interacts with and deubiquitinates GRB2, a protein involved in intracellular signal transduction. This interaction stabilizes GRB2 by reducing its K48- and K63-linked ubiquitination, which are signals for protein degradation, thereby promoting cancer cell proliferation and metastasis (Lv2020Deubiquitinase).
+
+PSMD14 also interacts with the SNAIL protein in esophageal squamous cell carcinoma, stabilizing it by reducing its ubiquitination. This stabilization promotes epithelial-mesenchymal transition (EMT) and tumor metastasis (Zhu2018Deubiquitinating).
+
+In bladder cancer, PSMD14 interacts with Drp1, a protein involved in mitochondrial fission, stabilizing it through deubiquitination. This interaction supports cancer cell proliferation by promoting mitochondrial fission (Song2023Regulation).
+
+
+## References
+
+
+[1. (Lv2020Deubiquitinase) Jie Lv, Sheng Zhang, Huita Wu, Jing Lu, Yuyan Lu, Fuqiang Wang, Wenxiu Zhao, Ping Zhan, Junjiang Lu, Qinliang Fang, Chengrong Xie, and Zhenyu Yin. Deubiquitinase psmd14 enhances hepatocellular carcinoma growth and metastasis by stabilizing grb2. Cancer Letters, 469:22–34, January 2020. URL: http://dx.doi.org/10.1016/j.canlet.2019.10.025, doi:10.1016/j.canlet.2019.10.025. This article has 64 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2019.10.025)
+
+[2. (Yokoyama2020Targeting) Satoru Yokoyama, Yusuke Iwakami, Zhao Hang, Ryoei Kin, Yue Zhou, Yutaka Yasuta, Atsushi Takahashi, Yoshihiro Hayakawa, and Hiroaki Sakurai. Targeting psmd14 inhibits melanoma growth through smad3 stabilization. Scientific Reports, November 2020. URL: http://dx.doi.org/10.1038/s41598-020-76373-y, doi:10.1038/s41598-020-76373-y. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-020-76373-y)
+
+[3. (Zhu2018Deubiquitinating) Rui Zhu, Yongshuo Liu, Honghong Zhou, Lei Li, Yi Li, Fang Ding, Xiufeng Cao, and Zhihua Liu. Deubiquitinating enzyme psmd14 promotes tumor metastasis through stabilizing snail in human esophageal squamous cell carcinoma. Cancer Letters, 418:125–134, April 2018. URL: http://dx.doi.org/10.1016/j.canlet.2018.01.025, doi:10.1016/j.canlet.2018.01.025. This article has 55 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2018.01.025)
+
+4. (Bustamante2020The) The proteasomal deubiquitinating enzyme PSMD14 regulates macroautophagy by controlling Golgi-to-ER retrograde transport. This article has 5 citations.
+
+[5. (Byrne2010Knockdown) Ann Byrne, Rajashree P. McLaren, Paul Mason, Lilly Chai, Michael R. Dufault, Yinyin Huang, Beirong Liang, Joseph D. Gans, Mindy Zhang, Kara Carter, Tatiana B. Gladysheva, Beverly A. Teicher, Hans-Peter N. Biemann, Michael Booker, Mark A. Goldberg, Katherine W. Klinger, James Lillie, Stephen L. Madden, and Yide Jiang. Knockdown of human deubiquitinase psmd14 induces cell cycle arrest and senescence. Experimental Cell Research, 316(2):258–271, January 2010. URL: http://dx.doi.org/10.1016/j.yexcr.2009.08.018, doi:10.1016/j.yexcr.2009.08.018. This article has 48 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.yexcr.2009.08.018)
+
+[6. (Koulich2008Relative) Elena Koulich, Xiaohua Li, and George N. DeMartino. Relative structural and functional roles of multiple deubiquitylating proteins associated with mammalian 26s proteasome. Molecular Biology of the Cell, 19(3):1072–1082, March 2008. URL: http://dx.doi.org/10.1091/mbc.e07-10-1040, doi:10.1091/mbc.e07-10-1040. This article has 180 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e07-10-1040)
+
+[7. (Yang2023PSMD14) Penghe Yang, Xiao Yang, Dehai Wang, Huijie Yang, Zhongbo Li, Chenmiao Zhang, Shuqing Zhang, Jian Zhu, Xin Li, Peng Su, and Ting Zhuang. Psmd14 stabilizes estrogen signaling and facilitates breast cancer progression via deubiquitinating erα. Oncogene, 43(4):248–264, November 2023. URL: http://dx.doi.org/10.1038/s41388-023-02905-1, doi:10.1038/s41388-023-02905-1. This article has 3 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-023-02905-1)
+
+[8. (Mao2020Structure) Youdong Mao. Structure, Dynamics and Function of the 26S Proteasome, pages 1–151. Springer International Publishing, December 2020. URL: http://dx.doi.org/10.1007/978-3-030-58971-4_1, doi:10.1007/978-3-030-58971-4_1. This article has 79 citations.](https://doi.org/10.1007/978-3-030-58971-4_1)
+
+[9. (Song2023Regulation) Wei Song, Zhuo Li, Ming Xia, and Wei Xiao. Regulation of drp1 and enhancement of mitochondrial fission by the deubiquitinating enzyme psmd14 facilitates the proliferation of bladder cancer cells. Oncology Reports, November 2023. URL: http://dx.doi.org/10.3892/or.2023.8665, doi:10.3892/or.2023.8665. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.2023.8665)
+
+[10. (Gong2021Identification) Yubao Gong and Zheng‐Ren Wei. Identification of <scp>psmd14</scp> as a potential novel prognosis biomarker and therapeutic target for osteosarcoma. Cancer Reports, August 2021. URL: http://dx.doi.org/10.1002/cnr2.1522, doi:10.1002/cnr2.1522. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/cnr2.1522)

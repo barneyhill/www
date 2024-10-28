@@ -1,0 +1,50 @@
+# NKAP
+
+## Overview
+NKAP (NFKB activating protein) is a gene that encodes a multifunctional nuclear protein involved in various cellular processes, including transcriptional regulation, RNA processing, and genome stability. The NKAP protein is characterized by its intrinsically disordered regions and specific domains, such as the DUF926 domain, which contribute to its diverse functional roles. As a transcriptional repressor, NKAP interacts with histone deacetylase 3 (HDAC3) to prevent R-loop accumulation, thereby maintaining genome stability and facilitating proper transcription and splicing processes. Additionally, NKAP is implicated in T cell development, RNA splicing, and chromosome alignment during mitosis. Its interactions with other proteins and nucleic acids, such as the long non-coding RNA GRAS1 and m6A-modified mRNA, further underscore its significance in cellular homeostasis and disease contexts, including its role as an oncogene in various cancers (Zhang2023NKAP; Su2023GRAS1).
+
+## Structure
+NKAP (NFKB activating protein) is a multifunctional nuclear protein involved in transcriptional regulation and RNA processing. The protein is composed of 415 amino acids and contains highly charged repetitive sequences, such as Ser-Arg and poly-Lys, which suggest that it is intrinsically disordered through most of its length. However, a short helix is formed by residues 329-358, which plays a role in stabilizing the spliceosome complex by bridging the N- and C-terminal fragments of Slu7 bound to Prp8 (Fica2019A).
+
+NKAP contains specific domains, including the DUF926 domain, which is also referred to as SynMuv. This domain is highly conserved and shows approximately 70% identity with the corresponding domain in mammalian NKAP, playing a role in regulating the function of the N-terminal domain (Burgute2016The). The protein also interacts with histone deacetylase HDAC3, and specific amino acid residues, such as those in the segment between 341 and 364, are crucial for this interaction (Shapiro2019NKAP).
+
+Post-translational modifications, such as ubiquitination, have been suggested, particularly in the context of interactions with Prp19, which may influence protein stability and localization (Burgute2016The). NKAP's interaction with HDAC3 is essential for maintaining genome stability and preventing R-loop accumulation (Zhang2023NKAP).
+
+## Function
+The NKAP gene encodes a protein that plays a crucial role in maintaining genome stability by preventing the accumulation of R-loops, which are three-stranded nucleic acid structures that can cause DNA damage and genomic instability if not properly regulated. NKAP achieves this by forming a complex with histone deacetylase 3 (HDAC3), which helps stabilize NKAP and prevent R-loop formation. This interaction is essential for maintaining the progression of DNA replication forks and preventing DNA damage (Zhang2023NKAP).
+
+NKAP is involved in regulating RNA polymerase II pausing, which is crucial for proper transcription and splicing processes. Depletion of NKAP leads to decreased RNA polymerase II signals at transcription start and end sites, suggesting that NKAP helps maintain the duration of polymerase pausing to prevent R-loop accumulation (Zhang2023NKAP). NKAP's function in preventing R-loop accumulation is transcription-dependent, and its interaction with HDAC3 is crucial for its stability, independent of HDAC3's deacetylase activity (Zhang2023NKAP).
+
+In addition to its role in genome stability, NKAP is involved in various biological processes, including T cell development, RNA splicing, and chromosome alignment during mitosis, indicating its multifunctional role in cellular processes (Zhang2023NKAP).
+
+## Clinical Significance
+NKAP (NFKB activating protein) has been implicated in various cancers due to its role as a transcriptional repressor and its involvement in the NF-κB signaling pathway. In gastric cancer, NKAP is up-regulated and acts as an oncogene. It is a direct target of miR-4766-5p, a microRNA that is down-regulated in gastric cancer tissues. The interaction between miR-4766-5p and NKAP leads to the inactivation of the AKT/mTOR signaling pathway, which is crucial for tumor cell proliferation and survival. Overexpression of miR-4766-5p reduces NKAP expression, inhibiting tumor growth and progression in gastric cancer models (Wei2019<p>MiR47665p).
+
+NKAP is also considered an oncogene in other cancers, such as hepatocellular carcinoma, glioma, and breast cancer. High levels of NKAP are observed in these tumors, suggesting its role in cancer progression. Its interaction with FADD (Fas-Associated protein with Death Domain) and involvement in the NOTCH co-repressor complex further highlight its significance in cancer biology (MarínRubio2019FADD). However, specific mutations in the NKAP gene have not been detailed in the provided context.
+
+## Interactions
+NKAP (NFKB activating protein) is involved in several critical interactions with proteins and nucleic acids, playing a significant role in cellular processes. NKAP forms a complex with histone deacetylase 3 (HDAC3), which is crucial for preventing R-loop accumulation and maintaining genome stability. This interaction is essential for regulating RNA polymerase II pausing and preventing DNA damage associated with R-loops (Zhang2023NKAP). NKAP's interaction with HDAC3 is also vital for the development of invariant natural killer T (iNKT) cells, as both proteins are required for proper iNKT cell development (Thapa2013The).
+
+NKAP also interacts with the long non-coding RNA GRAS1, which stabilizes NKAP protein levels by protecting it from proteasomal degradation. This interaction is important for cell survival and DNA integrity, as GRAS1 knockdown leads to decreased NKAP protein levels and increased DNA damage (Su2023GRAS1).
+
+In glioblastoma cells, NKAP acts as an m6A reader, binding to m6A-containing sites on mRNA and recruiting the protein SFPQ to promote alternative splicing events. This interaction is crucial for regulating the expression of the SLC7A11 gene and protecting cells from ferroptosis (Sun2022RNA).
+
+
+## References
+
+
+[1. (Fica2019A) Sebastian M. Fica, Chris Oubridge, Max E. Wilkinson, Andrew J. Newman, and Kiyoshi Nagai. A human postcatalytic spliceosome structure reveals essential roles of metazoan factors for exon ligation. Science, 363(6428):710–714, February 2019. URL: http://dx.doi.org/10.1126/science.aaw5569, doi:10.1126/science.aaw5569. This article has 98 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.aaw5569)
+
+[2. (Burgute2016The) Bhagyashri D. Burgute, Vivek S. Peche, Rolf Müller, Jan Matthias, Berthold Gaßen, Ludwig Eichinger, Gernot Glöckner, and Angelika A. Noegel. The c-terminal synmuv/ddduf926 domain regulates the function of the n-terminal domain of ddnkap. PLOS ONE, 11(12):e0168617, December 2016. URL: http://dx.doi.org/10.1371/journal.pone.0168617, doi:10.1371/journal.pone.0168617. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0168617)
+
+[3. (Zhang2023NKAP) Xing Zhang, Jingwei Duan, Yang Li, Xiaoye Jin, Cheng Wu, Xiaohang Yang, Weiguo Lu, and Wanzhong Ge. Nkap acts with hdac3 to prevent r-loop associated genome instability. Cell Death &amp; Differentiation, 30(7):1811–1828, June 2023. URL: http://dx.doi.org/10.1038/s41418-023-01182-5, doi:10.1038/s41418-023-01182-5. This article has 6 citations.](https://doi.org/10.1038/s41418-023-01182-5)
+
+4. (Su2023GRAS1) GRAS1 non-coding RNA protects against DNA damage and cell death by binding and stabilizing NKAP. This article has 0 citations.
+
+[5. (MarínRubio2019FADD) José L Marín-Rubio, Laura Vela-Martín, José Fernández-Piqueras, and María Villa-Morales. Fadd in cancer: mechanisms of altered expression and function, and clinical implications. Cancers, 11(10):1462, September 2019. URL: http://dx.doi.org/10.3390/cancers11101462, doi:10.3390/cancers11101462. This article has 39 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers11101462)
+
+[6. (Shapiro2019NKAP) Michael Jeremy Shapiro, Michael Jonathan Lehrke, Ji Young Chung, Sinibaldo Romero Arocha, and Virginia Smith Shapiro. Nkap must associate with hdac3 to regulate hematopoietic stem cell maintenance and survival. The Journal of Immunology, 202(8):2287–2295, April 2019. URL: http://dx.doi.org/10.4049/jimmunol.1800862, doi:10.4049/jimmunol.1800862. This article has 5 citations.](https://doi.org/10.4049/jimmunol.1800862)
+
+[7. (Thapa2013The) Puspa Thapa, Joy Das, Douglas McWilliams, Michael Shapiro, Rhianna Sundsbak, Molly Nelson-Holte, Sarah Tangen, Joshua Anderson, Stephen Desiderio, Scott Hiebert, Derek B. Sant’Angelo, and Virginia Smith Shapiro. The transcriptional repressor nkap is required for the development of inkt cells. Nature Communications, March 2013. URL: http://dx.doi.org/10.1038/ncomms2580, doi:10.1038/ncomms2580. This article has 44 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms2580)
+
+[8. (Sun2022RNA) Shicheng Sun, Taihong Gao, Bo Pang, Xiangsheng Su, Changfa Guo, Rui Zhang, and Qi Pang. Rna binding protein nkap protects glioblastoma cells from ferroptosis by promoting slc7a11 mrna splicing in an m6a-dependent manner. Cell Death &amp; Disease, January 2022. URL: http://dx.doi.org/10.1038/s41419-022-04524-2, doi:10.1038/s41419-022-04524-2. This article has 69 citations.](https://doi.org/10.1038/s41419-022-04524-2)

@@ -1,0 +1,45 @@
+# GET3
+
+## Overview
+The GET3 gene encodes the guided entry of tail-anchored proteins factor 3, an ATPase that plays a pivotal role in the post-translational targeting of tail-anchored (TA) proteins to the endoplasmic reticulum (ER) membrane. This protein is essential for the proper insertion of TA proteins, which are characterized by a single C-terminal transmembrane domain and are involved in critical cellular processes such as membrane fusion, protein translocation, and apoptosis (Schuldiner2008The; Bozkurt2009Structural). Structurally, GET3 forms a homodimer, with each monomer containing an ATPase domain and a dynamic α-helical subdomain, which are crucial for its function in TA protein binding and insertion (Bozkurt2009Structural). The activity of GET3 is regulated through its interactions with other proteins in the GET pathway, including the Get1/Get2 receptor complex and the Get4/Get5 proteins, which modulate its ATPase activity and facilitate the efficient targeting and insertion of TA proteins into the ER membrane (Schuldiner2008The; Gristick2014Crystal).
+
+## Structure
+The GET3 protein, also known as guided entry of tail-anchored proteins factor 3, is an ATPase involved in the post-translational targeting of tail-anchored proteins to the endoplasmic reticulum. Structurally, GET3 is characterized by a homodimeric formation, which is essential for its function. Each monomer of GET3 comprises an ATPase domain and an α-helical subdomain. The ATPase domain is similar to G-type hydrolases and includes a conserved 'P-loop' and a 'deviant' Walker A motif, which are crucial for nucleotide binding and hydrolysis (Bozkurt2009Structural; Suloway2009Model).
+
+The α-helical subdomain is dynamic and solvent-accessible, playing a significant role in tail-anchored protein binding. This subdomain includes helices α6, α7, and α9, which are part of the TA protein-binding site and exhibit high B-factors, indicating their flexibility (Bozkurt2009Structural). The dimer interface of GET3 is stabilized by a zinc ion, which acts as a hinge, allowing the dimer to open and close depending on nucleotide binding (Bozkurt2009Structural).
+
+GET3 undergoes conformational changes between open and closed states, influenced by its nucleotide-bound form. These structural transitions are critical for its function in TA protein binding and insertion into membranes (Bozkurt2009Structural).
+
+## Function
+GET3, also known as guided entry of tail-anchored proteins factor 3, is an ATPase that plays a critical role in the post-translational targeting and insertion of tail-anchored (TA) proteins into the endoplasmic reticulum (ER) membrane. These TA proteins, characterized by a single C-terminal transmembrane domain, are essential for various cellular functions, including membrane fusion, protein translocation, and apoptosis (Schuldiner2008The; Bozkurt2009Structural).
+
+In healthy human cells, GET3 operates by recognizing and binding the transmembrane domains of TA proteins in the cytosol. It then targets these proteins to the ER, where they are inserted into the membrane with the assistance of the Get1/Get2 receptor complex (Schuldiner2008The; Stefer2011Structural). This process is ATP-dependent, with ATP hydrolysis facilitating the release of GET3 from its receptor, ensuring efficient protein insertion (Gristick2014Crystal; Bozkurt2009Structural).
+
+GET3's function is regulated by its interaction with other proteins in the GET pathway, such as Get4 and Get5, which modulate its ATPase activity and stabilize it in a conformation suitable for TA protein binding (Gristick2014Crystal). The proper functioning of GET3 is crucial for maintaining cellular homeostasis, as disruptions in TA protein insertion can lead to cellular defects (Schuldiner2008The).
+
+## Interactions
+GET3, an ATPase involved in the post-translational targeting of tail-anchored proteins, interacts with several proteins within the guided entry of tail-anchored (GET) pathway. It forms a complex with the Get4/Get5 proteins, which are crucial for transferring tail-anchored proteins from Sgt2 to GET3. This interaction is facilitated by electrostatic attractions and occurs at diffusion-limited rates, allowing GET3 to form a tight complex with Get4/5 while sampling multiple complexes to find its tail-anchored substrate (Rome2014Differential; Chang2010Crystal).
+
+GET3 also interacts with the Get1/2 receptor complex at the endoplasmic reticulum (ER) membrane. Get1 is primarily responsible for the disassembly of the GET3/tail-anchored protein complex, while Get2 assists in binding. This interaction is crucial for the capture and remodeling of the GET3/tail-anchored complex, facilitating the release of the tail-anchored protein into the ER membrane (Stefer2011Structural; Rome2014Differential).
+
+The interaction between GET3 and these proteins is nucleotide-dependent, with ATP binding influencing the conformational state of GET3, which in turn affects its interactions with other components of the GET pathway (Chartron2010Structural; Bozkurt2009Structural).
+
+
+## References
+
+
+[1. (Gristick2014Crystal) Harry B Gristick, Meera Rao, Justin W Chartron, Michael E Rome, Shu-ou Shan, and William M Clemons. Crystal structure of atp-bound get3–get4–get5 complex reveals regulation of get3 by get4. Nature Structural &amp; Molecular Biology, 21(5):437–442, April 2014. URL: http://dx.doi.org/10.1038/nsmb.2813, doi:10.1038/nsmb.2813. This article has 64 citations.](https://doi.org/10.1038/nsmb.2813)
+
+[2. (Bozkurt2009Structural) Gunes Bozkurt, Goran Stjepanovic, Fabio Vilardi, Stefan Amlacher, Klemens Wild, Gert Bange, Vincenzo Favaloro, Karsten Rippe, Ed Hurt, Bernhard Dobberstein, and Irmgard Sinning. Structural insights into tail-anchored protein binding and membrane insertion by get3. Proceedings of the National Academy of Sciences, 106(50):21131–21136, December 2009. URL: http://dx.doi.org/10.1073/pnas.0910223106, doi:10.1073/pnas.0910223106. This article has 89 citations.](https://doi.org/10.1073/pnas.0910223106)
+
+[3. (Stefer2011Structural) Susanne Stefer, Simon Reitz, Fei Wang, Klemens Wild, Yin-Yuin Pang, Daniel Schwarz, Jörg Bomke, Christopher Hein, Frank Löhr, Frank Bernhard, Vladimir Denic, Volker Dötsch, and Irmgard Sinning. Structural basis for tail-anchored membrane protein biogenesis by the get3-receptor complex. Science, 333(6043):758–762, August 2011. URL: http://dx.doi.org/10.1126/science.1207125, doi:10.1126/science.1207125. This article has 127 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.1207125)
+
+[4. (Rome2014Differential) Michael E. Rome, Un Seng Chio, Meera Rao, Harry Gristick, and Shu-ou Shan. Differential gradients of interaction affinities drive efficient targeting and recycling in the get pathway. Proceedings of the National Academy of Sciences, November 2014. URL: http://dx.doi.org/10.1073/pnas.1411284111, doi:10.1073/pnas.1411284111. This article has 34 citations.](https://doi.org/10.1073/pnas.1411284111)
+
+[5. (Chang2010Crystal) Yi-Wei Chang, Yu-Chien Chuang, Yu-Chi Ho, Ming-Yuan Cheng, Yuh-Ju Sun, Chwan-Deng Hsiao, and Chung Wang. Crystal structure of get4-get5 complex and its interactions with sgt2, get3, and ydj1. Journal of Biological Chemistry, 285(13):9962–9970, March 2010. URL: http://dx.doi.org/10.1074/jbc.m109.087098, doi:10.1074/jbc.m109.087098. This article has 98 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m109.087098)
+
+[6. (Chartron2010Structural) Justin W. Chartron, Christian J. M. Suloway, Ma’ayan Zaslaver, and William M. Clemons. Structural characterization of the get4/get5 complex and its interaction with get3. Proceedings of the National Academy of Sciences, 107(27):12127–12132, June 2010. URL: http://dx.doi.org/10.1073/pnas.1006036107, doi:10.1073/pnas.1006036107. This article has 91 citations.](https://doi.org/10.1073/pnas.1006036107)
+
+[7. (Suloway2009Model) Christian J. M. Suloway, Justin W. Chartron, Ma’ayan Zaslaver, and William M. Clemons. Model for eukaryotic tail-anchored protein binding based on the structure of get3. Proceedings of the National Academy of Sciences, 106(35):14849–14854, September 2009. URL: http://dx.doi.org/10.1073/pnas.0907522106, doi:10.1073/pnas.0907522106. This article has 76 citations.](https://doi.org/10.1073/pnas.0907522106)
+
+[8. (Schuldiner2008The) Maya Schuldiner, Jutta Metz, Volker Schmid, Vladimir Denic, Magdalena Rakwalska, Hans Dieter Schmitt, Blanche Schwappach, and Jonathan S. Weissman. The get complex mediates insertion of tail-anchored proteins into the er membrane. Cell, 134(4):634–645, August 2008. URL: http://dx.doi.org/10.1016/j.cell.2008.06.025, doi:10.1016/j.cell.2008.06.025. This article has 434 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2008.06.025)

@@ -1,0 +1,62 @@
+# IRF9
+
+## Overview
+IRF9 is a gene that encodes the protein interferon regulatory factor 9, a transcription factor integral to the immune response, particularly in mediating the effects of type I interferons (IFNs). The IRF9 protein is a member of the interferon regulatory factors (IRFs) and is characterized by its DNA-binding domain and IRF-associated domain, which facilitate its role in forming the interferon-stimulated gene factor 3 (ISGF3) complex with STAT1 and STAT2. This complex is essential for the transcriptional activation of interferon-stimulated genes (ISGs), which are crucial for antiviral defense (Platanitis2019A; Paul2018Interferon). IRF9 also forms a STAT2-IRF9 complex that can function independently of STAT1, contributing to basal ISG expression and prolonged antiviral responses (Blaszczyk2015STAT2IRF9). The protein's interactions and post-translational modifications, such as acetylation and phosphorylation, are vital for its regulatory functions in immune signaling pathways (Paul2018Interferon; Paul2023Phosphorylation).
+
+## Structure
+IRF9, a member of the interferon regulatory factors (IRFs), has a distinct molecular structure characterized by specific domains. It contains a DNA-binding domain (DBD) at the N-terminus, which is a helix-turn-helix motif with five conserved tryptophan residues crucial for DNA interaction (Sobhkhez2014Structural; Paul2018Interferon). The IRF-associated domain (IAD) at the C-terminus is involved in protein-protein interactions, particularly with STAT2, forming part of the ISGF3 complex (Paul2018Interferon). The IAD retains a crescent shape similar to the Mad-homology 2 domain fold found in other IRFs (Paul2018Interferon).
+
+IRF9 lacks an autoinhibitory domain, which is present in other IRFs, suggesting it may be constitutively active (Paul2018Interferon). The protein also features a bipartite nuclear localization signal (NLS), facilitating its shuttling between the cytoplasm and nucleus (Paul2018Interferon). Post-translational modifications include acetylation at Lys81, essential for DNA binding and ISGF3 complex formation, and phosphorylation at serine residues S252 and S253, which may regulate its activity (Paul2018Interferon; Paul2023Phosphorylation). These structural features and modifications are critical for IRF9's role in the immune response.
+
+## Function
+Interferon regulatory factor 9 (IRF9) is a transcription factor that plays a pivotal role in the immune response by mediating the effects of type I interferons (IFNs). In healthy human cells, IRF9 is a component of the interferon-stimulated gene factor 3 (ISGF3) complex, which also includes STAT1 and STAT2. This complex is crucial for the transcriptional activation of interferon-stimulated genes (ISGs) that are essential for antiviral defense (Platanitis2019A; Paul2018Interferon).
+
+IRF9 can form a complex with STAT2 even in the absence of STAT1, known as the STAT2-IRF9 complex, which can drive the expression of certain ISGs independently of STAT1. This complex is involved in basal ISG expression and can provide a prolonged antiviral response (Blaszczyk2015STAT2IRF9; Platanitis2019A). IRF9 is active in both the cytoplasm and nucleus, where it shuttles to facilitate the transcription of ISGs (Paul2018Interferon).
+
+IRF9 also participates in the formation of the unphosphorylated ISGF3 (U-ISGF3) complex, which sustains the expression of ISGs in the absence of continuous IFN signaling, contributing to prolonged antiviral states and resistance to DNA damage (Cheon2013IFNβdependent).
+
+## Clinical Significance
+Mutations and dysregulation of the IRF9 gene are implicated in several diseases and conditions. In systemic lupus erythematosus (SLE) and mixed connective tissue disease (MCTD), IRF9 is crucial for the production of IgG autoantibodies and the expression of toll-like receptors (TLRs) in B cells. Mice deficient in IRF9 show defects in TLR7 and TLR9 expression, leading to impaired B cell responses and reduced autoantibody production, which are characteristic of these autoimmune diseases (Thibault2008IRF9; Antonczyk2019Direct).
+
+IRF9 deficiency also affects antiviral immunity. Homozygous IRF9 mutations can result in a phenotype similar to STAT2 deficiency, impacting IFN-I and IFN-III signaling pathways. This deficiency has been observed in children with increased susceptibility to viral infections, highlighting the gene's role in immune defense (Duncan2021Genetic).
+
+Altered IRF9 expression is linked to cancer progression. In lung cancer, IRF9, in conjunction with unphosphorylated STAT2, enhances IL6 expression, promoting STAT3 activation, which supports cancer cell survival and proliferation. High levels of IRF9 correlate with poor survival in lung adenocarcinoma patients (Nan2018IRF9).
+
+## Interactions
+IRF9, a key component of the interferon signaling pathway, participates in several critical protein interactions. It forms a complex with STAT1 and STAT2, known as the ISGF3 complex, which is essential for the transcription of interferon-stimulated genes (ISGs). This complex binds to interferon-stimulated response elements (ISREs) in DNA, facilitating gene expression in response to interferon signals (Platanitis2019A; Wu2017Interaction).
+
+IRF9 also interacts with STAT2 independently of STAT1, forming a STAT2-IRF9 complex that can regulate basal ISG expression without interferon signaling. This complex is involved in the transition to the ISGF3 complex upon interferon treatment, highlighting a dynamic switch in transcriptional regulation (Platanitis2019A).
+
+In addition to its role in ISGF3, IRF9 interacts with Cyclophilin A (CypA), a component of the ISGF3 complex. This interaction is specific and can be inhibited by CypA inhibitors, suggesting a regulatory role in IFN-induced transcriptional activities (Bobardt2013HCV).
+
+IRF9's interaction with STAT2 is also targeted by viral proteins, such as the measles virus V protein, which competes with IRF9 for binding to STAT2. This competition can disrupt the formation of the ISGF3 complex, illustrating a mechanism of viral immune evasion (Nagano2020The).
+
+
+## References
+
+
+[1. (Platanitis2019A) Ekaterini Platanitis, Duygu Demiroz, Anja Schneller, Katrin Fischer, Christophe Capelle, Markus Hartl, Thomas Gossenreiter, Mathias Müller, Maria Novatchkova, and Thomas Decker. A molecular switch from stat2-irf9 to isgf3 underlies interferon-induced gene transcription. Nature Communications, July 2019. URL: http://dx.doi.org/10.1038/s41467-019-10970-y, doi:10.1038/s41467-019-10970-y. This article has 152 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-10970-y)
+
+[2. (Sobhkhez2014Structural) Mehrdad Sobhkhez, Astrid Skjesol, Ernst Thomassen, Linn Greiner Tollersrud, Dimitar B. Iliev, Baojian Sun, Børre Robertsen, and Jorunn B. Jørgensen. Structural and functional characterization of salmon stat1, stat2 and irf9 homologs sheds light on interferon signaling in teleosts. FEBS Open Bio, 4(1):858–871, January 2014. URL: http://dx.doi.org/10.1016/j.fob.2014.09.007, doi:10.1016/j.fob.2014.09.007. This article has 30 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.fob.2014.09.007)
+
+[3. (Paul2018Interferon) Alvin Paul, Thean Hock Tang, and Siew Kit Ng. Interferon regulatory factor 9 structure and regulation. Frontiers in Immunology, August 2018. URL: http://dx.doi.org/10.3389/fimmu.2018.01831, doi:10.3389/fimmu.2018.01831. This article has 54 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2018.01831)
+
+[4. (Nan2018IRF9) Jing Nan, Yuxin Wang, Jinbo Yang, and George R. Stark. Irf9 and unphosphorylated stat2 cooperate with nf-κb to drive il6 expression. Proceedings of the National Academy of Sciences, 115(15):3906–3911, March 2018. URL: http://dx.doi.org/10.1073/pnas.1714102115, doi:10.1073/pnas.1714102115. This article has 86 citations.](https://doi.org/10.1073/pnas.1714102115)
+
+[5. (Paul2023Phosphorylation) Alvin Paul, Mohd Nazri Ismail, Thean Hock Tang, and Siew Kit Ng. Phosphorylation of interferon regulatory factor 9 (irf9). Molecular Biology Reports, 50(4):3909–3917, January 2023. URL: http://dx.doi.org/10.1007/s11033-023-08253-3, doi:10.1007/s11033-023-08253-3. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11033-023-08253-3)
+
+[6. (Blaszczyk2015STAT2IRF9) Katarzyna Blaszczyk, Adam Olejnik, Hanna Nowicka, Lilla Ozgyin, Yi-Ling Chen, Stefan Chmielewski, Kaja Kostyrko, Joanna Wesoly, Balint Laszlo Balint, Chien-Kuo Lee, and Hans A.R. Bluyssen. Stat2/irf9 directs a prolonged isgf3-like transcriptional response and antiviral activity in the absence of stat1. Biochemical Journal, 466(3):511–524, March 2015. URL: http://dx.doi.org/10.1042/bj20140644, doi:10.1042/bj20140644. This article has 85 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20140644)
+
+[7. (Duncan2021Genetic) Christopher J.A. Duncan, Richard E. Randall, and Sophie Hambleton. Genetic lesions of type i interferon signalling in human antiviral immunity. Trends in Genetics, 37(1):46–58, January 2021. URL: http://dx.doi.org/10.1016/j.tig.2020.08.017, doi:10.1016/j.tig.2020.08.017. This article has 61 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tig.2020.08.017)
+
+[8. (Bobardt2013HCV) Michael Bobardt, Sam Hopkins, James Baugh, Udayan Chatterji, Felicia Hernandez, John Hiscott, Ann Sluder, Kai Lin, and Philippe A. Gallay. Hcv ns5a and irf9 compete for cypa binding. Journal of Hepatology, 58(1):16–23, January 2013. URL: http://dx.doi.org/10.1016/j.jhep.2012.08.007, doi:10.1016/j.jhep.2012.08.007. This article has 25 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.jhep.2012.08.007)
+
+[9. (Cheon2013IFNβdependent) HyeonJoo Cheon, Elise G Holvey-Bates, John W Schoggins, Samuel Forster, Paul Hertzog, Naoko Imanaka, Charles M Rice, Mark W Jackson, Damian J Junk, and George R Stark. Ifnβ-dependent increases in stat1, stat2, and irf9 mediate resistance to viruses and dna damage. The EMBO Journal, 32(20):2751–2763, September 2013. URL: http://dx.doi.org/10.1038/emboj.2013.203, doi:10.1038/emboj.2013.203. This article has 277 citations.](https://doi.org/10.1038/emboj.2013.203)
+
+[10. (Nagano2020The) Yuma Nagano, Aoi Sugiyama, Madoka Kimoto, Takuya Wakahara, Yasuyo Noguchi, Xinxin Jiang, Shinya Saijo, Nobutaka Shimizu, Nana Yabuno, Min Yao, Paul R. Gooley, Gregory W. Moseley, Takashi Tadokoro, Katsumi Maenaka, and Toyoyuki Ose. The measles virus v protein binding site to stat2 overlaps that of irf9. Journal of Virology, August 2020. URL: http://dx.doi.org/10.1128/jvi.01169-20, doi:10.1128/jvi.01169-20. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/jvi.01169-20)
+
+[11. (Thibault2008IRF9) Donna L. Thibault, Alvina D. Chu, Kareem L. Graham, Imelda Balboni, Lowen Y. Lee, Cassidy Kohlmoos, Angela Landrigan, John P. Higgins, Robert Tibshirani, and Paul J. Utz. Irf9 and stat1 are required for igg autoantibody production and b cell expression of tlr7 in mice. Journal of Clinical Investigation, 118(4):1417–1426, April 2008. URL: http://dx.doi.org/10.1172/jci30065, doi:10.1172/jci30065. This article has 82 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci30065)
+
+[12. (Wu2017Interaction) Zhen Wu, Liqiang Wang, Xiaowen Xu, Gang Lin, Huiling Mao, Xiaoqin Ran, Tao Zhang, Keyi Huang, Haizhou Wang, Qingli Huang, Qun Xu, and Chengyu Hu. Interaction of irf9 and stat2 synergistically up-regulates ifn and pkr transcription in ctenopharyngodon idella. Molecular Immunology, 85:273–282, May 2017. URL: http://dx.doi.org/10.1016/j.molimm.2017.03.013, doi:10.1016/j.molimm.2017.03.013. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.molimm.2017.03.013)
+
+[13. (Antonczyk2019Direct) Aleksandra Antonczyk, Bart Krist, Malgorzata Sajek, Agata Michalska, Anna Piaszyk-Borychowska, Martyna Plens-Galaska, Joanna Wesoly, and Hans A. R. Bluyssen. Direct inhibition of irf-dependent transcriptional regulatory mechanisms associated with disease. Frontiers in Immunology, May 2019. URL: http://dx.doi.org/10.3389/fimmu.2019.01176, doi:10.3389/fimmu.2019.01176. This article has 99 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2019.01176)

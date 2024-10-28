@@ -1,0 +1,31 @@
+# SLC35B1
+
+## Overview
+The SLC35B1 gene encodes the protein solute carrier family 35 member B1, also known as AXER, which is a transmembrane protein located in the endoplasmic reticulum (ER) membrane. This protein functions primarily as an ATP/ADP exchanger, playing a critical role in maintaining ATP levels within the ER, which is essential for various cellular processes, including protein biogenesis and calcium homeostasis (Klein2018AXER). The SLC35B1 protein is characterized by its ten transmembrane helices and specific structural motifs that facilitate its function in nucleotide exchange and interaction with other ER proteins (Klein2018AXER). Additionally, SLC35B1 is involved in the transport of UDP-glucuronic acid, contributing to detoxification and metabolic processes (Ondo2020SLC35B1). Through its interactions and regulatory roles, SLC35B1 is integral to the proper functioning of the ER and cellular homeostasis.
+
+## Structure
+The SLC35B1 protein is an endoplasmic reticulum (ER) membrane protein that exists in three isoforms in HeLa cells, with Isoform 2 being the only one identified in canine pancreatic microsomes (Klein2018AXER). It is predicted to have ten transmembrane helices, which are characteristic of its role as an ATP/ADP exchanger in the ER membrane (Klein2018AXER). The hypothetical structural model of SLC35B1, predicted by the Phyre2 server, highlights transmembrane helices and clusters of positively charged amino acid residues, particularly flanking transmembrane domain 5, which may be involved in substrate steering and Mg2+ stripping from nucleotides (Klein2018AXER).
+
+The protein includes an ER retention motif near the carboxy terminus and a unique IQ motif, which are relevant to its molecular structure and function (Klein2018AXER). SLC35B1 operates in an antiport mode, facilitating ATP uptake and ADP release, and is highly specific for these nucleotides, with no competition from other nucleotides (Klein2018AXER). The protein's interactome supports its localization in the ER membrane, interacting with partners involved in ER protein import and cellular calcium homeostasis (Klein2018AXER).
+
+## Function
+The SLC35B1 gene encodes a protein that functions as an ATP/ADP exchanger in the membrane of the endoplasmic reticulum (ER) in human cells. This protein, named AXER, is crucial for maintaining ATP levels within the ER, which is essential for the activity of the Hsp70-type molecular chaperone BiP. BiP requires a constant supply of ATP to fulfill its role in protein biogenesis, facilitating selective protein import into the ER and limiting calcium (Ca2+) leakage by affecting the gating of the Sec61 channel (Klein2018AXER).
+
+SLC35B1 is also involved in a Ca2+-dependent regulatory circuit that ensures sufficient ATP supply to the ER. This circuit involves the regulation of Ca2+ leakage from the ER, mediated by BiP, and is influenced by the ATP/ADP ratio. A high ATP/ADP ratio limits Ca2+ leakage, while a low ratio leads to Ca2+ leakage, which then activates AMPK via CAMKK2, increasing ADP phosphorylation in glycolysis and leading to ATP import into the ER via AXER (Klein2018AXER).
+
+Additionally, SLC35B1 plays a significant role in the transport of UDP-glucuronic acid (UDPGA) into the ER for glucuronidation processes catalyzed by UDP-glucuronosyltransferases (UGTs), which are vital for detoxification and metabolism (Ondo2020SLC35B1).
+
+## Interactions
+SLC35B1, also known as AXER, is involved in several protein interactions within the endoplasmic reticulum (ER) membrane. It interacts with proteins primarily associated with ER protein import and cellular calcium homeostasis. Notable interaction partners include BiP, Calnexin, the Oligosaccharyltransferase complex, the Sec61 complex, the TRAP complex, ITPR1 and 3, and SERCA2 (Klein2018AXER). These interactions suggest that SLC35B1 plays a role in maintaining ER function and calcium balance.
+
+The protein is also part of a regulatory axis termed lowER, which is crucial for maintaining ATP levels in the ER. This axis involves interactions with BiP, calmodulin (CaM), and AMPK, forming a signaling mechanism that regulates ER and cytosolic calcium levels (Klein2018AXER). The lowER pathway is activated by changes in the ATP/ADP ratio and calcium levels, affecting processes like protein import and folding in the ER.
+
+SLC35B1's role as an ATP/ADP exchanger is essential for the activity of BiP, a molecular chaperone that requires ATP to function effectively in protein biogenesis (Klein2018AXER). The depletion of SLC35B1 leads to reduced ATP levels in the ER, impacting BiP activity and calcium homeostasis (Klein2018AXER).
+
+
+## References
+
+
+[1. (Klein2018AXER) Marie-Christine Klein, Katharina Zimmermann, Stefan Schorr, Martina Landini, Patrick A. W. Klemens, Jacqueline Altensell, Martin Jung, Elmar Krause, Duy Nguyen, Volkhard Helms, Jens Rettig, Claudia Fecher-Trost, Adolfo Cavalié, Markus Hoth, Ivan Bogeski, H. Ekkehard Neuhaus, Richard Zimmermann, Sven Lang, and Ilka Haferkamp. Axer is an atp/adp exchanger in the membrane of the endoplasmic reticulum. Nature Communications, August 2018. URL: http://dx.doi.org/10.1038/s41467-018-06003-9, doi:10.1038/s41467-018-06003-9. This article has 53 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-06003-9)
+
+[2. (Ondo2020SLC35B1) Kyoko Ondo, Hiroshi Arakawa, Masataka Nakano, Tatsuki Fukami, and Miki Nakajima. Slc35b1 significantly contributes to the uptake of udpga into the endoplasmic reticulum for glucuronidation catalyzed by udp-glucuronosyltransferases. Biochemical Pharmacology, 175:113916, May 2020. URL: http://dx.doi.org/10.1016/j.bcp.2020.113916, doi:10.1016/j.bcp.2020.113916. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.bcp.2020.113916)

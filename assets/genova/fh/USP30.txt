@@ -1,0 +1,62 @@
+# USP30
+
+## Overview
+USP30, or ubiquitin specific peptidase 30, is a gene that encodes a deubiquitinating enzyme primarily associated with the mitochondrial outer membrane. This enzyme plays a pivotal role in mitochondrial quality control by regulating processes such as mitophagy and mitochondrial dynamics. As a transmembrane protein, USP30 is involved in the removal of ubiquitin from mitochondrial proteins, thereby modulating the balance between mitochondrial fusion and fission, and influencing the PINK1/Parkin-mediated pathway for mitochondrial damage response (RusilowiczJones2020USP30; Wang2022USP30:). The enzyme's activity is crucial for maintaining cellular homeostasis and has been implicated in various diseases, including neurodegenerative disorders and cancer, due to its regulatory effects on mitochondrial morphology and function (Bingol2016Mechanisms; Liang2015USP).
+
+## Structure
+USP30 is a deubiquitinating enzyme primarily expressed in human skeletal muscle and is localized to the mitochondrial outer membrane due to its transmembrane domain (Wang2022USP30:; Quesada2004Cloning). The protein consists of 517 amino acids and features a unique catalytic triad composed of Cys77, His452, and Ser477, which is distinct from the typical Asp/Asn found in other USPs (Wang2022USP30:; Quesada2004Cloning). 
+
+Structurally, USP30 includes three subdomains: thumb, palm, and fingers, which are involved in its interaction with ubiquitin (Gersch2017Mechanism). The crystal structure of the USP30-Lys6-di-Ub complex reveals that the distal ubiquitin interacts with the S1 site, while the proximal ubiquitin interacts with the S1' site, stabilized by hydrophobic forces and hydrogen bonds (Wang2022USP30:). 
+
+Post-translational modifications of USP30 include phosphorylation by IKKβ at Ser210 and Ser364, which stabilizes the protein, and ubiquitination by Parkin, leading to its degradation (Wang2022USP30:). These modifications are crucial for USP30's role in physiological processes such as mitophagy (Wang2022USP30:).
+
+## Function
+USP30 (ubiquitin specific peptidase 30) is a deubiquitinating enzyme located in the mitochondrial outer membrane, where it plays a critical role in maintaining mitochondrial morphology and function. It is involved in the regulation of mitochondrial dynamics by modulating the balance between mitochondrial fusion and fission processes. USP30's activity is essential for maintaining normal mitochondrial morphology, as its depletion leads to elongated and interconnected mitochondria, indicating a shift towards increased fusion (Nakamura2008Regulation).
+
+USP30 also regulates mitophagy, the selective autophagy of damaged mitochondria, by counteracting the ubiquitin ligase Parkin. It removes ubiquitin from mitochondrial proteins, thereby preventing excessive mitophagy and maintaining cellular homeostasis (Bingol2016Mechanisms). This regulation is crucial for mitochondrial quality control, particularly in the PINK1/Parkin-mediated pathway, which is essential for responding to mitochondrial damage (RusilowiczJones2020USP30; Wang2022USP30:).
+
+In addition to its role in mitophagy, USP30 influences the ubiquitylation status of mitochondrial proteins, affecting processes such as mitochondrial import and fusion. It regulates the non-degradative ubiquitination of mitofusins, which is crucial for mitochondrial fusion (Yue2014A). Overall, USP30's activity is vital for maintaining mitochondrial and cellular health.
+
+## Clinical Significance
+Alterations in the expression or function of the USP30 gene have been implicated in several diseases, particularly neurodegenerative disorders and cancer. In Parkinson's disease (PD), USP30 plays a critical role in regulating mitophagy, the process of clearing damaged mitochondria. Overexpression of USP30 can block mitophagy, while its knockdown enhances mitochondrial degradation, suggesting that USP30 inhibition could be beneficial for PD treatment by promoting mitophagy (Marcassa2018Dual; Wang2022USP30:). 
+
+In cancer, USP30 is involved in regulating apoptotic cell death. Its depletion enhances depolarization-induced cell death in Parkin-overexpressing cells and sensitizes cancer cells to BH3-mimetics, indicating its potential as a target for combinatorial anti-cancer therapy (Liang2015USP). In acute myeloid leukemia (AML), the lncRNA USP30-AS1, which regulates USP30 expression, is associated with poor prognosis. USP30-AS1 promotes AML cell viability and inhibits apoptosis, suggesting that targeting USP30-AS1 could be a therapeutic strategy (Zhou2021LncRNA).
+
+USP30 is also implicated in pulmonary disorders, where it opposes PINK1/Parkin-mediated mitophagy, a process crucial in diseases like chronic obstructive pulmonary disease (COPD) and idiopathic pulmonary fibrosis (IPF) (Wang2022USP30:).
+
+## Interactions
+USP30, a deubiquitinating enzyme, is primarily associated with the outer mitochondrial membrane and plays a significant role in regulating mitophagy. It interacts with several proteins, notably TOM20, a component of the Translocase of the Outer Mitochondrial Membrane (TOM) complex. This interaction is crucial as USP30 deubiquitylates TOM20, counteracting Parkin-dependent ubiquitylation and influencing mitophagy processes (RusilowiczJones2020A; Liang2015USP). USP30 also interacts with other outer mitochondrial membrane proteins such as TOM22, and its depletion leads to enhanced degradation of these proteins (Liang2015USP).
+
+USP30's interaction with Parkin substrates, including MIRO, highlights its role in mitochondrial quality control. It deubiquitylates MIRO, affecting its post-translational stability and influencing apoptotic pathways (Liang2015USP). Additionally, USP30 is involved in the regulation of the PINK1-PARKIN pathway by modulating the ubiquitylation status of mitochondrial proteins, thereby setting the threshold for mitophagy induction (Marcassa2018Dual; RusilowiczJones2020A).
+
+USP30 does not have known interactions with nucleic acids, focusing instead on protein-protein interactions within mitochondrial dynamics (Jiang2020Probing; Damianou2024Integrative).
+
+
+## References
+
+
+[1. (Nakamura2008Regulation) Nobuhiro Nakamura and Shigehisa Hirose. Regulation of mitochondrial morphology by usp30, a deubiquitinating enzyme present in the mitochondrial outer membrane. Molecular Biology of the Cell, 19(5):1903–1911, May 2008. URL: http://dx.doi.org/10.1091/mbc.e07-11-1103, doi:10.1091/mbc.e07-11-1103. This article has 145 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e07-11-1103)
+
+[2. (Liang2015USP) Jin‐Rui Liang, Aitor Martinez, Jon D Lane, Ugo Mayor, Michael J Clague, and Sylvie Urbé. <scp>usp</scp> 30 deubiquitylates mitochondrial <scp>p</scp> arkin substrates and restricts apoptotic cell death. EMBO reports, 16(5):618–627, March 2015. URL: http://dx.doi.org/10.15252/embr.201439820, doi:10.15252/embr.201439820. This article has 139 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.15252/embr.201439820)
+
+[3. (Gersch2017Mechanism) Malte Gersch, Christina Gladkova, Alexander F Schubert, Martin A Michel, Sarah Maslen, and David Komander. Mechanism and regulation of the lys6-selective deubiquitinase usp30. Nature Structural &amp; Molecular Biology, 24(11):920–930, September 2017. URL: http://dx.doi.org/10.1038/nsmb.3475, doi:10.1038/nsmb.3475. This article has 176 citations.](https://doi.org/10.1038/nsmb.3475)
+
+[4. (Zhou2021LncRNA) Wei Zhou, Shilin Xu, Tingfen Deng, Ruiqing Zhou, and Caixia Wang. Lncrna usp30-as1 promotes the survival of acute myeloid leukemia cells by cis-regulating usp30 and ankrd13a. Human Cell, 35(1):360–378, October 2021. URL: http://dx.doi.org/10.1007/s13577-021-00636-7, doi:10.1007/s13577-021-00636-7. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s13577-021-00636-7)
+
+[5. (RusilowiczJones2020USP30) Emma V Rusilowicz-Jones, Jane Jardine, Andreas Kallinos, Adan Pinto-Fernandez, Franziska Guenther, Mariacarmela Giurrandino, Francesco G Barone, Katy McCarron, Christopher J Burke, Alejandro Murad, Aitor Martinez, Elena Marcassa, Malte Gersch, Alexandre J Buckmelter, Katherine J Kayser-Bricker, Frederic Lamoliatte, Akshada Gajbhiye, Simon Davis, Hannah C Scott, Emma Murphy, Katherine England, Heather Mortiboys, David Komander, Matthias Trost, Benedikt M Kessler, Stephanos Ioannidis, Michael K Ahlijanian, Sylvie Urbé, and Michael J Clague. Usp30 sets a trigger threshold for pink1–parkin amplification of mitochondrial ubiquitylation. Life Science Alliance, 3(8):e202000768, July 2020. URL: http://dx.doi.org/10.26508/lsa.202000768, doi:10.26508/lsa.202000768. This article has 78 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202000768)
+
+[6. (Yue2014A) Wen Yue, Ziheng Chen, Haiyang Liu, Chen Yan, Ming Chen, Du Feng, Chaojun Yan, Hao Wu, Lei Du, Yueying Wang, Jinhua Liu, Xiaohu Huang, Laixin Xia, Lei Liu, Xiaohui Wang, Haijing Jin, Jun Wang, Zhiyin Song, Xiaojiang Hao, and Quan Chen. A small natural molecule promotes mitochondrial fusion through inhibition of the deubiquitinase usp30. Cell Research, 24(4):482–496, February 2014. URL: http://dx.doi.org/10.1038/cr.2014.20, doi:10.1038/cr.2014.20. This article has 157 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/cr.2014.20)
+
+[7. (Quesada2004Cloning) Vı́ctor Quesada, Araceli Dı́az-Perales, Ana Gutiérrez-Fernández, Cecilia Garabaya, Santiago Cal, and Carlos López-Otı́n. Cloning and enzymatic analysis of 22 novel human ubiquitin-specific proteases. Biochemical and Biophysical Research Communications, 314(1):54–62, January 2004. URL: http://dx.doi.org/10.1016/j.bbrc.2003.12.050, doi:10.1016/j.bbrc.2003.12.050. This article has 186 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2003.12.050)
+
+[8. (Wang2022USP30:) Feng Wang, Yu Gao, Lihui Zhou, Junhao Chen, Zhiyan Xie, Zifan Ye, and Yanfeng Wang. Usp30: structure, emerging physiological role, and target inhibition. Frontiers in Pharmacology, March 2022. URL: http://dx.doi.org/10.3389/fphar.2022.851654, doi:10.3389/fphar.2022.851654. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2022.851654)
+
+9. (RusilowiczJones2020A) A novel USP30 inhibitor recapitulates genetic loss of USP30 and sets the trigger for PINK1-PARKIN amplification of mitochondrial ubiquitylation. This article has 3 citations.
+
+[10. (Bingol2016Mechanisms) Baris Bingol and Morgan Sheng. Mechanisms of mitophagy: pink1, parkin, usp30 and beyond. Free Radical Biology and Medicine, 100:210–222, November 2016. URL: http://dx.doi.org/10.1016/j.freeradbiomed.2016.04.015, doi:10.1016/j.freeradbiomed.2016.04.015. This article has 241 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.freeradbiomed.2016.04.015)
+
+11. (Damianou2024Integrative) Integrative Proximal-Ubiquitomics Profiling for Deubiquitinase and E3 Ligase Substrate Discovery Applied to USP30. This article has 0 citations.
+
+[12. (Marcassa2018Dual) Elena Marcassa, Andreas Kallinos, Jane Jardine, Emma V Rusilowicz‐Jones, Aitor Martinez, Sandra Kuehl, Markus Islinger, Michael J Clague, and Sylvie Urbé. Dual role of <scp>usp</scp> 30 in controlling basal pexophagy and mitophagy. EMBO reports, June 2018. URL: http://dx.doi.org/10.15252/embr.201745595, doi:10.15252/embr.201745595. This article has 125 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.15252/embr.201745595)
+
+[13. (Jiang2020Probing) Han-Kai Jiang, Yi-Hui Wang, Jui-Hung Weng, Prashant Kurkute, Chien-Lung Li, Man-Nee Lee, Pei-Jung Chen, Hsueh-Wei Tseng, Ming-Daw Tsai, and Yane-Shih Wang. Probing the active site of deubiquitinase usp30 with noncanonical tryptophan analogues. Biochemistry, 59(24):2205–2209, June 2020. URL: http://dx.doi.org/10.1021/acs.biochem.0c00307, doi:10.1021/acs.biochem.0c00307. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.biochem.0c00307)

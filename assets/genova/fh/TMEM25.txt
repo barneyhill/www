@@ -1,0 +1,34 @@
+# TMEM25
+
+## Overview
+TMEM25 is a gene that encodes the transmembrane protein 25, a member of the immunoglobulin superfamily. This protein is predominantly expressed in neuronal tissues, particularly within the hippocampus and cortex, where it plays a critical role in modulating synaptic transmission and neuronal excitability. TMEM25 is localized to late endosome/lysosome compartments and is involved in the regulation of NMDA receptor subunit NR2B degradation, impacting synaptic plasticity and cognitive functions (Zhang2019TMEM25). Beyond its neurological functions, TMEM25 has been implicated in cancer biology, particularly in triple-negative breast cancer (TNBC), where it acts as a tumor suppressor by inhibiting the epidermal growth factor receptor (EGFR)-mediated activation of the STAT3 signaling pathway (Bi2023TMEM25). The protein's dual role in neuronal function and cancer suppression underscores its potential as a therapeutic target in both neurological disorders and oncology.
+
+## Structure
+
+
+## Function
+TMEM25, a member of the immunoglobulin superfamily, is primarily expressed in neurons within the hippocampus and cortex, as well as in human brain tissue. It is localized to late endosome/lysosome compartments, where it plays a crucial role in modulating neuronal excitability and synaptic transmission by regulating the degradation of the NMDA receptor subunit NR2B (Zhang2019TMEM25). TMEM25 affects lysosomal acidification, which influences the degradation rate of NR2B. Downregulation of TMEM25 decreases lysosomal acidification, leading to reduced degradation of NR2B, while overexpression enhances NR2B degradation (Zhang2019TMEM25).
+
+TMEM25 specifically interacts with NR2B, as demonstrated by coimmunoprecipitation studies, but does not interact with other NMDA receptor subunits like NR2A or AMPAR (Zhang2019TMEM25). This interaction suggests that TMEM25 may regulate NR2B degradation at the protein level, impacting NMDA receptor-mediated excitatory postsynaptic currents (EPSCs) and maintaining neuronal excitability (Zhang2019TMEM25). The protein's role in these processes is crucial for synaptic plasticity and cognitive functions, although its specific function in healthy human cells outside of these contexts is not fully detailed in the available literature (Zhang2019TMEM25).
+
+## Clinical Significance
+TMEM25 has been identified as a significant factor in breast cancer, particularly in triple-negative breast cancer (TNBC). Alterations in TMEM25 expression are associated with cancer progression and patient prognosis. In breast cancer, TMEM25 expression is linked to improved overall survival and recurrence-free survival, especially in patients receiving adjuvant chemotherapy. Its expression is generally absent in triple-negative breast tumors, which are known for poor prognosis (Doolan2009TMEM25). 
+
+In TNBC, TMEM25 functions as a tumor suppressor by inhibiting the epidermal growth factor receptor (EGFR)-mediated activation of the STAT3 signaling pathway. This pathway is crucial for tumor growth and metastasis. Decreased expression of TMEM25 in TNBC correlates with increased STAT3 phosphorylation, promoting cancer progression. Overexpression of TMEM25 has been shown to inhibit tumor growth and STAT3 activation, suggesting its potential as a therapeutic target (Bi2023TMEM25).
+
+Mutations in TMEM25 can lead to conformational changes that affect its interaction with EGFR, allowing for increased STAT3 activation and potentially contributing to cancer progression. These findings highlight the clinical significance of TMEM25 in breast cancer, particularly as a potential target for therapy in TNBC (Bi2023TMEM25).
+
+## Interactions
+TMEM25 interacts specifically with the epidermal growth factor receptor (EGFR) but not with other members of the ErbB/HER family, such as HER2, HER3, or HER4. This interaction is crucial for inhibiting the monomeric EGFR-mediated activation of STAT3, a signaling pathway significant in the progression of triple-negative breast cancer (TNBC) (Bi2023TMEM25). TMEM25 can block the interaction between EGFR and STAT3, thereby inhibiting STAT3 phosphorylation. This is achieved through the cytosolic domain of TMEM25, which competitively binds to EGFR, preventing its interaction with STAT3 (Bi2023TMEM25).
+
+The interaction between TMEM25 and EGFR has been confirmed through various experimental methods, including co-immunoprecipitation and GST pull-down assays. These assays demonstrated that TMEM25 and EGFR interact through their N-terminal extracellular and C-terminal cytosolic domains (Bi2023TMEM25). TMEM25's role as a suppressor of EGFR/STAT3 signaling is highlighted by its ability to inhibit monomeric EGFR-mediated STAT3 activation, which is significant in suppressing TNBC progression (Bi2023TMEM25).
+
+
+## References
+
+
+[1. (Doolan2009TMEM25) P. Doolan, M. Clynes, S. Kennedy, J.P. Mehta, S. Germano, C. Ehrhardt, J. Crown, and L. O&rsquo;Driscoll. Tmem25, reps2 and meis 1: favourable prognostic and predictive biomarkers for breast cancer. Tumor Biology, 30(4):200–209, 2009. URL: http://dx.doi.org/10.1159/000239795, doi:10.1159/000239795. This article has 53 citations and is from a peer-reviewed journal.](https://doi.org/10.1159/000239795)
+
+[2. (Bi2023TMEM25) Jing Bi, Zhihui Wu, Xin Zhang, Taoling Zeng, Wanjun Dai, Ningyuan Qiu, Mingfeng Xu, Yikai Qiao, Lang Ke, Jiayi Zhao, Xinyu Cao, Qi Lin, Xiao Lei Chen, Liping Xie, Zhong Ouyang, Jujiang Guo, Liangkai Zheng, Chao Ma, Shiying Guo, Kangmei Chen, Wei Mo, Guo Fu, Tong-Jin Zhao, and Hong-Rui Wang. Tmem25 inhibits monomeric egfr-mediated stat3 activation in basal state to suppress triple-negative breast cancer progression. Nature Communications, April 2023. URL: http://dx.doi.org/10.1038/s41467-023-38115-2, doi:10.1038/s41467-023-38115-2. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-38115-2)
+
+[3. (Zhang2019TMEM25) Haiqing Zhang, Xin Tian, Xi Lu, Demei Xu, Yi Guo, Zhifang Dong, Yun Li, Yuanlin Ma, Chengzhi Chen, Yong Yang, Min Yang, Yi Yang, Feng Liu, Ruijiao Zhou, Miaoqing He, Fei Xiao, and Xuefeng Wang. Tmem25 modulates neuronal excitability and nmda receptor subunit nr2b degradation. Journal of Clinical Investigation, 129(9):3864–3876, August 2019. URL: http://dx.doi.org/10.1172/jci122599, doi:10.1172/jci122599. This article has 23 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci122599)

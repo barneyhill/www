@@ -1,0 +1,56 @@
+# ANKRD27
+
+## Overview
+ANKRD27 is a gene that encodes the ankyrin repeat domain 27 protein, also known as VARP, which is a key player in intracellular trafficking and membrane dynamics. The protein is characterized by its multi-domain structure, including a VPS9 domain and ankyrin repeat domains, which facilitate its role as a guanine nucleotide exchange factor (GEF) and its interactions with other proteins involved in endosomal trafficking, such as SNX27 and the Retromer complex (Chandra2024VARP). VARP is particularly important in the recycling of endosomes to the plasma membrane and the sorting of melanogenic enzymes, which are crucial for melanosome biogenesis and pigmentation (McGough2014Identification). The protein's interactions and regulatory functions in membrane fusion events underscore its significance in cellular processes, and its genetic variations have been linked to several clinical conditions, including eosinophilic esophagitis and susceptibility to SARS-CoV-2 infection (Sleiman2014GWAS; Fan2022Genomewide).
+
+## Structure
+ANKRD27, also known as VARP, is a multi-domain protein involved in endosomal trafficking. It contains a VPS9 domain and two ankyrin repeat domains, which are crucial for protein-protein interactions (Chandra2024VARP). The VPS9 domain is associated with guanine nucleotide exchange factor (GEF) activity, specifically towards Rab21, while the ankyrin repeat domains facilitate interactions with other proteins such as SNX27 and Retromer complexes (Chandra2024VARP).
+
+The protein's structure includes conserved cysteine-rich motifs adjacent to the ankyrin repeat domains, which are essential for its recruitment to endosomal membranes through binding to VPS29 (Chandra2024VARP). VARP also directly interacts with VAMP7, an R-SNARE involved in endocytic and secretory pathways, indicating its role in membrane trafficking processes (Chandra2024VARP).
+
+The N-terminal region of VARP is sufficient to promote the formation of an endosomal supercomplex with SNX27 and Retromer, highlighting its importance in membrane remodeling and cargo sorting (Chandra2024VARP). The study of VARP's interactions and structural features is ongoing, with computational methods like AlphaFold Multimer modeling being used to predict its molecular interactions (Chandra2024VARP). However, specific details on the primary, secondary, tertiary, or quaternary structure of ANKRD27 are not provided in the available context.
+
+## Function
+ANKRD27, also known as VARP, is a protein involved in intracellular trafficking and membrane dynamics. It plays a crucial role in endosome-to-plasma membrane recycling, particularly in the sorting and transport of melanogenic enzymes during melanosome biogenesis. This process is essential for the formation of lysosome-related organelles, such as melanosomes, which are involved in pigmentation (Sleiman2014GWAS; McGough2014Identification).
+
+ANKRD27 functions as an endosome-associated effector for Rab32 and Rab38, and it possesses guanine-nucleotide exchange activity against Rab21. It regulates the fusion of late endosomes with lysosomes by trapping the R-SNARE VAMP7 in a closed, fusogenically inactive conformation, thereby controlling membrane fusion events (Schäfer2012The; McGough2014Identification).
+
+In epithelial cells, ANKRD27 acts as a kinetic inhibitor of SNARE complex formations involving VAMP7, which is important for apical transport and wound healing (Sleiman2014GWAS). The protein is also involved in maintaining the cytoskeletal architecture of podocytes, as its expression is downregulated upon treatment with Angiotensin II, which disrupts the cytoskeleton (Erichsen2021Angiotensin).
+
+## Clinical Significance
+ANKRD27, also known as Varp, has been implicated in several clinical conditions due to its role in intracellular trafficking and membrane dynamics. Mutations or alterations in ANKRD27 have been associated with eosinophilic esophagitis (EoE), an inflammatory disorder of the esophagus. The gene is identified as an EoE-specific locus, with genetic variants at this locus likely affecting the expression of nearby genes, contributing to the disease's pathogenesis (Sleiman2014GWAS; Kottyan2017Genetics). 
+
+In the context of COVID-19, ANKRD27 has been identified as a gene potentially linked to SARS-CoV-2 infection susceptibility, suggesting that genetic variability in ANKRD27 may influence the susceptibility and severity of COVID-19 (Fan2022Genomewide). 
+
+Additionally, ANKRD27 has been associated with body mass index (BMI) through genetic studies, indicating a potential role in obesity risk (Akbari2021Sequencing). 
+
+While the gene has been mentioned in studies related to autism spectrum disorder (ASD), specific diseases or conditions directly resulting from mutations in ANKRD27 in this context have not been detailed (Kim2020Whole). Overall, ANKRD27's involvement in these conditions highlights its clinical significance in various disease processes.
+
+## Interactions
+ANKRD27, also known as VARP, is involved in several protein-protein interactions crucial for endosomal trafficking. It interacts with SNX27, a sorting nexin protein, through the SNX27 PDZ domain, promoting the formation of an endosomal supercomplex on membranes. This interaction is characterized by high nanomolar binding affinity and involves a 1:1 stoichiometry (Chandra2024VARP). VARP also binds to the Retromer complex, specifically the VPS29 subunit, and participates in the SNX27/Retromer recycling pathway (Chandra2024VARP).
+
+ANKRD27 functions as a Rab32/38 effector and displays GEF activity towards Rab21. It directly binds VAMP7, an R-SNARE involved in endocytic and secretory pathways (Chandra2024VARP). The interaction with SNX27 is crucial for the assembly, regulation, and cargo sorting of endosomal supercomplexes, and VARP may displace certain PDZbm cargo while incorporating VAMP7, suggesting a role in altering the architecture of the coat complex (Chandra2024VARP).
+
+ANKRD27's interaction with SNX27 does not interfere with the binding of PDZbm cargo motifs, and it may promote a conformational change in SNX27 that allows for the inclusion of PDZbm cargo and binding to SNX1 or SNX2 N-termini (Chandra2024VARP).
+
+
+## References
+
+
+[1. (Schäfer2012The) Ingmar B Schäfer, Geoffrey G Hesketh, Nicholas A Bright, Sally R Gray, Paul R Pryor, Philip R Evans, J Paul Luzio, and David J Owen. The binding of varp to vamp7 traps vamp7 in a closed, fusogenically inactive conformation. Nature Structural &amp; Molecular Biology, 19(12):1300–1309, October 2012. URL: http://dx.doi.org/10.1038/nsmb.2414, doi:10.1038/nsmb.2414. This article has 83 citations.](https://doi.org/10.1038/nsmb.2414)
+
+[2. (McGough2014Identification) Ian J. McGough, Florian Steinberg, Matthew Gallon, Ayaka Yatsu, Norihiko Ohbayashi, Kate J. Heesom, Mitsunori Fukuda, and Peter J. Cullen. Identification of molecular heterogeneity in snx27-retromer-mediated endosome-to-plasma membrane recycling. Journal of Cell Science, January 2014. URL: http://dx.doi.org/10.1242/jcs.156299, doi:10.1242/jcs.156299. This article has 75 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.156299)
+
+3. (Erichsen2021Angiotensin) Angiotensin II disrupts the cytoskeletal architecture of human urine-derived podocytes and results in activation of the renin-angiotensin system. This article has 1 citations.
+
+4. (Chandra2024VARP) VARP binds SNX27 to promote endosomal supercomplex formation on membranes. This article has 0 citations.
+
+[5. (Akbari2021Sequencing) Parsa Akbari, Ankit Gilani, Olukayode Sosina, Jack A. Kosmicki, Lori Khrimian, Yi-Ya Fang, Trikaldarshi Persaud, Victor Garcia, Dylan Sun, Alexander Li, Joelle Mbatchou, Adam E. Locke, Christian Benner, Niek Verweij, Nan Lin, Sakib Hossain, Kevin Agostinucci, Jonathan V. Pascale, Ercument Dirice, Michael Dunn, William E. Kraus, Svati H. Shah, Yii-Der I. Chen, Jerome I. Rotter, Daniel J. Rader, Olle Melander, Christopher D. Still, Tooraj Mirshahi, David J. Carey, Jaime Berumen-Campos, Pablo Kuri-Morales, Jesus Alegre-Díaz, Jason M. Torres, Jonathan R. Emberson, Rory Collins, Suganthi Balasubramanian, Alicia Hawes, Marcus Jones, Brian Zambrowicz, Andrew J. Murphy, Charles Paulding, Giovanni Coppola, John D. Overton, Jeffrey G. Reid, Alan R. Shuldiner, Michael Cantor, Hyun M. Kang, Goncalo R. Abecasis, Katia Karalis, Aris N. Economides, Jonathan Marchini, George D. Yancopoulos, Mark W. Sleeman, Judith Altarejos, Giusy Della Gatta, Roberto Tapia-Conyer, Michal L. Schwartzman, Aris Baras, Manuel A. R. Ferreira, and Luca A. Lotta. Sequencing of 640,000 exomes identifies gpr75 variants associated with protection from obesity. Science, July 2021. URL: http://dx.doi.org/10.1126/science.abf8683, doi:10.1126/science.abf8683. This article has 153 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.abf8683)
+
+[6. (Sleiman2014GWAS) Patrick M. A. Sleiman, Mei-Lun Wang, Antonella Cianferoni, Seema Aceves, Nirmala Gonsalves, Kari Nadeau, Albert J. Bredenoord, Glenn T. Furuta, Jonathan M. Spergel, and Hakon Hakonarson. Gwas identifies four novel eosinophilic esophagitis loci. Nature Communications, November 2014. URL: http://dx.doi.org/10.1038/ncomms6593, doi:10.1038/ncomms6593. This article has 186 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms6593)
+
+[7. (Kottyan2017Genetics) L.C. Kottyan and M.E. Rothenberg. Genetics of eosinophilic esophagitis. Mucosal Immunology, 10(3):580–588, May 2017. URL: http://dx.doi.org/10.1038/mi.2017.4, doi:10.1038/mi.2017.4. This article has 55 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/mi.2017.4)
+
+[8. (Fan2022Genomewide) Jie Fan, Quan-Xin Long, Ji-Hua Ren, Hao Chen, Meng-Meng Li, Zheng Cheng, Juan Chen, Li Zhou, and Ai-Long Huang. Genome-wide association study of sars-cov-2 infection in chinese population. European Journal of Clinical Microbiology &amp; Infectious Diseases, August 2022. URL: http://dx.doi.org/10.1007/s10096-022-04478-5, doi:10.1007/s10096-022-04478-5. This article has 0 citations.](https://doi.org/10.1007/s10096-022-04478-5)
+
+[9. (Kim2020Whole) Namshin Kim, Kyoung Hyoun Kim, Won-Jun Lim, Jiwoong Kim, Soon Ae Kim, and Hee Jeong Yoo. Whole exome sequencing identifies novel de novo variants interacting with six gene networks in autism spectrum disorder. Genes, 12(1):1, December 2020. URL: http://dx.doi.org/10.3390/genes12010001, doi:10.3390/genes12010001. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes12010001)

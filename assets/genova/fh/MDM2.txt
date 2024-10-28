@@ -1,0 +1,60 @@
+# MDM2
+
+## Overview
+MDM2 is a gene that encodes the MDM2 proto-oncogene, a protein that functions as an E3 ubiquitin ligase. This protein plays a pivotal role in the regulation of the tumor suppressor protein p53, which is crucial for maintaining cellular homeostasis and preventing tumorigenesis. The MDM2 protein is characterized by several functional domains, including a p53-binding domain and a RING finger domain, which are essential for its ubiquitin ligase activity and interaction with p53. By targeting p53 for degradation, MDM2 helps control p53 levels, preventing excessive cell cycle arrest or apoptosis under normal conditions. The interaction between MDM2 and p53 is a key focus in cancer research, as dysregulation of this pathway is implicated in various cancers. Therapeutic strategies are being developed to inhibit the MDM2-p53 interaction, aiming to restore p53's tumor suppressor functions in cancer cells (Murray2007Targeting; Momand2000MDM2; Freedman1999Functions).
+
+## Structure
+The MDM2 protein is an E3 ubiquitin ligase that plays a critical role in regulating the p53 tumor suppressor. Its molecular structure includes several functional domains that contribute to its activity. The N-terminal domain of MDM2 is involved in binding with small molecule inhibitors and is characterized by a flexible region (amino acids 1-24) and a more rigid core (amino acids 24-120) that contains the p53-binding domain. This domain features a p53-binding pocket formed by 14 residues, including lipophilic residues such as Leu54, Leu57, Ile61, and Val75, which are essential for interaction with p53 (Gureev2019Simulation).
+
+MDM2 also contains a RING finger domain, which is crucial for its ubiquitin ligase activity. This domain forms a homodimer that can bind two UbcH5B-Ub molecules, with specific residues (430-436) forming 3_10-helices that stabilize the structure through hydrophobic interactions (Magnussen2020Structural). Phosphorylation at Ser429 by ATM kinase enhances the binding affinity of the MDM2 homodimer for UbcH5B-Ub and increases its autoubiquitination activity, promoting p53 stabilization (Magnussen2020Structural). Additionally, MDM2 contains zinc finger motifs, including a C2H2 type zinc finger between residues 438 and 457, which contribute to its structural integrity and function (Chen1993Mapping).
+
+## Function
+The MDM2 proto-oncogene encodes a protein that plays a critical role in regulating the tumor suppressor protein p53, which is essential for maintaining cellular homeostasis. In healthy human cells, MDM2 functions as an E3 ubiquitin ligase, targeting p53 for degradation by the 26S proteasome. This process is crucial for controlling p53 levels, preventing excessive accumulation that could lead to unnecessary cell cycle arrest or apoptosis (Momand2000MDM2). MDM2 binds to the N-terminus of p53, facilitating its ubiquitination and subsequent degradation, and is involved in the nuclear export of p53, which is necessary for its degradation (Momand2000MDM2).
+
+MDM2 also contains a nuclear localization signal (NLS) and a nuclear export signal (NES), allowing it to shuttle between the nucleus and cytoplasm. This shuttling is essential for MDM2's role in downregulating p53 protein levels by transporting p53 to the cytoplasm for ubiquitin-mediated degradation (Freedman1999Functions). The regulation of p53 by MDM2 is part of a negative feedback loop where p53 upregulates MDM2 expression, and MDM2, in turn, downregulates p53 levels, ensuring that p53 is available to respond to cellular stress but is otherwise kept at low levels (Momand2000MDM2).
+
+## Clinical Significance
+MDM2 amplification and overexpression are significant in various cancers, contributing to tumorigenesis by inhibiting the tumor suppressor p53. MDM2 amplification is frequently observed in sarcomas, including osteosarcoma and liposarcoma, where it serves as an alternative mechanism to p53 mutation for inactivating the p53-signaling pathway (Oliner2016The). This amplification is also associated with hyperprogression in patients treated with immune checkpoint inhibitors, such as PD-1/PD-L1 blockers, leading to accelerated tumor growth (Kato2018Analysis).
+
+MDM2 overexpression can lead to therapeutic resistance in malignant tumors by activating the NF-κB signaling pathway, promoting anti-apoptotic pathways, and enhancing epithelial-mesenchymal transition (Hou2019The). It is also linked to drug resistance in non-small cell lung cancer (NSCLC) and reduced T cell activation in cancer patients treated with PD-1 inhibitors (Hou2019The).
+
+MDM2 inhibitors, such as nutlins, are being developed to disrupt the MDM2-p53 interaction, aiming to reactivate p53 and induce apoptosis in cancer cells. However, clinical trials have shown mixed results, with some MDM2-amplified tumors not responding to treatment, highlighting the need for better predictive biomarkers (Burgess2016Clinical; Oliner2016The).
+
+## Interactions
+MDM2 is a key regulator of the tumor suppressor protein p53, primarily through its role as an E3 ubiquitin ligase that targets p53 for degradation. The interaction between MDM2 and p53 is mediated by the binding of the p53 transactivation domain to a pocket in the N-terminal domain of MDM2. This interaction is crucial for regulating p53's activity in response to cellular stress, as MDM2 can inhibit p53's transcriptional activity and promote its degradation (Schon2002Molecular; Chi2005Structural).
+
+MDM2 also interacts with MDMX, a structurally similar protein, forming heterodimers that stabilize MDM2 and enhance its ability to regulate p53 levels. This interaction is significant in maintaining low p53 levels in healthy cells (Estrada‐Ortiz2015How). Beyond p53, MDM2 interacts with other proteins such as JMY and hnRNP K, promoting their degradation and modulating p53 activity. It also associates with IGF-1R, promoting its ubiquitylation and degradation, indicating a role in apoptosis independent of p53 (Marine2009Mdm2mediated).
+
+MDM2's interaction with p53 is a target for cancer therapy, with efforts focused on developing inhibitors that disrupt this interaction, thereby stabilizing p53 and enhancing its tumor suppressor functions (Murray2007Targeting).
+
+
+## References
+
+
+[1. (Oliner2016The) Jonathan D. Oliner, Anne Y. Saiki, and Sean Caenepeel. The role of mdm2 amplification and overexpression in tumorigenesis. Cold Spring Harbor Perspectives in Medicine, 6(6):a026336, May 2016. URL: http://dx.doi.org/10.1101/cshperspect.a026336, doi:10.1101/cshperspect.a026336. This article has 164 citations and is from a peer-reviewed journal.](https://doi.org/10.1101/cshperspect.a026336)
+
+[2. (Estrada‐Ortiz2015How) Natalia Estrada‐Ortiz, Constantinos G. Neochoritis, and Alexander Dömling. How to design a successful p53–mdm2/x interaction inhibitor: a thorough overview based on crystal structures. ChemMedChem, 11(8):757–772, December 2015. URL: http://dx.doi.org/10.1002/cmdc.201500487, doi:10.1002/cmdc.201500487. This article has 81 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/cmdc.201500487)
+
+[3. (Murray2007Targeting) Justin K. Murray and Samuel H. Gellman. Targeting protein–protein interactions: lessons from p53/mdm2. Peptide Science, 88(5):657–686, January 2007. URL: http://dx.doi.org/10.1002/bip.20741, doi:10.1002/bip.20741. This article has 156 citations.](https://doi.org/10.1002/bip.20741)
+
+[4. (Momand2000MDM2) Jamil Momand, Hsiao-Huei Wu, and Gargi Dasgupta. Mdm2 — master regulator of the p53 tumor suppressor protein. Gene, 242(1–2):15–29, January 2000. URL: http://dx.doi.org/10.1016/s0378-1119(99)00487-4, doi:10.1016/s0378-1119(99)00487-4. This article has 478 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0378-1119(99)00487-4)
+
+[5. (Hou2019The) Helei Hou, Dantong Sun, and Xiaochun Zhang. The role of mdm2 amplification and overexpression in therapeutic resistance of malignant tumors. Cancer Cell International, August 2019. URL: http://dx.doi.org/10.1186/S12935-019-0937-4, doi:10.1186/s12935-019-0937-4. This article has 199 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/S12935-019-0937-4)
+
+[6. (Burgess2016Clinical) Andrew Burgess, Kee Ming Chia, Sue Haupt, David Thomas, Ygal Haupt, and Elgene Lim. Clinical overview of mdm2/x-targeted therapies. Frontiers in Oncology, January 2016. URL: http://dx.doi.org/10.3389/fonc.2016.00007, doi:10.3389/fonc.2016.00007. This article has 251 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2016.00007)
+
+[7. (Kato2018Analysis) Shumei Kato, Jeffrey S. Ross, Laurie Gay, Farshid Dayyani, Jason Roszik, Vivek Subbiah, and Razelle Kurzrock. Analysis ofmdm2amplification: next-generation sequencing of patients with diverse malignancies. JCO Precision Oncology, pages 1–14, November 2018. URL: http://dx.doi.org/10.1200/PO.17.00235, doi:10.1200/po.17.00235. This article has 63 citations and is from a peer-reviewed journal.](https://doi.org/10.1200/PO.17.00235)
+
+[8. (Chen1993Mapping) J Chen, V Marechal, and A J Levine. Mapping of the p53 and mdm-2 interaction domains. Molecular and Cellular Biology, 13(7):4107–4114, July 1993. URL: http://dx.doi.org/10.1128/mcb.13.7.4107, doi:10.1128/mcb.13.7.4107. This article has 336 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.13.7.4107)
+
+[9. (Gureev2019Simulation) Maxim Gureev, Daria Novikova, Tatyana Grigoreva, Svetlana Vorona, Alexander Garabadzhiu, and Vyacheslav Tribulovich. Simulation of mdm2 n-terminal domain conformational lability in the presence of imidazoline based inhibitors of mdm2-p53 protein–protein interaction. Journal of Computer-Aided Molecular Design, 34(1):55–70, November 2019. URL: http://dx.doi.org/10.1007/s10822-019-00260-6, doi:10.1007/s10822-019-00260-6. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10822-019-00260-6)
+
+[10. (Magnussen2020Structural) Helge M. Magnussen, Syed F. Ahmed, Gary. J. Sibbet, Ventzislava A. Hristova, Koji Nomura, Andreas K. Hock, Lewis J. Archibald, Andrew G. Jamieson, David Fushman, Karen H. Vousden, Allan M. Weissman, and Danny T. Huang. Structural basis for dna damage-induced phosphoregulation of mdm2 ring domain. Nature Communications, April 2020. URL: http://dx.doi.org/10.1038/s41467-020-15783-y, doi:10.1038/s41467-020-15783-y. This article has 28 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-020-15783-y)
+
+[11. (Schon2002Molecular) Oliver Schon, Assaf Friedler, Mark Bycroft, Stefan M.V Freund, and Alan R Fersht. Molecular mechanism of the interaction between mdm2 and p53. Journal of Molecular Biology, 323(3):491–501, October 2002. URL: http://dx.doi.org/10.1016/s0022-2836(02)00852-5, doi:10.1016/s0022-2836(02)00852-5. This article has 275 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/s0022-2836(02)00852-5)
+
+[12. (Chi2005Structural) Seung-Wook Chi, Si-Hyung Lee, Do-Hyoung Kim, Min-Jung Ahn, Jae-Sung Kim, Jin-Young Woo, Takuya Torizawa, Masatsune Kainosho, and Kyou-Hoon Han. Structural details on mdm2-p53 interaction. Journal of Biological Chemistry, 280(46):38795–38802, November 2005. URL: http://dx.doi.org/10.1074/jbc.M508578200, doi:10.1074/jbc.m508578200. This article has 176 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M508578200)
+
+[13. (Freedman1999Functions) D. A. Freedman, L. Wu, and A. J. Levine. Functions of the mdm2 oncoprotein. Cellular and Molecular Life Sciences CMLS, 55(1):96–107, January 1999. URL: http://dx.doi.org/10.1007/s000180050273, doi:10.1007/s000180050273. This article has 441 citations.](https://doi.org/10.1007/s000180050273)
+
+[14. (Marine2009Mdm2mediated) J-C Marine and G Lozano. Mdm2-mediated ubiquitylation: p53 and beyond. Cell Death &amp; Differentiation, 17(1):93–102, June 2009. URL: http://dx.doi.org/10.1038/cdd.2009.68, doi:10.1038/cdd.2009.68. This article has 268 citations.](https://doi.org/10.1038/cdd.2009.68)

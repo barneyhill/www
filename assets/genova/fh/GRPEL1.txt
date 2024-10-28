@@ -1,0 +1,37 @@
+# GRPEL1
+
+## Overview
+GRPEL1 is a gene that encodes the mitochondrial protein GrpE-like 1, which functions as a nucleotide exchange factor within the mitochondrial matrix. This protein is a crucial component of the Hsp70 chaperone system, playing a significant role in the import and folding of proteins into mitochondria. Structurally, GrpE-like 1 is characterized by its dimeric formation and distinct domains, including N-terminal α-helices and a C-terminal β-sheet, which facilitate its interaction with mortalin, a mitochondrial Hsp70. This interaction is essential for the regulation of the ATPase cycle, ensuring proper mitochondrial proteostasis and cellular metabolism. The protein's function is particularly important in maintaining mitochondrial integrity and redox homeostasis, as it helps manage oxidative stress and reactive oxygen species production (Neupane2022Interorganellar; Morizono2024Structural; Allu2018A; Srivastava2017Regulation).
+
+## Structure
+The GRPEL1 protein, also known as GrpE-like 1, is a mitochondrial matrix protein that functions as a nucleotide exchange factor in the Hsp70 chaperone system. Structurally, GRPEL1 is characterized by a dimeric formation, with each monomer comprising several distinct domains. The protein includes two long N-terminal α-helix regions, followed by a small four-helix bundle region with an antiparallel topological arrangement, and a C-terminal β-sheet domain (Allu2018A). 
+
+The four-helix bundle region contains a conserved methionine residue, M146 in humans, which is sensitive to oxidative stress and plays a crucial role in the protein's function during such conditions (Allu2018A). The oxidation state of this methionine is regulated by methionine sulfoxide reductases, which act as antioxidants (Allu2018A).
+
+In terms of quaternary structure, GRPEL1 forms a complex with mortalin, a human mitochondrial Hsp70, in a 1:2 stoichiometry, with mortalin interacting with both protomers of the GRPEL1 dimer (Morizono2024Structural). The interaction involves significant bending of the GRPEL1 α-helical stalk domain, facilitating interactions with mortalin's nucleotide-binding and substrate-binding domains (Morizono2024Structural). The protein's structure and function are implicated in mitochondrial proteostasis and are potentially involved in pathologies related to oxidative stress (Allu2018A).
+
+## Function
+GRPEL1 encodes a mitochondrial HSP70 co-chaperone that plays a critical role in the import and folding of proteins within the mitochondrial matrix. It functions as a nucleotide exchange factor (NEF) that regulates the ATPase cycle of mitochondrial heat shock protein 70 (mtHSP70), facilitating the binding and release of substrate proteins. This process is essential for the proper folding and import of nuclear-encoded mitochondrial proteins, which are synthesized in the cytosol and imported into mitochondria (Neupane2022Interorganellar; Srivastava2017Regulation).
+
+GRPEL1 is involved in maintaining mitochondrial function and cellular metabolism by ensuring the stability and activity of the mtHSP70 machinery. It has a higher affinity for mtHSP70 compared to its paralog GRPEL2, and it functions as part of a higher-order oligomer, which is crucial for mitochondrial homeostasis (Srivastava2017Regulation). GRPEL1 also plays a significant role in redox homeostasis by altering mitochondrial mass, which is important as mitochondria are major producers of reactive oxygen species (ROS) (Srivastava2017Regulation).
+
+The loss of GRPEL1 leads to impaired mitochondrial protein import, resulting in proteotoxic stress and systemic metabolic alterations, including changes in glycolysis, fatty acid metabolism, and amino acid metabolism (Neupane2022Interorganellar). This underscores its importance in maintaining mitochondrial integrity and function.
+
+## Interactions
+GRPEL1, a mitochondrial matrix protein, is involved in several critical interactions within the mitochondrial import motor complex. It interacts with mitochondrial heat shock protein 70 (mtHsp70), forming a hetero-oligomeric subcomplex with its paralog GrpEL2. This interaction is crucial for the stability and function of the nucleotide exchange factors (NEFs) and the regulation of mtHsp70's chaperone activity, which is essential for mitochondrial protein import and quality control (Srivastava2017Regulation).
+
+GRPEL1 and GrpEL2 are recruited to the mitochondrial import motor through their interaction with mtHsp70, which is linked to the Tim23 channel via the Tim44 scaffold protein. This recruitment is ATP-sensitive, with ATP causing the dissociation of mtHsp70 and Tim44, while the GRPEL1-GRPEL2 subcomplex remains stable, indicating a robust interaction (Srivastava2017Regulation).
+
+Structurally, GRPEL1 interacts with mortalin, the human mitochondrial Hsp70, facilitating nucleotide and substrate release. The interaction involves a 1:2 stoichiometry of mortalin to GRPEL1, with specific electrostatic and van der Waals interactions stabilizing the complex. This interaction is crucial for the ATPase cycle of mortalin, enabling the release of ADP and substrates (Morizono2024Structural).
+
+
+## References
+
+
+[1. (Neupane2022Interorganellar) Nirajan Neupane, Jayasimman Rajendran, Jouni Kvist, Sandra Harjuhaahto, Bowen Hu, Veijo Kinnunen, Yang Yang, Anni I. Nieminen, and Henna Tyynismaa. Inter-organellar and systemic responses to impaired mitochondrial matrix protein import in skeletal muscle. Communications Biology, October 2022. URL: http://dx.doi.org/10.1038/s42003-022-04034-z, doi:10.1038/s42003-022-04034-z. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-022-04034-z)
+
+2. (Morizono2024Structural) Structural insights into GrpEL1-mediated nucleotide and substrate release of human mitochondrial Hsp70. This article has 0 citations.
+
+[3. (Allu2018A) Praveen Kumar Allu, Yerranna Boggula, Srinivasu Karri, Adinarayana Marada, Thanuja Krishnamoorthy, and Naresh Babu V. Sepuri. A conserved r type methionine sulfoxide reductase reverses oxidized grpel1/mge1 to regulate hsp70 chaperone cycle. Scientific Reports, February 2018. URL: http://dx.doi.org/10.1038/s41598-018-21083-9, doi:10.1038/s41598-018-21083-9. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-018-21083-9)
+
+[4. (Srivastava2017Regulation) Shubhi Srivastava, Mohammad Azharuddin Savanur, Devanjan Sinha, Abhijit Birje, Vigneshwaran R, Prasenjit Prasad Saha, and Patrick D’Silva. Regulation of mitochondrial protein import by the nucleotide exchange factors grpel1 and grpel2 in human cells. Journal of Biological Chemistry, 292(44):18075–18090, November 2017. URL: http://dx.doi.org/10.1074/jbc.m117.788463, doi:10.1074/jbc.m117.788463. This article has 36 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m117.788463)

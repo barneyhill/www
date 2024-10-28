@@ -1,0 +1,48 @@
+# GOT2
+
+## Overview
+The GOT2 gene encodes the mitochondrial enzyme glutamic-oxaloacetic transaminase 2, a pyridoxal 5'-phosphate (PLP)-dependent enzyme that plays a pivotal role in cellular metabolism. This enzyme is integral to the malate-aspartate shuttle (MAS), which is essential for transferring reducing equivalents from the cytosol to the mitochondria, thereby maintaining the NADH/NAD+ balance crucial for various metabolic pathways (van2019Biallelic). Structurally, the GOT2 protein functions as a homodimer and exhibits a high degree of conservation across species, underscoring its fundamental biological role (van2019Biallelic). Beyond its metabolic functions, GOT2 is involved in significant protein-protein interactions, influencing cancer biology and other diseases. Alterations in GOT2 expression and function have been linked to metabolic disorders and various cancers, highlighting its potential as a biomarker and therapeutic target (Song2023Combining; Li2022GOT2).
+
+## Structure
+The GOT2 protein, encoded by the human GOT2 gene, functions as a homodimer, meaning it consists of two identical subunits (van2019Biallelic). The structure of the human GOT2 protein has been resolved at a 3.0 Å resolution, revealing its high degree of structural conservation with the mouse GOT2 protein, with a sequence identity of 95% and an average atomic distance of less than 1 Å (van2019Biallelic). This structural conservation suggests a similar functional role across species.
+
+GOT2 is a pyridoxal 5'-phosphate (PLP)-dependent enzyme, which indicates the presence of a PLP cofactor-binding domain essential for its catalytic activity (van2019Biallelic). The protein's structure includes hydrogen bonds and charge interactions that are crucial for its stability and function (van2019Biallelic). 
+
+Post-translational modifications of GOT2 include acetylation at specific lysine residues (K159, K185, and K404), which enhances its interaction with mitochondrial malate dehydrogenase 2 (MDH2) and plays a role in cellular metabolism and tumor growth (Yang2015SIRT). The acetylation of these sites is conserved across several species, highlighting their regulatory importance (Yang2015SIRT).
+
+## Function
+The GOT2 gene encodes the mitochondrial enzyme glutamate oxaloacetate transaminase 2, which plays a crucial role in the malate-aspartate shuttle (MAS). This shuttle is essential for transferring reducing equivalents, specifically NADH, from the cytosol into the mitochondria, where they can be re-oxidized. This process is vital for maintaining the NADH/NAD+ balance within cells, which is necessary for various metabolic pathways, including glycolysis and serine biosynthesis (van2019Biallelic).
+
+GOT2 catalyzes the reversible conversion of oxaloacetate and glutamate into aspartate and α-ketoglutarate, facilitating the proper functioning of the MAS. This activity supports cellular energy metabolism by ensuring the availability of NAD+ for glycolysis and other cellular processes (van2019Biallelic). In healthy human cells, GOT2 is also involved in the production of aspartate within mitochondria, which is critical for cellular metabolism due to the low uptake of aspartate from the blood (van2019Biallelic).
+
+The enzyme's activity is crucial for maintaining the redox state and supporting serine biosynthesis, and its deficiency can lead to metabolic disturbances, such as hyperlactatemia and hyperammonemia (van2019Biallelic).
+
+## Clinical Significance
+Mutations and alterations in the GOT2 gene have been linked to several diseases and conditions. Bi-allelic mutations in GOT2 are associated with a treatable malate-aspartate shuttle-related encephalopathy. This condition is characterized by early-onset metabolic encephalopathy with epilepsy, progressive microcephaly, and biochemical abnormalities such as elevated blood lactate and mild hyperammonemia. These mutations disrupt the malate-aspartate shuttle, affecting cellular redox balance and serine biosynthesis, which can lead to encephalopathy and other metabolic disturbances (van2019Biallelic).
+
+In cancer, alterations in GOT2 expression have been observed. In hepatocellular carcinoma (HCC), low GOT2 expression is linked to poor prognosis and increased sensitivity to glutaminase inhibitors, suggesting its potential as a biomarker for treatment efficacy (Li2022GOT2). In B-cell lymphomas, aberrant GOT2 expression is associated with poor prognosis and is regulated by STAT3 and NF-κB pathways (Feist2018Cooperative). In cutaneous melanoma, high GOT2 expression correlates with poor prognosis and low immune infiltration, indicating its role in tumor growth and immune suppression (Song2023Combining).
+
+## Interactions
+GOT2, or glutamic-oxaloacetic transaminase 2, is involved in several protein-protein interactions that are significant in cancer biology. It interacts with MDH2 (malate dehydrogenase 2), a relationship enhanced by the acetylation of GOT2 at specific lysine residues (K159, K185, and K404). This acetylation, promoted by nicotinamide (NAM), facilitates the association between GOT2 and MDH2 without affecting GOT2's enzymatic activity (Yang2015SIRT).
+
+GOT2 also interacts with the tumor suppressor protein TP53 and several metabolic enzymes, including GAPDH, NQO1, COX17, and TX. These interactions may influence cancer progression, as mutant P53 can prevent the nuclear translocation of GAPDH, enhancing glycolysis in cancer cells, while NQO1 stabilizes P53, and TX enhances P53's DNA binding (Siwo2024Pancancer).
+
+In pancreatic ductal adenocarcinoma (PDAC), GOT2 interacts with the nuclear receptor PPARδ, influencing tumor progression through metabolic and immune-modulatory mechanisms. This interaction is crucial for the transcriptional activity of PPARδ, which is reduced in GOT2-null PDAC cells. GOT2's role in fatty acid binding and trafficking is also significant, as it binds directly to fatty acid ligands that regulate PPARδ (SanfordCrane2020A).
+
+
+## References
+
+
+[1. (Feist2018Cooperative) Maren Feist, Philipp Schwarzfischer, Paul Heinrich, Xueni Sun, Judith Kemper, Frederike von Bonin, Paula Perez-Rubio, Franziska Taruttis, Thorsten Rehberg, Katja Dettmer, Wolfram Gronwald, Jörg Reinders, Julia C. Engelmann, Jan Dudek, Wolfram Klapper, Lorenz Trümper, Rainer Spang, Peter J. Oefner, and Dieter Kube. Cooperative stat/nf-κb signaling regulates lymphoma metabolic reprogramming and aberrant got2 expression. Nature Communications, April 2018. URL: http://dx.doi.org/10.1038/s41467-018-03803-x, doi:10.1038/s41467-018-03803-x. This article has 50 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-03803-x)
+
+2. (Siwo2024Pancancer) Pan-cancer molecular signatures connecting aspartate transaminase (AST) to cancer prognosis, metabolic and immune signatures. This article has 0 citations.
+
+[3. (Li2022GOT2) Yunzheng Li, Binghua Li, Yanchao Xu, Liyuan Qian, Tiancheng Xu, Gang Meng, Huan Li, Ye Wang, Laizhu Zhang, Xiang Jiang, Qi Liu, Yuanyuan Xie, Chunxiao Cheng, Beicheng Sun, and Decai Yu. Got2 silencing promotes reprogramming of glutamine metabolism and sensitizes hepatocellular carcinoma to glutaminase inhibitors. Cancer Research, 82(18):3223–3235, July 2022. URL: http://dx.doi.org/10.1158/0008-5472.CAN-22-0042, doi:10.1158/0008-5472.can-22-0042. This article has 35 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.CAN-22-0042)
+
+[4. (Yang2015SIRT) Hui Yang, Lisha Zhou, Qian Shi, Yuzheng Zhao, Huaipeng Lin, Mengli Zhang, Shimin Zhao, Yi Yang, Zhi‐Qiang Ling, Kun‐Liang Guan, Yue Xiong, and Dan Ye. <scp>sirt</scp> 3‐dependent <scp>got</scp> 2 acetylation status affects the malate–aspartate <scp>nadh</scp> shuttle activity and pancreatic tumor growth. The EMBO Journal, 34(8):1110–1125, March 2015. URL: http://dx.doi.org/10.15252/embj.201591041, doi:10.15252/embj.201591041. This article has 151 citations.](https://doi.org/10.15252/embj.201591041)
+
+[5. (van2019Biallelic) Clara D.M. van Karnebeek, Rúben J. Ramos, Xiao-Yan Wen, Maja Tarailo-Graovac, Joseph G. Gleeson, Cristina Skrypnyk, Koroboshka Brand-Arzamendi, Farhad Karbassi, Mahmoud Y. Issa, Robin van der Lee, Britt I. Drögemöller, Janet Koster, Justine Rousseau, Philippe M. Campeau, Youdong Wang, Feng Cao, Meng Li, Jos Ruiter, Jolita Ciapaite, Leo A.J. Kluijtmans, Michel A.A.P. Willemsen, Judith J. Jans, Colin J. Ross, Liesbeth T. Wintjes, Richard J. Rodenburg, Marleen C.D.G. Huigen, Zhengping Jia, Hans R. Waterham, Wyeth W. Wasserman, Ronald J.A. Wanders, Nanda M. Verhoeven-Duif, Maha S. Zaki, and Ron A. Wevers. Bi-allelic got2 mutations cause a treatable malate-aspartate shuttle-related encephalopathy. The American Journal of Human Genetics, 105(3):534–548, September 2019. URL: http://dx.doi.org/10.1016/j.ajhg.2019.07.015, doi:10.1016/j.ajhg.2019.07.015. This article has 47 citations.](https://doi.org/10.1016/j.ajhg.2019.07.015)
+
+[6. (Song2023Combining) Lebin Song, Xiyi Wei, Xi Zhang, and Yan Lu. Combining single-cell and transcriptomic analysis revealed the immunomodulatory effect of got2 on a glutamine-dependent manner in cutaneous melanoma. Frontiers in Pharmacology, August 2023. URL: http://dx.doi.org/10.3389/fphar.2023.1241454, doi:10.3389/fphar.2023.1241454. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2023.1241454)
+
+7. (SanfordCrane2020A) A cancer cell-intrinsic GOT2-PPARδ axis suppresses antitumor immunity. This article has 1 citations.

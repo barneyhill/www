@@ -1,0 +1,44 @@
+# MEAK7
+
+## Overview
+The MEAK7 gene encodes the MTOR associated protein, eak-7 homolog, commonly referred to as mEAK7, which is a pivotal component in the regulation of the mechanistic target of rapamycin (mTOR) signaling pathway. This protein is primarily localized to the lysosomal membrane and is characterized by its unique structural features, including a TLDc domain and a C-terminal domain that facilitate interactions with the V-ATPase complex and mTOR. Unlike traditional components of mTOR complexes, mEAK7 does not associate with mTORC1 or mTORC2 but instead forms an alternative complex that is crucial for the activation of S6 kinase 2 (S6K2) and the repression of 4E-BP1, thereby promoting cell proliferation and migration. The protein's interactions with mTOR and V-ATPase suggest a regulatory role in cellular growth and metabolism, with significant implications for cancer progression and treatment resistance (Wang2022Molecular; Nguyen2018Mammalian).
+
+## Structure
+The mEAK7 protein, also known as MTOR associated protein, eak-7 homolog, is characterized by several distinct structural features. It contains a TLDc domain, which is involved in interactions with the V-ATPase complex, specifically binding to subunits A, B, and E through hydrophilic interactions (Wang2022Molecular). The C-terminal domain (CTD) of mEAK7 interacts with subunit D of V-ATPase via salt bridges and hydrophobic contacts, playing a role in blocking V1-V0 torque transmission (Wang2022Molecular).
+
+The protein's tertiary structure includes a TLDc fold with 12 β-strands and a C-terminal α helix, which is unique among TLDc-containing proteins and is responsible for binding to the central rotor of the V-ATPase (Tan2021CryoEM; Wang2022Molecular). mEAK7 also contains an N-terminal domain with nine short α-helices (Wang2022Molecular).
+
+Post-translational modifications of mEAK7 include phosphorylation at specific serine residues, which may regulate its binding to V-ATPase (Tan2021CryoEM). The protein is primarily localized to the lysosomal membrane, supporting its role in mTORC1 signaling (Nguyen2018Mammalian). The C-terminal region, termed the mTOR-binding (MTB) domain, is crucial for its interaction with mTOR (Nguyen2018Mammalian).
+
+## Function
+The MEAK7 gene encodes a protein that plays a significant role in the mTOR signaling pathway, which is crucial for regulating cell proliferation, migration, and growth. MEAK7 is primarily localized at the lysosomal membrane, where it interacts with mTOR and mLST8, facilitating the activation of S6K2 and repressing 4E-BP1, thereby promoting cell proliferation and migration (Nguyen2018Mammalian). Unlike other components of mTOR complexes, MEAK7 does not interact with mTORC1 or mTORC2 but is essential for mTOR signaling at the lysosome, affecting the localization of mTOR to this critical site for activation (Nguyen2018Mammalian).
+
+MEAK7 also interacts with V-ATPase, a lysosome-anchored protein, potentially acting as an inhibitor by binding to the V1 domain and affecting its conformational state (Wang2022Molecular). This interaction suggests that MEAK7 may modulate mTOR signaling by engaging with mTOR and preventing excessive signaling through V-ATPase inhibition (Wang2022Molecular). The protein's involvement in these pathways highlights its role in cellular growth and metabolism, with implications for diseases such as cancer when dysregulated (Nguyen2018Mammalian).
+
+## Clinical Significance
+Alterations in the expression and function of the MEAK7 gene have significant clinical implications, particularly in cancer. Elevated levels of mEAK-7 protein are observed in metastatic non-small cell lung carcinoma (NSCLC) lymph nodes, suggesting its role in tumor metastasis and poor prognosis in NSCLC and other cancers like ductal breast carcinoma and acute myeloid leukemia (Nguyen2019mEAK7). Genetic alterations in MEAK7, such as deletions and amplifications, are cancer type-specific, with prostate cancers often showing deletions and breast cancers exhibiting amplifications (Nguyen2019mEAK7).
+
+mEAK-7 is involved in mTOR signaling, crucial for cancer cell survival and resistance to radiation. It forms an alternative mTOR complex with DNA-PKcs, which is essential for sustained mTOR signaling following DNA damage, contributing to radiation resistance (Nguyen2019mEAK7). The interaction between mEAK-7 and DNA-PKcs is crucial for mTOR signaling, predominantly through S6K2, and high levels of mEAK-7 are associated with poor prognosis in metastatic cancer patients (Nguyen2019mEAK7).
+
+miR-1911-3p targets MEAK7 to suppress mTOR signaling in lung cancer cells, indicating a potential therapeutic approach by modulating MEAK7 expression (Mendonça2020MicroRNA19113p).
+
+## Interactions
+MEAK7, also known as mEAK-7, is involved in several protein interactions that influence cellular signaling pathways. It interacts with the mechanistic target of rapamycin (mTOR) and mLST8, but not with key components of mTORC1 and mTORC2, such as raptor and rictor, suggesting the existence of an alternative mTOR complex (Nguyen2018Mammalian). MEAK7's interaction with mTOR is nutrient-dependent and is crucial for the regulation of S6 kinase 2 (S6K2) activity, diverting mTOR's targeting from S6K1 to S6K2 (Nguyen2018Mammalian). This interaction is essential for cell proliferation and migration, as MEAK7 supports mTOR signaling at the lysosome (Nguyen2018Mammalian).
+
+MEAK7 also interacts with the V-ATPase complex, a key enzyme in cellular pH regulation. This interaction is sensitive to ATP hydrolysis, which can partially disrupt the binding, indicating a potential regulatory role in cellular signaling (Tan2022CryoEM). Despite this interaction, MEAK7 does not inhibit V-ATPase activity in vitro, suggesting a structural rather than functional role in enzyme activity (Tan2021CryoEM). The interaction involves the C-terminal α helix and TLDc domain of MEAK7, which crosslink the rotor and stator parts of V-ATPase (Tan2021CryoEM).
+
+
+## References
+
+
+[1. (Nguyen2018Mammalian) Joe Truong Nguyen, Connor Ray, Alexandra Lucienne Fox, Daniela Baccelli Mendonça, Jin Koo Kim, and Paul H. Krebsbach. Mammalian eak-7 activates alternative mtor signaling to regulate cell proliferation and migration. Science Advances, May 2018. URL: http://dx.doi.org/10.1126/sciadv.aao5838, doi:10.1126/sciadv.aao5838. This article has 41 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.aao5838)
+
+[2. (Tan2022CryoEM) Yong Zi Tan, Yazan M Abbas, Jing Ze Wu, Di Wu, Kristine A Keon, Geoffrey G Hesketh, Stephanie A Bueler, Anne-Claude Gingras, Carol V Robinson, Sergio Grinstein, and John L Rubinstein. Cryoem of endogenous mammalian v-atpase interacting with the tldc protein meak-7. Life Science Alliance, 5(11):e202201527, July 2022. URL: http://dx.doi.org/10.26508/lsa.202201527, doi:10.26508/lsa.202201527. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.26508/lsa.202201527)
+
+[3. (Nguyen2019mEAK7) Joe Truong Nguyen, Fatima Sarah Haidar, Alexandra Lucienne Fox, Connor Ray, Daniela Baccelli Mendonça, Jin Koo Kim, and Paul H. Krebsbach. Meak-7 forms an alternative mtor complex with dna-pkcs in human cancer. iScience, 17:190–207, July 2019. URL: http://dx.doi.org/10.1016/j.isci.2019.06.029, doi:10.1016/j.isci.2019.06.029. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.isci.2019.06.029)
+
+4. (Tan2021CryoEM) CryoEM of endogenous mammalian V-ATPase interacting with the TLDc protein mEAK-7. This article has 6 citations.
+
+[5. (Wang2022Molecular) Rong Wang, Yu Qin, Xiao-Song Xie, and Xiaochun Li. Molecular basis of meak7-mediated human v-atpase regulation. Nature Communications, June 2022. URL: http://dx.doi.org/10.1038/s41467-022-30899-z, doi:10.1038/s41467-022-30899-z. This article has 11 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-30899-z)
+
+[6. (Mendonça2020MicroRNA19113p) Daniela Baccelli Mendonça, Joe Truong Nguyen, Fatima Haidar, Alexandra Lucienne Fox, Connor Ray, Halimah Amatullah, Fei Liu, Jin Koo Kim, and Paul H. Krebsbach. Microrna-1911-3p targets meak-7 to suppress mtor signaling in human lung cancer cells. Heliyon, 6(12):e05734, December 2020. URL: http://dx.doi.org/10.1016/j.heliyon.2020.e05734, doi:10.1016/j.heliyon.2020.e05734. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.heliyon.2020.e05734)

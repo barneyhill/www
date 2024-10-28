@@ -1,0 +1,44 @@
+# TMEM164
+
+## Overview
+TMEM164 is a gene that encodes the transmembrane protein 164, a member of the AIG1/ADTRP family of multi-pass transmembrane proteins. This protein is characterized by a six transmembrane (6TM) helical core and functions as a cysteine-dependent acyltransferase involved in lipid metabolism. The protein's structure includes a conserved Cys/His catalytic dyad, which is essential for its role in the production of polyunsaturated ether phospholipids (PUFA-ePLs) and the regulation of ferroptosis, an iron-dependent form of programmed cell death. TMEM164's activity is distinct from other acyltransferases due to its CoA-independent mechanism, utilizing C20:4 phosphatidylcholine as an acyl chain donor. The gene and its encoded protein have been implicated in various clinical contexts, including cancer prognosis and genetic disorders, highlighting their significance in cellular lipid homeostasis and disease pathogenesis (Chen2023Characterization; Reed2022TMEM164; Poreau2019Xq22.3q23).
+
+## Structure
+TMEM164 is a transmembrane protein characterized by a six transmembrane (6TM) helical core, which is a common feature among the AIG1/ADTRP family of multi-pass transmembrane proteins (Reed2022TMEM164). The protein's structure includes a conserved Cys/His catalytic dyad, specifically C123 and H181, which is crucial for its function as an acyltransferase involved in lipid metabolism (Reed2022TMEM164). This catalytic dyad is a substitution from the Thr/His dyad found in related proteins, indicating a unique structural adaptation (Reed2022TMEM164).
+
+The TMEM164 protein has an internal cavity with portals to the lipid bilayer and cytosol, which is predicted to accommodate branched acyl chains of phospholipid products (Reed2022TMEM164). This structural feature suggests a role in the generation of C20:4 ether phospholipids in human cells (Reed2022TMEM164). The protein's activity is CoA-independent and relies on the cysteine residue C123, which acts as a catalytic nucleophile, forming an acyl-enzyme intermediate with C20:4 phosphatidylcholine before transferring the acyl group to lyso-ePLs (Reed2022TMEM164). The TMEM164 protein is part of the ATGY enzyme family, known for nucleophilic promiscuity and involvement in lipid metabolism (Reed2022TMEM164).
+
+## Function
+TMEM164 is a cysteine-dependent acyltransferase enzyme that plays a crucial role in lipid metabolism within human cells. It is involved in the production of polyunsaturated ether phospholipids (PUFA-ePLs), specifically by transferring C20:4 acyl chains from phosphatidylcholine (PC) to lyso-ePLs. This activity is essential for the regulation of ferroptosis, an iron-dependent form of programmed cell death associated with lipid peroxidation (Reed2022TMEM164).
+
+The enzyme's function is dependent on a conserved cysteine (C123) and histidine (H181) catalytic dyad, which is crucial for its acyltransferase activity. TMEM164's activity is distinct from other acyltransferases like LPCAT3, as it specifically utilizes C20:4 PC as an acyl chain donor, whereas LPCAT3 depends on C20:4 CoA (Reed2022TMEM164).
+
+TMEM164's role in lipid metabolism is significant for maintaining cellular lipid homeostasis and ferroptosis sensitivity. Disruption of TMEM164 leads to altered lipid profiles, including increased levels of C20:4 PCs and a protective effect against ferroptosis, highlighting its importance in cell membrane integrity and function (Reed2022TMEM164).
+
+## Clinical Significance
+TMEM164 has been implicated in various diseases and conditions through its altered expression and involvement in specific genetic deletions. In hepatocellular carcinoma (HCC), TMEM164 is part of a transmembrane protein signature that serves as a prognostic tool. High expression levels of TMEM164, along with other TMEMs, are associated with poorer survival outcomes and an immunosuppressive tumor microenvironment, indicating its role in tumorigenesis and immune modulation in HCC (Chen2023Characterization).
+
+In lung adenocarcinoma (LUAD), TMEM164 is included in a risk model that predicts patient prognosis. High-risk scores, which correlate with increased TMEM164 expression, are linked to poorer overall survival and immunosuppression, suggesting its involvement in cancer progression and immune response modulation (Fan2022Transmembrane).
+
+TMEM164 is also part of microdeletions in the Xq22.3q23 region, associated with a phenotype that includes short stature, intellectual disability, sensorineural hearing loss, and elliptocytosis. Although the specific role of TMEM164 in these conditions is not fully understood, it is included in the genetic deletions that contribute to these clinical features (Poreau2019Xq22.3q23).
+
+## Interactions
+TMEM164 is involved in several interactions related to lipid metabolism and ferroptosis. It functions as a cysteine-dependent acyltransferase, transferring C20:4 acyl chains from phosphatidylcholine to lyso-ePLs, forming polyunsaturated ether phospholipids (PUFA-ePLs) (Reed2022TMEM164). TMEM164 shows co-dependency relationships with enzymes involved in ether phospholipid and polyunsaturated fatty acid lipid metabolism, such as AGPS, FAR1, TMEM189, ACSL4, and LPCAT3, suggesting it may act as a biochemical link between these pathways (Reed2022TMEM164).
+
+The acyltransferase activity of TMEM164 is dependent on a cysteine residue (C123), and mutations at this site significantly reduce its activity, indicating the importance of this residue in its function (Reed2022TMEM164). TMEM164 does not utilize C20:4 CoA as a substrate, unlike LPCAT3, which serves as a C20:4 CoA-dependent acyltransferase, highlighting a distinct mechanism of action (Reed2022TMEM164).
+
+In the context of heat stress in chickens, TMEM164 is identified as a determinant of autophagy-dependent ferroptosis, implicating it in stress response pathways (Wu2024RNASeq). Protein-protein interaction analysis in this study revealed interactions among several genes, including TMEM164, suggesting its involvement in protein interactions related to heat stress resistance (Wu2024RNASeq).
+
+
+## References
+
+
+[1. (Chen2023Characterization) Desheng Chen, Yichao Lou, Jing Lu, Xuhui Fan, Qi Zhu, and Hongcheng Sun. Characterization of the clinical significance and immunological landscapes of a novel tmems signature in hepatocellular carcinoma and the contribution of tmem201 to hepatocarcinogenesis. International Journal of Molecular Sciences, 24(12):10285, June 2023. URL: http://dx.doi.org/10.3390/ijms241210285, doi:10.3390/ijms241210285. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms241210285)
+
+[2. (Poreau2019Xq22.3q23) Brice Poreau, Francis Ramond, Radu Harbuz, Véronique Satre, Claire Barro, Claire Vettier, Véronique Adouard, Julien Thevenon, Pierre‐Simon Jouk, Charles Coutton, Renaud Touraine, and Klaus Dieterich. Xq22.3q23 microdeletion harboring tmem164 and ammecr1 genes: two case reports confirming a recognizable phenotype with short stature, midface hypoplasia, intellectual delay, and elliptocytosis. American Journal of Medical Genetics Part A, 179(4):650–654, February 2019. URL: http://dx.doi.org/10.1002/ajmg.a.61057, doi:10.1002/ajmg.a.61057. This article has 2 citations.](https://doi.org/10.1002/ajmg.a.61057)
+
+3. (Wu2024RNASeq) RNA-Seq reveals transcriptome changes to heat stress in the breast muscle of adult female chickens. This article has 0 citations.
+
+4. (Reed2022TMEM164) TMEM164 is an acyltransferase that forms ferroptotic polyunsaturated ether phospholipids. This article has 2 citations.
+
+[5. (Fan2022Transmembrane) Tao Fan, Yu Liu, Hengchang Liu, Liyu Wang, He Tian, Yujia Zheng, Bo Zheng, Liyan Xue, Chunxiang Li, and Jie He. Transmembrane protein-based risk model and h3k4me3 modification characteristics in lung adenocarcinoma. Frontiers in Oncology, March 2022. URL: http://dx.doi.org/10.3389/fonc.2022.828814, doi:10.3389/fonc.2022.828814. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.828814)

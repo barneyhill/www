@@ -1,0 +1,50 @@
+# BAHD1
+
+## Overview
+BAHD1 (bromo adjacent homology domain containing 1) is a gene that encodes a protein involved in chromatin organization and transcriptional repression. The BAHD1 protein is characterized by the presence of a bromo-adjacent homology (BAH) domain, which is integral to its function as a chromatin-associated protein. This domain facilitates the binding of BAHD1 to specific histone modifications, such as H3K27me3, thereby playing a critical role in gene silencing and the formation of heterochromatin (Fan2021A; Lebreton2014Structural). BAHD1 acts as a scaffold for assembling repressive chromatin complexes, interacting with various proteins, including histone deacetylases and other chromatin regulators, to mediate gene repression (Fan2021A; Lakisic2016Role). The protein is implicated in several biological processes, including placental development and steroid metabolism, and its dysregulation is associated with conditions such as ulcerative colitis and developmental disorders (Lakisic2016Role; Zhu2015Computational).
+
+## Structure
+The BAHD1 protein is characterized by a C-terminal bromo-adjacent homology (BAH) domain, which is common in chromatin-associated proteins and plays a crucial role in chromatin binding and gene silencing (Fan2021A; Lebreton2014Structural). This domain specifically interacts with the H3K27me3 histone mark, essential for targeting BAHD1 to Polycomb target genes and maintaining histone deacetylation (Fan2021A). The BAH domain's interaction with H3K27me3 is disrupted by mutations in key residues, such as W667G or Y669A, which affect chromatin association (Fan2021A).
+
+BAHD1 also contains a central proline-rich region (cPRR) from residues 239 to 361, which is part of the interaction domain with the bacterial nucleomodulin LntA, extending from residues 187 to 428 (Lebreton2014Structural). The protein is predicted to have large unstructured regions, and its full-length structure remains unsolved (Lebreton2014Structural). BAHD1 acts as a scaffold for assembling heterochromatic complexes at target loci, interacting with other proteins like HDAC1, HDAC2, and MIER1/3 to mediate gene silencing (Fan2021A). The protein's structure includes a bipartite nuclear localization signal within an arginine-rich region (Lebreton2014Structural).
+
+## Function
+BAHD1 (bromo adjacent homology domain containing 1) is a protein that plays a crucial role in chromatin organization and gene repression in healthy human cells. It functions as a transcriptional repressor by forming a chromatin-repressive complex that interacts with various proteins, including histone deacetylases (HDAC1/2), heterochromatin proteins (HP1), and methyl-CpG-binding protein (MBD1) (Lakisic2016Role). BAHD1 is involved in the formation of heterochromatin and gene repression by associating with epigenetic regulators, leading to large-scale chromatin condensation and changes in the DNA methylation landscape (Lakisic2016Role).
+
+The protein contains a BAH domain that binds to the histone modification H3K27me3, a marker for gene silencing, facilitating the recruitment of repressive complexes to chromatin (Fan2021A). This interaction is essential for maintaining histone deacetylation and gene repression, particularly of Polycomb target genes (Fan2021A). BAHD1 is also enriched at the inactive X chromosome, suggesting its involvement in maintaining facultative heterochromatin (Lakisic2016Role).
+
+In terms of organismal outcomes, BAHD1 is implicated in placental development and the regulation of steroid metabolism, influencing processes such as trophoblast differentiation and hormone signaling (Lakisic2016Role). Its deficiency can lead to placental abnormalities and metabolic defects, highlighting its importance in development and energy metabolism (Lakisic2016Role).
+
+## Clinical Significance
+Mutations and alterations in the expression of the BAHD1 gene have been implicated in several diseases and conditions. In the context of ulcerative colitis (UC), a type of inflammatory bowel disease, BAHD1 is identified as a negative regulator of the TNF signaling pathway. Downregulation of BAHD1 is associated with increased expression of TNFR1, leading to the activation of proinflammatory pathways such as NF-κB and JNK/AP-1. This results in elevated secretion of proinflammatory cytokines, contributing to intestinal inflammation and tissue damage in UC (Zhu2015Computational).
+
+In terms of developmental disorders, a germline mutation in the BAHD1 gene, specifically W659G, has been linked to severe neonatal lethality and developmental defects such as dwarfism in mice. This mutation disrupts the interaction between the BAHD1 BAH domain and H3K27me3, leading to chromatin remodeling and upregulation of genes normally repressed by Polycomb factors (Fan2021A).
+
+BAHD1 also plays a role in erythropoiesis, where its interaction with the PRC2 complex is crucial for gene silencing. Disruption of this interaction, such as through FBXO11-mediated degradation of BAHD1, affects erythroid differentiation, highlighting its significance in hematopoietic processes (Xu2021FBXO11mediated).
+
+## Interactions
+BAHD1 is involved in various protein interactions that contribute to its role in chromatin organization and gene expression regulation. It is a core component of the MIER1:HDAC1 complex, where its Bromo-Adjacent-Homology (BAH) domain interacts with the complex to recruit the endogenous protein C1QBP. This interaction facilitates the recruitment of nucleosomes bearing H3K27me2/3 marks, indicating that the BAH domain recognizes H3 histone tails with K27me3 modification (Wang2022An).
+
+BAHD1 also interacts with several co-repressor proteins, including HDAC1, HDAC2, EHMT1, EHMT2, MIER1, MIER3, and CDYL1, during transcriptional repression in erythropoiesis. It binds to H3K27me3 marks, maintaining a condensed chromatin state and restricting transcription factor occupancy (Xu2021FBXO11mediated).
+
+In addition, BAHD1 interacts with the bacterial nucleomodulin LntA from Listeria monocytogenes. This interaction involves a central proline-rich region in BAHD1 and a dilysine motif in LntA, which is crucial for LntA's function in inhibiting BAHD1 and promoting interferon responses (Lebreton2014Structural).
+
+BAHD1's interactions with chromatin regulators like HP1 proteins, KAP1, and SETDB1 are also significant, as they contribute to chromatin reorganization and DNA methylation changes (Libertini2015Overexpression).
+
+
+## References
+
+
+[1. (Libertini2015Overexpression) Emanuele Libertini, Alice Lebreton, Goran Lakisic, Marie-Agnès Dillies, Stephan Beck, Jean-Yves Coppée, Pascale Cossart, and Hélène Bierne. Overexpression of the heterochromatinization factor bahd1 in hek293 cells differentially reshapes the dna methylome on autosomes and x chromosome. Frontiers in Genetics, December 2015. URL: http://dx.doi.org/10.3389/fgene.2015.00339, doi:10.3389/fgene.2015.00339. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2015.00339)
+
+[2. (Fan2021A) Huitao Fan, Yiran Guo, Yi-Hsuan Tsai, Aaron J Storey, Arum Kim, Weida Gong, Ricky D Edmondson, Samuel G Mackintosh, Haitao Li, Stephanie D Byrum, Alan J Tackett, Ling Cai, and Gang Greg Wang. A conserved bah module within mammalian bahd1 connects h3k27me3 to polycomb gene silencing. Nucleic Acids Research, 49(8):4441–4455, April 2021. URL: http://dx.doi.org/10.1093/nar/gkab210, doi:10.1093/nar/gkab210. This article has 21 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkab210)
+
+[3. (Zhu2015Computational) Huatuo Zhu, Xingyong Wan, Jing Li, Lu Han, Xiaochen Bo, Wenguo Chen, Chao Lu, Zhe Shen, Chenfu Xu, Lihua Chen, Chaohui Yu, and Guoqiang Xu. Computational prediction and validation of bahd1 as a novel molecule for ulcerativecolitis. Scientific Reports, July 2015. URL: http://dx.doi.org/10.1038/srep12227, doi:10.1038/srep12227. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep12227)
+
+4. (Wang2022An) An unexpected histone chaperone function for the MIER1 histone deacetylase complex. This article has 1 citations.
+
+[5. (Lebreton2014Structural) Alice Lebreton, Viviana Job, Marie Ragon, Alban Le Monnier, Andréa Dessen, Pascale Cossart, and Hélène Bierne. Structural basis for the inhibition of the chromatin repressor bahd1 by the bacterial nucleomodulin lnta. mBio, February 2014. URL: http://dx.doi.org/10.1128/mbio.00775-13, doi:10.1128/mbio.00775-13. This article has 29 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mbio.00775-13)
+
+[6. (Lakisic2016Role) Goran Lakisic, Alice Lebreton, Renaud Pourpre, Olivia Wendling, Emanuele Libertini, Elizabeth J. Radford, Morwenna Le Guillou, Marie-France Champy, Marie Wattenhofer-Donzé, Guillaume Soubigou, Slimane Ait-Si-Ali, Jean Feunteun, Tania Sorg, Jean-Yves Coppée, Anne C. Ferguson-Smith, Pascale Cossart, and Hélène Bierne. Role of the bahd1 chromatin-repressive complex in placental development and regulation of steroid metabolism. PLOS Genetics, 12(3):e1005898, March 2016. URL: http://dx.doi.org/10.1371/journal.pgen.1005898, doi:10.1371/journal.pgen.1005898. This article has 31 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1005898)
+
+[7. (Xu2021FBXO11mediated) Peng Xu, Daniel C. Scott, Beisi Xu, Yu Yao, Ruopeng Feng, Li Cheng, Kalin Mayberry, Yong-Dong Wang, Wenjian Bi, Lance E. Palmer, Moeko T. King, Hong Wang, Yuxin Li, Yiping Fan, Arno F. Alpi, Chunliang Li, Junmin Peng, James Papizan, Shondra M. Pruett-Miller, Ria Spallek, Florian Bassermann, Yong Cheng, Brenda A. Schulman, and Mitchell J. Weiss. Fbxo11-mediated proteolysis of bahd1 relieves prc2-dependent transcriptional repression in erythropoiesis. Blood, 137(2):155–167, January 2021. URL: http://dx.doi.org/10.1182/blood.2020007809, doi:10.1182/blood.2020007809. This article has 24 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1182/blood.2020007809)

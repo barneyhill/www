@@ -1,0 +1,52 @@
+# STK10
+
+## Overview
+STK10, or serine/threonine kinase 10, is a gene that encodes a protein belonging to the STE20 family of serine/threonine kinases, which are pivotal in various cellular processes such as cell cycle regulation, apoptosis, and signal transduction. The protein product of STK10, also known as lymphocyte-oriented kinase (LOK), is characterized by an N-terminal catalytic domain, a central proline-rich region, and a C-terminal coiled-coil structure. This kinase is primarily active in the cytoplasm and nucleus, where it phosphorylates target proteins, including polo-like kinase 1 and the ERM proteins (ezrin, radixin, and moesin), thereby influencing cellular architecture and dynamics (Annunziata2020Phosphorylation; Leroy2016Caspase). STK10 is implicated in various cancers, with its expression levels correlating with disease prognosis, making it a potential target for therapeutic intervention (Zhang2021STK10; Bi2022Systematic).
+
+## Structure
+STK10, also known as lymphocyte-oriented kinase (LOK), is a serine/threonine kinase with a distinct molecular structure. The protein features an N-terminal catalytic domain that shares homology with the STE20 family, which is involved in regulating MAPK cascades (Leroy2016Caspase). This kinase domain is crucial for its enzymatic activity and undergoes dimerization, leading to trans-phosphorylation and activation (Leroy2016Caspase). STK10 also contains a central proline-rich region and a large C-terminal coiled-coil structure, which is not conserved in the STE20 family (Leroy2016Caspase).
+
+During apoptosis, STK10 is cleaved by caspases at a specific site (DAVD 332), resulting in fragments that lack kinase activity (Leroy2016Caspase). This cleavage separates the N-terminal kinase domain from the C-terminal coiled-coil domain, indicating the importance of the region following the kinase domain for its catalytic function (Leroy2016Caspase).
+
+STK10 is known to phosphorylate several targets, including polo-like kinase 1 and the ERM proteins (ezrin, radixin, and moesin), which are involved in linking the plasma membrane to actin filaments (Leroy2016Caspase). The protein is also heavily auto-phosphorylated, as confirmed by mass spectrometry (Serafim2021Discovery).
+
+## Function
+STK10, a member of the Ste20 family of serine/threonine kinases, plays a significant role in various cellular processes, including cell cycle regulation, apoptosis, and signal transduction. It is primarily active in the cytoplasm and nucleus, where it phosphorylates target proteins, influencing their activity (Annunziata2020Phosphorylation). STK10 is involved in the phosphorylation of ezrin, radixin, and moesin (ERM) proteins, which are crucial for linking the actin cytoskeleton to the plasma membrane, thereby contributing to the maintenance of microvilli and cell rigidity (Annunziata2020Phosphorylation). 
+
+In epithelial cells, STK10-mediated phosphorylation of ERM culminates in the phosphorylation at the Thr567 residue of ezrin, which is necessary for ezrin activation on the apical domain (Annunziata2020Phosphorylation). The kinase activity of STK10 is regulated by dimerization and trans-phosphorylation of its kinase domain, and it shares similar activation segment regions with PAK4, suggesting a common regulatory mechanism among several protein kinases (Annunziata2020Phosphorylation). 
+
+STK10 is also expressed in various tumor cell lines and highly proliferative normal tissues, where it co-associates with and phosphorylates Polo-like kinase 1 (Plk1), which is critical for successful cell division (Annunziata2020Phosphorylation).
+
+## Clinical Significance
+Alterations in the expression of the STK10 gene have been implicated in various cancers, including acute myeloid leukemia (AML), prostate cancer, and cervical cancer. In AML, high expression of STK10 is associated with poor prognosis, particularly in patients under 60 years old and those with non-high-risk cytogenetics. This overexpression correlates with poor overall survival and is linked to immune cell infiltration and immune checkpoints, suggesting a potential role in AML pathogenesis (Bi2022Systematic).
+
+In prostate cancer, knockout of STK10 leads to increased cell proliferation and decreased cell migration, indicating its role in regulating cell cycle progression and metastasis. The absence of STK10 results in enhanced tumor growth in vivo, suggesting its potential involvement in tumorigenesis (Zhang2021STK10).
+
+In cervical cancer, STK10 knockout promotes the migration and invasion of cancer cells, highlighting its role in suppressing these processes. This suggests that STK10 may act as a tumor suppressor by inhibiting cell migration and invasion, potentially impacting cancer progression (Zhang2020Knockout).
+
+Overall, STK10's expression and functional alterations are linked to cancer progression and prognosis, making it a potential target for therapeutic intervention.
+
+## Interactions
+STK10, also known as serine/threonine kinase 10, is involved in several protein interactions that influence cellular processes. It is a member of the STE20 family of serine/threonine kinases and shows high similarity to lymphocyte-oriented kinase (LOK) (Annunziata2020Phosphorylation). STK10 interacts with polo-like kinase 1 (Plk1), a crucial protein for cell division, by co-associating and phosphorylating it, which suggests a role in controlling Plk1 activity (Annunziata2020Phosphorylation; Asquith2019Design). 
+
+STK10 also phosphorylates ezrin, radixin, and moesin (ERM) proteins, which are important for linking the actin cytoskeleton to the plasma membrane, contributing to cell rigidity and migration (Annunziata2020Phosphorylation; Zhang2021STK10). In prostate cancer cells, STK10 modulates the activity of ERM proteins and p38 MAPK, affecting cell migration and proliferation (Zhang2021STK10). 
+
+In the context of acute myeloid leukemia (AML), STK10 interacts with proteins such as ITGB2 and ITGAM, which are involved in leukocyte adhesion and migration, and are associated with poor prognosis in AML patients (Bi2022Systematic). These interactions highlight STK10's role in various cellular pathways and its potential as a therapeutic target.
+
+
+## References
+
+
+[1. (Serafim2021Discovery) Ricardo A. M. Serafim, Fiona J. Sorrell, Benedict-Tilman Berger, Ross J. Collins, Stanley N. S. Vasconcelos, Katlin B. Massirer, Stefan Knapp, James Bennett, Oleg Fedorov, Hitesh Patel, William J. Zuercher, and Jonathan M. Elkins. Discovery of a potent dual slk/stk10 inhibitor based on a maleimide scaffold. Journal of Medicinal Chemistry, 64(18):13259–13278, August 2021. URL: http://dx.doi.org/10.1021/acs.jmedchem.0c01579, doi:10.1021/acs.jmedchem.0c01579. This article has 9 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1021/acs.jmedchem.0c01579)
+
+[2. (Zhang2020Knockout) Lu Zhang, Shun-Yuan Lu, Rui Guo, Jin-Xia Ma, Ling-Yun Tang, Yan Shen, Chun-Ling Shen, Li-Ming Lu, Zhu-Gang Wang, Jie Liu, and Hong-Xin Zhang. Knockout of stk10 promotes the migration and invasion of cervical cancer cells. Translational Cancer Research, 9(11):7079–7090, November 2020. URL: http://dx.doi.org/10.21037/tcr-20-1601, doi:10.21037/tcr-20-1601. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.21037/tcr-20-1601)
+
+[3. (Asquith2019Design) Christopher R. M. Asquith, Tuomo Laitinen, James M. Bennett, Carrow I. Wells, Jonathan M. Elkins, William J. Zuercher, Graham J. Tizzard, and Antti Poso. Design and analysis of the 4‐anilinoquin(az)oline kinase inhibition profiles of gak/slk/stk10 using quantitative structure‐activity relationships. ChemMedChem, 15(1):26–49, November 2019. URL: http://dx.doi.org/10.1002/cmdc.201900521, doi:10.1002/cmdc.201900521. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/cmdc.201900521)
+
+[4. (Leroy2016Caspase) Catherine Leroy, Natalya V. Belkina, Thavy Long, Emeric Deruy, Colette Dissous, Stephen Shaw, and David Tulasne. Caspase cleavages of the lymphocyte-oriented kinase prevent ezrin, radixin, and moesin phosphorylation during apoptosis. Journal of Biological Chemistry, 291(19):10148–10161, May 2016. URL: http://dx.doi.org/10.1074/jbc.m116.721365, doi:10.1074/jbc.m116.721365. This article has 9 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m116.721365)
+
+[5. (Annunziata2020Phosphorylation) Maria Carmela Annunziata, Melania Parisi, Gabriella Esposito, Gabriella Fabbrocini, Rosario Ammendola, and Fabio Cattaneo. Phosphorylation sites in protein kinases and phosphatases regulated by formyl peptide receptor 2 signaling. International Journal of Molecular Sciences, 21(11):3818, May 2020. URL: http://dx.doi.org/10.3390/ijms21113818, doi:10.3390/ijms21113818. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21113818)
+
+[6. (Zhang2021STK10) Lu Zhang, Shun-Yuan Lu, Rui Guo, Jin-Xia Ma, Ling-Yun Tang, Jin-Jin Wang, Chun-Ling Shen, Li-Ming Lu, Jie Liu, Zhu-Gang Wang, and Hong-Xin Zhang. Stk10 knockout inhibits cell migration and promotes cell proliferation via modulating the activity of erm and p38 mapk in prostate cancer cells. Experimental and Therapeutic Medicine, June 2021. URL: http://dx.doi.org/10.3892/etm.2021.10283, doi:10.3892/etm.2021.10283. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/etm.2021.10283)
+
+[7. (Bi2022Systematic) Lei Bi, Shuangshuang Jia, Wuyue Hu, Xiaoli Su, Xiequn Chen, and Hailong Tang. Systematic analysis of prognostic significance, functional enrichment and immune implication of stk10 in acute myeloid leukemia. BMC Medical Genomics, May 2022. URL: http://dx.doi.org/10.1186/s12920-022-01251-7, doi:10.1186/s12920-022-01251-7. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12920-022-01251-7)

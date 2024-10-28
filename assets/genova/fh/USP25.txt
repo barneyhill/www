@@ -1,0 +1,62 @@
+# USP25
+
+## Overview
+USP25, or ubiquitin specific peptidase 25, is a gene that encodes a deubiquitinating enzyme involved in the regulation of protein stability and turnover within cells. The protein, ubiquitin specific peptidase 25, is characterized by its modular structure, which includes an N-terminal domain, a central USP-like catalytic domain, and a C-terminal domain. As a deubiquitinating enzyme, USP25 plays a crucial role in various cellular processes, such as endoplasmic reticulum-associated degradation (ERAD), epidermal growth factor receptor (EGFR) trafficking, and glucose transporter regulation. It is involved in the stabilization of proteins by removing ubiquitin moieties, thereby preventing their degradation. USP25's activity is modulated by post-translational modifications, including phosphorylation and ubiquitination, which influence its function in cellular signaling pathways and disease mechanisms (Blount2012UbiquitinSpecific; Liu2018A; Niño2020USP25).
+
+## Structure
+USP25 is a deubiquitinating enzyme characterized by a modular structure comprising an N-terminal domain (NTD), a central USP-like catalytic domain, and a C-terminal domain (CTD) (Liu2018A). The catalytic domain is divided into three subdomains: a palm-like catalytic domain, a long coiled-coil (LCC), and an inhibitory loop (IL-loop) (Liu2018A). The IL-loop plays a crucial role in the tetramer assembly by inserting into the catalytic domain of another molecule, preventing substrate binding and leading to autoinhibition (Liu2018A).
+
+USP25 can exist in two oligomeric forms: a more active dimer and an autoinhibited tetramer. The tetramer is formed by a 'dimer of dimers' configuration, where the V-shaped dimerization interface of one dimer inserts between the catalytic domains of a second dimer (Gersch2019Distinct). This tetramerization involves interactions between the coiled-coil insertion domain and the ubiquitin-binding pocket at the catalytic domain (Liu2018A).
+
+Post-translational modifications such as phosphorylation, SUMOylation, and ubiquitination modulate USP25's activity, either suppressing or enhancing its enzymatic function (Liu2018A). The protein may also have multiple isoforms due to alternative splicing, contributing to its functional diversity (Sauer2019Differential).
+
+## Function
+USP25 (ubiquitin specific peptidase 25) is a deubiquitinating enzyme that plays a significant role in various cellular processes by regulating protein stability and turnover. In healthy human cells, USP25 is involved in endoplasmic reticulum-associated degradation (ERAD), where it interacts with components such as HRD1 and VCP/p97. It deubiquitinates ERAD substrates, rescuing them from proteasomal degradation, and thus regulates the levels of proteins like the amyloid precursor protein (APP), which is linked to Alzheimer's disease (Blount2012UbiquitinSpecific).
+
+USP25 also influences the trafficking and degradation of the epidermal growth factor receptor (EGFR). Its depletion accelerates EGFR degradation by enhancing its internalization through non-clathrin endocytosis, indicating USP25's role in modulating EGFR fate (Niño2020USP25).
+
+In adipocytes, USP25 is crucial for the regulation of the glucose transporter GLUT4. It prevents lysosomal degradation of GLUT4 by deubiquitinating it, thereby maintaining its levels and ensuring proper glucose transport in response to insulin (Sadler2019The).
+
+USP25 also stabilizes tankyrases, which are involved in Wnt signaling, by deubiquitinating them and preventing their degradation. This function is essential for maintaining cellular processes such as signal transduction (Xu2017USP25).
+
+## Clinical Significance
+Alterations in the expression of the USP25 gene have been implicated in various diseases, including IgG4-related disease (IgG4-RD), cancer, and neurodegenerative disorders. In IgG4-RD, reduced USP25 expression is associated with increased fibrosis and inflammation, mediated through the IL-1β inflammasome axis. This downregulation affects B cell metabolism via the PI3K-AKT pathway, leading to mitochondrial dysfunction and altered immune responses (Jiang2024Expression). 
+
+In cancer, USP25 plays a dual role depending on the type of cancer. It is overexpressed in breast cancer, promoting tumorigenesis by stabilizing tankyrases and affecting Wnt/β-catenin signaling (Xu2017USP25). Conversely, in non-small cell lung cancer (NSCLC), USP25 is targeted by miR-200c, which suppresses its expression, thereby reducing cancer cell invasion and metastasis (Li2014miRNA200c).
+
+In Alzheimer's disease, USP25 is overexpressed due to its location on chromosome 21, contributing to synaptic dysfunction and cognitive decline by stabilizing amyloid precursor protein and promoting β-amyloid accumulation (Zhu2021Emerging). These findings highlight the clinical significance of USP25 in various pathological conditions, suggesting its potential as a therapeutic target.
+
+## Interactions
+USP25 interacts with various proteins, playing significant roles in cellular processes. It is known to interact with tankyrases through its C-terminal tail, promoting their deubiquitination and stabilization, which impacts cell proliferation and cancer development (Liu2018A). USP25 also interacts with components of the endoplasmic reticulum-associated degradation (ERAD) pathway, such as the ubiquitin ligase HRD1 and the AAA ATPase VCP/p97, suggesting a role in counteracting the ubiquitination of ERAD substrates and rescuing them from degradation (Blount2012UbiquitinSpecific).
+
+The enzyme is subject to post-translational modifications, including phosphorylation by vaccinia-associated kinase 2 (VRK2), which affects its deubiquitination activity (Zhu2021Emerging). USP25 is also modified by SMURF1 through Lys48-linked ubiquitination, impacting its stability and antiviral functions (Zhu2021Emerging). It interacts with SUMO2/3 proteins, and this interaction involves a SUMO-interacting motif (SIM) within USP25, affecting its catalytic activity (Meulmeester2008Mechanism).
+
+USP25's structural features, such as its ubiquitin-binding domains, play a role in its interactions and regulatory mechanisms. These domains are involved in substrate recognition and enzyme activity modulation, highlighting the complex regulation of USP25 through its interactions and modifications (Denuc2009The).
+
+
+## References
+
+
+[1. (Blount2012UbiquitinSpecific) Jessica R. Blount, Aaron A. Burr, Amanda Denuc, Gemma Marfany, and Sokol V. Todi. Ubiquitin-specific protease 25 functions in endoplasmic reticulum-associated degradation. PLoS ONE, 7(5):e36542, May 2012. URL: http://dx.doi.org/10.1371/journal.pone.0036542, doi:10.1371/journal.pone.0036542. This article has 58 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0036542)
+
+[2. (Sauer2019Differential) Florian Sauer, Theresa Klemm, Ravi B. Kollampally, Ingrid Tessmer, Radhika K. Nair, Nikita Popov, and Caroline Kisker. Differential oligomerization of the deubiquitinases usp25 and usp28 regulates their activities. Molecular Cell, 74(3):421-435.e10, May 2019. URL: http://dx.doi.org/10.1016/j.molcel.2019.02.029, doi:10.1016/j.molcel.2019.02.029. This article has 47 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2019.02.029)
+
+[3. (Zhu2021Emerging) Wenjing Zhu, Dandan Zheng, Dandan Wang, Lehe Yang, Chengguang Zhao, and Xiaoying Huang. Emerging roles of ubiquitin-specific protease 25 in diseases. Frontiers in Cell and Developmental Biology, June 2021. URL: http://dx.doi.org/10.3389/fcell.2021.698751, doi:10.3389/fcell.2021.698751. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.698751)
+
+[4. (Jiang2024Expression) Panpan Jiang, Yukai Jing, Siyu Zhao, Caini Lan, Lu Yang, Xin Dai, Li Luo, Shaozhe Cai, Yingzi Zhu, Heather Miller, Juan Lai, Xin Zhang, Xiaochao Zhao, Yonggui Wu, Jingzhi Yang, Wen Zhang, Fei Guan, Bo Zhong, Hisanori Umehara, Jiahui Lei, Lingli Dong, and Chaohong Liu. Expression of usp25 associates with fibrosis, inflammation and metabolism changes in igg4-related disease. Nature Communications, March 2024. URL: http://dx.doi.org/10.1038/s41467-024-45977-7, doi:10.1038/s41467-024-45977-7. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-45977-7)
+
+[5. (Denuc2009The) Amanda Denuc, Anna Bosch-Comas, Roser Gonzàlez-Duarte, and Gemma Marfany. The uba-uim domains of the usp25 regulate the enzyme ubiquitination state and modulate substrate recognition. PLoS ONE, 4(5):e5571, May 2009. URL: http://dx.doi.org/10.1371/journal.pone.0005571, doi:10.1371/journal.pone.0005571. This article has 57 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0005571)
+
+[6. (Meulmeester2008Mechanism) Erik Meulmeester, Marion Kunze, He Hsuan Hsiao, Henning Urlaub, and Frauke Melchior. Mechanism and consequences for paralog-specific sumoylation of ubiquitin-specific protease 25. Molecular Cell, 30(5):610–619, June 2008. URL: http://dx.doi.org/10.1016/j.molcel.2008.03.021, doi:10.1016/j.molcel.2008.03.021. This article has 198 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2008.03.021)
+
+[7. (Xu2017USP25) Daichao Xu, Jianping Liu, Tao Fu, Bing Shan, Lihui Qian, Lifeng Pan, and Junying Yuan. Usp25 regulates wnt signaling by controlling the stability of tankyrases. Genes &amp; Development, 31(10):1024–1035, May 2017. URL: http://dx.doi.org/10.1101/gad.300889.117, doi:10.1101/gad.300889.117. This article has 59 citations.](https://doi.org/10.1101/gad.300889.117)
+
+[8. (Gersch2019Distinct) Malte Gersch, Jane L. Wagstaff, Angela V. Toms, Bradford Graves, Stefan M.V. Freund, and David Komander. Distinct usp25 and usp28 oligomerization states regulate deubiquitinating activity. Molecular Cell, 74(3):436-451.e7, May 2019. URL: http://dx.doi.org/10.1016/j.molcel.2019.02.030, doi:10.1016/j.molcel.2019.02.030. This article has 51 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2019.02.030)
+
+[9. (Sadler2019The) Jessica B. A. Sadler, Christopher A. Lamb, Cassie R. Welburn, Iain S. Adamson, Dimitrios Kioumourtzoglou, Nai-Wen Chi, Gwyn W. Gould, and Nia J. Bryant. The deubiquitinating enzyme usp25 binds tankyrase and regulates trafficking of the facilitative glucose transporter glut4 in adipocytes. Scientific Reports, March 2019. URL: http://dx.doi.org/10.1038/s41598-019-40596-5, doi:10.1038/s41598-019-40596-5. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-019-40596-5)
+
+[10. (Li2014miRNA200c) Jing Li, Qiang Tan, Mingxia Yan, Lei Liu, Hechun Lin, Fangyu Zhao, Guoliang Bao, Hanwei Kong, Chao Ge, Fanglin Zhang, Tao Yu, Jinjun Li, Xianghuo He, and Ming Yao. Mirna-200c inhibits invasion and metastasis of human non-small cell lung cancer by directly targeting ubiquitin specific peptidase 25. Molecular Cancer, July 2014. URL: http://dx.doi.org/10.1186/1476-4598-13-166, doi:10.1186/1476-4598-13-166. This article has 94 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/1476-4598-13-166)
+
+[11. (Liu2018A) Bing Liu, Marta Sureda-Gómez, Yang Zhen, Virginia Amador, and David Reverter. A quaternary tetramer assembly inhibits the deubiquitinating activity of usp25. Nature Communications, November 2018. URL: http://dx.doi.org/10.1038/s41467-018-07510-5, doi:10.1038/s41467-018-07510-5. This article has 27 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-07510-5)
+
+[12. (Niño2020USP25) Carlos A. Niño, Nadine Wollscheid, Giovanni Giangreco, Elena Maspero, and Simona Polo. Usp25 regulates egfr fate by modulating egf-induced ubiquitylation dynamics. Biomolecules, 10(11):1548, November 2020. URL: http://dx.doi.org/10.3390/biom10111548, doi:10.3390/biom10111548. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom10111548)

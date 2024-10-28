@@ -1,0 +1,44 @@
+# REEP4
+
+## Overview
+REEP4, or Receptor Expression Enhancing Protein 4, is a gene that encodes the protein receptor accessory protein 4, which is part of the REEP family. This family is known for its role in shaping cellular membranes, particularly within the endoplasmic reticulum (ER) and nuclear pore complex (NPC). The REEP4 protein is characterized by its dual hairpin structure and is involved in maintaining ER morphology and facilitating NPC assembly during mitosis. It interacts with various proteins, including ELYS and 14-3-3, to perform its functions in cellular processes such as ER-phagy and lipid droplet metabolism. Mutations in the REEP4 gene have been studied for their potential links to neurological disorders, although their clinical significance is still being explored (Golchoubian2020REEP4; Angelotti2022Exploring; Saeirad2024REEP4).
+
+## Structure
+REEP4 is a member of the REEP family of proteins, characterized by a dual hairpin structure with cytoplasmic amino and carboxy termini. This structure is consistent with predictions from the AlphaFold database, which suggests a dual hairpin structure with a carboxy terminal alpha-helical domain (APH) for all REEP family members (Angelotti2022Exploring). The protein contains two phosphorylatable 14-3-3 binding sites within its carboxy terminus, which are crucial for protein interactions and require phosphorylation for binding. These sites include a common first phosphorylation site and a unique second site, leading to differential affinities for 14-3-3 dimers (Angelotti2022Exploring).
+
+REEP4 also features a microtubule binding region located between the two hairpin domains, specifically a positively charged cytoplasmic region conserved in REEP1-4. This region is important for the clearance of ER membranes from metaphase chromatin during mitosis (Angelotti2022Exploring). The protein's structure includes five alpha-helical domains, with the first four forming the two RHD domains, and the fifth potentially functioning as an APH that aligns parallel to the membrane (Angelotti2022Exploring). REEP4 forms homodimers through its transmembrane domains, contributing to its role in ER morphology and function (Shibata2024The).
+
+## Function
+REEP4 is a protein that plays a crucial role in the formation and maintenance of the nuclear pore complex (NPC) and the endoplasmic reticulum (ER) morphology in human cells. It is recruited to the inner nuclear membrane (INM) by the nuclear pore complex biogenesis factor ELYS, where it promotes NPC assembly, particularly during late mitosis. This recruitment is essential for maintaining normal NPC densities at the nuclear envelope, as REEP4 depletion leads to reduced NPC levels, affecting markers such as ELYS and FG-nucleoporins (Golchoubian2020REEP4).
+
+In addition to its role in NPC formation, REEP4 is involved in shaping the ER during mitosis. It functions alongside REEP3 to maintain the high curvature morphology of the ER, which is crucial for proper cell division. The reticulon homology domain (RHD) of REEP4 is vital for generating high-curvature ER, although it is not necessary for clearing the ER from chromatin (Kumar2019REEP3). REEP4's activity in the ER and its interaction with ELYS suggest it coordinates the conversion of ER membrane to higher curvature, facilitating NPC biogenesis and ensuring the correct distribution of ER during mitosis (Kumar2019REEP3; Golchoubian2020REEP4).
+
+## Clinical Significance
+Mutations in the REEP4 gene have been associated with various neurological disorders, although their clinical significance remains uncertain. A study by Saeirad and LeDoux identified several REEP4 variants in individuals with blepharospasm and related neurological disorders, but these variants were classified as benign, indicating no direct association with the disease (Saeirad2024REEP4). However, the p.Arg37Trp variant in REEP4 has been classified as likely pathogenic due to its cosegregation with blepharospasm in a large African-American family and its high CADD-Phred score, suggesting potential clinical relevance (Saeirad2024REEP4).
+
+The REEP4 gene is part of a family of proteins involved in membrane shaping and intracellular trafficking. While specific clinical implications of REEP4 mutations are not fully understood, disruptions in its function could potentially impact ER morphology and related cellular processes, as suggested by studies on related REEP proteins (Shibata2024The). The REEP family, including REEP4, is implicated in neurodegenerative disorders, with mutations in other family members like REEP1 and REEP2 linked to hereditary spastic paraplegia and hereditary motor neuropathy (Angelotti2022Exploring).
+
+## Interactions
+REEP4 interacts with several proteins, playing a role in various cellular processes. It is recruited to the inner nuclear membrane by ELYS, a factor involved in nuclear pore complex (NPC) formation. This interaction is crucial for NPC assembly, particularly during late mitosis, where REEP4 aids in associating high curvature endoplasmic reticulum (ER) with chromatin-bound ELYS (Golchoubian2020REEP4). 
+
+REEP4 also interacts with 14-3-3 proteins, which are involved in phosphorylation-dependent binding. This interaction is facilitated by phosphorylatable sites in REEP4's carboxy terminus, affecting its affinity for 14-3-3 dimers (Angelotti2022Exploring). 
+
+In addition, REEP4 is associated with Rab3GAP1 and Rab3GAP2, as identified through proximity-dependent biotin identification (BioID) experiments. These interactions suggest a role in ER morphogenesis and lipid droplet metabolism (Golchoubian2020REEP4). 
+
+REEP4's involvement in ER-phagy is also noted, where it shares functional conservation with Yep1, an ortholog in fission yeast. This role is linked to its ability to interact with proteins like Atg8 and Epr1, facilitating the autophagosomal enclosure of cargos (Zou2023The).
+
+
+## References
+
+
+[1. (Zou2023The) Chen-Xi Zou, Zhu-Hui Ma, Zhao-Di Jiang, Zhao-Qian Pan, Dan-Dan Xu, Fang Suo, Guang-Can Shao, Meng-Qiu Dong, and Li-Lin Du. The ortholog of human reep1-4 is required for autophagosomal enclosure of er-phagy/nucleophagy cargos in fission yeast. PLOS Biology, 21(11):e3002372, November 2023. URL: http://dx.doi.org/10.1371/journal.pbio.3002372, doi:10.1371/journal.pbio.3002372. This article has 4 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.3002372)
+
+[2. (Kumar2019REEP3) Darshan Kumar, Banafsheh Golchoubian, Ilya Belevich, Eija Jokitalo, and Anne-Lore Schlaitz. Reep3 and reep4 determine the tubular morphology of the endoplasmic reticulum during mitosis. Molecular Biology of the Cell, 30(12):1377–1389, June 2019. URL: http://dx.doi.org/10.1091/mbc.E18-11-0698, doi:10.1091/mbc.e18-11-0698. This article has 45 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.E18-11-0698)
+
+[3. (Saeirad2024REEP4) Samira Saeirad and Mark S. LeDoux. Reep4 variant analysis in blepharospasm and other neurological disorders. Dystonia, February 2024. URL: http://dx.doi.org/10.3389/dyst.2024.12016, doi:10.3389/dyst.2024.12016. This article has 0 citations.](https://doi.org/10.3389/dyst.2024.12016)
+
+[4. (Shibata2024The) Yoko Shibata, Emily E. Mazur, Buyan Pan, Joao A. Paulo, Steven P. Gygi, Suyog Chavan, L. Sebastian Alexis Valerio, Jiuchun Zhang, and Tom A. Rapoport. The membrane curvature-inducing reep1-4 proteins generate an er-derived vesicular compartment. Nature Communications, October 2024. URL: http://dx.doi.org/10.1038/s41467-024-52901-6, doi:10.1038/s41467-024-52901-6. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-024-52901-6)
+
+5. (Golchoubian2020REEP4) REEP4 is recruited to the inner nuclear membrane by ELYS and promotes nuclear pore complex formation. This article has 1 citations.
+
+[6. (Angelotti2022Exploring) Timothy Angelotti. Exploring the eukaryotic yip and reep/yop superfamily of membrane-shaping adapter proteins (msaps): a cacophony or harmony of structure and function? Frontiers in Molecular Biosciences, August 2022. URL: http://dx.doi.org/10.3389/fmolb.2022.912848, doi:10.3389/fmolb.2022.912848. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fmolb.2022.912848)

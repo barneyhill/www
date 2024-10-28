@@ -1,0 +1,37 @@
+# ELK4
+
+## Overview
+ELK4 is a gene that encodes the ETS transcription factor ELK4, a member of the ternary complex factor (TCF) subfamily within the ETS family of transcription factors. This protein plays a pivotal role in regulating gene expression in response to various cellular stimuli, acting as a downstream effector of the mitogen-activated protein kinase (MAPK) signaling pathway. ELK4 is primarily active in the nucleus, where it binds to specific DNA sequences to modulate the transcription of target genes, influencing processes such as cell proliferation, differentiation, and stress responses (Xie2014MKL12; Huang2023ELK4). The protein's interactions with other transcription factors and cofactors, such as MITF and SIRT6, further underscore its involvement in complex regulatory networks that are crucial for normal cellular functions and development (Huang2023ELK4). ELK4's dysregulation has been implicated in various pathological conditions, including cancer and immune disorders, highlighting its clinical significance (Adler2012Rearrangement; Mao2021ELK4mediated).
+
+## Function
+ELK4 is a transcription factor that plays a significant role in regulating gene expression in response to various cellular stimuli. It is a member of the ternary complex factor (TCF) subfamily of Ets transcription factors and acts as a downstream effector of the MAPK signaling pathway, which is crucial for cell proliferation and differentiation (Huang2023ELK4). In healthy human cells, ELK4 is primarily active in the nucleus, where it binds to specific DNA sequences to modulate the transcription of target genes. This regulation is essential for normal cellular functions and development.
+
+ELK4 is involved in the transcriptional activation of cytokines and chemokines during mast cell activation. It interacts with transcription factors such as MITF to modulate gene transcription, promoting cytokine/chemokine production while inhibiting mast cell degranulation by recruiting SIRT6 as an epigenetic corepressor (Huang2023ELK4). In macrophages, ELK4 regulates genes related to stress responses and is involved in the acute response to external stimuli, particularly during fungal infection challenges (Xie2014MKL12). ELK4's activity is heavily dependent on its expression, and it may interact with other cofactors outside of the myocardin and TCF families, indicating a broader regulatory role in gene expression (Xie2014MKL12).
+
+## Clinical Significance
+ELK4 has been implicated in various diseases and conditions due to mutations, alterations in expression levels, or changes in its interactions. In gastric cancer, ELK4 acts as a transcription factor that upregulates the expression of the long non-coding RNA SNHG22, which is associated with poor prognosis. SNHG22 interacts with EZH2 to suppress tumor suppressor genes, promoting cancer progression (Mao2021ELK4mediated).
+
+In non-small cell lung cancer (NSCLC), ELK4 is involved in the malignancy of the disease through its interaction with the tRNA-derived fragment AS-tDR-007333. This interaction upregulates MED29, contributing to cancer progression. ELK4 expression is positively correlated with AS-tDR-007333 levels, and targeting this pathway could offer therapeutic potential (Yang2022A).
+
+ELK4 rearrangements have been observed in prostate cancer, with a small percentage of primary and metastatic cases showing these genetic alterations. These rearrangements suggest a potential role in the clonal progression of prostate cancer (Adler2012Rearrangement).
+
+In mast cells, ELK4 deficiency leads to increased degranulation and histamine release, affecting conditions like anaphylaxis and allergic asthma. ELK4 normally suppresses these processes, and its deficiency results in reduced granularity and histamine content in mast cells (Huang2023ELK4).
+
+## Interactions
+ELK4, a member of the ETS transcription factor family, engages in various protein-protein and protein-DNA interactions that are crucial for its role in gene regulation. In mast cells, ELK4 interacts with the transcription factor MITF to regulate the transcription of genes involved in cytokine and chemokine production. This interaction was demonstrated through coimmunoprecipitation assays, where endogenous ELK4 was coimmunoprecipitated by endogenous MITF in MC/9 mast cells (Huang2023ELK4). ELK4 also interacts with the histone deacetylase SIRT6, acting as an epigenetic corepressor to inhibit the transcription of genes involved in mast cell degranulation (Huang2023ELK4).
+
+In macrophages, ELK4 forms complexes with the serum response factor (SRF) to regulate gene expression, particularly in response to external stimuli such as zymosan treatment. This interaction is part of a broader regulatory mechanism involving other transcription factors like MKL1/2, NFYA, and GABPA, as suggested by motif analysis (Xie2014MKL12). Although direct physical interactions with NFYA and GABPA have not been confirmed, their motifs are enriched in ELK4-bound gene promoters, indicating potential partnerships (Xie2014MKL12). These interactions highlight ELK4's role in complex transcriptional regulation networks.
+
+
+## References
+
+
+[1. (Adler2012Rearrangement) David Adler, Martin Braun, Pavel Nikolov, Diana Boehm, Veit Scheble, Roopika Menon, Falko Fend, Glen Kristiansen, Sven Perner, and Nicolas Wernert. Rearrangement of the ets genes etv-1, etv-4, etv-5, and elk-4 is a clonal event during prostate cancer progression. Human Pathology, 43(11):1910–1916, November 2012. URL: http://dx.doi.org/10.1016/j.humpath.2012.01.018, doi:10.1016/j.humpath.2012.01.018. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.humpath.2012.01.018)
+
+[2. (Xie2014MKL12) Lan Xie. Mkl1/2 and elk4 co-regulate distinct serum response factor (srf) transcription programs in macrophages. BMC Genomics, 15(1):301, 2014. URL: http://dx.doi.org/10.1186/1471-2164-15-301, doi:10.1186/1471-2164-15-301. This article has 30 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/1471-2164-15-301)
+
+[3. (Yang2022A) Wenhan Yang, Kaiping Gao, Youhui Qian, Yongyi Huang, Qin Xiang, Cheng Chen, Qianqian Chen, Yiling Wang, Fuyuan Fang, Qihan He, Siqi Chen, Juan Xiong, Yangchao Chen, Ni Xie, Duo Zheng, and Rihong Zhai. A novel trna-derived fragment as-tdr-007333 promotes the malignancy of nsclc via the hspb1/med29 and elk4/med29 axes. Journal of Hematology &amp; Oncology, May 2022. URL: http://dx.doi.org/10.1186/s13045-022-01270-y, doi:10.1186/s13045-022-01270-y. This article has 39 citations.](https://doi.org/10.1186/s13045-022-01270-y)
+
+4. (Mao2021ELK4mediated) ELK4-mediated lncRNA SNHG22 promotes gastric cancer progression through interacting with EZH2 and regulating miR-200c-3p/Notch1 axis. This article has 0 citations.
+
+[5. (Huang2023ELK4) Yuji Huang, Zhehui Zhu, Weize Li, Yiqin Ge, Yanning Li, Juan Wang, Xia Peng, Lihui Lin, Jia Li, Chen-Ying Liu, and Li Li. Elk4 exerts opposite roles in cytokine/chemokine production and degranulation in activated mast cells. Frontiers in Immunology, July 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1171380, doi:10.3389/fimmu.2023.1171380. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1171380)

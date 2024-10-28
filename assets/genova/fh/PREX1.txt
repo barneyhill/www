@@ -1,0 +1,62 @@
+# PREX1
+
+## Overview
+Phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1, encoded by the PREX1 gene, is a guanine nucleotide exchange factor (GEF) that plays a pivotal role in cellular signaling by activating the small GTPase Rac1. This protein is integral to various cellular processes, including actin cytoskeleton regulation, cell migration, and growth. P-Rex1 is characterized by its complex multidomain structure, which includes Dbl homology (DH) and pleckstrin homology (PH) domains, as well as DEP, PDZ, and IP4P domains, facilitating its interactions with phosphatidylinositol (3,4,5)-trisphosphate (PIP3) and Gβγ subunits (Lucato2015The; Cash2019Cryo–electron). These interactions are crucial for its activation and function at the plasma membrane and within the cytoplasm. P-Rex1 is implicated in various physiological contexts, such as immune cell function, neuronal development, and vascular biology, and its dysregulation is associated with several cancers, making it a potential target for therapeutic intervention (BeltránNavarro2022PRex1; tsonou2020exploring).
+
+## Structure
+The PREX1 gene encodes the P-Rex1 protein, a guanine nucleotide exchange factor (GEF) that activates the small GTPase Rac. P-Rex1 is a large multidomain protein with a complex structure that includes several key domains. The N-terminal region contains a Dbl homology (DH) domain, which is crucial for its GEF activity, and a pleckstrin homology (PH) domain, which is involved in membrane association and binding phosphatidylinositol (3,4,5)-trisphosphate (PIP3) (Lucato2015The; Hill2005Regulation). The DH domain is composed of six main α-helices, forming an elongated bundle, while the PH domain forms a seven-β-stranded anti-parallel β-sandwich (Lucato2015The).
+
+C-terminal to the DH-PH tandem are two DEP (Disheveled, EGL-10, pleckstrin) domains, two PDZ (postsynaptic density protein, discs large, zona occludens-1) domains, and a large IP4P (inositol polyphosphate 4-phosphatase) homology domain (Lucato2015The). The IP4P domain, although lacking phosphatase activity, is structurally homologous to phosphoinositide phosphatases and forms a docking site for Gβγ subunits (Cash2019Cryo–electron).
+
+The protein's quaternary structure involves interactions between these domains, forming a scaffold for recruiting other signaling proteins. The binding of Gβγ and PIP3 induces allosteric changes that enhance P-Rex1's GEF activity (Cash2019Cryo–electron). P-Rex1 may undergo post-translational modifications such as phosphorylation, which occurs at flexible loops and is important for its regulation (Cash2019Cryo–electron).
+
+## Function
+PREX1 (phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1) is a guanine nucleotide exchange factor (GEF) that activates the small GTPase Rac1, playing a crucial role in various cellular processes. In healthy human cells, PREX1 is involved in actin cytoskeleton regulation, which is essential for cell migration, growth, and survival. It is activated by phosphatidylinositol-3,4,5-trisphosphate (PIP3) and Gβγ subunits, primarily functioning in the cytoplasm and at the plasma membrane (tsonou2020exploring).
+
+In neutrophils, PREX1 acts downstream of G-protein-coupled receptors (GPCRs) and is involved in Rac-dependent reactive oxygen species (ROS) production, actin polymerization, polarization, and migration, which are critical for neutrophil recruitment to inflammatory sites (tsonou2020exploring). In platelets, PREX1 is involved in GPCR-dependent aggregation and dense granule secretion, contributing to platelet-dependent vascular adhesion and tissue recruitment of neutrophils and eosinophils during inflammation (tsonou2020exploring).
+
+PREX1 also plays a role in neuronal development and behavior, where it affects Rac activity, lamellipodia formation, and cell migration. Knockdown of PREX1 in neurons results in behavioral deficits, which can be rescued by overexpression of PREX1 (tsonou2020exploring). In vascular biology, PREX1 deficiency in endothelial cells inhibits Rac1 activity, chemotaxis, and angiogenesis, and it is involved in TNF-α-induced endothelial barrier disruption (tsonou2020exploring).
+
+## Clinical Significance
+Alterations in the expression of the PREX1 gene have significant clinical implications in various cancers. In breast cancer, particularly the luminal subtype, PREX1 is upregulated due to promoter hypomethylation, which correlates with poor patient survival. This overexpression is linked to increased metastatic potential, especially in estrogen receptor-positive (ER+) breast cancer, where it facilitates dissemination to bone (Clements2019PREX1; BarrioReal2014Subtypespecific). 
+
+In melanoma, PREX1 is upregulated in tumors compared to normal melanocytes, playing a crucial role in invasion and metastasis. Genetic ablation of PREX1 in mouse models impairs melanoma metastasis, highlighting its importance in metastatic signaling (Lindsay2011PRex1). 
+
+In lower grade glioma (LGG), high PREX1 expression is associated with reduced patient survival. It acts as a signaling hub, interacting with various chemotactic agonists and growth factors, which may exacerbate tumor progression and affect the immune tumor microenvironment (BeltránNavarro2022PRex1). 
+
+These findings suggest that PREX1 could serve as a prognostic marker and a potential therapeutic target across a spectrum of cancers, including breast cancer, melanoma, and glioma.
+
+## Interactions
+PREX1 interacts with several proteins, playing a crucial role in cellular signaling pathways. It binds directly to protein phosphatase 1α (PP1α) through an RVxF PP1-binding motif, inhibiting PP1 activity. This interaction is direct and independent of additional proteins, as demonstrated by binding assays using purified proteins and far-Western analysis (Barber2012The).
+
+PREX1 also interacts with the regulatory subunit RIα of type I protein kinase A (PKA) in a cAMP-dependent manner. This interaction is crucial for the activation of PREX1, facilitating the formation of an active Rac guanine exchange factor complex, which is essential for processes like endothelial cell migration (AdameGarcía2019cAMPdependent).
+
+The protein also forms complexes with G protein βγ subunits, which recruit and activate PREX1 at the plasma membrane. This interaction involves the PDZ1, PDZ2, and IP4P domains of PREX1, and is essential for its activation and membrane localization (CervantesVillagrana2021Gβγ; Cash2019Cryo–electron).
+
+PREX1's interaction with these proteins highlights its role in modulating signal transduction pathways, impacting cellular processes such as migration and growth.
+
+
+## References
+
+
+[1. (CervantesVillagrana2021Gβγ) Rodolfo Daniel Cervantes-Villagrana, Yarely Mabell Beltrán-Navarro, Irving García-Jiménez, Sendi Rafael Adame-García, Adán Olguín-Olguín, Guadalupe Reyes-Cruz, and José Vázquez-Prado. Gβγ recruits and activates p-rex1 via two independent binding interfaces. Biochemical and Biophysical Research Communications, 539:20–27, February 2021. URL: http://dx.doi.org/10.1016/j.bbrc.2020.12.089, doi:10.1016/j.bbrc.2020.12.089. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2020.12.089)
+
+[2. (BeltránNavarro2022PRex1) Yarely Mabell Beltrán-Navarro, Guadalupe Reyes-Cruz, and José Vázquez-Prado. P-rex1 signaling hub in lower grade glioma patients, found by in silico data mining, correlates with reduced survival and augmented immune tumor microenvironment. Frontiers in Oncology, July 2022. URL: http://dx.doi.org/10.3389/fonc.2022.922025, doi:10.3389/fonc.2022.922025. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.922025)
+
+[3. (BarrioReal2014Subtypespecific) Laura Barrio-Real, Lorena G Benedetti, Nora Engel, Yaping Tu, Soonweng Cho, Saraswati Sukumar, and Marcelo G Kazanietz. Subtype-specific overexpression of the rac-gef p-rex1 in breast cancer is associated with promoter hypomethylation. Breast Cancer Research, September 2014. URL: http://dx.doi.org/10.1186/s13058-014-0441-7, doi:10.1186/s13058-014-0441-7. This article has 31 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s13058-014-0441-7)
+
+[4. (Lucato2015The) Christina M. Lucato, Michelle L. Halls, Lisa M. Ooms, Heng-Jia Liu, Christina A. Mitchell, James C. Whisstock, and Andrew M. Ellisdon. The phosphatidylinositol (3,4,5)-trisphosphate-dependent rac exchanger 1·ras-related c3 botulinum toxin substrate 1 (p-rex1·rac1) complex reveals the basis of rac1 activation in breast cancer cells. Journal of Biological Chemistry, 290(34):20827–20840, August 2015. URL: http://dx.doi.org/10.1074/jbc.m115.660456, doi:10.1074/jbc.m115.660456. This article has 53 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m115.660456)
+
+[5. (Lindsay2011PRex1) Colin R. Lindsay, Samuel Lawn, Andrew D. Campbell, William J. Faller, Florian Rambow, Richard L. Mort, Paul Timpson, Ang Li, Patrizia Cammareri, Rachel A. Ridgway, Jennifer P. Morton, Brendan Doyle, Shauna Hegarty, Mairin Rafferty, Ian G. Murphy, Enda W. McDermott, Kieran Sheahan, Katherine Pedone, Alexander J. Finn, Pamela A. Groben, Nancy E. Thomas, Honglin Hao, Craig Carson, Jim C. Norman, Laura M. Machesky, William M. Gallagher, Ian J. Jackson, Leon Van Kempen, Friedrich Beermann, Channing Der, Lionel Larue, Heidi C. Welch, Brad W. Ozanne, and Owen J. Sansom. P-rex1 is required for efficient melanoblast migration and melanoma metastasis. Nature Communications, November 2011. URL: http://dx.doi.org/10.1038/ncomms1560, doi:10.1038/ncomms1560. This article has 151 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms1560)
+
+[6. (AdameGarcía2019cAMPdependent) Sendi Rafael Adame-García, Rodolfo Daniel Cervantes-Villagrana, Lennis Beatriz Orduña-Castillo, Jason C. del Rio, J. Silvio Gutkind, Guadalupe Reyes-Cruz, Susan S. Taylor, and José Vázquez-Prado. Camp-dependent activation of the rac guanine exchange factor p-rex1 by type i protein kinase a (pka) regulatory subunits. Journal of Biological Chemistry, 294(7):2232–2246, February 2019. URL: http://dx.doi.org/10.1074/jbc.ra118.006691, doi:10.1074/jbc.ra118.006691. This article has 18 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra118.006691)
+
+[7. (Clements2019PREX1) Miranda E. Clements and Rachelle W. Johnson. Prex1 drives spontaneous bone dissemination of er+ breast cancer cells. Oncogene, 39(6):1318–1334, October 2019. URL: http://dx.doi.org/10.1038/s41388-019-1064-3, doi:10.1038/s41388-019-1064-3. This article has 17 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-019-1064-3)
+
+[8. (Barber2012The) Mark A. Barber, Annick Hendrickx, Monique Beullens, Hugo Ceulemans, David Oxley, Sylvia Thelen, Marcus Thelen, Mathieu Bollen, and Heidi C. E. Welch. The guanine-nucleotide-exchange factor p-rex1 is activated by protein phosphatase 1α. Biochemical Journal, 443(1):173–183, March 2012. URL: http://dx.doi.org/10.1042/bj20112078, doi:10.1042/bj20112078. This article has 34 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20112078)
+
+9. (tsonou2020exploring) Exploring the Importance of PREX Proteins in Glucose Homeostasis and Insulin Signalling. This article has 1 citations.
+
+[10. (Hill2005Regulation) Kirsti Hill, Sonja Krugmann, Simon R. Andrews, W. John Coadwell, Peter Finan, Heidi C.E. Welch, Phillip T. Hawkins, and Len R. Stephens. Regulation of p-rex1 by phosphatidylinositol (3,4,5)-trisphosphate and gβγ subunits. Journal of Biological Chemistry, 280(6):4166–4173, February 2005. URL: http://dx.doi.org/10.1074/jbc.m411262200, doi:10.1074/jbc.m411262200. This article has 102 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m411262200)
+
+[11. (Cash2019Cryo–electron) Jennifer N. Cash, Sarah Urata, Sheng Li, Sandeep K. Ravala, Larisa V. Avramova, Michael D. Shost, J. Silvio Gutkind, John J. G. Tesmer, and Michael A. Cianfrocco. Cryo–electron microscopy structure and analysis of the p-rex1–gβγ signaling scaffold. Science Advances, October 2019. URL: http://dx.doi.org/10.1126/sciadv.aax8855, doi:10.1126/sciadv.aax8855. This article has 37 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.aax8855)

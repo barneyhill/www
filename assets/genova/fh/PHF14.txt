@@ -1,0 +1,50 @@
+# PHF14
+
+## Overview
+PHF14 is a gene that encodes the PHD finger protein 14, a nuclear protein characterized by the presence of multiple plant homeodomain (PHD) zinc finger domains. These domains are integral to the protein's role in chromatin-mediated transcriptional regulation, allowing it to interact with histones and influence gene expression. The protein is primarily localized in the nucleus and is involved in various cellular processes, including chromatin remodeling, DNA repair, and transcriptional regulation. PHF14 forms complexes with other proteins, such as HMG20A, and participates in key signaling pathways like TGFβ and Hippo, which are crucial for cellular functions such as epithelial-mesenchymal plasticity and cell proliferation. The gene's expression and the protein's interactions have significant implications in cancer biology, where alterations in PHF14 are associated with tumor progression and poor prognosis in several cancers (Huang2013Depletion; GómezMarín2022The; Wu2019Silencing).
+
+## Structure
+PHF14 (PHD finger protein 14) is characterized by the presence of multiple plant homeodomain (PHD) zinc finger domains, which are involved in chromatin-mediated transcriptional regulation. The protein contains four putative PHD fingers and two coiled-coil regions, which are crucial for its interaction with histones, particularly through its PHD1 and PHD3 domains (Huang2013Depletion; Wu2019Silencing). These PHD fingers demonstrate complete conservation of the zinc-coordinating residues, with a unique substitution in PHD2 where the final cysteine is replaced with a histidine (Huang2013Depletion).
+
+PHF14 exists in multiple isoforms, with PHF14a being the major isoform, primarily localized in the nucleus and associated with chromatin throughout mitosis (Huang2013Depletion). PHF14b, on the other hand, is almost undetectable except in specific cell types and is localized in the cytoplasm despite having nuclear localization signals (Huang2013Depletion). The protein's apparent molecular weight is higher than its theoretical weight, suggesting post-translational modifications such as N-glycosylation and phosphorylation (Huang2013Depletion).
+
+PHF14 forms complexes with other proteins, such as HMG20A, through coiled-coil leucine zipper motifs, indicating a quaternary structure involving protein-protein interactions (GómezMarín2022The). The PHF14 complex is involved in DNA damage repair and neurodevelopmental processes, forming biomolecular condensates at damage sites (Käsper2021The).
+
+## Function
+PHF14 (PHD finger protein 14) is a histone-binding protein involved in chromatin remodeling and gene expression regulation. It contains multiple PHD finger domains, which facilitate its interaction with histones, particularly histone H3, and potentially recognize specific histone modifications (Huang2013Depletion). PHF14 is primarily localized in the nucleus and is associated with chromatin throughout the cell cycle, suggesting a role in DNA-related functions such as transcriptional regulation and DNA repair (Huang2013Depletion).
+
+In healthy human cells, PHF14 forms a complex with the high mobility group protein HMG20A, modulating key signaling pathways like TGFβ and Hippo, which are crucial for epithelial-mesenchymal plasticity, cell migration, invasion, and cell-cell adhesion (GómezMarín2022The). The PHF14-HMG20A complex maintains chromatin in a repressive or poised state by preserving the deacetylated state of specific nucleosomes, potentially preventing transcription activation until appropriate signaling occurs (GómezMarín2022The). This complex also interacts with the YAP/TAZ-TEAD complex, influencing gene activation within the Hippo pathway, which is essential for regulating cell proliferation and organ growth (GómezMarín2022The).
+
+## Clinical Significance
+PHF14 (PHD finger protein 14) has been implicated in various cancers due to its role in chromatin remodeling and gene expression regulation. Alterations in PHF14 expression are associated with poor prognosis in several cancers, including glioblastoma, where it is overexpressed and linked to enhanced proliferation, migration, and invasion of tumor cells (Wu2019Silencing). In glioblastoma, silencing PHF14 expression inhibits the Wnt/β-catenin signaling pathway, reducing tumor cell proliferation and invasiveness (Wu2019Silencing).
+
+In lung adenocarcinoma, PHF14 interacts with DNMT3B, a DNA methyltransferase, to enhance DNA methylation of the SMAD7 gene, promoting TGF-β-driven cancer progression and metastasis (Tian2023PHF14). This interaction suggests that PHF14 plays a significant role in the epigenetic regulation of genes involved in cancer progression (Tian2023PHF14).
+
+PHF14 expression is also linked to poor overall survival in several cancers, such as adrenocortical carcinoma and colon adenocarcinoma, while showing a protective effect in cholangiocarcinoma (Cao2023A). These findings highlight the potential of PHF14 as a therapeutic target and its clinical significance in cancer prognosis and treatment strategies (Cao2023A).
+
+## Interactions
+PHF14 (PHD finger protein 14) is involved in various protein interactions and complexes that play significant roles in cellular processes. It is a nuclear binding partner of PHF5A, forming a subcomplex that regulates cellular epigenetic changes in pancreatic cancer stem cells (PCSCs). This interaction is confirmed through western blot analyses and docking simulations, suggesting a cooperative role in transcriptional regulation (Mouti2023KMT2A).
+
+PHF14 also interacts with HMG20A, forming a complex that is involved in DNA damage detection and repair. This complex can bind to double-stranded DNA and four-way junction DNA, indicating its role in DNA repair processes. The interaction between PHF14 and HMG20A is characterized by a strong binding facilitated by the HMG box domain of HMG20A (Käsper2021The).
+
+In addition, PHF14 is part of a complex with HMG20A and TCF20 or RAI1, which forms biomolecular condensates at DNA damage sites. These condensates are crucial for DNA repair and cell cycle progression, particularly in neural progenitor cells (Käsper2021The).
+
+PHF14's interactions extend to histones, where it binds to histone H3 via its PHD domains, recognizing specific histone modifications to regulate transcription (Huang2013Depletion).
+
+
+## References
+
+
+[1. (Wu2019Silencing) Shuai Wu, Chen Luo, Fengjiao Li, N. U. Farrukh Hameed, Qiuyan Jin, and Jie Zhang. Silencing expression of phf14 in glioblastoma promotes apoptosis, mitigates proliferation and invasiveness via wnt signal pathway. Cancer Cell International, November 2019. URL: http://dx.doi.org/10.1186/s12935-019-1040-6, doi:10.1186/s12935-019-1040-6. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-019-1040-6)
+
+2. (Käsper2021The) The neurodevelopmental disorder-linked PHF14 complex that forms biomolecular condensates detects DNA damage and promotes repair. This article has 2 citations.
+
+[3. (GómezMarín2022The) Elena Gómez-Marín, Melanija Posavec-Marjanović, Laura Zarzuela, Laura Basurto-Cayuela, José A Guerrero-Martínez, Gonzalo Arribas, Rosario Yerbes, María Ceballos-Chávez, Manuel Rodríguez-Paredes, Mercedes Tomé, Raúl V Durán, Marcus Buschbeck, and José C Reyes. The high mobility group protein hmg20a cooperates with the histone reader phf14 to modulate tgfβ and hippo pathways. Nucleic Acids Research, 50(17):9838–9857, September 2022. URL: http://dx.doi.org/10.1093/nar/gkac766, doi:10.1093/nar/gkac766. This article has 6 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkac766)
+
+[4. (Cao2023A) Zhiyou Cao, Haibo Zhan, Weiwei Wu, Zhihui Kuang, Fengbo Mo, Xuqiang Liu, and Min Dai. A comprehensive pan-cancer analysis unveiling the oncogenic effect of plant homeodomain finger protein 14 (phf14) in human tumors. Frontiers in Genetics, March 2023. URL: http://dx.doi.org/10.3389/fgene.2023.1073138, doi:10.3389/fgene.2023.1073138. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2023.1073138)
+
+[5. (Tian2023PHF14) Han Tian, Chenying Liu, Jianchen Yu, Jian Han, Jianan Du, Shujun Liang, Wenting Wang, Qin Liu, Rong Lian, Ting Zhu, Shanshan Wu, Tianyu Tao, Yaokai Ye, Jingjing Zhao, Yi Yang, Xun Zhu, Junchao Cai, Jueheng Wu, and Mengfeng Li. Phf14 enhances dna methylation of smad7 gene to promote tgf-β-driven lung adenocarcinoma metastasis. Cell Discovery, April 2023. URL: http://dx.doi.org/10.1038/s41421-023-00528-0, doi:10.1038/s41421-023-00528-0. This article has 13 citations.](https://doi.org/10.1038/s41421-023-00528-0)
+
+[6. (Mouti2023KMT2A) Mai Abdel Mouti, Siwei Deng, Martin Pook, Jessica Malzahn, Aniko Rendek, Stefania Militi, Reshma Nibhani, Zahir Soonawalla, Udo Oppermann, Chang-il Hwang, and Siim Pauklin. Kmt2a associates with phf5a-phf14-hmg20a-rai1 subcomplex in pancreatic cancer stem cells and epigenetically regulates their characteristics. Nature Communications, September 2023. URL: http://dx.doi.org/10.1038/s41467-023-41297-4, doi:10.1038/s41467-023-41297-4. This article has 8 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-41297-4)
+
+[7. (Huang2013Depletion) Qin Huang, Lin Zhang, Yiguo Wang, Chenyi Zhang, Shuhua Zhou, Guang Yang, Zhongqiang Li, Xiang Gao, Zhengjun Chen, and Zhe Zhang. Depletion of &amp;lt;italic&amp;gt;phf14&amp;lt;/italic&amp;gt;, a novel histone-binding protein gene, causes neonatal lethality in mice due to respiratory failure. Acta Biochimica et Biophysica Sinica, 45(8):622–633, August 2013. URL: http://dx.doi.org/10.1093/abbs/gmt055, doi:10.1093/abbs/gmt055. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/abbs/gmt055)

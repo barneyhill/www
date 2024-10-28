@@ -1,0 +1,41 @@
+# DDX24
+
+## Overview
+DDX24 is a gene that encodes the protein DEAD-box helicase 24, a member of the DEAD-box protein family characterized by the conserved motif Asp-Glu-Ala-Asp (DEAD). This protein functions primarily as an RNA helicase, playing a critical role in various aspects of RNA metabolism, including ribosomal RNA processing and assembly, which are essential for ribosome biogenesis (Abdelhaleem2003The; welsch2010identification). DEAD-box helicase 24 is ubiquitously expressed across human tissues, with notable expression in the heart and brain, and is involved in modulating immune responses by acting as a negative regulator of interferon signaling (Taschuk2020DEADBox). Additionally, it has been implicated in the packaging of HIV-1 viral RNA, influencing viral infectivity (Rao2022DEADly). The protein's interactions with various cellular components suggest its involvement in apoptosis and cancer progression, highlighting its clinical significance in diseases such as Huntington's disease and hepatocellular carcinoma (Zhang2022ALKBH5-mediated; welsch2010identification).
+
+## Function
+DDX24, a member of the DEAD-box protein family, functions as an RNA helicase involved in various aspects of RNA metabolism. It is characterized by an RNA binding domain and an ATPase domain, which facilitate its role in unwinding RNA structures (welsch2010identification). DDX24 is ubiquitously expressed in human tissues, with the highest levels found in the heart and brain, and the lowest in the thymus and small intestine (welsch2010identification).
+
+In healthy human cells, DDX24 is active in the nucleolus, where it plays a role in ribosomal RNA processing and assembly, contributing to ribosome biogenesis (Abdelhaleem2003The). It is also involved in modulating the immune response by acting as a negative regulator of interferon responses. DDX24 achieves this by binding to double-stranded and single-stranded RNA, sequestering them away from RIG-I-like receptors, which interferes with the activation of IRF7, a transcription factor involved in the induction of interferon (Taschuk2020DEADBox).
+
+Additionally, DDX24 has been implicated in the packaging of HIV-1 viral RNA, interacting with the HIV-1 Gag protein to influence viral RNA packaging and infectivity (Rao2022DEADly).
+
+## Clinical Significance
+DDX24 has been implicated in several diseases due to its role in modulating cellular processes and immune responses. In Huntington's disease, DDX24 acts as a modulator of caspase activation, where its knockdown leads to increased activity of caspases-8 and -9, suggesting a protective role against cytotoxicity induced by mutant Huntingtin protein. This indicates that alterations in DDX24 expression may influence the pathogenesis of Huntington's disease by affecting apoptosis pathways (welsch2010identification).
+
+In the context of cancer, particularly hepatocellular carcinoma (HCC), DDX24 is involved in tumor progression. It interacts with the lincRNA LINC02551, which stabilizes DDX24 by preventing its ubiquitination and degradation. This interaction promotes HCC growth and metastasis, suggesting that increased DDX24 expression is associated with poor prognosis in HCC patients (Zhang2022ALKBH5-mediated).
+
+DDX24 also plays a role in regulating innate immune signaling. It negatively regulates RIG-I-like receptor pathways, which are crucial for type I interferon production. Alterations in DDX24 expression can lead to enhanced immune responses, potentially contributing to inflammatory diseases (Ma2013DDX24).
+
+## Interactions
+DDX24, a DEAD-box helicase, is involved in various interactions with proteins and nucleic acids, playing a significant role in regulating innate immune signaling. It interacts with the adaptor proteins FADD and RIP1, which are crucial for type I interferon (IFN) signaling. DDX24's interaction with RIP1 disrupts the association between RIP1 and the transcription factor IRF7, thereby negatively regulating the RIG-I-like receptor (RLR) pathway and inhibiting IFN production (Ma2013DDX24). DDX24 also binds to double-stranded RNA (dsRNA) and single-stranded RNA (ssRNA), sequestering them away from RLRs, which interferes with the activation of IRF7 (Taschuk2020DEADBox).
+
+In the context of apoptosis, DDX24 interacts with FADD, a mediator in the extrinsic apoptosis signaling pathway. This interaction suggests that DDX24 might influence the formation of the death-inducing signaling complex (DISC) and caspase activation, potentially by competitively binding to FADD and preventing its recruitment to death domains (welsch2010identification).
+
+DDX24 also interacts with the long non-coding RNA LINC02551, which stabilizes DDX24 by reducing its ubiquitination-mediated degradation. This interaction is facilitated by LINC02551 acting as a molecular adaptor, blocking the combination between DDX24 and the E3 ligase TRIM27 (Zhang2022ALKBH5-mediated).
+
+
+## References
+
+
+[1. (Zhang2022ALKBH5-mediated) Hongwei Zhang, Yachong Liu, Wei Wang, Furong Liu, Weijian Wang, Chen Su, He Zhu, Zhibin Liao, Bixiang Zhang, and Xiaoping Chen. Alkbh5-mediated m6a modification of lincrna linc02551 enhances the stability of ddx24 to promote hepatocellular carcinoma growth and metastasis. Cell Death &amp; Disease, November 2022. URL: http://dx.doi.org/10.1038/s41419-022-05386-4, doi:10.1038/s41419-022-05386-4. This article has 25 citations.](https://doi.org/10.1038/s41419-022-05386-4)
+
+[2. (Taschuk2020DEADBox) Frances Taschuk and Sara Cherry. Dead-box helicases: sensors, regulators, and effectors for antiviral defense. Viruses, 12(2):181, February 2020. URL: http://dx.doi.org/10.3390/v12020181, doi:10.3390/v12020181. This article has 83 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/v12020181)
+
+[3. (Ma2013DDX24) Zhe Ma, Robert Moore, Xiangxi Xu, and Glen N. Barber. Ddx24 negatively regulates cytosolic rna-mediated innate immune signaling. PLoS Pathogens, 9(10):e1003721, October 2013. URL: http://dx.doi.org/10.1371/journal.ppat.1003721, doi:10.1371/journal.ppat.1003721. This article has 78 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.ppat.1003721)
+
+4. (welsch2010identification) Identification of the DEAD-box protein DDX24 as a novel modulator of Huntingtin induced caspase activation. This article has 0 citations.
+
+[5. (Abdelhaleem2003The) Mohamed Abdelhaleem, Lois Maltais, and Hester Wain. The human ddx and dhx gene families of putative rna helicases. Genomics, 81(6):618–622, June 2003. URL: http://dx.doi.org/10.1016/s0888-7543(03)00049-1, doi:10.1016/s0888-7543(03)00049-1. This article has 130 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0888-7543(03)00049-1)
+
+[6. (Rao2022DEADly) Shringar Rao and Tokameh Mahmoudi. Dead-ly affairs: the roles of dead-box proteins on hiv-1 viral rna metabolism. Frontiers in Cell and Developmental Biology, June 2022. URL: http://dx.doi.org/10.3389/fcell.2022.917599, doi:10.3389/fcell.2022.917599. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.917599)

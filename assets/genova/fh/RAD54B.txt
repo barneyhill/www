@@ -1,0 +1,58 @@
+# RAD54B
+
+## Overview
+RAD54B is a gene that encodes the RAD54 homolog B protein, a member of the SWI2/SNF2 helicase superfamily, which plays a pivotal role in DNA repair mechanisms, particularly homologous recombination. The RAD54B protein is characterized by its ATPase activity, which is essential for DNA strand exchange and chromatin remodeling, processes critical for maintaining genomic stability. It interacts with several key proteins, including RAD51 and the MDM2-MDMX complex, to facilitate DNA repair and regulate cell cycle checkpoints. Mutations and dysregulation of RAD54B have been associated with various cancers, highlighting its significance in tumorigenesis and its potential as a therapeutic target (Yasuhara2014Rad54B; Tanaka2002Human; McAndrew2017The).
+
+## Structure
+The RAD54B protein is a member of the SWI2/SNF2 helicase superfamily and plays a crucial role in DNA damage repair pathways. It is composed of 910 amino acids and includes several key domains. The N-terminal domain of RAD54B shares homology with the yeast recombination gene TID1/RDH54, suggesting a potential functional similarity (Tanaka2002Human; Miyagawa2002A). The central region of RAD54B contains seven conserved helicase motifs characteristic of the SNF2/SWI2 family, which are involved in ATP hydrolysis and DNA binding (Hiramoto1999Mutations; Tanaka2002Human).
+
+RAD54B has three major domains: an N-terminal SWI2/SNF2 family domain, a DEAD-like helicase (DEXDc) domain, and a C-terminal helicase superfamily domain (HELICc) (McAndrew2017The). These domains are crucial for its function in chromatin remodeling and homologous recombination repair. RAD54B contains five ATP binding sites and three nucleotide binding sites essential for its ATPase activity (McAndrew2017The).
+
+The protein forms complexes with other DNA repair proteins, such as Rad51, Rad54, and Brca1, indicating its role in recombinational repair (Miyagawa2002A). RAD54B also interacts with S100A11, forming a stable protein complex involved in DNA repair (Murzik2008Rad54B). The specific three-dimensional structure of RAD54B has not been fully elucidated, limiting detailed structural insights (McAndrew2017The).
+
+## Function
+The RAD54B gene encodes a protein that plays a significant role in homologous recombination, a critical pathway for DNA double-strand break repair in human cells. RAD54B is a double-stranded DNA-dependent ATPase, which means it hydrolyzes ATP in the presence of double-stranded DNA, a process essential for its function in DNA repair and recombination (Tanaka2002Human). The protein is part of the RAD52 epistasis group and is involved in DNA strand exchange and chromatin remodeling, facilitating accurate DNA repair and cell cycle progression (Tanaka2002Human).
+
+RAD54B interacts with the RAD51 protein, enhancing its ATPase activity and facilitating the formation of D loops, which are crucial intermediates in homologous recombination (Wesoly2006Differential). It also forms nuclear foci that co-localize with other DNA repair proteins such as hRad51, hRad54, and Brca1, indicating its active role in the nucleus during DNA repair processes (Tanaka2002Human).
+
+In addition to its role in DNA repair, RAD54B functions as a scaffold in the DNA damage response, interacting with the MDM2-MDMX ubiquitin-ligase complex to regulate p53 degradation. This interaction helps modulate cell cycle checkpoints, particularly the G1/S and G2/M checkpoints, ensuring proper cell cycle progression and genomic stability (Yasuhara2014Rad54B).
+
+## Clinical Significance
+Mutations and altered expression of the RAD54B gene have been implicated in various cancers, contributing to genomic instability and tumorigenesis. RAD54B is often amplified or overexpressed in several cancer types, including lung adenocarcinoma, colorectal, breast, and prostate cancers (McAndrew2017The; Xu2019Knockdown). In lung adenocarcinoma, high RAD54B expression is associated with poor prognosis and increased cell proliferation, while its knockdown leads to reduced proliferation and increased apoptosis (Xu2019Knockdown; Hwang2015The). 
+
+In breast cancer, particularly the luminal A subtype, RAD54B overexpression is linked to poor prognosis and tumor growth, with gene amplification frequently observed (Zhang2019RAD54B). Mutations in RAD54B have also been identified in primary cancers such as non-Hodgkin's lymphoma and colon adenocarcinoma, where they occur at conserved positions within helicase motifs, potentially affecting the gene's function in maintaining genome integrity (Hiramoto1999Mutations).
+
+RAD54B's interaction with the MDM2-MDMX complex influences p53 degradation, affecting cell cycle progression and contributing to oncogenesis (Yasuhara2014Rad54B; McAndrew2017The). These findings highlight RAD54B as a potential therapeutic target in cancer treatment strategies, including synthetic lethality approaches (McAndrew2017The).
+
+## Interactions
+RAD54B interacts with several proteins and nucleic acids, playing a crucial role in DNA repair processes. It enhances the DNA strand exchange activity mediated by Dmc1, acting as a trigger to convert the Dmc1-DNA complex from an inactive to an active form. This interaction is confirmed through co-expression and immunoprecipitation experiments, which show that RAD54B stabilizes the Dmc1-ssDNA complex, preventing its dissociation (Sarai2006Stimulation).
+
+RAD54B also interacts with the MDM2-MDMX ubiquitin-ligase complex, facilitating the degradation of p53. This interaction is crucial for modulating the DNA damage response, as RAD54B acts as a scaffold for MDM2-MDMX heterodimerization, enhancing p53 polyubiquitination and degradation (Yasuhara2014Rad54B).
+
+In the context of DNA double-strand break repair, RAD54B forms a complex with S100A11. This interaction is necessary for RAD54B's targeting to DNA repair sites, as S100A11 depletion disrupts RAD54B's localization to these sites (Murzik2008Rad54B). RAD54B's interaction with S100A11 is significant for its role in homologous recombination-mediated DNA repair (Murzik2008Rad54B).
+
+
+## References
+
+
+[1. (Hiramoto1999Mutations) Tomoki Hiramoto, Tae Nakanishi, Tatsuro Sumiyoshi, Toshikatsu Fukuda, Shinya Matsuura, Hiroshi Tauchi, Kenshi Komatsu, Yoshiro Shibasaki, Hiroki Inui, Masahiro Watatani, Masayuki Yasutomi, Koji Sumii, Goro Kajiyama, Nanao Kamada, Kiyoshi Miyagawa, and Kenji Kamiya. Mutations of a novel human rad54 homologue, rad54b, in primary cancer. Oncogene, 18(22):3422–3426, June 1999. URL: http://dx.doi.org/10.1038/sj.onc.1202691, doi:10.1038/sj.onc.1202691. This article has 99 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.onc.1202691)
+
+[2. (Hwang2015The) Jau-Chung Hwang, Wen-Wei Sung, Hung-Pin Tu, Kun-Chou Hsieh, Chung-Min Yeh, Chih-Jung Chen, Hui-Chun Tai, Chao-Tien Hsu, Grace S. Shieh, Jan-Gowth Chang, Kun-Tu Yeh, and Ta-Chih Liu. The overexpression of fen1 and rad54b may act as independent prognostic factors of lung adenocarcinoma. PLOS ONE, 10(10):e0139435, October 2015. URL: http://dx.doi.org/10.1371/journal.pone.0139435, doi:10.1371/journal.pone.0139435. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0139435)
+
+[3. (Zhang2019RAD54B) Zeyu Zhang, Xiaoting Li, Yingyan Han, Teng Ji, Xiaoyuan Huang, Qinglei Gao, and Ding Ma. Rad54b potentiates tumor growth and predicts poor prognosis of patients with luminal a breast cancer. Biomedicine &amp; Pharmacotherapy, 118:109341, October 2019. URL: http://dx.doi.org/10.1016/j.biopha.2019.109341, doi:10.1016/j.biopha.2019.109341. This article has 15 citations.](https://doi.org/10.1016/j.biopha.2019.109341)
+
+[4. (McAndrew2017The) Erin N. McAndrew and Kirk J. McManus. The enigmatic oncogene and tumor suppressor‐like properties of rad54b: insights into genome instability and cancer. Genes, Chromosomes and Cancer, 56(7):513–523, April 2017. URL: http://dx.doi.org/10.1002/gcc.22458, doi:10.1002/gcc.22458. This article has 17 citations.](https://doi.org/10.1002/gcc.22458)
+
+[5. (Murzik2008Rad54B) Ulrike Murzik, Peter Hemmerich, Stefanie Weidtkamp-Peters, Tobias Ulbricht, Wendy Bussen, Julia Hentschel, Ferdinand von Eggeling, and Christian Melle. Rad54b targeting to dna double-strand break repair sites requires complex formation with s100a11. Molecular Biology of the Cell, 19(7):2926–2935, July 2008. URL: http://dx.doi.org/10.1091/mbc.E07-11-1167, doi:10.1091/mbc.e07-11-1167. This article has 53 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.E07-11-1167)
+
+[6. (Xu2019Knockdown) Chuan Xu, Di Liu, Hong Mei, Jian Hu, and Meng Luo. Knockdown of rad54b expression reduces cell proliferation and induces apoptosis in lung cancer cells. Journal of International Medical Research, 47(11):5650–5659, September 2019. URL: http://dx.doi.org/10.1177/0300060519869423, doi:10.1177/0300060519869423. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1177/0300060519869423)
+
+[7. (Yasuhara2014Rad54B) Takaaki Yasuhara, Takahiko Suzuki, Mari Katsura, and Kiyoshi Miyagawa. Rad54b serves as a scaffold in the dna damage response that limits checkpoint strength. Nature Communications, November 2014. URL: http://dx.doi.org/10.1038/ncomms6426, doi:10.1038/ncomms6426. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms6426)
+
+[8. (Wesoly2006Differential) Joanna Wesoly, Sheba Agarwal, Stefan Sigurdsson, Wendy Bussen, Stephen Van Komen, Jian Qin, Harry van Steeg, Jan van Benthem, Evelyne Wassenaar, Willy M. Baarends, Mehrnaz Ghazvini, Agnieszka A. Tafel, Helen Heath, Niels Galjart, Jeroen Essers, J. Anton Grootegoed, Norman Arnheim, Olga Bezzubova, Jean-Marie Buerstedde, Patrick Sung, and Roland Kanaar. Differential contributions of mammalian rad54 paralogs to recombination, dna damage repair, and meiosis. Molecular and Cellular Biology, 26(3):976–989, February 2006. URL: http://dx.doi.org/10.1128/mcb.26.3.976-989.2006, doi:10.1128/mcb.26.3.976-989.2006. This article has 185 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.26.3.976-989.2006)
+
+[9. (Miyagawa2002A) K. Miyagawa. A role for rad54b in homologous recombination in human cells. The EMBO Journal, 21(1):175–180, January 2002. URL: http://dx.doi.org/10.1093/emboj/21.1.175, doi:10.1093/emboj/21.1.175. This article has 104 citations.](https://doi.org/10.1093/emboj/21.1.175)
+
+[10. (Sarai2006Stimulation) Naoyuki Sarai, Wataru Kagawa, Takashi Kinebuchi, Ako Kagawa, Kozo Tanaka, Kiyoshi Miyagawa, Shukuko Ikawa, Takehiko Shibata, Hitoshi Kurumizaka, and Shigeyuki Yokoyama. Stimulation of dmc1-mediated dna strand exchange by the human rad54b protein. Nucleic Acids Research, 34(16):4429–4437, August 2006. URL: http://dx.doi.org/10.1093/nar/gkl562, doi:10.1093/nar/gkl562. This article has 20 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkl562)
+
+[11. (Tanaka2002Human) K. Tanaka. Human rad54b is a double-stranded dna-dependent atpase and has biochemical properties different from its structural homolog in yeast, tid1/rdh54. Nucleic Acids Research, 30(6):1346–1353, March 2002. URL: http://dx.doi.org/10.1093/nar/30.6.1346, doi:10.1093/nar/30.6.1346. This article has 45 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/30.6.1346)

@@ -1,0 +1,46 @@
+# RBM23
+
+## Overview
+RBM23 is a gene that encodes the RNA binding motif protein 23, which is a member of the U2AF-like family of proteins involved in RNA processing. The protein is characterized by its RNA recognition motifs (RRMs), which facilitate its role in the splicing of pre-mRNAs, a crucial step in gene expression regulation. Although RBM23 lacks the UHM domain found in its paralog RBM39, it shares similar functions in transcriptional coregulation, indicating its importance in the regulation of gene expression (Xu2021RNA‐binding). The protein is primarily active in the nucleus, where it interacts with pre-mRNA to influence RNA maturation and modification, impacting cellular functions and organismal development (Zhang2020RNABinding). In addition to its fundamental role in RNA processing, RBM23 has been implicated in cancer-related pathways, particularly in hepatocellular carcinoma, where it influences angiogenesis and the NF-kB signaling pathway (Li2021The). Despite its involvement in these processes, RBM23 appears to be dispensable for cancer cell survival, suggesting its role may be more critical in normal cellular functions (Xu2021RNA‐binding).
+
+## Structure
+RBM23 is a protein that shares structural similarities with RBM39, particularly in its RNA recognition motif (RRM) domains. The second RRM domain of RBM23 (RBM23RRM2) is nearly identical to that of RBM39, with 100% sequence identity across key residues that interact with DCAF15 and E7820, suggesting a similar molecular structure in this region (Faust2019Structural). This domain is crucial for its interaction with the DCAF15 E3 ligase complex, which is involved in the degradation of RBM23 when mediated by compounds like E7820 and Indisulam (Bussiere2019The).
+
+The RBM23 protein likely contains conserved alpha-helices within its RRM domains, similar to RBM39, which facilitate its binding to other proteins and possibly RNA (Faust2019Structural). Although specific details about the tertiary and quaternary structures of RBM23 are not provided, the presence of these conserved motifs suggests a structured domain capable of specific interactions. The protein may undergo post-translational modifications, such as phosphorylation, which could influence its function and interactions, although specific modifications are not detailed in the available context. The structural similarity to RBM39 implies that RBM23 may also participate in RNA processing and splicing regulation.
+
+## Function
+RBM23 (RNA binding motif protein 23) is involved in the splicing of pre-mRNAs, a critical process in RNA processing and gene expression regulation. It is part of the U2AF-like family of proteins, which are essential for the proper splicing of pre-mRNA transcripts in the nucleus (Xu2021RNA‐binding). Although RBM23 lacks the UHM domain found in its paralog RBM39, it shares similar functions in transcriptional coregulation, suggesting a role in the regulation of gene expression (Xu2021RNA‐binding).
+
+RBM23 is active in the nucleus, where it interacts with pre-mRNA to influence RNA maturation and modification. This interaction is facilitated by its RNA-binding domains, which allow RBM23 to contribute to the precise control of RNA splicing, impacting cellular functions and organismal development (Zhang2020RNABinding). Despite its involvement in these fundamental processes, RBM23 appears to be dispensable for cancer cell survival, indicating that its role may be more critical in normal cellular functions rather than in oncogenic processes (Xu2021RNA‐binding).
+
+In the context of cancer, RBM23 has been shown to inhibit tube formation by human vascular endothelial cells in hepatocellular carcinoma and activate the NF-kB signaling pathway, promoting proangiogenic cytokine expression (Li2021The). However, its specific functions in healthy human cells remain less detailed in the available literature.
+
+## Clinical Significance
+RBM23 has been implicated in the progression of hepatocellular carcinoma (HCC). Alterations in its expression can influence angiogenesis, a critical process in cancer development. Specifically, the knockdown of RBM23 in HCC cells has been shown to significantly inhibit tube formation by human vascular endothelial cells, suggesting its role in promoting angiogenesis through the activation of the NF-kB signaling pathway and the selective expression of proangiogenic cytokines (Li2021The).
+
+In addition to its role in cancer, RBM23 is involved in liver regeneration. The circular RNA derived from the RBM23 gene, known as circ-RBM23, acts as a sponge for miR-139-5p, facilitating liver regeneration via the RRM2/AKT/mTOR pathway. This interaction highlights the potential therapeutic applications of RBM23 in liver regeneration, particularly following hepatectomy (li2022Exosomal).
+
+While the context does not provide detailed information on specific diseases directly caused by RBM23 gene mutations, its involvement in critical cellular processes like angiogenesis and liver regeneration suggests that alterations in its expression or function could contribute to disease pathogenesis. Further research is needed to fully elucidate the clinical significance of RBM23 in various conditions.
+
+## Interactions
+RBM23 is known to participate in interactions with other proteins and nucleic acids, primarily through its RNA recognition motifs (RRMs). It is identified as a neosubstrate of the DCAF15 ubiquitin ligase in the presence of the small molecule E7820. This interaction is facilitated by the second RNA recognition motif (RRM2) of RBM23, which shares 100% sequence identity with the RRM2 of RBM39, allowing it to bind DCAF15 with comparable affinity. This interaction leads to the degradation of RBM23, similar to the degradation process observed for RBM39 (Faust2019Structural).
+
+RBM23 is also implicated in cancer-related pathways. In hepatocellular carcinoma, RBM23 knockdown significantly inhibits tube formation by human vascular endothelial cells in vitro and activates the NF-kB signaling pathway, promoting the expression of proangiogenic cytokines (Li2021The). Additionally, RBM23 is specifically promoted in colorectal cancer cells, suggesting its tumor-promotive function may be dependent on the cancer's origin (Konishi2021The). These interactions highlight RBM23's role in both protein degradation pathways and cancer progression, indicating its potential as a target for therapeutic interventions.
+
+
+## References
+
+
+[1. (Xu2021RNA‐binding) Yuewei Xu, Anke Nijhuis, and Hector C. Keun. Rna‐binding motif protein 39 (rbm39): an emerging cancer target. British Journal of Pharmacology, 179(12):2795–2812, January 2021. URL: http://dx.doi.org/10.1111/bph.15331, doi:10.1111/bph.15331. This article has 37 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1111/bph.15331)
+
+2. (Faust2019Structural) Structural complementarity facilitates E7820-mediated degradation of RBM39 by DCAF15. This article has 1 citations.
+
+[3. (Konishi2021The) Hiroaki Konishi, Shin Kashima, Takuma Goto, Katsuyoshi Ando, Aki Sakatani, Hiroki Tanaka, Nobuhiro Ueno, Kentaro Moriichi, Toshikatsu Okumura, and Mikihiro Fujiya. The identification of rna-binding proteins functionally associated with tumor progression in gastrointestinal cancer. Cancers, 13(13):3165, June 2021. URL: http://dx.doi.org/10.3390/cancers13133165, doi:10.3390/cancers13133165. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13133165)
+
+[4. (Zhang2020RNABinding) Hui Zhang, R. Dale Brown, Kurt R. Stenmark, and Cheng-Jun Hu. Rna-binding proteins in pulmonary hypertension. International Journal of Molecular Sciences, 21(11):3757, May 2020. URL: http://dx.doi.org/10.3390/ijms21113757, doi:10.3390/ijms21113757. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21113757)
+
+5. (Bussiere2019The) The structural basis of Indisulam-mediated recruitment of RBM39 to the DCAF15-DDB1-DDA1 E3 ligase complex. This article has 0 citations.
+
+6. (li2022Exosomal) Exosomal circ-RBM23 sponging miR-139-5p to promote liver regeneration through RRM2/AKT/mTOR pathway. This article has 0 citations.
+
+[7. (Li2021The) Zhigang Li, Qingyu Guo, Jiaxin Zhang, Zitong Fu, Yifei Wang, Tianzhen Wang, and Jing Tang. The rna-binding motif protein family in cancer: friend or foe? Frontiers in Oncology, November 2021. URL: http://dx.doi.org/10.3389/fonc.2021.757135, doi:10.3389/fonc.2021.757135. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.757135)

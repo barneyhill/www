@@ -1,0 +1,26 @@
+# ICE1
+
+## Overview
+ICE1 (Interactor of Little Elongation Complex ELL Subunit 1) is a gene that encodes a multifunctional protein involved in critical cellular processes, including nonsense-mediated mRNA decay (NMD) and the transcription of small nuclear RNA (snRNA) genes. The ICE1 protein functions as a scaffold within the Little Elongation Complex (LEC), facilitating the recruitment of RNA Polymerase II to snRNA genes and playing a pivotal role in both the initiation and elongation phases of transcription (Hu2013The). Additionally, ICE1 is integral to the exon junction complex (EJC), where it aids in the regulation of mRNAs with premature termination codons, thereby ensuring mRNA quality control (Baird2018ICE1). In Arabidopsis, ICE1 also functions as a transcriptional activator, binding to MYC recognition sites to regulate gene expression in response to cold stress (Chinnusamy2003ICE1:). Through these diverse roles, ICE1 is essential for maintaining proper gene expression and cellular homeostasis.
+
+## Function
+The ICE1 gene encodes a protein that plays a significant role in two major cellular processes: nonsense-mediated mRNA decay (NMD) and the transcription of small nuclear RNA (snRNA) genes. In the context of NMD, ICE1 is associated with the exon junction complex (EJC) and is crucial for the regulation of mRNAs containing premature termination codons (PTCs). It facilitates the association of UPF3B with EJCs, which is essential for the decay of these mRNAs, thereby maintaining mRNA quality control and regulating gene expression (Baird2018ICE1). ICE1's interaction with the EJC is important for linking splicing to NMD, ensuring the destruction of faulty mRNAs (Baird2018ICE1).
+
+In snRNA gene transcription, ICE1 is a key component of the Little Elongation Complex (LEC), which is involved in the transcription of snRNA genes by RNA Polymerase II. ICE1 acts as a scaffold for the formation of the LEC and is necessary for the recruitment of RNA Polymerase II to snRNA genes, playing a role in both the initiation and elongation phases of transcription (Hu2013The). ICE1 is active in the nucleus, where it contributes to the proper processing and maturation of snRNAs, impacting RNA splicing and gene expression regulation (Hu2013The).
+
+## Interactions
+The ICE1 protein is involved in several interactions with other proteins and nucleic acids, playing a significant role in cellular processes. In the context of nonsense-mediated mRNA decay (NMD), ICE1 associates with the exon junction complex (EJC). It co-purifies with the core EJC component eIF4AIII, indicating a stable interaction that is independent of RNA, as RNase treatment does not disrupt this interaction. ICE1 also interacts with other EJC components such as CASC3 and MAGOH, suggesting its involvement in linking splicing to NMD (Baird2018ICE1). 
+
+ICE1 promotes the association of UPF3B with the EJC, which is crucial for NMD. Although a direct interaction between endogenous ICE1 and UPF3B is not observed under native conditions, co-immunoprecipitation experiments show that UPF3B can associate with the EJC when either UPF3B or the ICE1 C-terminus is overexpressed. This suggests that ICE1 transiently interacts with fully assembled EJCs to facilitate UPF3B-EJC association, enhancing the efficiency of EJC maturation or altering post-translational modifications of EJC proteins (Baird2018ICE1).
+
+In Arabidopsis, ICE1 acts as a transcriptional activator by binding to MYC recognition sites in the promoter region of the CBF3 gene, indicating its role in regulating gene expression in response to cold stress (Chinnusamy2003ICE1:).
+
+
+## References
+
+
+[1. (Chinnusamy2003ICE1:) Viswanathan Chinnusamy, Masaru Ohta, Siddhartha Kanrar, Byeong-ha Lee, Xuhui Hong, Manu Agarwal, and Jian-Kang Zhu. Ice1: a regulator of cold-induced transcriptome and freezing tolerance inarabidopsis. Genes &amp; Development, 17(8):1043–1054, April 2003. URL: http://dx.doi.org/10.1101/gad.1077503, doi:10.1101/gad.1077503. This article has 1281 citations.](https://doi.org/10.1101/gad.1077503)
+
+[2. (Hu2013The) Deqing Hu, Edwin R. Smith, Alexander S. Garruss, Nima Mohaghegh, Joseph M. Varberg, Chengqi Lin, Jessica Jackson, Xin Gao, Anita Saraf, Laurence Florens, Michael P. Washburn, Joel C. Eissenberg, and Ali Shilatifard. The little elongation complex functions at initiation and elongation phases of snrna gene transcription. Molecular Cell, 51(4):493–505, August 2013. URL: http://dx.doi.org/10.1016/j.molcel.2013.07.003, doi:10.1016/j.molcel.2013.07.003. This article has 54 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2013.07.003)
+
+[3. (Baird2018ICE1) Thomas D Baird, Ken Chih-Chien Cheng, Yu-Chi Chen, Eugen Buehler, Scott E Martin, James Inglese, and J Robert Hogg. Ice1 promotes the link between splicing and nonsense-mediated mrna decay. eLife, March 2018. URL: http://dx.doi.org/10.7554/elife.33178, doi:10.7554/elife.33178. This article has 55 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.33178)

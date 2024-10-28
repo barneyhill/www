@@ -1,0 +1,54 @@
+# ESPL1
+
+## Overview
+ESPL1 is a gene that encodes the protein separase, a cysteine protease that plays a pivotal role in cell division by facilitating the separation of sister chromatids during anaphase. This process is critical for ensuring accurate chromosome segregation and maintaining genomic stability. Separase is characterized by a conserved separase domain essential for its proteolytic activity, and it undergoes complex regulation through interactions with proteins such as securin and cyclin B1, as well as post-translational modifications like phosphorylation. Beyond its role in mitosis, separase is involved in telomere protection and interacts with telomeric proteins, indicating its participation in broader cellular regulatory networks. Dysregulation of ESPL1 expression has been linked to various cancers, where it often acts as an oncogene, highlighting its clinical significance as a potential biomarker and therapeutic target (Zhong2023PanCancer; Cipressa2016A; Försti2016Genetic; Agircan2014Sensors).
+
+## Structure
+The ESPL1 gene encodes the separase protein, a cysteine protease essential for chromosomal segregation during cell division. The primary structure of separase includes a conserved separase domain, which is crucial for its proteolytic activity (Agircan2014Sensors). The secondary structure of separase features alpha helices and beta sheets, contributing to its stability and function. The tertiary structure involves a large catalytic domain that is responsible for its enzymatic activity. This domain is critical for the cleavage of cohesin subunits, such as Scc1/Rad21, during the metaphase-anaphase transition (Agircan2014Sensors).
+
+In terms of quaternary structure, separase may interact with securin, a protein that inhibits its activity until the appropriate phase of the cell cycle. This interaction is crucial for regulating separase activity and ensuring proper chromatid separation (Agircan2016Proximity). Post-translational modifications, particularly phosphorylation, play a significant role in regulating separase activity. For instance, phosphorylation by polo-like kinase 1 (Plk1) affects separase's substrate affinity and activity at centrosomes (Agircan2014Sensors). These structural features and modifications are essential for the precise control of separase function during cell division.
+
+## Function
+ESPL1, also known as separase, is a crucial enzyme involved in the regulation of mitosis in human cells. It plays a vital role in the separation of sister chromatids during anaphase by cleaving the cohesin complex that holds them together. This process is essential for accurate chromosome segregation and genomic stability (Försti2016Genetic). 
+
+In addition to its role in mitosis, ESPL1 is involved in telomere protection. It regulates the stability of heterochromatin protein 1 (HP1), which is important for maintaining telomere integrity. Depletion of ESPL1 in human cells leads to telomere dysfunction and a reduction in HP1 levels, indicating its role in telomere maintenance (Cipressa2016A). 
+
+ESPL1 is active in both the cytoplasm and nucleus, ensuring proper mitotic progression and contributing to chromosomal stability. Its function is not limited to sister chromatid separation but also includes interactions with telomeric proteins, suggesting a broader regulatory network involving centromeric and telomeric proteins (Cipressa2016A).
+
+## Clinical Significance
+Alterations in the expression of the ESPL1 gene, which encodes the protein separase, have been implicated in various cancers. In gliomas, a type of malignant brain tumor, ESPL1 is overexpressed at both the mRNA and protein levels compared to normal brain tissues. This overexpression is associated with more aggressive clinical features, such as higher World Health Organization grades and specific genetic alterations like 1p19q co-deletion. High ESPL1 levels correlate with reduced overall survival in glioma patients, suggesting its potential as a prognostic biomarker (Liu2021ESPL1).
+
+In gastric cancer, ESPL1 overexpression is linked to resistance to apatinib, a drug used for treating metastatic gastric cancer. Inhibition of ESPL1 has been shown to enhance the sensitivity of gastric cancer cells to apatinib, indicating its role in mediating drug resistance (Zhang2024Genomewide).
+
+Pan-cancer analyses have identified ESPL1 as an oncogene overexpressed in various cancers, including breast, bone, brain, and prostate cancers. Its high expression is generally associated with poor prognosis, although in thymoma, it correlates with better overall survival, suggesting a complex role in different cancer types (Zhong2023PanCancer).
+
+## Interactions
+The human gene ESPL1 encodes separase, a cysteine protease that plays a crucial role in sister chromatid separation during cell division. Separase interacts with several proteins that regulate its activity. One of the primary interactions is with securin, which binds to separase and inhibits its protease activity until the onset of anaphase. This binding prevents peptide inhibitors from accessing separase's active site, indicating that securin inhibits separase by direct binding outside its active site (Waizenegger2002Regulation).
+
+Separase also interacts with cyclin B1, which inhibits its activity through a phosphorylation-dependent mechanism. Phosphorylation of separase at serine 1126 promotes cyclin B1 binding, which is mutually exclusive with securin binding. This interaction is crucial for preventing premature activation of separase and ensuring timely chromosome disjunction during mitosis (Holland2006CyclinB1mediated).
+
+Separase is involved in centriole disengagement, a process necessary for centriole duplication. This activity is regulated by Polo-like kinase 1 (Plk1), which assists separase by phosphorylating cohesin subunits, facilitating their cleavage by separase (Tsou2009Polo). These interactions highlight the complex regulatory network that controls separase activity during cell division.
+
+
+## References
+
+
+[1. (Liu2021ESPL1) Zhendong Liu, Xiaoyu Lian, Xiuru Zhang, Yongjie Zhu, Wang Zhang, Jialin Wang, Hongbo Wang, Binfeng Liu, Zhishuai Ren, Mengjun Zhang, Mingyang Liu, and Yanzheng Gao. Espl1 is a novel prognostic biomarker associated with the malignant features of glioma. Frontiers in Genetics, August 2021. URL: http://dx.doi.org/10.3389/fgene.2021.666106, doi:10.3389/fgene.2021.666106. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2021.666106)
+
+[2. (Försti2016Genetic) Asta Försti, Christoph Frank, Bozena Smolkova, Alena Kazimirova, Magdalena Barancokova, Veronika Vymetalkova, Michal Kroupa, Alessio Naccarati, Ludmila Vodickova, Janka Buchancova, Maria Dusinska, Ludovit Musak, Pavel Vodicka, and Kari Hemminki. Genetic variation in the major mitotic checkpoint genes associated with chromosomal aberrations in healthy humans. Cancer Letters, 380(2):442–446, October 2016. URL: http://dx.doi.org/10.1016/j.canlet.2016.07.011, doi:10.1016/j.canlet.2016.07.011. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2016.07.011)
+
+[3. (Waizenegger2002Regulation) Irene C. Waizenegger, Juan F. Giménez-Abián, Dominik Wernic, and Jan-Michael Peters. Regulation of human separase by securin binding and autocleavage. Current Biology, 12(16):1368–1378, August 2002. URL: http://dx.doi.org/10.1016/s0960-9822(02)01073-4, doi:10.1016/s0960-9822(02)01073-4. This article has 165 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/s0960-9822(02)01073-4)
+
+[4. (Agircan2016Proximity) Fikret Gurkan Agircan, Shoji Hata, Carmen Nussbaum-Krammer, Enrico Atorino, and Elmar Schiebel. Proximity mapping of human separase by the bioid approach. Biochemical and Biophysical Research Communications, 478(2):656–662, September 2016. URL: http://dx.doi.org/10.1016/j.bbrc.2016.08.002, doi:10.1016/j.bbrc.2016.08.002. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2016.08.002)
+
+[5. (Cipressa2016A) Francesca Cipressa, Patrizia Morciano, Giuseppe Bosso, Linda Mannini, Alessandra Galati, Grazia Daniela Raffa, Stefano Cacchione, Antonio Musio, and Giovanni Cenci. A role for separase in telomere protection. Nature Communications, January 2016. URL: http://dx.doi.org/10.1038/ncomms10405, doi:10.1038/ncomms10405. This article has 21 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms10405)
+
+[6. (Zhang2024Genomewide) Bei Zhang, Yan Chen, Xinqi Chen, Zhiyao Ren, Hong Xiang, Lipeng Mao, and Guodong Zhu. Genome-wide crispr screen identifies espl1 limits the response of gastric cancer cells to apatinib. Cancer Cell International, February 2024. URL: http://dx.doi.org/10.1186/s12935-024-03233-4, doi:10.1186/s12935-024-03233-4. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-024-03233-4)
+
+[7. (Tsou2009Polo) Meng-Fu Bryan Tsou, Won-Jing Wang, Kelly A. George, Kunihiro Uryu, Tim Stearns, and Prasad V. Jallepalli. Polo kinase and separase regulate the mitotic licensing of centriole duplication in human cells. Developmental Cell, 17(3):344–354, September 2009. URL: http://dx.doi.org/10.1016/j.devcel.2009.07.015, doi:10.1016/j.devcel.2009.07.015. This article has 238 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.devcel.2009.07.015)
+
+[8. (Holland2006CyclinB1mediated) Andrew J. Holland and Stephen S. Taylor. Cyclin-b1-mediated inhibition of excess separase is required for timely chromosome disjunction. Journal of Cell Science, 119(16):3325–3336, August 2006. URL: http://dx.doi.org/10.1242/jcs.03083, doi:10.1242/jcs.03083. This article has 80 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1242/jcs.03083)
+
+[9. (Zhong2023PanCancer) Yuchen Zhong, Chaojing Zheng, Weiyuan Zhang, Hongyu Wu, Meng Wang, Qian Zhang, Haiyang Feng, and Guiyu Wang. Pan-cancer analysis and experimental validation identify the oncogenic nature of espl1: potential therapeutic target in colorectal cancer. Frontiers in Immunology, March 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1138077, doi:10.3389/fimmu.2023.1138077. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1138077)
+
+[10. (Agircan2014Sensors) Fikret Gurkan Agircan and Elmar Schiebel. Sensors at centrosomes reveal determinants of local separase activity. PLoS Genetics, 10(10):e1004672, October 2014. URL: http://dx.doi.org/10.1371/journal.pgen.1004672, doi:10.1371/journal.pgen.1004672. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1004672)

@@ -1,0 +1,52 @@
+# SEMA4B
+
+## Overview
+SEMA4B is a gene that encodes the protein semaphorin 4B, a member of the semaphorin family, which is characterized by its role as a transmembrane protein involved in various cellular processes. Semaphorin 4B is integral to the regulation of immune responses and synaptic development in the nervous system. It is known for its interactions with plexins, which are its primary receptors, and plays a crucial role in cell signaling pathways that influence cell migration, synapse organization, and immune cell regulation (Hota2012Plexin; Battistini2016Transmembrane). The protein's structure includes a conserved sema domain, an immunoglobulin-like domain, and a transmembrane region, which are essential for its function in mediating protein-protein interactions and cellular communication (Nakamura2000Molecular). SEMA4B's involvement in disease processes, such as cancer and immune disorders, highlights its clinical significance, with alterations in its expression linked to tumor suppression and immune regulation (Wang2022CircSEMA4B; Nojima2022Class).
+
+## Structure
+SEMA4B, a member of the semaphorin family, is characterized by several distinct structural features. The primary structure of SEMA4B includes a conserved sema domain, an immunoglobulin-like domain, and a transmembrane region (Nakamura2000Molecular). The sema domain is a hallmark of semaphorins and is involved in interactions with plexins, which are the primary receptors for semaphorins (Hota2012Plexin). 
+
+The secondary structure of semaphorins, including SEMA4B, typically involves beta sheets and alpha helices, contributing to the formation of a 7-bladed beta-propeller fold within the sema domain (Sun2018Role). This structural motif is crucial for the protein's function in cell signaling.
+
+In terms of tertiary structure, the folding of these domains allows for specific protein-protein interactions, which are essential for SEMA4B's role in synapse development and immune response regulation (Battistini2016Transmembrane; Hota2012Plexin). 
+
+SEMA4B may also undergo post-translational modifications such as glycosylation, which can affect its stability and interactions (Hota2012Plexin). Additionally, splice variants of SEMA4B may result in different isoforms, potentially leading to distinct functional roles in various biological processes.
+
+## Function
+SEMA4B, a member of the semaphorin family, plays a significant role in various cellular processes, particularly in the immune system and nervous system. In the immune system, SEMA4B is expressed by lymphocytes and functions to negatively regulate basophil activity. It inhibits the secretion of the cytokine IL-4, which is crucial for lymphocyte Th2 differentiation and IgE production. This regulatory function is evident in Sema4B-deficient mice, which exhibit increased levels of serum IgE compared to wild-type mice, indicating SEMA4B's role in modulating immune responses and maintaining immune homeostasis (Fard2021Semaphorins).
+
+In the nervous system, SEMA4B is involved in synaptic organization and development. It co-localizes and interacts with PSD-95/SAP90 in neurons, suggesting a role in synapse development, particularly in the postsynaptic specialization of glutamatergic synapses. Although the precise functional implications in synaptogenesis are not fully understood, SEMA4B is identified as a key regulator in this process (Battistini2016Transmembrane). SEMA4B primarily signals through PlexinB1 and PlexinB2 receptors, influencing cell migration and integrin function, which are critical for its roles in both the immune and nervous systems (Battistini2016Transmembrane).
+
+## Clinical Significance
+The SEMA4B gene is implicated in several diseases due to mutations or alterations in its expression. In non-small cell lung cancer (NSCLC), SEMA4B plays a significant role by interacting with CLCP1, enhancing its ubiquitination and degradation, which affects cell motility. Its expression is repressed by hypoxia-inducible factor 1 (HIF-1), and overexpression of SEMA4B can reduce NSCLC invasiveness by decreasing matrix metalloproteinase-9 (MMP-9) expression. SEMA4B also influences NSCLC cell growth by inducing FoxO1 nuclear retention through suppression of the PI3K/Akt signaling pathway (Nojima2022Class).
+
+In breast cancer, circSEMA4B, a circular RNA derived from the SEMA4B gene, is downregulated and acts as a tumor suppressor by inhibiting the PI3K/AKT signaling pathway. It encodes a novel protein, SEMA4B-211aa, which inhibits the formation of p85/p110 complexes, reducing p110 protein levels and attenuating PI3K signaling. This leads to decreased AKT phosphorylation, thereby inhibiting cancer cell proliferation, migration, and invasion (Wang2022CircSEMA4B).
+
+SEMA4B is also linked to immune responses, where it negatively regulates basophil function, affecting IgE-mediated allergic reactions. SEMA4B-deficient mice exhibit elevated IgE levels and enhanced basophil-mediated memory IgE production, indicating its role in allergic diseases (Nojima2022Class). Variants in SEMA4B have been associated with severe acne vulgaris, with causal variants disrupting the coding region of WNT10A and a P63 transcription factor binding site in SEMA4B (Nojima2022Class).
+
+## Interactions
+SEMA4B, a member of the semaphorin family, participates in various interactions with proteins and nucleic acids that influence cellular processes. In breast cancer, SEMA4B-211aa, a protein encoded by circSEMA4B, interacts with the PI3K/AKT signaling pathway. It binds to the p85 subunit of PI3K, inhibiting the formation of the p85/p110 complex, which leads to decreased p110 protein levels and reduced PI3K signaling. This interaction prevents the generation of PIP3 and inhibits AKT phosphorylation at Thr308, highlighting its role as a tumor suppressor (Wang2022CircSEMA4B).
+
+SEMA4B also acts as a miRNA sponge, particularly for miR-330-3p, which is enriched in breast cancer. This interaction upregulates PDCD4, another tumor suppressor, further inhibiting AKT phosphorylation at Ser473 (Wang2022CircSEMA4B).
+
+In adipocyte thermogenesis, SEMA4B is cleaved by ADAM17, which affects thermogenic gene expression. It interacts with receptors such as plexins and neuropilins, and can bind to other receptors like CD72, Tim2, integrins, and proteoglycans. These interactions can lead to the transactivation of receptor tyrosine kinases such as VEGFR2, ErbB2, and Met, impacting gene expression and metabolic processes (Amin2022Semaphorin).
+
+
+## References
+
+
+[1. (Nojima2022Class) Satoshi Nojima. Class iv semaphorins in disease pathogenesis. Pathology International, 72(10):471–487, September 2022. URL: http://dx.doi.org/10.1111/pin.13270, doi:10.1111/pin.13270. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/pin.13270)
+
+[2. (Hota2012Plexin) Prasanta K. Hota and Matthias Buck. Plexin structures are coming: opportunities for multilevel investigations of semaphorin guidance receptors, their cell signaling mechanisms, and functions. Cellular and Molecular Life Sciences, 69(22):3765–3805, June 2012. URL: http://dx.doi.org/10.1007/s00018-012-1019-0, doi:10.1007/s00018-012-1019-0. This article has 139 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-012-1019-0)
+
+3. (Amin2022Semaphorin) Semaphorin 4B is an ADAM17-cleaved inhibitor of adipocyte thermogenesis. This article has 0 citations.
+
+[4. (Battistini2016Transmembrane) Chiara Battistini and Luca Tamagnone. Transmembrane semaphorins, forward and reverse signaling: have a look both ways. Cellular and Molecular Life Sciences, 73(8):1609–1622, January 2016. URL: http://dx.doi.org/10.1007/s00018-016-2137-x, doi:10.1007/s00018-016-2137-x. This article has 53 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-016-2137-x)
+
+[5. (Sun2018Role) Qianchuang Sun, Shuyan Liu, Kexiang Liu, and Kai Jiao. Role of semaphorin signaling during cardiovascular development. Journal of the American Heart Association, June 2018. URL: http://dx.doi.org/10.1161/JAHA.118.008853, doi:10.1161/jaha.118.008853. This article has 20 citations.](https://doi.org/10.1161/JAHA.118.008853)
+
+[6. (Fard2021Semaphorins) Damon Fard and Luca Tamagnone. Semaphorins in health and disease. Cytokine &amp; Growth Factor Reviews, 57:55–63, February 2021. URL: http://dx.doi.org/10.1016/j.cytogfr.2020.05.006, doi:10.1016/j.cytogfr.2020.05.006. This article has 54 citations.](https://doi.org/10.1016/j.cytogfr.2020.05.006)
+
+[7. (Wang2022CircSEMA4B) Xuehui Wang, Wei Jian, Qifeng Luo, and Lin Fang. Circsema4b inhibits the progression of breast cancer by encoding a novel protein sema4b-211aa and regulating akt phosphorylation. Cell Death &amp; Disease, September 2022. URL: http://dx.doi.org/10.1038/s41419-022-05246-1, doi:10.1038/s41419-022-05246-1. This article has 37 citations.](https://doi.org/10.1038/s41419-022-05246-1)
+
+[8. (Nakamura2000Molecular) Fumio Nakamura, Robert G. Kalb, and Stephen M. Strittmatter. Molecular basis of semaphorin-mediated axon guidance. Journal of Neurobiology, 44(2):219–229, 2000. URL: http://dx.doi.org/10.1002/1097-4695(200008)44:2<219::AID-NEU11>3.0.CO;2-W, doi:10.1002/1097-4695(200008)44:2<219::aid-neu11>3.0.co;2-w. This article has 395 citations.](https://doi.org/10.1002/1097-4695(200008)44:2)

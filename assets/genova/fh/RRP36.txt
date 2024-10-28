@@ -1,0 +1,28 @@
+# RRP36
+
+## Overview
+RRP36 is a gene that encodes the ribosomal RNA processing 36 protein, which is integral to the biogenesis of ribosomes in eukaryotic cells. The RRP36 protein is primarily involved in the processing of ribosomal RNA (rRNA) within the nucleolus, specifically contributing to the maturation of 18S rRNA, a critical component of the small ribosomal subunit. This protein is a part of the small subunit (SSU) processome, a complex essential for the early stages of pre-rRNA processing. Through its interactions with other proteins such as Rrp5 and Rrp9, RRP36 facilitates the precise cleavage of pre-rRNA at specific sites, which is necessary for proper ribosome assembly and function. These interactions are crucial for maintaining the fidelity of ribosome assembly, thereby supporting cellular growth and proliferation (Blalock2014Identification; Liu2021Blocking; Clerget2020Synergistic).
+
+## Function
+RRP36 is a protein involved in the processing of ribosomal RNA (rRNA) within the nucleolus of human cells. It plays a crucial role in the maturation of 18S rRNA, a component of the small ribosomal subunit, which is essential for protein synthesis. RRP36 is part of the ribosome biogenesis pathway, contributing to cell growth and proliferation by ensuring the proper assembly and function of ribosomes (Blalock2014Identification).
+
+RRP36 interacts with other proteins such as Rrp5 and Rrp9 within the SSU-processome, a complex involved in pre-rRNA processing. This interaction is crucial for the early cleavages at sites A0, A1, and A2, which are necessary for proper rRNA processing and ribosome assembly (Clerget2020Synergistic). The interaction between RRP36 and Rrp5 is particularly important for preventing premature binding of Rrp5 to the ribosomal platform, which could lead to misassembly and dead-end intermediates (Liu2021Blocking).
+
+RRP36 is also involved in the regulation of the DEAD-box ATPase Has1, which facilitates the release of Rrp36 from nascent subunits, allowing Rrp5 to reposition to the platform. This repositioning is essential for the recruitment of late-binding processosome factors and the activation of rRNA processing (Liu2021Blocking).
+
+## Interactions
+RRP36 is a protein involved in the early stages of ribosomal RNA (rRNA) processing, particularly within the small subunit (SSU) processome. It interacts with several other proteins to facilitate the assembly and processing of pre-rRNA. RRP36 directly interacts with Rrp9, a U3 snoRNP protein, and this interaction is crucial for pre-rRNA cleavage at sites A0, A1, and A2. The Rrp9-Rrp36 interaction is mediated by the C-terminal β-propeller domain of Rrp9, and mutations such as Rrp9 R289A can significantly destabilize this interaction, affecting pre-rRNA processing (Clerget2020Synergistic).
+
+RRP36 also interacts with Rrp5, another protein involved in ribosome assembly. This interaction is important for preventing premature binding of Rrp5 to the ribosomal platform, which could lead to misassembly and dead-end intermediates. The first S1 domain of Rrp5 is crucial for its binding to RRP36, and deletion of this domain results in defects in ribosome assembly (Liu2021Blocking).
+
+Additionally, RRP36 is part of a network involving other proteins such as Sgd1, Utp10, and Utp20, although direct interactions with Utp10 and Utp20 were not tested due to solubility issues (Clerget2020Synergistic).
+
+
+## References
+
+
+[1. (Blalock2014Identification) William L. Blalock, Manuela Piazzi, Alberto Bavelloni, Mirco Raffini, Irene Faenza, Antonietta D’Angelo, and Lucio Cocco. Identification of the pkr nuclear interactome reveals roles in ribosome biogenesis, mrna processing and cell division. Journal of Cellular Physiology, 229(8):1047–1060, April 2014. URL: http://dx.doi.org/10.1002/jcp.24529, doi:10.1002/jcp.24529. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcp.24529)
+
+2. (Liu2021Blocking) Blocking a dead-end assembly pathway creates a point of regulation for the DEAD-box ATPase Has1 and prevents platform misassembly. This article has 4 citations.
+
+[3. (Clerget2020Synergistic) Guillaume Clerget, Valérie Bourguignon-Igel, Nathalie Marmier-Gourrier, Nicolas Rolland, Ludivine Wacheul, Xavier Manival, Christophe Charron, Joanna Kufel, Agnès Méreau, Véronique Senty-Ségault, David Tollervey, Denis L J Lafontaine, Christiane Branlant, and Mathieu Rederstorff. Synergistic defects in pre-rrna processing from mutations in the u3-specific protein rrp9 and u3 snorna. Nucleic Acids Research, 48(7):3848–3868, January 2020. URL: http://dx.doi.org/10.1093/nar/gkaa066, doi:10.1093/nar/gkaa066. This article has 16 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkaa066)

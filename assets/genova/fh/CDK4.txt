@@ -1,0 +1,60 @@
+# CDK4
+
+## Overview
+Cyclin-dependent kinase 4 (CDK4) is a gene that encodes the protein cyclin-dependent kinase 4, a serine/threonine kinase that plays a pivotal role in cell cycle regulation. The CDK4 protein is primarily involved in the transition from the G1 phase to the S phase of the cell cycle, functioning through its interaction with D-type cyclins to phosphorylate the retinoblastoma protein (RB1), thereby facilitating cell cycle progression (Parry1999Cyclin; Fassl2022CDK4). This kinase is also implicated in the regulation of cell growth by modulating the mTORC1 pathway, linking cell cycle control with cellular growth mechanisms (RomeroPozuelo2020Cdk4). CDK4's activity is tightly regulated by cyclin-dependent kinase inhibitors, which modulate its interaction with cyclins and other regulatory proteins (Fassl2022CDK4). Dysregulation of CDK4, through mutations or overexpression, is associated with various cancers, including melanoma and mantle cell lymphoma, highlighting its significance as a potential target for cancer therapy (Puntervoll2013Melanoma; Hernández2005CDK4).
+
+## Structure
+CDK4 (cyclin-dependent kinase 4) is a serine/threonine kinase with a typical bilobal structure common to kinases. Its primary structure includes a sequence of amino acids forming a 5-stranded β-sheet N-terminal domain (residues 1-96) and a predominantly helical C-terminal domain (residues 97-303) (Takaki2009The; Day2009Crystal). The N-terminal domain contains the helix-αC with the sequence PISTVRE, which is packed against the β-sheet (Takaki2009The; Day2009Crystal). 
+
+The tertiary structure of CDK4 is characterized by a cleft between the N-terminal and C-terminal domains, which houses the ATP binding site (Takaki2009The; Day2009Crystal). The T-loop, particularly around Thr-172, is crucial for its activity and can adopt a 'loop in' conformation, characteristic of an inactive CDK, even when phosphorylated (Takaki2009The; Day2009Crystal).
+
+In its quaternary structure, CDK4 forms a complex with D-type cyclins, such as cyclin D1, which primarily contacts the N-lobe and αC-helix of CDK4 (Takaki2009The; Day2009Crystal). The CDK4/cyclin D1 complex has a buried surface area of 2,334 Å², indicating a unique conformation compared to other CDK/cyclin complexes (Takaki2009The; Day2009Crystal). 
+
+Phosphorylation of the T-loop is a critical post-translational modification required for enzymatic activity, although it does not alone trigger the conformational change typically associated with full activation (Takaki2009The; Day2009Crystal).
+
+## Function
+CDK4 (cyclin-dependent kinase 4) is a crucial component of the cell cycle machinery in healthy human cells. It forms a complex with D-type cyclins, which are regulated by extracellular signals, to facilitate the progression through the G1 phase of the cell cycle. This complex phosphorylates the retinoblastoma protein (RB1), leading to the release of E2F transcription factors and the upregulation of E2F-transcriptional targets, including cyclin E, which is essential for the transition into the S-phase (Fassl2022CDK4).
+
+CDK4 also plays a role in regulating cell growth by activating mTORC1, a key pathway for cell growth and protein synthesis. It phosphorylates and inhibits TSC2, an upstream inhibitor of mTORC1, thereby promoting mTORC1 activity. This coupling of cell growth to the cell-cycle machinery suggests that CDK4 has a dual role in cell proliferation: directly through phosphorylation of RB and indirectly by activating mTORC1 (RomeroPozuelo2020Cdk4).
+
+The activity of CDK4 is tightly regulated by cell-cycle inhibitors, such as the INK and KIP/CIP families, which can prevent the formation of cyclin D-CDK4 complexes or modulate their activity (Fassl2022CDK4). CDK4 is primarily active in the nucleus, where it is essential for normal cell proliferation and growth (RomeroPozuelo2020Cdk4).
+
+## Clinical Significance
+Mutations and alterations in the CDK4 gene are associated with several cancers, most notably melanoma. Germline mutations in CDK4, such as R24H and R24C, are linked to an increased risk of cutaneous malignant melanoma, particularly in familial cases. These mutations affect the p16 INK4A binding domain, leading to reduced inhibition of CDK4 kinase activity and promoting cell cycle progression (Puntervoll2013Melanoma; Sheppard2013The). CDK4 mutations are phenotypically similar to CDKN2A mutations, characterized by early onset of melanoma and increased occurrence of multiple primary melanomas (Puntervoll2013Melanoma).
+
+In mantle cell lymphomas (MCL), CDK4 gene alterations, including increased gene copy number and overexpression, are associated with highly proliferative and aggressive variants. These alterations often occur alongside p53 gene inactivation, contributing to the pathogenesis of MCL by affecting cell cycle regulation pathways (Hernández2005CDK4).
+
+The CDK4 pathway is a critical oncogenic pathway in melanoma, with dysregulation observed in over 90% of cases. This pathway's activation is often due to genomic alterations, such as the deletion of the tumor suppressor CDKN2A, which increases CDK4 activity (Sheppard2013The). CDK4 inhibitors are being developed as potential therapeutic agents, showing promise in clinical trials for their ability to inhibit cell proliferation (Sheppard2013The).
+
+## Interactions
+CDK4 interacts with various proteins, primarily forming complexes with D-type cyclins (D1, D2, and D3) to regulate cell cycle progression. These cyclin D-CDK4 complexes phosphorylate the retinoblastoma protein (pRb), facilitating the transition from the G1 to S phase of the cell cycle (Parry1999Cyclin). CDK4 activity is modulated by cyclin-dependent kinase inhibitors (CKIs) from the INK4 family, including p16 INK4a, which forms stable complexes with CDK4, inhibiting its activity (Baker2012CDK4:; Parry1999Cyclin).
+
+CDK4 also forms multimeric complexes with chaperone proteins such as HSP90 and CDC37, which stabilize CDK4 and facilitate its interaction with cyclin D (Stepanova1996Mammalian; Jirawatnotai2014The). The interaction with CDC37 is specific to CDK4 and does not occur with other cyclin-dependent kinases (Stepanova1996Mammalian).
+
+In addition to these interactions, CDK4 is involved in complexes with p21 CIP1 and p27 KIP1, which stabilize cyclin D-CDK4 complexes and counteract the inhibitory effects of INK4 proteins (Parry1999Cyclin). The presence of p21 CIP1 can reconstitute cyclin D-CDK4-p21 CIP1 complexes even in the presence of excess p16 INK4a, highlighting the dynamic equilibrium between INK4-bound and p21-bound states (Parry1999Cyclin).
+
+
+## References
+
+
+[1. (Stepanova1996Mammalian) L Stepanova, X Leng, S B Parker, and J W Harper. Mammalian p50cdc37 is a protein kinase-targeting subunit of hsp90 that binds and stabilizes cdk4. Genes &amp; Development, 10(12):1491–1502, June 1996. URL: http://dx.doi.org/10.1101/gad.10.12.1491, doi:10.1101/gad.10.12.1491. This article has 393 citations.](https://doi.org/10.1101/gad.10.12.1491)
+
+[2. (Takaki2009The) T. Takaki, A. Echalier, N. R. Brown, T. Hunt, J. A. Endicott, and M. E. M. Noble. The structure of cdk4/cyclin d3 has implications for models of cdk activation. Proceedings of the National Academy of Sciences, 106(11):4171–4176, March 2009. URL: http://dx.doi.org/10.1073/pnas.0809674106, doi:10.1073/pnas.0809674106. This article has 94 citations.](https://doi.org/10.1073/pnas.0809674106)
+
+[3. (Puntervoll2013Melanoma) Hanne Eknes Puntervoll, Xiaohong R Yang, Hildegunn Høberg Vetti, Ingeborg M Bachmann, Marie Françoise Avril, Meriem Benfodda, Caterina Catricalà, Stéphane Dalle, Anne B Duval-Modeste, Paola Ghiorzo, Paola Grammatico, Mark Harland, Nicholas K Hayward, Hui-Han Hu, Thomas Jouary, Tanguy Martin-Denavit, Aija Ozola, Jane M Palmer, Lorenza Pastorino, Dace Pjanova, Nadem Soufir, Solrun J Steine, Alexander J Stratigos, Luc Thomas, Julie Tinat, Hensin Tsao, Rūta Veinalde, Margaret A Tucker, Brigitte Bressac-de Paillerets, Julia A Newton-Bishop, Alisa M Goldstein, Lars A Akslen, and Anders Molven. Melanoma prone families withcdk4germline mutation: phenotypic profile and associations withmc1rvariants. Journal of Medical Genetics, 50(4):264–270, February 2013. URL: http://dx.doi.org/10.1136/jmedgenet-2012-101455, doi:10.1136/jmedgenet-2012-101455. This article has 98 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1136/jmedgenet-2012-101455)
+
+[4. (Day2009Crystal) Philip J. Day, Anne Cleasby, Ian J. Tickle, Marc O’Reilly, Joe E. Coyle, Finn P. Holding, Rachel L. McMenamin, Jeff Yon, Rajiv Chopra, Christoph Lengauer, and Harren Jhoti. Crystal structure of human cdk4 in complex with a d-type cyclin. Proceedings of the National Academy of Sciences, 106(11):4166–4170, March 2009. URL: http://dx.doi.org/10.1073/pnas.0809645106, doi:10.1073/pnas.0809645106. This article has 179 citations.](https://doi.org/10.1073/pnas.0809645106)
+
+[5. (Baker2012CDK4:) S. J. Baker and E. P. Reddy. Cdk4: a key player in the cell cycle, development, and cancer. Genes &amp; Cancer, 3(11–12):658–669, November 2012. URL: http://dx.doi.org/10.1177/1947601913478972, doi:10.1177/1947601913478972. This article has 150 citations.](https://doi.org/10.1177/1947601913478972)
+
+[6. (Hernández2005CDK4) Luis Hernández, Silvia Beà, Magda Pinyol, German Ott, Tiemo Katzenberger, Andreas Rosenwald, Francesc Bosch, Armando López-Guillermo, Jan Delabie, Dolors Colomer, Emili Montserrat, and Elías Campo. Cdk4 and mdm2 gene alterations mainly occur in highly proliferative and aggressive mantle cell lymphomas with wild-type ink4a/arf locus. Cancer Research, 65(6):2199–2206, March 2005. URL: http://dx.doi.org/10.1158/0008-5472.can-04-1526, doi:10.1158/0008-5472.can-04-1526. This article has 79 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-04-1526)
+
+[7. (Parry1999Cyclin) David Parry, Daniel Mahony, Ken Wills, and Emma Lees. Cyclin d-cdk subunit arrangement is dependent on the availability of competing ink4 and p21 class inhibitors. Molecular and Cellular Biology, 19(3):1775–1783, March 1999. URL: http://dx.doi.org/10.1128/MCB.19.3.1775, doi:10.1128/mcb.19.3.1775. This article has 231 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.19.3.1775)
+
+[8. (Fassl2022CDK4) Anne Fassl, Yan Geng, and Piotr Sicinski. Cdk4 and cdk6 kinases: from basic science to cancer therapy. Science, January 2022. URL: http://dx.doi.org/10.1126/science.abc1495, doi:10.1126/science.abc1495. This article has 205 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.abc1495)
+
+[9. (Jirawatnotai2014The) Siwanon Jirawatnotai, Samanta Sharma, Wojciech Michowski, Bhoom Suktitipat, Yan Geng, John Quackenbush, Joshua E Elias, Steven P Gygi, Yaoyu E Wang, and Piotr Sicinski. The cyclin d1-cdk4 oncogenic interactome enables identification of potential novel oncogenes and clinical prognosis. Cell Cycle, 13(18):2889–2900, September 2014. URL: http://dx.doi.org/10.4161/15384101.2014.946850, doi:10.4161/15384101.2014.946850. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/15384101.2014.946850)
+
+[10. (RomeroPozuelo2020Cdk4) Jesús Romero-Pozuelo, Gianluca Figlia, Oguzhan Kaya, Ana Martin-Villalba, and Aurelio A. Teleman. Cdk4 and cdk6 couple the cell-cycle machinery to cell growth via mtorc1. Cell Reports, 31(2):107504, April 2020. URL: http://dx.doi.org/10.1016/j.celrep.2020.03.068, doi:10.1016/j.celrep.2020.03.068. This article has 102 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2020.03.068)
+
+[11. (Sheppard2013The) Karen E. Sheppard and Grant A. McArthur. The cell-cycle regulator cdk4: an emerging therapeutic target in melanoma. Clinical Cancer Research, 19(19):5320–5328, October 2013. URL: http://dx.doi.org/10.1158/1078-0432.ccr-13-0259, doi:10.1158/1078-0432.ccr-13-0259. This article has 308 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/1078-0432.ccr-13-0259)

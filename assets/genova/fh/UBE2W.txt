@@ -1,0 +1,50 @@
+# UBE2W
+
+## Overview
+UBE2W is a gene that encodes the ubiquitin-conjugating enzyme E2 W, a member of the E2 enzyme family involved in the ubiquitination process. This enzyme is unique in its ability to attach ubiquitin to the N-terminal α-amino group of substrate proteins, a less common form of ubiquitination that influences protein stability and function. UBE2W's activity is crucial for various cellular processes, including protein quality control and stress responses, and it operates in both the cytoplasm and nucleus. The enzyme's structure features a non-canonical ubiquitin-conjugating domain, which facilitates its specific interaction with substrates and other proteins involved in ubiquitination pathways. UBE2W's role in N-terminal ubiquitination distinguishes it from other E2 enzymes, contributing to its involvement in regulating protein fate and cellular homeostasis (Tatham2013Ube2W; Vittal2014Intrinsic).
+
+## Structure
+The UBE2W protein is characterized by a non-canonical ubiquitin-conjugating (UBC) domain with a well-defined core structure that resembles canonical UBC domains, such as UbcH5c. The average pairwise RMSD for residues R7-S118 is 1.35 Å, indicating a well-defined structure (Vittal2014Intrinsic). The secondary structure includes conserved features among canonical E2s, such as helix-1, a 4-stranded 'backside' β-sheet, the structural architecture of the active site, and helix-3. The C-terminal region (residues 127-151) is partially disordered and adopts multiple orientations near the active site (Vittal2014Intrinsic).
+
+The C-terminus of UBE2W is flexible and undergoes higher frequency motions compared to the rest of the protein, which is crucial for substrate recognition and ubiquitination activity (Vittal2014Intrinsic). This flexibility allows UBE2W to accommodate variable substrate N-termini, and mutations or removal of the flexible C-terminus inhibit substrate binding and modification (Vittal2014Intrinsic).
+
+UBE2W forms a noncovalent homodimer using two distinct protein surfaces, primarily driven by residues in the β-sheet region and Loops 4 and 7 of the catalytic domain. However, dimerization is not required for its ubiquitin transfer activity (Vittal2013Biochemical). The C-terminal region of UBE2W, although not essential for dimerization, plays an ancillary role in the dimer interface (Vittal2013Biochemical).
+
+## Function
+UBE2W is a ubiquitin-conjugating enzyme that plays a unique role in the ubiquitination process by attaching ubiquitin to the N-terminal α-amino group of proteins, rather than the more common lysine residues. This N-terminal ubiquitination is less common and is involved in regulating protein stability and function, potentially targeting proteins for degradation via the ubiquitin fusion degradation (UFD) pathway (Tatham2013Ube2W). UBE2W is distinct among E2 enzymes due to its specificity for N-terminal groups, which is attributed to its unique active site that favors neutral N-terminal groups over lysine side chains (Tatham2013Ube2W).
+
+In healthy human cells, UBE2W is involved in several cellular processes, including protein quality control and cellular stress responses. It is active in both the cytoplasm and nucleus, where it can function with various ubiquitin ligases to monoubiquitinate select substrates at their N termini (Wang2016Loss). UBE2W's activity is crucial for the regulation of protein fate, particularly in response to cellular stress or damage, and it may play a role in the degradation of disordered proteins (Wang2016Loss).
+
+## Clinical Significance
+UBE2W, a ubiquitin-conjugating enzyme, has significant clinical implications in various diseases due to its role in protein ubiquitination. In breast cancer, high expression of UBE2W is linked to poor outcomes, promoting metastasis and resistance to endocrine therapy. It is particularly associated with poor distant metastasis-free survival and worse overall and relapse-free survival in cases with genomic alterations (Yuan2021Prognostic). UBE2W expression is notably higher in metastatic breast cancer samples compared to primary tumors, and its elevated levels are predictive of non-response to endocrine therapy (Yuan2021Prognostic). The gene's expression also correlates with immune cell infiltration, particularly macrophages and CD8+ T cells, suggesting a role in the tumor microenvironment (Yuan2021Prognostic).
+
+In Huntington's disease, UBE2W influences the solubility and aggregation of the mutant huntingtin protein (mHTT). Deficiency in UBE2W reduces mHTT aggregate formation and neurotoxicity, indicating its potential as a therapeutic target (Wang2018The). UBE2W's unique ability to ubiquitinate substrates at their N-termini, particularly those with disordered regions, is crucial in regulating protein solubility and aggregation in neurodegenerative disorders (Wang2018The).
+
+Loss of UBE2W in mice results in early postnatal lethality and defects in skin, immune, and male reproductive systems, highlighting its critical role in normal physiological processes (Wang2016Loss).
+
+## Interactions
+UBE2W, a ubiquitin-conjugating enzyme, is involved in several protein interactions that facilitate its role in ubiquitination. It forms a noncovalent homodimer, which is concentration-dependent and involves specific residues such as V30 and D67. This dimerization is distinct from other class I E2 enzymes and is not essential for UBE2W's ubiquitin transfer activity (Vittal2013Biochemical).
+
+UBE2W interacts with the ubiquitin E3 ligase RNF4, which is involved in the ubiquitylation of poly-SUMO-2 chains. This interaction highlights UBE2W's role in N-terminal ubiquitination, where it conjugates ubiquitin to the N-terminus of proteins like SUMO-2 and CHIP, rather than targeting lysine residues (Tatham2013Ube2W).
+
+The enzyme also interacts with UCHL1 and UCHL5, members of the UCH DUB family. UBE2W monoubiquitinates these proteins at their N-termini, inhibiting UCHL1's catalytic activity while enhancing UCHL5's activity. This interaction suggests a regulatory role in modulating the activity of these deubiquitinating enzymes (Davies2021Antibody).
+
+UBE2W's interactions are crucial for its function in ubiquitination processes, particularly in targeting the N-termini of proteins, which is a unique feature among E2 enzymes.
+
+
+## References
+
+
+[1. (Wang2018The) Bo Wang, Li Zeng, Sean A. Merillat, Svetlana Fischer, Joseph Ochaba, Leslie M. Thompson, Sami J. Barmada, Kenneth M. Scaglione, and Henry L. Paulson. The ubiquitin conjugating enzyme ube2w regulates solubility of the huntington’s disease protein, huntingtin. Neurobiology of Disease, 109:127–136, January 2018. URL: http://dx.doi.org/10.1016/j.nbd.2017.10.002, doi:10.1016/j.nbd.2017.10.002. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.nbd.2017.10.002)
+
+[2. (Yuan2021Prognostic) Yan Yuan, Wei-Wei Xiao, Wei-Hao Xie, Rong-Zhen Li, and Yuan-Hong Gao. Prognostic value of ubiquitin e2 ube2w and its correlation with tumor-infiltrating immune cells in breast cancer. BMC Cancer, April 2021. URL: http://dx.doi.org/10.1186/s12885-021-08234-4, doi:10.1186/s12885-021-08234-4. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-021-08234-4)
+
+[3. (Vittal2014Intrinsic) Vinayak Vittal, Lei Shi, Dawn M Wenzel, K Matthew Scaglione, Emily D Duncan, Venkatesha Basrur, Kojo S J Elenitoba-Johnson, David Baker, Henry L Paulson, Peter S Brzovic, and Rachel E Klevit. Intrinsic disorder drives n-terminal ubiquitination by ube2w. Nature Chemical Biology, 11(1):83–89, December 2014. URL: http://dx.doi.org/10.1038/nchembio.1700, doi:10.1038/nchembio.1700. This article has 65 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nchembio.1700)
+
+[4. (Wang2016Loss) Bo Wang, Sean A. Merillat, Michael Vincent, Amanda K. Huber, Venkatesha Basrur, Doris Mangelberger, Li Zeng, Kojo Elenitoba-Johnson, Richard A. Miller, David N. Irani, Andrzej A. Dlugosz, Santiago Schnell, Kenneth Matthew Scaglione, and Henry L. Paulson. Loss of the ubiquitin-conjugating enzyme ube2w results in susceptibility to early postnatal lethality and defects in skin, immune, and male reproductive systems. Journal of Biological Chemistry, 291(6):3030–3042, February 2016. URL: http://dx.doi.org/10.1074/jbc.M115.676601, doi:10.1074/jbc.m115.676601. This article has 25 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M115.676601)
+
+[5. (Vittal2013Biochemical) Vinayak Vittal, Dawn M. Wenzel, Peter S. Brzovic, and Rachel E. Klevit. Biochemical and structural characterization of the ubiquitin-conjugating enzyme ube2w reveals the formation of a noncovalent homodimer. Cell Biochemistry and Biophysics, 67(1):103–110, May 2013. URL: http://dx.doi.org/10.1007/s12013-013-9633-5, doi:10.1007/s12013-013-9633-5. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12013-013-9633-5)
+
+[6. (Tatham2013Ube2W) Michael H. Tatham, Anna Plechanovová, Ellis G. Jaffray, Helena Salmen, and Ronald T. Hay. Ube2w conjugates ubiquitin to α-amino groups of protein n-termini. Biochemical Journal, 453(1):137–145, June 2013. URL: http://dx.doi.org/10.1042/bj20130244, doi:10.1042/bj20130244. This article has 91 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20130244)
+
+[7. (Davies2021Antibody) Christopher W. Davies, Simon E. Vidal, Lilian Phu, Jawahar Sudhamsu, Trent B. Hinkle, Scott Chan Rosenberg, Frances-Rose Schumacher, Yi Jimmy Zeng, Carsten Schwerdtfeger, Andrew S. Peterson, Jennie R. Lill, Christopher M. Rose, Andrey S. Shaw, Ingrid E. Wertz, Donald S. Kirkpatrick, and James T. Koerber. Antibody toolkit reveals n-terminally ubiquitinated substrates of ube2w. Nature Communications, July 2021. URL: http://dx.doi.org/10.1038/s41467-021-24669-6, doi:10.1038/s41467-021-24669-6. This article has 17 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-24669-6)

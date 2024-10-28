@@ -1,0 +1,50 @@
+# RPIA
+
+## Overview
+RPIA (ribose 5-phosphate isomerase A) is a gene that encodes the enzyme ribose 5-phosphate isomerase A, which is pivotal in the non-oxidative branch of the pentose phosphate pathway (PPP). This enzyme is classified as an isomerase and is responsible for the reversible conversion of ribose-5-phosphate to ribulose-5-phosphate, a reaction essential for nucleotide biosynthesis and the production of NADPH, a critical molecule for reductive biosynthesis and antioxidant defense (Shayota2020Untargeted; Chen2020Ribose5phosphate). The RPIA protein is primarily active in the cytoplasm and plays a significant role in cellular growth and maintenance by contributing to the synthesis of nucleotides and nucleic acids (Guo2020Arginine). Beyond its metabolic functions, RPIA is implicated in cancer biology, where its overexpression and interaction with co-activator associated arginine methyltransferase 1 (CARM1) are linked to tumor progression and survival, particularly in hepatocellular carcinoma and colorectal cancer (Chou2018Ribose5phosphate; Guo2020Arginine).
+
+## Structure
+The RPIA protein from Escherichia coli, which serves as a model for understanding the human RPIA, exhibits a well-defined molecular structure. The primary structure consists of a sequence of amino acids forming a polypeptide chain. The secondary structure includes three β sheets and six α helices, with the first four strands forming a Rossmann fold, a common motif in nucleotide-binding proteins (Zhang2003Structure). The tertiary structure reveals an α/β/(α/β)/β/α fold, which is characteristic of the enzyme's function in catalysis (Zhang2003Structure). 
+
+In terms of quaternary structure, RPIA exists as a homodimer, with each subunit contributing to the dimer interface through six segments. This dimeric form is likely the functional unit in solution (Zhang2003Structure). The dimer interface is characterized by a gap volume index of 2.2, with 62% of the atoms providing contacts being nonpolar (Zhang2003Structure). 
+
+The active site of RPIA is located at the C-terminal end of a parallel β-sheet, where key residues such as Asp81, Lys94, and Glu103 play crucial roles in binding and catalysis (Zhang2003Structure). The enzyme's structure also suggests a mechanism involving a cis-enediol(ate) intermediate for proton transfer (Rangarajan2002Crystal).
+
+## Function
+Ribose 5-phosphate isomerase A (RPIA) is an enzyme that plays a critical role in the non-oxidative branch of the pentose phosphate pathway (PPP), a crucial metabolic pathway in cells. RPIA catalyzes the reversible conversion of ribose-5-phosphate to ribulose-5-phosphate, which is essential for nucleotide biosynthesis and the generation of NADPH, a key molecule for reductive biosynthesis and antioxidant defense (Shayota2020Untargeted; Chen2020Ribose5phosphate). 
+
+In healthy human cells, RPIA is primarily active in the cytoplasm, where it supports cellular growth and maintenance by contributing to the synthesis of nucleotides and nucleic acids (Guo2020Arginine). The enzyme's activity is crucial for forming the ribose sugar backbone of both purine and pyrimidine nucleotides, which are necessary for DNA and RNA production (Buj2018Suppression). 
+
+RPIA's function is not only limited to nucleotide synthesis but also extends to maintaining redox homeostasis, as it is involved in the production of NADPH, which is vital for cellular antioxidant defense mechanisms (Shen2023Reduced). This enzyme's activity is integral to the metabolic balance and proliferation of cells, particularly in rapidly growing tissues (Minchenko2017Inhibition).
+
+## Clinical Significance
+Mutations and alterations in the expression of the RPIA gene have significant clinical implications, particularly in cancer. Overexpression of RPIA has been linked to the development of hepatocellular carcinoma (HCC) and colorectal cancer. In liver cancer, RPIA overexpression activates the ERK and β-catenin signaling pathways, leading to increased cell proliferation, steatosis, fibrosis, and ultimately cancer progression (Chou2018Ribose5phosphate). In colorectal cancer, RPIA is involved in glucose sensing and arginine methylation, which enhances its catalytic activity and supports cancer cell survival under glucose starvation conditions. This is achieved through the regulation of reactive oxygen species (ROS) levels and the promotion of cell proliferation (Guo2020Arginine).
+
+RPIA's interaction with CARM1, a protein arginine methyltransferase, is crucial for its function in cancer metabolism. Methylation at arginine 42 enhances RPIA's activity, promoting glucose flux into the pentose phosphate pathway and supporting tumor growth (Guo2020Arginine). These findings suggest that RPIA is a potential therapeutic target in cancer treatment due to its role in oncogenic transformation and tumor progression.
+
+## Interactions
+Ribose-5-phosphate isomerase A (RPIA) is known to interact with co-activator associated arginine methyltransferase 1 (CARM1). CARM1 directly methylates RPIA at the arginine residue R42, a modification that is crucial for RPIA's catalytic activity. This interaction was confirmed through co-immunoprecipitation and GST pull-down assays, demonstrating that RPIA directly binds to CARM1. The methylation of RPIA by CARM1 is influenced by glucose levels, with glucose depletion increasing R42 methylation, suggesting a regulatory mechanism where CARM1 signals glucose availability to RPIA (Guo2020Arginine).
+
+RPIA also plays a role in cancer cell metabolism, particularly in colorectal cancer, where its activity is enhanced by arginine methylation at R42. This modification promotes glucose flux into the pentose phosphate pathway, which is vital for cancer cell survival under metabolic stress (Guo2020Arginine). The interaction between RPIA and CARM1, along with the methylation of RPIA, highlights its involvement in metabolic regulation and cancer cell survival mechanisms.
+
+
+## References
+
+
+[1. (Guo2020Arginine) Jizheng Guo, Qixiang Zhang, Ying Su, Xiaochen Lu, Yiping Wang, Miao Yin, Weiguo Hu, Wenyu Wen, and Qun-Ying Lei. Arginine methylation of ribose-5-phosphate isomerase a senses glucose to promote human colorectal cancer cell survival. Science China Life Sciences, 63(9):1394–1405, March 2020. URL: http://dx.doi.org/10.1007/s11427-019-1562-y, doi:10.1007/s11427-019-1562-y. This article has 19 citations.](https://doi.org/10.1007/s11427-019-1562-y)
+
+2. (Buj2018Suppression) Suppression of p16 induces mTORC1-mediated nucleotide metabolic reprogramming. This article has 1 citations.
+
+[3. (Minchenko2017Inhibition) O. H. Minchenko, I. A. Garmash, and D. O. Minchenko. Inhibition of ire1 modifies hypoxic regulation of g6pd, gpi, tkt, taldo1, pgls and rpia genes expression in u87 glioma cells. The Ukrainian Biochemical Journal, 89(1):38–49, February 2017. URL: http://dx.doi.org/10.15407/ubj89.01.038, doi:10.15407/ubj89.01.038. This article has 1 citations.](https://doi.org/10.15407/ubj89.01.038)
+
+[4. (Chen2020Ribose5phosphate) Jiajun Chen, Hao Wu, Wenli Zhang, and Wanmeng Mu. Ribose-5-phosphate isomerases: characteristics, structural features, and applications. Applied Microbiology and Biotechnology, 104(15):6429–6441, June 2020. URL: http://dx.doi.org/10.1007/s00253-020-10735-4, doi:10.1007/s00253-020-10735-4. This article has 18 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00253-020-10735-4)
+
+[5. (Shen2023Reduced) Wen-Chi Shen, Chiou-Hwa Yuh, Yu-Ting Lu, Yen-Hung Lin, Tsui-Ting Ching, Chao-Yung Wang, and Horng-Dar Wang. Reduced ribose-5-phosphate isomerase a-1 expression in specific neurons and time points promotes longevity in caenorhabditis elegans. Antioxidants, 12(1):124, January 2023. URL: http://dx.doi.org/10.3390/antiox12010124, doi:10.3390/antiox12010124. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/antiox12010124)
+
+[6. (Chou2018Ribose5phosphate) Yu-Ting Chou, Li-Yang Chen, Shin-Lin Tsai, Hsiao-Chen Tu, Jeng-Wei Lu, Shih-Ci Ciou, Horng-Dar Wang, and Chiou-Hwa Yuh. Ribose-5-phosphate isomerase a overexpression promotes liver cancer development in transgenic zebrafish via activation of erk and β-catenin pathways. Carcinogenesis, 40(3):461–473, November 2018. URL: http://dx.doi.org/10.1093/carcin/bgy155, doi:10.1093/carcin/bgy155. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/carcin/bgy155)
+
+[7. (Shayota2020Untargeted) Brian J. Shayota, Taraka R. Donti, Jing Xiao, Charul Gijavanekar, Adam D. Kennedy, Leroy Hubert, Lance Rodan, Christina Vanderpluym, Catherine Nowak, Hans T. Bjornsson, Rebecca Ganetzky, Gerard T. Berry, Kirk L. Pappan, V. Reid Sutton, Qin Sun, and Sarah H. Elsea. Untargeted metabolomics as an unbiased approach to the diagnosis of inborn errors of metabolism of the non-oxidative branch of the pentose phosphate pathway. Molecular Genetics and Metabolism, 131(1–2):147–154, September 2020. URL: http://dx.doi.org/10.1016/j.ymgme.2020.07.013, doi:10.1016/j.ymgme.2020.07.013. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.ymgme.2020.07.013)
+
+[8. (Rangarajan2002Crystal) Erumbi S. Rangarajan, J. Sivaraman, Allan Matte, and Miroslaw Cygler. Crystal structure of d‐ribose‐5‐phosphate isomerase (rpia) from escherichia coli. Proteins: Structure, Function, and Bioinformatics, 48(4):737–740, July 2002. URL: http://dx.doi.org/10.1002/prot.10203, doi:10.1002/prot.10203. This article has 26 citations.](https://doi.org/10.1002/prot.10203)
+
+[9. (Zhang2003Structure) Rong-guang Zhang, C.Evalena Andersson, Alexei Savchenko, Tatiana Skarina, Elena Evdokimova, Steven Beasley, Cheryl H Arrowsmith, Aled M Edwards, Andrzej Joachimiak, and Sherry L Mowbray. Structure of escherichia coli ribose-5-phosphate isomerase. Structure, 11(1):31–42, January 2003. URL: http://dx.doi.org/10.1016/s0969-2126(02)00933-4, doi:10.1016/s0969-2126(02)00933-4. This article has 93 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/s0969-2126(02)00933-4)

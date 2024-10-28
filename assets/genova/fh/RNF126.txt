@@ -1,0 +1,48 @@
+# RNF126
+
+## Overview
+RNF126 is a gene that encodes the protein ring finger protein 126, which functions as an E3 ubiquitin ligase. This protein is characterized by its N-terminal zinc finger domain and a C-terminal RING domain, both of which are essential for its ubiquitin ligase activity (Krysztofinska2016Structural). As an E3 ubiquitin ligase, ring finger protein 126 plays a pivotal role in protein homeostasis by tagging misfolded or mislocalized proteins for degradation via the ubiquitin-proteasome system. It is involved in several cellular processes, including endoplasmic reticulum-associated degradation (ERAD) and DNA repair pathways, such as nonhomologous end joining (NHEJ) (Ishida2017Ubiquitylation; Hu2020RNF126Mediated). The protein's interactions with the BAG6 complex and other partners are crucial for its function in maintaining cellular protein quality control and genomic stability. Dysregulation of RNF126 has been implicated in various cancers, highlighting its potential as a therapeutic target (Pan2022Ring; Xu2021E3).
+
+## Structure
+RNF126 is a human E3 ubiquitin ligase characterized by its N-terminal zinc finger domain and a C-terminal RING domain, both crucial for its ubiquitin ligase activity (Krysztofinska2016Structural). The N-terminal region, specifically residues 1-100, is partially folded, with residues 1-40 forming a structured region known as RNF126_NZF. This region includes a three-stranded antiparallel β-sheet and a zinc finger motif involving four cysteine residues, which coordinate a zinc ion in a tetrahedral geometry (Krysztofinska2016Structural).
+
+The zinc finger domain facilitates interactions with other proteins, such as the BAG6 complex, through a network of hydrogen bonds and hydrophobic contacts. Key residues like phenylalanine and leucine contribute significantly to these interactions (Krysztofinska2016Structural). The interaction with BAG6 is characterized by a high binding affinity, with a dissociation constant (Kd) of 0.40 μM for the wild-type RNF126 (Krysztofinska2016Structural).
+
+RNF126's structure has been studied using NMR spectroscopy, which has provided insights into its interaction with the ubiquitin-like domains of BAG6 and UBL4A (Krysztofinska2016Structural). The protein's structure and interactions are essential for its role in ubiquitinating hydrophobic substrates for proteasomal degradation (Krysztofinska2016Structural).
+
+## Function
+RNF126 is an E3 ubiquitin ligase that plays a critical role in protein homeostasis and quality control in healthy human cells. It is involved in the ubiquitination of hydrophobic substrates in the cytoplasm, facilitating their degradation via the proteasome. This process is crucial for the degradation of mislocalized proteins and is mediated through its interaction with the BAG6 complex, which includes BAG6, TRC35, and UBL4A (Krysztofinska2016Structural; RodrigoBrenni2014Cytosolic).
+
+RNF126 is also essential in the endoplasmic reticulum-associated degradation (ERAD) pathway, where it aids in the degradation of retrotranslocated membrane proteins. It works in conjunction with the p97 complex to reubiquitinate these proteins, ensuring their efficient delivery to the proteasome (Hu2020RNF126Mediated).
+
+In the context of DNA repair, RNF126 is involved in the nonhomologous end joining (NHEJ) pathway. It facilitates the release of the Ku heterodimer from double-strand break sites, which is necessary for the completion of DNA repair (Ishida2017Ubiquitylation). This function underscores its role in maintaining genomic stability and cell viability (Zhang2020Roles).
+
+## Clinical Significance
+Alterations in the expression or function of the RNF126 gene have been implicated in various cancers. In breast cancer, high expression of RNF126 is associated with increased cell proliferation, migration, and invasion, contributing to metastasis. It is considered a potential biomarker for high-risk metastatic disease and a target to enhance the efficacy of ATR inhibitors, as cells with intact RNF126 show increased sensitivity to these treatments (Pan2022Ring). In bladder cancer, RNF126 is overexpressed and promotes tumor growth and metastasis by degrading the tumor suppressor PTEN, thereby activating the PI3K/AKT signaling pathway. Its knockdown increases chemotherapy sensitivity to cisplatin by inducing apoptosis (Xu2021E3).
+
+RNF126 also plays a role in DNA damage repair, where its dysregulation can lead to genomic instability. It is involved in non-homologous end joining (NHEJ) by facilitating the release of the Ku complex from DNA double-strand break sites. Knockdown of RNF126 impairs this process, leading to defective DNA repair and increased sensitivity to DNA-damaging agents (Ishida2017Ubiquitylation). These findings highlight RNF126's clinical significance as a potential therapeutic target in cancer treatment.
+
+## Interactions
+RNF126 is an E3 ubiquitin ligase that interacts with several proteins, playing a crucial role in protein quality control and degradation pathways. It is known to interact with the Bag6 complex, which includes Bag6, TRC35, and UBL4A, to ubiquitinate hydrophobic substrates in the cytoplasm destined for proteasomal degradation (Krysztofinska2016Structural). The interaction between RNF126 and Bag6 is mediated through the Ubl domain of Bag6 and the Zn finger domain of RNF126, forming a high-affinity complex essential for its function in ubiquitination (Krysztofinska2016Structural; RodrigoBrenni2014Cytosolic).
+
+RNF126 also competes with the co-chaperone SGTA for binding to the BAG6_UBL domain, with RNF126 having a stronger binding affinity (Krysztofinska2016Structural). This competition influences the stability and ubiquitination of substrates, as SGTA can deliver substrates to the BAG6 complex (Krysztofinska2016Structural). Additionally, RNF126 interacts with the UBL4A_UBL domain, although this interaction is weaker compared to BAG6_UBL (Krysztofinska2016Structural).
+
+RNF126 is also involved in the reubiquitination of misfolded membrane proteins extracted from the endoplasmic reticulum by the p97 complex, interacting with the chaperone BAG6 to facilitate this process (Hu2020RNF126Mediated).
+
+
+## References
+
+
+[1. (Ishida2017Ubiquitylation) Noriko Ishida, Tadashi Nakagawa, Shun-Ichiro Iemura, Akira Yasui, Hiroki Shima, Yasutake Katoh, Yuko Nagasawa, Toru Natsume, Kazuhiko Igarashi, and Keiko Nakayama. Ubiquitylation of ku80 by rnf126 promotes completion of nonhomologous end joining-mediated dna repair. Molecular and Cellular Biology, February 2017. URL: http://dx.doi.org/10.1128/MCB.00347-16, doi:10.1128/mcb.00347-16. This article has 63 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.00347-16)
+
+[2. (Xu2021E3) Huimin Xu, Lingao Ju, Yaoyi Xiong, Mengxue Yu, Fenfang Zhou, Kaiyu Qian, Gang Wang, Yu Xiao, and Xinghuan Wang. E3 ubiquitin ligase rnf126 affects bladder cancer progression through regulation of pten stability. Cell Death &amp; Disease, March 2021. URL: http://dx.doi.org/10.1038/s41419-021-03521-1, doi:10.1038/s41419-021-03521-1. This article has 28 citations.](https://doi.org/10.1038/s41419-021-03521-1)
+
+[3. (RodrigoBrenni2014Cytosolic) Monica C. Rodrigo-Brenni, Erik Gutierrez, and Ramanujan S. Hegde. Cytosolic quality control of mislocalized proteins requires rnf126 recruitment to bag6. Molecular Cell, 55(2):227–237, July 2014. URL: http://dx.doi.org/10.1016/j.molcel.2014.05.025, doi:10.1016/j.molcel.2014.05.025. This article has 153 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2014.05.025)
+
+[4. (Krysztofinska2016Structural) Ewelina M. Krysztofinska, Santiago Martínez-Lumbreras, Arjun Thapaliya, Nicola J. Evans, Stephen High, and Rivka L. Isaacson. Structural and functional insights into the e3 ligase, rnf126. Scientific Reports, May 2016. URL: http://dx.doi.org/10.1038/srep26433, doi:10.1038/srep26433. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep26433)
+
+[5. (Zhang2020Roles) Rou Zhang, Wenjin Liu, Jian Sun, Yanjie Kong, and Ceshi Chen. Roles of rnf126 and bca2 e3 ubiquitin ligases in dna damage repair signaling and targeted cancer therapy. Pharmacological Research, 155:104748, May 2020. URL: http://dx.doi.org/10.1016/j.phrs.2020.104748, doi:10.1016/j.phrs.2020.104748. This article has 16 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.phrs.2020.104748)
+
+[6. (Pan2022Ring) You Pan, Yuchao Yang, Rong Huang, Huawei Yang, Qinghua Huang, Yinan Ji, Jingxing Dai, Kun Qiao, Wei Tang, Longgui Xie, Ming Yin, Jun Ouyang, Shipeng Ning, and Danke Su. Ring finger protein 126 promotes breast cancer metastasis and serves as a potential target to improve the therapeutic sensitivity of atr inhibitors. Breast Cancer Research, December 2022. URL: http://dx.doi.org/10.1186/s13058-022-01586-0, doi:10.1186/s13058-022-01586-0. This article has 3 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s13058-022-01586-0)
+
+[7. (Hu2020RNF126Mediated) Xianyan Hu, Linhan Wang, Yuancai Wang, Jia Ji, Jiqiang Li, Zhiyuan Wang, Congcong Li, Yaoyang Zhang, and Zai-Rong Zhang. Rnf126-mediated reubiquitination is required for proteasomal degradation of p97-extracted membrane proteins. Molecular Cell, 79(2):320-331.e9, July 2020. URL: http://dx.doi.org/10.1016/j.molcel.2020.06.023, doi:10.1016/j.molcel.2020.06.023. This article has 38 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2020.06.023)

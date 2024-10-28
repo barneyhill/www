@@ -1,0 +1,46 @@
+# MARF1
+
+## Overview
+MARF1 (meiosis regulator and mRNA stability factor 1) is a gene that encodes a multifunctional protein involved in the regulation of mRNA stability and decay, playing a critical role in gene expression. The protein encoded by MARF1 is characterized as an endoribonuclease, featuring several RNA-binding domains, including RNA recognition motifs (RRMs) and LOTUS domains, which facilitate its interaction with target mRNAs and other proteins involved in mRNA metabolism (Brothers2020A; Kubíková2020LOTUS-domain). MARF1 is essential for processes such as oogenesis and cortical neurogenesis, with its activity being modulated through interactions with proteins like the enhancer of mRNA decapping protein 4 (EDC4) within processing bodies (P-bodies) (Brothers2022Pbodies; Kanemitsu2017The). Mutations in MARF1 can lead to significant clinical outcomes, including female infertility and potential links to neurodevelopmental disorders (Yao2018Ribonuclease; Kanemitsu2017The).
+
+## Structure
+The MARF1 protein in humans is characterized by a complex molecular structure comprising several distinct domains. It includes an N-terminal NYN domain, which functions as a ribonuclease essential for mRNA degradation, requiring a negatively charged metal-binding pocket formed by conserved aspartic acid residues (Kubíková2020LOTUS-domain; Brothers2020A). The protein also contains two central RNA recognition motifs (RRMs) that bind single-stranded RNA with low micromolar affinity, enhancing the positioning of the NYN domain for effective mRNA cleavage (Kubíková2020LOTUS-domain; Brothers2020A).
+
+The C-terminal region of MARF1 features eight LOTUS domains, which are involved in binding to both single-stranded and double-stranded RNA with nanomolar affinity. These domains are crucial for mRNA target recognition and repression, particularly LOTUS domains 3 through 5, which are highly conserved and homologous (Kubíková2020LOTUS-domain; Brothers2020A). The LOTUS domains are also implicated in interactions with mRNA decapping factors, although this interaction is not essential for mRNA degradation (Kubíková2020LOTUS-domain).
+
+MARF1 may exist in different splice variant isoforms, with specific variants expressed in oocytes differing from those in somatic cells (Su2012Meiosis). These structural features enable MARF1 to play a significant role in mRNA stability and decay.
+
+## Function
+MARF1 (meiosis regulator and mRNA stability factor 1) is a gene that encodes an endoribonuclease involved in mRNA decay, playing a crucial role in regulating gene expression in healthy human cells. It functions by binding to target mRNAs via their 3' untranslated regions (3'UTRs) and interacting with the mRNA decapping machinery, which is essential for mRNA stability and translation (Brothers2020A). MARF1 contains multiple RNA-binding domains, including LOTUS domains and RNA recognition motifs (RRMs), which are critical for recognizing and repressing target mRNAs (Brothers2020A).
+
+In human cells, MARF1 interacts with the enhancer of mRNA decapping protein 4 (EDC4) within processing bodies (P-bodies), which are cytoplasmic structures involved in mRNA metabolism. This interaction is crucial for regulating mRNA decay, as EDC4 can inhibit MARF1's activity by sequestering it within P-bodies, thereby preventing the degradation of targeted mRNAs (Brothers2022Pbodies). The MARF1-EDC4 interaction involves a conserved short linear motif (SLiM) and is necessary for maintaining mRNA stability and turnover, impacting processes such as oogenesis and cortical neurogenesis (Brothers2022Pbodies; Kanemitsu2017The).
+
+## Clinical Significance
+Mutations and alterations in the expression of the MARF1 gene have significant clinical implications, particularly in female fertility. Mutations in the NYN domain, such as the D272A mutation, lead to meiotic arrest and increased retrotransposon activity, resulting in DNA damage in oocytes and female infertility (Yao2018Ribonuclease). Female mice lacking functional MARF1 exhibit sterility due to defects in oocyte maturation and meiotic progression (Brothers2020A).
+
+MARF1 is also involved in cortical neurogenesis, and its somatic isoform (sMARF1) plays a role in neuronal differentiation during brain development. Alterations in sMARF1 expression can impact neurogenesis, potentially linking MARF1 to neurodevelopmental disorders (Kanemitsu2017The). The gene's location on chromosome 16p13.11, a region associated with neurodevelopmental disorders, suggests a possible connection to these conditions (Kanemitsu2017The).
+
+MARF1's interaction with the decapping factor EDC4 can modulate its mRNA decay activity. EDC4 impairs MARF1's ability to bind target mRNAs, potentially affecting mRNA regulation and contributing to developmental issues (Brothers2020A; Brothers2022Pbodies). These findings highlight the importance of MARF1 in both reproductive and neurological health.
+
+## Interactions
+MARF1 (meiosis regulator and mRNA stability factor 1) is involved in several interactions with proteins and nucleic acids that are crucial for its role in mRNA decay and gene regulation. MARF1 interacts with the enhancer of decapping protein 4 (EDC4) within processing bodies (P-bodies), which are cellular structures involved in mRNA turnover. This interaction is mediated by a conserved EDC4-binding motif in MARF1's C-terminal region, which is essential for EDC4 to inhibit MARF1-mediated mRNA decay (Brothers2022Pbodies). The interaction between MARF1 and EDC4 is mutually exclusive with the interaction between EDC4 and the exonuclease XRN1, as both proteins compete for binding to the same region on EDC4 (Brothers2022Pbodies).
+
+MARF1 also interacts with the CCR4-NOT deadenylase complex, particularly in oocytes, through its LOTUS domain. This interaction is crucial for post-transcriptional regulation of gene expression, as it leads to the shortening of poly-A tails and suppression of target mRNA translation (Zhu2018LOTUS). In addition, MARF1's interaction with EDC4 is necessary for its localization to P-bodies, which is important for its regulatory function in mRNA decay (Brothers2020A).
+
+
+## References
+
+
+[1. (Brothers2020A) William R Brothers, Steven Hebert, Claudia L Kleinman, and Marc R Fabian. A non-canonical role for the edc4 decapping factor in regulating marf1-mediated mrna decay. eLife, June 2020. URL: http://dx.doi.org/10.7554/elife.54995, doi:10.7554/elife.54995. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.54995)
+
+[2. (Zhu2018LOTUS) Li Zhu, Suresh K. Kandasamy, Susan E. Liao, and Ryuya Fukunaga. Lotus domain protein marf1 binds ccr4-not deadenylase complex to post-transcriptionally regulate gene expression in oocytes. Nature Communications, October 2018. URL: http://dx.doi.org/10.1038/s41467-018-06404-w, doi:10.1038/s41467-018-06404-w. This article has 28 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-06404-w)
+
+[3. (Su2012Meiosis) You-Qiang Su, Fengyun Sun, Mary Ann Handel, John C. Schimenti, and John J. Eppig. Meiosis arrest female 1 (marf1) has nuage-like function in mammalian oocytes. Proceedings of the National Academy of Sciences, 109(46):18653–18660, October 2012. URL: http://dx.doi.org/10.1073/pnas.1216904109, doi:10.1073/pnas.1216904109. This article has 54 citations.](https://doi.org/10.1073/pnas.1216904109)
+
+[4. (Yao2018Ribonuclease) Qingqing Yao, Guangyi Cao, Mingzhe Li, Baixing Wu, Xiaoyun Zhang, Teng Zhang, Jing Guo, Hong Yin, Lanying Shi, Jiayi Chen, Xiang Yu, Lina Zheng, Jinbiao Ma, and You-Qiang Su. Ribonuclease activity of marf1 controls oocyte rna homeostasis and genome integrity in mice. Proceedings of the National Academy of Sciences, 115(44):11250–11255, October 2018. URL: http://dx.doi.org/10.1073/pnas.1809744115, doi:10.1073/pnas.1809744115. This article has 36 citations.](https://doi.org/10.1073/pnas.1809744115)
+
+[5. (Brothers2022Pbodies) William R Brothers, Hana Fakim, Sam Kajjo, and Marc R Fabian. P-bodies directly regulate marf1-mediated mrna decay in human cells. Nucleic Acids Research, 50(13):7623–7636, July 2022. URL: http://dx.doi.org/10.1093/nar/gkac557, doi:10.1093/nar/gkac557. This article has 11 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkac557)
+
+[6. (Kubíková2020LOTUS-domain) Jana Kubíková, Rebecca Reinig, Harpreet Kaur Salgania, and Mandy Jeske. Lotus-domain proteins - developmental effectors from a molecular perspective. Biological Chemistry, 402(1):7–23, November 2020. URL: http://dx.doi.org/10.1515/hsz-2020-0270, doi:10.1515/hsz-2020-0270. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/hsz-2020-0270)
+
+[7. (Kanemitsu2017The) Yoshitaka Kanemitsu, Masashi Fujitani, Yuki Fujita, Suxiang Zhang, You-Qiang Su, Yukio Kawahara, and Toshihide Yamashita. The rna-binding protein marf1 promotes cortical neurogenesis through its rnase activity domain. Scientific Reports, April 2017. URL: http://dx.doi.org/10.1038/s41598-017-01317-y, doi:10.1038/s41598-017-01317-y. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-01317-y)

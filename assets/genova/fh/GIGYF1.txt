@@ -1,0 +1,52 @@
+# GIGYF1
+
+## Overview
+GIGYF1, or GRB10 interacting GYF protein 1, is a gene that encodes a protein involved in the regulation of mRNA translation and cellular signaling pathways. The protein, categorized as a translation regulator, is characterized by its GYF domain, which facilitates interactions with proline-rich sequences and is crucial for its role in modulating translation initiation. GIGYF1 interacts with various proteins, including eukaryotic translation initiation factors and RNA-binding proteins, to influence mRNA stability and translation, particularly in the context of immune responses and neural development. The gene's function extends to the regulation of the IGF-1R/ERK signaling pathway, impacting neural progenitor cell proliferation and neurogenesis. Clinically, mutations in GIGYF1 have been associated with metabolic disorders such as type 2 diabetes, highlighting its significance in insulin signaling and metabolic regulation (Choi2023Repression; Chen2022GIGYF1; Deaton2021Genelevel).
+
+## Structure
+The GIGYF1 protein is characterized by a central GYF domain, which is a key structural feature involved in protein-protein interactions. This domain is part of the Smy2 subclass of GYF adaptors and is known for binding proline-rich sequences, specifically those conforming to the PPGF consensus (Sobti2023Molecular; Sobti2021Molecular). The GYF domain consists of a four-stranded antiparallel beta-sheet with two alpha-helices packed onto one face, forming a bulge-helix-bulge structure that creates a hydrophobic ligand-binding surface (Sobti2023Molecular; Sobti2021Molecular).
+
+The protein also contains a conserved 4EHP-binding motif (4EHP-BM) in its N-terminal region, which adopts a helical conformation when interacting with 4EHP (Christie2021eIF4E‐homologous). Additionally, GIGYF1 has a Me31B-binding motif (MBM) that interacts with the RNA-dependent ATPase DDX6, using a bipartite-binding mode (ruscica2021gigyf; Christie2021eIF4E‐homologous).
+
+Post-translational modifications such as phosphorylation may occur, and the protein can exist in multiple splice variant isoforms, potentially affecting its function and interactions (Sobti2023Molecular). The structural elements responsible for ligand binding in the GYF domains are highly conserved, while the C-terminal regions show more variability (Sobti2021Molecular).
+
+## Function
+GIGYF1 (GRB10 interacting GYF protein 1) is a crucial regulator of mRNA translation initiation in human cells. It functions by disrupting the interaction between eIF3 and eIF4G1, which are essential components of the translation initiation complex. This disruption is transcript-specific and involves regulatory proteins such as TTP, TNRC6s, and ZNF598, which bind to the GYF domain of GIGYF1 (Choi2023Repression). The repression of translation by GIGYF1 is particularly significant in the context of the innate immune response, as it modulates the translation of Ifnb1 mRNA, encoding the cytokine IFN-β, thereby influencing the host cell's antiviral response (Choi2023Repression).
+
+GIGYF1 also plays a role in neural progenitor cell (NPC) proliferation and neurogenesis by regulating the IGF-1R/ERK signaling pathway, which is vital for cell cycle progression during NPC development. GIGYF1 deficiency leads to a decrease in the NPC pool and affects the phosphorylation of IGF-1R and ERK, indicating its importance in maintaining proper signaling and cell cycle dynamics in NPCs (Chen2022GIGYF1). Additionally, GIGYF1 interacts with 4EHP, a translational repressor, to regulate mRNA expression, although this interaction contributes less to its overall function compared to GIGYF2 (Peter2017GIGYF12).
+
+## Clinical Significance
+Mutations in the GIGYF1 gene, particularly loss of function (pLOF) variants, have been significantly associated with an increased risk of type 2 diabetes (T2D). These variants are linked to elevated glucose and HbA1c levels, suggesting a disruption in normal insulin signaling pathways (Jurgens2020Rare; Deaton2021Genelevel). The odds ratio for T2D diagnosis among carriers of GIGYF1 pLOF variants is notably high, indicating a strong genetic predisposition (Zhao2021GIGYF1).
+
+GIGYF1 pLOF variants are also associated with other metabolic and health conditions. These include decreased cholesterol levels, increased risk of hypothyroidism, and various other conditions such as syncope, urinary disorders, and anemia (Deaton2021Genelevel). The gene's interaction with GRB10, which negatively regulates insulin and IGF-1 receptors, suggests that reduced GIGYF1 expression may lead to increased inhibition of insulin signaling, thereby elevating T2D risk (Deaton2021Genelevel).
+
+Additionally, GIGYF1 loss of function is linked to clonal mosaicism, specifically the mosaic loss of chromosome Y (LOY) in men, which is associated with adverse metabolic health outcomes (Zhao2021GIGYF1). These findings highlight the gene's significant role in metabolic regulation and its potential impact on various health conditions.
+
+## Interactions
+GIGYF1 (GRB10 interacting GYF protein 1) is involved in various protein interactions that play crucial roles in mRNA translation and stability. It interacts with the eukaryotic translation initiation factor 3 (eIF3) complex, specifically binding to subunits such as eIF3L and eIF3E. This interaction disrupts the binding of eIF3 to eIF4G1, thereby repressing mRNA translation initiation (Choi2023Repression). GIGYF1 also interacts with RNA-binding proteins (RBPs) like TTP and ZNF598 through its GYF domain, which is essential for binding to proline-rich sequences (PRS) in these proteins (Choi2023Repression; Sobti2023Molecular).
+
+The protein can form complexes with 4EHP, although this interaction is not essential for its translational repression activity (Choi2023Repression). GIGYF1 also interacts with DDX6, an RNA-dependent ATPase, through a Me31B/DDX6-binding motif (MBM), which involves a bipartite-binding mode (Christie2021eIF4E‐homologous). These interactions are crucial for the recruitment of the 4EHP-GIGYF complex to target mRNAs and for efficient 4EHP-mediated repression (Christie2021eIF4E‐homologous). GIGYF1's interactions with these proteins highlight its role in regulating mRNA translation and stability, impacting processes such as immune response modulation and viral infection facilitation (Choi2023Repression).
+
+
+## References
+
+
+1. (Deaton2021Genelevel) Gene-level analysis of rare variants in 363,977 whole exome sequences identifies an association of GIGYF1 loss of function with type 2 diabetes. This article has 6 citations.
+
+2. (Choi2023Repression) Repression of mRNA translation initiation by GIGYF1 via blocking the eIF3-eIF4G1 interaction. This article has 1 citations.
+
+[3. (Christie2021eIF4E‐homologous) Mary Christie and Cátia Igreja. Eif4e‐homologous protein (4ehp): a multifarious cap‐binding protein. The FEBS Journal, 290(2):266–285, November 2021. URL: http://dx.doi.org/10.1111/febs.16275, doi:10.1111/febs.16275. This article has 14 citations.](https://doi.org/10.1111/febs.16275)
+
+4. (Jurgens2020Rare) Rare Genetic Variation Underlying Human Diseases and Traits: Results from 200,000 Individuals in the UK Biobank. This article has 11 citations.
+
+5. (Sobti2021Molecular) Molecular basis for GIGYF-TNRC6 complex assembly in miRNA-mediated translational repression. This article has 0 citations.
+
+[6. (Peter2017GIGYF12) Daniel Peter, Ramona Weber, Felix Sandmeir, Lara Wohlbold, Sigrun Helms, Praveen Bawankar, Eugene Valkov, Cátia Igreja, and Elisa Izaurralde. Gigyf1/2 proteins use auxiliary sequences to selectively bind to 4ehp and repress target mrna expression. Genes &amp; Development, 31(11):1147–1161, June 2017. URL: http://dx.doi.org/10.1101/gad.299420.117, doi:10.1101/gad.299420.117. This article has 68 citations.](https://doi.org/10.1101/gad.299420.117)
+
+[7. (Chen2022GIGYF1) Guodong Chen, Bin Yu, Senwei Tan, Jieqiong Tan, Xiangbin Jia, Qiumeng Zhang, Xiaolei Zhang, Qian Jiang, Yue Hua, Yaoling Han, Shengjie Luo, Kendra Hoekzema, Raphael A. Bernier, Rachel K. Earl, Evangeline C. Kurtz-Nelson, Michaela J. Idleburg, Suneeta Madan-Khetarpal, Rebecca Clark, Jessica Sebastian, Alberto Fernandez-Jaen, Sara Alvarez, Staci D. King, Luiza L.P. Ramos, Mara Lucia S.F. Santos, Donna M. Martin, Dan Brooks, Joseph D. Symonds, Ioana Cutcutache, Qian Pan, Zhengmao Hu, Ling Yuan, Evan E. Eichler, Kun Xia, and Hui Guo. Gigyf1 disruption associates with autism and impaired igf-1r signaling. Journal of Clinical Investigation, October 2022. URL: http://dx.doi.org/10.1172/jci159806, doi:10.1172/jci159806. This article has 15 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci159806)
+
+[8. (Sobti2023Molecular) Meghna Sobti, Benjamin J. Mead, Alastair G. Stewart, Cátia Igreja, and Mary Christie. Molecular basis for gigyf–tnrc6 complex assembly. RNA, 29(6):724–734, February 2023. URL: http://dx.doi.org/10.1261/rna.079596.123, doi:10.1261/rna.079596.123. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.079596.123)
+
+[9. (Zhao2021GIGYF1) Yajie Zhao, Stasa Stankovic, Mine Koprulu, Eleanor Wheeler, Felix R. Day, Hana Lango Allen, Nicola D. Kerrison, Maik Pietzner, Po-Ru Loh, Nicholas J. Wareham, Claudia Langenberg, Ken K. Ong, and John R. B. Perry. Gigyf1 loss of function is associated with clonal mosaicism and adverse metabolic health. Nature Communications, July 2021. URL: http://dx.doi.org/10.1038/s41467-021-24504-y, doi:10.1038/s41467-021-24504-y. This article has 21 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-24504-y)
+
+10. (ruscica2021gigyf) Vincenzo Ruscica. GIGYF recruits mRNA decay factors to repress target mRNA expression. PhD thesis, Universität Tübingen, 2021. This article has 0 citations.

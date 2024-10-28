@@ -1,0 +1,31 @@
+# EXD1
+
+## Overview
+EXD1 (exonuclease 3'-5' domain containing 1) is a gene that encodes a protein involved in RNA processing, particularly within the piRNA pathway, which is crucial for maintaining genomic stability during spermatogenesis. The EXD1 protein, although structurally similar to the DEDD superfamily of exonucleases, is catalytically inactive and functions primarily as an RNA-binding protein. It plays a significant role as an RNA adaptor in the PIWI-EXD1-TDRD12 (PET) complex, facilitating the production and biogenesis of piRNAs, which are essential for silencing transposable elements and ensuring male fertility (Du2024The; Yang2016PIWI). The protein's structure includes a unique Lsm domain that mediates protein-protein interactions, particularly with TDRD12, and a central exonuclease domain that binds single-stranded RNA (Yang2016PIWI). Despite its inactive nuclease function, EXD1's role in RNA binding and interaction with other proteins underscores its importance in genomic regulation and stability (Du2024The).
+
+## Structure
+The human EXD1 protein is composed of 570 amino acids and features several distinct domains, including an N-terminal Like-Sm (Lsm) domain, a central exonuclease domain, and a long C-terminal tail (Yang2016PIWI). The Lsm domain is monomeric and does not form rings, which is atypical for Lsm domains, and is crucial for protein-protein interactions, particularly with the piRNA biogenesis factor TDRD12 (Yang2016PIWI). The central exonuclease domain is structurally similar to the DEDD superfamily of exonucleases but lacks the conserved acidic residues necessary for catalytic activity, rendering it inactive as a nuclease (Yang2016PIWI). Instead, this domain functions as an RNA-binding module, binding single-stranded RNA (ssRNA) in a sequence-independent manner with moderate affinity (Yang2016PIWI).
+
+EXD1 forms homodimers, with dimerization facilitated by a C-terminal dimerization hook composed of three helices, where the first helix is essential for this process (Yang2016PIWI). The protein's structure includes a positively charged area on the bottom surface, which, along with the inactive catalytic pocket, likely constitutes the RNA-binding site (Yang2016PIWI).
+
+## Function
+EXD1 (exonuclease 3'-5' domain containing 1) plays a crucial role in the piRNA pathway, which is essential for maintaining genome stability during mammalian spermatogenesis. It acts as an RNA adaptor in the PIWI-EXD1-TDRD12 (PET) complex, facilitating the production of Mili-sliced piRNAs and the biogenesis of Miwi2 piRNAs. The absence of EXD1 results in a reduction of these piRNAs, highlighting its importance in the proper functioning of the piRNA pathway and the silencing of transposable elements, which is vital for male fertility (Du2024The).
+
+In the context of gene regulation, EXD1 is one of the genes whose expression levels are normalized by creatine supplementation in AGAT knockout mice, indicating its involvement in broader gene regulatory networks (Jensen2020Homoarginine). Although the specific function of EXD1 in healthy human cells is not detailed, its role in the piRNA pathway suggests it contributes to genomic stability by repressing transposable elements like LINE-1, which are known to be active in germ cells and early-stage embryos (Du2024The). The precise molecular activities of EXD1, such as its exonuclease function, are crucial for DNA repair and maintenance, ensuring normal cellular and organismal health.
+
+## Interactions
+EXD1 is involved in several protein-protein interactions, particularly within the piRNA pathway. It forms a complex with TDRD12 and the PIWI protein Siwi, known as the PIWI-EXD1-TDRD12 (PET) complex, which is crucial for piRNA processing. This interaction is mediated by the Lsm domain of EXD1, which engages with the helicase domain of TDRD12. The DEAD box helicase core of TDRD12 serves as the contact point for the Lsm domain of EXD1, highlighting the importance of this domain in facilitating the interaction (Yang2016PIWI).
+
+EXD1 is also characterized as an RNA-binding protein, despite being an inactive member of the DEDD nuclease family. It binds single-stranded RNA (ssRNA) in a sequence-independent manner, a property attributed to its inactive nuclease core domain. This RNA-binding capability suggests a role in RNA processing pathways, although the specific interactions with nucleic acids are not fully detailed (Yang2016PIWI).
+
+In the absence of EXD1, there is a noted reduction in the production of certain piRNAs, indicating its role as an RNA adaptor in the PET complex, essential for the biogenesis of secondary piRNAs (Du2024The).
+
+
+## References
+
+
+[1. (Du2024The) Li Du, Wei Chen, Dong Zhang, Yinghong Cui, and Zuping He. The functions and mechanisms of pirnas in mediating mammalian spermatogenesis and their applications in reproductive medicine. Cellular and Molecular Life Sciences, September 2024. URL: http://dx.doi.org/10.1007/s00018-024-05399-6, doi:10.1007/s00018-024-05399-6. This article has 0 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-024-05399-6)
+
+[2. (Yang2016PIWI) Zhaolin Yang, Kuan-Ming Chen, Radha Raman Pandey, David Homolka, Michael Reuter, Bruno Kotska Rodino Janeiro, Ravi Sachidanandam, Marie-Odile Fauvarque, Andrew A. McCarthy, and Ramesh S. Pillai. Piwi slicing and exd1 drive biogenesis of nuclear pirnas from cytosolic targets of the mouse pirna pathway. Molecular Cell, 61(1):138–152, January 2016. URL: http://dx.doi.org/10.1016/j.molcel.2015.11.009, doi:10.1016/j.molcel.2015.11.009. This article has 76 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2015.11.009)
+
+[3. (Jensen2020Homoarginine) Märit Jensen, Christian Müller, Edzard Schwedhelm, Priyadharshini Arunachalam, Mathias Gelderblom, Tim Magnus, Christian Gerloff, Tanja Zeller, and Chi-un Choe. Homoarginine- and creatine-dependent gene regulation in murine brains with l-arginine:glycine amidinotransferase deficiency. International Journal of Molecular Sciences, 21(5):1865, March 2020. URL: http://dx.doi.org/10.3390/ijms21051865, doi:10.3390/ijms21051865. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21051865)

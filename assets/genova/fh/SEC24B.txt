@@ -1,0 +1,31 @@
+# SEC24B
+
+## Overview
+SEC24B is a gene that encodes the protein SEC24 homolog B, a component of the COPII coat complex involved in vesicular transport from the endoplasmic reticulum (ER) to the Golgi apparatus. This protein plays a critical role in the selection and packaging of cargo proteins into vesicles, facilitating their export and maintaining cellular homeostasis. SEC24B is particularly important in processes such as autophagic flux and protein trafficking, where it interacts with other proteins like SEC24A and SEC23B to aid in autophagosome production and ER-Golgi transport (Ryan2022Microglia). Additionally, SEC24B is implicated in iron homeostasis and has been associated with various clinical conditions, including neural tube defects and neurodegenerative diseases, due to its role in regulating ferroptosis and iron metabolism (Lu2020Consequences; Ryan2022Microglia).
+
+## Function
+SEC24B is a component of the COPII coat complex, which is crucial for the transport of proteins from the endoplasmic reticulum (ER) to the Golgi apparatus. This process is essential for maintaining cellular homeostasis and function, as it involves the selection and packaging of cargo proteins into vesicles for export. SEC24B specifically participates in COPII-mediated protein trafficking, a process enriched in the study's Gene Ontology analysis, highlighting its role in ER-to-Golgi transport (Ryan2022Microglia).
+
+In healthy human cells, SEC24B is involved in autophagic flux by binding to SEC24A and SEC23B and localizing to the ER-Golgi intermediate compartment (ERGIC) in response to starvation, aiding in autophagosome production (Ryan2022Microglia). This function is critical for cellular processes like protein secretion and membrane trafficking, influencing overall cell biology and organismal outcomes. SEC24B's activity is primarily in the cytoplasm, particularly around the endoplasmic reticulum, where it plays a role in selecting cargo proteins for export (Ryan2022Microglia).
+
+The gene is also implicated in iron homeostasis, potentially through the regulation of the labile iron pool, which may involve the altered export of iron regulatory proteins or transporters (Ryan2022Microglia).
+
+## Clinical Significance
+Mutations and alterations in the SEC24B gene have been linked to several clinical conditions. Notably, mutations in SEC24B are associated with neural tube defects, which include spina bifida, anencephaly, and craniorachischisis. Homozygous SEC24B knockout embryos exhibit craniorachischisis and are embryonic lethal due to the failure of VANGL2 to exit the endoplasmic reticulum, a process dependent on SEC24B. This suggests that SEC24B mutations may disrupt planar cell polarity and convergent extension, critical processes preceding neural tube closure (Lu2020Consequences).
+
+In the context of neurodegenerative diseases, SEC24B is implicated in the regulation of ferroptosis, a form of programmed cell death associated with iron overload. SEC24B knockout cells show resistance to ferroptosis, indicating its role as a regulator of this process. The gene is upregulated in several neurodegenerative diseases, such as Amyotrophic Lateral Sclerosis (ALS), multiple system atrophy, frontotemporal lobar degeneration, and Alzheimer's disease. This upregulation may contribute to iron dysregulation and ferroptosis induction in these conditions, suggesting a potential link between SEC24B expression and neurodegenerative disease progression (Ryan2022Microglia).
+
+## Interactions
+SEC24B is a component of the COPII coat complex, which is essential for vesicle trafficking from the endoplasmic reticulum (ER) to the Golgi apparatus. It interacts with other proteins such as SEC24A and SEC23B, playing a role in autophagic flux and autophagosome production by localizing to the ER-Golgi intermediate compartment (ERGIC) in response to starvation (Ryan2022Microglia). SEC24B is also involved in COPII-mediated protein trafficking, a process enriched in gene ontology categories related to ferroptosis susceptibility in microglia (Ryan2022Microglia).
+
+In addition to its role in vesicle trafficking, SEC24B has specific interactions with certain cargoes. For example, Vangl2 is identified as a client of SEC24B. The GPCR ER exit regulator CNIH4 also shows specificity for SEC24B, although this finding contrasts with other studies that have identified CNIH4 as being sorted into SEC24A vesicles (Chatterjee2021A). These interactions highlight the complexity of SEC24-cargo interactions, which involve various mediators such as cargo receptors that bind to a wide range of cargoes through specific motifs (Chatterjee2021A).
+
+
+## References
+
+
+[1. (Lu2020Consequences) Chung-Ling Lu and Jinoh Kim. Consequences of mutations in the genes of the er export machinery copii in vertebrates. Cell Stress and Chaperones, 25(2):199–209, March 2020. URL: http://dx.doi.org/10.1007/s12192-019-01062-3, doi:10.1007/s12192-019-01062-3. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s12192-019-01062-3)
+
+[2. (Ryan2022Microglia) Sean K. Ryan, Matija Zelic, Yingnan Han, Erin Teeple, Luoman Chen, Mahdiar Sadeghi, Srinivas Shankara, Lilu Guo, Cong Li, Fabrizio Pontarelli, Elizabeth H. Jensen, Ashley L. Comer, Dinesh Kumar, Mindy Zhang, Joseph Gans, Bailin Zhang, Jonathan D. Proto, Jacqueline Saleh, James C. Dodge, Virginia Savova, Deepak Rajpal, Dimitry Ofengeim, and Timothy R. Hammond. Microglia ferroptosis is regulated by sec24b and contributes to neurodegeneration. Nature Neuroscience, 26(1):12–26, December 2022. URL: http://dx.doi.org/10.1038/s41593-022-01221-3, doi:10.1038/s41593-022-01221-3. This article has 130 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41593-022-01221-3)
+
+[3. (Chatterjee2021A) Sharanya Chatterjee, Ana Jeemin Choi, and Gad Frankel. A systematic review of sec24 cargo interactome. Traffic, 22(12):412–424, October 2021. URL: http://dx.doi.org/10.1111/tra.12817, doi:10.1111/tra.12817. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/tra.12817)

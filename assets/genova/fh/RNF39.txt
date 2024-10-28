@@ -1,0 +1,37 @@
+# RNF39
+
+## Overview
+RNF39 is a gene that encodes ring finger protein 39, an E3 ubiquitin ligase involved in the regulation of antiviral innate immunity. This protein is a member of the RING finger protein family and plays a critical role in the ubiquitination process, specifically targeting the DEAD-box RNA helicase DDX3X for proteasomal degradation. By modulating the levels of DDX3X, RNF39 acts as a negative regulator of the RIG-I-like receptor (RLR) pathway, which is crucial for initiating antiviral responses. The protein's activity is essential for maintaining immune homeostasis and preventing excessive immune activation, which can lead to autoimmune disorders. RNF39's interactions and regulatory functions are primarily localized in the cytoplasm, where it directly interacts with DDX3X through specific protein domains (Wang2021RNF39).
+
+## Function
+RNF39 (ring finger protein 39) is a gene that encodes an E3 ubiquitin ligase, which plays a crucial role in the regulation of antiviral innate immunity. The protein is involved in the ubiquitination process, specifically mediating K48-linked polyubiquitination of DDX3X, a DEAD-box RNA helicase. This ubiquitination targets DDX3X for proteasomal degradation, thereby modulating its levels within the cell (Wang2021RNF39).
+
+In healthy human cells, RNF39 functions as a negative regulator of the RIG-I-like receptor (RLR) pathway, which is essential for initiating antiviral responses. By promoting the degradation of DDX3X, RNF39 inhibits the activation of IRF3, a transcription factor critical for the expression of interferon-beta (IFN-β) and other pro-inflammatory cytokines. This regulation is vital for preventing excessive immune activation, which can lead to autoimmune disorders (Wang2021RNF39).
+
+RNF39 is active in the cytoplasm, where it interacts directly with DDX3X. The interaction is mediated through specific domains of both proteins, and the ubiquitin ligase activity of RNF39 is essential for this process. Mutations that disrupt this activity can abolish its regulatory function (Wang2021RNF39).
+
+## Clinical Significance
+Mutations and alterations in the RNF39 gene have been linked to several diseases and conditions. RNF39 is associated with autoimmune diseases such as multiple sclerosis (MS), systemic lupus erythematosus (SLE), and Behçet's disease. In MS, RNF39 is hypermethylated in CD4+ T cells, suggesting a role in disease pathogenesis (Maltby2017Differential). Similarly, hypermethylation of RNF39 is observed in SLE patients, particularly those with cutaneous manifestations like malar rash and discoid rash (Renauer2015DNA).
+
+RNF39 also plays a role in viral infections. It is involved in the regulation of antiviral immunity through its interaction with the DDX3X protein, acting as a negative regulator of the RIG-I-like receptor (RLR) pathway. RNF39 deficiency enhances antiviral responses and reduces viral replication, indicating its potential impact on susceptibility to RNA viral infections (Wang2021RNF39). Genetic variants of RNF39 have been associated with HIV-1 disease progression and plasma viral loads, suggesting that RNF39 influences the clinical course of HIV-1 infection (Lin2014Ring).
+
+Additionally, RNF39 is linked to allergic rhinitis, with genetic variants associated with the condition, both with and without asthma (Morin2017Combining). These findings highlight the clinical significance of RNF39 in various immune-related and infectious diseases.
+
+## Interactions
+RNF39, a member of the RING finger protein family, is known to interact with the DDX3X protein. RNF39 functions as an E3 ubiquitin ligase, targeting DDX3X for degradation through the ubiquitin-proteasome pathway. This interaction is mediated by the N-terminal region of RNF39 and the N-terminal RecA-like domain 1 of DDX3X. The interaction has been confirmed through coimmunoprecipitation and confocal microscopy analyses. RNF39 specifically promotes K48-linked polyubiquitination of DDX3X, leading to its degradation, a process that can be inhibited by the proteasome inhibitor MG132. This specificity is highlighted by the fact that other E3 ubiquitin ligases, such as TRIM13, TRIM31, and TRIM40, do not affect DDX3X expression (Wang2021RNF39).
+
+RNF39 also plays a role in the regulation of antiviral responses by inhibiting the RIG-I-like receptor (RLR) pathway. It does so by mediating the ubiquitination of DDX3X, which is crucial for antiviral immunity. This interaction negatively regulates the RLR pathway, as evidenced by increased antiviral responses in RNF39-deficient models (Wang2021RNF39).
+
+
+## References
+
+
+[1. (Lin2014Ring) Ying-Ju Lin, Chia-Yen Chen, Kuan-Teh Jeang, Xiang Liu, Jen-Hsien Wang, Chien-Hui Hung, Hsinyi Tsang, Ting-Hsu Lin, Chiu-Chu Liao, Shao-Mei Huang, Cheng-Wen Lin, Mao-Wang Ho, Wen-Kuei Chien, Jin-Hua Chen, Tsung-Jung Ho, and Fuu-Jen Tsai. Ring finger protein 39 genetic variants associate with hiv-1 plasma viral loads and its replication in cell culture. Cell &amp; Bioscience, August 2014. URL: http://dx.doi.org/10.1186/2045-3701-4-40, doi:10.1186/2045-3701-4-40. This article has 4 citations.](https://doi.org/10.1186/2045-3701-4-40)
+
+[2. (Renauer2015DNA) Paul Renauer, Patrick Coit, Matlock A Jeffries, Joan T Merrill, W Joseph McCune, Kathleen Maksimowicz-McKinnon, and Amr H Sawalha. Dna methylation patterns in naïve cd4+ t cells identify epigenetic susceptibility loci for malar rash and discoid rash in systemic lupus erythematosus. Lupus Science &amp; Medicine, 2(1):e000101, September 2015. URL: http://dx.doi.org/10.1136/lupus-2015-000101, doi:10.1136/lupus-2015-000101. This article has 81 citations.](https://doi.org/10.1136/lupus-2015-000101)
+
+[3. (Morin2017Combining) Andréanne Morin, Michel Laviolette, Tomi Pastinen, Louis-Philippe Boulet, and Catherine Laprise. Combining omics data to identify genes associated with allergic rhinitis. Clinical Epigenetics, January 2017. URL: http://dx.doi.org/10.1186/s13148-017-0310-1, doi:10.1186/s13148-017-0310-1. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13148-017-0310-1)
+
+[4. (Maltby2017Differential) Vicki E. Maltby, Rodney A. Lea, Katherine A. Sanders, Nicole White, Miles C. Benton, Rodney J. Scott, and Jeannette Lechner-Scott. Differential methylation at mhc in cd4+ t cells is associated with multiple sclerosis independently of hla-drb1. Clinical Epigenetics, July 2017. URL: http://dx.doi.org/10.1186/s13148-017-0371-1, doi:10.1186/s13148-017-0371-1. This article has 63 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13148-017-0371-1)
+
+[5. (Wang2021RNF39) Wenwen Wang, Mutian Jia, Chunyuan Zhao, Zhongxia Yu, Hui Song, Ying Qin, and Wei Zhao. Rnf39 mediates k48-linked ubiquitination of ddx3x and inhibits rlr-dependent antiviral immunity. Science Advances, March 2021. URL: http://dx.doi.org/10.1126/sciadv.abe5877, doi:10.1126/sciadv.abe5877. This article has 17 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/sciadv.abe5877)

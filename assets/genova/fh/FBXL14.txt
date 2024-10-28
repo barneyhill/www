@@ -1,0 +1,46 @@
+# FBXL14
+
+## Overview
+FBXL14 is a gene that encodes the F-box and leucine-rich repeat protein 14, a member of the F-box protein family. This protein is characterized by the presence of an F-box motif, which is essential for its role in the SCF (SKP1-CUL1-F-box protein) E3 ubiquitin ligase complex, and leucine-rich repeats that facilitate protein-protein interactions. As an E3 ubiquitin ligase, FBXL14 is involved in the ubiquitin-mediated proteolysis pathway, targeting specific proteins for degradation and thereby regulating various cellular processes such as cell cycle progression, signal transduction, and transcriptional regulation. The protein plays a critical role in inhibiting epithelial-mesenchymal transition (EMT) by targeting key EMT factors for degradation, which is significant in the context of cancer metastasis. Additionally, FBXL14 is implicated in developmental processes, such as vertebrate axis formation, by modulating protein levels and stability (Song2019Emerging; Zheng2012Essential).
+
+## Structure
+FBXL14, a member of the F-box protein family, is characterized by an F-box motif of approximately 40 amino acids, which is crucial for its interaction with the SCF (SKP1-CUL1-F-box protein) complex. This motif facilitates the protein's role in ubiquitin-mediated proteolysis (Song2019Emerging). The protein also contains leucine-rich repeats (LRRs), which are involved in protein-protein interactions, contributing to its substrate specificity and function within the SCF complex (Song2019Emerging).
+
+The primary structure of FBXL14 includes the F-box domain, essential for binding to the SCF complex. The secondary structure likely involves alpha-helices and beta-sheets within the LRRs, although specific details are not provided in the available literature. The tertiary structure of FBXL14 is defined by its overall three-dimensional conformation, which is necessary for its functional interactions. The quaternary structure involves its assembly within the SCF complex, allowing it to participate in the ubiquitin-proteasome system (Song2019Emerging).
+
+Post-translational modifications of FBXL14 may include phosphorylation, which can affect its stability and function, although specific modifications are not detailed in the context provided. There is no information available on splice variant isoforms of FBXL14 in the current context.
+
+## Function
+FBXL14 is a member of the F-box protein family and functions as part of the SCF (SKP1-CUL1-F-box protein) E3 ubiquitin ligase complex, which targets proteins for ubiquitination and subsequent proteasomal degradation. This process is crucial for regulating various cellular activities, including cell cycle progression, signal transduction, and transcriptional regulation. In healthy human cells, FBXL14 is involved in maintaining protein homeostasis and modulating pathways critical for cell growth and differentiation (Fang2016Deubiquitinase).
+
+FBXL14 plays a significant role in the regulation of epithelial-mesenchymal transition (EMT) by targeting core EMT factors such as Snail1, Twist, Sip1, and Slug for degradation. This suggests that FBXL14 functions as an EMT inhibitor, potentially suppressing metastasis in human cancers (Song2019Emerging). The protein is dynamically expressed in neural crest-forming regions, indicating its involvement in developmental processes (Song2019Emerging).
+
+In the context of vertebrate axis formation, FBXL14 regulates the ubiquitination and protein levels of mitogen-activated protein kinase phosphatase 3 (Mkp3), impacting embryonic development and axis patterning (Zheng2012Essential). This highlights its role in modulating protein levels and stability during development.
+
+## Clinical Significance
+Alterations in the expression or function of the FBXL14 gene have been implicated in various cancers. In glioblastoma, FBXL14 acts as a tumor suppressor by promoting the degradation of the c-Myc protein, which is crucial for glioblastoma stem cell (GSC) maintenance and tumor growth. Low expression of FBXL14 in GSCs is associated with increased c-Myc levels, contributing to tumor progression. Conversely, higher FBXL14 expression correlates with better patient survival, suggesting its potential as a prognostic marker in glioblastoma multiforme (GBM) (Fang2016Deubiquitinase).
+
+FBXL14 is also involved in the regulation of cancer stemness and progression in other cancers. In head and neck cancer, FBXL14 mediates the degradation of Twist1, a protein involved in maintaining cancer stemness, thereby attenuating cancer pathogenesis (Khan2021Fbox). In breast cancer, FBXL14's interaction with Twist1 is modulated by USP13, which stabilizes Twist1 by de-ubiquitinating it, promoting metastasis (Zhao2023USP13).
+
+These findings highlight the clinical significance of FBXL14 in cancer biology, where its altered expression or interaction with other proteins can impact tumor progression and patient outcomes. Targeting FBXL14-related pathways may offer therapeutic potential in treating these malignancies.
+
+## Interactions
+FBXL14 is involved in the ubiquitination and degradation of the transcription factor Twist1, a process that is crucial for regulating Twist1's stability and function in breast cancer metastasis. FBXL14 acts as an E3 ubiquitin ligase, inducing K48-linked polyubiquitin chains on Twist1, which marks it for proteasomal degradation. This interaction is modulated by USP13, a deubiquitinase that can cleave these ubiquitin chains, thereby stabilizing Twist1 and promoting its activity in cancer cell migration and invasion (Zhao2023USP13).
+
+The interaction between FBXL14 and Twist1 is influenced by the presence of USP13. Overexpression of USP13 decreases the interaction between FBXL14 and Twist1, while knockdown of USP13 enhances this interaction. This suggests a competitive or regulatory relationship where USP13 modulates the binding affinity of FBXL14 to Twist1, impacting the ubiquitination status and stability of Twist1 (Zhao2023USP13).
+
+FBXL14's role in the ubiquitination of Twist1 highlights its involvement in the regulation of epithelial-mesenchymal transition (EMT) processes, which are critical in cancer metastasis. The modulation of Twist1 by FBXL14 and USP13 presents a potential therapeutic target for controlling breast cancer progression (Zhao2023USP13).
+
+
+## References
+
+
+[1. (Song2019Emerging) Yizuo Song, Min Lin, Yi Liu, Zhi-Wei Wang, and Xueqiong Zhu. Emerging role of f-box proteins in the regulation of epithelial-mesenchymal transition and stem cells in human cancers. Stem Cell Research &amp; Therapy, April 2019. URL: http://dx.doi.org/10.1186/s13287-019-1222-0, doi:10.1186/s13287-019-1222-0. This article has 33 citations.](https://doi.org/10.1186/s13287-019-1222-0)
+
+[2. (Fang2016Deubiquitinase) Xiaoguang Fang, Wenchao Zhou, Qiulian Wu, Zhi Huang, Yu Shi, Kailin Yang, Cong Chen, Qi Xie, Stephen C. Mack, Xiuxing Wang, Angel M. Carcaboso, Andrew E. Sloan, Gaoliang Ouyang, Roger E. McLendon, Xiu-wu Bian, Jeremy N. Rich, and Shideng Bao. Deubiquitinase usp13 maintains glioblastoma stem cells by antagonizing fbxl14-mediated myc ubiquitination. Journal of Experimental Medicine, 214(1):245–267, December 2016. URL: http://dx.doi.org/10.1084/jem.20151673, doi:10.1084/jem.20151673. This article has 114 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1084/jem.20151673)
+
+[3. (Zheng2012Essential) Hongping Zheng, Yong Du, Ye Hua, Zhili Wu, Yuanchang Yan, and Yiping Li. Essential role of fbxl14 ubiquitin ligase in regulation of vertebrate axis formation through modulating mkp3 level. Cell Research, 22(5):936–940, March 2012. URL: http://dx.doi.org/10.1038/cr.2012.37, doi:10.1038/cr.2012.37. This article has 8 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/cr.2012.37)
+
+[4. (Khan2021Fbox) Abdul Q. Khan, Maha Al-Tamimi, Shahab Uddin, and Martin Steinhoff. F-box proteins in cancer stemness: an emerging prognostic and therapeutic target. Drug Discovery Today, 26(12):2905–2914, December 2021. URL: http://dx.doi.org/10.1016/j.drudis.2021.07.006, doi:10.1016/j.drudis.2021.07.006. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.drudis.2021.07.006)
+
+[5. (Zhao2023USP13) Binggong Zhao, Wei Huo, Xiaomin Yu, Xiaoxia Shi, Linlin Lv, Yuxi Yang, Jie Kang, Shujing Li, and Huijian Wu. Usp13 promotes breast cancer metastasis through fbxl14-induced twist1 ubiquitination. Cellular Oncology, 46(3):717–733, February 2023. URL: http://dx.doi.org/10.1007/s13402-023-00779-9, doi:10.1007/s13402-023-00779-9. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s13402-023-00779-9)

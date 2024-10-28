@@ -1,0 +1,39 @@
+# RWDD1
+
+## Overview
+The RWDD1 gene encodes the RWD domain containing 1 protein, which functions primarily as a coactivator in androgen receptor (AR) signaling pathways. This protein is characterized by its RWD domain, which facilitates its interaction with the ligand-binding domain of the AR, enhancing androgen-dependent transcriptional activity. Unlike typical coactivators, RWDD1 operates independently of the AF2 region, a common site for coactivator binding, thereby suggesting a unique mechanism of action (Grötsch2012RWDD1). RWDD1 is expressed in tissues such as the male genital tubercle, indicating its role in male reproductive development (Grötsch2012RWDD1). Beyond its interaction with AR, RWDD1 also serves as a coactivator for the glucocorticoid receptor, highlighting its broader involvement in nuclear receptor-mediated transcription (Grötsch2012RWDD1). Additionally, RWDD1 has been implicated in various clinical contexts, including cancer and psychiatric conditions, underscoring its potential as a biomarker and therapeutic target (Krull2022Dosedependent; Vuong2014Functional).
+
+## Function
+The RWDD1 gene encodes a protein that functions as a coactivator of androgen-dependent transactivation by interacting with the ligand-binding domain (LBD) of the androgen receptor (AR). This interaction enhances AR-mediated transcriptional activity, particularly in the presence of dihydrotestosterone (DHT), a potent androgen (Grötsch2012RWDD1). RWDD1 does not possess an intrinsic activation function but enhances AR-dependent transactivation through an AR activation function, independent of the AF2 region typically involved in coactivator binding (Grötsch2012RWDD1).
+
+RWDD1 is expressed in the male genital tubercle, particularly in the urethral epithelium, where AR is also strongly expressed, suggesting a role in androgen receptor signaling pathways that influence the development and function of male genitalia (Grötsch2012RWDD1). The RWD domain of RWDD1 is sufficient for binding to the AR LBD, facilitating its role in androgen-dependent transcription (Grötsch2012RWDD1).
+
+In cellular contexts, RWDD1 enhances AR-dependent transactivation in various reporter assays, indicating its function as a coactivator of androgen-dependent transcription, which is crucial for normal male reproductive development and function (Grötsch2012RWDD1).
+
+## Clinical Significance
+RWDD1 has been implicated in several diseases and conditions due to its altered expression or mutations. In cancer, particularly skin melanoma, RWDD1 has been identified as having significant enrichment of somatic mutations in protein pocket regions. This suggests its potential role as a candidate target for melanoma treatment, as high expression levels of RWDD1 are associated with a weak trend towards poor survival rates in melanoma patients (Vuong2014Functional). Additionally, RWDD1's expression profiles have been linked to poor survival rates in lung and colorectal cancer, indicating its clinical significance in these cancers as well (Vuong2014Functional).
+
+In the context of psychiatric conditions, RWDD1 has been studied for its transcriptional response to lithium treatment. It shows a negative association with adverse effects such as tremor and xerostomia in patients using lithium, suggesting its involvement in mediating these effects (Krull2022Dosedependent).
+
+RWDD1 has also been identified as a potential biomarker for dilated cardiomyopathy (DCM). In a study using machine learning methods, RWDD1 was one of the key genes associated with a more severe molecular subgroup of DCM, characterized by lower left ventricular ejection fraction (Ye2023Integrated).
+
+## Interactions
+RWDD1 (RWD domain containing 1) is known to interact with the androgen receptor (AR), specifically binding to its ligand-binding domain (LBD). This interaction enhances AR-dependent transactivation, acting as a coactivator in androgen receptor signaling pathways. The interaction is confirmed through various assays, including yeast two-hybrid screens, GST pull-down assays, and immunoprecipitation experiments. Notably, RWDD1 enhances AR activity even when the AF2 region of AR is disrupted, indicating an AF2-independent mechanism (Grötsch2012RWDD1).
+
+RWDD1 also interacts with the glucocorticoid receptor (GR), serving as a coactivator for GR-dependent transactivation. This suggests a broader role for RWDD1 in nuclear receptor-mediated transcription (Grötsch2012RWDD1). The RWD domain of RWDD1 is crucial for its interaction with the AR LBD, although RWDD1 lacks the typical motifs used by other coregulators to interact with AF2 (Grötsch2012RWDD1).
+
+In addition to its role in nuclear receptor signaling, RWDD1 has been identified as a transcription factor in Urechis unicinctus, where it binds directly to the sqr promoter, inhibiting the expression of the sqr gene involved in mitochondrial sulfide metabolism (Li2018A).
+
+
+## References
+
+
+[1. (Grötsch2012RWDD1) Helga Grötsch, Marlene Kunert, Katrin A. Mooslehner, Zhigang Gao, Dagmar Struve, Ieuan A. Hughes, Olaf Hiort, and Ralf Werner. Rwdd1 interacts with the ligand binding domain of the androgen receptor and acts as a coactivator of androgen-dependent transactivation. Molecular and Cellular Endocrinology, 358(1):53–62, July 2012. URL: http://dx.doi.org/10.1016/j.mce.2012.02.020, doi:10.1016/j.mce.2012.02.020. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.mce.2012.02.020)
+
+[2. (Krull2022Dosedependent) Florian Krull, Ibrahim Akkouh, Timothy Hughes, Francesco Bettella, Lavinia Athanasiu, Olav B. Smeland, Kevin S. O’Connell, Hans-Richard Brattbakk, Vidar M. Steen, Nils Eiel Steen, Srdjan Djurovic, and Ole A. Andreassen. Dose-dependent transcriptional effects of lithium and adverse effect burden in a psychiatric cohort. Progress in Neuro-Psychopharmacology and Biological Psychiatry, 112:110408, January 2022. URL: http://dx.doi.org/10.1016/j.pnpbp.2021.110408, doi:10.1016/j.pnpbp.2021.110408. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.pnpbp.2021.110408)
+
+[3. (Li2018A) Xueyu Li, Xiaolong Liu, Zhenkui Qin, Maokai Wei, Xitan Hou, Tingting Zhang, and Zhifeng Zhang. A novel transcription factor rwdd1 and its sumoylation inhibit the expression of sqr, a key gene of mitochondrial sulfide metabolism in urechis unicinctus. Aquatic Toxicology, 204:180–189, November 2018. URL: http://dx.doi.org/10.1016/j.aquatox.2018.09.012, doi:10.1016/j.aquatox.2018.09.012. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.aquatox.2018.09.012)
+
+[4. (Ye2023Integrated) Ling-Fang Ye, Jia-Yi Weng, and Li-Da Wu. Integrated genomic analysis defines molecular subgroups in dilated cardiomyopathy and identifies novel biomarkers based on machine learning methods. Frontiers in Genetics, February 2023. URL: http://dx.doi.org/10.3389/fgene.2023.1050696, doi:10.3389/fgene.2023.1050696. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2023.1050696)
+
+[5. (Vuong2014Functional) Huy Vuong, Feixiong Cheng, Chen-Ching Lin, and Zhongming Zhao. Functional consequences of somatic mutations in cancer using protein pocket-based prioritization approach. Genome Medicine, October 2014. URL: http://dx.doi.org/10.1186/s13073-014-0081-7, doi:10.1186/s13073-014-0081-7. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13073-014-0081-7)

@@ -1,0 +1,35 @@
+# HELQ
+
+## Overview
+HELQ is a gene that encodes the protein HEL308, a DNA helicase involved in critical DNA repair processes. As a DNA-dependent ATPase, HEL308 plays a significant role in maintaining genomic integrity by participating in the repair of DNA cross-links, replication, recombination, and inter-strand crosslink repair. The protein is particularly important in the context of homologous recombination, where it interacts with RAD51 and other proteins to facilitate DNA strand invasion and repair. HELQ is expressed in various tissues, including the testes, ovaries, heart, and skeletal muscle, suggesting its importance in reproductive and possibly other physiological processes. While HELQ's role in human fertility and cancer susceptibility is still under investigation, its function in DNA repair underscores its potential significance in genomic stability and disease prevention (Anand2021HELQ; Bakhshalizadeh2024A; Takata2013Human).
+
+## Function
+The HELQ gene encodes the protein HEL308, which functions as a DNA-dependent ATPase and DNA helicase. In healthy human cells, HELQ plays a crucial role in DNA repair processes, particularly in repairing DNA cross-links. It is involved in various DNA processes such as replication, recombination, and inter-strand crosslink repair. HELQ is associated with the ATR and RAD51 paralogs in one of the helicase pathways that facilitate strand invasion by unwinding the D loop, making homologous DNA available for the invading strand. This function is essential for maintaining genomic integrity, especially in oocytes, where it protects against germline mutations and ensures proper oocyte maturation (Bakhshalizadeh2024A).
+
+HELQ is expressed in the testes, ovaries, heart, and skeletal muscle, indicating its potential significance in human reproduction, although its exact role in human fertility remains unclear (Bakhshalizadeh2024A). The gene is implicated in meiotic processes, such as meiotic double-strand break repair and meiotic checkpoint activation, which are crucial for germ cell maintenance and the regulation of fertility in both males and females (Bakhshalizadeh2024A). HELQ's deficiency in human and mouse cells increases sensitivity to DNA interstrand crosslinks, suggesting a role in processing these crosslinks and potentially in tumor suppression (Bakhshalizadeh2024A).
+
+## Clinical Significance
+Mutations in the HELQ gene have been investigated for their potential role in various reproductive and cancer-related conditions. A novel homozygous missense variant in HELQ (c.596 A>C; p.Gln199Pro) was identified in a patient with primary amenorrhea, a condition associated with premature ovarian insufficiency (POI). Despite predictions of its pathogenicity, a CRISPR/Cas9-mediated knock-in mouse model with the equivalent variant did not replicate the POI phenotype, suggesting that this specific variant may not cause POI in humans (Bakhshalizadeh2024A).
+
+HELQ has been implicated in fertility regulation, with knock-out mice showing reproductive issues such as oocyte depletion and infertility in females, and hypogonadism in males. However, the role of HELQ in human POI remains uncertain, as studies have not consistently identified causative variants in POI patients (Bakhshalizadeh2024A).
+
+HELQ is also involved in DNA repair processes, and its disruption may contribute to genomic instability, potentially increasing cancer susceptibility. However, studies have not found a strong association between HELQ variants and breast or ovarian cancer risk, indicating that its involvement in cancer requires further investigation (Bakhshalizadeh2024A).
+
+## Interactions
+HELQ is a DNA helicase that participates in various interactions with proteins and nucleic acids, playing a crucial role in DNA repair processes. It interacts with RAD51, forming a complex that significantly enhances its helicase activity, particularly in DNA unwinding. This interaction is essential for HELQ's function, as demonstrated by the impaired activity of a HELQ mutant that can still bind RAD51 but lacks translocation or unwinding capabilities (Anand2021HELQ).
+
+HELQ also interacts with Replication Protein A (RPA), which modulates its activity. RPA inhibits HELQ's DNA unwinding but stimulates DNA strand annealing. HELQ can displace RPA from single-stranded DNA, facilitating the annealing of complementary sequences (Anand2021HELQ). The N-terminal domain of HELQ interacts with RPA, forming a ternary complex that reduces RPA-DNA binding, which may promote HELQ helicase activity (Northall2019Interaction).
+
+HELQ is associated with the BCDX2 complex, which includes RAD51 paralogs, and interacts with the DNA damage-responsive kinase ATR. These interactions suggest HELQ's involvement in homologous recombination and DNA damage response pathways (Takata2013Human).
+
+
+## References
+
+
+[1. (Anand2021HELQ) Roopesh Anand, Erika Buechelmaier, Ondrej Belan, Matthew Newton, Aleksandra Vancevska, Artur Kaczmarczyk, Tohru Takaki, David S. Rueda, Simon N. Powell, and Simon J. Boulton. Helq is a dual-function dsb repair enzyme modulated by rpa and rad51. Nature, 601(7892):268–273, December 2021. URL: http://dx.doi.org/10.1038/s41586-021-04261-0, doi:10.1038/s41586-021-04261-0. This article has 38 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-021-04261-0)
+
+[2. (Bakhshalizadeh2024A) Shabnam Bakhshalizadeh, Anthony D. Bird, Rajini Sreenivasan, Katrina M. Bell, Gorjana Robevska, Jocelyn van den Bergen, Mohammad Asghari-Jafarabadi, Andrew J. Kueh, Philippe Touraine, Anna Lokchine, Sylvie Jaillard, Katie L. Ayers, Dagmar Wilhelm, Andrew H. Sinclair, and Elena J. Tucker. A human homozygous helq missense variant does not cause premature ovarian insufficiency in a mouse model. Genes, 15(3):333, March 2024. URL: http://dx.doi.org/10.3390/genes15030333, doi:10.3390/genes15030333. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes15030333)
+
+3. (Northall2019Interaction) Interaction of HelQ helicase with RPA modulates RPA-DNA binding and stimulates HelQ to unwind DNA through a protein roadblock. This article has 0 citations.
+
+[4. (Takata2013Human) Kei-ichi Takata, Shelley Reh, Junya Tomida, Maria D. Person, and Richard D. Wood. Human dna helicase helq participates in dna interstrand crosslink tolerance with atr and rad51 paralogs. Nature Communications, September 2013. URL: http://dx.doi.org/10.1038/ncomms3338, doi:10.1038/ncomms3338. This article has 65 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms3338)

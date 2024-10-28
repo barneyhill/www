@@ -1,0 +1,40 @@
+# EME2
+
+## Overview
+EME2 is a gene that encodes the protein essential meiotic structure-specific endonuclease subunit 2, which is a crucial component of the DNA repair machinery in humans. The protein is a regulatory subunit of the MUS81-EME2 complex, a structure-specific endonuclease that plays a significant role in maintaining genomic stability by resolving DNA intermediates during replication stress and meiosis. EME2 is characterized by its ERCC4 nuclease domain, although this domain is catalytically inactive, and a C-terminal (HhH)2 domain involved in DNA binding. The MUS81-EME2 complex is particularly active in the nucleus, where it facilitates the repair of DNA structures such as replication forks and Holliday junctions, thereby ensuring proper chromosome segregation and genomic integrity. The gene's expression and function are critical for both DNA repair and meiotic recombination, with implications for cancer development and fertility (Bakshi2022Multilevel; Malacaria2022CHK2; Pepe2013Substrate).
+
+## Structure
+The EME2 protein in humans has two isoforms, EME2 and EME2B, resulting from alternative splicing of exons 4, 5, and 6. The EME2 isoform is a 379 amino acid protein, while EME2B is a 444 amino acid protein (Pepe2013Substrate). Both isoforms contain an ERCC4 nuclease domain, with EME2 spanning residues 77-326 and EME2B spanning residues 77-391. The ERCC4 domain is a characteristic feature of the XPF/MUS81 family, although in EME2 and EME2B, it is catalytically inactive due to divergence in the catalytic motif (Pepe2013Substrate). Both isoforms also harbor a C-terminal (HhH)2 domain, which is involved in DNA binding (Pepe2013Substrate).
+
+EME2 forms a heterodimeric complex with MUS81, which is crucial for its function as a structure-selective endonuclease. This complex is more active and has broader substrate specificity compared to MUS81-EME1, particularly in cleaving DNA structures such as 3' flaps, replication forks, and Holliday junctions (Falquet2019StructureSpecific; Pepe2013Substrate). EME2 is primarily expressed in the nucleoli of untreated cells and relocates to the nucleoplasm in response to DNA damage, indicating its role in DNA repair (Pepe2013Substrate). There is little evidence for the expression of EME2B in human cells (Pepe2013Substrate).
+
+## Function
+EME2 is a regulatory subunit of the MUS81-EME2 complex, a structure-specific endonuclease involved in DNA repair processes, particularly during replication stress. In healthy human cells, EME2 plays a crucial role in the S-phase of the cell cycle, where it is responsible for the formation of double-strand breaks (DSBs) necessary for resolving DNA intermediates and ensuring replication fork recovery. This activity is essential for maintaining genomic stability and cell viability under normal and perturbed replication conditions (Bakshi2022Multilevel; Malacaria2022CHK2).
+
+The MUS81-EME2 complex is activated in response to replication stress and is regulated by CHK2, which phosphorylates MUS81 at specific sites. This phosphorylation is necessary for the proper cleavage and restart of stalled replication forks, particularly in BRCA2-deficient cells. The interaction between CHK2 and MUS81-EME2 is crucial for processing reversed forks into DSBs, facilitating replication fork recovery (Malacaria2022CHK2).
+
+EME2 is predominantly active in the nucleus, where it contributes to the resolution of DNA structures during homologous recombination, thereby playing a significant role in genomic stability and proper chromosome segregation during meiosis (Bakshi2022Multilevel).
+
+## Clinical Significance
+Mutations or altered expression of the EME2 gene can lead to significant clinical consequences. EME2 is crucial for DNA repair and meiotic recombination, and disruptions in its function can result in genomic instability. This instability is a contributing factor in the development of various cancers, as it can lead to the accumulation of genetic mutations that drive oncogenesis. The precise mechanisms by which EME2 mutations contribute to cancer are still under investigation, but the gene's role in maintaining genomic integrity is a critical factor.
+
+In addition to its implications in cancer, EME2 is also important for fertility. Disruptions in EME2 interactions can impair meiotic processes, which are essential for the proper formation of gametes. This impairment can lead to fertility issues, as the production of viable sperm or eggs is compromised. The impact of EME2 on fertility highlights its essential role in reproductive health and the potential consequences of its dysfunction.
+
+Overall, the clinical significance of EME2 is underscored by its involvement in both cancer development and fertility, making it a critical target for further research in these areas.
+
+## Interactions
+EME2, a protein involved in DNA repair, forms a complex with MUS81, known as MUS81-EME2. This complex is a structure-selective endonuclease that interacts with various DNA structures, including Holliday junctions and D-loops, and is more efficient in cleaving these structures compared to the MUS81-EME1 complex (Pepe2013Substrate). EME2 and its isoform EME2B can both interact with MUS81, forming distinct heterodimeric complexes: MUS81-EME2 and MUS81-EME2B. However, EME2 is the predominant isoform expressed in vivo (Pepe2013Substrate).
+
+The MUS81-EME2 complex is activated in response to replication stress and BRCA2 deficiency, with CHK2 playing a crucial role in this process. CHK2 phosphorylates MUS81, which is essential for the formation of double-strand breaks during replication stress. This interaction is particularly significant in BRCA2-deficient cells, where the MUS81-EME2 complex helps process reversed forks into double-strand breaks, aiding replication fork recovery (Malacaria2022CHK2). The interaction between CHK2 and MUS81 is facilitated by the FHA domain of CHK2 and is enhanced under replication stress conditions (Malacaria2022CHK2).
+
+
+## References
+
+
+1. (Bakshi2022Multilevel) Multi-level monitoring of EME1-MUS81 in CPT induced nucleolar rDNA repair. This article has 0 citations.
+
+2. (Malacaria2022CHK2) CHK2 Regulates MUS81-EME2 Function in Response to Replication Stress and BRCA2 Deficiency. This article has 0 citations.
+
+[3. (Falquet2019StructureSpecific) Benoît Falquet and Ulrich Rass. Structure-specific endonucleases and the resolution of chromosome underreplication. Genes, 10(3):232, March 2019. URL: http://dx.doi.org/10.3390/genes10030232, doi:10.3390/genes10030232. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes10030232)
+
+[4. (Pepe2013Substrate) A. Pepe and S. C. West. Substrate specificity of the mus81-eme2 structure selective endonuclease. Nucleic Acids Research, 42(6):3833–3845, December 2013. URL: http://dx.doi.org/10.1093/nar/gkt1333, doi:10.1093/nar/gkt1333. This article has 53 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkt1333)

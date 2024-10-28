@@ -1,0 +1,33 @@
+# ABHD14B
+
+## Overview
+ABHD14B is a human gene that encodes the protein abhydrolase domain containing 14B, which is a member of the metabolic serine hydrolase family. This protein functions as a lysine deacetylase (KDAC), a unique enzymatic activity that involves transferring acetyl groups from acetylated lysine residues to coenzyme A (CoA), thereby forming acetyl-CoA and regenerating free lysine amines. Unlike other lysine deacetylases such as sirtuins and histone deacetylases (HDACs), ABHD14B utilizes a distinct mechanism for its deacetylation activity (Rajendran2019Functional). Structurally, the protein is characterized by an ABHD-fold, which includes alternating alpha-helices and beta-sheets, and features a conserved catalytic triad essential for its function (Vaidya2023Identification). ABHD14B is active in both the nucleus and cytosol, indicating its involvement in various cellular processes, including the regulation of acetyl-CoA levels, which are crucial for numerous metabolic pathways (Rajendran2019Functional).
+
+## Structure
+The ABHD14B protein is a member of the metabolic serine hydrolase family, characterized by a conserved catalytic triad consisting of Ser-111, Asp-162, and His-188, which is crucial for its enzymatic activity (Vaidya2023Identification; Rajendran2019Functional). The primary structure of ABHD14B includes two conserved sequence motifs: a nucleophilic motif (SxSxS within the VVISPSLSGMY sequence) and an acyltransferase motif (HxxxxD within the GAGHPCYLDKPE sequence) (Vaidya2023Identification). 
+
+The tertiary structure of ABHD14B is defined by the ABHD-fold, a common feature among proteins in the metabolic serine hydrolase family, which includes alternating alpha-helices and beta-sheets (Vaidya2023Identification). The protein's structure features two substrate tunnels converging on the active site serine, with conserved positively charged residues at the entrance, likely gating substrate access (Vaidya2023Identification). 
+
+ABHD14B has been identified as a lysine deacetylase, capable of transferring an acetyl group from acetyl-lysine to CoA, producing acetyl-CoA and regenerating the free amine of protein lysine residues (Rajendran2019Functional). The presence of multiple isoforms in some organisms suggests potential for complex formation, although specific details on the quaternary structure are not provided (Vaidya2023Identification).
+
+## Function
+ABHD14B is a human gene encoding an enzyme that functions as a lysine deacetylase (KDAC), involved in the transfer of acetyl groups from acetylated lysine residues to coenzyme A (CoA), forming acetyl-CoA and regenerating the free amine of lysine residues. This activity distinguishes ABHD14B from other known lysine deacetylases, such as sirtuins and histone deacetylases (HDACs), which utilize different mechanisms (Rajendran2019Functional). The enzyme is active in both the nucleus and cytosol of cells, suggesting a broad role in cellular processes (Rajendran2019Functional).
+
+In healthy human cells, ABHD14B regulates the biosynthetic flux of acetyl-CoA, a critical metabolite in various biochemical pathways. Knockdown studies in HEK293T cells have shown that reducing ABHD14B expression leads to a significant decrease in cellular acetyl-CoA levels and an increase in acetylated lysine residues, indicating its role in maintaining acetyl-CoA homeostasis (Rajendran2019Functional). The enzyme's activity is supported by its structural features, which include a substrate binding site that accommodates acetylated lysine residues and CoA, facilitating its function in lysine deacetylation reactions (Rajendran2019Functional).
+
+## Interactions
+ABHD14B has been identified as a protein interactor with the histone acetyltransferase (HAT) domain of the general transcription factor TFIID, specifically interacting with the CCG1/TAF II 250 protein, a component of the TFIID complex involved in eukaryotic transcription (Rajendran2019Functional). This interaction was discovered through a yeast two-hybrid screen and a pull-down study, suggesting a potential role in transcriptional regulation (Rajendran2019Functional). 
+
+The enzyme has been shown to catalyze a novel lysine deacetylase (KDAC) reaction, transferring an acetyl group from acetylated lysine residues of proteins to CoA, forming acetyl-CoA and regenerating the lysine amine (Rajendran2019Functional). This activity indicates that ABHD14B may interact with acetylated protein substrates, such as histones, to perform its enzymatic function (Rajendran2019Functional). 
+
+Despite these findings, the exact biological substrates and mechanisms of action remain unclear, and there is no specific mention of its physical interactions with other proteins or nucleic acids beyond its interaction with the TFIID complex (Lord2013Mammalian; Vaidya2023Identification).
+
+
+## References
+
+
+[1. (Lord2013Mammalian) Caleb C. Lord, Gwynneth Thomas, and J. Mark Brown. Mammalian alpha beta hydrolase domain (abhd) proteins: lipid metabolizing enzymes at the interface of cell signaling and energy metabolism. Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids, 1831(4):792–802, April 2013. URL: http://dx.doi.org/10.1016/j.bbalip.2013.01.002, doi:10.1016/j.bbalip.2013.01.002. This article has 122 citations.](https://doi.org/10.1016/j.bbalip.2013.01.002)
+
+[2. (Vaidya2023Identification) Kaveri Vaidya, Golding Rodrigues, Sonali Gupta, Archit Devarajan, Mihika Yeolekar, M. S. Madhusudhan, and Siddhesh S. Kamat. Identification of sequence determinants for the <scp>abhd14</scp> enzymes. Proteins: Structure, Function, and Bioinformatics, November 2023. URL: http://dx.doi.org/10.1002/prot.26632, doi:10.1002/prot.26632. This article has 0 citations.](https://doi.org/10.1002/prot.26632)
+
+[3. (Rajendran2019Functional) Abinaya Rajendran, Kaveri Vaidya, Johnny Mendoza, Jennifer Bridwell-Rabb, and Siddhesh S. Kamat. Functional annotation of abhd14b, an orphan serine hydrolase enzyme. Biochemistry, 59(2):183–196, September 2019. URL: http://dx.doi.org/10.1021/acs.biochem.9b00703, doi:10.1021/acs.biochem.9b00703. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.biochem.9b00703)

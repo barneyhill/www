@@ -1,0 +1,33 @@
+# ANGEL2
+
+## Overview
+The ANGEL2 gene encodes the protein angel homolog 2, which is a member of the exonuclease, endonuclease, and phosphatase (EEP) family of enzymes. This protein is characterized by its two-layer alpha/beta sandwich fold and is involved in crucial RNA processing pathways within human cells. Unlike other members of the CCR4 family of deadenylases, ANGEL2 does not participate in deadenylation but functions as a 2′,3′-cyclic phosphatase. It plays a significant role in the conversion of 2′,3′-cyclic phosphates into 2′,3′-hydroxyl nucleotides, which is essential for the recycling of tRNAs and the splicing of X-box-binding protein 1 (XBP1) mRNA during the unfolded protein response (Pinto2020ANGEL2). ANGEL2's interactions with various proteins and nucleic acids, including members of the FASTK family, underscore its importance in both nuclear and mitochondrial RNA processing pathways, thereby maintaining RNA integrity and function (Clemente2022ANGEL2).
+
+## Structure
+The ANGEL2 protein is a member of the EEP (exonuclease, endonuclease, and phosphatase) family of enzymes and exhibits a conserved two-layer alpha/beta sandwich fold typical of this family. The core of the EEP domain is formed by two conserved beta sheets surrounded by two outer layers of alpha helices and loops (Pinto2020ANGEL2). The protein has been crystallized in both its apo and substrate-bound forms, with resolutions of 1.45 Å and 2.10 Å, respectively (Pinto2020ANGEL2).
+
+The active site of ANGEL2 contains a magnesium ion (Mg2+) coordinated by the carboxyl group of the invariant Glu 220 and five water molecules. In the substrate-bound form, the adenine base of the substrate analog forms pi-stacking interactions with Tyr 313, and the 2′,3′-cyclic vanadate moiety is bound by direct coordination to Mg2+ and hydrogen bonding contacts (Pinto2020ANGEL2). ANGEL2 features a conserved, positively charged groove that may play a role in binding the ribose-phosphate backbone of RNA substrates (Pinto2020ANGEL2).
+
+ANGEL2 is a 544-amino acid, 62-kDa protein and is part of the CCR4-NOT deadenylase complex, although it lacks the leucine-rich repeat region necessary for incorporation into this complex (Pinto2020ANGEL2).
+
+## Function
+The ANGEL2 gene encodes a protein that functions as a 2′,3′-cyclic phosphatase, playing a crucial role in RNA processing pathways in human cells. ANGEL2 is a member of the CCR4 family of deadenylases, but unlike other members, it does not participate in deadenylation. Instead, it is involved in the conversion of 2′,3′-cyclic phosphates into 2′,3′-hydroxyl nucleotides, which is essential for the recycling of tRNAs during ribosome stalling and the splicing of X-box-binding protein 1 (XBP1) mRNA during the unfolded protein response (Pinto2020ANGEL2).
+
+In the context of the unfolded protein response, ANGEL2 affects the efficiency of XBP1 mRNA splicing by modulating the availability of 2′,3′>P substrates for the tRNA ligase complex, thereby influencing cellular stress responses (Pinto2020ANGEL2). ANGEL2 also facilitates the recycling of tRNAs by removing 2′,3′>P from tRNA fragments, allowing for CCA addition by TRNT1 and subsequent aminoacylation, which is crucial for translation and maintaining cellular homeostasis (Pinto2020ANGEL2).
+
+Structurally, ANGEL2 adopts a conserved two-layer alpha/beta sandwich fold typical of EEP family proteins, with a unique substrate-binding mode that accommodates the 3′-terminal nucleotide of an RNA substrate, positioning it for the hydrolysis of the terminal 2′,3′-cyclic phosphate (Pinto2020ANGEL2).
+
+## Interactions
+ANGEL2, a member of the CCR4 family of deadenylases, is involved in various interactions with proteins and nucleic acids that are crucial for its function in RNA processing. ANGEL2 exhibits 2′,3′-cyclic phosphatase activity, which is essential for processing RNA substrates with 2′,3′-cyclic phosphate ends. This activity allows ANGEL2 to modulate the processing of RNA by other enzymes, such as the tRNA ligase complex and TRNT1, by competing for 2′,3′-cyclic phosphate substrates (Pinto2020ANGEL2).
+
+In mitochondrial RNA processing, ANGEL2 interacts with members of the FASTK family, which are involved in the cleavage of non-canonical RNA junctions. These interactions are critical for the processing of mitochondrial transcripts, as they facilitate the dephosphorylation of 3′ phosphates, allowing for subsequent polyadenylation (Clemente2022ANGEL2). ANGEL2's role in mitochondrial RNA processing is further supported by its interaction with CG13850, a mitochondrial protein homologous to the mammalian FASTK family, suggesting a complex network of protein interactions in this context (Clemente2022ANGEL2).
+
+These interactions highlight ANGEL2's involvement in both nuclear and mitochondrial RNA processing pathways, underscoring its importance in maintaining RNA integrity and function.
+
+
+## References
+
+
+[1. (Pinto2020ANGEL2) Paola H. Pinto, Alena Kroupova, Alexander Schleiffer, Karl Mechtler, Martin Jinek, Stefan Weitzer, and Javier Martinez. Angel2 is a member of the ccr4 family of deadenylases with 2′,3′-cyclic phosphatase activity. Science, 369(6503):524–530, July 2020. URL: http://dx.doi.org/10.1126/science.aba9763, doi:10.1126/science.aba9763. This article has 27 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.aba9763)
+
+[2. (Clemente2022ANGEL2) Paula Clemente, Javier Calvo-Garrido, Sarah F. Pearce, Florian A. Schober, Megumi Shigematsu, Stefan J. Siira, Isabelle Laine, Henrik Spåhr, Christian Steinmetzger, Katja Petzold, Yohei Kirino, Rolf Wibom, Oliver Rackham, Aleksandra Filipovska, Joanna Rorbach, Christoph Freyer, and Anna Wredenberg. Angel2 phosphatase activity is required for non-canonical mitochondrial rna processing. Nature Communications, September 2022. URL: http://dx.doi.org/10.1038/s41467-022-33368-9, doi:10.1038/s41467-022-33368-9. This article has 4 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-33368-9)

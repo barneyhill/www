@@ -1,0 +1,54 @@
+# TOMM20
+
+## Overview
+TOMM20 is a gene that encodes the translocase of outer mitochondrial membrane 20 (TOMM20) protein, a critical component of the mitochondrial protein import machinery. This protein is a single-pass transmembrane receptor that plays a pivotal role in the translocase of the outer mitochondrial membrane (TOM) complex, facilitating the import of precursor proteins into mitochondria. TOMM20 is characterized by its tetratricopeptide repeat (TPR) motifs, which are involved in binding cytosolic chaperones and precursor proteins with mitochondrial targeting sequences (AvendañoMonsalve2020From; Perry2008Structure). The protein's function extends beyond mitochondrial import, as it is implicated in processes such as mitophagy and protein-protein interactions, including those with the androgen receptor in cancer contexts (Yin2023AR; Song2023Hsp70Bim). Alterations in TOMM20 expression and function have been associated with various clinical conditions, including metabolic disorders, neurodegenerative diseases, and cancer, highlighting its significance in cellular metabolism and disease pathogenesis (de2016Methylation; Palmer2021Mitochondrial).
+
+## Structure
+The TOMM20 protein is a single-pass transmembrane protein involved in mitochondrial protein import. In animals and fungi, TOMM20 is anchored at the N-terminus and features a cytosolic domain that binds preferentially to N-terminal presequences. The structure of the cytosolic domain of rat TOMM20 has been determined by NMR spectroscopy, revealing a fold consisting of five helices. The first two helices form a tetratricopeptide repeat (TPR) motif, which, along with a third helix, creates a hydrophobic groove that serves as the binding site for N-terminal presequence peptides (Perry2008Structure).
+
+In plants, TOMM20 is C-terminally anchored, with a domain arrangement that is the reverse of that in animals and fungi. The cytosolic domain of plant TOMM20 from A. thaliana consists of seven helices, with two TPR motifs forming a groove that binds presequence peptides. These TPR motifs are atypical, consisting of 43 or 44 residues instead of the expected 34, suggesting distinct evolutionary origins (Perry2008Structure).
+
+The TPR domain of TOMM20 is also noted for its interaction with the androgen receptor (AR) in prostate cancer, indicating its role in protein-protein interactions beyond mitochondrial import (Yin2023AR).
+
+## Function
+TOMM20 is a key receptor in the translocase of the outer mitochondrial membrane (TOM) complex, which is essential for the import of proteins into mitochondria. It recognizes mitochondrial precursor proteins that have targeting signals, particularly those with cleavable presequences, and acts as a chaperone to prevent their aggregation before import (AvendañoMonsalve2020From). TOMM20 is anchored to the outer mitochondrial membrane by an α-helical transmembrane domain, with its C-terminal domain exposed to the cytosol. This domain contains tetratricopeptide repeat (TPR) motifs that interact with cytosolic chaperones like Hsp70 and Hsp90, assisting in the transport of proteins to mitochondria (AvendañoMonsalve2020From).
+
+TOMM20 plays a significant role in the import of presequence-carrying preproteins into mitochondria, often in cooperation with other TOM complex components like Tom22 (Harbauer2014The). It is involved in the localization of mRNAs to mitochondria in a translation-dependent manner, suggesting a role in cotranslational targeting (Eliyahu2010Tom20). The protein is crucial for mitochondrial function, energy production, and cellular metabolism, as it ensures the correct targeting and import of proteins necessary for these processes (Heinemeyer2019Underappreciated).
+
+## Clinical Significance
+Alterations in the TOMM20 gene, which encodes a crucial component of the mitochondrial protein import machinery, have been implicated in various diseases. In the context of metabolic disorders, TOMM20 is associated with metabolic syndrome-related lipid alterations in severely obese individuals. Specific methylation quantitative trait loci (meQTLs) within the TOMM20 gene are linked to increased levels of total cholesterol, low-density lipoprotein cholesterol, and triglycerides, particularly in men. These associations suggest that TOMM20 may influence lipid metabolism through CpG methylation-dependent mechanisms (de2016Methylation).
+
+In neurodegenerative diseases, TOMM20 is involved in mitochondrial dysfunction observed in Parkinson's disease. Alpha-synuclein, a protein associated with Parkinson's, binds to TOMM20, impairing mitochondrial protein import and contributing to mitochondrial dysfunction. Overexpression of TOMM20 has been shown to mitigate these effects, indicating its potential as a therapeutic target (Palmer2021Mitochondrial; Heinemeyer2019Underappreciated).
+
+In cancer, TOMM20 is often overexpressed, which may facilitate tumorigenesis by enhancing cellular proliferation, migration, and invasion. Knockdown of TOMM20 in cancer models reduces these malignant characteristics, suggesting its role in cancer progression (Palmer2021Mitochondrial).
+
+## Interactions
+TOMM20 is a key component of the translocase of the outer mitochondrial membrane (TOM) complex, which is involved in the import of proteins into mitochondria. It interacts with other TOM complex proteins, such as TOMM22 and TOMM40, to facilitate the translocation of precursor proteins with mitochondrial targeting sequences into the mitochondria (Eliyahu2010Tom20; Heinemeyer2019Underappreciated).
+
+TOMM20 also plays a role in mitophagy, a process for the selective degradation of mitochondria. It interacts with parkin, an E3 ubiquitin ligase, in a complex facilitated by the interaction between Heat shock protein 70 (Hsp70) and Bcl-2-interacting mediator of cell death (Bim). This interaction promotes the ubiquitination of TOMM20, which is crucial for mitophagy (Song2023Hsp70Bim).
+
+In the context of prostate cancer, TOMM20 interacts with the androgen receptor (AR). This interaction is crucial for the stability of both proteins, and AR antagonists can disrupt this interaction, leading to the degradation of TOMM20 through the autophagy-lysosomal pathway (Yin2023AR). 
+
+In neurological disorders, TOMM20 interacts with post-translationally modified species of alpha-synuclein, which can impair mitochondrial protein import by preventing TOMM20's interaction with TOMM22 (Heinemeyer2019Underappreciated).
+
+
+## References
+
+
+[1. (Yin2023AR) Linglong Yin, Yubing Ye, Ling Zou, Jinli Lin, Yi Dai, Yongming Fu, Youhong Liu, Yuchong Peng, Yingxue Gao, Yuxin Fu, Xuli Qi, Tanggang Deng, Songwei Zhang, and Xiong Li. Ar antagonists develop drug resistance through tomm20 autophagic degradation-promoted transformation to neuroendocrine prostate cancer. Journal of Experimental &amp; Clinical Cancer Research, August 2023. URL: http://dx.doi.org/10.1186/s13046-023-02776-0, doi:10.1186/s13046-023-02776-0. This article has 3 citations.](https://doi.org/10.1186/s13046-023-02776-0)
+
+[2. (Eliyahu2010Tom20) Erez Eliyahu, Lilach Pnueli, Daniel Melamed, Tanja Scherrer, André P. Gerber, Ophry Pines, Doron Rapaport, and Yoav Arava. Tom20 mediates localization of mrnas to mitochondria in a translation-dependent manner. Molecular and Cellular Biology, 30(1):284–294, January 2010. URL: http://dx.doi.org/10.1128/mcb.00651-09, doi:10.1128/mcb.00651-09. This article has 144 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.00651-09)
+
+[3. (Song2023Hsp70Bim) Ting Song, Fangkui Yin, Ziqian Wang, Hong Zhang, Peng Liu, Yafei Guo, Yao Tang, and Zhichao Zhang. Hsp70-bim interaction facilitates mitophagy by recruiting parkin and tomm20 into a complex. Cellular &amp; Molecular Biology Letters, May 2023. URL: http://dx.doi.org/10.1186/s11658-023-00458-5, doi:10.1186/s11658-023-00458-5. This article has 4 citations.](https://doi.org/10.1186/s11658-023-00458-5)
+
+[4. (Harbauer2014The) Angelika B. Harbauer, René P. Zahedi, Albert Sickmann, Nikolaus Pfanner, and Chris Meisinger. The protein import machinery of mitochondria—a regulatory hub in metabolism, stress, and disease. Cell Metabolism, 19(3):357–372, March 2014. URL: http://dx.doi.org/10.1016/j.cmet.2014.01.010, doi:10.1016/j.cmet.2014.01.010. This article has 308 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cmet.2014.01.010)
+
+[5. (Heinemeyer2019Underappreciated) Thea Heinemeyer, Monique Stemmet, Soraya Bardien, and Annika Neethling. Underappreciated roles of the translocase of the outer and inner mitochondrial membrane protein complexes in human disease. DNA and Cell Biology, 38(1):23–40, January 2019. URL: http://dx.doi.org/10.1089/dna.2018.4292, doi:10.1089/dna.2018.4292. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1089/dna.2018.4292)
+
+[6. (Palmer2021Mitochondrial) Catherine S. Palmer, Alexander J. Anderson, and Diana Stojanovski. Mitochondrial protein import dysfunction: mitochondrial disease, neurodegenerative disease and cancer. FEBS Letters, 595(8):1107–1131, January 2021. URL: http://dx.doi.org/10.1002/1873-3468.14022, doi:10.1002/1873-3468.14022. This article has 61 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/1873-3468.14022)
+
+[7. (Perry2008Structure) Andrew J. Perry, Kieran A. Rimmer, Haydyn D.T. Mertens, Ross F. Waller, Terrence D. Mulhern, Trevor Lithgow, and Paul R. Gooley. Structure, topology and function of the translocase of the outer membrane of mitochondria. Plant Physiology and Biochemistry, 46(3):265–274, March 2008. URL: http://dx.doi.org/10.1016/j.plaphy.2007.12.012, doi:10.1016/j.plaphy.2007.12.012. This article has 54 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.plaphy.2007.12.012)
+
+[8. (de2016Methylation) Juan de Toro-Martín, Frédéric Guénard, André Tchernof, Yves Deshaies, Louis Pérusse, Frédéric-Simon Hould, Stéfane Lebel, Picard Marceau, and Marie-Claude Vohl. Methylation quantitative trait loci within the tomm20 gene are associated with metabolic syndrome-related lipid alterations in severely obese subjects. Diabetology &amp; Metabolic Syndrome, July 2016. URL: http://dx.doi.org/10.1186/s13098-016-0171-3, doi:10.1186/s13098-016-0171-3. This article has 10 citations.](https://doi.org/10.1186/s13098-016-0171-3)
+
+[9. (AvendañoMonsalve2020From) Maria Clara Avendaño-Monsalve, José Carlos Ponce-Rojas, and Soledad Funes. From cytosol to mitochondria: the beginning of a protein journey. Biological Chemistry, 401(6–7):645–661, March 2020. URL: http://dx.doi.org/10.1515/hsz-2020-0110, doi:10.1515/hsz-2020-0110. This article has 39 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/hsz-2020-0110)

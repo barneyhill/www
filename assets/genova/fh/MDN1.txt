@@ -1,0 +1,48 @@
+# MDN1
+
+## Overview
+MDN1 is a gene that encodes the protein midasin AAA ATPase 1, a large and essential AAA ATPase involved in ribosome biogenesis. The protein is characterized by its complex structure, which includes six non-equivalent AAA domains arranged in a pseudo-hexameric ring, and a C-terminal MIDAS (metal ion-dependent adhesion site) domain. This structural configuration allows midasin to play a critical role in the maturation and assembly of the 60S ribosomal subunit, primarily through ATP hydrolysis, which facilitates the removal of assembly factors and proper folding of ribosomal proteins (Chen2018Structural). Midasin's activity is crucial for efficient protein synthesis and cellular growth, with its function being vital for maintaining the translational capacity of cells (Hao2022MDN1; Iuchi2021RNAmetasome). The gene's mutations have been implicated in various cancers, highlighting its potential as a prognostic marker (Hao2022MDN1).
+
+## Structure
+The MDN1 protein, also known as midasin, is a large AAA ATPase involved in ribosome biogenesis. It is composed of six non-equivalent AAA domains arranged in a pseudo-hexameric ring, similar to the motor protein dynein, but with less than 15% identity in their AAA domains (Chen2018Structural). The AAA ring has an outer diameter of approximately 140 Å and an inner diameter of 30 Å, with a height of 65 Å (Chen2018Structural). The AAA domains are organized into rigid bodies, with specific structural features and insertions contributing to its function (Chen2018Structural).
+
+MDN1 also features a C-terminal MIDAS (metal ion-dependent adhesion site) domain, which is crucial for its role in ribosome assembly. This domain is homologous to the integrin I domain and is involved in binding ribosomal assembly factors (Ahmed2019Crystal; Mickolajczyk2020Longrange). The MIDAS domain can dock onto the AAA ring, a process influenced by ATP hydrolysis and small-molecule inhibitors (Mickolajczyk2020Longrange; Chen2018Structural).
+
+The protein includes a flexible linker region and a D/E-rich domain, which are less conserved and do not form compact structures (Chen2018Structural). These domains allow for intramolecular docking and contribute to the protein's conformational dynamics, essential for its function in ribosome precursor remodeling (Chen2018Structural).
+
+## Function
+MDN1, also known as midasin AAA ATPase 1, is a critical protein involved in the biogenesis of ribosomes, specifically in the maturation and assembly of the 60S ribosomal subunit. It functions as an ATPase, utilizing energy from ATP hydrolysis to facilitate the removal of assembly factors and the proper folding of ribosomal proteins (Hao2022MDN1; Chen2018Structural). MDN1 is primarily active in the nucleolus, where ribosome assembly occurs, and its activity is essential for efficient protein synthesis and cellular growth (Iuchi2021RNAmetasome).
+
+MDN1 plays a pivotal role in the nuclear maturation of pre-60S ribosomal particles by mediating the transition from state F to G, which involves the removal of a nucleolar protein interaction network. This process is crucial for the stable association of assembly factors like SDA1 and the rixosome, which are necessary for ITS2 processing (Vanden2023Principles). The protein's MIDAS domain interacts with assembly factors such as Ytm1 and Rsa4, facilitating their dissociation from ribosomal precursors, a process essential for proper ribosome assembly (Chen2018Structural). MDN1's function is vital for maintaining the translational capacity of cells, impacting overall cellular metabolism and growth (Vanden2023Principles).
+
+## Clinical Significance
+Mutations in the MDN1 gene, also known as midasin AAA ATPase 1, have been associated with various cancers, including breast cancer (BRCA), colorectal cancer, and skin squamous cell carcinoma. In breast cancer, MDN1 mutations are linked to a high tumor mutation burden and an unfavorable prognosis. Patients with these mutations exhibit a significantly worse survival probability, with a hazard ratio of 2.91, indicating a potential role for MDN1 as a prognostic marker (Hao2022MDN1). The mutations are primarily missense mutations and are associated with changes in the expression of several genes involved in cancer progression and drug resistance, such as the upregulation of PRODH and PHLDA2 and the downregulation of ABC family members (Hao2022MDN1).
+
+MDN1 mutations are also enriched in pathways related to drug metabolism, including glucuronidation and cytochrome P450, which are crucial for drug metabolism and estrogen signaling in breast cancer (Hao2022MDN1). These mutations affect various oncogenic signaling pathways, such as RTK-Ras, NOTCH, and WNT, and are associated with high tumor mutation burden, suggesting their involvement in tumorigenesis and drug response (Hao2022MDN1).
+
+## Interactions
+MDN1, also known as midasin AAA ATPase 1, is involved in several critical interactions essential for ribosome biogenesis. It interacts with the ubiquitin-like (UBL) domains of proteins such as WDR12 and Nle1. These interactions are crucial for ribosome assembly, with the UBL domain of WDR12 being necessary for its interaction with midasin, although not required for the formation of the PeBoW complex, which includes WDR12, Bop1, and Pes1 (Romes2016The).
+
+The MIDAS domain of MDN1 plays a significant role in these interactions, binding to the UBL domains of proteins like Rsa4 and Ytm1. This binding is mediated by metal ion coordination, and mutations affecting this coordination can diminish the interaction (Romes2016The; Ahmed2019Crystal). The MIDAS domain also forms catch bonds with these substrates, suggesting that mechanical forces regulate MDN1-driven steps in ribosome biogenesis (Mickolajczyk2021The).
+
+MDN1's interaction with the Rix1 particle and Rsa4 is facilitated by ATP-dependent conformational changes, which are crucial for the release of these assembly factors from preribosomal particles (Chen2018Structural). These interactions highlight MDN1's role in the dynamic assembly and remodeling of ribosomal complexes.
+
+
+## References
+
+
+[1. (Vanden2023Principles) Arnaud Vanden Broeck and Sebastian Klinge. Principles of human pre-60 s biogenesis. Science, July 2023. URL: http://dx.doi.org/10.1126/science.adh3892, doi:10.1126/science.adh3892. This article has 19 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.adh3892)
+
+[2. (Hao2022MDN1) Shuai Hao, Miao Huang, Xiaofan Xu, Xulin Wang, Liqun Huo, Lu Wang, and Jun Gu. Mdn1 mutation is associated with high tumor mutation burden and unfavorable prognosis in breast cancer. Frontiers in Genetics, March 2022. URL: http://dx.doi.org/10.3389/fgene.2022.857836, doi:10.3389/fgene.2022.857836. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.857836)
+
+[3. (Romes2016The) Erin M. Romes, Mack Sobhany, and Robin E. Stanley. The crystal structure of the ubiquitin-like domain of ribosome assembly factor ytm1 and characterization of its interaction with the aaa-atpase midasin. Journal of Biological Chemistry, 291(2):882–893, January 2016. URL: http://dx.doi.org/10.1074/jbc.m115.693259, doi:10.1074/jbc.m115.693259. This article has 27 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m115.693259)
+
+[4. (Chen2018Structural) Zhen Chen, Hiroshi Suzuki, Yuki Kobayashi, Ashley C. Wang, Frank DiMaio, Shigehiro A. Kawashima, Thomas Walz, and Tarun M. Kapoor. Structural insights into mdn1, an essential aaa protein required for ribosome biogenesis. Cell, 175(3):822-834.e18, October 2018. URL: http://dx.doi.org/10.1016/j.cell.2018.09.015, doi:10.1016/j.cell.2018.09.015. This article has 45 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2018.09.015)
+
+[5. (Iuchi2021RNAmetasome) Shiro Iuchi and Joao A. Paulo. Rnametasome network for macromolecule biogenesis in human cells. Communications Biology, December 2021. URL: http://dx.doi.org/10.1038/s42003-021-02928-y, doi:10.1038/s42003-021-02928-y. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-021-02928-y)
+
+[6. (Mickolajczyk2020Longrange) Keith J. Mickolajczyk, Paul Dominic B. Olinares, Yiming Niu, Nan Chen, Sara E. Warrington, Yusuke Sasaki, Thomas Walz, Brian T. Chait, and Tarun M. Kapoor. Long-range intramolecular allostery and regulation in the dynein-like aaa protein mdn1. Proceedings of the National Academy of Sciences, 117(31):18459–18469, July 2020. URL: http://dx.doi.org/10.1073/pnas.2002792117, doi:10.1073/pnas.2002792117. This article has 7 citations.](https://doi.org/10.1073/pnas.2002792117)
+
+7. (Mickolajczyk2021The) The MIDAS domain of AAA mechanoenzyme Mdn1 forms catch bonds with two different substrates. This article has 0 citations.
+
+[8. (Ahmed2019Crystal) Yasar Luqman Ahmed, Matthias Thoms, Valentin Mitterer, Irmgard Sinning, and Ed Hurt. Crystal structures of rea1-midas bound to its ribosome assembly factor ligands resembling integrin–ligand-type complexes. Nature Communications, July 2019. URL: http://dx.doi.org/10.1038/s41467-019-10922-6, doi:10.1038/s41467-019-10922-6. This article has 19 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-10922-6)

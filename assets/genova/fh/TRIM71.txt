@@ -1,0 +1,56 @@
+# TRIM71
+
+## Overview
+TRIM71 is a gene that encodes the tripartite motif-containing 71 protein, a member of the TRIM-NHL protein family. This protein is characterized by its tripartite motif, which includes a RING-type zinc finger domain, B-box type zinc fingers, and a coiled-coil domain, along with a C-terminal NHL domain. The TRIM71 protein functions primarily as an RNA-binding protein and E3 ubiquitin ligase, playing a crucial role in post-transcriptional regulation of gene expression. It is involved in various cellular processes, including mRNA repression, microRNA regulation, and maintenance of stem cell pluripotency. TRIM71 is essential for early embryonic development and neural differentiation, and its dysregulation is associated with several diseases, including cancer and congenital hydrocephalus (Foster2020TRIM71; Connacher2020Molecular; TorresFernández2019The).
+
+## Structure
+TRIM71 is a member of the TRIM-NHL protein family, characterized by a tripartite motif that includes a RING-type zinc finger domain, B-box type zinc fingers, and a coiled-coil domain, along with a C-terminal NHL domain (Connacher2020Molecular). The NHL domain is a versatile RNA-binding platform structured as a six-bladed β-propeller, with each blade consisting of approximately 44 residues arranged in four beta sheets (Connacher2020Molecular). This domain is crucial for TRIM71's function as an mRNA repressor, interacting with RNA stem-loop structures (Welte2019The; TorresFernández2019The).
+
+The NHL domain of TRIM71 forms a positively charged binding pocket that interacts with negatively charged phosphate groups of RNA, with specific residues such as R608, R625, R655, K672, R720, R751, R796, and R814 involved in these interactions (TorresFernández2019The). Mutations in the NHL domain, such as R595H and R783H, have been associated with congenital hydrocephalus and affect RNA binding, leading to altered mRNA targets (Liu2023Different).
+
+TRIM71's RING domain confers E3 ubiquitin ligase activity, contributing to its role in protein ubiquitylation (Welte2019The). The protein's structure and domain composition are essential for its involvement in development and stem cell regulation.
+
+## Function
+TRIM71, also known as tripartite motif-containing 71, is a protein that plays a crucial role in post-transcriptional regulation of gene expression in human cells. It functions primarily as an mRNA repressor and is involved in the regulation of cell cycle and differentiation processes. TRIM71 interacts with the 3' untranslated region (UTR) of target mRNAs, such as CDKN1A, leading to their repression and degradation. This process is facilitated by its cooperation with components of the nonsense-mediated decay (NMD) pathway, including UPF1 and SMG1, which promote mRNA decay (TorresFernández2019The).
+
+In addition to its role in mRNA regulation, TRIM71 is involved in the regulation of microRNA (miRNA) activity, particularly the let-7 family. It interacts with LIN28 proteins to inhibit the maturation of let-7 miRNAs, thereby influencing cell differentiation and proliferation. This interaction is mediated by the NHL domain of TRIM71 and is independent of its E3 ubiquitin ligase activity (TorresFernández2021The).
+
+TRIM71 is predominantly active in the cytoplasm and is essential for maintaining stem cell pluripotency and promoting proliferation while preventing premature differentiation (Foster2020TRIM71). Its expression is crucial during early embryonic development, where it helps regulate processes like neural development and cell cycle progression.
+
+## Clinical Significance
+Mutations and alterations in the TRIM71 gene are associated with several diseases and conditions. In cancer, TRIM71 acts as a tumor suppressor in ovarian cancer by promoting the ubiquitination and degradation of mutant p53 proteins, thereby inhibiting cancer cell proliferation and invasion (Chen2019Ubiquitin). Overexpression of TRIM71 in ovarian cancer cells is linked to reduced tumor growth and improved prognosis in TP53-mutated cases (Chen2019Ubiquitin). In non-small cell lung carcinoma (NSCLC), TRIM71 overexpression decreases cancer cell proliferation and inhibits tumor formation, suggesting its tumor-suppressive potential (Goyani2021TRIMNHL).
+
+Conversely, TRIM71 overexpression is associated with the progression of myxoid liposarcoma (MLS), indicating a complex role in cancer (Goyani2021TRIMNHL). In congenital hydrocephalus (CH), mutations such as R796H in TRIM71 alter its RNA-binding specificity, leading to defects in neural differentiation and contributing to the disease's pathogenesis (Liu2022A). These mutations result in premature neural differentiation, which is a key factor in CH development (Liu2022A).
+
+TRIM71 is also implicated in male infertility, particularly in cases with the Sertoli cell-only (SCO) phenotype. Loss-of-function variants in TRIM71 are significantly associated with this condition, suggesting a monogenic cause for infertility (TorresFernández2021TRIM71deficiency).
+
+## Interactions
+TRIM71 is an RNA-binding protein that interacts with various proteins and nucleic acids, playing a significant role in cellular processes. It binds to several RNA targets, including members of the MBNL family, LIN28B, MDM2, and TCF7L2, and is involved in both positive and negative regulation of these targets (Foster2020TRIM71). TRIM71 co-precipitates with IMP1 (IGF2BP1), a member of the Coding-Region Instability Determinant (CRD) complex, suggesting a role in RNA stabilization (Foster2020TRIM71). The interaction with IMP1 is RNA-independent under crosslinked conditions, although it may be RNA-dependent otherwise (Foster2020TRIM71).
+
+TRIM71 also interacts with AGO2, a key component of the RNA-induced silencing complex (RISC), to repress the activity of the let-7 miRNA family. This interaction is RNA-dependent and requires the NHL domain of TRIM71 (TorresFernández2021The). TRIM71's interaction with AGO2 does not affect AGO2 protein stability but specifically represses let-7 miRNA activity (TorresFernández2021The).
+
+Additionally, TRIM71 interacts with components of the nonsense-mediated decay (NMD) pathway, such as UPF1 and SMG1, to repress CDKN1A mRNA. This interaction is RNA-dependent and does not rely on TRIM71's E3 ligase activity (TorresFernández2019The). These interactions highlight TRIM71's multifaceted role in RNA regulation and its involvement in various cellular pathways.
+
+
+## References
+
+
+[1. (TorresFernández2021The) Lucia A. Torres-Fernández, Sibylle Mitschka, Thomas Ulas, Stefan Weise, Kilian Dahm, Matthias Becker, Kristian Händler, Marc Beyer, Julia Windhausen, Joachim L. Schultze, and Waldemar Kolanus. The stem cell–specific protein trim71 inhibits maturation and activity of the prodifferentiation mirna let-7 via two independent molecular mechanisms. RNA, 27(7):805–828, May 2021. URL: http://dx.doi.org/10.1261/rna.078696.121, doi:10.1261/rna.078696.121. This article has 12 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.078696.121)
+
+[2. (Liu2023Different) Qiuying Liu, Mariah K. Novak, Rachel M. Pepin, Katharine R. Maschhoff, and Wenqian Hu. Different congenital hydrocephalus–associated mutations in trim71 impair stem cell differentiation via distinct gain-of-function mechanisms. PLOS Biology, 21(2):e3001947, February 2023. URL: http://dx.doi.org/10.1371/journal.pbio.3001947, doi:10.1371/journal.pbio.3001947. This article has 3 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.pbio.3001947)
+
+3. (Liu2022A) A congenital hydrocephalus causing mutation in Trim71 results in stem cell differentiation defects through inhibitingLsd1mRNA translation. This article has 0 citations.
+
+[4. (Chen2019Ubiquitin) Yajie Chen, Qian Hao, Jieqiong Wang, Jiajia Li, Canhua Huang, Yu Zhang, Xiaohua Wu, Hua Lu, and Xiang Zhou. Ubiquitin ligase trim71 suppresses ovarian tumorigenesis by degrading mutant p53. Cell Death &amp; Disease, September 2019. URL: http://dx.doi.org/10.1038/s41419-019-1977-3, doi:10.1038/s41419-019-1977-3. This article has 35 citations.](https://doi.org/10.1038/s41419-019-1977-3)
+
+[5. (Goyani2021TRIMNHL) Shanikumar Goyani, Milton Roy, and Rajesh Singh. Trim-nhl as rna binding ubiquitin e3 ligase (rbul): implication in development and disease pathogenesis. Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease, 1867(7):166066, July 2021. URL: http://dx.doi.org/10.1016/j.bbadis.2020.166066, doi:10.1016/j.bbadis.2020.166066. This article has 20 citations.](https://doi.org/10.1016/j.bbadis.2020.166066)
+
+6. (TorresFernández2021TRIM71deficiency) TRIM71deficiency causes germ cell loss during mouse embryogenesis and promotes human male infertility. This article has 0 citations.
+
+[7. (Foster2020TRIM71) Daniel J. Foster, Hao-Ming Chang, Jeffrey R. Haswell, Richard I. Gregory, and Frank J. Slack. Trim71 binds to imp1 and is capable of positive and negative regulation of target rnas. Cell Cycle, 19(18):2314–2326, August 2020. URL: http://dx.doi.org/10.1080/15384101.2020.1804232, doi:10.1080/15384101.2020.1804232. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/15384101.2020.1804232)
+
+[8. (Connacher2020Molecular) Robert P. Connacher and Aaron C. Goldstrohm. Molecular and biological functions of <scp>trim‐nhl rna‐binding</scp> proteins. WIREs RNA, August 2020. URL: http://dx.doi.org/10.1002/wrna.1620, doi:10.1002/wrna.1620. This article has 18 citations.](https://doi.org/10.1002/wrna.1620)
+
+[9. (Welte2019The) Thomas Welte, Alex C. Tuck, Panagiotis Papasaikas, Sarah H. Carl, Matyas Flemr, Philip Knuckles, Aneliya Rankova, Marc Bühler, and Helge Großhans. The rna hairpin binder trim71 modulates alternative splicing by repressing mbnl1. Genes &amp; Development, 33(17–18):1221–1235, August 2019. URL: http://dx.doi.org/10.1101/gad.328492.119, doi:10.1101/gad.328492.119. This article has 31 citations.](https://doi.org/10.1101/gad.328492.119)
+
+[10. (TorresFernández2019The) Lucia A Torres-Fernández, Bettina Jux, Maximilian Bille, Yasmine Port, Karin Schneider, Matthias Geyer, Günter Mayer, and Waldemar Kolanus. The mrna repressor trim71 cooperates with nonsense-mediated decay factors to destabilize the mrna of cdkn1a/p21. Nucleic Acids Research, November 2019. URL: http://dx.doi.org/10.1093/nar/gkz1057, doi:10.1093/nar/gkz1057. This article has 10 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkz1057)

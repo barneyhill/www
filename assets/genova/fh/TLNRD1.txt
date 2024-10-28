@@ -1,0 +1,40 @@
+# TLNRD1
+
+## Overview
+The TLNRD1 gene encodes the protein talin rod domain containing 1, which is a crucial component of the cerebral cavernous malformations (CCM) complex. This protein is primarily involved in maintaining endothelial barrier integrity by regulating the actin cytoskeleton, a function essential for cellular processes such as movement, division, and shape maintenance (Ball2023TLNRD1). Structurally, TLNRD1 is homologous to the R7R8 domains of the cytoskeletal adaptor talin and forms a constitutive homodimer, which is vital for its role in binding and bundling F-actin (Ball2023TLNRD1). The protein interacts with CCM2, another component of the CCM complex, through a hydrophobic interface, which is mutually exclusive with its actin-binding activity, thereby modulating its function in endothelial cells (Ball2023TLNRD1). TLNRD1's involvement in vascular-related conditions and its potential role in cancer progression highlight its clinical significance (Ott2024Abstract; Ball2023TLNRD1).
+
+## Structure
+The TLNRD1 protein, also known as talin rod domain-containing protein 1, is structurally homologous to the R7R8 domains of the cytoskeletal adaptor talin. It forms a constitutive homodimer, with its structure comprising a 4-helix domain (TLNRD1 4H, equivalent to talin R8) inserted into a 5-helix domain (TLNRD1 5H, equivalent to talin R7), creating a 9-helix module (Ball2023TLNRD1). The homodimerization of TLNRD1 is mediated through an interface on the 4-helix module, which is crucial for its function in binding and bundling F-actin (Ball2023TLNRD1).
+
+TLNRD1 interacts with CCM2, a component of the cerebral cavernous malformations (CCM) complex, through a hydrophobic interaction involving a C-terminal helix in CCM2 and a groove on TLNRD1's 4-helix domain (Ball2023TLNRD1). This interaction is mutually exclusive with TLNRD1's actin-binding activity, as CCM2 binds to the same surface on TLNRD1 as actin, inhibiting its actin-bundling function (Ball2023TLNRD1).
+
+The protein's structure has been modeled using ColabFold, based on the crystal structure of TLNRD1 (PDB accession code 6XZ4), providing insights into its molecular configuration (Ball2023TLNRD1).
+
+## Function
+The TLNRD1 gene encodes a protein that is a component of the cerebral cavernous malformation (CCM) complex, playing a crucial role in maintaining endothelial barrier integrity. In healthy human cells, TLNRD1 is primarily expressed in the vasculature and is involved in regulating the actin cytoskeleton, which is vital for cellular processes such as movement, division, and shape maintenance (Ball2023TLNRD1). TLNRD1 interacts directly with CCM2, another component of the CCM complex, through a hydrophobic binding interface. This interaction is essential for the localization of TLNRD1 to the cytoplasm and the inhibition of its actin-bundling activity, which is crucial for maintaining endothelial barrier function by preventing excessive actin stress fiber formation (Ball2023TLNRD1).
+
+TLNRD1's ability to bind actin is mutually exclusive with its binding to CCM2, suggesting that CCM2 sequesters TLNRD1 in the cytoplasm, inhibiting its actin bundling activity. This regulation is important for processes such as filopodia formation, which is crucial for cell movement and structure (Ball2023TLNRD1). In endothelial cells, TLNRD1 contributes to the organization of the actin cytoskeleton and the maintenance of junctional integrity, which is essential for the barrier function of blood vessels (Ball2023TLNRD1).
+
+## Clinical Significance
+The TLNRD1 gene is implicated in several vascular-related conditions due to its role in the cerebral cavernous malformations (CCM) complex. Although mutations in TLNRD1 have not been directly reported in CCM patients, its expression is up-regulated in CCM lesions, suggesting a potential involvement in the disease (Ball2023TLNRD1). TLNRD1 interacts with CCM2, and disruptions in this interaction, such as through specific CCM2 mutations, are linked to vascular dementia, indicating that TLNRD1 may play a role in maintaining vascular integrity (Ball2023TLNRD1).
+
+In coronary artery disease (CAD), TLNRD1 is identified as a novel gene associated with the condition. It is located near the 15q25.1 CAD GWAS signal and is involved in endothelial cell functions relevant to atherosclerosis (Schnitzler2022Mapping). Alterations in TLNRD1 expression are also associated with dilated cardiomyopathy and ischemic heart disease, conditions linked to a significant risk of stroke (Ball2023TLNRD1).
+
+In cancer, TLNRD1 is noted for its role in cell proliferation, migration, and invasion. A nonsense mutation in TLNRD1 has been identified in ribociclib-resistant breast cancer cells, suggesting its involvement in cancer progression and drug resistance (Ott2024Abstract).
+
+## Interactions
+TLNRD1 (talin rod domain containing 1) is a component of the cerebral cavernous malformations (CCM) complex, which is crucial for maintaining endothelial barrier integrity. TLNRD1 interacts directly with CCM2, a key component of the CCM complex, through a hydrophobic groove on TLNRD1 and hydrophobic residues on CCM2. This interaction involves the C-terminal helix in CCM2 and the 4-helix domain of TLNRD1, and it is mutually exclusive with TLNRD1's interaction with actin, suggesting that CCM2 inhibits TLNRD1's actin-bundling activity (Ball2023TLNRD1).
+
+Mass spectrometry and GFP pulldown experiments have identified several proteins that interact with TLNRD1, including KRIT1 (CCM1), CCM2, PDCD10 (CCM3), STK25, and ITGB1BP1 (ICAP1), which are known components of the CCM complex. Western blot analyses confirmed that KRIT1 and ITGB1BP1 co-purify with GFP-TLNRD1, supporting these interactions (Ball2023TLNRD1).
+
+TLNRD1 is also involved in modulating junctional integrity in endothelial cells, and its interaction with CCM2 does not require KRIT1, as shown by siRNA experiments. TLNRD1 and CCM2 colocalize on actin structures and in the cytosol of endothelial cells, suggesting a role in actin organization and junctional integrity (Ball2023TLNRD1).
+
+
+## References
+
+
+[1. (Ott2024Abstract) Leonie F. Ott, Malik Alawi, Malgorzata Stoupiec, Elena Laakmann, Malte Kriegs, Volkmar Müller, Klaus Pantel, and Sabine Riethdorf. Abstract 5827: identification of potential novel drivers and biomarkers of cdk4/6 inhibitor resistance in metastatic breast cancer. Cancer Research, 84(6_Supplement):5827–5827, March 2024. URL: http://dx.doi.org/10.1158/1538-7445.am2024-5827, doi:10.1158/1538-7445.am2024-5827. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/1538-7445.am2024-5827)
+
+2. (Ball2023TLNRD1) TLNRD1 is a CCM complex component and regulates endothelial barrier integrity. This article has 0 citations.
+
+3. (Schnitzler2022Mapping) Mapping the convergence of genes for coronary artery disease onto endothelial cell programs. This article has 6 citations.

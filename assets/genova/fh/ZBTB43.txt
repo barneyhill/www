@@ -1,0 +1,41 @@
+# ZBTB43
+
+## Overview
+ZBTB43 is a gene that encodes the zinc finger and BTB domain-containing protein 43, which is a member of the ZBTB family of transcription factors. This protein is characterized by the presence of a BTB domain, which facilitates protein-protein interactions, and multiple zinc finger domains that enable DNA binding, particularly to Z-DNA structures. ZBTB43 plays a crucial role in maintaining genomic stability by converting Z-DNA to B-DNA, thereby preventing potential DNA damage and ensuring proper DNA methylation. This function is especially important in germline cells, where it aids in safeguarding the genome and epigenome. The protein's ability to interact with DNA and influence its topology underscores its significance in cellular processes such as SUMOylation and phosphorylation (Mance2024Dynamic; Meng2022ZDNA).
+
+## Structure
+The ZBTB43 protein is characterized by its structure, which includes a BTB domain and three zinc finger (ZF) domains. The BTB domain is involved in protein-protein interactions, while the zinc finger domains are primarily responsible for DNA binding, particularly to sequences that can form Z-DNA structures such as (CA)n, (CACG)4-8, and (CG)n sequences (Meng2022ZDNA). The zinc finger domains exhibit a preference for methylated DNA but can also bind unmethylated DNA (Meng2022ZDNA). 
+
+The BTB domain of ZBTB43, although lacking DNA binding activity, may play a role in clustering ZBTB proteins through filamentation, a property observed in other ZBTB family proteins (Mance2024Dynamic). This clustering could influence biological functions such as SUMOylation and phosphorylation (Mance2024Dynamic). 
+
+ZBTB43 is involved in the removal of Z-DNA structures, which is crucial for safeguarding the germline genome and epigenome. This function is facilitated by the zinc finger domains, which bind to Z-DNA and convert it to B-DNA, allowing for proper DNA methylation (Meng2022ZDNA). The protein's role in DNA topology and methylation highlights its importance in maintaining genomic stability (Meng2022ZDNA).
+
+## Clinical Significance
+The ZBTB43 gene has been implicated in various diseases and conditions through its involvement in genetic and expression alterations. In the context of coronary artery disease (CAD), ZBTB43 was identified as a significant gene with a notable percentage of replications reaching genome-wide significance, suggesting its potential role in the disease's genetic architecture (Zhu2009Detecting). 
+
+In the realm of oncology, a pediatric case of high-grade glioma was reported with a ZBTB43::NTRK2 fusion, consistent with IDH wild-type glioblastoma multiforme. This fusion was associated with aggressive tumor characteristics, including high mitotic activity and necrosis, indicating a potential oncogenic role for ZBTB43 in this context (Kim2024NTRKfused).
+
+The gene has also been mentioned in studies exploring its expression in HIV patients, where it was identified as one of the overlapping genes in datasets comparing HIV-positive and negative groups. This suggests a potential involvement in HIV-related gene expression changes, although specific diseases or conditions directly associated with ZBTB43 mutations or expression alterations in this context are not detailed (De2020ZBTB). 
+
+Overall, while ZBTB43 is implicated in various conditions, further research is needed to fully elucidate its clinical significance.
+
+## Interactions
+ZBTB43 is a protein that interacts with DNA, particularly with Z-DNA structures, which are non-canonical DNA conformations. It has a strong preference for binding to Z-DNA over B-DNA, as demonstrated by various in vitro experiments, including gel-shift assays and circular dichroism spectroscopy (Meng2022ZDNA). ZBTB43 binds specifically to poly-purine tracts (PPRs) in the Z-DNA conformation, and this interaction is crucial for remodeling Z-DNA into B-DNA, thereby reducing the potential for DNA double-strand breaks and genomic instability (Meng2022ZDNA).
+
+In prospermatogonia, ZBTB43 is essential for removing Z-DNA structures, which facilitates de novo DNA methylation by DNMT3A. This process is important for maintaining genomic stability and proper epigenetic modifications during germ cell development (Meng2022ZDNA). ZBTB43's interaction with DNA is also linked to its ability to alter DNA topology, potentially through interactions with topoisomerase I, which helps release superhelical tension in DNA (Meng2022ZDNA).
+
+ZBTB43 does not convert B-DNA to Z-DNA but can reverse the effects of the Z-α domain of ADAR1, which does promote the B-to-Z transition (Meng2022ZDNA). This highlights ZBTB43's role in modulating DNA conformation and maintaining genomic integrity.
+
+
+## References
+
+
+[1. (Zhu2009Detecting) Xiaofeng Zhu, Tao Feng, Yali Li, Qing Lu, and Robert C. Elston. Detecting rare variants for complex traits using family and unrelated data. Genetic Epidemiology, 34(2):171–187, October 2009. URL: http://dx.doi.org/10.1002/gepi.20449, doi:10.1002/gepi.20449. This article has 105 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/gepi.20449)
+
+[2. (Kim2024NTRKfused) Eric Eunshik Kim, Chul-Kee Park, Seung-Ki Kim, Ji Hoon Phi, Sun Ha Paek, Jung Yoon Choi, Hyoung Jin Kang, Joo Ho Lee, Jae Kyung Won, Hongseok Yun, and Sung-Hye Park. Ntrk-fused central nervous system tumours: clinicopathological and genetic insights and response to trk inhibitors. Acta Neuropathologica Communications, July 2024. URL: http://dx.doi.org/10.1186/s40478-024-01798-9, doi:10.1186/s40478-024-01798-9. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40478-024-01798-9)
+
+[3. (De2020ZBTB) Judith Carolina De Arcos-Jiménez, Luz Alicia González-Hernández, Sarah Ratkovich-González, Karina Sánchez-Reyes, Monserrat Alvarez-Zavala, Mariana del Rocio Ruiz-Briseño, José Luis Mosqueda-Gómez, Santiago Avila-Rios, Moises Ramos-Solano, and Jaime Federico Andrade-Villanueva. Zbtb gene expression in hiv patients: a possible new molecular mechanism of viral control. Archives of Virology, 166(1):167–178, November 2020. URL: http://dx.doi.org/10.1007/s00705-020-04854-6, doi:10.1007/s00705-020-04854-6. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00705-020-04854-6)
+
+[4. (Meng2022ZDNA) Yingying Meng, Guliang Wang, Hongjuan He, Kin H. Lau, Allison Hurt, Brianna J. Bixler, Andrea Parham, Seung-Gi Jin, Xingzhi Xu, Karen M. Vasquez, Gerd P. Pfeifer, and Piroska E. Szabó. Z-dna is remodelled by zbtb43 in prospermatogonia to safeguard the germline genome and epigenome. Nature Cell Biology, 24(7):1141–1153, July 2022. URL: http://dx.doi.org/10.1038/s41556-022-00941-9, doi:10.1038/s41556-022-00941-9. This article has 11 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41556-022-00941-9)
+
+[5. (Mance2024Dynamic) Lucija Mance, Nicolas Bigot, Edison Zhamungui Sánchez, Franck Coste, Natalia Martín-González, Siham Zentout, Marin Biliškov, Zofia Pukało, Aanchal Mishra, Catherine Chapuis, Ana-Andreea Arteni, Axelle Lateur, Stéphane Goffinont, Virginie Gaudon, Ibtissam Talhaoui, Ignacio Casuso, Martine Beaufour, Norbert Garnier, Franck Artzner, Martine Cadene, Sébastien Huet, Bertrand Castaing, and Marcin Józef Suskiewicz. Dynamic btb-domain filaments promote clustering of zbtb proteins. Molecular Cell, 84(13):2490-2510.e9, July 2024. URL: http://dx.doi.org/10.1016/j.molcel.2024.05.029, doi:10.1016/j.molcel.2024.05.029. This article has 2 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2024.05.029)

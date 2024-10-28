@@ -1,0 +1,46 @@
+# INSC
+
+## Overview
+The INSC gene encodes the INSC spindle orientation adaptor protein, which is integral to the regulation of spindle orientation during cell division. This protein is categorized as an adaptor protein due to its role in facilitating interactions between various cellular components involved in asymmetric cell division. INSC is crucial for the proper distribution of cell fate determinants, particularly in stem cells, by forming complexes with proteins such as LGN, Par3, and Gαi. These complexes are essential for maintaining cellular polarity and ensuring accurate mitotic spindle positioning, which is vital for the asymmetric division of cells. The protein's interactions and structural configurations, including its ability to form hetero-tetrameric complexes, underscore its importance in cellular processes that dictate cell fate and division (Culurgioni2018Insc:LGN; Tadenev2017The).
+
+## Structure
+The INSC (INSC spindle orientation adaptor protein) is characterized by a complex molecular structure that plays a crucial role in spindle orientation during cell division. The primary structure of INSC includes a sequence of amino acids encoded by the INSC gene, which forms specific domains essential for its function. The secondary structure of INSC features a four-helix bundle within the ASYM domain, which is critical for its interaction with the TPR α-solenoid of the dLGN protein (Culurgioni2018Insc:LGN).
+
+The tertiary structure of INSC involves the folding of these helices into a stable configuration that facilitates high-affinity binding with the TPR domains of LGN. This interaction is characterized by a domain-swap configuration, where the C-terminal portion of the ASYM domain forms Armadillo (ARM) repeats, contributing to the protein's structural integrity (Culurgioni2018Insc:LGN).
+
+In terms of quaternary structure, INSC forms a hetero-tetrameric complex with LGN, displaying a symmetrical arrangement with intertwined subunits. This tetrameric assembly is stabilized by hydrophobic and polar interactions, allowing the protein to sample a range of conformations in solution, as confirmed by SEC-SAXS analyses (Culurgioni2018Insc:LGN).
+
+The INSC protein also contains a conserved PEPT region that binds with high affinity to the TPR domain of LGN, a feature that is crucial for its role in asymmetric cell division (Culurgioni2018Insc:LGN).
+
+## Function
+The INSC (INSC spindle orientation adaptor protein) plays a critical role in promoting asymmetric cell divisions (ACDs) in mammary stem cells by forming stable tetramers with LGN, Par3, and Gαi. This complex is essential for coordinating the distribution of fate determinants at the apical site, which are partitioned unequally during cytokinesis (Culurgioni2018Insc:LGN). The interaction between INSC and LGN is competitive with LGN's binding to the Dynein-adaptor NuMA, but INSC's role is distinct in that it does not alter the spindle orientation functions of LGN in complex with NuMA/Dynein. Instead, INSC:LGN complexes stabilize fate-defining components at the apical site, contributing to the asymmetric fate of stem cell divisions (Culurgioni2018Insc:LGN).
+
+INSC is recruited to the apical cell cortex by Par3 and subsequently binds to the TPR repeats of LGN, which is stabilized by the binding of LGN to GDP-bound Gαi anchored at the membrane. This complex forms a crescent at the cell cortex during prophase and metaphase, recruiting the protein Mud (NuMA in vertebrates), which links to astral microtubules via the Dynein-Dynactin motor complex, ensuring polarized mitotic spindle anchoring (Tadenev2017The).
+
+## Clinical Significance
+Mutations and alterations in the INSC gene have been linked to several diseases and conditions. A missense mutation, c.209T>G (p.Met70Arg), in the INSC gene is associated with Charcot-Marie-Tooth disease type 2 (CMT2), a peripheral neuropathy characterized by proprioceptive defects and gait abnormalities. This mutation disrupts the PAR3/INSC/LGN complex, leading to microtubule instability, tubulin aggregation, and neurodegeneration in the peripheral nervous system (PNS). The dysfunction of this complex is a likely cause of PNS degeneration, and microtubule-stabilizing agents have shown potential in rescuing these defects (Yeh2023Disruption).
+
+In the context of cancer, the INSC gene is down-regulated in colon adenocarcinoma (COAD), with lower expression levels associated with advanced tumor stages and poorer survival outcomes. INSC expression is significantly related to immune cell infiltration, particularly affecting B cells and macrophages, suggesting a role in the tumor immune microenvironment. High expression of INSC is identified as an independent prognostic factor for COAD, indicating its potential as a biomarker for distinguishing tumors from normal tissues (Yu2022INSC). These findings highlight the clinical significance of INSC in both neurodegenerative diseases and cancer.
+
+## Interactions
+The INSC (INSC spindle orientation adaptor protein) gene encodes a protein that plays a critical role in spindle orientation during cell division. INSC interacts with several key proteins to form complexes essential for proper mitotic spindle positioning. In Drosophila, INSC, known as Inscuteable, binds to the TPR repeats of Partner of Inscuteable (Pins), which is known as LGN in mammals. This interaction is crucial for the formation of a complex with Gαi, which stabilizes Pins/LGN at the cell cortex, facilitating spindle orientation (Kulukian2013Spindle; Tadenev2017The).
+
+INSC also interacts with the Par complex, which includes Par-3, Par-6, and aPKC, to link cortical polarity to spindle orientation. This interaction is essential for the recruitment of INSC to the apical cell cortex (Kulukian2013Spindle; Yu2022INSC). The binding of INSC to LGN is mutually exclusive with LGN's interaction with Mud/NuMA, a protein that captures astral microtubules, indicating a competitive relationship between these interactions (Parra2023Drosophila; Kulukian2013Spindle).
+
+In mammals, mInsc, the mammalian homolog of INSC, is involved in similar interactions, forming complexes with LGN and Gαi, which are important for processes such as hair cell differentiation in the inner ear (Tadenev2017The). These interactions highlight the role of INSC in maintaining cellular polarity and ensuring accurate cell division.
+
+
+## References
+
+
+[1. (Yu2022INSC) Tao Yu, Dan Li, Zhi Zeng, Xu Xu, Haiming Zhang, Jie Wu, Wei Song, and Hua Zhu. Insc is down-regulated in colon cancer and correlated to immune infiltration. Frontiers in Genetics, May 2022. URL: http://dx.doi.org/10.3389/fgene.2022.821826, doi:10.3389/fgene.2022.821826. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.821826)
+
+[2. (Parra2023Drosophila) Amalia S. Parra, Cameron A. Moezzi, and Christopher A. Johnston. Drosophila adducin facilitates phase separation and function of a conserved spindle orientation complex. Frontiers in Cell and Developmental Biology, August 2023. URL: http://dx.doi.org/10.3389/fcell.2023.1220529, doi:10.3389/fcell.2023.1220529. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2023.1220529)
+
+[3. (Kulukian2013Spindle) Anita Kulukian and Elaine Fuchs. Spindle orientation and epidermal morphogenesis. Philosophical Transactions of the Royal Society B: Biological Sciences, 368(1629):20130016, November 2013. URL: http://dx.doi.org/10.1098/rstb.2013.0016, doi:10.1098/rstb.2013.0016. This article has 60 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1098/rstb.2013.0016)
+
+4. (Yeh2023Disruption) Disruption of the PAR3/INSC/LGN complex causes microtubule instability and peripheral neuropathy. This article has 0 citations.
+
+[5. (Culurgioni2018Insc:LGN) Simone Culurgioni, Sara Mari, Paola Bonetti, Sara Gallini, Greta Bonetto, Martha Brennich, Adam Round, Francesco Nicassio, and Marina Mapelli. Insc:lgn tetramers promote asymmetric divisions of mammary stem cells. Nature Communications, March 2018. URL: http://dx.doi.org/10.1038/s41467-018-03343-4, doi:10.1038/s41467-018-03343-4. This article has 30 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-03343-4)
+
+[6. (Tadenev2017The) Abigail L. D. Tadenev and Basile Tarchini. The Spindle Orientation Machinery Beyond Mitosis: When Cell Specialization Demands Polarization, pages 209–225. Springer International Publishing, 2017. URL: http://dx.doi.org/10.1007/978-3-319-57127-0_9, doi:10.1007/978-3-319-57127-0_9. This article has 7 citations.](https://doi.org/10.1007/978-3-319-57127-0_9)

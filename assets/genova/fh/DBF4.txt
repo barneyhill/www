@@ -1,0 +1,56 @@
+# DBF4
+
+## Overview
+The DBF4 gene encodes a regulatory protein that is a critical component of the Dbf4-dependent kinase (DDK) complex, which is essential for the initiation of DNA replication. The DBF4 protein, characterized by its zinc finger motif, functions as a regulatory subunit that activates the Cdc7 kinase, facilitating the phosphorylation of key substrates involved in DNA replication. This protein is integral to the cell cycle, particularly during the G1-S transition, and its activity is modulated by various interactions and post-translational modifications. The DBF4 protein's structure includes several conserved motifs that enable its interaction with other proteins, such as the minichromosome maintenance (MCM) complex and the Origin Recognition Complex (ORC), underscoring its role in coordinating DNA replication and cellular responses to replication stress (Matthews2013Dbf4:; Cheng2022Structural; Jiang1999Mammalian).
+
+## Structure
+The DBF4 protein is a regulatory subunit of the Dbf4-dependent kinase (DDK) complex, which plays a crucial role in DNA replication initiation. It is characterized by a flexible structure with 704 residues and contains three long disordered segments (Cheng2022Structural). The protein includes several conserved motifs: motif N, which contains a BRCT domain, motif M, and motif C. These motifs are involved in interactions with various MCM subunits and Cdc7, contributing to the stabilization and activation of the kinase complex (Saleh2022The; Cheng2022Structural).
+
+The BRCT domain in motif N is connected to the DDK core via a flexible linker, allowing interaction with Mcm2 (Greiwe2021Structural). The C-terminal region of DBF4 contains a zinc finger motif, which is essential for maintaining the active state of the Cdc7 kinase (Saleh2022The; Greiwe2021Structural). The protein also features a substrate coordinating region (SCR) that guides the Mcm4 N-terminus during phosphorylation (Saleh2022The).
+
+DBF4 undergoes post-translational modifications, including phosphorylation, which can influence its activity and interactions (Cheng2022Structural). The protein has several isoforms resulting from alternative splicing, which may affect its function and regulatory roles in the cell cycle.
+
+## Function
+The DBF4 gene encodes a regulatory subunit essential for the activation of the Cdc7 kinase, which plays a crucial role in the initiation of DNA replication in mammalian cells. The human homolog, HsDbf4, binds to HsCdc7, activating its kinase activity, which is necessary for the phosphorylation of the MCM2 subunit of the minichromosome maintenance (MCM) protein complex. This phosphorylation is a key step in the initiation of DNA replication (Jiang1999Mammalian).
+
+HsDbf4 protein levels are regulated throughout the cell cycle, increasing during the G1-S transition and remaining high during the S and G2-M phases. This regulation is crucial for the oscillation of HsCdc7 kinase activity, which is necessary for DNA replication (Jiang1999Mammalian). The HsCdc7-HsDbf4 complex selectively phosphorylates the MCM2 subunit, indicating that MCM2 is a substrate of this kinase complex in vivo (Jiang1999Mammalian).
+
+The phosphorylation of MCM2 by the Cdc7/Dbf4 complex is crucial for the initiation of DNA replication, affecting the ATPase activity of the MCM complex without disrupting its formation or chromatin association (Tsuji2006Essential). This activity is essential for proper cell cycle progression and genomic stability (Tsuji2006Essential).
+
+## Clinical Significance
+Alterations in the expression of the DBF4 gene have been implicated in various cancers. Overexpression of DBF4 is observed in several tumor types, including breast, ovarian, prostate, colon, lung, and hepatocellular carcinoma (HCC) (Wu2024The; Bonte2008Cdc7Dbf4). In breast cancer, DBF4 overexpression is associated with p53 inactivation, suggesting a link between DBF4 expression and tumor progression in the context of p53 mutations (Bonte2008Cdc7Dbf4). The amplification of the DBF4 gene, located at 7q21.12, is noted in breast, ovarian, and prostate cancer cell lines, correlating with increased protein levels and potentially contributing to cancer progression (Bonte2008Cdc7Dbf4).
+
+In hepatocellular carcinoma, high DBF4 expression is linked to poor survival outcomes and is associated with tumor size, vascular invasion, and advanced TMN stage. DBF4 appears to exert its oncogenic effects through the ERBB signaling pathway, influencing downstream pathways such as JNK/STAT, MAPK, and PI3K/AKT (Wu2024The). Inhibition of DBF4 in HCC cells reduces proliferation, migration, and invasion, highlighting its potential as a therapeutic target (Wu2024The).
+
+Overall, DBF4's role in cancer is characterized by its overexpression and gene amplification, contributing to tumorigenesis and poor prognosis in several cancer types.
+
+## Interactions
+The DBF4 protein, a regulatory subunit of the Dbf4-dependent kinase (DDK) complex, interacts with several key proteins involved in DNA replication and checkpoint control. It forms a complex with Cdc7 kinase, which is essential for initiating DNA replication by phosphorylating components of the pre-replicative complex (Matthews2013Dbf4:). DBF4 interacts with the checkpoint kinase Rad53 through a non-canonical interaction involving the FHA1 domain of Rad53 and the HBRCT domain of DBF4, which is phosphorylation-independent (Matthews2013Dbf4:). This interaction is crucial for the phosphorylation-dependent regulation of Rad53, affecting the kinase activity of Cdc7 (Matthews2012Saccharomyces).
+
+DBF4 also interacts with the Origin Recognition Complex (ORC), particularly with Orc2 and Orc3 subunits, through its N-terminal domain. This interaction is important for targeting the Cdc7 kinase to replication origins (Duncker2002An). The M motif of DBF4 is essential for its interaction with Mcm2, a component of the pre-replicative complex, and mutations in this motif can disrupt this interaction (Varrin2005A). These interactions highlight DBF4's role in coordinating DNA replication and the cellular response to replication stress.
+
+
+## References
+
+
+[1. (Saleh2022The) Almutasem Saleh, Yasunori Noguchi, Ricardo Aramayo, Marina E. Ivanova, Kathryn M. Stevens, Alex Montoya, S. Sunidhi, Nicolas Lopez Carranza, Marcin J. Skwark, and Christian Speck. The structural basis of cdc7-dbf4 kinase dependent targeting and phosphorylation of the mcm2-7 double hexamer. Nature Communications, May 2022. URL: http://dx.doi.org/10.1038/s41467-022-30576-1, doi:10.1038/s41467-022-30576-1. This article has 23 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-30576-1)
+
+[2. (Matthews2012Saccharomyces) Lindsay A. Matthews, Darryl R. Jones, Ajai A. Prasad, Bernard P. Duncker, and Alba Guarné. Saccharomyces cerevisiae dbf4 has unique fold necessary for interaction with rad53 kinase. Journal of Biological Chemistry, 287(4):2378–2387, January 2012. URL: http://dx.doi.org/10.1074/jbc.m111.233973, doi:10.1074/jbc.m111.233973. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m111.233973)
+
+[3. (Wu2024The) Zhongkai Wu, Lilong Zhang, Xinyi Li, Li Liu, Tianrui Kuang, Zhendong Qiu, Wenhong Deng, and Weixing Wang. The prognostic significance and potential mechanism of dbf4 zinc finger in hepatocellular carcinoma. Scientific Reports, May 2024. URL: http://dx.doi.org/10.1038/s41598-024-60342-w, doi:10.1038/s41598-024-60342-w. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-60342-w)
+
+[4. (Cheng2022Structural) Jiaxuan Cheng, Ningning Li, Yunjing Huo, Shangyu Dang, Bik-Kwoon Tye, Ning Gao, and Yuanliang Zhai. Structural insight into the mcm double hexamer activation by dbf4-cdc7 kinase. Nature Communications, March 2022. URL: http://dx.doi.org/10.1038/s41467-022-29070-5, doi:10.1038/s41467-022-29070-5. This article has 17 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-29070-5)
+
+[5. (Jiang1999Mammalian) W. Jiang. Mammalian cdc7-dbf4 protein kinase complex is essential for initiation of dna replication. The EMBO Journal, 18(20):5703–5713, October 1999. URL: http://dx.doi.org/10.1093/emboj/18.20.5703, doi:10.1093/emboj/18.20.5703. This article has 166 citations.](https://doi.org/10.1093/emboj/18.20.5703)
+
+[6. (Varrin2005A) Angela E. Varrin, Ajai A. Prasad, Rolf-Peter Scholz, Matthew D. Ramer, and Bernard P. Duncker. A mutation in dbf4 motif m impairs interactions with dna replication factors and confers increased resistance to genotoxic agents. Molecular and Cellular Biology, 25(17):7494–7504, September 2005. URL: http://dx.doi.org/10.1128/MCB.25.17.7494-7504.2005, doi:10.1128/mcb.25.17.7494-7504.2005. This article has 51 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.25.17.7494-7504.2005)
+
+[7. (Duncker2002An) Bernard P. Duncker, Kenji Shimada, Monika Tsai-Pflugfelder, Philippe Pasero, and Susan M. Gasser. An n-terminal domain of dbf4p mediates interaction with both origin recognition complex (orc) and rad53p and can deregulate late origin firing. Proceedings of the National Academy of Sciences, 99(25):16087–16092, November 2002. URL: http://dx.doi.org/10.1073/pnas.252093999, doi:10.1073/pnas.252093999. This article has 72 citations.](https://doi.org/10.1073/pnas.252093999)
+
+[8. (Bonte2008Cdc7Dbf4) Dorine Bonte, Charlotta Lindvall, Hongyu Liu, Karl Dykema, Kyle Furge, and Michael Weinreich. Cdc7-dbf4 kinase overexpression in multiple cancers and tumor cell lines is correlated with p53 inactivation. Neoplasia, 10(9):920-IN4, September 2008. URL: http://dx.doi.org/10.1593/neo.08216, doi:10.1593/neo.08216. This article has 101 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1593/neo.08216)
+
+[9. (Matthews2013Dbf4:) Lindsay Matthews and Alba Guarne. Dbf4: the whole is greater than the sum of its parts. Cell Cycle, 12(8):1180–1188, April 2013. URL: http://dx.doi.org/10.4161/cc.24416, doi:10.4161/cc.24416. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/cc.24416)
+
+[10. (Greiwe2021Structural) Julia F. Greiwe, Thomas C. R. Miller, Julia Locke, Fabrizio Martino, Steven Howell, Anne Schreiber, Andrea Nans, John F. X. Diffley, and Alessandro Costa. Structural mechanism for the selective phosphorylation of dna-loaded mcm double hexamers by the dbf4-dependent kinase. Nature Structural &amp; Molecular Biology, 29(1):10–20, December 2021. URL: http://dx.doi.org/10.1038/s41594-021-00698-z, doi:10.1038/s41594-021-00698-z. This article has 25 citations.](https://doi.org/10.1038/s41594-021-00698-z)
+
+[11. (Tsuji2006Essential) Toshiya Tsuji, Scott B. Ficarro, and Wei Jiang. Essential role of phosphorylation of mcm2 by cdc7/dbf4 in the initiation of dna replication in mammalian cells. Molecular Biology of the Cell, 17(10):4459–4472, October 2006. URL: http://dx.doi.org/10.1091/mbc.E06-03-0241, doi:10.1091/mbc.e06-03-0241. This article has 173 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.E06-03-0241)

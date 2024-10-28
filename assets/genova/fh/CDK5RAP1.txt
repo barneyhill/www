@@ -1,0 +1,33 @@
+# CDK5RAP1
+
+## Overview
+CDK5RAP1 is a gene that encodes the protein CDK5 regulatory subunit associated protein 1, which functions as a methylthiotransferase. This protein is primarily involved in the post-transcriptional modification of mitochondrial tRNAs, specifically converting N6-isopentenyladenosine (i6A) to 2-methylthio-N6-isopentenyladenosine (ms2i6A). Such modifications are critical for the accurate translation of mitochondrial DNA-encoded proteins, thereby playing a vital role in mitochondrial protein synthesis and energy production (Yamamoto20192Methylthio). CDK5RAP1 is active within the mitochondria and is regulated by its interaction with [4Fe-4S] clusters, which are essential for its enzymatic function (Yamamoto20192Methylthio). The protein's activity is modulated by environmental conditions, such as hypoxia, which can enhance its function in certain cellular contexts, including cancerous cells (Yamamoto20192Methylthio). Additionally, CDK5RAP1 has been implicated in various clinical conditions, including cancer and neurodegenerative diseases, due to its regulatory roles in cellular processes and mitochondrial function (Miwa2021Cdk5; Reiter2012The).
+
+## Function
+CDK5RAP1 is a gene that encodes a protein involved in the modification of mitochondrial tRNAs, specifically through the 2-methylthio (ms2) conversion of N6-isopentenyladenosine (i6A) to ms2i6A. This modification is crucial for the precise translation of mitochondrial DNA-encoded proteins, which is essential for maintaining mitochondrial protein synthesis, oxidative phosphorylation (OXPHOS) activity, and ATP synthesis in healthy human cells (Yamamoto20192Methylthio). The protein is active in the mitochondria, where it plays a significant role in regulating the translation of mitochondrial DNA-encoded genes, particularly affecting complex I of the mitochondrial respiratory chain (Yamamoto20192Methylthio).
+
+CDK5RAP1's activity is regulated by its interaction with [4Fe-4S] clusters, which provide sulfur atoms necessary for the conversion process. This activity is influenced by hypoxic conditions, which increase the modification index of CDK5RAP1-targeted mitochondrial tRNAs (Yamamoto20192Methylthio). The gene's function in normal cells contrasts with its role in cancerous cells, where it is involved in detoxifying i6A, a modification that promotes tumor-suppressive effects (Yamamoto20192Methylthio).
+
+## Clinical Significance
+CDK5RAP1 has been implicated in several diseases due to its role in mitochondrial function and cellular regulation. In cancer biology, particularly glioblastoma, CDK5RAP1 is crucial for maintaining glioma-initiating cell (GIC) traits. Its activity is upregulated in hypoxic regions of glioblastomas, supporting the sphere-forming capacity of malignant GICs. Knockdown of CDK5RAP1 in these cells leads to reduced tumor size and prolonged survival in mouse models, indicating its role in sustaining tumor malignancy and stemness (Yamamoto20192Methylthio).
+
+In the context of neurodegenerative diseases, CDK5RAP1 is involved in the regulation of CDK5, a kinase linked to neuronal cell differentiation. Dysregulation of CDK5RAP1 can lead to aberrant CDK5 activity, which is associated with conditions such as Alzheimer's and Parkinson's disease (Reiter2012The).
+
+CDK5RAP1 deficiency is also linked to age-related hearing loss (AHL). Knockout mice lacking CDK5RAP1 exhibit hearing loss similar to AHL, attributed to mitochondrial dysfunction and increased oxidative stress in auditory cells. This suggests that CDK5RAP1 is essential for maintaining mitochondrial integrity and preventing cellular senescence in the cochlea (Miwa2021Cdk5).
+
+## Interactions
+CDK5RAP1 is a methylthiotransferase that interacts with nuclear and mitochondrial RNA, converting N6-isopentenyladenosine (i6A) into 2-methylthio-N6-isopentenyladenosine (ms2i6A) in RNA. This modification is crucial for maintaining glioma-initiating cell traits by inhibiting excessive autophagy and is essential for the precise translation of mitochondrial DNA-encoded genes (Reiter2012The; Yamamoto20192Methylthio). CDK5RAP1 does not colocalize with CDK5, suggesting its role in inhibiting CDK5 by preventing the formation of the activated CDK5 complex (Reiter2012The). 
+
+The enzyme's activity is regulated by two conserved domains, UPF0004 and the radical SAM domain, which interact with [4Fe-4S] clusters. These clusters provide sulfur atoms for the interaction with i6A molecules (Yamamoto20192Methylthio). CDK5RAP1's activity is increased under hypoxic conditions, which are common in tumor cores, indicating its importance for glioma-initiating cell survival in such environments (Yamamoto20192Methylthio). 
+
+CDK5RAP1 also shows an association with the mitotic spindle, indicating potential interactions with cell cycle-regulating mitotic CDKs (Reiter2012The). However, specific details on direct physical interactions with other proteins or nucleic acids beyond its enzymatic activity are not extensively detailed in the available literature.
+
+
+## References
+
+
+[1. (Miwa2021Cdk5) Toru Miwa, Fan-yan Wei, and Kazuhito Tomizawa. Cdk5 regulatory subunit-associated protein 1 knockout mice show hearing loss phenotypically similar to age-related hearing loss. Molecular Brain, May 2021. URL: http://dx.doi.org/10.1186/s13041-021-00791-w, doi:10.1186/s13041-021-00791-w. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13041-021-00791-w)
+
+[2. (Reiter2012The) Veronika Reiter, Dorothea M.S. Matschkal, Mirko Wagner, Daniel Globisch, Andrea C. Kneuttinger, Markus Müller, and Thomas Carell. The cdk5 repressor cdk5rap1 is a methylthiotransferase acting on nuclear and mitochondrial rna. Nucleic Acids Research, 40(13):6235–6240, March 2012. URL: http://dx.doi.org/10.1093/nar/gks240, doi:10.1093/nar/gks240. This article has 61 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gks240)
+
+[3. (Yamamoto20192Methylthio) Takahiro Yamamoto, Atsushi Fujimura, Fan-Yan Wei, Naoki Shinojima, Jun-ichiro Kuroda, Akitake Mukasa, and Kazuhito Tomizawa. 2-methylthio conversion of n6-isopentenyladenosine in mitochondrial trnas by cdk5rap1 promotes the maintenance of glioma-initiating cells. iScience, 21:42–56, November 2019. URL: http://dx.doi.org/10.1016/j.isci.2019.10.012, doi:10.1016/j.isci.2019.10.012. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.isci.2019.10.012)

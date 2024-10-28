@@ -1,0 +1,46 @@
+# FIGNL1
+
+## Overview
+FIGNL1 is a gene that encodes the fidgetin-like 1 protein, which is a member of the AAA+ ATPase family. This protein plays a pivotal role in DNA repair and homologous recombination, processes essential for maintaining genomic stability. Fidgetin-like 1 functions as an anti-recombinase, regulating the dynamics of RAD51 filaments, which are crucial for DNA strand exchange during homologous recombination. The protein is characterized by its ability to disassemble RAD51 filaments from DNA, a function that is facilitated by its hexameric ring structure and ATPase activity (Carver2024Molecular). FIGNL1 interacts with several proteins, including SPIDR and SWSAP1, forming complexes that modulate RAD51 activity and ensure proper DNA repair and replication integrity (Matsuzaki2019Human; Tischler2024FLIP(C1orf112)). The gene's expression and function have been implicated in various clinical contexts, including cancer progression and chemotherapy resistance, highlighting its potential as a therapeutic target (Ma2017FIGNL1; Li2020FIGNL1).
+
+## Structure
+The FIGNL1 protein is characterized by several functional domains crucial for its role in modulating RAD51's association with chromatin. It contains a largely unstructured N-terminal domain responsible for localization to DNA damage sites and interactions with other proteins, followed by the RAD51-binding FRBD (FIGNL1 RAD51-Binding Domain) and AAA+ ATPase domains (Carver2024Molecular). The AAA+ ATPase domain is essential for disassembling RAD51 filaments from both single-stranded and double-stranded DNA, with ATP hydrolysis being necessary for its function (Carver2024Molecular). 
+
+FIGNL1 forms a hexameric ring structure in the presence of ATP and Mg2+, with the six AAA+ domains creating a spiral hexamer (Carver2024Molecular). This hexameric configuration is crucial for its interaction with the RAD51 N-terminus, which is enclosed within the central pore of the FIGNL1 hexamer (Carver2024Molecular). The interaction involves specific pore loops that coordinate the RAD51 peptide, with the N-terminal pore loop containing a lysine-tryptophan dipeptide that intercalates with the peptide's side chains (Carver2024Molecular). The structural model of FIGNL1 highlights the importance of these pore loops in its activity (Carver2024Molecular).
+
+## Function
+FIGNL1 (fidgetin-like 1) is a protein involved in DNA repair and homologous recombination, playing a crucial role in maintaining genomic stability in human cells. It functions as an anti-recombinase, regulating RAD51 filament dynamics, which are essential for homologous recombination (HR) and DNA repair processes. FIGNL1 promotes the dissociation of RAD51 from RAD51-ssDNA complexes, acting independently of its ATPase activity, which distinguishes it from other DNA helicases that require ATP hydrolysis (Matsuzaki2019Human).
+
+FIGNL1 interacts with proteins such as SPIDR and SWSAP1, forming complexes that are essential for different types of HR. The FLIP-FIGNL1 complex is involved in limiting RAD51 levels on DNA, particularly during the S phase, to prevent excessive fork reversal and potential fork collapse, which is important for maintaining replication integrity and preventing DNA damage (Tischler2024FLIP(C1orf112)FIGNL1 page 8 of 10). FIGNL1's interaction with SWSAP1 attenuates its RAD51-dismantling activity, suggesting that SWSAP1 protects RAD51 filaments from FIGNL1, optimizing RAD51 filament formation for efficient homology search and strand exchange (Matsuzaki2019Human).
+
+FIGNL1 is primarily localized in the nucleus, where it participates in regulating double-strand break repair by HR, ensuring proper chromosomal segregation during cell division (Li2020FIGNL1). Its role in these processes is vital for maintaining genomic stability in healthy human cells.
+
+## Clinical Significance
+Alterations in the expression of the FIGNL1 gene have been implicated in various diseases, particularly in the context of cancer. In non-small cell lung cancer (NSCLC), FIGNL1 is associated with increased cell proliferation and tumor growth. Studies have shown that overexpression of FIGNL1 enhances the proliferation, migration, and invasion abilities of NSCLC cells, while its knockdown results in reduced proliferation and increased apoptosis (Li2020FIGNL1). Immunohistochemical analysis of NSCLC tissues revealed that a significant majority of cancerous tissues express FIGNL1, suggesting its role in lung cancer progression (Li2020FIGNL1).
+
+In small cell lung cancer (SCLC), FIGNL1 is overexpressed and linked to chemotherapy resistance. This overexpression is thought to enhance the DNA double-strand break repair system, contributing to the rapid progression and relapse of SCLC. Silencing FIGNL1 in SCLC cells increases their sensitivity to chemotherapy drugs, indicating its potential as a therapeutic target to overcome drug resistance (Ma2017FIGNL1).
+
+The FIGNL1 gene is also involved in spermatogenesis in mice, where its dysfunction can lead to impaired meiosis and reduced testis weight. This suggests a potential role in male infertility, although direct associations with human conditions have not been established (L’Hôte2011FidgetinLike1).
+
+## Interactions
+FIGNL1 (fidgetin-like 1) is involved in several protein interactions that play crucial roles in DNA repair and homologous recombination. It interacts with RAD51, a key protein in DNA strand exchange, and promotes the dissociation of RAD51 from single-stranded DNA, a process that is independent of its ATPase activity (Matsuzaki2019Human). FIGNL1 also interacts with SWSAP1, a RAD51 paralogue, which is essential for inhibiting RAD51 assembly. This interaction is crucial for maintaining chromosome stability, as demonstrated by the increased RAD51 assembly when FIGNL1 is depleted (Matsuzaki2019Human).
+
+FIGNL1 forms a stable complex with FLIP (C1orf112), which stabilizes FIGNL1 by protecting it from proteasomal degradation. This interaction is important for regulating RAD51 chromatin association and promoting cell viability after replication stress (Tischler2024FLIP(C1orf112)FIGNL1 page 4 of 10; Stok2022The page 2 of 8). The interaction between FIGNL1 and FLIP is mediated through their N-terminal regions, and both proteins are co-dependent, as the loss of one leads to reduced levels of the other (Tischler2024FLIP(C1orf112)FIGNL1 page 3 of 10).
+
+FIGNL1 also interacts with MEICA1, with which it colocalizes on meiotic chromosomes. This interaction is crucial for their localization and function in inhibiting meiotic crossover formation (Yang2022FIGNL1).
+
+
+## References
+
+
+[1. (Matsuzaki2019Human) Kenichiro Matsuzaki, Shizuka Kondo, Tatsuya Ishikawa, and Akira Shinohara. Human rad51 paralogue swsap1 fosters rad51 filament by regulating the anti-recombinase fignl1 aaa+ atpase. Nature Communications, March 2019. URL: http://dx.doi.org/10.1038/s41467-019-09190-1, doi:10.1038/s41467-019-09190-1. This article has 56 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-09190-1)
+
+[2. (L’Hôte2011FidgetinLike1) David L’Hôte, Magalie Vatin, Jana Auer, Johan Castille, Bruno Passet, Xavier Montagutelli, Catherine Serres, and Daniel Vaiman. Fidgetin-like1 is a strong candidate for a dynamic impairment of male meiosis leading to reduced testis weight in mice. PLoS ONE, 6(11):e27582, November 2011. URL: http://dx.doi.org/10.1371/journal.pone.0027582, doi:10.1371/journal.pone.0027582. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0027582)
+
+3. (Carver2024Molecular) Molecular basis of FIGNL1 in dissociating RAD51 from DNA and chromatin. This article has 0 citations.
+
+[4. (Li2020FIGNL1) Miao Li, Yan Rui, Wenjia Peng, Junfeng Hu, Anbang Jiang, Zeyu Yang, and Linian Huang. Fignl1 promotes non‑small cell lung cancer cell proliferation. International Journal of Oncology, 58(1):83–99, December 2020. URL: http://dx.doi.org/10.3892/ijo.2020.5154, doi:10.3892/ijo.2020.5154. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2020.5154)
+
+[5. (Yang2022FIGNL1) Shuying Yang, Chao Zhang, Yiwei Cao, Guijie Du, Ding Tang, Yafei Li, Yi Shen, Hengxiu Yu, and Zhukuan Cheng. Fignl1 inhibits non-homologous chromosome association and crossover formation. Frontiers in Plant Science, July 2022. URL: http://dx.doi.org/10.3389/fpls.2022.945893, doi:10.3389/fpls.2022.945893. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fpls.2022.945893)
+
+[6. (Ma2017FIGNL1) Jian Ma, Jianlei Li, Xiaoling Yao, Shuangjun Lin, Ye Gu, Jianfang Xu, Zixin Deng, Wei Ma, and Haiping Zhang. Fignl1 is overexpressed in small cell lung cancer patients and enhances nci-h446 cell resistance to cisplatin and etoposide. Oncology Reports, 37(4):1935–1942, March 2017. URL: http://dx.doi.org/10.3892/or.2017.5483, doi:10.3892/or.2017.5483. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.2017.5483)

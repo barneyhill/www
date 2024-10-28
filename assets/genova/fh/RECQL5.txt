@@ -1,0 +1,50 @@
+# RECQL5
+
+## Overview
+RECQL5 is a gene that encodes the protein RecQ like helicase 5, a member of the RecQ helicase family, which is crucial for maintaining genomic stability. The protein functions as a helicase, unwinding DNA strands to facilitate various cellular processes, including transcription, replication, and DNA repair. RecQ like helicase 5 is characterized by its unique structural domains, such as the KIX and SRI domains, which enable specific interactions with RNA polymerase II and other proteins involved in DNA metabolism (Ding2021RECQL5; Hamadeh2020RECQL5). Through these interactions, RECQL5 plays a vital role in preventing transcription-associated genome instability and inappropriate homologous recombination events, thereby safeguarding against genomic instability and tumorigenesis (Li2011The; Hu2007RECQL5Recql5). The gene's expression and functional integrity are critical, as alterations in RECQL5 have been associated with increased cancer risk and poor prognosis in various cancers (Lin2020Mining; Mo2023Understanding).
+
+## Structure
+RECQL5 is a RecQ helicase with a complex molecular structure that includes several distinct domains. The primary structure of RECQL5 consists of 991 amino acids, forming a 120 kDa protein known as RECQL5β, the most common isoform (Hamadeh2020RECQL5). The secondary structure features include a unique helical hairpin motif in the Zn2+-binding domain and a positively charged alpha helix, which replaces the typical winged helix found in other RecQ helicases (Hamadeh2020RECQL5).
+
+The tertiary structure of RECQL5 is characterized by its core helicase domain, which includes the N and C terminal RecA-like core domains (D1 and D2), and a RecQ C-terminal (RQC) domain that forms the catalytic core responsible for unwinding double-stranded DNA (Hamadeh2020RECQL5). The C-terminal region contains the KIX and SRI domains, which are crucial for interactions with RNA polymerase II (Ding2021RECQL5).
+
+RECQL5 exists in multiple splice variant isoforms, including RECQL5α, RECQL5γ, and RECQL5β1. RECQL5β1 contains 17 additional amino acids in the KIX domain, affecting its binding affinity and functional roles in transcription repression and DNA damage response (Ding2021RECQL5). These structural features and isoforms contribute to the diverse functional roles of RECQL5 in genome maintenance and DNA repair processes.
+
+## Function
+RECQL5, a member of the RecQ helicase family, plays a crucial role in maintaining genomic stability in human cells. It is involved in regulating transcription, replication, and homologous recombination processes. RECQL5 interacts specifically with RNA polymerase II (RNAPII), where it regulates transcription elongation and prevents transcription-associated genome instability. This interaction is facilitated by the SRI domain of RECQL5, which inhibits transcript elongation by creating a steric block, thus preventing transcription stress and genomic instability at common fragile sites (Andrs2020RECQ5:; Li2011The).
+
+During DNA replication, RECQL5 helps prevent spontaneous double-strand breaks (DSBs) by coordinating the replication and transcription processes. It associates with the replisome factor PCNA and is involved in resolving replication stress, particularly at stalled replication forks. RECQL5 also interacts with RAD51, aiding in the removal of RAD51 filaments to promote replication fork restart (Hamadeh2020RECQL5; Li2011The).
+
+RECQL5 is active in the nucleus, where it suppresses inappropriate homologous recombination events by interacting with RAD51 and inhibiting D-loop formation. This function is essential for preventing excessive recombination that could lead to genomic instability and tumorigenesis (Hu2007RECQL5Recql5). Through these activities, RECQL5 plays a vital role in maintaining genomic integrity and preventing cancer development.
+
+## Clinical Significance
+Mutations and altered expression of the RECQL5 gene have been linked to various cancers and genomic instability. Low expression of RECQL5 is associated with poor prognosis in gastric cancer, correlating with poor histological differentiation, deep tumor invasion, and high tumor stage (Lin2020Mining). In colorectal and gastric cancers, reduced RECQL5 expression is linked to poor prognosis, suggesting its role as a tumor suppressor (Mo2023Understanding). RECQL5 mutations, particularly affecting the SRI domain, have been identified in breast cancer, and certain single-nucleotide polymorphisms (SNPs) in RECQL5 are associated with breast and colon cancer risks (Mo2023Understanding).
+
+RECQL5 deficiency leads to increased cancer susceptibility, as seen in studies with Recql5-deficient mice, which show higher frequencies of spontaneous DNA double-strand breaks and chromosomal rearrangements under replication stress (Hu2007RECQL5Recql5). The gene's role in regulating homologous recombination and suppressing tumor formation is crucial, as it disrupts Rad51 presynaptic filaments to prevent inappropriate recombination events (Hu2007RECQL5Recql5). Dysregulation of RECQL5 can lead to transcription-replication conflicts, contributing to genomic instability and cancer pathogenesis (Hamadeh2020RECQL5).
+
+## Interactions
+RECQL5, a member of the RecQ helicase family, is involved in several critical protein interactions that influence DNA repair and transcription processes. It interacts directly with RNA Polymerase II (RNAPII), specifically binding to the RPB1 subunit. This interaction is unique among the RecQ helicases and is crucial for regulating transcription elongation. RECQL5 inhibits the rate of transcript elongation by RNAPII, which is mediated through its KIX and SRI domains (Aygün2008A; Hamadeh2020RECQL5).
+
+RECQL5 also interacts with RAD51, a key protein in homologous recombination. It disrupts RAD51 presynaptic filaments, preventing inappropriate homologous recombination events. This interaction requires ATP hydrolysis and the presence of the ssDNA-binding protein RPA, highlighting RECQL5's role in maintaining genomic stability by modulating RAD51 activity (Hamadeh2020RECQL5; Hu2007RECQL5Recql5).
+
+Additionally, RECQL5 associates with PCNA, a replisome factor, and is involved in resolving replication stress. It stimulates the endonuclease FEN1, which is essential for replication fork restart, and recruits the MUS81-EME1 complex to promote replication at difficult-to-replicate regions (Hamadeh2020RECQL5). These interactions underscore RECQL5's multifaceted role in transcription regulation and DNA repair.
+
+
+## References
+
+
+[1. (Andrs2020RECQ5:) Martin Andrs, Zdenka Hasanova, Anna Oravetzova, Jana Dobrovolna, and Pavel Janscak. Recq5: a mysterious helicase at the interface of dna replication and transcription. Genes, 11(2):232, February 2020. URL: http://dx.doi.org/10.3390/genes11020232, doi:10.3390/genes11020232. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes11020232)
+
+[2. (Ding2021RECQL5) Dongbo Ding, Xulun Sun, Matthew Y.H. Pang, Liwei An, Michael S.Y. Huen, Taobo Hu, and Toyotaka Ishibashi. Recql5 kix domain splicing isoforms have distinct functions in transcription repression and dna damage response. DNA Repair, 97:103007, January 2021. URL: http://dx.doi.org/10.1016/j.dnarep.2020.103007, doi:10.1016/j.dnarep.2020.103007. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.dnarep.2020.103007)
+
+[3. (Hamadeh2020RECQL5) Zeid Hamadeh and Peter Lansdorp. Recql5 at the intersection of replication and transcription. Frontiers in Cell and Developmental Biology, May 2020. URL: http://dx.doi.org/10.3389/fcell.2020.00324, doi:10.3389/fcell.2020.00324. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2020.00324)
+
+[4. (Li2011The) Min Li, Xiaohua Xu, and Yilun Liu. The set2-rpb1 interaction domain of human recq5 is important for transcription-associated genome stability. Molecular and Cellular Biology, 31(10):2090–2099, May 2011. URL: http://dx.doi.org/10.1128/mcb.01137-10, doi:10.1128/mcb.01137-10. This article has 37 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.01137-10)
+
+[5. (Aygün2008A) Ozan Aygün, Jesper Svejstrup, and Yilun Liu. A recq5–rna polymerase ii association identified by targeted proteomic analysis of human chromatin. Proceedings of the National Academy of Sciences, 105(25):8580–8584, June 2008. URL: http://dx.doi.org/10.1073/pnas.0804424105, doi:10.1073/pnas.0804424105. This article has 114 citations.](https://doi.org/10.1073/pnas.0804424105)
+
+[6. (Lin2020Mining) Yijia Lin, Honglei Chen, Xinyou Wang, Jun Xiang, Huashe Wang, and Junsheng Peng. Mining the role of recql5 in gastric cancer and seeking potential regulatory network by bioinformatics analysis. Experimental and Molecular Pathology, 115:104477, August 2020. URL: http://dx.doi.org/10.1016/j.yexmp.2020.104477, doi:10.1016/j.yexmp.2020.104477. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.yexmp.2020.104477)
+
+[7. (Hu2007RECQL5Recql5) Yiduo Hu, Steven Raynard, Michael G. Sehorn, Xincheng Lu, Wendy Bussen, Lu Zheng, Jeremy M. Stark, Ellen L. Barnes, Peter Chi, Pavel Janscak, Maria Jasin, Hannes Vogel, Patrick Sung, and Guangbin Luo. Recql5/recql5 helicase regulates homologous recombination and suppresses tumor formation via disruption of rad51 presynaptic filaments. Genes &amp; Development, 21(23):3073–3084, November 2007. URL: http://dx.doi.org/10.1101/gad.1609107, doi:10.1101/gad.1609107. This article has 263 citations.](https://doi.org/10.1101/gad.1609107)
+
+[8. (Mo2023Understanding) Chiefe Mo, Yukari Shiozaki, Kenneth Omabe, and Yilun Liu. Understanding the human recq5 helicase—connecting the dots from dna to clinics. Cells, 12(16):2037, August 2023. URL: http://dx.doi.org/10.3390/cells12162037, doi:10.3390/cells12162037. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells12162037)

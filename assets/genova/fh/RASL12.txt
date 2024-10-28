@@ -1,0 +1,44 @@
+# RASL12
+
+## Overview
+RASL12 is a gene that encodes the RAS like family 12 protein, a member of the Ras superfamily of small GTP-binding proteins. This protein is involved in intracellular signaling pathways, functioning as a molecular switch that plays a crucial role in regulating cell growth, differentiation, and survival. Despite its structural similarities to other Ras proteins, RASL12 exhibits unique features, such as significant van der Waals' clashes in its P-loop and switch II regions, which may influence its functional interactions (Kiel2007A; Vetter2014The). The protein is primarily cytoplasmic and can be recruited to microtubules by RASSF1A, although its specific functional role remains to be fully elucidated (Thillaivillalan2020RASSF). RASL12 has been implicated in various diseases, including lung adenocarcinoma and Alzheimer's disease, highlighting its potential significance in both oncological and neurological contexts (Yu2024DiseaseAssociated; Li2021Identification).
+
+## Structure
+RASL12, also known as RasL12 or RAS like family 12, is a member of the Ras superfamily of small GTP-binding proteins. The primary structure of RASL12 shares a 43% sequence identity with Rerg and a 38% sequence identity with RGK family members like Rem2 (Vetter2014The). The protein is crystallized in the GDP-bound form and lacks the tryptophan of the DXWE/D motif, which influences its switch regions to resemble canonical conformations (Vetter2014The). Despite lacking the conserved threonine and glycine residues typical of other Ras proteins, RASL12's switch regions in the GDP form are not far from the Ras-GTP position, suggesting some structural similarities (Vetter2014The).
+
+RASL12 is noted for significant van der Waals' clashes in the P-loop and switch II regions, which are critical for effector binding, indicating potential structural incompatibilities that could affect its function (Kiel2007A). The protein is cytoplasmic and can be recruited to microtubules by RASSF1A, although its specific functional role remains unclear (Thillaivillalan2020RASSF). There is no detailed information available on the tertiary or quaternary structure of RASL12, nor on any post-translational modifications or splice variant isoforms.
+
+## Function
+RASL12 (RAS like family 12) is a gene that encodes a protein involved in intracellular signaling pathways. Proteins in the RAS family, including RASL12, typically function as molecular switches in signal transduction, playing crucial roles in cell growth, differentiation, and survival. The RASL12 protein is likely active in the cytoplasm, where it interacts with other signaling molecules to regulate these pathways. Through its involvement in these signaling processes, RASL12 may influence cellular processes such as proliferation and apoptosis, contributing to normal cellular function and organismal development. The precise molecular activities of RASL12 within these pathways are not fully detailed, but its role in modulating key cellular functions underscores its importance in maintaining cellular homeostasis and supporting the development and function of the organism.
+
+## Clinical Significance
+RASL12 has been implicated in various diseases due to its altered expression and interactions. In lung adenocarcinoma (LUAD), RASL12 expression is downregulated, which is associated with poor prognosis. The ENST00000609697-hsa-miR-6791-5p-RASL12 axis is suggested to play a tumor-suppressive role, and its downregulation may contribute to tumor progression (Li2021Identification). 
+
+In prostate cancer, RASL12 is involved in the formation of chimeric RNAs, such as RASL12-OSTbeta, which are recurrent in cancer samples. These chimeras are present even when the parental gene RASL12 is not expressed, indicating a potential role in cancer-related processes (Kannan2011Recurrent).
+
+In Alzheimer's disease, RASL12 has been identified as a marker of neurotoxic astrocytes. Its expression is associated with processes like axon development and neuron migration, suggesting a role in the disease's pathology (Yu2024DiseaseAssociated).
+
+The interactions of RASL12 with RASSF1, a tumor suppressor, suggest a potential role in apoptosis and calcium homeostasis, although the specific implications in diseases remain to be fully elucidated (Thillaivillalan2020RASSF).
+
+## Interactions
+RASL12, a member of the RAS-like family of small GTPases, is involved in various protein interactions that are significant for cellular processes. RASL12 interacts with RASSF1, a member of the RASSF family of proteins, which acts as an effector for several RAS subfamily GTPases. RASSF1 can bind to multiple small GTPases, including RASL12, and is known to recruit RASL12 to microtubules in HeLa cells, despite RASL12's typical diffuse cytoplasmic localization (Thillaivillalan2020RASSF). This recruitment is unique to RASL12 among the GTPases studied, as others are restricted to the plasma membrane (Thillaivillalan2020RASSF).
+
+The interaction between RASSF1 and RASL12 is part of a broader network where RASSF1 interacts with various atypical RAS family members and RGK GTPase family members, which include GEM, REM1, and REM2. These interactions are significant for regulating voltage-dependent calcium channels and cell shape (Rezaei2021A). Despite the lack of detailed functional data on RASL12, it is grouped with other RAS-like GTPases that may have tumor suppressor roles (Thillaivillalan2020RASSF).
+
+
+## References
+
+
+[1. (Kiel2007A) Christina Kiel, Mathilde Foglierini, Nico Kuemmerer, Pedro Beltrao, and Luis Serrano. A genome-wide ras-effector interaction network. Journal of Molecular Biology, 370(5):1020–1032, July 2007. URL: http://dx.doi.org/10.1016/j.jmb.2007.05.015, doi:10.1016/j.jmb.2007.05.015. This article has 43 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2007.05.015)
+
+[2. (Kannan2011Recurrent) Kalpana Kannan, Liguo Wang, Jianghua Wang, Michael M. Ittmann, Wei Li, and Laising Yen. Recurrent chimeric rnas enriched in human prostate cancer identified by deep sequencing. Proceedings of the National Academy of Sciences, 108(22):9172–9177, May 2011. URL: http://dx.doi.org/10.1073/pnas.1100489108, doi:10.1073/pnas.1100489108. This article has 154 citations.](https://doi.org/10.1073/pnas.1100489108)
+
+[3. (Rezaei2021A) Soheila Rezaei Adariani, Neda S. Kazemein Jasemi, Farhad Bazgir, Christoph Wittich, Ehsan Amin, Claus A.M. Seidel, Radovan Dvorsky, and Mohammad R. Ahmadian. A comprehensive analysis of ras-effector interactions reveals interaction hotspots and new binding partners. Journal of Biological Chemistry, 296:100626, January 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.100626, doi:10.1016/j.jbc.2021.100626. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.100626)
+
+[4. (Li2021Identification) Yumiao Li, Xiaoxue Yu, Yuhao Zhang, Xiaofang Wang, Linshan Zhao, Dan Liu, Guofa Zhao, Xiangpeng Gao, Jiejun Fu, Aimin Zang, and Youchao Jia. Identification of a novel prognosis-associated cerna network in lung adenocarcinoma via bioinformatics analysis. BioMedical Engineering OnLine, November 2021. URL: http://dx.doi.org/10.1186/s12938-021-00952-x, doi:10.1186/s12938-021-00952-x. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12938-021-00952-x)
+
+5. (Thillaivillalan2020RASSF) RASSF effectors couple diverse RAS subfamily GTPases to the Hippo pathway. This article has 1 citations.
+
+[6. (Yu2024DiseaseAssociated) Wuhan Yu, Yin Li, Fuxin Zhong, Zhangjing Deng, Jiani Wu, Weihua Yu, and Yang Lü. Disease-associated neurotoxic astrocyte markers in alzheimer disease based on integrative single-nucleus rna sequencing. Cellular and Molecular Neurobiology, February 2024. URL: http://dx.doi.org/10.1007/s10571-024-01453-w, doi:10.1007/s10571-024-01453-w. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10571-024-01453-w)
+
+[7. (Vetter2014The) Ingrid R. Vetter. The Structure of the G Domain of the Ras Superfamily, pages 25–50. Springer Vienna, 2014. URL: http://dx.doi.org/10.1007/978-3-7091-1806-1_2, doi:10.1007/978-3-7091-1806-1_2. This article has 40 citations.](https://doi.org/10.1007/978-3-7091-1806-1_2)

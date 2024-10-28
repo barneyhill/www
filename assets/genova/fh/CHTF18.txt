@@ -1,0 +1,44 @@
+# CHTF18
+
+## Overview
+CHTF18 is a gene that encodes the protein chromosome transmission fidelity factor 18, which is a key component of the replication factor C-like complex. This protein plays a critical role in DNA replication and repair by facilitating the loading of the proliferating cell nuclear antigen (PCNA) onto DNA, a process essential for maintaining sister chromatid cohesion during the S phase of the cell cycle (Hamilton2024The). As a nuclear protein, chromosome transmission fidelity factor 18 is involved in stabilizing sister chromatids and preventing DNA damage, thereby ensuring genomic stability (Hamilton2024The). The gene's function is conserved across species, with its yeast ortholog, Ctf18, also participating in replication checkpoint and fork stabilization (Ansbach2008RFCCtf18and). Mutations or disruptions in CHTF18 can lead to reproductive and genomic stability issues, highlighting its importance in cellular proliferation and DNA damage repair (Holton2020CHTF18; Berkowitz2012Disruption).
+
+## Structure
+
+
+## Function
+CHTF18 is a crucial component of the replication factor C-like complex, which includes DCC1 and CTF8, and is involved in loading the proliferating cell nuclear antigen (PCNA) onto DNA. This process is essential for DNA replication and repair, ensuring the maintenance of sister chromatid cohesion (SCC) during the S phase of the cell cycle (Hamilton2024The). CHTF18 interacts with cohesin complex proteins such as RAD21 and SMC1, highlighting its role in maintaining chromosome cohesion and genomic stability (Hamilton2024The).
+
+In human cells, CHTF18 is active in the nucleus, where it plays a significant role in stabilizing sister chromatids and preventing DNA damage, which is crucial for maintaining genome integrity (Hamilton2024The). The absence of CHTF18 in mouse embryonic fibroblasts leads to increased DNA double-strand breaks and impaired cellular proliferation, suggesting its importance in DNA damage repair and cell division processes (Hamilton2024The). The gene's function is similar to its yeast ortholog, Ctf18, which is involved in the replication checkpoint and stabilization of replication forks, further supporting its role in genomic stability (Ansbach2008RFCCtf18and).
+
+## Clinical Significance
+Mutations or alterations in the expression of the CHTF18 gene have been linked to several reproductive and genomic stability issues. In male mice, the absence of CHTF18 leads to significant impairments in spermatogenesis, resulting in subfertility. This is due to defective meiotic recombination, characterized by premature separation of homologous chromosomes and decreased DNA crossovers, which are crucial for maintaining chromosome stability (Berkowitz2012Disruption). The phenotype observed in Chtf18-null mice is less severe than that of other cohesin mutants, such as SMC1b and REC8, which are associated with sterility (Berkowitz2012Disruption).
+
+In female mice, CHTF18 is essential for maintaining the ovarian reserve and ensuring proper meiotic recombination. Chtf18-null females exhibit age-dependent subfertility, with a marked decline in ovarian follicles and increased aneuploidy in eggs. This is attributed to defective crossover formation and persistent double-strand breaks, leading to impaired gametogenesis and ovarian follicle depletion (Holton2020CHTF18). The absence of CHTF18 may contribute to conditions related to ovarian aging and fertility issues due to its role in chromosomal cohesion and stability during meiosis (Holton2020CHTF18).
+
+## Interactions
+CHTF18 is a component of the CTF18-RFC complex, which plays a crucial role in DNA replication and repair. This complex interacts with several proteins and nucleic acids, forming a multiprotein assembly essential for its function. CHTF18, along with Dcc1 and Ctf8, forms a complex with the replication factor C (RFC) subunits RFC2-5. This complex is involved in sister chromatid cohesion and DNA replication processes (Bermudez2003The).
+
+CHTF18 interacts with the RFC2-5 subunits to form a five-subunit complex, which requires RFC5 for its assembly. Both CHTF18 and Dcc1 are necessary to form the seven-subunit CTF18-RFC complex. Ctf8 specifically interacts with CHTF18 in the five-subunit complex, forming an unstable six-subunit complex that is stabilized by Dcc1 (Bermudez2003The).
+
+The CTF18-RFC complex also interacts with DNA, particularly at 3' primer-template junctions, to load the PCNA sliding clamp onto DNA. This interaction is enhanced in the presence of ATP and is facilitated by the presence of non-synthesizing DNA polymerase ε (p261N exo-), which cooperatively binds with CTF18-RFC to the 3' primer end (Fujisawa2017Human).
+
+CHTF18 is also involved in the DNA replication checkpoint pathway, interacting with components of the replisome and the DNA replication checkpoint pathway, including Mrc1 (Kubota2011Quantitative).
+
+
+## References
+
+
+[1. (Bermudez2003The) Vladimir P. Bermudez, Yoshimasa Maniwa, Inger Tappin, Keiko Ozato, Kyoko Yokomori, and Jerard Hurwitz. The alternative ctf18-dcc1-ctf8-replication factor c complex required for sister chromatid cohesion loads proliferating cell nuclear antigen onto dna. Proceedings of the National Academy of Sciences, 100(18):10237–10242, August 2003. URL: http://dx.doi.org/10.1073/pnas.1434308100, doi:10.1073/pnas.1434308100. This article has 107 citations.](https://doi.org/10.1073/pnas.1434308100)
+
+2. (Hamilton2024The) The Role of Chtf18 in Sister Chromatid Cohesion and Post-Replicative Genome Maintenance. This article has 0 citations.
+
+[3. (Berkowitz2012Disruption) Karen M. Berkowitz, Aislinn R. Sowash, Lydia R. Koenig, Dawnette Urcuyo, Fahmida Khan, Fang Yang, P. Jeremy Wang, Thomas A. Jongens, and Klaus H. Kaestner. Disruption of chtf18 causes defective meiotic recombination in male mice. PLoS Genetics, 8(11):e1002996, November 2012. URL: http://dx.doi.org/10.1371/journal.pgen.1002996, doi:10.1371/journal.pgen.1002996. This article has 11 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1371/journal.pgen.1002996)
+
+[4. (Fujisawa2017Human) Ryo Fujisawa, Eiji Ohashi, Kouji Hirota, and Toshiki Tsurimoto. Human ctf18-rfc clamp-loader complexed with non-synthesising dna polymerase ε efficiently loads the pcna sliding clamp. Nucleic Acids Research, 45(8):4550–4563, February 2017. URL: http://dx.doi.org/10.1093/nar/gkx096, doi:10.1093/nar/gkx096. This article has 35 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkx096)
+
+[5. (Ansbach2008RFCCtf18and) Alison B. Ansbach, Chiaki Noguchi, Ian W. Klansek, Mike Heidlebaugh, Toru M. Nakamura, and Eishi Noguchi. Rfcctf18and the swi1-swi3 complex function in separate and redundant pathways required for the stabilization of replication forks to facilitate sister chromatid cohesion inschizosaccharomyces pombe. Molecular Biology of the Cell, 19(2):595–607, February 2008. URL: http://dx.doi.org/10.1091/mbc.E07-06-0618, doi:10.1091/mbc.e07-06-0618. This article has 74 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.E07-06-0618)
+
+[6. (Kubota2011Quantitative) Takashi Kubota, Shin-ichiro Hiraga, Kayo Yamada, Angus I. Lamond, and Anne D. Donaldson. Quantitative proteomic analysis of chromatin reveals that ctf18 acts in the dna replication checkpoint. Molecular &amp; Cellular Proteomics, 10(7):M110.005561, July 2011. URL: http://dx.doi.org/10.1074/mcp.m110.005561, doi:10.1074/mcp.m110.005561. This article has 52 citations.](https://doi.org/10.1074/mcp.m110.005561)
+
+[7. (Holton2020CHTF18) Rebecca A Holton, Abigail M Harris, Barenya Mukerji, Tanu Singh, Ferdusy Dia, and Karen M Berkowitz. Chtf18 ensures the quantity and quality of the ovarian reserve†. Biology of Reproduction, 103(1):24–35, March 2020. URL: http://dx.doi.org/10.1093/biolre/ioaa036, doi:10.1093/biolre/ioaa036. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.1093/biolre/ioaa036)

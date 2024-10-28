@@ -1,0 +1,50 @@
+# SLC25A11
+
+## Overview
+SLC25A11 is a gene that encodes the mitochondrial protein known as solute carrier family 25 member 11 (OGC), which is a crucial component of the mitochondrial carrier family. This protein functions as a transmembrane transporter, facilitating the exchange of oxoglutarate and dicarboxylates, such as malate, across the inner mitochondrial membrane. The OGC plays a significant role in cellular energy metabolism, particularly within the malate-aspartate shuttle and the tricarboxylic acid (TCA) cycle, by transferring reducing equivalents necessary for ATP synthesis (Gutiérrez-Aguilar2013Physiological; Palmieri2004The). Additionally, SLC25A11 is implicated in various physiological processes, including glucose-stimulated insulin secretion and mitochondrial glutathione uptake, which are vital for maintaining cellular redox balance and metabolic homeostasis (Gutiérrez-Aguilar2013Physiological). The gene's clinical significance is underscored by its association with certain cancers and neuropsychiatric disorders, highlighting its potential role as a tumor suppressor and its involvement in mitochondrial dynamics and function (Buffet2018Germline; Babenko2018Altered).
+
+## Structure
+The SLC25A11 gene encodes the oxoglutarate carrier (OGC), a mitochondrial transporter protein involved in the exchange of oxoglutarate and dicarboxylates, primarily malate, across the mitochondrial membrane. The OGC functions as a homodimer, with each monomer containing six transmembrane alpha-helices, which are characteristic of the mitochondrial carrier family (MCF) (Palmieri2013The; Palmieri2004The). The protein's primary structure includes three cysteine residues: Cys184, Cys221, and Cys224. Cys184 is reactive to mercurials and maleimides, while Cys221 and Cys224 form a disulfide bridge, suggesting a role in maintaining structural integrity (Palmieri2004The).
+
+The secondary structure of OGC involves these transmembrane helices, which are arranged in a counter-clockwise order, forming a funnel-shaped cavity open towards the cytosol (Palmieri2013The). The quaternary structure is characterized by the dimerization of the protein, which is essential for its function, as the two Cys184 residues are in close proximity, potentially facilitating dimer formation (Palmieri2004The).
+
+The OGC is involved in several metabolic pathways, including the malate-aspartate shuttle and gluconeogenesis, and may influence processes such as apoptosis through interactions with proteins like Bcl-2 and Bcl-XL (Gutiérrez-Aguilar2013Physiological).
+
+## Function
+SLC25A11 encodes the oxoglutarate carrier (OGC), a mitochondrial protein crucial for the transport of oxoglutarate across the inner mitochondrial membrane. This transport is part of the malate-aspartate shuttle, which is essential for transferring reducing equivalents across the mitochondrial membrane, thereby playing a significant role in cellular energy metabolism and the tricarboxylic acid (TCA) cycle (Palmieri2004The; Gutiérrez-Aguilar2013Physiological). The OGC operates through an antiport mechanism, exchanging oxoglutarate for dicarboxylates like malate, which is vital for gluconeogenesis and nitrogen metabolism (Palmieri2004The).
+
+In healthy human cells, SLC25A11 is involved in glucose-stimulated insulin secretion, as its knockdown reduces insulin release in β-cells and pancreatic islets (Gutiérrez-Aguilar2013Physiological). It also contributes to mitochondrial glutathione uptake, which is important for maintaining redox balance within the cell (Gutiérrez-Aguilar2013Physiological). The protein's activity is linked to the mitochondrial oxidative phosphorylation pathway, enhancing ATP synthesis by facilitating the transfer of NADH-reducing equivalents (Zhang2022An). SLC25A11's function is integral to maintaining metabolic homeostasis and supporting cellular respiration.
+
+## Clinical Significance
+Mutations in the SLC25A11 gene have been linked to a predisposition to metastatic paragangliomas and pheochromocytomas (PPGLs). These mutations are associated with a loss of heterozygosity in tumor DNA, suggesting that SLC25A11 functions as a tumor suppressor gene. In a study of 639 patients with PPGL, SLC25A11 mutations were identified in six patients, with five exhibiting metastatic disease. The mutations were predicted to be deleterious and were not found in common genetic databases (Buffet2018Germline). 
+
+The SLC25A11 gene is part of the pseudo-hypoxic cluster of genes involved in PPGL tumorigenesis, characterized by a pseudo-hypoxic signature and increased angiogenesis due to abnormal stabilization of HIFa transcription factors (Buffet2020An). In pancreatic cancer, SLC25A11 is involved in mitochondrial oxidative phosphorylation and is associated with immune cell infiltration, suggesting a role in antitumor immunity (Zhang2022An). 
+
+Altered expression of SLC25A11 has also been observed in neuropsychiatric disorders, such as depression, where changes in expression are noted in different brain regions under chronic social stress conditions (Babenko2018Altered).
+
+## Interactions
+SLC25A11, also known as the oxoglutarate carrier (OGC), is involved in several protein interactions that are crucial for its function in mitochondrial metabolism. It operates as a homodimer and is part of the mitochondrial solute carrier family, facilitating the exchange of oxoglutarate with other dicarboxylates like malate (Palmieri2004The). 
+
+SLC25A11 has been shown to interact with OPA1, a protein involved in mitochondrial cristae remodeling and mtDNA maintenance. This interaction suggests a role in regulating mitochondrial ultrastructure and function, potentially linking nutrient availability to changes in mitochondrial dynamics (wong2014role). The interaction between SLC25A11 and OPA1 was validated through co-immunoprecipitation experiments, indicating a strong association that may influence OPA1 oligomerization and cristae structure (wong2014role).
+
+In the context of pancreatic cancer, SLC25A11 is involved in mitochondrial NADH reduction equivalent transfer, which may inhibit the phenotypic transformation of cancer cells to more invasive forms. This function is linked to its role in the mitochondrial oxidative phosphorylation pathway and its interactions with other proteins involved in energy metabolism and tumor immunity (Zhang2022An).
+
+
+## References
+
+
+[1. (Buffet2018Germline) Alexandre Buffet, Aurélie Morin, Luis-Jaime Castro-Vega, Florence Habarou, Charlotte Lussey-Lepoutre, Eric Letouzé, Hervé Lefebvre, Isabelle Guilhem, Magalie Haissaguerre, Isabelle Raingeard, Mathilde Padilla-Girola, Thi Tran, Lucien Tchara, Jérôme Bertherat, Laurence Amar, Chris Ottolenghi, Nelly Burnichon, Anne-Paule Gimenez-Roqueplo, and Judith Favier. Germline mutations in the mitochondrial 2-oxoglutarate/malate carrier slc25a11 gene confer a predisposition to metastatic paragangliomas. Cancer Research, 78(8):1914–1922, April 2018. URL: http://dx.doi.org/10.1158/0008-5472.can-17-2463, doi:10.1158/0008-5472.can-17-2463. This article has 91 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.can-17-2463)
+
+2. (wong2014role) Jacob Wong. The role of ATAD3A and SLC25 proteins in OPA1 function. PhD thesis, Université d'Ottawa/University of Ottawa, 2014. This article has 1 citations.
+
+[3. (Buffet2020An) Alexandre Buffet, Nelly Burnichon, Judith Favier, and Anne-Paule Gimenez-Roqueplo. An overview of 20 years of genetic studies in pheochromocytoma and paraganglioma. Best Practice &amp; Research Clinical Endocrinology &amp; Metabolism, 34(2):101416, March 2020. URL: http://dx.doi.org/10.1016/j.beem.2020.101416, doi:10.1016/j.beem.2020.101416. This article has 108 citations.](https://doi.org/10.1016/j.beem.2020.101416)
+
+[4. (Gutiérrez-Aguilar2013Physiological) Manuel Gutiérrez-Aguilar and Christopher P. Baines. Physiological and pathological roles of mitochondrial slc25 carriers. Biochemical Journal, 454(3):371–386, August 2013. URL: http://dx.doi.org/10.1042/bj20121753, doi:10.1042/bj20121753. This article has 98 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20121753)
+
+[5. (Palmieri2013The) Ferdinando Palmieri. The mitochondrial transporter family slc25: identification, properties and physiopathology. Molecular Aspects of Medicine, 34(2–3):465–484, April 2013. URL: http://dx.doi.org/10.1016/j.mam.2012.05.005, doi:10.1016/j.mam.2012.05.005. This article has 612 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.mam.2012.05.005)
+
+[6. (Babenko2018Altered) Vladimir N. Babenko, Dmitry A. Smagin, Anna G. Galyamina, Irina L. Kovalenko, and Natalia N. Kudryavtseva. Altered slc25 family gene expression as markers of mitochondrial dysfunction in brain regions under experimental mixed anxiety/depression-like disorder. BMC Neuroscience, December 2018. URL: http://dx.doi.org/10.1186/s12868-018-0480-6, doi:10.1186/s12868-018-0480-6. This article has 45 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12868-018-0480-6)
+
+[7. (Palmieri2004The) Ferdinando Palmieri. The mitochondrial transporter family (slc25): physiological and pathological implications. Pfl�gers Archiv European Journal of Physiology, 447(5):689–709, February 2004. URL: http://dx.doi.org/10.1007/s00424-003-1099-7, doi:10.1007/s00424-003-1099-7. This article has 624 citations.](https://doi.org/10.1007/s00424-003-1099-7)
+
+[8. (Zhang2022An) Qiang Zhang, Yubao Tang, Shuai Sun, Qiuyi Xie, Jie Yao, Xiaodong Wang, Jianjun Qian, and Zhennan Li. An extensive bioinformatics study on the role of mitochondrial solute carrier family 25 in pc and its mechanism behind affecting immune infiltration and tumor energy metabolism. Journal of Translational Medicine, December 2022. URL: http://dx.doi.org/10.1186/s12967-022-03756-2, doi:10.1186/s12967-022-03756-2. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12967-022-03756-2)

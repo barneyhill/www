@@ -1,0 +1,56 @@
+# IPO13
+
+## Overview
+Importin 13 (IPO13) is a gene that encodes a protein belonging to the importin-β family, which functions as a bidirectional transport receptor. The protein, also known as importin 13, is characterized by its ability to mediate the nuclear import and export of various proteins, playing a crucial role in cellular processes such as signal transduction, development, and stress response. Structurally, importin 13 is distinguished by its 20 HEAT repeats, which form a solenoid-like tertiary structure, allowing it to interact with both import and export cargos. The protein's function is modulated by post-translational modifications, such as phosphorylation, which influence its subcellular localization and transport dynamics. Importin 13 is involved in the nuclear import of key transcription factors and other proteins, highlighting its significance in maintaining cellular homeostasis and its potential implications in clinical conditions, including cancer and neurological disorders (Tao2006Importin; Baumhardt2018Structures; Liu2018PKAsite).
+
+## Structure
+Importin 13 (IPO13) is a bidirectional transport receptor that is part of the importin-β family. Its structure is characterized by 20 HEAT repeats, which are helical motifs that contribute to its solenoid-like tertiary structure. Notably, IPO13 has long loop insertions at HEAT 9 and between HEATs 17-18, which are critical for its function as a transporter (Baumhardt2018Structures).
+
+IPO13 is unique among transporters because it binds to folded domains within its cargos rather than extended linear motifs. The structure of IPO13 bound to import cargo, such as the SUMO E2 ligase Ubc9, and export cargo, like eIF1A, has been elucidated. When bound to RanGTP, IPO13 adopts a superhelical conformation, which is similar to its conformation when bound to Ubc9, indicating a steric mechanism for cargo release upon RanGTP binding (Baumhardt2018Structures).
+
+Post-translational modifications of IPO13 include phosphorylation by cAMP-dependent protein kinase (PKA) at serine 193. This modification affects IPO13's nuclear import and export functions by altering its subcellular localization, shifting it from the nucleus to the cytoplasm (Liu2018PKAsite).
+
+## Function
+Importin 13 (IPO13) is a member of the importin-β family, functioning as both an import and export receptor for various proteins in human cells. It plays a critical role in the nuclear import of the glucocorticoid receptor (GR) in airway epithelial cells, facilitating GR's entry into the nucleus, which is essential for glucocorticoid signaling and the anti-inflammatory response (Tao2006Importin). IPO13 is also involved in the nuclear import of paired-type homeodomain transcription factors, such as Pax6, Pax3, and Crx, which are crucial for development and differentiation (Ploski2004PairedType).
+
+In addition to its import functions, IPO13 regulates the nuclear import of Ubc9, a key regulator of sumoylation, by binding to it in the cytoplasm and releasing it in the nucleus upon interaction with RanGTP (Grünwald2010Structure). IPO13's activity is modulated by phosphorylation, particularly at serine 193, which affects its subcellular localization and transport dynamics, influencing its role in cellular processes (Liu2018PKAsite). This dual role in import and export highlights IPO13's importance in maintaining cellular function and regulation through nucleocytoplasmic transport (Grünwald2010Structure).
+
+## Clinical Significance
+Mutations and alterations in the IPO13 gene have been linked to several clinical conditions. A study identified a novel mutation in the IPO13 gene, specifically a homozygous mutation (p.R111C), which is associated with autosomal-recessive ocular conditions such as coloboma, microphthalmia, and cataract. This mutation affects a highly conserved functional domain of the protein, leading to structural changes that impact its function. The mutation was shown to be fully segregated in a studied family and was absent in several genetic databases, indicating its rarity (Huang2018Mutation).
+
+In non-small cell lung cancer (NSCLC), IPO13 is overexpressed, particularly in tumors with EGFR mutations. This overexpression is associated with the nuclear translocation of RFPL3 and upregulation of hTERT expression, processes linked to tumor progression. Knockdown of IPO13 in NSCLC cells results in reduced cell proliferation and tumor growth, suggesting its role in cancer progression (Zohud2020Importin).
+
+IPO13 also plays a role in neuronal differentiation and neurogenesis. Its absence in mouse embryonic stem cells leads to impaired expression and localization of neuronal markers, affecting neuron and astrocyte differentiation. This suggests that disruptions in IPO13 function could impact neurogenesis and potentially contribute to neurological disorders (Gajewska2022Nuclear).
+
+## Interactions
+Importin 13 (IPO13) is involved in various protein interactions, facilitating the nuclear import and export of several key proteins. IPO13 interacts with the paired homeodomain transcription factor Pax6, mediating its RanGTP-dependent nuclear import. The interaction is specific to the amino acid residues 208 to 288 of Pax6, which function as a nuclear localization signal (Ploski2004PairedType). IPO13 also binds to the NF-YB/NF-YC dimer, part of the NF-Y transcription factor complex, and this interaction is sensitive to the presence of NF-YA, suggesting competitive binding (Kahle2005Subunits).
+
+In the context of stress responses, IPO13 interacts with clusterin (nCLU) and KU70, regulating their nuclear localization. Under oxidative stress, IPO13 facilitates the nuclear import of nCLU and the export of KU70, impacting stress-induced cell death pathways (Gajewska2023The). IPO13 also interacts with myopodin, an actin-bundling protein, mediating its nuclear import, which is crucial for its tumor-suppressor functions (Liang2007Interaction).
+
+In non-small cell lung cancer, IPO13 is involved in the nuclear translocation of RFPL3, a process linked to cancer progression and regulated by EGFR signaling (Zohud2020Importin). These interactions highlight IPO13's role in cellular processes and stress responses.
+
+
+## References
+
+
+[1. (Kahle2005Subunits) Joerg Kahle, Matthias Baake, Detlef Doenecke, and Werner Albig. Subunits of the heterotrimeric transcription factor nf-y are imported into the nucleus by distinct pathways involving importin β and importin 13. Molecular and Cellular Biology, 25(13):5339–5354, July 2005. URL: http://dx.doi.org/10.1128/mcb.25.13.5339-5354.2005, doi:10.1128/mcb.25.13.5339-5354.2005. This article has 111 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.25.13.5339-5354.2005)
+
+[2. (Ploski2004PairedType) Jonathan E. Ploski, Monee K. Shamsher, and Aurelian Radu. Paired-type homeodomain transcription factors are imported into the nucleus by karyopherin 13. Molecular and Cellular Biology, 24(11):4824–4834, June 2004. URL: http://dx.doi.org/10.1128/mcb.24.11.4824-4834.2004, doi:10.1128/mcb.24.11.4824-4834.2004. This article has 44 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.24.11.4824-4834.2004)
+
+[3. (Tao2006Importin) Tao Tao, Jie Lan, Gergely L. Lukacs, Robert J. G. Haché, and Feige Kaplan. Importin 13 regulates nuclear import of the glucocorticoid receptor in airway epithelial cells. American Journal of Respiratory Cell and Molecular Biology, 35(6):668–680, December 2006. URL: http://dx.doi.org/10.1165/rcmb.2006-0073oc, doi:10.1165/rcmb.2006-0073oc. This article has 70 citations and is from a peer-reviewed journal.](https://doi.org/10.1165/rcmb.2006-0073oc)
+
+[4. (Liang2007Interaction) Jie Liang, Guifen Ke, Wenjun You, Zi Peng, Jie Lan, Markus Kalesse, Alan M. Tartakoff, Feige Kaplan, and Tao Tao. Interaction between importin 13 and myopodin suggests a nuclear import pathway for myopodin. Molecular and Cellular Biochemistry, 307(1–2):93–100, September 2007. URL: http://dx.doi.org/10.1007/s11010-007-9588-1, doi:10.1007/s11010-007-9588-1. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11010-007-9588-1)
+
+[5. (Huang2018Mutation) Xiu-Feng Huang, Lue Xiang, Wan Cheng, Fei-Fei Cheng, Kai-Wen He, Bo-Wen Zhang, Si-Si Zheng, Ru-Yi Han, Yi-Han Zheng, Xiao-Tao Xu, Huan-Yun Yu, Wenjuan Zhuang, Yuk Fai Leung, and Zi-Bing Jin. Mutation of ipo13 causes recessive ocular coloboma, microphthalmia, and cataract. Experimental &amp; Molecular Medicine, 50(4):1–11, April 2018. URL: http://dx.doi.org/10.1038/s12276-018-0079-0, doi:10.1038/s12276-018-0079-0. This article has 20 citations.](https://doi.org/10.1038/s12276-018-0079-0)
+
+[6. (Zohud2020Importin) Bisan Abdalfatah Zohud, Ping Guo, Batoul Abdalfatah Zohud, Fengzhou Li, Jiao J. Hao, Xiu Shan, Wendan Yu, Wei Guo, Yu Qin, and Xin Cai. Importin 13 promotes nsclc progression by mediating rfpl3 nuclear translocation and htert expression upregulation. Cell Death &amp; Disease, October 2020. URL: http://dx.doi.org/10.1038/s41419-020-03101-9, doi:10.1038/s41419-020-03101-9. This article has 6 citations.](https://doi.org/10.1038/s41419-020-03101-9)
+
+[7. (Grünwald2010Structure) Marlene Grünwald and Fulvia Bono. Structure of importin13-ubc9 complex: nuclear import and release of a key regulator of sumoylation: importin13-ubc9 structure. The EMBO Journal, 30(2):427–438, December 2010. URL: http://dx.doi.org/10.1038/emboj.2010.320, doi:10.1038/emboj.2010.320. This article has 34 citations.](https://doi.org/10.1038/emboj.2010.320)
+
+[8. (Gajewska2023The) Katarzyna A. Gajewska, David A. Jans, and Kylie M. Wagstaff. The nuclear transporter importin 13 can regulate stress-induced cell death through the clusterin/ku70 axis. Cells, 12(2):279, January 2023. URL: http://dx.doi.org/10.3390/cells12020279, doi:10.3390/cells12020279. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells12020279)
+
+[9. (Baumhardt2018Structures) Jordan Baumhardt and Yuh Min Chook. Structures of Importins and Exportins, pages 113–149. Springer International Publishing, 2018. URL: http://dx.doi.org/10.1007/978-3-319-77309-4_6, doi:10.1007/978-3-319-77309-4_6. This article has 2 citations.](https://doi.org/10.1007/978-3-319-77309-4_6)
+
+[10. (Liu2018PKAsite) Xujie Liu, Wenbo Lin, Xiuyu Shi, Rebecca G. Davies, Kylie M. Wagstaff, Tao Tao, and David A. Jans. Pka-site phosphorylation of importin13 regulates its subcellular localization and nuclear transport function. Biochemical Journal, 475(16):2699–2712, August 2018. URL: http://dx.doi.org/10.1042/bcj20180082, doi:10.1042/bcj20180082. This article has 7 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bcj20180082)
+
+[11. (Gajewska2022Nuclear) Katarzyna A. Gajewska, John M. Haynes, and David A. Jans. Nuclear transporter ipo13 is central to efficient neuronal differentiation. Cells, 11(12):1904, June 2022. URL: http://dx.doi.org/10.3390/cells11121904, doi:10.3390/cells11121904. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells11121904)

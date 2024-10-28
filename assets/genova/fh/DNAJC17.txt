@@ -1,0 +1,40 @@
+# DNAJC17
+
+## Overview
+DNAJC17 is a gene that encodes the protein DnaJ heat shock protein family (Hsp40) member C17, which is a member of the J-domain protein (JDP) family. This protein functions as a co-chaperone to the heat-shock protein 70-kilodalton (HSP70) family, playing a critical role in RNA splicing and cell cycle progression, particularly at the G2-M checkpoint. The protein is characterized by an N-terminal J-domain, which is essential for its interaction with HSP70, and a C-terminal RNA recognition motif (RRM) that exerts an auto-inhibitory effect on its function. DNAJC17 is involved in maintaining protein homeostasis and facilitating proper RNA splicing, and its activity is crucial for cell survival. Mutations in DNAJC17 have been linked to syndromic retinal dystrophy and may influence the severity of colitis, highlighting its clinical significance in various conditions (Patel2016Expanding; Esworthy2011Colitis; Allegakoen2023The).
+
+## Structure
+DNAJC17 is a member of the J-domain protein (JDP) family and is characterized by several structural elements. It contains an N-terminal J-domain, which is essential for its function and interaction with HSP70, a chaperone protein crucial for cell cycle progression, specifically in the G2-M phase (Allegakoen2023The). The C-terminal end of DNAJC17 includes an RNA recognition motif (RRM), which has an auto-inhibitory effect on the protein's ability to activate ATP hydrolysis by HSP70 (Allegakoen2023The). The intervening segments of the protein are annotated as intrinsically disordered but include a putative nuclear localization sequence (NLS) (Allegakoen2023The).
+
+Computational predictions suggest that the linker region between the J-domain and RRM consists of a coiled coil, and there is a helical tail distal to the RRM (Allegakoen2023The). The J-domain is biochemically functional and can induce allosteric activation of HSP70, although this interaction is attenuated by the RRM, indicating a regulatory mechanism within the protein structure (Allegakoen2023The). Attempts to isolate RNA bound to DNAJC17 were unsuccessful, despite its predicted RNA-binding capability, suggesting that the RRM may not be essential for its primary functions (Allegakoen2023The).
+
+## Function
+The DNAJC17 gene encodes a chaperone protein that is part of the J-domain protein (JDP) family, which functions as co-chaperones to the heat-shock protein 70-kilodalton (HSP70) family. This protein is essential for coordinating RNA splicing and the progression of the cell cycle from the G2 to M phase. DNAJC17 interacts with HSP70 proteins to perform various cellular functions, including maintaining protein homeostasis and facilitating proper RNA splicing (Allegakoen2023The).
+
+In human cells, DNAJC17 is crucial for survival, as its J-domain is fundamental to its activity. Knockdown of DNAJC17 leads to widespread exon skipping, particularly affecting genes involved in cell-cycle progression, resulting in G2-M arrest. This suggests a role in regulating splicing events that are critical for cell-cycle control (Allegakoen2023The). The protein is associated with nucleolar splicing machinery, indicating its involvement in RNA splicing (Allegakoen2023The).
+
+DNAJC17's function is inhibited by its C-terminal RNA recognition motif (RRM), which has an auto-inhibitory effect on its ability to activate ATP hydrolysis by HSP70. This suggests that DNAJC17's role in RNA splicing and cell cycle progression is crucial for cell survival (Allegakoen2023The).
+
+## Clinical Significance
+Mutations in the DNAJC17 gene have been associated with a syndromic form of retinal dystrophy characterized by retinitis pigmentosa and hypogammaglobulinemia. A study identified a novel coding/splicing variant in DNAJC17 in two siblings with these conditions. This variant, although synonymous, affects the last base pair of exon 9, likely impacting splicing by abolishing the donor site, leading to exon 9 skipping. This mutation was absent in a large cohort of Saudi exomes and the ExAC database, indicating its rarity. The affected individuals require regular immunoglobulin infusion due to hypogammaglobulinemia (Patel2016Expanding).
+
+In breast cancer, DNAJC17 has been identified with deletion copy number variations (CNVs) shared between the Luminal A and Basal subtypes. These CNVs in HSP genes, including DNAJC17, are prevalent and may impact gene expression levels, contributing to the distinct molecular profiles observed in different breast cancer subtypes (FernandezMuñoz2024Mutational).
+
+Additionally, DNAJC17 is considered a candidate gene influencing the severity of colitis in mice deficient in GPX1 and GPX2. It is located within a genetic locus on chromosome 2 associated with colitis susceptibility, suggesting a potential role in immune function and inflammatory bowel disease (Esworthy2011Colitis).
+
+## Interactions
+DNAJC17 is a chaperone protein that plays a crucial role in RNA splicing and cell cycle progression, particularly at the G2-M checkpoint. It is a member of the J-domain protein (JDP) family and interacts with HSP70 proteins. The J-domain of DNAJC17 is essential for its activity, facilitating the activation of HSP70, although this interaction is inhibited by the C-terminal RNA recognition motif (RRM) (Allegakoen2023The). DNAJC17 is associated with nucleolar splicing machinery and may interact with spliceosome components such as SNRPA1, CDC5L, and SNRNP200, although these interactions do not appear to be altered by the deletion of the J-domain or RRM (Allegakoen2023The).
+
+Attempts to isolate RNAs bound to DNAJC17 were unsuccessful, but it is predicted to bind RNA through its RRM (Allegakoen2023The). DNAJC17's interaction with the PRP19 complex suggests its involvement in mRNA splicing, although specific cellular interactors remain unidentified (Allegakoen2023The). The protein's interactions with HSP70 and its role in RNA splicing are critical for its cellular functions, impacting gene expression through exon skipping and affecting cell cycle regulators (Allegakoen2023The).
+
+
+## References
+
+
+[1. (Patel2016Expanding) Nisha Patel, Mohammed A. Aldahmesh, Hisham Alkuraya, Shamsa Anazi, Hadeel Alsharif, Arif O. Khan, Asma Sunker, Saleh Al-mohsen, Emad B. Abboud, Sawsan R. Nowilaty, Mohammed Alowain, Hamad Al-Zaidan, Bandar Al-Saud, Ali Alasmari, Ghada M.H. Abdel-Salam, Mohamed Abouelhoda, Firdous M. Abdulwahab, Niema Ibrahim, Ewa Naim, Banan Al-Younes, Abeer E. AlMostafa, Abdulelah AlIssa, Mais Hashem, Olga Buzovetsky, Yong Xiong, Dorota Monies, Nada Altassan, Ranad Shaheen, Selwa A.F. Al-Hazzaa, and Fowzan S. Alkuraya. Expanding the clinical, allelic, and locus heterogeneity of retinal dystrophies. Genetics in Medicine, 18(6):554–562, June 2016. URL: http://dx.doi.org/10.1038/gim.2015.127, doi:10.1038/gim.2015.127. This article has 85 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/gim.2015.127)
+
+[2. (FernandezMuñoz2024Mutational) Juan Manuel Fernandez-Muñoz, Martin Eduardo Guerrero-Gimenez, Leonardo Andrés Ciocca, María José Germanó, and Felipe Carlos Martin Zoppino. Mutational landscape of hsp family on human breast cancer. Scientific Reports, May 2024. URL: http://dx.doi.org/10.1038/s41598-024-61807-8, doi:10.1038/s41598-024-61807-8. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-024-61807-8)
+
+[3. (Esworthy2011Colitis) Steven R. Esworthy, Byung-Wook Kim, Garrett P. Larson, Richard M.L. Yip, David D. Smith, Min Li, and Fong-Fong Chu. Colitis locus on chromosome 2 impacting the severity of early-onset disease in mice deficient in gpx1 and gpx2. Inflammatory Bowel Diseases, 17(6):1373–1386, June 2011. URL: http://dx.doi.org/10.1002/ibd.21479, doi:10.1002/ibd.21479. This article has 27 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1002/ibd.21479)
+
+4. (Allegakoen2023The) The essential chaperone DNAJC17 activates HSP70 to coordinate RNA splicing and G2-M progression. This article has 0 citations.

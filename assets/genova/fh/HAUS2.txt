@@ -1,0 +1,37 @@
+# HAUS2
+
+## Overview
+HAUS2 is a gene that encodes the protein HAUS augmin-like complex subunit 2, which is a crucial component of the HAUS complex, an eight-subunit protein assembly involved in the regulation of microtubule dynamics. This protein plays a significant role in mitotic spindle assembly and centrosome integrity, essential processes for accurate chromosome segregation during cell division. HAUS2 is categorized as a microtubule-associated protein due to its involvement in microtubule nucleation and stabilization. The HAUS complex, including HAUS2, is vital for the recruitment of the γ-tubulin ring complex to spindle microtubules, facilitating proper spindle function. In addition to its role in mitosis, HAUS2 is implicated in non-centrosomal microtubule organization in neurons, contributing to neuronal development. Clinically, altered expression of HAUS2 has been associated with poor prognosis in low-grade gliomas, highlighting its potential role in tumor progression and immune cell infiltration (CunhaFerreira2018The; Lawo2009HAUS; Wang2023A).
+
+## Function
+HAUS2 is a critical component of the HAUS complex, an 8-subunit protein assembly that plays a vital role in mitotic spindle assembly and centrosome integrity in human cells. This complex is essential for maintaining the structural integrity and proper function of the mitotic spindle and centrosomes during cell division. HAUS2 is involved in the nucleation of microtubules from existing ones, facilitating proper spindle assembly and stability, which is crucial for accurate chromosome segregation during mitosis (Lawo2009HAUS).
+
+The HAUS complex, including HAUS2, localizes to interphase centrosomes and spindle microtubules. Its depletion results in disorganized mitotic spindles, fragmented centrosomes, and abnormal spindle morphology, leading to delayed mitotic progression and increased mitotic index (Lawo2009HAUS). HAUS2 also plays a role in the localization of NuMA to spindle microtubules, which is crucial for spindle function (Lawo2009HAUS).
+
+In neurons, HAUS2 is involved in non-centrosomal microtubule organization, essential for neuronal development. It localizes to centrioles and forms clusters in the soma and axon, serving as microtubule nucleation sites, which are critical for axonal and dendritic development (CunhaFerreira2018The).
+
+## Clinical Significance
+HAUS2, a component of the augmin complex, plays a significant role in the clinical context of gliomas, particularly low-grade gliomas (LGG). Altered expression of HAUS2 is associated with poor prognosis in LGG patients. The gene's mRNA expression is significantly higher in LGG tissues compared to normal brain tissues, and this elevated expression correlates with increased immune cell infiltration, excluding CD4+ T cells (Wang2023A). High expression levels of HAUS2 are linked to a higher risk score and poorer survival outcomes in LGG, as demonstrated by a prognostic model developed using HAUS2, HAUS4, and HAUS8 (Wang2023A).
+
+The study also highlights that HAUS2 expression is significantly higher in IDH wild-type gliomas compared to mutants, suggesting a potential role in tumor progression (Wang2023A). Although the mutation rate of HAUS2 in the TCGA LGG cohort is relatively low at 0.7%, alterations in HAUS2 do not directly correlate with overall survival or disease-free survival in LGG patients (Wang2023A). The gene's involvement in cell cycle regulation, apoptosis, and immune regulation pathways suggests its contribution to tumor progression and immune cell infiltration in LGG (Wang2023A).
+
+## Interactions
+HAUS2 is a subunit of the HAUS complex, an 8-subunit protein complex crucial for mitotic spindle assembly and centrosome integrity. HAUS2 interacts with other subunits within the HAUS complex, such as HAUS6, HAUS7, and HAUS8, forming a stable hetero-tetrameric subcomplex known as Tetramer II, which mediates microtubule binding (Zupa2022The). This interaction is essential for the recruitment of the γ-tubulin ring complex (γ-TuRC) to spindle microtubules, facilitating microtubule nucleation and stabilization during mitosis (Lawo2009HAUS).
+
+HAUS2 also interacts with microtubule-associated proteins and various tubulin subunits, suggesting its role in associating with the microtubule cytoskeleton (CunhaFerreira2018The). The HAUS complex's binding to microtubules is regulated by importins and Ran-GTP, with importin β reducing binding, which is reversible by RanQ69L (Ustinova2023Microtubule). This regulation highlights the dynamic nature of HAUS2's interactions with microtubules.
+
+Additionally, HAUS2 is involved in the localization of NuMA to spindle microtubules, with its depletion leading to reduced NuMA fluorescence intensity, indicating a functional interaction between HAUS2 and NuMA in spindle assembly (Lawo2009HAUS). These interactions underscore HAUS2's critical role in maintaining spindle integrity and function during cell division.
+
+
+## References
+
+
+[1. (Lawo2009HAUS) Steffen Lawo, Mikhail Bashkurov, Michael Mullin, Mariana Gomez Ferreria, Ralf Kittler, Bianca Habermann, Andrea Tagliaferro, Ina Poser, James R.A. Hutchins, Björn Hegemann, Deborah Pinchev, Frank Buchholz, Jan-Michael Peters, Anthony A. Hyman, Anne-Claude Gingras, and Laurence Pelletier. Haus, the 8-subunit human augmin complex, regulates centrosome and spindle integrity. Current Biology, 19(10):816–826, May 2009. URL: http://dx.doi.org/10.1016/j.cub.2009.04.033, doi:10.1016/j.cub.2009.04.033. This article has 219 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cub.2009.04.033)
+
+[2. (Wang2023A) Tao Wang, Senbang Yao, Siyu Li, Xichang Fei, and Mingjun Zhang. A prognostic model based on the augmin family genes for lgg patients. Scientific Reports, May 2023. URL: http://dx.doi.org/10.1038/s41598-023-34779-4, doi:10.1038/s41598-023-34779-4. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-023-34779-4)
+
+[3. (CunhaFerreira2018The) Inês Cunha-Ferreira, Anaël Chazeau, Robin R. Buijs, Riccardo Stucchi, Lena Will, Xingxiu Pan, Youri Adolfs, Christiaan van der Meer, Joanna C. Wolthuis, Olga I. Kahn, Philipp Schätzle, Maarten Altelaar, R. Jeroen Pasterkamp, Lukas C. Kapitein, and Casper C. Hoogenraad. The haus complex is a key regulator of non-centrosomal microtubule organization during neuronal development. Cell Reports, 24(4):791–800, July 2018. URL: http://dx.doi.org/10.1016/j.celrep.2018.06.093, doi:10.1016/j.celrep.2018.06.093. This article has 77 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2018.06.093)
+
+4. (Ustinova2023Microtubule) Microtubule binding of the human HAUS complex is directly controlled by importins and Ran-GTP. This article has 1 citations.
+
+[5. (Zupa2022The) Erik Zupa, Martin Würtz, Annett Neuner, Thomas Hoffmann, Mandy Rettel, Anna Böhler, Bram J. A. Vermeulen, Sebastian Eustermann, Elmar Schiebel, and Stefan Pfeffer. The augmin complex architecture reveals structural insights into microtubule branching. Nature Communications, September 2022. URL: http://dx.doi.org/10.1038/s41467-022-33228-6, doi:10.1038/s41467-022-33228-6. This article has 11 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-33228-6)

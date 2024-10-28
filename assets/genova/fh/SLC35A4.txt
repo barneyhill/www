@@ -1,0 +1,39 @@
+# SLC35A4
+
+## Overview
+SLC35A4 is a gene that encodes the protein solute carrier family 35 member A4, which is a member of the nucleotide sugar transporter (NST) family. This protein is primarily localized to the Golgi apparatus and is characterized by its transmembrane domains, which facilitate its role in transporting nucleotide sugars across cellular membranes. SLC35A4 is involved in critical cellular processes such as glycosylation, which is essential for protein folding, cell adhesion, and immune recognition. The protein's structure, including specific residues like Tyr214 and Ser261, contributes to its substrate specificity, allowing it to transport smaller molecules such as CDP-ribitol, but not larger ones like CMP-sialic acid (Ury2021The). SLC35A4 also participates in forming hetero-oligomeric complexes with other transporters, playing a significant role in maintaining cellular homeostasis and glycan biosynthesis regulation (Wiktor2021Identification; MaszczakSeneczko2022Delivery).
+
+## Structure
+The SLC35A4 protein is a member of the nucleotide sugar transporter (NST) family, primarily localized to the Golgi apparatus. It is characterized by an even number of transmembrane domains (TMDs), with both the N- and C-termini facing the cytosol, although in silico predictions suggest an uneven number of spans, resulting in the N-terminus being directed towards the cytosol (Hadley2019Nucleotide). The protein does not form homodimers but can associate with SLC35A5 (Hadley2019Nucleotide).
+
+SLC35A4 has a smaller substrate-binding cavity compared to SLC35A1, due to larger side chains in its structure, which likely restricts it from transporting larger molecules like CMP-sialic acid but may allow the transport of smaller molecules such as CDP-ribitol (Ury2021The). The structural homology model of SLC35A4 suggests potential binding modes for CDP-ribitol, indicating its role in glycosylation processes (Ury2021The).
+
+The protein's structure and function are influenced by specific residues, such as Tyr214 and Ser261, which are conserved and critical for nucleotide selectivity, interacting with the cytidine group of CMP (Ury2021The). These structural features contribute to its distinct substrate specificity and functional role within the cell.
+
+## Function
+SLC35A4 is a nucleotide sugar transporter involved in several critical cellular processes, primarily within the Golgi apparatus. It plays a significant role in glycosylation, a post-translational modification essential for protein folding, cell adhesion, and immune recognition (Wiktor2021Identification). SLC35A4 is part of a complex network of interactions, forming hetero-oligomers with other transporters like SLC35A5 and participating in ternary complexes with SLC35A2 and SLC35A3, which are crucial for maintaining proper localization and function of these complexes (MaszczakSeneczko2022Delivery).
+
+The protein is notably involved in ion homeostasis processes, such as maintaining transmembrane electrochemical gradients and sodium/potassium ion homeostasis, which are vital for cellular homeostasis (Wiktor2021Identification). SLC35A4 also interacts with glycosyltransferases, suggesting a role in glycan biosynthesis regulation, potentially acting as a hub protein in glycosylation-related networks (MaszczakSeneczko2022Delivery).
+
+In terms of molecular activity, SLC35A4 is implicated in the transport of CDP-ribitol, contributing to the glycosylation of α-dystroglycan, although it does not transport CMP-sialic acid, indicating a selective transport function (Ury2021The). This selective transport is influenced by the structural characteristics of its binding pocket, which accommodates smaller molecules (Ury2021The).
+
+## Interactions
+SLC35A4, a member of the solute carrier family, is involved in forming both homo-oligomeric and heteromeric assemblies with other nucleotide-sugar transporters in the Golgi membranes. Specifically, it interacts with SLC35A2 and SLC35A3, as demonstrated by significant Förster Resonance Energy Transfer (FRET) and Bimolecular Fluorescence Complementation (BiFC) signals, indicating specific interactions in the Golgi apparatus (KhoderAgha2019Nacetylglucosaminyltransferases).
+
+In addition to these interactions, SLC35A4 has been identified as having potential interaction partners through co-immunoprecipitation and mass spectrometry analyses. Notable interactions include those with basigin (BSG) and ATP2A2, which were confirmed using the NanoBiT Protein:Protein Interaction System. These interactions suggest a role for SLC35A4 in processes such as ion homeostasis and protein targeting to membranes (Wiktor2021Identification).
+
+SLC35A4 also shows redundancy with SLC35A1 in the transport of CDP-ribitol to the Golgi, although it cannot compensate for the loss of CMP-sialic acid transport in SLC35A1 knockout cells. This suggests a selective transport role for SLC35A4 in cytidine-phosphate-coupled molecules (Ury2021The).
+
+
+## References
+
+
+[1. (Ury2021The) Benoît Ury, Sven Potelle, Francesco Caligiore, Matthew R. Whorton, and Guido T. Bommer. The promiscuous binding pocket of slc35a1 ensures redundant transport of cdp-ribitol to the golgi. Journal of Biological Chemistry, 296:100789, January 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.100789, doi:10.1016/j.jbc.2021.100789. This article has 8 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.100789)
+
+[2. (Wiktor2021Identification) Maciej Wiktor, Wojciech Wiertelak, Dorota Maszczak-Seneczko, Piotr Jan Balwierz, Bożena Szulc, and Mariusz Olczak. Identification of novel potential interaction partners of udp-galactose (slc35a2), udp-n-acetylglucosamine (slc35a3) and an orphan (slc35a4) nucleotide sugar transporters. Journal of Proteomics, 249:104321, October 2021. URL: http://dx.doi.org/10.1016/j.jprot.2021.104321, doi:10.1016/j.jprot.2021.104321. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jprot.2021.104321)
+
+[3. (KhoderAgha2019Nacetylglucosaminyltransferases) Fawzi Khoder-Agha, Paulina Sosicka, Maria Escriva Conde, Antti Hassinen, Tuomo Glumoff, Mariusz Olczak, and Sakari Kellokumpu. N-acetylglucosaminyltransferases and nucleotide sugar transporters form multi-enzyme–multi-transporter assemblies in golgi membranes in vivo. Cellular and Molecular Life Sciences, 76(9):1821–1832, February 2019. URL: http://dx.doi.org/10.1007/s00018-019-03032-5, doi:10.1007/s00018-019-03032-5. This article has 39 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-019-03032-5)
+
+[4. (Hadley2019Nucleotide) Barbara Hadley, Thomas Litfin, Chris J. Day, Thomas Haselhorst, Yaoqi Zhou, and Joe Tiralongo. Nucleotide sugar transporter slc35 family structure and function. Computational and Structural Biotechnology Journal, 17:1123–1134, 2019. URL: http://dx.doi.org/10.1016/j.csbj.2019.08.002, doi:10.1016/j.csbj.2019.08.002. This article has 57 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.csbj.2019.08.002)
+
+[5. (MaszczakSeneczko2022Delivery) Dorota Maszczak-Seneczko, Maciej Wiktor, Edyta Skurska, Wojciech Wiertelak, and Mariusz Olczak. Delivery of nucleotide sugars to the mammalian golgi: a very well (un)explained story. International Journal of Molecular Sciences, 23(15):8648, August 2022. URL: http://dx.doi.org/10.3390/ijms23158648, doi:10.3390/ijms23158648. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms23158648)

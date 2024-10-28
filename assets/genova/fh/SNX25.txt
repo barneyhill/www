@@ -1,0 +1,44 @@
+# SNX25
+
+## Overview
+SNX25, or sorting nexin 25, is a gene that encodes a protein belonging to the sorting nexin family, which is involved in intracellular trafficking and protein sorting. The protein, sorting nexin 25, is characterized by its distinct domain architecture, including a PX domain, which is crucial for binding phosphoinositides, and a PXA domain, which plays a role in receptor degradation (Hao2011SNX25). SNX25 is ubiquitously expressed across various tissues, with notable abundance in the lung, spleen, kidney, and brain (Hao2011SNX25). Functionally, SNX25 is implicated in endocytosis, autophagic flux regulation, and the modulation of signaling pathways such as TGF-β and NF-κB, highlighting its role in cellular processes and potential involvement in neurological and inflammatory conditions (Lauzier2021Snazarus; Nishimura2021SNX25).
+
+## Structure
+SNX25 is a member of the sorting nexin family, characterized by its distinct domain architecture. The protein contains a putative 149-amino acid PXA domain (Val 14 - Leu 163), a 115-amino acid RGS domain (Gln 293 - Met 407), and a 113-amino acid PX domain (Ala 518 - Ser 630) (Hao2011SNX25). The PX domain is involved in binding phosphoinositides, which may regulate the molecular state of SNX25 (Hao2011SNX25). Within the PX domain, two highly conserved segments, RRLSEFQNLHRKL (Arg 557 - Leu 569) and SRNQLNAF (Ser 600 - Phe 607), are typical features of PX domains (Hao2011SNX25).
+
+The SNX25 protein sequence is highly conserved between humans and mice, sharing 86% identity and 90% similarity at the amino acid level (Hao2011SNX25). The PX domain of SNX25 is recruited to the plasma membrane via interaction with PtdIns(4,5)P2, and it shows significant chemical shift perturbations with di- and tri-phosphorylated phosphoinositides (Chandra2019Classification). SNX25 also contains two putative N-terminal transmembrane helices, leading to a predicted topology of a short cytoplasmic leader, two closely spaced transmembrane domains, and a long C-terminal structure containing the modular domains (Teasdale2011Insights). The protein is expressed ubiquitously in various tissues, with significant abundance in the lung, spleen, kidney, and brain (Hao2011SNX25).
+
+## Function
+SNX25 (sorting nexin 25) is involved in several critical cellular processes, primarily through its role in endocytosis and protein trafficking. It is known to regulate autophagic flux by affecting the endocytosis of VAMP8, a vesicle-associated membrane protein. SNX25 facilitates the internalization of VAMP8, which is crucial for maintaining efficient autophagic processes in cells. This function is dependent on the PX domain of SNX25, which interacts with phosphoinositides, although ER anchoring is not required for this activity (Lauzier2021Snazarus).
+
+SNX25 also plays a significant role in the degradation of TGF-β receptors, particularly TβRI, through clathrin-dependent endocytosis and lysosomal pathways. This process is essential for modulating TGF-β signaling, which influences various cellular responses such as proliferation and differentiation. The PXA domain of SNX25 is critical for this receptor degradation function (Hao2011SNX25).
+
+In the central nervous system, SNX25 is involved in the trafficking and degradation of tropomyosin receptor kinase B (TrkB), impacting BDNF-TrkB signaling pathways. This activity suggests a role in neuronal signaling and potentially in neurological conditions (Takemura2020Neural).
+
+## Clinical Significance
+SNX25 has been implicated in several diseases and conditions due to its role in cellular signaling and protein trafficking. Alterations in SNX25 expression have been observed in neurological disorders. For instance, SNX25 expression is elevated in the neocortex of patients with temporal lobe epilepsy and in the hippocampus and cortex of epileptic rats, suggesting a potential role in epilepsy (Takemura2020Neural). Additionally, SNX25 is considered a potential genetic modifier of the age at onset of familial Alzheimer's disease, indicating its involvement in neurodegenerative conditions (Takemura2020Neural).
+
+In the context of immune response, SNX25 negatively regulates proinflammatory cytokine expression via the NF-κB signaling pathway in macrophages. Knockdown of SNX25 leads to increased expression of cytokines such as IL-1β, TNF-α, and IL-6, which are associated with inflammatory responses. This suggests that SNX25 may play a role in modulating inflammation, potentially impacting conditions characterized by dysregulated inflammation (Nishimura2021SNX25).
+
+SNX25 is also involved in autophagic flux regulation, and its dysfunction could be linked to diseases like spinocerebellar ataxia autosomal recessive 20 (SCAR20), where another ortholog, SNX14, is mutated (Lauzier2021Snazarus). These findings highlight the clinical significance of SNX25 in various pathological conditions.
+
+## Interactions
+SNX25 interacts with several proteins, playing a significant role in various cellular processes. It physically interacts with the TGF-β receptor type I (TβRI), promoting its degradation through clathrin-dependent endocytosis and lysosomal pathways. This interaction is mediated by the PX and PXA domains of SNX25, with the PXA domain being critical for the degradation process (Hao2011SNX25). SNX25 also interacts with tropomyosin receptor kinase B (TrkB) in neurons, where it binds to the full-length TrkB but not its truncated isoform. This interaction facilitates the lysosomal degradation of TrkB, suggesting a role in regulating BDNF-TrkB signaling (Takemura2020Neural).
+
+In macrophages, SNX25 is involved in the NF-κB signaling pathway, where its knockdown leads to increased nuclear translocation of NF-κB and degradation of IκBα, indicating that SNX25 may inhibit IκBα ubiquitination (Nishimura2021SNX25). SNX25 also interacts with VAMP8, affecting its endocytosis and suggesting a role in autophagic flux regulation (Lauzier2021Snazarus). These interactions highlight SNX25's involvement in diverse signaling pathways and cellular processes.
+
+
+## References
+
+
+[1. (Teasdale2011Insights) Rohan D. Teasdale and Brett M. Collins. Insights into the px (phox-homology) domain and snx (sorting nexin) protein families: structures, functions and roles in disease. Biochemical Journal, 441(1):39–59, December 2011. URL: http://dx.doi.org/10.1042/bj20111226, doi:10.1042/bj20111226. This article has 321 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20111226)
+
+[2. (Chandra2019Classification) Mintu Chandra, Yanni K.-Y. Chin, Caroline Mas, J. Ryan Feathers, Blessy Paul, Sanchari Datta, Kai-En Chen, Xinying Jia, Zhe Yang, Suzanne J. Norwood, Biswaranjan Mohanty, Andrea Bugarcic, Rohan D. Teasdale, W. Mike Henne, Mehdi Mobli, and Brett M. Collins. Classification of the human phox homology (px) domains based on their phosphoinositide binding specificities. Nature Communications, April 2019. URL: http://dx.doi.org/10.1038/s41467-019-09355-y, doi:10.1038/s41467-019-09355-y. This article has 103 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-019-09355-y)
+
+[3. (Takemura2020Neural) Shoko Takemura, Ayami Isonishi, Tatsuhide Tanaka, Hiroaki Okuda, Kouko Tatsumi, Mariko Yamano, and Akio Wanaka. Neural expression of sorting nexin 25 and its regulation of tyrosine receptor kinase b trafficking. Brain Structure and Function, 225(9):2615–2642, September 2020. URL: http://dx.doi.org/10.1007/s00429-020-02144-0, doi:10.1007/s00429-020-02144-0. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s00429-020-02144-0)
+
+[4. (Nishimura2021SNX25) Kazuya Nishimura, Tatsuhide Tanaka, Shoko Takemura, Kouko Tatsumi, and Akio Wanaka. Snx25 regulates proinflammatory cytokine expression via the nf-κb signal in macrophages. PLOS ONE, 16(3):e0247840, March 2021. URL: http://dx.doi.org/10.1371/journal.pone.0247840, doi:10.1371/journal.pone.0247840. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0247840)
+
+5. (Lauzier2021Snazarus) Snazarus and its human ortholog SNX25 regulate autophagic flux by affecting VAMP8 endocytosis. This article has 1 citations.
+
+[6. (Hao2011SNX25) Xinbao Hao, Yinyin Wang, Fangli Ren, Shanshan Zhu, Yongming Ren, Baoqing Jia, Yi-Ping Li, Yuguang Shi, and Zhijie Chang. Snx25 regulates tgf-β signaling by enhancing the receptor degradation. Cellular Signalling, 23(5):935–946, May 2011. URL: http://dx.doi.org/10.1016/j.cellsig.2011.01.022, doi:10.1016/j.cellsig.2011.01.022. This article has 47 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cellsig.2011.01.022)

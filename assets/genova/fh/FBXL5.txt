@@ -1,0 +1,54 @@
+# FBXL5
+
+## Overview
+FBXL5 is a gene that encodes the F-box and leucine-rich repeat protein 5, a critical component of the SCF (SKP1-CUL1-F-box) E3 ubiquitin ligase complex. This protein is characterized by its F-box domain and leucine-rich repeats, which facilitate protein-protein interactions and binding, respectively (Powers2017Regulation). The protein also contains a hemerythrin-like domain that functions as an iron sensor, playing a pivotal role in maintaining iron homeostasis by regulating the degradation of iron regulatory proteins (IRPs) (Mayank2019An). FBXL5 is involved in cellular responses to oxidative stress and is active in both the cytoplasm and nucleus, influencing iron metabolism and preventing oxidative damage (Jiao2019Oxidative). Alterations in FBXL5 expression or function have significant clinical implications, particularly in cancer and hematopoietic disorders, highlighting its importance in cellular iron regulation and disease pathogenesis (Muto2017Essential; Muto2019Disruption).
+
+## Structure
+FBXL5 is a protein characterized by the presence of an F-box domain and leucine-rich repeats (LRRs), which are crucial for its role in the SCF (SKP1-CUL1-F-box protein) ubiquitin ligase complex. The F-box domain facilitates protein-protein interactions, while the LRRs aid in protein binding (Powers2017Regulation). FBXL5 contains a hemerythrin-like domain at its N-terminus, which is sensitive to iron and oxygen levels, influencing the protein's stability and function. This domain binds molecular oxygen via two iron atoms, a key feature of its molecular structure (Mayank2019An).
+
+The C-terminal region of FBXL5, specifically the CTBD (C-terminal binding domain), is composed of amino acids 470-592 and is essential for interaction with the CIA-targeting complex. This domain contains conserved cysteine residues necessary for binding, and mutations in these residues disrupt the interaction (Mayank2019An). FBXL5's interaction with the CIA-targeting complex is oxygen-dependent, affecting its ubiquitin ligase activity and, consequently, the regulation of iron regulatory proteins (IRPs) (Mayank2019An).
+
+FBXL5 undergoes post-translational modifications such as ubiquitination, which are crucial for its function in protein degradation and regulation of iron homeostasis (Powers2017Regulation).
+
+## Function
+FBXL5 is a crucial regulator of iron metabolism in human cells, functioning as a substrate recognition subunit of the SCF (SKP1-CUL1-F-box) E3 ubiquitin ligase complex. It plays a significant role in sensing intracellular iron levels and maintaining iron homeostasis by targeting iron regulatory proteins, particularly IRP2, for ubiquitination and subsequent degradation via the proteasome. This process is essential for regulating iron uptake, storage, and export in cells (Guo2021The; Hentze2010Two).
+
+FBXL5 contains a hemerythrin-like domain that acts as an iron sensor. In iron-replete conditions, the direct binding of iron to this domain stabilizes FBXL5, promoting the degradation of IRPs and preventing their binding to iron-responsive elements (IREs) on mRNA. This regulation is crucial for controlling the translation of genes involved in iron metabolism (Hentze2010Two).
+
+FBXL5 is active in both the cytoplasm and nucleus, influencing cellular responses to oxidative stress. It is involved in the degradation of IRP2 under oxidative stress conditions, which is important for maintaining iron balance and preventing excessive iron accumulation that could lead to oxidative damage (Jiao2019Oxidative).
+
+## Clinical Significance
+Alterations in FBXL5 expression or function have significant clinical implications, particularly in the context of cancer and hematopoietic disorders. In liver carcinogenesis, FBXL5 acts as an oncosuppressor. Its deficiency leads to hepatic iron overload, oxidative stress, and inflammation, promoting liver cancer development. This is particularly evident in hepatocellular carcinoma (HCC), where low FBXL5 expression is associated with poor prognosis and increased somatic mutations. The disruption of FBXL5-mediated iron homeostasis exacerbates oxidative stress and inflammation, contributing to liver cancer progression (Muto2019Disruption).
+
+In hematopoietic stem cells (HSCs), FBXL5 is crucial for maintaining iron homeostasis. Its deficiency is linked to myelodysplastic syndromes (MDS), characterized by ineffective hematopoiesis and bone marrow failure. Downregulation of FBXL5 in HSCs leads to increased IRP2 activity, contributing to iron overload and oxidative stress, which are implicated in the pathogenesis of MDS (Muto2017Essential).
+
+FBXL5 also plays a role in gastric and colon cancers. It inhibits epithelial-mesenchymal transition and metastasis in gastric cancer by targeting Snail, while in colon cancer, FBXL5 promotes progression via the PTEN-PI3K-AKT pathway, with high expression linked to poor survival (Yumimoto2020FBox).
+
+## Interactions
+FBXL5 is a component of the SCF (SKP1-CUL1-F-box protein) E3 ubiquitin ligase complex, which plays a crucial role in regulating iron homeostasis through its interactions with various proteins. FBXL5 interacts with iron regulatory proteins IRP1 and IRP2, facilitating their degradation via ubiquitination. This interaction is mediated by a [2Fe2S] cluster within FBXL5, which is essential for the recognition and binding of IRP2. The cluster's redox state influences FBXL5's ability to bind IRP2, with the oxidized state promoting interaction (Wang2020FBXL5).
+
+FBXL5 also interacts with the CIA-targeting complex, which includes components like MMS19, FAM96B, and CIAO1. This complex enhances FBXL5's ability to ubiquitinate IRP2, although it is not itself a substrate for FBXL5-mediated degradation. The interaction between FBXL5 and the CIA-targeting complex is oxygen-dependent, with normal oxygen levels promoting the association and low oxygen impairing it (Mayank2019An).
+
+FBXL5's interaction with IRP2 is also influenced by its competition with iron-responsive elements (IREs) for binding. FBXL5 can displace IRP2 from IREs, facilitated by its structural features that overlap with the IRE binding site on IRP2 (Wang2020FBXL5).
+
+
+## References
+
+
+[1. (Muto2017Essential) Yoshiharu Muto, Masaaki Nishiyama, Akihiro Nita, Toshiro Moroishi, and Keiichi I. Nakayama. Essential role of fbxl5-mediated cellular iron homeostasis in maintenance of hematopoietic stem cells. Nature Communications, July 2017. URL: http://dx.doi.org/10.1038/ncomms16114, doi:10.1038/ncomms16114. This article has 52 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms16114)
+
+2. (Powers2017Regulation) Regulation of Iron Homeostasis by SPAK-dependent Modulation of FBXL5 Stability. This article has 0 citations.
+
+[3. (Muto2019Disruption) Yoshiharu Muto, Toshiro Moroishi, Kazuya Ichihara, Masaaki Nishiyama, Hideyuki Shimizu, Hidetoshi Eguchi, Kyoji Moriya, Kazuhiko Koike, Koshi Mimori, Masaki Mori, Yuta Katayama, and Keiichi I. Nakayama. Disruption of fbxl5-mediated cellular iron homeostasis promotes liver carcinogenesis. Journal of Experimental Medicine, 216(4):950–965, March 2019. URL: http://dx.doi.org/10.1084/jem.20180900, doi:10.1084/jem.20180900. This article has 44 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1084/jem.20180900)
+
+[4. (Jiao2019Oxidative) Qian Jiao, Xixun Du, Jie Wei, Yong Li, and Hong Jiang. Oxidative stress regulated iron regulatory protein irp2 through fbxl5-mediated ubiquitination-proteasome way in sh-sy5y cells. Frontiers in Neuroscience, January 2019. URL: http://dx.doi.org/10.3389/fnins.2019.00020, doi:10.3389/fnins.2019.00020. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fnins.2019.00020)
+
+[5. (Mayank2019An) Adarsh K. Mayank, Vijaya Pandey, Ajay A. Vashisht, William D. Barshop, Shima Rayatpisheh, Tanu Sharma, Tisha Haque, David N. Powers, and James A. Wohlschlegel. An oxygen-dependent interaction between fbxl5 and the cia-targeting complex regulates iron homeostasis. Molecular Cell, 75(2):382-393.e5, July 2019. URL: http://dx.doi.org/10.1016/j.molcel.2019.05.020, doi:10.1016/j.molcel.2019.05.020. This article has 21 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2019.05.020)
+
+[6. (Guo2021The) Qianqian Guo, Liwen Li, Shanshan Hou, Ziqiao Yuan, Chenhui Li, Wenzhou Zhang, Lufeng Zheng, and Xiaoman Li. The role of iron in cancer progression. Frontiers in Oncology, November 2021. URL: http://dx.doi.org/10.3389/fonc.2021.778492, doi:10.3389/fonc.2021.778492. This article has 70 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.778492)
+
+[7. (Wang2020FBXL5) Hui Wang, Hui Shi, Malini Rajan, Elizabeth R. Canarie, Seoyeon Hong, Daniele Simoneschi, Michele Pagano, Matthew F. Bush, Stefan Stoll, Elizabeth A. Leibold, and Ning Zheng. Fbxl5 regulates irp2 stability in iron homeostasis via an oxygen-responsive [2fe2s] cluster. Molecular Cell, 78(1):31-41.e5, April 2020. URL: http://dx.doi.org/10.1016/j.molcel.2020.02.011, doi:10.1016/j.molcel.2020.02.011. This article has 110 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2020.02.011)
+
+[8. (Hentze2010Two) Matthias W. Hentze, Martina U. Muckenthaler, Bruno Galy, and Clara Camaschella. Two to tango: regulation of mammalian iron metabolism. Cell, 142(1):24–38, July 2010. URL: http://dx.doi.org/10.1016/j.cell.2010.06.028, doi:10.1016/j.cell.2010.06.028. This article has 1596 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2010.06.028)
+
+[9. (Yumimoto2020FBox) Kanae Yumimoto, Yuhei Yamauchi, and Keiichi I. Nakayama. F-box proteins and cancer. Cancers, 12(5):1249, May 2020. URL: http://dx.doi.org/10.3390/cancers12051249, doi:10.3390/cancers12051249. This article has 37 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers12051249)

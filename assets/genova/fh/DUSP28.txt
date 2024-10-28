@@ -1,0 +1,48 @@
+# DUSP28
+
+## Overview
+DUSP28 is a gene that encodes the protein dual specificity phosphatase 28, which is classified as an atypical dual-specificity phosphatase (DUSP). This protein is involved in the regulation of cellular signaling pathways by dephosphorylating both tyrosine and serine/threonine residues, playing a crucial role in mitochondrial dynamics and homeostasis, particularly under conditions of endoplasmic reticulum stress (Bhansali2024ER). Structurally, DUSP28 exhibits a canonical DUSP fold with a central β-sheet flanked by α-helices, and it features a unique active site with nonconserved residues that contribute to its low phosphatase activity (Ku2017Structural). The protein's interactions with other proteins, such as Drp1, facilitate mitochondrial fission and mitophagy, processes essential for cellular stress responses (Bhansali2024ER). Clinically, DUSP28 is implicated in various cancers, including breast, hepatocellular, and pancreatic cancers, where its altered expression and interactions promote tumor progression and chemoresistance, highlighting its potential as a therapeutic target (Zhang2022DUSP28; WANG2014DUSP28; Lee2017Autocrine).
+
+## Structure
+The molecular structure of DUSP28 has been elucidated through crystallography, revealing a canonical dual-specificity phosphatase (DUSP) fold. This structure is characterized by a central β-sheet flanked by α-helices, forming a typical DUSP architecture (Ku2017Structural). The protein consists of 176 residues, with the crystal structure showing visible residues from 12-159 in one molecule and 19-161 in another, suggesting a monomeric form in solution despite a dimeric appearance in the crystal, likely due to crystallographic artifacts (Ku2017Structural).
+
+DUSP28's active site includes a positively charged catalytic pocket, which is partially exposed and occupied by a phosphate ion. This pocket is stabilized by hydrogen bonds and electrostatic interactions. The protein tyrosine phosphatase (PTP) signature motif includes a catalytic cysteine residue, Cys103, which was substituted with serine in the study, and a conserved arginine, Arg109, that assists in the enzymatic reaction (Ku2017Structural). Unique to DUSP28, the PTP signature motif contains nonconserved residues such as Tyr102, Asn105, and Arg107, which contribute to its atypically low phosphatase activity by limiting substrate access (Ku2017Structural). The structure lacks regulatory domains like the MAPK binding domain found in other DUSPs, classifying it as an atypical DUSP (Ku2017Structural).
+
+## Function
+DUSP28 is a dual-specificity phosphatase involved in regulating cellular signaling pathways by dephosphorylating both tyrosine and serine/threonine residues. It plays a significant role in mitochondrial dynamics and homeostasis, particularly under conditions of endoplasmic reticulum (ER) stress. DUSP28 is primarily localized in the cytosol but translocates to mitochondria in response to ER stress, a process mediated by PERK signaling. This translocation is crucial for maintaining mitochondrial homeostasis and involves the dephosphorylation of specific residues, such as Y102 and S125, which are critical for its function and localization (Bhansali2024ER).
+
+DUSP28 also interacts with Drp1, a protein involved in mitochondrial fission, suggesting that DUSP28 promotes mitochondrial fragmentation under stress conditions by dephosphorylating Drp1 at S637. This activity is essential for the regulation of mitochondrial fission and the clearance of damaged mitochondria through STX17-dependent mitophagy, which is vital for cell survival during stress (Bhansali2024ER). The phosphorylation status of DUSP28 influences its localization and function, with phosphorylation at Y102 and S125 keeping it in the cytosol, while dephosphorylation allows mitochondrial translocation (Bhansali2024ER).
+
+## Clinical Significance
+DUSP28 is implicated in several cancers due to its altered expression and interactions. In breast cancer, DUSP28 expression is upregulated, promoting cell proliferation, migration, and invasion through the Akt/β-catenin/Slug signaling pathway. This upregulation is associated with advanced tumor stages and lymph node metastasis, suggesting a role in cancer progression (Zhang2022DUSP28).
+
+In hepatocellular carcinoma (HCC), DUSP28 is overexpressed, contributing to increased cell proliferation and tumor growth by activating the p38 MAPK signaling pathway. This overexpression is linked to enhanced cell cycle progression and tumorigenesis, indicating its potential as a therapeutic target in HCC (WANG2014DUSP28).
+
+DUSP28 also plays a significant role in pancreatic cancer, where it forms an autocrine loop with PDGF-A, enhancing malignancy through the ERK1/2 and p38 signaling pathways. Its overexpression is associated with chemoresistance to drugs like gemcitabine and doxorubicin, mediated by inhibiting apoptosis and promoting cell migration (Ruckert2019Protein; Lee2017Autocrine).
+
+These findings highlight DUSP28's involvement in cancer progression and resistance, making it a potential target for therapeutic intervention in various cancers.
+
+## Interactions
+DUSP28 interacts with several proteins involved in mitochondrial dynamics and stress responses. It has been shown to inhibit parkin-mediated clearance of damaged mitochondria and is involved in STX17-mediated mitophagy. DUSP28 localizes to the cytosol and translocates to mitochondria via PERK-dependent ER stress activation. It interacts with STX17, as evidenced by the significant association of FLAG-STX17 with DUSP28-GFP on mitochondria, suggesting that DUSP28 may initiate STX17-mediated mitophagy by inhibiting parkin-dependent mitophagy (Bhansali2024ER).
+
+DUSP28 also interacts with the Drp1 protein, facilitating the dephosphorylation of Drp1 at the S637 site, which is crucial for mitochondrial fission. In DUSP28 knockdown cells, there is an upregulation of phosphorylated Drp1 at S637, leading to reduced mitochondrial fission and elongated mitochondria. DUSP28's localization to mitochondria is Drp1-dependent, as knockdown of Drp1 reduces DUSP28's mitochondrial localization and affects mitochondrial morphology (Bhansali2024ER).
+
+In the context of cancer, DUSP28 is secreted by metastatic pancreatic cancer cells and enhances malignancy through the activation of MAPK signaling pathways. It interacts with ITGα1, which is related to angiogenesis, indicating a role in cancer progression (Lee2018DUSP28).
+
+
+## References
+
+
+1. (Bhansali2024ER) ER stress and mitochondrial dynamics: a tale of a wandering phosphatase DUSP28. This article has 0 citations.
+
+[2. (Ruckert2019Protein) Mariana Tannús Ruckert, Pamela Viani de Andrade, Verena Silva Santos, and Vanessa Silva Silveira. Protein tyrosine phosphatases: promising targets in pancreatic ductal adenocarcinoma. Cellular and Molecular Life Sciences, 76(13):2571–2592, April 2019. URL: http://dx.doi.org/10.1007/s00018-019-03095-4, doi:10.1007/s00018-019-03095-4. This article has 17 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1007/s00018-019-03095-4)
+
+[3. (Zhang2022DUSP28) Jiabo Zhang and Yu Guo. Dusp28 promotes cell proliferation, migration, and invasion by akt/β-catenin/slug axis in breast cancer. Acta Biochimica Polonica, December 2022. URL: http://dx.doi.org/10.18388/abp.2020_5843, doi:10.18388/abp.2020_5843. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.18388/abp.2020_5843)
+
+[4. (Ku2017Structural) Bonsu Ku, Won Hong, Chae Won Keum, Myeongbin Kim, Hyunyeol Ryu, Donghwan Jeon, Ho-Chul Shin, Jae Hoon Kim, Seung Jun Kim, and Seong Eon Ryu. Structural and biochemical analysis of atypically low dephosphorylating activity of human dual-specificity phosphatase 28. PLOS ONE, 12(11):e0187701, November 2017. URL: http://dx.doi.org/10.1371/journal.pone.0187701, doi:10.1371/journal.pone.0187701. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0187701)
+
+[5. (WANG2014DUSP28) DONG WANG, SHENG HAN, RUI PENG, CHENYU JIAO, XING WANG, ZEGUANG HAN, and XIANGCHENG LI. Dusp28 contributes to human hepatocellular carcinoma via regulation of the p38 mapk signaling. International Journal of Oncology, 45(6):2596–2604, September 2014. URL: http://dx.doi.org/10.3892/ijo.2014.2653, doi:10.3892/ijo.2014.2653. This article has 15 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.2014.2653)
+
+6. (Lee2018DUSP28) DUSP28 is a novel biomarker responsible for aggravating malignancy via the autocrine signaling pathways in metastatic pancreatic cancer. This article has 0 citations.
+
+[7. (Lee2017Autocrine) Jungwhoi Lee, Jungsul Lee, Jeong Hun Yun, Chulhee Choi, Sayeon Cho, Seung Jun Kim, and Jae Hoon Kim. Autocrine dusp28 signaling mediates pancreatic cancer malignancy via regulation of pdgf-a. Scientific Reports, October 2017. URL: http://dx.doi.org/10.1038/s41598-017-13023-w, doi:10.1038/s41598-017-13023-w. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-017-13023-w)

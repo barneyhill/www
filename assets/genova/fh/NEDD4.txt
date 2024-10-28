@@ -1,0 +1,58 @@
+# NEDD4
+
+## Overview
+NEDD4 is a gene that encodes the NEDD4 E3 ubiquitin-protein ligase, a crucial enzyme involved in the ubiquitin-proteasome system, which tags proteins for degradation. This ligase is characterized by its modular structure, including a C2 domain, multiple WW domains, and a HECT domain, which facilitate its interactions with various substrates and regulatory proteins. NEDD4 plays a significant role in numerous cellular processes, such as autophagy, regulation of ion channels like the epithelial sodium channel (ENaC), and modulation of growth factor receptor signaling pathways, including those involving the insulin-like growth factor 1 receptor (IGF-1R) and insulin receptor (IR) (Sun2017The; Ingham2004The; Yang2009Nedd4). The gene's expression and activity are tightly regulated, and its dysregulation has been implicated in several diseases, particularly cancers, where it can act as an oncogene by targeting tumor suppressors for degradation (Wan2019NEDD4; Xu2024NEDD4).
+
+## Structure
+NEDD4 is an E3 ubiquitin-protein ligase characterized by a modular architecture comprising a C2 domain, multiple WW domains, and a HECT domain. The C2 domain is involved in membrane recruitment and localization, interacting with phospholipids and proteins through a Ca2+-dependent mechanism. Structurally, it forms an eight-stranded beta-sandwich composed of two four-stranded beta-sheets (Ingham2004The).
+
+The WW domains of NEDD4 are small modules that recognize proline-rich motifs such as PPxY, PPLP, and PR, as well as phosphoserine/threonine residues. These domains have a consensus three-stranded anti-parallel beta-sheet fold, forming a hydrophobic ligand-binding groove with a conserved XP groove for binding (Ingham2004The). The WW domains are crucial for substrate recognition and interaction, as seen in their binding to the carboxyl terminus of connexin43 (Cx43CT) (Spagnol2016Structural).
+
+The HECT domain is responsible for the transfer of ubiquitin from an E2 enzyme to target proteins. It consists of two lobes connected by a flexible hinge loop, essential for its catalytic activity (Ingham2004The). NEDD4 undergoes post-translational modifications, such as phosphorylation, which can influence its interactions and functions (Spagnol2016Structural). The protein also has several splice variant isoforms, adding complexity to its functional roles (Ingham2004The).
+
+## Function
+NEDD4 is an E3 ubiquitin ligase that plays a crucial role in various cellular processes by tagging proteins for degradation via the ubiquitin-proteasome system. It is involved in autophagy, a cellular degradation process essential for recycling and removing misfolded proteins, damaged organelles, and external pathogens. NEDD4 interacts with the LC3 family, which is crucial for autophagosomal biogenesis and transport, and its knockdown impairs autophagy activation and autophagosomal biogenesis (Sun2017The). NEDD4 also ubiquitinates SQSTM1, a protein involved in autophagy, while LC3 acts as an activator of NEDD4 ligase activity (Sun2017The).
+
+In addition to its role in autophagy, NEDD4 regulates the epithelial sodium channel (ENaC), which is important for fluid and electrolyte homeostasis. NEDD4 binds to the ENaC complex, leading to its ubiquitination and subsequent downregulation through internalization and degradation, which is essential for controlling sodium ion uptake and maintaining electrolyte balance (Ingham2004The).
+
+NEDD4 is also involved in the regulation of growth factor receptors, such as the insulin-like growth factor 1 receptor (IGF-1R) and insulin receptor (IR), affecting signaling pathways like the PI3K pathway, which are crucial for growth and proliferation (Yang2009Nedd4).
+
+## Clinical Significance
+Alterations in the expression of the NEDD4 gene, an E3 ubiquitin ligase, have been implicated in various diseases, particularly cancers. In breast cancer, high NEDD4 expression is associated with poor prognosis, including lower overall survival and disease-free survival rates. It is linked to advanced cancer stages and lymph node metastasis, serving as an independent prognostic factor for poor outcomes (Wan2019NEDD4). NEDD4 is also overexpressed in colorectal cancer, where it plays oncogenic roles by targeting tumor suppressors like PTEN and FOXA1 for degradation, affecting pathways such as WNT signaling (Xu2024NEDD4).
+
+In non-small-cell lung carcinomas (NSCLC), NEDD4-1, a variant of NEDD4, is significantly overexpressed, correlating with decreased PTEN levels and increased tumorigenesis. This overexpression is linked to gene amplification at the 15q21.3 locus, suggesting a role in lung cancer pathogenesis (Amodio2010Oncogenic). In prostate and bladder cancers, NEDD4-1 overexpression is associated with reduced PTEN levels, enhancing oncogenic signaling pathways like AKT (Wang2007NEDD4-1).
+
+NEDD4's involvement in liver cancer, particularly hepatocellular carcinoma, is marked by its role in ubiquitination processes that influence cell proliferation and angiogenesis, suggesting potential therapeutic targets (Xu2024NEDD4).
+
+## Interactions
+NEDD4, a human E3 ubiquitin ligase, is known for its interactions with various proteins, primarily through its WW domains that recognize PY motifs. These interactions are crucial for its role in protein ubiquitylation and regulation of cellular processes. NEDD4 interacts with proteins such as N4BP1, N4BP2, and N4BP3, which were identified as binding partners through yeast two-hybrid screens. N4BP1 and N4BP2 are ubiquitylation substrates of NEDD4, with N4BP1 undergoing monoubiquitylation and N4BP2 undergoing polyubiquitylation. N4BP3, although not ubiquitylated, associates with NEDD4 in cells (Murillas2002Identification).
+
+NEDD4 also interacts with proteins involved in signaling pathways, such as the RNA Pol II subunit RTF1 and FGFR1, which are specific substrates for NEDD4-1. NEDD4-1 acts as a negative regulator of FGFR1, as its absence leads to sustained signaling (Persaud2009Comparison). The ligase also binds and ubiquitylates EGFR, indicating its role in downregulating EGFR-mediated signaling (Persaud2009Comparison).
+
+The interactions of NEDD4 are not limited to proteins with PY motifs. For instance, N4WBP1 interacts with NEDD4 independently of its PY motif, suggesting alternative binding sequences (JOLLIFFE2000Identification). These interactions highlight the diverse roles of NEDD4 in cellular regulation and development.
+
+
+## References
+
+
+[1. (Wan2019NEDD4) Lingfeng Wan, Tao Liu, Zhipeng Hong, You Pan, Steven T. Sizemore, Junran Zhang, and Zhefu Ma. Nedd4 expression is associated with breast cancer progression and is predictive of a poor prognosis. Breast Cancer Research, December 2019. URL: http://dx.doi.org/10.1186/s13058-019-1236-7, doi:10.1186/s13058-019-1236-7. This article has 25 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s13058-019-1236-7)
+
+[2. (Murillas2002Identification) Rodolfo Murillas, Kimberly S. Simms, Shigetsugu Hatakeyama, Allan M. Weissman, and Michael R. Kuehn. Identification of developmentally expressed proteins that functionally interact with nedd4 ubiquitin ligase. Journal of Biological Chemistry, 277(4):2897–2907, January 2002. URL: http://dx.doi.org/10.1074/JBC.M110047200, doi:10.1074/jbc.m110047200. This article has 95 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/JBC.M110047200)
+
+[3. (Sun2017The) Aiqin Sun, Jing Wei, Chandra Childress, John H. Shaw, Ke Peng, Genbao Shao, Wannian Yang, and Qiong Lin. The e3 ubiquitin ligase nedd4 is an lc3-interactive protein and regulates autophagy. Autophagy, 13(3):522–537, January 2017. URL: http://dx.doi.org/10.1080/15548627.2016.1268301, doi:10.1080/15548627.2016.1268301. This article has 63 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1080/15548627.2016.1268301)
+
+[4. (Wang2007NEDD4-1) Xinjiang Wang, Lloyd C. Trotman, Theresa Koppie, Andrea Alimonti, Zhenbang Chen, Zhonghua Gao, Junru Wang, Hediye Erdjument-Bromage, Paul Tempst, Carlos Cordon-Cardo, Pier Paolo Pandolfi, and Xuejun Jiang. Nedd4-1 is a proto-oncogenic ubiquitin ligase for pten. Cell, 128(1):129–139, January 2007. URL: http://dx.doi.org/10.1016/j.cell.2006.11.039, doi:10.1016/j.cell.2006.11.039. This article has 556 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2006.11.039)
+
+[5. (Amodio2010Oncogenic) Nicola Amodio, Marianna Scrima, Lucia Palaia, Ali Naeem Salman, Alfina Quintiero, Renato Franco, Gerardo Botti, Pino Pirozzi, Gaetano Rocco, Nicla De Rosa, and Giuseppe Viglietto. Oncogenic role of the e3 ubiquitin ligase nedd4-1, a pten negative regulator, in non-small-cell lung carcinomas. The American Journal of Pathology, 177(5):2622–2634, November 2010. URL: http://dx.doi.org/10.2353/ajpath.2010.091075, doi:10.2353/ajpath.2010.091075. This article has 111 citations.](https://doi.org/10.2353/ajpath.2010.091075)
+
+[6. (Spagnol2016Structural) Gaelle Spagnol, Fabien Kieken, Jennifer L. Kopanic, Hanjun Li, Sydney Zach, Kelly L. Stauch, Rosslyn Grosely, and Paul L. Sorgen. Structural studies of the nedd4 ww domains and their selectivity for the connexin43 (cx43) carboxyl terminus. Journal of Biological Chemistry, 291(14):7637–7650, April 2016. URL: http://dx.doi.org/10.1074/jbc.M115.701417, doi:10.1074/jbc.m115.701417. This article has 57 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M115.701417)
+
+[7. (Persaud2009Comparison) Avinash Persaud, Philipp Alberts, Eva M Amsen, Xuejian Xiong, James Wasmuth, Zachary Saadon, Chris Fladd, John Parkinson, and Daniela Rotin. Comparison of substrate specificity of the ubiquitin ligases nedd4 and nedd4‐2 using proteome arrays. Molecular Systems Biology, January 2009. URL: http://dx.doi.org/10.1038/msb.2009.85, doi:10.1038/msb.2009.85. This article has 124 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/msb.2009.85)
+
+[8. (JOLLIFFE2000Identification) Corina N. JOLLIFFE, Kieran F. HARVEY, Bryan P. HAINES, Gayathri PARASIVAM, and Sharad KUMAR. Identification of multiple proteins expressed in murine embryos as binding partners for the ww domains of the ubiquitin-protein ligase nedd4. Biochemical Journal, 351(3):557–565, October 2000. URL: http://dx.doi.org/10.1042/bj3510557, doi:10.1042/bj3510557. This article has 67 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj3510557)
+
+[9. (Xu2024NEDD4) Jiafan Xu, Wang Jiang, Tian Hu, Yan Long, and Yueming Shen. Nedd4 and nedd4l: ubiquitin ligases closely related to digestive diseases. Biomolecules, 14(5):577, May 2024. URL: http://dx.doi.org/10.3390/biom14050577, doi:10.3390/biom14050577. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom14050577)
+
+[10. (Ingham2004The) Robert J Ingham, Gerald Gish, and Tony Pawson. The nedd4 family of e3 ubiquitin ligases: functional diversity within a common modular architecture. Oncogene, 23(11):1972–1984, March 2004. URL: http://dx.doi.org/10.1038/sj.onc.1207436, doi:10.1038/sj.onc.1207436. This article has 627 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.onc.1207436)
+
+[11. (Yang2009Nedd4) B Yang and S Kumar. Nedd4 and nedd4-2: closely related ubiquitin-protein ligases with distinct physiological functions. Cell Death &amp; Differentiation, 17(1):68–77, June 2009. URL: http://dx.doi.org/10.1038/cdd.2009.84, doi:10.1038/cdd.2009.84. This article has 182 citations.](https://doi.org/10.1038/cdd.2009.84)

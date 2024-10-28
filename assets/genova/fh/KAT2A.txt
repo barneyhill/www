@@ -1,0 +1,48 @@
+# KAT2A
+
+## Overview
+KAT2A, or lysine acetyltransferase 2A, is a gene that encodes a protein belonging to the GNAT family of acetyltransferases, which are pivotal in the regulation of gene expression through histone modification. The KAT2A protein functions primarily as a histone acetyltransferase, catalyzing the acetylation of specific lysine residues on histone proteins, thereby influencing chromatin structure and gene transcription. It is a key component of the SAGA and ATAC complexes, which are involved in transcriptional regulation and chromatin remodeling. Beyond histones, KAT2A also acetylates non-histone proteins, impacting various cellular processes such as DNA replication and cell cycle progression. The protein's structural features, including a catalytic domain and a bromodomain, facilitate its interaction with acetylated lysine residues, enhancing its role in gene expression regulation. KAT2A is crucial for normal embryonic development and has significant implications in cancer biology, where its dysregulation is associated with poor prognosis in several cancer types (Arede2021Buffering; Sbardella2019Histone; Fiorentino2020Lysine).
+
+## Structure
+KAT2A, also known as lysine acetyltransferase 2A, is a member of the GNAT family of acetyltransferases and is involved in histone modifications. The protein is characterized by a catalytic domain that includes conserved motifs essential for acetyl-CoA recognition and binding, which are typical of the GNAT family (Fiorentino2020Lysine). The catalytic mechanism involves forming a ternary complex with acetyl-CoA and the target protein (Sbardella2019Histone).
+
+KAT2A contains a bromodomain, which helps recognize and bind to acetylated lysine residues, facilitating its role in gene expression regulation (Sbardella2019Histone). The protein's structure includes a 400-residue N-terminal region that is crucial for substrate recognition, allowing it to acetylate histones in a nucleosomal context (Sbardella2019Histone).
+
+In terms of quaternary structure, KAT2A can form a high-order assembly, specifically an octahedral supramolecular structure with 24 KAT2A molecules. This assembly is characterized by 4-fold, 3-fold, and 2-fold symmetry axes and is mediated by strong interactions at dimer and tetramer interfaces (Wang2018Supramolecular). This structural organization is significant for its function in histone succinylation and acetylation.
+
+## Function
+KAT2A, also known as lysine acetyltransferase 2A, is a crucial enzyme in the regulation of gene expression through histone acetylation. It primarily acetylates histone H3 on lysine 9 (H3K9) and lysine 14 (H3K14), which are associated with transcriptional activation, and to a lesser extent, histone H4 on lysines 8 and 16 (Fournier2016KAT2AKAT2Btargeted; Sbardella2019Histone). KAT2A operates within two major multisubunit complexes, SAGA and ATAC, which enhance its catalytic activity and expand its lysine target specificity (Sbardella2019Histone; Arede2021Buffering).
+
+In addition to histone acetylation, KAT2A acetylates non-histone proteins, influencing various cellular processes such as chromatin remodeling, transcriptional regulation, DNA replication, and cell cycle progression (Fournier2016KAT2AKAT2Btargeted). It plays a significant role in maintaining genomic stability by preventing centrosome amplification through the acetylation of PLK4, a key regulator of centrosome duplication (Fournier2016KAT2AKAT2Btargeted).
+
+KAT2A is essential for normal embryonic development and is involved in stabilizing pluripotency gene regulatory networks, which are crucial for correct lineage specification and differentiation (Sbardella2019Histone; Arede2021Buffering). Its activity is vital for maintaining stable transcription and cell identity, particularly in the context of development and cancer (Arede2021Buffering).
+
+## Clinical Significance
+KAT2A, also known as lysine acetyltransferase 2A, plays a significant role in various cancers due to its involvement in transcriptional regulation and chromatin remodeling. Alterations in KAT2A expression are linked to poor prognosis in several cancers, including breast cancer, non-small cell lung carcinoma, and colon cancer, where it co-activates E2F and MYC transcriptional targets (Arede2021Buffering). In acute myeloid leukemia (AML), KAT2A is crucial for maintaining undifferentiated leukemia cells, and its knockout disrupts the capacity of leukemia stem-like cells to repopulate, indicating its role in maintaining stem cell potential (Arede2021Buffering).
+
+KAT2A also influences cancer progression through its acetylation of non-histone proteins. It acetylates the oncoprotein c-MYC, increasing its stability and potentially contributing to cancer development (BondyChorney2019Nonhistone). In pediatric pre-B-cell acute lymphoblastic leukemia (ALL), KAT2A interacts with the E2A-PBX1 fusion protein, affecting its acetylation and stability, which may influence cancer progression (BondyChorney2019Nonhistone).
+
+In addition to its role in cancer, KAT2A is involved in developmental processes. Mutations in its catalytic domain can lead to defects in cranial neural tube closure and craniofacial abnormalities, highlighting its importance in early developmental programs (Koutelou2021Complex).
+
+## Interactions
+KAT2A, also known as lysine acetyltransferase 2A, is involved in several protein interactions that are crucial for its function in gene regulation and chromatin remodeling. KAT2A is a component of the SAGA (Spt-Ada-Gcn5-Acetyltransferase) and ATAC (Ada-Two-A-Containing) complexes, which are involved in transcriptional regulation and chromatin modification. Within the SAGA complex, KAT2A interacts with proteins such as SGF29, TADA3, and TADA2B, which are part of the histone acetyltransferase module. SGF29 recruits KAT2A to active promoters marked by H3K4 methylation (Arede2021Buffering). The SAGA complex also includes a transcription factor interaction module, TRRAP, and a splicing module composed of SF3B3 and SF3B5 (Arede2021Buffering).
+
+In the ATAC complex, KAT2A interacts with proteins like YEATS2, DR1/NC2b, ZZZ3, WDR5, MBIP, and KAT14. YEATS2 reads H3K27ac and interacts with TBP, while WDR5 is shared with MLL methyltransferase complexes, linking H3K4me and H3K9ac chromatin marks (Arede2021Buffering). KAT2A also interacts with PLK4, a kinase involved in centrosome duplication, by acetylating it at specific lysine residues, which inhibits its activity and prevents centrosome amplification (Fournier2016KAT2AKAT2Btargeted). These interactions highlight KAT2A's role in regulating protein functions and maintaining genomic stability.
+
+
+## References
+
+
+[1. (Sbardella2019Histone) Gianluca Sbardella. Histone acetyltransferases: targets and inhibitors. February 2019. URL: http://dx.doi.org/10.1002/9783527809257.ch12, doi:10.1002/9783527809257.ch12. This article has 0 citations.](https://doi.org/10.1002/9783527809257.ch12)
+
+[2. (Fiorentino2020Lysine) Francesco Fiorentino, Antonello Mai, and Dante Rotili. Lysine acetyltransferase inhibitors from natural sources. Frontiers in Pharmacology, August 2020. URL: http://dx.doi.org/10.3389/fphar.2020.01243, doi:10.3389/fphar.2020.01243. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2020.01243)
+
+[3. (Wang2018Supramolecular) Yugang Wang, Yusong R. Guo, Dongming Xing, Yizhi Jane Tao, and Zhimin Lu. Supramolecular assembly of kat2a with succinyl-coa for histone succinylation. Cell Discovery, August 2018. URL: http://dx.doi.org/10.1038/s41421-018-0048-8, doi:10.1038/s41421-018-0048-8. This article has 28 citations.](https://doi.org/10.1038/s41421-018-0048-8)
+
+[4. (Koutelou2021Complex) Evangelia Koutelou, Aimee T. Farria, and Sharon Y.R. Dent. Complex functions of gcn5 and pcaf in development and disease. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1864(2):194609, February 2021. URL: http://dx.doi.org/10.1016/j.bbagrm.2020.194609, doi:10.1016/j.bbagrm.2020.194609. This article has 24 citations.](https://doi.org/10.1016/j.bbagrm.2020.194609)
+
+[5. (Arede2021Buffering) Liliana Arede and Cristina Pina. Buffering noise: kat2a modular contributions to stabilization of transcription and cell identity in cancer and development. Experimental Hematology, 93:25–37, January 2021. URL: http://dx.doi.org/10.1016/j.exphem.2020.10.003, doi:10.1016/j.exphem.2020.10.003. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.exphem.2020.10.003)
+
+[6. (Fournier2016KAT2AKAT2Btargeted) Marjorie Fournier, Meritxell Orpinell, Cédric Grauffel, Elisabeth Scheer, Jean-Marie Garnier, Tao Ye, Virginie Chavant, Mathilde Joint, Fumiko Esashi, Annick Dejaegere, Pierre Gönczy, and László Tora. Kat2a/kat2b-targeted acetylome reveals a role for plk4 acetylation in preventing centrosome amplification. Nature Communications, October 2016. URL: http://dx.doi.org/10.1038/ncomms13227, doi:10.1038/ncomms13227. This article has 80 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms13227)
+
+[7. (BondyChorney2019Nonhistone) Emma Bondy-Chorney, Alix Denoncourt, Yuka Sai, and Michael Downey. Nonhistone targets of kat2a and kat2b implicated in cancer biology. Biochemistry and Cell Biology, 97(1):30–45, February 2019. URL: http://dx.doi.org/10.1139/bcb-2017-0297, doi:10.1139/bcb-2017-0297. This article has 24 citations.](https://doi.org/10.1139/bcb-2017-0297)

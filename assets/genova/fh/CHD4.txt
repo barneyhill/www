@@ -1,0 +1,64 @@
+# CHD4
+
+## Overview
+CHD4, or chromodomain helicase DNA binding protein 4, is a gene that encodes a protein of the same name, which is a pivotal component of the nucleosome remodeling and deacetylase (NuRD) complex. This protein is classified as a chromatin remodeler, playing a significant role in transcriptional repression and chromatin structure maintenance. The CHD4 protein is characterized by its multimodular structure, including domains such as plant homeodomain (PHD) zinc fingers, a double chromodomain, and a SNF2-like ATPase motor domain, which facilitate its interaction with nucleosomal DNA and histone proteins (Farnung2019NucleosomeCHD4; Musselman2012Bivalent). Functionally, CHD4 is involved in various cellular processes, including DNA damage response, cell cycle regulation, and cardiac development, by modulating chromatin dynamics and gene expression (Wilczewski2018CHD4; Polo2010Regulation). Mutations in the CHD4 gene have been linked to several pathological conditions, including cancers, developmental disorders, and cardiomyopathies, underscoring its clinical significance (Liu2021CHD4; Li2014Architects).
+
+## Structure
+CHD4, also known as Mi-2β, is a large multimodular protein that plays a crucial role in chromatin remodeling as part of the NuRD complex. The protein structure includes several distinct domains: two N-terminal plant homeodomain (PHD) zinc fingers, a double chromodomain, a central SNF2-like ATPase motor domain, and a high mobility group (HMG) box-like domain in its N-terminal region (Hagman2021Chromodomain; Farnung2019NucleosomeCHD4; Musselman2012Bivalent).
+
+The tandem PHD fingers of CHD4 are involved in histone-binding activity, specifically targeting histone H3 tails, which is essential for the repressive activity of the CHD4/NuRD complex. These PHD fingers bind histone H3 tails in a bivalent manner, with PHD2 exhibiting a higher affinity than PHD1 (Musselman2012Bivalent).
+
+The ATPase domain of CHD4 is critical for its function, providing the energy necessary for chromatin remodeling. This domain binds at superhelical location (SHL) +2 on the nucleosome, inducing a conformational change in DNA without unwrapping it (Farnung2019NucleosomeCHD4).
+
+CHD4 also contains domains of unknown function in its C-terminal region, and its structure allows for mapping of human disease mutations, which can affect chromatin remodeling by disrupting DNA binding or ATP hydrolysis (Farnung2019NucleosomeCHD4).
+
+## Function
+CHD4 (chromodomain helicase DNA binding protein 4) is a critical component of the NuRD (nucleosome remodeling and deacetylase) complex, which plays a significant role in chromatin remodeling and transcriptional repression. In healthy human cells, CHD4 is involved in maintaining compacted chromatin structures, which is essential for gene repression and the establishment of heterochromatin. This function is crucial for regulating gene expression during development and differentiation by repressing lineage-specific genes (Farnung2020NucleosomeCHD4).
+
+CHD4 is also integral to the DNA damage response (DDR) and cell cycle progression. It is rapidly recruited to DNA damage sites in a poly(ADP-ribose)-dependent manner and is phosphorylated by the DDR kinase ATM. This recruitment facilitates the repair of DNA double-strand breaks and enhances cell survival following DNA damage. CHD4 also regulates the G1/S cell-cycle transition by controlling p53 deacetylation, which is vital for maintaining genome stability (Polo2010Regulation).
+
+In the context of cardiac development, CHD4 represses the expression of non-cardiac muscle genes, ensuring proper cardiac sarcomere formation and function. Its absence can lead to the misexpression of skeletal and smooth muscle genes, disrupting cardiac function (Wilczewski2018CHD4).
+
+## Clinical Significance
+Mutations and alterations in the CHD4 gene are implicated in a variety of diseases and conditions. CHD4 is frequently mutated in serous tumors, including serous endometrial and uterine serous carcinomas, where it plays a role in tumor development and progression (Li2014Architects). In breast cancer, high CHD4 expression is associated with poor prognosis, particularly in aggressive types like triple-negative breast cancer. CHD4 enhances the expression of hypoxia-inducible factor target genes, promoting tumor growth and metastasis (Novillo2021Role).
+
+CHD4 mutations are also linked to developmental disorders. Sifrim-Hitz-Weiss syndrome, characterized by intellectual disability and congenital defects, is associated with CHD4 mutations (Liu2021CHD4). In neurological contexts, CHD4 mutations have been found in patients with neurodevelopmental disorders, Rett syndrome, and schizophrenia (Liu2021CHD4). 
+
+In cardiology, a specific missense mutation, CHD4 M202I, causes left ventricular noncompaction cardiomyopathy, a condition marked by excessive trabeculation and impaired cardiac function (Shi2022A). This mutation affects the expression of ADAMTS1, a crucial factor in cardiac development (Shi2022A). 
+
+Overall, CHD4's role in chromatin remodeling and transcriptional regulation makes it a critical factor in the pathogenesis of various cancers, developmental disorders, and cardiac conditions.
+
+## Interactions
+CHD4, a component of the NuRD complex, engages in various interactions with proteins and nucleic acids that are crucial for its function in chromatin remodeling and transcriptional regulation. It interacts with nucleosomal DNA and histone proteins through its ATPase motor, which contacts the phosphate backbone of nucleosomal DNA via electrostatic interactions. Specific residues, such as Asn1010, Arg1127, and Trp1148, insert into the DNA minor groove, facilitating these interactions (Farnung2020NucleosomeCHD4).
+
+CHD4 also interacts with histone H3 through its plant homeodomains (PHDs), showing a preference for trimethylated or acetylated Lys-9, which may confer substrate specificity to the CHD4-NuRD complex (Silva2016The). The protein's N-terminal region binds poly(ADP-ribose) (PAR) with higher affinity than DNA, playing a significant role in the DNA-damage response (Silva2016The).
+
+CHD4 is part of both the NuRD and ChAHP complexes, interacting with core components such as GATAD2A/B and ADNP. Its C-terminal region contains an aliphatic stretch that contributes to these interactions (Tabar2024Intrinsically). The protein's interaction with the NuRD complex is mediated by its C-terminal regions, which contain structured but functionally poorly understood domains (Tabar2024Intrinsically). These interactions are essential for CHD4's role in gene transcription regulation and chromatin remodeling.
+
+
+## References
+
+
+[1. (Hagman2021Chromodomain) James R. Hagman, Tessa Arends, Curtis Laborda, Jennifer R. Knapp, Laura Harmacek, and Brian P. O’Connor. Chromodomain helicase dna‐binding 4 (chd4) regulates early b cell identity and v(d)j recombination*. Immunological Reviews, 305(1):29–42, December 2021. URL: http://dx.doi.org/10.1111/imr.13054, doi:10.1111/imr.13054. This article has 7 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/imr.13054)
+
+2. (Shi2022A) A Missense Mutation in Human CHD4 Causes Ventricular Noncompaction by Repressing ADAMTS1-mediated Trabeculation Cessation. This article has 2 citations.
+
+[3. (Silva2016The) Ana P.G. Silva, Daniel P. Ryan, Yaron Galanty, Jason K.K. Low, Marylene Vandevenne, Stephen P. Jackson, and Joel P. Mackay. The n-terminal region of chromodomain helicase dna-binding protein 4 (chd4) is essential for activity and contains a high mobility group (hmg) box-like-domain that can bind poly(adp-ribose). Journal of Biological Chemistry, 291(2):924–938, January 2016. URL: http://dx.doi.org/10.1074/jbc.m115.683227, doi:10.1074/jbc.m115.683227. This article has 51 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m115.683227)
+
+4. (Tabar2024Intrinsically) Intrinsically Disordered Regions Define Unique Protein Interaction Networks in CHD Family Remodelers. This article has 0 citations.
+
+[5. (Wilczewski2018CHD4) Caralynn M. Wilczewski, Austin J. Hepperla, Takashi Shimbo, Lauren Wasson, Zachary L. Robbe, Ian J. Davis, Paul A. Wade, and Frank L. Conlon. Chd4 and the nurd complex directly control cardiac sarcomere formation. Proceedings of the National Academy of Sciences, 115(26):6727–6732, June 2018. URL: http://dx.doi.org/10.1073/pnas.1722219115, doi:10.1073/pnas.1722219115. This article has 41 citations.](https://doi.org/10.1073/pnas.1722219115)
+
+[6. (Liu2021CHD4) Xiao‐Rong Liu, Ting‐Ting Ye, Wen‐Jun Zhang, Xuan Guo, Jie Wang, Shao‐Ping Huang, Long‐Shan Xie, Xing‐Wang Song, Wei‐Wen Deng, Bing‐Mei Li, Na He, Qian‐Yi Wu, Min‐Zhi Zhuang, Meng Xu, Yi‐Wu Shi, Tao Su, Yong‐Hong Yi, and Wei‐Ping Liao. Chd4 variants are associated with childhood idiopathic epilepsy with sinus arrhythmia. CNS Neuroscience &amp; Therapeutics, 27(10):1146–1156, June 2021. URL: http://dx.doi.org/10.1111/cns.13692, doi:10.1111/cns.13692. This article has 12 citations.](https://doi.org/10.1111/cns.13692)
+
+[7. (Novillo2021Role) Apolonia Novillo, Ana Fernández-Santander, Maria Gaibar, Miguel Galán, Alicia Romero-Lorca, Fadoua El Abdellaoui-Soussi, and Pablo Gómez-del Arco. Role of chromodomain-helicase-dna-binding protein 4 (chd4) in breast cancer. Frontiers in Oncology, April 2021. URL: http://dx.doi.org/10.3389/fonc.2021.633233, doi:10.3389/fonc.2021.633233. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2021.633233)
+
+8. (Farnung2019NucleosomeCHD4) Nucleosome-CHD4 chromatin remodeller structure explains human disease mutations. This article has 2 citations.
+
+[9. (Musselman2012Bivalent) Catherine A. Musselman, Julita Ramírez, Jennifer K. Sims, Robyn E. Mansfield, Samuel S. Oliver, John M. Denu, Joel P. Mackay, Paul A. Wade, James Hagman, and Tatiana G. Kutateladze. Bivalent recognition of nucleosomes by the tandem phd fingers of the chd4 atpase is required for chd4-mediated repression. Proceedings of the National Academy of Sciences, 109(3):787–792, January 2012. URL: http://dx.doi.org/10.1073/pnas.1113655109, doi:10.1073/pnas.1113655109. This article has 92 citations.](https://doi.org/10.1073/pnas.1113655109)
+
+[10. (Farnung2020NucleosomeCHD4) Lucas Farnung, Moritz Ochmann, and Patrick Cramer. Nucleosome-chd4 chromatin remodeler structure maps human disease mutations. eLife, June 2020. URL: http://dx.doi.org/10.7554/elife.56178, doi:10.7554/elife.56178. This article has 58 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.56178)
+
+[11. (Li2014Architects) Wangzhi Li and Alea A Mills. Architects of the genome: chd dysfunction in cancer, developmental disorders and neurological syndromes. Epigenomics, 6(4):381–395, August 2014. URL: http://dx.doi.org/10.2217/epi.14.31, doi:10.2217/epi.14.31. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.2217/epi.14.31)
+
+[12. (Polo2010Regulation) Sophie E Polo, Abderrahmane Kaidi, Linda Baskcomb, Yaron Galanty, and Stephen P Jackson. Regulation of dna-damage responses and cell-cycle progression by the chromatin remodelling factor chd4. The EMBO Journal, 29(18):3130–3139, August 2010. URL: http://dx.doi.org/10.1038/emboj.2010.188, doi:10.1038/emboj.2010.188. This article has 287 citations.](https://doi.org/10.1038/emboj.2010.188)

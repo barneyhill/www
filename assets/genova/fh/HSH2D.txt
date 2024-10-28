@@ -1,0 +1,43 @@
+# HSH2D
+
+## Overview
+HSH2D is a gene that encodes the hematopoietic SH2 domain-containing protein, an adaptor protein primarily involved in immune cell signaling. This protein is characterized by the presence of an SH2 domain, which facilitates interactions with phosphorylated tyrosine residues, playing a pivotal role in signal transduction pathways within hematopoietic cells such as T and B lymphocytes. The protein is notably active in immune-related tissues, including the thymus and spleen, and is involved in modulating immune responses, particularly through the inhibition of IL-2 promoter activation in T cells (Dodin2023Illuminating; Wang2020HSH2D). HSH2D's interactions and regulatory functions in immune signaling pathways underscore its potential as a prognostic biomarker in certain cancers and its involvement in various diseases, including juvenile Huntington's disease and pediatric acute lymphoblastic leukemia (Zhang2020Genetic; Dodin2023Illuminating; Świtońska2019Identification).
+
+## Function
+The HSH2D gene encodes an adaptor protein involved in immune cell signaling, particularly in T and B cells. This protein contains an SH2 domain, which facilitates interactions with phosphorylated tyrosine residues on other proteins, playing a crucial role in signal transduction pathways. HSH2D is primarily active in hematopoietic cells, including peripheral blood leukocytes, thymus, and spleen, but is not typically expressed in non-hematopoietic tissues (Dodin2023Illuminating).
+
+In T cells, HSH2D is involved in the inhibition of IL-2 promoter activation, particularly under CD28 regulation. This suggests a role in modulating T cell activation and immune response. Overexpression of HSH2D in Jurkat T cells has been shown to inhibit IL-2 promoter activation, indicating its function as a suppressor of T cell activation (Dodin2023Illuminating). Additionally, HSH2D is implicated in the regulation of CD28-mediated activation of the IL-2 promoter, which is crucial for T cell proliferation (Wang2020HSH2D).
+
+HSH2D also plays a role in the immune response to interferon-alpha, being identified as an early interferon-induced protein in various cell lines, which suggests its involvement in antiviral activity (Schmeisser2010Identification).
+
+## Clinical Significance
+HSH2D has been implicated in various diseases and conditions due to its role in immune regulation and signaling pathways. In NRAS-mutant skin cutaneous melanoma (NRAS-MT SKCM), HSH2D is identified as a potential prognostic biomarker. Lower expression levels of HSH2D are associated with poorer overall survival in patients, suggesting its significance in the prognosis of this aggressive melanoma subtype (Dodin2023Illuminating). 
+
+In breast cancer, particularly basal-like tumors, HSH2D is associated with immune cell infiltration within tumors. Its expression in breast cancer cell lines, despite being primarily expressed in hematopoietic cells, indicates its role in the tumor microenvironment and potential as an indicator of immune infiltration (Bhuva2019Differential).
+
+HSH2D is also involved in the pathogenesis of juvenile Huntington's disease, where it is linked to DNA damage response and apoptosis pathways. Dysregulation of HSH2D in Huntington's disease iPSCs suggests its broader impact on neurodevelopmental pathways and neuropathology (Świtońska2019Identification).
+
+Additionally, HSH2D is upregulated in pediatric acute lymphoblastic leukemia with KMT2D mutations, indicating a potential role in lymphoid malignancy (Zhang2020Genetic). These associations highlight the clinical significance of HSH2D in various diseases.
+
+## Interactions
+HSH2D, also known as ALX, is involved in various protein interactions that play a critical role in immune signaling pathways. It contains an SH2 domain, which is known for mediating interactions with phosphorylated tyrosine residues on other proteins. HSH2D is part of a subgroup of SH2 domains that recognize specific phosphotyrosine sequences, particularly those with an Asn residue at the P+2 position. This specificity is influenced by the structural configuration of the EF and BG loops, which can block the P+3 binding pocket, thereby enhancing selectivity for certain residues (Kaneko2010Loops).
+
+HSH2D interacts with proteins involved in T-cell receptor signaling, forming multiprotein complexes that regulate immune responses. It is known to inhibit the transcriptional activation of the IL-2 promoter, particularly at the RE/AP element under CD28 regulation, suggesting a role in modulating T cell activation (Dodin2023Illuminating). Additionally, HSH2D is expressed in both T and B cells, although its expression does not increase in response to activating stimuli, indicating a unique regulatory function compared to other family members (Dodin2023Illuminating). These interactions highlight HSH2D's role in immune regulation and its potential as a prognostic biomarker in certain cancers (Dodin2023Illuminating).
+
+
+## References
+
+
+[1. (Zhang2020Genetic) Honghong Zhang, Hongsheng Wang, Xiaowen Qian, Shuai Gao, Jieqi Xia, Junwen Liu, Yanqin Cheng, Jie Man, and Xiaowen Zhai. Genetic mutational analysis of pediatric acute lymphoblastic leukemia from a single center in china using exon sequencing. BMC Cancer, March 2020. URL: http://dx.doi.org/10.1186/s12885-020-6709-7, doi:10.1186/s12885-020-6709-7. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-020-6709-7)
+
+[2. (Bhuva2019Differential) Dharmesh D. Bhuva, Joseph Cursons, Gordon K. Smyth, and Melissa J. Davis. Differential co-expression-based detection of conditional relationships in transcriptional data: comparative analysis and application to breast cancer. Genome Biology, November 2019. URL: http://dx.doi.org/10.1186/s13059-019-1851-8, doi:10.1186/s13059-019-1851-8. This article has 54 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/s13059-019-1851-8)
+
+[3. (Schmeisser2010Identification) H. Schmeisser, J. Mejido, C. A. Balinsky, A. N. Morrow, C. R. Clark, T. Zhao, and K. C. Zoon. Identification of alpha interferon-induced genes associated with antiviral activity in daudi cells and characterization of ifit3 as a novel antiviral gene. Journal of Virology, 84(20):10671–10680, October 2010. URL: http://dx.doi.org/10.1128/jvi.00818-10, doi:10.1128/jvi.00818-10. This article has 67 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/jvi.00818-10)
+
+[4. (Wang2020HSH2D) Jing Wang and Yiying Xiong. Hsh2d contributes to methotrexate resistance in�human t‑cell acute lymphoblastic leukaemia. Oncology Reports, September 2020. URL: http://dx.doi.org/10.3892/or.2020.7772, doi:10.3892/or.2020.7772. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.2020.7772)
+
+5. (Dodin2023Illuminating) Illuminating HLA-DPA1 and HSH2D as Potential Prognostic Biomarkers by Weighted Gene Co-Expression Network Analysis for NRAS-Mutant Skin Cutaneous Melanoma. This article has 0 citations.
+
+[6. (Świtońska2019Identification) Karolina Świtońska, Wojciech J. Szlachcic, Luiza Handschuh, Paweł Wojciechowski, Łukasz Marczak, Michał Stelmaszczuk, Marek Figlerowicz, and Maciej Figiel. Identification of altered developmental pathways in human juvenile hd ipsc with 71q and 109q using transcriptome profiling. Frontiers in Cellular Neuroscience, January 2019. URL: http://dx.doi.org/10.3389/fncel.2018.00528, doi:10.3389/fncel.2018.00528. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fncel.2018.00528)
+
+[7. (Kaneko2010Loops) Tomonori Kaneko, Haiming Huang, Bing Zhao, Lei Li, Huadong Liu, Courtney K. Voss, Chenggang Wu, Martin R. Schiller, and Shawn Shun-Cheng Li. Loops govern sh2 domain specificity by controlling access to binding pockets. Science Signaling, May 2010. URL: http://dx.doi.org/10.1126/scisignal.2000796, doi:10.1126/scisignal.2000796. This article has 107 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1126/scisignal.2000796)

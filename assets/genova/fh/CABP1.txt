@@ -1,0 +1,56 @@
+# CABP1
+
+## Overview
+Calcium-binding protein 1 (CaBP1) is encoded by the CABP1 gene and is a member of the calmodulin superfamily, characterized by its EF-hand motifs that facilitate calcium ion binding. This neuronal protein plays a pivotal role in modulating calcium signaling pathways, particularly through its interactions with inositol 1,4,5-trisphosphate receptors (InsP3Rs) and voltage-gated calcium channels. CaBP1 is distinct from calmodulin in its regulatory functions, as it inhibits InsP3-evoked calcium release and modulates channel activity by preventing calcium-dependent inactivation. The protein's structure, featuring four EF-hand motifs, allows it to bind calcium with varying affinities across its domains, influencing its interaction with target proteins. CaBP1's involvement in calcium signaling underscores its importance in maintaining neuronal excitability and synaptic plasticity, with implications for various neurological disorders (Park2011Nuclear; Li2013CaBP1; Ames2021LType).
+
+## Structure
+Calcium-binding protein 1 (CaBP1) is a member of the calmodulin superfamily and is characterized by its EF-hand motifs, which are helix-loop-helix structures that bind calcium ions. CaBP1 contains four EF-hand motifs, organized into two domains: the N-domain (EF1 and EF2) and the C-domain (EF3 and EF4), connected by a flexible linker (Park2011Nuclear; Li2013CaBP1). The N-domain remains in a closed conformation in both calcium-free and calcium-bound states, while the C-domain adopts an open conformation upon calcium binding (Park2011Nuclear). 
+
+The C-domain of CaBP1 binds calcium with high affinity, while the N-domain has low affinity and selectivity for calcium over magnesium, with EF2 not binding calcium at all (Park2011Nuclear). The C-domain is crucial for binding to target proteins, such as inositol 1,4,5-trisphosphate receptors (InsP3Rs), where it interacts with hydrophobic residues to inhibit receptor activity (Li2013CaBP1).
+
+CaBP1 is structurally similar to calmodulin, sharing 42% sequence identity, and contains a consensus site for N-terminal myristoylation (Park2011Nuclear). Various splice variants and isoforms of CaBP1 are expressed in different neurons, affecting its function and localization (Li2013CaBP1).
+
+## Function
+Calcium-binding protein 1 (CaBP1) is a neuronal protein that plays a crucial role in modulating calcium signaling pathways. It is involved in the regulation of inositol 1,4,5-trisphosphate receptors (InsP3Rs) by inhibiting InsP3-evoked calcium release, primarily by stabilizing the closed state of the receptor. This inhibition is enhanced by calcium binding to both CaBP1 and InsP3R, which suggests a complex regulatory mechanism that is essential for maintaining calcium homeostasis in neurons (Li2013CaBP1).
+
+CaBP1 also interacts with voltage-gated calcium channels, such as CaV2.1 and L-type channels, influencing their activity. It modulates these channels by preventing calcium-dependent inactivation and promoting calcium-dependent facilitation, which helps maintain neuronal excitability and synaptic transmission (Lee2002Differential). Unlike calmodulin, CaBP1 does not support calcium-dependent facilitation of CaV2.1 channels, highlighting its unique role in neuronal calcium signaling (Lee2002Differential).
+
+In addition to its role in calcium channel regulation, CaBP1 is associated with the plasma membrane and Golgi complex in a myristoylation-dependent manner, further influencing intracellular calcium dynamics and signaling pathways (Haynes2004Calciumbinding). These functions underscore CaBP1's importance in neuronal communication and synaptic plasticity.
+
+## Clinical Significance
+Mutations or alterations in the expression of the CABP1 gene can have significant clinical implications. CABP1 is involved in the regulation of voltage-gated calcium channels (VGCCs), and its dysregulation is linked to various neurological disorders. In the context of Timothy Syndrome, an upregulated expression of CaBP1 can abolish calcium-dependent inactivation (CDI) of CaV channels, leading to increased channel activity, which is a characteristic of this syndrome (Ames2021LType). 
+
+Alterations in CaBP1 function can also impact auditory and visual systems. In the auditory system, CaBP1 knockout mice exhibit progressive hearing loss, suggesting that changes in CaBP1 expression or function could contribute to hearing impairments (Burgoyne2019Calcium). In the visual system, CaBP1 is crucial for the transmission of light responses in the retina, and its absence can alter ganglion cell responses, affecting visual processing (Sinha2016Lack).
+
+While specific diseases directly linked to CABP1 mutations are not extensively documented, its role in modulating calcium channels suggests that alterations could influence synaptic plasticity and neuronal communication, potentially contributing to conditions such as schizophrenia and bipolar disorder (Nejatbakhsh2011Calcium).
+
+## Interactions
+Calcium-binding protein 1 (CaBP1) interacts with various proteins, playing a significant role in modulating calcium signaling pathways. CaBP1 is known to bind to inositol 1,4,5-trisphosphate receptors (InsP3Rs), where it inhibits InsP3-evoked calcium release by clamping intersubunit interactions. This inhibition is enhanced by calcium binding to both CaBP1 and InsP3R, with the C lobe of CaBP1 interacting with hydrophobic residues in the InsP3-binding core β-domain of InsP3R1 (Li2013CaBP1).
+
+CaBP1 also interacts with voltage-gated calcium channels, such as L-type and P/Q-type channels. It competes with calmodulin (CaM) for binding to the IQ motif on L-type channels, preventing CaM-mediated calcium-dependent inactivation and increasing channel activity (Park2011Nuclear; Ames2021LType). In addition, CaBP1 binds to the myo1c regulatory domain, with this interaction being calcium-dependent and confirmed through immunoprecipitation experiments (Tang2007CIB1).
+
+CaBP1's interactions extend to Group III metabotropic glutamate receptors (mGluRs), where it binds to the cytoplasmic C-terminal tail of mGluR4 and mGluR7 in a calcium-dependent manner, similar to CaM (Haynes2012Evolution). These interactions highlight CaBP1's role in regulating diverse calcium-dependent processes in neurons.
+
+
+## References
+
+
+[1. (Haynes2012Evolution) Lee P. Haynes, Hannah V. McCue, and Robert D. Burgoyne. Evolution and functional diversity of the calcium binding proteins (cabps). Frontiers in Molecular Neuroscience, 2012. URL: http://dx.doi.org/10.3389/fnmol.2012.00009, doi:10.3389/fnmol.2012.00009. This article has 37 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fnmol.2012.00009)
+
+[2. (Haynes2004Calciumbinding) Lee P. Haynes, Alexei V. Tepikin, and Robert D. Burgoyne. Calcium-binding protein 1 is an inhibitor of agonist-evoked, inositol 1,4,5-trisphosphate-mediated calcium signaling. Journal of Biological Chemistry, 279(1):547–555, January 2004. URL: http://dx.doi.org/10.1074/jbc.m309617200, doi:10.1074/jbc.m309617200. This article has 99 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m309617200)
+
+[3. (Lee2002Differential) Amy Lee, Ruth E. Westenbroek, Françoise Haeseleer, Krzysztof Palczewski, Todd Scheuer, and William A. Catterall. Differential modulation of cav2.1 channels by calmodulin and ca2+-binding protein 1. Nature Neuroscience, 5(3):210–217, February 2002. URL: http://dx.doi.org/10.1038/nn805, doi:10.1038/nn805. This article has 155 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nn805)
+
+[4. (Nejatbakhsh2011Calcium) Nasrin Nejatbakhsh and Zhong-ping Feng. Calcium binding protein-mediated regulation of voltage-gated calcium channels linked to human diseases. Acta Pharmacologica Sinica, 32(6):741–748, June 2011. URL: http://dx.doi.org/10.1038/aps.2011.64, doi:10.1038/aps.2011.64. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/aps.2011.64)
+
+[5. (Burgoyne2019Calcium) Robert D. Burgoyne, Nordine Helassa, Hannah V. McCue, and Lee P. Haynes. Calcium sensors in neuronal function and dysfunction. Cold Spring Harbor Perspectives in Biology, 11(5):a035154, March 2019. URL: http://dx.doi.org/10.1101/cshperspect.a035154, doi:10.1101/cshperspect.a035154. This article has 71 citations and is from a peer-reviewed journal.](https://doi.org/10.1101/cshperspect.a035154)
+
+[6. (Li2013CaBP1) Congmin Li, Masahiro Enomoto, Ana M. Rossi, Min-Duk Seo, Taufiq Rahman, Peter B. Stathopulos, Colin W. Taylor, Mitsuhiko Ikura, and James B. Ames. Cabp1, a neuronal ca 2 + sensor protein, inhibits inositol trisphosphate receptors by clamping intersubunit interactions. Proceedings of the National Academy of Sciences, 110(21):8507–8512, May 2013. URL: http://dx.doi.org/10.1073/pnas.1220847110, doi:10.1073/pnas.1220847110. This article has 35 citations.](https://doi.org/10.1073/pnas.1220847110)
+
+[7. (Sinha2016Lack) Raunak Sinha, Amy Lee, Fred Rieke, and Françoise Haeseleer. Lack of cabp1/caldendrin or cabp2 leads to altered ganglion cell responses. eneuro, 3(5):ENEURO.0099-16.2016, September 2016. URL: http://dx.doi.org/10.1523/ENEURO.0099-16.2016, doi:10.1523/eneuro.0099-16.2016. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1523/ENEURO.0099-16.2016)
+
+[8. (Park2011Nuclear) Saebomi Park, Congmin Li, and James B. Ames. Nuclear magnetic resonance structure of calcium‐binding protein 1 in a ca2+‐bound closed state: implications for target recognition. Protein Science, 20(8):1356–1366, June 2011. URL: http://dx.doi.org/10.1002/pro.662, doi:10.1002/pro.662. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pro.662)
+
+[9. (Tang2007CIB1) Nanyun Tang, Tianming Lin, Jun Yang, J. Kevin Foskett, and E. Michael Ostap. Cib1 and cabp1 bind to the myo1c regulatory domain. Journal of Muscle Research and Cell Motility, 28(6):285–291, August 2007. URL: http://dx.doi.org/10.1007/s10974-007-9124-7, doi:10.1007/s10974-007-9124-7. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10974-007-9124-7)
+
+[10. (Ames2021LType) James B. Ames. L-type ca2+ channel regulation by calmodulin and cabp1. Biomolecules, 11(12):1811, December 2021. URL: http://dx.doi.org/10.3390/biom11121811, doi:10.3390/biom11121811. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom11121811)

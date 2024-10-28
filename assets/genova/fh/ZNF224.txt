@@ -1,0 +1,56 @@
+# ZNF224
+
+## Overview
+ZNF224 is a gene that encodes the zinc finger protein 224, a member of the Kruppel-associated box (KRAB) zinc finger protein family, which functions primarily as a transcriptional repressor. The protein is characterized by its 19 tandemly repeated C2H2-type zinc finger motifs and a KRAB-A domain, which are essential for its DNA-binding and transcriptional repression activities (Medugno2002A; Cesaro2021ZNF224). ZNF224 plays a crucial role in regulating gene expression by interacting with specific DNA sequences and other proteins, such as the Wilms' tumor suppressor gene WT1 and the mediator complex subunit 28 (MED28), to modulate cellular processes like proliferation, differentiation, and apoptosis (Florio2010Biochemical; Cho2017MED28). The protein's involvement in the DNA damage response and its modulation by phosphorylation highlight its dynamic role in maintaining cellular homeostasis (Medugno2002A). ZNF224's clinical significance is underscored by its dual role in cancer, where it can act as either a tumor suppressor or an oncogene, depending on the cellular context, making it a potential target for therapeutic interventions (Sodaro2018ZNF224; Busiello2016Role).
+
+## Structure
+ZNF224 is a zinc finger transcriptional repressor with a molecular structure comprising a 707 amino acid open reading frame. It features 19 tandemly repeated C2H2-type zinc finger motifs, each separated by seven amino acid inter-finger space regions known as the H/C link (Medugno2002A). The C2H2 zinc finger motif typically consists of a beta-hairpin followed by an alpha-helix, forming a left-handed beta-beta-alpha unit, which is crucial for DNA binding (Cesaro2021ZNF224). 
+
+The amino-terminal sequence of ZNF224 aligns with the KRAB-A domain, a conserved motif present in several Kruppel-like zinc finger proteins. This domain is 75 amino acids long and functions as a potent repression module, mediating transcriptional repression (Medugno2002A). The KRAB domain is essential for interactions with other proteins, such as MED28, which stabilizes ZNF224 upon DNA damage (Cho2017MED28).
+
+ZNF224 was identified through mass spectral analysis with 68% sequence coverage, confirming its identity (Medugno2002A). The protein was purified from HeLa cells using affinity chromatography, and its identity was confirmed through MALDI technology (Medugno2002A). The presence of splice variants and potential post-translational modifications like phosphorylation may influence its functional domains.
+
+## Function
+ZNF224 is a zinc finger transcription factor that plays a significant role in gene regulation within healthy human cells. It functions primarily as a transcriptional repressor, interacting with specific DNA sequences to modulate gene expression. ZNF224 contains a KRAB-A domain, a potent repression module, and 19 tandemly repeated C2H2-type zinc finger motifs, which enable it to bind to GA-rich motifs in DNA, such as the negative regulatory element AldA-NRE in the human aldolase A promoter (Medugno2002A).
+
+In the nucleus, ZNF224 interacts with the Wilms' tumor suppressor gene WT1, particularly with its splice variants WT1(2KTS) and WT1(1KTS). This interaction enhances WT1-mediated transcriptional activation, suggesting a role as a co-regulator in transcriptional processes (Florio2010Biochemical). ZNF224 is also involved in the DNA damage response, where it interacts with the mediator complex subunit 28 (MED28) to regulate cell proliferation by downregulating tumor suppressors like p21 and p53 (Cho2017MED28).
+
+ZNF224's activity is cell cycle-dependent and modulated by protein kinase C-mediated phosphorylation, indicating its involvement in dynamic cellular processes (Medugno2002A). Through these interactions and regulatory functions, ZNF224 influences cellular differentiation, proliferation, and apoptosis, contributing to the maintenance of cellular homeostasis.
+
+## Clinical Significance
+ZNF224 plays a significant role in various cancers, acting as either a tumor suppressor or an oncogene depending on the context. In chronic lymphocytic leukemia (CLL), ZNF224 is overexpressed and contributes to cell survival, suppression of apoptosis, and drug resistance. High ZNF224 expression is associated with poor prognosis markers, such as increased cyclin D3 levels and absolute lymphocyte count, which correlate with lower survival rates. ZNF224's expression decreases following chemotherapy in most CLL patients, but increases in those who are chemotherapy-refractory, suggesting its potential as a therapeutic target (Busiello2016Role).
+
+In chronic myeloid leukemia (CML), ZNF224 acts as a transcriptional repressor of the Axl gene, which is linked to drug resistance. Overexpression of ZNF224 can restore sensitivity to imatinib in resistant CML cells, highlighting its potential therapeutic role in overcoming drug resistance (Sodaro2018ZNF224).
+
+In bladder cancer, ZNF224 interacts with DEPDC1 to repress the A20 gene, activating the NF-κB antiapoptotic pathway, which may contribute to cancer progression by inhibiting apoptosis (Cesaro2017The). In breast cancer, ZNF224 overexpression leads to apoptosis resistance by downmodulating p21 and p53 through miR-663a (Cesaro2017The).
+
+## Interactions
+ZNF224 interacts with several proteins, playing a significant role in transcriptional regulation. It is a member of the KRAB-ZFP family and interacts with the KAP-1 co-repressor protein. This interaction is crucial for the transcriptional repression of the aldolase A gene, as KAP-1 enhances ZNF224-mediated repression through histone deacetylase activity (Medugno2005The).
+
+ZNF224 also interacts with PRMT5, an arginine methyltransferase. This interaction is essential for recruiting PRMT5 to the aldolase A promoter, where PRMT5 methylates histone H4, contributing to transcriptional repression (Cesaro2009The). The interaction with PRMT5 requires the second and third zinc finger domains of ZNF224 (Cesaro2009The).
+
+In addition to its repressive functions, ZNF224 can enhance transcriptional activation in cooperation with WT1 protein isoforms. It specifically interacts with the WT1(2KTS) isoform, enhancing WT1-mediated transcriptional activation of the vitamin D receptor promoter (Florio2010Biochemical). This interaction does not involve direct DNA binding by ZNF224 but rather recruitment by WT1 to specific gene promoters (Montano2013Role).
+
+
+## References
+
+
+[1. (Sodaro2018ZNF224) Gaetano Sodaro, Giancarlo Blasio, Federica Fiorentino, Patrick Auberger, Paola Costanzo, and Elena Cesaro. Znf224 is a transcriptional repressor of axl in chronic myeloid leukemia cells. Biochimie, 154:127–131, November 2018. URL: http://dx.doi.org/10.1016/j.biochi.2018.08.011, doi:10.1016/j.biochi.2018.08.011. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.biochi.2018.08.011)
+
+[2. (Cesaro2017The) E. Cesaro, G. Sodaro, G. Montano, M. Grosso, A. Lupo, and P. Costanzo. The Complex Role of the ZNF224 Transcription Factor in Cancer, pages 191–222. Elsevier, 2017. URL: http://dx.doi.org/10.1016/bs.apcsb.2016.11.003, doi:10.1016/bs.apcsb.2016.11.003. This article has 18 citations.](https://doi.org/10.1016/bs.apcsb.2016.11.003)
+
+[3. (Cesaro2009The) Elena Cesaro, Rossella De Cegli, Lina Medugno, Francesca Florio, Michela Grosso, Angelo Lupo, Paola Izzo, and Paola Costanzo. The kruppel-like zinc finger protein znf224 recruits the arginine methyltransferase prmt5 on the transcriptional repressor complex of the aldolase a gene. Journal of Biological Chemistry, 284(47):32321–32330, November 2009. URL: http://dx.doi.org/10.1074/jbc.M109.043349, doi:10.1074/jbc.m109.043349. This article has 40 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.M109.043349)
+
+[4. (Cho2017MED28) Jin Gu Cho, Key‑Hwan Lim, and Sang Gyu Park. Med28 increases the colony‑forming ability of breast cancer cells by stabilizing the znf224 protein upon dna damage. Oncology Letters, December 2017. URL: http://dx.doi.org/10.3892/ol.2017.7718, doi:10.3892/ol.2017.7718. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2017.7718)
+
+[5. (Medugno2005The) Lina Medugno, Francesca Florio, Rossella De Cegli, Michela Grosso, Angelo Lupo, Paola Costanzo, and Paola Izzo. The krüppel-like zinc-finger protein znf224 represses aldolase a gene transcription by interacting with the kap-1 co-repressor protein. Gene, 359:35–43, October 2005. URL: http://dx.doi.org/10.1016/j.gene.2005.06.021, doi:10.1016/j.gene.2005.06.021. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.gene.2005.06.021)
+
+[6. (Florio2010Biochemical) F. Florio, E. Cesaro, G. Montano, P. Izzo, C. Miles, and P. Costanzo. Biochemical and functional interaction between znf224 and znf255, two members of the kruppel-like zinc-finger protein family and wt1 protein isoforms. Human Molecular Genetics, 19(18):3544–3556, June 2010. URL: http://dx.doi.org/10.1093/hmg/ddq270, doi:10.1093/hmg/ddq270. This article has 34 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddq270)
+
+[7. (Medugno2002A) L. Medugno, P. Costanzo, A. Lupo, M. Monti, F. Florio, P. Pucci, and P. Izzo. A novel zinc finger transcriptional repressor, znf224, interacts with the negative regulatory element (alda‐nre) and inhibits gene expression. FEBS Letters, 534(1–3):93–100, December 2002. URL: http://dx.doi.org/10.1016/s0014-5793(02)03783-3, doi:10.1016/s0014-5793(02)03783-3. This article has 27 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0014-5793(02)03783-3)
+
+[8. (Busiello2016Role) Teresa Busiello, Michela Ciano, Simona Romano, Gaetano Sodaro, Olgavalentina Garofalo, Dario Bruzzese, Luigia Simeone, Federico Chiurazzi, Maria Fiammetta Romano, Paola Costanzo, and Elena Cesaro. Role of znf224 in cell growth and chemoresistance of chronic lymphocitic leukemia. Human Molecular Genetics, pages ddw427, December 2016. URL: http://dx.doi.org/10.1093/hmg/ddw427, doi:10.1093/hmg/ddw427. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddw427)
+
+[9. (Cesaro2021ZNF224) Elena Cesaro, Angelo Lupo, Roberta Rapuano, Arianna Pastore, Michela Grosso, and Paola Costanzo. Znf224 protein: multifaceted functions based on its molecular partners. Molecules, 26(20):6296, October 2021. URL: http://dx.doi.org/10.3390/molecules26206296, doi:10.3390/molecules26206296. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/molecules26206296)
+
+[10. (Montano2013Role) Giorgia Montano, Elena Cesaro, Luigi Fattore, Karina Vidovic, Chiara Palladino, Rossella Crescitelli, Paola Izzo, Maria Caterina Turco, and Paola Costanzo. Role of wt1–znf224 interaction in the expression of apoptosis-regulating genes. Human Molecular Genetics, 22(9):1771–1782, January 2013. URL: http://dx.doi.org/10.1093/hmg/ddt027, doi:10.1093/hmg/ddt027. This article has 19 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddt027)

@@ -1,0 +1,35 @@
+# CCDC137
+
+## Overview
+CCDC137 is a gene that encodes the protein coiled-coil domain containing 137, which is primarily localized in the nucleolus of cells. This protein is involved in critical cellular processes, including cell cycle regulation, nucleolar homeostasis, and ribosome biogenesis. It functions as a nucleolar stress sensor and plays a significant role in maintaining genomic stability by preventing DNA damage and ensuring proper cell cycle progression. CCDC137 is also known to interact with nuclear receptors, such as the retinoic acid receptor and estrogen-related receptor alpha, influencing nuclear receptor signaling pathways. In the context of viral infections, particularly HIV-1, the protein is targeted for degradation by the viral protein Vpr, which enhances viral replication and induces cell cycle arrest. The involvement of CCDC137 in cancer, especially hepatocellular carcinoma, is marked by its elevated expression in tumor tissues, correlating with poor prognosis and increased tumor mutation burdens (Zhang2021Expression; Zhang2019HIV1; Nisson2024HIV).
+
+## Function
+CCDC137 is a nucleolar protein involved in various cellular processes, including cell cycle regulation and maintaining nucleolar homeostasis. It plays a crucial role in cell viability, as its depletion leads to G2/M cell cycle arrest and the accumulation of DNA damage response markers, such as γ-H2AX, indicating its importance in cell cycle progression and genomic stability (Zhang2019HIV1). CCDC137 is also implicated in modulating nuclear receptor signaling by sequestering estrogen-related and retinoic acid receptors in the nucleolus, suggesting a role in regulating cellular homeostasis (Nisson2024HIV).
+
+In the context of HIV-1 infection, the Vpr protein targets CCDC137 for degradation, which enhances viral gene expression and induces cell cycle arrest (Zhang2019HIV1). This degradation is mediated through a nucleolar-specific ATR pathway, highlighting CCDC137's function as a nucleolar stress sensor (Nisson2024HIV). The protein's involvement in ribosome biogenesis and response to nucleolar stress underscores its significance in maintaining nucleolar integrity and cellular function (Nisson2024HIV). Despite these insights, the precise functions of CCDC137 in healthy human cells remain to be fully elucidated.
+
+## Clinical Significance
+CCDC137 has been implicated in various diseases, particularly in the context of cancer and viral infections. In hepatocellular carcinoma (HCC), CCDC137 is one of several coiled-coil domain containing genes that show significantly higher mRNA expression in cancerous tissues compared to normal tissues. This elevated expression is associated with poor prognosis in HCC patients, as it correlates with increased cell cycle progression and higher tumor mutation burdens, including more frequent TP53 mutations (Zhang2021Expression). 
+
+In the context of HIV-1 infection, the viral protein Vpr targets CCDC137 for degradation, which is linked to Vpr-induced DNA damage, G2/M cell cycle arrest, and enhanced viral transcription. This degradation is mediated through a nucleolar-specific ATR pathway, highlighting CCDC137's role as a nucleolar stress sensor. The depletion of CCDC137 by Vpr is associated with nucleolar stress and DNA damage response activation, which may contribute to the pathogenesis of HIV-1 (Zhang2019HIV1; Nisson2024HIV).
+
+Additionally, CCDC137 expression is down-regulated in HCC cells treated with corosolic acid, suggesting its potential involvement in therapeutic responses (Tang2023Network). However, specific diseases directly caused by mutations in CCDC137 have not been clearly identified.
+
+## Interactions
+CCDC137, also known as cPERP-B, is a nucleolar protein that participates in various interactions within the cell. It is known to interact with the HIV-1 Vpr protein, which induces the degradation of CCDC137 through a cullin4A-DDB1-DCAF1 complex, leading to G2/M cell cycle arrest and enhanced HIV-1 gene expression (Zhang2019HIV1). This interaction is confirmed through co-precipitation experiments, where wild-type CCDC137 can be co-precipitated with GST-Vpr, but a Vpr-resistant mutant cannot (Zhang2019HIV1).
+
+CCDC137 also interacts with nuclear receptors, such as the retinoic acid receptor (RAR) and estrogen-related receptor alpha (ERRa), sequestering them within the nucleolus. This interaction is disrupted by the adenovirus E1A protein, which leads to increased transcription of RAR target genes (Martins2021HIV1). The protein is implicated in nucleolar processes, including ribosome biogenesis, and interacts with other nucleolar proteins like nucleophosmin (NPM1), a known nucleolar stress sensor (Nisson2024HIV). These interactions suggest that CCDC137 plays a role in maintaining nucleolar homeostasis and responding to nucleolar stress.
+
+
+## References
+
+
+1. (Zhang2019HIV1) HIV-1 Vpr induces cell cycle arrest and enhances viral gene expression by depleting CCDC137. This article has 1 citations.
+
+[2. (Tang2023Network) Fei-Feng Tang, Long Liu, Xiao-Ting Tian, Ning Li, Ying-Xiu Peng, Chun-Mei Qian, Ting-Ting Jia, Jing-Jin Liu, Wen-Hui Gao, and Yan-Feng Xu. Network pharmacological analysis of corosolic acid reveals p4ha2 inhibits hepatocellular carcinoma progression. BMC Complementary Medicine and Therapies, May 2023. URL: http://dx.doi.org/10.1186/s12906-023-04008-6, doi:10.1186/s12906-023-04008-6. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12906-023-04008-6)
+
+3. (Zhang2021Expression) Expression of Coiled-Coil Domain Containing Family mRNA and prognostic value in hepatocellular carcinoma. This article has 0 citations.
+
+4. (Martins2021HIV1) HIV-1 Vpr Induces Degradation of Nucleolar Protein CCDC137 as a Consequence of Cell Cycle Arrest. This article has 1 citations.
+
+5. (Nisson2024HIV) HIV Vpr activates a nucleolar-specific ATR pathway to degrade the nucleolar stress sensor CCDC137. This article has 0 citations.

@@ -1,0 +1,60 @@
+# USP49
+
+## Overview
+USP49 is a gene that encodes the protein ubiquitin specific peptidase 49, a deubiquitinating enzyme belonging to the C19 peptidase family. This enzyme is characterized by its Zn-finger ubiquitin-binding domain and ubiquitin C-terminal hydrolase domain, which facilitate its role in removing ubiquitin from specific protein substrates. USP49 is primarily active in the nucleus, where it influences chromatin structure and gene expression by deubiquitinating histone H2B, thereby affecting pre-mRNA splicing. It also plays a crucial role in cellular differentiation processes, such as odontogenesis and neural crest cell differentiation, by stabilizing key proteins like PAX9 and MSX1. Additionally, USP49 is involved in the DNA damage response, enhancing the stability of the p53 protein. Clinically, alterations in USP49 expression or function have been implicated in various cancers, including non-small cell lung cancer and pancreatic carcinoma, where it acts as a tumor suppressor. Its regulatory role in the AKT signaling pathway and potential involvement in ischemia-reperfusion injury further underscore its significance in both normal physiology and disease contexts (Shen2019Ubiquitin; Kaushal2022Genomewide; Zhang2013USP49; Tu2018USP49).
+
+## Structure
+USP49 is a deubiquitinating enzyme characterized by its specific domain structure, which includes a Zn-finger ubiquitin-binding domain (ZnF-UBP) and a ubiquitin C-terminal hydrolase (UCH) domain. The ZnF-UBP domain is located at the N-terminus (1-250 amino acids) and is involved in binding ubiquitin, a feature shared with other proteins like histone deacetylases (Kaushal2022Genomewide; Quesada2004Cloning). The C-terminus (251-640 amino acids) encodes the UCH domain, which is crucial for interacting with proteins such as PAX9 and MSX1, playing a significant role in their stabilization and regulation during odontogenesis (Kaushal2022Genomewide).
+
+USP49 is part of the C19 peptidase family and shares structural similarities with other histone deubiquitinases, including a conserved catalytic domain with a triad of Cys, His, and Asp residues (Campos-Iglesias2020Ubiquitin-specific; Zhang2013USP49). Despite possessing all necessary catalytic residues, USP49 did not show activity in certain enzymatic assays, suggesting that its activity might be regulated by specific conditions or interactions not replicated in vitro (Quesada2004Cloning). The presence of these domains and structural features indicates a specialized function in deubiquitylating reactions, with potential implications in various biological processes.
+
+## Function
+USP49 (ubiquitin specific peptidase 49) is a deubiquitinase enzyme that plays a critical role in various cellular processes by removing ubiquitin from specific protein substrates, thereby regulating their stability and function. In healthy human cells, USP49 is primarily active in the nucleus, where it influences chromatin structure and gene expression. It specifically deubiquitinates histone H2B, a modification that is crucial for cotranscriptional pre-mRNA splicing. This activity affects the association of splicing factors with chromatin, thereby influencing splicing efficiency and gene expression (Zhang2013USP49).
+
+USP49 also plays a significant role in the differentiation of human pluripotent stem cells into neural crest-like cells and dental mesenchymal cells. It stabilizes key proteins such as PAX9 and MSX1, which are essential for odontogenesis and neural differentiation. Loss of USP49 leads to delayed differentiation and reduced expression of neural crest cell markers, highlighting its importance in normal developmental processes (Kaushal2022Genomewide).
+
+Additionally, USP49 is involved in the DNA damage response by stabilizing the p53 protein, a crucial regulator of cell cycle and apoptosis. It reduces MDM2-mediated degradation of p53, thereby enhancing its stability and activity in response to DNA damage (Tu2018USP49).
+
+## Clinical Significance
+Alterations in the expression or function of USP49 have significant clinical implications in various cancers. In non-small cell lung cancer (NSCLC), USP49 is downregulated, which correlates with poorer overall survival. Overexpression of USP49 in NSCLC cells inhibits cell growth and suppresses the PI3K/AKT signaling pathway, suggesting its potential as a therapeutic target (Shen2019Ubiquitin).
+
+In pancreatic carcinoma, USP49 acts as a tumor suppressor by stabilizing FKBP51, which negatively regulates AKT activation. Its degradation by Fbxo45 promotes tumorigenesis, highlighting the Fbxo45-USP49 axis as a potential therapeutic target (Wu2022Fbxo45; Luo2017USP49). USP49's role in regulating the AKT pathway is also significant in pancreatic ductal adenocarcinoma, where its downregulation is associated with increased tumorigenesis and chemoresistance (Luo2017USP49).
+
+In glioblastoma, USP49 modulates the deubiquitination of the glucocorticoid receptor beta (GRb), influencing cancer cell growth and invasion. Its knockdown inhibits cell proliferation and increases apoptosis, indicating an oncogenic role in this context (Hu2021Oncogenic).
+
+USP49 also plays a protective role in ischemia-reperfusion injury in cardiomyocytes by modulating the DUSP1-JNK1/2 signaling pathway, suggesting its potential as a therapeutic target for myocardial infarction (Zhang2018USP49).
+
+## Interactions
+USP49, a deubiquitinating enzyme, engages in several significant protein interactions that influence its regulatory functions. It directly interacts with the tumor suppressor protein p53, enhancing its stability by suppressing ubiquitination, particularly K33-, K48-, and K63-linked ubiquitination. This interaction forms a positive feedback loop, as p53 also upregulates USP49 expression in response to DNA damage (Tu2018USP49).
+
+USP49 also interacts with histone H2B, forming a complex with RuvB-like1 (RVB1) and SUG1, which are involved in chromatin remodeling. This complex specifically deubiquitinates H2B, affecting gene expression and pre-mRNA splicing (Zhang2013USP49).
+
+In odontogenesis, USP49 interacts with PAX9 and MSX1 proteins, stabilizing them by reducing their ubiquitination levels. These interactions occur in the nuclei of human dental pulp stem cells and are crucial for the differentiation process (Kaushal2022Genomewide).
+
+USP49 also interacts with the A3G protein, deubiquitinating its K48-linked ubiquitination, which is mediated by the HIV-1 protein Vif. This interaction is significant in modulating A3G levels and influencing HIV-1 disease progression (Pan2019USP49).
+
+
+## References
+
+
+[1. (Wu2022Fbxo45) Linhui Wu, Ke Yu, Kai Chen, Xuelian Zhu, Zheng Yang, Qi Wang, Junjie Gao, Yingying Wang, Tong Cao, Hui Xu, Xueshan Pan, Lixia Wang, Jun Xia, Yuyun Li, Zhiwei Peter Wang, and Jia Ma. Fbxo45 facilitates pancreatic carcinoma progression by targeting usp49 for ubiquitination and degradation. Cell Death &amp; Disease, March 2022. URL: http://dx.doi.org/10.1038/s41419-022-04675-2, doi:10.1038/s41419-022-04675-2. This article has 30 citations.](https://doi.org/10.1038/s41419-022-04675-2)
+
+[2. (Luo2017USP49) Kuntian Luo, Yunhui Li, Yujiao Yin, Lei Li, Chenming Wu, Yuping Chen, Somaira Nowsheen, Qi Hu, Lizhi Zhang, Zhenkun Lou, and Jian Yuan. Usp49 negatively regulates tumorigenesis and chemoresistance through fkbp51‐akt signaling. The EMBO Journal, 36(10):1434–1446, March 2017. URL: http://dx.doi.org/10.15252/embj.201695669, doi:10.15252/embj.201695669. This article has 69 citations.](https://doi.org/10.15252/embj.201695669)
+
+[3. (Zhang2013USP49) Zhuo Zhang, Amanda Jones, Heui-Yun Joo, Dewang Zhou, Ying Cao, Shaoxia Chen, Hediye Erdjument-Bromage, Matthew Renfrow, Hang He, Paul Tempst, Tim M. Townes, Keith E. Giles, Ligeng Ma, and Hengbin Wang. Usp49 deubiquitinates histone h2b and regulates cotranscriptional pre-mrna splicing. Genes &amp; Development, 27(14):1581–1595, July 2013. URL: http://dx.doi.org/10.1101/gad.211037.112, doi:10.1101/gad.211037.112. This article has 82 citations.](https://doi.org/10.1101/gad.211037.112)
+
+[4. (Quesada2004Cloning) Vı́ctor Quesada, Araceli Dı́az-Perales, Ana Gutiérrez-Fernández, Cecilia Garabaya, Santiago Cal, and Carlos López-Otı́n. Cloning and enzymatic analysis of 22 novel human ubiquitin-specific proteases. Biochemical and Biophysical Research Communications, 314(1):54–62, January 2004. URL: http://dx.doi.org/10.1016/j.bbrc.2003.12.050, doi:10.1016/j.bbrc.2003.12.050. This article has 186 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2003.12.050)
+
+[5. (Tu2018USP49) Rongfu Tu, Wenqian Kang, Xuefei Yang, Qi Zhang, Xiaoyu Xie, Wenbin Liu, Jinxiang Zhang, Xiao-Dong Zhang, Hui Wang, and Run-Lei Du. Usp49 participates in the dna damage response by forming a positive feedback loop with p53. Cell Death &amp; Disease, May 2018. URL: http://dx.doi.org/10.1038/s41419-018-0475-3, doi:10.1038/s41419-018-0475-3. This article has 32 citations.](https://doi.org/10.1038/s41419-018-0475-3)
+
+[6. (Campos-Iglesias2020Ubiquitin-specific) Diana Campos-Iglesias, Carlos López-Otín, and José M.P. Freije. Ubiquitin-specific proteases as targets for anticancer drug therapies, pages 73–120. Elsevier, 2020. URL: http://dx.doi.org/10.1016/b978-0-12-818168-3.00004-8, doi:10.1016/b978-0-12-818168-3.00004-8. This article has 3 citations.](https://doi.org/10.1016/b978-0-12-818168-3.00004-8)
+
+[7. (Zhang2018USP49) Wei Zhang, Yangyang Zhang, Hengbing Zhang, Qian Zhao, Zheng Liu, and Yawei Xu. Usp49 inhibits ischemia–reperfusion‐induced cell viability suppression and apoptosis in human ac16 cardiomyocytes through dusp1–jnk1/2 signaling. Journal of Cellular Physiology, 234(5):6529–6538, September 2018. URL: http://dx.doi.org/10.1002/jcp.27390, doi:10.1002/jcp.27390. This article has 19 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcp.27390)
+
+[8. (Kaushal2022Genomewide) Kamini Kaushal, Eun-Jung Kim, Apoorvi Tyagi, Janardhan Keshav Karapurkar, Saba Haq, Han-Sung Jung, Kye-Seong Kim, and Suresh Ramakrishna. Genome-wide screening for deubiquitinase subfamily identifies ubiquitin-specific protease 49 as a novel regulator of odontogenesis. Cell Death &amp; Differentiation, 29(9):1689–1704, March 2022. URL: http://dx.doi.org/10.1038/s41418-022-00956-7, doi:10.1038/s41418-022-00956-7. This article has 7 citations.](https://doi.org/10.1038/s41418-022-00956-7)
+
+[9. (Hu2021Oncogenic) Yaling Hu, Yingdi Jiang, Zhenhao Zhang, Jingjing Wang, Bo Zhang, Lingli Gong, Li Ji, Zhening Pu, Xusheng Yang, Jian Zou, and Ying Yin. Oncogenic activity of glucocorticoid receptor β is controlled by ubiquitination-dependent interaction with usp49 in glioblastoma cells. Molecular Cancer Research, 20(1):92–101, October 2021. URL: http://dx.doi.org/10.1158/1541-7786.mcr-20-1068, doi:10.1158/1541-7786.mcr-20-1068. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1158/1541-7786.mcr-20-1068)
+
+[10. (Pan2019USP49) Ting Pan, Zheng Song, Liyang Wu, Guangyan Liu, Xiancai Ma, Zhilin Peng, Mo Zhou, Liting Liang, Bingfeng Liu, Jun Liu, Junsong Zhang, Xuanhong Zhang, Ryan Huang, Jiacong Zhao, Yonghong Li, Xuemei Ling, Yuewen Luo, Xiaoping Tang, Weiping Cai, Kai Deng, Linghua Li, and Hui Zhang. Usp49 potently stabilizes apobec3g protein by removing ubiquitin and inhibits hiv-1 replication. eLife, August 2019. URL: http://dx.doi.org/10.7554/elife.48318, doi:10.7554/elife.48318. This article has 22 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.48318)
+
+[11. (Shen2019Ubiquitin) Wen‐Ming Shen, Jin‐Nan Yin, Rui‐Jun Xu, Da‐Fu Xu, and Shi‐Ying Zheng. Ubiquitin specific peptidase 49 inhibits non‐small cell lung cancer cell growth by suppressing pi3k/akt signaling. The Kaohsiung Journal of Medical Sciences, 35(7):401–407, April 2019. URL: http://dx.doi.org/10.1002/kjm2.12073, doi:10.1002/kjm2.12073. This article has 12 citations.](https://doi.org/10.1002/kjm2.12073)

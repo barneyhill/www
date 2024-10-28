@@ -1,0 +1,52 @@
+# DHX16
+
+## Overview
+DHX16 is a gene that encodes the DEAH-box helicase 16, a member of the DEAH-box family of RNA helicases. This protein plays a pivotal role in RNA processing, particularly in the pre-mRNA splicing machinery within the nucleus of human cells. DEAH-box helicase 16 is characterized by its ability to unwind RNA duplexes, facilitating the assembly and disassembly of spliceosomal complexes, which are essential for the accurate removal of introns from pre-mRNA transcripts (Abdelhaleem2003The; 1). The protein's activity is modulated by G-patch proteins, which enhance its ATPase and helicase functions, ensuring the fidelity and efficiency of splicing (Bohnsack2021Regulation). Given its critical involvement in RNA metabolism, DHX16 has been implicated in various diseases, including cancer and neurological disorders, highlighting its potential as a biomarker and therapeutic target (He2021PanCancer; Xiong2022Rare).
+
+## Structure
+DHX16, also known as DEAH-box helicase 16, is a member of the DEAH-box family of RNA helicases, characterized by conserved motifs essential for ATP binding and hydrolysis. The protein contains a helicase core formed by two RecA-like domains, RecA1 and RecA2, which are crucial for its function in RNA binding and translocation (Enders2023Structure). These domains are highly conserved and contain sequence motifs that facilitate nucleotide and RNA binding, as well as coupling nucleotide hydrolysis to RNA unwinding (Enders2023Structure).
+
+The tertiary structure of DHX16 includes additional C-terminal domains, such as a winged-helix (WH) domain, a helix bundle (HB) domain, and an OB-fold domain, which contribute to its RNA binding capabilities (Enders2023Structure). The RNA binding occurs in a tunnel formed by the RecA and C-terminal domains, with interactions primarily involving the sugar-phosphate backbone, allowing for sequence-independent binding (Enders2023Structure).
+
+DHX16 is activated by G-patch proteins, which enhance its helicase activity by stabilizing a conformation with high RNA affinity and improving ATP hydrolysis efficiency. This interaction restricts the flexibility of the helicase domains, allowing efficient RNA translocation and ATP binding (Studer2020Structural). The specificity of G-patch activation for DHX16 may be influenced by divergent N-and C-terminal extensions and specific surface pockets that interact with other spliceosomal proteins (Studer2020Structural).
+
+## Function
+DHX16, also known as DEAH-box helicase 16, is a crucial component of the pre-mRNA splicing machinery in human cells. It belongs to the DEAH-box family of RNA helicases, which are involved in various RNA metabolic processes. DHX16 is primarily active in the nucleus, where it facilitates the unwinding of RNA duplexes, a critical step in the assembly and disassembly of spliceosomal complexes (Abdelhaleem2003The; 1).
+
+The protein interacts with the spliceosome machinery to assist in the formation of mature mRNAs by promoting structural rearrangements and ensuring the fidelity and directionality of the splicing process (1 page 7 of 30). This function is essential for proper gene expression and cellular function, as it allows for the precise removal of introns from pre-mRNA transcripts.
+
+DHX16's activity is regulated by G-patch proteins, which enhance its ATPase and helicase activities. These proteins stabilize DHX16 in a conformation with high RNA affinity, crucial for its role in RNA processing events such as splicing (Bohnsack2021Regulation). The helicase's unique N- and C-terminal extensions may provide specificity in recruiting the correct helicase during ribonucleoprotein (RNP) rearrangements (Bohnsack2021Regulation).
+
+## Clinical Significance
+DHX16, a DEAH-box RNA helicase, has been implicated in various diseases due to its role in RNA processing and splicing. In the context of cancer, DHX16 expression levels have been associated with immune-related adverse events (irAEs) in patients undergoing checkpoint immunotherapy. Higher expression of DHX16 correlates with increased irAE risk, suggesting its potential as a biomarker for predicting these adverse events in cancer therapy (He2021PanCancer).
+
+In neurological conditions, DHX16 has been identified as a novel candidate gene for early onset Alzheimer's Disease (AD). Although its association with AD is weaker compared to other genes, DHX16's involvement in transcription alterations and DNA methylation changes suggests a potential role in the disease's pathogenesis (Xiong2022Rare).
+
+The regulation of DHX16 by G-patch proteins is crucial for its function in pre-mRNA splicing. Dysregulation of these interactions can lead to impaired splicing, which is often linked to tumorigenesis and other diseases. The specific interaction between DHX16 and its G-patch partner, GPKOW, is essential for proper spliceosomal function, highlighting the importance of these regulatory mechanisms in maintaining cellular homeostasis (Bohnsack2021Regulation).
+
+## Interactions
+DHX16, a member of the DEAH-box family of RNA helicases, is involved in RNA processing and splicing. It interacts with various proteins, notably participating in spliceosome assembly and function. In humans, DHX16 interacts with the G-patch protein GPKOW in a G-patch-dependent manner to regulate splicing functions. This interaction suggests a physical association between DHX16 and GPKOW, mediated by the G-patch domain, which is crucial for its role in splicing (Kanwal2024Analysis).
+
+DHX16 is also associated with spliceosomal components, as evidenced by its co-precipitation with markers of U2 snRNP, U5 snRNP, and the PRPF19 complex. It interacts with splicing factors such as SLU7 and DHX38/PRP2, indicating its involvement in the splicing machinery (Obuća2022Retinitis). However, specific details on DHX16's interactions with nucleic acids or other proteins beyond GPKOW are not extensively covered in the available literature. The conservation of functional interactions between human helicases and their yeast counterparts suggests that similar regulatory mechanisms may exist across species, although detailed interaction data for DHX16 remains limited (Kanwal2024Analysis).
+
+
+## References
+
+
+[1. (He2021PanCancer) Xiujing He, Jing Yu, and Hubing Shi. Pan-cancer analysis reveals alternative splicing characteristics associated with immune-related adverse events elicited by checkpoint immunotherapy. Frontiers in Pharmacology, November 2021. URL: http://dx.doi.org/10.3389/fphar.2021.797852, doi:10.3389/fphar.2021.797852. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2021.797852)
+
+[2. (Studer2020Structural) Michael K. Studer, Lazar Ivanović, Marco E. Weber, Sabrina Marti, and Stefanie Jonas. Structural basis for deah-helicase activation by g-patch proteins. Proceedings of the National Academy of Sciences, 117(13):7159–7170, March 2020. URL: http://dx.doi.org/10.1073/pnas.1913880117, doi:10.1073/pnas.1913880117. This article has 60 citations.](https://doi.org/10.1073/pnas.1913880117)
+
+[3. (Obuća2022Retinitis) Mina Obuća, Zuzana Cvačková, Jan Kubovčiak, Michal Kolář, and David Staněk. Retinitis pigmentosa-linked mutation in dhx38 modulates its splicing activity. PLOS ONE, 17(4):e0265742, April 2022. URL: http://dx.doi.org/10.1371/journal.pone.0265742, doi:10.1371/journal.pone.0265742. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0265742)
+
+[4. (Xiong2022Rare) Weixue Xiong, Jiahui Cai, Ruijia Li, Canhong Wen, and Haizhu Tan. Rare variant analysis and molecular dynamics simulation in alzheimer’s disease identifies exonic variants in flg. Genes, 13(5):838, May 2022. URL: http://dx.doi.org/10.3390/genes13050838, doi:10.3390/genes13050838. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/genes13050838)
+
+5. (1) Functional analyses of RNA helicases in human ribosome biogenesis. This article has 0 citations.
+
+[6. (Bohnsack2021Regulation) Katherine E. Bohnsack, Ralf Ficner, Markus T. Bohnsack, and Stefanie Jonas. Regulation of deah-box rna helicases by g-patch proteins. Biological Chemistry, 402(5):561–579, January 2021. URL: http://dx.doi.org/10.1515/hsz-2020-0338, doi:10.1515/hsz-2020-0338. This article has 44 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/hsz-2020-0338)
+
+[7. (Enders2023Structure) Marieke Enders, Piotr Neumann, Achim Dickmanns, and Ralf Ficner. Structure and function of spliceosomal deah-box atpases. Biological Chemistry, 404(8–9):851–866, July 2023. URL: http://dx.doi.org/10.1515/hsz-2023-0157, doi:10.1515/hsz-2023-0157. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1515/hsz-2023-0157)
+
+[8. (Abdelhaleem2003The) Mohamed Abdelhaleem, Lois Maltais, and Hester Wain. The human ddx and dhx gene families of putative rna helicases. Genomics, 81(6):618–622, June 2003. URL: http://dx.doi.org/10.1016/s0888-7543(03)00049-1, doi:10.1016/s0888-7543(03)00049-1. This article has 130 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0888-7543(03)00049-1)
+
+9. (Kanwal2024Analysis) Analysis of multifunctional RNA helicase regulation by protein cofactors in different gene expression processes. This article has 0 citations.

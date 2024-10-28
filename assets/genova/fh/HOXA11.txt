@@ -1,0 +1,56 @@
+# HOXA11
+
+## Overview
+HOXA11 is a gene that encodes the homeobox A11 protein, a transcription factor belonging to the homeobox gene family. This family is characterized by the presence of a conserved homeodomain, which facilitates DNA binding and plays a pivotal role in regulating gene expression during embryonic development. The HOXA11 protein is integral to the differentiation and development of the human endometrium, particularly in response to hormonal signals such as progesterone. It is involved in preparing the endometrium for implantation and supporting early pregnancy. The protein's interactions with other transcription factors and coactivators, such as FOXO1A and CREB-binding protein (CBP), underscore its role in transcriptional regulation. Alterations in HOXA11 expression or mutations in the gene have been linked to various clinical conditions, including gastric cancer, glioblastoma, and congenital anomalies, highlighting its significance in both normal physiological processes and disease states (Taylor1999Sex; Lynch2009HoxA11; Cui2015Epigenetic).
+
+## Structure
+The HOXA11 protein is a transcription factor characterized by a conserved homeodomain, which is a 60-amino acid region responsible for DNA binding. This homeodomain includes a helix-turn-helix motif, which is typical of proteins in the homeobox gene family (Roth2005Repressor). The protein's primary structure also features an intrinsically disordered region (IDR) at the N-terminus, which is involved in protein-protein interactions, particularly with the CREB binding protein (CBP) (Ganguly2021Mapping).
+
+The secondary structure of HOXA11 includes regions with tendencies to form alpha helices and beta strands, particularly around specific amino acids such as 14, 20, 44, and 60. These structural tendencies were predicted using algorithms like PSIPRED and JUFO and confirmed through experiments with circular dichroism spectra (Nnamani2016A). The IDR at the N-terminus is predicted to form an α-helix in a segment termed the extended KBD (eKBD), which is crucial for binding to the KIX domain of CBP (Ganguly2021Mapping).
+
+Post-translational modifications of HOXA11 include phosphorylation at specific sites, such as S98 and T119, which are crucial for its functional activity and interaction with other proteins like FOXO1 (Nnamani2016A). These modifications play a significant role in the protein's regulatory functions.
+
+## Function
+HOXA11 is a homeobox gene that encodes a transcription factor involved in the regulation of gene expression during embryonic development and plays a crucial role in the differentiation and development of the human endometrium. In healthy human cells, HOXA11 is active in the nucleus, where it binds to DNA to regulate the expression of target genes, influencing cell differentiation and tissue patterning. The gene is expressed in both glandular and stromal components of the endometrium and is modulated by sex steroids, particularly progesterone, which significantly increases its expression during the mid-secretory phase of the menstrual cycle. This phase-specific expression suggests that HOXA11 is involved in preparing the endometrium for implantation and supporting early pregnancy (Taylor1999Sex).
+
+HOXA11 expression is crucial for the development of the endometrium, implantation, and maintenance of pregnancy. It is part of the HOX gene family, which are vertebrate homologs of Drosophila homeotic selector genes, known for their role in giving identity to developing body segments. In mice, targeted mutation of the Hoxa11 gene results in uterine factor infertility, indicating its importance in uterine development and function (Taylor1999Sex).
+
+## Clinical Significance
+Mutations and altered expression of the HOXA11 gene have been implicated in various diseases and conditions. In gastric cancer, the hypermethylation of the HOXA11 promoter is associated with reduced expression, which correlates with tumor progression and clinical features such as lymph node metastasis and poor differentiation (Bai2014HOXA11; Cui2015Epigenetic). This methylation status makes HOXA11 a potential molecular marker for evaluating malignancy in gastric cancer (Bai2014HOXA11).
+
+In glioblastoma, underexpression of HOXA11 is linked to treatment resistance and poor prognosis. Patients with higher HOXA11 expression have better survival rates, suggesting that HOXA11 could be a target for overcoming treatment resistance (Se2017Underexpression).
+
+Mutations in HOXA11 are also associated with congenital anomalies. A novel missense mutation, c.763G > A (p. E255K), has been identified in patients with septate uterus, a type of Müllerian duct anomaly, leading to reproductive issues such as infertility and spontaneous abortion (Zhu2017A). Additionally, a homozygous variation in HOXA11 has been linked to congenital anomalies of the kidney and urinary tract (CAKUT), contributing to chronic kidney disease in affected individuals (Saygili2020A).
+
+## Interactions
+HOXA11 interacts with several proteins and nucleic acids, playing a significant role in transcriptional regulation. It forms a complex with the transcription factor FOXO1A to regulate decidual prolactin (PRL) expression in human endometrial stromal cells. This interaction is crucial for the upregulation of PRL, as demonstrated by co-immunoprecipitation and chromatin immunoprecipitation assays, which show HOXA11 and FOXO1A binding to the PRL enhancer region (Lynch2009HoxA11).
+
+HOXA11 also interacts with the CREB-binding protein (CBP) and its paralog P300, which are histone acetyltransferases. These interactions are mediated through the KIX binding domains of HOXA11, facilitating cooperative transactivation with FOXO1A. Knockdown experiments of CBP and P300 result in a significant downregulation of PRL, highlighting the importance of these interactions (Nnamani2016A).
+
+The polyalanine tract of HOXA11 interacts with SIN3 proteins, functioning as a repressor module. This interaction involves the PAH domains of SIN3 proteins, contributing to the transcriptional repression of target genes (Lynch2021Cooption). These interactions illustrate the multifaceted role of HOXA11 in gene regulation through both activation and repression mechanisms.
+
+
+## References
+
+
+[1. (Saygili2020A) Seha Saygili, Emine Atayar, Nur Canpolat, Mehmet Elicevik, Sebuh Kurugoglu, Lale Sever, Salim Caliskan, and Fatih Ozaltin. A homozygous <scp>hoxa11</scp> variation as a potential novel cause of autosomal recessive congenital anomalies of the kidney and urinary tract. Clinical Genetics, 98(4):390–395, September 2020. URL: http://dx.doi.org/10.1111/cge.13813, doi:10.1111/cge.13813. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/cge.13813)
+
+[2. (Lynch2009HoxA11) Vincent J. Lynch, Kathryn Brayer, Birgit Gellersen, and Günter P. Wagner. Hoxa-11 and foxo1a cooperate to regulate decidual prolactin expression: towards inferring the core transcriptional regulators of decidual genes. PLoS ONE, 4(9):e6845, September 2009. URL: http://dx.doi.org/10.1371/journal.pone.0006845, doi:10.1371/journal.pone.0006845. This article has 77 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0006845)
+
+[3. (Roth2005Repressor) Jutta Johanna Roth, Michael Breitenbach, and Günter Paul Wagner. Repressor domain and nuclear localization signal of the murine hoxa-11 protein are located in the homeodomain: no evidence for role of poly alanine stretches in transcriptional repression. Journal of Experimental Zoology Part B: Molecular and Developmental Evolution, 304B(5):468–475, 2005. URL: http://dx.doi.org/10.1002/jez.b.21061, doi:10.1002/jez.b.21061. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jez.b.21061)
+
+[4. (Bai2014HOXA11) Yinguo Bai, Na Fang, Tingxun Gu, Yuhua Kang, Jiang Wu, Desheng Yang, Hui Zhang, Zhimin Suo, and Shaoping Ji. Hoxa11 gene is hypermethylation and aberrant expression in gastric cancer. Cancer Cell International, August 2014. URL: http://dx.doi.org/10.1186/s12935-014-0079-7, doi:10.1186/s12935-014-0079-7. This article has 18 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-014-0079-7)
+
+5. (Ganguly2021Mapping) Mapping the Promiscuous Binding Interface of HOX-A11 with KIX by Experimentally Guidedin-silicodocking. This article has 0 citations.
+
+[6. (Cui2015Epigenetic) Yingying Cui, Dan Gao, Enqiang Linghu, Qimin Zhan, Runsheng Chen, Malcolm V Brock, James G Herman, and Mingzhou Guo. Epigenetic changes and functional study of hoxa11 in human gastric cancer. Epigenomics, 7(2):201–213, January 2015. URL: http://dx.doi.org/10.2217/epi.14.92, doi:10.2217/epi.14.92. This article has 31 citations and is from a peer-reviewed journal.](https://doi.org/10.2217/epi.14.92)
+
+[7. (Nnamani2016A) Mauris C. Nnamani, Soumya Ganguly, Eric M. Erkenbrack, Vincent J. Lynch, Laura S. Mizoue, Yingchun Tong, Heather L. Darling, Monika Fuxreiter, Jens Meiler, and Günter P. Wagner. A derived allosteric switch underlies the evolution of conditional cooperativity between hoxa11 and foxo1. Cell Reports, 15(10):2097–2108, June 2016. URL: http://dx.doi.org/10.1016/j.celrep.2016.04.088, doi:10.1016/j.celrep.2016.04.088. This article has 23 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2016.04.088)
+
+[8. (Zhu2017A) Ying Zhu, Zhi Cheng, Jing Wang, Beihong Liu, Longfei Cheng, Beili Chen, Yunxia Cao, and Binbin Wang. A novel mutation of hoxa11 in a patient with septate uterus. Orphanet Journal of Rare Diseases, December 2017. URL: http://dx.doi.org/10.1186/s13023-017-0727-9, doi:10.1186/s13023-017-0727-9. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s13023-017-0727-9)
+
+[9. (Lynch2021Cooption) Vincent J. Lynch and Gunter P. Wagner. Cooption of polyalanine tract into a repressor domain in the mammalian transcription factor hoxa11. Journal of Experimental Zoology Part B: Molecular and Developmental Evolution, 340(8):486–495, June 2021. URL: http://dx.doi.org/10.1002/jez.b.23063, doi:10.1002/jez.b.23063. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jez.b.23063)
+
+[10. (Taylor1999Sex) Hugh S. Taylor, Peter Igarashi, David L. Olive, and Aydin Arici. Sex steroids mediate hoxa11 expression in the human peri-implantation endometrium1. The Journal of Clinical Endocrinology &amp; Metabolism, 84(3):1129–1135, March 1999. URL: http://dx.doi.org/10.1210/jcem.84.3.5573, doi:10.1210/jcem.84.3.5573. This article has 8 citations.](https://doi.org/10.1210/jcem.84.3.5573)
+
+[11. (Se2017Underexpression) Young-Bem Se, Seung Hyun Kim, Ji Young Kim, Ja Eun Kim, Yun-Sik Dho, Jin Wook Kim, Yong Hwy Kim, Hyun Goo Woo, Se-Hyuk Kim, Shin-Hyuk Kang, Hak Jae Kim, Tae Min Kim, Soon-Tae Lee, Seung Hong Choi, Sung-Hye Park, Il Han Kim, Dong Gyu Kim, and Chul-Kee Park. Underexpression of hoxa11 is associated with treatment resistance and poor prognosis in glioblastoma. Cancer Research and Treatment, 49(2):387–398, April 2017. URL: http://dx.doi.org/10.4143/crt.2016.106, doi:10.4143/crt.2016.106. This article has 30 citations and is from a peer-reviewed journal.](https://doi.org/10.4143/crt.2016.106)

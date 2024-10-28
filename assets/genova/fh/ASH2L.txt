@@ -1,0 +1,60 @@
+# ASH2L
+
+## Overview
+ASH2L is a gene that encodes the ASH2-like protein, a critical component of the SET1/MLL histone methyltransferase complex. This protein plays a pivotal role in the methylation of histone H3 at lysine 4 (H3K4), a modification associated with transcriptional activation and gene expression regulation. ASH2L is categorized as a histone lysine methyltransferase complex subunit and is integral to the trithorax group (TrxG) of proteins, which are known for their role in positively regulating Hox genes and counteracting the repressive functions of the Polycomb group proteins. The ASH2L protein is essential for early embryonic development, hematopoiesis, and cellular differentiation, influencing chromatin structure and transcription factor recruitment within the nucleus (LüscherFirzlaff2019Hematopoietic; Stoller2010Ash2l). Its interactions with other proteins, such as RbBP5 and DPY30, enhance its function in the MLL complex, making it a significant player in epigenetic regulation and a potential target for therapeutic interventions in various cancers (Lee2021Mechanism; Cao2010An).
+
+## Structure
+The ASH2L protein is a core component of the MLL family histone methyltransferases, involved in histone H3 lysine 4 (H3K4) methylation. It has a modular structure comprising several domains, including a PHD finger, a winged-helix (WH) motif, a SPRY domain, and a DPY-30 binding motif (DBM) (Chen2012Structure).
+
+The N-terminal domain of ASH2L features an atypical PHD finger and a WH motif. The PHD finger, spanning residues 13-66, consists of two small anti-parallel beta-sheets separated by a long loop, with a zinc ion coordinated by four cysteine residues. This PHD finger is atypical as it does not bind histone tails (Chen2011Crystal). The WH motif, located at residues 67-174, includes three alpha-helices and a curved three-stranded beta-sheet, and is involved in DNA binding (Chen2011Crystal).
+
+The SPRY domain of ASH2L adopts a tadpole-like conformation with a central 200-residue globular fold, featuring a distorted β-sandwich conformation. It is crucial for recognizing RbBP5 and mediating MLL1 complex assembly (Chen2012Structure). The SPRY domain also includes pre- and post-SPRY motifs, with the latter essential for correct folding (Chen2012Structure).
+
+ASH2L's structure is stabilized by interactions between its domains, and its DNA-binding activity is crucial for its role in gene expression regulation (Chen2011Crystal).
+
+## Function
+The ASH2L gene encodes a protein that is a critical component of the SET1/MLL histone methyltransferase complex, which is involved in the methylation of histone H3 at lysine 4 (H3K4). This modification is associated with transcriptional activation and plays a significant role in gene expression regulation (Stoller2010Ash2l; Mungamuri2014Ash2L). ASH2L is part of the trithorax group (TrxG) of proteins, which are known for their role in the positive regulation of Hox genes and opposing the Polycomb group of transcriptional repressors (Stoller2010Ash2l).
+
+In healthy human cells, ASH2L is crucial for early embryonic development and is involved in epigenetic regulation through its role in histone modification (Stoller2010Ash2l). It is essential for the proliferation and differentiation of hematopoietic stem and progenitor cells, as its disruption leads to impaired hematopoiesis and deregulated gene expression (LüscherFirzlaff2019Hematopoietic). ASH2L also interacts with transcription factors such as TBX1, enhancing transcriptional activity and influencing developmental processes (Stoller2010Ash2l).
+
+ASH2L is primarily active in the nucleus, where it influences chromatin structure and transcription factor recruitment, facilitating transcription initiation and gene expression (Stoller2010Ash2l; Mungamuri2014Ash2L). Its activity is crucial for maintaining the balance of cell populations and ensuring proper cellular differentiation and development (LüscherFirzlaff2019Hematopoietic).
+
+## Clinical Significance
+Alterations in ASH2L expression are implicated in various cancers, including acute myeloid leukemia (AML), glioblastoma, Hodgkin's lymphoma, and testicular cancer. In AML, elevated ASH2L expression is associated with poor prognosis and is linked to specific mutations such as FLT3 and NPM1. High ASH2L levels correlate with increased cell proliferation and survival, while low expression is associated with improved patient outcomes (Butler2016Low). In glioblastoma, ASH2L is crucial for cell survival and proliferation, with its depletion leading to reduced tumor growth and viability. ASH2L interacts with the SET1/MLL family of histone methyltransferases, enhancing transcriptional activity and contributing to tumor progression (OzyerliGoknar2023Epigeneticfocused).
+
+In Hodgkin's lymphoma and testicular cancer, ASH2L influences sensitivity to genotoxic drugs like bleomycin. Low ASH2L expression is linked to increased resistance to these drugs, suggesting enhanced DNA repair capabilities. This resistance is not due to changes in the transcriptome but may involve the removal of the H3K4me3 mark at DNA damage sites, facilitating repair (Constantin2020ASH2L). ASH2L's role in these cancers highlights its potential as a therapeutic target and a biomarker for treatment response.
+
+## Interactions
+ASH2L is a component of the SET1/MLL histone methyltransferase complexes and interacts with several proteins to regulate histone methylation and gene transcription. It forms a heterodimer with RbBP5, which is crucial for stimulating the methyltransferase activity of the MLL1 complex, specifically for H3K4 methylation. The interaction between ASH2L and RbBP5 is mediated by the SPRY domain of ASH2L and a specific peptide region of RbBP5 (Chen2012Structure; Cao2010An).
+
+ASH2L also interacts with DPY30, which induces conformational changes in ASH2L, making it more compact and enhancing its role in the MLL1 complex. This interaction is essential for the DPY30-dependent stimulation of histone methyltransferase activity (Lee2021Mechanism; Chen2012Structure).
+
+In addition to its role in the MLL complexes, ASH2L interacts with the transcription factor MYC, suggesting a role in recruiting methyltransferase activity to MYC-regulated promoters. This interaction is part of a broader mechanism involving the regulation of chromatin modifications (Ullius2014The).
+
+ASH2L also binds to nucleosomal DNA, which may help restrict the rotational dynamics of the MLL1 complex on the nucleosome core particle (Lee2021Mechanism).
+
+
+## References
+
+
+[1. (Ullius2014The) A. Ullius, J. Luscher-Firzlaff, I. G. Costa, G. Walsemann, A. H. Forst, E. G. Gusmao, K. Kapelle, H. Kleine, E. Kremmer, J. Vervoorts, and B. Luscher. The interaction of myc with the trithorax protein ash2l promotes gene transcription by regulating h3k27 modification. Nucleic Acids Research, 42(11):6901–6920, April 2014. URL: http://dx.doi.org/10.1093/nar/gku312, doi:10.1093/nar/gku312. This article has 47 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gku312)
+
+[2. (Chen2011Crystal) Yong Chen, Bingbing Wan, Kevin C Wang, Fang Cao, Yuting Yang, Angeline Protacio, Yali Dou, Howard Y Chang, and Ming Lei. Crystal structure of the n‐terminal region of human ash2l shows a winged‐helix motif involved in dna binding. EMBO reports, 12(8):797–803, June 2011. URL: http://dx.doi.org/10.1038/embor.2011.101, doi:10.1038/embor.2011.101. This article has 46 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/embor.2011.101)
+
+[3. (Chen2012Structure) Yong Chen, Fang Cao, Bingbing Wan, Yali Dou, and Ming Lei. Structure of the spry domain of human ash2l and its interactions with rbbp5 and dpy30. Cell Research, 22(3):598–602, January 2012. URL: http://dx.doi.org/10.1038/cr.2012.9, doi:10.1038/cr.2012.9. This article has 42 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/cr.2012.9)
+
+[4. (OzyerliGoknar2023Epigeneticfocused) Ezgi Ozyerli-Goknar, Ezgi Yagmur Kala, Ali Cenk Aksu, Ipek Bulut, Ahmet Cingöz, Sheikh Nizamuddin, Martin Biniossek, Fidan Seker-Polat, Tunc Morova, Can Aztekin, Sonia H. Y. Kung, Hamzah Syed, Nurcan Tuncbag, Mehmet Gönen, Martin Philpott, Adam P. Cribbs, Ceyda Acilan, Nathan A. Lack, Tamer T. Onder, H. T. Marc Timmers, and Tugba Bagci-Onder. Epigenetic-focused crispr/cas9 screen identifies (absent, small, or homeotic)2-like protein (ash2l) as a regulator of glioblastoma cell survival. Cell Communication and Signaling, November 2023. URL: http://dx.doi.org/10.1186/s12964-023-01335-6, doi:10.1186/s12964-023-01335-6. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12964-023-01335-6)
+
+[5. (LüscherFirzlaff2019Hematopoietic) Juliane Lüscher-Firzlaff, Nicolas Chatain, Chao-Chung Kuo, Till Braunschweig, Agnieszka Bochyńska, Andrea Ullius, Bernd Denecke, Ivan G. Costa, Steffen Koschmieder, and Bernhard Lüscher. Hematopoietic stem and progenitor cell proliferation and differentiation requires the trithorax protein ash2l. Scientific Reports, June 2019. URL: http://dx.doi.org/10.1038/s41598-019-44720-3, doi:10.1038/s41598-019-44720-3. This article has 24 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-019-44720-3)
+
+[6. (Lee2021Mechanism) Young-Tae Lee, Alex Ayoub, Sang-Ho Park, Liang Sha, Jing Xu, Fengbiao Mao, Wei Zheng, Yang Zhang, Uhn-Soo Cho, and Yali Dou. Mechanism for dpy30 and ash2l intrinsically disordered regions to modulate the mll/set1 activity on chromatin. Nature Communications, May 2021. URL: http://dx.doi.org/10.1038/s41467-021-23268-9, doi:10.1038/s41467-021-23268-9. This article has 25 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-23268-9)
+
+[7. (Butler2016Low) Jill S. Butler, Yi Hua Qiu, Nianxiang Zhang, Suk-Young Yoo, Kevin R. Coombes, Sharon Y. R. Dent, and Steven M. Kornblau. Low expression of ash2l protein correlates with a favorable outcome in acute myeloid leukemia. Leukemia &amp; Lymphoma, 58(5):1207–1218, October 2016. URL: http://dx.doi.org/10.1080/10428194.2016.1235272, doi:10.1080/10428194.2016.1235272. This article has 23 citations.](https://doi.org/10.1080/10428194.2016.1235272)
+
+[8. (Stoller2010Ash2l) Jason Z Stoller, Li Huang, Cheryl C Tan, Facan Huang, Diane D Zhou, Jifu Yang, Bruce D Gelb, and Jonathan A Epstein. Ash2l interacts with tbx1 and is required during early embryogenesis. Experimental Biology and Medicine, 235(5):569–576, May 2010. URL: http://dx.doi.org/10.1258/ebm.2010.009318, doi:10.1258/ebm.2010.009318. This article has 75 citations and is from a peer-reviewed journal.](https://doi.org/10.1258/ebm.2010.009318)
+
+9. (Constantin2020ASH2L) ASH2L drives proliferation and sensitivity to bleomycin and other genotoxins in Hodgkin’s lymphoma and testicular cancer cells. This article has 0 citations.
+
+[10. (Cao2010An) Fang Cao, Yong Chen, Tomasz Cierpicki, Yifan Liu, Venkatesha Basrur, Ming Lei, and Yali Dou. An ash2l/rbbp5 heterodimer stimulates the mll1 methyltransferase activity through coordinated substrate interactions with the mll1 set domain. PLoS ONE, 5(11):e14102, November 2010. URL: http://dx.doi.org/10.1371/journal.pone.0014102, doi:10.1371/journal.pone.0014102. This article has 91 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0014102)
+
+[11. (Mungamuri2014Ash2L) S K Mungamuri, S Wang, J J Manfredi, W Gu, and S A Aaronson. Ash2l enables p53-dependent apoptosis by favoring stable transcription pre-initiation complex formation on its pro-apoptotic target promoters. Oncogene, 34(19):2461–2470, July 2014. URL: http://dx.doi.org/10.1038/onc.2014.198, doi:10.1038/onc.2014.198. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2014.198)

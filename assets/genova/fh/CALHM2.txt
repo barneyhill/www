@@ -1,0 +1,40 @@
+# CALHM2
+
+## Overview
+CALHM2, or calcium homeostasis modulator family member 2, is a gene that encodes a transmembrane protein involved in mitochondrial function and cellular metabolism. The CALHM2 protein is a component of the inner mitochondrial membrane, where it forms an undecameric assembly that functions as a mitochondrial protein import channel. This channel is crucial for the import of enzymes necessary for fatty acid metabolism and cellular respiration, distinguishing itself from the traditional TIM/TOM pathways. CALHM2's role in mitochondrial function extends to maintaining the structure of mitochondrial cristae and cardiolipin levels, which are essential for energy metabolism. The protein's interactions with mitochondrial trifunctional protein (mTFP) subunits are vital for β-oxidation, linking it to the production of acetyl-CoA for the TCA cycle. Alterations in CALHM2 expression have been associated with various neurological and metabolic disorders, highlighting its significance in cellular energy balance and potential as a therapeutic target (Jonas2024CALHM2; Bo2023Deletion).
+
+## Structure
+The CALHM2 protein is characterized by its unique molecular structure, forming an undecameric assembly composed of 11 subunits. Each protomer includes a large N-terminal transmembrane domain (TMD) with helices S1, S2, S3, and S4, and an intracellular C-terminal domain (CTD) (Choi2019The). The TMD helices are arranged anticlockwise, which is distinct from similar channels like connexins and innexins, allowing for a flexible S1 helix (Choi2019The). The cytoplasmic domain features a long CH1 helix and three shorter α-helices (CH2, CH3, and CH4), contributing to the compactness of the hemichannel through extensive subunit-subunit interactions (Choi2019The).
+
+The quaternary structure of CALHM2 is defined by its 11-mer oligomeric state, which can dimerize into a 22-mer structure under certain conditions, resembling a gap junction (Syrjanen2020Structure). This oligomeric assembly is mediated by interactions between the TMDs and the cytoplasmic helices of neighboring subunits (Syrjanen2020Structure). The protein's channel-lining residues are hydrophobic, suggesting the accommodation of hydrophobic molecules like lipids within the channel (Syrjanen2020Structure). Unlike CALHM1, CALHM2 does not exhibit voltage-dependent ion channel activities, which may be attributed to its structural differences (Syrjanen2020Structure).
+
+## Function
+CALHM2 is a mitochondrial protein import channel that plays a crucial role in fatty acid metabolism and cellular respiration. It is localized to the inner mitochondrial membrane, particularly in the cristae membranes and junctions, where it is essential for importing mitochondrial enzymes into the matrix, a process distinct from the canonical TIM/TOM pathway (Jonas2024CALHM2). CALHM2 interacts with the mitochondrial trifunctional protein (mTFP), specifically binding to its subunits ECHA and ECHB, which are vital for β-oxidation, leading to the production of acetyl-CoA for the TCA cycle (Jonas2024CALHM2).
+
+The depletion of CALHM2 results in mTFP deficiency, affecting β-oxidation and leading to lipid accumulation and disrupted energy metabolism, including reduced glycolytic capacity and impaired respiration (Jonas2024CALHM2). CALHM2 is also involved in maintaining normal mitochondrial cristae structure and cardiolipin levels, which are critical for the proper functioning of the inner mitochondrial membrane (Jonas2024CALHM2). Its role in cellular energy balance is underscored by its influence on the TCA cycle and glycolysis, linking pyruvate dehydrogenase activity to acetyl-CoA production (Jonas2024CALHM2).
+
+## Clinical Significance
+CALHM2 has been implicated in several neurological and metabolic conditions due to its role in calcium signaling and mitochondrial function. In the context of Parkinson's disease (PD), alterations in CALHM2 expression have been shown to influence microglial activation and neuroinflammation. Knockout studies in mice have demonstrated that the deletion of CALHM2 can alleviate MPTP-induced PD pathology by inhibiting EFhd2-STAT3 signaling in microglia, reducing dopaminergic neuronal loss, and improving locomotor performance (Bo2023Deletion). This suggests that CALHM2 may be a potential therapeutic target for neuroinflammation-related diseases.
+
+CALHM2 is also involved in mitochondrial fatty acid metabolism. It functions as a mitochondrial protein import channel, crucial for the import of enzymes necessary for β-oxidation. Depletion of CALHM2 can lead to metabolic diseases characterized by disrupted energy metabolism, such as mitochondrial trifunctional protein (mTFP) deficiency and long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency (LCHAD), which are associated with severe cardiomyopathy and sudden death (Jonas2024CALHM2). These findings highlight the importance of CALHM2 in maintaining normal mitochondrial function and its potential link to metabolic disorders.
+
+## Interactions
+CALHM2 interacts with the mitochondrial trifunctional protein (mTFP), a key player in fatty acid metabolism. This interaction involves the binding of CALHM2 to the mTFP subunits ECHA and ECHB, which are crucial for β-oxidation and the production of acetyl-CoA for the TCA cycle. The interaction was confirmed through immunoprecipitation and western blotting, and CALHM2 is essential for the proper mitochondrial localization of these subunits. Knockdown of CALHM2 results in reduced levels of ECHA and ECHB in mitochondria and mislocalization of ECHA to the cytosol (Jonas2024CALHM2).
+
+CALHM2 also forms heteromeric channels with CALHM4, as demonstrated in studies using HEK293 cells. These heteromeric assemblies exhibit a heterogeneous distribution and are characterized by distinct oligomeric organizations, with CALHM2 often predominating in undecameric and dodecameric channels. The interactions between CALHM2 and CALHM4 are mediated by sybodies, which are small antibody-like proteins used to label and characterize the subunits within these channels (Drożdżyk2024Structural).
+
+CALHM2's channel activity is modulated by interactions with mitochondrial targeting peptides, such as ECHA, which can transit through the CALHM2 channel, affecting its conductance (Jonas2024CALHM2).
+
+
+## References
+
+
+[1. (Syrjanen2020Structure) Johanna L. Syrjanen, Kevin Michalski, Tsung-Han Chou, Timothy Grant, Shanlin Rao, Noriko Simorowski, Stephen J. Tucker, Nikolaus Grigorieff, and Hiro Furukawa. Structure and assembly of calcium homeostasis modulator proteins. Nature Structural &amp; Molecular Biology, 27(2):150–159, January 2020. URL: http://dx.doi.org/10.1038/s41594-019-0369-9, doi:10.1038/s41594-019-0369-9. This article has 63 citations.](https://doi.org/10.1038/s41594-019-0369-9)
+
+[2. (Bo2023Deletion) Xuena Bo, Fei Xie, Jingdan Zhang, Runze Gu, Xiaoheng Li, Shuoshuo Li, Zengqiang Yuan, and Jinbo Cheng. Deletion of calhm2 alleviates mptp-induced parkinson’s disease pathology by inhibiting efhd2-stat3 signaling in microglia. Theranostics, 13(6):1809–1822, 2023. URL: http://dx.doi.org/10.7150/thno.83082, doi:10.7150/thno.83082. This article has 9 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7150/thno.83082)
+
+3. (Drożdżyk2024Structural) Structural features of heteromeric channels composed of CALHM2 and CALHM4 paralogs. This article has 0 citations.
+
+4. (Jonas2024CALHM2) CALHM2 is a mitochondrial protein import channel that regulates fatty acid metabolism. This article has 0 citations.
+
+[5. (Choi2019The) Wooyoung Choi, Nicolina Clemente, Weinan Sun, Juan Du, and Wei Lü. The structures and gating mechanism of human calcium homeostasis modulator 2. Nature, 576(7785):163–167, November 2019. URL: http://dx.doi.org/10.1038/s41586-019-1781-3, doi:10.1038/s41586-019-1781-3. This article has 71 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41586-019-1781-3)

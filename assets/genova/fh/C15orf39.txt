@@ -1,0 +1,37 @@
+# C15orf39
+
+## Overview
+C15orf39 is a gene located on human chromosome 15, encoding the protein known as chromosome 15 open reading frame 39. This protein is involved in various cellular processes, including signaling pathways and inflammatory responses. It is identified as a novel substrate of MAPK1, a kinase that plays a critical role in cell proliferation and mitosis, suggesting that C15orf39 may participate in these processes through phosphorylation events (Zhang2022Interrogating). The protein is predominantly localized in the nucleus, indicating potential involvement in nuclear functions, such as the spindle assembly checkpoint during mitosis (Zhang2022Interrogating). Additionally, C15orf39 interacts with protein arginine methyltransferase 2 (PRMT2) to modulate the NF-κB signaling pathway, thereby influencing inflammatory responses in microglial cells (Zhang2024Human). The gene's expression and function have been linked to conditions such as intervertebral disc degeneration and central nervous system diseases, highlighting its clinical significance (Li2022Identification; Zhang2024Human).
+
+## Function
+C15orf39 is a gene located on chromosome 15, and its protein product is involved in several cellular processes, although its specific functions in healthy human cells are not fully characterized. Research has identified C15orf39 as a novel candidate substrate of MAPK1, a kinase involved in various signaling pathways. In HEK293T and HCT116 cells, C15orf39 is phosphorylated at serine 364 (pS364) following EGF treatment, indicating its role in cellular signaling pathways related to mitosis and cell proliferation (Zhang2022Interrogating).
+
+C15orf39 is localized to the nucleus, as shown by HA immunostaining in HEK293T cells expressing a tagged version of the protein. This nuclear localization suggests a potential role in nuclear processes, possibly related to its interaction with MAD2L1, a component of the spindle assembly checkpoint required for mitotic check (Zhang2022Interrogating).
+
+The gene has also been implicated in intervertebral disc degeneration (IDD), where it is identified as one of the hub genes related to NK cell activation, distinguishing degenerative disc tissue from healthy tissue (Li2022Identification). However, the precise molecular activities and organismal outcomes of C15orf39 remain to be fully elucidated.
+
+## Clinical Significance
+The C15orf39 gene has been implicated in various diseases and conditions through its role in regulating inflammatory responses in microglial cells. Alterations in its expression can significantly impact the production of pro-inflammatory cytokines, such as IL-6 and TNFα, which are associated with central nervous system diseases like Alzheimer's disease. The gene interacts with protein arginine methyltransferase 2 (PRMT2) to suppress NF-κB signaling, a pathway crucial for inflammation. Under inflammatory conditions, the activation of NF-κBp65 can suppress C15orf39 promoter activity, negating its anti-inflammatory effects (Zhang2024Human).
+
+C15orf39 is also associated with dynamic genetic regulation during cellular differentiation, linked to the variant rs28818910, which affects body mass index and red blood cell count. This suggests a temporary regulatory effect during differentiation stages, potentially influencing phenotypic outcomes (Strober2019Dynamic).
+
+Additionally, C15orf39 has been identified as a novel substrate of MAPK1, indicating a potential role in mitosis and cell proliferation. Its phosphorylation by MAPK1 suggests involvement in cellular processes beyond inflammation, although its clinical significance in these contexts requires further exploration (Zhang2022Interrogating).
+
+## Interactions
+C15orf39 interacts with the cytoplasmic protein arginine methyltransferase 2 (PRMT2) in human microglial cells. This interaction is crucial for suppressing the activation of the NF-κB signaling pathway, which is involved in the transcription of inflammatory factors such as IL-6 and TNF-α. The interaction between C15orf39 and PRMT2 stabilizes IκBα, an inhibitor of NF-κB, thereby reducing the inflammatory response (Zhang2024Human).
+
+The specific region of PRMT2 that interacts with C15orf39 is located between positions 96-433. This interaction inhibits PRMT2 ubiquitination, which in turn suppresses NF-κB signaling. Knockdown of C15orf39 results in decreased PRMT2 levels and increased activation of NF-κBp65, a subunit of NF-κB, while overexpression of C15orf39 has the opposite effect (Zhang2024Human).
+
+Under inflammatory conditions, NF-κBp65 can suppress the transcription of C15orf39, indicating a feedback mechanism where NF-κB activity can regulate C15orf39 expression. This suggests that C15orf39 acts as an upstream regulator of PRMT2-mediated suppression of NF-κB signaling, highlighting its potential role in controlling inflammatory responses in the central nervous system (Zhang2024Human).
+
+
+## References
+
+
+[1. (Strober2019Dynamic) B. J. Strober, R. Elorbany, K. Rhodes, N. Krishnan, K. Tayeb, A. Battle, and Y. Gilad. Dynamic genetic regulation of gene expression during cellular differentiation. Science, 364(6447):1287–1290, June 2019. URL: http://dx.doi.org/10.1126/science.aaw0040, doi:10.1126/science.aaw0040. This article has 167 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1126/science.aaw0040)
+
+[2. (Li2022Identification) Jianjun Li, Cheng Yu, Songjia Ni, and Yang Duan. Identification of core genes and screening of potential targets in intervertebral disc degeneration using integrated bioinformatics analysis. Frontiers in Genetics, May 2022. URL: http://dx.doi.org/10.3389/fgene.2022.864100, doi:10.3389/fgene.2022.864100. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.864100)
+
+[3. (Zhang2024Human) Min Zhang, Yaqi Xu, Gaizhi Zhu, Qi Zeng, Ran Gao, Jinming Qiu, Wenting Su, and Renxi Wang. Human c15orf39 inhibits inflammatory response via prmt2 in human microglial hmc3 cell line. International Journal of Molecular Sciences, 25(11):6025, May 2024. URL: http://dx.doi.org/10.3390/ijms25116025, doi:10.3390/ijms25116025. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25116025)
+
+[4. (Zhang2022Interrogating) Tian Zhang, Anne Fassl, Laura P. Vaites, Sipei Fu, Piotr Sicinski, Joao A. Paulo, and Steven P. Gygi. Interrogating kinase–substrate relationships with proximity labeling and phosphorylation enrichment. Journal of Proteome Research, 21(2):494–506, January 2022. URL: http://dx.doi.org/10.1021/acs.jproteome.1c00865, doi:10.1021/acs.jproteome.1c00865. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.jproteome.1c00865)

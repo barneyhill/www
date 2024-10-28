@@ -1,0 +1,56 @@
+# SLC25A1
+
+## Overview
+SLC25A1 is a gene that encodes the mitochondrial citrate carrier protein, a member of the solute carrier family 25. This protein is integral to the inner mitochondrial membrane and plays a pivotal role in cellular metabolism by facilitating the transport of citrate from the mitochondria to the cytosol. The citrate carrier is crucial for various metabolic processes, including fatty acid and sterol biosynthesis, and is involved in the regulation of glycolysis and cytosolic NADPH production. The protein's activity is modulated by metabolic states and hormonal signals, and its expression is influenced by inflammatory cytokines. Mutations in SLC25A1 are associated with metabolic and developmental disorders, such as combined D-2- and L-2-hydroxyglutaric aciduria and congenital 22q11.2 microdeletion syndromes. Additionally, altered expression of SLC25A1 has been implicated in cancer progression, highlighting its clinical significance (Infantino2014A; Mosaoa2021The; Palmieri2004The).
+
+## Structure
+The SLC25A1 protein, also known as the mitochondrial citrate carrier, is characterized by a tripartite sequence structure with three tandemly repeated homologous domains, each approximately 100 amino acids in length. These domains contain two hydrophobic stretches that span the membrane as alpha-helices, separated by hydrophilic regions (Palmieri2004The). The protein consists of six transmembrane alpha-helices, with both the N- and C-termini located on the cytosolic side of the inner mitochondrial membrane (Palmieri2013The). The transmembrane segments form a funnel-shaped cavity, which is a common feature among mitochondrial carriers (Pasquadibisceglie2021Computational).
+
+The SLC25A1 protein includes a signature sequence motif, P-h-D/E-X-h-K/R-X-R/K-(20-30 residues)-D/E-G-(4 residues)-a-K/R-G, where 'h' represents a hydrophobic and 'a' an aromatic residue (Palmieri2004The). This motif is crucial for its function as a mitochondrial carrier. The protein functions as a homodimer, with each monomer contributing to the formation of a central channel that facilitates the transport of citrate across the mitochondrial membrane (Palmieri2004The).
+
+Post-translational modifications such as phosphorylation may occur, influencing the protein's function and localization. Variants and isoforms of SLC25A1 can arise from alternative splicing, potentially affecting its transport capabilities (Pasquadibisceglie2021Computational).
+
+## Function
+The SLC25A1 gene encodes the mitochondrial citrate carrier (CIC), a protein that plays a crucial role in cellular metabolism by facilitating the transport of citrate from the mitochondria to the cytosol. This transport is essential for several metabolic processes, including fatty acid and sterol biosynthesis. In the cytosol, citrate is cleaved by ATP-citrate lyase to produce acetyl-CoA and oxaloacetate. Acetyl-CoA is a key precursor for lipid synthesis, while oxaloacetate can be converted into malate, which re-enters the mitochondria, maintaining the cycle (Palmieri2004The; Gutiérrez-Aguilar2013Physiological).
+
+CIC also contributes to the regulation of glycolysis and the production of cytosolic NADPH, which is necessary for reductive biosynthetic reactions (Palmieri2014Mitochondrial). The protein's activity is influenced by metabolic states and hormonal signals, with increased expression in hyperthyroidism and certain cancers, and decreased activity during starvation and in Type 1 diabetes (Palmieri2004The; Gutiérrez-Aguilar2013Physiological).
+
+SLC25A1 is also involved in inflammation, where its expression is regulated by cytokines such as TNFα and IFNγ, impacting the production of inflammatory mediators like PGE2 (Infantino2014A).
+
+## Clinical Significance
+Mutations in the SLC25A1 gene are linked to several metabolic and developmental disorders. SLC25A1 deficiency, caused by mutations in the mitochondrial citrate carrier (CIC), leads to combined D-2- and L-2-hydroxyglutaric aciduria. This condition is characterized by severe neurodevelopmental issues, including neonatal encephalopathy, developmental delay, hypotonia, seizures, and early death. Patients often exhibit altered urinary levels of citrate and isocitrate, along with increased excretion of TCA cycle intermediates like 2-oxoglutarate, succinate, fumarate, and malate (Palmieri2020Diseases; Mosaoa2021The).
+
+SLC25A1 mutations are also associated with congenital 22q11.2 microdeletion syndromes, such as DiGeorge syndrome, which present with craniofacial abnormalities, heart defects, and developmental delays. The loss of one SLC25A1 gene copy in these syndromes suggests that reduced allele dosage is pathogenic (Mosaoa2021The).
+
+Altered expression of SLC25A1 is implicated in cancer progression, particularly in non-small cell lung cancer, where it contributes to therapy resistance and cancer stem cell maintenance. Inhibitors targeting SLC25A1, such as CTPI-2, have shown potential in reducing cancer cell proliferation and enhancing sensitivity to treatments (Hlouschek2018The; Fernandez2018The).
+
+## Interactions
+SLC25A1, also known as the mitochondrial citrate carrier, is involved in several protein interactions that are crucial for its function in cellular metabolism. It plays a significant role in maintaining redox homeostasis and mitochondrial metabolism by shuttling citrate between the mitochondria and cytosol. This transport is essential for the regeneration of NADPH, which is crucial for various biosynthetic processes, including lipid biosynthesis and cytokine-induced inflammatory signals (Hlouschek2018The).
+
+SLC25A1 interacts with cytosolic isocitrate dehydrogenase 1 (IDH1) and mitochondrial isocitrate dehydrogenase 2 (IDH2) to maintain mitochondrial homeostasis. This interaction is part of a pathway responsible for the transport of NADPH across the mitochondrial inner membrane, which is vital for antioxidant defense (Hlouschek2018The). The protein also participates in the regulation of cellular antioxidant capacity and mitochondrial redox homeostasis, which is linked to its interactions with other proteins involved in redox balance and metabolism (Hlouschek2018The).
+
+In the context of inflammation, SLC25A1 expression is activated by IFNγ through the STAT1 signaling pathway. Phosphorylated STAT1 forms a homodimer that binds to the IFNγ-activated sequence in the SLC25A1 promoter, enhancing its expression (Infantino2014A).
+
+
+## References
+
+
+[1. (Hlouschek2018The) Julian Hlouschek, Christine Hansel, Verena Jendrossek, and Johann Matschke. The mitochondrial citrate carrier (slc25a1) sustains redox homeostasis and mitochondrial metabolism supporting radioresistance of cancer cells with tolerance to cycling severe hypoxia. Frontiers in Oncology, May 2018. URL: http://dx.doi.org/10.3389/fonc.2018.00170, doi:10.3389/fonc.2018.00170. This article has 57 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2018.00170)
+
+[2. (Mosaoa2021The) Rami Mosaoa, Anna Kasprzyk-Pawelec, Harvey R. Fernandez, and Maria Laura Avantaggiati. The mitochondrial citrate carrier slc25a1/cic and the fundamental role of citrate in cancer, inflammation and beyond. Biomolecules, 11(2):141, January 2021. URL: http://dx.doi.org/10.3390/biom11020141, doi:10.3390/biom11020141. This article has 45 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom11020141)
+
+[3. (Palmieri2020Diseases) Ferdinando Palmieri, Pasquale Scarcia, and Magnus Monné. Diseases caused by mutations in mitochondrial carrier genes slc25: a review. Biomolecules, 10(4):655, April 2020. URL: http://dx.doi.org/10.3390/biom10040655, doi:10.3390/biom10040655. This article has 75 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom10040655)
+
+[4. (Fernandez2018The) Harvey R. Fernandez, Shreyas M. Gadre, Mingjun Tan, Garrett T. Graham, Rami Mosaoa, Martin S. Ongkeko, Kyu Ah Kim, Rebecca B. Riggins, Erika Parasido, Iacopo Petrini, Simone Pacini, Amrita Cheema, Rency Varghese, Habtom W Ressom, Yuwen Zhang, Christopher Albanese, Aykut Üren, Mikell Paige, Giuseppe Giaccone, and Maria Laura Avantaggiati. The mitochondrial citrate carrier, slc25a1, drives stemness and therapy resistance in non-small cell lung cancer. Cell Death &amp; Differentiation, 25(7):1239–1258, April 2018. URL: http://dx.doi.org/10.1038/s41418-018-0101-z, doi:10.1038/s41418-018-0101-z. This article has 82 citations.](https://doi.org/10.1038/s41418-018-0101-z)
+
+[5. (Gutiérrez-Aguilar2013Physiological) Manuel Gutiérrez-Aguilar and Christopher P. Baines. Physiological and pathological roles of mitochondrial slc25 carriers. Biochemical Journal, 454(3):371–386, August 2013. URL: http://dx.doi.org/10.1042/bj20121753, doi:10.1042/bj20121753. This article has 98 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20121753)
+
+[6. (Palmieri2014Mitochondrial) Ferdinando Palmieri. Mitochondrial transporters of the slc25 family and associated diseases: a review. Journal of Inherited Metabolic Disease, 37(4):565–575, May 2014. URL: http://dx.doi.org/10.1007/s10545-014-9708-5, doi:10.1007/s10545-014-9708-5. This article has 202 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s10545-014-9708-5)
+
+[7. (Palmieri2013The) Ferdinando Palmieri. The mitochondrial transporter family slc25: identification, properties and physiopathology. Molecular Aspects of Medicine, 34(2–3):465–484, April 2013. URL: http://dx.doi.org/10.1016/j.mam.2012.05.005, doi:10.1016/j.mam.2012.05.005. This article has 612 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.mam.2012.05.005)
+
+[8. (Infantino2014A) Vittoria Infantino, Vito Iacobazzi, Alessio Menga, Maria Laura Avantaggiati, and Ferdinando Palmieri. A key role of the mitochondrial citrate carrier (slc25a1) in tnfα- and ifnγ-triggered inflammation. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1839(11):1217–1225, November 2014. URL: http://dx.doi.org/10.1016/j.bbagrm.2014.07.013, doi:10.1016/j.bbagrm.2014.07.013. This article has 145 citations.](https://doi.org/10.1016/j.bbagrm.2014.07.013)
+
+[9. (Palmieri2004The) Ferdinando Palmieri. The mitochondrial transporter family (slc25): physiological and pathological implications. Pfl�gers Archiv European Journal of Physiology, 447(5):689–709, February 2004. URL: http://dx.doi.org/10.1007/s00424-003-1099-7, doi:10.1007/s00424-003-1099-7. This article has 624 citations.](https://doi.org/10.1007/s00424-003-1099-7)
+
+[10. (Pasquadibisceglie2021Computational) Andrea Pasquadibisceglie and Fabio Polticelli. Computational studies of the mitochondrial carrier family slc25. present status and future perspectives. Bio-Algorithms and Med-Systems, 17(2):65–78, April 2021. URL: http://dx.doi.org/10.1515/bams-2021-0018, doi:10.1515/bams-2021-0018. This article has 2 citations.](https://doi.org/10.1515/bams-2021-0018)

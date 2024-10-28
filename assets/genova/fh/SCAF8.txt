@@ -1,0 +1,33 @@
+# SCAF8
+
+## Overview
+SCAF8 (SR-related CTD associated factor 8) is a gene that encodes a protein involved in the regulation of RNA processing and transcription in human cells. The SCAF8 protein is categorized as a transcriptional regulator, playing a pivotal role in preventing premature transcriptional termination by interacting with RNA polymerase II (RNAPII). It functions as an mRNA anti-terminator, ensuring the production of full-length mRNA transcripts by binding to nascent RNA at splice junctions and exons. SCAF8 is also implicated in alternative splicing regulation, influencing differential splicing events, particularly in the skipped exon category. Its interactions with various transcriptional and splicing complexes underscore its importance in maintaining proper gene expression and cellular function (Schmok2024Largescale; Gregersen2019SCAF4).
+
+## Function
+SCAF8 (SR-related CTD associated factor 8) is a protein that plays a crucial role in RNA processing and transcription regulation in human cells. It functions as an mRNA anti-terminator, interacting with RNA polymerase II (RNAPII) to prevent premature transcriptional termination. SCAF8 binds to nascent RNA, particularly at splice junctions and exons, and is recruited through recognition of the bi-phosphorylated RNAPII C-terminal domain (CTD) (Gregersen2019SCAF4). This binding suppresses the use of early alternative polyadenylation (polyA) sites, ensuring the production of full-length, functional mRNA transcripts (Gregersen2019SCAF4).
+
+SCAF8 also acts as a positive elongation factor, promoting the elongation phase of transcription and facilitating transcriptional readthrough, especially in the absence of SCAF4 (Gregersen2019SCAF4). It is involved in regulating polyA site selection and preventing premature transcriptional termination, which is essential for maintaining proper mRNA processing and stability (Gregersen2019SCAF4).
+
+In addition to its role in transcription elongation, SCAF8 has been implicated in alternative splicing regulation. It binds to poly(G) runs near splice junctions, influencing differential splicing events, particularly in the skipped exon category (Schmok2024Largescale). This multifaceted role in RNA processing highlights SCAF8's importance in gene expression and cellular function.
+
+## Clinical Significance
+The SCAF8 gene has been implicated in various diseases due to its role in mRNA processing and transcription regulation. In ovarian and endometrial cancers, SCAF8 is involved in gene fusions with TIAM2, leading to increased expression of TIAM2, which promotes cell proliferation and invasion. This fusion is particularly noted in ovarian carcinoma of the serous subtype, suggesting a role in cancer progression (AlaeiMahabadi2020Systematic).
+
+Disruptions in SCAF8 function can lead to premature mRNA termination and the production of truncated proteins, potentially contributing to disease. Although specific diseases directly linked to SCAF8 mutations are not detailed, the gene's role in preventing early polyA site selection is crucial for proper mRNA processing and protein production, indicating that its dysfunction could be associated with conditions involving non-functional proteins (Gregersen2019SCAF4).
+
+While the clinical significance of SCAF8 mutations is not fully addressed, its involvement in critical cellular processes suggests that alterations in its expression or interactions could have significant pathological consequences. Further research is needed to elucidate the specific diseases associated with SCAF8 mutations or altered expression.
+
+## Interactions
+SCAF8 interacts with RNA polymerase II (RNAPII) complexes, particularly associating with elongating and terminating RNAPII. It does not bind the same RNAPII complex simultaneously with SCAF4, suggesting competition for the same binding surface. The strongest interactor for SCAF8 is RNAPII itself, and it also interacts with subunits from the PAF complex, the RPRD1-RPAP2 complex involved in Ser5P dephosphorylation, elongation factors such as SUPT6H and RECQL5, and RNAPII-associated proteins like PHF3 (Gregersen2019SCAF4). SCAF8 is involved in widespread splicing regulation, forming part of a high-enrichment cluster for splicing-associated proteins. It binds a substantial portion of genes with knockdown-sensitive skipped exon events, indicating its role in splicing modulation (Schmok2024Largescale).
+
+SCAF8 also interacts with other CTD-associated proteins, such as SCAF1 and SCAF11, but does not interact with SCAF4 (Gregersen2019SCAF4). It binds to Ser2-Ser5 doubly phosphorylated CTD peptides of RNAPII, which are enriched at splice junctions, and is implicated in suppressing proximal polyA site usage and premature termination (Gregersen2019SCAF4). SCAF8's interactions with RNA are mapped across the transcriptome, showing binding to nascent RNA before cotranscriptional mRNA processing (Gregersen2019SCAF4).
+
+
+## References
+
+
+[1. (Schmok2024Largescale) Jonathan C. Schmok, Manya Jain, Lena A. Street, Alex T. Tankka, Danielle Schafer, Hsuan-Lin Her, Sara Elmsaouri, Maya L. Gosztyla, Evan A. Boyle, Pratibha Jagannatha, En-Ching Luo, Ester J. Kwon, Marko Jovanovic, and Gene W. Yeo. Large-scale evaluation of the ability of rna-binding proteins to activate exon inclusion. Nature Biotechnology, 42(9):1429–1441, January 2024. URL: http://dx.doi.org/10.1038/s41587-023-02014-0, doi:10.1038/s41587-023-02014-0. This article has 4 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41587-023-02014-0)
+
+[2. (AlaeiMahabadi2020Systematic) Babak Alaei-Mahabadi, Kerryn Elliott, and Erik Larsson. Systematic investigation of promoter substitutions resulting from somatic intrachromosomal structural alterations in diverse human cancers. Scientific Reports, October 2020. URL: http://dx.doi.org/10.1038/s41598-020-74420-2, doi:10.1038/s41598-020-74420-2. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-020-74420-2)
+
+[3. (Gregersen2019SCAF4) Lea H. Gregersen, Richard Mitter, Alejandro P. Ugalde, Takayuki Nojima, Nicholas J. Proudfoot, Reuven Agami, Aengus Stewart, and Jesper Q. Svejstrup. Scaf4 and scaf8, mrna anti-terminator proteins. Cell, 177(7):1797-1813.e18, June 2019. URL: http://dx.doi.org/10.1016/j.cell.2019.04.038, doi:10.1016/j.cell.2019.04.038. This article has 99 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2019.04.038)

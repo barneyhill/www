@@ -1,0 +1,48 @@
+# VPS52
+
+## Overview
+VPS52 is a gene that encodes a protein subunit of the Golgi-associated retrograde protein (GARP) complex, which is crucial for intracellular vesicular transport. The VPS52 protein is involved in the retrograde transport of vesicles from endosomes to the trans-Golgi network, a process essential for maintaining Golgi structure and function. As a component of the GARP complex, VPS52 plays a significant role in protein sorting and trafficking, impacting the localization and function of Golgi glycosylation enzymes. The protein interacts with several other proteins, including Rab6 and RNF41, indicating its involvement in membrane docking, fusion events, and ubiquitination processes. Mutations in the VPS52 gene have been linked to neurodegenerative disorders, highlighting its clinical significance in maintaining cellular homeostasis and function (Conibear2000Vps52p; Ibuchi2020The; Khakurel2021The).
+
+## Structure
+The VPS52 protein is a subunit of the Golgi-associated retrograde protein (GARP) complex, which plays a crucial role in retrograde transport from endosomes to the trans-Golgi network. The molecular structure of VPS52 includes specific domains that facilitate its function in vesicle tethering. Notably, the coiled-coil (CC) domain of VPS52, spanning residues 120 to 151, is essential for its interaction with RNF41, another protein involved in ubiquitination processes. This domain is predicted to form a trimeric structure with an extensive hydrophobic core, and specific residues such as D120, E124, and E127 are critical for its interaction with RNF41 (Masschaele2017RNF41).
+
+The protein also contains regions necessary for its function in the secretory pathway. Amino acids 411 to 556 are required for the sorting and secretion of secretory cargos, while amino acids 557 to 723 are important for efficient lysosomal protein sorting (Homma2021Knockout). VPS52 is part of a stable multimeric complex with Vps53p and Vps54p, forming a 1:1:1 stoichiometry, which is crucial for protein sorting at the yeast late Golgi (Conibear2000Vps52p). The complex is evolutionarily conserved, with homologues found in various eukaryotic organisms (Conibear2000Vps52p).
+
+## Function
+VPS52 is a subunit of the Golgi-associated retrograde protein (GARP) complex, which plays a critical role in vesicular transport processes within human cells. The GARP complex is involved in the retrograde transport of vesicles from endosomes to the trans-Golgi network (TGN), ensuring the proper localization and function of Golgi glycosylation enzymes. This process is essential for maintaining the Golgi structure and function, impacting protein sorting and trafficking (Khakurel2021The; Khakurel2023Role).
+
+VPS52 interacts with Rab6, a small GTPase involved in vesicle transport, indicating its role in membrane docking and fusion events at the Golgi. This interaction is energy-dependent and prefers the GTP-activated form of Rab6, suggesting that VPS52 acts as an effector of Rab6 in these processes (Liewen2005Characterization). VPS52 also co-localizes with Syntaxin 10, a SNARE protein, in vesicles near the Golgi, implicating it in membrane fusion events (Liewen2005Characterization).
+
+In addition to its role in vesicular transport, VPS52 is involved in the recycling and stabilization of Golgi glycosylation enzymes, ensuring proper protein trafficking and enzyme retention within the Golgi. Depletion of VPS52 leads to impaired Golgi modification of N- and O-glycans and mislocalization of enzymes, highlighting its importance in maintaining Golgi physiology (Khakurel2021The).
+
+## Clinical Significance
+Mutations in the VPS52 gene have been implicated in neurodegenerative disorders. In wobbler mice, a missense mutation in Vps52 leads to destabilization of the GARP complex, impaired retrograde vesicular transport, and progressive motor neuron degeneration, which resembles clinical features of Amyotrophic Lateral Sclerosis (ALS) (Ibuchi2020The). This mutation also results in excessive cholesterol accumulation in the spinal cord, suggesting a link between cholesterol homeostasis perturbations and motor neuron degeneration (Ibuchi2020The).
+
+While specific diseases associated with VPS52 mutations in humans are not detailed, the gene's role in vesicular transport and its interaction with Arf6, a protein involved in cellular processes, suggest potential implications in neurological conditions if altered (Ibuchi2020The). Dysfunction in Arf6-mediated pathways, which interact with the GARP/EARP complex, is associated with mental retardation, seizures, autism, and Alzheimer's disease (Ibuchi2020The).
+
+The interaction between RNF41, an E3 ubiquitin ligase, and VPS52 affects the latter's association with the GARP and EARP complexes, potentially influencing intracellular sorting and function of various substrates (Masschaele2017RNF41). However, specific diseases or conditions directly linked to alterations in VPS52 interactions are not explicitly mentioned.
+
+## Interactions
+VPS52 is a subunit of the Golgi-associated retrograde protein (GARP) complex, which includes Vps53p, Vps54p, and Vps51p. These proteins form a stable 1:1:1 complex essential for protein sorting at the yeast late Golgi, with each protein present in a single copy (Conibear2000Vps52p). The stability of this complex is interdependent, as the absence of any one of these proteins leads to the destabilization and rapid turnover of the others (Conibear2000Vps52p).
+
+VPS52 also interacts with Arf6, a small GTPase involved in vesicular trafficking. This interaction is specific to the GTP-bound form of Arf6 and involves specific regions of VPS52, including the N-terminal 99-149 amino acids and C-terminal 674-723 amino acids (Ibuchi2020The). In neurons, VPS52 is involved in the regulation of neurite outgrowth, with its knockdown enhancing axonal and dendritic outgrowth (Ibuchi2020The).
+
+Additionally, VPS52 interacts with RNF41, an E3 ubiquitin ligase. This interaction involves the coiled-coil domains of both proteins and affects RNF41's oligomerization and stability. RNF41 enhances the ubiquitination of VPS52, leading to its partial redistribution and affecting its interaction with other GARP subunits (Masschaele2017RNF41).
+
+
+## References
+
+
+[1. (Masschaele2017RNF41) Delphine Masschaele, Leentje De Ceuninck, Joris Wauman, Dieter Defever, Frank Stenner, Sam Lievens, Frank Peelman, and Jan Tavernier. Rnf41 interacts with the vps52 subunit of the garp and earp complexes. PLOS ONE, 12(5):e0178132, May 2017. URL: http://dx.doi.org/10.1371/journal.pone.0178132, doi:10.1371/journal.pone.0178132. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0178132)
+
+[2. (Homma2021Knockout) Yuta Homma and Mitsunori Fukuda. Knockout analysis of rab6 effector proteins revealed the role of vps52 in the secretory pathway. Biochemical and Biophysical Research Communications, 561:151–157, July 2021. URL: http://dx.doi.org/10.1016/j.bbrc.2021.05.009, doi:10.1016/j.bbrc.2021.05.009. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2021.05.009)
+
+[3. (Ibuchi2020The) Kanta Ibuchi, Masahiro Fukaya, Tetsuro Shinohara, Yoshinobu Hara, Tomoko Shiroshima, Takeyuki Sugawara, and Hiroyuki Sakagami. The vps52 subunit of the garp and earp complexes is a novel arf6-interacting protein that negatively regulates neurite outgrowth of hippocampal neurons. Brain Research, 1745:146905, October 2020. URL: http://dx.doi.org/10.1016/j.brainres.2020.146905, doi:10.1016/j.brainres.2020.146905. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.brainres.2020.146905)
+
+[4. (Conibear2000Vps52p) Elizabeth Conibear and Tom H. Stevens. Vps52p, vps53p, and vps54p form a novel multisubunit complex required for protein sorting at the yeast late golgi. Molecular Biology of the Cell, 11(1):305–323, January 2000. URL: http://dx.doi.org/10.1091/mbc.11.1.305, doi:10.1091/mbc.11.1.305. This article has 239 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.11.1.305)
+
+[5. (Khakurel2023Role) Amrita Khakurel and Vladimir V. Lupashin. Role of garp vesicle tethering complex in golgi physiology. International Journal of Molecular Sciences, 24(7):6069, March 2023. URL: http://dx.doi.org/10.3390/ijms24076069, doi:10.3390/ijms24076069. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms24076069)
+
+[6. (Liewen2005Characterization) Heike Liewen, Ivo Meinhold-Heerlein, Vasco Oliveira, Robert Schwarzenbacher, Guorong Luo, Andreas Wadle, Martin Jung, Michael Pfreundschuh, and Frank Stenner-Liewen. Characterization of the human garp (golgi associated retrograde protein) complex. Experimental Cell Research, 306(1):24–34, May 2005. URL: http://dx.doi.org/10.1016/j.yexcr.2005.01.022, doi:10.1016/j.yexcr.2005.01.022. This article has 103 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.yexcr.2005.01.022)
+
+[7. (Khakurel2021The) Amrita Khakurel, Tetyana Kudlyk, Juan S. Bonifacino, and Vladimir V. Lupashin. The golgi-associated retrograde protein (garp) complex plays an essential role in the maintenance of the golgi glycosylation machinery. Molecular Biology of the Cell, 32(17):1594–1610, August 2021. URL: http://dx.doi.org/10.1091/mbc.e21-04-0169, doi:10.1091/mbc.e21-04-0169. This article has 19 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.e21-04-0169)

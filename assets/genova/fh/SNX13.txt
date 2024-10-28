@@ -1,0 +1,38 @@
+# SNX13
+
+## Overview
+SNX13 is a gene that encodes the protein sorting nexin 13, which is a member of the sorting nexin family involved in intracellular trafficking and signal transduction. Sorting nexin 13 is characterized by its PXA-RGS-PX-PXC domain architecture, which facilitates its role in endosomal sorting and signal attenuation. The protein is an ER-anchored membrane protein that plays a critical role in lipid regulation, particularly in the export of cholesterol from lysosomes, and acts as a negative regulator of cholesterol transport. Additionally, sorting nexin 13 is involved in G-protein signaling pathways through its regulator of G-protein signaling (RGS) domain, which modulates Gαs-mediated signaling. The protein's interactions with other cellular components, such as the apoptosis repressor with caspase recruitment domain (ARC), underscore its importance in maintaining cellular homeostasis and preventing apoptosis, particularly in cardiomyocytes. Alterations in SNX13 expression have been linked to heart failure and cholesterol metabolism disorders, highlighting its clinical significance (Teasdale2011Insights; Li2014SNX13; Lu2021CRISPR).
+
+## Structure
+SNX13 is a protein characterized by a unique domain architecture that includes a PXA-RGS-PX-PXC structure. The protein contains two N-terminal transmembrane helices, which suggest its integration into membranes (Teasdale2011Insights). The PXA domain is crucial for its role in endosomal sorting, particularly in the regulation of ARC (apoptosis repressor with caspase recruitment domain) stability, as it mediates the interaction with ARC (Li2014SNX13). The RGS domain functions as a GTPase-activating protein (GAP) for the Gαs subunit of trimeric G-proteins, attenuating Gαs-mediated signaling (Teasdale2011Insights). The PX domain binds phosphoinositides, specifically PtdIns3P, and localizes SNX13 to endosomes, where it is involved in signal attenuation and endosomal sorting (Teasdale2011Insights).
+
+SNX13 also interacts with Hrs, a component of the ubiquitin-mediated protein sorting pathway, indicating its role in lysosomal targeting of proteins like the EGFR (Teasdale2011Insights). The protein's structure and function are critical for maintaining endosomal morphology and function, as evidenced by the embryonic lethality observed in SNX13-null mice (Teasdale2011Insights).
+
+## Function
+SNX13 (sorting nexin 13) is a protein involved in several critical cellular processes, primarily related to lipid regulation and signal transduction. It is an ER-anchored membrane protein that plays a significant role in the export of cholesterol from lysosomes, even in the absence of NPC1 function, which is typically essential for this process. SNX13 acts as a negative regulator of cholesterol export, and its depletion enhances cholesterol movement to the plasma membrane, indicating its broader role in lipid homeostasis (Lu2021CRISPR).
+
+In addition to its role in lipid regulation, SNX13 is involved in signal transduction pathways. It contains a regulator of G-protein signaling (RGS) domain, which binds to the Gαs subunit of trimeric G-proteins, acting as a GTPase-activating protein (GAP) to attenuate Gαs-mediated signaling. This function is crucial for the regulation of GPCR signal transduction and protein sorting within endosomes (Teasdale2011Insights).
+
+SNX13 is also implicated in maintaining cardiac function by preventing apoptosis in cardiomyocytes. Its reduction is associated with increased apoptosis and heart failure, suggesting a protective role in cardiac health (Li2014SNX13).
+
+## Clinical Significance
+Mutations or alterations in the expression of the SNX13 gene have been implicated in several diseases, particularly heart failure and disorders related to cholesterol metabolism. In the context of heart failure, reduced levels of SNX13 have been observed in failing human hearts and animal models. This reduction is linked to increased cardiomyocyte apoptosis due to the degradative sorting of the apoptosis repressor with caspase recruitment domain (ARC), which leads to heart failure through the activation of the extrinsic apoptotic pathway (Li2014SNX13). The N-terminal PXA domain of SNX13 is crucial for maintaining ARC stability, and its disruption can promote cardiomyocyte apoptosis, contributing to heart failure (Li2014SNX13).
+
+In cholesterol metabolism, SNX13 acts as a negative regulator of cholesterol export from lysosomes. Its depletion results in decreased lysosomal cholesterol and redistribution to the cell surface, independent of NPC1 function. This suggests SNX13's involvement in cholesterol homeostasis and lipid metabolism, with potential implications for conditions related to cholesterol transport and storage (Lu2021CRISPR). The role of SNX13 in these processes highlights its clinical significance in both cardiovascular and metabolic disorders.
+
+## Interactions
+SNX13 interacts with several proteins, playing a significant role in various cellular processes. It is known to bind with the Gαs subunit of trimeric G-proteins through its RGS domain, acting as a GTPase-activating protein (GAP) to attenuate Gαs-mediated signaling. This interaction is crucial for the reformation of the G-protein complex and the ablation of signal transduction (Teasdale2011Insights).
+
+SNX13 also interacts with the apoptosis repressor with caspase recruitment domain (ARC) in cardiomyocytes. This interaction is mediated by the PXA domain of SNX13, which is essential for the endosomal trafficking of ARC. In SNX13-deficient cells, ARC is mis-sorted to lysosomes, leading to its degradation and the activation of caspase-8, which promotes cardiomyocyte apoptosis (Li2014SNX13).
+
+Additionally, SNX13 is involved in cholesterol regulation by interacting with endolysosomes and lipid droplet domains. It acts as a negative regulator of cholesterol transport from lysosomes to the cell surface, influencing lipid metabolism and cholesterol homeostasis (Lu2021CRISPR). These interactions highlight SNX13's multifaceted role in cellular signaling and metabolic regulation.
+
+
+## References
+
+
+[1. (Teasdale2011Insights) Rohan D. Teasdale and Brett M. Collins. Insights into the px (phox-homology) domain and snx (sorting nexin) protein families: structures, functions and roles in disease. Biochemical Journal, 441(1):39–59, December 2011. URL: http://dx.doi.org/10.1042/bj20111226, doi:10.1042/bj20111226. This article has 321 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20111226)
+
+[2. (Li2014SNX13) Jun Li, Changming Li, Dasheng Zhang, Dan Shi, Man Qi, Jing Feng, Tianyou Yuan, Xinran Xu, Dandan Liang, Liang Xu, Hong Zhang, Yi Liu, Jinjin Chen, Jiangchuan Ye, Weifang Jiang, Yingyu Cui, Yangyang Zhang, Luying Peng, Zhaonian Zhou, and Yi-Han Chen. Snx13 reduction mediates heart failure through degradative sorting of apoptosis repressor with caspase recruitment domain. Nature Communications, October 2014. URL: http://dx.doi.org/10.1038/ncomms6177, doi:10.1038/ncomms6177. This article has 36 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms6177)
+
+3. (Lu2021CRISPR) CRISPR screens for lipid regulators reveal a role for ER-bound SNX13 in lysosomal cholesterol export. This article has 1 citations.

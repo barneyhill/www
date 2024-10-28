@@ -1,0 +1,37 @@
+# ASTE1
+
+## Overview
+ASTE1 (asteroid homolog 1) is a gene that encodes a protein belonging to the XPG family of DNA endonucleases, which plays a crucial role in DNA repair mechanisms. The ASTE1 protein is primarily involved in the regulation of DNA double-strand break (DSB) repair pathways, acting as a downstream effector of the 53BP1-shieldin complex. It promotes non-homologous end-joining (NHEJ) by antagonizing DNA end resection, thereby influencing the balance between NHEJ and homologous recombination (HR) (He2021ASTE1; Zhao2021ASTE1). ASTE1's endonuclease activity is essential for trimming single-stranded DNA to facilitate efficient end-joining, particularly when HR is not feasible (He2021ASTE1). Beyond its role in DNA repair, ASTE1 is implicated in various clinical contexts, including its association with immune responses in Epstein-Barr virus-associated gastric cancer and its potential involvement in fibromatoses such as Dupuytren’s disease (Zaragoza2017Dupuytren’s; Huang2022ASTE1).
+
+## Function
+ASTE1 (asteroid homolog 1) is a gene that encodes a protein involved in the regulation of DNA double-strand break (DSB) repair pathways. The ASTE1 protein functions as a downstream effector of the 53BP1-shieldin complex, promoting non-homologous end-joining (NHEJ) and regulating the balance between NHEJ and homologous recombination (HR) (He2021ASTE1; Zhao2021ASTE1). ASTE1 antagonizes DNA end resection, a process necessary for HR, and its loss can restore HR in BRCA1-deficient cells, leading to resistance to PARP inhibitors (PARPi) (He2021ASTE1).
+
+ASTE1 is recruited to DSBs via the 53BP1-RIF1-REV7-SHLD2 complex and has intrinsic endonuclease activity, cleaving single-stranded DNA (ssDNA) or 3' overhang DNA. This activity leaves a ~20 nt ssDNA or 3' overhang, which is favorable for NHEJ, suggesting that ASTE1's role is to trim ssDNA to fit the processivity limitation of polymerase-α (Polα), facilitating efficient end-joining (He2021ASTE1). This mechanism may serve as a backup option when HR is not feasible, providing insights into the molecular processes involving ASTE1 in cell biology, particularly in the context of DNA repair and cancer biology (He2021ASTE1).
+
+## Clinical Significance
+Mutations in the ASTE1 gene have been implicated in several diseases, notably Dupuytren’s disease (DD) and Ledderhose disease (LD), which are types of fibromatoses affecting the hands and feet, respectively. A study identified a novel missense variant in the ASTE1 gene (c.230T>C, p.Val77Ala) in a family with a history of these conditions, suggesting it as a potential susceptibility variant for DD and LD. This variant may influence the pathogenesis of these diseases through its role in epidermal growth factor receptor (EGFR) signaling, which is involved in fibroblast proliferation (Zaragoza2017Dupuytren’s).
+
+In the context of Epstein-Barr virus-associated gastric cancer (EBVaGC), ASTE1 mutations were found in 12% of patients, all of whom exhibited an immune-active phenotype. A specific frameshift mutation, R632Gfs*33, was associated with a better prognosis and higher interferon-gamma (IFN-γ) response, indicating that ASTE1 mutations may modulate immune responses and potentially impact the efficacy of immunotherapy in EBVaGC (Huang2022ASTE1).
+
+ASTE1 is also involved in DNA repair processes, promoting shieldin-complex-mediated repair by attenuating end resection, although specific diseases linked to this function are not detailed (Zhao2021ASTE1).
+
+## Interactions
+ASTE1, a member of the XPG family of DNA endonucleases, is involved in several protein interactions that influence DNA repair processes. It functions as a downstream effector of the 53BP1-shieldin complex, promoting non-homologous end-joining (NHEJ) by interacting with SHLD2. ASTE1 is recruited to DNA double-strand breaks (DSBs) through the canonical 53BP1-RIF1-REV7-SHLD2 complex, where it plays a role in antagonizing DNA end resection, thus influencing the balance between NHEJ and homologous recombination (HR) (He2021ASTE1).
+
+In the context of immune responses, ASTE1 frameshift mutations have been associated with an immune-active phenotype in Epstein-Barr virus-associated gastric cancer. These mutations lead to higher expression levels of immune-related genes such as IFNG and CD274 (PD-L1), suggesting that ASTE1 may interact with pathways that modulate immune responses (Huang2022ASTE1).
+
+ASTE1 is also implicated in the regulation of ATP2C1 expression, particularly in colorectal cancers. Mutations in ASTE1 can lead to increased transcription of ATP2C1 isoforms, indicating a regulatory interaction that affects SPCA1 protein levels and miRNA sensitivity (Micaroni2013Overlapping).
+
+
+## References
+
+
+[1. (Zaragoza2017Dupuytren’s) Michael Zaragoza, Cecilia Nguyen, Halida Widyastuti, Linda McCarthy, and Anna Grosberg. Dupuytren’s and ledderhose diseases in a family with lmna-related cardiomyopathy and a novel variant in the aste1 gene. Cells, 6(4):40, November 2017. URL: http://dx.doi.org/10.3390/cells6040040, doi:10.3390/cells6040040. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells6040040)
+
+[2. (He2021ASTE1) Yizhou Joseph He and Dipanjan Chowdhury. Aste1 cutting to block dna end resection. Nature Cell Biology, 23(8):818–819, August 2021. URL: http://dx.doi.org/10.1038/s41556-021-00731-9, doi:10.1038/s41556-021-00731-9. This article has 5 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41556-021-00731-9)
+
+[3. (Zhao2021ASTE1) Fei Zhao, Wootae Kim, Huanyao Gao, Chao Liu, Yong Zhang, Yuping Chen, Min Deng, Qin Zhou, Jinzhou Huang, Qi Hu, Shih-Hsun Chen, Somaira Nowsheen, Jake A. Kloeber, Bo Qin, Ping Yin, Xinyi Tu, Guijie Guo, Sisi Qin, Chao Zhang, Ming Gao, Kuntian Luo, Yilun Liu, Zhenkun Lou, and Jian Yuan. Aste1 promotes shieldin-complex-mediated dna repair by attenuating end resection. Nature Cell Biology, 23(8):894–904, August 2021. URL: http://dx.doi.org/10.1038/s41556-021-00723-9, doi:10.1038/s41556-021-00723-9. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41556-021-00723-9)
+
+[4. (Huang2022ASTE1) Binhao Huang, Qin Li, Qirong Geng, Jiawen Lao, Jing Guo, Shenglin Huang, and Dazhi Xu. Aste1 frameshift mutation triggers the immune response in epstein-barr virus-associated gastric cancer. Signal Transduction and Targeted Therapy, January 2022. URL: http://dx.doi.org/10.1038/s41392-021-00771-5, doi:10.1038/s41392-021-00771-5. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41392-021-00771-5)
+
+[5. (Micaroni2013Overlapping) Massimo Micaroni and Lorenzo Malquori. Overlapping atp2c1 and aste1 genes in human genome: implications for spca1 expression? International Journal of Molecular Sciences, 14(1):674–683, January 2013. URL: http://dx.doi.org/10.3390/ijms14010674, doi:10.3390/ijms14010674. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms14010674)

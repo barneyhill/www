@@ -1,0 +1,41 @@
+# TTC1
+
+## Overview
+TTC1 is a gene that encodes the protein tetratricopeptide repeat domain 1, which is characterized by its tetratricopeptide repeat (TPR) motifs. These motifs are integral to the protein's role in mediating protein-protein interactions, particularly with chaperone proteins such as HSP90 and HSP70, which are crucial for cellular homeostasis and protein trafficking (Muthukumar2023Triaging). The TTC1 protein is involved in the biogenesis of mitochondrial outer membrane proteins and plays a significant role in maintaining mitochondrial integrity and function (Muthukumar2023Triaging). Its structure includes a conserved C-terminal domain with a hydrophobic groove, essential for interacting with transmembrane domains of nascent proteins (Muthukumar2023Triaging). Mutations in the TTC1 gene have been linked to various diseases, including neurogenetic disorders and cancer, underscoring its clinical significance (Chiacchiarini2021Role; Hiz2021High).
+
+## Structure
+The TTC1 protein is characterized by its tetratricopeptide repeat (TPR) motifs, which are involved in protein-protein interactions. These motifs form a helix-turn-helix structure, contributing to the protein's secondary and tertiary structures (WU2001Different). TTC1 is a 292-residue protein with a high percentage of predicted disordered residues, particularly in its N-terminal half, which is involved in unfolded protein binding (Van2020Intrinsic). The protein contains three TPRs located at residues 116-149, 155-188, and 189-222, with varying average disorder scores (Van2020Intrinsic).
+
+The C-terminal domain of TTC1 is conserved and features a hydrophobic groove, which is crucial for interacting with hydrophobic transmembrane domains of nascent proteins (Muthukumar2023Triaging). This domain is essential for substrate biogenesis, as mutations can impair its function (Muthukumar2023Triaging). The TPR domain includes a 'two-carboxylate' clamp structure that mediates electrostatic interactions with the C-terminal EEVD motifs of HSP90 and HSP70 proteins (Muthukumar2023Triaging).
+
+TTC1 undergoes post-translational modifications and contains multiple molecular recognition features (MoRFs) that facilitate protein-protein interactions (Van2020Intrinsic). The protein does not associate with ribosomes, indicating a post-translational mode of interaction with substrates (Muthukumar2023Triaging).
+
+## Clinical Significance
+Mutations and alterations in the TTC1 gene have been implicated in various diseases, particularly those related to mitochondrial dysfunction and cancer. In neurogenetic diseases, a homozygous variant in TTC1 (c.784T>G, p.Phe262Val) has been identified in multiple consanguineous families, suggesting a potential founder effect and highlighting its role in these conditions (Hiz2021High). In the context of medullary thyroid cancer (MTC), new somatic mutations in TTC1 have been discovered, indicating a possible involvement in the disease's progression (Chiacchiarini2021Role).
+
+TTC1 is also crucial for mitochondrial outer membrane protein biogenesis. Its depletion leads to mitochondrial network fragmentation and respiration defects, which are reversible upon reintroduction of TTC1, suggesting that disruptions in TTC1 function could contribute to mitochondrial-related diseases (Muthukumar2023Triaging). In Drosophila, the homolog dTtc1 is essential for maintaining mitochondrial numbers and morphology, and its depletion results in significant mitochondrial defects, implying that similar mechanisms might be relevant in humans (Neiswender2023dTtc1). These findings suggest that TTC1 mutations or altered expression could have clinical significance in diseases associated with mitochondrial health.
+
+## Interactions
+TTC1, a human protein characterized by its tetratricopeptide repeat (TPR) motifs, is involved in various protein-protein interactions that are crucial for its function in cellular processes. TTC1 interacts with several chaperone proteins, including HSP90 (HSP90AA1, HSP90B) and HSP70 (HSPA1A, HSPA1B), as well as the HSP70 co-chaperone protein BAG2. These interactions suggest a role for TTC1 in chaperoning and targeting nascent signal-anchored (SA) proteins to the mitochondrial outer membrane, contributing to mitochondrial homeostasis (Muthukumar2023Triaging).
+
+TTC1 also interacts with contact site proteins VSP13C and VAPB, indicating its involvement in mitochondrial integrity and protein trafficking (Muthukumar2023Triaging). The TPR domain of TTC1 is highly conserved and is essential for binding with HSP90, while the C-terminal domain contains a hydrophobic groove that may interact with hydrophobic transmembrane domains (TMDs) (Muthukumar2023Triaging).
+
+In Drosophila, the ortholog of TTC1, known as dTtc1, has been shown to interact with the Egalitarian (Egl) protein, a Dynein cargo adaptor, suggesting a conserved interaction with the Dynein motor complex across species (Neiswender2023dTtc1). This interaction highlights TTC1's potential role in vesicle trafficking and mitochondrial protein complex interactions (Baker2021In).
+
+
+## References
+
+
+[1. (WU2001Different) Shin-Jen WU, Fu-Hwa LIU, Su-Ming HU, and Chung WANG. Different combinations of the heat-shock cognate protein 70 (hsc70) c-terminal functional groups are utilized to interact with distinct tetratricopeptide repeat-containing proteins. Biochemical Journal, 359(2):419, October 2001. URL: http://dx.doi.org/10.1042/0264-6021:3590419, doi:10.1042/0264-6021:3590419. This article has 17 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/0264-6021:3590419)
+
+2. (Baker2021In) In vivo proximity biotin ligation identifies the interactome of Egalitarian, a Dynein cargo adaptor. This article has 1 citations.
+
+[3. (Chiacchiarini2021Role) Martina Chiacchiarini, Sofia Trocchianesi, Zein Mersini Besharat, Agnese Po, and Elisabetta Ferretti. Role of tissue and circulating micrornas and dna as biomarkers in medullary thyroid cancer. Pharmacology &amp; Therapeutics, 219:107708, March 2021. URL: http://dx.doi.org/10.1016/j.pharmthera.2020.107708, doi:10.1016/j.pharmthera.2020.107708. This article has 9 citations.](https://doi.org/10.1016/j.pharmthera.2020.107708)
+
+[4. (Hiz2021High) Semra Hiz Kurul, Yavuz Oktay, Ana Töpf, Nóra Zs Szabó, Serdal Güngör, Ahmet Yaramis, Ece Sonmezler, Leslie Matalonga, Uluc Yis, Katherine Schon, Ida Paramonov, İpek Polat Kalafatcilar, Fei Gao, Aliz Rieger, Nur Arslan, Elmasnur Yilmaz, Burcu Ekinci, Pinar Pulat Edem, Mahmut Aslan, Bilge Özgör, Angela Lochmüller, Ashwati Nair, Emily O’Heir, Alysia K Lovgren, Reza Maroofian, Henry Houlden, Kiran Polavarapu, Andreas Roos, Juliane S Müller, Denisa Hathazi, Patrick F Chinnery, Steven Laurie, Sergi Beltran, Hanns Lochmüller, and Rita Horvath. High diagnostic rate of trio exome sequencing in consanguineous families with neurogenetic diseases. Brain, 145(4):1507–1518, November 2021. URL: http://dx.doi.org/10.1093/brain/awab395, doi:10.1093/brain/awab395. This article has 15 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/brain/awab395)
+
+[5. (Neiswender2023dTtc1) Hannah Neiswender, Frederick C. Baker, Rajalakshmi Veeranan-Karmegam, Phylicia Allen, and Graydon B. Gonsalvez. Dttc1, a conserved tetratricopeptide repeat protein, is required for maturation of drosophila egg chambers via its role in stabilizing electron transport chain components. Frontiers in Cell and Developmental Biology, June 2023. URL: http://dx.doi.org/10.3389/fcell.2023.1148773, doi:10.3389/fcell.2023.1148773. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2023.1148773)
+
+6. (Muthukumar2023Triaging) Triaging of ⍺-helical proteins to the mitochondrial outer membrane by distinct chaperone machinery based on substrate topology. This article has 0 citations.
+
+[7. (Van2020Intrinsic) Nathan W. Van Bibber, Cornelia Haerle, Roy Khalife, Bin Xue, and Vladimir N. Uversky. Intrinsic disorder in tetratricopeptide repeat proteins. International Journal of Molecular Sciences, 21(10):3709, May 2020. URL: http://dx.doi.org/10.3390/ijms21103709, doi:10.3390/ijms21103709. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms21103709)

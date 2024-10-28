@@ -1,0 +1,50 @@
+# IRAK2
+
+## Overview
+IRAK2 (interleukin 1 receptor associated kinase 2) is a gene that encodes a serine/threonine kinase protein involved in the innate immune response. The IRAK2 protein plays a pivotal role in the signaling pathways of Toll-like receptors (TLRs) and interleukin-1 receptors (IL-1R), which are crucial for the activation of immune responses. It is characterized by a death domain, a kinase domain, and a C-terminal domain that facilitates interactions with other signaling molecules, such as TRAF6, to propagate downstream signaling cascades (Gosu2012Molecular; Joshi2021The). Although initially considered a pseudokinase, IRAK2 has been shown to possess atypical kinase activity, particularly in lipopolysaccharide (LPS)-mediated signaling (Joshi2021The). The protein is essential for the activation of NF-κB and p38 MAPK pathways, which are involved in the transcription of genes related to immune and inflammatory responses (Flannery2011Human; Keating2007IRAK2). Dysregulation of IRAK2 has been implicated in various diseases, including inflammatory and autoimmune disorders, underscoring its clinical significance (Teocchi2024Dysregulation).
+
+## Structure
+IRAK2 is a protein involved in the TLR/IL-1R signaling pathways, characterized by a specific domain organization. It contains an N-terminal death domain (DD), a central kinase domain (KD), and a C-terminal domain important for interaction with TRAF6 (Gosu2012Molecular; Joshi2021The). The DD is crucial for interactions with MyD88 and IRAK4, facilitating the formation of the Myddosome complex, which is essential for downstream signaling (Lin2010Helical).
+
+The kinase domain of IRAK2, initially thought to be a pseudokinase, has been shown to possess atypical kinase activity, particularly in LPS-mediated signaling (Joshi2021The). This domain includes a functional ATP-binding pocket, despite a substitution of an Asp residue with an Asn, which was initially thought to render it inactive (Gosu2012Molecular).
+
+The C-terminal domain of IRAK2 contains two conserved consensus motifs for TRAF6 binding, with the human E528 residue being crucial for this interaction (Joshi2021The). This region is necessary for full TRAF6 ubiquitination and optimal TLR signaling, although it lacks any known functional domain (Joshi2021The).
+
+IRAK2 is subject to phosphorylation, a common post-translational modification that regulates its activity (Gosu2012Molecular). The protein's structure and function are conserved across vertebrates, indicating its critical role in immune response regulation (Gosu2012Molecular).
+
+## Function
+IRAK2 (interleukin 1 receptor associated kinase 2) is a critical component of the innate immune system, primarily involved in Toll-like receptor (TLR) signaling pathways. It plays a significant role in the activation of NF-κB and p38 MAPK pathways, which are essential for the transcription of genes involved in immune and inflammatory responses (Flannery2011Human; Keating2007IRAK2). In human cells, IRAK2 is indispensable for TLR4 and TLR8-mediated cytokine induction, including the production of pro-inflammatory cytokines such as TNFα and IL-8 (Flannery2011Human). 
+
+IRAK2 functions by facilitating the polyubiquitination of TRAF6, an E3 ubiquitin ligase, which is a crucial step in NF-κB activation (Keating2007IRAK2). It is part of a MyD88-dependent pathway that stabilizes TNFα mRNA via its 3' untranslated region (3'UTR), ensuring the proper production of TNFα, a key pro-inflammatory cytokine (Flannery2011Human). Unlike its murine counterpart, human IRAK2 does not have splice variants, which may account for its distinct functional role in early TLR signaling and cytokine production (Flannery2011Human). This protein is primarily active in the cytoplasm, where it propagates signals that lead to the production of pro-inflammatory cytokines (Keating2007IRAK2).
+
+## Clinical Significance
+IRAK2 plays a significant role in inflammatory signaling pathways, and its dysregulation has been linked to various diseases. In humans, a functional variant of IRAK2 has been associated with an increased risk of colorectal cancer. This variant may impair IRAK2-mediated TRAF6 ubiquitination, leading to altered IL-6 transcription, which is crucial for inflammatory responses (Teocchi2024Dysregulation). 
+
+In the context of X-linked agammaglobulinemia (XLA), IRAK2 is predominantly hypo-expressed in patients with a BTK missense mutation. This downregulation is linked to TLR signaling malfunction, potentially resulting in autoimmunity and chronic inflammation, which can manifest as conditions like arthritis and inflammatory bowel disease (Teocchi2024Dysregulation).
+
+IRAK2 also interacts with other signaling molecules, such as PIK3R4, suggesting potential crosstalk between IRAK2-mediated inflammatory pathways and PI3K signaling. This interaction may be relevant in the pathogenesis of certain inflammatory disorders, including Crohn's disease, which is associated with deficient autophagy (Teocchi2024Dysregulation). 
+
+Overall, alterations in IRAK2 expression or function can contribute to the development and progression of inflammatory and autoimmune diseases, highlighting its clinical significance.
+
+## Interactions
+IRAK2 is a critical component in the signaling pathways initiated by Toll-like receptors (TLRs) and interleukin-1 receptors (IL-1R). It participates in the formation of the Myddosome complex, which includes MyD88, IRAK4, and IRAK1/2. This complex facilitates the recruitment of the E3 ubiquitin ligase TRAF6, which is essential for downstream signaling, including the activation of NF-κB and MAPK pathways (Joshi2021The; Lin2010Helical).
+
+IRAK2 interacts with TRAF6 through its TRAF6-binding domain, which is crucial for the activation of TRAF6 as an E3 ubiquitin ligase. This interaction leads to the assembly of a ubiquitin scaffold necessary for downstream signaling (Joshi2021The). Specific residues in IRAK2, such as Glu-528, are necessary for its interaction with TRAF6, and mutations in this region can impair signaling (Keating2007IRAK2).
+
+IRAK2 also interacts with TLR adaptor molecules like Mal and MyD88, facilitating its presence in the membrane complex of IL1R and TLRs (Keating2007IRAK2). The MyD88:IRAK4:IRAK2 complex forms a left-handed helical oligomer, with specific interactions between IRAK2 and IRAK4 being critical for the assembly and regulation of death domain complexes in signal transduction (Lin2010Helical).
+
+
+## References
+
+
+[1. (Flannery2011Human) Sinead M. Flannery, Sinead E. Keating, Joanna Szymak, and Andrew G. Bowie. Human interleukin-1 receptor-associated kinase-2 is essential for toll-like receptor-mediated transcriptional and post-transcriptional regulation of tumor necrosis factor α. Journal of Biological Chemistry, 286(27):23688–23697, July 2011. URL: http://dx.doi.org/10.1074/jbc.m111.248351, doi:10.1074/jbc.m111.248351. This article has 30 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m111.248351)
+
+[2. (Teocchi2024Dysregulation) Marcelo Teocchi, Thaís de Andrade Eugênio, Lia Furlaneto Marega, Isabella Quinti, and Maria Marluce dos Santos Vilela. Dysregulation of tlr signaling-associated gene expression in x-linked agammaglobulinemia: implications for correlations genotype-phenotype and disease expression. Journal of Innate Immunity, August 2024. URL: http://dx.doi.org/10.1159/000540082, doi:10.1159/000540082. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1159/000540082)
+
+[3. (Lin2010Helical) Su-Chang Lin, Yu-Chih Lo, and Hao Wu. Helical assembly in the myd88–irak4–irak2 complex in tlr/il-1r signalling. Nature, 465(7300):885–890, May 2010. URL: http://dx.doi.org/10.1038/nature09121, doi:10.1038/nature09121. This article has 862 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature09121)
+
+[4. (Keating2007IRAK2) Sinead E. Keating, Geraldine M. Maloney, Ellen M. Moran, and Andrew G. Bowie. Irak-2 participates in multiple toll-like receptor signaling pathways to nfκb via activation of traf6 ubiquitination. Journal of Biological Chemistry, 282(46):33435–33443, November 2007. URL: http://dx.doi.org/10.1074/jbc.m705266200, doi:10.1074/jbc.m705266200. This article has 172 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m705266200)
+
+[5. (Gosu2012Molecular) Vijayakumar Gosu, Shaherin Basith, Prasannavenkatesh Durai, and Sangdun Choi. Molecular evolution and structural features of irak family members. PLoS ONE, 7(11):e49771, November 2012. URL: http://dx.doi.org/10.1371/journal.pone.0049771, doi:10.1371/journal.pone.0049771. This article has 42 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0049771)
+
+[6. (Joshi2021The) Hemant Joshi, Benjamin Lunz, Andrea Peters, Michael Zölch, Ingolf Berberich, and Friederike Berberich-Siebelt. The extreme c-terminus of irak2 assures full traf6 ubiquitination and optimal tlr signaling. Molecular Immunology, 134:172–182, June 2021. URL: http://dx.doi.org/10.1016/j.molimm.2021.03.022, doi:10.1016/j.molimm.2021.03.022. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.molimm.2021.03.022)

@@ -1,0 +1,58 @@
+# RNF2
+
+## Overview
+RNF2, or Ring Finger Protein 2, is a gene that encodes a protein of the same name, which is a crucial component of the Polycomb Repressive Complex 1 (PRC1). The RNF2 protein is characterized by a RING finger motif, classifying it as an E3 ubiquitin ligase. This protein plays a pivotal role in chromatin remodeling and gene silencing by catalyzing the monoubiquitination of histone H2A at lysine 119, a modification essential for transcriptional repression and chromatin compaction (Rao2009RNF2; Bajusz2018From). RNF2 is integral to maintaining stem cell pluripotency and regulating developmental processes, with its activity being crucial for proper embryonic development and cellular differentiation (Voncken2003Rnf2; Bajusz2018From). The protein's interactions with various components of the PRC1 complex, including CBX family proteins, underscore its role in forming multiprotein complexes necessary for its function in transcriptional regulation (Vandamme2011Interaction).
+
+## Structure
+RNF2, also known as Ring Finger Protein 2, is a 336-amino acid protein characterized by a unique C3HC4 RING finger motif spanning amino acids 40-90. This motif is crucial for its function as an E3 ubiquitin ligase, facilitating the monoubiquitination of lysine 119 on histone H2A, a key process in chromatin remodeling and gene silencing (Rao2009RNF2). The RING finger domain is involved in protein-protein interactions, particularly with Bmi-1, which enhances RNF2's ubiquitin ligase activity (Rao2009RNF2).
+
+The RING domain of RNF2 features a conserved cross-brace fold, including a zinc-coordinating motif, two N-terminal β-strands, a central α-helix, and two bipartite zinc-coordination sites. These structural elements form a shallow cleft that serves as the E2 interaction site, essential for its ubiquitin ligase function (Gundogdu2019Structural). RNF2 can form specific interactions with E2 enzymes, such as a salt bridge with E2 α1, due to a carboxylate-containing residue on its ZI A, which may influence its ability to interact with a spectrum of E2s (Gundogdu2019Structural).
+
+RNF2 undergoes post-translational modifications, including phosphorylation at serine residues, particularly at Serine 41, mediated by the p38 MAPK and ERK1/2 signaling pathways. These modifications suggest a regulatory role in transcriptional repression and chromatin remodeling (Rao2009RNF2).
+
+## Function
+RNF2, also known as Ring Finger Protein 2, is a critical component of the Polycomb Repressive Complex 1 (PRC1) in mammalian cells. It functions primarily as an E3 ubiquitin ligase, catalyzing the monoubiquitination of histone H2A at lysine 119 (K119), a modification that is essential for chromatin compaction and transcriptional repression (Bajusz2018From). This activity is crucial for maintaining repressed chromatin states and regulating gene expression, particularly in the context of developmental genes (Bajusz2018From).
+
+RNF2 is involved in the formation and stability of PRC1 complexes, interacting with various CBX family proteins, which are part of these complexes. This interaction is vital for the integrity and function of PRC1 in chromatin-associated gene repression (Vandamme2011Interaction). RNF2 is active in the nucleus, where it plays a significant role in maintaining stem cell pluripotency and regulating developmental processes (Bajusz2018From).
+
+In embryonic development, RNF2 is essential for proper gastrulation and mesoderm formation, as its deficiency leads to developmental arrest and embryonic lethality (Voncken2003Rnf2). It also plays a role in repressing developmental control genes and maintaining embryonic stem cell identity (Bajusz2018From).
+
+## Clinical Significance
+Mutations and alterations in the RNF2 gene are associated with several diseases and conditions. In cancer, RNF2 overexpression is linked to the progression of various types, including hepatocellular carcinoma, melanoma, prostate cancer, breast cancer, pancreatic cancer, gastric cancer, and bladder urothelial carcinoma. Its role as an E3 ubiquitin ligase in the monoubiquitination of histone H2A at lysine 119 is crucial for chromatin remodeling and gene silencing, processes that are often dysregulated in cancer. RNF2's involvement in pathways such as epithelial-mesenchymal transition and TGFβ signaling contributes to cancer cell proliferation, invasion, and metastasis (Yan2021Emerging).
+
+In neurodevelopmental disorders, rare deleterious de novo missense variants in RNF2, such as p.R70H and p.S82R, have been identified. These variants are associated with severe intellectual disabilities, epilepsy, and other neurological symptoms. Functional studies in Drosophila suggest these mutations act as loss-of-function alleles, disrupting RNF2's interaction with BMI1 and its ability to ubiquitinate histone H2A, leading to a specific neurodevelopmental disorder (Luo2021Rare).
+
+In zebrafish, loss of RNF2 results in cardiac defects due to the derepression of tbx-transcription factors, highlighting its role in maintaining proper gene expression during development (Chrispijn2019Loss).
+
+## Interactions
+RNF2, also known as Ring1B, is a key component of the Polycomb Repressive Complex 1 (PRC1) and participates in various protein interactions that are crucial for its function in transcriptional regulation. RNF2 interacts with PHB2 (prohibitin2) and CP2c, forming a complex where PHB2 binds to the N-terminal and CP2c to the C-terminal of RNF2. This interaction is essential for repressing CP2c-stimulated transcriptional activity, particularly affecting the expression of the a-globin gene (Lee2008PHB2). 
+
+RNF2 is also involved in interactions with CBX family proteins within the PRC1 complex. It consistently interacts with all CBX family members, although the specific interactions and affinities can vary among different CBX proteins, indicating distinct PRC1 complexes (Vandamme2011Interaction). 
+
+In addition, RNF2 interacts with the linker region of human p-glycoprotein (Pgp), as identified through yeast two-hybrid analysis. This interaction involves the C-half of RNF2 and suggests a specific role in the function of Pgp related to drug resistance (Rao2006RNF2). 
+
+These interactions highlight RNF2's role in forming multiprotein complexes and its involvement in transcriptional repression and chromatin modification.
+
+
+## References
+
+
+[1. (Chrispijn2019Loss) Naomi D. Chrispijn, Dei M. Elurbe, Michaela Mickoleit, Marco Aben, Dennis E.M. de Bakker, Karolina M. Andralojc, Jan Huisken, Jeroen Bakkers, and Leonie M. Kamminga. Loss of the polycomb group protein rnf2 results in derepression of tbx-transcription factors and defects in embryonic and cardiac development. Scientific Reports, March 2019. URL: http://dx.doi.org/10.1038/s41598-019-40867-1, doi:10.1038/s41598-019-40867-1. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-019-40867-1)
+
+[2. (Bajusz2018From) Izabella Bajusz, Gergő Kovács, and Melinda Pirity. From flies to mice: the emerging role of non-canonical prc1 members in mammalian development. Epigenomes, 2(1):4, February 2018. URL: http://dx.doi.org/10.3390/EPIGENOMES2010004, doi:10.3390/epigenomes2010004. This article has 20 citations.](https://doi.org/10.3390/EPIGENOMES2010004)
+
+[3. (Yan2021Emerging) Qi Yan, Bang‐jie Chen, Shuang Hu, Shun‐li Qi, Liang‐yun Li, Jun‐fa Yang, Hong Zhou, Chen‐chen Yang, Li‐jian Chen, and Jian Du. Emerging role of rnf2 in cancer: from bench to bedside. Journal of Cellular Physiology, 236(8):5453–5465, January 2021. URL: http://dx.doi.org/10.1002/jcp.30260, doi:10.1002/jcp.30260. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jcp.30260)
+
+[4. (Vandamme2011Interaction) Julien Vandamme, Pamela Völkel, Claire Rosnoblet, Perrine Le Faou, and Pierre-Olivier Angrand. Interaction proteomics analysis of polycomb proteins defines distinct prc1 complexes in mammalian cells. Molecular &amp; Cellular Proteomics, 10(4):M110.002642, April 2011. URL: http://dx.doi.org/10.1074/mcp.M110.002642, doi:10.1074/mcp.m110.002642. This article has 183 citations.](https://doi.org/10.1074/mcp.M110.002642)
+
+[5. (Rao2009RNF2) Prema S. Rao, Arun Satelli, Sheng Zhang, Sanjay K. Srivastava, Kalkunte S. Srivenugopal, and U. Subrahmanyeswara Rao. Rnf2 is the target for phosphorylation by the p38 mapk and erk signaling pathways. PROTEOMICS, 9(10):2776–2787, May 2009. URL: http://dx.doi.org/10.1002/pmic.200800847, doi:10.1002/pmic.200800847. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pmic.200800847)
+
+[6. (Voncken2003Rnf2) Jan Willem Voncken, Bernard A. J. Roelen, Mieke Roefs, Stijn de Vries, Els Verhoeven, Silvia Marino, Jacqueline Deschamps, and Maarten van Lohuizen. Rnf2 ( ring1b ) deficiency causes gastrulation arrest and cell cycle inhibition. Proceedings of the National Academy of Sciences, 100(5):2468–2473, February 2003. URL: http://dx.doi.org/10.1073/pnas.0434312100, doi:10.1073/pnas.0434312100. This article has 289 citations.](https://doi.org/10.1073/pnas.0434312100)
+
+[7. (Luo2021Rare) Xi Luo, Kelly Schoch, Sharayu V Jangam, Venkata Hemanjani Bhavana, Hillary K Graves, Sujay Kansagra, Joan M Jasien, Nicholas Stong, Boris Keren, Cyril Mignot, Claudia Ravelli, Hugo J Bellen, Michael F Wangler, Vandana Shashi, and Shinya Yamamoto. Rare deleterious de novo missense variants in rnf2/ring2 are associated with a neurodevelopmental disorder with unique clinical features. Human Molecular Genetics, 30(14):1283–1292, April 2021. URL: http://dx.doi.org/10.1093/hmg/ddab110, doi:10.1093/hmg/ddab110. This article has 19 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1093/hmg/ddab110)
+
+[8. (Lee2008PHB2) Sun-Joo Lee, Dongwon Choi, Hyangshuk Rhim, Hyo-Jung Choo, Young-Gyu Ko, Chul Guen Kim, and Seongman Kang. Phb2 interacts with rnf2 and represses cp2c-stimulated transcription. Molecular and Cellular Biochemistry, 319(1–2):69–77, July 2008. URL: http://dx.doi.org/10.1007/s11010-008-9878-2, doi:10.1007/s11010-008-9878-2. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1007/s11010-008-9878-2)
+
+[9. (Rao2006RNF2) Prema Rao, Kavita Mallya, Kalkunte Srivenugopal, K. Balaji, and U. Rao. Rnf2 interacts with the linker region of the human p-glycoprotein. International Journal of Oncology, December 2006. URL: http://dx.doi.org/10.3892/ijo.29.6.1413, doi:10.3892/ijo.29.6.1413. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ijo.29.6.1413)
+
+[10. (Gundogdu2019Structural) Mehmet Gundogdu and Helen Walden. Structural basis of generic versus specific e2–ring e3 interactions in protein ubiquitination. Protein Science, 28(10):1758–1770, August 2019. URL: http://dx.doi.org/10.1002/pro.3690, doi:10.1002/pro.3690. This article has 43 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pro.3690)

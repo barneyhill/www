@@ -1,0 +1,44 @@
+# N6AMT1
+
+## Overview
+N6AMT1 is a gene that encodes the protein N-6 adenine-specific DNA methyltransferase 1, which functions as a protein methyltransferase. This enzyme is part of the class I S-adenosylmethionine (SAM)-dependent methyltransferases and is characterized by a central seven-stranded β-sheet flanked by α-helices (Li2019Structural). Unlike typical DNA methyltransferases, N6AMT1 does not bind or methylate DNA but instead targets specific protein substrates, such as eukaryotic release factor 1 (eRF1) and histone H4 at lysine 12 (H4K12), in complex with the partner protein Trm112 (Li2019Structural). This complex plays a crucial role in protein methylation processes and mitochondrial RNA processing, which are essential for cellular and mitochondrial function (Foged2024Cytosolic). N6AMT1 is also implicated in various clinical contexts, including cancer progression and arsenic metabolism, highlighting its significance in both normal cellular processes and disease states (Chen2022Reducing; Harari2013N6AdenineSpecific).
+
+## Structure
+The N6AMT1 protein, also known as N-6 adenine-specific DNA methyltransferase 1, is characterized by a typical fold of class I SAM-dependent methyltransferases (MTases), featuring a central seven-stranded β-sheet flanked by α-helices (Li2019Structural). The protein includes a flexible N-terminal loop and a small insertion domain between the β4 strand and the α4 helix, which partially covers the active site located near the C-terminus of the β-strands (Li2019Structural). 
+
+In its quaternary structure, N6AMT1 forms a complex with the partner protein Trm112, which stabilizes the structure by shielding a hydrophobic surface from solvent exposure (Li2019Structural). The interaction between N6AMT1 and Trm112 is facilitated through a parallel β-zipper, resulting in an eleven-stranded β-sheet, and involves both hydrophobic and hydrophilic interactions (Li2019Structural). 
+
+The N6AMT1-Trm112 complex is capable of catalyzing the methylation of specific protein substrates, such as eRF1 and histone H4K12, but does not bind or methylate DNA (Li2019Structural). The complex's substrate-binding site is negatively charged, making it suitable for binding basic residue-enriched peptides (Li2019Structural).
+
+## Function
+N6AMT1 is a protein methyltransferase primarily involved in protein methylation processes in human cells. It forms a complex with Trm112, which is crucial for its enzymatic activity. This complex is capable of mono-methylating histone H4 at lysine 12 (H4K12) and the glutamine residue of eukaryotic release factor 1 (eRF1), indicating its versatility in substrate recognition (Li2019Structural). The active site of N6AMT1 is negatively charged, making it unsuitable for DNA binding, which supports its primary role as a protein methyltransferase rather than a DNA methyltransferase (Li2019Structural).
+
+N6AMT1 also plays a significant role in mitochondrial RNA processing, which is essential for protein synthesis and oxidative phosphorylation in mitochondria. Its catalytic activity is necessary for the processing of mitochondrial RNA, and its absence leads to an accumulation of unprocessed RNA, affecting mitochondrial function (Foged2024Cytosolic). This gene is involved in the cytosolic translation of components of the mitochondrial RNAse P enzyme, which is crucial for maintaining mitochondrial proteome integrity and function (Foged2024Cytosolic). These functions highlight N6AMT1's critical role in cellular and mitochondrial processes.
+
+## Clinical Significance
+Alterations in the expression of the N6AMT1 gene have been implicated in various cancers. In breast cancer, reduced expression of N6AMT1 is associated with decreased levels of DNA N6-methyladenosine (6mA) methylation, which correlates with enhanced tumor progression and poor prognosis. This reduction in N6AMT1 expression leads to increased colony formation and migration of breast cancer cells, while overexpression has the opposite effect. The gene's expression is linked to the regulation of critical cell cycle inhibitors such as RB1, P21, REST, and TP53, suggesting that N6AMT1-mediated 6mA modifications play a role in repressing tumor progression (Chen2022Reducing).
+
+In pan-cancer studies, N6AMT1 has been identified as a potential biomarker for diagnostics, prognosis, and immunotherapy response. Its expression levels are associated with various survival metrics across different cancer types, including overall survival in pancreatic adenocarcinoma and pheochromocytoma, and progression-free survival in cervical squamous cell carcinoma, liver hepatocellular carcinoma, prostate adenocarcinoma, and pancreatic adenocarcinoma (Wang2023N6AMT1).
+
+N6AMT1 polymorphisms have also been studied in the context of arsenic metabolism. Specific single nucleotide polymorphisms (SNPs) in N6AMT1 are associated with arsenic methylation efficiency, which may influence susceptibility to arsenic-related health effects, including cancer (Harari2013N6AdenineSpecific).
+
+## Interactions
+N6AMT1 forms a complex with the protein Trm112, functioning as a protein methyltransferase. This complex is stabilized by a parallel β-zipper, creating a continuous eleven-stranded β-sheet, which buries a solvent-accessible surface area of 1200 Å². The interaction interface is characterized by both electrostatic and geometrical complementarities, with key hydrophobic interactions involving residues such as Ile48, Leu72, Met74, Ala83, Leu87, Pro99, Val100, Ile101, Leu108, and Leu112 of N6AMT1 with Leu4, Leu8, Leu9, Phe41, Met45, Ile113, Pro114, and Leu117 of Trm112 (Li2019Structural). Trm112 acts as a partner and activator, shielding a hydrophobic surface of N6AMT1 and is crucial for the methylation of eRF1, a suitable substrate for N6AMT1 (Li2019Structural).
+
+N6AMT1 is also involved in mitochondrial RNA processing, interacting with proteins such as PRORP and TRMT10C, which are part of the mitochondrial RNase P complex. These interactions are essential for mitochondrial RNA processing and protein synthesis, as depletion of N6AMT1 leads to deficiencies in these processes (Foged2024Cytosolic). Additionally, N6AMT1 is implicated in cell cycle regulation, potentially through interactions affecting cyclin E levels, although the exact mechanism remains to be fully elucidated (Mutso2024The).
+
+
+## References
+
+
+[1. (Harari2013N6AdenineSpecific) Florencia Harari, Karin Engström, Gabriela Concha, Graciela Colque, Marie Vahter, and Karin Broberg. N-6-adenine-specific dna methyltransferase 1 ( n6amt1 ) polymorphisms and arsenic methylation in andean women. Environmental Health Perspectives, 121(7):797–803, July 2013. URL: http://dx.doi.org/10.1289/ehp.1206003, doi:10.1289/ehp.1206003. This article has 37 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1289/ehp.1206003)
+
+[2. (Wang2023N6AMT1) Mingqi Wang, Jiajie Zhu, Yingquan Ye, Ping Li, Weijie Sun, and Mei Zhang. N6amt1 is a novel potential diagnostic, prognostic and immunotherapy response biomarker in pan-cancer. Aging, 15(13):6526–6544, July 2023. URL: http://dx.doi.org/10.18632/aging.204868, doi:10.18632/aging.204868. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.18632/aging.204868)
+
+3. (Foged2024Cytosolic) Cytosolic N6AMT1-dependent translation supports mitochondrial RNA processing. This article has 1 citations.
+
+[4. (Mutso2024The) Margit Mutso, Baiba Brūmele, Evgeniia Serova, Fred Väärtnõu, Mihkel Suija, and Reet Kurg. The methyltransferase n6amt1 participates in the cell cycle by regulating cyclin e levels. PLOS ONE, 19(2):e0298884, February 2024. URL: http://dx.doi.org/10.1371/journal.pone.0298884, doi:10.1371/journal.pone.0298884. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0298884)
+
+[5. (Chen2022Reducing) Jiongyu Chen, Yixuan Zhuang, Ping Wang, Jinfeng Ning, Wei Liu, Yiteng Huang, Xueqiong Lin, Lin Peng, and Donghong Zhang. Reducing n6amt1-mediated 6ma dna modification promotes breast tumor progression via transcriptional repressing cell cycle inhibitors. Cell Death &amp; Disease, March 2022. URL: http://dx.doi.org/10.1038/s41419-022-04661-8, doi:10.1038/s41419-022-04661-8. This article has 13 citations.](https://doi.org/10.1038/s41419-022-04661-8)
+
+[6. (Li2019Structural) Wenjing Li, Yu Shi, Tianlong Zhang, Jie Ye, and Jianping Ding. Structural insight into human n6amt1–trm112 complex functioning as a protein methyltransferase. Cell Discovery, September 2019. URL: http://dx.doi.org/10.1038/s41421-019-0121-y, doi:10.1038/s41421-019-0121-y. This article has 30 citations.](https://doi.org/10.1038/s41421-019-0121-y)

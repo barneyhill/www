@@ -1,0 +1,33 @@
+# KLRC1
+
+## Overview
+The KLRC1 gene encodes the killer cell lectin-like receptor C1, commonly referred to as NKG2A, which is a transmembrane receptor predominantly expressed on natural killer (NK) cells and some T cells. This receptor plays a crucial role in the immune system by modulating NK cell activity through its interaction with the HLA-E molecule, a nonclassical MHC class I molecule. NKG2A functions as an inhibitory receptor, transmitting signals that prevent NK cell activation and cytotoxicity, thereby maintaining immune homeostasis and self-tolerance (Mac2023KLRC1). The regulatory function of NKG2A is essential in preventing autoimmunity and is also implicated in tumor immune evasion, as cancer cells can exploit this pathway to avoid immune destruction (Mac2023KLRC1). Understanding the role of KLRC1 and its encoded protein in immune regulation has significant implications for developing therapeutic strategies, particularly in cancer immunotherapy (Dabous2024Regulation).
+
+## Function
+The KLRC1 gene encodes the NKG2A receptor, which is a critical component of the immune system, particularly in the regulation of natural killer (NK) cell activity. NKG2A is an inhibitory receptor that interacts with the HLA-E molecule, a nonclassical HLA class I molecule, on the surface of target cells. This interaction transmits inhibitory signals to NK cells, preventing their activation and subsequent cytotoxic activity. This mechanism is essential for maintaining self-tolerance and preventing autoimmunity by ensuring that NK cells do not attack healthy cells (Mac2023KLRC1).
+
+In healthy human cells, the NKG2A receptor functions as a checkpoint for NK cells, modulating their activity to maintain immune homeostasis. The binding of NKG2A to HLA-E on healthy cells sends inhibitory signals that reduce NK cell cytotoxicity, thus protecting normal tissues from immune-mediated damage (Mac2023KLRC1). This regulatory role is crucial in preventing the immune system from targeting the body's own cells, thereby maintaining a balance between immune defense and tolerance. The NKG2A receptor is primarily active on the surface of NK cells and some T cells, where it plays a pivotal role in immune surveillance and regulation (Mac2023KLRC1).
+
+## Clinical Significance
+Alterations in the KLRC1 gene, which encodes the NKG2A receptor, have significant clinical implications, particularly in cancer. The NKG2A receptor is an inhibitory receptor on natural killer (NK) cells that interacts with the HLA-E molecule on tumor cells, leading to suppression of NK cell activity. Overexpression of HLA-E in tumors is associated with poor prognosis, as it enhances tumor resistance to NK cells by engaging NKG2A (Kamiya2019Blocking). Studies have shown that knocking out KLRC1 in NK cells can enhance their cytotoxic function against HLA-E positive tumors by disrupting the NKG2A/HLA-E inhibitory axis, thereby improving antitumor activity (Mac2023KLRC1).
+
+In cervical cancer, miR-141 overexpression leads to downregulation of KLRC1, which may contribute to cancer progression by affecting NK cell-mediated immune responses (Dabous2024Regulation). In endometrial carcinoma, KLRC1 is part of an immune-related prognostic signature that predicts patient prognosis and response to therapy, indicating its role in the immune landscape of this cancer (Liu2021Identification). These findings suggest that targeting KLRC1 could be a promising strategy in enhancing NK cell-based therapies against various tumors.
+
+## Interactions
+KLRC1, also known as NKG2A, is a receptor that forms heterodimers with CD94 on natural killer (NK) cells and some T cells. This complex interacts with HLA-E, a nonclassical MHC class I molecule, to transmit inhibitory signals that regulate immune responses. The binding of NKG2A/CD94 to HLA-E results in the inhibition of NK cell cytotoxicity, which is a mechanism that tumors can exploit to evade immune surveillance (Mac2023KLRC1).
+
+The study by Mac Donald et al. demonstrated that knocking out KLRC1 in NK cells disrupts this inhibitory interaction, thereby enhancing NK cell cytotoxicity against HLA-E expressing tumor cells. This knockout leads to an increased expression of the activating receptor NKG2C, which also interacts with HLA-E but transmits activating signals, thus promoting NK cell-mediated tumor cell lysis (Mac2023KLRC1).
+
+In cervical cancer cells, miR-141 has been shown to downregulate KLRC1 expression, which may contribute to cancer cell proliferation and metastasis by reducing the inhibitory signals that would otherwise limit NK cell activity (Dabous2024Regulation). This interaction highlights the role of KLRC1 in immune regulation and its potential as a therapeutic target.
+
+
+## References
+
+
+[1. (Dabous2024Regulation) Emad Dabous, Mai Alalem, Ahmed M. Awad, Khaled A. Elawdan, Ahmed M. Tabl, Shorouk Elsaka, Walid Said, Adel A. Guirgis, and Hany Khalil. Regulation of klrc and ceacam gene expression by mir-141 supports cell proliferation and metastasis in cervical cancer cells. BMC Cancer, September 2024. URL: http://dx.doi.org/10.1186/s12885-024-12794-6, doi:10.1186/s12885-024-12794-6. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12885-024-12794-6)
+
+[2. (Liu2021Identification) Jinhui Liu, Yichun Wang, Jie Mei, Sipei Nie, and Yan Zhang. Identification of a novel immune landscape signature for predicting prognosis and response of endometrial carcinoma to immunotherapy and chemotherapy. Frontiers in Cell and Developmental Biology, July 2021. URL: http://dx.doi.org/10.3389/fcell.2021.671736, doi:10.3389/fcell.2021.671736. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.671736)
+
+[3. (Mac2023KLRC1) Alice Mac Donald, Delphine Guipouy, William Lemieux, Mario Harvey, Louis-Jean Bordeleau, David Guay, Hugo Roméro, Yuanyi Li, Renaud Dion, Kathie Béland, and Elie Haddad. Klrc1 knockout overcomes hla-e-mediated inhibition and improves nk cell antitumor activity against solid tumors. Frontiers in Immunology, August 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1231916, doi:10.3389/fimmu.2023.1231916. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1231916)
+
+[4. (Kamiya2019Blocking) Takahiro Kamiya, See Voon Seow, Desmond Wong, Murray Robinson, and Dario Campana. Blocking expression of inhibitory receptor nkg2a overcomes tumor resistance to nk cells. Journal of Clinical Investigation, 129(5):2094–2106, April 2019. URL: http://dx.doi.org/10.1172/jci123955, doi:10.1172/jci123955. This article has 247 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci123955)

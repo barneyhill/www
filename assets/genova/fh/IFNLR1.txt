@@ -1,0 +1,44 @@
+# IFNLR1
+
+## Overview
+The IFNLR1 gene encodes the interferon lambda receptor 1, a transmembrane protein that plays a pivotal role in the immune response to viral infections. As a component of the receptor complex for type III interferons, IFNLR1 forms a heterodimer with the interleukin 10 receptor beta (IL10RB) to mediate the activation of the JAK-STAT signaling pathway. This activation leads to the expression of interferon-stimulated genes (ISGs), which are crucial for antiviral defense mechanisms, particularly in epithelial cells. The expression of IFNLR1 is predominantly found in epithelial tissues such as the lungs, liver, and gastrointestinal tract, as well as in certain immune cells, allowing for targeted immune responses without widespread activation (Santer2020Differential; de2012The). Additionally, IFNLR1 is involved in various clinical contexts, including its association with autosomal-dominant non-syndromic hearing loss and its role in modulating immune responses in conditions like systemic lupus erythematosus (Gao2018Mutation; Goel2020Interferon).
+
+## Structure
+The interferon lambda receptor 1 (IFNLR1) protein is a component of the receptor complex for type III interferons. It is characterized by an extracellular domain, a single transmembrane helix, and an intracellular domain. The extracellular domain contains fibronectin type III-like domains, which are common in cytokine receptors and contribute to the protein's structural stability and ligand-binding capabilities (Gao2018Mutation).
+
+The intracellular domain of IFNLR1 interacts with the FERM and SH2 domains of human JAK1, forming a complex that is crucial for signal transduction. The crystal structure of this complex reveals that the IFNLR1 peptide forms an extended chain, approximately 85 Å in length, which includes the box1 and box2 regions. These regions are essential for binding to JAK1, with box1 being particularly critical for stable interaction (Zhang2016Crystal).
+
+The box1 region is characterized by the motif PxxPxP, which is involved in biologically relevant interactions, while the box2 region contains a conserved glutamate residue that forms a salt bridge with JAK1, stabilizing the interaction (Zhang2016Crystal). The structure of the IFNLR1/JAK1 complex provides insights into the molecular interactions necessary for JAK/STAT signaling (Zhang2016Crystal).
+
+## Function
+The interferon lambda receptor 1 (IFNLR1) is a critical component of the receptor complex for type III interferons, primarily involved in mediating antiviral responses in epithelial cells. IFNLR1, in conjunction with IL10RB, forms a heterodimeric receptor that activates the JAK-STAT signaling pathway upon binding with interferon lambda. This activation leads to the induction of interferon-stimulated genes (ISGs), which enhance the cell's antiviral defenses (Santer2020Differential; Zhang2016Crystal).
+
+In healthy human cells, IFNLR1 expression is predominantly found in epithelial cells, such as those in the lungs, liver, and gastrointestinal tract, as well as in certain immune cells like dendritic cells. This restricted expression pattern limits the cell-specific responsiveness to type III interferons, allowing for targeted antiviral activity without widespread immune activation (de2012The; Santer2020Differential).
+
+The receptor's function is modulated by the presence of both membrane-bound and soluble splice variants. The soluble form (sIFNLR1) can bind to interferon lambda, increasing its binding to cell surfaces but inhibiting ISG induction, suggesting a regulatory role in IFN-λ signaling (Santer2020Differential).
+
+## Clinical Significance
+Mutations in the IFNLR1 gene have been associated with autosomal-dominant non-syndromic hearing loss (ADNSHL). A specific missense mutation, c.296G>A (p.Arg99His), was identified in a Chinese family, leading to progressive sensorineural hearing loss. This mutation affects a conserved residue in the IFNLR1 protein and is predicted to be deleterious, disrupting normal protein function and contributing to the hearing loss phenotype (Gao2018Mutation). The mutation was absent in a large number of control subjects, indicating its rarity and potential pathogenicity (Gao2018Mutation).
+
+Alterations in IFNLR1 expression have also been implicated in immune dysregulation and tissue inflammation, particularly in systemic lupus erythematosus (SLE). Increased levels of IFN-λ, which signals through IFNLR1, have been observed in SLE, contributing to immune cell activation and organ damage. Deficiency in IFNLR1 has been shown to reduce these effects, suggesting a role in lupus pathology (Goel2020Interferon).
+
+In the context of viral infections, IFNLR1 expression influences the antiviral response. Differential expression of IFNLR1 splice variants affects the magnitude of the response to interferon-lambda 3, impacting the inhibition of viral infections such as HIV-1 in human immune cells (Santer2020Differential).
+
+## Interactions
+Interferon lambda receptor 1 (IFNLR1) is a key component of the receptor complex for type III interferons, primarily interacting with the FERM/SH2 domains of human Janus kinase 1 (JAK1). This interaction is crucial for the activation of the JAK-STAT signaling pathway, which is involved in antiviral responses. The binding between IFNLR1 and JAK1 involves the box1 and box2 regions of IFNLR1, with the box1 region being essential for stable complex formation. The box2 region, particularly the GluR285 residue, forms a critical ion pair with Arg466 in the SH2 domain of JAK1, stabilizing the complex (Zhang2016Crystal).
+
+IFNLR1 also interacts with IL10RB (interleukin 10 receptor beta) to form a functional receptor complex for type III interferons. This complex facilitates the binding of interferon-lambda 3 (IFN-λ3), leading to the induction of interferon-stimulated genes (ISGs) in various immune cells. The soluble form of IFNLR1 (sIFN-λR1) can act as a decoy receptor, binding IFN-λ3 and inhibiting ISG induction by sequestering the ligand away from membrane-bound receptors (Santer2020Differential). This regulatory mechanism highlights the complex role of IFNLR1 in modulating immune responses.
+
+
+## References
+
+
+[1. (de2012The) Nicole A de Weerd and Thao Nguyen. The interferons and their receptors—distribution and regulation. Immunology &amp; Cell Biology, 90(5):483–491, March 2012. URL: http://dx.doi.org/10.1038/icb.2012.9, doi:10.1038/icb.2012.9. This article has 366 citations.](https://doi.org/10.1038/icb.2012.9)
+
+[2. (Gao2018Mutation) Xue Gao, Yong-Yi Yuan, Qiong-Fen Lin, Jin-Cao Xu, Wei-Qian Wang, Yue-Hua Qiao, Dong-Yang Kang, Dan Bai, Feng Xin, Sha-Sha Huang, Shi-Wei Qiu, Li-Ping Guan, Yu Su, Guo-Jian Wang, Ming-Yu Han, Yi Jiang, Han-Kui Liu, and Pu Dai. Mutation of ifnlr1, an interferon lambda receptor 1, is associated with autosomal-dominant non-syndromic hearing loss. Journal of Medical Genetics, 55(5):298–306, February 2018. URL: http://dx.doi.org/10.1136/jmedgenet-2017-104954, doi:10.1136/jmedgenet-2017-104954. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1136/jmedgenet-2017-104954)
+
+[3. (Santer2020Differential) Deanna M. Santer, Gillian E. S. Minty, Dominic P. Golec, Julia Lu, Julia May, Afshin Namdar, Juhi Shah, Shokrollah Elahi, David Proud, Michael Joyce, D. Lorne Tyrrell, and Michael Houghton. Differential expression of interferon-lambda receptor 1 splice variants determines the magnitude of the antiviral response induced by interferon-lambda 3 in human immune cells. PLOS Pathogens, 16(4):e1008515, April 2020. URL: http://dx.doi.org/10.1371/journal.ppat.1008515, doi:10.1371/journal.ppat.1008515. This article has 45 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.ppat.1008515)
+
+[4. (Zhang2016Crystal) Di Zhang, Alexander Wlodawer, and Jacek Lubkowski. Crystal structure of a complex of the intracellular domain of interferon λ receptor 1 (ifnlr1) and the ferm/sh2 domains of human jak1. Journal of Molecular Biology, 428(23):4651–4668, November 2016. URL: http://dx.doi.org/10.1016/j.jmb.2016.10.005, doi:10.1016/j.jmb.2016.10.005. This article has 38 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2016.10.005)
+
+[5. (Goel2020Interferon) Rishi R. Goel, Xinghao Wang, Liam J. O’Neil, Shuichiro Nakabo, Kowser Hasneen, Sarthak Gupta, Gustaf Wigerblad, Luz P. Blanco, Jeffrey B. Kopp, Maria I. Morasso, Sergei V. Kotenko, Zu-Xi Yu, Carmelo Carmona-Rivera, and Mariana J. Kaplan. Interferon lambda promotes immune dysregulation and tissue inflammation in tlr7-induced lupus. Proceedings of the National Academy of Sciences, 117(10):5409–5419, February 2020. URL: http://dx.doi.org/10.1073/pnas.1916897117, doi:10.1073/pnas.1916897117. This article has 89 citations.](https://doi.org/10.1073/pnas.1916897117)

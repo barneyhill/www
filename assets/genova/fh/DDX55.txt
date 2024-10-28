@@ -1,0 +1,24 @@
+# DDX55
+
+## Overview
+DDX55 is a gene that encodes the protein DEAD-box helicase 55, which is a member of the DEAD-box family of RNA helicases. These proteins are characterized by the conserved motif Asp-Glu-Ala-Asp (DEAD) and are involved in various aspects of RNA metabolism, including ribosome biogenesis, splicing, and RNA decay. DEAD-box helicase 55 plays a crucial role in the assembly and maturation of ribosomal subunits, particularly the pre-60S ribosomal particles, and is predominantly localized in the nucleoplasm (Rao2022DEADly). The protein exhibits ATPase activity, which is essential for its function, and is implicated as a probable RNA G-quadruplex (rG4) helicase, potentially influencing gene expression regulation through interactions with rG4 structures and miRNA binding sites (Dupas2021Predicting). Despite its significant role in ribosome biogenesis and potential involvement in RNA regulatory mechanisms, further research is needed to fully elucidate the specific interactions and functions of DDX55 within the cell (Dupas2021Predicting; Rao2022DEADly).
+
+## Function
+DDX55 is a DEAD-box RNA helicase involved in ribosome biogenesis in human cells. It plays a critical role in the assembly and maturation of ribosomal subunits, particularly the pre-60S ribosomal particles. DDX55 is predominantly localized in the nucleoplasm and is largely excluded from the nucleoli, indicating its involvement in the later stages of ribosome biogenesis (1 page 23 of 30; 1 page 26 of 30). The protein exhibits ATPase activity, which is essential for its function, and this activity is mildly stimulated by RNA (1 page 23 of 30).
+
+DDX55 preferentially binds to specific regions within the 28S rRNA sequence, particularly helices 62 and 63 of domain IV, near the eukaryotic expansion segment 27 (ES27). This binding site is evolutionarily conserved, suggesting a critical role in ribosome assembly (1 page 24 of 30). The C-terminal tail of DDX55 is crucial for its RNA binding and nucleoplasmic localization, facilitating its association with pre-60S ribosomal particles (1 page 24 of 30; 1 page 25 of 30).
+
+In addition to its role in ribosome biogenesis, DDX55 is implicated as a probable RNA G-quadruplex (rG4) helicase, potentially involved in the regulation of gene expression through interactions with rG4 structures and miRNA binding sites (Dupas2021Predicting).
+
+## Interactions
+DDX55 is identified as a probable RNA G-quadruplex (rG4) helicase, interacting predominantly with rG4s located in the 3' untranslated regions (UTRs) of transcripts. It binds near rG4 proximal miRNA binding sites, suggesting a role in rG4-mediated regulation of miRNA silencing (Dupas2021Predicting). DDX55 has significant overlaps with predicted rG4 regions, with eCLIP peaks overlapping 151 rG4 regions, indicating a strong association with these structures (Dupas2021Predicting). The study notes that while DDX55 binds to rG4s, this does not necessarily imply the ability to unwind them, highlighting the need for complementary methods to confirm its helicase activity (Dupas2021Predicting).
+
+DDX55 is also involved in the assembly of the large ribosomal subunit by binding to the 28s rRNA, indicating its role in ribosome biogenesis (Rao2022DEADly). Despite these findings, specific physical interactions of DDX55 with other proteins or nucleic acids remain largely uncharacterized, and further research is needed to elucidate its precise functional interactions within the cell (Dupas2021Predicting; Rao2022DEADly).
+
+
+## References
+
+
+[1. (Dupas2021Predicting) Steven J. Dupas, Daniel Gussakovsky, Alvan Wai, Mira J.F. Brown, Georg Hausner, and Sean A. McKenna. Predicting human rna quadruplex helicases through comparative sequence approaches and helicase mrna interactome analyses. Biochemistry and Cell Biology, 99(5):536–553, October 2021. URL: http://dx.doi.org/10.1139/bcb-2020-0590, doi:10.1139/bcb-2020-0590. This article has 1 citations.](https://doi.org/10.1139/bcb-2020-0590)
+
+[2. (Rao2022DEADly) Shringar Rao and Tokameh Mahmoudi. Dead-ly affairs: the roles of dead-box proteins on hiv-1 viral rna metabolism. Frontiers in Cell and Developmental Biology, June 2022. URL: http://dx.doi.org/10.3389/fcell.2022.917599, doi:10.3389/fcell.2022.917599. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2022.917599)

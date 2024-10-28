@@ -1,0 +1,52 @@
+# RNF125
+
+## Overview
+RNF125, also known as ring finger protein 125, is a gene that encodes an E3 ubiquitin ligase involved in various cellular processes, particularly in the regulation of immune responses. The protein encoded by RNF125 is characterized by the presence of a RING domain, which is essential for its ubiquitin ligase activity, facilitating the transfer of ubiquitin to target substrates. This activity is crucial for modulating protein stability and function through the ubiquitin-proteasome system. RNF125 plays a significant role in T cell activation and antiviral signaling by regulating the degradation of key proteins involved in these pathways. It also influences inflammatory responses by modulating the activity of the NLRP3 inflammasome and IL-36 receptor signaling. Alterations in RNF125 expression or function have been implicated in various diseases, including cancer and inflammatory disorders, highlighting its importance in maintaining cellular homeostasis and its potential as a therapeutic target (Saha2017E3; Arimoto2007Negative; Giannini2008Tcell).
+
+## Structure
+RNF125, also known as TRAC-1, is a ubiquitin ligase characterized by several distinct structural domains. The protein contains an N-terminal C3HC4 RING domain, which is crucial for its ubiquitin ligase activity, facilitating the transfer of ubiquitin from an E2 enzyme to a substrate (Bijlmakers2016A; Giannini2008Tcell). RNF125 also includes a C2HC zinc finger (ZnF) domain, which is essential for the interaction with E2 enzymes, particularly UbcH5a, and is critical for the protein's ubiquitin ligase activity (Bijlmakers2016A). The C2HC ZnF adopts a ββα fold, typical for ZnF domains, and is involved in extensive intramolecular interactions with the RING domain, contributing to the structural stability and function of RNF125 (Bijlmakers2016A).
+
+The protein also features two C2H2-type zinc fingers and a ubiquitin-interacting motif (UIM) at the C-terminus, which binds K48-linked poly-ubiquitin chains and is involved in auto-ubiquitination, affecting the protein's stability and turnover (Giannini2008Tcell). RNF125 is associated with membranes through a myristoylation site at the N-terminus, which suggests its ability to shuttle between membrane-bound and soluble forms (Giannini2008Tcell). The presence of these domains and motifs highlights RNF125's role in protein-protein interactions and its regulatory functions in cellular processes.
+
+## Function
+RNF125, also known as ring finger protein 125, is an E3 ubiquitin ligase that plays a significant role in regulating immune responses in human cells. It is involved in the ubiquitination process, which tags proteins for degradation, thereby modulating various signaling pathways. RNF125 is particularly active in the cytoplasm, where it influences cellular processes such as inflammation and apoptosis.
+
+One of the primary functions of RNF125 is its role in T cell activation. It acts as a positive regulator by promoting the synthesis of interleukin-2 (IL-2), a crucial cytokine for T cell proliferation and function. The RING domain of RNF125 is essential for its ubiquitin ligase activity, which is involved in both promoting and inhibiting IL-2 synthesis, suggesting a complex regulatory role in T cell activation (Giannini2008Tcell).
+
+RNF125 also regulates antiviral signaling pathways by targeting proteins such as RIG-I and MAVS for degradation. It ubiquitinates RIG-I, leading to its proteasomal degradation, which negatively regulates RIG-I signaling and controls the production of interferons and other cytokines. This action forms a negative feedback loop crucial for maintaining balance in immune responses (Arimoto2007Negative).
+
+Additionally, RNF125 is involved in the regulation of IL-36 receptor signaling. It ubiquitinates the receptor subunit IL-1Rrp2, affecting its signaling, trafficking, and turnover. This process is essential for maintaining proper signaling and preventing excessive inflammatory responses (Saha2017E3).
+
+## Clinical Significance
+Mutations and alterations in the expression of the RNF125 gene have been linked to several diseases and conditions. In melanoma, reduced RNF125 expression is associated with resistance to BRAF inhibitors, a common treatment for this type of cancer. This resistance is linked to increased STAT3 activation and JAK1 activity, suggesting that RNF125 plays a role in regulating these pathways (Kim2015Downregulation).
+
+In hepatocellular carcinoma (HCC), RNF125 acts as a tumor suppressor. Its expression is significantly downregulated in tumor tissues, correlating with poor patient survival. This downregulation leads to increased cell proliferation and tumor growth, highlighting its potential as a therapeutic target in HCC (Kodama2022Ring).
+
+RNF125 is also implicated in a novel overgrowth syndrome characterized by macrocephaly and inflammatory disease. Mutations in the C2HC zinc finger domain of RNF125, particularly at residues L109, M112, and R113, result in reduced ubiquitin ligase activity, contributing to the syndrome's development (Bijlmakers2016A).
+
+In pancreatic cancer, decreased RNF125 expression is observed in a subset of pancreatic ductal adenocarcinoma cases, where it affects tumor growth and acinar cell maintenance (Hasnis2020Regulation).
+
+## Interactions
+RNF125, also known as ring finger protein 125, is an E3 ubiquitin ligase that participates in various protein interactions crucial for immune signaling regulation. It interacts with the E2 enzyme UbcH8, facilitating the ubiquitination and proteasomal degradation of RIG-I, a pattern recognition receptor involved in antiviral responses. This interaction is mediated through the CARD domain and C-terminal region of RIG-I with the N-terminal region of RNF125 (Arimoto2007Negative). RNF125 also targets MDA5 and IPS-1, proteins related to RIG-I signaling, promoting their degradation and thus acting as a negative regulator of antiviral signaling pathways (Arimoto2007Negative).
+
+RNF125 is involved in the regulation of the NLRP3 inflammasome by inducing K63-linked polyubiquitination within the leucine-rich repeat (LRR) domain of NLRP3. This modification is essential for controlling inflammasome activation. The interaction between RNF125 and NLRP3 was confirmed through co-immunoprecipitation assays, and silencing RNF125 led to increased IL-1β production, indicating its role in limiting inflammasome activation (Tang2020Sequential). RNF125's interaction with the E2 enzyme UbcH5a is facilitated by its C2HC zinc finger (ZnF) domain, which is crucial for its ubiquitin ligase activity (Bijlmakers2016A).
+
+
+## References
+
+
+[1. (Saha2017E3) Siddhartha S. Saha, Gary Caviness, Guanghui Yi, Ernest L. Raymond, M. Lamine Mbow, and C. Cheng Kao. E3 ubiquitin ligase rnf125 activates interleukin-36 receptor signaling and contributes to its turnover. Journal of Innate Immunity, 10(1):56–69, November 2017. URL: http://dx.doi.org/10.1159/000481210, doi:10.1159/000481210. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1159/000481210)
+
+[2. (Kim2015Downregulation) Hyungsoo Kim, Dennie T. Frederick, Mitchell P. Levesque, Zachary A. Cooper, Yongmei Feng, Clemens Krepler, Laurence Brill, Yardena Samuels, Nicholas K. Hayward, Ally Perlina, Adriano Piris, Tongwu Zhang, Ruth Halaban, Meenhard M. Herlyn, Kevin M. Brown, Jennifer A. Wargo, Reinhard Dummer, Keith T. Flaherty, and Ze’ev A. Ronai. Downregulation of the ubiquitin ligase rnf125 underlies resistance of melanoma cells to braf inhibitors via jak1 deregulation. Cell Reports, 11(9):1458–1473, June 2015. URL: http://dx.doi.org/10.1016/j.celrep.2015.04.049, doi:10.1016/j.celrep.2015.04.049. This article has 53 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.celrep.2015.04.049)
+
+[3. (Bijlmakers2016A) Marie-José Bijlmakers, João M. C. Teixeira, Roeland Boer, Maxim Mayzel, Pilar Puig-Sàrries, Göran Karlsson, Miquel Coll, Miquel Pons, and Bernat Crosas. A c2hc zinc finger is essential for the ring-e2 interaction of the ubiquitin ligase rnf125. Scientific Reports, July 2016. URL: http://dx.doi.org/10.1038/srep29232, doi:10.1038/srep29232. This article has 20 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep29232)
+
+[4. (Kodama2022Ring) Takahiro Kodama, Michiko Kodama, Nancy A. Jenkins, Neal G. Copeland, Huanhuan Joyce Chen, and Zhubo Wei. Ring finger protein 125 is an anti-proliferative tumor suppressor in hepatocellular carcinoma. Cancers, 14(11):2589, May 2022. URL: http://dx.doi.org/10.3390/cancers14112589, doi:10.3390/cancers14112589. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers14112589)
+
+5. (Hasnis2020Regulation) Regulation of HDAC2-PDX1 by RNF125 defines pancreatic cancer development. This article has 0 citations.
+
+[6. (Tang2020Sequential) Juan Tang, Sha Tu, Guoxin Lin, Hui Guo, Chengkai Yan, Qingjun Liu, Ling Huang, Na Tang, Yizhi Xiao, R. Marshall Pope, Murugesan V.S. Rajaram, Amal O. Amer, Brian M. Ahmer, John S. Gunn, Daniel J. Wozniak, Lijian Tao, Vincenzo Coppola, Liwen Zhang, Wallace Y. Langdon, Jordi B. Torrelles, Stanley Lipkowitz, and Jian Zhang. Sequential ubiquitination of nlrp3 by rnf125 and cbl-b limits inflammasome activation and endotoxemia. Journal of Experimental Medicine, January 2020. URL: http://dx.doi.org/10.1084/jem.20182091, doi:10.1084/jem.20182091. This article has 115 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1084/jem.20182091)
+
+[7. (Arimoto2007Negative) Kei-ichiro Arimoto, Hitoshi Takahashi, Takayuki Hishiki, Hideyuki Konishi, Takashi Fujita, and Kunitada Shimotohno. Negative regulation of the rig-i signaling by the ubiquitin ligase rnf125. Proceedings of the National Academy of Sciences, 104(18):7500–7505, May 2007. URL: http://dx.doi.org/10.1073/pnas.0611551104, doi:10.1073/pnas.0611551104. This article has 385 citations.](https://doi.org/10.1073/pnas.0611551104)
+
+[8. (Giannini2008Tcell) Ana Lucia Giannini, Yifang Gao, and Marie-José Bijlmakers. T-cell regulator rnf125/trac-1 belongs to a novel family of ubiquitin ligases with zinc fingers and a ubiquitin-binding domain. Biochemical Journal, 410(1):101–111, January 2008. URL: http://dx.doi.org/10.1042/bj20070995, doi:10.1042/bj20070995. This article has 58 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20070995)

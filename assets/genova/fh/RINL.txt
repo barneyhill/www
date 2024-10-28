@@ -1,0 +1,36 @@
+# RINL
+
+## Overview
+RINL, or Ras and Rab interactor-like, is a gene that encodes a protein belonging to the RIN family, which includes RIN1, RIN2, and RIN3. The RINL protein functions as a guanine nucleotide exchange factor (GEF) and is primarily involved in the regulation of small GTPases, particularly those in the Rab5 subfamily, which are essential for membrane trafficking processes such as endocytosis and vesicle trafficking. Structurally, RINL is characterized by the presence of Src homology 2 (SH2), RIN family homology (RH), and VPS9 domains, but it notably lacks the proline-rich (PR) and Ras association (RA) domains found in other RIN family members (Kajiho2012RINL; Sandner2022The). The protein's VPS9 domain is crucial for its GEF activity, facilitating the exchange of GDP for GTP on Rab5 subfamily proteins, thereby activating them (Kajiho2012RINL). RINL also plays a role in receptor trafficking and degradation pathways, notably through its interaction with the protein odin and the EphA8 receptor, as well as in the regulation of T follicular helper (Tfh) cell differentiation by modulating CD28 signaling (Kajiho2012RINL; Sandner2022The).
+
+## Structure
+RINL is a protein that belongs to the RIN family, which includes RIN1, RIN2, and RIN3. It shares structural similarities with these proteins, possessing Src homology 2 (SH2), RIN family homology (RH), and VPS9 domains, but it lacks the proline-rich (PR) and Ras association (RA) domains found in other family members (Kajiho2012RINL; Sandner2022The). The absence of the PR domain in RINL distinguishes it from RIN2 and RIN3, which interact with amphiphysin II through this domain (Kajiho2012RINL).
+
+The VPS9 domain is critical for RINL's function as a guanine nucleotide exchange factor (GEF) for Rab5 and Rab22 GTPases, facilitating nucleotide exchange on these proteins (Kajiho2012RINL). RINL's molecular weight is approximately 72,000, but it elutes as a 200-kDa protein, indicating its multimeric nature, possibly forming complexes with other proteins rather than tetramers like RIN2 and RIN3 (Kajiho2012RINL).
+
+RINL interacts with proteins containing ankyrin-repeat and sterile-alpha motif (SAM) domains, such as odin, which is involved in the degradation of the EphA8 receptor (Kajiho2012RINL). The SH2 domain of RINL mediates this interaction, which is independent of odin's phosphorylation state (Kajiho2012RINL).
+
+## Function
+RINL (Ras and Rab interactor-like) is a guanine nucleotide exchange factor (GEF) that primarily functions in the regulation of small GTPases, particularly those in the Rab5 subfamily. These GTPases are crucial for membrane trafficking processes, including endocytosis and vesicle trafficking. RINL contains a conserved VPS9 domain essential for its GEF activity, which facilitates the exchange of GDP for GTP on Rab5 subfamily proteins, thereby activating them (Kajiho2012RINL).
+
+In cellular processes, RINL interacts with the protein odin to form a ternary complex with the EphA8 receptor, promoting its degradation via the lysosomal pathway. This interaction is mediated by the PTB domain of odin and the SH2 domain of RINL, and it is independent of odin's phosphorylation state. The degradation of EphA8 is dependent on RINL's GEF activity, highlighting its role in receptor trafficking and degradation pathways (Kajiho2012RINL).
+
+RINL is also involved in the regulation of T follicular helper (Tfh) cell differentiation by modulating CD28 signaling. It acts as a negative regulator of Tfh cell generation, influencing CD28 internalization and downstream signaling pathways, which are crucial for Tfh differentiation and the humoral immune response (Sandner2022The).
+
+## Clinical Significance
+
+
+## Interactions
+RINL, a guanine nucleotide exchange factor (GEF) for the Rab5 subfamily, interacts with several proteins, notably odin (Anks1a) and EphA8. The interaction with odin was identified using a yeast two-hybrid system and confirmed in mammalian cells through co-immunoprecipitation assays. Odin binds to RINL via its phosphotyrosine-binding (PTB) domain, while the SH2 domain of RINL is necessary for this interaction, which is independent of odin's tyrosine phosphorylation state (Kajiho2012RINL).
+
+RINL forms a ternary complex with odin and the EphA8 receptor, a member of the Eph-receptor family. This complex formation is dependent on odin, and RINL promotes the degradation of EphA8 in a GEF activity-dependent manner through the lysosomal pathway. The interaction between RINL and odin is crucial for this degradation process, as demonstrated by experiments involving RINL mutants and siRNA knockdown of RINL (Kajiho2012RINL).
+
+RINL also interacts with Rab5, Rab21, Rab22, and Rab31, activating these proteins in mammalian cells. This activation is mediated through RINL's VPS9 domain, which is essential for its GEF activity (Kajiho2012RINL).
+
+
+## References
+
+
+[1. (Kajiho2012RINL) Hiroaki Kajiho, Shinichi Fukushima, Kenji Kontani, and Toshiaki Katada. Rinl, guanine nucleotide exchange factor rab5-subfamily, is involved in the epha8-degradation pathway with odin. PLoS ONE, 7(1):e30575, January 2012. URL: http://dx.doi.org/10.1371/journal.pone.0030575, doi:10.1371/journal.pone.0030575. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0030575)
+
+2. (Sandner2022The) The guanine nucleotide exchange factor Rin-like acts as a gatekeeper for T follicular helper cell differentiation via regulating CD28 signaling. This article has 0 citations.

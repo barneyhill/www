@@ -1,0 +1,48 @@
+# HYPK
+
+## Overview
+HYPK (huntingtin interacting protein K) is a gene that encodes a chaperone-like protein involved in maintaining protein homeostasis and cellular health. The protein, also referred to as HYPK, is characterized by its interaction with the NatA complex, which is responsible for cotranslational N-terminal acetylation, a critical process for protein stability and function. HYPK plays a significant role in preventing the aggregation of proteins, such as huntingtin, which is associated with Huntington's disease, by enhancing the acetylation of NatA substrates (Arnesen2010The). Additionally, HYPK is involved in autophagy, particularly in the degradation of protein aggregates through aggrephagy, acting as a scaffold for Nedd8 and LC3 proteins (Ghosh2019HYPK). The protein's structural features, including its intrinsically disordered N-terminal region and aggregation-prone C-terminal region, are crucial for its function and interactions (Ghosh2018Disordered). HYPK's activity is essential for cell survival, and its dysregulation is implicated in neurodegenerative diseases, highlighting its clinical significance (Choudhury2012Identification).
+
+## Structure
+HYPK (huntingtin interacting protein K) is characterized by distinct structural regions that influence its function and interaction with other proteins. The primary structure of HYPK includes a C-terminal region that is prone to aggregation, forming both annular and amorphous aggregates. Specifically, the C-terminal 45-residue region (HYPK-C45) forms annular oligomers, while the C-terminal 69-residue region (HYPK-C69) leads to amorphous aggregates (Ghosh2018Disordered). The secondary structure of the C-terminal region is predominantly α-helical, contributing to its aggregation propensity (Ghosh2018Disordered).
+
+The N-terminal region of HYPK is intrinsically disordered and acts as a stabilizing switch to prevent aggregation. This region contains a negative charge-rich patch that interacts with the C-terminal low-complexity region, preventing partial unfolding to a molten globule state (Ghosh2018Disordered). The N-terminal region is crucial for maintaining the protein's stability and preventing self-association (Ghosh2018Disordered).
+
+HYPK forms a stable complex with the NatA complex, involving the C-terminal region of HYPK in high-affinity interactions with the C-terminal part of Naa15, a component of NatA. This interaction is characterized by a network of hydrophobic and electrostatic interactions (Weyer2017Structural). The N-terminal region of HYPK modulates the catalytic activity of NatA by blocking the peptide entry site of Naa10 (Weyer2017Structural).
+
+## Function
+HYPK (huntingtin interacting protein K) functions as a chaperone-like protein in human cells, playing a crucial role in protein homeostasis and cellular health. It interacts with the NatA complex, which is responsible for cotranslational N-terminal acetylation of proteins, a process essential for protein stability and function. HYPK specifically binds to the hNaa15p subunit of the NatA complex, enhancing the acetylation of NatA substrates and preventing the aggregation of proteins such as huntingtin, which is associated with Huntington's disease (Arnesen2010The).
+
+HYPK also plays a significant role in autophagy, particularly in the degradation of protein aggregates through a process known as aggrephagy. It acts as a scaffold for Nedd8 and LC3 proteins, facilitating the formation of autophagosomes around polyneddylated protein aggregates. This function is crucial for the clearance of misfolded or aggregation-prone proteins, thereby maintaining cellular proteostasis and preventing cytotoxicity (Ghosh2019HYPK).
+
+In healthy cells, HYPK is primarily localized in the cytoplasm and associated with ribosomes, indicating its involvement in protein translation and stability. Its activity is essential for cell survival, as its knockdown leads to apoptosis and cell cycle arrest (Arnesen2010The).
+
+## Clinical Significance
+Alterations in the expression or function of the HYPK gene have been implicated in several neurodegenerative diseases, particularly Huntington's disease (HD). HYPK interacts with huntingtin (HTT), the protein mutated in HD, and plays a role in preventing the aggregation of mutant HTT proteins. Knockdown of HYPK increases the aggregation of HTT with expanded polyglutamine stretches, which is a hallmark of HD pathology (Arnesen2010The; Choudhury2012Identification). Reduced expression of HYPK in neuronal cells leads to increased cytotoxicity and altered cell cycle phases, contributing to the pathogenesis of HD (Choudhury2012Identification).
+
+HYPK is also involved in the process of aggrephagy, where it facilitates the formation of autophagosomes around polyneddylated huntingtin aggregates, aiding in their degradation. This function is crucial for managing proteotoxic stress and maintaining cellular proteostasis, which is often disrupted in neurodegenerative disorders (Ghosh2019HYPK).
+
+The gene's role in N-terminal acetylation, particularly in conjunction with the NatA complex, is essential for preventing protein aggregation. Disruption of this process due to HYPK knockdown can lead to increased aggregation of proteins like HTT, further linking HYPK to neurodegenerative disease mechanisms (Arnesen2010The).
+
+## Interactions
+HYPK (huntingtin interacting protein K) is involved in several protein-protein interactions, particularly in the context of autophagy and N-terminal acetylation. HYPK acts as a scaffold for Nedd8 and LC3 proteins, facilitating the formation of autophagosomes around polyneddylated huntingtin exon1 aggregates. The interaction between HYPK and Nedd8 is mediated by the HYPK-UBA domain, which contains conserved residues necessary for binding. HYPK also interacts with LC3 proteins through an atypical LC3-interacting region (LIR), allowing it to bind to LC3B and GABARAP subfamily proteins (Ghosh2019HYPK).
+
+HYPK interacts with the NatA complex, which is responsible for cotranslational N-terminal acetylation. It binds to the C-terminal region of the Naa15 subunit through its THB domain, forming a stable heterotrimeric complex with NatA. This interaction involves hydrogen bonds, salt bridges, and a hydrophobic interface. HYPK also modulates the activity of the NatA complex by binding near the Naa10 active site, blocking substrate access and regulating acetylation activity (Deng2020Molecular; Weyer2017Structural).
+
+HYPK's interaction with the NatA complex is crucial for its stability and function in preventing protein aggregation, particularly in the context of Huntington's disease (Arnesen2010The).
+
+
+## References
+
+
+[1. (Deng2020Molecular) Sunbin Deng, Nina McTiernan, Xuepeng Wei, Thomas Arnesen, and Ronen Marmorstein. Molecular basis for n-terminal acetylation by human nate and its modulation by hypk. Nature Communications, February 2020. URL: http://dx.doi.org/10.1038/s41467-020-14584-7, doi:10.1038/s41467-020-14584-7. This article has 32 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-020-14584-7)
+
+[2. (Weyer2017Structural) Felix Alexander Weyer, Andrea Gumiero, Karine Lapouge, Gert Bange, Jürgen Kopp, and Irmgard Sinning. Structural basis of hypk regulating n-terminal acetylation by the nata complex. Nature Communications, June 2017. URL: http://dx.doi.org/10.1038/ncomms15726, doi:10.1038/ncomms15726. This article has 49 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms15726)
+
+3. (Ghosh2019HYPK) HYPK scaffolds the Nedd8 and LC3 proteins to initiate formation of autophagosome around polyneddylated huntingtin exon1 aggregates. This article has 3 citations.
+
+[4. (Arnesen2010The) Thomas Arnesen, Kristian K. Starheim, Petra Van Damme, Rune Evjenth, Huyen Dinh, Matthew J. Betts, Anita Ryningen, Joël Vandekerckhove, Kris Gevaert, and Dave Anderson. The chaperone-like protein hypk acts together with nata in cotranslational n-terminal acetylation and prevention of huntingtin aggregation. Molecular and Cellular Biology, 30(8):1898–1909, April 2010. URL: http://dx.doi.org/10.1128/mcb.01199-09, doi:10.1128/mcb.01199-09. This article has 119 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.01199-09)
+
+[5. (Ghosh2018Disordered) Debasish Kumar Ghosh, Ajit Roy, and Akash Ranjan. Disordered nanostructure in huntingtin interacting protein k acts as a stabilizing switch to prevent protein aggregation. Biochemistry, 57(13):2009–2023, January 2018. URL: http://dx.doi.org/10.1021/acs.biochem.7b00776, doi:10.1021/acs.biochem.7b00776. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1021/acs.biochem.7b00776)
+
+[6. (Choudhury2012Identification) Kamalika Roy Choudhury, Swasti Raychaudhuri, and Nitai P. Bhattacharyya. Identification of hypk-interacting proteins reveals involvement of hypk in regulating cell growth, cell cycle, unfolded protein response and cell death. PLoS ONE, 7(12):e51415, December 2012. URL: http://dx.doi.org/10.1371/journal.pone.0051415, doi:10.1371/journal.pone.0051415. This article has 29 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0051415)

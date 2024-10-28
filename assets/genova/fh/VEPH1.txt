@@ -1,0 +1,48 @@
+# VEPH1
+
+## Overview
+VEPH1 is a gene that encodes the protein ventricular zone expressed PH domain containing 1, which functions as an adaptor protein involved in various cellular signaling pathways. The VEPH1 protein is characterized by its pleckstrin homology (PH) domain, which facilitates interactions with phosphoinositides and proteins, playing a crucial role in cellular signaling processes (Brown2019Ventricular). Additionally, the protein contains an armadillo-type fold domain, which is involved in binding large proteins and nucleic acids, further supporting its role as a docking protein in modulating signaling pathways such as TGF-β, mTOR, and AKT (Brown2019Ventricular). VEPH1 is expressed in a tissue-specific manner, with notable expression in the brain and endocrine glands, and is implicated in processes such as neuronal differentiation and cancer progression (Shathasivam2015Human; Brown2019Ventricular). Its interactions with various receptors and signaling molecules underscore its significance in maintaining cellular homeostasis and responding to metabolic signals (Brown2019Ventricular).
+
+## Structure
+The VEPH1 protein is an 833-amino acid protein encoded by a single-copy gene located on the minus strand of chromosome 3 at q25.31-q25.32 in humans (Brown2019Ventricular). The protein features a C-terminal pleckstrin homology (PH) domain, spanning amino acids 716-824, which is involved in binding phosphoinositides and proteins, facilitating its role in cellular signaling (Kollara2020Increased; Brown2019Ventricular). The N-terminal region contains a predicted armadillo-type fold domain within the first 320 amino acids, which is capable of binding large proteins and nucleic acids (Kollara2020Increased; Brown2019Ventricular).
+
+VEPH1 also contains multiple motifs, including 14-3-3 interacting motifs, Forkhead association motifs, SH2 binding motifs, and LxxLL nuclear receptor binding motifs, which are characteristic of adaptor proteins (Brown2019Ventricular). These motifs are involved in interactions with steroid hormone receptors and other proteins (Kollara2020Increased). The protein is highly conserved across species, with similarities to the Drosophila ortholog, melted, which also contains a predicted N-terminal armadillo-like fold and a C-terminal PH domain (Brown2019Ventricular).
+
+Phosphosite prediction modeling indicates 14 potential phosphorylation sites within VEPH1, suggesting regulation by kinases such as GSK3, CK1, LATS, NEK1, PLK, PKA, and p38 MAPK (Brown2019Ventricular). Three splice variants of the primary transcript have been reported, although specific details on these variants are limited (Brown2019Ventricular).
+
+## Function
+The VEPH1 gene encodes an adaptor protein involved in modulating multiple signaling pathways, including TGF-β, mTOR, FOXO, Hippo, and AKT pathways, which are crucial for various cellular processes (Brown2019Ventricular). VEPH1 contains a pleckstrin homology (PH) domain that facilitates its role in membrane-associated processes by recruiting molecules to the cell membrane and binding large proteins and nucleic acids (Brown2019Ventricular). This suggests that VEPH1 functions as a docking protein, influencing cell signaling by altering the localization and interactions of diverse molecules.
+
+In healthy human cells, VEPH1 is expressed in a tissue-restricted manner, with high levels in the brain, particularly the cerebral cortex, and significant expression in the pituitary and adrenal glands (Brown2019Ventricular). It plays a role in neuronal cell differentiation, as evidenced by increased expression during retinoic acid-induced differentiation of NT2 teratocarcinoma cells into neurons (Brown2019Ventricular). VEPH1 also modulates TGF-β signaling by interacting with the TGF-β receptor I (TβRI), inhibiting SMAD2 and SMAD3-dependent transcriptional responses, which impacts cell growth, differentiation, and apoptosis (Shathasivam2015Human). This regulatory function is crucial for maintaining cellular homeostasis and responding to metabolic signals (Brown2019Ventricular).
+
+## Clinical Significance
+VEPH1 is implicated in various cancers due to its altered expression and interactions. In hepatocellular carcinoma (HCC), VEPH1 acts as a tumor suppressor. Its loss is associated with poor prognosis, larger tumor size, and advanced stages. VEPH1 deficiency leads to the activation of mTORC1 signaling, promoting tumor growth and metastasis. The let-7d microRNA is known to downregulate VEPH1, contributing to its decreased expression in HCC (Dong2020Dampened).
+
+In ovarian cancer, VEPH1 expression is linked to reduced tumor progression. It decreases vascularization by inhibiting VEGFA and IL8 expression through the suppression of AKT activation. This effect is observed in SKOV3 cells but not in ES-2 cells, which have a BRAF V600E mutation (Shathasivam2017VEPH1).
+
+VEPH1 expression is also altered in other cancers, such as osteosarcoma, prostate cancer, and colorectal cancer, where it may influence cell proliferation, invasion, and metastasis. In prostate cancer, VEPH1 is upregulated by OVO1/OVO2, potentially affecting metastasis (Brown2019Ventricular).
+
+In adrenocortical carcinoma, decreased VEPH1 expression correlates with more aggressive tumors and poorer survival outcomes (Brown2019Ventricular). These findings suggest that VEPH1 plays a significant role in cancer development and progression.
+
+## Interactions
+VEPH1 is known to interact with several proteins, influencing various signaling pathways. It interacts with the androgen receptor (AR) in ovarian cancer cells, enhancing AR transcriptional activity. This interaction is mediated by the armadillo repeat domain of VEPH1, which contains LxxLL motifs crucial for binding. Mutations in these motifs can alter the interaction strength (Kollara2020Increased).
+
+VEPH1 also interacts with the TGF-β receptor I (TβRI), inhibiting SMAD2/3-dependent TGF-β signaling by retaining SMAD2 at the receptor, preventing its nuclear accumulation. This interaction is significant in modulating TGF-β signaling, which plays a dual role in cancer progression (Shathasivam2015Human).
+
+In hepatocellular carcinoma, VEPH1 forms a trimeric complex with TSC1 and TSC2 proteins, enhancing their GAP activity and inhibiting mTORC1 signaling. This interaction is crucial for its tumor-suppressive effects, as it stabilizes the TSC1/TSC2 complex, promoting Rheb-GTP hydrolysis (Dong2020Dampened).
+
+These interactions highlight VEPH1's role as an adaptor protein, modulating multiple signaling pathways and influencing cellular processes in various cancer types.
+
+
+## References
+
+
+[1. (Dong2020Dampened) Pingping Dong, Xiaoxiao Wang, Longzi Liu, Wenqing Tang, Lijie Ma, Wenjiao Zeng, Shaoyang Sun, Li Zhang, Ningping Zhang, Xizhong Shen, Harry L.A. Janssen, Ling Dong, Si Zhang, and She Chen. Dampened veph1 activates mtorc1 signaling by weakening the tsc1/tsc2 association in hepatocellular carcinoma. Journal of Hepatology, 73(6):1446–1459, December 2020. URL: http://dx.doi.org/10.1016/j.jhep.2020.06.027, doi:10.1016/j.jhep.2020.06.027. This article has 30 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.jhep.2020.06.027)
+
+[2. (Shathasivam2015Human) Premalatha Shathasivam, Alexandra Kollara, Maurice J. Ringuette, Carl Virtanen, Jeffrey L. Wrana, and Theodore J. Brown. Human ortholog of drosophila melted impedes smad2 release from tgf-β receptor i to inhibit tgf-β signaling. Proceedings of the National Academy of Sciences, May 2015. URL: http://dx.doi.org/10.1073/pnas.1504671112, doi:10.1073/pnas.1504671112. This article has 20 citations.](https://doi.org/10.1073/pnas.1504671112)
+
+[3. (Kollara2020Increased) Alexandra Kollara, Premalatha Shathasivam, Soyeon Park, Maurice J. Ringuette, and Theodore J. Brown. Increased androgen receptor levels and signaling in ovarian cancer cells by veph1 associated with suppression of smad3 and akt activation. The Journal of Steroid Biochemistry and Molecular Biology, 196:105498, February 2020. URL: http://dx.doi.org/10.1016/j.jsbmb.2019.105498, doi:10.1016/j.jsbmb.2019.105498. This article has 10 citations.](https://doi.org/10.1016/j.jsbmb.2019.105498)
+
+[4. (Shathasivam2017VEPH1) Premalatha Shathasivam, Alexandra Kollara, Thomasina Spybey, Soyeon Park, Blaise Clarke, Maurice J Ringuette, and Theodore J Brown. Veph1 expression decreases vascularisation in ovarian cancer xenografts and inhibits vegfa and il8 expression through inhibition of akt activation. British Journal of Cancer, 116(8):1065–1076, March 2017. URL: http://dx.doi.org/10.1038/bjc.2017.51, doi:10.1038/bjc.2017.51. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/bjc.2017.51)
+
+[5. (Brown2019Ventricular) Theodore J. Brown, Alexandra Kollara, Premalatha Shathasivam, and Maurice J. Ringuette. Ventricular zone expressed ph domain containing 1 (veph1): an adaptor protein capable of modulating multiple signaling transduction pathways during normal and pathological development. Cell Communication and Signaling, September 2019. URL: http://dx.doi.org/10.1186/s12964-019-0433-4, doi:10.1186/s12964-019-0433-4. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12964-019-0433-4)

@@ -1,0 +1,46 @@
+# ACVR1B
+
+## Overview
+ACVR1B is a gene that encodes the activin A receptor type 1B, a receptor serine/threonine kinase that plays a crucial role in the transforming growth factor-beta (TGF-beta) signaling pathway. This protein is integral to various cellular processes, including muscle development, differentiation, and maintenance, by mediating signals from activin ligands. Structurally, the activin A receptor type 1B comprises an extracellular ligand-binding domain, a transmembrane domain, and an intracellular kinase domain, which collectively facilitate its function as a type I receptor in the activin receptor complex (Windelinckx2010Comprehensive; Farmer2020Computational). The receptor's ability to form heteromeric complexes with type II receptors is essential for the propagation of signals that regulate muscle mass and strength, as well as other cellular growth and differentiation processes (Aykul2019The). Alterations in the ACVR1B gene have been linked to various pathological conditions, including cancer, where its deletion can lead to increased tumorigenicity (Togashi2014Homozygous).
+
+## Structure
+The ACVR1B protein, also known as activin A receptor type 1B, is a receptor serine/threonine kinase involved in the TGF-beta signaling pathway. Structurally, it consists of an extracellular ligand-binding domain, a transmembrane domain, and an intracellular kinase domain. The extracellular domain includes a pre-helix extension, spanning residues 77-82 ('PAGKPF'), which is crucial for its recruitment to signaling complexes (Farmer2020Computational). The kinase domain of ACVR1B shares high sequence identity with the TGFbR1 kinase domain, allowing for structural modeling using TGFbR1 as a template (Farmer2020Computational).
+
+ACVR1B can form heteromeric complexes with other receptors, contributing to its quaternary structure. This structural flexibility allows it to interact with various ligands, such as Activin A, in a manner similar to TGFb, stabilized by additional hydrophobic residues (Farmer2020Computational). The protein's ability to form dimers is stabilized by cystine knots, a conserved structural feature across Activin isoforms (Farmer2020Computational).
+
+Post-translational modifications, such as phosphorylation, are common in ACVR1B, influencing its signaling capabilities. The structural analysis of ACVR1B provides insights into its role in receptor-ligand interactions and potential therapeutic targets in cancer treatment (Farmer2020Computational).
+
+## Function
+The ACVR1B gene encodes a protein that is a critical component of the activin receptor complex, which is part of the TGF-beta superfamily signaling pathways. This protein functions as a type I receptor, playing a pivotal role in signal specificity and propagation beyond the plasma membrane. It is recruited to form a heteromeric receptor complex after the binding of myostatin to the primary type II receptor, ACVR2B, which is essential for transducing signals that regulate muscle mass and strength (Windelinckx2010Comprehensive).
+
+In healthy human cells, ACVR1B is involved in the regulation of muscle mass and strength through its participation in the TGF-beta signaling pathway. This pathway is crucial for muscle development and function, as it regulates the signaling of myostatin, a negative regulator of skeletal muscle mass (Windelinckx2010Comprehensive). The receptor's activity influences muscle differentiation and maintenance, potentially impacting muscle strength by affecting miRNA binding sites that regulate gene expression (Windelinckx2010Comprehensive).
+
+ACVR1B is also implicated in muscle hypertrophy and regeneration. Inhibition of TGF-beta signaling, including through ACVR1B, can lead to increased muscle force and endurance, suggesting its potential as a therapeutic target for muscle wasting disorders (Shi2023Skeletal).
+
+## Clinical Significance
+Alterations in the ACVR1B gene are associated with an aggressive cancer phenotype in pancreatic cancer. The homozygous deletion of ACVR1B has been identified in pancreatic cancer cell lines and clinical samples, leading to increased tumorigenicity and cellular growth. This deletion results in the loss of the tumor-suppressive effects of the activin signal, which normally inhibits cellular growth and induces cell cycle arrest through the SMAD pathway and p21 expression. In ACVR1B-knockdown cell lines, activin A does not inhibit growth, indicating that the deletion contributes to tumorigenicity (Togashi2014Homozygous).
+
+The deletion of ACVR1B is often accompanied by the inactivation of the SMAD4 gene, further contributing to the aggressive cancer phenotype. In vivo studies have shown that ACVR1B-knockdown cell lines exhibit significantly elevated tumorigenesis and tumor growth, with downregulated p21 expression and elevated Ki67 expression, indicating increased proliferation. Overexpression of p21 in a cell line with a homozygous deletion of ACVR1B can suppress cellular growth, colony formation, and tumorigenicity, suggesting that p21 can reverse the aggressive phenotype associated with ACVR1B deletion (Togashi2014Homozygous).
+
+## Interactions
+ACVR1B, also known as activin A receptor type 1B, is a serine/threonine kinase receptor that participates in various protein interactions crucial for its role in the TGF-beta signaling pathway. It primarily interacts with activin ligands to form heterotetrameric complexes with type II receptors such as ACVR2A, ACVR2B, and BMPR2, facilitating the activation of Smad2/3 signaling pathways (Aykul2019The). These interactions are essential for propagating cellular signals that regulate processes like cell growth and differentiation.
+
+ACVR1B is also involved in forming non-signaling complexes (NSCs) with ACVR1 and type II receptors, which play a role in modulating BMP signaling. This interaction is significant in conditions such as Fibrodysplasia Ossificans Progressiva (FOP), where the NSC helps temper the disease's severity by sequestering Activin A and type II receptors, making them unavailable for BMP engagement (Aykul2019The).
+
+In the context of muscle differentiation, ACVR1B interacts with proteins such as MyoG and MHC, indicating its role in muscle cell proliferation and differentiation. The knockdown of ACVR1B leads to increased expression of myogenesis marker genes, highlighting its inhibitory role in myogenic differentiation (Hu2019BtamiR243p).
+
+
+## References
+
+
+[1. (Hu2019BtamiR243p) Xin Hu, Yishen Xing, Ling Ren, Yahui Wang, Qian Li, Xing Fu, Qiyuan Yang, Lingyang Xu, Luc Willems, Junya Li, and Lupei Zhang. Bta-mir-24-3p controls the myogenic differentiation and proliferation of fetal bovine skeletal muscle-derived progenitor cells by targeting acvr1b. Animals, 9(11):859, October 2019. URL: http://dx.doi.org/10.3390/ani9110859, doi:10.3390/ani9110859. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ani9110859)
+
+[2. (Windelinckx2010Comprehensive) An Windelinckx, Gunther De Mars, Wim Huygens, Maarten W Peeters, Barbara Vincent, Cisca Wijmenga, Diether Lambrechts, Christophe Delecluse, Stephen M Roth, E Jeffrey Metter, Luigi Ferrucci, Jeroen Aerssens, Robert Vlietinck, Gaston P Beunen, and Martine A Thomis. Comprehensive fine mapping of chr12q12-14 and follow-up replication identify activin receptor 1b (acvr1b) as a muscle strength gene. European Journal of Human Genetics, 19(2):208–215, November 2010. URL: http://dx.doi.org/10.1038/ejhg.2010.173, doi:10.1038/ejhg.2010.173. This article has 34 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/ejhg.2010.173)
+
+[3. (Farmer2020Computational) Stephen M. Farmer and Claudia D. Andl. Computational modeling of transforming growth factor β and activin a receptor complex formation in the context of promiscuous signaling regulation. Journal of Biomolecular Structure and Dynamics, 39(14):5166–5181, June 2020. URL: http://dx.doi.org/10.1080/07391102.2020.1785330, doi:10.1080/07391102.2020.1785330. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/07391102.2020.1785330)
+
+4. (Aykul2019The) The finger 2 tip loop of Activin A is required for the formation of its non-signaling complex with ACVR1 and type II Bone Morphogenetic Protein receptors. This article has 1 citations.
+
+[5. (Togashi2014Homozygous) Yosuke Togashi, Hiroki Sakamoto, Hidetoshi Hayashi, Masato Terashima, Marco A de Velasco, Yoshihiko Fujita, Yasuo Kodera, Kazuko Sakai, Shuta Tomida, Masayuki Kitano, Akihiko Ito, Masatoshi Kudo, and Kazuto Nishio. Homozygous deletion of the activin a receptor, type ib gene is associated with an aggressive cancer phenotype in pancreatic cancer. Molecular Cancer, May 2014. URL: http://dx.doi.org/10.1186/1476-4598-13-126, doi:10.1186/1476-4598-13-126. This article has 31 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1186/1476-4598-13-126)
+
+6. (Shi2023Skeletal) Skeletal Muscle Phenotype-Specific Effects of ACVR1B and TGFBR1 Receptor Signalling on Muscle Transcriptome, Force generation and Metabolism. This article has 0 citations.

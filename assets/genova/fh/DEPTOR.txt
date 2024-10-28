@@ -1,0 +1,48 @@
+# DEPTOR
+
+## Overview
+DEPTOR is a gene that encodes the DEP domain containing MTOR interacting protein, a critical component in the regulation of the mechanistic target of rapamycin (mTOR) signaling pathway. This protein functions primarily as an inhibitor of mTOR complexes, mTORC1 and mTORC2, which are central to controlling cell growth, proliferation, and survival. DEPTOR is characterized by its structural domains, including two tandem DEP domains and a PDZ domain, which facilitate its interaction with mTOR and other cellular components. Through these interactions, DEPTOR modulates various cellular processes such as autophagy, metabolism, and protein synthesis. Its expression and activity are tightly regulated, often acting as a tumor suppressor by inhibiting mTOR activity, which is frequently dysregulated in cancer. DEPTOR's role extends to various physiological and pathological contexts, including skeletal development and acute kidney injury, highlighting its significance in both health and disease (PerezTejeiro2021DEPTOR; Peterson2009DEPTOR; Cui2020DEPTOR).
+
+## Structure
+DEPTOR, encoded by the DEPTOR gene, is a protein that interacts with the mTOR signaling pathway. It consists of 409 amino acids and features three highly conserved domains: two tandem DEP (Dishevelled, Egl-10, Pleckstrin) domains at the N-terminal region and a PDZ (Postsynaptic density 95, Discs large, Zonula occludens-1) domain at the C-terminal region (Weng2021Structural; Catena2017Deptor:). The tandem DEP domains form a dumbbell-shaped structure with characteristic β-hairpin arms, which are crucial for binding to phosphatidic acid (PA) and other anionic lipids (Weng2021Structural). The DEPTOR-DEP1 domain has a positively charged β-hairpin arm, while the DEPTOR-DEP2 domain contains a unique negatively charged β-hairpin arm and a positively charged patch (Weng2021Structural).
+
+The PDZ domain of DEPTOR interacts with the FAT domain of mTOR, inhibiting its kinase activity (Weng2021Structural). DEPTOR also contains a DDEX motif at the end of DEP2, which stabilizes the structure through interactions with DEP1 (Weng2021Structural). DEPTOR is subject to post-translational modifications, including phosphorylation, which regulates its degradation and function (Catena2017Deptor:). At least two isoforms of DEPTOR exist, with isoform 2 lacking two in-frame exons, resulting in a shorter transcript of 308 amino acids (Catena2017Deptor:).
+
+## Function
+DEPTOR (DEP domain containing MTOR interacting protein) functions as a natural inhibitor of the mTOR (mechanistic target of rapamycin) pathway, which is a central regulator of cell growth, proliferation, and survival. DEPTOR inhibits the kinase activity of both mTOR complexes, mTORC1 and mTORC2, by directly binding to mTOR, thereby modulating processes such as autophagy, metabolism, and protein synthesis (Peterson2009DEPTOR; Cui2020DEPTOR). In healthy human cells, DEPTOR acts as a tumor suppressor by inhibiting mTOR, which in turn suppresses cell growth and survival through the inactivation of AKT signaling (Cui2020DEPTOR). This inhibition is crucial because mTOR signaling is often activated in many human cancers.
+
+DEPTOR expression is regulated by the tumor suppressor p53, which directly binds to the DEPTOR promoter to activate its transcription. This regulation serves as a negative feedback mechanism to suppress mTOR activity, preventing cell overgrowth and inhibiting cell proliferation (Cui2020DEPTOR). DEPTOR's expression is highly cell-specific and context-dependent, suggesting that its transcriptional regulation contributes to its complex roles in cellular processes (Cui2020DEPTOR). DEPTOR is primarily active in the cytoplasm, where it influences cellular responses to nutrients and growth factors (Peterson2009DEPTOR).
+
+## Clinical Significance
+DEPTOR, a protein that interacts with the mTOR pathway, plays a significant role in various diseases due to its altered expression or interactions. In multiple myeloma (MM), DEPTOR is frequently overexpressed, which is crucial for the survival of MM cells. This overexpression activates the PI3K/Akt signaling pathway, promoting cell survival and correlating with poor patient outcomes (Peterson2009DEPTOR). DEPTOR's role in MM involves inhibiting mTORC1, which relieves mTORC1-mediated inhibition of PI3K, thereby activating PI3K and mTORC2-dependent outputs like Akt (Peterson2009DEPTOR).
+
+In skeletal development, DEPTOR is implicated in disorders such as spondyloepimethapyseal dysplasia and Jansen metaphyseal chondrodysplasia (JMC). Aberrant DEPTOR levels lead to growth plate disorganization and reduced hypertrophic chondrocytes in JMC (PerezTejeiro2021DEPTOR). DEPTOR is also linked to osteoporosis, as elevated levels were observed in an ovariectomized mouse model, suggesting a potential role in bone resorption (PerezTejeiro2021DEPTOR).
+
+In the context of acute kidney injury (AKI), DEPTOR expression increases following cisplatin treatment, correlating with cell apoptosis. DEPTOR deficiency in proximal tubule cells protects against cisplatin-induced AKI by inhibiting p38 MAPK signaling and TNFα production, indicating an mTOR-independent mechanism (Wang2018Loss).
+
+## Interactions
+DEPTOR is a protein that interacts with the mechanistic target of rapamycin (mTOR) complexes, specifically mTORC1 and mTORC2, acting as an inhibitor. It binds to mTOR through its PDZ domain, which is crucial for its inhibitory function. DEPTOR's interaction with mTOR does not involve mLST8/GbL, indicating a specific binding affinity to mTOR itself (Peterson2009DEPTOR).
+
+DEPTOR also interacts with glycine N-methyltransferase (GNMT) in hepatocellular carcinoma, where the C-terminal half of GNMT binds to the PDZ domain of DEPTOR. This interaction may interfere with DEPTOR's binding to mTOR, as both interactions involve the PDZ domain (Yen2011Functional).
+
+In multiple myeloma cells, DEPTOR is overexpressed and necessary for maintaining PI3K and Akt activation. Its overexpression relieves mTORC1-mediated inhibition of PI3K, leading to activation of mTORC2-dependent outputs like Akt (Peterson2009DEPTOR). DEPTOR's interaction with mTORC1 involves a bipartite binding mechanism, where the PDZ domain binds to the PDZ-binding site on mTORC1, contributing to its inhibitory effect (Heimhalt2021Bipartite).
+
+
+## References
+
+
+1. (Heimhalt2021Bipartite) Bipartite binding and partial inhibition links DEPTOR and mTOR in a mutually antagonistic embrace. This article has 0 citations.
+
+[2. (Cui2020DEPTOR) Danrui Cui, Xiaoqing Dai, Longyuan Gong, Xiaoyu Chen, Linchen Wang, Xiufang Xiong, and Yongchao Zhao. Deptor is a direct p53 target that suppresses cell growth and chemosensitivity. Cell Death &amp; Disease, November 2020. URL: http://dx.doi.org/10.1038/s41419-020-03185-3, doi:10.1038/s41419-020-03185-3. This article has 12 citations.](https://doi.org/10.1038/s41419-020-03185-3)
+
+[3. (Peterson2009DEPTOR) Timothy R. Peterson, Mathieu Laplante, Carson C. Thoreen, Yasemin Sancak, Seong A. Kang, W. Michael Kuehl, Nathanael S. Gray, and David M. Sabatini. Deptor is an mtor inhibitor frequently overexpressed in multiple myeloma cells and required for their survival. Cell, 137(5):873–886, May 2009. URL: http://dx.doi.org/10.1016/j.cell.2009.03.046, doi:10.1016/j.cell.2009.03.046. This article has 942 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2009.03.046)
+
+[4. (Yen2011Functional) Chia-Hung Yen, Yao-Cheng Lu, Chung-Hsien Li, Cheng-Ming Lee, Chia-Yen Chen, Ming-Yuan Cheng, Shiu-Feng Huang, Kuen-Feng Chen, Ann-Lii Cheng, Li-Ying Liao, Yan-Hwa Wu Lee, and Yi-Ming Arthur Chen. Functional characterization of glycine n-methyltransferase and its interactive protein depdc6/deptor in hepatocellular carcinoma. Molecular Medicine, 18(2):286–296, December 2011. URL: http://dx.doi.org/10.2119/molmed.2011.00331, doi:10.2119/molmed.2011.00331. This article has 46 citations and is from a peer-reviewed journal.](https://doi.org/10.2119/molmed.2011.00331)
+
+[5. (Weng2021Structural) Zhuangfeng Weng, Xinxin Shen, Jiefu Zheng, Huanhuan Liang, and Yingfang Liu. Structural basis of deptor to recognize phosphatidic acid using its tandem dep domains. Journal of Molecular Biology, 433(13):166989, June 2021. URL: http://dx.doi.org/10.1016/j.jmb.2021.166989, doi:10.1016/j.jmb.2021.166989. This article has 10 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2021.166989)
+
+[6. (PerezTejeiro2021DEPTOR) Jose Miguel Perez-Tejeiro and Fabiana Csukasi. Deptor in skeletal development and diseases. Frontiers in Genetics, May 2021. URL: http://dx.doi.org/10.3389/fgene.2021.667283, doi:10.3389/fgene.2021.667283. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2021.667283)
+
+[7. (Wang2018Loss) Caixia Wang, Huaiqian Dai, Zhi Xiong, Qiancheng Song, Zhipeng Zou, Mangmang Li, Jing Nie, Xiaochun Bai, and Zhenguo Chen. Loss of deptor in renal tubules protects against cisplatin-induced acute kidney injury. Cell Death &amp; Disease, April 2018. URL: http://dx.doi.org/10.1038/s41419-018-0483-3, doi:10.1038/s41419-018-0483-3. This article has 13 citations.](https://doi.org/10.1038/s41419-018-0483-3)
+
+[8. (Catena2017Deptor:) Valeria Catena and Maurizio Fanciulli. Deptor: not only a mtor inhibitor. Journal of Experimental &amp; Clinical Cancer Research, January 2017. URL: http://dx.doi.org/10.1186/s13046-016-0484-y, doi:10.1186/s13046-016-0484-y. This article has 60 citations.](https://doi.org/10.1186/s13046-016-0484-y)

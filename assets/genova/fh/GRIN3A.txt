@@ -1,0 +1,46 @@
+# GRIN3A
+
+## Overview
+The GRIN3A gene encodes the glutamate ionotropic receptor NMDA type subunit 3A (GluN3A), a component of the NMDA receptor complex, which is a critical transmembrane receptor involved in synaptic transmission and plasticity in the central nervous system. The NMDA receptor is a heterotetrameric ion channel that typically consists of two GluN1 subunits and two GluN2 or GluN3 subunits, with GluN3A serving as an inhibitory subunit that modulates receptor activity by reducing calcium permeability and NMDA currents (Zhong2021Pathogenesis). The expression of GluN3A is developmentally regulated, with high levels during early neural development and reduced levels in adulthood, suggesting its role in synaptic maturation and stabilization (Liu2024Structural). The protein's interactions with other cellular components, such as GIT1 and MEF2C, further underscore its involvement in synaptic signaling and memory processes (Chen2020The; CondeDusman2021Control). Alterations in the GRIN3A gene have been linked to various neurological and psychiatric conditions, highlighting its clinical significance (Krebs2013S.24.01; Chen2019Demonstration).
+
+## Structure
+The GRIN3A gene encodes the GluN3A subunit of NMDA receptors, which are heterotetrameric ion channels composed of two obligatory GluN1 subunits and two alternative GluN2 or GluN3 subunits. The GluN3A subunit consists of 1,115 amino acids and is located on chromosome 9 at 9q34.3 (Liu2024Structural). The protein structure includes several domains: the Amino Terminal Domain (ATD), the Ligand Binding Domain (LBD), and the Transmembrane Domain (TMD) (Liu2024Structural). 
+
+The ATD of GluN3A exhibits a pseudo-four-fold symmetry, differing from the traditional dimer-of-dimer arrangement seen in conventional NMDA receptors (Liu2024Structural). The LBD forms a pseudo-tetrameric structure, with domain swapping that results in A-B and C-D dimers, and is stabilized by hydrogen bonds (Liu2024Structural). The TMD arrangement is similar to that of conventional GluN1-N2 receptors, with specific amino acids forming the narrowest region, the pore-loop (Liu2024Structural).
+
+GluN3A is highly expressed in the early developmental stage and decreases in adulthood, suggesting its role in synaptic maturation and stabilization (Liu2024Structural). The protein's flexibility, particularly in the ATD and TMD regions, poses challenges in structural prediction (Liu2024Structural).
+
+## Function
+The GRIN3A gene encodes the GluN3A subunit of the NMDA receptor, which plays a crucial role in synaptic modulation and plasticity in the brain. In healthy human cells, GluN3A acts as an inhibitory subunit that restrains receptor activity, leading to smaller NMDA currents with reduced calcium (Ca2+) permeability. This regulation is essential for maintaining Ca2+ homeostasis and normal brain function (Zhong2021Pathogenesis). GluN3A is involved in the regulation of protein synthesis and memory through its interaction with GIT1/mTORC1 complexes. It negatively regulates the assembly of these complexes, affecting synaptic mTORC1 activation and mTORC1-dependent translation, which is crucial for long-term memory storage and synaptic plasticity (CondeDusman2021Control).
+
+GluN3A is highly expressed during critical periods of experience-dependent neural circuit refinements and at lower levels in specific adult brain regions. Its presence or absence at postsynaptic sites influences mTORC1 signaling, affecting synaptic translation and memory consolidation (CondeDusman2021Control). The subunit is widely distributed in both fetal and adult brains, indicating its vital regulatory roles in physiology and pathophysiology (Zhong2021Pathogenesis).
+
+## Clinical Significance
+Mutations and alterations in the GRIN3A gene, which encodes a subunit of the NMDA receptor, have been implicated in various neurological and psychiatric conditions. Genetic variations in GRIN3A have been associated with nicotine dependence, as demonstrated by significant associations between specific single nucleotide polymorphisms (SNPs) and nicotine dependence scores in the Chinese Han population (Chen2019Demonstration). The SNP rs1323423, in particular, has been shown to act as an enhancer element, influencing the expression of GRIN3A and potentially affecting nicotine dependence (Chen2019Demonstration).
+
+In the context of psychiatric disorders, rare truncating mutations in GRIN3A have been identified in both patients with schizophrenia and control populations, suggesting a complex relationship between these mutations and disease manifestation (Krebs2013S.24.01). Although GRIN3A mutations have been found in individuals with schizophrenia, the presence of these mutations in healthy controls indicates that they may not have significant effects on mental disorders (Krebs2013S.24.01). The role of GRIN3A in bipolar disorder has also been suggested, although further evidence is needed to establish a definitive link (Benke2021Clinical).
+
+## Interactions
+The GRIN3A gene encodes the GluN3A subunit of NMDA receptors, which are involved in synaptic transmission and plasticity. GluN3A interacts with several proteins, influencing synaptic signaling and protein synthesis. One key interaction is with GIT1, a multifunctional adaptor protein. GluN3A competes with mTOR for binding to GIT1, thereby inhibiting the assembly of GIT1/mTORC1 complexes. This interaction negatively regulates mTORC1-dependent translation, impacting protein synthesis and memory consolidation (CondeDusman2021Control).
+
+GluN3A also interacts with the transcription factor MEF2C, inhibiting its activation by blocking the nuclear translocation of p38 MAPK. This interaction affects the transcription of genes such as Bdnf and Arc, which are involved in synaptic activity-induced transcription (Chen2020The). The inhibition of MEF2C by GluN3A is specific to NMDAR-dependent transcription, leaving other pathways unaffected (Chen2020The).
+
+These interactions highlight the role of GluN3A in modulating synaptic signaling and gene expression, contributing to its function in regulating synaptic plasticity and memory processes.
+
+
+## References
+
+
+[1. (Zhong2021Pathogenesis) Weiwei Zhong, Anika Wu, Ken Berglund, Xiaohuan Gu, Michael Qize Jiang, Jay Talati, Jingjie Zhao, Ling Wei, and Shan Ping Yu. Pathogenesis of sporadic alzheimer’s disease by deficiency of nmda receptor subunit glun3a. Alzheimer’s &amp; Dementia, 18(2):222–239, June 2021. URL: http://dx.doi.org/10.1002/alz.12398, doi:10.1002/alz.12398. This article has 24 citations.](https://doi.org/10.1002/alz.12398)
+
+[2. (Benke2021Clinical) Tim A. Benke, Kristen Park, Ilona Krey, Chad R. Camp, Rui Song, Amy J. Ramsey, Hongjie Yuan, Stephen F. Traynelis, and Johannes Lemke. Clinical and therapeutic significance of genetic variation in the grin gene family encoding nmdars. Neuropharmacology, 199:108805, November 2021. URL: http://dx.doi.org/10.1016/j.neuropharm.2021.108805, doi:10.1016/j.neuropharm.2021.108805. This article has 39 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.neuropharm.2021.108805)
+
+3. (CondeDusman2021Control) Control of protein synthesis and memory by GluN3A-NMDA receptors through inhibition of GIT1/mTORC1 assembly. This article has 0 citations.
+
+[4. (Liu2024Structural) Yunsheng Liu, Da Shao, Shulei Lou, and Zengwei Kou. Structural prediction of glun3 nmda receptors. Frontiers in Physiology, August 2024. URL: http://dx.doi.org/10.3389/fphys.2024.1446459, doi:10.3389/fphys.2024.1446459. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphys.2024.1446459)
+
+[5. (Krebs2013S.24.01) M.O. Krebs, O. Kebir, and G. Rouleau. S.24.01 rare mutations in n-methyl-d-aspartate glutamate receptors in schizophrenia and autism spectrum disorders. European Neuropsychopharmacology, 23:S146, October 2013. URL: http://dx.doi.org/10.1016/s0924-977x(13)70210-4, doi:10.1016/s0924-977x(13)70210-4. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/s0924-977x(13)70210-4)
+
+[6. (Chen2020The) Liang-Fu Chen, Michelle R. Lyons, Fang Liu, Matthew V. Green, Nathan G. Hedrick, Ashley B. Williams, Arthy Narayanan, Ryohei Yasuda, and Anne E. West. The nmda receptor subunit glun3a regulates synaptic activity-induced and myocyte enhancer factor 2c (mef2c)-dependent transcription. Journal of Biological Chemistry, 295(25):8613–8627, June 2020. URL: http://dx.doi.org/10.1074/jbc.ra119.010266, doi:10.1074/jbc.ra119.010266. This article has 15 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra119.010266)
+
+[7. (Chen2019Demonstration) Jiali Chen, Qiang Liu, Rongli Fan, Haijun Han, Zhongli Yang, Wenyan Cui, Guohua Song, and Ming D. Li. Demonstration of critical role of grin3a in nicotine dependence through both genetic association and molecular functional studies. Addiction Biology, February 2019. URL: http://dx.doi.org/10.1111/adb.12718, doi:10.1111/adb.12718. This article has 10 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1111/adb.12718)

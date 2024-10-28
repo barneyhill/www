@@ -1,0 +1,50 @@
+# ACTR6
+
+## Overview
+ACTR6 is a gene that encodes the actin-related protein 6, which is a member of the actin family of proteins. This protein is primarily involved in chromatin remodeling and cytoskeleton organization, playing a crucial role in maintaining cellular structure and function. As a component of the INO80 chromatin remodeling complex, actin-related protein 6 is essential for processes such as gene transcription, DNA replication, and repair, by facilitating the exchange of histone variants and maintaining chromatin structure (Huang2022Nuclear). Additionally, it contributes to cytoskeleton dynamics by interacting with proteins like Cofilin1 and cytoplasmic β-actin, which are vital for cell shape, motility, and division (Gamberi2013New). ACTR6's involvement in these fundamental cellular processes underscores its significance in both nuclear and cytoplasmic functions, impacting various biological outcomes and potentially influencing disease states.
+
+## Structure
+
+
+## Function
+ACTR6 (actin-related protein 6) is involved in several critical cellular processes, primarily through its role in chromatin remodeling and cytoskeleton organization. It is a component of the INO80 chromatin remodeling complex, which is essential for gene transcription, DNA replication, and DNA repair. The INO80 complex facilitates chromatin remodeling by interacting with nucleosomes and promoting the exchange of histone variants, thereby maintaining proper gene expression and chromatin structure (Huang2022Nuclear). 
+
+In the context of cytoskeleton dynamics, ACTR6 is identified as an intermediate node involved in cytoskeleton organization, playing a role in maintaining the structure and dynamics of the cytoskeleton. This function is crucial for cell shape, motility, and division, and ACTR6 may interact with proteins like Cofilin1 and cytoplasmic β-actin to facilitate these processes (Gamberi2013New). 
+
+ACTR6 is also implicated in the regulation of gene expression during cellular differentiation processes, as seen in studies of preadipocyte differentiation in chickens, where it is noted for its significant number of connections in gene coexpression networks (Zhang2017GenomeWide). These roles highlight ACTR6's importance in both nuclear and cytoplasmic functions, impacting cellular and organismal outcomes.
+
+## Clinical Significance
+ACTR6 (actin-related protein 6) is implicated in various diseases and conditions through its role in chromatin remodeling and gene expression regulation. In the context of cancer, ACTR6 is associated with tumor-associated macrophages (TAMs) in lung cancer, where it is downregulated in M2 macrophages compared to M1 macrophages. This suggests a potential role in modulating the immune microenvironment in cancers such as osteosarcoma, although it was excluded from a final prognostic model due to its zero coefficient in a LASSO Cox regression analysis (Yu2024A).
+
+ACTR6 is also part of the SRCAP complex, which is involved in the deposition of the histone variant H2A.Z. Depletion of SRCAP subunits, including ACTR6, leads to the derepression of genes associated with cell cycle arrest, such as ZHX2, NTN4, SAMD9L, and IGFBP3, which are downregulated in certain cancers (GallantBehm2012ΔNp63α). This indicates that ACTR6 may play a role in oncogenesis through its involvement in chromatin dynamics and transcriptional repression.
+
+Additionally, ACTR6 has been identified in genomic analyses as a gene potentially regulating preadipocyte differentiation, which may contribute to physiological adaptations in certain environments, although specific diseases related to this function are not detailed (Xu2022Genomic).
+
+## Interactions
+ACTR6 (actin-related protein 6) is involved in various protein interactions, particularly within chromatin-remodeling complexes. It is a component of the INO80 complex, a chromatin-remodeling complex that plays a role in DNA repair, transcription, and replication. In this context, ACTR6 interacts with other proteins such as ACTR5, ACTR8, INO80B, and INO80C, which are part of the same complex (Sardiu2014Conserved). 
+
+ACTR6 is also associated with cytoskeleton organization. It acts as an intermediate node in cytoskeleton dynamics, connecting with proteins like Cofilin1 and cytoplasmic β-actin, which are crucial for regulating actin cytoskeleton dynamics and internal cell motility (Gamberi2013New). 
+
+In studies involving simulated microgravity, ACTR6 has been identified in the context of cytoskeleton-related gene expression, suggesting its involvement in maintaining cytoskeletal functions under altered gravitational conditions (Chen2016Simulated). 
+
+While specific physical interactions of ACTR6 with nucleic acids are not detailed, its role in chromatin remodeling and cytoskeleton organization indicates its participation in complex protein networks that influence gene regulation and cellular structure.
+
+
+## References
+
+
+[1. (Sardiu2014Conserved) Mihaela E Sardiu, Joshua M Gilmore, Brad D Groppe, Damir Herman, Sreenivasa R Ramisetty, Yong Cai, Jingji Jin, Ronald C Conaway, Joan W Conaway, Laurence Florens, and Michael P Washburn. Conserved abundance and topological features in chromatin‐remodeling protein interaction networks. EMBO reports, 16(1):116–126, November 2014. URL: http://dx.doi.org/10.15252/embr.201439403, doi:10.15252/embr.201439403. This article has 17 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.15252/embr.201439403)
+
+[2. (Huang2022Nuclear) Yuanjian Huang, Shengzhe Zhang, and Jae-Il Park. Nuclear Actin Dynamics in Gene Expression, DNA Repair, and Cancer, pages 625–663. Springer International Publishing, 2022. URL: http://dx.doi.org/10.1007/978-3-031-06573-6_23, doi:10.1007/978-3-031-06573-6_23. This article has 8 citations.](https://doi.org/10.1007/978-3-031-06573-6_23)
+
+[3. (Xu2022Genomic) Nai-Yi Xu, Zhen-Yu Liu, Qi-Meng Yang, Pei-Pei Bian, Ming Li, and Xin Zhao. Genomic analyses for selective signatures and genes involved in hot adaptation among indigenous chickens from different tropical climate regions. Frontiers in Genetics, July 2022. URL: http://dx.doi.org/10.3389/fgene.2022.906447, doi:10.3389/fgene.2022.906447. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fgene.2022.906447)
+
+[4. (Gamberi2013New) Tania Gamberi. New insights into the molecular mechanisms of selected anticancer metal compounds through bioinformatic analysis of proteomic data. Journal of Proteomics &amp; Bioinformatics, 2013. URL: http://dx.doi.org/10.4172/JPB.S6-006, doi:10.4172/jpb.s6-006. This article has 5 citations.](https://doi.org/10.4172/JPB.S6-006)
+
+[5. (Chen2016Simulated) Zhihao Chen, Fan Zhao, Yiduo Qi, Lifang Hu, Dijie Li, Chong Yin, Peihong Su, Yan Zhang, Jianhua Ma, Jing Qian, Hongpo Zhou, Yiwei Zou, and Airong Qian. Simulated microgravity alters the expression of cytoskeleton- and atp-binding-related genes in mlo-y4 osteocytes. Acta Astronautica, 129:186–192, December 2016. URL: http://dx.doi.org/10.1016/j.actaastro.2016.09.017, doi:10.1016/j.actaastro.2016.09.017. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.actaastro.2016.09.017)
+
+[6. (Yu2024A) Bin Yu, Chengkui Geng, Zhongxiong Wu, Zhongzi Zhang, Aili Zhang, Ze Yang, Jiazheng Huang, Ying Xiong, Huiqin Yang, and Zhuoyuan Chen. A cic-related-epigenetic factors-based model associated with prediction, the tumor microenvironment and drug sensitivity in osteosarcoma. Scientific Reports, January 2024. URL: http://dx.doi.org/10.1038/s41598-023-49770-2, doi:10.1038/s41598-023-49770-2. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-023-49770-2)
+
+[7. (GallantBehm2012ΔNp63α) Corrie L. Gallant-Behm, Matthew R. Ramsey, Claire L. Bensard, Ignacio Nojek, Jack Tran, Minghua Liu, Leif W. Ellisen, and Joaquín M. Espinosa. Δnp63α represses anti-proliferative genes via h2a.z deposition. Genes &amp; Development, 26(20):2325–2336, September 2012. URL: http://dx.doi.org/10.1101/gad.198069.112, doi:10.1101/gad.198069.112. This article has 49 citations.](https://doi.org/10.1101/gad.198069.112)
+
+[8. (Zhang2017GenomeWide) Tao Zhang, Xiangqian Zhang, Kunpeng Han, Genxi Zhang, Jinyu Wang, Kaizhou Xie, and Qian Xue. Genome-wide analysis of lncrna and mrna expression during differentiation of abdominal preadipocytes in the chicken. G3 Genes|Genomes|Genetics, 7(3):953–966, March 2017. URL: http://dx.doi.org/10.1534/g3.116.037069, doi:10.1534/g3.116.037069. This article has 50 citations.](https://doi.org/10.1534/g3.116.037069)

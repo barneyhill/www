@@ -1,0 +1,45 @@
+# AGMAT
+
+## Overview
+The AGMAT gene encodes the enzyme agmatinase, which is a member of the arginase or ureohydrolase superfamily. Agmatinase is primarily involved in the hydrolysis of agmatine to produce putrescine and urea, playing a significant role in polyamine biosynthesis, which is crucial for cellular growth and differentiation (Mistry2002Cloning; Molderings2012Agmatine). Although traditionally associated with agmatine hydrolysis, recent research suggests that agmatinase may also act on other guanidino acids, indicating a broader substrate specificity (Sinn2022Guanidino). The enzyme is expressed in various tissues, including the liver, kidney, and brain, and its activity is modulated by Mn2+ ions, which are essential for its catalytic function (Sinn2022Guanidino). AGMAT's expression and activity have been linked to several physiological and pathological processes, including cancer progression and mood disorders, highlighting its potential as a therapeutic target (Zhu2019Agmatinase; Bernstein2012Agmatinase).
+
+## Structure
+The human enzyme AGMAT, also known as agmatinase, is part of the arginase or ureohydrolase superfamily. This enzyme is involved in the hydrolysis of guanidino acids rather than agmatine, as previously thought. AGMAT shares a significant sequence similarity with guanidinobutyrase (GbuA) from Pseudomonas aeruginosa, with 60.2% identical amino acids, and forms hexamers with a shared active site between subunits (Sinn2022Guanidino). The active site residues coordinating Mn2+ ions and essential catalytic residues are conserved between AGMAT and GbuA (Sinn2022Guanidino).
+
+The enzyme's structure includes two naturally occurring variants, R105 and G105, which differ in substrate specificity. The R105 variant shows higher activity for taurocyamine due to its ability to interact with the substrate's sulfonic group (Sinn2022Guanidino). Structural modeling using the Robetta server and the GbuA crystal structure as a template has provided insights into the enzyme's configuration (Sinn2022Guanidino).
+
+AGMAT's activity is dependent on Mn2+ ions, which are coordinated by conserved Asp and His residues, positioning a hydroxide ion for nucleophilic attack at the guanidine moiety (Sinn2022Guanidino). The enzyme's expression is noted in the kidney, liver, and brain, and its levels have been linked to various health conditions (Sinn2022Guanidino).
+
+## Function
+AGMAT, also known as agmatinase, is an enzyme involved in the hydrolysis of agmatine to putrescine and urea, playing a crucial role in polyamine biosynthesis. Polyamines, such as putrescine, are essential for cell growth, differentiation, and proliferation. AGMAT is part of the arginase superfamily and is active in the mitochondria, where it influences various cellular processes, including gene expression, ion channel regulation, and stress response (Mistry2002Cloning; Molderings2012Agmatine).
+
+In healthy human cells, AGMAT is predominantly expressed in the liver and kidney, with lower levels in the brain, skeletal muscle, and other tissues. Its activity is tissue-specific, suggesting distinct physiological roles in different organs. In the liver, AGMAT may regulate circulating agmatine levels, while in the kidney, it could modulate agmatine's effects on glomerular filtration rates. In the brain, AGMAT is involved in modulating agmatine's role as a signaling molecule, potentially affecting neurotransmission and neuroprotection (Mistry2002Cloning; Molderings2012Agmatine).
+
+Recent studies suggest that AGMAT may not primarily hydrolyze agmatine in humans but rather other guanidino acids, indicating a broader substrate specificity than previously thought (Sinn2022Guanidino).
+
+## Clinical Significance
+Alterations in the expression of the AGMAT gene have been implicated in various diseases, particularly cancers. In lung adenocarcinoma (LUAD), AGMAT is significantly overexpressed, correlating with advanced clinicopathological features and poorer prognosis. This overexpression promotes malignant phenotypes by activating the nitric oxide (NO) signaling pathway, specifically through inducible nitric oxide synthase (iNOS), leading to the up-regulation of cyclin D1 via the MAPK and PI3K/Akt pathways (Zhu2019Agmatinase).
+
+In colorectal carcinoma (CRC), miR-151a-5p targets AGMAT, enhancing cell proliferation, migration, and invasion. This interaction suggests that the miR-151a-5p/AGMAT axis plays a crucial role in CRC progression, highlighting AGMAT as a potential therapeutic target (Xie2023miR‑151a‑5p).
+
+In liver cancer, AGMAT is downregulated, which is associated with elevated arginine levels that promote tumor growth. This downregulation is an early event in liver tumorigenesis and correlates with poor survival in hepatocellular carcinoma (HCC) patients (Mossmann2022Elevated).
+
+AGMAT expression is also linked to mood disorders, such as depression and bipolar disorder, where it is upregulated in hippocampal interneurons, potentially affecting mood regulation (Bernstein2012Agmatinase).
+
+
+## References
+
+
+[1. (Mistry2002Cloning) Sanjay K. Mistry, Tim J. Burwell, Rebecca M. Chambers, Laura Rudolph-Owen, Frank Spaltmann, W. Jim Cook, and Sidney M. Morris. Cloning of human agmatinase. an alternate path for polyamine synthesis induced in liver by hepatitis b virus. American Journal of Physiology-Gastrointestinal and Liver Physiology, 282(2):G375–G381, February 2002. URL: http://dx.doi.org/10.1152/ajpgi.00386.2001, doi:10.1152/ajpgi.00386.2001. This article has 47 citations.](https://doi.org/10.1152/ajpgi.00386.2001)
+
+[2. (Xie2023miR‑151a‑5p) Yaya Xie, Yue Zhang, Xianju Liu, Lijun Cao, Mengting Han, Chunmei Wang, Jinlian Chen, and Xingxing Zhang. Mir‑151a‑5p promotes the proliferation and metastasis of colorectal carcinoma cells by targeting agmat. Oncology Reports, January 2023. URL: http://dx.doi.org/10.3892/or.2023.8487, doi:10.3892/or.2023.8487. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/or.2023.8487)
+
+[3. (Molderings2012Agmatine) Gerhard J. Molderings and Britta Haenisch. Agmatine (decarboxylated l-arginine): physiological role and therapeutic potential. Pharmacology &amp; Therapeutics, 133(3):351–365, March 2012. URL: http://dx.doi.org/10.1016/j.pharmthera.2011.12.005, doi:10.1016/j.pharmthera.2011.12.005. This article has 81 citations.](https://doi.org/10.1016/j.pharmthera.2011.12.005)
+
+[4. (Zhu2019Agmatinase) Hui-er Zhu, Jia-yi Yin, De-xiong Chen, Sheng He, and Hui Chen. Agmatinase promotes the lung adenocarcinoma tumorigenesis by activating the no-mapks-pi3k/akt pathway. Cell Death &amp; Disease, November 2019. URL: http://dx.doi.org/10.1038/s41419-019-2082-3, doi:10.1038/s41419-019-2082-3. This article has 24 citations.](https://doi.org/10.1038/s41419-019-2082-3)
+
+[5. (Sinn2022Guanidino) Malte Sinn, Marco Stanoppi, Franziskus Hauth, Jennifer R. Fleming, Dietmar Funck, Olga Mayans, and Jörg S. Hartig. Guanidino acid hydrolysis by the human enzyme annotated as agmatinase. Scientific Reports, December 2022. URL: http://dx.doi.org/10.1038/s41598-022-26655-4, doi:10.1038/s41598-022-26655-4. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-022-26655-4)
+
+6. (Mossmann2022Elevated) Elevated arginine levels in liver tumors promote metabolic reprogramming and tumor growth. This article has 1 citations.
+
+[7. (Bernstein2012Agmatinase) Hans-Gert Bernstein, Claudia Stich, Kristin Jäger, Henrik Dobrowolny, Martin Wick, Johann Steiner, Rüdiger Veh, Bernhard Bogerts, and Gregor Laube. Agmatinase, an inactivator of the putative endogenous antidepressant agmatine, is strongly upregulated in hippocampal interneurons of subjects with mood disorders. Neuropharmacology, 62(1):237–246, January 2012. URL: http://dx.doi.org/10.1016/j.neuropharm.2011.07.012, doi:10.1016/j.neuropharm.2011.07.012. This article has 50 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.neuropharm.2011.07.012)

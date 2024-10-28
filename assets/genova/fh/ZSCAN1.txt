@@ -1,0 +1,28 @@
+# ZSCAN1
+
+## Overview
+ZSCAN1 is a gene that encodes the zinc finger and SCAN domain-containing protein 1, which is categorized as a transcription factor. This protein plays a significant role in gene regulation by acting as a transcriptional repressor, particularly in the context of cancer biology. ZSCAN1 is involved in the suppression of tumorigenic pathways, notably through its interaction with the WWTR1 gene promoter, which affects the Hippo/YAP signaling pathway. This interaction is crucial for its function as a tumor suppressor, especially in breast cancer, where it reduces the stemness of breast cancer stem cells (Chu2023Zinc). The expression of ZSCAN1 is typically lower in cancerous tissues, and its higher expression levels are associated with improved patient prognosis (Chu2023Zinc). Additionally, ZSCAN1 has been implicated in broader transcriptional regulatory networks, influencing pathways such as Wnt and TGF-b, which are important in cancer progression (Li2014Integrative). Beyond oncology, ZSCAN1 has been linked to autoimmune responses in conditions like ROHHAD syndrome, although its precise role in this context remains to be fully elucidated (Tocan2024HighTiter).
+
+## Clinical Significance
+ZSCAN1 has been identified as a tumor suppressor gene in breast cancer. Its expression is typically lower in breast cancer tissues compared to normal tissues, and this reduced expression is associated with poorer prognosis in patients. Studies have shown that higher levels of ZSCAN1 expression correlate with better overall survival rates in breast cancer patients, as demonstrated by analyses using data from The Cancer Genome Atlas (TCGA) and the Molecular Taxonomy of Breast Cancer International Consortium (METABRIC) (Chu2023Zinc). 
+
+In breast cancer cell lines, overexpression of ZSCAN1 leads to decreased cell proliferation, clonogenicity, and tumorigenicity, as well as reduced stemness properties of breast cancer stem-like cells (BCSLCs). This is achieved through the inhibition of TAZ, a transcriptional co-activator involved in the Hippo/YAP signaling pathway, which is crucial for maintaining stemness in BCSCs (Chu2023Zinc).
+
+In a separate context, high titers of anti-ZSCAN1 antibodies have been observed in a case of Rapid-Onset Obesity with Hypothalamic Dysfunction, Hypoventilation, and Autonomic Dysregulation (ROHHAD) syndrome. The presence of these antibodies suggests a potential autoimmune component in the disease's pathology, although the exact role of ZSCAN1 in this syndrome remains unclear (Tocan2024HighTiter).
+
+## Interactions
+ZSCAN1, a zinc finger and SCAN domain-containing protein, is involved in several interactions that influence its role as a tumor suppressor in breast cancer. It acts as a transcriptional repressor by directly binding to the promoter of the WWTR1 gene, which encodes the TAZ protein, a transcriptional co-activator. This binding occurs specifically at the -951 to -925bp region of the WWTR1 promoter, leading to the inhibition of TAZ transcriptional activity. This interaction is crucial for ZSCAN1's function in reducing the stemness of breast cancer stem cells (BCSCs) (Chu2023Zinc).
+
+ZSCAN1's suppression of TAZ is significant because TAZ is a positive regulator in the Hippo/YAP signaling pathway, which is essential for maintaining the stemness of BCSCs. The overexpression of TAZ in ZSCAN1-overexpressing cells can reverse the inhibitory effects of ZSCAN1 on BCSC properties, highlighting the importance of this interaction (Chu2023Zinc).
+
+In addition to its interaction with the WWTR1 promoter, ZSCAN1 is involved in broader transcriptional regulatory networks. It has been identified as a CNV-transcription factor (CNV-TF) that targets key components in pathways such as Wnt and TGF-b, impacting cancer progression (Li2014Integrative).
+
+
+## References
+
+
+[1. (Tocan2024HighTiter) Vlad Tocan, Akari Nakamura-Utsunomiya, Yuri Sonoda, Wakato Matsuoka, Soichi Mizuguchi, Yuichiro Muto, Takaaki Hijioka, Masao Nogami, Daiki Sasaoka, Fusa Nagamatsu, Utako Oba, Naonori Kawakubo, Hiroshi Hamada, Yuichi Mushimoto, Pin Fee Chong, Noriyuki Kaku, Yuhki Koga, Yasunari Sakai, Yoshinao Oda, Tatsuro Tajiri, and Shouichi Ohga. High-titer anti-zscan1 antibodies in a toddler clinically diagnosed with apparent rapid-onset obesity with hypothalamic dysfunction, hypoventilation, and autonomic dysregulation syndrome. International Journal of Molecular Sciences, 25(5):2820, February 2024. URL: http://dx.doi.org/10.3390/ijms25052820, doi:10.3390/ijms25052820. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms25052820)
+
+[2. (Chu2023Zinc) Jian Chu, Yunzhe Li, Misi He, Hui Zhang, Lingling Yang, Muyao Yang, Jingshu Liu, Chenxi Cui, Liquan Hong, Xingchi Hu, Lei Zhou, Tangya Li, Changchun Li, Huiwen Fan, Guoqin Jiang, and Tingyuan Lang. Zinc finger and scan domain containing 1, zscan1, is a novel stemness-related tumor suppressor and transcriptional repressor in breast cancer targeting taz. Frontiers in Oncology, February 2023. URL: http://dx.doi.org/10.3389/fonc.2023.1041688, doi:10.3389/fonc.2023.1041688. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2023.1041688)
+
+[3. (Li2014Integrative) Ling Li, Baofeng Lian, Chao Li, Wei Li, Jing Li, Yuannv Zhang, Xianghuo He, Yixue Li, and Lu Xie. Integrative analysis of transcriptional regulatory network and copy number variation in intrahepatic cholangiocarcinoma. PLoS ONE, 9(6):e98653, June 2014. URL: http://dx.doi.org/10.1371/journal.pone.0098653, doi:10.1371/journal.pone.0098653. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0098653)

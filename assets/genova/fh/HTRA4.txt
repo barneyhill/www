@@ -1,0 +1,54 @@
+# HTRA4
+
+## Overview
+HTRA4 is a gene that encodes the HtrA serine peptidase 4, a member of the HtrA family of serine proteases. This protein is characterized by its protease domain with a chymotrypsin-like fold and a catalytic triad, as well as a PDZ domain that facilitates specific protein-protein interactions. HtrA4 is primarily involved in maintaining protein quality control and cellular homeostasis by degrading misfolded or damaged proteins. It plays a crucial role in placental development, influencing processes such as trophoblast invasion and migration, and is implicated in apoptosis through interactions with proteins like XIAP and caspases. The protein's activity is regulated by its structural features, including its ability to form trimeric structures and undergo post-translational modifications. Clinically, alterations in HTRA4 expression are associated with pregnancy-related conditions such as preeclampsia and recurrent pregnancy loss, as well as various cancers, highlighting its significance in both physiological and pathological contexts (Wenta2019Cellular; Pei2023Cellular; Wang2012HighTemperature).
+
+## Structure
+The HTRA4 protein is a member of the HtrA family of serine proteases, characterized by a conserved protease domain with a chymotrypsin-like fold and a catalytic triad composed of His, Asp, and Ser residues (ZurawaJanicka2017Structural). The protein also contains a PDZ domain, which is crucial for mediating specific protein-protein interactions and regulating catalytic activity (ZurawaJanicka2017Structural). The PDZ domain of HTRA4 is involved in recognizing and binding short peptide motifs at the C-terminus of partner proteins (Sun2017Peptide).
+
+HTRA4 typically forms trimeric structures, which are stabilized by intermolecular contacts between the protease domains of adjacent subunits (Wenta2019Cellular). The trimeric form of HTRA4 is suggested by its elution as a ~110 kDa trimer in size-exclusion chromatography (Wenta2019Cellular). The protein's thermal stability is intermediate among human HtrAs, with a single structural transition point at 58.4 °C (Wenta2019Cellular).
+
+The N-terminal region of HTRA4 is not essential for proteolytic activity and can be removed by autocleavage, resulting in increased activity (Wenta2019Cellular). The full-length HTRA4 proteins are challenging to produce in bacterial systems due to multiple disulfide bridges in their N-terminal domains (Wenta2019Cellular). The protein may undergo post-translational modifications such as phosphorylation and glycosylation, which can influence its activity and stability. However, specific details on these modifications or splice variant isoforms are not provided in the context.
+
+## Function
+The HTRA4 gene encodes a serine protease that plays a significant role in maintaining protein quality and cellular homeostasis. It is involved in degrading misfolded or fragmented polypeptides, thereby preventing cellular malfunctions and the formation of toxic protein aggregates (Wenta2019Cellular). HtrA4 is particularly active in the placenta, where it influences trophoblast invasion and migration, essential processes for placental development and function (Pei2023Cellular; Wang2012HighTemperature). 
+
+HtrA4 interacts with various cellular proteins, including XIAP, caspases 7 and 9, β-tubulin, and actin, suggesting its involvement in apoptosis and cytoskeleton dynamics (Wenta2019Cellular). It promotes apoptosis by degrading XIAP, a negative regulator of caspases, and is implicated in the intrinsic mitochondrial apoptosis pathway (Wenta2019Cellular). 
+
+In the context of placental development, HtrA4 facilitates cell invasion by cleaving extracellular matrix proteins such as fibronectin, which is crucial for the proper migration of trophoblasts into maternal uterine tissue (Wang2012HighTemperature). It also regulates cell fusion processes by interacting with syncytin-1, thereby maintaining the balance between cell fusion and invasion necessary for healthy placental development (Wang2012HighTemperature).
+
+## Clinical Significance
+Alterations in the expression of the HTRA4 gene have been linked to several pregnancy-related conditions, most notably preeclampsia and recurrent pregnancy loss (RPL). In preeclampsia, HTRA4 expression is significantly elevated, which is associated with endothelial dysfunction and senescence. This condition is characterized by high blood pressure and can lead to serious complications for both the mother and fetus. Elevated HTRA4 levels in preeclampsia are thought to induce endothelial senescence by altering the expression of senescence-associated genes, such as SERPINB2 and SERPINE1, and downregulating genes involved in cell cycle progression, like CHEK2 and CDKN2C (Wang2019HtrA4; Wang2020Elevated). 
+
+In the context of RPL, HTRA4 mRNA expression is significantly lower in the chorionic villi of affected patients, suggesting a link between reduced HTRA4 levels and placental dysfunction (Pei2023Cellular). 
+
+HTRA4 is also implicated in cancer, where its expression levels vary across different types. It is involved in chemotherapeutic-induced apoptosis, promoting cancer cell death by interacting with proteins like XIAP and procaspase 7 (Rosochowicz2024Exploring). These findings highlight the clinical significance of HTRA4 in both pregnancy complications and cancer.
+
+## Interactions
+HTRA4 (HtrA serine peptidase 4) is involved in several protein-protein interactions that influence cellular processes. One significant interaction is with syncytin-1, a protein crucial for cell-cell fusion in placental development. HTRA4 suppresses the fusogenic activity of syncytin-1 by interacting with its surface (SU) subunit through the PDZ domain of HTRA4. This interaction leads to the proteolysis of syncytin-1, reducing its activity and thereby inhibiting cell-cell fusion (Wang2012HighTemperature).
+
+HTRA4 also interacts with extracellular matrix (ECM) proteins, such as fibronectin, facilitating placental cell invasion by cleaving these proteins. This proteolytic activity is crucial for promoting cell invasion and is regulated by the transcription factor GCM1, which binds to the HTRA4 promoter to enhance its expression (Wang2012HighTemperature).
+
+In endothelial cells, HTRA4 interacts with the VEGFA receptor KDR, cleaving it and disrupting VEGFA-induced angiogenesis. This interaction impairs endothelial cell function by inhibiting downstream signaling pathways, such as Akt phosphorylation, and affects processes like tube formation in endothelial cells (Wang2019High).
+
+
+## References
+
+
+[1. (Wenta2019Cellular) Tomasz Wenta, Miroslaw Jarzab, Michal Rychlowski, Monika Borysiak, Anna Latala, Dorota Zurawa-Janicka, Anna Filipek, and Barbara Lipinska. Cellular substrates and pro-apoptotic function of the human htra4 protease. Journal of Proteomics, 209:103505, October 2019. URL: http://dx.doi.org/10.1016/j.jprot.2019.103505, doi:10.1016/j.jprot.2019.103505. This article has 8 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jprot.2019.103505)
+
+[2. (Wang2012HighTemperature) Liang-Jie Wang, Mei-Leng Cheong, Yun-Shien Lee, Ming-Ting Lee, and Hungwen Chen. High-temperature requirement protein a4 (htra4) suppresses the fusogenic activity of syncytin-1 and promotes trophoblast invasion. Molecular and Cellular Biology, 32(18):3707–3717, September 2012. URL: http://dx.doi.org/10.1128/mcb.00223-12, doi:10.1128/mcb.00223-12. This article has 40 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.00223-12)
+
+[3. (Sun2017Peptide) Mei‐Ling Sun, Li‐Mei Sun, and Yong‐Qing Wang. Peptide selectivity between the <scp>pdz</scp> domains of human pregnancy‐related serine proteases (<scp>htra1</scp>, <scp>htra2</scp>, <scp>htra3</scp>, and <scp>htra4</scp>) can be reshaped by different halogen probes. Journal of Molecular Recognition, December 2017. URL: http://dx.doi.org/10.1002/jmr.2698, doi:10.1002/jmr.2698. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jmr.2698)
+
+[4. (Wang2019HtrA4) Yao Wang, Rebecca Lim, and Guiying Nie. Htra4 may play a major role in inhibiting endothelial repair in pregnancy complication preeclampsia. Scientific Reports, February 2019. URL: http://dx.doi.org/10.1038/s41598-019-39565-9, doi:10.1038/s41598-019-39565-9. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-019-39565-9)
+
+[5. (Pei2023Cellular) Chang-Zhu Pei, Bum-Chae Choi, Jun-Hyeok Park, Hyo Young Park, Jinyoung Paek, Kyung-Ju Lee, Bo-Seong Yun, Young Ju Kim, and Kwang-Hyun Baek. Cellular functions of high-temperature requirement factor a4 in placenta. Cells, 12(11):1459, May 2023. URL: http://dx.doi.org/10.3390/cells12111459, doi:10.3390/cells12111459. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells12111459)
+
+[6. (ZurawaJanicka2017Structural) Dorota Zurawa-Janicka, Tomasz Wenta, Miroslaw Jarzab, Joanna Skorko-Glonek, Przemyslaw Glaza, Artur Gieldon, Jerzy Ciarkowski, and Barbara Lipinska. Structural insights into the activation mechanisms of human htra serine proteases. Archives of Biochemistry and Biophysics, 621:6–23, May 2017. URL: http://dx.doi.org/10.1016/j.abb.2017.04.004, doi:10.1016/j.abb.2017.04.004. This article has 59 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.abb.2017.04.004)
+
+[7. (Wang2019High) Yao Wang, Mylinh La, Tam Pham, George O. Lovrecz, and Guiying Nie. High levels of htra4 detected in preeclamptic circulation may disrupt endothelial cell function by cleaving the main vegfa receptor kdr. The FASEB Journal, 33(4):5058–5066, January 2019. URL: http://dx.doi.org/10.1096/fj.201802151RR, doi:10.1096/fj.201802151rr. This article has 13 citations.](https://doi.org/10.1096/fj.201802151RR)
+
+[8. (Rosochowicz2024Exploring) Monika Anna Rosochowicz, Katarzyna Kulcenty, and Wiktoria Maria Suchorska. Exploring the role of htra family genes in cancer: a systematic review. Molecular Diagnosis &amp; Therapy, 28(4):347–377, May 2024. URL: http://dx.doi.org/10.1007/s40291-024-00712-2, doi:10.1007/s40291-024-00712-2. This article has 0 citations.](https://doi.org/10.1007/s40291-024-00712-2)
+
+[9. (Wang2020Elevated) Yao Wang, Rebecca Lim, and Guiying Nie. Elevated circulating htra4 in preeclampsia may alter endothelial expression of senescence genes. Placenta, 90:71–81, January 2020. URL: http://dx.doi.org/10.1016/j.placenta.2019.12.012, doi:10.1016/j.placenta.2019.12.012. This article has 19 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.placenta.2019.12.012)

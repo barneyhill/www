@@ -1,0 +1,46 @@
+# FICD
+
+## Overview
+The FICD gene encodes the FIC domain protein adenylyltransferase, an enzyme that plays a pivotal role in the regulation of protein folding within the endoplasmic reticulum (ER) by modulating the activity of the chaperone protein BiP through AMPylation and deAMPylation processes. This enzyme is characterized by its FIC domain, which is essential for its enzymatic functions, and a tetratricopeptide repeat (TPR) domain that facilitates protein-protein interactions. FICD's ability to switch between AMPylation and deAMPylation activities is crucial for maintaining ER homeostasis, particularly in response to fluctuations in unfolded protein levels. The protein's structure, including its ability to form monomers and dimers, influences its functional state, with monomerization favoring AMPylation and dimerization enhancing deAMPylation (Perera2021Structures; Preissler2016FICD). Mutations in the FICD gene have been associated with severe clinical conditions, underscoring its importance in cellular function and disease (Perera2022A).
+
+## Structure
+The FICD protein, encoded by the human gene FICD, is characterized by its FIC domain, which is crucial for its enzymatic activity, particularly in AMPylation and deAMPylation processes. The primary structure of FICD includes a specific amino acid sequence that forms the basis for its functional domains. The secondary structure is predominantly composed of alpha helices, which are integral to the protein's stability and function (Bunney2014Crystal).
+
+The tertiary structure of FICD involves the folding of these helices into a three-dimensional conformation, stabilized by interactions such as disulfide bonds. This structure is essential for the protein's interaction with substrates like BiP, an ER Hsp70 chaperone (Perera2021Structures). The FIC domain itself is supported by a conserved active-site loop, which is vital for its catalytic activity (GarciaPino2014The).
+
+FICD can form dimers or higher-order oligomeric structures, representing its quaternary structure. The oligomeric state of FICD influences its enzymatic activities, with monomerization favoring AMPylation and dimerization enhancing deAMPylation (Perera2021Structures). The protein also contains a tetratricopeptide repeat (TPR) domain, which facilitates interactions with other proteins and contributes to its regulatory functions (Perera2021Structures).
+
+## Function
+The FICD gene encodes an enzyme that plays a crucial role in the regulation of the endoplasmic reticulum (ER) chaperone BiP through AMPylation and deAMPylation processes. In healthy human cells, FICD is responsible for maintaining protein folding homeostasis by modulating BiP's activity. AMPylation involves the transfer of an adenosine monophosphate (AMP) moiety from ATP to BiP, which locks BiP in an inactive conformation, reducing its chaperone function. This modification is crucial when unfolded protein levels are low, allowing the cell to inactivate surplus BiP (Perera2022A; Preissler2016FICD).
+
+Conversely, deAMPylation by FICD restores BiP's functionality, which is essential when unfolded proteins accumulate, thus preventing unnecessary activation of the unfolded protein response (UPR) (Perera2022A; Preissler2016FICD). FICD's activity is regulated by specific residues, such as E234, which influence its function as either an AMPylase or a deAMPylase (Preissler2016FICD). This dual functionality allows FICD to rapidly respond to changes in unfolded protein load, contributing to the balance between chaperones and client proteins in the ER (Preissler2016FICD).
+
+## Clinical Significance
+Mutations in the FICD gene, particularly the homozygous p.(Arg371Ser) mutation, have been linked to significant clinical conditions, including infancy-onset diabetes mellitus and severe neurodevelopmental delay. This mutation affects the regulation of AMPylation and deAMPylation of the endoplasmic reticulum chaperone BiP, leading to an accumulation of AMPylated BiP. This imbalance disrupts proteostasis and is associated with the observed disease phenotypes, such as diabetes diagnosed before 12 months, severe developmental delay, and in some cases, bilateral cataracts, short stature, skeletal abnormalities, microcephaly, and deafness (Perera2022A).
+
+The mutation introduces a cryptic glycosylation site, potentially affecting FICD folding and AMPylation activity, which is particularly impactful in insulin-producing beta cells. This leads to compromised ER function and triggers the unfolded protein response, especially in tissues with high FICD expression like the pancreas (Perera2022A). The mutation-specific mechanism, rather than a complete loss of gene function, is implicated in the pathology, highlighting the critical role of FICD in regulating BiP activity and its impact on cellular function and disease (Perera2022A).
+
+## Interactions
+FICD, also known as HYPE, is a human enzyme that interacts with the chaperone protein BiP (Binding Immunoglobulin Protein) in the endoplasmic reticulum (ER). FICD is responsible for the AMPylation and deAMPylation of BiP, a process that regulates BiP's activity in protein folding. The interaction between FICD and BiP is mediated by the tetratricopeptide repeat (TPR) motifs of FICD, which specifically bind to the conserved hydrophobic linker of BiP in its ATP-bound state. This binding is crucial for the specificity of the AMPylation process (Fauser2021Specificity).
+
+FICD can exist in both monomeric and dimeric forms, with its oligomeric state influencing its enzymatic activity. Monomeric FICD is active in AMPylation, while the dimeric form primarily functions as a deAMPylase. This switch in activity is regulated by the flexibility of a key residue, Glu234, which acts as a gatekeeper in the catalytic mechanism (Perera2019An; Perera2021Structures).
+
+The interaction between FICD and BiP involves a bipartite interface, with the TPR domain of FICD engaging BiP's nucleotide-binding domain and interdomain linker, while the Fic domain interacts with BiP's substrate-binding domain (Perera2021Structures).
+
+
+## References
+
+
+1. (Perera2022A) A homozygous p.(Arg371Ser) mutation in FICD de-regulates AMPylation of the human endoplasmic reticulum chaperone BiP causing infancy-onset diabetes and severe neurodevelopmental delay. This article has 0 citations.
+
+[2. (Fauser2021Specificity) Joel Fauser, Burak Gulen, Vivian Pogenberg, Christian Pett, Danial Pourjafar-Dehkordi, Christoph Krisp, Dorothea Höpfner, Gesa König, Hartmut Schlüter, Matthias J. Feige, Martin Zacharias, Christian Hedberg, and Aymelt Itzen. Specificity of ampylation of the human chaperone bip is mediated by tpr motifs of ficd. Nature Communications, April 2021. URL: http://dx.doi.org/10.1038/s41467-021-22596-0, doi:10.1038/s41467-021-22596-0. This article has 20 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-22596-0)
+
+[3. (Preissler2016FICD) Steffen Preissler, Claudia Rato, Luke A Perera, Vladimir Saudek, and David Ron. Ficd acts bifunctionally to ampylate and de-ampylate the endoplasmic reticulum chaperone bip. Nature Structural &amp; Molecular Biology, 24(1):23–29, December 2016. URL: http://dx.doi.org/10.1038/nsmb.3337, doi:10.1038/nsmb.3337. This article has 82 citations.](https://doi.org/10.1038/nsmb.3337)
+
+[4. (GarciaPino2014The) Abel Garcia-Pino, Nikolay Zenkin, and Remy Loris. The many faces of fic: structural and functional aspects of fic enzymes. Trends in Biochemical Sciences, 39(3):121–129, March 2014. URL: http://dx.doi.org/10.1016/j.tibs.2014.01.001, doi:10.1016/j.tibs.2014.01.001. This article has 62 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.tibs.2014.01.001)
+
+5. (Perera2019An) An oligomeric state-dependent switch in FICD regulates AMPylation and deAMPylation of the chaperone BiP. This article has 1 citations.
+
+[6. (Perera2021Structures) Luke A. Perera, Steffen Preissler, Nathan R. Zaccai, Sylvain Prévost, Juliette M. Devos, Michael Haertlein, and David Ron. Structures of a deampylation complex rationalise the switch between antagonistic catalytic activities of ficd. Nature Communications, August 2021. URL: http://dx.doi.org/10.1038/s41467-021-25076-7, doi:10.1038/s41467-021-25076-7. This article has 18 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-25076-7)
+
+[7. (Bunney2014Crystal) Tom D. Bunney, Ambrose R. Cole, Malgorzata Broncel, Diego Esposito, Edward W. Tate, and Matilda Katan. Crystal structure of the human, fic-domain containing protein hype and implications for its functions. Structure, 22(12):1831–1843, December 2014. URL: http://dx.doi.org/10.1016/j.str.2014.10.007, doi:10.1016/j.str.2014.10.007. This article has 48 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.str.2014.10.007)

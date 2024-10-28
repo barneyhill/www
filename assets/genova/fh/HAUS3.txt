@@ -1,0 +1,50 @@
+# HAUS3
+
+## Overview
+HAUS3 is a gene that encodes the HAUS augmin-like complex subunit 3 protein, which is a critical component of the augmin complex involved in microtubule organization during cell division. The HAUS3 protein plays a pivotal role in spindle assembly by facilitating microtubule nucleation at the spindle, ensuring proper chromosome segregation during mitosis (Wang2023A; Neumann2010Phenotypic). Structurally, HAUS3 forms a stable dimer with HAUS5, contributing to the formation of the TIII tetramer within the augmin complex, characterized by elongated coiled-coil segments (Zupa2022The). This interaction is essential for recruiting the γ-tubulin ring complex to spindle microtubules, which is crucial for spindle formation and mitosis (Song2018Mechanism). HAUS3's involvement in cell cycle regulation and its association with various cancers highlight its clinical significance, particularly as a potential prognostic marker and therapeutic target (Wang2023A).
+
+## Structure
+The HAUS3 protein is a component of the augmin complex, which plays a crucial role in microtubule organization during cell division. Structurally, HAUS3 is involved in forming the TIII tetramer of the augmin complex, which is characterized by elongated coiled-coil segments. HAUS3 forms a stable dimer with HAUS5, and these proteins interact intimately, aligning from N-to C-terminus and folding back onto each other. This interaction brings their terminal segments into proximity, contributing to the formation of a central 'bulge' region in the TIII tetramer (Zupa2022The).
+
+The central segments of HAUS3 and HAUS5 create an antiparallel four-helix coiled-coil bundle, known as the H3/H5-arm. The N-termini of HAUS3 and HAUS5 fold into a small globular α-helical bundle on the surface of the central bulge, which is flexible and assumes various positions relative to the TIII tetramer core (Zupa2022The). This structural arrangement suggests that HAUS3 contributes significantly to the quaternary structure of the TIII subcomplex, participating in the formation of an extended antiparallel four-helix bundle (Travis2023Integrated).
+
+In zebrafish, the HAUS3 protein is homologous to the human augmin-like complex subunit 3 and is important for mitotic spindle assembly and centrosome integrity. The predicted open reading frame of the zebrafish haus3 gene encodes a 629 amino acid protein with two coiled-coil features (Du2011Rumba).
+
+## Function
+HAUS3 is a component of the augmin complex, which plays a critical role in microtubule organization during cell division. It is involved in spindle assembly by facilitating microtubule nucleation at the spindle, ensuring proper chromosome segregation during mitosis (Wang2023A; Neumann2010Phenotypic). HAUS3 is active in the cytoplasm, particularly during mitosis, where it contributes to genomic stability and cell cycle progression (Wang2023A).
+
+In healthy human cells, HAUS3 is associated with the formation of polylobed or grape-shaped nuclei, indicative of mitotic exit with aberrant chromosome segregation. This abnormal nuclear morphology occurs without necessarily leading to cell death, suggesting that HAUS3 plays a role in chromosome segregation during mitosis (Neumann2010Phenotypic). The augmin complex, including HAUS3, is crucial for recruiting γ-microtubulin to nucleate microtubules within the spindle, which is essential for spindle formation and mitosis (Wang2023A).
+
+HAUS3 is also involved in cell cycle regulation, apoptosis, and proteasome and ubiquitin-mediated protein hydrolysis functions. It is enriched in T and B cell receptor pathways, although its role in these pathways is not fully understood (Wang2023A).
+
+## Clinical Significance
+HAUS3, a component of the Augmin complex, plays a significant role in the clinical context of various cancers due to its involvement in microtubule nucleation and spindle formation during cell division. In low-grade gliomas (LGG), HAUS3 expression is notably elevated compared to normal brain tissue, and its expression levels increase with tumor progression, suggesting a role in tumor growth and poor prognosis (Wang2023A). High expression of HAUS3 is associated with poor prognosis in LGG patients, indicating its potential as a prognostic marker (Wang2023A).
+
+Although the mutation rate of HAUS3 in the TCGA LGG cohort is reported as 0%, its expression is positively correlated with the infiltration of various immune cells, except for neutrophils and dendritic cells, which may contribute to an immunosuppressive tumor microenvironment (Wang2023A). HAUS3 has also been identified as a mutated gene in breast cancer and is considered a poor prognostic factor in liver cancer (Wang2023A). These findings underscore the importance of HAUS3 in cancer pathogenesis and its potential as a target for therapeutic interventions.
+
+## Interactions
+HAUS3 is a subunit of the human augmin complex, which plays a critical role in microtubule organization during mitosis. Within the augmin complex, HAUS3 forms stable interactions with HAUS5, characterized by extensive coiled-coil segments and high-confidence intermolecular crosslinks, suggesting the formation of stable dimers. This interaction is crucial for the structural integrity of the augmin TIII tetramer, which includes HAUS3 and HAUS5, and is essential for the recruitment of the γ-tubulin ring complex (γ-TuRC) to spindle microtubules (Zupa2022The).
+
+HAUS3, along with HAUS5, serves as a binding site for the adaptor protein NEDD1, which in turn recruits γ-TuRC to microtubules, facilitating microtubule nucleation and branching (Song2018Mechanism). The HAUS complex, including HAUS3, is regulated by importins and Ran-GTP, which modulate its binding to microtubules. The presence of importins reduces HAUS complex binding to microtubules, an effect that can be reversed by Ran-GTP (Ustinova2023Microtubule).
+
+The HAUS complex is also involved in maintaining centrosome and spindle integrity during mitosis. Disruption of HAUS subunits, including HAUS3, leads to defects in spindle assembly and centrosome integrity, highlighting the interdependent nature of the HAUS subunits for proper mitotic function (Lawo2009HAUS).
+
+
+## References
+
+
+[1. (Lawo2009HAUS) Steffen Lawo, Mikhail Bashkurov, Michael Mullin, Mariana Gomez Ferreria, Ralf Kittler, Bianca Habermann, Andrea Tagliaferro, Ina Poser, James R.A. Hutchins, Björn Hegemann, Deborah Pinchev, Frank Buchholz, Jan-Michael Peters, Anthony A. Hyman, Anne-Claude Gingras, and Laurence Pelletier. Haus, the 8-subunit human augmin complex, regulates centrosome and spindle integrity. Current Biology, 19(10):816–826, May 2009. URL: http://dx.doi.org/10.1016/j.cub.2009.04.033, doi:10.1016/j.cub.2009.04.033. This article has 219 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cub.2009.04.033)
+
+[2. (Song2018Mechanism) Jae-Geun Song, Matthew R. King, Rui Zhang, Rachel S. Kadzik, Akanksha Thawani, and Sabine Petry. Mechanism of how augmin directly targets the γ-tubulin ring complex to microtubules. Journal of Cell Biology, 217(7):2417–2428, June 2018. URL: http://dx.doi.org/10.1083/jcb.201711090, doi:10.1083/jcb.201711090. This article has 60 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1083/jcb.201711090)
+
+[3. (Travis2023Integrated) Sophie M. Travis, Brian P. Mahon, Wei Huang, Meisheng Ma, Michael J. Rale, Jodi Kraus, Derek J. Taylor, Rui Zhang, and Sabine Petry. Integrated model of the vertebrate augmin complex. Nature Communications, April 2023. URL: http://dx.doi.org/10.1038/s41467-023-37519-4, doi:10.1038/s41467-023-37519-4. This article has 4 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-023-37519-4)
+
+[4. (Neumann2010Phenotypic) Beate Neumann, Thomas Walter, Jean-Karim Hériché, Jutta Bulkescher, Holger Erfle, Christian Conrad, Phill Rogers, Ina Poser, Michael Held, Urban Liebel, Cihan Cetin, Frank Sieckmann, Gregoire Pau, Rolf Kabbe, Annelie Wünsche, Venkata Satagopam, Michael H. A. Schmitz, Catherine Chapuis, Daniel W. Gerlich, Reinhard Schneider, Roland Eils, Wolfgang Huber, Jan-Michael Peters, Anthony A. Hyman, Richard Durbin, Rainer Pepperkok, and Jan Ellenberg. Phenotypic profiling of the human genome by time-lapse microscopy reveals cell division genes. Nature, 464(7289):721–727, April 2010. URL: http://dx.doi.org/10.1038/nature08869, doi:10.1038/nature08869. This article has 745 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature08869)
+
+[5. (Du2011Rumba) Linsen Du, Jin Xu, Xiuling Li, Ning Ma, Yanmei Liu, Jinrong Peng, Motomi Osato, Wenqing Zhang, and Zilong Wen. Rumba and haus3 are essential factors for the maintenance of hematopoietic stem/progenitor cells during zebrafish hematopoiesis. Development, 138(4):619–629, February 2011. URL: http://dx.doi.org/10.1242/dev.054536, doi:10.1242/dev.054536. This article has 32 citations and is from a peer-reviewed journal.](https://doi.org/10.1242/dev.054536)
+
+[6. (Wang2023A) Tao Wang, Senbang Yao, Siyu Li, Xichang Fei, and Mingjun Zhang. A prognostic model based on the augmin family genes for lgg patients. Scientific Reports, May 2023. URL: http://dx.doi.org/10.1038/s41598-023-34779-4, doi:10.1038/s41598-023-34779-4. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-023-34779-4)
+
+7. (Ustinova2023Microtubule) Microtubule binding of the human HAUS complex is directly controlled by importins and Ran-GTP. This article has 1 citations.
+
+[8. (Zupa2022The) Erik Zupa, Martin Würtz, Annett Neuner, Thomas Hoffmann, Mandy Rettel, Anna Böhler, Bram J. A. Vermeulen, Sebastian Eustermann, Elmar Schiebel, and Stefan Pfeffer. The augmin complex architecture reveals structural insights into microtubule branching. Nature Communications, September 2022. URL: http://dx.doi.org/10.1038/s41467-022-33228-6, doi:10.1038/s41467-022-33228-6. This article has 11 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-33228-6)

@@ -1,0 +1,54 @@
+# PDS5B
+
+## Overview
+PDS5B is a gene that encodes the protein PDS5 cohesin associated factor B, which is a crucial component of the cohesin complex. This protein is characterized by its structural features, including 20 HEAT repeats and a helical insert domain, which facilitate its role in maintaining sister chromatid cohesion during cell division (Ouyang2016Structural). As a regulatory protein, PDS5 cohesin associated factor B is involved in various cellular processes such as chromatin architecture, gene regulation, and DNA repair, particularly through the homologous recombination pathway (Morales2020PDS5; Zhang2021PDS5A). The gene's significance extends to clinical contexts, where mutations in PDS5B are linked to developmental disorders like Cornelia de Lange syndrome and its expression levels are associated with tumor suppression in several cancers (Ma2019PDS5B; Zhang2021PDS5A).
+
+## Structure
+PDS5B is a protein characterized by its structure, which includes 20 HEAT repeats and a helical insert domain (HID). These HEAT repeats form a plier-like lever structure, with the N-terminal eight repeats acting as the handle, the HID as the pivot, and the remaining repeats forming the jaw (Ouyang2016Structural). The protein also contains a conserved binding site for inositol hexakisphosphate (IP6), a structural cofactor that binds at a positively charged surface at the bottom of the jaw, crucial for maintaining the structural integrity of PDS5B (Ouyang2016Structural).
+
+The tertiary structure of PDS5B is elongated and curved, facilitating interactions with other cohesin complex components such as SA1, Scc1, and the nucleotide-binding domains of Smc1 and Smc3 (Hons2016Topology). PDS5B's quaternary structure involves its integration into the cohesin complex, where it interacts with proteins like Wapl and Sororin through specific motifs, such as the YSR motif, which is essential for binding (Ouyang2016Structural).
+
+Post-translational modifications, such as phosphorylation, may regulate PDS5B's function, although specific modifications are not detailed in the provided context. The presence of splice variant isoforms is not mentioned in the context.
+
+## Function
+PDS5B is a crucial component of the cohesin complex, which is essential for maintaining sister chromatid cohesion during cell division. It plays a significant role in chromatin architecture and gene regulation, influencing processes such as chromosome segregation, DNA repair, and transcription regulation (Zhang2021PDS5A). PDS5B is involved in the protection of replication forks by recruiting and stabilizing proteins like BRCA2, RAD51, and WRNIP1 at stalled replication forks, thereby preventing degradation of nascent DNA strands by nucleases such as MRE11 (AlJomah2020Pds5A; Morales2020PDS5).
+
+In the context of DNA repair, PDS5B is particularly important for the homologous recombination (HR) pathway, facilitating the repair of DNA double-strand breaks by interacting with HR mediator proteins such as Rad51 and BRCA2 (Zhang2021PDS5A). It also plays a role in centromeric cohesion, ensuring proper chromosome segregation by promoting the localization and activation of proteins like Aurora B at centromeres (Carretero2013Pds5B).
+
+PDS5B is active in the nucleus, where it influences cell cycle progression and genomic stability. Its function is critical for normal cell differentiation and preventing uncontrolled cell proliferation, highlighting its potential role as a tumor suppressor (Zhang2021PDS5A).
+
+## Clinical Significance
+Mutations and alterations in the PDS5B gene are linked to several diseases and conditions. PDS5B is associated with Cornelia de Lange syndrome (CdLS), a rare developmental disorder characterized by distinct craniofacial features, growth retardation, and intellectual disability. Although PDS5B mutations causing CdLS are rare, a specific missense mutation has been identified in a family with CdLS, suggesting a recessive inheritance pattern (Zhang2007Mice; Zhang2021PDS5A). PDS5B-deficient mice exhibit developmental abnormalities similar to those seen in CdLS, including heart defects and skeletal issues, indicating its critical role in development (Zhang2007Mice).
+
+In cancer biology, PDS5B is considered a tumor suppressor. Reduced expression of PDS5B is observed in various cancers, including breast, prostate, cervical, and esophageal cancers, and is correlated with higher histological grades and specific cancer subtypes (Zhang2021PDS5A). In pancreatic cancer, PDS5B regulates cell proliferation and motility, with its overexpression leading to suppressed cell growth and increased apoptosis (Ma2019PDS5B). In lung cancer, PDS5B inhibits cell proliferation and migration by upregulating LATS1, a known tumor suppressor (Xu2021PDS5B). These findings highlight the gene's role in both developmental disorders and cancer.
+
+## Interactions
+PDS5B is a protein that plays a crucial role in the regulation of sister chromatid cohesion and interacts with several components of the cohesin complex. It physically interacts with the cohesin subunits Scc1, Smc1, and Smc3, forming a curved structure around the nucleotide-binding domains of Smc1 and Smc3, and bridging the Smc3-Scc1 and SA1-Scc1 interfaces (Hons2016Topology). PDS5B also interacts with SA1 and Scc1, with its unstructured C-terminal tail contacting both, although this part is not essential for cohesin binding (Hons2016Topology).
+
+PDS5B is involved in the recruitment of BRCA2 and RAD51 to stalled replication forks, which is essential for fork protection and homologous recombination-mediated DNA repair (Morales2020PDS5). It also interacts with WRNIP1, contributing to the protection of nascent DNA strands from degradation (Morales2020PDS5).
+
+In addition, PDS5B interacts with the Shu complex components SWS1 and SWSAP1, functioning in the same pathway to promote homologous recombination and genome stability (Martino2019The). PDS5B's interactions with these proteins highlight its multifaceted role in maintaining genomic integrity.
+
+
+## References
+
+
+[1. (Ma2019PDS5B) Jia Ma, Yue Cui, Tong Cao, Hui Xu, Ying Shi, Jun Xia, Yisheng Tao, and Z. Peter Wang. Pds5b regulates cell proliferation and motility via upregulation of ptch2 in pancreatic cancer cells. Cancer Letters, 460:65–74, September 2019. URL: http://dx.doi.org/10.1016/j.canlet.2019.06.014, doi:10.1016/j.canlet.2019.06.014. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2019.06.014)
+
+[2. (Zhang2021PDS5A) Nenggang Zhang, Luiza E. Coutinho, and Debananda Pati. Pds5a and pds5b in cohesin function and human disease. International Journal of Molecular Sciences, 22(11):5868, May 2021. URL: http://dx.doi.org/10.3390/ijms22115868, doi:10.3390/ijms22115868. This article has 28 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms22115868)
+
+[3. (Martino2019The) Julieta Martino, Gregory J Brunette, Jonathan Barroso-González, Tatiana N Moiseeva, Chelsea M Smith, Christopher J Bakkenist, Roderick J O’Sullivan, and Kara A Bernstein. The human shu complex functions with pds5b and spidr to promote homologous recombination. Nucleic Acids Research, 47(19):10151–10165, September 2019. URL: http://dx.doi.org/10.1093/nar/gkz738, doi:10.1093/nar/gkz738. This article has 33 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkz738)
+
+[4. (Ouyang2016Structural) Zhuqing Ouyang, Ge Zheng, Diana R. Tomchick, Xuelian Luo, and Hongtao Yu. Structural basis and ip6 requirement for pds5-dependent cohesin dynamics. Molecular Cell, 62(2):248–259, April 2016. URL: http://dx.doi.org/10.1016/j.molcel.2016.02.033, doi:10.1016/j.molcel.2016.02.033. This article has 113 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.molcel.2016.02.033)
+
+[5. (Xu2021PDS5B) Hui Xu, Wenjing Zhou, Fan Zhang, Linhui Wu, Juan Li, Tongtong Ma, Tong Cao, Chaoqun Lian, Jun Xia, Peter Wang, Jia Ma, and Yuyun Li. Pds5b inhibits cell proliferation, migration, and invasion via upregulation of lats1 in lung cancer cells. Cell Death Discovery, June 2021. URL: http://dx.doi.org/10.1038/s41420-021-00537-6, doi:10.1038/s41420-021-00537-6. This article has 2 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-021-00537-6)
+
+[6. (AlJomah2020Pds5A) Naif Al-Jomah, Lubinda Mukololo, Awais Anjum, Mohammed Al Madadha, and Raj Patel. Pds5a and pds5b display non-redundant functions in mitosis and their loss triggers chk1 activation. Frontiers in Cell and Developmental Biology, July 2020. URL: http://dx.doi.org/10.3389/fcell.2020.00531, doi:10.3389/fcell.2020.00531. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2020.00531)
+
+[7. (Zhang2007Mice) Bin Zhang, Sanjay Jain, Haengseok Song, Ming Fu, Robert O. Heuckeroth, Jonathan M. Erlich, Patrick Y. Jay, and Jeffrey Milbrandt. Mice lacking sister chromatid cohesion protein pds5b exhibit developmental abnormalities reminiscent of cornelia de lange syndrome. Development, 134(17):3191–3201, September 2007. URL: http://dx.doi.org/10.1242/dev.005884, doi:10.1242/dev.005884. This article has 87 citations and is from a peer-reviewed journal.](https://doi.org/10.1242/dev.005884)
+
+[8. (Hons2016Topology) Michael T. Hons, Pim J. Huis in ‘t Veld, Jan Kaesler, Pascaline Rombaut, Alexander Schleiffer, Franz Herzog, Holger Stark, and Jan-Michael Peters. Topology and structure of an engineered human cohesin complex bound to pds5b. Nature Communications, August 2016. URL: http://dx.doi.org/10.1038/ncomms12523, doi:10.1038/ncomms12523. This article has 44 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms12523)
+
+[9. (Morales2020PDS5) Carmen Morales, Miguel Ruiz-Torres, Sara Rodríguez-Acebes, Vanesa Lafarga, Miriam Rodríguez-Corsino, Diego Megías, David A. Cisneros, Jan-Michael Peters, Juan Méndez, and Ana Losada. Pds5 proteins are required for proper cohesin dynamics and participate in replication fork protection. Journal of Biological Chemistry, 295(1):146–157, January 2020. URL: http://dx.doi.org/10.1074/jbc.ra119.011099, doi:10.1074/jbc.ra119.011099. This article has 45 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.ra119.011099)
+
+[10. (Carretero2013Pds5B) María Carretero, Miguel Ruiz-Torres, Miriam Rodríguez-Corsino, Isabel Barthelemy, and Ana Losada. Pds5b is required for cohesion establishment and aurora b accumulation at centromeres: pds5b is required for cohesion establishment and aurora b accumulation. The EMBO Journal, 32(22):2938–2949, October 2013. URL: http://dx.doi.org/10.1038/emboj.2013.230, doi:10.1038/emboj.2013.230. This article has 80 citations.](https://doi.org/10.1038/emboj.2013.230)

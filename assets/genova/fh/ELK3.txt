@@ -1,0 +1,50 @@
+# ELK3
+
+## Overview
+ELK3 is a gene that encodes the ETS transcription factor ELK3, a member of the ETS family of transcription factors, which are characterized by their conserved ETS DNA-binding domain. This protein plays a crucial role in regulating gene expression in response to extracellular signals, particularly under hypoxic conditions. ELK3 functions primarily as a transcriptional repressor but can also act as an activator following activation of the MAPK pathway. It is involved in various cellular processes, including cell migration, angiogenesis, and vascular integrity, by modulating the expression of genes related to these pathways (Robertson2014The). ELK3's activity is regulated by post-translational modifications, such as phosphorylation, which influence its function as a transcription factor (Park2017Novel). The protein's interactions with other molecules, such as hypoxia-inducible factors and microRNAs, underscore its significance in maintaining cellular homeostasis and its potential impact on cancer progression and vascular health (Ahmad2017Tumorsuppressive; Robertson2014The).
+
+## Structure
+ELK3, also known as NET or SAP-2, is a member of the ETS family of transcription factors. It contains a conserved ETS DNA-binding domain, which is part of the winged helix-turn-helix DNA-binding domain superfamily. This domain is crucial for recognizing the core GGAA/T sequence, known as the Ets-binding site (EBS) (Charlot2010A). ELK3 also possesses a Pointed (PNT) domain, which is involved in protein-protein interactions and oligomerization (Charlot2010A).
+
+The protein can form dimers, indicating a quaternary structure, although specific details on its primary, secondary, or tertiary structures are not provided in the available context. ELK3's activity is regulated by post-translational modifications, particularly phosphorylation, which modulates its function as a transcription factor (Park2017Novel). Phosphorylation is a common modification that affects ELK3's ability to act as a repressor or activator, depending on its state (Park2017Novel).
+
+While the context does not provide information on splice variant isoforms or prominent folds, it highlights the importance of ELK3 in various cellular processes, including its role in cancer and angiogenesis (Robertson2014The).
+
+## Function
+ELK3, an ETS transcription factor, plays a significant role in regulating gene expression in response to extracellular signals, particularly under hypoxic conditions. In healthy human cells, ELK3 is primarily localized in the nucleus, where it functions as a transcriptional repressor, although it can act as an activator following MAPK pathway activation (Robertson2014The). ELK3 is involved in various cellular processes, including cell migration, angiogenesis, and vascular integrity, by modulating the expression of genes related to these pathways (Robertson2014The).
+
+ELK3 is intricately linked to the hypoxia response, interacting with hypoxia-inducible factors such as HIF1a. It is part of a feedback loop with the oncogenic microRNA hsa-miR-155-5p, which targets ELK3 and influences its expression. This interaction is crucial for maintaining cellular homeostasis and function under hypoxic conditions (Robertson2014The). ELK3's role in angiogenesis is further highlighted by its involvement in the VEGF signaling pathway, which is essential for vascular development and repair (Robertson2014The).
+
+In lymphatic endothelial cells, ELK3 regulates cell proliferation, migration, and tube formation, indicating its importance in vasculogenic activity and lymphangiogenesis (Park2017Novel). These functions underscore ELK3's role in maintaining vascular health and its potential impact on processes such as wound healing and tumor dissemination (Park2017Novel).
+
+## Clinical Significance
+ELK3, an ETS transcription factor, has been implicated in various cancers due to alterations in its expression levels and interactions. In gastric cancer (GC), ELK3 is significantly overexpressed, correlating with poor prognosis and reduced overall survival (OS) and disease-free survival (DFS) in patients. High ELK3 expression is associated with increased tumor cell proliferation, migration, and invasion, suggesting its role as an oncogene in GC (Liu2024Construction). ELK3 is also involved in key signaling pathways such as PI3K/Akt and NF-κB, which are critical in cancer progression (Liu2024Construction).
+
+In pancreatic ductal adenocarcinoma (PDAC), ELK3 is upregulated and promotes tumor growth and metastasis by activating the Wnt/β-catenin signaling pathway. Its expression is regulated by ZEB1, a transcription factor that enhances ELK3 transcription, contributing to the epithelial-mesenchymal transition (EMT) and cancer progression (Zhao2021ELK3). The interaction between ELK3 and ZEB1 is linked to poor prognosis in PDAC patients (Zhao2021ELK3).
+
+ELK3 is also involved in the hypoxic response, where it regulates the stability of HIF-1α, a key factor in angiogenesis and tumor growth. Alterations in ELK3 expression can impact hypoxia-related processes, potentially affecting cancer therapy outcomes (Gross2007The).
+
+## Interactions
+ELK3, a member of the ETS family of transcription factors, participates in various interactions with proteins and nucleic acids. It is known to bind DNA at specific sites, predominantly near transcriptional start sites, with a preference for the ETS-motif sequence CCGGAAG, which is also recognized by other TCF family members like ELK1 and ELK4 (Robertson2014The). ELK3 forms part of a regulatory loop with the microRNA hsa-miR-155-5p, where ELK3 negatively regulates the MIR155HG gene, and hsa-miR-155-5p down-regulates ELK3 expression at both mRNA and protein levels (Robertson2014The).
+
+In the context of hypoxia, ELK3 interacts with HIF-1α, a key regulator of the hypoxic response. ELK3 indirectly influences HIF-1α stability by regulating the expression of genes such as PHD2, PHD3, and Siah2, which are involved in HIF-1α protein stability (Gross2007The). This interaction suggests that ELK3 and HIF-1α may participate in a common signaling pathway, with ELK3 playing a role in the transcriptional response to hypoxia (Gross2007The).
+
+ELK3 also interacts with miR-135a, a tumor-suppressive microRNA that targets ELK3, leading to its down-regulation in breast cancer cells (Ahmad2017Tumorsuppressive). These interactions highlight ELK3's involvement in various cellular processes, including angiogenesis, cancer pathways, and the hypoxic response.
+
+
+## References
+
+
+[1. (Park2017Novel) Ji‑In Park, Kwang‑Soo Kim, Sun‑Young Kong, and Kyung‑Soon Park. Novel function of e26 transformation-specific domain-containing protein elk3 in lymphatic endothelial cells. Oncology Letters, October 2017. URL: http://dx.doi.org/10.3892/ol.2017.7308, doi:10.3892/ol.2017.7308. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2017.7308)
+
+[2. (Zhao2021ELK3) Qiuyan Zhao, Yingchun Ren, Haoran Xie, Lanting Yu, Jiawei Lu, Weiliang Jiang, Wenqin Xiao, Zhonglin Zhu, Rong Wan, and Baiwen Li. Elk3 mediated by zeb1 facilitates the growth and metastasis of pancreatic carcinoma by activating the wnt/β-catenin pathway. Frontiers in Cell and Developmental Biology, August 2021. URL: http://dx.doi.org/10.3389/fcell.2021.700192, doi:10.3389/fcell.2021.700192. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.700192)
+
+[3. (Ahmad2017Tumorsuppressive) Akhlaq Ahmad, Weijie Zhang, Mingming Wu, Sheng Tan, and Tao Zhu. Tumor-suppressive mirna-135a inhibits breast cancer cell proliferation by targeting elk1 and elk3 oncogenes. Genes &amp; Genomics, 40(3):243–251, October 2017. URL: http://dx.doi.org/10.1007/s13258-017-0624-6, doi:10.1007/s13258-017-0624-6. This article has 39 citations.](https://doi.org/10.1007/s13258-017-0624-6)
+
+[4. (Robertson2014The) E. Douglas Robertson, Christine Wasylyk, Tao Ye, Alain C. Jung, and Bohdan Wasylyk. The oncogenic microrna hsa-mir-155-5p targets the transcription factor elk3 and links it to the hypoxia response. PLoS ONE, 9(11):e113050, November 2014. URL: http://dx.doi.org/10.1371/journal.pone.0113050, doi:10.1371/journal.pone.0113050. This article has 35 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0113050)
+
+[5. (Liu2024Construction) Chenxi Liu. Construction of gastric cancer prognostic signature based on the e26 transcription factor and the identification of novel oncogene elk3. American Journal of Cancer Research, 14(4):1831–1849, 2024. URL: http://dx.doi.org/10.62347/rvbp7871, doi:10.62347/rvbp7871. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.62347/rvbp7871)
+
+[6. (Gross2007The) C Gross, H Dubois-Pot, and B Wasylyk. The ternary complex factor net/elk-3 participates in the transcriptional response to hypoxia and regulates hif-1α. Oncogene, 27(9):1333–1341, August 2007. URL: http://dx.doi.org/10.1038/sj.onc.1210736, doi:10.1038/sj.onc.1210736. This article has 31 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/sj.onc.1210736)
+
+[7. (Charlot2010A) Céline Charlot, Hélène Dubois-Pot, Tsvetan Serchov, Yves Tourrette, and Bohdan Wasylyk. A Review of Post-translational Modifications and Subcellular Localization of Ets Transcription Factors: Possible Connection with Cancer and Involvement in the Hypoxic Response, pages 3–30. Humana Press, 2010. URL: http://dx.doi.org/10.1007/978-1-60761-738-9_1, doi:10.1007/978-1-60761-738-9_1. This article has 52 citations.](https://doi.org/10.1007/978-1-60761-738-9_1)

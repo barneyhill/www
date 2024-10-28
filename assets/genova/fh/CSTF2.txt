@@ -1,0 +1,60 @@
+# CSTF2
+
+## Overview
+CSTF2 is a gene that encodes the protein cleavage stimulation factor subunit 2 (CstF-64), which is a critical component of the cleavage stimulation factor (CstF) complex involved in the 3′ end processing of pre-mRNA. This protein plays a pivotal role in mRNA maturation by facilitating cleavage and polyadenylation, processes essential for mRNA stability, export, and translation. CstF-64 is characterized by its RNA recognition motif (RRM), which binds to U- or GU-rich sequences downstream of the cleavage site, and its interactions with other proteins such as CstF-77 and symplekin, which are crucial for the assembly and function of the polyadenylation machinery (Perez2003Recognition; Hockert2010The). The gene's expression and function are vital for various biological processes, including immune response, neuronal development, and cancer progression, making it a significant focus of research in both normal physiology and disease contexts (Grozdanov2020A; Chen2022CSTF2).
+
+## Structure
+The CSTF2 gene encodes the CstF-64 protein, a crucial component of the cleavage stimulation factor complex involved in mRNA processing. The protein has a linear domain structure that includes an N-terminal RNA recognition motif (RRM), which binds to U- or GU-rich sequences downstream of the cleavage site (Feng2022Cleavage; Hockert2010The). The RRM is essential for RNA binding and is characterized by a central β-sheet and secondary structures that allow binding to additional G and U residues (Grozdanov2018The). 
+
+Adjacent to the RRM is the Hinge domain, which mediates interaction with CstF-77 and is crucial for nuclear localization (Hockert2010The). The protein also contains a proline/glycine-rich domain and 12 repeats of the amino acids MEAR(A/G), which may serve as a flexible linker for protein-protein interactions (Hockert2010The). The C-terminal domain (CTD) interacts with Pcf11 and possibly PC4, linking CstF-64 to transcription and transcriptional termination (Hockert2010The).
+
+CstF-64 exists in different isoforms due to alternative splicing, including a neuronal splice variant, βCstF-64, which alters polyadenylation function (Hockert2010The). The protein's structure and interactions are essential for its role in mRNA cleavage and polyadenylation.
+
+## Function
+The CSTF2 gene encodes a protein that is a crucial component of the cleavage stimulation factor (CstF) complex, which is involved in the 3′ end processing of pre-mRNA. This process includes cleavage and polyadenylation, essential steps for mRNA maturation, stability, export from the nucleus, and translation efficiency (Grozdanov2020A; Grozdanov2020Aa). CSTF2 specifically binds to U- or GU-rich sequences downstream of the cleavage site through its RNA recognition motif (RRM), facilitating the cleavage and polyadenylation process (Feng2022Cleavage; Grozdanov2020A).
+
+In healthy human cells, CSTF2 plays a significant role in regulating gene expression, impacting various biological processes such as immune cell function, spermatogenesis, and embryonic stem cell development (Grozdanov2020A; Grozdanov2020Aa). It is particularly important in neuronal function, where it regulates the 3' end cleavage and polyadenylation of mRNAs, which is crucial for brain plasticity and neuronal development (Grozdanov2020Aa). CSTF2's activity in the nucleus ensures proper mRNA processing, maintaining normal cellular functions and supporting processes like learning and memory (Grozdanov2020A; Grozdanov2020Aa).
+
+## Clinical Significance
+Mutations and alterations in the CSTF2 gene have been linked to several diseases and conditions. In non-small cell lung cancer (NSCLC), CSTF2 is frequently overexpressed, correlating with poor prognosis and shorter survival periods for patients. This overexpression supports cancer cell growth and invasion, making CSTF2 a potential therapeutic target and prognostic biomarker in NSCLC (Aragaki2011Characterization).
+
+In hepatocellular carcinoma (HCC), high CSTF2 expression is associated with advanced clinical stages and poor prognosis. CSTF2 knockout in HCC cell lines inhibits cell proliferation, migration, and invasion, while its overexpression promotes these processes, highlighting its role in HCC progression (Chen2022CSTF2).
+
+A missense mutation in CSTF2, specifically the D50A mutation, is associated with intellectual disability in humans. This mutation affects the RNA recognition motif, leading to defects in 3' end mRNA processing and impacting neurodevelopmental genes. The mutation results in altered polyadenylation sites, particularly in the brain, contributing to cognitive disabilities (Grozdanov2020Aa).
+
+In urothelial carcinoma of the bladder, CSTF2 regulates oncogenic functions by modulating the RAC1 short-3' UTR isoform, with high CSTF2 expression linked to poor disease-free survival (Chen2018CSTF2Induced).
+
+## Interactions
+CSTF2, also known as CstF-64, is a key component of the cleavage stimulation factor (CstF) complex involved in mRNA processing. It interacts with several proteins and nucleic acids to facilitate polyadenylation. CSTF2 contains an RNA recognition motif (RRM) that binds to U- and GU-rich sequences downstream of the cleavage site, which is crucial for the efficiency of polyadenylation site utilization (Deka2005Protein; Perez2003Recognition).
+
+CSTF2 interacts with CstF-77, a subunit that is essential for the stability and nuclear localization of the CstF complex. The interaction between CSTF2 and CstF-77 is mediated by the Hinge domain of CSTF2, which is crucial for the nuclear import of the complex (Ruepp2011Interactions; Hockert2010The). CstF-77 also acts as a scaffold, linking CSTF2 to other components of the polyadenylation machinery, such as CPSF (Takagaki2000Complex).
+
+CSTF2 also interacts with symplekin, a nuclear protein involved in polyadenylation. The interactions with CstF-77 and symplekin are mutually exclusive, affecting the localization and function of CSTF2 (Ruepp2011Interactions). These interactions are critical for the assembly and function of the polyadenylation complex, influencing mRNA processing and regulation.
+
+
+## References
+
+
+[1. (Grozdanov2020Aa) Petar N Grozdanov, Elahe Masoumzadeh, Vera M Kalscheuer, Thierry Bienvenu, Pierre Billuart, Marie-Ange Delrue, Michael P Latham, and Clinton C MacDonald. A missense mutation in the cstf2 gene that impairs the function of the rna recognition motif and causes defects in 3′ end processing is associated with intellectual disability in humans. Nucleic Acids Research, 48(17):9804–9821, August 2020. URL: http://dx.doi.org/10.1093/nar/gkaa689, doi:10.1093/nar/gkaa689. This article has 10 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkaa689)
+
+[2. (Deka2005Protein) Pritilekha Deka, P.K. Rajan, Jose Manuel Perez-Canadillas, and Gabriele Varani. Protein and rna dynamics play key roles in determining the specific recognition of gu-rich polyadenylation regulatory elements by human cstf-64 protein. Journal of Molecular Biology, 347(4):719–733, April 2005. URL: http://dx.doi.org/10.1016/j.jmb.2005.01.046, doi:10.1016/j.jmb.2005.01.046. This article has 55 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jmb.2005.01.046)
+
+[3. (Perez2003Recognition) J. M. Perez Canadillas. Recognition of gu-rich polyadenylation regulatory elements by human cstf-64 protein. The EMBO Journal, 22(11):2821–2830, June 2003. URL: http://dx.doi.org/10.1093/emboj/cdg259, doi:10.1093/emboj/cdg259. This article has 125 citations.](https://doi.org/10.1093/emboj/cdg259)
+
+[4. (Grozdanov2018The) Petar N Grozdanov, Elahe Masoumzadeh, Michael P Latham, and Clinton C MacDonald. The structural basis of cstf-77 modulation of cleavage and polyadenylation through stimulation of cstf-64 activity. Nucleic Acids Research, September 2018. URL: http://dx.doi.org/10.1093/nar/gky862, doi:10.1093/nar/gky862. This article has 7 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gky862)
+
+[5. (Ruepp2011Interactions) Marc-David Ruepp, Christoph Schweingruber, Nicole Kleinschmidt, and Daniel Schümperli. Interactions of cstf-64, cstf-77, and symplekin: implications on localisation and function. Molecular Biology of the Cell, 22(1):91–104, January 2011. URL: http://dx.doi.org/10.1091/mbc.E10-06-0543, doi:10.1091/mbc.e10-06-0543. This article has 59 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1091/mbc.E10-06-0543)
+
+[6. (Feng2022Cleavage) Linfei Feng, Fengyang Jing, Xiaofeng Qin, Liming Zhou, Yujie Ning, Jun Hou, Weihao Kong, and Youming Zhu. Cleavage stimulation factor subunit 2: function across cancers and potential target for chemotherapeutic drugs. Frontiers in Pharmacology, March 2022. URL: http://dx.doi.org/10.3389/fphar.2022.852469, doi:10.3389/fphar.2022.852469. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fphar.2022.852469)
+
+[7. (Chen2022CSTF2) Zhimin Chen, Weijie Hao, Jingzhi Tang, Wei-Qiang Gao, and Huiming Xu. Cstf2 promotes hepatocarcinogenesis and hepatocellular carcinoma progression via aerobic glycolysis. Frontiers in Oncology, July 2022. URL: http://dx.doi.org/10.3389/fonc.2022.897804, doi:10.3389/fonc.2022.897804. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.897804)
+
+[8. (Hockert2010The) J.Andrew Hockert, Hsiang-Jui Yeh, and Clinton C. MacDonald. The hinge domain of the cleavage stimulation factor protein cstf-64 is essential for cstf-77 interaction, nuclear localization, and polyadenylation. Journal of Biological Chemistry, 285(1):695–704, January 2010. URL: http://dx.doi.org/10.1074/jbc.m109.061705, doi:10.1074/jbc.m109.061705. This article has 25 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1074/jbc.m109.061705)
+
+[9. (Chen2018CSTF2Induced) Xin Chen, Jia-Xing Zhang, Jun-Hang Luo, Song Wu, Gang-Jun Yuan, Ning-Fang Ma, Yong Feng, Mu-Yan Cai, Ri-Xin Chen, Jun Lu, Li-Juan Jiang, Jie-Wei Chen, Xiao-Han Jin, Hai-Liang Liu, Wei Chen, Xin-Yuan Guan, Tie-Bang Kang, Fang-Jian Zhou, and Dan Xie. Cstf2-induced shortening of the rac1 3′utr promotes the pathogenesis of urothelial carcinoma of the bladder. Cancer Research, 78(20):5848–5862, October 2018. URL: http://dx.doi.org/10.1158/0008-5472.CAN-18-0822, doi:10.1158/0008-5472.can-18-0822. This article has 59 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/0008-5472.CAN-18-0822)
+
+10. (Grozdanov2020A) A Point Mutation in the RNA Recognition Motif of CSTF2 Associated with Intellectual Disability in Humans Causes Defects in 3′ End Processing. This article has 0 citations.
+
+[11. (Aragaki2011Characterization) Masato Aragaki, Koji Takahashi, Hirohiko Akiyama, Eiju Tsuchiya, Satoshi Kondo, Yusuke Nakamura, and Yataro Daigo. Characterization of a cleavage stimulation factor, 3′ pre-rna, subunit 2, 64 kda (cstf2) as a therapeutic target for lung cancer. Clinical Cancer Research, 17(18):5889–5900, September 2011. URL: http://dx.doi.org/10.1158/1078-0432.ccr-11-0240, doi:10.1158/1078-0432.ccr-11-0240. This article has 35 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1158/1078-0432.ccr-11-0240)
+
+[12. (Takagaki2000Complex) Yoshio Takagaki and James L. Manley. Complex protein interactions within the human polyadenylation machinery identify a novel component. Molecular and Cellular Biology, 20(5):1515–1525, March 2000. URL: http://dx.doi.org/10.1128/mcb.20.5.1515-1525.2000, doi:10.1128/mcb.20.5.1515-1525.2000. This article has 196 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/mcb.20.5.1515-1525.2000)

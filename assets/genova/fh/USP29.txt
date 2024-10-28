@@ -1,0 +1,54 @@
+# USP29
+
+## Overview
+USP29 (ubiquitin specific peptidase 29) is a gene that encodes a deubiquitinating enzyme, which plays a pivotal role in the regulation of protein stability and cellular processes. The protein product of USP29 is characterized by its catalytic USP domain, which is essential for its enzymatic activity in removing ubiquitin moieties from substrate proteins, thereby preventing their degradation. This enzyme is involved in various cellular functions, including the DNA damage response, antiviral immunity, and cancer progression. By stabilizing key proteins such as Claspin, SETD8, and cGAS, USP29 influences processes like DNA replication, histone modification, and immune signaling. Its activity is crucial in both the cytoplasm and nucleus, impacting cellular stress responses and genomic stability. Due to its significant role in these pathways, USP29 is considered a potential target for therapeutic interventions in cancer and immune-related disorders (Wu2020USP29; Zhang2020USP29; HernándezReyes2022USP29).
+
+## Structure
+USP29 is a deubiquitinating enzyme characterized by a specific domain structure that includes an N-terminus and a catalytic USP domain. The N-terminus comprises amino acids 1-283, while the catalytic USP domain spans amino acids 284-922, which is crucial for its enzymatic activity (Wu2020USP29). The catalytic domain is essential for USP29's deubiquitylating activity, which stabilizes target proteins by reducing their ubiquitylation (Wu2020USP29). 
+
+USP29 interacts with various proteins, such as Snail1, cGAS, and SETD8, through its catalytic activity, highlighting its role in post-translational modification processes (Wu2020USP29; Zhang2020USP29; HernándezReyes2022USP29). The protein's catalytic activity is dependent on a cysteine protease catalytic site, making it a potential target for drug development (Schober2020USP29). 
+
+The structure of USP29 allows it to interact with and stabilize proteins involved in critical cellular processes, such as antiviral responses and cancer progression, by preventing their proteasomal degradation (Wu2020USP29; Zhang2020USP29). Specific post-translational modifications of USP29 itself are not detailed in the available context.
+
+## Function
+USP29 (ubiquitin specific peptidase 29) is a deubiquitinating enzyme that plays a critical role in maintaining protein stability and regulating various cellular processes. In healthy human cells, USP29 is involved in the DNA damage response by stabilizing key proteins such as Claspin and SETD8. Claspin is essential for the activation of Chk1, a kinase that delays cell cycle progression in response to DNA damage. USP29 stabilizes Claspin by removing ubiquitin, preventing its degradation and ensuring proper DNA replication and cell cycle progression (Martín2014USP29).
+
+USP29 also regulates the protein levels of SETD8, a histone methyltransferase involved in transcriptional regulation and genome maintenance. By deubiquitinating SETD8, USP29 influences histone H4K20 methylation, which is crucial for DNA damage repair and the formation of 53BP1 foci (HernándezReyes2022USP29).
+
+Additionally, USP29 is implicated in antiviral responses by stabilizing cGAS, a cytoplasmic DNA sensor. This stabilization enhances the production of cGAMP, promoting antiviral immunity and modulating autoimmune responses (Zhang2020USP29). USP29's activity is observed in both the cytoplasm and nucleus, highlighting its broad impact on cellular stress responses and genomic stability.
+
+## Clinical Significance
+Alterations in the expression of the USP29 gene have been implicated in various cancers, contributing to disease progression and treatment resistance. In hepatocellular carcinoma (HCC), USP29 is associated with resistance to Sorafenib, a common therapeutic agent. USP29 stabilizes the transcription factor HIF1α, promoting glycolysis and maintaining drug resistance. Knocking down USP29 in resistant HCC cells re-sensitizes them to Sorafenib, suggesting its potential as a therapeutic target to overcome resistance (Gao2021USP29mediated).
+
+In gastric cancer, USP29 expression is significantly upregulated and linked to poor patient survival. It stabilizes AURKB, a protein involved in cell proliferation, by preventing its degradation. This stabilization is crucial for tumor cell proliferation and survival, indicating USP29 as a potential therapeutic target in gastric cancer (Tu2024USP29).
+
+USP29 also plays a role in non-small cell lung cancer (NSCLC), where it stabilizes Snail1, a protein associated with cancer stemness and chemoresistance. Its expression is upregulated in response to chemotherapy-induced oxidative stress, promoting tumor progression and poor prognosis (Wu2020USP29).
+
+In the context of autoimmunity and antiviral responses, USP29 stabilizes cGAS, a protein crucial for immune signaling. Deficiency in USP29 leads to impaired antiviral responses and alleviates autoimmune symptoms in certain mouse models, suggesting its involvement in immune regulation (Zhang2020USP29).
+
+## Interactions
+USP29, a deubiquitinating enzyme, interacts with several proteins, playing a crucial role in regulating their stability and function. It directly interacts with SETD8, a histone methyltransferase, stabilizing it by reducing its polyubiquitination. This interaction is dependent on the ubiquitin hydrolase activity of USP29, as demonstrated by decreased polyubiquitination of SETD8 when co-expressed with wild-type USP29 compared to a catalytically inactive version (HernándezReyes2022USP29).
+
+USP29 also interacts with cGAS, a key sensor in the innate immune response to cytoplasmic DNA. It removes K48-linked polyubiquitin chains from cGAS, thereby stabilizing it and promoting antiviral responses. This interaction is crucial for maintaining high levels of cGAS in uninfected cells and is independent of TRIM38, suggesting a unique regulatory mechanism (Zhang2020USP29).
+
+In the context of cancer, USP29 stabilizes Snail1, a transcription factor involved in epithelial-mesenchymal transition, by deubiquitination. This interaction enhances Snail1 stability and is crucial for its role in promoting stemness and chemoresistance in non-small cell lung cancer cells (Wu2020USP29).
+
+USP29 also regulates the stability of Claspin, a checkpoint adaptor protein involved in the DNA damage response. It interacts with Claspin, reducing its ubiquitination and preventing its degradation, which is essential for proper cell cycle progression and DNA replication (Martín2014USP29).
+
+
+## References
+
+
+[1. (Wu2020USP29) Yueguang Wu, Yingqiu Zhang, Duchuang Wang, Yang Zhang, Jinrui Zhang, Yayun Zhang, Lu Xu, Taishu Wang, Shanshan Wang, Qingqing Zhang, Fang Liu, Mohamed Y. Zaky, Qiong Li, Qianhui Sun, Dong Guo, Shuyan Liu, Lijuan Zou, Qingkai Yang, and Han Liu. Usp29 enhances chemotherapy-induced stemness in non-small cell lung cancer via stabilizing snail1 in response to oxidative stress. Cell Death &amp; Disease, September 2020. URL: http://dx.doi.org/10.1038/s41419-020-03008-5, doi:10.1038/s41419-020-03008-5. This article has 23 citations.](https://doi.org/10.1038/s41419-020-03008-5)
+
+[2. (Zhang2020USP29) Qiang Zhang, Zhen Tang, Ran An, Liya Ye, and Bo Zhong. Usp29 maintains the stability of cgas and promotes cellular antiviral responses and autoimmunity. Cell Research, 30(10):914–927, May 2020. URL: http://dx.doi.org/10.1038/s41422-020-0341-6, doi:10.1038/s41422-020-0341-6. This article has 51 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41422-020-0341-6)
+
+[3. (HernándezReyes2022USP29) Yeray Hernández-Reyes, María Cristina Paz-Cabrera, Raimundo Freire, and Veronique A. J. Smits. Usp29 deubiquitinates setd8 and regulates dna damage-induced h4k20 monomethylation and 53bp1 focus formation. Cells, 11(16):2492, August 2022. URL: http://dx.doi.org/10.3390/cells11162492, doi:10.3390/cells11162492. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells11162492)
+
+4. (Schober2020USP29) USP29 is a novel non-canonical Hypoxia Inducible Factor-α activator. This article has 1 citations.
+
+[5. (Gao2021USP29mediated) Ruize Gao, David Buechel, Ravi K. R. Kalathur, Marco F. Morini, Mairene Coto-Llerena, Caner Ercan, Salvatore Piscuoglio, Qian Chen, Tanja Blumer, Xueya Wang, Eva Dazert, Markus H. Heim, Michael N. Hall, Fengyuan Tang, and Gerhard Christofori. Usp29-mediated hif1α stabilization is associated with sorafenib resistance of hepatocellular carcinoma cells by upregulating glycolysis. Oncogenesis, July 2021. URL: http://dx.doi.org/10.1038/s41389-021-00338-7, doi:10.1038/s41389-021-00338-7. This article has 37 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41389-021-00338-7)
+
+[6. (Tu2024USP29) Rongfu Tu, Ye Kang, Yiwen Pan, Yanyan Da, Doudou Ren, Ru Zhang, Zeqiong Cai, Yijia Liu, Jiao Xu, Junpeng Ma, Zhiyong Zhou, Shupeng Yin, Xiaozhuang Li, Peng Zhang, Qi Zhang, Jingchao Wang, Xinlan Lu, and Chengsheng Zhang. Usp29 activation mediated by fubp1 promotes aurkb stability and oncogenic functions in gastric cancer. Cancer Cell International, January 2024. URL: http://dx.doi.org/10.1186/s12935-024-03224-5, doi:10.1186/s12935-024-03224-5. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-024-03224-5)
+
+[7. (Martín2014USP29) Y Martín, E Cabrera, H Amoedo, S Hernández-Pérez, R Domínguez-Kelly, and R Freire. Usp29 controls the stability of checkpoint adaptor claspin by deubiquitination. Oncogene, 34(8):1058–1063, March 2014. URL: http://dx.doi.org/10.1038/onc.2014.38, doi:10.1038/onc.2014.38. This article has 61 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/onc.2014.38)

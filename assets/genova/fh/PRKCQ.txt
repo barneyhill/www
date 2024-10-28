@@ -1,0 +1,58 @@
+# PRKCQ
+
+## Overview
+The PRKCQ gene encodes protein kinase C theta (PKCθ), a serine/threonine kinase that is a member of the novel PKC subfamily. PKCθ is predominantly expressed in T-cells and plays a critical role in T-cell activation and immune response regulation. It is characterized by a unique structure that includes a C2-like domain, a diacylglycerol (DAG)-binding C1 domain, and a kinase domain, which are essential for its function in signal transduction. PKCθ is involved in the activation of key transcription factors such as NF-κB, AP-1, and NFAT, which are crucial for T-cell proliferation and differentiation. Beyond its role in immune signaling, PKCθ is implicated in various pathological conditions, including cancer, where it influences cell survival and migration. Its involvement in immune-related pathways and disease states highlights its potential as a therapeutic target and biomarker for disease prognosis (Abdelatty2022PanCancer; Isakov2002Protein; Brezar2015PKCTheta; Cohen2011Protein).
+
+## Structure
+The PRKCQ gene encodes protein kinase C theta (PKCθ), a serine/threonine kinase predominantly expressed in T-cells. PKCθ is characterized by a C2-like domain, a diacylglycerol (DAG)-binding C1 domain, and a kinase domain. The C1 domain is divided into C1A and C1B subdomains, with the C1B domain playing a crucial role in membrane translocation and activation. The C1B domain consists of two β-sheets and a short α-helix, forming a V-shaped activator-binding groove that coordinates with two Zn²⁺ ions through cysteine and histidine residues (Rahman2013Identification). Key residues such as Tyr 239, Thr 243, Trp 253, Leu 255, and Gln 258 are critical for ligand binding, with Gln 258 significantly stabilizing the activator-binding pocket (Rahman2013Identification).
+
+PKCθ undergoes phosphorylation as a post-translational modification, which is essential for its activation. The protein also has several splice variants, which influence its function and localization (Kofler1998Molecular). The structural insights into PKCθ, particularly the C1B domain, are important for understanding its unique role in T-cell activation and for the development of PKCθ-selective therapeutic molecules (Rahman2013Identification).
+
+## Function
+The PRKCQ gene encodes protein kinase C theta (PKCθ), a serine/threonine kinase that plays a pivotal role in T-cell activation and immune response regulation. PKCθ is a member of the novel PKC subfamily and is uniquely involved in T-cell receptor (TCR) signaling. It translocates to the immunological synapse upon TCR engagement, where it interacts with signaling molecules to initiate activation signals necessary for T-cell activation and interleukin-2 (IL-2) production (Isakov2002Protein; Cohen2011Protein).
+
+PKCθ is crucial for the activation of transcription factors such as NF-κB, AP-1, and NFAT, which are essential for T-cell activation and proliferation. It phosphorylates CARMA1, leading to the formation of a signaling complex that activates the IKK complex, resulting in NF-κB nuclear translocation (Brezar2015PKCTheta). PKCθ also plays a role in chromatin-associated transcriptional regulation, forming a complex with RNA polymerase II to regulate immune-responsive genes (Brezar2015PKCTheta).
+
+In addition to its role in T-cell activation, PKCθ is involved in the differentiation of T cells into specific lineages, such as Th2 and Th17 cells, and is essential for optimal Tc-mediated immune responses (Brezar2015PKCTheta; Cohen2011Protein). PKCθ's activity is regulated by its translocation to the immunological synapse and its interaction with cofactors produced along the PI3K-and Vav-dependent pathway (Cohen2011Protein).
+
+## Clinical Significance
+Mutations and alterations in the expression of the PRKCQ gene, which encodes protein kinase C theta (PKCθ), have significant clinical implications in various diseases. In the context of platelet function, PRKCQ is a direct transcriptional target of the transcription factor RUNX1. Mutations in RUNX1 can lead to thrombocytopenia and impaired platelet function, as they result in decreased PRKCQ expression, which is crucial for platelet activation and aggregation (Jalagadugula2011Platelet).
+
+In cancer, PRKCQ plays a role in the growth and survival of triple-negative breast cancer (TNBC) cells. Downregulation of PRKCQ impairs TNBC cell growth and increases anoikis, a form of programmed cell death, indicating its role in cancer cell survival and oncogenic growth (Byerly2016PRKCQ). PRKCQ is also involved in the regulation of breast cancer stem cell markers, with its inhibition leading to decreased cancer cell migration and affecting epithelial-mesenchymal transition (Salem2021Crosstalk).
+
+In a broader cancer context, low PRKCQ expression is associated with lower survival rates in several cancers, and its expression is linked to immune-related pathways, suggesting its potential as a biomarker for cancer prognosis and response to immunotherapy (Abdelatty2022PanCancer).
+
+## Interactions
+Protein kinase C theta (PRKCQ) is involved in various interactions critical for T cell activation and immune response. PRKCQ translocates to the immunological synapse (IS) upon antigen stimulation, where it interacts with the CD28 receptor. This interaction is facilitated by the Lck tyrosine kinase, which is essential for PRKCQ's recruitment to the central supramolecular activation cluster (cSMAC) in the IS (HAYASHI2007Protein; Zhang2013The). The V3 domain of PRKCQ is crucial for this recruitment, mediated by an indirect association with CD28 through Lck (Zhang2013The).
+
+PRKCQ also interacts with the Bcl10-MALT1 complex, which is recruited by the phosphorylation of CARMA1, leading to the activation of IKK and subsequent NF-κB nuclear translocation (Zhang2013The). In NK cells, PRKCQ phosphorylates SHP-1 on serine 591, maintaining SHP-1 in an inactive conformation and thereby enhancing NK cell activity (BenShmuel2022Inhibition).
+
+Additionally, PRKCQ is regulated by Vav1, a guanine nucleotide exchange factor, placing it downstream in growth signaling pathways (HAYASHI2007Protein). These interactions highlight PRKCQ's role in immune cell signaling and its involvement in various protein complexes and pathways.
+
+
+## References
+
+
+[1. (Byerly2016PRKCQ) Jessica Byerly, Gwyneth Halstead-Nussloch, Koichi Ito, Igor Katsyv, and Hanna Y. Irie. Prkcq promotes oncogenic growth and anoikis resistance of a subset of triple-negative breast cancer cells. Breast Cancer Research, September 2016. URL: http://dx.doi.org/10.1186/s13058-016-0749-6, doi:10.1186/s13058-016-0749-6. This article has 32 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1186/s13058-016-0749-6)
+
+[2. (BenShmuel2022Inhibition) Aviad Ben-Shmuel, Batel Sabag, Abhishek Puthenveetil, Guy Biber, Moria Levy, Tammir Jubany, Fatima Awwad, Roshan Kumar Roy, Noah Joseph, Omri Matalon, Jessica Kivelevitz, and Mira Barda-Saad. Inhibition of shp-1 activity by pkc-θ regulates nk cell activation threshold and cytotoxicity. eLife, March 2022. URL: http://dx.doi.org/10.7554/elife.73282, doi:10.7554/elife.73282. This article has 9 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.73282)
+
+[3. (Abdelatty2022PanCancer) Alaa Abdelatty, Qi Sun, Junhong Hu, Fubing Wu, Guanqun Wei, Haojun Xu, Guoren Zhou, Xiaoming Wang, Hongping Xia, and Linhua Lan. Pan-cancer study on protein kinase c family as a potential biomarker for the tumors immune landscape and the response to immunotherapy. Frontiers in Cell and Developmental Biology, January 2022. URL: http://dx.doi.org/10.3389/fcell.2021.798319, doi:10.3389/fcell.2021.798319. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fcell.2021.798319)
+
+[4. (Salem2021Crosstalk) Sohair Salem and Rehab Mosaad. Crosstalk between mir‐203 and pkcθ regulates breast cancer stem cell markers. Annals of Human Genetics, 85(3–4):105–114, February 2021. URL: http://dx.doi.org/10.1111/ahg.12415, doi:10.1111/ahg.12415. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.1111/ahg.12415)
+
+[5. (HAYASHI2007Protein) K HAYASHI and A ALTMAN. Protein kinase c theta (pkcθ): a key player in t cell life and death. Pharmacological Research, 55(6):537–544, June 2007. URL: http://dx.doi.org/10.1016/j.phrs.2007.04.009, doi:10.1016/j.phrs.2007.04.009. This article has 157 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.phrs.2007.04.009)
+
+[6. (Kofler1998Molecular) K. Kofler, S. Köchl, W. Parson, M. Erdel, G. Utermann, and G. Baier. Molecular characterization of the human protein kinase c θ * gene locus (prkcq). Molecular and General Genetics MGG, 259(4):398–403, September 1998. URL: http://dx.doi.org/10.1007/s004380050829, doi:10.1007/s004380050829. This article has 7 citations.](https://doi.org/10.1007/s004380050829)
+
+[7. (Zhang2013The) Elizabeth Yan Zhang, Kok-Fai Kong, and Amnon Altman. The Yin and Yang of Protein Kinase C-theta (PKCθ), pages 267–312. Elsevier, 2013. URL: http://dx.doi.org/10.1016/B978-0-12-404717-4.00006-8, doi:10.1016/b978-0-12-404717-4.00006-8. This article has 67 citations.](https://doi.org/10.1016/B978-0-12-404717-4.00006-8)
+
+[8. (Jalagadugula2011Platelet) Gauthami Jalagadugula, Guangfen Mao, Gurpreet Kaur, Danny N. Dhanasekaran, and A. Koneti Rao. Platelet protein kinase c-θ deficiency with human runx1 mutation: prkcq is a transcriptional target of runx1. Arteriosclerosis, Thrombosis, and Vascular Biology, 31(4):921–927, April 2011. URL: http://dx.doi.org/10.1161/atvbaha.110.221879, doi:10.1161/atvbaha.110.221879. This article has 26 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1161/atvbaha.110.221879)
+
+[9. (Brezar2015PKCTheta) Vedran Brezar, Wen Juan Tu, and Nabila Seddiki. Pkc-theta in regulatory and effector t-cell functions. Frontiers in Immunology, October 2015. URL: http://dx.doi.org/10.3389/fimmu.2015.00530, doi:10.3389/fimmu.2015.00530. This article has 36 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2015.00530)
+
+[10. (Rahman2013Identification) Ghazi M. Rahman, Sreejesh Shanker, Nancy E. Lewin, Noemi Kedei, Colin S. Hill, B. V. Venkataram Prasad, Peter M. Blumberg, and Joydip Das. Identification of the activator-binding residues in the second cysteine-rich regulatory domain of protein kinase cθ (pkcθ). Biochemical Journal, 451(1):33–44, March 2013. URL: http://dx.doi.org/10.1042/bj20121307, doi:10.1042/bj20121307. This article has 25 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20121307)
+
+[11. (Cohen2011Protein) Sagit Cohen, Alex Braiman, George Shubinsky, and Noah Isakov. Protein kinase c-theta in platelet activation. FEBS Letters, 585(20):3208–3215, September 2011. URL: http://dx.doi.org/10.1016/j.febslet.2011.09.014, doi:10.1016/j.febslet.2011.09.014. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.febslet.2011.09.014)
+
+[12. (Isakov2002Protein) Noah Isakov and Amnon Altman. Protein kinase cθ in t cell activation. Annual Review of Immunology, 20(1):761–794, April 2002. URL: http://dx.doi.org/10.1146/annurev.immunol.20.100301.064807, doi:10.1146/annurev.immunol.20.100301.064807. This article has 284 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1146/annurev.immunol.20.100301.064807)

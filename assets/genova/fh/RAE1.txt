@@ -1,0 +1,56 @@
+# RAE1
+
+## Overview
+RAE1 (ribonucleic acid export 1) is a gene that encodes a protein involved in the nuclear export of mRNA, a critical step in gene expression. The RAE1 protein is characterized by a seven-bladed β-propeller structure, which facilitates its interactions with other proteins, notably the nucleoporin NUP98 at the nuclear pore complex. This interaction is essential for the transport of mRNA from the nucleus to the cytoplasm, thereby playing a vital role in maintaining cellular mRNA levels (Pritchard1999RAE1; Ren2010Structural). Beyond its role in mRNA export, RAE1 is also implicated in the mitotic checkpoint, where it collaborates with Bub3 to ensure proper chromosome segregation during cell division (Babu2003Rae1). Dysregulation of RAE1 has been associated with various cancers, including breast cancer and hepatocellular carcinoma, where it is often overexpressed and linked to poor prognosis (Oh2017The; Chi2022RAE1). Additionally, RAE1's interactions are disrupted in certain leukemias, contributing to chromosomal instability (Funasaka2011RNA).
+
+## Structure
+RAE1 is characterized by a seven-bladed β-propeller structure, a common feature in proteins that facilitates protein-protein interactions. This β-propeller is formed by WD40 repeats, which contribute to its tertiary structure and create a central tunnel along its pseudo-seven-fold axis. The β-propeller is decorated with several long surface loops, which are involved in interactions with other proteins (Ren2010Structural).
+
+The interaction between RAE1 and the nucleoporin Nup98 is mediated by the GLEBS motif of Nup98, which forms a hairpin structure with antiparallel β-strands and a C-terminal α-helix. This motif binds to the top face of the RAE1 β-propeller, with specific interactions involving the β2 strand of the GLEBS motif and the 5D6A interblade connector of RAE1. The N-terminal tip of the GLEBS helix αA also inserts into the central tunnel of the RAE1 β-propeller (Ren2010Structural).
+
+RAE1 is also a substrate for the deubiquitinating enzyme USP11, which modulates its ubiquitination at the mitotic spindle, influencing its interaction with the Nuclear Mitotic Apparatus protein (NuMA) (Stockum2018USP11). This post-translational modification is crucial for its role in mitotic spindle formation.
+
+## Function
+RAE1 (ribonucleic acid export 1) is a protein that plays a crucial role in the nuclear export of mRNA, a vital process in gene expression. It functions as a shuttling mRNA export factor, interacting with the nuclear pore complex (NPC) through the nucleoporin NUP98. RAE1 binds to a GLEBS-like motif within NUP98, facilitating the transport of mRNA from the nucleus to the cytoplasm (Pritchard1999RAE1). This interaction is essential for maintaining the cellular pool necessary for mRNA export, as demonstrated by experiments showing that disruption of RAE1-NPC association leads to the accumulation of poly(A)+ RNA in the nucleus (Pritchard1999RAE1).
+
+RAE1 is also involved in the mitotic checkpoint, a critical process ensuring proper chromosome segregation during cell division. It cooperates with Bub3 to prevent chromosome missegregation, and its haplo-insufficiency can lead to mitotic checkpoint defects and increased chromosomal instability (Babu2003Rae1). Additionally, RAE1 interacts with the Nuclear Mitotic Apparatus protein (NuMA) during mitosis, which is crucial for bipolar spindle formation, further highlighting its role in maintaining chromosomal stability (Wong2006Rae1).
+
+## Clinical Significance
+Alterations in the expression or function of the RAE1 gene have been implicated in various cancers. In breast cancer, RAE1 is often upregulated, which is associated with aggressive cancer phenotypes and poor prognosis. This overexpression is linked to the induction of epithelial-mesenchymal transition (EMT), a process that enhances the metastatic potential of cancer cells. High RAE1 expression correlates with worse distant metastasis-free survival and overall survival, particularly in estrogen receptor-positive breast cancer patients (Oh2017The; Oh2019RAE1).
+
+In hepatocellular carcinoma (HCC), RAE1 is significantly overexpressed and associated with advanced tumor stages and poor prognosis. It serves as an independent prognostic factor for overall survival, progression-free survival, and recurrence-free survival in HCC patients. RAE1's expression can distinguish between tumor and normal tissues, suggesting its potential as a diagnostic and prognostic biomarker (Chi2022RAE1).
+
+RAE1 also plays a role in leukemogenesis, particularly in the context of NUP98-HOXA9 fusions. Disruptions in RAE1's interactions due to these fusions can lead to chromosome segregation defects, contributing to the development of leukemia (Funasaka2011RNA).
+
+## Interactions
+RAE1 (ribonucleic acid export 1) is a protein that plays a crucial role in mRNA export from the nucleus to the cytoplasm. It interacts with the nucleoporin NUP98 at the nuclear pore complex. This interaction is mediated through the GLEBS-like motif of NUP98, specifically residues 181-224, which are necessary and sufficient for binding RAE1. Mutations in this region can disrupt the interaction, highlighting its importance (Pritchard1999RAE1; Ren2010Structural).
+
+RAE1 also forms a complex with NUP98 that can bind single-stranded RNA, suggesting a role in mRNA export. The interaction involves the GLEBS motif of NUP98 binding to the β-propeller structure of RAE1 (Ren2010Structural).
+
+In the context of viral infection, RAE1 interacts with the vesicular stomatitis virus (VSV) matrix (M) protein. This interaction is part of a mechanism by which the virus inhibits host gene expression. The M protein binds to the RAE1•NUP98 complex, potentially displacing RNA and interfering with mRNA export (Rajani2012Complexes; Quan2014Vesiculoviral). The interaction is facilitated by specific regions of the M protein, such as the finger region, which competes with nucleic acids for binding to RAE1 (Quan2014Vesiculoviral).
+
+
+## References
+
+
+[1. (Stockum2018USP11) Anna Stockum, Ambrosius P. Snijders, and Goedele N. Maertens. Usp11 deubiquitinates rae1 and plays a key role in bipolar spindle formation. PLOS ONE, 13(1):e0190513, January 2018. URL: http://dx.doi.org/10.1371/journal.pone.0190513, doi:10.1371/journal.pone.0190513. This article has 21 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0190513)
+
+[2. (Wong2006Rae1) Richard W. Wong, Günter Blobel, and Elias Coutavas. Rae1 interaction with numa is required for bipolar spindle formation. Proceedings of the National Academy of Sciences, 103(52):19783–19787, December 2006. URL: http://dx.doi.org/10.1073/pnas.0609582104, doi:10.1073/pnas.0609582104. This article has 89 citations.](https://doi.org/10.1073/pnas.0609582104)
+
+[3. (Oh2019RAE1) Ji Hoon Oh, Ji-Yeon Lee, Sungsook Yu, Yejin Cho, Sumin Hur, Ki Taek Nam, and Myoung Hee Kim. Rae1 mediated zeb1 expression promotes epithelial–mesenchymal transition in breast cancer. Scientific Reports, February 2019. URL: http://dx.doi.org/10.1038/s41598-019-39574-8, doi:10.1038/s41598-019-39574-8. This article has 9 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41598-019-39574-8)
+
+[4. (Pritchard1999RAE1) Colin E.J. Pritchard, Maarten Fornerod, Lawryn H. Kasper, and Jan M.A. van Deursen. Rae1 is a shuttling mrna export factor that binds to a glebs-like nup98 motif at the nuclear pore complex through multiple domains. The Journal of Cell Biology, 145(2):237–254, April 1999. URL: http://dx.doi.org/10.1083/jcb.145.2.237, doi:10.1083/jcb.145.2.237. This article has 199 citations.](https://doi.org/10.1083/jcb.145.2.237)
+
+[5. (Oh2017The) Ji Hoon Oh, Ho Hur, Ji-Yeon Lee, Yeejeong Kim, Younsoo Seo, and Myoung Hee Kim. The mitotic checkpoint regulator rae1 induces aggressive breast cancer cell phenotypes by mediating epithelial-mesenchymal transition. Scientific Reports, February 2017. URL: http://dx.doi.org/10.1038/srep42256, doi:10.1038/srep42256. This article has 11 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep42256)
+
+[6. (Funasaka2011RNA) Tatsuyoshi Funasaka, Hiroshi Nakano, Yu Wu, Chieko Hashizume, Ling Gu, Takuro Nakamura, Wei Wang, Pengbo Zhou, Malcolm A.S. Moore, Hiroshi Sato, and Richard W. Wong. Rna export factor rae1 contributes to nup98-hoxa9-mediated leukemogenesis. Cell Cycle, 10(9):1456–1467, May 2011. URL: http://dx.doi.org/10.4161/cc.10.9.15494, doi:10.4161/cc.10.9.15494. This article has 38 citations and is from a peer-reviewed journal.](https://doi.org/10.4161/cc.10.9.15494)
+
+[7. (Rajani2012Complexes) Karishma R. Rajani, Elizabeth L. Pettit Kneller, Margie O. McKenzie, David A. Horita, Jeff W. Chou, and Douglas S. Lyles. Complexes of vesicular stomatitis virus matrix protein with host rae1 and nup98 involved in inhibition of host transcription. PLoS Pathogens, 8(9):e1002929, September 2012. URL: http://dx.doi.org/10.1371/journal.ppat.1002929, doi:10.1371/journal.ppat.1002929. This article has 60 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1371/journal.ppat.1002929)
+
+[8. (Quan2014Vesiculoviral) Beili Quan, Hyuk-Soo Seo, Günter Blobel, and Yi Ren. Vesiculoviral matrix (m) protein occupies nucleic acid binding site at nucleoporin pair (rae1•nup98). Proceedings of the National Academy of Sciences, 111(25):9127–9132, June 2014. URL: http://dx.doi.org/10.1073/pnas.1409076111, doi:10.1073/pnas.1409076111. This article has 51 citations.](https://doi.org/10.1073/pnas.1409076111)
+
+[9. (Chi2022RAE1) Gang Chi, Jin-Hong Pei, and Xue-Qing Li. Rae1 is a prognostic biomarker and is correlated with clinicopathological characteristics of patients with hepatocellular carcinoma. BMC Bioinformatics, June 2022. URL: http://dx.doi.org/10.1186/s12859-022-04806-8, doi:10.1186/s12859-022-04806-8. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12859-022-04806-8)
+
+[10. (Babu2003Rae1) J. Ramesh Babu, Karthik B. Jeganathan, Darren J. Baker, Xiaosheng Wu, Ningling Kang-Decker, and Jan M. van Deursen. Rae1 is an essential mitotic checkpoint regulator that cooperates with bub3 to prevent chromosome missegregation. The Journal of Cell Biology, 160(3):341–353, January 2003. URL: http://dx.doi.org/10.1083/jcb.200211048, doi:10.1083/jcb.200211048. This article has 275 citations.](https://doi.org/10.1083/jcb.200211048)
+
+[11. (Ren2010Structural) Yi Ren, Hyuk-Soo Seo, Günter Blobel, and André Hoelz. Structural and functional analysis of the interaction between the nucleoporin nup98 and the mrna export factor rae1. Proceedings of the National Academy of Sciences, 107(23):10406–10411, May 2010. URL: http://dx.doi.org/10.1073/pnas.1005389107, doi:10.1073/pnas.1005389107. This article has 120 citations.](https://doi.org/10.1073/pnas.1005389107)

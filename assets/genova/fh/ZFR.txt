@@ -1,0 +1,44 @@
+# ZFR
+
+## Overview
+The ZFR gene encodes the zinc finger RNA-binding protein, a multifunctional protein involved in RNA processing and regulation. This protein is characterized by its zinc finger motifs and a DZF domain, which facilitate interactions with RNA and other proteins, playing a crucial role in modulating alternative splicing and RNA stability. ZFR is particularly significant in the context of innate immunity, where it regulates the expression of interferon-stimulated genes and prevents excessive immune activation. Beyond its immune functions, ZFR is also implicated in neuron development and is expressed in various tissues, including the testis, brain, and ovary. Clinically, alterations in ZFR expression have been linked to cancer progression, particularly in colorectal and hepatocellular carcinomas, and its essential role in embryonic development has been demonstrated in murine models (Long2019ZFR; Hinske2015Alternative; Haque2018ZFR; Meagher2001Requirement).
+
+## Structure
+The ZFR protein, or zinc finger RNA-binding protein, is characterized by its structural domains, which include three N-terminal C2H2 zinc finger motifs and a C-terminal DZF domain. The zinc finger motifs are small structural domains stabilized by zinc ions, facilitating interactions with RNA, and are conserved from Caenorhabditis elegans to humans, indicating their critical role in maintaining specific interactions (Haque2018ZFR). The DZF domain, although structurally similar to nucleotidyltransferase enzymes, lacks essential catalytic residues and is involved in heterodimerization with other multifunctional RNA-binding proteins such as ILF2/NF45 and ILF3/NF90 (Wolkowicz2012NF45; Haque2018ZFR).
+
+ZFR is involved in regulating alternative splicing and preventing excessive type I interferon activation. It is expressed in different isoforms, with monocytes expressing truncated ZFR isoforms and macrophages inducing full-length ZFR to modulate macrophage-specific alternative splicing (Haque2018ZFR). The full-length ZFR is crucial for the expression of the histone variant macroH2A1, which suppresses aberrant type I interferon production (Haque2018ZFR). The truncated isoform, lacking zinc fingers, is unable to rescue mH2A1 mRNA levels in ZFR-depleted cells (Haque2018ZFR).
+
+## Function
+The ZFR gene encodes a zinc finger RNA-binding protein that plays a crucial role in regulating RNA processing and decay, particularly in the context of innate immunity. ZFR is involved in modulating alternative pre-mRNA splicing, which is essential for maintaining proper immune function and preventing excessive immune activation. It represses the interferon response by controlling the splicing and stability of mRNAs, such as the histone variant macroH2A1 (mH2A1), which in turn represses the IFNB1 promoter, thereby indirectly suppressing IFNB1 transcription (Haque2018ZFR).
+
+In macrophages, ZFR expression is tightly regulated, with full-length ZFR being more prominent in these cells. This regulation is important for macrophage-specific alternative splicing and the expression of mH2A1, which influences IFNB1 promoter activity (Haque2018ZFR). ZFR also affects numerous splicing events during macrophage differentiation, impacting the expression of genes involved in immune signaling (Haque2018ZFR).
+
+ZFR's role extends beyond immune regulation, as it is also involved in neuron development and is expressed in various tissues, including the testis, brain, and ovary (Hinske2015Alternative; Meagher2001Requirement).
+
+## Clinical Significance
+Alterations in the expression of the ZFR gene have been implicated in various cancers, including colorectal cancer (CRC) and hepatocellular carcinoma (HCC). Overexpression of ZFR is associated with increased tumor growth and poorer patient survival in digestive system tumors, suggesting its role as an oncogene. In CRC and HCC cell lines, knockdown of ZFR reduces cell proliferation, while its overexpression promotes tumor development, indicating its potential as a therapeutic target (Long2019ZFR).
+
+ZFR also plays a role in the regulation of the immune response. It is involved in controlling the transcription of IFNB1 and the expression of interferon-stimulated genes (ISGs). Depletion of ZFR leads to hyperactivation of IFNβ and constitutive induction of ISGs, which can result in dysregulated immune responses. This regulation is crucial for macrophage differentiation and may have implications in diseases involving immune system dysfunction (Haque2018ZFR).
+
+In addition to its role in cancer and immune regulation, ZFR is essential for early embryonic development. Disruption of the Zfr gene in mice results in embryonic lethality, highlighting its critical role in growth and survival during embryogenesis (Meagher2001Requirement).
+
+## Interactions
+ZFR (zinc finger RNA binding protein) is involved in various interactions with other proteins and nucleic acids, playing a significant role in RNA processing and regulation. ZFR forms part of multiprotein complexes through its interaction with NF45 and NF90, utilizing a conserved domain with a nucleotidyltransferase fold. This interaction is facilitated by the DZF domain, which is shared among these proteins, although NF90 and NF45 lack enzymatic activity due to missing critical residues (Wolkowicz2012NF45). 
+
+ZFR also interacts with SPNR, another DZF domain-containing protein, indicating its potential involvement in various cellular complexes related to RNA metabolism (Wolkowicz2012NF45). In the context of innate immunity, ZFR regulates the transcription of IFNβ by acting as a negative regulator, modulating splicing events and preventing excessive inflammatory responses. This regulation is crucial for controlling type I interferon production (Haque2018ZFR). 
+
+ZFR's role extends to the regulation of alternative splicing during macrophage differentiation, affecting the splicing of several genes involved in macrophage function, such as ABI1 and LPIN1 (Haque2018ZFR). These interactions highlight ZFR's multifaceted role in gene expression and immune response regulation.
+
+
+## References
+
+
+[1. (Meagher2001Requirement) Madeleine J. Meagher and Robert E. Braun. Requirement for the murine zinc finger protein zfr in perigastrulation growth and survival. Molecular and Cellular Biology, 21(8):2880–2890, April 2001. URL: http://dx.doi.org/10.1128/MCB.21.8.2880-2890.2001, doi:10.1128/mcb.21.8.2880-2890.2001. This article has 29 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.21.8.2880-2890.2001)
+
+[2. (Long2019ZFR) Yanrong Long, Teresa A. Marian, and Zhubo Wei. Zfr promotes cell proliferation and tumor development in colorectal and liver cancers. Biochemical and Biophysical Research Communications, 513(4):1027–1034, June 2019. URL: http://dx.doi.org/10.1016/j.bbrc.2019.04.103, doi:10.1016/j.bbrc.2019.04.103. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2019.04.103)
+
+[3. (Hinske2015Alternative) Ludwig Christian Hinske, Pedro A. F. Galante, Elisabeth Limbeck, Patrick Möhnle, Raphael B. Parmigiani, Lucila Ohno-Machado, Anamaria A. Camargo, and Simone Kreth. Alternative polyadenylation allows differential negative feedback of human mirna mir-579 on its host gene zfr. PLOS ONE, 10(3):e0121507, March 2015. URL: http://dx.doi.org/10.1371/journal.pone.0121507, doi:10.1371/journal.pone.0121507. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0121507)
+
+[4. (Haque2018ZFR) Nazmul Haque, Ryota Ouda, Chao Chen, Keiko Ozato, and J. Robert Hogg. Zfr coordinates crosstalk between rna decay and transcription in innate immunity. Nature Communications, March 2018. URL: http://dx.doi.org/10.1038/s41467-018-03326-5, doi:10.1038/s41467-018-03326-5. This article has 35 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-03326-5)
+
+[5. (Wolkowicz2012NF45) Urszula M. Wolkowicz and Atlanta G. Cook. Nf45 dimerizes with nf90, zfr and spnr via a conserved domain that has a nucleotidyltransferase fold. Nucleic Acids Research, 40(18):9356–9368, July 2012. URL: http://dx.doi.org/10.1093/nar/gks696, doi:10.1093/nar/gks696. This article has 60 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gks696)

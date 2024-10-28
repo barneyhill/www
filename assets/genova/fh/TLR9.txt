@@ -1,0 +1,62 @@
+# TLR9
+
+## Overview
+TLR9 is a gene that encodes the protein toll-like receptor 9, a transmembrane receptor that plays a pivotal role in the innate immune system. This receptor is primarily involved in the recognition of unmethylated CpG motifs, which are prevalent in bacterial and viral DNA, thereby facilitating the detection of pathogenic microorganisms. TLR9 is initially localized in the endoplasmic reticulum and requires trafficking to endosomal compartments to become functionally active. Upon activation, TLR9 initiates signaling cascades that lead to the production of pro-inflammatory cytokines and type I interferons, crucial for mounting an effective immune response. The receptor's structure is characterized by leucine-rich repeat motifs, which are essential for its ligand-binding and signaling functions. TLR9's activity is tightly regulated to prevent inappropriate immune responses, and its dysregulation is implicated in various diseases, including autoimmune disorders and cancer (Marongiu2019Below; Vollmer2006TLR9; Luo2020TLR9).
+
+## Structure
+TLR9 is a protein involved in the immune response, characterized by its leucine-rich repeat (LRR) motifs that form a solenoid structure with parallel beta-sheets (Onji2013An). The primary structure of TLR9 includes a sequence of amino acids that form these LRR motifs, which are crucial for its function. The secondary structure consists of alpha helices and beta sheets, contributing to the protein's overall horseshoe shape (Asami2021Structural).
+
+The tertiary structure of TLR9 is defined by its horseshoe-shaped ectodomain, which is typical of LRR proteins. This structure is stabilized by the N-terminal and C-terminal LRR motifs, known as LRR-NT and LRR-CT, respectively (Asami2021Structural). TLR9 also contains a unique Z-loop insertion that requires proteolytic processing for receptor maturation (Asami2021Structural).
+
+In terms of quaternary structure, TLR9 can exist in monomeric or dimeric forms. Dimerization is induced by binding to agonistic DNA, forming an m-shaped 2:2 complex (Ohto2015Structural). This dimerization is essential for TLR9's function in DNA recognition and signaling (Ohto2015Structural).
+
+Post-translational modifications of TLR9 include glycosylation, which occurs on the insertion-free faces of the protein and is nonfunctional for ligand binding (Wei2009Homology). The cleaved form of TLR9, which is about 80 kDa, is the active form that recruits MyD88 upon activation (Ewald2008The).
+
+## Function
+TLR9 (Toll-like receptor 9) is a crucial component of the immune system, primarily involved in recognizing unmethylated CpG motifs found in bacterial and viral DNA. In healthy human cells, TLR9 is initially localized in the endoplasmic reticulum (ER) and requires trafficking to endosomal compartments to initiate signal transduction. This localization is essential to prevent inappropriate immune responses to self-DNA, which is typically methylated and non-stimulatory (Marongiu2019Below; Vollmer2006TLR9).
+
+Upon activation by CpG DNA, TLR9 undergoes a conformational change, leading to the recruitment of adaptor molecules such as MyD88. This initiates signaling cascades involving IRAK family members and TRAF6, resulting in the activation of NF-κB and MAPK pathways, which promote the production of pro-inflammatory cytokines and type I interferons (Marongiu2019Below; Vollmer2006TLR9). In plasmacytoid dendritic cells, TLR9 engagement is particularly important for the production of type I interferons, crucial for antiviral responses (Marongiu2019Below).
+
+The trafficking and signaling of TLR9 are tightly regulated by proteins such as UNC93B1, which facilitates its movement from the ER to endosomes, and BAD-LAMP, which directs TLR9 to late endosomes, promoting cytokine production (Marongiu2019Below). This complex regulation ensures that TLR9 effectively contributes to the immune response while avoiding self-reactivity.
+
+## Clinical Significance
+Mutations and alterations in the expression of the TLR9 gene have significant clinical implications in various diseases. In systemic lupus erythematosus (SLE), TLR9 plays a complex role. Although TLR9 mRNA levels are elevated in SLE patients and correlate with disease severity, its dysfunction in B cells contributes to the progression of SLE by promoting the production of autoreactive antibodies. This dysfunction is linked to decreased differentiation into regulatory B cells, which are crucial for immunomodulation (Wen2023Tolllike). TLR9-deficient mice develop more severe clinical disorders, suggesting a protective role of TLR9 in lupus that is independent of MyD88 signaling (Wen2023Tolllike).
+
+In the context of cancer, TLR9 expression is upregulated during the development of colitis-associated colorectal cancer (CAC), where it regulates the NF-κB signaling pathway, contributing to cancer progression (Luo2020TLR9). TLR9 dysregulation is also implicated in neonatal inflammatory diseases, where excessive signaling leads to fatal conditions driven by IFN-γ (Stanbery2020Dysregulation).
+
+TLR9 deficiency is associated with osteoclastic bone loss due to systemic chronic inflammation, highlighting its role in maintaining bone health and regulating inflammation. This deficiency alters gut microbiota composition, contributing to inflammatory conditions (Ding2022Tolllike).
+
+## Interactions
+TLR9 interacts with unmethylated CpG-DNA, a common feature of bacterial DNA, in a sequence- and pH-dependent manner. This interaction occurs primarily in endosomal and lysosomal compartments, where the acidic environment facilitates binding. The DNA-binding region within TLR9 is homologous to the methyl-CpG-binding domain found in other proteins, and specific amino acids, such as D535 and Y537, are crucial for CpG-DNA binding and subsequent NF-kB activation (Rutz2004Toll‐like).
+
+TLR9 also forms complexes with the adaptor protein MyD88, which is essential for initiating downstream signaling pathways. This interaction leads to the recruitment of other signaling molecules, including members of the IL-1 receptor-associated kinase (IRAK) family and TNF receptor-associated factor 6 (TRAF6), resulting in the activation of transcription factors like NF-kB and the production of pro-inflammatory cytokines (Vollmer2006TLR9).
+
+The trafficking of TLR9 to endolysosomes is mediated by interactions with proteins such as UNC93B1, which facilitates its movement from the endoplasmic reticulum to the Golgi and then to the plasma membrane. This process is crucial for TLR9 to encounter its ligands and initiate immune responses (Marongiu2019Below).
+
+
+## References
+
+
+[1. (Marongiu2019Below) Laura Marongiu, Laura Gornati, Irene Artuso, Ivan Zanoni, and Francesca Granucci. Below the surface: the inner lives of tlr4 and tlr9. Journal of Leukocyte Biology, 106(1):147–160, March 2019. URL: http://dx.doi.org/10.1002/jlb.3mir1218-483rr, doi:10.1002/jlb.3mir1218-483rr. This article has 93 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/jlb.3mir1218-483rr)
+
+[2. (Rutz2004Toll‐like) Mark Rutz, Jochen Metzger, Tanja Gellert, Peter Luppa, Grayson B. Lipford, Hermann Wagner, and Stefan Bauer. Toll‐like receptor 9 binds single‐stranded cpg‐dna in a sequence‐ and ph‐dependent manner. European Journal of Immunology, 34(9):2541–2550, August 2004. URL: http://dx.doi.org/10.1002/eji.200425218, doi:10.1002/eji.200425218. This article has 416 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/eji.200425218)
+
+[3. (Asami2021Structural) Jinta Asami and Toshiyuki Shimizu. Structural and functional understanding of the toll‐like receptors. Protein Science, 30(4):761–772, February 2021. URL: http://dx.doi.org/10.1002/pro.4043, doi:10.1002/pro.4043. This article has 56 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pro.4043)
+
+[4. (Ohto2015Structural) Umeharu Ohto, Takuma Shibata, Hiromi Tanji, Hanako Ishida, Elena Krayukhina, Susumu Uchiyama, Kensuke Miyake, and Toshiyuki Shimizu. Structural basis of cpg and inhibitory dna recognition by toll-like receptor 9. Nature, 520(7549):702–705, February 2015. URL: http://dx.doi.org/10.1038/nature14138, doi:10.1038/nature14138. This article has 289 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature14138)
+
+[5. (Wen2023Tolllike) Luyao Wen, Bei Zhang, Xinfeng Wu, Rongzeng Liu, Hua Fan, Lei Han, Zhibo Zhang, Xin Ma, Cong-Qiu Chu, and Xiaofei Shi. Toll-like receptors 7 and 9 regulate the proliferation and differentiation of b cells in systemic lupus erythematosus. Frontiers in Immunology, February 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1093208, doi:10.3389/fimmu.2023.1093208. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1093208)
+
+[6. (Onji2013An) Masahiro Onji, Atsuo Kanno, Shin-Ichiroh Saitoh, Ryutaro Fukui, Yuji Motoi, Takuma Shibata, Fumi Matsumoto, Aayam Lamichhane, Shintaro Sato, Hiroshi Kiyono, Kazuhide Yamamoto, and Kensuke Miyake. An essential role for the n-terminal fragment of toll-like receptor 9 in dna sensing. Nature Communications, June 2013. URL: http://dx.doi.org/10.1038/ncomms2949, doi:10.1038/ncomms2949. This article has 71 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/ncomms2949)
+
+[7. (Ding2022Tolllike) Peng Ding, Qiyuan Tan, Zhanying Wei, Qiyu Chen, Chun Wang, Luyue Qi, Li Wen, Changqing Zhang, and Chen Yao. Toll-like receptor 9 deficiency induces osteoclastic bone loss via gut microbiota-associated systemic chronic inflammation. Bone Research, May 2022. URL: http://dx.doi.org/10.1038/s41413-022-00210-3, doi:10.1038/s41413-022-00210-3. This article has 22 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41413-022-00210-3)
+
+[8. (Ewald2008The) Sarah E. Ewald, Bettina L. Lee, Laura Lau, Katherine E. Wickliffe, Guo-Ping Shi, Harold A. Chapman, and Gregory M. Barton. The ectodomain of toll-like receptor 9 is cleaved to generate a functional receptor. Nature, 456(7222):658–662, December 2008. URL: http://dx.doi.org/10.1038/nature07405, doi:10.1038/nature07405. This article has 486 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/nature07405)
+
+[9. (Luo2020TLR9) Qingtian Luo, Ling Zeng, Chaotao Tang, Zhendong Zhang, Youxiang Chen, and Chunyan Zeng. Tlr9 induces colitis‑associated colorectal carcinogenesis by regulating nf‑&amp;kappa;b expression levels. Oncology Letters, 20(4):1–1, August 2020. URL: http://dx.doi.org/10.3892/ol.2020.11971, doi:10.3892/ol.2020.11971. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/ol.2020.11971)
+
+[10. (Wei2009Homology) Tiandi Wei, Jing Gong, Ferdinand Jamitzky, Wolfgang M. Heckl, Robert W. Stark, and Shaila C. Rössle. Homology modeling of human toll‐like receptors tlr7, 8, and 9 ligand‐binding domains. Protein Science, 18(8):1684–1691, July 2009. URL: http://dx.doi.org/10.1002/pro.186, doi:10.1002/pro.186. This article has 61 citations and is from a peer-reviewed journal.](https://doi.org/10.1002/pro.186)
+
+[11. (Stanbery2020Dysregulation) Alison G. Stanbery, Zachary R. Newman, and Gregory M. Barton. Dysregulation of tlr9 in neonates leads to fatal inflammatory disease driven by ifn-γ. Proceedings of the National Academy of Sciences, 117(6):3074–3082, January 2020. URL: http://dx.doi.org/10.1073/pnas.1911579117, doi:10.1073/pnas.1911579117. This article has 16 citations.](https://doi.org/10.1073/pnas.1911579117)
+
+[12. (Vollmer2006TLR9) Jörg Vollmer. Tlr9 in health and disease. International Reviews of Immunology, 25(3–4):155–181, January 2006. URL: http://dx.doi.org/10.1080/08830180600743107, doi:10.1080/08830180600743107. This article has 58 citations and is from a peer-reviewed journal.](https://doi.org/10.1080/08830180600743107)

@@ -1,0 +1,30 @@
+# BLTP1
+
+## Overview
+BLTP1 is a gene that encodes the bridge-like lipid transfer protein family member 1, a crucial component of the bridge-like lipid transfer protein (BLTP) superfamily. This protein is characterized by its unique structural features, including a long rodlike shape with repeating β-groove (RBG) domains, which facilitate its primary function of lipid transport between cellular membranes. The hydrophobic groove formed by these domains allows BLTP1 to efficiently transfer lipids in a unidirectional manner, particularly at membrane contact sites where it forms bridges between organelle membranes. This function is vital for maintaining lipid distribution and membrane dynamics, contributing to cellular homeostasis and resilience to environmental stresses. Mutations in the BLTP1 gene have been linked to Alkuraya-Kucinskas syndrome, underscoring its significance in lipid metabolism and cellular stress adaptation (Braschi2022The; Wang2022Aa).
+
+## Structure
+The BLTP1 protein, previously known as KIAA1109, is a member of the bridge-like lipid transfer protein (BLTP) superfamily, characterized by a long rodlike structure with an internal hydrophobic groove suitable for lipid transport (Braschi2022The). The protein's structure includes repeating β-groove (RBG) domains, each consisting of five antiparallel β-strands forming a 'U-shape' followed by an unstructured loop. The inner surface of these domains is hydrophobic, facilitating lipid transport, while the outer surface is hydrophilic (Braschi2022The).
+
+BLTP1 is the longest member of the BLTP family, containing 17 RBG modules, which create a continuous hydrophobic surface for unidirectional lipid transport between membranes (Hanna2024Bridgelike). The protein localizes to membrane contact sites, forming bridges between organelle membranes to enable non-vesicular lipid transfer (Braschi2022The).
+
+The structure of BLTP1 was modeled using trRosetta, which involved folding seven overlapping fragments of approximately 1500 amino acids each, and assembling them using the Needleman-Wunsch global alignment in ChimeraX (Braschi2022The). The protein's structure was visualized using PyMOL and ChimeraX software (Braschi2022The).
+
+## Function
+BLTP1, previously known as KIAA1109, is a member of the bridge-like lipid transfer protein (BLTP) superfamily, which is involved in lipid transfer between cellular membranes. These proteins are characterized by their repeating β-groove (RBG) domains, forming a hydrophobic groove that facilitates lipid transport. BLTP1 localizes to membrane contact sites, acting as a bridge between organelle membranes to enable non-vesicular lipid transfer, crucial for maintaining lipid distribution and membrane dynamics in healthy human cells (Braschi2022The).
+
+BLTP1 is the human orthologue of the LPD-3 protein in C. elegans, which forms a bridge between the endoplasmic reticulum (ER) and plasma membranes, facilitating lipid trafficking. This function is essential for normal phospholipid distribution and cellular resilience to environmental stresses, such as cold stress (Wang2022Aa). In human cells, BLTP1 is implicated in phospholipid trafficking and maintaining cellular resilience to cold stress, similar to its role in C. elegans (Wang2022Aa).
+
+Mutations in BLTP1 are associated with Alkuraya-Kucinskas syndrome, highlighting its importance in lipid trafficking and stress adaptation (Wang2022A). The protein's role in lipid transport and metabolism is critical for cellular homeostasis and membrane biogenesis (Braschi2022The).
+
+
+## References
+
+
+1. (Hanna2024Bridgelike) Bridge-like lipid transfer protein 3A (BLTP3A) is associated with membranes of the late endocytic pathway and is an effector of CASM. This article has 0 citations.
+
+[2. (Braschi2022The) Bryony Braschi, Elspeth A. Bruford, Amy T. Cavanagh, Sarah D. Neuman, and Arash Bashirullah. The bridge-like lipid transfer protein (bltp) gene group: introducing new nomenclature based on structural homology indicating shared function. Human Genomics, December 2022. URL: http://dx.doi.org/10.1186/s40246-022-00439-3, doi:10.1186/s40246-022-00439-3. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s40246-022-00439-3)
+
+[3. (Wang2022Aa) Changnan Wang, Bingying Wang, Taruna Pandey, Yong Long, Jianxiu Zhang, Fiona Oh, Jessica Sima, Ruyin Guo, Yun Liu, Chao Zhang, Shaeri Mukherjee, Michael Bassik, Weichun Lin, Huichao Deng, Goncalo Vale, Jeffrey G. McDonald, Kang Shen, and Dengke K. Ma. A conserved megaprotein-based molecular bridge critical for lipid trafficking and cold resilience. Nature Communications, November 2022. URL: http://dx.doi.org/10.1038/s41467-022-34450-y, doi:10.1038/s41467-022-34450-y. This article has 13 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-022-34450-y)
+
+4. (Wang2022A) A megaprotein-based molecular bridge critical for lipid trafficking and cold resilience. This article has 1 citations.

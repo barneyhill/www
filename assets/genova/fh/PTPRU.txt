@@ -1,0 +1,46 @@
+# PTPRU
+
+## Overview
+PTPRU, or protein tyrosine phosphatase receptor type U, is a gene that encodes a member of the receptor-type protein tyrosine phosphatases (RPTPs), specifically categorized as a pseudophosphatase due to its lack of catalytic activity. The protein product of PTPRU is characterized by its structural features, including two pseudophosphatase domains, which render it inactive as a phosphatase. Despite this inactivity, PTPRU plays a crucial role in cellular signaling by acting as a scaffold, binding to substrates of active phosphatases, and regulating key signaling pathways such as the Wnt-TCF-β-catenin pathway. It is involved in maintaining cellular quiescence and regulating differentiation in human mesenchymal stem cells, as well as interacting with various proteins and microRNAs to modulate cellular processes. PTPRU has clinical significance as a tumor suppressor, with its expression levels being linked to cancer prognosis and progression, particularly in colorectal, gastric, and non-small cell lung cancers (Rumman2022PTPRU; Gu2019&lt; Hay2020The).
+
+## Structure
+PTPRU, a member of the R2B family of receptor-type protein tyrosine phosphatases (RPTPs), is characterized by its unique structural features that render it catalytically inactive as a phosphatase. The protein contains two pseudophosphatase domains, D1 and D2, with the D1 domain showing significant structural rearrangements that occlude the active site and destabilize the catalytic cysteine, preventing substrate binding (Hay2020The). The D1 domain lacks a pTyr-binding pocket due to a disordered pTyr recognition loop and a rearranged catalytic PTP loop (Hay2020The). 
+
+PTPRU's structure includes a WPE motif instead of the typical WPD motif, and a GSRQ sequence replaces the KNRY sequence in the pTyr recognition loop, contributing to its inactivity (Hay2020The). The presence of a unique threonine in the PTP loop forms a hydrogen bond that stabilizes the inactive conformation (Hay2020The). Despite its lack of enzymatic activity, PTPRU can bind substrates of active paralogs, suggesting a role as a scaffold in cell signaling (Hay2020The). 
+
+PTPRU is also redox-sensitive, with the ability to form a disulphide bond between cysteines in the D1 domain, which may protect the catalytic cysteine from oxidative damage (Hay2020The). This structural conformation is maintained even in the reduced form, indicating an evolved inactive state (Hay2020The).
+
+## Function
+PTPRU, or protein tyrosine phosphatase receptor type U, functions as a pseudophosphatase in human cells, meaning it lacks catalytic activity but still plays a significant role in cellular signaling. It is involved in maintaining the phosphorylation state of certain proteins by binding to them and preventing their dephosphorylation by other phosphatases. This regulatory role is crucial for modulating cell signaling pathways, particularly those involving tyrosine phosphorylation (Hay2020The).
+
+In human mesenchymal stem cells (hMSCs), PTPRU is upregulated during quiescence and is essential for maintaining the cells in a reversible cell cycle arrest state. It suppresses osteogenic differentiation by regulating the Wnt-TCF-β-catenin signaling pathway, which is vital for stem cell function and self-renewal. PTPRU knockdown leads to increased osteogenic differentiation and altered expression of cell cycle regulators, indicating its role in preserving the undifferentiated state of quiescent cells (Rumman2022PTPRU).
+
+PTPRU is also a redox-sensitive protein, capable of undergoing reversible oxidation, which may influence its function in signaling pathways. This redox sensitivity suggests a potential role in protecting proteins from oxidative damage (Hay2020The).
+
+## Clinical Significance
+Alterations in the expression of the PTPRU gene have been implicated in various cancers, including colorectal and gastric cancers. PTPRU acts as a tumor suppressor, and its downregulation is associated with increased cancer stemness and poor prognosis in these cancers. High expression of PTPRU correlates with a better prognosis in colon cancer patients, suggesting its potential as a prognostic marker (PTPRU; Gu2019&lt; p&gt). In gastric cancer cells, overexpression of PTPRU reduces cancer stem cell characteristics by attenuating the Hippo/YAP signaling pathway, indicating its role in inhibiting tumor progression (PTPRU; Gu2019&lt; p&gt).
+
+In non-small cell lung cancer (NSCLC), PTPRU is targeted by miR-574-5p, which promotes metastasis by downregulating PTPRU, leading to increased tyrosine phosphorylation of β-catenin and reduced cell adhesion (Zhou2016MicroRNA5745p). This suggests that PTPRU may act as a tumor suppressor by maintaining cell adhesion and inhibiting metastasis.
+
+In the context of brain development, PTPRU is regulated by miR-34b/c, and alterations in this interaction may impact neural development, potentially contributing to conditions like Williams syndrome (Grad2022Altered).
+
+## Interactions
+PTPRU, a receptor-type protein tyrosine phosphatase, is involved in several key interactions with proteins and nucleic acids. It interacts with β-catenin, a crucial protein in cell signaling, by binding directly to it at adherens junctions. This interaction sequesters β-catenin from the nucleus, limiting its transcriptional activation and thereby regulating β-catenin-mediated transcriptional activity (Rumman2022PTPRU). PTPRU is also involved in the Wnt/TCF signaling pathways, where it positively regulates β-catenin-TCF activity (Rumman2022PTPRU).
+
+PTPRU interacts with miR-34c-5p, a microRNA that directly regulates PTPRU mRNA expression by binding to its 3' UTR. This interaction has been demonstrated in human neuronal cell lines, where overexpression of miR-34c-5p leads to decreased PTPRU mRNA levels (Grad2022Altered).
+
+Additionally, PTPRU is a redox-sensitive pseudophosphatase that interacts with substrates of the active phosphatase PTPRK, such as Afadin and p120-Catenin. Although PTPRU lacks catalytic activity, it binds these substrates, potentially protecting them from dephosphorylation by active phosphatases (hay2021structure; Hay2020The).
+
+
+## References
+
+
+[1. (Zhou2016MicroRNA5745p) Rui Zhou, Xiaoshu Zhou, Zhongyuan Yin, Jing Guo, Ting Hu, Shun Jiang, Li Liu, Xiaorong Dong, Sheng Zhang, and Gang Wu. Microrna-574-5p promotes metastasis of non-small cell lung cancer by targeting ptpru. Scientific Reports, October 2016. URL: http://dx.doi.org/10.1038/srep35714, doi:10.1038/srep35714. This article has 63 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/srep35714)
+
+2. (hay2021structure) Structure and function of the R2B adhesive receptor tyrosine phosphatases. This article has 0 citations.
+
+[3. (Hay2020The) Iain M. Hay, Gareth W. Fearnley, Pablo Rios, Maja Köhn, Hayley J. Sharpe, and Janet E. Deane. The receptor ptpru is a redox sensitive pseudophosphatase. Nature Communications, June 2020. URL: http://dx.doi.org/10.1038/s41467-020-17076-w, doi:10.1038/s41467-020-17076-w. This article has 22 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-020-17076-w)
+
+[4. (Rumman2022PTPRU) Mohammad Rumman and Jyotsna Dhawan. Ptpru, a quiescence-induced receptor tyrosine phosphatase negatively regulates osteogenic differentiation of human mesenchymal stem cells. Biochemical and Biophysical Research Communications, 636:41–49, December 2022. URL: http://dx.doi.org/10.1016/j.bbrc.2022.10.062, doi:10.1016/j.bbrc.2022.10.062. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2022.10.062)
+
+[5. (Grad2022Altered) Meitar Grad, Ariel Nir, Gilad Levy, Sari Schokoroy Trangle, Guy Shapira, Noam Shomron, Yaniv Assaf, and Boaz Barak. Altered white matter and microrna expression in a murine model related to williams syndrome suggests that mir-34b/c affects brain development via ptpru and dcx modulation. Cells, 11(1):158, January 2022. URL: http://dx.doi.org/10.3390/cells11010158, doi:10.3390/cells11010158. This article has 10 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cells11010158)

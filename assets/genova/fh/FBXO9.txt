@@ -1,0 +1,41 @@
+# FBXO9
+
+## Overview
+FBXO9 is a gene that encodes the F-box protein 9, a member of the F-box protein family, which is characterized by an F-box motif that facilitates protein-protein interactions. The protein functions as an E3 ubiquitin ligase within the SCF (SKP1-CUL1-F-box protein) complex, playing a pivotal role in the ubiquitin-proteasome system. This system is essential for tagging proteins with ubiquitin to mark them for degradation, thereby regulating protein turnover and maintaining cellular homeostasis (Wang2022FBXO9; Luo2023Identification). F-box protein 9 is involved in various cellular processes, including cell cycle progression, signal transduction, and metabolic regulation, by targeting specific proteins such as peroxisome proliferator-activated receptor gamma (PPARγ) for ubiquitination (Lee2016Fbox; Yang2024Fbox). The gene's expression and function have significant implications in cancer biology, where it can act as a tumor suppressor or influence metastasis, depending on the context (Liu2024Ubiquitin; Luo2023Identification).
+
+## Function
+FBXO9, a member of the F-box protein family, functions as an E3 ubiquitin ligase within the SCF (SKP1-CUL1-F-box protein) complex, playing a crucial role in the ubiquitin-proteasome system. This system is responsible for tagging proteins with ubiquitin to mark them for degradation, thereby regulating protein turnover and maintaining cellular homeostasis (Wang2022FBXO9; Luo2023Identification). In healthy human cells, FBXO9 is involved in the regulation of protein stability, impacting processes such as cell cycle progression and signal transduction pathways (Yang2024Fbox).
+
+FBXO9 specifically targets peroxisome proliferator-activated receptor gamma (PPARγ) for ubiquitination, influencing its protein stability and activity. This interaction affects adipocyte differentiation and lipid metabolism, as FBXO9-mediated degradation of PPARγ leads to decreased protein levels and suppressed adipogenesis (Lee2016Fbox). The F-box motif of FBXO9 is essential for its function, as it facilitates the interaction with substrates like PPARγ, ensuring their proper ubiquitination and subsequent degradation (Lee2016Fbox).
+
+FBXO9 is also implicated in cellular responses to metabolic stress, with its expression increasing in vascular smooth muscle cells under high-glucose conditions, suggesting a role in metabolic regulation (Lee2016Fbox).
+
+## Clinical Significance
+FBXO9 has been implicated in various cancers due to its role in ubiquitination and protein degradation. In lung cancer, FBXO9 acts as an inhibitor of metastasis. Increased expression of FBXO9 in lung cancer cells leads to a reduction in metastatic nodules, while its knockdown results in enhanced metastasis. This anti-metastatic effect is linked to FBXO9's interaction with the V-ATPase subunit ATP6V1A, where it mediates ubiquitination, thereby suppressing cancer cell migration and tumor growth (Liu2024Ubiquitin).
+
+In ovarian cancer, FBXO9 is downregulated, suggesting a tumor suppressor role. Its expression correlates with DNA damage repair pathways, and its downregulation is associated with poorer prognosis and increased cell proliferation. FBXO9's potential as a prognostic biomarker is highlighted by its inclusion in a two-gene signature that predicts overall survival in ovarian cancer patients (Luo2023Identification).
+
+In acute myeloid leukemia (AML), FBXO9 is also downregulated, particularly in the inv(16) subtype. Its loss enhances proteasome activity, leading to increased tumor aggressiveness and reduced survival. FBXO9's expression levels may predict sensitivity to proteasome inhibitors, offering potential therapeutic implications (HynesSmith2019Loss).
+
+## Interactions
+FBXO9, a component of the SCF (SKP1-CUL1-F-box protein) ubiquitin ligase complex, is involved in various protein interactions that influence cellular processes. It interacts with the ATP6V1A subunit of the V-ATPase complex, promoting its non-degradative ubiquitination. This interaction is crucial for inhibiting the assembly of the V-ATPase complex, as FBXO9 facilitates the sequestration of ATP6V1A in the cytosol by the chaperone protein HSPA8, thereby impeding V-ATPase assembly and activity (Liu2024Ubiquitin).
+
+FBXO9 also interacts with the Skp protein, an adaptor subunit of the CRL1/SCF ubiquitin ligase complex, which is essential for its role in ubiquitination processes (Liu2024Ubiquitin). In hepatocellular carcinoma, FBXO9 targets the tumor suppressor protein FBXW7 for ubiquitination and degradation, affecting the mTOR signaling pathway (Wang2022FBXO9).
+
+Additionally, FBXO9 acts as an E3 ubiquitin ligase for peroxisome proliferator-activated receptor gamma (PPARγ), interacting with its ligand-binding domain and leading to the ubiquitination and decreased stability of PPARγ (Lee2016Fbox). These interactions highlight FBXO9's role in regulating protein stability and activity across different cellular contexts.
+
+
+## References
+
+
+[1. (Lee2016Fbox) Kyeong Won Lee, Soo Heon Kwak, Young Do Koo, Yun-Kyung Cho, Hak Mo Lee, Hye Seung Jung, Young Min Cho, Young Joo Park, Sung Soo Chung, and Kyong Soo Park. F-box only protein 9 is an e3 ubiquitin ligase of pparγ. Experimental &amp; Molecular Medicine, 48(5):e234–e234, May 2016. URL: http://dx.doi.org/10.1038/emm.2016.31, doi:10.1038/emm.2016.31. This article has 24 citations.](https://doi.org/10.1038/emm.2016.31)
+
+[2. (Wang2022FBXO9) Zhenyu Wang, Xiaoxia Chen, Lianer Zhou, Xinge Zhao, Chao Ge, Fangyu Zhao, Haiyang Xie, Taoyang Chen, Hua Tian, Hong Li, and Jinjun Li. Fbxo9 mediates the cancer-promoting effects of znf143 by degrading fbxw7 and facilitates drug resistance in hepatocellular carcinoma. Frontiers in Oncology, June 2022. URL: http://dx.doi.org/10.3389/fonc.2022.930220, doi:10.3389/fonc.2022.930220. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2022.930220)
+
+[3. (Liu2024Ubiquitin) Liang Liu, Xiaodong Chen, Leilei Wu, Kaizong Huang, Zhenyi Wang, Yaolin Zheng, Cheng Zheng, Zhenshan Zhang, Jiayan Chen, Jiaming Wei, Song Chen, Weilin Jin, Jinfei Chen, Dongping Wei, and Yaping Xu. Ubiquitin ligase subunit fbxo9 inhibits v-atpase assembly and impedes lung cancer metastasis. Experimental Hematology &amp; Oncology, March 2024. URL: http://dx.doi.org/10.1186/s40164-024-00497-4, doi:10.1186/s40164-024-00497-4. This article has 2 citations.](https://doi.org/10.1186/s40164-024-00497-4)
+
+[4. (HynesSmith2019Loss) R. Willow Hynes-Smith, Samantha A. Swenson, Heather Vahle, Karli J. Wittorf, Mika Caplan, Catalina Amador, R. Katherine Hyde, and Shannon M. Buckley. Loss of fbxo9 enhances proteasome activity and promotes aggressiveness in acute myeloid leukemia. Cancers, 11(11):1717, November 2019. URL: http://dx.doi.org/10.3390/cancers11111717, doi:10.3390/cancers11111717. This article has 13 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers11111717)
+
+[5. (Yang2024Fbox) Yanzhen Yang, Qu Xie, Can Hu, Jingli Xu, Lei Chen, Yuan Li, and Cong Luo. F-box proteins and gastric cancer: an update from functional and regulatory mechanism to therapeutic clinical prospects. International Journal of Medical Sciences, 21(8):1575–1588, 2024. URL: http://dx.doi.org/10.7150/ijms.91584, doi:10.7150/ijms.91584. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.7150/ijms.91584)
+
+[6. (Luo2023Identification) Xiaomei Luo, Yingjie Wang, Hao Zhang, Guangquan Chen, Jindan Sheng, Xiu Tian, Renhao Xue, and Yu Wang. Identification of a prognostic signature for ovarian cancer based on ubiquitin-related genes suggesting a potential role for fbxo9. Biomolecules, 13(12):1724, November 2023. URL: http://dx.doi.org/10.3390/biom13121724, doi:10.3390/biom13121724. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom13121724)

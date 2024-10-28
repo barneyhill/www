@@ -1,0 +1,33 @@
+# C15orf48
+
+## Overview
+C15orf48 is a gene located on chromosome 15 that encodes the mitochondrial protein known as MOCCI (Mitochondrial Open Reading Frame of C15orf48). MOCCI is a crucial regulator of mitochondrial function, inflammation, and immune responses. It plays a significant role in cellular homeostasis by inducing autophagy through the activation of AMP-activated protein kinase (AMPK) and Unc-51-like kinase 1 (ULK1) pathways, independent of cellular stress (Takakura2023Mitochondrial). MOCCI also modulates oxidative stress by enhancing the glutathione-GPX antioxidant system and participates in the regulation of mitochondrial electron transport chain activity, particularly by replacing the NDUFA4 subunit in cytochrome C oxidase during inflammation (Lee2021Coding). This replacement reduces reactive oxygen species (ROS) production and pro-inflammatory cytokine release, thereby controlling inflammation and maintaining mitochondrial integrity (Lee2021Coding). The gene's expression and function have significant implications in various diseases, including chronic inflammatory conditions, cancer, and autoimmune disorders, highlighting its potential as a biomarker and therapeutic target (Li2023The; Takakura2023Mitochondrial).
+
+## Function
+The C15orf48 gene encodes a mitochondrial protein known as MOCCI, which plays a significant role in regulating host inflammation and immunity. In healthy human cells, MOCCI is involved in mitochondrial function and inflammatory response. It acts as a stress-independent inducer of autophagy, a process crucial for cellular homeostasis, by reducing mitochondrial membrane potential and intracellular ATP levels. This reduction activates the AMP-activated protein kinase (AMPK) and its downstream target, Unc-51-like kinase 1 (ULK1), leading to autophagy (Takakura2023Mitochondrial).
+
+MOCCI is also involved in the regulation of oxidative stress and autoimmunity. It enhances the glutathione-GPX antioxidant system, providing cellular protection against oxidative stress (Takakura2023Mitochondrial). In the context of inflammation, MOCCI replaces the NDUFA4 subunit in cytochrome C oxidase (Complex IV) of the mitochondria, which lowers reactive oxygen species (ROS) production and dampens pro-inflammatory cytokine production, thus controlling excessive inflammation and cell death (Lee2021Coding). This function is crucial for maintaining mitochondrial integrity and functionality, which are key determinants of inflammatory activation (Lee2021Coding).
+
+## Clinical Significance
+C15orf48, also known as MOCCI, has been implicated in various diseases and conditions due to its role in regulating inflammation and immune responses. Alterations in the expression of C15orf48 are associated with chronic inflammatory conditions, such as dilated cardiomyopathy, where its upregulation is linked to inflammatory pathways (Lee2021Coding). In cancer, C15orf48 shows differential expression and methylation patterns across various types, including gliomas, liver hepatocellular carcinoma, and pancreatic adenocarcinoma. High expression levels correlate with poor prognosis and shorter survival rates in these cancers (Li2023The). The gene's expression is also associated with immune cell infiltration and response to immunotherapy, particularly in thyroid carcinoma, where it may serve as a biomarker (Li2023The).
+
+C15orf48 is involved in stress-independent autophagy, which is crucial for maintaining immune tolerance. Deficiency in this gene can lead to autoimmunity, as observed in knockout mice that develop autoantibodies and autoimmune symptoms (Takakura2023Mitochondrial). The gene's role in reducing oxidative stress and promoting cell survival is significant in both cancer progression and autoimmune disease regulation (Takakura2023Mitochondrial). These findings highlight the clinical significance of C15orf48 in both cancer and autoimmune diseases.
+
+## Interactions
+The C15orf48 gene encodes the MOCCI protein, which is involved in interactions with components of the mitochondrial electron transport chain, specifically Complex IV (CIV). MOCCI is a paralog of NDUFA4 and can replace it in CIV during inflammation. This replacement is associated with a downregulation of CIV activity, reduced mitochondrial membrane potential, and decreased reactive oxygen species (ROS) production (Lee2021Coding). 
+
+MOCCI and NDUFA4 are mutually exclusive in CIV complexes, as demonstrated by immunoprecipitation experiments where MOCCI-FLAG enriched MTCO-1 but did not coimmunoprecipitate NDUFA4. This suggests that MOCCI and NDUFA4 are incorporated into alternate assemblies of CIV or CIV isozymes (Lee2021Coding). 
+
+The study also highlights the role of miR-147b, a microRNA hosted within the MOCCI transcript, which targets NDUFA4 mRNA. This interaction potentially synergizes with MOCCI to mediate the switch in protein expression, although miR-147b alone does not affect mitochondrial membrane potential and ROS production as MOCCI does (Lee2021Coding). 
+
+These interactions underscore the role of C15orf48 in modulating mitochondrial function and inflammation.
+
+
+## References
+
+
+[1. (Li2023The) Chaolin Li, Yan Tang, Qin Li, Haiyan Liu, Xiaoying Ma, Liu He, and Hao Shi. The prognostic and immune significance of c15orf48 in pan-cancer and its relationship with proliferation and apoptosis of thyroid carcinoma. Frontiers in Immunology, March 2023. URL: http://dx.doi.org/10.3389/fimmu.2023.1131870, doi:10.3389/fimmu.2023.1131870. This article has 3 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fimmu.2023.1131870)
+
+2. (Takakura2023Mitochondrial) Mitochondrial protein C15ORF48 is a stress-independent inducer of autophagy that regulates oxidative stress and autoimmunity. This article has 0 citations.
+
+[3. (Lee2021Coding) Cheryl Q. E. Lee, Baptiste Kerouanton, Sonia Chothani, Shan Zhang, Ying Chen, Chinmay Kumar Mantri, Daniella Helena Hock, Radiance Lim, Rhea Nadkarni, Vinh Thang Huynh, Daryl Lim, Wei Leong Chew, Franklin L. Zhong, David Arthur Stroud, Sebastian Schafer, Vinay Tergaonkar, Ashley L. St John, Owen J. L. Rackham, and Lena Ho. Coding and non-coding roles of mocci (c15orf48) coordinate to regulate host inflammation and immunity. Nature Communications, April 2021. URL: http://dx.doi.org/10.1038/s41467-021-22397-5, doi:10.1038/s41467-021-22397-5. This article has 60 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-021-22397-5)

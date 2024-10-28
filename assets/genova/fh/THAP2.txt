@@ -1,0 +1,35 @@
+# THAP2
+
+## Overview
+THAP2 is a gene that encodes the THAP domain-containing protein 2, which is involved in transcriptional regulation. The protein is characterized by the presence of a THAP domain, a zinc-dependent DNA-binding motif that plays a crucial role in DNA interaction and transcriptional regulation (Sanghavi2021Synapomorphic). As a member of the short THAP (sTHAP) group, THAP2 shares structural features with other THAP proteins, including a conserved alpha helical region that facilitates oligomerization (Sanghavi2019Classification). THAP2 is active in the nucleus, where it influences gene expression and cellular homeostasis, and is implicated in processes such as apoptosis and cell proliferation (Sanghavi2021Synapomorphic). The protein's interactions and regulatory roles suggest its involvement in complex cellular networks and potential implications in disease mechanisms, such as cancer (Morais2014The).
+
+## Structure
+The THAP2 protein is characterized by the presence of a THAP domain, a conserved sequence motif at the N-terminus. This domain includes a C2CH motif, which coordinates a zinc ion, and an AVPTIF box, which interacts with DNA. The THAP domain folds into a β-α-β secondary structural fold, specifically a β1-L1-β2-L2-α1-L3-β3-L4 structure in THAP2, although it lacks an additional β sheet (β4) found in some other THAP proteins (Sanghavi2021Synapomorphic). The THAP domain is crucial for DNA binding and zinc ion coordination, contributing to the protein's function (Roussigne2003The).
+
+THAP2 is part of the short THAP (sTHAP) group, which includes THAP1, THAP3, and THAP6. These proteins show strong conservation of basic amino acid residues in their alpha helical regions, spanning residues 135-178 in THAP2. This region is predicted to form alpha helices, which are characteristic of coiled coil structures, although THAP2 is noted to be leucine poor compared to other THAP proteins (Sanghavi2019Classification). The predicted alpha helical region in THAP2 also shows a moderate amphipathic arrangement, which is important for potential oligomerization (Sanghavi2019Classification).
+
+## Function
+THAP2 is a gene that encodes a protein involved in transcriptional regulation, primarily through its THAP domain, a zinc-dependent DNA-binding motif. This domain is crucial for the protein's role in DNA interaction, suggesting its involvement in transcriptional regulation or chromatin remodeling (Sanghavi2021Synapomorphic). The THAP domain in THAP2 is characterized by a C2CH motif and an AVPTIF box, which are essential for its DNA-binding function (Sanghavi2021Synapomorphic). 
+
+THAP2 is classified as a short THAP protein, indicating strong conservation of basic amino acid residues in its alpha helical regions, which are important for maintaining the structural and functional integrity of the protein (Sanghavi2019Classification). The protein is active in the nucleus, where it influences gene expression and cellular homeostasis, playing roles in apoptosis and cell proliferation (Sanghavi2021Synapomorphic). 
+
+The THAP domain's ability to bind DNA through a β-α-β fold allows THAP2 to potentially regulate transcriptional processes, although the specific molecular processes and cellular roles of THAP2 in healthy human cells are not fully detailed in the available literature (Sanghavi2021Synapomorphic).
+
+## Interactions
+THAP2 is involved in protein interactions that are crucial for its function in transcriptional regulation. The protein contains a conserved alpha helical region that is predicted to form coiled coil structures, which are important for protein oligomerization. This region is leucine-rich and facilitates the formation of both homo- and hetero-oligomeric structures, as suggested by bioinformatic tools like LOGI-COIL and Multicoil (Sanghavi2019Classification). The STRING database indicates that most interacting partners of THAP proteins, except THAP10, have a high probability of forming oligomeric structures, highlighting the potential for THAP2 to engage in complex protein interactions (Szklarczyk2014STRING).
+
+In the context of bladder cancer, THAP2 expression is regulated by miR-100, a microRNA that affects mRNA and protein levels. In RT4 bladder cancer cells, exposure to pre-miR-100 leads to a reduction in THAP2 mRNA expression, while anti-miR-100 increases its expression. This suggests that THAP2 may be involved in regulatory networks influenced by microRNAs, impacting cell proliferation and survival (Morais2014The). These interactions underscore the role of THAP2 in cellular processes and its potential involvement in disease mechanisms.
+
+
+## References
+
+
+[1. (Roussigne2003The) Myriam Roussigne, Sophia Kossida, Anne-Claire Lavigne, Thomas Clouaire, Vincent Ecochard, Alexandra Glories, François Amalric, and Jean-Philippe Girard. The thap domain: a novel protein motif with similarity to the dna-binding domain of p element transposase. Trends in Biochemical Sciences, 28(2):66–69, February 2003. URL: http://dx.doi.org/10.1016/s0968-0004(02)00013-0, doi:10.1016/s0968-0004(02)00013-0. This article has 114 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/s0968-0004(02)00013-0)
+
+[2. (Sanghavi2019Classification) Hiral M. Sanghavi, Sairam S. Mallajosyula, and Sharmistha Majumdar. Classification of the human thap protein family identifies an evolutionarily conserved coiled coil region. BMC Structural Biology, March 2019. URL: http://dx.doi.org/10.1186/s12900-019-0102-2, doi:10.1186/s12900-019-0102-2. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12900-019-0102-2)
+
+3. (Sanghavi2021Synapomorphic) Synapomorphic variations in the THAP domains of the human THAP protein family and its homologs. This article has 0 citations.
+
+[4. (Morais2014The) Denis R Morais, Sabrina T Reis, Nayara Viana, Camila Berfort Piantino, Cristina Massoco, Caio Moura, Nelson Dip, Iran A Silva, Miguel Srougi, and Katia RM Leite. The involvement of mir-100 in bladder urothelial carcinogenesis changing the expression levels of mrna and proteins of genes related to cell proliferation, survival, apoptosis and chromosomal stability. Cancer Cell International, November 2014. URL: http://dx.doi.org/10.1186/s12935-014-0119-3, doi:10.1186/s12935-014-0119-3. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1186/s12935-014-0119-3)
+
+[5. (Szklarczyk2014STRING) Damian Szklarczyk, Andrea Franceschini, Stefan Wyder, Kristoffer Forslund, Davide Heller, Jaime Huerta-Cepas, Milan Simonovic, Alexander Roth, Alberto Santos, Kalliopi P. Tsafou, Michael Kuhn, Peer Bork, Lars J. Jensen, and Christian von Mering. String v10: protein–protein interaction networks, integrated over the tree of life. Nucleic Acids Research, 43(D1):D447–D452, October 2014. URL: http://dx.doi.org/10.1093/nar/gku1003, doi:10.1093/nar/gku1003. This article has 7838 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gku1003)

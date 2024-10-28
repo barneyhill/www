@@ -1,0 +1,46 @@
+# TRMT61B
+
+## Overview
+TRMT61B is a gene that encodes the mitochondrial tRNA methyltransferase 61B, a protein belonging to the Rossmann-fold methyltransferase (RFM) superfamily. This enzyme is crucial for the post-transcriptional modification of mitochondrial tRNA, specifically catalyzing the formation of 1-methyladenosine (m1A) at position 58, which is essential for tRNA stability and function (Chujo2012Trmt61B; Oerum2017m1A). The TRMT61B protein forms a homotetramer, similar to bacterial TrmI enzymes, and is involved in maintaining mitochondrial gene expression and function (Chujo2012Trmt61B; Oerum2017m1A). While its role is less critical in healthy cells, TRMT61B is significant in cancer biology, where its dysregulation is associated with tumorigenesis and aneuploidy (Martín2021Targeting). Additionally, alterations in TRMT61B expression have been linked to neurodegenerative diseases and mitochondrial disorders, highlighting its potential as a therapeutic target (Richter2018RNA; Ali2020Analysis).
+
+## Structure
+TRMT61B is a mitochondrial tRNA methyltransferase that forms a homotetramer, similar to the bacterial TrmI enzyme, indicating a quaternary structure composed of four identical subunits (Chujo2012Trmt61B; Oerum2017m1A). The protein is involved in the methylation of 1-methyladenosine (m1A) at position 58 of mitochondrial tRNAs, a modification crucial for tRNA stability and function (Chujo2012Trmt61B). The crystal structure of TRMT61B has been solved and deposited with PDB ID: 2B25, although specific details about its primary, secondary, and tertiary structures are not provided in the context (Chujo2012Trmt61B).
+
+TRMT61B is a paralog of the cytoplasmic tRNA methyltransferase Trmt61A, sharing structural similarities with bacterial TrmI proteins, which belong to the Rossmann-fold methyltransferase (RFM) superfamily (Oerum2017m1A). The enzyme's bacterial origin is supported by phylogenetic analysis, suggesting evolutionary conservation of its structural features (Chujo2012Trmt61B; Oerum2017m1A). While specific post-translational modifications and splice variant isoforms are not detailed in the context, TRMT61B's role in mitochondrial RNA methylation highlights its importance in maintaining mitochondrial function and integrity (Richter2018RNA).
+
+## Function
+TRMT61B is a mitochondrial RNA methyltransferase that plays a crucial role in the methylation of tRNA molecules, specifically catalyzing the formation of N1-methyladenosine at position 58 (m1A58) in tRNA. This modification is essential for maintaining the structural integrity and proper functioning of mitochondrial tRNA, which is vital for mitochondrial protein synthesis and overall cellular energy production (Martín2021Targeting). TRMT61B is encoded by the nuclear genome but functions within the mitochondrial compartment, where it contributes to the expression of mitochondrial genes by ensuring the correct structure and function of tRNA, mRNA, and rRNA (Martín2021Targeting).
+
+In healthy human cells, TRMT61B's role appears to be less critical compared to its function in cancer cells, as its silencing does not significantly impact cell respiration or mitochondrial membrane potential in non-tumoral cells (Martín2021Targeting). The enzyme is part of a dynamic regulatory system involving other writer, eraser, and reader proteins, which are crucial for the translation machinery and are often dysregulated in tumors (Martín2021Targeting). While the specific function of TRMT61B in healthy cells is not fully detailed, its activity is essential for maintaining mitochondrial gene expression and function.
+
+## Clinical Significance
+Mutations and alterations in the expression of the TRMT61B gene have been implicated in several diseases. In cancer, TRMT61B is overexpressed in highly aneuploid tumors, such as melanoma, where it is associated with increased aneuploidy levels and cancer development. Its expression correlates with chromosomal alterations, suggesting its potential as a biomarker for aneuploidy in cancer cells. Depleting TRMT61B in melanoma cells has been shown to reduce cell proliferation and tumor growth, indicating its role in tumorigenesis and potential as a therapeutic target (Martín2021Targeting).
+
+In neurodegenerative diseases, TRMT61B has been identified as differentially expressed in Alzheimer's disease, suggesting its involvement in the condition. The gene's expression alterations may influence mitochondrial RNA methylation, impacting mitochondrial processes and contributing to disease pathogenesis (Ali2020Analysis; Stojković2017Mutations).
+
+TRMT61B is also linked to mitochondrial disorders such as Myoclonic Epilepsy with Ragged Red Fibers (MERRF). The absence of the m1A58 modification in mitochondrial tRNA Lys, catalyzed by TRMT61B, is associated with MERRF pathogenesis. Restoring this modification through TRMT61B overexpression can improve mitochondrial translation, suggesting a potential therapeutic approach for MERRF (Richter2018RNA).
+
+## Interactions
+TRMT61B is a mitochondrial tRNA methyltransferase responsible for the formation of 1-methyladenosine (m1A) at position 58 in human mitochondrial tRNAs, including tRNA Leu(UUR), tRNA Lys, and tRNA Ser(UCN) (Chujo2012Trmt61B). This modification is crucial for tRNA stability and function, impacting mitochondrial protein synthesis and gene expression (Wanowska2022The; Richter2018RNA).
+
+TRMT61B interacts with mitochondrial tRNA to install m1A modifications, which are essential for proper folding and stability of tRNA molecules (Wanowska2022The). The enzyme forms a homo-oligomer, likely a homotetramer, similar to bacterial m1A58 methyltransferases, which suggests a structural basis for its function in tRNA modification (Chujo2012Trmt61B).
+
+In the context of cancer, TRMT61B's activity is linked to mitochondrial gene expression and cellular stress responses. Its depletion in aneuploid cancer cells leads to reduced expression of mitochondrial genes and impacts cell respiration and mitochondrial membrane potential, suggesting interactions with components of the mitochondrial electron transport chain (Martín2021Targeting). However, specific protein interactions involving TRMT61B in these processes are not detailed in the available literature.
+
+
+## References
+
+
+[1. (Oerum2017m1A) Stephanie Oerum, Clément Dégut, Pierre Barraud, and Carine Tisné. M1a post‐transcriptional modification in trnas. Biomolecules, 7(1):20, February 2017. URL: http://dx.doi.org/10.3390/biom7010020, doi:10.3390/biom7010020. This article has 116 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/biom7010020)
+
+[2. (Richter2018RNA) Uwe Richter, Molly E. Evans, Wesley C. Clark, Paula Marttinen, Eric A. Shoubridge, Anu Suomalainen, Anna Wredenberg, Anna Wedell, Tao Pan, and Brendan J. Battersby. Rna modification landscape of the human mitochondrial trnalys regulates protein synthesis. Nature Communications, September 2018. URL: http://dx.doi.org/10.1038/s41467-018-06471-z, doi:10.1038/s41467-018-06471-z. This article has 63 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41467-018-06471-z)
+
+[3. (Stojković2017Mutations) Vanja Stojković and Danica Galonić Fujimori. Mutations in rna methylating enzymes in disease. Current Opinion in Chemical Biology, 41:20–27, December 2017. URL: http://dx.doi.org/10.1016/j.cbpa.2017.10.002, doi:10.1016/j.cbpa.2017.10.002. This article has 23 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cbpa.2017.10.002)
+
+[4. (Chujo2012Trmt61B) Takeshi Chujo and Tsutomu Suzuki. Trmt61b is a methyltransferase responsible for 1-methyladenosine at position 58 of human mitochondrial trnas. RNA, 18(12):2269–2276, October 2012. URL: http://dx.doi.org/10.1261/rna.035600.112, doi:10.1261/rna.035600.112. This article has 160 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.035600.112)
+
+[5. (Ali2020Analysis) Aminah Tasnim Ali, Youssef Idaghdour, and Alan Hodgkinson. Analysis of mitochondrial m1a/g rna modification reveals links to nuclear genetic variants and associated disease processes. Communications Biology, March 2020. URL: http://dx.doi.org/10.1038/s42003-020-0879-3, doi:10.1038/s42003-020-0879-3. This article has 22 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s42003-020-0879-3)
+
+[6. (Wanowska2022The) Elzbieta Wanowska, Alexis McFeely, and Joanna Sztuba-Solinska. The role of epitranscriptomic modifications in the regulation of rna–protein interactions. BioChem, 2(4):241–259, November 2022. URL: http://dx.doi.org/10.3390/biochem2040017, doi:10.3390/biochem2040017. This article has 4 citations.](https://doi.org/10.3390/biochem2040017)
+
+7. (Martín2021Targeting) Targeting the mitochondrial RNA methyltransferase TRMT61B reveals new therapeutic opportunities in aneuploid cancer cells. This article has 0 citations.

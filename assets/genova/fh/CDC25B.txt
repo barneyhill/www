@@ -1,0 +1,54 @@
+# CDC25B
+
+## Overview
+The CDC25B gene encodes the cell division cycle 25B protein, a dual-specificity phosphatase that plays a pivotal role in cell cycle regulation. This protein is crucial for the activation of cyclin-dependent kinases (CDKs), facilitating the transition from the G2 phase to mitosis, thereby ensuring proper cell division and proliferation (Ma2001Cdc25B; Karlsson1999Cdc25b). Beyond its role in cell cycle progression, CDC25B also functions as a coactivator for steroid receptors, influencing transcriptional activity independent of its phosphatase function (Ma2001Cdc25B). The protein's interactions with various cyclin-CDK complexes and steroid receptors underscore its multifaceted role in cellular processes. Clinically, alterations in CDC25B expression are linked to several diseases, including cancer, where its overexpression is associated with poor prognosis in certain types, such as ovarian cancer and gliomas (Nakabayashi2006Prognostic; Xiao2019Inhibition).
+
+## Structure
+The CDC25B protein is a dual-specificity phosphatase involved in cell cycle regulation. Its primary structure consists of a sequence of amino acids forming the protein, with a catalytic domain that is essential for its phosphatase activity (Ma2001Cdc25B). The secondary structure includes a C-terminal alpha-helix, which is stable and well-folded, while the last 20 residues of the C-terminus are disordered and exhibit high flexibility (Sayegh2016Conformational). The tertiary structure of CDC25B is characterized by a well-defined protein core, with the C-terminal alpha-helix maintaining stability during molecular dynamics simulations (Sayegh2016Conformational). 
+
+CDC25B contains a conserved catalytic domain with an active site motif similar to the tyrosine phosphatase family, and a variable N-terminal region that may serve a regulatory role through phosphorylation (Ma2001Cdc25B). The protein undergoes post-translational modifications, such as phosphorylation, which influence its subcellular distribution and interaction with other proteins (Kang2017Comparative). CDC25B has multiple splice variant isoforms, including Cdc25B1, Cdc25B2, and Cdc25B3, which contribute to its functional diversity (Ma2001Cdc25B). These isoforms differ in their amino-terminal sequences and cellular localization (Kang2017Comparative).
+
+## Function
+The CDC25B gene encodes a dual specificity phosphatase that plays a critical role in cell cycle regulation by activating cyclin-dependent kinases (CDKs) through dephosphorylation. This activity is essential for the transition from the G2 phase to mitosis, facilitating proper cell division and proliferation (Ma2001Cdc25B; Karlsson1999Cdc25b). CDC25B is primarily localized in the cytoplasm during the S and G2 phases and becomes nuclear at the end of the G2 phase, a process regulated by cyclin B1-mediated nuclear export (Karlsson1999Cdc25b).
+
+In addition to its role in cell cycle progression, CDC25B functions as a coactivator for steroid receptors, enhancing transcriptional activity independent of its phosphatase function. It interacts with steroid receptors such as the estrogen receptor (ER), progesterone receptor (PR), glucocorticoid receptor (GR), and androgen receptor (AR), facilitating hormone-dependent transcription (Ma2001Cdc25B). This coactivation involves recruiting histone acetyltransferase proteins to modify chromatin structure, thereby enhancing gene expression (Ma2001Cdc25B).
+
+CDC25B also plays a role in inducing cellular senescence in a p53-dependent manner, acting as a tumor suppressor by stabilizing p53 and promoting senescence-associated pathways (Chen2021CDC25B).
+
+## Clinical Significance
+Mutations and alterations in the CDC25B gene are associated with various diseases and conditions. A novel syndrome linked to mutations in CDC25B is characterized by cataracts, dilated cardiomyopathy, and multiple endocrinopathies. This syndrome, termed CDCME, was identified in a patient with a homozygous nonsense variant in the CDC25B gene, leading to a complete loss of function of the CDC25B protein. This mutation results in mitotic catastrophe and impaired cell turnover, contributing to the development of early cataracts and endocrine disorders (Lam2020Centrosomeassociated).
+
+CDC25B is also implicated in cancer. Overexpression of CDC25B is observed in various cancers, including colorectal carcinoma, ovarian cancer, and gliomas. In ovarian cancer, high CDC25B expression is associated with poor prognosis and is considered a potential target for chemotherapeutic intervention. The compound WG-391D has shown efficacy in inhibiting CDC25B expression, leading to cell cycle arrest and apoptosis in ovarian cancer models (Xiao2019Inhibition). In gliomas, increased CDC25B expression correlates with higher tumor grades and shorter disease-free survival, indicating its potential as a prognostic marker (Nakabayashi2006Prognostic).
+
+## Interactions
+CDC25B interacts with several proteins, playing a crucial role in cell cycle regulation. It binds to cyclin B1, forming a complex that is involved in a positive feedback loop to induce mitosis. This interaction is significant for the regulation of the G2/M phase transition, as CDC25B acts on the cytoplasmic pool of cyclin B/CDK1 (Karlsson1999Cdc25b).
+
+CDC25B also interacts with the CDK2/Cyclin A complex, where it functions by dephosphorylating CDK2 to activate it. This interaction is mediated by specific residues such as Arg488 and Arg492, which are crucial for substrate recognition. Mutations like R492L can impair this interaction, leading to decreased phosphatase activity and weaker binding to CDK2/Cyclin A (Lund2014Inhibition; Li2021Molecular).
+
+CDC25B acts as a coactivator for steroid receptors, including estrogen and progesterone receptors. It enhances receptor-dependent transcription by interacting with these receptors and recruiting histone acetyltransferase proteins like PCAF and CBP, which facilitate chromatin remodeling and transcriptional activation (Ma2001Cdc25B).
+
+These interactions highlight CDC25B's multifaceted role in cell cycle regulation and transcriptional activation, contributing to its involvement in oncogenic processes.
+
+
+## References
+
+
+[1. (Lund2014Inhibition) George Lund, Sergii Dudkin, Dmitry Borkin, Wendi Ni, Jolanta Grembecka, and Tomasz Cierpicki. Inhibition of cdc25b phosphatase through disruption of protein–protein interaction. ACS Chemical Biology, 10(2):390–394, December 2014. URL: http://dx.doi.org/10.1021/cb500883h, doi:10.1021/cb500883h. This article has 29 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1021/cb500883h)
+
+[2. (Li2021Molecular) Hao-Xin Li, Wen-Yu Yang, Li-Peng Li, Hui Zhou, Wei-Ya Li, Ying Ma, and Run-Ling Wang. Molecular dynamics study of cdc25br492l mutant causing the activity decrease of cdc25b. Journal of Molecular Graphics and Modelling, 109:108030, December 2021. URL: http://dx.doi.org/10.1016/j.jmgm.2021.108030, doi:10.1016/j.jmgm.2021.108030. This article has 1 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.jmgm.2021.108030)
+
+[3. (Ma2001Cdc25B) Zhi-Qing Ma, Zheng Liu, Elly S. W. Ngan, and Sophia Y. Tsai. Cdc25b functions as a novel coactivator for the steroid receptors. Molecular and Cellular Biology, 21(23):8056–8067, December 2001. URL: http://dx.doi.org/10.1128/MCB.21.23.8056-8067.2001, doi:10.1128/mcb.21.23.8056-8067.2001. This article has 68 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1128/MCB.21.23.8056-8067.2001)
+
+[4. (Lam2020Centrosomeassociated) Ching-wan Lam, Nai-chung Fong, Tina Yee-ching Chan, Kwai-cheung Lau, Tsz-ki Ling, Daniel Wai-yau Mak, Xinqi Cheng, and Chun-yiu Law. Centrosome-associated cdc25b is a novel disease-causing gene for a syndrome with cataracts, dilated cardiomyopathy, and multiple endocrinopathies. Clinica Chimica Acta, 504:81–87, May 2020. URL: http://dx.doi.org/10.1016/j.cca.2020.01.017, doi:10.1016/j.cca.2020.01.017. This article has 4 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.cca.2020.01.017)
+
+[5. (Karlsson1999Cdc25b) Christina Karlsson, Stephanie Katich, Anja Hagting, Ingrid Hoffmann, and Jonathon Pines. Cdc25b and cdc25c differ markedly in their properties as initiators of mitosis. The Journal of Cell Biology, 146(3):573–584, August 1999. URL: http://dx.doi.org/10.1083/JCB.146.3.573, doi:10.1083/jcb.146.3.573. This article has 220 citations.](https://doi.org/10.1083/JCB.146.3.573)
+
+[6. (Nakabayashi2006Prognostic) H Nakabayashi, M Hara, and K Shimizu. Prognostic significance of cdc25b expression in gliomas. Journal of Clinical Pathology, 59(7):725–728, June 2006. URL: http://dx.doi.org/10.1136/jcp.2005.029546, doi:10.1136/jcp.2005.029546. This article has 14 citations and is from a peer-reviewed journal.](https://doi.org/10.1136/jcp.2005.029546)
+
+[7. (Kang2017Comparative) Min Kang, Aera Bang, Ok Choi, and Seung Han. Comparative analysis of two murine cdc25b isoforms. Arhiv za bioloske nauke, 69(1):35–44, 2017. URL: http://dx.doi.org/10.2298/abs160315062k, doi:10.2298/abs160315062k. This article has 0 citations.](https://doi.org/10.2298/abs160315062k)
+
+[8. (Chen2021CDC25B) Ying-Chieh Chen, Hsi-Hsien Hsieh, Hsi-Chi Chang, Hsin-Chiao Wang, Wey-Jinq Lin, and Jing-Jer Lin. Cdc25b induces cellular senescence and correlates with tumor suppression in a p53-dependent manner. Journal of Biological Chemistry, 296:100564, January 2021. URL: http://dx.doi.org/10.1016/j.jbc.2021.100564, doi:10.1016/j.jbc.2021.100564. This article has 14 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.jbc.2021.100564)
+
+[9. (Xiao2019Inhibition) Yangjiong Xiao, Yang Yu, Dan Gao, Wangrui Jin, Pengcheng Jiang, Yuhong Li, Chao Wang, Yuning Song, Peng Zhan, Fei Gu, Cancan Zhang, Bin Wang, Yihua Chen, Bing Du, and Rong Zhang. Inhibition of cdc25b with wg-391d impedes the tumorigenesis of ovarian cancer. Frontiers in Oncology, April 2019. URL: http://dx.doi.org/10.3389/fonc.2019.00236, doi:10.3389/fonc.2019.00236. This article has 12 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fonc.2019.00236)
+
+[10. (Sayegh2016Conformational) Raphael S. R. Sayegh, Fabio K. Tamaki, Sandro R. Marana, Roberto K. Salinas, and Guilherme M. Arantes. Conformational flexibility of the complete catalytic domain of cdc25b phosphatases. Proteins: Structure, Function, and Bioinformatics, 84(11):1567–1575, July 2016. URL: http://dx.doi.org/10.1002/prot.25100, doi:10.1002/prot.25100. This article has 3 citations.](https://doi.org/10.1002/prot.25100)

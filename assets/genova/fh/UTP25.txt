@@ -1,0 +1,31 @@
+# UTP25
+
+## Overview
+UTP25 is a gene that encodes the UTP25 small subunit processome component, a protein integral to the small subunit (SSU) processome, a large ribonucleoprotein complex involved in ribosome biogenesis. The UTP25 protein is characterized by its structural similarity to DEAD-box RNA helicases, although it functions as a pseudohelicase due to the absence of key helicase motifs. It plays a pivotal role in the processing and maturation of 18S rRNA, essential for the assembly and function of ribosomes, which are crucial for protein synthesis and cellular growth (Helwer2022The; Charette2010The). The protein is conserved across eukaryotes, underscoring its fundamental role in cellular function and development. UTP25's interactions with other proteins within the SSU processome, such as Utp3 and Mpp10, highlight its importance in linking different subcomplexes and contributing to the stability and assembly of the processome (Charette2010The).
+
+## Structure
+The UTP25 protein, a component of the SSU processome, is characterized by a specific molecular structure that includes distinct domains and motifs. The primary structure of UTP25 consists of 721 amino acids, with a molecular weight of approximately 84 kDa (Charette2010The). The protein is divided into two main regions: an N-terminal region (amino acids 1 to 213) and a C-terminal region (amino acids 214 to 721). The N-terminal region is poorly conserved and lacks known sequence or structural motifs, featuring simple, repetitive, negatively charged sequences such as poly-DE repeats (Charette2010The).
+
+The C-terminal region is highly conserved and contains the domain of unknown function, DUF1253, which shows limited sequence similarity to DEAD-box RNA helicases (Charette2010The). Despite lacking most conserved helicase motifs, UTP25 retains some structural similarity to DEAD-box helicases, as demonstrated by AlphaFold modeling (Helwer2022The). The structured region of UTP25, spanning amino acids ~160 to 721, consists of two domains with high confidence scores, and the yeast and human Utp25 structures are highly similar, with a root-mean-square deviation (RMSD) of 0.993 Å (Helwer2022The).
+
+UTP25 interacts with other proteins within the SSU processome, such as Utp3 and Mpp10, indicating its role in protein-protein interactions and suggesting a quaternary structure involving these associations (Charette2010The).
+
+## Function
+UTP25 is a component of the small subunit (SSU) processome, a large ribonucleoprotein complex involved in ribosome biogenesis. It plays a crucial role in the processing and maturation of the 18S rRNA, a component of the small ribosomal subunit. UTP25 is active in the nucleolus, where it contributes to the assembly and function of ribosomes, essential for protein synthesis and cellular growth (Charette2010The).
+
+Despite being structurally similar to DEAD-box RNA helicases, UTP25 is considered a pseudohelicase, as it lacks some key motifs required for helicase activity. However, it retains structural similarity to these helicases and is essential for ribosome assembly (Helwer2022The; Charette2010The). UTP25 interacts with other proteins within the SSU processome, such as Utp3, Mpp10, and members of the UtpB subcomplex, suggesting it plays a role in linking different subcomplexes and contributing to the stability and assembly of the processome (Charette2010The).
+
+The protein is conserved across eukaryotes, indicating its fundamental role in ribosome biogenesis. In zebrafish, loss of UTP25 leads to defects in digestive organ development, highlighting its importance in organ development and cellular function (Charette2010The).
+
+## Interactions
+UTP25 is a component of the small subunit (SSU) processome, a large ribonucleoprotein complex involved in ribosome biogenesis. It interacts with several proteins within this complex, playing a crucial role in linking different subcomplexes. UTP25 directly interacts with Utp3 and Mpp10, forming the basis of their co-complex associations (Charette2010The). It also interacts with Utp21, a member of the UtpB subcomplex, thereby linking various subcomplexes of the SSU processome (Charette2010The). These interactions were identified using high-throughput affinity capture-mass spectrometry and yeast two-hybrid approaches (Charette2010The).
+
+The DEAD-box RNA helicase-like DUF1253 domain of UTP25 is crucial for its interaction with Utp3 (Charette2010The). Despite its sequence similarity to DEAD-box RNA helicases, UTP25 lacks most conserved helicase motifs, including the DEAD sequence, and is considered a pseudohelicase (Helwer2022The). UTP25 is associated with the U3 snoRNA and Mpp10, as well as components of the t-Utp/UtpA, UtpB, and U3 snoRNP subcomplexes (Charette2010The). These interactions are significant as they represent the first identified interactions among different SSU processome subcomplexes (Charette2010The).
+
+
+## References
+
+
+1. (Helwer2022The) The SSU Processome Component Utp25p is a Pseudohelicase. This article has 0 citations.
+
+[2. (Charette2010The) J. Michael Charette and Susan J. Baserga. The dead-box rna helicase-like utp25 is an ssu processome component. RNA, 16(11):2156–2169, September 2010. URL: http://dx.doi.org/10.1261/rna.2359810, doi:10.1261/rna.2359810. This article has 43 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.2359810)

@@ -1,0 +1,35 @@
+# ABHD17C
+
+## Overview
+ABHD17C is a gene that encodes the protein abhydrolase domain containing 17C, a member of the alpha/beta hydrolase superfamily. This protein functions primarily as a depalmitoylase, an enzyme that removes palmitate groups from proteins, thereby regulating their localization, stability, and activity within the cell. The depalmitoylation activity of ABHD17C is crucial for various cellular processes, including signaling and growth, by modulating the palmitoylation cycle of proteins such as N-Ras and synaptic proteins like PSD-95 (Remsberg2020ABHD17; Lin2015ABHD17). ABHD17C is active in the cytoplasm and plays a significant role in synaptic plasticity and immune response regulation. Its interaction with proteins like USP35 in hepatocellular carcinoma cells highlights its involvement in cancer progression through pathways such as PI3K/AKT signaling (Wang2023USP35). The regulation of ABHD17C's activity and stability is essential for maintaining cellular homeostasis and proper signaling in healthy human cells (Holme2024An).
+
+## Function
+ABHD17C is a member of the alpha/beta hydrolase domain-containing enzymes, functioning as an acyl-protein thioesterase involved in the depalmitoylation of proteins. This process is crucial for regulating the palmitate turnover and subcellular localization of proteins such as N-Ras, a key player in oncogenic signaling pathways. By removing palmitate groups, ABHD17C influences the dynamic palmitoylation cycle, affecting protein localization, stability, and activity, which are essential for cellular processes like signaling and growth (Remsberg2020ABHD17; Lin2015ABHD17).
+
+ABHD17C is active in the cytoplasm and plays a role in the regulation of synaptic plasticity in the brain by modulating the palmitoylation of synaptic proteins like PSD-95 (Lin2015ABHD17). It also participates in the depalmitoylation of the NOD2 protein, which is involved in immune responses, thereby influencing its membrane localization and signaling (Dixon2023Attenuating). The enzyme's activity is regulated by its own acylation, which is important for its localization and function at the plasma membrane (Holme2024An). Through these mechanisms, ABHD17C contributes to maintaining cellular homeostasis and proper signaling in healthy human cells.
+
+## Clinical Significance
+ABHD17C has been implicated in the progression of hepatocellular carcinoma (HCC) through its interaction with USP35. USP35 stabilizes ABHD17C, preventing its degradation and leading to the activation of the PI3K/AKT signaling pathway, which is known to promote cancer development. Elevated levels of both USP35 and ABHD17C have been observed in HCC tissues compared to non-tumorous tissues, suggesting a role in tumor progression. Knockdown of USP35 results in decreased ABHD17C levels, impaired PI3K/AKT signaling, reduced cell proliferation, cell cycle arrest, increased apoptosis, and reduced migration and invasion in HCC cells. Overexpression of ABHD17C can counteract these effects, highlighting its critical role in HCC pathogenesis (Wang2023USP35).
+
+ABHD17C is also part of the ABHD17 family of depalmitoylases, which regulate the palmitoylation of proteins such as N-Ras. This regulation is crucial for N-Ras-dependent cancer growth, as palmitoylation affects protein localization and function. Inhibitors targeting ABHD17 enzymes, including ABHD17C, have shown potential in selectively targeting cancer cells dependent on N-Ras, suggesting a therapeutic strategy for NRAS mutant cancers (Remsberg2021ABHD17).
+
+## Interactions
+ABHD17C is known to interact with the USP35 protein in hepatocellular carcinoma (HCC) cells. This interaction is crucial for the stabilization of ABHD17C, as USP35 regulates its ubiquitination, preventing its degradation via the ubiquitin-proteasome system. Co-immunoprecipitation assays have confirmed the physical interaction between USP35 and ABHD17C in HCC cells. The stabilization of ABHD17C by USP35 is linked to the activation of the PI3K/AKT signaling pathway, which is associated with increased cell proliferation and tumor progression in HCC (Wang2023USP35).
+
+ABHD17C is also involved in the depalmitoylation of proteins such as N-RAS and NOD2. While specific physical interactions with these proteins are not detailed, ABHD17C's enzymatic activity affects their membrane localization and signaling capabilities. In the context of NOD2, ABHD17C acts as a thioesterase, removing palmitoylation and thus influencing NOD2's membrane association and downstream signaling pathways, including NF-κB and MAPK (Dixon2023Attenuating). These interactions highlight ABHD17C's role in modulating protein function and cellular signaling through its depalmitoylase activity.
+
+
+## References
+
+
+1. (Remsberg2020ABHD17) ABHD17 enzymes regulate dynamic plasma membrane palmitoylation and N-Ras-dependent cancer growth. This article has 1 citations.
+
+2. (Dixon2023Attenuating) Attenuating ABHD17 enhancesS-palmitoylation, membrane localization and signal transduction of NOD2 and Crohn’s disease-associated variants. This article has 1 citations.
+
+3. (Holme2024An) An acylated N-terminus and a conserved loop regulate the activity of the ABHD17 de-acylase. This article has 0 citations.
+
+[4. (Remsberg2021ABHD17) Jarrett R. Remsberg, Radu M. Suciu, Noemi A. Zambetti, Thomas W. Hanigan, Ari J. Firestone, Anagha Inguva, Amanda Long, Nhi Ngo, Kenneth M. Lum, Cassandra L. Henry, Stewart K. Richardson, Marina Predovic, Ben Huang, Melissa M. Dix, Amy R. Howell, Micah J. Niphakis, Kevin Shannon, and Benjamin F. Cravatt. Abhd17 regulation of plasma membrane palmitoylation and n-ras-dependent cancer growth. Nature Chemical Biology, 17(8):856–864, April 2021. URL: http://dx.doi.org/10.1038/s41589-021-00785-8, doi:10.1038/s41589-021-00785-8. This article has 58 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1038/s41589-021-00785-8)
+
+[5. (Wang2023USP35) Linpei Wang, Jiawei Wang, Xiaoqiu Ma, Guomin Ju, Chunfeng Shi, Wei Wang, and Jian Wu. Usp35 promotes hcc development by stabilizing abhd17c and activating the pi3k/akt signaling pathway. Cell Death Discovery, November 2023. URL: http://dx.doi.org/10.1038/s41420-023-01714-5, doi:10.1038/s41420-023-01714-5. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-023-01714-5)
+
+[6. (Lin2015ABHD17) David Tse Shen Lin and Elizabeth Conibear. Abhd17 proteins are novel protein depalmitoylases that regulate n-ras palmitate turnover and subcellular localization. eLife, December 2015. URL: http://dx.doi.org/10.7554/elife.11306, doi:10.7554/elife.11306. This article has 224 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.11306)

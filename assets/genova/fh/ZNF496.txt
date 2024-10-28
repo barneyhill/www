@@ -1,0 +1,48 @@
+# ZNF496
+
+## Overview
+ZNF496 is a gene that encodes the zinc finger protein 496, a member of the KRAB-containing zinc finger protein family. This protein is characterized by its multiple zinc finger domains, a SCAN domain, and a KRAB domain, which collectively facilitate its role as a transcriptional regulator (Wang2018KRABcontaining). Unlike many other KRAB-ZNF proteins, zinc finger protein 496 functions primarily as a transcriptional activator rather than a repressor, playing a significant role in maintaining pluripotency in stem cells and modulating estrogen receptor alpha (ERα) activity in breast cancer cells (Wang2018KRABcontaining; Itokawa2009KAP1independent). The protein's interaction with ERα and its involvement in cellular processes such as differentiation and cancer progression underscore its potential as a therapeutic target and prognostic marker in oncology (Wang2018KRABcontaining; Czerwinska2021Low).
+
+## Structure
+ZNF496 is a zinc finger protein characterized by several distinct domains that contribute to its molecular structure and function. The primary structure of ZNF496 includes a sequence of 587 amino acids, with a predicted molecular mass of 66.4 kDa (Golik2011Differential). The protein features a SCAN domain, a KRAB domain, and multiple zinc finger regions, including four conventional C2H2-type zinc fingers and one novel C2HR motif (Wang2018KRABcontaining). These domains are crucial for DNA binding and protein-protein interactions.
+
+The SCAN domain is leucine-rich and facilitates protein interaction, mediating self-association or selective association with other proteins (Wang2018KRABcontaining). The KRAB domain functions as a transcriptional repressor by recruiting corepressors (Golik2011Differential). The zinc finger regions are involved in direct interactions with DNA and other proteins, playing a role in transcriptional regulation (Mysliwiec2007Characterization).
+
+ZNF496 also contains nuclear localization signals, including a bipartite NLS and shorter Pat4 and Pat7 motifs, indicating its nuclear localization (Golik2011Differential). The protein's interaction with estrogen receptor alpha (ERα) through its zinc finger domains suggests a role as an ERα coregulator, impacting breast cancer cell proliferation (Wang2018KRABcontaining). The complex structure of ZNF496, with its multiple domains and motifs, underlies its diverse functional roles in transcriptional regulation and cellular processes.
+
+## Function
+ZNF496 is a transcription factor that functions primarily as a transcriptional activator in healthy human cells. It is involved in the regulation of gene expression by binding to DNA through its zinc finger domains. Unlike many other KRAB-ZNF proteins, ZNF496 does not exhibit transcriptional repression activity; instead, it acts as a transcriptional activator and can inhibit the transcriptional repression of Jumonji/Jarid2 through physical interaction (Itokawa2009KAP1independent).
+
+ZNF496 is expressed in pluripotent stem cells (PSCs) and plays a role in maintaining pluripotency and regulating differentiation. During the reprogramming of somatic cells to PSCs, ZNF496 is upregulated, suggesting its involvement in the dedifferentiation process. Its expression is downregulated during differentiation, indicating a role in the transition from pluripotency to differentiated states (Oleksiewicz2017TRIM28).
+
+In the context of breast cancer, ZNF496 interacts with estrogen receptor alpha (ERα), acting as a corepressor that selectively inhibits ERα activity in a ligand-dependent manner. This interaction is significant in modulating ERα-mediated transcriptional activation, which is crucial for cell proliferation and differentiation in mammary epithelial cells (Wang2018KRABcontaining).
+
+## Clinical Significance
+ZNF496 has been implicated in various diseases, particularly in cancer. In breast cancer, ZNF496 acts as a corepressor of estrogen receptor alpha (ERα), selectively inhibiting its activity. This repression leads to decreased proliferation of ERα-positive breast cancer cells. ZNF496 expression is significantly downregulated in breast cancer tissues compared to normal tissues, and low levels of ZNF496 are associated with poor recurrence-free survival in patients. This suggests that ZNF496 could serve as a prognostic marker and potential therapeutic target in breast cancer (Wang2018KRABcontaining).
+
+In kidney renal clear cell carcinoma (KIRC), ZNF496 is considered a tumor suppressor. Its upregulation is associated with better patient survival and lower tumor grade. High expression of ZNF496 correlates with reduced cancer stemness characteristics and improved prognosis, indicating its potential role in modulating tumor progression and immune cell infiltration (Czerwinska2021Low).
+
+While ZNF496's role in other diseases is less clear, its involvement in transcriptional regulation and interaction with chromatin suggests it may have broader implications in disease pathogenesis, particularly in conditions where gene expression is dysregulated (Golik2011Differential).
+
+## Interactions
+ZNF496, a KRAB-containing zinc finger protein, is involved in several protein-protein interactions that influence its function as a transcriptional regulator. It interacts with the DNA-binding domain (DBD) of estrogen receptor alpha (ERα) through its C2H2 zinc finger domain. This interaction inhibits ERα's ability to bind to chromatin DNA, leading to the repression of ERα transactivation and the selective suppression of ERα target genes. This interaction is particularly significant in the context of breast cancer, where ZNF496 acts as a corepressor, inhibiting the growth of ERα-positive breast cancer cells by reducing the expression of ERα target genes (Wang2018KRABcontaining).
+
+ZNF496 does not bind to KAP1, a common corepressor for KRAB-ZNF proteins, indicating that it may function in a KAP1-independent manner. This suggests that ZNF496's repressive activity is mediated through other mechanisms, possibly involving its SCAN domain, which is crucial for its function as a transcriptional repressor (Wang2018KRABcontaining; Itokawa2009KAP1independent).
+
+These interactions highlight ZNF496's role in modulating transcriptional activities, particularly in the regulation of ERα-mediated pathways, which are critical in breast cancer cell proliferation and survival (Wang2018KRABcontaining).
+
+
+## References
+
+
+[1. (Itokawa2009KAP1independent) Yasuhide Itokawa, Toshihide Yanagawa, Hisashi Yamakawa, Naoko Watanabe, Hisashi Koga, and Takahiro Nagase. Kap1-independent transcriptional repression of scan-krab-containing zinc finger proteins. Biochemical and Biophysical Research Communications, 388(4):689–694, October 2009. URL: http://dx.doi.org/10.1016/j.bbrc.2009.08.065, doi:10.1016/j.bbrc.2009.08.065. This article has 17 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.bbrc.2009.08.065)
+
+[2. (Czerwinska2021Low) Patrycja Czerwinska and Andrzej Adam Mackiewicz. Low levels of trim28-interacting krab-znf genes associate with cancer stemness and predict poor prognosis of kidney renal clear cell carcinoma patients. Cancers, 13(19):4835, September 2021. URL: http://dx.doi.org/10.3390/cancers13194835, doi:10.3390/cancers13194835. This article has 7 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/cancers13194835)
+
+[3. (Wang2018KRABcontaining) Jinlong Wang, Xiuyuan Zhang, Jiming Ling, Yun Wang, Xiaolin Xu, Yuchen Liu, Chaozhi Jin, Jiyu Ju, Yanzhi Yuan, Fuchu He, Chunling Zhao, Jian Wang, and Chunyan Tian. Krab-containing zinc finger protein znf496 inhibits breast cancer cell proliferation by selectively repressing erα activity. Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms, 1861(9):841–853, September 2018. URL: http://dx.doi.org/10.1016/j.bbagrm.2018.07.003, doi:10.1016/j.bbagrm.2018.07.003. This article has 6 citations.](https://doi.org/10.1016/j.bbagrm.2018.07.003)
+
+[4. (Oleksiewicz2017TRIM28) Urszula Oleksiewicz, Marta Gładych, Ayush T. Raman, Holger Heyn, Elisabetta Mereu, Paula Chlebanowska, Anastazja Andrzejewska, Barbara Sozańska, Neha Samant, Katarzyna Fąk, Paulina Auguścik, Marcin Kosiński, Joanna P. Wróblewska, Katarzyna Tomczak, Katarzyna Kulcenty, Rafał Płoski, Przemysław Biecek, Manel Esteller, Parantu K. Shah, Kunal Rai, and Maciej Wiznerowicz. Trim28 and interacting krab-znfs control self-renewal of human pluripotent stem cells through epigenetic repression of pro-differentiation genes. Stem Cell Reports, 9(6):2065–2080, December 2017. URL: http://dx.doi.org/10.1016/j.stemcr.2017.10.031, doi:10.1016/j.stemcr.2017.10.031. This article has 60 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1016/j.stemcr.2017.10.031)
+
+[5. (Golik2011Differential) M. Golik, G. Glick, S. Reicher, A. Shirak, E. Ezra, Y. Zeron, E. Gootwine, M. Ron, J.I. Weller, and E. Seroussi. Differential expression of ruminant znf496 variants: association with quantitative trait locus affecting bovine milk concentration and fertility. Journal of Dairy Science, 94(4):2092–2102, April 2011. URL: http://dx.doi.org/10.3168/jds.2010-3655, doi:10.3168/jds.2010-3655. This article has 4 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.3168/jds.2010-3655)
+
+[6. (Mysliwiec2007Characterization) Matthew Robert Mysliwiec, Tae-gyun Kim, and Youngsook Lee. Characterization of zinc finger protein 496 that interacts with jumonji/jarid2. FEBS Letters, 581(14):2633–2640, May 2007. URL: http://dx.doi.org/10.1016/j.febslet.2007.05.006, doi:10.1016/j.febslet.2007.05.006. This article has 25 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.febslet.2007.05.006)

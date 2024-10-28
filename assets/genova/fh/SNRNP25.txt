@@ -1,0 +1,36 @@
+# SNRNP25
+
+## Overview
+SNRNP25 is a gene that encodes the small nuclear ribonucleoprotein U11/U12 subunit 25, a protein integral to the minor spliceosome complex. This protein is categorized as a ribonucleoprotein and plays a crucial role in the splicing of U12-dependent introns, which are essential for proper gene expression and cellular function. The SNRNP25 protein forms a heterodimer with SNRNP35, facilitating the recognition and stabilization of U11 snRNA within the spliceosome. Structurally, it contains a Ubiquitin-like domain and a PDCD7-binding domain, which are vital for its RNA-binding capabilities and interaction with other spliceosomal components. The gene has clinical significance, particularly in the context of osteosarcoma, where it is involved in a fusion gene that promotes tumor progression (Yang2014Recurrent; Zhao2023Structure).
+
+## Structure
+The SNRNP25 protein is a component of the U11 snRNP complex, part of the minor spliceosome involved in processing U12-dependent introns. Structurally, SNRNP25 forms a heterodimer with SNRNP35, which is crucial for recognizing specific RNA elements within the U11 snRNA (Zhao2023Structure). The protein contains a Ubiquitin-like domain (UBL) and an N-terminal extension known as the PDCD7-binding domain (PBD). The UBL domain closely resembles the Ubiquitin fold, with an RMSD of 1.5Å compared to PDB:1UBQ, except for an additional alpha-helix that adapts to bind RNA at the U11 SL1 and U11 SL3 interface (Zhao2023Structure).
+
+This structural adaptation is essential for its specific RNA binding function. The SNRNP25-SNRNP35 dimer forms complex interfaces with RNA elements unique to the U11 snRNA, contributing to the recognition and removal of U12-dependent introns (Zhao2023Structure). The protein's quaternary structure involves its integration into the 13-subunit U11 snRNP complex, which has an elongated, two-lobe architecture (Zhao2023Structure). The specific domains and structural features of SNRNP25 facilitate its role in the minor spliceosome pathway.
+
+## Function
+SNRNP25 is a core component of the minor spliceosomal U11 snRNP complex, which is involved in the excision of U12-dependent introns from pre-mRNAs. These introns, although rare, are crucial for cell viability. SNRNP25 forms a heterodimer with SNRNP35, and this dimer specifically recognizes U11 snRNA, playing a critical role in the recognition and stabilization of the U11 snRNA within the spliceosome complex (Zhao2023Structure). The protein contains a Ubiquitin-like domain (UBL) and an N-terminal extension known as the PDCD7-binding domain (PBD). The UBL domain is adapted to bind RNA at the U11 SL1 and U11 SL3 interface, allowing SNRNP25 to specifically recognize the unique arrangement of these RNA elements (Zhao2023Structure).
+
+SNRNP25 is active in the nucleus, where it contributes to the assembly and stability of the U11/U12 di-snRNP complex. This stable association is crucial for the cooperative binding of U11 and U12 snRNPs to target introns, facilitating the splicing process. The interaction of SNRNP25 with other components of the spliceosome ensures accurate splicing and gene regulation, which is essential for proper gene expression and cellular function (Zhao2023Structure).
+
+## Clinical Significance
+The SNRNP25 gene, as part of the LRP1-SNRNP25 fusion, has been implicated in the progression of osteosarcoma, a type of bone cancer. This fusion gene is formed by the juxtaposition of exon 8 of LRP1 with exon 2 of SNRNP25, leading to increased expression of SNRNP25 under the control of the LRP1 promoter (Yang2014Recurrent). The LRP1-SNRNP25 fusion gene has been shown to promote tumor cell motility and invasion through the activation of the pJNK/37LRP/MMP2 signaling pathway, which enhances the expression and activity of proteins involved in cell migration and invasion (Xing2024The). In vivo studies have demonstrated that overexpression of this fusion gene in osteosarcoma cells leads to increased tumor growth and metastasis, particularly to the lungs and liver (Xing2024The).
+
+The presence of the LRP1-SNRNP25 fusion gene is specific to osteosarcoma and has not been detected in other sarcoma subtypes or in normal tissues, indicating its somatic origin and potential as a therapeutic target (Yang2014Recurrent). Targeted therapies, such as inhibitors of the pJNK pathway, have shown promise in reducing the invasive capabilities of osteosarcoma cells expressing this fusion gene (Xing2024The).
+
+## Interactions
+SNRNP25 is a component of the U11/U12 di-snRNP complex, which is part of the minor spliceosome involved in the splicing of U12-type introns. It is known to form a dimer with SNRNP35, creating complex interfaces with RNA elements unique to the U11 snRNA. This interaction is crucial for the specific recognition of the minor spliceosome components amidst the more abundant major splicing factors (Zhao2023Structure). The SNRNP25-SNRNP35 dimer initiates a chain of interactions that extend to other proteins such as PDCD7, SNRNP48, and ZMAT5, ultimately affecting the 5' splice site (5'SS) binding region (Zhao2023Structure).
+
+SNRNP25 contains a Ubiquitin-like domain (UBL) and an N-terminal extension known as the PDCD7-binding domain (PBD). The UBL domain of SNRNP25 is adapted to bind RNA at the U11 SL1 and U11 SL3 interface, which is essential for the specific recognition of the unique arrangement of U11 SL1 and U11 SL3 (Zhao2023Structure). This interaction suggests that SNRNP25 may interact with nucleic acids in a manner similar to SF3A1-UBL, which directly binds the U1 snRNA via SL4 (Martelly2019Identification).
+
+
+## References
+
+
+[1. (Martelly2019Identification) William Martelly, Bernice Fellows, Kristen Senior, Tim Marlowe, and Shalini Sharma. Identification of a noncanonical rna binding domain in the u2 snrnp protein sf3a1. RNA, 25(11):1509–1521, August 2019. URL: http://dx.doi.org/10.1261/rna.072256.119, doi:10.1261/rna.072256.119. This article has 20 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.072256.119)
+
+[2. (Xing2024The) Peipei Xing, Haotian Liu, Wanyi Xiao, Gengpu Zhang, Chao Zhang, Zhichao Liao, Ting Li, and Jilong Yang. The fusion gene lrp1–snrnp25 drives invasion and migration by activating the pjnk/37lrp/mmp2 signaling pathway in osteosarcoma. Cell Death Discovery, April 2024. URL: http://dx.doi.org/10.1038/s41420-024-01962-z, doi:10.1038/s41420-024-01962-z. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.1038/s41420-024-01962-z)
+
+[3. (Yang2014Recurrent) Jilong Yang, Matti Annala, Ping Ji, Guowen Wang, Hong Zheng, David Codgell, Xiaoling Du, Zhiwei Fang, Baocun Sun, Matti Nykter, Kexin Chen, and Wei Zhang. Recurrent lrp1-snrnp25 and kcnmb4-ccnd3 fusion genes promote tumor cell motility in human osteosarcoma. Journal of Hematology &amp; Oncology, October 2014. URL: http://dx.doi.org/10.1186/s13045-014-0076-2, doi:10.1186/s13045-014-0076-2. This article has 23 citations.](https://doi.org/10.1186/s13045-014-0076-2)
+
+4. (Zhao2023Structure) Structure of the minor spliceosomal U11 snRNP. This article has 1 citations.

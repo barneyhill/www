@@ -1,0 +1,44 @@
+# UTP3
+
+## Overview
+UTP3 is a gene that encodes the UTP3 small subunit processome component, a protein integral to ribosome biogenesis. This protein is a part of the small subunit (SSU) processome, which is essential for the early stages of ribosomal RNA (rRNA) processing, particularly in the maturation of 18S rRNA. UTP3 functions as a scaffold protein, facilitating the nucleolar localization and interaction of various SSU processome components, such as MPP10, UTP25, UTP12, UTP13, and EMG1, through both RNA-dependent and RNA-independent mechanisms (Bao2024A). The protein's structure includes distinct N-terminal and C-terminal regions that mediate its interactions with other proteins and its nuclear localization (Bao2024A). Beyond its fundamental role in ribosome assembly, UTP3 has been implicated in various pathological conditions, including cancer and neurodegenerative diseases, highlighting its potential as a therapeutic target (Nan2022HCP5; Wei2021Analysis).
+
+## Structure
+The UTP3 protein is a component of the small subunit processome, playing a crucial role in ribosome biogenesis. Structurally, UTP3 is characterized by distinct regions that facilitate its interactions with other proteins. The N-terminal region of UTP3, comprising amino acids 1-319, is essential for its interaction with UTP25 and UTP13, as demonstrated by co-immunoprecipitation and GST-pull down experiments (Bao2024A). This region is critical for the nucleolar localization of these proteins, although it cannot translocate them to the nucleolus on its own, indicating the necessity of additional domains within UTP3 (Bao2024A).
+
+The C-terminal region of UTP3, spanning amino acids 320-479, contains multiple predicted Nuclear Localization Sequences (NLSs) and interacts with the nuclear transport protein KPNA3, facilitating its entry into the nucleus via the Imp α-Imp β pathway (Bao2024A). This interaction is confirmed through co-immunoprecipitation and bimolecular fluorescence complementation assays, highlighting the role of the C-terminus in nuclear and nucleolar localization (Bao2024A).
+
+While specific details about the secondary and tertiary structures of UTP3 are not provided, the use of AlphaFold for structural predictions suggests a focus on understanding its complex formation with UTP25 (Bao2024A).
+
+## Function
+UTP3 is a crucial component of the small subunit (SSU) processome, involved in the early stages of ribosome biogenesis in human cells. It plays a significant role in the processing of pre-rRNA, particularly at the A0 cleavage site, which is essential for the maturation of 18S rRNA from pre-rRNA (Bao2024A). UTP3 functions as a scaffold, facilitating the nucleolar localization of several SSU processome components, including MPP10, UTP25, UTP12, UTP13, and EMG1, by interacting with these proteins and the nuclear transport protein KPNA3 (Bao2024A). This interaction suggests that UTP3 utilizes the Imp α-Imp β pathway for nuclear translocation (Bao2024A).
+
+In addition to its role in pre-rRNA processing, UTP3 is involved in the degradation of processed 5' ETS products by recruiting the RNA exosome component EXOSC10 to the nucleolus (Bao2024A). The depletion of UTP3 in human cells leads to impaired rRNA processing and defective 30S pre-rRNA processing, highlighting its essential role in ribosome biogenesis and cellular function (Bao2024A).
+
+## Clinical Significance
+UTP3 has been implicated in several cancer types due to its role in chemoresistance and apoptosis inhibition. In esophageal squamous cell carcinoma (ESCC), UTP3 is stabilized by the long noncoding RNA HCP5, which prevents its ubiquitination-mediated degradation. This stabilization is crucial for inhibiting apoptosis and contributes to chemoresistance by activating c-Myc transcriptional activity, which in turn enhances VAMP3 expression, leading to apoptosis resistance (Nan2022HCP5). The HCP5/UTP3/c-Myc/VAMP3 axis is suggested as a predictive marker and therapeutic target in ESCC and potentially other cancers (Nan2022HCP5).
+
+In bladder cancer, mutations in UTP3 are associated with increased cell proliferation, suggesting its potential role as a cancer driver gene (Song2023Identification). UTP3 is also highlighted in osteosarcoma progression, where it is involved in ubiquitin-mediated proteolysis and ribosome pathways, indicating its potential as a therapeutic target (Liu2017Modeling).
+
+Additionally, UTP3 has been identified in the context of Parkinson's disease, where it forms part of a differentially co-expressed gene pair, although its specific role in the disease requires further investigation (Wei2021Analysis).
+
+## Interactions
+UTP3 is a component of the small subunit (SSU) processome and plays a crucial role in ribosome biogenesis through its interactions with various proteins and nucleic acids. UTP3 is involved in the nucleolar localization of several SSU processome components, including MPP10, UTP12, UTP13, UTP25, and EMG1. These interactions are primarily RNA-independent, except for EMG1, which suggests a potential RNA-dependent interaction (Bao2024A).
+
+UTP3 interacts directly with UTP25 through its N-terminal region (1-319 amino acids), which binds to the structural domains of UTP25, forming a 'groove' that clamps onto an α-helix of UTP3 (Bao2024A). This interaction is essential for the nucleolar localization of UTP25 and UTP13, as demonstrated by the failure of these proteins to localize to the nucleolus in UTP3-depleted cells (Bao2024A).
+
+UTP3 also interacts with the C-terminal region of EXOSC10, a component of the RNA exosome complex, facilitating its recruitment to the SSU processome and influencing rRNA processing and degradation (Bao2024A). These interactions highlight UTP3's role as a scaffold and mediator in the assembly and function of the SSU processome.
+
+
+## References
+
+
+[1. (Bao2024A) Jiayang Bao, Baochun Su, Zheyan Chen, Zhaoxiang Sun, Jinrong Peng, and Shuyi Zhao. A utp3-dependent nucleolar translocation pathway facilitates pre-rrna 5′ets processing. Nucleic Acids Research, 52(16):9671–9694, July 2024. URL: http://dx.doi.org/10.1093/nar/gkae631, doi:10.1093/nar/gkae631. This article has 0 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1093/nar/gkae631)
+
+2. (Nan2022HCP5) HCP5 prevents ubiquitination-mediated UTP3 degradation to inhibit apoptosis by activating c-Myc transcriptional activity. This article has 1 citations.
+
+[3. (Song2023Identification) Hongzhi Song, Chaoyi Yin, Zhuopeng Li, Ke Feng, Yangkun Cao, Yujie Gu, and Huiyan Sun. Identification of cancer driver genes by integrating multiomics data with graph neural networks. Metabolites, 13(3):339, February 2023. URL: http://dx.doi.org/10.3390/metabo13030339, doi:10.3390/metabo13030339. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/metabo13030339)
+
+[4. (Liu2017Modeling) Bin Liu, Zhi Zhang, E-Nuo Dai, Jia-Xin Tian, Jiang-Ze Xin, and Liang Xu. Modeling osteosarcoma progression by measuring the connectivity dynamics using an inference of multiple differential modules algorithm. Molecular Medicine Reports, 16(2):1047–1054, February 2017. URL: http://dx.doi.org/10.3892/mmr.2017.6703, doi:10.3892/mmr.2017.6703. This article has 5 citations and is from a peer-reviewed journal.](https://doi.org/10.3892/mmr.2017.6703)
+
+[5. (Wei2021Analysis) Li Wei, Fei He, Wen Zhang, Wenhua Chen, and Bo Yu. Analysis of master transcription factors related to parkinson’s disease through the gene transcription regulatory network. Archives of Medical Science, 17(5):1184–1190, August 2021. URL: http://dx.doi.org/10.5114/aoms.2019.89460, doi:10.5114/aoms.2019.89460. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.5114/aoms.2019.89460)

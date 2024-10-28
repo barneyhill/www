@@ -1,0 +1,52 @@
+# REM2
+
+## Overview
+REM2 is a gene that encodes the protein RRAD and GEM-like GTPase 2, a member of the RGK family of small GTPases. This protein is primarily involved in neuronal development and function, playing a crucial role in synapse formation, dendritic complexity, and intrinsic excitability. REM2 is highly expressed in the brain, particularly in regions associated with memory and learning, such as the hippocampus and basal ganglia. The protein interacts with key molecules like calmodulin, voltage-gated calcium channels, and CaMKII, influencing calcium signaling pathways essential for various cellular processes. REM2's regulatory functions extend to modulating the activity of other small GTPases, impacting actin cytoskeleton regulation and neuronal morphogenesis. Its involvement in calcium channel regulation is vital for maintaining proper neuronal and circuit function, highlighting its significance in both physiological and pathological contexts (Béguin2005Roles; Lucaci2023Evolutionary; Lucaci2024The).
+
+## Structure
+The REM2 protein, a member of the RGK family of small GTPases, exhibits a distinct molecular structure characterized by several unique features. The primary structure of REM2 includes five conserved motifs (G1-G5) essential for nucleotide binding and GTP hydrolysis, although it has critical substitutions in these motifs, such as the absence of a conserved threonine residue in switch I and a unique DXWEX motif in switch II (Reymond2012Structure). The secondary structure of the REM2 G domain is typical of the Ras superfamily, featuring a central six-stranded β-sheet flanked by five α-helices (Reymond2012Structure).
+
+The tertiary structure of REM2 reveals a G-domain fold with a classical nucleotide-binding site, where a magnesium ion is coordinated by water molecules, a phosphate oxygen atom, and the side chain of Ser129 (Reymond2012Structure). The quaternary structure of REM2 suggests it could form a dimer based on crystal interactions, although it is a monomer in solution (Reymond2012Structure).
+
+REM2 also contains unique N-terminal and C-terminal extensions, with the C-terminal region playing a crucial role in its cellular localization (FINLIN2000Rem2a). The protein lacks typical prenylation sites but contains a conserved cysteine residue near the C-terminus (FINLIN2000Rem2).
+
+## Function
+REM2, a member of the RGK family of small GTPases, plays a significant role in neuronal development and function. It is highly expressed in the brain, particularly in regions such as the hippocampus and basal ganglia, which are associated with memory and learning (Lucaci2023Evolutionary). REM2 functions as an activity-dependent regulator of synapse formation, dendritic complexity, and intrinsic excitability. It interacts with calmodulin, L-type and N-type voltage-gated calcium channels, and calmodulin-dependent protein kinase II (CaMKII), modulating the activity of other small GTPases like Rac1 and RhoA, which are important for actin cytoskeleton regulation and neuronal morphogenesis (Lucaci2024The).
+
+REM2 is involved in regulating voltage-dependent calcium channel (VDCC) activity, influencing calcium signaling pathways crucial for various cellular processes, including muscle contraction and neurotransmitter release (Béguin2005Roles). It inhibits the cell-surface expression of calcium channels by interacting with the β-subunits of VDCCs in a GTP-dependent manner (Béguin2005Roles). This regulation of calcium channel activity is essential for maintaining proper neuronal and circuit function, as REM2 stabilizes intrinsic excitability and spontaneous firing in visual circuits (Moore2018Rem2).
+
+## Clinical Significance
+Mutations and alterations in the REM2 gene have been implicated in several neurological disorders, including Huntington's disease and Long QT Syndrome. REM2 is highly expressed in the brain and plays a critical role in neuronal development and function. Mutations in REM2 can disrupt its interactions with calmodulin, voltage-gated calcium channels, and other small GTPases like Rac1 and RhoA, which are crucial for its function in synapse formation and dendritic complexity (Lucaci2023Evolutionary; Lucaci2024The).
+
+In the context of Long QT Syndrome Type 2 (LQT2), a specific variant, REM2 G96A, has been identified as a genetic modifier that exacerbates the condition's severity. This variant is associated with increased L-type calcium current (I CaL) in cardiomyocytes, contributing to prolonged action potential duration. Reverting this variant to its wild type using CRISPR/Cas9 genome editing has been shown to normalize these cellular phenotypes, highlighting the variant's role in modulating cardiac electrophysiology (Chai2018Physiological).
+
+The evolutionary analysis of REM2 also suggests that mutations at specific coevolving sites may have deleterious effects on human health, further underscoring the gene's clinical significance (Lucaci2023Evolutionary; Lucaci2024The).
+
+## Interactions
+REM2, a member of the RGK family of small GTP-binding proteins, interacts with several key proteins involved in neuronal signaling and plasticity. One of its primary interactions is with Ca2+/calmodulin-dependent protein kinase IIα (CaMKII). REM2 binds to CaMKII in a calcium/calmodulin-dependent manner, and this interaction is crucial for the co-trafficking of these proteins in neurons. This co-assembly is dependent on calcium influx through NMDA receptors, which triggers a redistribution of REM2 and CaMKII from a diffuse to a punctate pattern in neurons (Flynn2012ActivityDependent).
+
+REM2 also interacts with calmodulin (CaM) in a calcium-dependent manner. This interaction is essential for REM2's activity-dependent trafficking, particularly following NMDA receptor activation. Specific residues in REM2, such as L317, are critical for binding to CaM and facilitating REM2's redistribution in response to neuronal stimulation (Flynn2012ActivityDependent).
+
+In addition to its interactions with CaMKII and CaM, REM2 is known to interact with 14-3-3 proteins, which may influence its role in calcium channel regulation and signal transduction pathways (Flynn2012ActivityDependent). These interactions highlight REM2's role in modulating synaptic plasticity and neuronal structure.
+
+
+## References
+
+
+[1. (Flynn2012ActivityDependent) Robyn Flynn, Etienne Labrie-Dion, Nikolas Bernier, Michael A. Colicos, Paul De Koninck, and Gerald W. Zamponi. Activity-dependent subcellular cotrafficking of the small gtpase rem2 and ca2+/cam-dependent protein kinase iiα. PLoS ONE, 7(7):e41185, July 2012. URL: http://dx.doi.org/10.1371/journal.pone.0041185, doi:10.1371/journal.pone.0041185. This article has 16 citations and is from a peer-reviewed journal.](https://doi.org/10.1371/journal.pone.0041185)
+
+[2. (Moore2018Rem2) Anna R Moore, Sarah E Richards, Katelyn Kenny, Leandro Royer, Urann Chan, Kelly Flavahan, Stephen D Van Hooser, and Suzanne Paradis. Rem2 stabilizes intrinsic excitability and spontaneous firing in visual circuits. eLife, May 2018. URL: http://dx.doi.org/10.7554/elife.33092, doi:10.7554/elife.33092. This article has 17 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.7554/elife.33092)
+
+[3. (Reymond2012Structure) Philippe Reymond, Aline Coquard, Mélanie Chenon, Mahel Zeghouf, Ahmed El Marjou, Andrew Thompson, and Julie Ménétrey. Structure of the gdp-bound g domain of the rgk protein rem2. Acta Crystallographica Section F Structural Biology and Crystallization Communications, 68(6):626–631, May 2012. URL: http://dx.doi.org/10.1107/s1744309112013541, doi:10.1107/s1744309112013541. This article has 11 citations.](https://doi.org/10.1107/s1744309112013541)
+
+[4. (Béguin2005Roles) Pascal Béguin, Ramasubbu Narayanan Mahalakshmi, Kazuaki Nagashima, Damian Hwee Kiat Cher, Naomitsu Kuwamura, Yuichiro Yamada, Yutaka Seino, and Walter Hunziker. Roles of 14-3-3 and calmodulin binding in subcellular localization and function of the small g-protein rem2. Biochemical Journal, 390(1):67–75, August 2005. URL: http://dx.doi.org/10.1042/bj20050414, doi:10.1042/bj20050414. This article has 58 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj20050414)
+
+[5. (Chai2018Physiological) Sam Chai, Xiaoping Wan, Angelina Ramirez-Navarro, Paul J. Tesar, Elizabeth S. Kaufman, Eckhard Ficker, Alfred L. George, and Isabelle Deschênes. Physiological genomics identifies genetic modifiers of long qt syndrome type 2 severity. Journal of Clinical Investigation, 128(3):1043–1056, February 2018. URL: http://dx.doi.org/10.1172/jci94996, doi:10.1172/jci94996. This article has 57 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1172/jci94996)
+
+[6. (FINLIN2000Rem2a) Brian S. FINLIN, Haipeng SHAO, Keiko KADONO-OKUDA, Nan GUO, and Douglas A. ANDRES. Rem2, a new member of the rem/rad/gem/kir family of ras-related gtpases. Biochemical Journal, 347(1):223–231, March 2000. URL: http://dx.doi.org/10.1042/bj3470223, doi:10.1042/bj3470223. This article has 65 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/bj3470223)
+
+[7. (FINLIN2000Rem2) Brian S. FINLIN, Haipeng SHAO, Keiko KADONO-OKUDA, Nan GUO, and Douglas A. ANDRES. Rem2, a new member of the rem/rad/gem/kir family of ras-related gtpases. Biochemical Journal, 347(1):223, April 2000. URL: http://dx.doi.org/10.1042/0264-6021:3470223, doi:10.1042/0264-6021:3470223. This article has 25 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1042/0264-6021:3470223)
+
+8. (Lucaci2023Evolutionary) Evolutionary analysis of mammalian Rem2, a member of the RGK (Rem, Rem2, Rad, and Gem/Kir) family of small GTPases, reveals the role of selection and epistasis in shaping protein functional constraints. This article has 0 citations.
+
+[9. (Lucaci2024The) Alexander G. Lucaci, William E. Brew, Jason Lamanna, Avery Selberg, Vincenzo Carnevale, Anna R. Moore, and Sergei L. Kosakovsky Pond. The evolution of mammalian rem2: unraveling the impact of purifying selection and coevolution on protein function, and implications for human disorders. Frontiers in Bioinformatics, June 2024. URL: http://dx.doi.org/10.3389/fbinf.2024.1381540, doi:10.3389/fbinf.2024.1381540. This article has 0 citations and is from a peer-reviewed journal.](https://doi.org/10.3389/fbinf.2024.1381540)

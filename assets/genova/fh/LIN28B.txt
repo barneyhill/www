@@ -1,0 +1,56 @@
+# LIN28B
+
+## Overview
+LIN28B is a gene that encodes the lin-28 homolog B protein, a highly conserved RNA-binding protein involved in the regulation of developmental timing and cellular differentiation. The lin-28 homolog B protein is characterized by its cold-shock domain and tandem zinc-finger domains, which facilitate its interaction with specific RNA motifs. This protein plays a pivotal role in the post-transcriptional regulation of gene expression by binding to and inhibiting the maturation of let-7 microRNAs, thereby influencing cell proliferation and differentiation. LIN28B is also implicated in mRNA stabilization and translation, contributing to its functions in stem cell maintenance and pluripotency. Aberrant expression of LIN28B is associated with various cancers, where it promotes tumor progression and metastasis, making it a significant focus of research as a potential therapeutic target (Sugiura2023LIN28B; Mayr2013Mechanisms; Piskounova2011Lin28A).
+
+## Structure
+LIN28B is a protein characterized by two main RNA-binding domains: a cold-shock domain (CSD) and two tandem zinc-finger (ZnF) domains. The CSD interacts with a GNGAY motif in RNA, while the ZnF domains bind to a GGAG sequence, facilitating the repression of let-7 miRNA biogenesis (RangelGuerrero2020Structural). The zinc finger domains, specifically the zinc knuckles, are crucial for the protein's interaction with pre-let-7 miRNA, recognizing specific RNA motifs and contributing to the structural stability of the LIN28B:RNA complex (Loughlin2011Structural).
+
+The protein undergoes post-translational modifications such as phosphorylation and ubiquitination, which influence its function and stability. These modifications are essential for regulating LIN28B's activity in developmental timing and stem cell maintenance (RangelGuerrero2020Structural).
+
+LIN28B's interaction with RNA is also influenced by the secondary structure of the RNA itself. Structural modeling using SHAPE technology has shown that variations in the secondary structure of pre-let-7 RNAs affect LIN28B binding affinity, highlighting the importance of both primary sequence motifs and RNA folding in the interaction (RangelGuerrero2020Structural).
+
+## Function
+LIN28B is a highly conserved RNA-binding protein that plays a crucial role in regulating several molecular processes in human cells. It functions primarily by binding to and inhibiting the maturation of let-7 microRNAs, which are important for cell differentiation and proliferation. LIN28B achieves this by sequestering pri-let-7 in the nucleus, preventing its processing by the Microprocessor complex, and thereby reducing mature let-7 levels (Piskounova2011Lin28A). This regulation is essential for maintaining low let-7 levels in undifferentiated cells, allowing for continued cell cycle progression and oncogenesis (Mayr2013Mechanisms).
+
+In addition to its role in miRNA regulation, LIN28B is involved in mRNA stabilization and translation. It binds to target mRNAs, particularly those involved in nuclear processes, transcriptional regulation, and cell cycle control, enhancing their stability and abundance (Hafner2013Identification). LIN28B is active in both the cytoplasm and nucleus, with a significant presence in the nucleoli, where it may influence RNA processing and transport (Piskounova2011Lin28A).
+
+LIN28B's activities contribute to stem cell maintenance, pluripotency, and potentially oncogenesis, as its overexpression is linked to tumor formation and cancer progression (Mayr2013Mechanisms).
+
+## Clinical Significance
+Alterations in the expression of the LIN28B gene are implicated in various cancers, contributing to tumor progression, metastasis, and therapy resistance. In colorectal cancer (CRC), LIN28B is overexpressed in 30%-60% of patients and is associated with poor prognosis. It promotes metastasis, particularly to the liver, by regulating cell-cell junctions and enhancing the expression of claudin 1 (CLDN1) and NOTCH3, which are crucial for invasion and metastasis (Sugiura2023LIN28B). In breast cancer, LIN28B is upregulated in 15% of cases, especially in the triple-negative subtype, and is linked to distant metastasis and immune evasion (GEWALT2023The).
+
+In lung cancer, LIN28B is associated with radioresistance and increased proliferation, with its expression linked to advanced clinical stages and poor prognosis (GEWALT2023The). In prostate cancer, LIN28B contributes to the aggressive therapy-induced neuroendocrine prostate cancer subtype by suppressing let-7 miRNA, leading to cancer stem-cell-like phenotypes (GEWALT2023The). LIN28B also plays a role in chemoresistance in glioblastoma and ovarian cancer, where it is linked to reduced apoptosis and increased resistance to chemotherapy (GEWALT2023The).
+
+Overall, LIN28B's overexpression is a marker of poor clinical outcomes and is considered a potential therapeutic target and biomarker for various cancers (Jiang2016RNA-binding).
+
+## Interactions
+LIN28B is known to interact with various proteins and nucleic acids, playing a significant role in the regulation of microRNA biogenesis and mRNA stability. It directly binds to pri-let-7 microRNA, sequestering it in the nucleus and preventing its processing by the Microprocessor complex, which results in decreased levels of mature let-7 miRNA (Piskounova2011Lin28A). LIN28B does not physically interact with the protein Zcchc11 (TUT4) in vivo, although it can enhance Zcchc11 activity in vitro (Piskounova2011Lin28A).
+
+In the context of cancer, LIN28B interacts with the non-coding RNA LIN28B-AS1, which in turn interacts with the protein IGF2BP1. This interaction is crucial for the stability and expression of LIN28B mRNA, forming a regulatory network that influences lung adenocarcinoma progression (Wang2018A). LIN28B also interacts with the zinc-finger transcription factor ZNF143 in neuroblastoma, binding to active gene promoters and activating downstream target genes involved in tumorigenesis (Tao2020LIN28B).
+
+LIN28B binds to uridine-rich elements and isolated guanosines in mRNAs, affecting their stability and abundance. It shares binding characteristics with other cold shock domain-containing RNA-binding proteins, such as YBX1, and is involved in mRNA stability and translation (Hafner2013Identification).
+
+
+## References
+
+
+[1. (Hafner2013Identification) Markus Hafner, Klaas E.A. Max, Pradeep Bandaru, Pavel Morozov, Stefanie Gerstberger, Miguel Brown, Henrik Molina, and Thomas Tuschl. Identification of mrnas bound and regulated by human lin28 proteins and molecular requirements for rna recognition. RNA, 19(5):613–626, March 2013. URL: http://dx.doi.org/10.1261/rna.036491.112, doi:10.1261/rna.036491.112. This article has 143 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1261/rna.036491.112)
+
+[2. (Wang2018A) Cheng Wang, Yayun Gu, Erbao Zhang, Kai Zhang, Na Qin, Juncheng Dai, Meng Zhu, Jia Liu, Kaipeng Xie, Yue Jiang, Xuejiang Guo, Mingxi Liu, Guangfu Jin, Hongxia Ma, Tao Jiang, Rong Yin, Yankai Xia, Li Liu, Shouyu Wang, Bin Shen, Ran Huo, Lin Xu, Jiahao Sha, Bin Qu, Hongbing Shen, and Zhibin Hu. A cancer-testis non-coding rna lin28b-as1 activates driver gene lin28b by interacting with igf2bp1 in lung adenocarcinoma. Oncogene, 38(10):1611–1624, October 2018. URL: http://dx.doi.org/10.1038/s41388-018-0548-x, doi:10.1038/s41388-018-0548-x. This article has 60 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1038/s41388-018-0548-x)
+
+[3. (GEWALT2023The) TABEA GEWALT, KA-WON NOH, and LYDIA MEDER. The role of lin28b in tumor progression and metastasis in solid tumor entities. Oncology Research, 31(2):101–115, 2023. URL: http://dx.doi.org/10.32604/or.2023.028105, doi:10.32604/or.2023.028105. This article has 6 citations and is from a peer-reviewed journal.](https://doi.org/10.32604/or.2023.028105)
+
+[4. (RangelGuerrero2020Structural) Sergio Israel Rangel-Guerrero, Pablo Alberto Franco-Urquijo, Encarnación Martínez-Salas, and Luis Marat Alvarez-Salas. Structural insights of the pre-let-7 interaction with lin28b. Nucleosides, Nucleotides &amp; Nucleic Acids, pages 1–19, December 2020. URL: http://dx.doi.org/10.1080/15257770.2020.1859116, doi:10.1080/15257770.2020.1859116. This article has 2 citations.](https://doi.org/10.1080/15257770.2020.1859116)
+
+[5. (Tao2020LIN28B) Ting Tao, Hui Shi, Luca Mariani, Brian J. Abraham, Adam D. Durbin, Mark W. Zimmerman, John T. Powers, Pavlos Missios, Kenneth N. Ross, Antonio R. Perez-Atayde, Martha L. Bulyk, Richard A. Young, George Q. Daley, and A. Thomas Look. Lin28b regulates transcription and potentiates mycn-induced neuroblastoma through binding to znf143 at target gene promotors. Proceedings of the National Academy of Sciences, 117(28):16516–16526, June 2020. URL: http://dx.doi.org/10.1073/pnas.1922692117, doi:10.1073/pnas.1922692117. This article has 36 citations.](https://doi.org/10.1073/pnas.1922692117)
+
+[6. (Sugiura2023LIN28B) Kensuke Sugiura, Yasunori Masuike, Kensuke Suzuki, Alice E. Shin, Nozomu Sakai, Hisahiro Matsubara, Masayuki Otsuka, Peter A. Sims, Christopher J. Lengner, and Anil K. Rustgi. Lin28b promotes cell invasion and colorectal cancer metastasis via cldn1 and notch3. JCI Insight, July 2023. URL: http://dx.doi.org/10.1172/jci.insight.167310, doi:10.1172/jci.insight.167310. This article has 4 citations and is from a domain leading peer-reviewed journal.](https://doi.org/10.1172/jci.insight.167310)
+
+[7. (Loughlin2011Structural) Fionna E Loughlin, Luca F R Gebert, Harry Towbin, Andreas Brunschweiger, Jonathan Hall, and Frédéric H-T Allain. Structural basis of pre-let-7 mirna recognition by the zinc knuckles of pluripotency factor lin28. Nature Structural &amp; Molecular Biology, 19(1):84–89, December 2011. URL: http://dx.doi.org/10.1038/nsmb.2202, doi:10.1038/nsmb.2202. This article has 113 citations.](https://doi.org/10.1038/nsmb.2202)
+
+[8. (Mayr2013Mechanisms) Florian Mayr and Udo Heinemann. Mechanisms of lin28-mediated mirna and mrna regulation—a structural and functional perspective. International Journal of Molecular Sciences, 14(8):16532–16553, August 2013. URL: http://dx.doi.org/10.3390/ijms140816532, doi:10.3390/ijms140816532. This article has 98 citations and is from a peer-reviewed journal.](https://doi.org/10.3390/ijms140816532)
+
+[9. (Piskounova2011Lin28A) Elena Piskounova, Christos Polytarchou, James E. Thornton, Robert J. LaPierre, Charalabos Pothoulakis, John P. Hagan, Dimitrios Iliopoulos, and Richard I. Gregory. Lin28a and lin28b inhibit let-7 microrna biogenesis by distinct mechanisms. Cell, 147(5):1066–1079, November 2011. URL: http://dx.doi.org/10.1016/j.cell.2011.10.039, doi:10.1016/j.cell.2011.10.039. This article has 716 citations and is from a highest quality peer-reviewed journal.](https://doi.org/10.1016/j.cell.2011.10.039)
+
+[10. (Jiang2016RNA-binding) Shuai Jiang and David Baltimore. Rna-binding protein lin28 in cancer and immunity. Cancer Letters, 375(1):108–113, May 2016. URL: http://dx.doi.org/10.1016/j.canlet.2016.02.050, doi:10.1016/j.canlet.2016.02.050. This article has 76 citations and is from a peer-reviewed journal.](https://doi.org/10.1016/j.canlet.2016.02.050)
