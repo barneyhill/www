@@ -238,6 +238,11 @@
                 overflow-y: auto;
             }
 
+            .gene-name {
+                font-size: 40px;
+                margin-bottom: 4px;
+            }
+
             .gene-list {
                 height: auto;
                 min-height: 100%;
@@ -258,6 +263,11 @@
                 min-height: 44px;
             }
 
+            .gene-distance, .gene-similarity {
+                font-size: 30px;
+            }
+
+
             .header {
                 flex-direction: column;
                 height: auto;
@@ -268,7 +278,7 @@
 
             .title {
                 position: static;
-                font-size: 24px;
+                font-size: 40px;
                 margin-bottom: 10px;
             }
 
@@ -283,7 +293,7 @@
             }
 
             .search-text {
-                font-size: 12px;
+                font-size: 20px;
                 white-space: nowrap;
             }
 
@@ -299,7 +309,7 @@
 
             .search-input {
                 padding: 8px;
-                font-size: 14px;
+                font-size: 20px;
             }
 
             .search-button {
@@ -313,7 +323,7 @@
                 right: 10px;
                 width: auto;
                 padding: 6px 12px;
-                font-size: 14px;
+                font-size: 20px;
                 margin: 0;
             }
         }
@@ -757,7 +767,9 @@
 
     function onDragStart(event) {
         isDragging = true;
-        dragStart = { x: event.clientX, y: event.clientY };
+
+        const point = event.touches ? event.touches[0] : event;
+        dragStart = { x: point.clientX, y: point.clientY };
         lastPosition = { 
             x: geneContainer.position.x,
             y: geneContainer.position.y 
@@ -766,8 +778,10 @@
 
     function onDragMove(event) {
         if (!isDragging) return;
-        geneContainer.position.x += event.clientX - dragStart.x;
-        dragStart.x = event.clientX;
+        
+        const point = event.touches ? event.touches[0] : event;
+        geneContainer.position.x += point.clientX - dragStart.x;
+        dragStart.x = point.clientX;
 
         updateRuler();
     }
@@ -1014,17 +1028,40 @@
         container.appendChild(app.view);
         
         geneContainer = new PIXI.Container();
-        
         ruler = new PIXI.Container();
         ruler.y = 0;
         app.stage.addChild(ruler);
-        
         app.stage.addChild(geneContainer);
 
+        // Add both mouse and touch events
         app.view.addEventListener('mousedown', onDragStart);
         app.view.addEventListener('mousemove', onDragMove);
         app.view.addEventListener('mouseup', onDragEnd);
+        app.view.addEventListener('touchstart', onDragStart);
+        app.view.addEventListener('touchmove', onDragMove);
+        app.view.addEventListener('touchend', onDragEnd);
         app.view.addEventListener('wheel', onWheel);
+
+        // Gesture events with corrected zoom direction
+        app.view.addEventListener('gesturestart', (e) => {
+            e.preventDefault();
+        });
+
+        app.view.addEventListener('gesturechange', (e) => {
+            e.preventDefault();
+            const midX = e.clientX - app.view.getBoundingClientRect().left;
+            const worldPos = (midX - geneContainer.position.x) / geneContainer.scale.x;
+            
+            const dampening = 0.2;
+            // Reversed zoom direction: e.scale > 1 means pinch out (zoom out), < 1 means pinch in (zoom in)
+            const zoomFactor = e.scale;  // Scale directly affects zoom level
+            
+            geneContainer.scale.x *= Math.pow(zoomFactor, dampening);  // Apply dampened zoom
+            geneContainer.position.x = midX - worldPos * geneContainer.scale.x;
+            
+            updateTextScales();
+            updateRuler();
+        });
 
         const resizeObserver = new ResizeObserver(entries => {
             for (const entry of entries) {
@@ -1047,7 +1084,6 @@
             if (e.key === 'Enter') searchPosition();
         });
     });
-
 
     initPixiApp();
     searchPosition();
