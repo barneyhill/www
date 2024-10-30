@@ -1016,12 +1016,13 @@
 
     function initPixiApp() {
         const container = document.getElementById('gene-container');
+        const isMobile = /Android|iPhone|iPad|iPod|BlackBerry|IEMobile/i.test(navigator.userAgent);
         
         app = new PIXI.Application({
             resizeTo: container,
             backgroundColor: 0xFFFFFF,
             resolution: window.devicePixelRatio || 1,
-            antialias: false,
+            antialias: !isMobile,
             autoDensity: true,
         });
 
