@@ -1,0 +1,372 @@
+/* Base styles */
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #f0f0f0;
+}
+
+.title {
+    position: absolute;
+    left: 30px;
+    margin: 0;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.about-button {
+    position: absolute;
+    right: 40px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid #333;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Common styles */
+.search-button
+{
+    background: none;
+    color: #333;
+    border: 2px solid #333;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s;
+    border-radius: 4px;
+}
+
+.search-button:hover,
+.about-button:hover {
+    background: #333;
+    color: #f0f0f0;
+}
+
+/* Layout */
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: clamp(5px, 2vw, 20px);
+    flex-shrink: 0;
+    box-sizing: border-box;
+    height: 100px;
+    position: relative;
+}
+
+.main-container {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+    min-height: 0;
+}
+
+/* Search components */
+.search-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 16px;
+}
+
+.search-text {
+    color: #333;
+    white-space: nowrap;
+    font-size: 16px;
+}
+
+.search-input {
+    border: 2px solid #333;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.search-input:focus { outline: none; }
+.search-input::placeholder { color: #666; }
+
+#search-term { width: 300px; }
+#position { width: 150px; }
+
+.search-button {
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 16px;
+}
+
+.search-button:disabled {
+    opacity: 0.7;
+    cursor: default;
+}
+
+.search-icon {
+    width: 16px;
+    height: 16px;
+}
+
+/* Gene container */
+#gene-container { 
+    flex: 1;
+    position: relative;
+    height: 100%;
+}
+
+#gene-container canvas {
+    width: 100% !important;
+    height: 100% !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+canvas {
+    cursor: grab;
+}
+
+canvas:active {
+    cursor: grabbing;
+}
+
+/* Article panel */
+.article-panel {
+    width: 400px;
+    background-color: rgba(240, 240, 240, 0.8);
+    overflow-y: auto;
+    display: none;
+    flex-shrink: 0;
+    border-left: 1px solid #333;
+    border-top: 1px solid #333;
+    height: 100%;
+}
+
+.article-panel.visible {
+    display: block;
+}
+
+/* Gene list components */
+.gene-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.gene-item {
+    border-bottom: 1px solid #333;
+    overflow: hidden;
+}
+
+.gene-item.active { 
+    border-left: 2px solid #333;
+}
+
+.gene-header {
+    padding: 12px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.gene-header:hover {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+.gene-name {
+    font-weight: bold;
+    color: #333;
+}
+
+.gene-distance, 
+.gene-similarity { 
+    font-size: 0.9em;
+}
+
+.gene-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+}
+
+.gene-content.expanded {
+    max-height: 400px;
+    overflow-y: auto;
+    transition: max-height 0.5s ease-in;
+}
+
+.article-content {
+    padding: 0 16px 24px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.loading {
+    padding: 16px;
+    color: #333;
+    font-style: italic;
+}
+
+/* About modal */
+.about-modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+.about-modal.visible {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-content {
+    position: relative;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.close-button {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 50%;
+    transition: background-color 0.2s;
+}
+
+.close-button:hover {
+    background-color: #f0f0f0;
+}
+
+.close-button svg {
+    width: 20px;
+    height: 20px;
+    stroke: #666;
+}
+
+.about-content h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.about-content p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    color: #444;
+}
+
+.about-content .controls {
+    margin-top: 1.5rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.controls p {
+    margin: 0.5rem 0;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+#loading-icon {
+    animation: spin 1s linear infinite;
+}
+
+/* Mobile styles */
+@media (hover: none) {
+    .main-container {
+        flex-direction: column;
+    }
+
+    #gene-container {
+        height: 60vh;
+        min-height: 300px;
+    }
+
+    .article-panel {
+        width: 100%;
+        height: 40vh;
+        min-height: 200px;
+        border-left: none;
+        border-top: 2px solid #333;
+    }
+
+    .header {
+        flex-direction: column;
+        height: auto;
+        padding: 10px;
+        gap: 10px;
+    }
+
+    .title {
+        position: static;
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+
+    .search-container {
+        width: 100%;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        gap: 8px;
+        padding: 0;
+    }
+
+    .search-text {
+        font-size: 20px;
+    }
+
+    #search-term { flex: 2; }
+    #position { flex: 1; }
+
+    .search-input,
+    .search-button {
+        padding: 8px;
+        font-size: 20px;
+    }
+
+    .about-button {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        padding: 6px 12px;
+        font-size: 20px;
+        margin: 0;
+    }
+
+    .gene-name {
+        font-size: 40px;
+        margin-bottom: 4px;
+    }
+
+    .gene-distance, 
+    .gene-similarity {
+        font-size: 30px;
+    }
+
+    .gene-header {
+        min-height: 44px;
+    }
+}
