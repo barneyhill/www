@@ -291,8 +291,8 @@ function renderASO() {
     asoUpper = clip(' '.repeat(offset) + buildAso(bases, asoStart, asoEnd, hlAso));
     asoLower = connLine = empty;
 
-    // Build mRNA halves (left half needs trailing dash removed)
-    let leftHalf = " 5'---" + bases.slice(0, centerIdx).map(b => base(b, hlMrna)).join('');
+    // Build mRNA halves - left half includes the red (mutant) base
+    let leftHalf = " 5'---" + bases.slice(0, centerIdx).map(b => base(b, hlMrna)).join('') + base(bases[centerIdx], hlRed);
     leftHalf = leftHalf.replace(/-$/, '');
     let rightHalf = bases.slice(centerIdx + 1).map(b => base(b, hlMrna)).join('') + "---3'";
     const gap = ' '.repeat(offset * 2 + 4);
