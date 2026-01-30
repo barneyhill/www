@@ -115,16 +115,10 @@ h2 {
 
 .friends-grid {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
   gap: 8px;
   text-align: center;
   justify-items: center;
-}
-
-@media (min-width: 400px) {
-  .friends-grid {
-    grid-template-columns: 1fr 1fr;
-  }
 }
 
 @media (min-width: 550px) {
