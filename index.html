@@ -1,308 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Barney Hill</title>
-    
-    <style>
-        :root {
-            --background-color: #fff;
-            --text-color: #000;
-            --link-color: #0366d6;
-            --prompt-color: #4e4e4e;
-        }
-
-        h1 {
-            font-family: 'Lora', serif;
-            font-weight: 400;
-            font-size: 3em;
-        }
-
-        h2 {
-            font-family: 'Lora', serif;
-            font-weight: 400;
-            font-size: 2em;
-        }
-
-        body {
-            font-family: 'Fira Mono', monospace;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 0 1rem;
-            background: var(--background-color);
-            color: var(--text-color);
-        }
-
-        .intro {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 2rem;
-        }
-
-        .intro h1 {
-            margin: 0;
-            border: none;
-        }
-
-        .terminal-prompt {
-            color: var(--prompt-color);
-            margin: 0;
-        }
-
-        a {
-            color: var(--link-color);
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        .about ul {
-            list-style: none;
-            padding-left: 1.5rem;
-            margin: 1rem 0;
-        }
-
-        .about ul li {
-            position: relative;
-            margin-bottom: 0.5rem;
-        }
-
-        .about ul li::before {
-            content: "•";
-            position: absolute;
-            left: -1.5rem;
-            color: var(--prompt-color);
-        }
-
-        .date {
-            color: var(--prompt-color);
-            font-size: 0.9em;
-            width: 100px;
-            flex-shrink: 0;
-            margin: 0;
-            padding-top: 2px;
-        }
-
-        .history {
-            padding: 0;
-            margin: 0;
-        }
-
-        .history li {
-            list-style: none;
-            margin-bottom: 1.5rem;
-            display: flex;
-            gap: 1rem;
-        }
-
-        .history li div {
-            flex-grow: 1;
-        }
-
-        .history li div p {
-            margin: 0 0 0.5rem 0;
-        }
-
-        .history li div p:last-child {
-            margin-bottom: 0;
-        }
-
-        .project-list {
-            padding: 0;
-        }
-
-        .project-list li {
-            list-style: none;
-            margin-bottom: 1rem;
-        }
-
-        .project-title {
-            margin-bottom: 0.2rem;
-        }
-
-        .project-description {
-            color: var(--prompt-color);
-            font-size: 0.9em;
-        }
-
-        .icons {
-            display: flex;
-            gap: 1rem;
-        }
-
-        .icons a {
-            color: var(--text-color);
-            font-size: 1.2rem;
-            transition: color 0.2s;
-        }
-
-        .icons a:hover {
-            color: var(--link-color);
-            text-decoration: none;
-        }
-
-        h1, h2 {
-            border-bottom: 1px solid #eaecef;
-            padding-bottom: 0.3em;
-        }
-
-        .footer {
-            margin-top: 2rem;
-            font-size: 0.8em;
-            color: var(--prompt-color);
-        }
-
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --background-color: #1d1f21;
-                --text-color: #c5c8c6;
-                --link-color: #81a2be;
-                --prompt-color: #969896;
-            }
-        }
-    </style>
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Mono&family=Lora:wght@400&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Barney Hill</title>
+  <link rel="stylesheet" href="style.css">
 </head>
-<body class="terminal">
-    <div class="container">
-        <section class="intro">
-            <h1>Barney Hill</h1>
-            <div class="icons">
-                <a href="https://twitter.com/_barneyhill"><i class="fa-brands fa-x-twitter"></i></a>
-                <a href="https://github.com/barneyhill"><i class="fa-brands fa-github"></i></a>
-                <a href="mailto:barney.hill@merton.ox.ac.uk"><i class="fa-solid fa-envelope"></i></a>
-            </div>
-        </section>
+<body>
+  <nav>
+    [<a href="https://github.com/barneyhill">github</a>]
+    [<a href="https://x.com/_barneyhill">x</a>]
+    [<a href="mailto:barney.hill@merton.ox.ac.uk">email</a>]
+  </nav>
 
-        <section class="about">
-            <p>
-                Currently based at Merton College, figuring out what to study for my DPhil. Here's some things I'm thinking about:
-                <ul>
-                  <li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2035790">Approximately 80% of rare disease cases are expected to have a genetic cause yet only ~40% receive a causal diagnosis.</a> What are some genetic causes of rare disease which would be both recurrent but hard to identify with linear association? How can we identify these patterns?</li>
-                  <li>A <a href="https://www.biorxiv.org/content/10.1101/2024.06.12.593113v1.full.pdf">recent paper</a> identified a genetic disease that did not manifest in East Asian individuals due to a second rescuing population variant. Is it possible there are undiscovered genetic diseases caused by the presence of two interacting variants? How might we prioritise likely damaging variant combinations to minimise multiple-testing correction?</li>
-                  <li><a href="https://academic.oup.com/genetics/article/228/1/iyae100/7714980">Ancestral Recombination Graphs (ARGs)</a> are highly effective for modelling genetic variation in populations yet their inference in large biobanks remains challenging. Could we reframe ARG inference as a differentiable optimisation problem to be massively parallelised on GPUs?</li>
-                  <li><a href="https://www.gov.uk/government/news/mhra-authorises-world-first-gene-therapy-that-aims-to-cure-sickle-cell-disease-and-transfusion-dependent-thalassemia">The MHRA has approved the first CRISPR-Cas9 gene editing therapy.</a> <a href="https://www.nature.com/articles/s41588-022-01257-y">Despite this concerns remain about off-target editing which may be specific to individual's genetic variation.</a> Could we build a cost-effective method to evaluate off-target effects for every patient before dosage?</li>
-                </ul>
-                If you've thought about any of these problems please do reach out!
-            </p>
-        </section>
+  <p>My name is <strong class="name">Barney Hill</strong>.</p>
+  <p>I am focused on making genetic medicines accessible for the 300M individuals with a disease-causing <span class="mutation">mutation</span> in one of their <span class="mrna">genes</span>.</p>
 
-        <section class="work">
-            <h2>where i've worked</h2>
+  <pre id="rna"></pre>
 
-            <ul class="history">
-                <li>
-                    <p class="date">2024 - </p>
-                    <div>
-                        <p class="terminal-prompt">Wellcome Genomic Medicine & Statistics DPhil Student</p>
-                        <p><a href="https://www.chg.ox.ac.uk/study/gms/">Centre for Human Genetics</a></p>
-                        <p>University of Oxford</p>
-                    </div>
-                </li>
+  <p>My thesis is based on the belief that as RNA therapeutics are the simplest form of drug we have, they should be the simplest to model.</p>
 
-                <li>
-                    <p class="date">2022 - 2024</p>
-                    <div>
-                        <p class="terminal-prompt">Research Assistant</p>
-                        <p><a href="https://www.bdi.ox.ac.uk/">Big Data Institute</a></p>
-                        <p>Lindgren Group, University of Oxford</p>
-                    </div>
-                </li>
+<p>In the first year of my DPhil, I showed that we can reduce the initial screening burden of <span class="aso">antisense oligonucleotides</span> with an accurate model of how effectively they cleave <span class="mrna">genes</span> in cells (see: <a href="https://www.biorxiv.org/content/10.1101/2025.10.29.685292v1.abstract"><em>Accurately modelling RNase H-mediated antisense oligonucleotide efficacy</em></a>).</p>
+  <pre id="aso"></pre>
 
-                <li>
-                    <p class="date">2019 - 2022</p>
-                    <div>
-                        <p class="terminal-prompt">BSc Mathematics (1st)</p>
-                        <p>Dissertation: "RNA Velocity"</p>
-                        <p>University of Leeds</p>
-                    </div>
-                </li>
+  <p>I am now working on a unified <span class="aso">antisense oligonucleotide</span> model to predict outcomes across the entire preclinical pipeline, with the goal of substantially reducing preclinical development costs.</p>
 
-                <li>
-                    <p class="date">summer 2021</p>
-                    <div>
-                        <p class="terminal-prompt">Research Intern</p>
-                        <p><a href="https://www.neurogenomics.co.uk/">Neurogenomics Lab</a></p>
-                        <p>Imperial College London</p>
-                    </div>
-                </li>
+  <p>I also help run <em>In Silico</em>, a biomolecular design meet-up in London [<a href="https://lu.ma/dw9ijcrm">#001</a>, <a href="https://lu.ma/txswapqo">#002</a>, <a href="https://lu.ma/ktxftvdl">#003</a>]. If you are working in this space, <a href="mailto:barney.hill@merton.ox.ac.uk?body=I%20would%20love%20to%20meet">I would love to meet</a>.</p>
 
-                <li>
-                    <p class="date">summer 2020</p>
-                    <div>
-                        <p class="terminal-prompt">Research Intern</p>
-                        <p><a href="https://github.com/equadratures/equadratures">equadratures.org</a></p>
-                        <p><a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a></p>
-                    </div>
-                </li>
-            </ul>
-        </section>
+  <hr>
+  <p><strong>Side projects</strong></p>
+  <ul class="project-list">
+    <li>
+      <div>
+        <p class="project-title"><a href="https://www.sitlabs.org/genorxiv/">genoRxiv</a></p>
+        <p class="project-description">Mapping scientific literature on the genome.</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <p class="project-title"><a href="/pages/genomie/">Genomie!</a></p>
+        <p class="project-description">A genome browser you can talk to.</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <p class="project-title"><a href="/pages/epitome/">epitomē</a></p>
+        <p class="project-description">A semantic search engine for ancient text.</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <p class="project-title"><a href="/pages/fieldstar/">Field*</a></p>
+        <p class="project-description">A UMAP of music.</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <p class="project-title"><a href="https://github.com/vroomai/live">Vroom Live</a></p>
+        <p class="project-description">Chat with your Ableton Live session.</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <p class="project-title"><a href="/pages/nts-tracklists">NTS Tracklists</a></p>
+        <p class="project-description">Browse nts.live tracklists linked by common tracks.</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <p class="project-title"><a href="https://github.com/vroomai/vst">Vroom VST</a></p>
+        <p class="project-description">Generate sounds from words. Directly in your DAW.</p>
+      </div>
+    </li>
+    <li>
+      <div>
+        <p class="project-title"><a href="https://github.com/barneyhill/minBERT">minBERT</a></p>
+        <p class="project-description">A minimal implementation of the BERT LLM model.</p>
+      </div>
+    </li>
+  </ul>
 
-        <section class="projects">
-            <h2>what i've made</h2>
+  <hr>
+  <p><strong>Friends list</strong></p>
+  <div class="friends-grid">
+    <a href="https://montyanderson.net">Monty</a>
+    <a href="https://libertynadin.com">Liberty</a>
+    <a href="https://ninagonzalezpark.com">Nina</a>
+    <a href="https://fleetwood.dev">Chris</a>
+    <a href="https://jakublala.github.io">Jakub</a>
+    <a href="https://yuyangcyy.wordpress.com">Yuyang</a>
+    <a href="https://kindredsalway.com">Kindred</a>
+    <a href="https://oliverredman.com/">Oliver</a>
+  </div>
 
-            <ul class="project-list">
-                <li>
-                    <div>
-                        <p class="project-title"><a href="https://www.sitlabs.org/genorxiv/">genoRxiv</a></p>
-                        <p class="project-description">Mapping scientific literature on the genome.</p>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <p class="project-title"><a href="https://www.barneyhill.com/pages/genomie/">Genomie!</a></p>
-                        <p class="project-description">A genome browser you can talk to.</p>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <p class="project-title"><a href="https://www.barneyhill.com/pages/epitome/">epitomē</a></p>
-                        <p class="project-description">A semantic search engine for ancient text.</p>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <p class="project-title"><a href="https://www.barneyhill.com/pages/fieldstar/">Field*</a></p>
-                        <p class="project-description">A UMAP of music.</p>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <p class="project-title"><a href="https://github.com/vroomai/live">Vroom Live</a></p>
-                        <p class="project-description">Chat with your Ableton Live session.</p>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <p class="project-title"><a href="https://www.barneyhill.com/pages/nts-tracklists">NTS Tracklists</a></p>
-                        <p class="project-description">Browse nts.live tracklists linked by common tracks.</p>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <p class="project-title"><a href="https://github.com/vroomai/vst">Vroom VST</a></p>
-                        <p class="project-description">Generate sounds from words. Directly in your DAW.</p>
-                    </div>
-                </li>
-                <li>
-                    <div>
-                        <p class="project-title"><a href="https://github.com/barneyhill/minBERT">minBERT</a></p>
-                        <p class="project-description">A minimal implementation of the BERT LLM model.</p>
-                    </div>
-                </li>
-            </ul>
-        </section>
-
-        <div class="footer">
-            (c) last updated 2024.
-        </div>
-    </div>
+  <script src="script.js"></script>
 </body>
 </html>

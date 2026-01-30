@@ -1,0 +1,135 @@
+body {
+  font-family: serif;
+  font-size: 18px;
+  line-height: 1.5;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+nav {
+  margin-bottom: 40px;
+  text-align: center;
+  word-spacing: 1em;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+a {
+  color: #0066ff;
+}
+
+a:visited {
+  color: #9933ff;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: normal;
+}
+
+p {
+  margin: 24px 0;
+}
+
+.name {
+}
+
+.mutation {
+  color: #ff3333;
+}
+
+.red {
+  color: #ff3333;
+}
+
+.aso {
+  color: #00aa55;
+}
+
+.mrna {
+  color: #e6a700;
+}
+
+.aso.highlight,
+.red.highlight,
+.mutation.highlight,
+.mrna.highlight {
+  text-decoration: underline;
+  text-shadow: 0 0 0.5px currentColor, 0 0 0.5px currentColor;
+}
+
+#rna {
+  margin: 32px 0;
+  font-family: monospace;
+  font-size: 14px;
+  color: #666;
+  display: inline-block;
+  text-align: left;
+}
+
+#aso {
+  margin: 32px 0;
+  font-family: monospace;
+  font-size: 14px;
+  color: #666;
+  display: inline-block;
+  text-align: left;
+  height: 6em;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 48px;
+}
+
+.project-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.project-list li {
+  margin-bottom: 16px;
+}
+
+.project-list p {
+  margin: 0;
+}
+
+.project-title {
+  font-weight: bold;
+}
+
+.project-description {
+  color: #666;
+}
+
+.friends-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+  text-align: center;
+  justify-items: center;
+}
+
+@media (min-width: 400px) {
+  .friends-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 550px) {
+  .friends-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
