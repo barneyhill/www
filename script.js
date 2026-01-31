@@ -311,11 +311,15 @@ setInterval(renderASO, 120);
 render();
 renderASO();
 
+let lastWidth = window.innerWidth;
 window.addEventListener('resize', () => {
-  calculateBases();
-  asoFrame = 0;
-  render();
-  renderASO();
+  if (window.innerWidth !== lastWidth) {
+    lastWidth = window.innerWidth;
+    calculateBases();
+    asoFrame = 0;
+    render();
+    renderASO();
+  }
 });
 
 document.addEventListener('mousemove', (e) => {
